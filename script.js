@@ -1,8 +1,9 @@
-const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
+const RSS_PROXY = "https://api.codetabs.com/v1/proxy/?quest=";
 const FX_API = "https://api.frankfurter.dev/v1/latest?base=USD&symbols=CNY,CAD";
 const GOLD_API = "https://api.gold-api.com/price/XAU";
 const BTC_API = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd";
 const LANGUAGE_STORAGE_KEY = "world-window-language";
+const AUTO_REFRESH_MS = 15 * 60 * 1000;
 
 const NEWS_SECTIONS = [
   {
@@ -73,6 +74,7 @@ const TORONTO_SCENERY_FALLBACK = "./assets/toronto-skyline.svg";
 const translations = {
   en: {
     pageTitle: "World Window",
+    siteName: "World Window",
     sceneryAlt: "Toronto skyline photo",
     htmlLang: "en",
     toggleLabel: "中文",
@@ -95,6 +97,7 @@ const translations = {
       "I split the news into a few focused lanes so you can check world events and AI updates without everything mixing together.",
     worldTag: "World",
     worldTitle: "Global headlines",
+    aiTag: "AI",
     aiTitle: "Artificial intelligence",
     businessTag: "Business",
     businessTitle: "Markets and economy",
@@ -114,6 +117,7 @@ const translations = {
     marketNote:
       "FX uses a public exchange-rate API. Gold and Bitcoin use public market APIs. Major indexes are embedded through a live market widget for broader coverage.",
     loadingSections: "Loading sections...",
+    autoRefresh: "Auto-refresh every 15 min",
     feedsUnavailable: "Feeds unavailable",
     storiesAcross: (stories, sections) => `${stories} stories across ${sections} sections`,
     loadingSection: (label) => `Loading ${label.toLowerCase()} news...`,
@@ -150,6 +154,7 @@ const translations = {
   },
   zh: {
     pageTitle: "世界之窗",
+    siteName: "世界之窗",
     sceneryAlt: "多伦多天际线照片",
     htmlLang: "zh-CN",
     toggleLabel: "EN",
@@ -170,6 +175,7 @@ const translations = {
     sectionIntro: "我把新闻拆成几个栏目，这样你可以更快地区分世界新闻、AI、商业和科学。",
     worldTag: "世界",
     worldTitle: "全球头条",
+    aiTag: "AI",
     aiTitle: "人工智能",
     businessTag: "商业",
     businessTitle: "市场与经济",
@@ -188,6 +194,7 @@ const translations = {
     benchmarksTitle: "主要指数",
     marketNote: "汇率使用公开外汇接口，黄金和比特币使用公开市场接口。主要指数通过实时行情组件展示。",
     loadingSections: "正在加载栏目...",
+    autoRefresh: "每 15 分钟自动刷新",
     feedsUnavailable: "新闻源暂时不可用",
     storiesAcross: (stories, sections) => `${sections} 个栏目，共 ${stories} 条新闻`,
     loadingSection: (label) => `正在加载${label}新闻...`,
@@ -344,24 +351,30 @@ function formatCurrency(value, fractionDigits = 2) {
 }
 
 async function fetchFeed(feed) {
-  const response = await fetch(`${RSS_PROXY}${encodeURIComponent(feed.url)}`);
+  const response = await fetch(`${RSS_PROXY}${encodeURIComponent(feed.url)}`, {
+    cache: "no-store",
+  });
   if (!response.ok) {
     throw new Error(`Feed request failed: ${feed.name}`);
   }
 
-  const data = await response.json();
-  if (!Array.isArray(data.items)) {
-    throw new Error(`Malformed feed data: ${feed.name}`);
+  const xmlText = await response.text();
+  const xml = new DOMParser().parseFromString(xmlText, "text/xml");
+  const parseError = xml.querySelector("parsererror");
+  if (parseError) {
+    throw new Error(`Malformed feed XML: ${feed.name}`);
   }
 
-  return data.items.slice(0, 6).map((item) => ({
+  const items = Array.from(xml.querySelectorAll("item"));
+
+  return items.slice(0, 6).map((item) => ({
     source: feed.name,
-    title: sanitizeHtml(item.title),
+    title: sanitizeHtml(item.querySelector("title")?.textContent || ""),
     description: stripTrailingText(
-      sanitizeHtml(item.description || item.content || "Open the article for details.")
+      sanitizeHtml(item.querySelector("description")?.textContent || "Open the article for details.")
     ),
-    link: item.link,
-    pubDate: item.pubDate || new Date().toISOString(),
+    link: item.querySelector("link")?.textContent || "#",
+    pubDate: item.querySelector("pubDate")?.textContent || new Date().toISOString(),
   }));
 }
 
@@ -405,7 +418,7 @@ async function loadNewsBoard() {
     return;
   }
 
-  newsStatus.textContent = t("storiesAcross")(totalStories, activeSections);
+  newsStatus.textContent = `${t("storiesAcross")(totalStories, activeSections)} • ${t("autoRefresh")}`;
   lastUpdatedDate = new Date();
   lastUpdated.textContent = new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
     dateStyle: "medium",
@@ -569,6 +582,17 @@ function applyLanguage(refreshData = false) {
   }
 }
 
+function startAutoRefresh() {
+  window.setInterval(() => {
+    loadNewsBoard().catch(() => {
+      newsStatus.textContent = t("refreshFailed");
+    });
+    loadMarketBoard().catch(() => {
+      marketStatus.textContent = t("refreshFailed");
+    });
+  }, AUTO_REFRESH_MS);
+}
+
 refreshButton.addEventListener("click", () => {
   Promise.allSettled([loadNewsBoard(), loadMarketBoard()]).then((results) => {
     if (results[0].status === "rejected") {
@@ -593,3 +617,4 @@ loadNewsBoard().catch(() => {
 loadMarketBoard().catch(() => {
   marketStatus.textContent = t("refreshFailed");
 });
+startAutoRefresh();
