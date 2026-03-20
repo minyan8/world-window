@@ -67,12 +67,13 @@ const NEWS_SECTIONS = [
   },
 ];
 
-const TORONTO_SCENERY_IMAGE = "./assets/toronto-skyline.svg";
+const TORONTO_SCENERY_IMAGE = "./assets/toronto-skyline-real.jpg";
+const TORONTO_SCENERY_FALLBACK = "./assets/toronto-skyline.svg";
 
 const translations = {
   en: {
     pageTitle: "World Window",
-    sceneryAlt: "Toronto skyline artwork",
+    sceneryAlt: "Toronto skyline photo",
     htmlLang: "en",
     toggleLabel: "中文",
     brandEyebrow: "Daily global brief",
@@ -150,7 +151,7 @@ const translations = {
   },
   zh: {
     pageTitle: "世界之窗",
-    sceneryAlt: "多伦多天际线插画",
+    sceneryAlt: "多伦多天际线照片",
     htmlLang: "zh-CN",
     toggleLabel: "EN",
     brandEyebrow: "每日全球简报",
@@ -539,7 +540,7 @@ function loadScenery() {
 }
 
 sceneryImage.addEventListener("error", () => {
-  sceneryImage.src = TORONTO_SCENERY_IMAGE;
+  sceneryImage.src = TORONTO_SCENERY_FALLBACK;
   sceneryTitle.textContent = t("sceneryTitle");
   sceneryDescription.textContent = t("sceneryDescription");
 });
