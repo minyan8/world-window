@@ -71,6 +71,8 @@ const TORONTO_SCENERY_IMAGE = "./assets/toronto-skyline.svg";
 
 const translations = {
   en: {
+    pageTitle: "World Window",
+    sceneryAlt: "Toronto skyline artwork",
     htmlLang: "en",
     toggleLabel: "中文",
     brandEyebrow: "Daily global brief",
@@ -132,8 +134,23 @@ const translations = {
       business: "Business",
       science: "Science",
     },
+    sourceNames: {
+      "BBC World": "BBC World",
+      "Reuters World": "Reuters World",
+      "AP News": "AP News",
+      "Al Jazeera": "Al Jazeera",
+      "Google News AI": "Google News AI",
+      "Google News LLM": "Google News LLM",
+      "Google News OpenAI": "Google News OpenAI",
+      "Reuters Business": "Reuters Business",
+      "Google News Markets": "Google News Markets",
+      "Google News Science": "Google News Science",
+      ScienceDaily: "ScienceDaily",
+    },
   },
   zh: {
+    pageTitle: "世界之窗",
+    sceneryAlt: "多伦多天际线插画",
     htmlLang: "zh-CN",
     toggleLabel: "EN",
     brandEyebrow: "每日全球简报",
@@ -190,6 +207,19 @@ const translations = {
       ai: "AI",
       business: "商业",
       science: "科学",
+    },
+    sourceNames: {
+      "BBC World": "BBC 世界",
+      "Reuters World": "路透世界",
+      "AP News": "美联社",
+      "Al Jazeera": "半岛电视台",
+      "Google News AI": "Google AI 新闻",
+      "Google News LLM": "Google 大模型新闻",
+      "Google News OpenAI": "Google OpenAI 新闻",
+      "Reuters Business": "路透商业",
+      "Google News Markets": "Google 市场新闻",
+      "Google News Science": "Google 科学新闻",
+      ScienceDaily: "每日科学",
     },
   },
 };
@@ -264,7 +294,9 @@ function getSectionStatus(sectionKey) {
 
 function setStaticTranslations() {
   document.documentElement.lang = t("htmlLang");
+  document.title = t("pageTitle");
   languageToggle.textContent = t("toggleLabel");
+  sceneryImage.alt = t("sceneryAlt");
 
   document.querySelectorAll("[data-i18n]").forEach((node) => {
     const key = node.dataset.i18n;
@@ -275,13 +307,17 @@ function setStaticTranslations() {
   });
 }
 
+function translateSourceName(name) {
+  return translations[currentLanguage].sourceNames[name] || name;
+}
+
 function renderSection(section, items) {
   const grid = getSectionGrid(section.key);
   grid.innerHTML = "";
 
   items.forEach((item) => {
     const node = newsCardTemplate.content.firstElementChild.cloneNode(true);
-    node.querySelector(".news-source").textContent = item.source;
+    node.querySelector(".news-source").textContent = translateSourceName(item.source);
     node.querySelector(".news-title").textContent = item.title;
     node.querySelector(".news-snippet").textContent = item.description;
     node.querySelector(".news-time").textContent = relativeTime(item.pubDate);
@@ -303,6 +339,7 @@ function formatCurrency(value, fractionDigits = 2) {
     style: "currency",
     currency: "USD",
     maximumFractionDigits: fractionDigits,
+    minimumFractionDigits: fractionDigits,
   }).format(value);
 }
 
@@ -426,7 +463,7 @@ async function loadMarketBoard() {
       goldResult.value?.price ??
       goldResult.value?.price_gram_24k ??
       goldResult.value?.priceGram24k;
-    marketTickers.gold.textContent = goldPrice ? formatCurrency(goldPrice) : "--";
+    marketTickers.gold.textContent = goldPrice ? formatCurrency(goldPrice, goldPrice >= 1000 ? 0 : 2) : "--";
     if (goldPrice) {
       successCount += 1;
     }
