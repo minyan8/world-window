@@ -1,10 +1,270 @@
 {
   "provider": "gnews",
-  "fetchedAt": null,
+  "fetchedAt": "2026-03-20T19:21:23.169Z",
   "sections": {
-    "world": [],
-    "ai": [],
-    "business": [],
-    "science": []
+    "world": [
+      {
+        "title": "Inquest to be held into death of boxing champion Ricky Hatton",
+        "description": "An inquest into the death of former world boxing champion Ricky Hatton will be held later on Friday.",
+        "url": "https://www.independent.ie/world-news/britain/inquest-to-be-held-into-death-of-boxing-champion-ricky-hatton/a194823486.html",
+        "image": "https://focus.independent.ie/thumbor/u6cnk3_ESBNU7rlUnOuff8hZ3h8=/0x33:5032x3387/629x0/prod-mh-ireland/bc2f469e-2569-45d2-be4a-8bf64dc9eb79/9e32ca78-4c31-4355-96d5-b02e4d26b009/bc2f469e-2569-45d2-be4a-8bf64dc9eb79.jpg",
+        "publishedAt": "2026-03-20T07:20:11Z",
+        "source": "The Irish Independent"
+      },
+      {
+        "title": "Aircraft Winglet Retrofit Kits for Narrow-Body Fleets Market Size, Share & Forecast to 2036",
+        "description": "Explore the global Aircraft Winglet Retrofit Kits for Narrow-Body Fleets market with expert analysis on growth drivers, trends, key insights, and forecast outlook to 2036.",
+        "url": "https://www.futuremarketinsights.com/reports/aircraft-winglet-retrofit-kits-for-narrow-body-fleets-market",
+        "image": "https://www.futuremarketinsights.com/report-images/image/aircraft-winglet-retrofit-kits-for-narrow-body-fleets-market-market-value-analysis.webp",
+        "publishedAt": "2026-03-20T07:19:48Z",
+        "source": "Future Market Insights"
+      },
+      {
+        "title": "Live - Iran's military threatens to hunt down US and Israeli officials, even those on holiday",
+        "description": "It comes after Iran’s supreme leader Ayatollah Mojtaba Khamenei called for the “security” of all enemy countries to be taken away.",
+        "url": "https://www.euronews.com/2026/03/20/israel-strikes-tehran-as-iran-continues-targeting-energy-infrastructure-across-gulf",
+        "image": "https://images.euronews.com/articles/stories/09/69/12/32/1200x675_cmsv2_9a6187ca-e04e-5200-9936-3c55f1707901-9691232.jpg",
+        "publishedAt": "2026-03-20T07:17:12Z",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "Saudi Arabia, Egypt sign deal to waive short-stay visas for official passport holders",
+        "description": "Middle East News: Saudi Arabia and Egypt have signed a pivotal agreement to waive short-stay visa requirements for holders of official passports, enhancing diplomatic travel and cooperation between the two nations.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-egypt-sign-deal-to-waive-short-stay-visas-for-official-passport-holders/articleshow/129694447.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129694803,width-1280,height-720,imgsize-1052199,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-20T07:17:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "‘Targeting of commercial shipping unacceptable’: India's message amid Strait of Hormuz blockade, Iran-US war",
+        "description": "India emphasised freedom of navigation and the safety of all seafarers and expressed concern over the blockade of routes along the Strait of Hormuz.| India News",
+        "url": "https://www.hindustantimes.com/india-news/targeting-commercial-shipping-unacceptable-indias-big-message-amid-strait-of-hormuz-blockade-iran-us-war-101773988551830.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/20/550x309/IRAN-CRISIS-LPG-INDIA-0_1773990511158_1773990539554.JPG",
+        "publishedAt": "2026-03-20T07:13:36Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "US hints at easing Iran oil curbs - what it means for India",
+        "description": "India was a major buyer of Iranian crude, peaking at about 11.5% of its total purchase, before 2018 sanctions tightened.",
+        "url": "https://www.bbc.com/news/articles/c6243nkg1w3o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/94b9/live/0618d8b0-2419-11f1-8144-93249bfb3df2.jpg",
+        "publishedAt": "2026-03-20T07:12:57Z",
+        "source": "BBC"
+      },
+      {
+        "title": "US hints at easing Iran oil curbs - what it means for India",
+        "description": "India was a major buyer of Iranian crude, peaking at about 11.5% of its total purchase, before 2018 sanctions tightened.",
+        "url": "https://www.bbc.co.uk/news/articles/c6243nkg1w3o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94b9/live/0618d8b0-2419-11f1-8144-93249bfb3df2.jpg",
+        "publishedAt": "2026-03-20T07:12:57Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Israel launches more attacks on Iran as crisis deepens",
+        "description": "It comes after President Donald Trump told it not to repeat its strikes on Iranian natural gas infrastructure, which sharply escalated the US-Israeli war on Iran.",
+        "url": "https://www.rnz.co.nz/news/world/590223/israel-launches-more-attacks-on-iran-as-crisis-deepens",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--QUREVYHi--/t_tohu-badge-facebook/v1773989997/4JRGHW7_AFP__20260318__nikoubazl_usisrael260315_npubZ__v1__HighRes__USIsraeliMilitaryCampaig_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-03-20T07:12:48Z",
+        "source": "RNZ"
+      }
+    ],
+    "business": [
+      {
+        "title": "VinFast Risks North Carolina Clawback of US EV Plant Incentives",
+        "description": "Pressure is mounting on VinFast Auto Ltd. after two US officials reminded the Vietnamese EV maker of its obligations under a four-year-old deal to build a mammoth plant in North Carolina.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-20/vinfast-risks-north-carolina-clawback-of-us-ev-plant-incentives",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if6ybByMN5BU/v0/1200x800.jpg",
+        "publishedAt": "2026-03-20T07:19:41Z",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "World Gold Council launches digital gold platform",
+        "description": "THE World Gold Council said on Thursday it plans to build a digital platform aimed at improving trade in gold. The initiative, which is in cooperation with the Boston Consulting Group, will improve the way gold is traded by connecting the physical custody of the metal with a digital trading system. In standardising tradig processes […]",
+        "url": "https://www.miningmx.com/trending/64773-world-gold-council-launches-digital-gold-platform/",
+        "image": "https://www.miningmx.com/wp-content/uploads/2023/01/GettyImages-1209084379-scaled-e1672916999635.jpg",
+        "publishedAt": "2026-03-20T07:18:32Z",
+        "source": "Miningmx"
+      },
+      {
+        "title": "Warning jump in UK borrowing makes energy bill help harder",
+        "description": "Economists say UK government finances are in a worse position than before the government's last energy support package in 2022.",
+        "url": "https://www.bbc.co.uk/news/articles/cx23yn735jdo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b87/live/5e73ae30-244c-11f1-934f-036468834728.jpg",
+        "publishedAt": "2026-03-20T07:18:29Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Government borrowing unexpectedly jumps in February",
+        "description": "The ONS said an increase in government tax receipts was outweighed by a rise in spending.",
+        "url": "https://www.bbc.com/news/articles/cx23yn735jdo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9257/live/14e52800-23ae-11f1-9a4e-e13728524fa3.jpg",
+        "publishedAt": "2026-03-20T07:18:29Z",
+        "source": "BBC"
+      },
+      {
+        "title": "The £100 contactless payment limit scrapped - will your bank switch off the cap?",
+        "description": "Banks can now set their onwn contactless payment limits for customers from today March 19 under new plans from financial watchdog the Financial Conduct Authority (FCA).",
+        "url": "https://www.thisismoney.co.uk/money/saving/article-15657939/The-100-contactless-payment-limit-scrapped-today-bank-switch-cap.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/03/18/14/107234693-0-image-a-8_1773845295754.jpg",
+        "publishedAt": "2026-03-20T07:18:00Z",
+        "source": "This is Money"
+      },
+      {
+        "title": "2026 Yili Online Tour Kick-off: Global Recruitment for \"Yili Quality Ambassadors\" Now Open!",
+        "description": "BEIJING, March 20, 2026 /PRNewswire/ -- Yili Group, a global leader in the dairy industry, announces the upcoming start of the '2026 Yili Online Tour' and officially launches a global recruitment campaign for 'Yili Quality Ambassadors.' Yili invites enthusiasts worldwide to join a journey to 'Taste the world with Yili,' turning their lenses and taste buds toward Thailand, Indonesia, Singapore, the Netherlands, and New Zealand to explore diverse flavors and cultures.",
+        "url": "https://www.manilatimes.net/2026/03/20/tmt-newswire/pr-newswire/2026-yili-online-tour-kick-off-global-recruitment-for-yili-quality-ambassadors-now-open/2304267",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/20/981181.jpg",
+        "publishedAt": "2026-03-20T07:17:27Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Ribo expands beyond the liver with RiboPepSTAR™ - enabling targeted siRNA delivery to multiple organs",
+        "description": "**media[981178]**SUZHOU, China and MÖLNDAL, Sweden, March 20, 2026 /PRNewswire/ -- Suzhou Ribo Life Science Co., Ltd.  ('Ribo' or 'the Company', Hong Kong Stock Exchange code: 6938) had been invited to give a speech at the RNA Leaders Europe Conference in Vienna, Austria on March 19th, one of the top oligonucleotide conferences.  Following the success of RiboGalSTAR™, which has supported seven clinical programs and major global partnerships valued over USD 6 billion, Ribo is now advancing its extra hepatic and multi-target platforms. The proprietary RiboPepSTAR™ technology enables precise siRNA delivery to key organs beyond the liver, with promising preclinical data across several tissues.",
+        "url": "https://www.manilatimes.net/2026/03/20/tmt-newswire/pr-newswire/ribo-expands-beyond-the-liver-with-ribopepstar-enabling-targeted-sirna-delivery-to-multiple-organs/2304265",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/20/981177.jpg",
+        "publishedAt": "2026-03-20T07:17:23Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "FTSE 100 Live: London resist Wall Street's pull lower",
+        "description": "FTSE 100 up 12 points to 10,076 Wall Street set to open lower 10-year gilt yields soar to 2008 highs 12.30pm: London's blue-chip index bucks a global...",
+        "url": "https://www.proactiveinvestors.co.uk/companies/news/1089214/ftse-100-live-london-stocks-recover-while-us-futures-decline-on-rising-oil-prices-1089214.html",
+        "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzAzXC9zaHV0dGVyc3RvY2stNzA1MDUzOTY4XzY5YmQzZWFiMjlmNmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+        "publishedAt": "2026-03-20T07:15:00Z",
+        "source": "Proactive Investors"
+      }
+    ],
+    "science": [
+      {
+        "title": "45 Earth-Like Planets Discovered That May Have the Right Conditions to Support Life",
+        "description": "Scientists have identified 45 new exoplanets in the habitable zone, boosting the search for life beyond Earth. Discover which worlds are closest. Read more now!",
+        "url": "https://newsable.asianetnews.com/international/science/45-habitable-planets-discovered-life-beyond-earth-study-articleshow-ueam561",
+        "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01k5kdvk0r43qttj8k22gfkeaw,imgname-exoplanet-1758367435800.png",
+        "publishedAt": "2026-03-20T07:13:03Z",
+        "source": "Asianet Newsable"
+      },
+      {
+        "title": "NIH-awarded life scientist Shu Xiaokun abruptly shifts research from US to China",
+        "description": "Celebrated scientist leaves prestigious role at University of California, San Francisco, months after being appointed to move to Shanghai.",
+        "url": "https://www.scmp.com/news/china/science/article/3347142/nih-awarded-life-scientist-shu-xiaokun-abruptly-shifts-research-us-china",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/19/23126351-1cff-4c09-bf0d-12ced8cf1b6b_e18e824c.jpg?itok=TvrAOJd8&v=1773905992",
+        "publishedAt": "2026-03-20T07:11:36Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "ESA has reconnected with a lost Proba-3 spacecraft after a month",
+        "description": "ESA has regained contact with a spacecraft from its Proba-3 mission after it went silent for nearly a month. A small burst of sunlight helped engineers restore power and communication. The mission will now continue studying the Sun’s corona.",
+        "url": "https://www.news9live.com/science/esa-lost-spacecraft-found-proba3-mission-2945583",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/03/Proba-3-Spacecraft-ESA.png",
+        "publishedAt": "2026-03-20T07:10:35Z",
+        "source": "News9live"
+      },
+      {
+        "title": "Short Wave : NPR",
+        "description": "A multi-year megadrought in the Western U.S. has claimed untold populations of wild plants. Amid the conditions, some have survived. Scientists have produced a stunningly complete picture about how populations of one particular flower – the scarlet monkeyflower – made it through. In a new study published in the journal Science, a team of scientists spent decades studying and sampling select populations of scarlet monkeyflowers in California and Oregon. Through genetic sequencing, the team discovered that the populations that did best went through genetic changes in a short time period. This is known as rapid evolution. The team found that three of the populations that recovered the BEST adapted their stomata to open less, so they could conserve more water. Stomata act like a plant’s pores, managing gas exchange and water loss. This allowed the scarlet monkeyflowers to hunker down in the drought and survive. Interested in more stories about rapid evolution? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Listen to Short Wave on Spotify and Apple Podcasts.This episode was produced by Jeffrey Pierre, Rachel Carlson and Hannah Chinn. It was edited by Christopher Intagliata and Rebecca Ramirez. Aru Nair checked the facts. The audio engineers were Becky Brown and Robert Rodriguez.",
+        "url": "https://www.npr.org/2026/03/20/nx-s1-5753971/flower-evolution-science-drought",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4368x2457+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fa7%2Fcda20893424ea39632a345a0b886%2F4c7f45d5-45c3-4927-bf3c-2dbf33818de8.jpg",
+        "publishedAt": "2026-03-20T07:00:00Z",
+        "source": "NPR"
+      },
+      {
+        "title": "Warming and wetting could turn alpine grasslands into emerging nitrous oxide hotspots in arid northwest China",
+        "description": "A research team conducted an extensive field investigation across the Tianshan Mountains and found that climate-driven warming and increased soil moisture could substantially reshape nitrous oxide (N₂O) emissions in arid ecosystems.",
+        "url": "https://www.newswise.com/articles/warming-and-wetting-could-turn-alpine-grasslands-into-emerging-nitrous-oxide-hotspots-in-arid-northwest-china2",
+        "image": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2026/03/20/69bceec9437af_3.png",
+        "publishedAt": "2026-03-20T06:50:00Z",
+        "source": "Newswise"
+      },
+      {
+        "title": "Meteorite hunters race to Ohio after space rock crashes down to Earth",
+        "description": "Travelling at approximately 72,420 kilometres per hour, the meteoroid, confirmed by NASA to be nearly 1.8 metres in diameter, generated a sonic boom",
+        "url": "https://ca.news.yahoo.com/meteorite-hunters-race-ohio-space-061638952.html",
+        "image": "https://s.yimg.com/os/en/the_independent_577/d4f4a1608191fd98d7e0b0a87b316bc6",
+        "publishedAt": "2026-03-20T06:16:00Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+        "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgrw045pg7o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf46/live/f9e4a490-242f-11f1-b631-970c153c1592.jpg",
+        "publishedAt": "2026-03-20T06:01:02Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+        "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+        "url": "https://www.bbc.com/news/articles/ckgrw045pg7o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f8eb/live/aed36b70-2390-11f1-9ab7-93c12e0817f9.jpg",
+        "publishedAt": "2026-03-20T06:01:02Z",
+        "source": "BBC"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Gautam Gambhir Moves Delhi HC Over AI Deepfakes; Hearing For Monday",
+        "description": "Team India Head Coach and former MP Gautam Gambhir seek urgent relief over the alleged misuse of his identity through AI deepfakes & unauthorised activities.",
+        "url": "https://www.deccanchronicle.com/sports/cricket/gautam-gambhir-moves-delhi-hc-over-ai-deepfakes-1945107",
+        "image": "https://www.deccanchronicle.com/h-upload/2025/01/02/1877944-gambhir.jpg",
+        "publishedAt": "2026-03-20T07:20:09Z",
+        "source": "Deccan Chronicle"
+      },
+      {
+        "title": "Are India’s Data Centre Ambitions At Risk Now That AI Data Is Planning To Go Up In Space?",
+        "description": "Firms like SpaceX and Blue Origin have proposed orbital data centres to meet AI-driven demand, raising questions over India’s ground-focused strategy. Analysts say space-based computing is not an immediate threat, as India’s data centre capacity is set to surge by 2030. However, concerns remain that India may stay limited to infrastructure, not core tech innovation.",
+        "url": "https://www.freepressjournal.in/tech/are-indias-data-centre-ambitions-at-risk-now-that-ai-data-is-planning-to-go-up-in-space",
+        "image": "https://media.assettype.com/freepressjournal/2026-03-20/656hs01v/datacentrespaceindiaground.jpg",
+        "publishedAt": "2026-03-20T07:20:01Z",
+        "source": "Free Press Journal"
+      },
+      {
+        "title": "San Francisco engineer ‘flabbergasted’ as monks reveal using AI for mentorship calls: 'AI... find inner peace?'",
+        "description": "A viral post reveals how some monks are using custom AI instructions to streamline their work. | Trending",
+        "url": "https://www.hindustantimes.com/trending/san-francisco-engineer-flabbergasted-as-monks-reveal-using-ai-for-mentorship-calls-ai-find-inner-peace-101773988706460.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/20/550x309/Monk_AI_Use_Tweet_Viral_1773990266407_1773990266533.png",
+        "publishedAt": "2026-03-20T07:16:03Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "CPH:DOX Industry Winners Revealed, Market Talks AI and Journalism",
+        "description": "Kathryn Ferguson and Asmae El Moudir win at CPH:DOX industry awards as market gathers to discuss future of docs amidst AI and threats to journalism.",
+        "url": "https://variety.com/2026/film/global/kathryn-ferguson-asmae-el-moudir-cphdox-industry-awards-1236694409/",
+        "image": "https://variety.com/wp-content/uploads/2026/03/VARIETY-SIZING-24.png?w=1000&h=563&crop=1",
+        "publishedAt": "2026-03-20T07:15:12Z",
+        "source": "Variety"
+      },
+      {
+        "title": "CPH:DOX Industry Winners Revealed, Market Talks AI and Journalism",
+        "description": "Kathryn Ferguson and Asmae El Moudir win at CPH:DOX industry awards as market gathers to discuss future of docs amidst AI and threats to journalism.",
+        "url": "https://variety.com/2026/film/news/kathryn-ferguson-asmae-el-moudir-cphdox-industry-awards-1236694409/",
+        "image": "https://variety.com/wp-content/uploads/2026/03/VARIETY-SIZING-24.png?w=1000&h=563&crop=1",
+        "publishedAt": "2026-03-20T07:15:12Z",
+        "source": "Variety"
+      },
+      {
+        "title": "Sai Pallavi and Vijay Sethupathi to team up for Mani Ratnam movie",
+        "description": "Vijay Sethupathi had recently shared his admiration for Mani Ratnam's filmmaking style, revealing that the director works at a remarkably fast pace..Mani Ratnam film, Vijay Sethupathi Sai Pallavi movie, new Tamil film, Madras Talkies, AR Rahman music, South Indian cinema news, upcoming movie release, Mani Ratnam directorial, Sai Pallavi latest film, Vijay Sethupathi next project, LLM movie predictions, AI film analysis, romantic entertainer Mani Ratnam, cinematic union Tamil actors, latest South Indian film updates",
+        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/20/mani-ratnam-film-vijay-sethupathi-sai-pallavi-movie.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/3/20/sai-pallavi-vijay.jpg",
+        "publishedAt": "2026-03-20T07:13:29Z",
+        "source": "Malayala Manorama"
+      },
+      {
+        "title": "Gautam Gambhir's personality rights: Delhi High Court to hear ex-cricketer's lawsuit on March 23",
+        "description": "In the lawsuit, Gambhir has sought directions to protect his personality and publicity rights from a coordinated campaign of digital impersonation, AI-generated deepfakes and unauthorised commercial exploitation across social media platforms.",
+        "url": "https://www.livemint.com/news/india/gautam-gambhirs-personality-rights-delhi-high-court-to-hear-ex-cricketers-lawsuit-on-march-23-11773990546701.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/India-s-head-coach-Gautam-Gambhir---PTI-_1773990706245_1773990714031.jpg",
+        "publishedAt": "2026-03-20T07:12:55Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Foreign nationals’ arrest: Informing relatives not mandatory if embassy/FRRO notified, says HC",
+        "description": "It is sufficient if the accused has been duly informed and the Foreigners Regional Registration Office (FRRO) or the concerned embassy or consulate.kerala high court, foreign national arrest, grounds of arrest, foreigner registration, embassy notification, bail application, narcotic drugs, psychotropic substances, NDPS Act, illegal detention, look out circular, Article 22(2), Section 37 NDPS Act, confession inadmissible, FRRO bail conditions, LLM legal analysis, AI legal interpretation, foreigner detention, bail for foreign nationals, AI overview legal, large language model court cases",
+        "url": "https://www.onmanorama.com/news/kerala/2026/03/20/kerala-high-court-foreign-arrest-notification.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/11/4/kerala-high-court-main.jpg",
+        "publishedAt": "2026-03-20T07:11:37Z",
+        "source": "Malayala Manorama"
+      }
+    ]
   }
 }
