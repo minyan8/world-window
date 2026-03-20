@@ -1,4 +1,6 @@
 const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
+const FX_API = "https://api.frankfurter.dev/v1/latest?base=USD&symbols=CNY,CAD";
+const GOLD_API = "https://api.gold-api.com/price/XAU";
 
 const NEWS_SECTIONS = [
   {
@@ -103,6 +105,14 @@ const sceneryTitle = document.querySelector("#sceneryTitle");
 const sceneryDescription = document.querySelector("#sceneryDescription");
 const refreshButton = document.querySelector("#refreshButton");
 const newsCardTemplate = document.querySelector("#newsCardTemplate");
+const marketStatus = document.querySelector("#marketStatus");
+
+const marketTickers = {
+  usdCny: document.querySelector("#ticker-usd-cny"),
+  usdCad: document.querySelector("#ticker-usd-cad"),
+  cadCny: document.querySelector("#ticker-cad-cny"),
+  gold: document.querySelector("#ticker-gold"),
+};
 
 const dateKey = new Date().toISOString().slice(0, 10);
 
@@ -162,6 +172,18 @@ function renderSection(section, items) {
     node.querySelector(".news-link").href = item.link;
     grid.appendChild(node);
   });
+}
+
+function formatRate(value, digits = 4) {
+  return Number(value).toFixed(digits);
+}
+
+function formatGold(value) {
+  return new Intl.NumberFormat(undefined, {
+    style: "currency",
+    currency: "USD",
+    maximumFractionDigits: 2,
+  }).format(value);
 }
 
 async function fetchFeed(feed) {
@@ -231,6 +253,62 @@ async function loadNewsBoard() {
   }).format(new Date());
 }
 
+async function loadMarketBoard() {
+  marketStatus.textContent = "Loading market data...";
+
+  const [fxResult, goldResult] = await Promise.allSettled([
+    fetch(FX_API).then((response) => {
+      if (!response.ok) {
+        throw new Error("FX request failed");
+      }
+      return response.json();
+    }),
+    fetch(GOLD_API, {
+      headers: {
+        Accept: "application/json",
+      },
+    }).then((response) => {
+      if (!response.ok) {
+        throw new Error("Gold request failed");
+      }
+      return response.json();
+    }),
+  ]);
+
+  let successCount = 0;
+
+  if (fxResult.status === "fulfilled" && fxResult.value?.rates) {
+    const usdCny = fxResult.value.rates.CNY;
+    const usdCad = fxResult.value.rates.CAD;
+    const cadCny = usdCny && usdCad ? usdCny / usdCad : null;
+
+    marketTickers.usdCny.textContent = usdCny ? formatRate(usdCny) : "--";
+    marketTickers.usdCad.textContent = usdCad ? formatRate(usdCad) : "--";
+    marketTickers.cadCny.textContent = cadCny ? formatRate(cadCny) : "--";
+    successCount += 1;
+  } else {
+    marketTickers.usdCny.textContent = "--";
+    marketTickers.usdCad.textContent = "--";
+    marketTickers.cadCny.textContent = "--";
+  }
+
+  if (goldResult.status === "fulfilled") {
+    const goldPrice =
+      goldResult.value?.price ??
+      goldResult.value?.price_gram_24k ??
+      goldResult.value?.priceGram24k;
+    marketTickers.gold.textContent = goldPrice ? formatGold(goldPrice) : "--";
+    if (goldPrice) {
+      successCount += 1;
+    }
+  } else {
+    marketTickers.gold.textContent = "--";
+  }
+
+  marketStatus.textContent =
+    successCount > 0 ? "Market data live" : "Market data unavailable";
+}
+
 function buildSceneryState() {
   try {
     const cached = localStorage.getItem("world-window-scenery");
@@ -288,12 +366,20 @@ sceneryImage.addEventListener("error", () => {
 });
 
 refreshButton.addEventListener("click", () => {
-  loadNewsBoard().catch(() => {
-    newsStatus.textContent = "Refresh failed";
+  Promise.allSettled([loadNewsBoard(), loadMarketBoard()]).then((results) => {
+    if (results[0].status === "rejected") {
+      newsStatus.textContent = "Refresh failed";
+    }
+    if (results[1].status === "rejected") {
+      marketStatus.textContent = "Refresh failed";
+    }
   });
 });
 
 loadScenery();
 loadNewsBoard().catch(() => {
   newsStatus.textContent = "Refresh failed";
+});
+loadMarketBoard().catch(() => {
+  marketStatus.textContent = "Refresh failed";
 });

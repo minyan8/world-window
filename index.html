@@ -129,17 +129,43 @@
           </div>
         </section>
 
-        <section class="panel source-panel">
-          <p class="section-tag">How it works</p>
-          <h3>Built for a clean daily ritual</h3>
-          <ul class="feature-list">
-            <li>Splits live news into world, AI, business, and science sections.</li>
-            <li>Shuffles and caches one scenic photo per calendar day.</li>
-            <li>Works as a simple static site with no build step required.</li>
-          </ul>
+        <section class="panel market-panel">
+          <div class="panel-head market-head">
+            <div>
+              <p class="section-tag">Markets</p>
+              <h3>财经速览</h3>
+            </div>
+            <p id="marketStatus" class="status-pill">Loading market data...</p>
+          </div>
+
+          <div class="market-grid" aria-live="polite">
+            <article class="market-card">
+              <p class="market-label">USD/CNY</p>
+              <strong id="ticker-usd-cny" class="market-value">--</strong>
+              <p class="market-note">1 美元兑换人民币</p>
+            </article>
+
+            <article class="market-card">
+              <p class="market-label">USD/CAD</p>
+              <strong id="ticker-usd-cad" class="market-value">--</strong>
+              <p class="market-note">1 美元兑换加元</p>
+            </article>
+
+            <article class="market-card">
+              <p class="market-label">CAD/CNY</p>
+              <strong id="ticker-cad-cny" class="market-value">--</strong>
+              <p class="market-note">1 加元兑换人民币</p>
+            </article>
+
+            <article class="market-card gold-card">
+              <p class="market-label">Gold</p>
+              <strong id="ticker-gold" class="market-value">--</strong>
+              <p class="market-note">现货黄金美元/盎司</p>
+            </article>
+          </div>
+
           <div class="note">
-            If a feed is temporarily blocked, the page keeps showing other sources so the
-            dashboard still feels alive.
+            汇率使用公开外汇接口，黄金使用公开金价接口。若个别源临时不可用，页面会保留其余数据。
           </div>
         </section>
       </main>
