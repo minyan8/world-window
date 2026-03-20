@@ -69,7 +69,7 @@ const NEWS_SECTIONS = [
 const TORONTO_SCENERY = {
   title: "Toronto skyline and waterfront",
   description: '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1',
-  query: "toronto,skyline,waterfront,cn tower",
+  imageUrl: "./assets/toronto-skyline.svg",
 };
 
 const newsStatus = document.querySelector("#newsStatus");
@@ -88,8 +88,6 @@ const marketTickers = {
   gold: document.querySelector("#ticker-gold"),
   btc: document.querySelector("#ticker-btc"),
 };
-
-const dateKey = new Date().toISOString().slice(0, 10);
 
 function sanitizeHtml(input) {
   const element = document.createElement("div");
@@ -337,43 +335,7 @@ function loadTradingViewWidget() {
 }
 
 function buildSceneryState() {
-  try {
-    const cached = localStorage.getItem("world-window-scenery");
-    if (cached) {
-      const parsed = JSON.parse(cached);
-      if (parsed.dateKey === dateKey && parsed.query === TORONTO_SCENERY.query) {
-        return parsed;
-      }
-    }
-  } catch {
-    localStorage.removeItem("world-window-scenery");
-  }
-
-  const state = {
-    dateKey,
-    query: TORONTO_SCENERY.query,
-    title: TORONTO_SCENERY.title,
-    description: TORONTO_SCENERY.description,
-    imageUrl: `https://source.unsplash.com/featured/1600x900/?${encodeURIComponent(
-      TORONTO_SCENERY.query
-    )}&sig=${Math.abs(hashString(dateKey)) + 1}`,
-  };
-
-  try {
-    localStorage.setItem("world-window-scenery", JSON.stringify(state));
-  } catch {
-    // Ignore storage write issues and keep the session working.
-  }
-  return state;
-}
-
-function hashString(value) {
-  let hash = 0;
-  for (let i = 0; i < value.length; i += 1) {
-    hash = (hash << 5) - hash + value.charCodeAt(i);
-    hash |= 0;
-  }
-  return hash;
+  return TORONTO_SCENERY;
 }
 
 function loadScenery() {
@@ -384,8 +346,7 @@ function loadScenery() {
 }
 
 sceneryImage.addEventListener("error", () => {
-  sceneryImage.src =
-    "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=1600&q=80";
+  sceneryImage.src = "./assets/toronto-skyline.svg";
   sceneryTitle.textContent = "Toronto skyline and waterfront";
   sceneryDescription.textContent =
     '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1';
