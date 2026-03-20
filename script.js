@@ -66,38 +66,11 @@ const NEWS_SECTIONS = [
   },
 ];
 
-const SCENERY_COLLECTION = [
-  {
-    title: "Sunlit fjords and distant peaks",
-    description: "A calm, high-contrast landscape to balance the fast pace of the headlines.",
-    query: "fjord,mountains,travel",
-  },
-  {
-    title: "Ocean cliffs with open sky",
-    description: "Wide horizons and sea air energy for today’s global snapshot.",
-    query: "coastline,ocean,landscape",
-  },
-  {
-    title: "Quiet forest valley",
-    description: "A softer scene picked to slow the page down and give it some breathing room.",
-    query: "forest,valley,nature",
-  },
-  {
-    title: "Golden desert light",
-    description: "Warm terrain, long shadows, and a change of continent for the day.",
-    query: "desert,dunes,scenery",
-  },
-  {
-    title: "Lakeside alpine air",
-    description: "Cool water and mountain reflections for a fresh reset.",
-    query: "lake,alps,landscape",
-  },
-  {
-    title: "Tropical coast at dusk",
-    description: "A quieter end-of-day palette from a warmer part of the world.",
-    query: "tropical,beach,sunset",
-  },
-];
+const TORONTO_SCENERY = {
+  title: "Toronto skyline and waterfront",
+  description: "A Toronto-themed view to give the homepage a familiar local backdrop.",
+  query: "toronto,skyline,waterfront,cn tower",
+};
 
 const newsStatus = document.querySelector("#newsStatus");
 const lastUpdated = document.querySelector("#lastUpdated");
@@ -368,7 +341,7 @@ function buildSceneryState() {
     const cached = localStorage.getItem("world-window-scenery");
     if (cached) {
       const parsed = JSON.parse(cached);
-      if (parsed.dateKey === dateKey) {
+      if (parsed.dateKey === dateKey && parsed.query === TORONTO_SCENERY.query) {
         return parsed;
       }
     }
@@ -376,15 +349,14 @@ function buildSceneryState() {
     localStorage.removeItem("world-window-scenery");
   }
 
-  const index = Math.floor(Math.abs(hashString(dateKey)) % SCENERY_COLLECTION.length);
-  const pick = SCENERY_COLLECTION[index];
   const state = {
     dateKey,
-    title: pick.title,
-    description: pick.description,
+    query: TORONTO_SCENERY.query,
+    title: TORONTO_SCENERY.title,
+    description: TORONTO_SCENERY.description,
     imageUrl: `https://source.unsplash.com/featured/1600x900/?${encodeURIComponent(
-      pick.query
-    )}&sig=${index + 1}`,
+      TORONTO_SCENERY.query
+    )}&sig=${Math.abs(hashString(dateKey)) + 1}`,
   };
 
   try {
@@ -413,10 +385,10 @@ function loadScenery() {
 
 sceneryImage.addEventListener("error", () => {
   sceneryImage.src =
-    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80";
-  sceneryTitle.textContent = "Panoramic reset";
+    "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=1600&q=80";
+  sceneryTitle.textContent = "Toronto skyline and waterfront";
   sceneryDescription.textContent =
-    "The live scenic source was unavailable, so this fallback landscape is standing in for today.";
+    "The live Toronto image source was unavailable, so this fallback Toronto skyline photo is standing in for now.";
 });
 
 refreshButton.addEventListener("click", () => {
