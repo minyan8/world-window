@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>World Window</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="topbar">
+          <div class="brand">
+            <span class="brand-mark">WW</span>
+            <div>
+              <p class="eyebrow">Daily global brief</p>
+              <h1>World Window</h1>
+            </div>
+          </div>
+          <button id="refreshButton" class="ghost-button" type="button">
+            Refresh news
+          </button>
+        </nav>
+
+        <section class="hero-grid">
+          <div class="hero-copy">
+            <p class="kicker">See the world in one glance</p>
+            <h2>Latest headlines across the globe, plus a new scenic escape every day.</h2>
+            <p class="hero-text">
+              This page blends fast-moving world coverage with a calm daily landscape so
+              your dashboard feels informative without being overwhelming.
+            </p>
+            <div class="hero-meta">
+              <div>
+                <span class="meta-label">Updated</span>
+                <strong id="lastUpdated">Loading...</strong>
+              </div>
+              <div>
+                <span class="meta-label">Sources</span>
+                <strong>BBC, Reuters, Google News, ScienceDaily</strong>
+              </div>
+            </div>
+          </div>
+
+          <aside class="scenery-card">
+            <div class="scenery-frame">
+              <img
+                id="sceneryImage"
+                alt="Daily scenic image from around the world"
+                loading="eager"
+              />
+            </div>
+            <div class="scenery-copy">
+              <p class="section-tag">Daily scenery</p>
+              <h3 id="sceneryTitle">Loading today’s view...</h3>
+              <p id="sceneryDescription">
+                Picking a scenic image for your daily reset.
+              </p>
+            </div>
+          </aside>
+        </section>
+      </header>
+
+      <main class="content-grid">
+        <section class="panel news-panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-tag">News board</p>
+              <h3>Headlines by section</h3>
+            </div>
+            <p id="newsStatus" class="status-pill">Loading sections...</p>
+          </div>
+
+          <div class="section-intro">
+            I split the news into a few focused lanes so you can check world events and AI
+            updates without everything mixing together.
+          </div>
+
+          <div class="category-grid">
+            <section class="category-panel">
+              <div class="category-head">
+                <div>
+                  <p class="section-tag">World</p>
+                  <h4>Global headlines</h4>
+                </div>
+                <p id="status-world" class="mini-status">Loading...</p>
+              </div>
+              <div id="newsGrid-world" class="news-grid compact-grid" aria-live="polite"></div>
+            </section>
+
+            <section class="category-panel ai-panel">
+              <div class="category-head">
+                <div>
+                  <p class="section-tag">AI</p>
+                  <h4>Artificial intelligence</h4>
+                </div>
+                <p id="status-ai" class="mini-status">Loading...</p>
+              </div>
+              <div id="newsGrid-ai" class="news-grid compact-grid" aria-live="polite"></div>
+            </section>
+
+            <section class="category-panel">
+              <div class="category-head">
+                <div>
+                  <p class="section-tag">Business</p>
+                  <h4>Markets and economy</h4>
+                </div>
+                <p id="status-business" class="mini-status">Loading...</p>
+              </div>
+              <div id="newsGrid-business" class="news-grid compact-grid" aria-live="polite"></div>
+            </section>
+
+            <section class="category-panel">
+              <div class="category-head">
+                <div>
+                  <p class="section-tag">Science</p>
+                  <h4>Research and discovery</h4>
+                </div>
+                <p id="status-science" class="mini-status">Loading...</p>
+              </div>
+              <div id="newsGrid-science" class="news-grid compact-grid" aria-live="polite"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="panel source-panel">
+          <p class="section-tag">How it works</p>
+          <h3>Built for a clean daily ritual</h3>
+          <ul class="feature-list">
+            <li>Splits live news into world, AI, business, and science sections.</li>
+            <li>Shuffles and caches one scenic photo per calendar day.</li>
+            <li>Works as a simple static site with no build step required.</li>
+          </ul>
+          <div class="note">
+            If a feed is temporarily blocked, the page keeps showing other sources so the
+            dashboard still feels alive.
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="newsCardTemplate">
+      <article class="news-card">
+        <span class="news-source"></span>
+        <h4 class="news-title"></h4>
+        <p class="news-snippet"></p>
+        <div class="news-footer">
+          <time class="news-time"></time>
+          <a class="news-link" target="_blank" rel="noreferrer">Read story</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
