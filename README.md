@@ -52,13 +52,30 @@ If your repository is named `YOUR_USERNAME.github.io`, then the site can be serv
 
 `https://YOUR_USERNAME.github.io/`
 
+## Official News API Setup
+
+This project now supports an official server-side news pipeline using GNews API.
+
+The frontend will:
+
+1. try to read `data/news.json`
+2. use that official API snapshot when available
+3. fall back to RSS only if the official data file is missing or empty
+
+To enable the official API flow on GitHub:
+
+1. Create a GNews API key.
+2. Open your repository on GitHub.
+3. Go to `Settings` -> `Secrets and variables` -> `Actions`.
+4. Add a new repository secret named `GNEWS_API_KEY`.
+5. In `Actions`, run the workflow named `Update News Data` once.
+
+After that:
+
+- GitHub Actions will refresh `data/news.json` every hour
+- the Pages frontend will read that file first
+- your API key stays in GitHub Secrets and is not exposed in the browser
+
 ## Important note
 
-This site fetches live news and images from third-party public sources in the browser.
-That means GitHub Pages can host the site itself, but the live content still depends on:
-
-- RSS feeds being reachable
-- the RSS-to-JSON service responding normally
-- image providers being available
-
-If you want a more stable public version later, the next upgrade is to add a small backend or serverless function for the news fetching.
+If the official API file is unavailable, the site still falls back to RSS so the page does not go blank.

@@ -2,6 +2,7 @@ const RSS_PROXY = "https://api.codetabs.com/v1/proxy/?quest=";
 const FX_API = "https://api.frankfurter.dev/v1/latest?base=USD&symbols=CNY,CAD";
 const GOLD_API = "https://api.gold-api.com/price/XAU";
 const BTC_API = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd";
+const OFFICIAL_NEWS_DATA_URL = "./data/news.json";
 const LANGUAGE_STORAGE_KEY = "world-window-language";
 const AUTO_REFRESH_MS = 15 * 60 * 1000;
 
@@ -118,6 +119,8 @@ const translations = {
       "FX uses a public exchange-rate API. Gold and Bitcoin use public market APIs. Major indexes are embedded through a live market widget for broader coverage.",
     loadingSections: "Loading sections...",
     autoRefresh: "Auto-refresh every 15 min",
+    officialApiLabel: "Official API",
+    rssFallbackLabel: "RSS fallback",
     feedsUnavailable: "Feeds unavailable",
     storiesAcross: (stories, sections) => `${stories} stories across ${sections} sections`,
     loadingSection: (label) => `Loading ${label.toLowerCase()} news...`,
@@ -195,6 +198,8 @@ const translations = {
     marketNote: "汇率使用公开外汇接口，黄金和比特币使用公开市场接口。主要指数通过实时行情组件展示。",
     loadingSections: "正在加载栏目...",
     autoRefresh: "每 15 分钟自动刷新",
+    officialApiLabel: "官方 API",
+    rssFallbackLabel: "RSS 备用源",
     feedsUnavailable: "新闻源暂时不可用",
     storiesAcross: (stories, sections) => `${sections} 个栏目，共 ${stories} 条新闻`,
     loadingSection: (label) => `正在加载${label}新闻...`,
@@ -350,6 +355,25 @@ function formatCurrency(value, fractionDigits = 2) {
   }).format(value);
 }
 
+function formatLastUpdated(date) {
+  return new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
+    dateStyle: "medium",
+    timeStyle: "short",
+  }).format(date);
+}
+
+function normalizeOfficialArticle(article) {
+  return {
+    source: article.source || article.sourceName || article.source?.name || "",
+    title: sanitizeHtml(article.title || ""),
+    description: stripTrailingText(
+      sanitizeHtml(article.description || article.content || "Open the article for details.")
+    ),
+    link: article.url || article.link || "#",
+    pubDate: article.publishedAt || article.pubDate || new Date().toISOString(),
+  };
+}
+
 async function fetchFeed(feed) {
   const response = await fetch(`${RSS_PROXY}${encodeURIComponent(feed.url)}`, {
     cache: "no-store",
@@ -378,7 +402,7 @@ async function fetchFeed(feed) {
   }));
 }
 
-async function loadSection(section) {
+async function loadRssSection(section) {
   const grid = getSectionGrid(section.key);
   const status = getSectionStatus(section.key);
   const sectionLabel = translations[currentLanguage].sectionLabels[section.key];
@@ -406,10 +430,8 @@ async function loadSection(section) {
   return { ok: goodFeeds > 0, stories: stories.length };
 }
 
-async function loadNewsBoard() {
-  newsStatus.textContent = t("loadingSections");
-
-  const results = await Promise.all(NEWS_SECTIONS.map(loadSection));
+async function loadRssNewsBoard() {
+  const results = await Promise.all(NEWS_SECTIONS.map(loadRssSection));
   const activeSections = results.filter((result) => result.ok).length;
   const totalStories = results.reduce((sum, result) => sum + result.stories, 0);
 
@@ -418,12 +440,69 @@ async function loadNewsBoard() {
     return;
   }
 
-  newsStatus.textContent = `${t("storiesAcross")(totalStories, activeSections)} • ${t("autoRefresh")}`;
+  newsStatus.textContent = `${t("storiesAcross")(totalStories, activeSections)} • ${t(
+    "rssFallbackLabel"
+  )} • ${t("autoRefresh")}`;
   lastUpdatedDate = new Date();
-  lastUpdated.textContent = new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
-    dateStyle: "medium",
-    timeStyle: "short",
-  }).format(lastUpdatedDate);
+  lastUpdated.textContent = formatLastUpdated(lastUpdatedDate);
+}
+
+async function loadOfficialNewsBoard() {
+  const response = await fetch(`${OFFICIAL_NEWS_DATA_URL}?ts=${Date.now()}`, {
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error("Official news data request failed");
+  }
+
+  const payload = await response.json();
+  if (!payload || typeof payload !== "object" || !payload.sections) {
+    throw new Error("Malformed official news data");
+  }
+
+  let totalStories = 0;
+  let activeSections = 0;
+
+  NEWS_SECTIONS.forEach((section) => {
+    const grid = getSectionGrid(section.key);
+    const status = getSectionStatus(section.key);
+    const sectionLabel = translations[currentLanguage].sectionLabels[section.key];
+    const items = Array.isArray(payload.sections[section.key])
+      ? payload.sections[section.key].slice(0, section.limit).map(normalizeOfficialArticle)
+      : [];
+
+    if (!items.length) {
+      grid.innerHTML = emptyMarkup(t("noHeadlines")(sectionLabel));
+      status.textContent = t("unavailable");
+      return;
+    }
+
+    renderSection(section, items);
+    status.textContent = t("storiesCount")(items.length);
+    totalStories += items.length;
+    activeSections += 1;
+  });
+
+  if (!totalStories) {
+    throw new Error("Official news data is empty");
+  }
+
+  lastUpdatedDate = payload.fetchedAt ? new Date(payload.fetchedAt) : new Date();
+  lastUpdated.textContent = formatLastUpdated(lastUpdatedDate);
+  newsStatus.textContent = `${t("storiesAcross")(totalStories, activeSections)} • ${t(
+    "officialApiLabel"
+  )} • ${t("autoRefresh")}`;
+}
+
+async function loadNewsBoard() {
+  newsStatus.textContent = t("loadingSections");
+
+  try {
+    await loadOfficialNewsBoard();
+  } catch {
+    await loadRssNewsBoard();
+  }
 }
 
 async function loadMarketBoard() {
@@ -561,10 +640,7 @@ function applyLanguage(refreshData = false) {
   setStaticTranslations();
 
   if (lastUpdatedDate) {
-    lastUpdated.textContent = new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
-      dateStyle: "medium",
-      timeStyle: "short",
-    }).format(lastUpdatedDate);
+    lastUpdated.textContent = formatLastUpdated(lastUpdatedDate);
   } else {
     lastUpdated.textContent = t("updatedLoading");
   }
