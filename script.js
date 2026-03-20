@@ -68,7 +68,7 @@ const NEWS_SECTIONS = [
 
 const TORONTO_SCENERY = {
   title: "Toronto skyline and waterfront",
-  description: "A Toronto-themed view to give the homepage a familiar local backdrop.",
+  description: '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1',
   query: "toronto,skyline,waterfront,cn tower",
 };
 
@@ -388,7 +388,7 @@ sceneryImage.addEventListener("error", () => {
     "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=1600&q=80";
   sceneryTitle.textContent = "Toronto skyline and waterfront";
   sceneryDescription.textContent =
-    "The live Toronto image source was unavailable, so this fallback Toronto skyline photo is standing in for now.";
+    '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1';
 });
 
 refreshButton.addEventListener("click", () => {
