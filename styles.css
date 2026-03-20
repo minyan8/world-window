@@ -398,8 +398,9 @@ h4 {
 
 .market-value {
   font-family: "Fraunces", serif;
-  font-size: clamp(1.05rem, 0.8vw + 0.82rem, 1.95rem);
-  line-height: 0.95;
+  font-size: clamp(0.92rem, 0.48vw + 0.8rem, 1.55rem);
+  line-height: 0.88;
+  letter-spacing: -0.04em;
   min-width: 0;
   max-width: 100%;
   font-variant-numeric: lining-nums tabular-nums;
@@ -499,6 +500,6 @@ h4 {
   }
 
   .market-value {
-    font-size: clamp(1rem, 5vw, 1.55rem);
+    font-size: clamp(0.88rem, 4.2vw, 1.2rem);
   }
 }
