@@ -2,6 +2,7 @@ const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
 const FX_API = "https://api.frankfurter.dev/v1/latest?base=USD&symbols=CNY,CAD";
 const GOLD_API = "https://api.gold-api.com/price/XAU";
 const BTC_API = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd";
+const LANGUAGE_STORAGE_KEY = "world-window-language";
 
 const NEWS_SECTIONS = [
   {
@@ -66,10 +67,131 @@ const NEWS_SECTIONS = [
   },
 ];
 
-const TORONTO_SCENERY = {
-  title: "Toronto skyline and waterfront",
-  description: '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1',
-  imageUrl: "./assets/toronto-skyline.svg",
+const TORONTO_SCENERY_IMAGE = "./assets/toronto-skyline.svg";
+
+const translations = {
+  en: {
+    htmlLang: "en",
+    toggleLabel: "中文",
+    brandEyebrow: "Daily global brief",
+    refreshButton: "Refresh news",
+    heroKicker: "See the world in one glance",
+    heroTitle: "Latest headlines across the globe, plus a fixed Toronto skyline view.",
+    heroText:
+      "This page blends fast-moving world coverage with a calm local image so your dashboard feels informative without being overwhelming.",
+    updatedLabel: "Updated",
+    updatedLoading: "Loading...",
+    sourcesLabel: "Sources",
+    sourcesValue: "BBC, Reuters, Google News, ScienceDaily",
+    sceneryTag: "Toronto view",
+    sceneryTitle: "Toronto skyline and waterfront",
+    sceneryDescription:
+      '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1',
+    newsBoardTag: "News board",
+    newsBoardTitle: "Headlines by section",
+    sectionIntro:
+      "I split the news into a few focused lanes so you can check world events and AI updates without everything mixing together.",
+    worldTag: "World",
+    worldTitle: "Global headlines",
+    aiTitle: "Artificial intelligence",
+    businessTag: "Business",
+    businessTitle: "Markets and economy",
+    scienceTag: "Science",
+    scienceTitle: "Research and discovery",
+    marketsTag: "Markets",
+    marketsTitle: "Market Snapshot",
+    usdCnyNote: "1 US dollar in Chinese yuan",
+    usdCadNote: "1 US dollar in Canadian dollars",
+    cadCnyNote: "1 Canadian dollar in Chinese yuan",
+    goldLabel: "Gold",
+    goldNote: "Spot gold in US dollars per ounce",
+    bitcoinLabel: "Bitcoin",
+    bitcoinNote: "Bitcoin price in US dollars",
+    benchmarksTag: "Benchmarks",
+    benchmarksTitle: "Major indexes",
+    marketNote:
+      "FX uses a public exchange-rate API. Gold and Bitcoin use public market APIs. Major indexes are embedded through a live market widget for broader coverage.",
+    loadingSections: "Loading sections...",
+    feedsUnavailable: "Feeds unavailable",
+    storiesAcross: (stories, sections) => `${stories} stories across ${sections} sections`,
+    loadingSection: (label) => `Loading ${label.toLowerCase()} news...`,
+    noHeadlines: (label) => `No ${label.toLowerCase()} headlines available right now.`,
+    unavailable: "Unavailable",
+    storiesCount: (count) => `${count} stories`,
+    loadingMarketData: "Loading market data...",
+    marketLive: "Market data live",
+    marketUnavailable: "Market data unavailable",
+    refreshFailed: "Refresh failed",
+    readStory: "Read story",
+    minAgo: (n) => `${n} min ago`,
+    hrAgo: (n) => `${n} hr ago`,
+    dayAgo: (n) => `${n} day${n > 1 ? "s" : ""} ago`,
+    sectionLabels: {
+      world: "World",
+      ai: "AI",
+      business: "Business",
+      science: "Science",
+    },
+  },
+  zh: {
+    htmlLang: "zh-CN",
+    toggleLabel: "EN",
+    brandEyebrow: "每日全球简报",
+    refreshButton: "刷新新闻",
+    heroKicker: "一眼看世界",
+    heroTitle: "全球最新新闻，加上一张固定的多伦多天际线图。",
+    heroText: "这个页面把快速变化的新闻和更安静的本地画面放在一起，让信息丰富但不显得杂乱。",
+    updatedLabel: "更新时间",
+    updatedLoading: "加载中...",
+    sourcesLabel: "来源",
+    sourcesValue: "BBC、Reuters、Google News、ScienceDaily",
+    sceneryTag: "多伦多风景",
+    sceneryTitle: "多伦多天际线与湖滨",
+    sceneryDescription: '"诸天述说神的荣耀；穹苍传扬他的手段。" 诗篇 19:1',
+    newsBoardTag: "新闻看板",
+    newsBoardTitle: "分栏头条",
+    sectionIntro: "我把新闻拆成几个栏目，这样你可以更快地区分世界新闻、AI、商业和科学。",
+    worldTag: "世界",
+    worldTitle: "全球头条",
+    aiTitle: "人工智能",
+    businessTag: "商业",
+    businessTitle: "市场与经济",
+    scienceTag: "科学",
+    scienceTitle: "研究与发现",
+    marketsTag: "财经",
+    marketsTitle: "市场速览",
+    usdCnyNote: "1 美元兑换人民币",
+    usdCadNote: "1 美元兑换加元",
+    cadCnyNote: "1 加元兑换人民币",
+    goldLabel: "黄金",
+    goldNote: "现货黄金，美元/盎司",
+    bitcoinLabel: "比特币",
+    bitcoinNote: "比特币美元价格",
+    benchmarksTag: "基准指数",
+    benchmarksTitle: "主要指数",
+    marketNote: "汇率使用公开外汇接口，黄金和比特币使用公开市场接口。主要指数通过实时行情组件展示。",
+    loadingSections: "正在加载栏目...",
+    feedsUnavailable: "新闻源暂时不可用",
+    storiesAcross: (stories, sections) => `${sections} 个栏目，共 ${stories} 条新闻`,
+    loadingSection: (label) => `正在加载${label}新闻...`,
+    noHeadlines: (label) => `暂时没有${label}相关新闻。`,
+    unavailable: "不可用",
+    storiesCount: (count) => `${count} 条`,
+    loadingMarketData: "正在加载财经数据...",
+    marketLive: "财经数据已更新",
+    marketUnavailable: "财经数据暂时不可用",
+    refreshFailed: "刷新失败",
+    readStory: "查看新闻",
+    minAgo: (n) => `${n} 分钟前`,
+    hrAgo: (n) => `${n} 小时前`,
+    dayAgo: (n) => `${n} 天前`,
+    sectionLabels: {
+      world: "世界",
+      ai: "AI",
+      business: "商业",
+      science: "科学",
+    },
+  },
 };
 
 const newsStatus = document.querySelector("#newsStatus");
@@ -78,6 +200,7 @@ const sceneryImage = document.querySelector("#sceneryImage");
 const sceneryTitle = document.querySelector("#sceneryTitle");
 const sceneryDescription = document.querySelector("#sceneryDescription");
 const refreshButton = document.querySelector("#refreshButton");
+const languageToggle = document.querySelector("#languageToggle");
 const newsCardTemplate = document.querySelector("#newsCardTemplate");
 const marketStatus = document.querySelector("#marketStatus");
 
@@ -88,6 +211,13 @@ const marketTickers = {
   gold: document.querySelector("#ticker-gold"),
   btc: document.querySelector("#ticker-btc"),
 };
+
+let currentLanguage = localStorage.getItem(LANGUAGE_STORAGE_KEY) || "en";
+let lastUpdatedDate = null;
+
+function t(key) {
+  return translations[currentLanguage][key];
+}
 
 function sanitizeHtml(input) {
   const element = document.createElement("div");
@@ -108,16 +238,16 @@ function relativeTime(timestamp) {
   const minutes = Math.round(delta / 60000);
 
   if (minutes < 60) {
-    return `${Math.max(minutes, 1)} min ago`;
+    return t("minAgo")(Math.max(minutes, 1));
   }
 
   const hours = Math.round(minutes / 60);
   if (hours < 24) {
-    return `${hours} hr ago`;
+    return t("hrAgo")(hours);
   }
 
   const days = Math.round(hours / 24);
-  return `${days} day${days > 1 ? "s" : ""} ago`;
+  return t("dayAgo")(days);
 }
 
 function emptyMarkup(message) {
@@ -132,6 +262,19 @@ function getSectionStatus(sectionKey) {
   return document.querySelector(`#status-${sectionKey}`);
 }
 
+function setStaticTranslations() {
+  document.documentElement.lang = t("htmlLang");
+  languageToggle.textContent = t("toggleLabel");
+
+  document.querySelectorAll("[data-i18n]").forEach((node) => {
+    const key = node.dataset.i18n;
+    const value = t(key);
+    if (typeof value === "string") {
+      node.textContent = value;
+    }
+  });
+}
+
 function renderSection(section, items) {
   const grid = getSectionGrid(section.key);
   grid.innerHTML = "";
@@ -142,7 +285,11 @@ function renderSection(section, items) {
     node.querySelector(".news-title").textContent = item.title;
     node.querySelector(".news-snippet").textContent = item.description;
     node.querySelector(".news-time").textContent = relativeTime(item.pubDate);
-    node.querySelector(".news-link").href = item.link;
+
+    const link = node.querySelector(".news-link");
+    link.href = item.link;
+    link.textContent = t("readStory");
+
     grid.appendChild(node);
   });
 }
@@ -151,11 +298,11 @@ function formatRate(value, digits = 4) {
   return Number(value).toFixed(digits);
 }
 
-function formatGold(value) {
-  return new Intl.NumberFormat(undefined, {
+function formatCurrency(value, fractionDigits = 2) {
+  return new Intl.NumberFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
     style: "currency",
     currency: "USD",
-    maximumFractionDigits: 2,
+    maximumFractionDigits: fractionDigits,
   }).format(value);
 }
 
@@ -184,8 +331,10 @@ async function fetchFeed(feed) {
 async function loadSection(section) {
   const grid = getSectionGrid(section.key);
   const status = getSectionStatus(section.key);
-  grid.innerHTML = emptyMarkup(`Loading ${section.label.toLowerCase()} news...`);
-  status.textContent = "Loading...";
+  const sectionLabel = translations[currentLanguage].sectionLabels[section.key];
+
+  grid.innerHTML = emptyMarkup(t("loadingSection")(sectionLabel));
+  status.textContent = t("loadingSections");
 
   const results = await Promise.allSettled(section.feeds.map(fetchFeed));
   const stories = results
@@ -197,37 +346,38 @@ async function loadSection(section) {
   const goodFeeds = results.filter((result) => result.status === "fulfilled").length;
 
   if (!stories.length) {
-    grid.innerHTML = emptyMarkup(`No ${section.label.toLowerCase()} headlines available right now.`);
-    status.textContent = "Unavailable";
+    grid.innerHTML = emptyMarkup(t("noHeadlines")(sectionLabel));
+    status.textContent = t("unavailable");
     return { ok: false, stories: 0 };
   }
 
   renderSection(section, stories);
-  status.textContent = `${stories.length} stories`;
+  status.textContent = t("storiesCount")(stories.length);
   return { ok: goodFeeds > 0, stories: stories.length };
 }
 
 async function loadNewsBoard() {
-  newsStatus.textContent = "Loading sections...";
+  newsStatus.textContent = t("loadingSections");
 
   const results = await Promise.all(NEWS_SECTIONS.map(loadSection));
   const activeSections = results.filter((result) => result.ok).length;
   const totalStories = results.reduce((sum, result) => sum + result.stories, 0);
 
   if (!totalStories) {
-    newsStatus.textContent = "Feeds unavailable";
+    newsStatus.textContent = t("feedsUnavailable");
     return;
   }
 
-  newsStatus.textContent = `${totalStories} stories across ${activeSections} sections`;
-  lastUpdated.textContent = new Intl.DateTimeFormat(undefined, {
+  newsStatus.textContent = t("storiesAcross")(totalStories, activeSections);
+  lastUpdatedDate = new Date();
+  lastUpdated.textContent = new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
     dateStyle: "medium",
     timeStyle: "short",
-  }).format(new Date());
+  }).format(lastUpdatedDate);
 }
 
 async function loadMarketBoard() {
-  marketStatus.textContent = "Loading market data...";
+  marketStatus.textContent = t("loadingMarketData");
 
   const [fxResult, goldResult, btcResult] = await Promise.allSettled([
     fetch(FX_API).then((response) => {
@@ -276,7 +426,7 @@ async function loadMarketBoard() {
       goldResult.value?.price ??
       goldResult.value?.price_gram_24k ??
       goldResult.value?.priceGram24k;
-    marketTickers.gold.textContent = goldPrice ? formatGold(goldPrice) : "--";
+    marketTickers.gold.textContent = goldPrice ? formatCurrency(goldPrice) : "--";
     if (goldPrice) {
       successCount += 1;
     }
@@ -285,14 +435,13 @@ async function loadMarketBoard() {
   }
 
   if (btcResult.status === "fulfilled" && btcResult.value?.bitcoin?.usd) {
-    marketTickers.btc.textContent = formatGold(btcResult.value.bitcoin.usd);
+    marketTickers.btc.textContent = formatCurrency(btcResult.value.bitcoin.usd, 0);
     successCount += 1;
   } else {
     marketTickers.btc.textContent = "--";
   }
 
-  marketStatus.textContent =
-    successCount > 0 ? "Market data live" : "Market data unavailable";
+  marketStatus.textContent = successCount > 0 ? t("marketLive") : t("marketUnavailable");
 }
 
 function loadTradingViewWidget() {
@@ -314,19 +463,22 @@ function loadTradingViewWidget() {
   script.textContent = JSON.stringify({
     width: "100%",
     height: 420,
-    locale: "en",
+    locale: currentLanguage === "zh" ? "zh_CN" : "en",
     colorTheme: "light",
     backgroundColor: "#fffdf8",
     showSymbolLogo: false,
     symbolsGroups: [
       {
-        name: "Indexes",
+        name: currentLanguage === "zh" ? "指数" : "Indexes",
         symbols: [
           { name: "FOREXCOM:SPXUSD", displayName: "S&P 500" },
-          { name: "NASDAQ:IXIC", displayName: "Nasdaq" },
-          { name: "FOREXCOM:DJI", displayName: "Dow Jones" },
-          { name: "HSI:HSI", displayName: "Hang Seng" },
-          { name: "SSE:000001", displayName: "Shanghai Composite" },
+          { name: "NASDAQ:IXIC", displayName: currentLanguage === "zh" ? "纳斯达克" : "Nasdaq" },
+          { name: "FOREXCOM:DJI", displayName: currentLanguage === "zh" ? "道琼斯" : "Dow Jones" },
+          { name: "HSI:HSI", displayName: currentLanguage === "zh" ? "恒生指数" : "Hang Seng" },
+          {
+            name: "SSE:000001",
+            displayName: currentLanguage === "zh" ? "上证综指" : "Shanghai Composite",
+          },
         ],
       },
     ],
@@ -335,7 +487,11 @@ function loadTradingViewWidget() {
 }
 
 function buildSceneryState() {
-  return TORONTO_SCENERY;
+  return {
+    title: t("sceneryTitle"),
+    description: t("sceneryDescription"),
+    imageUrl: TORONTO_SCENERY_IMAGE,
+  };
 }
 
 function loadScenery() {
@@ -346,28 +502,57 @@ function loadScenery() {
 }
 
 sceneryImage.addEventListener("error", () => {
-  sceneryImage.src = "./assets/toronto-skyline.svg";
-  sceneryTitle.textContent = "Toronto skyline and waterfront";
-  sceneryDescription.textContent =
-    '"The heavens declare the glory of God; the skies proclaim the work of his hands." Psalm 19:1';
+  sceneryImage.src = TORONTO_SCENERY_IMAGE;
+  sceneryTitle.textContent = t("sceneryTitle");
+  sceneryDescription.textContent = t("sceneryDescription");
 });
+
+function applyLanguage(refreshData = false) {
+  setStaticTranslations();
+
+  if (lastUpdatedDate) {
+    lastUpdated.textContent = new Intl.DateTimeFormat(currentLanguage === "zh" ? "zh-CN" : undefined, {
+      dateStyle: "medium",
+      timeStyle: "short",
+    }).format(lastUpdatedDate);
+  } else {
+    lastUpdated.textContent = t("updatedLoading");
+  }
+
+  loadScenery();
+  loadTradingViewWidget();
+
+  if (refreshData) {
+    loadNewsBoard().catch(() => {
+      newsStatus.textContent = t("refreshFailed");
+    });
+    loadMarketBoard().catch(() => {
+      marketStatus.textContent = t("refreshFailed");
+    });
+  }
+}
 
 refreshButton.addEventListener("click", () => {
   Promise.allSettled([loadNewsBoard(), loadMarketBoard()]).then((results) => {
     if (results[0].status === "rejected") {
-      newsStatus.textContent = "Refresh failed";
+      newsStatus.textContent = t("refreshFailed");
     }
     if (results[1].status === "rejected") {
-      marketStatus.textContent = "Refresh failed";
+      marketStatus.textContent = t("refreshFailed");
     }
   });
 });
 
-loadScenery();
+languageToggle.addEventListener("click", () => {
+  currentLanguage = currentLanguage === "en" ? "zh" : "en";
+  localStorage.setItem(LANGUAGE_STORAGE_KEY, currentLanguage);
+  applyLanguage(true);
+});
+
+applyLanguage(false);
 loadNewsBoard().catch(() => {
-  newsStatus.textContent = "Refresh failed";
+  newsStatus.textContent = t("refreshFailed");
 });
 loadMarketBoard().catch(() => {
-  marketStatus.textContent = "Refresh failed";
+  marketStatus.textContent = t("refreshFailed");
 });
-loadTradingViewWidget();

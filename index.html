@@ -19,31 +19,34 @@
           <div class="brand">
             <span class="brand-mark">WW</span>
             <div>
-              <p class="eyebrow">Daily global brief</p>
+              <p class="eyebrow" data-i18n="brandEyebrow">Daily global brief</p>
               <h1>World Window</h1>
             </div>
           </div>
-          <button id="refreshButton" class="ghost-button" type="button">
-            Refresh news
-          </button>
+          <div class="topbar-actions">
+            <button id="languageToggle" class="ghost-button" type="button">中文</button>
+            <button id="refreshButton" class="ghost-button" type="button" data-i18n="refreshButton">
+              Refresh news
+            </button>
+          </div>
         </nav>
 
         <section class="hero-grid">
           <div class="hero-copy">
-            <p class="kicker">See the world in one glance</p>
-            <h2>Latest headlines across the globe, plus a new scenic escape every day.</h2>
-            <p class="hero-text">
+            <p class="kicker" data-i18n="heroKicker">See the world in one glance</p>
+            <h2 data-i18n="heroTitle">Latest headlines across the globe, plus a new scenic escape every day.</h2>
+            <p class="hero-text" data-i18n="heroText">
               This page blends fast-moving world coverage with a calm daily landscape so
               your dashboard feels informative without being overwhelming.
             </p>
             <div class="hero-meta">
               <div>
-                <span class="meta-label">Updated</span>
+                <span class="meta-label" data-i18n="updatedLabel">Updated</span>
                 <strong id="lastUpdated">Loading...</strong>
               </div>
               <div>
-                <span class="meta-label">Sources</span>
-                <strong>BBC, Reuters, Google News, ScienceDaily</strong>
+                <span class="meta-label" data-i18n="sourcesLabel">Sources</span>
+                <strong data-i18n="sourcesValue">BBC, Reuters, Google News, ScienceDaily</strong>
               </div>
             </div>
           </div>
@@ -57,11 +60,9 @@
               />
             </div>
             <div class="scenery-copy">
-              <p class="section-tag">Toronto view</p>
+              <p class="section-tag" data-i18n="sceneryTag">Toronto view</p>
               <h3 id="sceneryTitle">Loading today’s view...</h3>
-              <p id="sceneryDescription">
-                Picking a scenic image for your daily reset.
-              </p>
+              <p id="sceneryDescription"></p>
             </div>
           </aside>
         </section>
@@ -71,13 +72,13 @@
         <section class="panel news-panel">
           <div class="panel-head">
             <div>
-              <p class="section-tag">News board</p>
-              <h3>Headlines by section</h3>
+              <p class="section-tag" data-i18n="newsBoardTag">News board</p>
+              <h3 data-i18n="newsBoardTitle">Headlines by section</h3>
             </div>
             <p id="newsStatus" class="status-pill">Loading sections...</p>
           </div>
 
-          <div class="section-intro">
+          <div class="section-intro" data-i18n="sectionIntro">
             I split the news into a few focused lanes so you can check world events and AI
             updates without everything mixing together.
           </div>
@@ -86,8 +87,8 @@
             <section class="category-panel">
               <div class="category-head">
                 <div>
-                  <p class="section-tag">World</p>
-                  <h4>Global headlines</h4>
+                  <p class="section-tag" data-i18n="worldTag">World</p>
+                  <h4 data-i18n="worldTitle">Global headlines</h4>
                 </div>
                 <p id="status-world" class="mini-status">Loading...</p>
               </div>
@@ -98,7 +99,7 @@
               <div class="category-head">
                 <div>
                   <p class="section-tag">AI</p>
-                  <h4>Artificial intelligence</h4>
+                  <h4 data-i18n="aiTitle">Artificial intelligence</h4>
                 </div>
                 <p id="status-ai" class="mini-status">Loading...</p>
               </div>
@@ -108,8 +109,8 @@
             <section class="category-panel">
               <div class="category-head">
                 <div>
-                  <p class="section-tag">Business</p>
-                  <h4>Markets and economy</h4>
+                  <p class="section-tag" data-i18n="businessTag">Business</p>
+                  <h4 data-i18n="businessTitle">Markets and economy</h4>
                 </div>
                 <p id="status-business" class="mini-status">Loading...</p>
               </div>
@@ -119,8 +120,8 @@
             <section class="category-panel">
               <div class="category-head">
                 <div>
-                  <p class="section-tag">Science</p>
-                  <h4>Research and discovery</h4>
+                  <p class="section-tag" data-i18n="scienceTag">Science</p>
+                  <h4 data-i18n="scienceTitle">Research and discovery</h4>
                 </div>
                 <p id="status-science" class="mini-status">Loading...</p>
               </div>
@@ -132,8 +133,8 @@
         <section class="panel market-panel">
           <div class="panel-head market-head">
             <div>
-              <p class="section-tag">Markets</p>
-              <h3>Market Snapshot</h3>
+              <p class="section-tag" data-i18n="marketsTag">Markets</p>
+              <h3 data-i18n="marketsTitle">Market Snapshot</h3>
             </div>
             <p id="marketStatus" class="status-pill">Loading market data...</p>
           </div>
@@ -142,43 +143,43 @@
             <article class="market-card">
               <p class="market-label">USD/CNY</p>
               <strong id="ticker-usd-cny" class="market-value">--</strong>
-              <p class="market-note">1 US dollar in Chinese yuan</p>
+              <p class="market-note" data-i18n="usdCnyNote">1 US dollar in Chinese yuan</p>
             </article>
 
             <article class="market-card">
               <p class="market-label">USD/CAD</p>
               <strong id="ticker-usd-cad" class="market-value">--</strong>
-              <p class="market-note">1 US dollar in Canadian dollars</p>
+              <p class="market-note" data-i18n="usdCadNote">1 US dollar in Canadian dollars</p>
             </article>
 
             <article class="market-card">
               <p class="market-label">CAD/CNY</p>
               <strong id="ticker-cad-cny" class="market-value">--</strong>
-              <p class="market-note">1 Canadian dollar in Chinese yuan</p>
+              <p class="market-note" data-i18n="cadCnyNote">1 Canadian dollar in Chinese yuan</p>
             </article>
 
             <article class="market-card gold-card">
-              <p class="market-label">Gold</p>
+              <p class="market-label" data-i18n="goldLabel">Gold</p>
               <strong id="ticker-gold" class="market-value">--</strong>
-              <p class="market-note">Spot gold in US dollars per ounce</p>
+              <p class="market-note" data-i18n="goldNote">Spot gold in US dollars per ounce</p>
             </article>
 
             <article class="market-card">
-              <p class="market-label">Bitcoin</p>
+              <p class="market-label" data-i18n="bitcoinLabel">Bitcoin</p>
               <strong id="ticker-btc" class="market-value">--</strong>
-              <p class="market-note">Bitcoin price in US dollars</p>
+              <p class="market-note" data-i18n="bitcoinNote">Bitcoin price in US dollars</p>
             </article>
           </div>
 
           <section class="market-widget-card">
             <div class="widget-head">
-              <p class="section-tag">Benchmarks</p>
-              <h4>Major indexes</h4>
+              <p class="section-tag" data-i18n="benchmarksTag">Benchmarks</p>
+              <h4 data-i18n="benchmarksTitle">Major indexes</h4>
             </div>
             <div id="tradingview-widget" class="tradingview-widget-frame"></div>
           </section>
 
-          <div class="note">
+          <div class="note" data-i18n="marketNote">
             FX uses a public exchange-rate API. Gold and Bitcoin use public market APIs.
             Major indexes are embedded through a live market widget for broader coverage.
           </div>

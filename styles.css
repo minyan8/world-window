@@ -65,6 +65,13 @@ img {
   gap: 16px;
 }
 
+.topbar-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
 .brand,
 .hero-meta,
 .content-grid,
@@ -475,6 +482,11 @@ h4 {
   .news-footer {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .topbar-actions {
+    width: 100%;
+    justify-content: flex-start;
   }
 
   .hero-meta {
