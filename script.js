@@ -1,6 +1,7 @@
 const RSS_PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
 const FX_API = "https://api.frankfurter.dev/v1/latest?base=USD&symbols=CNY,CAD";
 const GOLD_API = "https://api.gold-api.com/price/XAU";
+const BTC_API = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd";
 
 const NEWS_SECTIONS = [
   {
@@ -112,6 +113,7 @@ const marketTickers = {
   usdCad: document.querySelector("#ticker-usd-cad"),
   cadCny: document.querySelector("#ticker-cad-cny"),
   gold: document.querySelector("#ticker-gold"),
+  btc: document.querySelector("#ticker-btc"),
 };
 
 const dateKey = new Date().toISOString().slice(0, 10);
@@ -256,7 +258,7 @@ async function loadNewsBoard() {
 async function loadMarketBoard() {
   marketStatus.textContent = "Loading market data...";
 
-  const [fxResult, goldResult] = await Promise.allSettled([
+  const [fxResult, goldResult, btcResult] = await Promise.allSettled([
     fetch(FX_API).then((response) => {
       if (!response.ok) {
         throw new Error("FX request failed");
@@ -270,6 +272,12 @@ async function loadMarketBoard() {
     }).then((response) => {
       if (!response.ok) {
         throw new Error("Gold request failed");
+      }
+      return response.json();
+    }),
+    fetch(BTC_API).then((response) => {
+      if (!response.ok) {
+        throw new Error("BTC request failed");
       }
       return response.json();
     }),
@@ -305,8 +313,54 @@ async function loadMarketBoard() {
     marketTickers.gold.textContent = "--";
   }
 
+  if (btcResult.status === "fulfilled" && btcResult.value?.bitcoin?.usd) {
+    marketTickers.btc.textContent = formatGold(btcResult.value.bitcoin.usd);
+    successCount += 1;
+  } else {
+    marketTickers.btc.textContent = "--";
+  }
+
   marketStatus.textContent =
     successCount > 0 ? "Market data live" : "Market data unavailable";
+}
+
+function loadTradingViewWidget() {
+  const container = document.querySelector("#tradingview-widget");
+  if (!container) {
+    return;
+  }
+
+  container.innerHTML = "";
+
+  const widget = document.createElement("div");
+  widget.className = "tradingview-widget-container";
+  widget.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+  container.appendChild(widget);
+
+  const script = document.createElement("script");
+  script.src = "https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js";
+  script.async = true;
+  script.textContent = JSON.stringify({
+    width: "100%",
+    height: 420,
+    locale: "en",
+    colorTheme: "light",
+    backgroundColor: "#fffdf8",
+    showSymbolLogo: false,
+    symbolsGroups: [
+      {
+        name: "Indexes",
+        symbols: [
+          { name: "FOREXCOM:SPXUSD", displayName: "S&P 500" },
+          { name: "NASDAQ:IXIC", displayName: "Nasdaq" },
+          { name: "FOREXCOM:DJI", displayName: "Dow Jones" },
+          { name: "HSI:HSI", displayName: "Hang Seng" },
+          { name: "SSE:000001", displayName: "Shanghai Composite" },
+        ],
+      },
+    ],
+  });
+  widget.appendChild(script);
 }
 
 function buildSceneryState() {
@@ -383,3 +437,4 @@ loadNewsBoard().catch(() => {
 loadMarketBoard().catch(() => {
   marketStatus.textContent = "Refresh failed";
 });
+loadTradingViewWidget();

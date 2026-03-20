@@ -133,7 +133,7 @@
           <div class="panel-head market-head">
             <div>
               <p class="section-tag">Markets</p>
-              <h3>财经速览</h3>
+              <h3>Market Snapshot</h3>
             </div>
             <p id="marketStatus" class="status-pill">Loading market data...</p>
           </div>
@@ -142,30 +142,45 @@
             <article class="market-card">
               <p class="market-label">USD/CNY</p>
               <strong id="ticker-usd-cny" class="market-value">--</strong>
-              <p class="market-note">1 美元兑换人民币</p>
+              <p class="market-note">1 US dollar in Chinese yuan</p>
             </article>
 
             <article class="market-card">
               <p class="market-label">USD/CAD</p>
               <strong id="ticker-usd-cad" class="market-value">--</strong>
-              <p class="market-note">1 美元兑换加元</p>
+              <p class="market-note">1 US dollar in Canadian dollars</p>
             </article>
 
             <article class="market-card">
               <p class="market-label">CAD/CNY</p>
               <strong id="ticker-cad-cny" class="market-value">--</strong>
-              <p class="market-note">1 加元兑换人民币</p>
+              <p class="market-note">1 Canadian dollar in Chinese yuan</p>
             </article>
 
             <article class="market-card gold-card">
               <p class="market-label">Gold</p>
               <strong id="ticker-gold" class="market-value">--</strong>
-              <p class="market-note">现货黄金美元/盎司</p>
+              <p class="market-note">Spot gold in US dollars per ounce</p>
+            </article>
+
+            <article class="market-card">
+              <p class="market-label">Bitcoin</p>
+              <strong id="ticker-btc" class="market-value">--</strong>
+              <p class="market-note">Bitcoin price in US dollars</p>
             </article>
           </div>
 
+          <section class="market-widget-card">
+            <div class="widget-head">
+              <p class="section-tag">Benchmarks</p>
+              <h4>Major indexes</h4>
+            </div>
+            <div id="tradingview-widget" class="tradingview-widget-frame"></div>
+          </section>
+
           <div class="note">
-            汇率使用公开外汇接口，黄金使用公开金价接口。若个别源临时不可用，页面会保留其余数据。
+            FX uses a public exchange-rate API. Gold and Bitcoin use public market APIs.
+            Major indexes are embedded through a live market widget for broader coverage.
           </div>
         </section>
       </main>
