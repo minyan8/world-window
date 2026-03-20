@@ -22,6 +22,10 @@ const sections = {
   )}&lang=en&max=8&sortby=publishedAt&from=${encodeURIComponent(since)}&apikey=${apiKey}`,
 };
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 function normalizeArticle(article) {
   return {
     title: article.title || "",
@@ -46,19 +50,29 @@ function uniqueByUrl(articles) {
 }
 
 async function fetchSection(url) {
-  const response = await fetch(url, {
-    headers: {
-      Accept: "application/json",
-    },
-  });
+  for (let attempt = 1; attempt <= 4; attempt += 1) {
+    const response = await fetch(url, {
+      headers: {
+        Accept: "application/json",
+      },
+    });
 
-  if (!response.ok) {
+    if (response.ok) {
+      const data = await response.json();
+      return uniqueByUrl((data.articles || []).map(normalizeArticle));
+    }
+
     const text = await response.text();
+
+    if (response.status === 429 && attempt < 4) {
+      await sleep(3000 * attempt);
+      continue;
+    }
+
     throw new Error(`GNews request failed: ${response.status} ${text}`);
   }
 
-  const data = await response.json();
-  return uniqueByUrl((data.articles || []).map(normalizeArticle));
+  throw new Error("GNews request failed after retries");
 }
 
 const payload = {
@@ -69,6 +83,7 @@ const payload = {
 
 for (const [section, url] of Object.entries(sections)) {
   payload.sections[section] = await fetchSection(url);
+  await sleep(1500);
 }
 
 const outputDir = path.resolve(process.cwd(), "data");
