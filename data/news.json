@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-22T09:29:39.946Z",
+  "fetchedAt": "2026-03-22T10:28:52.905Z",
   "sections": {
     "world": [
       {
-        "title": "London now in reach of Iran’s missiles, Israel warns Starmer",
-        "description": "Prime Minister accused of covering up attack on British base on Diego Garcia that revealed range of Tehran’s weaponry",
-        "url": "https://www.telegraph.co.uk/news/2026/03/21/london-now-in-reach-of-irans-missiles-israel-warns-starmer/",
-        "image": "https://www.telegraph.co.uk/content/dam/news/2026/03/21/TELEMMGLPICT000474310447_17741251764550_trans_NvBQzQNjv4BqLFvFcbCCSSPOPEZoCZQZEv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-03-21T21:25:00Z",
-        "source": "The Telegraph"
+        "title": "Iran launched missiles at US-UK military base in the Indian Ocean. Here’s what that says about its capabilities",
+        "description": "Iran’s attempt to strike a US-UK base over 2,000 miles (over 3,000 kilometers) off its coast has renewed questions about Tehran’s military capabilities and how far its missiles can reach.",
+        "url": "https://www.cnn.com/2026/03/21/politics/iran-missiles-diego-garcia",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26080467004763.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-03-21T22:22:16Z",
+        "source": "CNN"
       },
       {
-        "title": "People gather in Milwaukee's upper east side to protest Trump Administration's blockade on Cuba",
-        "description": "MILWAUKEE (CBS 58) -- A groups of demonstrators in Milwaukee gathered Saturday, March 21, to protest the Trump Administration's pressure on Cuba. Hosted by the Wisconsin Cuba Coalition, the group met",
-        "url": "https://www.cbs58.com/news/people-gather-in-milwaukees-upper-east-side-to-protest-trump-administrations-pressure-on-cuba",
-        "image": "https://newscdn2.weigelbroadcasting.com/RWxNT-1774130498-314714-blog-vlcsnap-2026-03-21-16h54m35s438.png",
-        "publishedAt": "2026-03-21T21:25:00Z",
-        "source": "CBS58"
+        "title": "Eid diplomacy: Bangladesh PM Rahman seeks stronger ties in letter to PM Modi",
+        "description": "India News: NEW DELHI: Prime Minister Narendra Modi and his Bangladesh counterpart Tarique Rahman indulged in some Eid diplomacy this week, with Rahman expressing.",
+        "url": "https://timesofindia.indiatimes.com/india/eid-diplomacy-bangladesh-pm-rahman-seeks-stronger-ties-in-letter-to-pm-modi/articleshow/129726037.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129726342,width-1280,height-720,imgsize-76616,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-21T22:20:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Volcanic activity worldwide 21 Mar 2026: Santiaguito volcano, Fuego, Popocatépetl, Merapi, Semeru, ...",
-        "description": "Volcanic activity world-wide",
-        "url": "https://www.volcanodiscovery.com/es/volcano-activity/news/298219/Volcanic-activity-worldwide-21-Mar-2026-Santiaguito-volcano-Fuego-Popocatepetl-Merapi-Semeru-.html",
-        "image": "https://volcanodiscovery.de/uploads/pics/2026/03/active-volcano-map2-2026-03-21.jpg",
-        "publishedAt": "2026-03-21T21:22:13Z",
-        "source": "Volcano Discovery"
+        "title": "World Poetry Day: How poetry is driving activism, inclusion globally",
+        "description": "Poetry has long served as a vehicle for activism, giving voice to the marginalised and challenging systems of power. Wole Soyinka, born in Nigeria in 1934, is o...",
+        "url": "https://eastleighvoice.co.ke/art-and-culture/317435/world-poetry-day-how-poetry-is-driving-activism-inclusion-globally",
+        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/03/befunky_2026-2-6_17-5-19.jpg",
+        "publishedAt": "2026-03-21T22:18:21Z",
+        "source": "eastleighvoice.co.ke"
       },
       {
-        "title": "Surprise, embarrassment, unease in Japan over Trump's Pearl Harbor comments",
-        "description": "Senior U.S. and Japanese officials tend to shy away from anything but very careful public comments about Japan's 1941 sneak attack on U.S. forces at Pearl Harbor. So there was embarrassment, confusion and unease on Saturday in Japan after President Donald Trump casually used the World War II attack to…",
-        "url": "https://japantoday.com/category/politics/Surprise-embarrassment-unease-in-Japan-over-Trump's-Pearl-Harbor-comments",
-        "image": "https://media.japantoday.com/img/store/77/a1/5c61bad66e57546b3ce213d184640b4026f1/download/_w1700.jpeg",
-        "publishedAt": "2026-03-21T21:19:00Z",
-        "source": "Japan Today"
+        "title": "Saudi Arabia gives Iranian military attache and 4 other embassy staffers 24 hours to leave country",
+        "description": "Citing Iran’s recent attacks, Saudi Arabia has declared the Iranian military attache, assistant attache, and three other Iranian Embassy staffers persona non grata, giving them 24 hours to le…",
+        "url": "https://www.middleeastmonitor.com/20260321-saudi-arabia-gives-iranian-military-attache-and-4-other-embassy-staffers-24-hours-to-leave-country/",
+        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2025/11/AA-20251103-39603077-39603072-MEETING_ON_GAZA_BEGINS_IN_ISTANBUL-1.jpg?fit=920%2C613&ssl=1",
+        "publishedAt": "2026-03-21T22:17:00Z",
+        "source": "Middle East Monitor"
       },
       {
-        "title": "Iran strikes Israeli nuclear town in retaliation for Natanz attack amid escalating conflict",
-        "description": "An Iranian missile struck the Israeli town of Dimona, home to a nuclear facility, injuring dozens in what Tehran said was retaliation for strikes on its Natanz nuclear site. The attack comes amid escalating…",
-        "url": "https://www.france24.com/en/middle-east/20260321-iran-strikes-israeli-nuclear-town-in-retaliation-for-natanz-attack-amid-escalating-conflict",
-        "image": "https://s.france24.com/media/display/b6ec7c32-2568-11f1-bc11-005056bfb2b6/w:1280/p:16x9/2026-03-21T201043Z-1574136544-RC269KA9UPZI-RTRMADP-3-IRAN-CRISIS-ISRAEL.jpg",
-        "publishedAt": "2026-03-21T21:12:12Z",
-        "source": "France 24"
+        "title": "‘Can reach London, Paris or Berlin’: Israel says Iran launched missile with range of 4,000 km",
+        "description": "Middle East News: Israel Defense Forces said Iran has launched a long-range missile capable of travelling about 4,000 km for the first time since the start of “Operatio.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/can-reach-london-paris-or-berlin-israel-says-iran-launched-missile-with-range-of-4000-km/articleshow/129725516.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129725659,width-1280,height-720,imgsize-454459,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-21T22:14:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Trump delivers mixed messages about the war with Iran",
-        "description": "President Donald Trump is sending mixed messages about the U.S. war with Iran, and that's raising even more questions about the direction of the conflict and his administration's strategy.",
-        "url": "https://apnews.com/article/trump-iran-war-oil-sanctions-troops-contradictions-eb10ac163be642ad4d738bab9f0ae2a6",
-        "image": "https://dims.apnews.com/dims4/default/0e40b1e/2147483647/strip/true/crop/3082x2054+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F93%2F906af33ee7891e84a78f78811b3b%2Fe7e6749fd55446f3bab4d8a639a49912",
-        "publishedAt": "2026-03-21T21:11:00Z",
-        "source": "AP News"
+        "title": "Middle East crisis live: Trump threatens huge attack if Iran does not reopen strait of Hormuz within 48 hours",
+        "description": "US president says he will ‘obliterate their various power plants, starting with biggest one first’",
+        "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes?page=with:block-69bf176e8f08c1f048aff4dd",
+        "image": "https://i.guim.co.uk/img/media/925f0eb4035965a937744c23d22a7e807e88a573/121_0_1320_1056/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ea8196e53eaeb94f404914cdea5ff2fa",
+        "publishedAt": "2026-03-21T22:13:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Tens of thousands of people in Prague protest against new government of Czech prime minister Babiš",
-        "description": "Tens of thousands of people protested in Prague on Saturday against the policies and plans of the new Czech government led by populist Prime Minister Andrej Babiš.",
-        "url": "https://www.pbs.org/newshour/world/tens-of-thousands-of-people-in-prague-protest-against-new-government-of-czech-prime-minister-babis",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-21T162047Z_1267377277_RC239KANPDJ4_RTRMADP_3_CZECH-PROTEST-1024x687.jpg",
-        "publishedAt": "2026-03-21T21:08:38Z",
-        "source": "PBS"
+        "title": "Middle East crisis live: Trump threatens huge attack if Iran does not reopen strait of Hormuz within 48 hours",
+        "description": "US president says he will ‘obliterate their various power plants, starting with biggest one first’",
+        "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes?page=with:block-69beef198f081668c1c41102",
+        "image": "https://i.guim.co.uk/img/media/925f0eb4035965a937744c23d22a7e807e88a573/121_0_1320_1056/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ea8196e53eaeb94f404914cdea5ff2fa",
+        "publishedAt": "2026-03-21T22:13:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Poll: 70% of Tourists Would Avoid South Africa if Lion Breeding Reversal Stands",
-        "description": "A new international poll warning that seven in ten tourists would reconsider visiting South Africa if the country abandons its commitment to end captive lion breeding has landed as the country's new environment minister moves to reopen wildlife trophy exports, deepening conservationists' fears that landmark reforms are being quietly dismantled.…",
-        "url": "https://www.newsghana.com.gh/poll-70-of-tourists-would-avoid-south-africa-if-lion-breeding-reversal-stands/",
-        "image": "https://www.newsghana.com.gh/wp-content/uploads/2024/08/logo-newsghana.png",
-        "publishedAt": "2026-03-21T21:08:24Z",
-        "source": "News Ghana"
+        "title": "Middle East crisis live: Iran hits Israeli town housing nuclear facility in retaliation for Natanz strike",
+        "description": "Iran’s atomic energy organisation accuses the US and Israel of hitting Natanz enrichment complex but says ‘no leakage of radioactive materials’",
+        "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes?page=with:block-69be9a538f081668c1c40f2e",
+        "image": "https://i.guim.co.uk/img/media/f8845fc41943fa0c2d424f07c8cff1bd514b1212/628_0_6379_5103/master/6379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bb93f0d0293a23acdeacfd3330ad6f67",
+        "publishedAt": "2026-03-21T22:13:00Z",
+        "source": "The Guardian"
       }
     ],
     "business": [
       {
-        "title": "A Look At Align Technology (ALGN) Valuation As Elliott Investment Management Takes A Major Stake",
-        "description": "Elliott Investment Management has quietly become one of the largest shareholders in Align Technology (ALGN), preparing to engage management on options to improve stock performance, a development that has quickly drawn investor attention.\nSee our latest analysis for Align Technology.\nAt a share price of US$173.18, Align has seen a 5.45% 7 day share price return and a 9.82% 90 day share price return. The 3 year total shareholder return of a 43.53% decline indicates that longer term momentum has...",
-        "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-algn/align-technology/news/a-look-at-align-technology-algn-valuation-as-elliott-investm",
-        "image": "https://images.simplywall.st/asset/company-cover/24568-main-header/1590545426137",
-        "publishedAt": "2026-03-21T21:25:50Z",
+        "title": "Broker Fees, Platforms, Regulation",
+        "description": "In our easyMarkets review, see regulation by CySEC/ASIC, MT4 vs proprietary platform, fixed spreads, 200+ instruments, €100 minimum deposit, and key pros and cons.",
+        "url": "https://westafricatradehub.com/reviews/easymarkets/",
+        "image": "https://westafricatradehub.com/favicon.ico",
+        "publishedAt": "2026-03-21T22:24:44Z",
+        "source": "West Africa Trade Hub"
+      },
+      {
+        "title": "Ozempic Goes Generic -But Not in the US",
+        "description": "A drug that helped turn Novo Nordisk into Europe's most valuable company is about to lose its monopoly grip across much of the globe. Patent protections on semaglutide—sold...",
+        "url": "https://www.newser.com/story/385725/ozempic-goes-generic-but-not-in-the-us.html",
+        "image": "https://img1-azrcdn.newser.com/image/1672340-12-20260321175432.jpeg",
+        "publishedAt": "2026-03-21T22:20:00Z",
+        "source": "Newser"
+      },
+      {
+        "title": "Is AIXWallets.com Legit or a Scam?",
+        "description": "Is AIXWallets.com legit? Our review flags an unregulated broker with no FCA/SEC oversight, common scam tactics, and steps to recover funds if you were defrauded.",
+        "url": "https://westafricatradehub.com/reviews/aix-wallet/",
+        "image": "https://westafricatradehub.com/favicon.ico",
+        "publishedAt": "2026-03-21T22:19:33Z",
+        "source": "West Africa Trade Hub"
+      },
+      {
+        "title": "Assessing Viavi Solutions (VIAV) Valuation After New Observer Threat Forensics And AI Network Launches",
+        "description": "Viavi Solutions (VIAV) has drawn fresh attention after unveiling its Observer Threat Forensics platform, a security and network visibility tool that will be showcased at the upcoming RSA Conference in San Francisco.\nSee our latest analysis for Viavi Solutions.\nThose product launches around network security, AI driven infrastructure and fiber sensing have arrived alongside strong momentum, with a 30 day share price return of 19.41% and a 1 year total shareholder return of 170.57%, even after a...",
+        "url": "https://simplywall.st/stocks/us/tech/nasdaq-viav/viavi-solutions/news/assessing-viavi-solutions-viav-valuation-after-new-observer",
+        "image": "https://images.simplywall.st/asset/industry/8111000-choice1-main-header/1585186745276",
+        "publishedAt": "2026-03-21T22:18:45Z",
         "source": "simplywall.st"
       },
       {
-        "title": "China Beststudy Education Group (SEHK:3978) Margin Decline Tests Bullish Growth Narratives",
-        "description": "China Beststudy Education Group (SEHK:3978) has reported its FY 2025 first half results with revenue of C¥917.1 million and basic EPS of C¥0.199. Its trailing twelve month figures stand at C¥1.9 billion in revenue and C¥0.396 in EPS, giving investors a clearer view of the recent earnings run rate. The company has seen revenue move from C¥317.4 million and EPS of C¥0.072 in 1H FY 2024 to C¥784.6 million and EPS of C¥0.184 in 2H FY 2024, and now to C¥917.1 million and EPS of C¥0.199 in 1H FY...",
-        "url": "https://simplywall.st/stocks/hk/consumer-services/hkg-3978/china-beststudy-education-group-shares/news/china-beststudy-education-group-sehk3978-margin-decline-test",
-        "image": "https://images.simplywall.st/asset/industry/3112400-choice1-main-header/1585186606618",
-        "publishedAt": "2026-03-21T21:22:30Z",
+        "title": "ACIA Aero Leasing delivers ATR 72",
+        "description": "ACIA Aero Leasing announced the delivery of an ATR 72-600 passenger aircraft on lease to Chingis Airlines Unity in Mongolia",
+        "url": "https://asianaviation.com/acia-aero-leasing-delivers-atr-72-600-to-mongolian-carrier/",
+        "image": "https://media.asianaviation.com/uploads/Chingis-Airlines_ATR_72_600-scaled.jpg",
+        "publishedAt": "2026-03-21T22:18:35Z",
+        "source": "Asian Aviation"
+      },
+      {
+        "title": "Fees, Security, Pros & Cons",
+        "description": "Honest Upbit exchange review: explore security, fees, liquidity, 200+ coins, mobile app, and key cons (KRW-only, no margin, 2019 hack), plus how to sign up.",
+        "url": "https://westafricatradehub.com/reviews/upbit/",
+        "image": "https://westafricatradehub.com/favicon.ico",
+        "publishedAt": "2026-03-21T22:14:26Z",
+        "source": "West Africa Trade Hub"
+      },
+      {
+        "title": "PC Connection Award Highlights Zebra Partner Model And Valuation Gap",
+        "description": "PC Connection has been named Zebra Technologies' 2025 Partner of the Year for National Solutions Providers.\nThe award recognizes PC Connection's role in expanding Zebra's solutions and services across its channel network.\nThis partnership focus centers on Zebra Technologies (NasdaqGS:ZBRA), a supplier of data capture, automation, and enterprise technology.\nZebra Technologies, traded as NasdaqGS:ZBRA, sells hardware, software, and services that support barcode scanning, RFID, mobile...",
+        "url": "https://simplywall.st/stocks/us/tech/nasdaq-zbra/zebra-technologies/news/pc-connection-award-highlights-zebra-partner-model-and-valua",
+        "image": "https://images.simplywall.st/asset/company-cover/393488-main-header/1585187241386",
+        "publishedAt": "2026-03-21T22:12:24Z",
         "source": "simplywall.st"
       },
       {
-        "title": "Assessing Cactus (WHD) Valuation After A Recent Pullback And Perceived Undervaluation",
-        "description": "Cactus (WHD) has drawn fresh attention after a recent move in its share price, with the stock up 1.4% over the past day but showing a 21% decline over the past month.\nSee our latest analysis for Cactus.\nThe recent 1 day share price return of 1.42% comes after a 30 day share price decline of 21.07%. Meanwhile, the 1 year total shareholder return of 0.50% and 3 year total shareholder return of 24.98% suggest longer term holders have seen more stability than the latest pullback implies.\nIf the...",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-whd/cactus/news/assessing-cactus-whd-valuation-after-a-recent-pullback-and-p",
-        "image": "https://images.simplywall.st/asset/industry/1022000-choice2-main-header/1585186558401",
-        "publishedAt": "2026-03-21T21:22:30Z",
+        "title": "Dekon Food And Agriculture Group SEHK 2419 Valuation After Earnings Show Weaker Profits And Modest Sales Growth",
+        "description": "Why Dekon Food and Agriculture Group’s Latest Earnings Matter\nDekon Food and Agriculture Group (SEHK:2419) has just posted its full year 2025 results, reporting sales of CNY 23,159.02 million and a sharp year-on-year fall in net income and earnings per share.\nSee our latest analysis for Dekon Food and Agriculture Group.\nInvestors reacted to the weaker earnings, but the stock still shows momentum, with a 1-day share price return of 2.20%, a 30-day share price return of 9.66%, and a 1-year...",
+        "url": "https://simplywall.st/stocks/hk/food-beverage-tobacco/hkg-2419/dekon-food-and-agriculture-group-shares/news/dekon-food-and-agriculture-group-sehk-2419-valuation-after-e",
+        "image": "https://images.simplywall.st/asset/industry/5122000-choice2-main-header/1585186547117",
+        "publishedAt": "2026-03-21T22:11:40Z",
         "source": "simplywall.st"
-      },
-      {
-        "title": "NUVB Investors Have Opportunity to Join Nuvation Bio Inc. Fraud Investigation with the Schall Law Firm",
-        "description": "NUVB Investors Have Opportunity to Join Nuvation Bio Inc. Fraud Investigation with the Schall Law Firm",
-        "url": "https://www.businesswire.com/news/home/20260321759252/en/NUVB-Investors-Have-Opportunity-to-Join-Nuvation-Bio-Inc.-Fraud-Investigation-with-the-Schall-Law-Firm",
-        "image": "https://mms.businesswire.com/media/20260321759252/en/827144/22/Schall-Firm-Logo-640x360.jpg",
-        "publishedAt": "2026-03-21T21:15:00Z",
-        "source": "Business Wire"
-      },
-      {
-        "title": "McDonald’s burger prices vary a whopping 74% depending on where you live. Here is the cheapest state",
-        "description": "The Big Arch burger contains 1,020 calories and 53 grams of protein and varies in price across the country",
-        "url": "https://nz.news.yahoo.com/mcdonald-burger-prices-vary-whopping-211321108.html",
-        "image": "https://s.yimg.com/os/en/the_independent_577/15362041156919fef7cc7ca9f02a73dc",
-        "publishedAt": "2026-03-21T21:13:21Z",
-        "source": "Yahoo News New Zealand"
-      },
-      {
-        "title": "ins will not make it to Australia as Mazda changes tact",
-        "description": "After Mazda Australia saw interest drop after cessation of FBT benefit, CX-70 and CX-90 plug-in hybrids are no longer on the table.",
-        "url": "https://www.drive.com.au/news/mazda-phev-expansion-makes-no-sense-after-fbt-exemption-shutdown/",
-        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/be377efe-9414-5179-8c97-4aea39850000",
-        "publishedAt": "2026-03-21T21:07:42Z",
-        "source": "drive.com.au"
-      },
-      {
-        "title": "Got $5,000? 2 Beaten-Down Tech Stocks Smart Money Is Quietly Accumulating",
-        "description": "Both stocks provide much more upside than downside at current prices.",
-        "url": "https://www.fool.com/investing/2026/03/21/got-5000-2-beaten-down-tech-stocks-smart-money-is/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F860685%2Fcrmadbe.png&w=1200&op=resize",
-        "publishedAt": "2026-03-21T21:05:54Z",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "Vet shock: Pet owner extends mortgage by $20,000 to pay bills",
-        "description": "In the face of astronomical vet bills that can leave pet owners in shock, some question whether owning a companion animal is now a luxury many can’t afford....",
-        "url": "https://www.nzherald.co.nz/nz/vet-shock-pet-owner-extends-mortgage-by-20000-to-pay-bills/premium/C3VFDXT7LVHJ5IWNIIKKHDRD7I/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/HB5BBYKS5BAB5FP4X2J2A4LV3Y.jpg?auth=9b5a06b294aa9db4d58fffe39fa0b50f77b5c6c3d8d2959a322940a222b60810&width=1200&height=675&quality=70&focal=973%2C788&smart=false",
-        "publishedAt": "2026-03-21T21:02:16Z",
-        "source": "NZ Herald"
       }
     ],
     "science": [
+      {
+        "title": "Saturn, Jupiter moon count rises to record-breaking as astronomers discover new satellites",
+        "description": "Astronomers have identified 11 new moons orbiting Saturn, bringing its total number of known satellites to 285. At the same time, Jupiter’s moon count has surpassed 100 for the first time, following the discovery of four additional moons, Qazinform News Agency correspondent reports.",
+        "url": "https://qazinform.com/news/saturn-jupiter-moon-count-rises-to-record-breaking-as-astronomers-discover-new-satellites-523f6a",
+        "image": "https://img.inform.kz/kazinform-photobank/media/2026-03-21/9d61094d-44db-4d3b-89d4-784a232e768a.jpeg",
+        "publishedAt": "2026-03-21T22:08:18Z",
+        "source": "Qazinform"
+      },
+      {
+        "title": "Sharks once hunted and scavenged whales in the North Sea",
+        "description": "Scientists found shark teeth inside fossil whale skulls, revealing how sharks fed on whales millions of years ago.",
+        "url": "https://www.earth.com/news/sharks-once-hunted-and-scavenged-whales-in-the-north-sea/",
+        "image": "https://cff2.earth.com/uploads/2026/03/21145429/sharks-feeding-on-whales.jpg",
+        "publishedAt": "2026-03-21T21:56:15Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Woman's adopted pet hawk helped her through cancer recovery",
+        "description": "Bird the Harris Hawk took to the skies just when Candida Meyrick needed grounding.",
+        "url": "https://www.yahoo.com/lifestyle/articles/adopted-pet-hawk-helped-cancer-214406854.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/.gCmkHd6Yx37634gcm3r.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/7fa880f98bf221e0a77ad1332e355e26",
+        "publishedAt": "2026-03-21T21:44:06Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Anglesey woman credits pet hawk with helping cancer recovery",
+        "description": "Bird the Harris Hawk took to the skies just when Candida Meyrick needed grounding.",
+        "url": "https://www.bbc.co.uk/news/articles/c39we0kkl8wo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/657f/live/33d42aa0-23a3-11f1-9699-87c229cb26a0.jpg",
+        "publishedAt": "2026-03-21T21:44:02Z",
+        "source": "BBC"
+      },
       {
         "title": "Ancient Fragments Could Be The World's Oldest Known Geometry",
         "description": "Ancient humans were surprisingly creative, structured, and geometrical in their thinking some 60,000 years ago, according to some intricately engraved ostrich eggshells found across southern Africa.",
@@ -142,6 +174,14 @@
         "image": "https://www.sciencealert.com/images/2026/03/FourDecoratedOstrichEggshells.jpg",
         "publishedAt": "2026-03-21T21:02:28Z",
         "source": "ScienceAlert"
+      },
+      {
+        "title": "Watch Russia launch Progress 94 cargo ship to the ISS on March 22",
+        "description": "A Russian Progress cargo spacecraft will launch toward the International Space Station on Sunday morning (March 22), and you can watch the action live.",
+        "url": "https://www.yahoo.com/news/articles/watch-russia-launch-progress-94-210000836.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/ntZNLalwcIdCBE1ewj4Lxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/space_311/9d579a3aedbb3fce05efdf22ccd5c9de",
+        "publishedAt": "2026-03-21T21:00:00Z",
+        "source": "Yahoo"
       },
       {
         "title": "Watch Russia launch Progress 94 cargo ship to the ISS on March 22",
@@ -158,49 +198,57 @@
         "image": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/03/Baby-in-headphones.png",
         "publishedAt": "2026-03-21T20:51:45Z",
         "source": "Upworthy"
-      },
-      {
-        "title": "Bennu is forcing scientists to rethink everything about asteroids",
-        "description": "NASA’s study of Bennu reveals why its rocky surface behaves like sand. The answer lies in cracks deep inside its boulders.",
-        "url": "https://www.earth.com/news/bennu-is-forcing-scientists-to-rethink-everything-about-asteroids/",
-        "image": "https://cff2.earth.com/uploads/2026/03/21134240/Asteroid-Bennu.jpg",
-        "publishedAt": "2026-03-21T20:48:45Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Geologists Discovered Earth’s Oldest Water, Took a Sip, What They Found Next Left Them Stunned!",
-        "description": "Geologists have discovered the world’s oldest water, hidden deep in a Canadian mine, and one brave scientist even tasted it, revealing something completely unexpected.",
-        "url": "https://indiandefencereview.com/geologists-discovered-earths-oldest-water/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/geologists-discovered-earths-oldest-water-took-a-sip-what-they-found-next-left-them-stunned-scaled.png",
-        "publishedAt": "2026-03-21T18:00:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "Scientists Recruit Undergrad to Step Into Room Filled With Ravenous Mosquitoes for \"Full-Body Massacre\"",
-        "description": "Researchers at Georgia Tech used undergraduate student Chris Zuo as bait in trials to study mosquito flight behaviors.",
-        "url": "https://futurism.com/science-energy/mosquito-research-experiment",
-        "image": "https://futurism.com/wp-content/uploads/2026/03/mosquito-research-experiment.png?quality=85&w=1200",
-        "publishedAt": "2026-03-21T18:00:00Z",
-        "source": "Futurism"
-      },
-      {
-        "title": "Exploring Northeast Syrtis via Jezero Crater",
-        "description": "Welcome to Astrobiology.com",
-        "url": "https://astrobiology.com/2026/03/exploring-northeast-syrtis-via-jezero-crater.html",
-        "image": "https://astrobiology.com/wp-content/uploads/2026/03/Exploring-Northeast-Syrtis.jpg",
-        "publishedAt": "2026-03-21T17:33:15Z",
-        "source": "astrobiology.com"
-      },
-      {
-        "title": "A New Spin On Planet Formation",
-        "description": "Welcome to Astrobiology.com",
-        "url": "https://astrobiology.com/2026/03/a-new-spin-on-planet-formation.html",
-        "image": "https://astrobiology.com/wp-content/uploads/2026/03/A-New-Spin-on-Planet-Formation-1.jpg",
-        "publishedAt": "2026-03-21T17:28:15Z",
-        "source": "astrobiology.com"
       }
     ],
     "ai": [
+      {
+        "title": "J&K govt moves to integrate AI into anti",
+        "description": "Committee formed to evaluate the proposal on the use of AI in probe by ACB.",
+        "url": "https://www.tribuneindia.com/news/j-k/jk-govt-moves-to-integrate-ai-into-anti-corruption-investigation/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdmZmU2MDQwLTI1NzMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-03-21T22:15:25Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Bihar resident held for sharing morphed, objectionable images of PM on social media",
+        "description": "A 27-year-old man was arrested in Bihar for posting objectionable AI-generated images of PM Modi on social media, facing multiple charges. | Latest News Delhi",
+        "url": "https://www.hindustantimes.com/cities/delhi-news/bihar-resident-held-for-sharing-morphed-objectionable-images-of-pm-on-social-media-101774116811580.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/21/550x309/According-to-police--last-month--the-accused-alleg_1774116809369.jpg",
+        "publishedAt": "2026-03-21T22:04:00Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "This tiny AI companion does what Clippy promised 30 years ago",
+        "description": "AI virtual companions have come into their own",
+        "url": "https://www.xda-developers.com/tiny-ai-companion-does-what-clippy-promised-30-years-ago/",
+        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/asus-omni-ai-companion-hero.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-03-21T22:00:21Z",
+        "source": "XDA Developers"
+      },
+      {
+        "title": "How to choose your Isa investments",
+        "description": "AI and defence firms have been popular but nothing stays top of the pile for ever, so spread your money far and wide for the best results",
+        "url": "https://www.thetimes.com/money/saving-investing/article/how-to-choose-your-isa-investments-qxp7wnvkp",
+        "image": "https://www.thetimes.com/imageserver/image/b74d143f-1648-4e7f-a74a-1101bcc6dc56.jpg?strip=all&format=webp&crop=1598px%2C899px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-03-21T22:00:00Z",
+        "source": "The Sunday Times"
+      },
+      {
+        "title": "Commentary: AI travel agents? Bring them on",
+        "description": "Some users may be reluctant to increase their dependence on Big Tech firms, but a radically different future could be possible given fast-changing AI models, says John Thornhill for Financial Times.",
+        "url": "https://www.channelnewsasia.com/commentary/ai-agent-travel-bookings-holiday-big-tech-6006586",
+        "image": "https://dam.mediacorp.sg/image/upload/s--ufB3mj8y--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/20/istock-2231762842.jpg?itok=EdyMwEB0",
+        "publishedAt": "2026-03-21T22:00:00Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Inside smackdown of Sam Altman at elite Hollywood party",
+        "description": "As Mick Jagger danced and Jeff Bezos and Lauren Sánchez Bezos steamed at a Vanity Fair party, the Open AI boss was confronted about his tech by a playwright.",
+        "url": "https://www.afr.com/world/north-america/inside-sam-altman-s-smackdown-at-elite-hollywood-party-20260322-p5rmed",
+        "image": "https://static.ffx.io/images/$zoom_0.5687%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_78%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/3fbde372c6aa09e522a59de5cc3b9c66782da7b0",
+        "publishedAt": "2026-03-21T21:30:27Z",
+        "source": "Australian Financial Review"
+      },
       {
         "title": "MSI launches $85,000 XpertStation WS300 with Nvidia GB300 Ultra and massive memory that redefines local AI performance",
         "description": "Data center class performance delivered directly to the desktop",
@@ -216,54 +264,6 @@
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/22/982853.jpg",
         "publishedAt": "2026-03-21T20:55:00Z",
         "source": "The Manila Times"
-      },
-      {
-        "title": "GROK13K Expands Its DeFi Ecosystem With AI-Powered Solutions for 2026",
-        "description": "As artificial intelligence continues to redefine decentralized finance (DeFi), GROK13K stands out as a next-generation ecosystem.",
-        "url": "https://techbullion.com/grok13k-expands-its-defi-ecosystem-with-ai-powered-solutions-for-2026/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/03/Screenshot-2026-03-22-014002.png",
-        "publishedAt": "2026-03-21T20:41:00Z",
-        "source": "TechBullion"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman wins dismissal against sister's ‘abuse’ claims: From 2025 lawsuit to 2026 ruling - how it unfolded",
-        "description": "In her complaint, Ann Altman, who was 30-years-old back then, alleged that the abuse involved ‘numerous acts’ of rape, sexual assault, molestation, sodomy and battery until she was 11 or 12 years old",
-        "url": "https://www.livemint.com/news/us-news/openai-ceo-sam-altman-wins-dismissal-against-sisters-abuse-claims-from-2025-lawsuit-to-2026-ruling-how-it-unfolded-11774121177893.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/OPENAI-ALTMAN-SISTER-LAWSUIT-0_1774124757460_1774124775691.JPG",
-        "publishedAt": "2026-03-21T20:26:53Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Mysterious humming sound driving South Jersey residents crazy",
-        "description": "A massive AI data center fueled by Microsoft is under construction in a rural New Jersey town — and it's reportedly driving residents there out of their minds.",
-        "url": "https://nypost.com/2026/03/21/us-news/mysterious-humming-sound-driving-south-jersey-residents-crazy/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/124135694.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-03-21T20:26:27Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "Google Search test replaces headlines and website titles with AI",
-        "description": "Google Search has started testing the use of AI to replace headlines and website titles, a change that seems both...",
-        "url": "https://9to5google.com/2026/03/21/google-search-test-replaces-headlines-and-website-titles-with-ai/",
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-hq-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-03-21T20:25:00Z",
-        "source": "9to5Google"
-      },
-      {
-        "title": "'Femgore' horror novel pulled from shelves amid claims it was written by AI",
-        "description": "The novel was pulled after detection software suggested it was 78% machine-made",
-        "url": "https://www.lbc.co.uk/article/novel-pulled-amid-ai-claims-5HjdWhM_2/",
-        "image": "https://images.globalplayer.com/images/801198?crop=16_9&width=1200&signature=fMbH8QcWaOMzuRL7uHaX8F8PaVk=",
-        "publishedAt": "2026-03-21T19:55:23Z",
-        "source": "LBC"
-      },
-      {
-        "title": "Can AI fit our 2 biggest gear heads? | Fully Equipped",
-        "description": "On this week's episode of the Fully Equipped Podcast Johnny Wunder and Jake Morrow explored the AI fitting rabbit hole.",
-        "url": "https://golf.com/gear/club-fitting/future-of-ai-club-fitting-fully-equippe/",
-        "image": "https://golf.com/wp-content/uploads/2026/03/Fitting-with-Ai.jpg?_t=1774122241",
-        "publishedAt": "2026-03-21T19:43:58Z",
-        "source": "GOLF.com"
       }
     ]
   }
