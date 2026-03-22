@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-22T14:28:59.233Z",
+  "fetchedAt": "2026-03-22T15:28:39.817Z",
   "sections": {
     "world": [
       {
-        "title": "Projectile strikes vessel off coast of UAE - as it happened",
-        "description": "This blog is now closed",
-        "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes?page=with:block-69bf3a1a8f081668c1c4124e",
-        "image": "https://i.guim.co.uk/img/media/925f0eb4035965a937744c23d22a7e807e88a573/121_0_1320_1056/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ea8196e53eaeb94f404914cdea5ff2fa",
-        "publishedAt": "2026-03-22T02:22:00Z",
+        "title": "Saudi Arabia expels Iran military attaché, embassy staff; orders them to leave within 24 hours",
+        "description": "Saudi Arabia said the Iranian attacks are a flagrant violation of all relevant international conventions and the principles of good neighborliness. | World News",
+        "url": "https://www.hindustantimes.com/world-news/saudi-arabia-expels-iran-military-attache-4-embassy-staff-orders-them-to-leave-within-24-hours-attacks-us-iran-war-101774149415489.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/550x309/IRAN-CRISIS-SAUDI-MEETING-4_1774149919228_1774149970810.JPG",
+        "publishedAt": "2026-03-22T03:27:29Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Middle East crisis live: Trump gives Iran 48-hour ultimatum to open strait of Hormuz; 100 injured in Israel",
+        "description": "Trump tells Iran to reopen strait to shipping or face destruction of its energy infrastructure, as Tehran launches its most destructive attack yet on Israel",
+        "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
+        "image": "https://i.guim.co.uk/img/media/97a7198b6ff88c3b8dd3acbe8e9ce2e69cfe4166/759_0_3823_3058/master/3823.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c9f1a22eee5fe98655b7f99b86ee6600",
+        "publishedAt": "2026-03-22T03:27:02Z",
         "source": "The Guardian"
       },
       {
-        "title": "Latest developments in the Middle East: 48‑hour Hormuz ultimatum, Iran claims F‑16 hit as G7 demands halt to attacks",
-        "description": "PARIS, March 22 — Here are the latest developments in the Middle East war:48-hour Hormuz deadline US President Donald Trump yesterday gave Iran a 48-hour deadline to open the...",
-        "url": "https://www.malaymail.com/news/world/2026/03/22/latest-developments-in-the-middle-east-48hour-hormuz-ultimatum-iran-claims-f16-hit-as-g7-demands-halt-to-attacks/213451",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/03/22/331551.jpg",
-        "publishedAt": "2026-03-22T02:20:41Z",
-        "source": "Malay Mail"
+        "title": "Cuba's Castro dynasty could shape US crisis talks as Australian diaspora awaits Trump 'takeover'",
+        "description": "Former Cuban president Fidel Castro's enigmatic lineage could form part of Donald Trump's shadowy plans to \"take\" or strike a deal with the Caribbean nation.",
+        "url": "https://www.abc.net.au/news/2026-03-22/cuba-castro-family-us-talks-in-economic-crisis/106459232",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4cfcb78b357b733aa10709a29959e3a9?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=420&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-22T03:16:02Z",
+        "source": "ABC News"
       },
       {
-        "title": "Trump threatens to 'obliterate' Iran's power plants if Strait of Hormuz isn't reopened",
-        "description": "The developments signalled the war was moving in a dangerous new direction at the start of its fourth week.",
-        "url": "https://www.1news.co.nz/2026/03/22/trump-threatens-to-obliterate-irans-power-plants-if-strait-of-hormuz-isnt-reopened/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/israeli-security-forces-and-rescue-teams-work-at-the-site-st-QV3W23CYDNAKHHRWP63SSMG2OY.jpg?auth=e5dc36afb287cb2ecfc2bcadc3b8f8c1061f4e078c94ea5af4113102bcf52513&quality=70&width=600&height=315&focal=426%2C239",
-        "publishedAt": "2026-03-22T02:20:31Z",
-        "source": "1News"
-      },
-      {
-        "title": "Taiwan says delayed US F-16s to start arriving this year",
-        "description": "TAIPEI – Deliveries of delayed F-16V fighter jets for Taiwan will begin this year with production at \"full capacity\", the island's defence ministry said after senior defence officials visited the United States.Taiwan, which faces a rising military threat from China, has complained of repeated delays to weapons ordered from the US, the most important international backer and arms supplier for...",
-        "url": "https://www.asiaone.com/asia/taiwan-says-delayed-us-f-16s-start-arriving-year",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Mar2026/2203_taiwan_f16.jpg?itok=KHSAhNzJ",
-        "publishedAt": "2026-03-22T02:19:00Z",
-        "source": "AsiaOne"
-      },
-      {
-        "title": "After Trump’s Ultimatum, Iran Threatens To Target ‘Enemy’s’ Desalination Plants: Why It Matters",
-        "description": "Iran said that if its energy infrastructure is targeted, it will strike back at energy, IT and desalination facilities belonging to the United States and its allies in the region.",
-        "url": "https://www.news18.com/world/after-trumps-ultimatum-iran-threatens-to-target-enemys-desalination-plants-why-it-matters-9990499.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/03/Untitled-design-2026-03-19T071100.832-2026-03-59b01e3ba96fe11e9e5270135f925352-1200x675.jpg",
-        "publishedAt": "2026-03-22T02:18:08Z",
+        "title": "Iran Offers To ‘Protect’ Greenland From Trump Amid War With US: ‘Just Ask… We’ll Come’",
+        "description": "Iran’s remarks come amid the West Asia war. Iran has been under attack from Israel and the United States and has responded with counterstrikes since February 28.",
+        "url": "https://www.news18.com/world/iran-offers-to-protect-greenland-from-trump-amid-war-with-us-just-ask-well-come-9990529.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/03/trump-iran-greenland-2026-03-223d21834e77401c0b4f955466f6edb3-1200x675.jpg",
+        "publishedAt": "2026-03-22T03:14:32Z",
         "source": "News18"
       },
       {
-        "title": "Jason Momoa flees Hawaii amid historic flooding",
-        "description": "Hollywood star Jason Momoa is among the thousands of people forced to evacuate the North Shore of Hawaii after the region was hit with the worst storms and flooding in more than 20 years.",
-        "url": "https://www.news.com.au/entertainment/celebrity-life/jason-momoa-shares-emotional-update-after-fleeing-hawaii-home-amid-historic-flooding-pretty-gnarly-right-now/news-story/13972791c6d35d76e12cff77f6a6d758",
-        "image": "https://content.api.news/v3/images/bin/0fd8655c35df38017fc2b3ff875407fb",
-        "publishedAt": "2026-03-22T02:15:33Z",
-        "source": "News.com.au"
-      },
-      {
-        "title": "Ukraine war briefing: US, Ukrainian negotiators meet in Florida as Russian attacks kill more civilians",
-        "description": "White House says talks ‘constructive’ but Russian negotiators not present; more civilians killed in country’s south-east by Moscow attacks. What we know on day 1,488",
-        "url": "https://www.theguardian.com/world/2026/mar/22/ukraine-war-briefing-us-ukrainian-negotiators-meet-in-florida-as-russian-attacks-kill-more-civilians",
-        "image": "https://i.guim.co.uk/img/media/970564f2c95a6203709ca76b81e7548b0bbe837c/426_0_4810_3847/master/4810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff3c4c85a4f4e1e9ae3f57a7ee329dea",
-        "publishedAt": "2026-03-22T02:12:00Z",
+        "title": "Six fuel ships bound for Australia cancelled as Bowen concedes ‘flow of oil to Asian refineries has slowed’",
+        "description": "Energy minister says war on Iran creating ‘uncertain environment’ but insists government doing ‘all the preparatory work’",
+        "url": "https://www.theguardian.com/australia-news/2026/mar/22/six-fuel-ships-bound-for-australia-cancelled-as-bowen-concedes-flow-of-oil-to-asian-refineries-has-slowed",
+        "image": "https://i.guim.co.uk/img/media/4923050baf3d54d988655b284f09e9f3b4d70ce7/178_0_6457_5169/master/6457.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be66b36699a4403467bf3445b3afb2b0",
+        "publishedAt": "2026-03-22T03:13:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "Trump gives Iran 48 hours to open Hormuz as Tehran strikes two towns in southern Israel",
-        "description": "United States President Donald Trump today gave Iran 48 hours to reopen the Strait of Hormuz to shipping or face the destruction of its energy...",
-        "url": "https://www.nzherald.co.nz/world/trump-gives-iran-48-hours-to-open-hormuz-as-tehran-strikes-two-towns-in-southern-israel/3J5N24VBKRE6HGCMLJGYTI4NPQ/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/CRT6OR5DABBOBHR2TC7QXVCSR4.jpg?auth=8e77e49f396067391a373523807e57e70145ee1230d1909e056db1631fc009d3&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-03-22T02:10:49Z",
-        "source": "NZ Herald"
+        "title": "Hawaii suffers worst flooding in 20 years as residents told to 'LEAVE NOW'",
+        "description": "More than 5,500 people north of Honolulu are under evacuation orders because of the severe, historic weather.",
+        "url": "https://news.sky.com/story/hawaii-suffers-worst-flooding-in-20-years-as-residents-told-to-leave-now-13522868",
+        "image": "https://e3.365dm.com/26/03/1600x900/skynews-hawaii-flooding_7199611.jpg?20260321200755",
+        "publishedAt": "2026-03-22T03:03:56Z",
+        "source": "Sky News"
+      },
+      {
+        "title": "Israeli skies 'defenceless' after Dimona attack? Iran makes big claim",
+        "description": "Iran's IRGC Aerospace Force commander declared missile dominance over occupied territories, promising future attacks will 'dumbfound' US and Israeli commanders. In southern Israel, approximately 150 families were evacuated from a hit neighborhood, according to Al Jazeera.",
+        "url": "https://economictimes.indiatimes.com/news/defence/israeli-skies-defenceless-after-dimona-attack-iran-makes-big-claim/articleshow/129727652.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-129727678,width-1200,height-630,imgsize-193376,overlay-etdefence/articleshow.jpg",
+        "publishedAt": "2026-03-22T03:01:37Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Watch: Missile strike rocks Israel’s ‘Little India’ as Iran attack injures over 40; videos show chaos",
+        "description": "Middle East News: Iranian missile strikes on southern Israel have left scenes of chaos in Dimona a town known as “Little India” for its large Indian-origin population w.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-missile-strike-rocks-israels-little-india-as-iran-attack-injures-over-40-videos-show-chaos/articleshow/129727601.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129727609,width-1280,height-720,imgsize-2767688,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-22T02:58:00Z",
+        "source": "The Times of India"
       }
     ],
     "business": [
       {
-        "title": "US-Israel-Iran war, crude oil prices to rupee rate: Top five triggers that may dictate the Indian stock market this week",
-        "description": "Share market news: Nifty, Sensex closed marginally lower this week highlighted by US Fed, other central bank announcements. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for this week.",
-        "url": "https://www.livemint.com/market/stock-market-news/usisraeliran-war-crude-oil-prices-to-rupee-rate-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11774145082159.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/stock_1774145913506_1774145913715.JPG",
-        "publishedAt": "2026-03-22T02:26:42Z",
-        "source": "Mint"
+        "title": "The Dip Before The Re-Rate, Xiaomi's Window Of Maximum Pessimism",
+        "description": "Q4 2025 earnings are expected to show modest revenue growth (~7.5% Y/Y) and flat adjusted net income, with EV as the key growth engine. Read more here.",
+        "url": "https://seekingalpha.com/article/4884765-the-dip-before-the-re-rate-xiaomis-window-of-maximum-pessimism",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229087013/image_2229087013.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-03-22T03:26:44Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "USA Rare Earth (USAR) Valuation Check After Recent Share Price Pullback",
-        "description": "USA Rare Earth: recent stock move and fundamentals\nUSA Rare Earth (USAR) has drawn attention after recent share price swings, with a 1-day return of an 8.82% decline and a 7-day return of a 16.55% decline, prompting fresh interest in its fundamentals.\nSee our latest analysis for USA Rare Earth.\nThe recent pullback, including a 16.55% 7 day share price return decline and a 5.75% 30 day share price return decline to US$16.24, stands against a 14.77% year to date share price return and a 46.31%...",
-        "url": "https://simplywall.st/stocks/us/materials/nasdaq-usar/usa-rare-earth/news/usa-rare-earth-usar-valuation-check-after-recent-share-price",
-        "image": "https://images.simplywall.st/asset/industry/2052000-choice1-main-header/1585186836557",
-        "publishedAt": "2026-03-22T02:23:49Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "French prosecutors suspect Musk encouraged deepfakes row to inflate X value",
-        "description": "The social media network's Grok AI chatbot stirred outrage earlier this year over it generating images of naked women and girls without their consent.",
-        "url": "https://www.japantimes.co.jp/news/2026/03/22/world/crime-legal/french-prosecutors-musk-deepfakes/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/22/530534.jpg?v=3.1",
-        "publishedAt": "2026-03-22T02:22:00Z",
+        "title": "Shockwave of war is rippling through the global economy",
+        "description": "The spike in energy costs and consequent threat to global consumer prices has prompted a spectrum of central-bank responses over the past few days.",
+        "url": "https://www.japantimes.co.jp/business/2026/03/22/economy/shockwave-war-global-economy/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/22/530554.jpg?v=3.1",
+        "publishedAt": "2026-03-22T03:23:00Z",
         "source": "The Japan Times"
       },
       {
-        "title": "Soaring fuel prices see spike in EV interest in Australia",
-        "description": "As Chinese electric vehicle makers rapidly expand in Australia, interest is growing thanks to rising fuel prices.",
-        "url": "https://www.abc.net.au/news/2026-03-22/ev-interest-rises-as-fuel-prices-soar-australia/106472022",
-        "image": "https://live-production.wcms.abc-cdn.net.au/b1940ef23fbb592d8e0d70a505800313?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-03-22T02:13:54Z",
-        "source": "ABC News"
+        "title": "LPG cylinder price on 22 March: Check cooking gas rates in your city today - Delhi, Mumbai, Bengaluru, others",
+        "description": "With trade suspended through the Strait of Hormuz amid the Middle East conflict, prices of domestic and commercial LPG cylinders have been hiked in India, though the Central government has repeatedly assured citizens of sufficient reserves and stable supply. Check cooking gas rates for 22 March.",
+        "url": "https://www.livemint.com/news/india/lpg-cylinder-price-on-22-march-check-cooking-gas-rates-in-your-city-today-delhi-mumbai-bengaluru-others-11774148895028.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/LPG_1774149333695_1774149333852.jpg",
+        "publishedAt": "2026-03-22T03:20:05Z",
+        "source": "Mint"
       },
       {
-        "title": "Is Mercedes-Benz Group (XTRA:MBG) Recasting Korea Leadership To Sharpen Its Global Premium Sales Edge?",
-        "description": "Mercedes-Benz Korea has appointed Shirin Emeera, a seasoned sales network specialist at Mercedes-Benz AG, as its new CEO, succeeding Mathias Vaitl, who will move to lead Marketing & Sales Vans at Mercedes-Benz AG from July 1, 2026.\nThis leadership transition underscores Mercedes-Benz’s intent to deepen its footprint in South Korea by pairing local growth initiatives with experienced global sales leadership.\nWe’ll now examine how installing a sales-focused CEO in South Korea could influence...",
-        "url": "https://simplywall.st/stocks/de/automobiles/etr-mbg/mercedes-benz-group-shares/news/is-mercedes-benz-group-xtrambg-recasting-korea-leadership-to",
-        "image": "https://images.simplywall.st/asset/company-cover/106772-main-header/1585187419198",
-        "publishedAt": "2026-03-22T02:12:44Z",
-        "source": "simplywall.st"
+        "title": "SSNIT is a 'sure banker' - Deputy D-G",
+        "description": "Mr Adam Sulley, the Deputy Director-General in-charge of Operations and Benefits of the Social Security and National Insurance Trust (SSNIT) has...",
+        "url": "http://www.businessghana.com/site/news/business/345366/SSNIT-is-a-%27sure-banker%27-%E2%80%94-Deputy-D-G",
+        "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-03-19-1238546.jpeg",
+        "publishedAt": "2026-03-22T03:18:58Z",
+        "source": "BusinessGhana"
       },
       {
-        "title": "Gov't leader orders sufficient energy supplies for production, business, consumption",
-        "description": "A range of fuel price support measures has been applied, including the use of the petrol price stabilization fund and adjustments to taxes and fees. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/business/economy/gov-t-leader-orders-sufficient-energy-supplies-for-production-business-consumption-5053389.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/03/22/1-1774144808-3628-1774144880.webp?w=680&h=0&q=100&dpr=1&fit=crop&s=bxQClRhJHRJjahoDm9fMgg",
-        "publishedAt": "2026-03-22T02:11:55Z",
-        "source": "VnExpress International"
+        "title": "Gold, silver rate today: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver on 22 March",
+        "description": "Gold, silver price today, 22 March: MCX gold price closed slightly lower at ₹1,44,825 on Friday, following which trading was halted for the weekend. Meanwhile, gold rate at the bullions remained at 1,45,520 on Sunday.",
+        "url": "https://www.livemint.com/market/commodities/gold-silver-price-today-in-delhi-mumbai-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-21-march-11774145865999.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/GLOBAL-PRECIOUS--0_1766800474264_1766800490861_1774149289932.JPG",
+        "publishedAt": "2026-03-22T03:18:47Z",
+        "source": "Mint"
       },
       {
-        "title": "Is Slowing Net Interest Income And EPS Compression Altering The Investment Case For S&T Bancorp (STBA)?",
-        "description": "In recent analyses, S&T Bancorp’s net interest income was found to have grown more slowly than the broader banking industry over the past five years and is now expected by sell-side analysts to decline by 5.3% in the coming 12 months, while earnings per share have fallen by 3.3% annually over the last two years on flat revenue.\nThis combination of slowing core lending income and shrinking earnings, despite stable top-line performance, highlights ongoing pressure on the bank’s profitability...",
-        "url": "https://simplywall.st/stocks/us/banks/nasdaq-stba/st-bancorp/news/is-slowing-net-interest-income-and-eps-compression-altering",
-        "image": "https://images.simplywall.st/asset/industry/7013000-choice2-main-header/1585186648241",
-        "publishedAt": "2026-03-22T02:11:52Z",
-        "source": "simplywall.st"
+        "title": "LEGO MRI sets are helping reduce anxiety for children in hospitals",
+        "description": "Getting an MRI (Magnetic Resonance Imaging) scan can be highly anxiety-inducing; it can be very claustrophobic lying helplessly down, with the loud, deafening...",
+        "url": "https://mb.com.ph/2026/03/22/lego-mri-sets-are-helping-reduce-anxiety-for-children-in-hospitals",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/03/22/87867.webp",
+        "publishedAt": "2026-03-22T03:09:58Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "HF Sinclair (DINO) Valuation Check As CEO And CFO Depart During Growth Phase",
-        "description": "Leadership shake up and why it matters for HF Sinclair (DINO)\nHF Sinclair (DINO) has moved to permanently part ways with its CEO and CFO after earlier voluntary leaves. This is a material leadership change as the company conducts an internal review during a major growth phase.\nSee our latest analysis for HF Sinclair.\nThe leadership uncertainty comes after a strong run in the shares, with HF Sinclair’s 90 day share price return of 29.2% and 1 year total shareholder return of 87.6% suggesting...",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-dino/hf-sinclair/news/hf-sinclair-dino-valuation-check-as-ceo-and-cfo-depart-durin",
-        "image": "https://images.simplywall.st/asset/industry/1033000-choice2-main-header/1585186657557",
-        "publishedAt": "2026-03-22T02:11:52Z",
-        "source": "simplywall.st"
+        "title": "Prosecutors suspect Elon Musk encouraged deepfakes row to inflate X value",
+        "description": "French prosecutors have shared their concerns with the US Department of Justice, as well as a US financial market regulation body.",
+        "url": "https://www.rnz.co.nz/news/world/590318/prosecutors-suspect-elon-musk-encouraged-deepfakes-row-to-inflate-x-value",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--kIeKRFao--/t_tohu-badge-facebook/v1774131827/4JRDGGG_AFP__20260321__A46T4NU__v1__HighRes__FilesUsInternetTrialComputersMerger_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-03-22T03:03:51Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Dog’s birthday video helps landlords win rental ruling against Lower Hutt couple",
+        "description": "Terry Tata and Natashia Wilson told their landlords they only owned cats. But a public Facebook video of the couple celebrating their dog Rocky’s first...",
+        "url": "https://www.nzherald.co.nz/nz/dogs-birthday-video-helps-landlord-win-3000-rental-damage-ruling-against-lower-hutt-couple/MOWR3Z7EZNDWJNJZJECW27QSJE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/NYL24CTL3JBP3JOLGPXDEZ6DPI.jpg?auth=3fbfbb335da646a103fe1413ba5de345b434c97603126dd80d9bcbb12601573c&width=1200&height=675&quality=70&focal=376%2C353&smart=false",
+        "publishedAt": "2026-03-22T03:02:35Z",
+        "source": "NZ Herald"
       }
     ],
     "science": [
+      {
+        "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
+        "description": "A new study reveals that farming in Argentina’s Uspallata Valley was adopted by local hunter-gatherers rather than introduced by outside populations. Centuries later, a stressed group of maize-heavy farmers migrated into the region, facing climate instability, disease, and declining numbers. Despite these pressures, there’s no sign of violence—instead, families stayed connected across generations, using kinship networks to survive. The research shows how cooperation, not conflict, helped communities navigate crisis.",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260321012642.htm",
+        "image": "https://www.sciencedaily.com/images/1920/population-movements-within-southern-andes.webp",
+        "publishedAt": "2026-03-22T03:23:12Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
+        "description": "A new study reveals that farming in Argentina’s Uspallata Valley was adopted by local hunter-gatherers rather than introduced by outside populations. Centuries later, a stressed group of maize-heavy farmers migrated into the region, facing climate instability, disease, and declining numbers. Despite these pressures, there’s no sign of violence—instead, families stayed connected across generations, using kinship networks to survive. The research shows how cooperation, not conflict, helped communities navigate crisis.",
+        "url": "http://www.sciencedaily.com/releases/2026/03/260321012642.htm",
+        "image": "https://www.sciencedaily.com/images/1920/population-movements-within-southern-andes.webp",
+        "publishedAt": "2026-03-22T03:23:08Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Did a meteor hit her home? Houston-area woman says object crashed through roof",
+        "description": "Sherrie James, who lives in the Spring area, spoke with KHOU 11 about the object that smashed into her home.",
+        "url": "https://www.khou.com/article/news/local/meteor-boom-houston/285-ae2806d7-aace-4ab6-be6a-c36b12ff2677",
+        "image": "https://media.khou.com/assets/KHOU/images/b08b17c1-e874-4562-9a21-7c9eaba338b4/20260322T024218/b08b17c1-e874-4562-9a21-7c9eaba338b4_1140x641.jpg",
+        "publishedAt": "2026-03-22T02:48:00Z",
+        "source": "KHOU"
+      },
+      {
+        "title": "Science Snapshots: March 22, 2026",
+        "description": "Discover three groundbreaking research developments in climate science, laundry innovations, and lithium recovery in just one minute.",
+        "url": "https://www.thehindu.com/sci-tech/science/science-snapshots-march-22-2026/article70754052.ece",
+        "image": "https://th-i.thgim.com/public/sci-tech/science/hj88dn/article70754047.ece/alternates/LANDSCAPE_1200/egle-sidaraviciute-aLaD_yqn0X8-unsplash.jpg",
+        "publishedAt": "2026-03-22T02:30:00Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Suspected meteorite crashes through Texas woman's roof near Houston",
+        "description": "Houston-area residents reported a mysterious boom and green flash Saturday, as a woman claims a suspected meteorite crashed through her roof, leaving a football-sized rock.",
+        "url": "https://www.foxnews.com/us/woman-claims-space-rock-smashed-house-after-houston-area-blast-rattles-residents",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/meteor-tx.png",
+        "publishedAt": "2026-03-22T02:29:03Z",
+        "source": "Fox News"
+      },
       {
         "title": "A huge 210-foot, airplane-sized asteroid to pass by Earth today at high speed, NASA alerts",
         "description": "Asteroid 2010 RA91 will pass relatively close to Earth, but if it poses no threat, why are scientists still watching it so closely and what could change?",
@@ -158,49 +198,41 @@
         "image": "https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/MHUX7DJYOREAPH3XIZGOZGCLZQ.png?auth=fa64e20be995b8d5d23fa43b88befb07d8351d12c59f7ad34136c0b71380ddfc&width=1200&height=600&smart=true",
         "publishedAt": "2026-03-22T00:11:00Z",
         "source": "KBTX News 3"
-      },
-      {
-        "title": "Artemis II rocket arrives to launch pad after slow rollout ahead of April flight date",
-        "description": "The Artemis II rocket that's to carry Canadian astronaut Jeremy Hansen around the moon made its way Friday to the launch pad ahead of its planned April blastoff.",
-        "url": "https://www.darpanmagazine.com/news/national/artemis-ii-rocket-arrives-to-launch-pad-after-slow-rollout-ahead-of-april-flight-date/",
-        "image": "https://media.darpanmagazine.com/library/uploads/news/content/artemisii.jpg",
-        "publishedAt": "2026-03-22T00:08:53Z",
-        "source": "DARPAN Magazine"
-      },
-      {
-        "title": "Scientists Unearth Exceptionally Well-preserved Archaeopteryx fossil, Solving the Biggest Mystery of Dinosaur Flight",
-        "description": "A new discovery of a nearly intact Archaeopteryx fossil is providing fresh evidence that may finally settle the long-standing debate over how flight evolved",
-        "url": "https://indiandefencereview.com/scientist-preserved-archaeopteryx-fossil/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/scientists-unearth-exceptionally-well-preserved-archaeopteryx-fossil-solving-the-biggest-mystery-of-dinosaur-flight-scaled.png",
-        "publishedAt": "2026-03-21T23:56:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "33 set to resume Russian flights to ISS from repaired pad",
-        "description": "Just under four months after Soyuz MS-28 launched from Site 31/6 at Baikonur Cosmodrome in…",
-        "url": "https://www.nasaspaceflight.com/2026/03/progress-ms33/",
-        "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_5463.png",
-        "publishedAt": "2026-03-21T23:18:14Z",
-        "source": "NASASpaceFlight.com -"
-      },
-      {
-        "title": "Viewers reports seeing flash of light and loud boom across Southeast Texas",
-        "description": "Did you see, hear, or feel it? We’re seeing reports on social media and getting calls into our newsroom about a loud boom this afternoon.",
-        "url": "https://www.khou.com/article/news/local/houston-loud-boom-possible-meteorite/285-a560e7f8-1391-43b1-9fc7-17c2763a4cd5",
-        "image": "https://media.khou.com/assets/KHOU/images/c1e72603-b655-4b4a-92db-f2f690e06e7f/20260322T001807/c1e72603-b655-4b4a-92db-f2f690e06e7f_1140x641.jpg",
-        "publishedAt": "2026-03-21T23:12:00Z",
-        "source": "KHOU"
-      },
-      {
-        "title": "Global scientists reveal how farming affects soil via new Earth-sensing technology",
-        "description": "A global research team has used a new technique to capture minute-scale structural changes in farmland soil, revealing how farming practices influence soil water dynamics, Xinhua reports.",
-        "url": "https://qazinform.com/news/global-scientists-reveal-how-farming-affects-soil-via-new-earth-sensing-technology-adb15e",
-        "image": "https://img.inform.kz/kazinform-photobank/media/2026-03-21/bae6a765-c47b-4d15-a99b-9445586acdbd.jpeg",
-        "publishedAt": "2026-03-21T22:41:15Z",
-        "source": "Qazinform"
       }
     ],
     "ai": [
+      {
+        "title": "OpenAI to Nearly Double Workforce To 8,000 By End-2026",
+        "description": "OpenAI plans to double its workforce to 8,000 by 2026, focusing on product development, research, and sales, as it faces competition from Google Gemini.",
+        "url": "https://www.republicworld.com/tech/openai-to-nearly-double-workforce-to-8000-by-end-2026",
+        "image": "https://img.republicworld.com/all_images/2026/03/sam-altman-1772534804950-1280x720.webp",
+        "publishedAt": "2026-03-22T03:27:38Z",
+        "source": "Republic World"
+      },
+      {
+        "title": "Exclusive: Expert Weighs In On Why Orbital Datacenters Could Likely Work In Tandem With Ground",
+        "description": "Space-based AI compute has potential to solve issues on Earth but it faces challenges, according to this expert.",
+        "url": "https://www.benzinga.com/news/space/26/03/51396367/exclusive-expert-weighs-in-on-why-orbital-datacenters-could-likely-work-in-tandem-with-ground-based-ai-infrastructure",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/03/22/Space-Shuttle-Rocket-Lift-Off-Through-Th.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-03-22T02:59:00Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "French prosecutors suspect Musk encouraged deepfakes row to inflate X value",
+        "description": "The social media network's Grok AI chatbot stirred outrage earlier this year over it generating images of naked women and girls without their consent.",
+        "url": "https://www.japantimes.co.jp/news/2026/03/22/world/crime-legal/french-prosecutors-musk-deepfakes/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/22/530534.jpg?v=3.1",
+        "publishedAt": "2026-03-22T02:50:37Z",
+        "source": "The Japan Times "
+      },
+      {
+        "title": "BingX unveils BingX AI Claw, the world's first AI",
+        "description": "BingX AI Claw is designed to deliver users actionable, real-time, and tailored signals for high-potential trading opportunities.",
+        "url": "https://www.tribuneindia.com/news/business/bingx-unveils-bingx-ai-claw-the-worlds-first-ai-powered-multi-asset-trading-analyst/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmZWI3NGMwLTI1OTctMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-03-22T02:35:31Z",
+        "source": "The Tribune"
+      },
       {
         "title": "Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse",
         "description": "Chief Minister Mohan Yadav’s Saturday announced the State AI Mission with predictive governance at the proposal’s core.",
@@ -232,38 +264,6 @@
         "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/ADOBE-STOCKS--0_1774087288330_1774087302290.JPG",
         "publishedAt": "2026-03-22T01:31:03Z",
         "source": "Livemint"
-      },
-      {
-        "title": "Court dismisses lawsuit against OpenAI CEO Sam Altman filed by sister, but a comeback route remains",
-        "description": "US judge dismisses Sam Altman lawsuit filed by sister as time-barred, allows amended complaint under Missouri child abuse statute.",
-        "url": "https://www.moneycontrol.com/world/court-dismisses-lawsuit-against-openai-ceo-sam-altman-filed-by-sister-but-a-comeback-route-remains-article-13866959.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/04/20250423035050_Sam-Altman.jpg",
-        "publishedAt": "2026-03-22T01:26:26Z",
-        "source": "Moneycontrol"
-      },
-      {
-        "title": "Trump threatens to ‘obliterate’ Iran power plants if Hormuz Strait not reopened in 48 hours",
-        "description": "This threat comes amidst reports of Iran firing long-range ballistic missiles, reaching as far as Diego Garcia..Iran Strait of Hormuz threat, Trump Iran ultimatum, US Iran conflict escalation, oil supply disruption Iran, global energy shock Strait of Hormuz, Iranian long-range missiles, US military response Iran, Israel Iran missile attacks, Trump nuclear power plants Iran, LLM analysis US Iran conflict, AI insights Iran geopolitical tensions, impact of Strait of Hormuz closure, US foreign policy Iran, geopolitical risk oil prices, understanding US Iran war dynamics",
-        "url": "https://www.onmanorama.com/news/world/2026/03/22/donald-trump-united-states-iran-power-plants-strait-of-hormuz.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/3/10/trump-presser-afp.jpg",
-        "publishedAt": "2026-03-22T01:22:19Z",
-        "source": "Malayala Manorama"
-      },
-      {
-        "title": "NHAI turns on AI dashcams for smarter highway monitoring",
-        "description": "The National Highways Authority of India will use advanced AI dashcams on 40,000 km of highways. This initiative aims to improve road maintenance and safety through data-driven operations. High-resolution imagery will help identify over 30 types of defects. Night surveys will assess road signs and lighting.",
-        "url": "https://economictimes.indiatimes.com/news/india/nhai-turns-on-ai-dashcams-for-smarter-highway-monitoring/articleshow/129727208.cms",
-        "image": "https://img.etimg.com/thumb/msid-129727205,width-1200,height-630,imgsize-1248917,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-03-22T01:21:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Kisan Mela concludes in Ludhiana: ‘Punjab leads drop in straw fires’, soil-testing robots rewrite food security rulebook.",
-        "description": "Ludhiana: Punjab's farmers lead a 90% drop in stubble burning as Punjab Agricultural University's Kisan Mela unveils the AI-driven future of Indian ag.",
-        "url": "https://timesofindia.indiatimes.com/city/ludhiana/kisan-mela-concludes-in-ludhiana-punjab-leads-drop-in-straw-fires-soil-testing-robots-rewrite-food-security-rulebook-/articleshow/129724896.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117623961,width-1280,height-720,imgsize-94298,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-22T01:02:00Z",
-        "source": "Times of India"
       }
     ]
   }
