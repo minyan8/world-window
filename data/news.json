@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-23T08:35:53.135Z",
+  "fetchedAt": "2026-03-23T09:41:10.139Z",
   "sections": {
     "world": [
       {
-        "title": "Brit tourist, 30, drowns in Colombia after 'travelling to South America to get married'",
-        "description": "A BRITISH tourist has drowned in Colombia after reportedly travelling to the South American country to get married.\nThe 30-year-old died after...",
-        "url": "https://www.the-sun.com/news/16121376/brit-tourist-drowns-colombia-south-america-married/",
-        "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/03/cartagena-el-laguito-lake-waterfront-1068755845.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-03-22T20:35:35Z",
-        "source": "The US Sun"
-      },
-      {
-        "title": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-        "description": "Trump, who cut off oil supplies to Cuba after abducting Venezuela’s Maduro, has threatened to take over the nation.",
-        "url": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-22T152108Z_1360636352_RC2M9KAMRT31_RTRMADP_3_CUBA-CRISIS-POWER-1774203790.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-03-22T20:33:24Z",
+        "title": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
+        "description": "The nearly equal result means that none of the main parties will have a majority in the 90-member parliament.",
+        "url": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c0465b183e-1774208603.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-22T21:35:16Z",
         "source": "Al Jazeera"
       },
       {
-        "title": "JFK Heir Names Exactly How Trump Could Win Kennedy 'Courage' Award In Blunt Takedown",
-        "description": "The congressional candidate laid out why the president is totally not \"in the running\" for the Kennedy family-created award.",
-        "url": "https://www.huffpost.com/entry/jack-schlossberg-trump-jfk-profile-in-courage-award_n_69c0328de4b0484119154cae",
-        "image": "https://img.huffingtonpost.com/asset/69c04127180000ab431c53f7.jpeg?cache=BwnceOI2CF&ops=1200_630",
-        "publishedAt": "2026-03-22T20:33:20Z",
-        "source": "HuffPost"
+        "title": "Insiders look back on the failed attempt to change New Zealand’s flag, 10 years on",
+        "description": "In March 2016, after a $20m-plus process, New Zealanders voted for the status quo.",
+        "url": "https://thespinoff.co.nz/society/23-03-2026/insiders-look-back-on-the-failed-attempt-to-change-new-zealands-flag-10-years-on",
+        "image": "https://images.thespinoff.co.nz/1/2026/03/HVLxOFK2-FeatureImage_JohnKey-and-His-Flags.png?w=1600&h=900&fit=crop&q=80&auto=compress%2Cformat",
+        "publishedAt": "2026-03-22T21:30:50Z",
+        "source": "The Spinoff"
       },
       {
-        "title": "Iran war timeline: civilians bear brunt of US and Israel’s weeks-long campaign",
-        "description": "Since US-Israeli bombs started falling on Iran, about 1,500 people have been killed, homes destroyed and ancient sites damaged",
-        "url": "https://www.theguardian.com/world/2026/mar/22/iran-war-timeline-civilians-bear-brunt-of-us-and-israels-month-long-campaign",
-        "image": "https://i.guim.co.uk/img/media/2266370fbec0cb8b5429662e0d16315731f0eef5/455_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b2fa806a87200d676db61eed969b347",
-        "publishedAt": "2026-03-22T20:31:00Z",
+        "title": "Dangote refinery exports 456,000 tonnes of petroleum products to Ghana, Togo",
+        "description": "The Dangote Petroleum Refinery says it has successfully completed the sale of 12 cargoes of refined petroleum products, totaling 456,000 tonnes (456KT).",
+        "url": "https://www.thecable.ng/dangote-refinery-exports-456000-tonnes-of-petroleum-products-to-ghana-togo/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2024/01/Dangote-Refinery1.png",
+        "publishedAt": "2026-03-22T21:30:00Z",
+        "source": "TheCable"
+      },
+      {
+        "title": "Saudi Aramco boss pulls out of major int'l energy conference due to Iran conflict",
+        "description": "Saudi Aramco Chief Executive Amin Nasser has cancelled his planned appearance at the CERAWeek energy conference in Houston to remain in Saudi Arabia because of the Iran conflict, an industry source told Reuters.",
+        "url": "https://www.gmanetwork.com/news/money/economy/980989/saudi-aramco-ceo-ceraweek-conflict/story/",
+        "image": "https://images.gmanews.tv/webpics/2026/03/Reuters_Saudi_Aramco_CEO_Amin_Nasser_2026_03_23_05_25_41.JPG",
+        "publishedAt": "2026-03-22T21:29:04Z",
+        "source": "GMA Network"
+      },
+      {
+        "title": "Socialist Emmanuel Grégoire elected mayor of Paris",
+        "description": "City hall veteran beats rightwinger Rachida Dati, while Marseille’s leftist incumbent defeats far-right opponent",
+        "url": "https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win",
+        "image": "https://i.guim.co.uk/img/media/9e7642ab74a291def33ecc37ae546fd604dc70f7/359_0_4670_3736/master/4670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=738e6b5ed6468aa381436e84562da883",
+        "publishedAt": "2026-03-22T21:29:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "Zelenskyy calls for countries to aid in stability of Middle East",
-        "description": "Ukrainian President Volodymyr Zelenskyy on Monday said Ukraine was working with the Gulf countries and was in contact with these countries at the team level. Zelenskyy called for other countries to contribute to the stabilisation of the region. In a post on X, he said, \"We are already working with the Gulf countries, and practically every day we are in contact with these countries at the team level. There are already concrete results from our units in defense - we are providing our expertise and our real support. Other countries of the world should now also make their contribution to stabilisation. We all need joint decisions and joint work so that there is more security for everyone. I thank everyone who contributes to the coordination and shared results.\" https",
-        "url": "http://www.malaysiasun.com/news/278937850/zelenskyy-calls-for-countries-to-aid-in-stability-of-middle-east",
-        "image": "https://image.chitra.live/api/v1/wps/46754f9/c3282170-30be-44a6-9160-734fe0b695f9/0/ANI-20260323004620-600x315.jpg",
-        "publishedAt": "2026-03-22T20:28:00Z",
-        "source": "malaysiasun.com"
+        "title": "Why commercial crime is SA’s most dangerous growth industry",
+        "description": "Commercial crime is the only major crime category in South Africa — other than kidnapping — that police statistics show growing relentlessly, year after year. Billions of rands are being lost to ordinary South Africans. Why is it so difficult to try to trace the contours of the problem?",
+        "url": "https://www.dailymaverick.co.za/article/2026-03-22-how-commercial-crime-quietly-became-sas-most-dangerous-growth-industry/",
+        "image": "https://cdn.dailymaverick.co.za/i/19KaYar-gyeYgLtQ1lvcdtNO9jc=/800x0/smart/filters:strip_exif()/file/attachments/orphans/Rebecca-bank-fraud_986180.jpg",
+        "publishedAt": "2026-03-22T21:28:18Z",
+        "source": "Daily Maverick"
       },
       {
-        "title": "‘Global Leaders Call for $20M Catalytic Fund to Drive Gender-Inclusive Energy Transition At CSW70’",
-        "description": "At the 70th session of the Commission on the Status of Women (CSW70), global leaders, policymakers, and private sector stakeholders called for a decisive shift toward strategic investment in gender inclusion as a critical driver of the global energy transition. The high-level convening, themed “Catalyzing Energy Justice: Energizing Communities through Women/Girls and Sports,” brought together...",
-        "url": "https://independent.ng/global-leaders-call-for-20m-catalytic-fund-to-drive-gender-inclusive-energy-transition-at-csw70/",
-        "image": "https://independent.ng//wp-content/uploads/2026/03/Screenshot_20260322-211615.jpg",
-        "publishedAt": "2026-03-22T20:27:27Z",
-        "source": "Independent Newspaper Nigeria"
+        "title": "Italy's far-right Prime Minister's political future at stake in referendum vote",
+        "description": "Italian Prime Minister's close relationship with President Trump may weigh on a referendum on reforming Italy's judiciary.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5754666",
+        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "publishedAt": "2026-03-22T21:26:39Z",
+        "source": "NPR"
       },
       {
-        "title": "Senate advances Mullin nomination to lead DHS, paving way for confirmation",
-        "description": "If approved, as expected, Mullin would replace Kristi Noem, whom Trump fired in early March",
-        "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
-        "image": "https://i.guim.co.uk/img/media/08675ad900597a7172d7abfacf2ca8aaae5b505c/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67dec2d553b78ae80bcacd22c541b81d",
-        "publishedAt": "2026-03-22T20:25:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Hawaii storms have caused $1bn in damage, governor says",
-        "description": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
-        "url": "https://www.bbc.co.uk/news/articles/czxrdxn6qwqo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
-        "publishedAt": "2026-03-22T20:24:27Z",
-        "source": "BBC"
+        "title": "China, Japan and the Gift of Coercion",
+        "description": "Beijing’s attempt to punish Japan over Taiwan is a major strategic blunder that is likely to backfire.",
+        "url": "https://www.thewirechina.com/2026/03/22/china-japan-and-the-gift-of-coercion/",
+        "image": "https://www.thewirechina.com/wp-content/uploads/2026/03/Sanae-scaled.jpg",
+        "publishedAt": "2026-03-22T21:24:14Z",
+        "source": "The Wire China"
       }
     ],
     "business": [
       {
-        "title": "How to survive an ASX share market crash",
-        "description": "Worried about an ASX share market crash? Here’s how to stay calm, avoid costly mistakes, and protect your portfolio long term.",
-        "url": "https://www.fool.com.au/2026/03/23/how-to-survive-an-asx-share-market-crash/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2021/12/business-1200x675.jpg",
-        "publishedAt": "2026-03-22T20:32:40Z",
-        "source": "The Motley Fool Australia"
+        "title": "March is ending with sharp rises in some fixed home loan rates as swap rates surge",
+        "description": "Apart from the post-pandemic 'normalisation', we seem to be starting an upward phase for fixed home loan rates, one we haven't seen since late 2016",
+        "url": "https://www.interest.co.nz/personal-finance/137738/apart-post-pandemic-normalisation-we-seem-be-starting-upward-phase-fixed",
+        "image": "https://www.interest.co.nz/sites/default/files/2025-06/up-arrowsrf1.jpg",
+        "publishedAt": "2026-03-22T21:39:00Z",
+        "source": "Interest.co.nz"
       },
       {
-        "title": "Faraday Future Announces that the SEC has Ended its Years-Long Investigation with No Enforcement or Other Action Against the Company or Related Persons",
-        "description": "Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global Embodied AI (EAI) ecosystem comp...",
-        "url": "https://www.businesswire.com/news/home/20260322197286/en/Faraday-Future-Announces-that-the-SEC-has-Ended-its-Years-Long-Investigation-with-No-Enforcement-or-Other-Action-Against-the-Company-or-Related-Persons",
-        "image": "https://mms.businesswire.com/media/20260322197286/en/2754163/22/0322_YT.jpg",
-        "publishedAt": "2026-03-22T20:30:00Z",
-        "source": "Business Wire"
+        "title": "Airlines Are Already Preparing for an Oil Crisis",
+        "description": "With the Iran war doubling oil prices, experts say the airline industry’s belt-tightening is an economic canary in the coal mine for the rest of the world.",
+        "url": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/",
+        "image": "https://media.wired.com/photos/69c05adeb4c76c9edb202a3f/191:100/w_1280,c_limit/2257279027",
+        "publishedAt": "2026-03-22T21:37:00Z",
+        "source": "WIRED"
       },
       {
-        "title": "People ‘bathe’ in nature to get respite from chaotic news cycle",
-        "description": "It might seem impossible to get away from the constant barrage of news these days. But at an urban North Carolina arboretum, people are “bathing” in nature to wash away the stress.",
-        "url": "https://apnews.com/article/forest-bathing-stress-relief-77807628ff6af6b8925c019b41a125bc",
-        "image": "https://dims.apnews.com/dims4/default/ba9b57f/2147483647/strip/true/crop/7008x4670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2Fc6%2Fbe6cc83213e0b3db97d13597cc38%2F710c003fb73d4de39fe412df0ed32404",
-        "publishedAt": "2026-03-22T20:29:00Z",
-        "source": "AP News"
+        "title": "year loss as recovery plan takes shape",
+        "description": "Synlait Milk has reported a net loss after tax of $80.6 million, with a reported earnings before interest depreciation and amortisation loss of $34.7m. The...",
+        "url": "https://www.nzherald.co.nz/business/companies/agribusiness/synlait-milk-posts-806m-half-year-loss-as-recovery-plan-takes-shape/TY7ENPXC6RGQPDE5V6IGA7RQCU/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/EXED4R6HQZFJZIMNLN2EP6Z2BE.jpg?auth=16055eb00975cf60aebcf1982f08f43a90e42dfa51a12d1c03e46bee4f9850c9&width=1200&height=675&quality=70&focal=359%2C414&smart=false",
+        "publishedAt": "2026-03-22T21:36:36Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Oil prices set to rise further as Mideast war escalates",
-        "description": "STORY: Oil prices look set to rise further on Monday, having closed before the weekend at their highest levels in nearly four years.\nThe climb comes after U.S. and Iranian threats to...",
-        "url": "https://www.marketscreener.com/news/oil-prices-set-to-rise-further-as-mideast-war-escalates-ce7e5edcdb8af626",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-03-22T20:25:17Z",
-        "source": "marketscreener.com"
-      },
-      {
-        "title": "People 'bathe' in nature to get respite from chaotic news cycle",
-        "description": "It might seem impossible to get away from the constant barrage of news these days",
-        "url": "https://www.washingtonpost.com/lifestyle/2026/03/22/forest-bathing-stress-relief/df95d3ec-2629-11f1-a0f2-3ba4c9fe08ac_story.html",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXI2WUBGFII7DIHSHOSMT7QIVQ_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-03-22T20:21:38Z",
-        "source": "The Washington Post"
-      },
-      {
-        "title": "First-home buyers still on top - but the storm clouds are gathering",
-        "description": "The five things you need to know about the housing market this week., All things property, under OneRoof",
-        "url": "https://www.oneroof.co.nz/news/first-home-buyers-still-on-top-but-the-storm-clouds-are-gathering-49176",
-        "image": "https://s.oneroof.co.nz/image/63/00/63002b706c4a4912877e5f9257af4cff.jpg?x-oss-process=image/quality,q_80",
-        "publishedAt": "2026-03-22T20:15:55Z",
-        "source": "OneRoof"
-      },
-      {
-        "title": "Structure Therapeutics Slides 28% This Year as $6 Million Stake Emerges",
-        "description": "Structure Therapeutics advances oral therapies for diabetes, obesity, and pulmonary disease through its clinical-stage drug pipeline.",
-        "url": "https://www.fool.com/coverage/filings/2026/03/22/structure-therapeutics-slides-28-this-year-as-usd6-million-stake-emerges/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa8dc9bdd81bcb1d3921f5c802e4640087b0081c9-1401x1251.png%3Frect%3D76%2C0%2C1251%2C1251%26w%3D384%26h%3D384%26q%3D75%26fit%3Dcrop%26auto%3Dformat&w=1200&op=resize",
-        "publishedAt": "2026-03-22T20:15:07Z",
+        "title": "Taiwan Semiconductor Controls 72% of the Global Chip Market, and the Stock Could Surge in 2026",
+        "description": "Taiwan Semiconductor is one of the most dominant companies in the tech industry.",
+        "url": "https://www.fool.com/investing/2026/03/22/taiwan-semiconductor-controls-72-of-the-global-chi/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F860337%2Fgettyimages-1155917171.jpg&w=1200&op=resize",
+        "publishedAt": "2026-03-22T21:35:53Z",
         "source": "The Motley Fool"
       },
       {
-        "title": "Young adults can’t afford homes to raise families, and city governments are at fault",
-        "description": "Development charges are adding significant costs to purchasing newly built homes",
-        "url": "https://www.theglobeandmail.com/business/commentary/article-young-adults-cant-afford-homes-to-raise-families-and-city-governments/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/L4C5VKSV65E2RJQHPUQKQRKXSI.jpg?auth=09a6c48551d38157b111f6e838a52d6f65544cc75a4608c7e70e176151dcdea7&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-03-22T20:08:32Z",
-        "source": "The Globe and Mail"
+        "title": "Heat Wave in California and Other Western States Wilts a More Air-Conditioned U.S.",
+        "description": "In recent years, more homes have added air-conditioning, something that may come in handy this week as some areas are expected to see temperatures 40 degrees above normal.",
+        "url": "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
+        "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23NAT-Heat-wave-bjpl/23NAT-Heat-wave-bjpl-facebookJumbo.jpg",
+        "publishedAt": "2026-03-22T21:35:42Z",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Petrol Pumps Shift to Premium as Regular Fuel Runs Out",
+        "description": "Station operators described the situation as unusual. “Generally, we don’t run out of stock. But the panic buying has pushed the stocks to hit rock bottom.",
+        "url": "https://www.deccanchronicle.com/petrol-pumps-shift-to-premium-as-regular-fuel-runs-out",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/03/22/2024081-2020754-aa-6732750.jpg",
+        "publishedAt": "2026-03-22T21:32:51Z",
+        "source": "Deccan Chronicle"
+      },
+      {
+        "title": "Forest 'bathing' can reduce stress, improve mood, lower blood pressure and boost the immune system",
+        "description": "“You know, in this day and age, there’s a lot of stress and anxiety and chaos. And people are searching for ways to kind of cope with that.”",
+        "url": "https://fortune.com/2026/03/22/forest-bathing-stress-mood-blood-pressure-immune-system/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/AP26081717791674-e1774214185307.jpg?resize=1200,600",
+        "publishedAt": "2026-03-22T21:32:37Z",
+        "source": "Fortune"
+      },
+      {
+        "title": "The Most Superior Aircraft To Replace The Airbus A380 On High-Capacity Routes",
+        "description": "What can replace the superjumbo?",
+        "url": "https://simpleflying.com/most-superior-aircraft-replace-airbus-a380-on-high-capacity-routes/",
+        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/the-most-superior-aircraft-to-replace-the-airbus-a380-on-high-capacity-routes.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-03-22T21:30:18Z",
+        "source": "Simple Flying"
       }
     ],
     "science": [
+      {
+        "title": "Scientists discover a plant that could survive on Mars and help create a ‘Green Planet’",
+        "description": "Science News: Scientists have made an astonishing finding that brings us closer than ever to the concept of ‘Green Mars’, by discovering a desert moss species - Syn.",
+        "url": "https://timesofindia.indiatimes.com/science/scientists-discover-a-plant-that-could-survive-on-mars-and-help-create-a-green-planet/articleshow/129732350.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129732399,width-1280,height-720,imgsize-106712,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-22T21:30:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Humans, animals like same mating calls, backing `Darwin's hunch'",
+        "description": "New research from The Music Lab points towards humans and other animals having common tastes in sound.",
+        "url": "https://www.auckland.ac.nz/en/news/2026/03/23/humans--animals-like-same-sounds-in--darwin-s-hunch--experiment-.html",
+        "image": "https://www.auckland.ac.nz/etc.clientlibs/uoa-digital/clientlibs/resources/svg/favicon.svg",
+        "publishedAt": "2026-03-22T21:06:30Z",
+        "source": "University of Auckland"
+      },
+      {
+        "title": "Emma O’Hara: Delving into the world of dinosaurs at UCC's Glucksman",
+        "description": "The Cork-based printmaker is one of the artists collaborating with palaentologists for the exhibition at the Glucksman",
+        "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41813663.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10021/5010959_9_seoimageog_DomainOfTheDinosaurs_TheGlucksman_ArtCommissions_installshot.jpg",
+        "publishedAt": "2026-03-22T21:00:00Z",
+        "source": "Irish Examiner"
+      },
+      {
+        "title": "Bird feathers can cool off by sending body heat into space",
+        "description": "New study shows that bird feathers do more than look pretty. They help birds manage heat and stay cool in surprising ways.",
+        "url": "https://www.earth.com/news/bird-feathers-can-cool-off-by-sending-body-heat-into-space/",
+        "image": "https://cff2.earth.com/uploads/2026/03/22143256/bird-feathers-heat-loss2.jpg",
+        "publishedAt": "2026-03-22T20:51:41Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "$17 million mission to find life above Venus",
+        "description": "Rocket Lab boss Sir Peter Beck says the price tag for his mission to find life in the clouds above Venus later this year is cheap by space exploration...",
+        "url": "https://www.nzherald.co.nz/nz/inside-sir-peter-beck-and-rocket-labs-sub-17-million-mission-to-find-life-above-venus/premium/LWHJ4Q74CBCLBHDW2MMQA4ZOEY/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/6XGLO3BBY5BADND2RUAFYPSZY4.jpg?auth=7bf0cb9d5f073d4d950dc45cdd0cb4ebb84959ebdc1b2bb35eebfa0678a5fcbd&width=1200&height=675&quality=70&focal=684%2C317&smart=false",
+        "publishedAt": "2026-03-22T20:41:28Z",
+        "source": "NZ Herald"
+      },
       {
         "title": "Fiber-optic sensors reveal how farming destroys soil's natural structure",
         "description": "Soil is often perceived simply as \"dirt,\" but in reality, it is a dynamic, living system that acts as Earth's natural sponge. Unfortunately, common agricultural practices—including deep plowing and the use of heavy machinery—can severely disrupt this natural system, according to a new study led by Dr. Shi Qibin from the Institute of Geology and Geophysics of the Chinese Academy of Sciences, in collaboration with international partners.",
@@ -158,112 +198,72 @@
         "image": "https://cff2.earth.com/uploads/2026/03/20175748/amino-acids-fossil-teeth-48-million-years.jpg",
         "publishedAt": "2026-03-22T19:41:15Z",
         "source": "Earth.com"
-      },
-      {
-        "title": "Meteorite Crashes Through Roof of House Near Houston",
-        "description": "No one was injured, but a woman was startled on Saturday when a meteorite pierced the roof of her home, ricocheted off the floor and struck a bedroom ceiling.",
-        "url": "https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
-        "image": "https://static01.nyt.com/images/2026/03/24/multimedia/24xp-meteor-print/22xp-meteorite1-facebookJumbo.jpg",
-        "publishedAt": "2026-03-22T19:41:02Z",
-        "source": "The New York Times"
-      },
-      {
-        "title": "\"I would wonder if I was just seeing things.” Scientists make illuminating discovery in South Carolina swamp",
-        "description": "Researchers in Congaree National Park have uncovered how fireflies synchronise their bioluminescent light shows.",
-        "url": "https://www.discoverwildlife.com/animal-facts/insects-invertebrates/firefly-synchrony-south-carolina",
-        "image": "https://c02.purpledshub.com/uploads/sites/62/2026/03/Researcher-hunts-for-fireflies-in-Congaree-using-a-red-light.jpeg?w=1200",
-        "publishedAt": "2026-03-22T19:38:53Z",
-        "source": "BBC Wildlife Magazine"
-      },
-      {
-        "title": "Researchers develop new sensor system to prevent pressure injuries",
-        "description": "Hospital stays can be long and arduous; they can also cause serious complications. When a person lies in one position too long and begins to sweat, painful sores called pressure injuries (PIs) can form on the body, leading to infection or even death. A patient can develop a PI in a few days—or even a few hours. And once present, a PI is hard to treat.",
-        "url": "https://medicalxpress.com/news/2026-03-sensor-pressure-injuries.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-penicillin-of-pres.jpg",
-        "publishedAt": "2026-03-22T19:00:28Z",
-        "source": "Medical Xpress"
-      },
-      {
-        "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-        "description": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
-        "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-        "image": "https://static01.nyt.com/images/2026/03/22/obituaries/22bishop-obit-0001/22bishop-obit-0001-facebookJumbo.jpg",
-        "publishedAt": "2026-03-22T19:00:02Z",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Samples From Distant Asteroid Contain All DNA and RNA Building Blocks",
-        "description": "Asteroid Ryugu appears to contain all the necessary ingredients to make the DNA and RNA underpinning life on Earth.",
-        "url": "https://futurism.com/space/samples-ryugu-asteroid-dna-rna-building-blocks",
-        "image": "https://futurism.com/wp-content/uploads/2026/03/samples-ryugu-asteroid-dna-rna-building-blocks.jpg?quality=85&w=1200",
-        "publishedAt": "2026-03-22T19:00:00Z",
-        "source": "Futurism"
       }
     ],
     "ai": [
       {
-        "title": "Kioxia unveils an insane new SSD that could feed GPUs millions of IOPS and break AI memory limits",
-        "description": "Kioxia is targeting high-performance AI workloads",
-        "url": "https://www.techradar.com/pro/did-kioxia-just-unveil-the-fastest-ssd-ever-gp-series-uses-storage-class-memory-to-feed-the-hbm-gpu-with-millions-of-iops",
-        "image": "https://cdn.mos.cms.futurecdn.net/oZ9eRQuyBeesGbgeDcYKBC-2288-80.png",
-        "publishedAt": "2026-03-22T20:25:00Z",
-        "source": "TechRadar"
+        "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas",
+        "description": "Musk said his Terafab project — a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers — will be built in Austin.",
+        "url": "https://fortune.com/2026/03/22/musk-terafab-chip-project-tesla-spacex-xai-space-data-center-satellite/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2246892016-e1774214918432.jpg?resize=1200,600",
+        "publishedAt": "2026-03-22T21:33:29Z",
+        "source": "Fortune"
       },
       {
-        "title": "Investors are backing AI tech as rising beef prices squeeze consumers",
-        "description": "Halter's solar-powered, AI-driven cattle collars let ranchers manage herds remotely without fences, as beef prices have climbed roughly 18% in a year amid a shrinking U.S. cattle herd.",
-        "url": "https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/cattle-rancher-herd.png",
-        "publishedAt": "2026-03-22T20:10:24Z",
-        "source": "Fox News"
+        "title": "K‑Tech (NASDAQ: KMRK) enters JV to develop up to 500MW AI/HPC infrastructure in Canada",
+        "description": "Hong Kong-based K‑Tech and Calgary’s Aurora AZ Energy form joint venture to power large‑scale AI, HPC and crypto mining operations in Alberta with low‑cost wellhead natural gas.",
+        "url": "https://www.manilatimes.net/2026/03/23/tmt-newswire/media-outreach-newswire/ktech-nasdaq-kmrk-enters-jv-to-develop-up-to-500mw-aihpc-infrastructure-in-canada/2305112",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-03-22T21:18:17Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "'Give me another' - Pep Guardiola defiant after another Man City booking",
-        "description": "Manchester City manager Pep Guardiola said he was 'not yet artificial intelligence' after his celebrations for the second goal was deemed to have gone too far.",
-        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/give-another-pep-guardiola-defiant-33640147",
-        "image": "https://i2-prod.manchestereveningnews.co.uk/article33639922.ece/ALTERNATES/s1200d/0_GettyImages-2267847939.jpg",
-        "publishedAt": "2026-03-22T20:04:18Z",
-        "source": "Manchester Evening News"
+        "title": "Real AI Chips, Fake Servers and a Hair Dryer: The Story Behind a $2.5 Billion Scam",
+        "description": "Supermicro co-founder and 2 others have been indicted for smuggling company servers packed with Nvidia AI chips to China.",
+        "url": "https://www.inc.com/kevin-haynes/real-ai-chips-fake-servers-and-a-hair-dryer-the-story-behind-a-2-5-billion-scam/91320542",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/SUPERMICRO-1.jpg",
+        "publishedAt": "2026-03-22T21:15:00Z",
+        "source": "Inc. Magazine"
       },
       {
-        "title": "How S’pore platform is rethinking energy for the data centre age",
-        "description": "Discover how Singapore's Bridge Data Centres is rethinking energy for AI with sustainable solutions. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/powering-ai-sustainably-rethinking-energy-solutions-bridge-data-centres",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a3f7b186fa6c5d209cb2eded6db9ef1f135969b695cac712eb1258b13c5be2a4",
-        "publishedAt": "2026-03-22T20:00:00Z",
+        "title": "Use of AI in war: Ethics under fire",
+        "description": "The core concern about AI in warfare is the lack of human oversight in life-and-death decisions.",
+        "url": "https://www.tribuneindia.com/news/comment/use-of-ai-in-war-ethics-under-fire/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI0MjY5MTEwLTI2MzMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-03-22T21:11:28Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Crimson Desert developers apologize for use of AI",
+        "description": "Say goodbye to AI art in Crimson Desert as developers say it was a mistake.",
+        "url": "https://www.windowscentral.com/gaming/crimson-desert-developers-apologize-for-the-use-of-generative-ai",
+        "image": "https://cdn.mos.cms.futurecdn.net/JHx2WDJKunyBMtXjwBFUpk-1920-80.jpg",
+        "publishedAt": "2026-03-22T21:07:04Z",
+        "source": "Windows Central"
+      },
+      {
+        "title": "AI a great personal tutor for students, not a shortcut for learning, says OpenAI’s Raghav Gupta",
+        "description": "Students need guidance on how to use AI, such that it advances and does not dilute learning. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/ai-a-great-personal-tutor-for-students-not-a-shortcut-for-learning-says-openais-raghav-gupta",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/617428b56e492050ac0bc89cf912132a1d3416e4da7b9f85ae62230c50c818af",
+        "publishedAt": "2026-03-22T21:00:00Z",
         "source": "The Straits Times"
       },
       {
-        "title": "Hey Google, are hot pants really me? I tried the new AI style tool",
-        "description": "This virtual shopping tech allows you to try before you buy. Just don’t get as carried away with it as I did, says our fashion editor",
-        "url": "https://www.thetimes.com/life-style/fashion/article/google-try-it-on-ai-j3n3jsx66",
-        "image": "https://www.thetimes.com/imageserver/image/b4bbc808-64dd-470e-a431-1e3f060bf64e.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-        "publishedAt": "2026-03-22T20:00:00Z",
-        "source": "The Sunday Times"
-      },
-      {
-        "title": "How ecosystem partnerships are shaping Asia-Pacific’s AI digital infrastructure",
-        "description": "Explore how ecosystem partnerships are shaping Asia-Pacific's AI digital infrastructure and driving growth in the region. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/ecosystem-partnerships-asia-pacific-ai-digital-infrastructure-bridge-data-centres",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/12b4d0a9122de35072d253dc8369c1ce93144f8c6b0317d5836328283a843195",
-        "publishedAt": "2026-03-22T20:00:00Z",
+        "title": "Forum: AI can personalise education for those who learn differently",
+        "description": "Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/opinion/forum/forum-ai-can-personalise-education-for-those-who-learn-differently",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9c949f044ee19ff9295d51413db33558b32d2dab5d4e6e1902db8166198e389a",
+        "publishedAt": "2026-03-22T21:00:00Z",
         "source": "The Straits Times"
       },
       {
-        "title": "Middle East Conflict Could Trigger a 'Black Swan' For Chips, Pushing the Industry Into a Period That Could Be Devastating for AI",
-        "description": "The conflict in the Middle East is now posing serious risks to the AI supply chain, particularly the semiconductor industry.",
-        "url": "https://wccftech.com/middle-east-conflict-could-trigger-a-black-swan-for-chips/",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/Untitled-design-35-1920x1097.jpg",
-        "publishedAt": "2026-03-22T19:52:43Z",
-        "source": "Wccftech"
-      },
-      {
-        "title": "AI ‘Fruit Love Island’ TikTok hits 3.1M followers in just 9 days, internet can’t look away",
-        "description": "US Streamers News: A TikTok account that shares funny AI videos about fruits falling in love is getting huge attention online. The account started on March 13, 2026, and.",
-        "url": "https://timesofindia.indiatimes.com/world/us-streamers/ai-fruit-love-island-tiktok-hits-3-1m-followers-in-just-9-days-internet-cant-look-away/articleshow/129738383.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129738365,width-1280,height-720,imgsize-1005239,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-22T19:36:00Z",
-        "source": "Times of India"
+        "title": "Apple is reportedly sitting on new products because Siri AI isn’t ready",
+        "description": "Apple may be delaying new HomePod and Apple TV launches due to unfinished Siri AI features, even as current inventory runs low.",
+        "url": "https://www.digitaltrends.com/home/apple-is-reportedly-sitting-on-new-products-because-siri-ai-isnt-ready/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/03/Apple-HomePod-Featured.jpg?resize=1200%2C630",
+        "publishedAt": "2026-03-22T20:51:44Z",
+        "source": "Digital Trends"
       }
     ]
   }
