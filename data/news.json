@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-23T12:33:36.391Z",
+  "fetchedAt": "2026-03-23T13:51:17.464Z",
   "sections": {
     "world": [
       {
-        "title": "Ukraine war briefing: Russia trying to ‘intensify’ attacks; US-Ukraine talks end",
-        "description": "Russia ‘taking advantage of more favourable weather conditions’ Zelenskyy says; Witkoff says progress made during discussions in Florida. What we know on day 1,489",
-        "url": "https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end",
-        "image": "https://i.guim.co.uk/img/media/33a8bc7c470d596f3318f2349f414df09f8d927b/447_0_4473_3578/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4fdca7f6dbab4c70f731d497be870e8",
-        "publishedAt": "2026-03-23T00:33:00Z",
+        "title": "At $2 billion a day, how long can the US sustain its war with Iran?",
+        "description": "Pentagon is burning through bombs and missiles and wants Congress to give it another $200 billion",
+        "url": "https://www.thenationalnews.com/news/us/2026/03/22/how-much-has-america-spent-on-the-iran-war/",
+        "image": "https://www.thenationalnews.com/resizer/v2/PCPH35DPKZFPD3QQCDJEAZKD3I.jpg?smart=true&auth=275380acdc5635f36363e9152029a599fff1ef441dd43688ba14c7ddef922462&width=1200&height=630",
+        "publishedAt": "2026-03-23T01:46:37Z",
+        "source": "thenationalnews.com"
+      },
+      {
+        "title": "Trump news at a glance: president gives Iran an ultimatum, Iran issues Middle East a threat",
+        "description": "Trump vows to ‘hit and obliterate’ Iran’s power plants if it fails to reopen strait of Hormuz by his deadline – key US politics stories from 22 March at a glance",
+        "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-news-at-a-glance-president-gives-iran-an-ultimatum-iran-issues-middle-east-a-threat",
+        "image": "https://i.guim.co.uk/img/media/e162026370a7e7183bd1b505de6e614a3fa994a1/385_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=342be33dde8bd768a11b7c2489a15b9c",
+        "publishedAt": "2026-03-23T01:45:48Z",
         "source": "The Guardian"
       },
       {
-        "title": "Driving Change Through Technology for Nonprofits in Asia-Pacific",
-        "description": "Across one of the world’s most diverse and rapidly evolving regions, nonprofit organizations are confronting a dual challenge: rising community needs and the relentless pace of digital disruption.",
-        "url": "https://www.thailand-business-news.com/news/295778-driving-change-through-technology-for-nonprofits-in-asia-pacific",
-        "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/03/work-desk-org.jpg?fit=1310%2C733&ssl=1",
-        "publishedAt": "2026-03-23T00:27:51Z",
-        "source": "Thailand Business News"
+        "title": "Dubai, UAE news LIVE: IndiGo issues UAE-India advisory, several flights to Dubai cancelled till April 30",
+        "description": "Dubai, UAE news LIVE: UAE airlines are operating limited flight schedules to key destinations as adverse weather and regional conditions continue to disrupt operations. Passengers have been advised to check flight status before travelling. | World News",
+        "url": "https://www.hindustantimes.com/world-news/dubai-news-live-updates-abu-dhabi-uae-airports-flight-status-missiles-drones-attack-middle-east-iran-us-war-saudi-qatar-101774229481992.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/23/550x309/etihaD_1774243084188_1774243084383.jpg",
+        "publishedAt": "2026-03-23T01:45:20Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Lamu Port’s Cargo Throughput Jumps by 900%, Buoyed by Shipping Disruption",
-        "description": "With ocean carriers drawing up contingency plans for cargo destined to the Gulf region, some ports on the East African coast have gained a strategic...",
-        "url": "https://maritime-executive.com/article/lamu-port-s-cargo-throughput-jumps-by-900-buoyed-by-shipping-disruption",
-        "image": "https://maritime-executive.com/media/images/article/Lamu-Port-Grande-Florida-call-Mar-2026.223c11.jfif",
-        "publishedAt": "2026-03-23T00:19:54Z",
-        "source": "The Maritime Executive"
+        "title": "Some dual British citizens get border exemption from new passports",
+        "description": "By Gill Bonnett of RNZ Some British dual nationals are getting permanent exemptions from needing United Kingdom passports to travel there – but the carve-out...",
+        "url": "https://www.nzherald.co.nz/nz/some-dual-british-citizens-get-border-exemption-from-new-passports/YA66OMPAENDGJCYYGICCQHEIUE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/UKNKHL5OQNB2ZEQ6PY2CSAZA7U.jpg?auth=eef2d60a7960233c33dbbce8b84340097e820f7d64f42f8453d6e894d91c2317&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-03-23T01:44:35Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Iran may target desalination plants within days, UN official warns",
-        "description": "U.N. official Kaveh Madani warns desalination plants across the Middle East could be struck within days, risking a regional water crisis and global economic fallout.",
-        "url": "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/desalination-plant-bahrain.jpg",
-        "publishedAt": "2026-03-23T00:18:58Z",
-        "source": "Fox News"
+        "title": "Cruise Kenya Travel: 30% Discount for National Park Visitors in 2026",
+        "description": "Kenya launches a 30% cruise discount for national park visitors in March 2026, boosting inland tourism and wildlife conservation. Learn how this deal affects African travel plans.",
+        "url": "https://nomadlawyer.org/cruise-kenya-travel-discount-march-2026",
+        "image": "https://www.nomadlawyer.org/images/blog/travel-deals/2026/03/cruise-kenya-travel-discount-march-2026.jpg",
+        "publishedAt": "2026-03-23T01:38:38Z",
+        "source": "Nomad Lawyer"
       },
       {
-        "title": "Peloton-style sauna membership",
-        "description": "Peak Saunas launched Peak Wellness Club, a wellness membership with daily audio sessions, expert protocols and goal-based programs for sauna owners.",
-        "url": "https://www.usatoday.com/story/shopping/deals/home/outdoor/2026/03/22/peak-wellness-club-by-peak-saunas/89279181007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/23/USAT/89279648007-peakhero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
-        "publishedAt": "2026-03-23T00:18:18Z",
-        "source": "USA Today"
+        "title": "Heatwave in Malaysia sends durian trees blooming earlier than expected",
+        "description": "Orchard owner Tan Chee Keat, 35, said about 20 per cent of his trees had begun fruiting much earlier than usual. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/heatwave-sends-durian-trees-blooming-earlier-than-expected",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ce967e5cce9c9b4b59f2cfa31502bc3a690e8794f96759368070bd8c98d3a1b8",
+        "publishedAt": "2026-03-23T01:37:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "What Happens When Animals Get Too Comfortable Around Humans?",
-        "description": "Why is it that a squirrel may calmly take food from a picnic table while a deer runs as if its life depends on it at the snap of a twig? For years, ecologists have asked whether animals always treat humans as dangerous predators or whether their responses change over time. A recent meta-analysis combining",
-        "url": "https://www.aol.com/happens-animals-too-comfortable-around-170200871.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/9dis2LaS5lyXw0Ik6Wt.Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/a_z_animals_articles_974/d36f1b6e1a7d19b5f770738ffdc9236a",
-        "publishedAt": "2026-03-23T00:17:02Z",
-        "source": "AOL.com"
+        "title": "\"War Has Costs\": Iran Charges Ships $2 Million Toll To Pass Strait Of Hormuz",
+        "description": "Iran's President Masoud Pezeshkian has said the Strait of Hormuz is \"open to everyone\" except Iran's adversaries as he set out Tehran's policy on X.",
+        "url": "https://www.ndtv.com/world-news/iran-war-news-2-million-toll-on-ships-to-pass-strait-of-hormuz-what-iran-said-11252379",
+        "image": "https://c.ndtvimg.com/2026-03/oa6jnd34_-strait-of-hormuz-_625x300_17_March_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-03-23T01:35:46Z",
+        "source": "NDTV"
       },
       {
-        "title": "Gardaí used new counter-drone equipment during Starmer visit",
-        "description": "It is understood that Cork based Armed Support Unit (ASU) members have been trained in the systems to knock down unmanned aerial vehicles (UAVs).",
-        "url": "https://www.thejournal.ie/gardai-use-new-counter-drone-equipment-during-starmer-visit-as-armed-gardai-to-lead-operations-6990600-Mar2026/",
-        "image": "https://img2.thejournal.ie/article/6990600/river/?height=400&version=6990691",
-        "publishedAt": "2026-03-23T00:06:00Z",
-        "source": "The Journal"
-      },
-      {
-        "title": "For news out of the Middle East, look beyond our US-centric media",
-        "description": "Our news from the Middle East is being bent out of shape by its alignment with the daily talking points out of Washington and London.",
-        "url": "https://www.crikey.com.au/2026/03/23/middle-east-news-sources-us-centric-media/",
-        "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/03/iran_787f79.jpg?quality=70&w=1024",
-        "publishedAt": "2026-03-23T00:04:42Z",
-        "source": "Crikey"
+        "title": "Donald Trump’s changing course on Strait of Hormuz strategy raises questions about U.S. war preparation",
+        "description": "Trump's shifting strategy on the Strait of Hormuz raises concerns about U.S. war readiness and the potential for escalation.",
+        "url": "https://www.thehindu.com/news/international/donald-trumps-changing-course-on-strait-of-hormuz-strategy-raises-questions-about-us-war-preparation/article70774197.ece",
+        "image": "https://th-i.thgim.com/public/incoming/l0qfiv/article70774199.ece/alternates/LANDSCAPE_1200/Trump_94179.jpg",
+        "publishedAt": "2026-03-23T01:29:25Z",
+        "source": "The Hindu"
       }
     ],
     "business": [
       {
-        "title": "Saudi Aramco boss pulls out of major international energy conference due to Iran conflict, source says",
-        "description": "Saudi Aramco CEO Amin Nasser has cancelled his appearance at the CERAWeek energy conference in Houston. He is staying in Saudi Arabia due to the ongoing Iran conflict. This decision highlights the serious challenges he faces. The conflict has disrupted global markets and targeted energy infrastructure. Other energy leaders are also altering their attendance plans.",
-        "url": "https://economictimes.indiatimes.com/news/international/business/aramco-ceo-withdraws-from-houston-event-to-deal-with-west-asia-war/articleshow/129740827.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-129740838,width-1200,height-630,imgsize-65518,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-03-23T00:33:16Z",
-        "source": "The Economic Times"
+        "title": "NSW government to begin trialling Smart Rental Bonds system ahead of mid",
+        "description": "NSW Premier Chris Minns says the portable bonds system will become available \"area by area\" as part of a testing trial before its mid-2026 launch.",
+        "url": "https://www.abc.net.au/news/2026-03-23/nsw-premier-provides-update-on-portable-bonds-scheme-for-renters/106485478",
+        "image": "https://live-production.wcms.abc-cdn.net.au/0c87f0509129e7473ac026223f03e933?impolicy=wcms_watermark_news&cropH=3341&cropW=5941&xPos=0&yPos=311&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-23T01:49:18Z",
+        "source": "ABC News"
       },
       {
-        "title": "Australian politics live: ASX plunges as investors weigh Trump’s Iran ultimatum; Plibersek says working from home could be ‘helpful’ during fuel crisis",
-        "description": "Follow updates live",
-        "url": "https://www.theguardian.com/australia-news/live/2026/mar/23/federal-parliament-ursula-von-der-leyen-visit-labor-anthony-albanese-chris-bowen-fuel-crisis-coalition-liberals-angus-taylor-nationals-matt-canavan-ntwnfb",
-        "image": "https://i.guim.co.uk/img/media/22cd75a14a6f2f58ad556e880514011261999d6b/260_0_2898_2319/master/2898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bae120f08c11519c46dfbed954ed8386",
-        "publishedAt": "2026-03-23T00:30:57Z",
-        "source": "The Guardian"
+        "title": "Lao government cuts school days in response to fuel crisis",
+        "description": "Lao government cuts school days in response to fuel crisis Asia News Network (ANN) is the leading regional alliance of news titles striving to bring the region closer, through an active sharing of editorial content on happenings in the region.",
+        "url": "https://asianews.network/lao-government-cuts-school-days-in-response-to-fuel-crisis/",
+        "image": "https://asianews.network/wp-content/uploads/2026/03/AFP__20251202__86TZ9WE__v2__MidRes__TopshotLaosPoliticsSocialHistory.jpg",
+        "publishedAt": "2026-03-23T01:47:47Z",
+        "source": "Asia News Network"
       },
       {
-        "title": "JPMorgan to expand Asia-Pacific team 10% this year, undeterred by Middle East conflict",
-        "description": "Hong Kong and the Greater Bay Area are central to client growth plans, ‘and we do not think that it is slowing down’, veteran banker says.",
-        "url": "https://www.scmp.com/business/banking-finance/article/3347354/jpmorgan-expand-asia-pacific-team-10-year-undeterred-middle-east-conflict",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/20/ef0687de-d2eb-45e8-8dc3-483d3b6283a0_85aae5b3.jpg?itok=4zOSty5_&v=1774007133",
-        "publishedAt": "2026-03-23T00:30:15Z",
-        "source": "South China Morning Post"
+        "title": "Family of ‘serial home builders’ sells architect-designed Kenmore property for suburb record",
+        "description": "Now that their daughter has graduated as an architect, the Kenmore family decided to sell up and build yet another home – but this time together as a family.",
+        "url": "https://www.brisbanetimes.com.au/property/news/family-of-serial-home-builders-sells-architect-designed-property-for-non-riverfront-record-20260323-p5rmlq.html",
+        "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/decd5a4bf922fc13fdaca90ae4a73f6b12d3f4928f0fe98a1f9bfbbd30a24748",
+        "publishedAt": "2026-03-23T01:45:00Z",
+        "source": "Brisbane Times"
       },
       {
-        "title": "Stock Market Today: All You Need To Know Before Going Into Trade On March 23",
-        "description": "Stocks in the news, big brokerage calls of the day, complete trade setup and much more!",
-        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-march-23-11245000",
-        "image": "https://c.ndtvimg.com/2026-03/2tetjicg_market_625x300_20_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-03-23T00:30:01Z",
-        "source": "NDTV Profit"
+        "title": "No AI, No FPI? Why Foreign Investors Are Pulling Out Of Indian Markets",
+        "description": "According to market observers, most Indian companies lack a significant AI value chain, prompting foreign investors to look at greener pastures.",
+        "url": "https://www.ndtv.com/india-news/no-ai-no-fpi-why-foreign-investors-are-pulling-out-of-indian-markets-11252399",
+        "image": "https://i.ndtvimg.com/i/2016-03/stocks-market-rally-equity-investment-650-400_650x400_51459337127.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-03-23T01:44:59Z",
+        "source": "NDTV"
       },
       {
-        "title": "Kotak Bank set to acquire Deutsche's retail business in Rs 4,500-crore deal",
-        "description": "Kotak Mahindra Bank is poised to take a major leap by acquiring Deutsche Bank's retail operations in India for around Rs 4,500 crore. This deal promises to strengthen Kotak's retail lending capabilities and broaden its base of deposits. Meanwhile, Deutsche Bank's exit reflects a larger strategy to streamline its operations worldwide.",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-bank-set-to-acquire-deutsches-retail-business-in-rs-4500-crore-deal/articleshow/129738229.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-129738249,width-1200,height-630,imgsize-115908,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-03-23T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Middle East war to dominate Houston's 'Davos of Energy'",
+        "description": "The attacks on critical energy facilities in Gulf countries have exacerbated a global oil and gas supply picture already upended by the de facto closure of the Strait of Hormuz.",
+        "url": "https://www.japantimes.co.jp/business/2026/03/23/markets/middle-east-houston-davos-energy/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/23/530679.jpg?v=3.1",
+        "publishedAt": "2026-03-23T01:44:00Z",
+        "source": "The Japan Times"
       },
       {
-        "title": "Iran war impact: OMCs plan smaller LPG cylinders to boost supply",
-        "description": "Due to the impact of the war in Iran on LPG supplies, families could be receiving a reduced amount of 10 kg per standard 14.2 kg gas cylinder soon. This initiative is a preventative measure to optimize the dwindling resources, enabling more households to access LPG.",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-war-impact-omcs-plan-smaller-lpg-cylinders-to-boost-supply/articleshow/129738158.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-129738163,width-1200,height-630,imgsize-175624,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-03-23T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Embodied AI turned into China’s growth driver",
+        "description": "Embodied AI turned into China’s growth driver Asia News Network (ANN) is the leading regional alliance of news titles striving to bring the region closer, through an active sharing of editorial content on happenings in the region.",
+        "url": "https://asianews.network/embodied-ai-turned-into-chinas-growth-driver/",
+        "image": "https://asianews.network/wp-content/uploads/2026/03/AFP__20260320__A4277W6__v1__MidRes__ChinaTechnologyAi.jpg",
+        "publishedAt": "2026-03-23T01:42:47Z",
+        "source": "Asia News Network"
       },
       {
-        "title": "QBit Semiconductor Plans Taiwan IPO in 2026",
-        "description": "TAIPEI, March 23, 2026 /PRNewswire/ -- QBit Semiconductor LTD. ('QBit') announced that it has completed its Series B fundraising round with participation from an affiliate of Arm Holdings plc. Following this investment, QBit plans to apply for an initial public offering in Taiwan by the fourth quarter of 2026.",
-        "url": "https://www.manilatimes.net/2026/03/23/tmt-newswire/pr-newswire/qbit-semiconductor-plans-taiwan-ipo-in-2026/2305129",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/23/983356.jpg",
-        "publishedAt": "2026-03-23T00:29:37Z",
-        "source": "The Manila Times"
+        "title": "Hollingsworth wants to partner with Wawa, Blind River as AI reshapes economy",
+        "description": "New regional group would look for new industries, as well as tourism and agricultural opportunities",
+        "url": "https://www.sootoday.com/local-news/hollingsworth-wants-to-partner-with-wawa-blind-river-as-ai-reshapes-economy-12041298",
+        "image": "https://www.vmcdn.ca/f/files/sootoday/images/politics/municipal/20230408stephankinachreprimandka10.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-03-23T01:42:00Z",
+        "source": "SooToday.com"
       },
       {
-        "title": "Discover the Future of Automotive Manufacturing Technology in AMTS 2026, Shanghai, China - Register Now for Free Pass",
-        "description": "SHANGHAI, March 23, 2026 /PRNewswire/ -- AMTS (Shanghai International Automotive Manufacturing Technology & Materials Show) is the leading one-stop platform showcasing the latest technologies and solutions in automotive engineering and manufacturing. Keeping up with the trend of new energy vehicles, the exhibition will focus on the innovative design and manufacturing processes of auto parts for new energy vehicles, and the newly designed TechShow Arena will gather cutting-edge automotive technology.",
-        "url": "https://www.manilatimes.net/2026/03/23/tmt-newswire/pr-newswire/discover-the-future-of-automotive-manufacturing-technology-in-amts-2026-shanghai-china-register-now-for-free-pass/2305128",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/23/983352.jpg",
-        "publishedAt": "2026-03-23T00:29:34Z",
-        "source": "The Manila Times"
+        "title": "Gold gets smashed as oil shock lifts yields, boosts dollar, and crushes rate-cut hopes.",
+        "description": "Gold is being hit by a stronger dollar, rising Treasury yields, and a hawkish repricing of rates as the oil shock lifts inflation fears. The metal still has geopolitical support underneath it, but for now macro headwinds are winning.",
+        "url": "https://investinglive.com/commodities/gold-gets-smashed-as-oil-shock-lifts-yields-boosts-dollar-and-crushes-rate-cut-hopes-20260323/",
+        "image": "https://images.investinglive.com/images/gold%2023%20March%202026_id_ac958afb-7c5e-42a9-80fe-dc3c63d4f8e8_size975.jpg",
+        "publishedAt": "2026-03-23T01:39:59Z",
+        "source": "investingLive"
       }
     ],
     "science": [
+      {
+        "title": "Scientists turn toxic gas into medical tool using electric signals",
+        "description": "SEOUL, March 23 (AJP) -A research team at the Korea Advanced Institute of Science and Technology (KAIST) has developed a technology to control hydrogen sulfide using electrical signals, turning a gas typically known for its toxic nature and foul odor into a precise medical treatment tool.KAIST said Monday that the study, led by the Department of Ch...",
+        "url": "https://www.ajupress.com/view/20260323103254259",
+        "image": "https://image.ajunews.com/content/image/2026/03/23/20260323103540568334.jpg",
+        "publishedAt": "2026-03-23T01:38:13Z",
+        "source": "aju press"
+      },
+      {
+        "title": "Mysterious Structure on Mars Looks Uncannily Like an Ancient Egyptian Pyramid",
+        "description": "It would be tempting to assume there's nothing much of note happening on Mars, but that dusty rusty planet has a lot of interesting stuff going on.",
+        "url": "https://www.sciencealert.com/mysterious-structure-on-mars-looks-uncannily-like-an-ancient-egyptian-pyramid",
+        "image": "https://www.sciencealert.com/images/2026/03/tetra-header.jpg",
+        "publishedAt": "2026-03-23T01:32:39Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "Micro attacks on sewer lines",
+        "description": "Research reveals that microbial activity causes severe corrosion in sewer lines, challenging previous assumptions about wastewater chemistry.",
+        "url": "https://www.thehindubusinessline.com/business-tech/micro-attacks-on-sewer-lines/article70772976.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/ngk8k4/article70772979.ece/alternates/LANDSCAPE_1200/BL2303_Quantum_Lab1.jpg",
+        "publishedAt": "2026-03-23T01:23:00Z",
+        "source": "BusinessLine"
+      },
+      {
+        "title": "Call to help create safer shared pathways",
+        "description": "Your feedback could identify problems and safety concerns and contribute to planning and design of shared pathways.",
+        "url": "https://www.uwa.edu.au/news/article/2026/march/call-to-help-create-safer-shared-pathways",
+        "image": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/shared-pathways-card.jpg",
+        "publishedAt": "2026-03-23T01:21:12Z",
+        "source": "University of Western Australia (UWA)"
+      },
       {
         "title": "Measuring irreversibility in gene transcription",
         "description": "Living cells are fundamentally nonequilibrium systems, meaning they constantly spend energy through seemingly one-way, irreversible processes, such as transcribing DNA into RNA, to keep life going. But how that irreversibility appears in the dynamics of individual genes has been difficult to measure.",
@@ -166,104 +198,72 @@
         "image": "https://www.irishexaminer.com/cms_media/module_img/10021/5010959_9_seoimageog_DomainOfTheDinosaurs_TheGlucksman_ArtCommissions_installshot.jpg",
         "publishedAt": "2026-03-22T21:00:00Z",
         "source": "Irish Examiner"
-      },
-      {
-        "title": "Humpback whales adjust pitch when songs turn into duets",
-        "description": "Humpback whales alter song pitch to avoid overlap with nearby singers, revealing flexible and responsive vocal behavior.",
-        "url": "https://www.earth.com/news/humpback-whales-adjust-pitch-when-songs-turn-into-duets/",
-        "image": "https://cff2.earth.com/uploads/2026/03/22142941/humpback-whale-duet.jpg",
-        "publishedAt": "2026-03-22T20:51:41Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Bird feathers can cool off by sending body heat into space",
-        "description": "New study shows that bird feathers do more than look pretty. They help birds manage heat and stay cool in surprising ways.",
-        "url": "https://www.earth.com/news/bird-feathers-can-cool-off-by-sending-body-heat-into-space/",
-        "image": "https://cff2.earth.com/uploads/2026/03/22143256/bird-feathers-heat-loss2.jpg",
-        "publishedAt": "2026-03-22T20:51:41Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "$17 million mission to find life above Venus",
-        "description": "Rocket Lab boss Sir Peter Beck says the price tag for his mission to find life in the clouds above Venus later this year is cheap by space exploration...",
-        "url": "https://www.nzherald.co.nz/nz/inside-sir-peter-beck-and-rocket-labs-sub-17-million-mission-to-find-life-above-venus/premium/LWHJ4Q74CBCLBHDW2MMQA4ZOEY/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/6XGLO3BBY5BADND2RUAFYPSZY4.jpg?auth=7bf0cb9d5f073d4d950dc45cdd0cb4ebb84959ebdc1b2bb35eebfa0678a5fcbd&width=1200&height=675&quality=70&focal=684%2C317&smart=false",
-        "publishedAt": "2026-03-22T20:41:28Z",
-        "source": "NZ Herald"
-      },
-      {
-        "title": "Fiber-optic sensors reveal how farming destroys soil's natural structure",
-        "description": "Soil is often perceived simply as \"dirt,\" but in reality, it is a dynamic, living system that acts as Earth's natural sponge. Unfortunately, common agricultural practices—including deep plowing and the use of heavy machinery—can severely disrupt this natural system, according to a new study led by Dr. Shi Qibin from the Institute of Geology and Geophysics of the Chinese Academy of Sciences, in collaboration with international partners.",
-        "url": "https://phys.org/news/2026-03-fiber-optic-sensors-reveal-farming.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/tractor-plowing.jpg",
-        "publishedAt": "2026-03-22T20:00:03Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "No exam is too hard for AI?",
-        "description": "Explore the challenges of measuring AI capabilities with the new Humanity’s Last Exam benchmark and its implications for businesses.",
-        "url": "https://www.thehindubusinessline.com/business-tech/no-exam-is-too-hard-for-ai/article70773020.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/37zhgz/article70773025.ece/alternates/LANDSCAPE_1200/BL2303_Quantum_Nagaraj.jpg",
-        "publishedAt": "2026-03-23T00:32:00Z",
-        "source": "The Hindu Business Line"
+        "title": "AI in public administration shifts toward data-centric governance models",
+        "description": "Read more about AI in public administration shifts toward data-centric governance models on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/law-order/3844292-ai-in-public-administration-shifts-toward-data-centric-governance-models",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2026_10_34_09_8428196.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-23T01:49:09Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "led vibe coding amplifying security and governance fears",
-        "description": "Executives warned that risks such as prompt injection, data exposure and vulnerabilities in widely used models could trigger large-scale impact, raising the threat of a wave of shadow AI-or use of unapproved AI tools-if governance frameworks fail to keep pace.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/ai-led-vibe-coding-amplifying-security-and-governance-fears/articleshow/129737485.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137930,resizemode-75,msid-129737485/tech/technology/ai-led-vibe-coding-amplifying-security-and-governance-fears.jpg",
-        "publishedAt": "2026-03-23T00:31:00Z",
-        "source": "The Economic Times"
+        "title": "Hidden barriers to AI adoption in hospitality SMEs",
+        "description": "Read more about Hidden barriers to AI adoption in hospitality SMEs on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/technology/3844272-hidden-barriers-to-ai-adoption-in-hospitality-smes",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2026_10_06_12_8552476.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-23T01:47:36Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "PE firm Multiples bets on AI-first tech services, pares legacy bets",
-        "description": "Multiples Alternate Asset Management is betting on AI-first tech services firms pivoting away from sectors that be disrupted by technology. The shift reflects a broader change in India’s enterprise tech landscape",
-        "url": "https://www.livemint.com/companies/news/multiples-backs-ai-first-tech-services-firms-as-it-sheds-legacy-bets-11774155827278.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/0_1774173401107_1774173423054.jpg",
-        "publishedAt": "2026-03-23T00:30:42Z",
-        "source": "Livemint"
+        "title": "No AI, No FPI? Why Foreign Investors Are Pulling Out Of Indian Markets",
+        "description": "According to market observers, most Indian companies lack a significant AI value chain, prompting foreign investors to look at greener pastures.",
+        "url": "https://www.ndtv.com/india-news/no-ai-no-fpi-why-foreign-investors-are-pulling-out-of-indian-markets-11252399",
+        "image": "https://c.ndtvimg.com/2026-03/vrn6nhls_artificial-intelligence-_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-03-23T01:44:59Z",
+        "source": "NDTV.com"
       },
       {
-        "title": "led wealthtech rising as VCs bet on a fintech disruption",
-        "description": "As middle-income Indians increasingly diversify beyond real estate and gold into financial assets, the investment thesis is evolving. New-age startups are leveraging AI to build products at lower cost and with greater efficiency.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-led-wealthtech-rising-as-vcs-bet-on-a-fintech-disruption/articleshow/129735772.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-708888,resizemode-75,msid-129735772/tech/artificial-intelligence/ai-led-wealthtech-rising-as-vcs-bet-on-a-fintech-disruption.jpg",
-        "publishedAt": "2026-03-23T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Healthcare providers embrace AI tools while systems lag in readiness and governance",
+        "description": "Read more about Healthcare providers embrace AI tools while systems lag in readiness and governance on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/technology/3843437-healthcare-providers-embrace-ai-tools-while-systems-lag-in-readiness-and-governance",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_03_2026_18_12_20_9043417.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-23T01:44:48Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "MeitY setting up AI curation units across 50 key ministries",
-        "description": "The final 20 AI curation units will be established over the next few months, officials told ET.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/meity-setting-up-ai-curation-units-across-50-key-ministries/articleshow/129737511.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-233882,resizemode-75,msid-129737511/tech/technology/meity-setting-up-ai-curation-units-across-50-key-ministries.jpg",
-        "publishedAt": "2026-03-23T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Global AI governance frameworks fail to address real-world security threats",
+        "description": "Read more about Global AI governance frameworks fail to address real-world security threats on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/technology/3842842-global-ai-governance-frameworks-fail-to-address-real-world-security-threats",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_03_2026_10_29_51_8031289.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-23T01:42:35Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "led wealthtech rising as VCs bet on a fintech disruption",
-        "description": "As middle-income Indians increasingly diversify beyond real estate and gold into financial assets, the investment thesis is evolving. New-age startups are leveraging AI to build products at lower cost and with greater efficiency.",
-        "url": "https://economictimes.indiatimes.com/tech/startups/ai-led-wealthtech-rising-as-vcs-bet-on-a-fintech-disruption/articleshow/129736483.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-708888,resizemode-75,msid-129736483/tech/startups/ai-led-wealthtech-rising-as-vcs-bet-on-a-fintech-disruption.jpg",
-        "publishedAt": "2026-03-23T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Hollingsworth wants to partner with Wawa, Blind River as AI reshapes economy",
+        "description": "New regional group would look for new industries, as well as tourism and agricultural opportunities",
+        "url": "https://www.sootoday.com/local-news/hollingsworth-wants-to-partner-with-wawa-blind-river-as-ai-reshapes-economy-12041298",
+        "image": "https://www.vmcdn.ca/f/files/sootoday/images/politics/municipal/20230408stephankinachreprimandka10.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-03-23T01:42:00Z",
+        "source": "SooToday"
       },
       {
-        "title": "Elon Musk announces ambitious $20B Terafab project to manufacture chips for space",
-        "description": "Elon Musk announces ambitious $20B Terafab project to manufacture chips for space-based AI - SiliconANGLE",
-        "url": "https://siliconangle.com/2026/03/22/elon-musk-announces-ambitious-20b-terafab-project-manufacture-chips-space-based-ai/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Screenshot-from-2026-03-23-07-24-26.png",
-        "publishedAt": "2026-03-23T00:26:31Z",
-        "source": "SiliconANGLE News"
+        "title": "How autonomous AI systems can leak sensitive medical data?",
+        "description": "Read more about How autonomous AI systems can leak sensitive medical data? on Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/technology/3842942-how-autonomous-ai-systems-can-leak-sensitive-medical-data",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_03_2026_15_24_12_4212792.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-23T01:40:43Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "AI influencer awards season is upon us",
-        "description": "Fanvue, OpenArt, and ElevenLabs have launched an ‘AI Personality of the Year’ award to recognize the growing AI influencer economy.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-03-23T00:01:00Z",
-        "source": "The Verge"
+        "title": "SoftBank Commits $500 Billion to US AI Data Center Project",
+        "description": "SoftBank Group has committed $500 billion to develop an artificial intelligence data center in Ohio, with construction expected to start later this year, Kyodo News reported on Saturday, citing...",
+        "url": "https://www.marketscreener.com/news/softbank-commits-500-billion-to-us-ai-data-center-project-ce7e5edcdb81ff24",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-03-23T01:35:51Z",
+        "source": "MarketScreener"
       }
     ]
   }
