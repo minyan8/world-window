@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-24T11:34:35.912Z",
+  "fetchedAt": "2026-03-24T12:35:36.162Z",
   "sections": {
     "world": [
       {
-        "title": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
-        "description": "Giorgia Meloni concedes defeat in the high-stakes vote on a justice reform package, but vows to continue as PM.",
-        "url": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-17T162241Z_813921339_RC2SZDA4ADET_RTRMADP_3_USA-ITALY-1744916885.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-03-23T23:22:50Z",
-        "source": "Al Jazeera"
+        "title": "Markwayne Mullin confirmed as Department of Homeland Security head",
+        "description": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
+        "url": "https://www.bbc.co.uk/news/articles/c98kd9x705eo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/753f/live/79da8f20-26ec-11f1-9d87-f57d604f7537.jpg",
+        "publishedAt": "2026-03-24T00:34:26Z",
+        "source": "BBC"
       },
       {
-        "title": "Southeast Asia's largest economy to allow state employees to work from home amid energy crisis",
-        "description": "The Indonesia government is set to implement a mandatory one-day-a-week work-from-home (WFH) policy for civil servants as part of measures to cut energy consumption. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/news/southeast-asia-s-largest-economy-to-allow-state-employees-to-work-from-home-amid-energy-crisis-5054010.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/03/24/sxozii42rjjzzaslium7dvbsxu-177-8827-3427-1774305105.png?w=680&h=0&q=100&dpr=1&fit=crop&s=5cZiFpsLO74TBAt-nHxDpA",
-        "publishedAt": "2026-03-23T23:19:28Z",
-        "source": "VnExpress International"
+        "title": "Albanese risks losing the voters who put him there",
+        "description": "From foreign policy to domestic reform, Labor risks alienating key supporters and wasting a moment of political opportunity in a volatile landscape.",
+        "url": "https://johnmenadue.com/post/2026/03/albanese-risks-losing-the-voters-who-put-him-there/",
+        "image": "https://johnmenadue.com/images/albanese-trump-2025.jpg",
+        "publishedAt": "2026-03-24T00:33:45Z",
+        "source": "Pearls and Irritations"
       },
       {
-        "title": "UN expert says world has given Israel ‘licence to torture Palestinians’",
-        "description": "UN Special Rapporteur Francesca Albanese says torture ‘has effectively become state policy’ in Israel.",
-        "url": "https://www.aljazeera.com/news/2026/3/23/un-expert-says-world-has-given-israel-licence-to-torture-palestinians",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260323__A4ER963__v1__HighRes__SwitzerlandUnRightsPalestinianIsraelConflict-1774330694.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-03-23T23:03:59Z",
-        "source": "Al Jazeera"
+        "title": "Trump Eyes ‘regime Change’ In Iran",
+        "description": "President Donald Trump said Monday that “regime change” was underway in Iran as the United States holds peace talks with an unidentified alternative leader.",
+        "url": "https://dailytrust.com/trump-eyes-regime-change-in-iran/",
+        "image": "https://dailytrust.com/wp-content/uploads/2025/11/Trump-613x400.avif",
+        "publishedAt": "2026-03-24T00:31:24Z",
+        "source": "Daily Trust"
       },
       {
-        "title": "Starlink: Don’t debate Musk - debate rural connectivity",
-        "description": "The debate on Starlink has got mangled. We need to focus on the communities who are being left behind in South Africa.",
-        "url": "https://currencynews.co.za/starlink-dont-debate-musk-debate-rural-connectivity/",
-        "image": "https://currencynews.co.za/wp-content/uploads/2026/03/Starlink_encourage.gif",
-        "publishedAt": "2026-03-23T23:03:08Z",
-        "source": "Currency News"
-      },
-      {
-        "title": "Alice Springs residents conflicted over Pine Gap's role in US strikes in Middle East",
-        "description": "Alice Springs residents with family in the Middle East are grappling with the role the highly secretive Pine Gap base may be playing in the Iran war from their own backyard.",
-        "url": "https://www.abc.net.au/news/2026-03-24/pine-gap-alice-springs-residents-conflicted/106468888",
-        "image": "https://live-production.wcms.abc-cdn.net.au/7db99bd4f631c4ea465d133a25635acc?impolicy=wcms_watermark_news&cropH=694&cropW=1233&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-03-23T23:02:59Z",
+        "title": "Iranian terror group 'claims responsibility' for attack on Jewish ambulances in London",
+        "description": "An Iranian-aligned terror group is claiming responsibility for an arson attack on Jewish ambulances in London, according to an intelligence website.",
+        "url": "https://www.abc.net.au/news/2026-03-24/iran-terror-group-jewish-ambulances-arson-attack-london/106489454",
+        "image": "https://live-production.wcms.abc-cdn.net.au/1cea172da03100035842dffe4ea48892?impolicy=wcms_watermark_news&cropH=339&cropW=602&xPos=0&yPos=3&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-24T00:31:14Z",
         "source": "ABC News"
       },
       {
-        "title": "People here are very helpful, make me feel at home, says Zimbabwean student in Ludhiana",
-        "description": "21-year-old Tanyaradzwa Prospera Dengu became social media sensation over a video impersonating a bus conductor.",
-        "url": "https://www.tribuneindia.com/news/ludhiana/people-here-are-very-helpful-make-me-feel-at-home-says-zimbabwean-student-in-ludhiana/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIwMjY1NTcwLTI3MGMtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-03-23T23:00:43Z",
-        "source": "Tribune India"
+        "title": "Senate confirms Trump loyalist Markwayne Mullin as homeland security secretary",
+        "description": "Oklahoma senator, confirmed in 54-45 vote, replaces Kristi Noem to lead president’s immigration crackdown",
+        "url": "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed",
+        "image": "https://i.guim.co.uk/img/media/fb7b1c8005eaa7d84a15a4a3d731361ea0616035/387_0_3844_3076/master/3844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=640224d4285eac8fb7a7e8acb9fcbeee",
+        "publishedAt": "2026-03-24T00:31:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Germany: Merz's government is running out of time",
-        "description": "The government in Berlin is under pressure to get major reforms underway. But Merz's coalition partner, the SPD, stands severely weakened following two defeats in state elections, and now finds it hard to compromise.",
-        "url": "https://www.dw.com/en/germany-merzs-government-is-running-out-of-time/a-76494380",
-        "image": "https://static.dw.com/image/76492205_6.jpg",
-        "publishedAt": "2026-03-23T23:00:20Z",
-        "source": "dw.com"
+        "title": "YouTuber out of Cambodian jail into Taiwan lockup",
+        "description": "A YOUTUBER known as \"Goodnight Chicken\" returned to Taiwan after spending over two years in a Cambodian prison only to be arrested by Taiwanese authorities upon his arrival at the airport, Oriental Daily reported.",
+        "url": "https://www.thestar.com.my/news/nation/2026/03/24/youtuber-out-of-cambodian-jail-into-taiwan-lockup",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/24/3827024.jpg",
+        "publishedAt": "2026-03-24T00:30:34Z",
+        "source": "The Star"
       },
       {
-        "title": "EU 'deeply concerned' by reports Hungary leaked negotiation details to Russia",
-        "description": "The European Commission said on Monday it was “greatly concerned” by reports Hungary’s foreign minister shared sensitive EU negotiation details with Russia. The Washington Post cited officials saying…",
-        "url": "https://www.france24.com/en/europe/20260323-eu-concern-hungary-russia-leak-negotiations-ukraine",
-        "image": "https://s.france24.com/media/display/6424f3f4-239b-11f1-8a03-005056bfb2b6/w:1280/p:16x9/2026-03-03T110653Z-1797884382-RC2X4GAVW8XM-RTRMADP-3-UKRAINE-CRISIS-EU-ENLARGEMENT.jpg",
-        "publishedAt": "2026-03-23T22:44:33Z",
-        "source": "France 24"
+        "title": "US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five days after 'very good' talks",
+        "description": "U.S.-Israeli war on Iran LIVE: Iran faces deadline of US President Donald Trump warning to open Strait of Hormuz. Follow The Hindu for more LIVE updates on March 23 2026 on Iran-Israel war.",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-strait-of-hormuz-donald-trump-iran-israel-west-asia-highlights-march-23-2026/article70774180.ece",
+        "image": "https://th-i.thgim.com/public/incoming/vgunch/article70775366.ece/alternates/LANDSCAPE_1200/2026-03-20T221336Z_839893080_RC2M8KA90RWV_RTRMADP_3_USA-TRUMP.JPG",
+        "publishedAt": "2026-03-24T00:30:28Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Record beef production expected as national herd remains above 30 million in 2026: MLA Cattle Industry Projections 2026",
+        "description": "Australia is on track for another year of historically high cattle throughput, with Meat & Livestock Australia’s (MLA) latest Australian Cattle Industry Projections forecasting total slaughter to reach 9.45 million head in 2026, the highest result since 1978 and above the 2025 total.",
+        "url": "https://www.mla.com.au/news-and-events/industry-news/record-beef-production-expected-as-national-herd-remains-above-30-million-in-2026-mla-cattle-industry-projections-2026/",
+        "image": "https://www.mla.com.au/contentassets/5b3c1b0bad364104b8998f464c20ee4e/2009_07_14_dn90939_1.jpg",
+        "publishedAt": "2026-03-24T00:22:30Z",
+        "source": "Meat & Livestock Australia"
       }
     ],
     "business": [
       {
-        "title": "Scott+Scott Attorneys at Law LLP Files Securities Class Action Against Concorde International Group, Ltd. (NASDAQ: CIGL)",
-        "description": "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international securities and consumer rights litigation firm, today announced that it has filed a class ...",
-        "url": "https://www.businesswire.com/news/home/20260323639659/en/ScottScott-Attorneys-at-Law-LLP-Files-Securities-Class-Action-Against-Concorde-International-Group-Ltd.-NASDAQ-CIGL",
-        "image": "https://mms.businesswire.com/media/20260323639659/en/456736/22/Scott%2BScott_Logo_Large.jpg",
-        "publishedAt": "2026-03-23T23:34:00Z",
-        "source": "Business Wire"
+        "title": "Royal Mail staff say they were told to hide post to look like targets met",
+        "description": "BBC Your Voice hears from postal workers who say \"take the mail for ride\" is a common phrase.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2knk5d4deo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e958/live/96a89540-26db-11f1-b297-95b0a0a8331e.jpg",
+        "publishedAt": "2026-03-24T00:33:51Z",
+        "source": "BBC"
       },
       {
-        "title": "CK Hutchison Holdings Limited (CKHUY) Q4 2025 Earnings Call Transcript",
-        "description": "CK Hutchison Holdings Limited (CKHUY) Q4 2025 Earnings Call March 19, 2026 5:30 AM EDTCompany ParticipantsFrank Sixt - Group Finance Director, Co-MD &...",
-        "url": "https://seekingalpha.com/article/4884947-ck-hutchison-holdings-limited-ckhuy-q4-2025-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-03-23T23:33:38Z",
-        "source": "Seeking Alpha"
+        "title": "Warning issued over fresh wave of scam texts pretending to be from MyGoc",
+        "description": "A﻿ustralians have been warned over a fresh wave of scam texts targeting anyone with a Medicare card.",
+        "url": "https://www.9news.com.au/national/medicare-phishing-scam-warning-issued-over-scam-texts-from-mygov/12e206db-f6cf-45a4-9a4d-140292912798",
+        "image": "https://imageresizer.static9.net.au/1mxhm259Q2mw3En107TTvrHgZME=/75x525:798x932/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F9bcb09ed-d15f-4ef9-81bc-5b93c9213927",
+        "publishedAt": "2026-03-24T00:33:40Z",
+        "source": "9News"
       },
       {
-        "title": "Crude oil resumes advance as war in Middle East may escalate",
-        "description": "Oil rose after a steep drop on Monday on concern other nations may join the Middle East war, and as an Iranian lawmaker ruled out talks with the US.",
-        "url": "https://theedgemalaysia.com/node/797064",
-        "image": "https://assets.theedgemarkets.com/452202793.jpg",
-        "publishedAt": "2026-03-23T23:32:43Z",
-        "source": "The Edge Malaysia"
+        "title": "UK must back North Sea oil and gas drilling, says trade body",
+        "description": "The group says the country \"urgently\" needs to produce its own oil and gas to secure supplies.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8x7q4l8go",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbbf/live/57f13d70-26e5-11f1-a79a-77e93010d956.jpg",
+        "publishedAt": "2026-03-24T00:31:09Z",
+        "source": "BBC"
       },
       {
-        "title": "3 Chinese EV makers raise prices - but analysts warn weak demand could force reversal",
-        "description": "Xiaomi, Chery and FAW adjust prices amid surging chip and raw material costs, but analysts say soft sales could undermine gains.",
-        "url": "https://www.scmp.com/business/banking-finance/article/3347527/three-chinese-ev-makers-raise-prices-analysts-warn-weak-demand-could-force-reversal",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/23/e4a2359c-5ee0-451c-8e53-fa748743e1a4_16bfb43c.jpg?itok=Z25TG0f9&v=1774235278",
-        "publishedAt": "2026-03-23T23:30:08Z",
-        "source": "South China Morning Post"
+        "title": "GIFT Nifty up 410 points; here's the trading setup for today's session",
+        "description": "Indian markets experienced a sharp sell-off on Monday, with the Nifty and Sensex plunging due to escalating Iran-Israel tensions, rising crude oil prices, and a record low for the rupee. Sentiment improved post-market after US President Trump postponed strikes on Iran, leading to a fall in oil prices and a positive Wall Street opening.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129758151.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-129758196,width-1200,height-630,imgsize-88221,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-03-24T00:31:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Citing fuel costs, Cebu Pacific trims routes as passengers report disruptions",
-        "description": "Cebu Pacific is reducing flights as rising fuel prices linked to the Middle East crisis hit airline operations.",
-        "url": "https://www.philstar.com/business/2026/03/24/2516459/citing-fuel-costs-cebu-pacific-trims-routes-passengers-report-disruptions",
-        "image": "https://media.philstar.com/photos/2026/03/23/cebu-pacific-naia_2026-03-23_23-07-46.jpg",
-        "publishedAt": "2026-03-23T23:30:00Z",
-        "source": "Philstar.com"
+        "title": "Stocks in news: HDFC Bank, IRB Infrastructure, Nitco, Indigo, Amber Enterprises, Sula Vineyard, Brand Concepts",
+        "description": "Indian frontline indices closed sharply lower on Monday, with the Nifty and Sensex experiencing significant drops due to a sell-off in banking, auto, and consumer stocks. Escalating geopolitical tensions, rising crude oil prices, and a weakening rupee further impacted market sentiment.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-irb-infrastructure-nitco-indigo-amber-enterprises-sula-vineyard-brand-concepts/articleshow/129758039.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-129758014,width-1200,height-630,imgsize-605584,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-03-24T00:31:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Perfect’s Board Announces the Formation of Special Committee to Evaluate on the Preliminary Non-Binding “Going Private” Proposal Received on March 18, 2026",
-        "description": "Perfect Corp. (NYSE: PERF) (“Perfect” or the “Company”), a leading artificial intelligence (“AI”) company offering AI and augmented reality (“AR”) powered so...",
-        "url": "https://www.businesswire.com/news/home/20260323447973/en/Perfects-Board-Announces-the-Formation-of-Special-Committee-to-Evaluate-on-the-Preliminary-Non-Binding-Going-Private-Proposal-Received-on-March-18-2026",
-        "image": "https://mms.businesswire.com/media/20260323447973/en/504844/22/perfect_logo.jpg",
-        "publishedAt": "2026-03-23T23:30:00Z",
-        "source": "Business Wire"
+        "title": "Steel industry players blame China for excess capacity",
+        "description": "Malaysian Iron and Steel Industry Federation says the surge in China’s steel exports has contributed to heightened competitive pressures across many regions, including Southeast Asia.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/steel-industry-players-blame-china-for-excess-capacity",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/04/3c6fb8fb-kilang-besi-bernama-300424-1.webp",
+        "publishedAt": "2026-03-24T00:30:31Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "merger proposal as former Billabong execs fall short",
-        "description": "Kathmandu’s parent company KMD Brands has rejected a proposed demerger of its surf brand Rip Curl after speculation about the deal in Australian media,...",
-        "url": "https://www.nzherald.co.nz/business/companies/retail/kmd-brands-shuts-down-rip-curl-de-merger-proposal-as-former-billabong-execs-fall-short/premium/BY7HDZYCJVGLNL4QVKO2ZRWVAU/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/EISU7TYCNIGZZT5HVPBJMJ6RLQ.jpg?auth=8b65eb1011a811eb500b842feb3aac845ba8ccfd85b7c5c1dbd022d1597335f7&width=1200&height=675&quality=70&focal=941%2C798&smart=false",
-        "publishedAt": "2026-03-23T23:28:29Z",
-        "source": "NZ Herald"
+        "title": "More than 5000 rooms are planned in these Sydney suburbs. None will count as a home",
+        "description": "It was marketed as a solution to the rental crisis, but a Sydney council warns that the co-living housing “monoculture” is doing more harm than good.",
+        "url": "https://www.smh.com.au/national/nsw/more-than-5000-rooms-are-planned-in-these-sydney-suburbs-none-will-count-as-a-home-20260309-p5o8q0.html",
+        "image": "https://static.ffx.io/images/$zoom_0.8171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/54c6fe59d1e4704c013c4f0ba4e73a1a84148ae9",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "‘Second warning’: the lessons Aussies didn’t learn from COVID",
-        "description": "Aussies already feeling the pain at the petrol pump are being warned to brace for a double whammy to their hip pocket.",
-        "url": "https://www.news.com.au/finance/economy/australian-economy/second-warning-aussies-rebuked-over-panicbuying-as-gas-companies-put-on-notice/news-story/2641c76280903a0ff835332f6eaf42e4",
-        "image": "https://content.api.news/v3/images/bin/8b0919b013fd065ebf59c6aa9d605303",
-        "publishedAt": "2026-03-23T23:28:14Z",
-        "source": "News.com.au"
+        "title": "Missing student found dead",
+        "description": "THE search for a missing college student in India ended when her body was found in a drain, Malaysia Nanban reported.",
+        "url": "https://www.thestar.com.my/news/nation/2026/03/24/missing-student-found-dead",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/03/24/3827023.jpg",
+        "publishedAt": "2026-03-24T00:29:45Z",
+        "source": "The Star"
       }
     ],
     "science": [
+      {
+        "title": "CT Scans Solve Decades-Old Mystery of Triassic Cynodont",
+        "description": "Known from a single skull discovered in South Africa in 1952, Cistecynodon parvus has been shuffled across the evolutionary tree: described at various times as a close relative of advanced cynodonts, a juvenile of another species and even something outside the group altogether.",
+        "url": "https://www.sci.news/paleontology/cistecynodon-parvus-14643.html",
+        "image": "https://cdn.sci.news/images/2026/03/image_14643f-Cistecynodon-parvus.jpg",
+        "publishedAt": "2026-03-24T00:35:11Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "Artemis II: Inside the Moon mission to fly humans further than ever",
+        "description": "Find out about the astronauts and spacecraft involved in Nasa's Artemis II mission - the first time humans have flown to the Moon for fifty years.",
+        "url": "https://www.bbc.co.uk/news/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e",
+        "image": "https://ichef.bbc.co.uk/images/ic/raw/p0n8902y.jpg",
+        "publishedAt": "2026-03-24T00:34:54Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Antarctic Ice Cycles Influence Distant Ocean Productivity",
+        "description": "MADISON — Cycles in the growth and decay of Antarctica's ice sheets once shaped marine biological productivity thousands of miles away in the",
+        "url": "https://www.miragenews.com/antarctic-ice-cycles-influence-distant-ocean-1642623/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1587955415524-bb264e518428%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+        "publishedAt": "2026-03-24T00:12:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "UBC Unveils Tool to Halt Destructive Insect",
+        "description": "Invasive species cost Canada billions of dollars each year. Now, a team led by UBC researchers has developed a new genomic test that can trace the",
+        "url": "https://www.miragenews.com/ubc-unveils-tool-to-halt-destructive-insect-1642613/",
+        "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg",
+        "publishedAt": "2026-03-24T00:10:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Global experiment supports Darwin's century-old hunch about auditory aesthetics",
+        "description": "Charles Darwin suspected that humans and animals share similar aesthetic tastes. A new citizen science experiment supports this hypothesis, showing that people strongly prefer the exact same acoustic patterns that attract female animals.",
+        "url": "https://www.psypost.org/global-experiment-supports-darwins-century-old-hunch-about-auditory-aesthetics/",
+        "image": "https://www.psypost.org/wp-content/uploads/2026/03/charles-darwin.jpg",
+        "publishedAt": "2026-03-24T00:08:53Z",
+        "source": "PsyPost"
+      },
+      {
+        "title": "Scientists observe atoms existing in two places at once",
+        "description": "Quantum physicists at ANU have observed atoms entangled in motion. Their experiment using helium atoms represents a major advancement on similar experiments using photons, which are particles of light.",
+        "url": "https://science.anu.edu.au/news-events/news/scientists-observe-atoms-existing-two-places-once",
+        "image": "https://science.anu.edu.au/sites/prod.science.sca-lws06.anu.edu.au/files/4K%20ThumbnailTemplate%20V2_0.jpg",
+        "publishedAt": "2026-03-24T00:04:00Z",
+        "source": "ANU College of Science and Medicine"
+      },
+      {
+        "title": "Ancient Antarctic ice cycles impacted ocean productivity thousands of miles away",
+        "description": "A new study by UW–Madison geoscientists, recently published in the Proceedings of the National Academy of Sciences, found that the obliquity cycle — a 40,000-year astronomical cycle tied to changes in Earth’s axial tilt — influenced ocean productivity in subtropical latitudes about 34 million years ago when the Antarctic ice sheet was first expanding.",
+        "url": "https://www.eurekalert.org/news-releases/1121086",
+        "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/e623c9e9-f153-465a-9cf7-1fbbe7875ddf/Rendition/thumbnail/Content/Public",
+        "publishedAt": "2026-03-23T23:52:31Z",
+        "source": "EurekAlert!"
+      },
       {
         "title": "Prolonged Exposure To Microplastics Disrupts Metabolism Of Mediterranean Octocorals",
         "description": "Prolonged exposure to microplastics can disrupt vital physiological processes in gorgonians, such as respiration. Although these pollutants do not cause visible damage to tissues and cells, their effects could have an ecological impact on these organisms that structure the seabed, particularly if exposure continues over time occurs alongside other environmental pressures, such as ocean warming,...",
@@ -142,128 +198,72 @@
         "image": "https://www.eurasiareview.com/wp-content/uploads/2026/03/a-265.jpg",
         "publishedAt": "2026-03-23T23:32:44Z",
         "source": "Eurasia Review"
-      },
-      {
-        "title": "Biosensor detects early fungal outbreaks, advances plant biotechnology",
-        "description": "A new biosensor developed at the Department of Energy's Oak Ridge National Laboratory detects the emerging presence of fungus on plants at the molecular level, paving the way for next-generation crop protection and the development of stress-tolerant plants. The innovation advances technology for the U.S. agricultural and biomanufacturing sectors.",
-        "url": "https://phys.org/news/2026-03-biosensor-early-fungal-outbreaks-advances.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/biosensor-detects-earl.jpg",
-        "publishedAt": "2026-03-23T23:10:07Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "How often do meteorites crash on Earth?",
-        "description": "With Americans already having experienced four meteor sightings this month, it makes you wonder how common such space phenomena are.",
-        "url": "https://www.foxweather.com/learn/how-often-meteorites-crash-earth",
-        "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2025/10/1024/512/gettyimages-1235814374.jpg?ve=1&tl=1",
-        "publishedAt": "2026-03-23T23:07:00Z",
-        "source": "FOX Weather"
-      },
-      {
-        "title": "Shift in key cosmic inflation measurement could be a statistical artifact",
-        "description": "For the last few decades, researchers have been studying what the universe looked like in its first seconds. It is generally accepted that the universe expanded exponentially in the first fraction of a second after the Big Bang. Researchers use ns, the scalar spectral index, to characterize how primordial density fluctuations were distributed across different length scales in the early universe. The value of ns is a central observable in inflationary cosmology, since different inflationary scenarios predict distinct values for this quantity, making it a powerful discriminator between models.",
-        "url": "https://phys.org/news/2026-03-shift-key-cosmic-inflation-statistical.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/shift-in-key-cosmic-in.jpg",
-        "publishedAt": "2026-03-23T23:00:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "A mission NASA might kill is still returning fascinating science from Jupiter",
-        "description": "We can’t quite afford to support everything that we have done in the past.\"",
-        "url": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/jupiter_juno_pj39-enhanced-crop.jpg",
-        "publishedAt": "2026-03-23T22:49:31Z",
-        "source": "Ars Technica"
-      },
-      {
-        "title": "Early galaxies hosted far more active black holes than expected",
-        "description": "The JWST has detected more active black holes than expected, casting doubt on their prevalence in the early universe.",
-        "url": "https://www.earth.com/news/early-galaxies-hosted-far-more-active-black-holes-than-expected/",
-        "image": "https://cff2.earth.com/uploads/2026/03/23083215/jwst-active-black-holes-early-universe-discovery.jpg",
-        "publishedAt": "2026-03-23T22:46:44Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Hubble Space Telescope Revisits Iconic Crab Nebula",
-        "description": "By comparing new Hubble observations with images first taken in 1999, astronomers traced the continuing expansion of one of the sky’s most studied supernova remnants, energized by a rapidly spinning pulsar at its core.",
-        "url": "https://www.sci.news/astronomy/hubble-crab-nebula-14642.html",
-        "image": "https://cdn.sci.news/images/2026/03/image_14642-Crab-Nebula.jpg",
-        "publishedAt": "2026-03-23T22:40:20Z",
-        "source": "Sci.News"
-      },
-      {
-        "title": "Gran Dolina site at Atapuerca reveals almost exclusive use of local chert 400,000 years ago",
-        "description": "A paper published in the journal Quaternary International reveals a distinctive technological behavior at level TD10.2-BB of Gran Dolina (Atapuerca, Burgos), characterized by the almost exclusive use of local chert and linked to one of the earliest pieces of evidence of communal hunting in the human evolutionary record, dated to around 400,000 years ago.",
-        "url": "https://phys.org/news/2026-03-gran-dolina-site-atapuerca-reveals.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-gran-dolina-site-a.jpg",
-        "publishedAt": "2026-03-23T22:40:01Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI spokesperson said Microsoft is and will remain a critical long-term partner",
-        "description": "March 23 -\nOpenAI spokesperson: Microsoft is and will remain a critical long-term partner\n...",
-        "url": "https://www.marketscreener.com/news/openai-spokesperson-microsoft-is-and-will-remain-a-critical-long-term-partner-ce7e5eddda8cf124",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-03-23T23:34:17Z",
-        "source": "MarketScreener"
+        "title": "Early stage investors fight to stay competitive",
+        "description": "The rush to invest in AI startups has resulted in intense competition, with average funding size and valuation on the rise. Smaller venture funds face the challenge of getting squeezed out. In India, average investment at the seed level is at $3-5 million, with Series A upwards of 10 million, according to investors. That compares with non-AI startups’ average seed round of $2-4 million and Series A at $5-8 million.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/early-stage-investors-fight-to-stay-competitive/articleshow/129762047.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38456,resizemode-75,msid-129762047/tech/artificial-intelligence/early-stage-investors-fight-to-stay-competitive.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Qualys Debuts Industry’s First AI Agent for Safe Exploit Validation and Autonomous Remediation",
-        "description": "Agent Val exploits, mitigates and revalidates exposures against compensating controls continuously, dramatically reducing the average window of exposu...",
-        "url": "https://itwire.com/business-it-news/data/qualys-debuts-industry%E2%80%99s-first-ai-agent-for-safe-exploit-validation-and-autonomous-remediation.html",
-        "image": "https://itwire.com/media/k2/items/cache/41e1c7f16115090b5112f29eb25236f8_XS.jpg",
-        "publishedAt": "2026-03-23T23:30:18Z",
-        "source": "iTWire"
+        "title": "The SHARP generation: What to tell young people about AI and their careers",
+        "description": "Tips and tricks that will help propel you ahead in the AI race.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-sharp-generation-what-to-tell-young-people-about-ai-and-their-careers/articleshow/129759697.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1363635,resizemode-75,msid-129759697/tech/artificial-intelligence/the-sharp-generation-what-to-tell-young-people-about-ai-and-their-careers.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "India’s largest Pregnancy Study to develop AI solutions for preterm births: Dr Jitendra",
-        "description": "Excelsior Correspondent NEW DELHI, Mar 23: Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences, and MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr. Jitendra Singh today said that India’s largest pregnancy cohort study of 12,000 women under the GARBH-INi initiative is aimed at developing indigenous, AI-driven solutions to address preterm births, one of the leading causes of neonatal mortality as well morbidity in adulthood. The Minister was addressing the programme on “Disseminating Learnings […]",
-        "url": "https://www.dailyexcelsior.com/indias-largest-pregnancy-study-to-develop-ai-solutions-for-preterm-births-dr-jitendra/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/03/page3-21.jpg",
-        "publishedAt": "2026-03-23T23:28:36Z",
-        "source": "Daily Excelsior"
+        "title": "Govt to rejig PLI 2.0 sops on high GPU prices, AI server tech",
+        "description": "The terms of the production-linked incentive (PLI) scheme for IT hardware need to be re-evaluated due to the rising cost of graphics processing units (GPUs) and the emergence of artificial intelligence (AI) servers, a senior government official said on Monday.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-rejig-pli-2-0-sops-on-high-gpu-prices-ai-server-tech/articleshow/129758743.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-81156,resizemode-75,msid-129758743/tech/technology/govt-to-rejig-pli-2-0-sops-on-high-gpu-prices-ai-server-tech.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns",
-        "description": "Protesters marched between the San Francisco offices of major AI developers, calling for a pause in the development of more powerful AI systems.",
-        "url": "https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png",
-        "publishedAt": "2026-03-23T23:28:30Z",
-        "source": "Decrypt"
+        "title": "World’s deadliest rat that can kill an elephant, and 8 other weird rodents that break every rule of nature",
+        "description": "Rodents are commonly regarded as pests, typically in the form of rats scavenging in rubbish bins or mice seeking refuge in corners. However, this is just the tip of the iceberg. Rodents have developed in ways which, across the globe, are not only unexpected but, in some cases, unbelievable. Rodents range from gliding animals in the forest to burrowing creatures with insect-like colonies. They are much more diverse than people think. While some are known for their bizarre looks, others are known for their extreme behaviours and abilities. One is even regarded as the most deadly rat, with enough poison to repel even the most formidable predators. They are incredible creatures, forcing us to think differently and showing us just how bizarre the world is.PC: AI-Generated",
+        "url": "https://timesofindia.indiatimes.com/etimes/animals/worlds-deadliest-rat-that-can-kill-an-elephant-and-8-other-weird-rodents-that-break-every-rule-of-nature/photostory/129760512.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129760746,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO - CNBC",
-        "description": "March 23 -\nOpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO - CNBC\nOpenAI announced $110 billion in funding last month, and is working with banking...",
-        "url": "https://www.marketscreener.com/news/openai-calls-out-microsoft-reliance-as-risk-in-investor-document-ahead-of-expected-ipo-cnbc-ce7e5eddda8df224",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-03-23T23:17:55Z",
-        "source": "MarketScreener"
+        "title": "Early investors fight to stay competitive",
+        "description": "Amid shrinking market shares early stage VCs look to niche areas to stay relevant in the AI race. ET explores the field.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/early-investors-fight-to-stay-competitive/articleshow/129758898.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1476630,resizemode-75,msid-129758898/tech/artificial-intelligence/early-investors-fight-to-stay-competitive.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "From Track to Cloud: How Formula 1 Teams Are Securing Data, Drivers, and AI",
-        "description": "In today’s Formula 1, winning races is no longer just about mechanical performance — it’s about data, identity, and control. As teams generate and ana...",
-        "url": "https://itwire.com/business-it-news/security/from-track-to-cloud-how-formula-1-teams-are-securing-data,-drivers,-and-ai.html",
-        "image": "https://itwire.com/media/k2/items/cache/6b29efff4fc9e08b1493992228ca2bff_XS.jpg",
-        "publishedAt": "2026-03-23T23:15:39Z",
-        "source": "iTWire"
+        "title": "Hard Reset: India’s AI investment boom masks a deeper battle for survival",
+        "description": "Even as AI startups continue to raise top dollar, some are scrambling to rebuild business models and keep pace with the disruption, investors told ET.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hard-reset-indias-ai-investment-boom-masks-a-deeper-battle-for-survival/articleshow/129758213.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107322,resizemode-75,msid-129758213/tech/artificial-intelligence/hard-reset-indias-ai-investment-boom-masks-a-deeper-battle-for-survival.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "South China Morning Post",
-        "description": "There is no point in lamenting AI’s rise. The focus must be on flexibility and learning to live with the technology.",
-        "url": "https://www.scmp.com/opinion/comment/article/3347551/hong-kong-graduates-need-adapt-secure-job-ai-era",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/03/23/866d908f-cae1-4ecf-8737-e412abef1ba5_d35dd471.jpg?itok=wbqzbjwc&v=1774248413",
-        "publishedAt": "2026-03-23T23:15:13Z",
-        "source": "South China Morning Post"
+        "title": "Indian GCC talent taking up global leadership positions at a faster clip",
+        "description": "Global capability centres (GCCs) in India are moving up the corporate ladder, with nearly 20% of such centres enjoying real strategic authority, up from just 5% a decade ago, according to data from ANSR and Deloitte India. The number of global leadership roles based in India has zoomed to over 6,500 from just 115 in 2015 and is poised to reach 30,000 by 2030 with AI expected to boost the trend, industry estimates suggest.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/indian-gcc-talent-taking-up-global-leadership-positions-at-a-faster-clip/articleshow/129757821.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-458291,resizemode-75,msid-129757821/tech/technology/indian-gcc-talent-taking-up-global-leadership-positions-at-a-faster-clip.jpg",
+        "publishedAt": "2026-03-24T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Wallace Unveils AI-Powered Platform to Transform Personalized Investing",
-        "description": "Chicago, Illinois, March 23, 2026 (GLOBE NEWSWIRE) -- Wallace Finance Co. has launched its innovative investing platform on the Apple App Store, designed to give everyday investors unprecedented control through hyper-personalized, AI-driven investment strategies.",
-        "url": "https://www.manilatimes.net/2026/03/24/tmt-newswire/globenewswire/wallace-unveils-ai-powered-platform-to-transform-personalized-investing/2305978",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/24/985066.jpg",
-        "publishedAt": "2026-03-23T23:10:36Z",
-        "source": "The Manila Times"
+        "title": "Meta Advertising in 2026: Performance, Revenue and Platform Strategy",
+        "description": "Meta's $201 billion annual revenue is almost entirely driven by advertising. Here is how Meta's platform strategy and AI targeting tools are performing in 2026.",
+        "url": "https://techbullion.com/meta-advertising-in-2026-performance-revenue-and-platform-strategy/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/03/meta-advertising-2026-performance-revenue-platform-strategy-1000x504.jpg",
+        "publishedAt": "2026-03-24T00:28:16Z",
+        "source": "TechBullion"
       }
     ]
   }
