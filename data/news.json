@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-27T19:32:47.036Z",
+  "fetchedAt": "2026-03-27T20:30:38.043Z",
   "sections": {
     "world": [
       {
-        "title": "“Mosaics of Work” Photo Contest: Showcase the Art of Everyday Labor",
-        "description": "Launched on 26 March 2026, the photo contest “Mosaics of Work – Những mảnh ghép trong thế giới việc làm” is part of the activities marking National Youth Day in Viet Nam and the World Day for Safety and Health at Work (SafeDay 2026). Running until 28 April 2026, the initiative is co-organized by the",
-        "url": "https://news.fundsforngos.org/2026/03/27/mosaics-of-work-photo-contest-showcase-the-art-of-everyday-labor/",
-        "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-        "publishedAt": "2026-03-27T07:31:30Z",
-        "source": "fundsforNGOs News"
-      },
-      {
-        "title": "Our kids should not be the testing ground for AI",
-        "description": "I have a young daughter at home. Like most parents, I think about the world she's growing up in, whether it's the schools she'll attend, the friends she'll make, and the digital spaces she'll eventually step into.",
-        "url": "https://www.arkansasonline.com/news/2026/mar/27/our-kids-should-not-be-the-testing-ground-for-ai/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "The Arkansas Democrat-Gazette"
-      },
-      {
-        "title": "South Korea Joins Japan, China, Vietnam, Indonesia, Brunei, Malaysia, and Thailand in Adopting the ASEAN Plus Three Tourism Cooperation Work Plan 2026–2030 to Drive Regional Heritage and Sustainable T",
-        "description": "ASEAN Plus Three launches a smart heritage tourism plan to 2030, blending digital tech, festivals and green standards to transform Asia’s visitor economy",
-        "url": "https://www.travelandtourworld.com/news/article/south-korea-joins-japan-china-vietnam-indonesia-brunei-malaysia-and-thailand-in-adopting-the-asean-plus-three-tourism-cooperation-work-plan-2026-2030-to-drive-regional-heritage-and-susta/",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/03/join-1.jpg",
-        "publishedAt": "2026-03-27T07:29:14Z",
+        "title": "2026’s Safest Destinations for Americans: Why Greece and Cyprus Reign Supreme Amid Global Travel Risks",
+        "description": "Greece and Cyprus maintain their safe status on the US State Department's 2026 travel advisory. Discover how these nations continue to boost tourism with low-risk levels.",
+        "url": "https://www.travelandtourworld.com/news/article/2026s-safest-destinations-for-americans-why-greece-and-cyprus-reign-supreme-amid-global-travel-risks/",
+        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/03/safe-destinations.jpg",
+        "publishedAt": "2026-03-27T08:29:17Z",
         "source": "Travel And Tour World"
       },
       {
-        "title": "Trump extends deadline for striking Iran's energy plants to April 6",
-        "description": "President Donald Trump has extended his deadline for Iran to reopen the Strait of Hormuz by ten days to 6th April,",
-        "url": "https://businessday.ng/world/article/trump-extends-deadline-for-striking-irans-energy-plants-to-april-6/",
-        "image": "https://cdn.businessday.ng/wp-content/uploads/2025/01/Donald-Trump.png",
-        "publishedAt": "2026-03-27T07:28:24Z",
-        "source": "Businessday NG"
+        "title": "Labour Minister off to Geneva to join ILO Governing Body Meeting",
+        "description": "DHAKA, Mar 27, 2026 (BSS) - Labour and Employment Minister Ariful Haque Choudhury left here today for Geneva to attend",
+        "url": "https://www.bssnews.net/news-flash/371946",
+        "image": "https://www.bssnews.net/assets/news_photos/2026/03/27/image-371946-1774599869.jpg",
+        "publishedAt": "2026-03-27T08:24:59Z",
+        "source": "Bangladesh Sangbad Sangstha (BSS)"
       },
       {
-        "title": "Habitat For Humanity Launches “Let’s Open The Door” Campaign To Spotlight Global Housing Crisis",
-        "description": "Habitat for Humanity has launched a new global campaign, Let’s Open the Door, aimed at raising awareness of the growing housing crisis and mobilising",
-        "url": "https://africa.com/habitat-for-humanity-launches-lets-open-the-door-campaign-to-spotlight-global-housing-crisis/",
-        "image": "https://africa.com/wp-content/uploads/2026/03/Habitat-for-Humanity-Kenya-team-collaborating-with-community-members-and-global-volunteers-during-a-house-construction-in-Naibor-Village-Laikipia.jpg",
-        "publishedAt": "2026-03-27T07:28:00Z",
-        "source": "Africa.com"
+        "title": "Putin 'asks oligarchs to donate to budget' as cost of Ukraine war soars",
+        "description": "The war, which has been raging on for five years since Russia's full-scale invasion in February 2022, has seen the country's defence costs soar, reaching 15.5 trillion roubles (£144bn) in 2025.",
+        "url": "https://news.sky.com/story/putin-asks-oligarchs-to-donate-to-budget-as-cost-of-ukraine-war-soars-13524940",
+        "image": "https://e3.365dm.com/26/03/1600x900/skynews-vladimir-putin-moscow_7201739.jpg?20260324110156",
+        "publishedAt": "2026-03-27T08:24:14Z",
+        "source": "Sky News"
       },
       {
-        "title": "Pakistan has emerged as a mediator between US and Iran",
-        "description": "As fears of a wider regional conflict escalate following U.S. and Israeli strikes on Iran that began in late February, Pakistan has emerged as an unexpected mediator, offering to help bring Washington and Tehran to the negotiating table.",
-        "url": "https://apnews.com/article/pakistan-us-iran-war-emerging-peace-mediator-f4e809dd3f93b3d67b54f9d75d33d55c",
-        "image": "https://dims.apnews.com/dims4/default/8d7d5c2/2147483647/strip/true/crop/2751x1833+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F2e%2F70e174f23159056e803436fb64eb%2F7c16d45ba1a64fafb6b50b42c748b025",
-        "publishedAt": "2026-03-27T07:27:00Z",
-        "source": "AP News"
+        "title": "Uganda Assures Stable Fuel Supply Amid Global Uncertainty",
+        "description": "(3 Minutes Read)",
+        "url": "https://trendsnafrica.com/uganda-assures-stable-fuel-supply-amid-global-uncertainty/",
+        "image": "https://trendsnafrica.com/wp-content/uploads/2026/03/UNOC.jpg",
+        "publishedAt": "2026-03-27T08:23:53Z",
+        "source": "Trendsnafrica"
       },
       {
-        "title": "BICOL MEDICAL CENTER triumphs at Healthcare Asia Awards 2026",
-        "description": "The institution was recognised for strengthening digital hospital operations and reducing neonatal mortality.",
-        "url": "https://healthcareasiamagazine.com/co-written-partner/event-news/bicol-medical-center-triumphs-healthcare-asia-awards-2026",
-        "image": "https://healthcareasiamagazine.com/s3/files/styles/opengraph/public/2026-03/bicol-medical-center.jpg?h=5b020dc7&itok=9fwjMVqJ",
-        "publishedAt": "2026-03-27T07:25:12Z",
-        "source": "Healthcare Asia Magazine"
+        "title": "June Launch for African Energy Bank Backed by $500M Seed Funding",
+        "description": "The African Energy Bank will launch in June 2026 in Abuja with $5 billion capital, aiming to mobilize $10 billion initially and scale to $120 billion, bridging Africa’s energy financing gap.",
+        "url": "https://energycapitalpower.com/june-launch-for-african-energy-bank-backed-by-500m-seed-funding/",
+        "image": "https://ecpbucket.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/03/27101938/Bank-canva-African-Energy-Bank.jpg",
+        "publishedAt": "2026-03-27T08:20:15Z",
+        "source": "Energy Capital & Power"
       },
       {
-        "title": "Agoda Data Reveals Asian Travelers Prefer Accommodations with Kitchens, Led by Taiwanese, Vietnamese and South Korean Travelers Seeking New Flexibility and Food",
-        "description": "Agoda data shows that Asian travelers, especially from Taiwan, Vietnam, and South Korea, prefer accommodations with kitchens for flexibility and food-focused travel.",
-        "url": "https://www.travelandtourworld.com/news/article/agoda-data-reveals-asian-travelers-prefer-accommodations-with-kitchens-led-by-taiwanese-vietnamese-and-south-korean-travelers-seeking-new-flexibility-and-food-centered-travel/",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/03/Agoda-Data-Reveals-Asian-Travelers-Prefer-Accommodations-with-Kitchens.jpg",
-        "publishedAt": "2026-03-27T07:24:14Z",
-        "source": "Travel And Tour World"
+        "title": "Saudi Arabia urging US to keep up Iran attacks, intelligence source confirms",
+        "description": "Crown Prince Mohammed bin Salman said to view US-Israeli war as ‘historic opportunity’ to remake Middle East",
+        "url": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman",
+        "image": "https://i.guim.co.uk/img/media/c366cd41535ae82146ac174e3aa458e89c7ce9ff/295_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdd9543f45b12c1fce9e64246393c4d9",
+        "publishedAt": "2026-03-27T08:20:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Isles of Scilly Steamship's new vessel sails on delivery voyage",
+        "description": "Menawethan, the Isles of Scilly Steamship Group’s new purpose-built freight vessel, has departed Vietnam and begun her delivery voyage to the UK.",
+        "url": "https://www.bairdmaritime.com/shipping/dry-cargo/isles-of-scilly-steamships-new-freight-vessel-sails-on-delivery-voyage",
+        "image": "https://media.assettype.com/bairdmaritime%2F2026-03-27%2Fxgmq2ofd%2FC440-sea-trials-21.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-03-27T08:19:27Z",
+        "source": "Baird Maritime"
+      },
+      {
+        "title": "UN Security Council To Meet On Iran Friday",
+        "description": "UN Security Council To Meet On Iran Friday",
+        "url": "https://www.channelstv.com/2026/03/27/un-security-council-to-meet-on-iran-friday/",
+        "image": "https://www.channelstv.com/wp-content/uploads/2024/11/US-Vetoes.jpg",
+        "publishedAt": "2026-03-27T08:19:25Z",
+        "source": "Channels Television"
       }
     ],
     "business": [
       {
-        "title": "Global Ride Gear Market to Reach USD 11.36 Billion by 2032, Expanding at a CAGR of 11.27% | Vyansa Intelligence",
-        "description": "/PRNewswire/ — According to the latest market study published by Vyansa Intelligence, the Global Ride Gear Market is projected to grow at a CAGR of around...",
-        "url": "https://www.prnewswire.com/news-releases/global-ride-gear-market-to-reach-usd-11-36-billion-by-2032--expanding-at-a-cagr-of-11-27--vyansa-intelligence-302726399.html",
-        "image": "https://mma.prnewswire.com/media/2929228/Vyansa_Intelligence_Logo.jpg?p=facebook",
-        "publishedAt": "2026-03-27T07:32:00Z",
-        "source": "PR Newswire"
+        "title": "India rupee falls to fresh record low after crude price worries, bond yields spike",
+        "description": "Oil marketing companies were seen buying the dollar to hedge their positions, traders say",
+        "url": "https://www.moneycontrol.com/news/business/markets/india-rupee-falls-to-fresh-low-after-crude-oil-price-worries-bond-yield-spike-13872373.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260321034258_rupee-fall.jpg",
+        "publishedAt": "2026-03-27T08:28:57Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Bekaert - Update on the Share Buyback Program and Liquidity Agreement",
-        "description": "Update on the Share Buyback Program and the Liquidity Agreement",
-        "url": "https://www.manilatimes.net/2026/03/27/tmt-newswire/globenewswire/bekaert-update-on-the-share-buyback-program-and-liquidity-agreement/2309080",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/27/990788.jpg",
-        "publishedAt": "2026-03-27T07:31:10Z",
-        "source": "The Manila Times"
+        "title": "NCC introduces platform to regulate recycling of phone numbers, SIM fraud",
+        "description": "Mr Maida said TIRMS is a secure, regulatory-backed, cross-sectoral platform designed to perform a uniform approach for managing all risk related to the integrity and utilisation of registered MIS SDNs on the Nigerian communications network.",
+        "url": "https://www.premiumtimesng.com/news/top-news/867143-ncc-introduces-platform-to-regulate-recycling-of-phone-numbers-sim-fraud.html",
+        "image": "https://media.premiumtimesng.com/wp-content/files/2023/06/NCC_LOGO.jpg",
+        "publishedAt": "2026-03-27T08:28:13Z",
+        "source": "Premium Times Nigeria"
       },
       {
-        "title": "Global Time and Attendance Software Market to Reach USD 6.32 Billion by 2032, Growing at a CAGR of 7.35%, Reports MarkNtel Advisors",
-        "description": "/PRNewswire/ -- According to the latest market research study published by MarkNtel Advisors, the Global Time and Attendance Software Market is projected to...",
-        "url": "https://www.prnewswire.com/news-releases/global-time-and-attendance-software-market-to-reach-usd-6-32-billion-by-2032--growing-at-a-cagr-of-7-35-reports-markntel-advisors-302726110.html",
-        "image": "https://mma.prnewswire.com/media/2687299/MarkNtel_Advisors_Logo.jpg?p=facebook",
-        "publishedAt": "2026-03-27T07:31:00Z",
-        "source": "PR Newswire"
+        "title": "Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Created Shockwaves With This $930 Million Warning to Wall Street",
+        "description": "Those who know the stock market's highest-flying quantum computing stocks best are sending a clear and potentially worrisome message to investors.",
+        "url": "https://www.fool.com/investing/2026/03/27/quantum-computing-stocks-ionq-rgti-warning-wall-st/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F861958%2Fquantum-computer-digital-data-calculations-artificial-intelligence-getty.jpg&w=1200&op=resize",
+        "publishedAt": "2026-03-27T08:27:20Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "GCash Run evolves into full-scale green wellness festival",
-        "description": "Join the GCash Run 2026, a vibrant green wellness festival on Ayala Avenue, blending fitness, sustainability, and community engagement. Discover eco-friendly activities, music, and more, while contributing to tree planting efforts through the GForest platform.",
-        "url": "https://tribune.net.ph/2026/03/27/gcash-run-evolves-into-full-scale-green-wellness-festival",
-        "image": "https://media.assettype.com/tribune%2F2026-03-27%2F480dj0w1%2Fimages-3.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-03-27T07:30:57Z",
-        "source": "Daily Tribune"
+        "title": "Jail for man who was part of Grab driver group linked to 5,540 fraudulent transactions",
+        "description": "Dzulqarnain Muhamad is one of four men linked to the ruse who were charged in November 2025. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-man-who-was-part-of-grab-driver-group-linked-to-5540-fraudulent-transactions",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/afcb61f8e5a946880bef610b911abefb8c1f7d2df22de23a22cfb229ed13609a",
+        "publishedAt": "2026-03-27T08:25:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Gold, silver rate today, 27 March: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver",
-        "description": "Gold, silver rate today, 27 March: Gold and silver prices rose today on the MCX amid the war in the Middle East and weak dollar. Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai and other major Indian cities.",
-        "url": "https://www.livemint.com/market/commodities/gold-silver-rate-today-27-march-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11774593024210.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/gold_silver_1769939448265_1769939448416_1774596507152.jpg",
-        "publishedAt": "2026-03-27T07:30:47Z",
-        "source": "Mint"
+        "title": "Nearly half a million customers hit by Lloyds IT glitch",
+        "description": "Nearly 448,000 Lloyds customers’ transaction data and personal info exposed in UK IT glitch. Treasury Committee reviews banking security after data breach.",
+        "url": "https://www.globalbankingandfinance.com/nearly-half-million-customers-hit-lloyds-glitch-exposed/",
+        "image": "https://imagedelivery.net/MkQ8HKvpw9EqULcU_pSqWg/cloud-c71368a9-8cf6-49c5-afa0-a666b7720599/w=1200,q=75,f=auto",
+        "publishedAt": "2026-03-27T08:24:50Z",
+        "source": "Global Banking & Finance Review®"
       },
       {
-        "title": "Engineer sabotaged PC then complained when it didn't work",
-        "description": "On Call: The 600 km drive to fix the mess was a special treat",
-        "url": "https://www.theregister.com/2026/03/27/on_call/",
-        "image": "https://regmedia.co.uk/2023/04/24/shutterstock_cables.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "theregister.com"
+        "title": "AGI urges FDA to extend deadline on alcohol policy amid industry losses",
+        "description": "The Association of Ghana Industries (AGI) has called on the Food and Drugs Authority (FDA) to grant manufacturers additional time to clear existing stock following the directive banning production and sale of alcoholic beverages in sachets and small...",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/AGI-urges-FDA-to-extend-deadline-on-alcohol-policy-amid-industry-losses-2027637",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/964/96450554.jpg",
+        "publishedAt": "2026-03-27T08:22:43Z",
+        "source": "GhanaWeb"
       },
       {
-        "title": "Mexedia Among the Leading Teams at Race for the Cure 2026",
-        "description": "Regulatory News: Mexedia S.p.A. Società Benefit (Euronext Growth Paris: ALMEX, ISIN: IT0005450819) is pleased to announce that, as part of its participation ...",
-        "url": "https://www.businesswire.com/news/home/20260327780103/en/Mexedia-Among-the-Leading-Teams-at-Race-for-the-Cure-2026",
-        "image": "https://mms.businesswire.com/media/20260327780103/en/2758613/22/logo_orizzontale_mexediajpeg.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "Business Wire"
+        "title": "South Africa VAT threshold increase and crypto rules",
+        "description": "South Africa VAT threshold increase to 2.3 million rand and crypto reporting rules under CARF confirmed for 2026 compliance changes.",
+        "url": "https://www.globalvatcompliance.com/globalvatnews/south-africa-vat-threshold-increase/",
+        "image": "https://www.globalvatcompliance.com/wp-content/uploads/2025/11/South-Africa-2-1-scaled.jpg",
+        "publishedAt": "2026-03-27T08:22:15Z",
+        "source": "Global VAT Compliance"
       },
       {
-        "title": "Hammerson enters race for mammoth Spanish shopping centre portfolio",
-        "description": "Nearly a dozen bidders for €1.5bn Balkany portfolio",
-        "url": "https://greenstreetnews.com/article/hammerson-enters-race-for-mammoth-spanish-shopping-centre-portfolio/",
-        "image": "https://greenstreetnews.com/tachyon/2026/03/H96WNY-scaled.jpg?resize=1200,630",
-        "publishedAt": "2026-03-27T07:29:56Z",
-        "source": "Green Street News"
+        "title": "Lloyds Banking Group data glitch affects 450,000 customers",
+        "description": "MPs report says customers saw other people’s transactions or had their data shared with others as the bank says it has paid £139,000 in compensation",
+        "url": "https://www.thetimes.com/business/technology/article/lloyds-bank-it-glitch-exposed-data-of-half-a-million-customers-mnv0lcb9k",
+        "image": "https://www.thetimes.com/imageserver/image/b00fd17d-df65-4a8f-8db7-3f8693fc9fcc.jpg?strip=all&format=webp&crop=3837px%2C2158px%2C60px%2C300px&resize=1200",
+        "publishedAt": "2026-03-27T08:21:58Z",
+        "source": "The Times"
       }
     ],
     "science": [
+      {
+        "title": "The Indian scientist couple history forgot - and the new study bringing their ‘Jeewanu’ back to life",
+        "description": "A groundbreaking experiment revives interest in forgotten scientists Krishna Bahadur and S. Ranganayaki, exploring life's origins through innovative protocell research.",
+        "url": "https://www.thehindu.com/society/jeewanu-life-particles-krishna-bahadur-and-s-ranganayaki-ncbs-research/article70778212.ece",
+        "image": "https://th-i.thgim.com/public/incoming/fzwq6n/article70783801.ece/alternates/LANDSCAPE_1200/OriginOfLifeOnline.jpg",
+        "publishedAt": "2026-03-27T08:30:00Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Innovafeed: joins IRBI in government-backed research programme",
+        "description": "IRBI and Innovafeed launch research partnership on black soldier fly production. A research partnership between the Institute for Research on Insect Biology (IRBI) and Innovafeed aims to address scientific and technological challenges in scaling up black soldier fly production in France. The project, known as FrenchFly, is designed to support development of the country’s black [...]",
+        "url": "https://www.salmonbusiness.com/innovafeed-joins-irbi-in-government-backed-research-programme/",
+        "image": "https://www.salmonbusiness.com/wp-content/uploads/2021/12/screen-shot-2020-06-01-at-09.15.51.png",
+        "publishedAt": "2026-03-27T08:17:25Z",
+        "source": "SalmonBusiness"
+      },
+      {
+        "title": "Scientists discover a hidden ocean 700 kilometres beneath Earth that may be bigger than all oceans",
+        "description": "Science News: Earth’s internal structure continues to reveal details that reshape established scientific explanations about the planet’s formation. One such develop.",
+        "url": "https://timesofindia.indiatimes.com/science/scientists-discover-a-hidden-ocean-700-kilometres-beneath-earth-that-may-be-bigger-than-all-oceans/articleshow/129841690.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129842131,width-1280,height-720,imgsize-40012,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-27T08:09:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Reweaving the Rainbow",
+        "description": "Welcome to The Overview newsletter, a weekly meditation on nature from Editor-in-Chief Willow Defebaugh.",
+        "url": "https://atmos.earth/ecological-wisdom/reweaving-the-rainbow/",
+        "image": "https://atmos.earth/wp-content/uploads/2026/03/rainbow_hor-1280x720.jpg",
+        "publishedAt": "2026-03-27T08:04:53Z",
+        "source": "atmos.earth"
+      },
+      {
+        "title": "Watch 'The War Between the Land and the Sea' on your travels with our exclusive NordVPN deal",
+        "description": "Our exclusive NordVPN deal saves you a $513, and sweetens the deal with a $50 Amazon voucher and four free months.",
+        "url": "https://www.space.com/technology/watch-the-bbcs-dr-who-spin-off-the-war-between-the-land-and-the-sea-and-every-episode-of-the-classic-dr-who-series-on-your-travels-with-our-exclusive-nordvpn-deal",
+        "image": "https://cdn.mos.cms.futurecdn.net/t7QHrriDGa8NPCHBJQZPj-2048-80.jpg",
+        "publishedAt": "2026-03-27T08:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "NASA Sets 2028 Launch For First Nuclear Mission To Mars Days Before Return To The Moon",
+        "description": "NASA plans a 2028 nuclear-powered Mars mission using SR-1 Freedom and Skyfall helicopters, aiming to transform deep-space travel and future human exploration.",
+        "url": "https://au.news.yahoo.com/nasa-sets-2028-launch-first-080000740.html",
+        "image": "https://s.yimg.com/os/en/forbes_contributor_845/61ee3724b9d2156e18f800a9ba5b9edb",
+        "publishedAt": "2026-03-27T08:00:00Z",
+        "source": "Yahoo News Australia"
+      },
+      {
+        "title": "Tiny Fossil Discovery in Gobi Desert",
+        "description": "Tiny Fossil Discovery in Gobi Desert",
+        "url": "https://www.usthadian.com/tiny-fossil-discovery-in-gobi-desert/",
+        "image": "https://www.usthadian.com/wp-content/uploads/2026/03/ca-images-4-11.jpg",
+        "publishedAt": "2026-03-27T07:54:33Z",
+        "source": "usthadian.com"
+      },
       {
         "title": "NASA tracks car-sized asteroid passing closer than the moon",
         "description": "The agency confirmed that the asteroid and four smaller ones will brush pass us in the next few days.",
@@ -142,128 +198,72 @@
         "image": "https://media-cache.primedia-service.com/media/smubs5sl/asteroid-3628185_1280.jpg?width=1200&height=630",
         "publishedAt": "2026-03-27T06:36:05Z",
         "source": "EWN"
-      },
-      {
-        "title": "Artemis II: Nasa space mission helped by Goonhilly Earth Station",
-        "description": "Nasa says it is on track to launch its Artemis II mission in early April.",
-        "url": "https://www.bbc.co.uk/news/articles/c625395elemo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3a4/live/70167570-2918-11f1-babf-516204a6f1ce.jpg",
-        "publishedAt": "2026-03-27T06:36:02Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Goonhilly Earth Station",
-        "description": "Nasa says it is on track to launch its Artemis II mission in early April.",
-        "url": "https://www.bbc.com/news/articles/c625395elemo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f3a4/live/70167570-2918-11f1-babf-516204a6f1ce.jpg",
-        "publishedAt": "2026-03-27T06:36:02Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Chromatin dynamics of the Klf4 locus in mouse pluripotent cells",
-        "description": "Understanding the factors involved in chromatin dynamics is crucial for the study of biochemical processes in which distant genomic regions need to come in close proximity. Previous single locus tracking studies suggest that chromatin dynamics are linked to active transcription, but studies which compare the chromatin dynamics between different locations within a defined chromatin domain are still very limited. Here we used the ANCHOR3 DNA labeling system to track multiple cis-regulatory elements and non-regulatory control regions at different positions in the mouse Klf4 locus. We observe homogeneous chromatin motion of cis-regulatory elements and non-regulatory control regions in Klf4 transcribing mESCs and their non-transcribing EpiLCs daughter cells. These observations challenge the notion that active transcription has a major effect on the locus dynamics of mammalian genes.",
-        "url": "https://www.nature.com/articles/s41598-026-45230-9?error=cookies_not_supported&code=8b061646-c6dc-458b-8151-cf79c6e34b4b",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-03-27T06:27:01Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Climate-Ready Wheat Could Secure Future Pasta Production",
-        "description": "Researchers from Skoltech, CIMMYT, Italy’s Research Center for Cereal and Industrial Crops, and global partners developed new durum wheat lines with improved freezing tolerance and strong gluten quality for premium pasta. Published in Frontiers in Plant Science, the study uses genomic selection and breeding tools to boost climate resilience, helping stabilize durum wheat production under increasingly unpredictable weather conditions.",
-        "url": "https://www.seedworld.com/europe/2026/03/27/climate-ready-wheat-could-secure-future-pasta-production/",
-        "image": "https://seedworld.com/cdn/wp-content/uploads/20260324012508/AdobeStock_117744978-scaled.jpeg",
-        "publishedAt": "2026-03-27T06:22:29Z",
-        "source": "Seed World"
-      },
-      {
-        "title": "With Artemis Changes, Europe is Left Holding the Bag",
-        "description": "ESA and European space primes were developing many of the key components of the planned lunar orbiting station.",
-        "url": "https://payloadspace.com/with-artemis-changes-europe-is-left-holding-the-bag/",
-        "image": "https://payloadspace.com/wp-content/uploads/2026/03/Gateway-Summer-Req-Images-Rev2_21medium.jpg",
-        "publishedAt": "2026-03-27T06:01:00Z",
-        "source": "Payload Space"
-      },
-      {
-        "title": "Ask Ethan: Does dark energy curve the Universe over time?",
-        "description": "Early on, the Universe needed near-perfect flatness, or atoms, stars, and galaxies couldn't form. What happens once dark energy takes over?",
-        "url": "https://bigthink.com/starts-with-a-bang/dark-energy-curve-universe-time/",
-        "image": "https://bigthink.com/wp-content/uploads/2026/03/dark_energy_expansion_of_universe_concept.jpg?resize=1200,630",
-        "publishedAt": "2026-03-27T06:00:00Z",
-        "source": "Big Think"
-      },
-      {
-        "title": "ALDOB K87 lactylation drives mitochondrial fission and metabolic reprogramming in pulmonary hypertension",
-        "description": "Pulmonary hypertension (PH) is a life-threatening disorder characterized by progressive pulmonary vascular remodeling, occlusive arteriopathy, and right ventricular failure. However, the molecular mechanisms underlying these pathological hallmarks remain elusive. This study aimed to introduce aldolase B (ALDOB)-K87 lactylation as a critical regulator of mitochondrial fission and metabolic reprogramming in PH pathogenesis. Integrated lactylomic profiling in hypoxic human pulmonary artery smooth muscle cells (PASMCs) and validation in rodent PH models revealed that hypoxia-induced ALDOB-K87 lactylation amplified glycolytic flux, fostering lactate accumulation and self-reinforcing lactylation. Mechanistically, ALDOB lactylation recruited dynamin-related protein 1 (DRP1) to mitochondria via sentrin/SUMO-specific peptidase 3–mediated deSUMOylation of DRP1. This facilitated mitochondrial fragmentation, exacerbating PASMC proliferation, migration, and phenotypic switching. Sirtuin 1 serves as a delactylase for ALDOB, and its downregulation in PH sustains lactylation-driven pathology. Genetic or pharmacological suppression of ALDOB lactylation attenuates mitochondrial fission and PH progression in vivo, whereas lactylation-mimetic mutants exacerbate disease phenotypes. This study unveiled a lactate–ALDOB–DRP1 axis that bridged metabolic rewiring with mitochondrial dynamics, offering novel therapeutic targets for PH. Hypoxia-induced ALDOB lactylation amplifies glycolysis-derived lactate production, creating a self-reinforcing loop that sustained lactylation and mitochondrial fragmentation in pulmonary hypertension.",
-        "url": "https://www.nature.com/articles/s42003-026-09934-y?error=cookies_not_supported&code=a4a04551-eda2-4cfd-bf2f-1f5df41e4b31",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-026-09934-y/MediaObjects/42003_2026_9934_Figa_HTML.png",
-        "publishedAt": "2026-03-27T05:54:58Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Two Major CEOs Say AI Shaped Their Decisions To Quit",
-        "description": "The departing CEOs suggested their firms would benefit from new blood with sharper expertise in AI to guide the next phase of growth.",
-        "url": "https://www.ndtvprofit.com/business/coca-cola-walmart-ceos-resign-highlighting-growing-role-of-ai-11273370",
-        "image": "https://c.ndtvimg.com/2026-03/1g4iqpu_artificial-intelligence-ai_625x300_26_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-03-27T07:31:44Z",
-        "source": "NDTV Profit"
+        "title": "Industry 4.0 technologies raise cyber risks for smart renewables grids",
+        "description": "An international research team developed a multi-stage intrusion detection system that uses supervised and unsupervised AI techniques to detect and mitigate cyber threats in smart renewable energy grids. The system can reportedly achieve high accuracy, low false positives, and real-time detection, outperforming traditional intrusion detection system models.",
+        "url": "https://www.pv-magazine.com/2026/03/27/industry-4-0-technologies-raise-cyber-risks-for-smart-renewable-energy-grids/",
+        "image": "https://www.pv-magazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-25-110918.v1-1200x743.jpg",
+        "publishedAt": "2026-03-27T08:30:10Z",
+        "source": "pv magazine"
       },
       {
-        "title": "Amazon Chip Division Hit By Second Senior Exit In Months",
-        "description": "Amazon's chip unit sees second senior exit in months, raising concerns as it scales Trainium AI chips vs. Nvidia.",
-        "url": "https://www.benzinga.com/markets/tech/26/03/51504007/amazon-chip-division-hit-by-second-senior-exit-in-months",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/03/27/Amazon.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-03-27T07:31:00Z",
-        "source": "Benzinga"
+        "title": "OpenAI discontinues Sora app just 13 months after UK release",
+        "description": "Chat GPT creators OpenAI have discontinued the video-creation app Sora - here's why.",
+        "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/25973143.openai-discontinues-sora-app-just-13-months-uk-release/",
+        "image": "https://www.lancashiretelegraph.co.uk/resources/images/20711525.jpg?type=og-image&xType=0&yType=118",
+        "publishedAt": "2026-03-27T08:30:00Z",
+        "source": "Lancashire Telegraph"
       },
       {
-        "title": "Google launches feature to transfer chatbot chats, data into Gemini",
-        "description": "Google’s AI assistant Gemini now lets users transfer chats and personal information from other chatbots, including “memories.” This is part of a larger strategy by tech companies to gain more users in a competitive market. The feature simplifies switching between platforms and could boost Gemini’s adoption in the expanding AI industry.",
-        "url": "https://indianexpress.com/shorts/technology/google-launches-feature-to-transfer-chatbot-chats-data-into-gemini-10604119/",
-        "image": "https://images.indianexpress.com/2025/12/Google-Gemini-Express-Photo-1.jpg",
-        "publishedAt": "2026-03-27T07:30:18Z",
-        "source": "The Indian Express"
+        "title": "OpenAI discontinues Sora app just 13 months after UK release",
+        "description": "Chat GPT creators OpenAI have discontinued the video-creation app Sora - here's why.",
+        "url": "https://www.thenorthernecho.co.uk/news/national/uk-today/25973143.openai-discontinues-sora-app-just-13-months-uk-release/",
+        "image": "https://www.thenorthernecho.co.uk/resources/images/20711525.jpg?type=og-image&xType=0&yType=118",
+        "publishedAt": "2026-03-27T08:30:00Z",
+        "source": "Northern Echo"
       },
       {
-        "title": "10 giant snakes in the world and their longest recorded sizes",
-        "description": "The biggest species of snakes are divided into two categories based on scientific research, i.e., the longest and the heaviest. This is because these two features are often found in different species. Most of the largest species are non-venomous constrictors, and they are found in tropical and subtropical regions. The climate and availability of food are favourable for the growth of these species. Verified records are important, as some of the biggest species are not proven.PC: AI-Generated",
-        "url": "https://timesofindia.indiatimes.com/etimes/animals/10-giant-snakes-in-the-world-and-their-longest-recorded-sizes/photostory/129840718.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129840748,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "Times of India"
+        "title": "Google launches Gemini app in Hong Kong, tops App Store charts after rollout",
+        "description": "Google has brought its Gemini AI app to Hong Kong users after years of restricted access, with the chatbot quickly becoming the most downloaded app on Apple’s App Store.",
+        "url": "https://www.firstpost.com/tech/google-launches-gemini-app-in-hong-kong-tops-app-store-charts-after-rollout-13993797.html",
+        "image": "https://images.firstpost.com/uploads/2025/12/2025-10-27T223201Z_583313235_RC2MKHAQO3HM_RTRMADP_3_GOOGLE-RESULTS-2025-12-abe2267808148f2952013a09bdf859c6-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-03-27T08:28:18Z",
+        "source": "Firstpost"
       },
       {
-        "title": "One in five Brits find it easier to talk to AI about health worries than doctors",
-        "description": "Embarrassment about bodies means one in five Brits would rather talk to an AI platform about their worries than a medical professional",
-        "url": "https://www.dailystar.co.uk/news/uk-news/one-five-brits-find-easier-36927211",
-        "image": "https://i2-prod.dailystar.co.uk/article36927666.ece/ALTERNATES/s1200d/0_GettyImages-758310039.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "The daily Star"
+        "title": "This Chinese robot can wake you up, prepare breakfast and even clean your house: All about Panther",
+        "description": "UniX AI Panther humanoid robot enters real homes in Suzhou, handling cooking, cleaning and chores with advanced perception, bionic arms and long battery life.",
+        "url": "https://www.cnbctv18.com/technology/this-chinese-robot-can-wake-you-up-prepare-breakfast-and-even-clean-your-house-details-ws-l-19876310.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/03/panther-robot-2026-03-c284597d4a2cc22dc053125f97ba1b1a.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-03-27T08:28:06Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "Our kids should not be the testing ground for AI",
-        "description": "I have a young daughter at home. Like most parents, I think about the world she's growing up in, whether it's the schools she'll attend, the friends she'll make, and the digital spaces she'll eventually step into.",
-        "url": "https://www.arkansasonline.com/news/2026/mar/27/our-kids-should-not-be-the-testing-ground-for-ai/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-        "publishedAt": "2026-03-27T07:30:00Z",
-        "source": "Arkansas Online"
+        "title": "Why UP scrapped its Rs 25,000 crore AI MoU with Puch AI within days",
+        "description": "Officials said the MoU, which was signed on March 23, was subjected to a standard protocol review. The process revealed what the government described as a “lack of adequate net worth” and an “absence of credible financial linkages,” prompting the cancellation.",
+        "url": "https://www.financialexpress.com/business/news/why-up-scrapped-its-rs-25000-crore-ai-mou-with-puch-ai-within-days/4185894/",
+        "image": "https://images.financialexpressdigital.com/2026/03/Untitled-design-2026-03-27T133406.834.png",
+        "publishedAt": "2026-03-27T08:28:03Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "How AI detectors fit into content creation processes",
-        "description": "AI detectors serve as modern writing companions, streamlining editing and enhancing clarity while helping creators maintain an organic, professional flow.",
-        "url": "https://zeenews.india.com/consumer-connect/how-ai-detectors-fit-into-content-creation-processes-3031031.html",
-        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/03/27/1923707-lywooddirector.jpg",
-        "publishedAt": "2026-03-27T07:29:58Z",
-        "source": "Zee News"
+        "title": "UP govt cancels ₹25,000-crore MoU with Puch AI citing lack of net worth",
+        "description": "The UP govt said review of the MoU found lack of net worth and credible financial linkages for the project's scale.| India News",
+        "url": "https://www.hindustantimes.com/india-news/up-govt-cancels-rs-25000-crore-mou-with-puch-ai-citing-lack-of-net-worth-101774599277983.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/550x309/puch_ai_up_gov_1774599747166_1774599753049.jpg",
+        "publishedAt": "2026-03-27T08:27:28Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Anthropic accidentally reveals ‘Claude Mythos’ model: The next frontier in AI power",
-        "description": "Anthropic unwittingly revealed its upcoming “Claude Mythos” model due to a content management error on March 27, 2026. The leaked files reportedly include blog drafts and nearly 3,000...",
-        "url": "https://www.thenews.com.pk/latest/1396861-anthropic-accidentally-reveals-claude-mythos-model-the-next-frontier-in-ai-power",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-03-27/1396861_122824_updates.jpg",
-        "publishedAt": "2026-03-27T07:28:00Z",
-        "source": "The News International"
+        "title": "IT stocks trading at discount after correction, says ICICI Direct; brokerage sees long-term upside",
+        "description": "The Nifty IT index has declined about 25 percent year-to-date, driven by concerns over the potential impact of generative AI on the long-term business model of IT services companies, along with broader macroeconomic and geopolitical uncertainties",
+        "url": "https://www.moneycontrol.com/news/business/earnings/it-stocks-trade-at-discount-after-correction-icici-direct-sees-long-term-upside-13872406.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260314033736_stocks5.jpg",
+        "publishedAt": "2026-03-27T08:26:54Z",
+        "source": "Moneycontrol"
       }
     ]
   }
