@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-30T06:56:45.832Z",
+  "fetchedAt": "2026-03-30T07:56:40.593Z",
   "sections": {
     "world": [
       {
-        "title": "Live updates: Iran warns against US ground invasion; troops arrive in Middle East",
-        "description": "Iran is warning against a potential ground invasion as more US troops arrive in the Middle East. Pakistan and other regional leaders are ramping up diplomatic efforts. Follow for live updates.",
-        "url": "https://www.cnn.com/2026/03/29/world/live-news/iran-war-us-israel-trump",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-17t105525z-1708300720-rc2a6kaweiku-rtrmadp-3-iran-crisis-ship-usa.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-03-29T18:53:00Z",
-        "source": "CNN"
+        "title": "PM says Israel to expand south Lebanon buffer zone as IDF pushes deeper into territory",
+        "description": "In visit to Northern Command, Netanyahu promises to 'definitively thwart' Hezbollah threat on border; terror group continues to launch rockets as IDF carries out strikes",
+        "url": "https://www.timesofisrael.com/pm-says-israel-to-expand-south-lebanon-buffer-zone-as-idf-pushes-deeper-into-territory/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/146d07e6-bb5c-4d41-a8bb-7935f850726a_0.jpg",
+        "publishedAt": "2026-03-29T19:55:42Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Powerless To Help Cuba In Its Hour Of Need, Must Africa Question Its Standing In The World?",
-        "description": "The African Union (AU) strongly condemns the blockade on Cuba by the United States of America (USA) and calls for it to be ended, but the condemnation is unlikely to…",
-        "url": "https://www.ktpress.rw/2026/03/powerless-to-help-cuba-in-its-hour-of-need-must-africa-question-its-standing-in-the-world/",
-        "image": "https://www.ktpress.rw/wp-content/uploads/2026/03/image-21.jpg",
-        "publishedAt": "2026-03-29T18:51:13Z",
-        "source": "ktpress.rw"
+        "title": "Iran war live updates: Iran threatens to retaliate if US orders ground operation",
+        "description": "US media is reporting that the Pentagon is considering a weeks-long ground campaign in Iran. Follow our live coverage.",
+        "url": "https://www.abc.net.au/news/2026-03-30/iran-war-live-updates-us-ground-operation/106509210",
+        "image": "https://live-production.wcms.abc-cdn.net.au/30d164edb11af048f868cd0ba362947f?impolicy=wcms_watermark_news&cropH=1675&cropW=2977&xPos=0&yPos=155&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-29T19:55:30Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Ukraine rebukes Rheinmetall over CEO’s ‘play with Legos’ drone insult",
-        "description": "Officials hit back after Armin Papperger calls drone production the work of “housewives” with “3-D printers in the kitchen.”",
-        "url": "https://www.politico.eu/article/rheinmetall-ukraine-drone-insult-armin-papperger/",
-        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/29/GettyImages-2265401313-scaled.jpg",
-        "publishedAt": "2026-03-29T18:44:00Z",
-        "source": "politico.eu"
+        "title": "Netanyahu Orders IDF Expand Israeli Control 'Deeper' Into Lebanon",
+        "description": "IDF Suspends Reserve Battalion Whose Soldiers Detained CNN Crew in West Bank. Netanyahu Says Latin Patriarch Can ‘Hold Services as He Wishes’. Iran Says Over 100,000 Civilian Buildings Hit in U.S., Israeli Strikes",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-29/ty-article-live/.premium/nine-paramedics-killed-seven-wounded-in-idf-strikes-in-lebanon-who-says/0000019d-366f-de07-a9fd-b77f0b9c0000",
+        "image": "https://img.haarets.co.il/bs/0000019d-366f-de07-a9fd-b77f0b9c0000/cd/90/4c4c8ad944c8802a7ba8c80ebddf/capture.PNG?&width=1200&height=630&cmsprod",
+        "publishedAt": "2026-03-29T19:55:00Z",
+        "source": "Haaretz"
       },
       {
-        "title": "Photos show heavily damaged US radar jet at Saudi base",
-        "description": "US Central Command has not yet publicly commented on the incident.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd07m7e1xo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2a6/live/c4118b60-2b9d-11f1-a79a-77e93010d956.png",
-        "publishedAt": "2026-03-29T18:42:19Z",
-        "source": "BBC"
+        "title": "Iranian missile attack sparks blaze in chemical plant, fears of hazardous leak",
+        "description": "No injuries in strike on Neot Hovav industrial zone; Environmental Protection Ministry later gives all clear after locals told to stay away; another missile hits Beersheba, lightly injuring 11",
+        "url": "https://www.timesofisrael.com/iranian-missile-attack-sparks-blaze-in-chemical-plant-fears-of-hazardous-leak/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/WhatsApp-Image-2026-03-29-at-17.29.07.jpeg",
+        "publishedAt": "2026-03-29T19:45:02Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Israeli police prevent Palm Sunday Mass at Jerusalem church",
-        "description": "Israeli police have blocked top Catholic leaders from entering Jerusalem’s Church of the Holy Sepulchre for a private Palm Sunday Mass.",
-        "url": "https://apnews.com/article/israel-police-jerusalem-church-palm-sunday-906c8fa00e5e461760089260a18a2b98",
-        "image": "https://dims.apnews.com/dims4/default/98b23ba/2147483647/strip/true/crop/5500x3665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fb1%2F03d60ae51947865fa6ad4d78c341%2F0abd0424a476479fb6f94c401a34779f",
-        "publishedAt": "2026-03-29T18:42:00Z",
-        "source": "AP News"
+        "title": "Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike",
+        "description": "Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.",
+        "url": "https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html",
+        "image": "https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-facebookJumbo.jpg",
+        "publishedAt": "2026-03-29T19:44:59Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Israeli police block Catholic leaders from Palm Sunday Mass",
-        "description": "Israeli police said they had notified the church that no mass could be held on Palm Sunday due to safety concerns. Authorities have banned large gatherings since the Iran war began.",
-        "url": "https://www.dw.com/en/israeli-police-block-catholic-leaders-from-palm-sunday-mass-in-jerusalem/a-76586194",
-        "image": "https://static.dw.com/image/76585831_6.jpg",
-        "publishedAt": "2026-03-29T18:41:12Z",
-        "source": "DW.com"
+        "title": "UK counter terror officers join probe after car hits pedestrians, injuring seven",
+        "description": "The incident occurred at 9.30 p.m. (GMT) on Friar Gate, a usually busy street in the city of Derby, with all victims suffering serious but not life-threatening injuries.",
+        "url": "https://www.jpost.com/international/islamic-terrorism/article-891572",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/704994",
+        "publishedAt": "2026-03-29T19:43:22Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "How South Africans are using high-tech to rewrite the rules of wildlife conservation",
-        "description": "South Africans are playing a pioneering role in harnessing drones, artificial intelligence and other digital tech tools to reshape wildlife conservation management — and to reduce conflict between people and wildlife",
-        "url": "https://www.dailymaverick.co.za/article/2026-03-29-how-south-africans-are-using-high-tech-to-rewrite-the-rules-of-wildlife-conservation/",
-        "image": "https://cdn.dailymaverick.co.za/i/F1NlZUHhpUFD7E73YUTxt5LTxrQ=/800x0/smart/filters:strip_exif()/file/attachments/orphans/tonydrone1MAINIMAGErearanimalwithheatsignaturemaskedbywetmudbathphotocarelverhoef_266768.jpg",
-        "publishedAt": "2026-03-29T18:37:57Z",
-        "source": "Daily Maverick"
+        "title": "New UK Travel Rules 2026: ETA Requirement Expands to Travelers from 50+ Countries",
+        "description": "The UK is expanding its Electronic Travel Authorisation (ETA) to over 50 countries in 2026. Learn about the £10 fee, application process, and who needs it.",
+        "url": "https://www.travelandtourworld.com/news/article/new-uk-travel-rules-2026-eta-requirement-expands-to-travelers-from-50-countries/",
+        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/03/a-professional-lifestyle-photograph-capt_-v7uDiHyR1m5uVezYJ7CFA_tr1373TEQkWN3dMVS3OQyQ_cover_sd.jpeg",
+        "publishedAt": "2026-03-29T19:43:06Z",
+        "source": "Travel And Tour World"
       },
       {
-        "title": "Zelenskyy arrives in Jordan to bolster security ties",
-        "description": "The Ukrainian leader’s visit comes after Kyiv agreed to cooperate on defence with Qatar, Saudi Arabia and the UAE.",
-        "url": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69c959a0-1774803360.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-03-29T18:37:36Z",
-        "source": "Al Jazeera"
+        "title": "Paramilitary attack kills at least 14 in central Sudan, group says",
+        "description": "A Sudanese medical group says paramilitaries have attacked the city of Dilling in South Kordofan, killing at least 14 people, including children",
+        "url": "https://www.washingtonpost.com/world/2026/03/29/sudan-war-military-rsf/e5a8af08-2b8c-11f1-aac2-f56b5ccad184_story.html",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+        "publishedAt": "2026-03-29T19:39:22Z",
+        "source": "The Washington Post"
       }
     ],
     "business": [
       {
-        "title": "Credit constraints threaten jobs as SMEs face N48trn financing gap",
-        "description": "Nigeria’s small and medium enterprises (SMEs), which account for about half of the country’s economic output and more than 80 percent...",
-        "url": "https://businessday.ng/news/article/credit-constraints-threaten-jobs-as-smes-face-n48trn-financing-gap/",
-        "image": "https://cdn.businessday.ng/2021/09/Screen-Shot-2021-09-08-at-8.22.46-PM.png",
-        "publishedAt": "2026-03-29T18:56:23Z",
-        "source": "Businessday NG"
+        "title": "12 tons of KitKat stolen in Europe as truck with 400,000 bars vanishes en route to Po",
+        "description": "Nestle says shipment of 413,793 chocolate bars disappeared during transit from Italy; missing goods may hit shelves ahead of Easter as company warns of rising cargo theft",
+        "url": "https://www.ynetnews.com/article/hjcecewj11l",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/r1rJy11Po11e/r1rJy11Po11e_0_20_681_384_0_large.jpg",
+        "publishedAt": "2026-03-29T19:53:26Z",
+        "source": "ynetnews.com"
       },
       {
-        "title": "USA Opens Path to 20 Percent Stake in Mozambique Graphite Miner Syrah",
-        "description": "The DFC plans to convert a $31M loan into equity in Syrah Resources, targeting a 20% stake in the Balama graphite mine in Mozambique.\nThe deal",
-        "url": "https://www.ecofinagency.com/news-industry/2903-54209-usa-opens-path-to-20-percent-stake-in-mozambique-graphite-miner-syrah",
-        "image": "https://www.ecofinagency.com/media/k2/items/cache/a40523e2735a7549fc8df389bade6db4_S.jpg",
-        "publishedAt": "2026-03-29T18:54:18Z",
-        "source": "Ecofin Agency"
+        "title": "Egypt explores expanding SAP investments, digital skills programmes",
+        "description": "Egypt’s Minister of Communications and Information Technology, Raafat Hindy, met on Sunday with Augusta Spinelli, Regional President for Europe, the Middle East, and Africa (EMEA) at SAP, to discuss expanding the company’s investments in Egypt and scaling up its outsourcing operations. The meeting explored opportunities to deepen cooperation in cloud computing services, support Egypt’s digital",
+        "url": "https://www.dailynewsegypt.com/2026/03/29/egypt-explores-expanding-sap-investments-digital-skills-programmes/",
+        "image": "https://images.dailynewsegypt.com/2026/03/657511116_1519227640247651_129317775419694421_n.jpg",
+        "publishedAt": "2026-03-29T19:53:18Z",
+        "source": "Dailynewsegypt"
       },
       {
-        "title": "New car brands coming to Australia in 2026 and beyond",
-        "description": "Several more Chinese car brands are due to enter Australia soon.",
-        "url": "https://www.drive.com.au/news/new-car-brands-set-to-launch-in-australia/",
-        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/5f08990b-3b7d-572a-8c49-d9c655750000",
-        "publishedAt": "2026-03-29T18:53:50Z",
-        "source": "drive.com.au"
+        "title": "Positive spillovers of the Gulf crisis",
+        "description": "Positive spillovers of the\nGulf crisis",
+        "url": "https://tribune.com.pk/story/2600003/positive-spillovers-of-the-gulf-crisis",
+        "image": "https://i.tribune.com.pk/media/images/shopping-online-with-bank-card1774812793-0/shopping-online-with-bank-card1774812793-0-640x480.webp",
+        "publishedAt": "2026-03-29T19:51:38Z",
+        "source": "The Express Tribune"
       },
       {
-        "title": "Wells Fargo doubles down on gold price despite slump",
-        "description": "The bank projects prices to reach between $6,100 and $6,300 an ounce by the end of the year.",
-        "url": "https://www.mining.com/wells-fargo-doubles-down-on-gold-price-despite-slump/",
-        "image": "https://www.mining.com/wp-content/uploads/2026/03/AdobeStock_1415829891-1024x683.jpeg",
-        "publishedAt": "2026-03-29T18:53:01Z",
-        "source": "Mining.com"
+        "title": "Auckland power cable 'possibly' intentionally damaged, causes diesel leak scare",
+        "description": "Fire and Emergency say that a pipe carryng a power cable and cable cooling fluid were damaged.",
+        "url": "https://www.rnz.co.nz/news/national/590992/auckland-power-cable-possibly-intentionally-damaged-causes-diesel-leak-scare",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--y06aeTSt--/t_tohu-badge-facebook/v1774813597/4JQYUED_DSC04460_JPG?_a=BACCd2AD",
+        "publishedAt": "2026-03-29T19:51:18Z",
+        "source": "rnz.co.nz"
       },
       {
-        "title": "How much AI-driven productivity growth do we want?",
-        "description": "Since OpenAI’s ChatGPT burst onto the scene in late 2022, economists and commentators have been discussing generative AI’s possible effects on productivity. But from a cultural and political perspective, it is useful to ask a normative question: How much productivity growth should society desire? The economic disruption that accompanies rapid productivity growth can be",
-        "url": "https://www.arabnews.pk/node/2638078",
-        "image": "https://www.arabnews.pk/sites/default/files/authors/3770051-michaelrstrain.png",
-        "publishedAt": "2026-03-29T18:50:47Z",
-        "source": "Arab News PK"
+        "title": "Gold edges higher locally as 21",
+        "description": "Gold prices posted modest gains in Egypt’s local market during last week’s trading, even as global prices declined sharply amid heightened volatility driven by US dollar strength and escalating geopolitical tensions, according to a report by iSagha. Saeed Imbabi, Executive Director of the platform, said local gold prices rose by approximately EGP 10. The 21-karat gram",
+        "url": "https://www.dailynewsegypt.com/2026/03/29/gold-edges-higher-locally-as-21-karat-gram-closes-at-egp-6925/",
+        "image": "https://images.dailynewsegypt.com/2026/03/40ZlXXLv-1.jpg",
+        "publishedAt": "2026-03-29T19:48:50Z",
+        "source": "Dailynewsegypt"
       },
       {
-        "title": "Glasgow flight hits turbulence after takeoff, crew member injured",
-        "description": "An easyJet flight from Glasgow to Jersey was forced to declare an emergency and divert back to Glasgow shortly after takeoff.",
-        "url": "https://www.heraldscotland.com/news/25977848.flight-returns-glasgow-crew-member-injured-departure/",
-        "image": "https://www.heraldscotland.com/resources/images/19399752.jpg?type=og-image",
-        "publishedAt": "2026-03-29T18:50:37Z",
-        "source": "The Herald"
+        "title": "Transport firm pushes CNG adoption with more tricycle rollout",
+        "description": "The Nation Newspaper Transport firm pushes CNG adoption with more tricycle rollout",
+        "url": "https://thenationonlineng.net/transport-firm-pushes-cng-adoption-with-more-tricycle-rollout/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/03/29204630/enviable.jpeg",
+        "publishedAt": "2026-03-29T19:47:08Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "Impella Support in High-Risk PCI Doesn’t Help, Might Harm: CHIP-BCIS3",
-        "description": "The results challenge the rapid growth of Impella support during high-risk PCI. Investigators say a reckoning is needed.",
-        "url": "https://www.tctmd.com/news/impella-support-high-risk-pci-doesnt-help-might-harm-chip-bcis3",
-        "image": "https://d14d5nk8lue86f.cloudfront.net/s3fs-public/2026-03/Impella%20Support%20in%20High-Risk%20PCI%20Doesn%E2%80%99t%20Help%2C%20Might%20Harm%20CHIP-BCIS3.jpg",
-        "publishedAt": "2026-03-29T18:50:00Z",
-        "source": "TCTMD.com"
+        "title": "Why egg prices increased to N8,500 in Nigeria - Oyiola",
+        "description": "Mojeed Iyiola, the chairman of the Poultry Association of Nigeria, PAN, Lagos, has explained why egg prices have surged to as much as N8,500 per crate as",
+        "url": "https://dailypost.ng/2026/03/29/why-egg-prices-increased-to-n8500-in-nigeria-oyiola/",
+        "image": "https://dailypost.ng/wp-content/uploads/2023/03/Food-Tank_Egg-Central-Station-e1532428433129.jpg",
+        "publishedAt": "2026-03-29T19:46:51Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Daughter of Air Canada flight attendant ejected from crash provides update, details mother's injuries",
-        "description": "Solange Tremblay, a veteran crew member on Jazz Aviation Flight 8646 operated for Air Canada Express, was found alive on the tarmac still strapped into her jump seat.",
-        "url": "https://www.fox13news.com/news/daughter-air-canada-flight-attendant-ejected-from-crash-provides-update-details-mothers-injuries",
-        "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/03/1200/630/gettyimages-2267833894.jpg?ve=1&tl=1",
-        "publishedAt": "2026-03-29T18:49:45Z",
-        "source": "FOX 13 Tampa Bay"
+        "title": "How FirstBank is Redefining Sustainability in Nigeria",
+        "description": "When we think of banking, we rarely imagine forests, solar panels, or braille-equipped ATMs. Yet, First Bank of Nigeria Limited",
+        "url": "https://nairametrics.com/2026/03/29/how-firstbank-is-redefining-sustainability-in-nigeria/",
+        "image": "https://nairametrics.com/wp-content/uploads/2026/03/FirstBank-image-2.jpeg",
+        "publishedAt": "2026-03-29T19:43:57Z",
+        "source": "Nairametrics"
       }
     ],
     "science": [
+      {
+        "title": "Artemis II crew, rocket ready for launch this week in Florida",
+        "description": "NASA officials said Sunday that the crew, Space Launch System rocket and Orion capsule are ready to launch the Artemis II mission to circle the moon.",
+        "url": "https://ca.news.yahoo.com/artemis-ii-crew-rocket-ready-194831091.html",
+        "image": "https://s.yimg.com/os/en/united_press_international_articles_356/6fddfa1f1dcc5178bea0f7cc80f38da9",
+        "publishedAt": "2026-03-29T19:48:31Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "M Study Finds Nitrile and Latex Gloves Could Lead to Overestimating",
+        "description": "In recent years, the pervasive presence of microplastics in the environment has become a critical concern for scientists and policymakers alike. These minuscule plastic particles, often less than five millimeters in size, have been detected in air, water, and soil across the globe, raising alarms about their impact on",
+        "url": "https://bioengineer.org/u-m-study-finds-nitrile-and-latex-gloves-could-lead-to-overestimating-microplastic-pollution/",
+        "image": "https://bioengineer.org/wp-content/uploads/2026/03/U-M-Study-Finds-Nitrile-and-Latex-Gloves-Could-Lead-to.jpeg",
+        "publishedAt": "2026-03-29T19:39:49Z",
+        "source": "Bioengineer.org"
+      },
+      {
+        "title": "Laser fluence dependent antibacterial activity of cadmium sulfide quantum dots prepared by one step laser ablation in liquid",
+        "description": "Cadmium sulfide (CdS) quantum dots (QDs) were synthesized using pulsed laser ablation in liquid (PLAL) at different laser fluences. The effect of laser fluence on the optical, structural, morphological, and electrical properties of CdS QDs was investigated by using X-ray diffraction (XRD), field emission scanning electron microscopy (FESEM), energy-dispersive X-ray (EDX), zeta potential, photoluminescence (PL), transmission electron microscopy (TEM), UV–Visible absorption spectroscopy, and Fourier-transform infrared spectroscopy (FTIR). XRD analysis show that the synthesized CdS QDs have a hexagonal wurzite structure and the crystallite size was in the range of 6–11 nm. They also exhibit negative surface charge about − 2.7, − 18.2, and − 19.0 mV, all that for CdS QDs, which were prepared at 1.27, 3.82, and 7.64 J/cm², laser fluences, respectively. The antibacterial activity of the CdS QDs was evaluated against both Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa) and Gram-positive bacteria (Staphylococcus aureus, Streptococcus agalactiae). The results showed varying inhibition zones depending on the concentration, surface deformation, and particle size of the CdS QDs, in which the smallest size QDs, which were prepared by using 7.64 J/cm² laser fluence, show higher inhibition zones than other particles. In addition, the minimum inhibitory concentration (MIC) was determined for each bacterial strain.",
+        "url": "https://www.nature.com/articles/s41598-026-40885-w?error=cookies_not_supported&code=4a7f362e-aa86-4002-a0fb-5a6819cbcfa2",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-03-29T19:30:00Z",
+        "source": "Nature"
+      },
+      {
+        "title": "SpaceX plans early morning rocket launch from Vandenberg Space Force Base",
+        "description": "SpaceX plans to launch another Falcon 9 rocket from Vandenberg Space Force Base early Monday morning, March 30.",
+        "url": "https://www.ksby.com/news/launch-tracker/spacex-plans-early-morning-rocket-launch-from-vandenberg-space-force-base",
+        "image": "https://ewscripps.brightspotcdn.com/dims4/default/83a599c/2147483647/strip/true/crop/645x339+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5a%2F18%2Fc486317547d3a73f98b429186975%2Fspacex.png",
+        "publishedAt": "2026-03-29T19:16:11Z",
+        "source": "KSBY News"
+      },
+      {
+        "title": "Study shows raccoons love solving puzzles \"just for fun\"",
+        "description": "Raccoons love solving puzzles, even after finding food. Curiosity drives learning and may explain why raccoons adapt so well to city life.",
+        "url": "https://www.earth.com/news/raccoons-love-solving-puzzles-just-for-fun-may-explain-why-they-thrive-in-cities/",
+        "image": "https://cff2.earth.com/uploads/2026/03/29125836/raccoons-thrive-in-cities_love-puzzles_1m.jpg",
+        "publishedAt": "2026-03-29T19:11:24Z",
+        "source": "earth.com"
+      },
+      {
+        "title": "Who do you think you are? What DNA tests reveal-and what they don't",
+        "description": "For more than 40 years, the Golden State Killer haunted California. A serial rapist and murderer active in the 1970s and '80s, he eluded detectives for decades. By 2018, hope of identifying him was fading, until a woman—curious about her ancestry—spat into a plastic tube and mailed it to a genealogy company.",
+        "url": "https://phys.org/news/2026-03-dna-reveal-dont.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/dna-testing.jpg",
+        "publishedAt": "2026-03-29T19:00:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Why did Mike Fincke fall ill in space? NASA astronaut reveals sudden speech loss on ISS",
         "description": "The incident occurred on January 7 aboard the International Space Station (ISS), when Fincke suddenly fell ill while preparing for a scheduled spacewalk.",
@@ -150,57 +198,57 @@
         "image": "https://img.republicworld.com/all_images/mars-1765204496943-16_9.webp",
         "publishedAt": "2026-03-29T18:16:09Z",
         "source": "Republic World"
-      },
-      {
-        "title": "Functional gut microbiome signatures underlying interindividual variability in metabolic responses to red raspberry consumption",
-        "description": "Red raspberries have been shown to exert beneficial effects on immunometabolic health in numerous studies; however, these effects are subject to interindividual variability. Building on a previous transcriptomic-based clustering analysis from an 8-week randomized controlled trial in which 24 individuals consumed 280 g of red raspberries daily, we investigated whether functional metagenomic profiling may enhance our understanding of the observed interindividual variability in metabolic responses. Participants were classified as responders (n = 13) or non-responders (n = 11) based on prior clustering approaches, which identified significant reductions in plasma levels of C-reactive protein (CRP), triglycerides, and total cholesterol in responders. Microbial DNA extracted from fecal samples collected before and after the intervention was sequenced, and carbohydrate-active enzyme (CAZyme) counts were generated using a bioinformatics pipeline. Differential analysis revealed distinct functional metagenomic profiles between responders and non-responders. Multiple linear regressions identified potential associations between baseline CAZyme levels and changes in CRP, with contrasting trends observed between responders and non-responders. CBM8 and CBM49 were among the highlighted CAZymes. GH5 and several GH5 subfamilies were also identified as candidate CAZymes associated with interindividual variability observed in metabolic responses. These findings support the integration of microbiome-derived functional data alongside other omics to improve precision nutrition strategies.",
-        "url": "https://www.nature.com/articles/s41598-026-45955-7?error=cookies_not_supported&code=2cdf9198-28b3-409a-ad33-4760644c097d",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-03-29T18:11:15Z",
-        "source": "Nature"
-      },
-      {
-        "title": "The time capsule in the salt flat",
-        "description": "There is a place in northern Chile, 3,500 meters above sea level in the Andean Altiplano, where almost nothing survives. The Salar de Pajonales is a salt flat of savage extremes temperatures swinging from −23°C to 26°C, solar radiation among the highest measured anywhere on Earth, annual rainfall that barely registers, and winds that rip across the surface at over 100 kilometers per hour. And yet, life is there.",
-        "url": "https://phys.org/news/2026-03-capsule-salt-flat.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-time-capsule-in-th.jpg",
-        "publishedAt": "2026-03-29T18:00:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "European Neanderthals Originated From a Single Population, Study Reveals",
-        "description": "A new study finds most European Neanderthals descended from a single population that spread across the continent about 65,000 years ago.",
-        "url": "https://colombiaone.com/2026/03/29/study-reveals-european-neanderthals-originated-single-population/",
-        "image": "https://colombiaone.com/wp-content/uploads/2026/03/neanderthals-in-st-michaels-cave-gibraltar-credit-yulia-s-cc-by-30-wikimedia-commons.jpg",
-        "publishedAt": "2026-03-29T17:56:31Z",
-        "source": "ColombiaOne.com"
-      },
-      {
-        "title": "Sudbury underground lab becomes one of the coolest places on Earth",
-        "description": "New experiment allows SNOLAB scientists deep inside Creighton Mine to join the international search for dark matter.",
-        "url": "https://www.thesudburystar.com/feature/sudbury-underground-lab-becomes-one-of-the-coolest-places-on-earth",
-        "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/03/cool-1.jpg",
-        "publishedAt": "2026-03-29T17:43:48Z",
-        "source": "Sudbury Star"
-      },
-      {
-        "title": "For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’",
-        "description": "The four astronauts — three Americans and one Canadian — spoke from a prelaunch quarantine ahead of their scheduled Wednesday mission.",
-        "url": "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html",
-        "image": "https://static01.nyt.com/images/2026/03/29/multimedia/29HS-moon-daily1-lmbf/29HS-moon-daily1-lmbf-facebookJumbo.jpg",
-        "publishedAt": "2026-03-29T17:37:22Z",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Scientists uncover how radiation can unintentionally benefit tumors",
-        "description": "Researchers have found that a group of immune cells can suppress the body’s cancer-fighting response after radiation therapy.",
-        "url": "https://www.earth.com/news/scientists-uncover-how-radiation-can-unintentionally-benefit-tumors/",
-        "image": "https://cff2.earth.com/uploads/2026/03/29070234/radiation-therapy-cancer-immune-response-monocytes-study.jpg",
-        "publishedAt": "2026-03-29T17:13:31Z",
-        "source": "earth.com"
       }
     ],
     "ai": [
+      {
+        "title": "Sora isn't the only thing OpenAI shut down this month",
+        "description": "On Tuesday, OpenAI announced that the company is shutting down Sora, its AI-generated video app. The iPhone app only arrived...",
+        "url": "https://9to5mac.com/2026/03/29/sora-isnt-the-only-thing-openai-shut-down-this-month/",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/sora-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-03-29T19:40:42Z",
+        "source": "9to5Mac"
+      },
+      {
+        "title": "10 days on, 240 AI NY-Mumbai flyers to get their baggage",
+        "description": "Mumbai: Over 240 passengers who landed in Mumbai over 10 days ago on an Air India (AI) flight from New York may finally see an end to their long wait .",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/10-days-on-240-ai-ny-mumbai-flyers-to-get-their-baggage/articleshow/129885473.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129885471,width-1280,height-720,imgsize-20162,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-29T19:34:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Judges back AI for efficiency, but warn against ‘robo justice’ without safeguards",
+        "description": "Even as courts turn to technology to ease backlog and improve decisions, High Court judges on Sunday said artificial intelligence (AI) could significantly aid justice delivery, but human judgment could remain central.",
+        "url": "https://www.tribuneindia.com/news/chandigarh/judges-back-ai-for-efficiency-but-warn-against-robo-justice-without-safeguards-2/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBlNmE0NjAwLTJiYTUtMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-03-29T19:25:27Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Bluesky Has a New App, and It’s All About AI",
+        "description": "Jay Graber is not CEO anymore, but that doesn't mean she hasn't been busy.",
+        "url": "https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514",
+        "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "publishedAt": "2026-03-29T19:22:20Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "Google’s new compression drastically shrinks AI memory use while quietly speeding up performance across demanding workloads and modern hardware environments",
+        "description": "Google TurboQuant reduces AI memory use and boosts speed",
+        "url": "https://www.techradar.com/pro/a-high-speed-digital-cheat-sheet-google-unveils-turboquant-ai-compression-algorithm-which-it-claims-can-hugely-reduce-llm-memory-usage",
+        "image": "https://cdn.mos.cms.futurecdn.net/8PUxwC4hX4bc3YwLSGjQcY-1920-80.jpg",
+        "publishedAt": "2026-03-29T19:20:00Z",
+        "source": "TechRadar"
+      },
+      {
+        "title": "Pakistan joins sovereign AI white paper launch at ZGC Forum",
+        "description": "BEIJING  -  Pakistani Embassy in China joined the launch of a sovereign AI white paper at the Zhongguancun Forum here, alongside partners from China, Brazil,",
+        "url": "https://www.nation.com.pk/30-Mar-2026/pakistan-joins-sovereign-ai-white-paper-launch-zgc-forum",
+        "image": "https://www.nation.com.pk/print_images/large/2026-03-30/pakistan-joins-sovereign-ai-white-paper-launch-zgc-forum-1774846301-7194.jpg",
+        "publishedAt": "2026-03-29T19:00:00Z",
+        "source": "The Nation"
+      },
       {
         "title": "The Historic Alliance: Humanity and Artificial Intelligence for the Stability of the Gulf and the Future of the World",
         "description": "At a pivotal moment in human history, geopolitical challenges intersect with major technological transformations, giving rise to a new equation previously unimaginable: a strategic alliance between humanity and artificial intelligence to ensure the stability of the Gulf region, as the vital artery of global energy and modern digital infrastructure. The global initiative 6S6L6A GCC, led […]",
@@ -216,54 +264,6 @@
         "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/3/29/pandalam-heist.jpg",
         "publishedAt": "2026-03-29T18:37:12Z",
         "source": "Malayala Manorama"
-      },
-      {
-        "title": "US uses AI to speed up nuclear technology licensing applications",
-        "description": "The U.S. used AI mapping to convert a safety analysis document required under DOE’s authorization pathway for advanced reactor demonstrations.",
-        "url": "https://interestingengineering.com/energy/us-ai-nuclear-reactor-licensing",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/03/AI-tool.jpg",
-        "publishedAt": "2026-03-29T18:32:34Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "Snowflake bets on India’s AI surge for next growth cycle",
-        "description": "Top-three global ranking, rising production use cases and cloud migration shape 2026 strategy",
-        "url": "https://www.financialexpress.com/business/news/snowflake-bets-on-indias-ai-surge-for-next-growth-cycle/4188523/",
-        "image": "https://images.financialexpressdigital.com/2026/03/0_AmYXrtpALhMlQcZI.jpg",
-        "publishedAt": "2026-03-29T18:27:34Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "Nasdaq-100 in Correction: Is the AI Trade Over or Just on Pause?",
-        "description": "Another turbulent, headline-driven week ended in the red, extending the losing streak to five straight weeks – the longest such period since May...",
-        "url": "https://markets.businessinsider.com/news/stocks/nasdaq-100-in-correction-is-the-ai-trade-over-or-just-on-pause-1035974270",
-        "image": "https://markets.businessinsider.com/favicon-32x32.png",
-        "publishedAt": "2026-03-29T18:22:53Z",
-        "source": "Markets Insider"
-      },
-      {
-        "title": "US pharma giant Eli Lilly, Insilico Medicine secure deal worth $2.75 billion to bring AI-developed drugs to market",
-        "description": "US pharmaceutical giant Eli Lilly has reached a deal worth $2.75 billion with Insilico Medicine. Under the agreement, Lilly will bring AI-developed drugs to the global market, while Insilico will receive $115 million upfront, with the remainder tied to regulatory approvals and commercial milestones",
-        "url": "https://www.livemint.com/companies/news/us-pharma-giant-eli-lilly-insilico-medicine-secure-deal-worth-2-75-billion-to-bring-ai-developed-drugs-to-market-11774807772029.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/03/29/1600x900/logo/Eli-Lilly-Manufacturing-Expansion-0_1718352446599_1774807948840.jpg",
-        "publishedAt": "2026-03-29T18:18:30Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Powered Propaganda Is Shaping U.S.",
-        "description": "America's battle with Iran is the first real war fought simultaneously on the ground and in competing digital realities with AI and deepfakes.",
-        "url": "https://deadline.com/2026/03/ai-propaganda-shaping-iran-war-1236767715/",
-        "image": "https://deadline.com/wp-content/uploads/2026/03/iran-us-war-yemen-protest.jpg?w=1024",
-        "publishedAt": "2026-03-29T18:11:00Z",
-        "source": "Deadline"
-      },
-      {
-        "title": "The Growing Demand for Production-Ready AI Systems in Enterprises",
-        "description": "With AI being used to change the industry, production-ready systems are bound to be the basis of contemporary digital businesses. Companies that invest in",
-        "url": "https://techbullion.com/the-growing-demand-for-production-ready-ai-systems-in-enterprises/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/03/Screenshot-2026-03-29-231038.png",
-        "publishedAt": "2026-03-29T18:10:59Z",
-        "source": "TechBullion"
       }
     ]
   }
