@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-03-31T10:37:46.923Z",
+  "fetchedAt": "2026-03-31T11:36:05.138Z",
   "sections": {
     "world": [
       {
-        "title": "As Trump touts ‘reasonable’ Iranian negotiators, there’s uncertainty about their decision-making power",
-        "description": "As President Donald Trump’s envoys gear up for another go at diplomacy with Iran, a major question hovers over their efforts: do the officials they’re communicating with have the juice to make a deal?",
-        "url": "https://www.cnn.com/2026/03/30/politics/negotiations-with-iran-trump-us",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-30t030310z-1229608458-rc2pekabqa1y-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-03-30T22:34:56Z",
-        "source": "CNN"
+        "title": "2 youths in Dominican Republic honored for academic achievements",
+        "description": "Two Latter-day Saint young women from the Dominican Republic were recently recognized for their academic achievements.",
+        "url": "https://www.thechurchnews.com/members/2026/03/30/2-latter-day-saint-young-women-dominican-republic-honored-academic-achievements/",
+        "image": "https://www.thechurchnews.com/resizer/v2/BRZCFDWQ2NBOZBJ6642YRBF5BA.jpg?focal=1075%2C268&auth=a94e46013a35d4e49338a3489539dbfb320ae2ada8cb22fa5a6df711c7a8a1ff&width=630&height=331",
+        "publishedAt": "2026-03-30T23:35:35Z",
+        "source": "Church News"
       },
       {
-        "title": "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon",
-        "description": "IDF forces spent 18 years in southern Lebanon and Israelis promised never to get stuck in the Lebanese mud again, but leaders now boast about an indefinite stay in a new buffer zone",
-        "url": "https://www.timesofisrael.com/facing-a-resurgent-hezbollah-israel-slouches-back-to-a-security-zone-in-lebanon/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/146d07e6-bb5c-4d41-a8bb-7935f850726a_0.jpg",
-        "publishedAt": "2026-03-30T22:33:00Z",
-        "source": "The Times of Israel"
+        "title": "Oil tanker ablaze after projectile strike off Dubai coast as new warning issued",
+        "description": "The movement of tankers through the Strait of Hormuz has been a contentious issue since the conflict in the Middle East started more than one month ago, disrupting oil markets",
+        "url": "https://www.mirror.co.uk/news/world-news/oil-tanker-ablaze-after-projectile-36946373",
+        "image": "https://i2-prod.mirror.co.uk/article36868744.ece/ALTERNATES/s1200d/1_APTOPIX-Emirates-Iran-US-Israel-26070639039983.jpg",
+        "publishedAt": "2026-03-30T23:32:00Z",
+        "source": "The Mirror"
       },
       {
-        "title": "Trump threatens to destroy Iran oil hub Kharg Island despite price surge",
-        "description": "US President Donald Trump threatened Monday to destroy Iran’s Kharg Island, a crude oil export hub, with oil wells and power plants unless Tehran quickly...",
-        "url": "https://www.nzherald.co.nz/world/trump-threatens-to-destroy-iran-oil-island-despite-price-surge/QEZAXSQWAFBMBNMUSFTX6GZZDE/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/OM2QPXM2IZFMNJO4XRVWLCVM4E.jpg?auth=ca0951e8bcf89f0baa0b9ffbee02dcf105ad3d384d8711b32fb901c7e222956c&width=1200&height=675&quality=70&focal=510%2C259&smart=false",
-        "publishedAt": "2026-03-30T22:29:33Z",
-        "source": "NZ Herald"
+        "title": "Gulf States pressure Donald Trump to continue war with Iran",
+        "description": "The Gulf States, according to Israeli and Gulf officials, believe that Iran hasn't been weakened enough yet for the regime to stop being a regional threat.",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-891722",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709516",
+        "publishedAt": "2026-03-30T23:29:10Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Controversial law for Palestinian attackers passes despite criticism",
-        "description": "Critics say the change – years in the making – is racist, draconian and written in such a way that hanging will be the default punishment for West Bank Palestinians convicted of nationalistic killings.",
-        "url": "https://www.theage.com.au/world/middle-east/default-sentence-israel-passes-law-to-hang-palestinians-convicted-of-deadly-attacks-20260331-p5zk2q.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2106%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_126%2C$y_0/t_crop_custom/q_86%2Cf_auto/6dc0905fafa0bc29c94aef8b518c8c731ffea729",
-        "publishedAt": "2026-03-30T22:24:11Z",
-        "source": "The Age"
+        "title": "Gulf states urge Trump to intensify Iran war, officials say",
+        "description": "After early complaints over lack of warning and ignored concerns, Gulf allies now see the war as a rare chance to weaken Iran’s leadership and are urging Washington to press ahead with the campaign",
+        "url": "https://www.ynetnews.com/article/hjesrk00sbg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/26/rymko6MjZl/rymko6MjZl_0_0_850_479_0_large.jpg",
+        "publishedAt": "2026-03-30T23:28:40Z",
+        "source": "ynetnews"
       },
       {
-        "title": "Trump eyes Arab nations to fund Iran war amid peace talks with Tehran",
-        "description": "Middle East News: US President Donald Trump is weighing the idea of asking Arab nations to share the financial burden of the war with Iran, the White House said Monday,.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-eyes-arab-nations-to-fund-iran-war-amid-peace-talks-with-tehran/articleshow/129910962.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129912501,width-1280,height-720,imgsize-41822,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-03-30T22:22:00Z",
-        "source": "The Times of India"
+        "title": "Dezi Freeman holding gun belonging to slain officer when he was killed",
+        "description": "It's been revealed a gun pulled by Freeman in his final moments belonged to one of the officers the self-proclaimed sovereign citizen executed last year.",
+        "url": "https://www.1news.co.nz/2026/03/31/dezi-freeman-holding-gun-belonging-to-slain-officer-when-he-was-killed/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/dezi-freeman-victoria-fugitive-alleged-police-shooter-2UWL6HWCIJH23DWLVQIDP7KJJ4.jpg?auth=f4a9299219ac01d4a0ae26969828374c834d1f4df6b73bb70e9b1182be790ab8&quality=70&width=600&height=315&focal=1050%2C456",
+        "publishedAt": "2026-03-30T23:14:53Z",
+        "source": "1News"
       },
       {
-        "title": "40 species, including snowy owl, added to UN list for greater protections",
-        "description": "A week of negotiations has led to 40 species added on a list of protections under the Convention on the Conservation of Migratory Species of Wild Animals, the 15th meeting of countries that are party to a UN treaty signed in 1979.",
-        "url": "https://www.cbc.ca/news/climate/cop15-cms-protected-animals-snowy-owl-hammerhead-9.7147700",
-        "image": "https://i.cbc.ca/ais/46fda797-752d-4eb3-a6f9-001700117677,1774903658160/full/max/0/default.jpg?im=Crop%2Crect%3D%28415%2C1836%2C2953%2C1661%29%3BResize%3D620",
-        "publishedAt": "2026-03-30T22:17:11Z",
-        "source": "CBC"
+        "title": "Cos. Say UK Court Ruling Aids $440M Zimbabwe Award Bid",
+        "description": "Two forestry and sawmill companies along with a Swiss-German family have told a D.C. federal court that a recent decision from Britain's top court rejecting Zimbabwe's sovereign immunity defense in a related case shows that $440 million of arbitral awards can be enforced.",
+        "url": "https://www.law360.com/articles/2457930/cos-say-uk-court-ruling-aids-440m-zimbabwe-award-bid",
+        "image": "https://www.law360.com/images/law360-stacked.png",
+        "publishedAt": "2026-03-30T23:14:00Z",
+        "source": "Law360"
       },
       {
-        "title": "Two More U.N. Peacekeepers Are Killed in Southern Lebanon",
-        "description": "The deaths came a day after the U.N. secretary-general, António Guterres, condemned the killing of another peacekeeper.",
-        "url": "https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html",
-        "image": "https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-peacekeepers-kbtw/30israel-iran-peacekeepers-kbtw-facebookJumbo.jpg",
-        "publishedAt": "2026-03-30T22:04:38Z",
-        "source": "The New York Times"
+        "title": "The ‘Third Front’: China resurrects Mao’s military capabilities",
+        "description": "As ties with Washington sour, China is reviving a cold war strategy to defend against a US attack",
+        "url": "https://www.theguardian.com/world/2026/mar/31/third-front-china-mao-military-factories-defences",
+        "image": "https://i.guim.co.uk/img/media/f2cbea844dac0a0ee7f364aadf395d33c7d37a97/315_0_4932_3948/master/4932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8aad0fc2c8954b5b0af2f3071ec8e51b",
+        "publishedAt": "2026-03-30T23:12:00Z",
+        "source": "theguardian.com"
       },
       {
-        "title": "Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated",
-        "description": "Gulf allies of the United States, led by Saudi Arabia and the United Arab Emirates, are urging President Donald Trump to continue prosecuting the war against Iran, arguing that Tehran hasn’t been weakened enough by the monthlong U.S.-led bombing campaign, according to U.S., Gulf and Israeli officials.",
-        "url": "https://ground.news/article/gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-until-iran-is-decisively-defeated_6df73d",
-        "image": "https://web-api-cdn.ground.news/api/v04/images/story/468676f7-e6be-41ad-9491-e2742074e6a8/webMetaImg?v=1",
-        "publishedAt": "2026-03-30T22:04:35Z",
-        "source": "ground.news"
+        "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
+        "description": "Defence correspondent Jonathan Beale flies onboard an RAF Voyager as it refuels jets in the Middle East.",
+        "url": "https://www.bbc.co.uk/news/articles/cdrmg6x2rgxo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg",
+        "publishedAt": "2026-03-30T23:10:44Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "What 30+ RSAC Meetings Revealed About Where Security Control Is Consolidating",
-        "description": "Mauricio Sanchez analyzes RSAC 2026, outlining implications for vendors and investors as control planes consolidate and data-centric security gains importance.",
-        "url": "https://www.delloro.com/what-30-rsac-meetings-revealed-about-where-security-control-is-consolidating/",
-        "image": "https://www.delloro.com/wp-content/uploads/2026/03/RSAC_2026_Conference_1.png",
-        "publishedAt": "2026-03-30T22:34:28Z",
-        "source": "Dell'Oro Group"
+        "title": "Mortgage holders warned as Westpac forecasts cash rate to hit 18",
+        "description": "Australia faces its highest cash rate since the Global Financial Crisis as one of the big banks predicts aggressive RBA action that could devastate mortgage holders.",
+        "url": "https://www.realestate.com.au/news/mortgage-holders-warned-as-westpac-forecasts-cash-rate-to-hit-18year-high/",
+        "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/03/capi_71ce1e2589503a62b219ba06d173d6b5_06f7602c2aaaf8b6e992a6f0bed106ed.jpeg",
+        "publishedAt": "2026-03-30T23:32:25Z",
+        "source": "realestate.com.au"
       },
       {
-        "title": "Ahmed Shaib breaks ground for personally funded emergency block at Weija-Gbawe Municipal Hospital",
-        "description": "The Member of Parliament for the Weija-Gbawe Constituency, Jerry Ahmed Shaib, has broken ground for the construction of a new emergency block at the Weija-Gbawe Municipal Hospital, popularly known as Akawe Hospital.",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ahmed-Shaib-breaks-ground-for-personally-funded-emergency-block-at-Weija-Gbawe-Municipal-Hospital-2028114",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/160/16039928.jpg",
-        "publishedAt": "2026-03-30T22:34:15Z",
-        "source": "GhanaWeb"
+        "title": "War on Iran a 'bazooka' through government's LNG plan - gentailer CEO",
+        "description": "The Energy Minister is expressing confidence in the government's plans to build a liquefied natural gas terminal, even as concerns mount.",
+        "url": "https://www.rnz.co.nz/news/political/591117/war-on-iran-a-bazooka-through-government-s-lng-plan-gentailer-ceo",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--Ui3sR8O---/t_tohu-badge-facebook/v1774206951/4JRBUHM_Image_1_jfif?_a=BACCd2AD",
+        "publishedAt": "2026-03-30T23:31:20Z",
+        "source": "RNZ"
       },
       {
-        "title": "Who Is Charlotte Jorgensen? All About The 'DWTS' Pro Who Survived The LaGuardia Airport Plane Crash",
-        "description": "Meet Charlotte Jorgensen, the former 'Dancing with the Stars' pro. Currently, she is struggling through the aftermath of the LaGuardia Airport plane crash.",
-        "url": "https://www.bollywoodshaadis.com/articles/who-is-charlotte-jorgensen-all-about-the-dwts-pro-who-survived-the-laguardia-airport-plane-crash-76997",
-        "image": "https://www.bollywoodshaadis.com/img/article-l-20263893592814368000-xl.webp",
-        "publishedAt": "2026-03-30T22:30:29Z",
-        "source": "BollywoodShaadis"
+        "title": "Innovative Food Holdings, Inc. Reports Financial Results for Fourth Quarter and Fiscal Year of 2025",
+        "description": "KeyFiscal Year reported datapoints:",
+        "url": "https://www.manilatimes.net/2026/03/31/tmt-newswire/globenewswire/innovative-food-holdings-inc-reports-financial-results-for-fourth-quarter-and-fiscal-year-of-2025/2310969",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/31/994763.png",
+        "publishedAt": "2026-03-30T23:31:10Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Asian Stocks Set for Losses, Bonds Climb on Powell: Markets Wrap",
-        "description": "(Bloomberg) -- Asian stocks looked set to track US peers lower, extending a selloff driven by fears the war in Iran may escalate. Treasuries advanced after Federal Reserve Chair Jerome Powell downplayed near-term inflation risks from higher energy prices.",
-        "url": "https://www.swissinfo.ch/eng/asian-stocks-set-for-losses%2C-bonds-climb-on-powell%3A-markets-wrap/91184771",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341319",
-        "publishedAt": "2026-03-30T22:25:56Z",
-        "source": "swissinfo.ch"
+        "title": "Chinese coffee brands need more than low prices to compete with global players: analysts",
+        "description": "Luckin, Lucky Cup, Cotti and Nowwa are expanding quickly overseas, but analysts warn success depends on consumer experience and quality.",
+        "url": "https://www.scmp.com/business/china-business/article/3348412/chinese-coffee-brands-need-more-low-prices-compete-global-players-analysts",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/30/89299766-5b37-432a-9d7b-b91ebaa38fec_ae087325.jpg?itok=9qBru1NH&v=1774864895",
+        "publishedAt": "2026-03-30T23:30:09Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Volvo Gives Its European Dealers Something New To Sell Without A Volvo Badge",
-        "description": "Under a new deal, retailers will eventually sell and service Lynk & Co vehicles",
-        "url": "https://www.carscoops.com/2026/03/volvo-lynk-co-europe-sales/",
-        "image": "https://www.carscoops.com/wp-content/uploads/2026/03/Flexibility_for_all_as_Lynk__Co_launches_leasing_as_a_new_mobility_offer-copy-scaled.jpg",
-        "publishedAt": "2026-03-30T22:22:36Z",
-        "source": "Carscoops"
+        "title": "JD.com And Ceconomy Mega Deal Delayed By Austrian Regulators",
+        "description": "A huge deal which would see Europe's biggest electrical retailer become part of China's JD.com are under threat as national regulators have their say on the acquisition.",
+        "url": "https://www.forbes.com/sites/markfaithfull/2026/03/30/jdcom-and-ceconomy-mega-deal-delayed-by-austrian-regulators/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69cabf6dfe67c9cb5543f2e0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-03-30T23:30:00Z",
+        "source": "Forbes"
       },
       {
-        "title": "Solana Company (HSDT) Q4 2025 Earnings Call Transcript",
-        "description": "Solana Company (HSDT) Q4 2025 Earnings Call March 30, 2026 4:30 PM EDTCompany ParticipantsChoon Wee Chee - Executive ChairmanCosmo JiangJeff Mathiesen -...",
-        "url": "https://seekingalpha.com/article/4887245-solana-company-hsdt-q4-2025-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-03-30T22:22:13Z",
-        "source": "seekingalpha.com"
+        "title": "Fair Work Commission abolishes junior pay rates for young adult employees",
+        "description": "The Fair Work Commission has issued its decision to abolish junior pay rates for young adult employees in the retail, fast food, and pharmacy sectors while maintaining them for minors.",
+        "url": "https://www.abc.net.au/news/2026-03-31/fair-work-comission-junior-pay-rates-retail-fast-food/106514948",
+        "image": "https://live-production.wcms.abc-cdn.net.au/81e804477eb27d04f910299dca0cba82?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-03-30T23:29:17Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Peabody Energy plunges after slashing Centurion mine Q1 sales outlook",
-        "description": "Peabody Energy sank after saying it expects Q1 sales volume from its Centurion mine in Australia will come in below expectations, anticipating ~250K tons vs. prior guidance of 700K tons.",
-        "url": "https://seekingalpha.com/news/4570468-peabody-energy-plunges-after-slashing-centurion-mine-q1-sales-outlook",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1185308131/image_1185308131.jpg?io=getty-c-w630",
-        "publishedAt": "2026-03-30T22:21:31Z",
-        "source": "Seeking Alpha"
+        "title": "Coal Is Back - and Japan Is Driving the Rally",
+        "description": "Tokyo is signalling a broader role for coal in the power mix as it seeks a near-term buffer against surging LNG prices and supply uncertainty.",
+        "url": "https://oilprice.com/Energy/Coal/Coal-Is-Back-and-Japan-Is-Driving-the-Rally.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-30_8okvjfuxgr.jpg",
+        "publishedAt": "2026-03-30T23:23:00Z",
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Cruise industry contributes €3.1 bln to Greek economy",
-        "description": "The economic impact of the cruise industry in Greece reached record levels in 2024, confirming its role as a pillar of the national economy.",
-        "url": "https://www.ekathimerini.com/economy/1299639/cruise-industry-contributes-e3-1-bln-to-greek-economy/",
-        "image": "https://www.ekathimerini.com/wp-content/uploads/2016/09/cruise_ships_piraeus_web-thumb-large.jpg",
-        "publishedAt": "2026-03-30T22:21:29Z",
-        "source": "eKathimerini.com"
+        "title": "Moves like Jag? Errr.. Yes, actually. New GT vs XJ and E-Type icons",
+        "description": "We put the new 1000bhp EV up against the most legendary classic Jaguars - with promising results",
+        "url": "https://www.autocar.co.uk/car-news/electric-cars/moves-jag-errr-yes-actually-new-gt-vs-xj-and-e-type-icons",
+        "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-jag_feature.jpg",
+        "publishedAt": "2026-03-30T23:21:17Z",
+        "source": "Autocar"
       }
     ],
     "science": [
+      {
+        "title": "Huge solar flare no threat to Artemis 2 astronaut launch to the moon, NASA says",
+        "description": "NASA's Artemis 2 astronaut mission to the moon is \"go\" for launch on April 1 and won't be affected by a huge solar flare.",
+        "url": "https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says",
+        "image": "https://cdn.mos.cms.futurecdn.net/CJLVCs9bgjuLz4nWjdTW7K-1920-80.jpg",
+        "publishedAt": "2026-03-30T23:31:46Z",
+        "source": "Space"
+      },
+      {
+        "title": "Animals are powerful landscape engineers shaping the Earth's surface, global study finds",
+        "description": "Wild animals are not just inhabitants of the natural world. Many also act as natural landscape engineers, reshaping Earth's surface as they burrow, feed, and build shelters that move soil and sediment across ecosystems. From animals disturbing riverbeds to burrowing species redistributing soil, wildlife constantly modifies the physical structure of landscapes through everyday activities.",
+        "url": "https://phys.org/news/2026-03-animals-powerful-landscape-earth-surface.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/animals-are-powerful-l.jpg",
+        "publishedAt": "2026-03-30T23:20:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Quantum Computing Built An Impossible Molecule - With Big Implications",
+        "description": "An international team of scientists proved the never-before-seen molecule's exotic nature using a quantum computer, potentially ushering in new scientific opportunities.",
+        "url": "https://www.forbes.com/sites/moorinsights/2026/03/30/quantum-computing-built-an-impossible-molecule---with-big-implications/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69cafebfee7a8cf006827259/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-03-30T23:18:34Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "Oldest Carbon-rich Stars Open a Window to Early Cosmic Chemistry",
+        "description": "Astronomers studying the ultra-faint dwarf galaxy Pictor II have found an extremely chemically peculiar star that contains traces of elements created by the first stars in the Universe. It's called PicII-503, a",
+        "url": "https://www.universetoday.com/articles/oldest-carbon-rich-stars-open-a-window-to-early-cosmic-chemistry",
+        "image": "https://www.universetoday.com/article_images/noirlab2607a_20260330_225602.jpg",
+        "publishedAt": "2026-03-30T23:10:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "Live updates: Artemis II countdown begins as 80% ‘Go’ weather forecast holds for Florida",
+        "description": "NASA is targeting an April 1 launch for the historic Artemis II mission, with meteorologists currently tracking an 80% \"Go\" weather forecast at Kennedy Space Center. Follow our live updates for real-time radar, cloud thickness analysis, and the latest countdown status as four astronauts prepare to journey around the Moon.",
+        "url": "https://www.foxweather.com/live-news/live-updates-artemis-ii-countdown-begins-as-80-go-weather-forecast-holds-for-florida",
+        "image": "https://static.foxnews.com/static/orion/styles/img/fox-weather/og/og-fox-weather.png",
+        "publishedAt": "2026-03-30T23:06:29Z",
+        "source": "FOX Weather"
+      },
+      {
+        "title": "Light switch for life: Controlling molecular droplets with UV",
+        "description": "Biomolecular condensates are tiny, droplet-like structures made up of molecules that help organize key processes in living organisms. Because they are so small and constantly changing, it has been difficult for scientists to measure their physical properties or control how they behave. Leiden researchers at the Mashaghi Lab have now discovered a surprising new way to shape and control tiny droplets of molecules found in living organisms. The breakthrough could lead to smarter biomaterials, improve drug delivery and even new insights into the emergence of life on Earth. The work is published in Nature Communications.",
+        "url": "https://phys.org/news/2026-03-life-molecular-droplets-uv.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/light-switch-for-life.jpg",
+        "publishedAt": "2026-03-30T23:00:07Z",
+        "source": "phys.org"
+      },
+      {
+        "title": "Money worries and job dissatisfaction drove Europe's populist boom, research suggests",
+        "description": "While immigration is often blamed for the rise of populism, it was cost of living and male job dissatisfaction that played a major role in the European surge in support for populist politics a decade ago, according to a University of Cambridge social scientist.",
+        "url": "https://phys.org/news/2026-03-money-job-dissatisfaction-drove-europe.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/austria.jpg",
+        "publishedAt": "2026-03-30T23:00:05Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Tasmanian tigers discovered in Indigenous rock art in Australia, suggesting these marsupials lived there much longer than thought",
         "description": "Around 14 new rock-art depictions of thylacines, also known as Tasmanian tigers, have been found in northern Australia.",
@@ -142,128 +198,72 @@
         "image": "https://cdn.mos.cms.futurecdn.net/5hBJcEpKFMamgUfTueHEL7-1920-80.jpg",
         "publishedAt": "2026-03-30T22:35:38Z",
         "source": "Live Science"
-      },
-      {
-        "title": "Coral Reef Science Must Adapt To Have A Chance To Outpace Climate Change",
-        "description": "Scientists call for a major acceleration in coral assisted evolution research to help reefs cope with rapidly warming oceans. The study was led by Dr Adriana Humanes, Newcastle University and Dr Juan Ortiz, Australian Institute of Marine Science (AIMS). It highlights fundamental changes needed to generate knowledge fast enough to make these methods effective. The...",
-        "url": "https://www.eurasiareview.com/31032026-coral-reef-science-must-adapt-to-have-a-chance-to-outpace-climate-change/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2020/02/b-293.jpg",
-        "publishedAt": "2026-03-30T22:21:41Z",
-        "source": "Eurasia Review"
-      },
-      {
-        "title": "Strained liquid crystals steer soliton 'bullets' along two diagonal paths",
-        "description": "In physics, some waves behave in a surprising way: instead of spreading out and fading, they hold their shape as they travel at constant speeds. These unusual waves, called solitons, have interested scientists since they were first observed in canals in the 19th century. Today, researchers study solitons in everything from optical fibers to biological systems.",
-        "url": "https://phys.org/news/2026-03-strained-liquid-crystals-soliton-bullets.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/tiny-waves-of-energy-s.jpg",
-        "publishedAt": "2026-03-30T22:20:07Z",
-        "source": "phys.org"
-      },
-      {
-        "title": "Ancient Fossils from Southern China Reveal Startling New Clues About Life’s Origins",
-        "description": "A new study debunks previous claims that ancient embryo-like fossils from China are remnants of early animal life, revealing they belong to an entirely different class of organisms.",
-        "url": "https://indiandefencereview.com/ancient-fossils-china-lifes-origins/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/ancient-fossils-from-southern-china-reveal-startling-new-clues-about-lifes-origins-scaled.png",
-        "publishedAt": "2026-03-30T22:15:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "Edmonton space enthusiast at historic Artemis II launch: ‘Truly incredible’",
-        "description": "Zachary Aubert of 'The Launch Pad' is amongst the hundreds of bloggers and journalists gathered in Florida to cover the launch of the Artemis II mission at Kennedy Space Center.",
-        "url": "https://globalnews.ca/news/11751963/edmonton-zachary-aubert-artemis-ii-launch/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/03/Zachary-Aubert.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-03-30T22:10:48Z",
-        "source": "globalnews.ca"
-      },
-      {
-        "title": "100 Million Years Ago, An ‘Evolutionary Fuse’ Was Lit In Deep Ocean, Sparking Squid Diversification",
-        "description": "From color-changing skin to jet-propelled motion, squid and cuttlefish have long fascinated scientists. To understand the origins of their unique characteristics, many attempts have been made to define their evolutionary history. However, the limited fossil record and incomplete genomic information have made it impossible to confidently order the evolution of these enigmatic creatures, until now....",
-        "url": "https://www.eurasiareview.com/31032026-100-million-years-ago-an-evolutionary-fuse-was-lit-in-deep-ocean-sparking-squid-diversification/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/03/a-193.jpeg",
-        "publishedAt": "2026-03-30T22:09:56Z",
-        "source": "Eurasia Review"
-      },
-      {
-        "title": "Starlink satellite goes dark at 560 km above Earth, no threat to NASA's Artemis II, says SpaceX",
-        "description": "The reassurance from SpaceX comes just days before the planned April 1 launch of Artemis II, NASA’s first crewed mission to the Moon in decades. | World News",
-        "url": "https://www.hindustantimes.com/world-news/starlink-satellite-goes-dark-at-560-km-no-threat-to-nasas-artemis-ii-says-spacex-101774907369817.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/30/550x309/US-ECONOMY-TECHNOLOGY-SPACEX-6_1774908067742_1774908078249.jpg",
-        "publishedAt": "2026-03-30T22:02:02Z",
-        "source": "hindustantimes.com"
-      },
-      {
-        "title": "How plants could betray themselves across the galaxy",
-        "description": "Here's a thought experiment. Imagine looking at Earth from a distant star system, armed with a powerful telescope capable of capturing its reflected light. Could you tell the planet was alive? The answer, remarkably, might be yes and the clue would come from the color of the plants.",
-        "url": "https://phys.org/news/2026-03-betray-galaxy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/how-plants-could-betra.jpg",
-        "publishedAt": "2026-03-30T22:00:01Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "TSRI unveils advanced AI disaster warning system",
-        "description": "Thailand Science Research and Innovation (TSRI) has launched its first AI-powered natural disaster warning platform, aiming to reduce risks to lives and limit economic losses by strengthening forecasting capabilities.",
-        "url": "https://www.bangkokpost.com/thailand/general/3227479/tsri-unveils-advanced-ai-disaster-warning-system",
-        "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-        "publishedAt": "2026-03-30T22:36:00Z",
-        "source": "Bangkok Post"
+        "title": "Big Tech Faces Financial Pressure Amid AI Investment Boom",
+        "description": "As high market-based interest rates surge due to Middle East conflicts and resultant energy shocks, U.S. tech firms are facing rising borrowing costs amidst their significant AI investments. Predicted to spend over 2% of GDP this year on AI infrastructure, tech companies are increasingly relying on credit markets to fund this unprecedented capex surge.",
+        "url": "https://www.devdiscourse.com/article/business/3856438-big-tech-faces-financial-pressure-amid-ai-investment-boom",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/01_07_2025_08_54_53_5676912.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-30T23:32:57Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "10 Best Image to Video AI Free Tools in 2026: Tested & Ranked",
-        "description": "If you’re searching for the best image to video AI free tools, you’re not alone. In 2026, AI video generation has exploded — and tools that turn a single image into a dynamic video […]",
-        "url": "https://signalscv.com/2026/03/10-best-image-to-video-ai-free-tools-in-2026-tested-ranked/",
-        "image": "https://signalscv.com/wp-content/uploads/2026/03/image-87-800x436.png",
-        "publishedAt": "2026-03-30T22:28:51Z",
-        "source": "Santa Clarita Valley Signal"
+        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Big Tech Faces Financial Pressure Amid AI Investment Boom",
+        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
+        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
+        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
+        "publishedAt": "2026-03-30T23:32:57Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "The Ancient Chinese Game That Led to the AI Boom",
-        "description": "Ten years ago, AlphaGo trounced human competitors—and its legacy is still present in today’s most advanced bots.",
-        "url": "https://www.theatlantic.com/technology/2026/03/alphago-ai-boom/686618/",
-        "image": "https://cdn.theatlantic.com/thumbor/RzZzns9Ps7q0kTAC8FRtbcKms9M=/0x43:2000x1085/1200x625/media/img/mt/2026/03/2026_03_27_AI2_mpg/original.jpg",
-        "publishedAt": "2026-03-30T22:27:37Z",
-        "source": "The Atlantic"
+        "title": "Meta Platforms Just Made Entergy a Top Stock to Buy... and It Pays a 2.49% Dividend",
+        "description": "Meta’s decision to fully fund seven new natural gas plants, 240 miles of 500 kV transmission, batteries, and up to 2.5 GW of solar to power its giant Louisiana AI data center effectively gives Entergy a multi‑decade growth runway with limited bill pr...",
+        "url": "https://www.barchart.com/story/news/1051557/meta-platforms-just-made-entergy-a-top-stock-to-buy-and-it-pays-a-2-49-dividend",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dividends/Glass%20jar%20with%20the%20word%20Dividend%20by%20Andrii%20Yalanskyi%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-03-30T23:30:03Z",
+        "source": "Barchart"
       },
       {
-        "title": "FTI Consulting Expands Data Privacy, AI Governance Expertise in Australia",
-        "description": "SYDNEY, March 30, 2026 (GLOBE NEWSWIRE) -- FTI Consulting, Inc. (NYSE: FCN) today announced the appointment of Kelly Henney as a Senior Managing Director and Australia Leader of the Information Governance, Privacy & Security practice within the firm’s Technology segment.",
-        "url": "https://www.manilatimes.net/2026/03/31/tmt-newswire/globenewswire/fti-consulting-expands-data-privacy-ai-governance-expertise-in-australia/2310959",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/31/994750.png",
-        "publishedAt": "2026-03-30T22:10:48Z",
-        "source": "The Manila Times"
+        "title": "Amazon launches new education initiatives to support Aussie teachers and students thrive in a digital future",
+        "description": "New research reveals 96% of teachers would take part in free AI training, but only 32% of teachers have access to approved tools they can use in the c...",
+        "url": "https://itwire.com/it-people-news/education/amazon-launches-new-education-initiatives-to-support-aussie-teachers-and-students-thrive-in-a-digital-future.html",
+        "image": "https://itwire.com/media/k2/items/cache/224555e546c51a389cf32c6902ef05ed_XS.jpg",
+        "publishedAt": "2026-03-30T23:18:11Z",
+        "source": "iTWire"
       },
       {
-        "title": "Don't Get Too Attached to Any AI App",
-        "description": "Compute is a finite resource.",
-        "url": "https://gizmodo.com/dont-get-too-attached-to-any-ai-app-2000739907",
-        "image": "https://gizmodo.com/app/uploads/2025/11/sora-1200x675.jpg",
-        "publishedAt": "2026-03-30T22:10:36Z",
-        "source": "Gizmodo"
+        "title": "AI may be used to park cars and trace violators in Bengaluru",
+        "description": "Bengaluru: An AI-enabled paid parking system is proposed to be rolled out in key areas of the city, with Greater Bengaluru Authority (GBA) preparing t.",
+        "url": "https://timesofindia.indiatimes.com/city/bengaluru/ai-may-be-used-to-park-cars-and-trace-violators-in-bengaluru/articleshow/129910440.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117518778,width-1280,height-720,imgsize-96500,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-30T23:09:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Top Startup and Tech Funding News - March 30, 2025",
-        "description": "It’s Monday, March 30, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a clear shift toward infrastructure-first investing, with capital pouring into AI chips, space-based computing, cloud efficiency, and identity security. From orbiting data centers to tokenized finance platforms, investors are backing systems designed to support the next",
-        "url": "https://techstartups.com/2026/03/30/top-startup-and-tech-funding-news-march-30-2025/",
-        "image": "https://techstartups.com/wp-content/uploads/2026/03/Midas-Team.jpg",
-        "publishedAt": "2026-03-30T22:07:48Z",
-        "source": "TechStartups.com"
+        "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+        "description": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+        "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
+        "publishedAt": "2026-03-30T23:08:12Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Google Maps extends very useful feature to more vehicles using Android Auto",
-        "description": "EV owners can plan their long driving journeys better with Google Maps' AI-powered charging features.",
-        "url": "https://www.phonearena.com/news/more-vehicles-support-google-maps-ev-charging-features_id179284",
-        "image": "https://m-cdn.phonearena.com/images/article/179284-wide-two_1200/Google-Maps-extends-very-useful-feature-to-more-vehicles-using-Android-Auto.jpg",
-        "publishedAt": "2026-03-30T22:06:54Z",
-        "source": "PhoneArena"
+        "title": "AI race enters a new phase",
+        "description": "A new frontier is shaping up for companies that want to make money with artificial intelligence.",
+        "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108284576-1774851674022-gettyimages-2259191292-vcg111618332056.jpeg?v=1774851733&w=1920&h=1080",
+        "publishedAt": "2026-03-30T23:03:38Z",
+        "source": "CNBC"
       },
       {
-        "title": "Target has a warning if you use Google's AI to shop",
-        "description": "Target changed its terms and conditions ahead of a Google Gemini integration. It signals that customers should look closely at what they buy via AI.",
-        "url": "https://www.businessinsider.com/targets-google-gemini-ai-shop-terms-update-2026-3",
-        "image": "https://i.insider.com/69ca81928373a547629c78b4?width=1200&format=jpeg",
-        "publishedAt": "2026-03-30T21:57:51Z",
-        "source": "Business Insider"
+        "title": "Google Maps Can Now Plan EV Road Trips With Charging Stops via Android Auto",
+        "description": "Electric cars from 16 automakers in the US will be able to plan long routes with AI-powered charging suggestions.",
+        "url": "https://www.cnet.com/home/electric-vehicles/google-maps-android-auto-ev-roadrip-charge-plan-update/",
+        "image": "https://www.cnet.com/a/img/resize/3b34bedc73b7c6b9790875627126a63729a0275a/hub/2025/08/20/94bd644a-5a34-44f0-a264-83c3e127e154/screenshot-2025-08-20-at-10-16-14am.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-30T22:59:45Z",
+        "source": "CNET"
       }
     ]
   }
