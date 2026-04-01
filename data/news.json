@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-01T17:36:23.239Z",
+  "fetchedAt": "2026-04-01T18:37:39.809Z",
   "sections": {
     "world": [
       {
-        "title": "American A-10 tank buster aircraft arrive at RAF Lakenheath",
-        "description": "A stream of the ground attack aircraft have been spotted landing at the USAF base in Suffolk.",
-        "url": "https://www.bbc.co.uk/news/articles/crl1jnk01g4o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98a3/live/fef0dd60-2d39-11f1-8c7a-d7713554a96a.jpg",
-        "publishedAt": "2026-04-01T05:36:06Z",
-        "source": "BBC"
+        "title": "Drone attack targets Kuwait airport, fuel tanks on fire",
+        "description": "Middle East crisis: US President Donald Trump to address the nation on Iran conflict as Israeli strikes in Beirut kill seven. Israeli military says Hezbollah commander targeted, tensions rise across Lebanon, Tehran and wider region..",
+        "url": "https://www.deccanherald.com/world/middle-east/iran-us-israel-war-live-updates-breaking-news-israeli-military-benjamin-netanyahu-donald-trump-whte-house-tehran-hezbollah-lebanon-lpg-fuel-crisis-beirut-middle-east-strait-of-hormuz-3951693",
+        "image": "https://media.assettype.com/deccanherald%2F2026-03-14%2Fu7petdeh%2F2025newsmlRC2AOGAKNIPL1477766461.jpeg?rect=0%2C0%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2026-04-01T06:34:10Z",
+        "source": "Deccan Herald"
       },
       {
-        "title": "‘American President’s Trail’ among Irish initiatives to mark 250th anniversary of United States",
-        "description": "Cabinet will today be briefed on a programme to mark the 250th anniversary of the signing of the Declaration of Independence on 4 July.",
-        "url": "https://www.thejournal.ie/american-presidents-trail-among-irish-initiatives-to-mark-250th-anniversary-of-us-7000163-Apr2026/",
-        "image": "https://img2.thejournal.ie/article/7000163/river/?height=400&version=7000186",
-        "publishedAt": "2026-04-01T05:31:00Z",
-        "source": "The Journal"
+        "title": "SMEs may Turn Back on Apprenticeships, Economic 'Shock and War' Disrupts Skills Provision",
+        "description": "SMEs may Turn Back on Apprenticeships, Economic 'Shock and War' Disrupts Skills Provision",
+        "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/smes-may-turn-back-on-apprenticeships-economic-shock-and-war-disrupts-skills-provision/2312254",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/01/997022.jpg",
+        "publishedAt": "2026-04-01T06:25:00Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "CMA CGM announces Peak Season Surcharges (PSS) for key trade lanes",
-        "description": "CMA CGM Group has announced new Peak Season Surcharges (PSS) for selected trade lanes to ensure reliable and efficient service.",
-        "url": "https://container-news.com/cma-cgm-announces-peak-season-surcharges-pss-for-key-trade-lanes/",
-        "image": "https://container-news.com/wp-content/uploads/2025/11/1.jpg",
-        "publishedAt": "2026-04-01T05:30:54Z",
-        "source": "Container News"
-      },
-      {
-        "title": "Zoo welcomes 'vulnerable' giant anteater pup",
-        "description": "The anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
-        "url": "https://www.bbc.com/news/articles/cz780wx5eveo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3e1e/live/9604bc30-2d12-11f1-b297-95b0a0a8331e.jpg",
-        "publishedAt": "2026-04-01T05:26:08Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps",
-        "description": "Hundreds of thousands of Rohingya refugees struggling to survive in Bangladesh's overcrowded camps will see their food assistance slashed starting on Wednesday, raising alarm throughout the increasingly desperate community.",
-        "url": "https://www.npr.org/2026/04/01/nx-s1-5769798/food-assistance-slashed-rohingya-refugees-bangladesh-camps",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3686x2073+0+201/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Ffd%2Fd4737d244484aa6e721a123e6681%2Fap26091094245174.jpg",
-        "publishedAt": "2026-04-01T05:24:16Z",
-        "source": "NPR"
-      },
-      {
-        "title": "Egypt’s engineering exports surge 37.6% in February to record high",
-        "description": "The surge underscores the growing global competitiveness of Egyptian industry despite persistent economic headwinds worldwide",
-        "url": "https://www.zawya.com/en/projects/industry/egypts-engineering-exports-surge-376-in-february-to-record-high-ogcdv3mo",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/image.180531115305SHSZ/52/180531115305shsz-jpg.jpeg?f=3%3A2",
-        "publishedAt": "2026-04-01T05:21:57Z",
-        "source": "ZAWYA"
-      },
-      {
-        "title": "What is the Greater Israel project and why the scare amid Iran war?",
-        "description": "Middle East War news: Israel's ground offensive in southern Lebanon against Iran's proxy Hezbollah has sparked allegations that the Jewish nation is working on its Greater Israel project. What is the origin of the Greater Israel plan, and why is there a concern over it?",
-        "url": "https://www.indiatoday.in/world/story/middle-east-war-news-greater-israel-project-us-iran-war-offensive-into-southern-lebanon-benjamin-netanyahu-2889730-2026-04-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/concerns-of-jerusalem-enacting-a-greater-israel-project-grow-with-continued-ground-operations-in-sou-311449117-16x9_0.png?VersionId=BlCfKCukW6LYNgTNyjgahX.ZdJh3FYba",
-        "publishedAt": "2026-04-01T05:17:39Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Kenya: Police Intensify Security, Traffic Crackdown Ahead of Easter Holidays",
-        "description": "The National Police Service (NPS) has intensified security operations and traffic enforcement measures across the country as schools close and the country prepares for the upcoming Easter holidays.",
-        "url": "https://allafrica.com/stories/202604010030.html",
+        "title": "South Africa: Border Officials Prepare for Thousands of People This Easter",
+        "description": "Border Management Authority boss Michael Masiapato says extra officers will work at busy airports and borders to help the crowds. Police and social workers will use drones and body cameras to stop crime and corruption as thousands of people travel.",
+        "url": "https://allafrica.com/stories/202604010111.html",
         "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-        "publishedAt": "2026-04-01T05:15:00Z",
+        "publishedAt": "2026-04-01T06:24:48Z",
         "source": "allAfrica.com"
+      },
+      {
+        "title": "Kenya steps up livestock disease detection to protect farmers and public health",
+        "description": "Livestock diseases continue to pose a significant threat to farmers’ livelihoods, food security and public health in Kenya. Diseases such as Foot-and-Mouth, Peste des Petits Ruminants (PPR), and parasitic infections reduce productivity, limit market access, and in some cases spread from animals to humans, causing zoonotic outbreaks. Yet many small-scale livestock producers and pastoralist farmers […]",
+        "url": "https://farmersreviewafrica.com/kenya-steps-up-livestock-disease-detection-to-protect-farmers-and-public-health/",
+        "image": "https://farmersreviewafrica.com/wp-content/uploads/2026/04/IMG-20260331-WA0112.jpg",
+        "publishedAt": "2026-04-01T06:24:14Z",
+        "source": "Farmers Review Africa"
+      },
+      {
+        "title": "Stanford University wins battle to keep diaries of Mao Zedong's secretary",
+        "description": "Stanford said the papers, which mentioned the Tiananmen Massacre, would be banned if returned to Beijing.",
+        "url": "https://www.bbc.co.uk/news/articles/czxry0nyq5xo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dff/live/d9bf7d40-2d8d-11f1-a2af-63993b06e47b.jpg",
+        "publishedAt": "2026-04-01T06:22:00Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Global Price Watch February 2026 Prices (March 31, 2026)",
+        "description": "Situation Report in English on World about Agriculture and Food and Nutrition; published on 31 Mar 2026 by FEWS NET",
+        "url": "https://reliefweb.int/report/world/global-price-watch-february-2026-prices-march-31-2026",
+        "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e3/74/e3746bf5-0a8a-4d6e-999c-adbec760c73e.png",
+        "publishedAt": "2026-04-01T06:21:04Z",
+        "source": "ReliefWeb"
+      },
+      {
+        "title": "Donald Trump says US could withdraw from Iran ‘whether we have a deal or not’",
+        "description": "US president signals growing impatience with a war that has sent energy prices spiralling",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/04/01/donald-trump-says-us-could-withdraw-from-iran-whether-we-have-a-deal-or-not/",
+        "image": "https://www.irishtimes.com/resizer/v2/GTF45TZ7N7NZE4HI6QKBDMHNRE.jpg?smart=true&auth=9327ba54448d99ac42bb52cf6ee58cc7c9b654244e982f39a3c67d6e43659c97&width=1200&height=630",
+        "publishedAt": "2026-04-01T06:19:04Z",
+        "source": "The Irish Times"
+      },
+      {
+        "title": "Aviation and maritime fee exemptions proposed until end-2026",
+        "description": "The Ministry of Finance has proposed exempting a range of fees and charges in the aviation and maritime sectors from April 1 until the end of 2026.",
+        "url": "https://vir.com.vn/aviation-and-maritime-fee-exemptions-proposed-until-end-2026-149728.html",
+        "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/01/10/in_social/photo-1724085264427-1724085264643113857003420250105090324504177020260401102505.jpg?randTime=1775039469",
+        "publishedAt": "2026-04-01T06:16:49Z",
+        "source": "Vietnam Investment Review - VIR"
       }
     ],
     "business": [
       {
-        "title": "Business sentiment improves in Tankan survey",
-        "description": "The positive sentiment may not fully capture the impact from the Iran war, analysts said, as Japan's Tankan survey period ended in March.",
-        "url": "https://www.cnbc.com/2026/04/01/japan-business-sentiment-improves-in-tankan-survey.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/107247756-1685410358793-gettyimages-1490621005-20221119__bot8525.jpeg?v=1775018942&w=1920&h=1080",
-        "publishedAt": "2026-04-01T05:36:00Z",
-        "source": "CNBC"
+        "title": "India news: Jet fuel prices reach record high amid Iran war",
+        "description": "The Indian government has stepped in to limit the impact of record-high jet fuel prices on airlines and air fares. Commercial LPG cylinders have also gotten more expensive. Follow DW.",
+        "url": "https://uk.news.yahoo.com/india-news-jet-fuel-prices-063700167.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/y2HWda6sOeb9yiOLouVyFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/deutsche_welle_articles_124/cf3ac7decef746a45768468bbe8756c2",
+        "publishedAt": "2026-04-01T06:37:00Z",
+        "source": "Yahoo News UK"
       },
       {
-        "title": "A Look At Dime Community Bancshares (DCOM) Valuation As Analyst Coverage And Dividend Support Investor Interest",
-        "description": "Dime Community Bancshares (DCOM) is back on dividend watch, with the bank’s board declaring a quarterly cash payout of $0.25 per share and highlighting an uninterrupted dividend record that income focused investors often track closely.\nSee our latest analysis for Dime Community Bancshares.\nThe reaffirmed dividend comes as Dime Community Bancshares’ share price sits at $33.82, with a 90 day share price return of 12.4% and a 1 year total shareholder return of 22.4%, suggesting momentum has been...",
-        "url": "https://simplywall.st/stocks/us/banks/nasdaq-dcom/dime-community-bancshares/news/a-look-at-dime-community-bancshares-dcom-valuation-as-analys-1",
-        "image": "https://images.simplywall.st/asset/industry/7013000-choice1-main-header/1585186561056",
-        "publishedAt": "2026-04-01T05:35:53Z",
-        "source": "simplywall.st"
+        "title": "Years after devastating floods, residents watch as former homes demolished",
+        "description": "Former residents of an Ipswich unit complex repeatedly damaged by floods have watched as the buildings are destroyed for good.",
+        "url": "https://www.abc.net.au/news/2026-04-01/ipswich-flood-demolition-brings-mixed-emotions/106521194",
+        "image": "https://live-production.wcms.abc-cdn.net.au/dbfe91bf9321a2189bdcb3bb1eeb935f?impolicy=wcms_watermark_news&cropH=2214&cropW=3936&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-01T06:36:04Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "A Look At Steven Madden (SHOO) Valuation After Mixed Recent Share Price Returns",
-        "description": "Steven Madden (SHOO) has drawn investor attention after recent trading left the shares with a one-month return of a 6.0% decline and a three-month move of an 18.5% decline, despite a one-year total return of 26.96%.\nSee our latest analysis for Steven Madden.\nThe recent 1-day share price return of 4.08% and 7-day share price return of 1.34% sit against weaker 30 and 90 day share price returns, suggesting short term momentum is stabilising after a softer patch. The 1 year total shareholder...",
-        "url": "https://simplywall.st/stocks/us/consumer-durables/nasdaq-shoo/steven-madden/news/a-look-at-steven-madden-shoo-valuation-after-mixed-recent-sh",
-        "image": "https://images.simplywall.st/asset/industry/4132000-choice2-main-header/1585187584767",
-        "publishedAt": "2026-04-01T05:35:39Z",
-        "source": "simplywall.st"
+        "title": "Gardai called over Aer Lingus pilot hunger strike threat",
+        "description": "Gardaí were called to Aer Lingus's headquarters when a pilot declared at a meeting with human resources that he was going on hunger strike unless the airline agreed to make disclosures to staff about alleged toxic fume incidents on its jets and to make payments to him worth €3 million.",
+        "url": "https://www.rte.ie/news/business/2026/0401/1566207-gardai-called-over-aer-lingus-pilot-hunger-strike-threat/",
+        "image": "https://www.rte.ie/images/00207ada-1600.jpg",
+        "publishedAt": "2026-04-01T06:34:59Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Athena AI Launch Could Be A Game Changer For Zeta Global Holdings (ZETA)",
-        "description": "In March 2026, Zeta Global announced the general availability of Athena by Zeta™, an AI-powered superintelligent agent that turns enterprise marketing data into predictive, conversational insights and execution within the Zeta Marketing Platform.\nAthena’s ability to compress days-long segmentation and weeks-long campaign workflows into minutes and hours, while tying recommendations to financial outcomes, could materially change how marketers plan, optimize, and justify their spend.\nNext,...",
-        "url": "https://simplywall.st/stocks/us/software/nyse-zeta/zeta-global-holdings/news/athena-ai-launch-could-be-a-game-changer-for-zeta-global-hol",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
-        "publishedAt": "2026-04-01T05:35:24Z",
-        "source": "simplywall.st"
+        "title": "KKR to Take Chip Materials Maker Taiyo Private",
+        "description": "Tokyo, April 1 (Jiji Press)--U.S. investment fund KKR will spend around 500 billion yen to take Taiyo Holdings…",
+        "url": "https://www.nippon.com/en/news/yjj2026040100427/kkr-to-take-chip-materials-maker-taiyo-private.html",
+        "image": "https://www.nippon.com/en/ncommon/contents/category_thumbnails/21/1448659/1448659.jpg",
+        "publishedAt": "2026-04-01T06:34:37Z",
+        "source": "nippon.com"
       },
       {
-        "title": "DeFi Development (DFDV) Swings To US$144.5 Million Quarterly Loss Challenging Bullish Narratives",
-        "description": "DeFi Development (DFDV) just wrapped up FY 2025 with Q4 total revenue of US$4.5 million and a basic EPS loss of US$5.48, while trailing twelve month revenue sat at US$11.4 million against a basic EPS loss of US$4.00. Over the past six reported quarters, the company has seen quarterly revenue move from US$0.62 million in Q4 2024 to US$4.5 million in Q4 2025, with EPS swinging between a loss of US$0.05 and a profit of US$2.41 before landing back in loss-making territory. This leaves investors...",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-dfdv/defi-development/news/defi-development-dfdv-swings-to-us1445-million-quarterly-los",
-        "image": "https://images.simplywall.st/asset/industry/7121000-choice2-main-header/1585186688507",
-        "publishedAt": "2026-04-01T05:35:20Z",
-        "source": "simplywall.st"
+        "title": "Indigo: Former British Airways boss William Walsh named CEO of Indian carrier",
+        "description": "The announcement comes days after former CEO Pieter Elbers quit in the backdrop of a flight cancellation crisis.",
+        "url": "https://www.bbc.co.uk/news/articles/cz6739j210qo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9685/live/29bf05f0-2d7e-11f1-bc01-5fa7ea714ce7.jpg",
+        "publishedAt": "2026-04-01T06:33:08Z",
+        "source": "BBC"
       },
       {
-        "title": "Iran Conflict Puts Helium And Growth Expectations At Risk For Applied Materials",
-        "description": "Rising conflict involving Iran is increasing concern about potential disruptions in key semiconductor inputs, especially helium used in chip fabrication.\nAny interruption to helium flows could affect production schedules and costs across the global chip supply chain.\nApplied Materials (NasdaqGS:AMAT), a major supplier of semiconductor equipment, is exposed to these risks through its customers and its own operations.\nApplied Materials enters this new geopolitical risk phase after a sharp...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amat/applied-materials/news/iran-conflict-puts-helium-and-growth-expectations-at-risk-fo",
-        "image": "https://images.simplywall.st/asset/company-cover/251230-main-header/1756208587743",
-        "publishedAt": "2026-04-01T05:34:51Z",
-        "source": "simplywall.st"
+        "title": "Former British Airways boss William Walsh named CEO of Indian carrier",
+        "description": "The announcement comes days after former CEO Pieter Elbers quit in the backdrop of a flight cancellation crisis.",
+        "url": "https://www.bbc.com/news/articles/cz6739j210qo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9685/live/29bf05f0-2d7e-11f1-bc01-5fa7ea714ce7.jpg",
+        "publishedAt": "2026-04-01T06:33:08Z",
+        "source": "BBC"
       },
       {
-        "title": "Hanwha Qcells expands US reach with solar sales to homebuilders",
-        "description": "Hanwha Solutions said Tuesday that its Qcells division has launched Qcells New Homes, a unit that will supply solar panels and battery storage dire...",
-        "url": "https://www.koreatimes.co.kr/business/companies/20260401/hanwha-qcells-expands-us-reach-with-solar-sales-to-homebuilders",
-        "image": "https://newsimg.koreatimes.co.kr/2026/04/01/4a83272f-5dbe-47d3-8018-193eb9eda30c.jpg",
-        "publishedAt": "2026-04-01T05:34:03Z",
-        "source": "The Korea Times"
+        "title": "Nigeria marks historic milestone with first 950,000-barrel Cawthorne crude export to India",
+        "description": "Nigeria has shipped its first-ever cargo of Cawthorne crude, a 950,000-barrel consignment loaded from the newly commissioned FSO Cawthorne vessel and bound for India’s Sikka port, which feeds major refining hubs including Reliance’s Jamnagar complex. | Business Insider Africa",
+        "url": "https://africa.businessinsider.com/local/markets/nigeria-marks-historic-milestone-with-first-950000-barrel-cawthorne-crude-export-to/d74cy30",
+        "image": "https://ocdn.eu/pulscms-transforms/1/dV_ktkpTURBXy9mZDE2N2I4ZjUyNzMxZWM0Y2I0OGZmNmNlYzkwZjEyYi5qcGeSlQMAzJPNEpLNCnKTBc0EsM0Cdg",
+        "publishedAt": "2026-04-01T06:32:46Z",
+        "source": "Business Insider Africa"
       },
       {
-        "title": "From Hyundai Mobilet To BMW: April Fool Car Pranks That Broke The Internet",
-        "description": "From Hyundai's Mobilet to BMW's hair illusion, these five hilarious April Fools' car pranks perfectly mixed creativity, humor and believability to fool enthusiasts worldwide.",
-        "url": "https://www.ndtv.com/auto/from-hyundai-mobilet-to-bmw-april-fool-car-pranks-that-broke-the-internet-11291872",
-        "image": "https://c.ndtvimg.com/2026-03/4dvni5j4_april-fool_625x300_31_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=800",
-        "publishedAt": "2026-04-01T05:33:01Z",
-        "source": "NDTV"
+        "title": "Stocks Surge on Optimism Over Iran War, Bonds Gain: Markets Wrap",
+        "description": "(Bloomberg) -- Asian stocks jumped the most in a year and bonds extended gains on optimism the Middle East conflict that jolted global markets and disrupted energy supplies may be nearing a conclusion.",
+        "url": "https://www.swissinfo.ch/eng/stocks-surge-on-optimism-over-iran-war%2C-bonds-gain%3A-markets-wrap/91191729",
+        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341319",
+        "publishedAt": "2026-04-01T06:32:19Z",
+        "source": "SWI swissinfo.ch"
       }
     ],
     "science": [
+      {
+        "title": "Scientists Discover 'Life in a Glass Castle' and Dozens of New Species During Japan Deep-Sea Expedition",
+        "description": "PR Newswire | TOKYO, April 1, 2026 /PRNewswire/ -- A major internati",
+        "url": "https://macaubusiness.com/scientists-discover-life-in-a-glass-castle-and-dozens-of-new-species-during-japan-deep-sea-expedition/",
+        "image": "https://macaubusiness.com/favicon.ico",
+        "publishedAt": "2026-04-01T06:35:17Z",
+        "source": "macaubusiness.com"
+      },
+      {
+        "title": "Did the Big Bang happen differently? New theory challenges origin of Universe",
+        "description": "Scientists from the University of Waterloo and the Perimeter institute have discovered a new cosmological model, challenging the traditional understanding of the Big Bang origin.\nThe new study...",
+        "url": "https://www.thenews.com.pk/latest/1397341-did-the-big-bang-happen-differently-new-theory-challenges-origin-of-universe",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-01/1397341_111936_updates.jpg",
+        "publishedAt": "2026-04-01T06:19:00Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Southern Launch to support tracking of NASA’s Artemis II mission from Koonibba Test Range",
+        "description": "Southern Launch says it has been selected to support tracking of NASA’s Artemis II Orion mission from South Australia, using passive Doppler tracking infrastructure at the Koonibba Test Range.",
+        "url": "https://spaceanddefense.io/southern-launch-to-support-tracking-of-nasas-artemis-ii-mission-from-koonibba-test-range/",
+        "image": "https://spaceanddefense.io/wp-content/smush-webp/2021/02/Space-and-Defence-Favicon.png.webp",
+        "publishedAt": "2026-04-01T06:09:56Z",
+        "source": "space & defense"
+      },
+      {
+        "title": "The flimsy case for evolving dark energy",
+        "description": "Is dark energy evolving with at least 99.99% confidence? Despite the quality of recent data, scientists have every reason to be skeptical.",
+        "url": "https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/",
+        "image": "https://bigthink.com/wp-content/uploads/2026/01/noirlab2408c.jpg?resize=1100,630",
+        "publishedAt": "2026-04-01T06:00:00Z",
+        "source": "Big Think"
+      },
+      {
+        "title": "NASA set to launch historic Artemis 2 mission with diverse crew to the Moon",
+        "description": "With Artemis 2, the stage is set for a dramatic revival of human space exploration. Will it spark a new wave of interest and inquiry that compels generations to stare up at the stars with renewed wonder? Only time will tell, but the countdown has begun.",
+        "url": "https://thepost.co.za/news/2026-04-01-nasa-set-to-launch-historic-artemis-2-mission-with-diverse-crew-to-the-moon/",
+        "image": "https://iol-prod.appspot.com/image/67a21ec755c9d70d8094e8e8e2b2e289c9865960/639/jpeg",
+        "publishedAt": "2026-04-01T05:50:04Z",
+        "source": "thepost.co.za"
+      },
       {
         "title": "Dynamics of the water-plasma interface in various discharge modes of atmospheric-pressure plasmas",
         "description": "This paper presents an experimental study of the dynamics of the water-plasma interface during the interaction high-voltage (HV) atmospheric pressure discharge with the water surface. Under the influence of the voltage applied to the pin type electrode, discharges are formed at the air layer between the sharp-tip HV electrode and deionized water. Three discharge regimes were identified from synchronized electrical waveforms and imaging: (i) a weak linear regime at 3–10.6 kV, (ii) a branching streamer regime at the maximum applied voltage of 12.6 kV, and (iii) a continuous arc-like regime occurring during the transition to lower voltage and higher current (e.g., U ≈ 3.2 kV, I ≈ 4.07 mA). High-speed shadowgraph images showed a symmetric interfacial cavity whose depth increased nonlinearly with voltage from h0 ≈ 0.1 mm at 3 kV to h0 ≈ 2.7 mm at 10.6 kV, reaching a maximum depth of h0 ≈ 5.9 mm at 12.6 kV, while the cavity disappeared in the continuous-channel regime and was replaced by outward-propagating wave-like motion. The deformation of the water surface during the discharge-water interaction is governed by the balance between electric field forces, surface tension, gravitational forces, and electrohydrodynamic forces, whose relative contributions vary with the applied voltage. This effect was explained by quantitatively estimating the magnitudes of the acting forces and establishing the force balance. Optical emission spectroscopy in the continuous-channel regime indicated air plasma signatures and yielded a gas temperature of approximately  400 K, while prolonged operation (≈ 20 min) increased the water temperature to ~ 70 °C, reduced the water-layer thickness from 6 mm to 3 mm, and decreased pH from 7 to 4. These regime-resolved, quantitative results clarify how the dominant interfacial forcing shifts with discharge mode and provide a mechanistic basis for controlling plasma-water interactions in atmospheric-pressure applications.",
@@ -158,112 +198,72 @@
         "image": "https://www.universetoday.com/article_images/Mercury_in_true_color_750_20260401_051339.jpg",
         "publishedAt": "2026-04-01T05:14:00Z",
         "source": "universetoday.com"
-      },
-      {
-        "title": "Scientists just found DNA “supergenes” that speed up evolution",
-        "description": "Hidden within fish DNA are powerful genetic twists that may explain one of nature’s biggest mysteries: how new species form so quickly. In Lake Malawi, hundreds of cichlid fish species evolved at lightning speed, and scientists now think “flipped” sections of DNA—called chromosomal inversions—are the secret. These inversions lock together useful gene combinations, creating “supergenes” that help fish rapidly adapt to different environments, from deep waters to sandy shores.",
-        "url": "https://www.sciencedaily.com/releases/2026/03/260331001109.htm",
-        "image": "https://www.sciencedaily.com/images/1920/genetic-disease-glowing-dna-molecule.webp",
-        "publishedAt": "2026-04-01T04:53:05Z",
-        "source": "sciencedaily.com"
-      },
-      {
-        "title": "Scientists just found DNA “supergenes” that speed up evolution",
-        "description": "Hidden within fish DNA are powerful genetic twists that may explain one of nature’s biggest mysteries: how new species form so quickly. In Lake Malawi, hundreds of cichlid fish species evolved at lightning speed, and scientists now think “flipped” sections of DNA—called chromosomal inversions—are the secret. These inversions lock together useful gene combinations, creating “supergenes” that help fish rapidly adapt to different environments, from deep waters to sandy shores.",
-        "url": "http://www.sciencedaily.com/releases/2026/03/260331001109.htm",
-        "image": "https://www.sciencedaily.com/images/1920/genetic-disease-glowing-dna-molecule.webp",
-        "publishedAt": "2026-04-01T04:50:53Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Meet Charlie Duke, the youngest person on the first Moon mission cheering on Artemis II astronauts",
-        "description": "Charlie Duke was the youngest person ever to walk on the Moon at the age of 36. Now 90 years old, the prospect of another human return to the Moon excites him.",
-        "url": "https://www.euronews.com/next/2026/04/01/meet-charlie-duke-the-youngest-person-on-the-first-moon-mission-cheering-on-artemis-ii-ast",
-        "image": "https://images.euronews.com/articles/stories/09/70/54/35/1200x675_cmsv2_c1a2a0d4-dd27-560d-ab2f-2baf54d770a0-9705435.jpg",
-        "publishedAt": "2026-04-01T04:46:15Z",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Artemis II, the international space race, and what is at stake for the U.S.",
-        "description": "Explore the significance of NASA's Artemis II mission in the U.S.-China space race and its implications for lunar exploration.",
-        "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-the-international-space-race-and-what-is-at-stake-for-the-us/article70806797.ece",
-        "image": "https://th-i.thgim.com/public/incoming/be6tyq/article70685324.ece/alternates/LANDSCAPE_1200/NASA_Artemis_Moonshot_06509.jpg",
-        "publishedAt": "2026-04-01T04:30:00Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Smart Crystals Flex and Rebound Under Light",
-        "description": "Researchers at the University of California, Davis have identified a surprising property in a class of materials known as perovskites that could pave",
-        "url": "https://www.miragenews.com/smart-crystals-flex-and-rebound-under-light-1648606/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1532619675605-1ede6c2ed2b0%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-01T04:19:00Z",
-        "source": "Mirage News"
       }
     ],
     "ai": [
       {
-        "title": "You Can Now Use ChatGPT In Your Car With Apple CarPlay: Here Is How",
-        "description": "OpenAI's ChatGPT now supports CarPlay, enabling users to interact with the AI directly from their vehicle's dashboard thanks to the recent iOS 26.4 update. Additionally, iOS 26.4 includes new features like a Playlist Playground in Apple Music, new emojis, and enhanced stolen device protection., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/you-can-now-use-chatgpt-in-your-car-with-apple-carplay-here-is-how-article-153971153",
-        "image": "https://images.timesnownews.com/thumb/msid-153971153,width-1280,height-720,resizemode-75/153971153.jpg",
-        "publishedAt": "2026-04-01T05:33:22Z",
-        "source": "Times Now"
+        "title": "Boy, 16, takes his own life after chilling ChatGPT question and 'farewell' texts",
+        "description": "An inquest heard how 16-year-old Luca Walker consulted ChatGPT before his death, with a coroner expressing concerns about AI safeguards after the teenager bypassed mental health support features",
+        "url": "https://www.dailystar.co.uk/news/latest-news/boy-16-takes-life-after-36952323",
+        "image": "https://i2-prod.dailystar.co.uk/article36952322.ece/ALTERNATES/s1200d/0_PAY-SNGPT-A-gifted-child-who-committed-suicide-asked-ChatGPT-the-night-before-for-the-best-ways-to-d.jpg",
+        "publishedAt": "2026-04-01T06:36:51Z",
+        "source": "The daily Star"
       },
       {
-        "title": "CrowdStrike and HCLTech Expand Strategic Partnership with AI",
-        "description": "CrowdStrike and HCLTech today announced an expansion of their strategic partnership with the launch of Continuous Threat Exposure Manag...",
-        "url": "https://itwire.com/business-it-news/security/crowdstrike-and-hcltech-expand-strategic-partnership-with-ai-powered-continuous-threat-exposure-management-services.html",
-        "image": "https://itwire.com/media/k2/items/cache/5e0d6907ca77312245a51ca9f600331a_XS.jpg",
-        "publishedAt": "2026-04-01T05:32:26Z",
-        "source": "iTWire"
+        "title": "Google to launch Whoop-like screenless Fitbit band",
+        "description": "Google is developing a screenless Fitbit band to rival Whoop and Oura, pairing hardware with AI-powered health coaching and a subscription-based model.",
+        "url": "https://www.firstpost.com/tech/google-to-launch-whoop-like-screenless-fitbit-band-13995360.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/Google-fitbit-2026-04-4b830dcc4565dc1de87182e9f950e07e-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-01T06:34:57Z",
+        "source": "Firstpost"
       },
       {
-        "title": "EaseMyTrip announces strategic collaboration with NSDC and Sanatan AI to formalise India's spiritual economy through National Entrepreneurship Initiative",
-        "description": "The company will enable religious travel services as part of a franchise-led 'Shop on Wheels' model targeting deployment across up to 2 lakh Panchayats",
-        "url": "https://www.tribuneindia.com/news/business/easemytrip-announces-strategic-collaboration-with-nsdc-and-sanatan-ai-to-formalise-indias-spiritual-economy-through-national-entrepreneurship-initiative/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWViZWJhOGIwLTJkOGItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-04-01T05:30:31Z",
-        "source": "The Tribune"
+        "title": "US Stock Market | Oracle shares jump 6% amid layoff buzz; AI pivot drives investor optimism",
+        "description": "Oracle's stock surged despite widespread layoffs, as the company reallocates resources towards AI and cloud infrastructure. Investors are focusing on future growth potential, viewing the job cuts as a strategic move to enhance profitability and operational agility in the competitive tech landscape.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oracle-shares-jump-6-amid-layoff-buzz-ai-pivot-drives-investor-optimism/articleshow/129943780.cms",
+        "image": "https://img.etimg.com/thumb/msid-129943767,width-1200,height-630,imgsize-31586,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-01T06:34:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Oracle Financial Services shares climb nearly 4% amid reports of 12,000 layoffs in India",
-        "description": "The stock gained Rs 265 during the session, reflecting investor optimism despite concerns around restructuring linked to rising investments in artificial intelligence",
-        "url": "https://www.moneycontrol.com/news/business/markets/oracle-financial-services-shares-climb-nearly-4-amid-reports-of-12-000-layoffs-in-india-13876365.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/06/20240619140639_Oracle.jpg",
-        "publishedAt": "2026-04-01T05:30:02Z",
-        "source": "Moneycontrol"
+        "title": "Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report",
+        "description": "Shares of Chinese AI company Zhipu surged over 30% in trading, after posting strong revenue growth in its first earnings report since its IPO.",
+        "url": "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108164338-1750918943889-gettyimages-2206295278-TFSPI_24032025-5829.jpeg?v=1775021883&w=1920&h=1080",
+        "publishedAt": "2026-04-01T06:32:41Z",
+        "source": "CNBC"
       },
       {
-        "title": "I put Claude vs. Deepseek through 7 real-world tests - and one is clearly better",
-        "description": "I tested Claude vs DeepSeek using 7 real-world prompts — from tricky math to coding and hallucination traps. One AI stood out for clarity, accuracy and real-life usefulness.",
-        "url": "https://www.tomsguide.com/ai/i-put-claude-vs-deepseek-through-7-real-world-tests-and-one-is-clearly-better",
-        "image": "https://cdn.mos.cms.futurecdn.net/qRDpRgh4APKfKLUVCSfHoM-2000-80.jpg",
-        "publishedAt": "2026-04-01T05:30:00Z",
-        "source": "Tom's Guide"
+        "title": "Huawei Cloud Rolls Out MaaS in Thailand, Boosting AI Transformation",
+        "description": "Bangkok, March 31, 2026 – Huawei Cloud hosted Huawei Cloud Thailand AI Boost Day 2026 to showcase its vision for advancing the next generation of artificial intelligence (AI) through the introduction of Agentic AI—a new paradigm that redefines AI applications from passive response systems to intelligent agents capable of proactive planning and executing complex tasks. The event also featured the official launch of Model as a Service (MaaS) in Thailand. Huawei Cloud’s MaaS is designed to address key enterprise scenarios, including large language models, coding and multimodal applications.",
+        "url": "https://www.bangkokpost.com/thailand/pr/3228698/huawei-cloud-rolls-out-maas-in-thailand-boosting-ai-transformation",
+        "image": "https://static.bangkokpost.com/media/content/20260401/c1_3228698_700.jpg",
+        "publishedAt": "2026-04-01T06:32:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "Oracle sends 6 am layoff emails to 12,000 employees in India: ‘Today is your last day’",
-        "description": "Oracle layoffs in India see 12000 staff fired by 6 am email as part of global cuts, workers share shock and severance details amid AI growth and cost push",
-        "url": "https://www.cnbctv18.com/business/companies/oracle-sends-6-am-layoff-emails-to-12000-employees-in-india-today-is-your-last-day-ws-l-19878594.htm",
-        "image": "https://images.cnbctv18.com/uploads/2022/07/Larry-Ellison.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-01T05:27:21Z",
-        "source": "CNBC TV18"
+        "title": "Adaptability Revealed as the New Foundation of Job Security in the AI Age, According to 2026 ETS Human Progress Report",
+        "description": "**media[997031]**PRINCETON, N.J., April 1, 2026 /PRNewswire/ -- ETS, a global education and talent solutions organization, today released the 2026 ETS Human Progress Report, the third annual global study tracking how people around the world are navigating rapid workforce disruption, technological change, and shifting definitions of opportunity. Drawing on insights from more than 32,000 respondents across 18 countries, the report reveals a workforce actively adapting-but increasingly uncertain about how to align learning with what the future of work demands.",
+        "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/pr-newswire/adaptability-revealed-as-the-new-foundation-of-job-security-in-the-ai-age-according-to-2026-ets-human-progress-report/2312262",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/01/997030.jpg",
+        "publishedAt": "2026-04-01T06:31:52Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "ChatGPT parent OpenAI raises $122 billion in record funding round, valuation hits $852 billion",
-        "description": "OpenAI expects enterprise sales to increase to 50% of its revenue this year, supported by Amazon's $50 billion investment. The company generates $2 billion monthly, recently added advertising to ChatGPT, yielding $100 million in 6 weeks, and plans significant infrastructure investments.",
-        "url": "https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/01/1600x900/logo/Canada-Shooting-Lawsuit-0_1773796724695_1773796735926_1775018640308.jpg",
-        "publishedAt": "2026-04-01T05:26:43Z",
-        "source": "Livemint"
+        "title": "CAYIN Technology at Touch Taiwan 2026 AI Content Creation × E-Paper Sustainability × Taiwan-Built Security",
+        "description": "TAIPEI, April 1, 2026 /PRNewswire/ -- As AI and sustainability reshape global industries, digital signage has evolved into a frontline business communication tool - and a growing cybersecurity target. CAYIN Technology brings 20 years of Taiwan-based R&D to Touch Taiwan 2026 (April 8-10, Booth N1019, Nangang Hall 1, 4F) with three breakthrough solutions.",
+        "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/pr-newswire/cayin-technology-at-touch-taiwan-2026-ai-content-creation-e-paper-sustainability-taiwan-built-security/2312261",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-04-01T06:31:51Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "'Happy Birthday Joshi': Ajay Devgn’s 'Gen-AI' film to release on his 57th birthday",
-        "description": "Ajay Devgn has sparked excitement and curiosity among fans by unveiling the first look of his new film ‘Happy Birthday Joshi’.According to reports, th.",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-birthday-joshi-ajay-devgns-gen-ai-film-to-release-on-his-57th-birthday/articleshow/129942389.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129942389,width-1280,height-720,imgsize-52880,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-01T05:26:00Z",
-        "source": "Times of India"
+        "title": "Voltas' Venus Luxe: Unveiling AI-Powered Cooling Solutions for Extreme Indian Summers",
+        "description": "Voltas Limited introduces the Venus Luxe range, engineered for Indian summers with up to 53°C ambient temperatures. Utilizing AI Adaptive Cooling, the Venus Luxe ensures consistent performance, energy efficiency, and durability. It integrates advanced sensors and intelligent algorithms, offering superior cooling even in extreme heat and reliable operation.",
+        "url": "https://www.devdiscourse.com/article/technology/3858079-voltas-venus-luxe-unveiling-ai-powered-cooling-solutions-for-extreme-indian-summers",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-04-01T06:31:48Z",
+        "source": "Devdiscourse"
       }
     ]
   }
