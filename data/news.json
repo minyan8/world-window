@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-02T13:54:09.824Z",
+  "fetchedAt": "2026-04-02T14:40:59.305Z",
   "sections": {
     "world": [
       {
-        "title": "Is China positioning itself to become a US-Iran peace broker?",
-        "description": "As the war in the Gulf careens into its second month, dragging down the global economy with no off-ramp in sight, questions are deepening around what role China – a global heavyweight and diplomatic p...",
-        "url": "https://www.yahoo.com/news/articles/china-positioning-itself-become-us-053108601.html",
-        "image": "https://s.yimg.com/os/en/cnn_articles_875/4d495f36fc6432fd22b3143e0b6a6ef4",
-        "publishedAt": "2026-04-02T01:54:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Trump says US to bring Iran ‘back to the Stone Ages’",
-        "description": "The president said the US would continue to hit targets in the Islamic Republic over the next two to three weeks, but insisted an end to the war is 'very close'.",
-        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/04/02/trump-says-us-to-bring-iran-back-to-the-stone-ages",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/0c74e367-13878748.webp",
-        "publishedAt": "2026-04-02T01:49:43Z",
-        "source": "Free Malaysia Today"
-      },
-      {
-        "title": "Australia to join 34 countries - but not the US - in meeting on Strait of Hormuz",
-        "description": "Australia will join a virtual meeting of 35 countries to discuss plans to reopen and secure the Strait of Hormuz, and ease the oil shock rocking global markets.",
-        "url": "https://www.abc.net.au/news/2026-04-02/global-meeting-australia-34-countries-strait-of-hormuz/106525100",
-        "image": "https://live-production.wcms.abc-cdn.net.au/54a5f13422a77ec4ab8f43a1476bb1ac?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-02T01:49:33Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "'Buy from US or go take it from the Strait': Trump's suggestion to nations hit by oil shock due to Hormuz crisis",
-        "description": "International Business News: US President Donald Trump on Wednesday (local time) suggested that countries facing fuel shortages during the ongoing war with Iran should either buy .",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/buy-from-us-or-go-take-it-from-the-strait-trumps-suggestion-to-nations-hit-by-oil-shock-due-to-hormuz-crisis/articleshow/129964609.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129966066,width-1280,height-720,imgsize-915606,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-02T01:46:00Z",
+        "title": "7.4 magnitude earthquake hits Indonesia",
+        "description": "Rest of World News: One person was killed on Thursday after a powerful 7.4 magnitude earthquake struck off the coast of Indonesia.The earthquake, centered in the Molucca .",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/7-4-magnitude-earthquake-hits-indonesia/articleshow/129965607.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129965614,width-1280,height-720,imgsize-84372,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-02T02:39:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "7.4 magnitude earthquake hits Indonesia",
-        "description": "Rest of World News: One person was killed on Thursday after a powerful 7.4 magnitude earthquake struck off the coast of Indonesia. The tremors were felt strongly in and a.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/7-4-magnitude-earthquake-hits-indonesia/articleshow/129964653.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129964621,width-1280,height-720,imgsize-19758,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-02T01:44:00Z",
-        "source": "timesofindia.indiatimes.com"
+        "title": "Trump news at a glance: president makes fresh threat to pull US out of Nato",
+        "description": "Trump has expressed growing contempt for North Atlantic allies as they refused to be drawn into his war on Iran",
+        "url": "https://www.theguardian.com/us-news/2026/apr/01/trump-news-at-a-glance-nato",
+        "image": "https://i.guim.co.uk/img/media/e54e89e0f9a5aba14cf7d65f77a8aecec84a850b/434_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76939d84bca97fbcf5df4c2af1a06b2f",
+        "publishedAt": "2026-04-02T02:36:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Trump's speech LIVE: 'If no deal is reached, we will take Iran back to the Stone Age,' US President says",
-        "description": "Donald Trump's speech LIVE Updates: President Donald Trump is due to address the US public with ‘an important update on Iran’ soon. Catch LIVE updates with Mint.",
-        "url": "https://www.livemint.com/news/world/trump-speech-tonight-april-1-iran-us-israel-war-strait-of-hormuz-gas-prices-oil-prices-11775088309079.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/02/1600x900/logo/Trump-Iran-US-59_1775093998430_1775094005479.jpg",
-        "publishedAt": "2026-04-02T01:40:13Z",
-        "source": "livemint.com"
+        "title": "Middle East live: Iran vows 'crushing' attacks after Trump dims hopes of swift end to war",
+        "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone…",
+        "url": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
+        "image": "https://s.france24.com/media/display/f1cfbe62-2e65-11f1-94bb-005056bfb2b6/w:1280/p:16x9/AP26091531386643.jpg",
+        "publishedAt": "2026-04-02T02:32:43Z",
+        "source": "France 24"
       },
       {
-        "title": "Malaysia’s PM Anwar urges crackdown on fake news over fuel prices",
-        "description": "The Malaysian govt is seeking to shore up public confidence amid a global energy crunch. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/malaysias-pm-anwar-urges-crackdown-on-fake-news-over-fuel-prices",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/46a5463a40ab16ea9761319f7dce7aea49a32662e770d9a0854c677cd4597a11",
-        "publishedAt": "2026-04-02T01:40:00Z",
-        "source": "The Straits Times"
+        "title": "Global cities sound alarm as heatwaves threaten public health",
+        "description": "Intensifying heatwaves are placing growing strain on health infrastructure, frontline workers and vulnerable populations",
+        "url": "https://www.timeslive.co.za/news/south-africa/2026-04-02-global-cities-sound-alarm-as-heatwaves-threaten-public-health/",
+        "image": "https://www.timeslive.co.za/resizer/v2/GDIUIQ3FFRPM3AADMSBIPA6PKE.jpg?smart=true&auth=7b36b56f5214ce78612714a4446b692816116d8ce2eec06219eb301dfc1a4c4e&width=1200&height=630",
+        "publishedAt": "2026-04-02T02:30:00Z",
+        "source": "TimesLIVE"
       },
       {
-        "title": "Johor immigration swoops on luxury apartment, detains Chinese nationals with fake Mexican passport",
-        "description": "JOHOR BAHRU, April 2 — The Johor Immigration Department detained four Chinese nationals for using fake passports and overstaying in the country.Its director, Datuk Mohd Rusdi...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/04/02/johor-immigration-swoops-on-luxury-apartment-detains-chinese-nationals-with-fake-mexican-passport/214763",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/02/333443.png",
-        "publishedAt": "2026-04-02T01:35:55Z",
-        "source": "Malay Mail"
+        "title": "Global cities sound alarm as heatwaves threaten public health",
+        "description": "Intensifying heatwaves are placing growing strain on health infrastructure, frontline workers and vulnerable populations",
+        "url": "https://www.sundaytimes.timeslive.co.za/news/2026-04-02-global-cities-sound-alarm-as-heatwaves-threaten-public-health/",
+        "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/GDIUIQ3FFRPM3AADMSBIPA6PKE.jpg?smart=true&auth=7b36b56f5214ce78612714a4446b692816116d8ce2eec06219eb301dfc1a4c4e&width=1200&height=630",
+        "publishedAt": "2026-04-02T02:30:00Z",
+        "source": "TimesLIVE"
+      },
+      {
+        "title": "Trump tells Americans that Iran war ending as popularity dips",
+        "description": "WASHINGTON: President Donald Trump on Wednesday made his case for attacking Iran in his first nationwide address more than a month into the war, insisting the United States was close to victory as his approval rating sinks.",
+        "url": "https://www.thestar.com.my/news/world/2026/04/02/trump-tells-americans-that-iran-war-ending-as-popularity-dips",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3840538.jpg",
+        "publishedAt": "2026-04-02T02:25:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "US citizenship case worries H-1B families",
+        "description": "Washington: A US Supreme Court case on birthright citizenship has raised concerns among Indian professionals on H-1B visas and other temporary permits.",
+        "url": "https://www.siasat.com/us-citizenship-case-worries-h-1b-families-3444901/",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2025/03/US-citizenship.jpg",
+        "publishedAt": "2026-04-02T02:24:00Z",
+        "source": "The Siasat Daily"
+      },
+      {
+        "title": "US President Donald Trump’s address on Iran war: Key quotes",
+        "description": "Donald Trump addresses the Iran-Israel war, emphasizing military action, oil supply issues, and Iran's nuclear ambitions.",
+        "url": "https://www.thehindu.com/news/international/donald-trump-on-iran-war-israel-us-conflict-west-asia-crisis-oil-prices-tehran-iran-strait-of-hormuz-president-trump-address-highlights/article70814045.ece",
+        "image": "https://th-i.thgim.com/public/incoming/fx3m0w/article70814054.ece/alternates/LANDSCAPE_1200/Trump_Iran_US_8248_.jpg",
+        "publishedAt": "2026-04-02T02:21:29Z",
+        "source": "The Hindu"
       }
     ],
     "business": [
       {
-        "title": "Supreme Courts of Singapore and Indonesia Sign Memorandum of Understanding on Cross-Border Insolvency Cooperation",
-        "description": "/PRNewswire/ -- On 30 March 2026, the Supreme Court of Singapore and the Supreme Court of Indonesia signed a Memorandum of Understanding (MOU) to Enhance...",
-        "url": "https://www.prnewswire.com/news-releases/supreme-courts-of-singapore-and-indonesia-sign-memorandum-of-understanding-on-cross-border-insolvency-cooperation-302732204.html",
-        "image": "https://mma.prnewswire.com/media/2947989/image.jpg?p=facebook",
-        "publishedAt": "2026-04-02T01:54:00Z",
-        "source": "PR Newswire"
+        "title": "AFL and Inligo Partner to Advance Fibre Manufacturing for Unite Cable System",
+        "description": "Inligo Networks, the developer behind the Asia-Pacific’s next generation of digital infrastructure, has officially appointed global leader American Fujikura ...",
+        "url": "https://www.businesswire.com/news/home/20260401492168/en/AFL-and-Inligo-Partner-to-Advance-Fibre-Manufacturing-for-Unite-Cable-System",
+        "image": "https://mms.businesswire.com/media/20260401492168/en/2764230/22/AFL_logo_cmyk_HighRes.jpg",
+        "publishedAt": "2026-04-02T02:41:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "Stocks Fall, Oil Jumps as Trump Says to Hit Iran: Markets Wrap",
-        "description": "(Bloomberg) -- Stocks tumbled and oil jumped after President Donald Trump said the US would hit Iran extremely hard over the next two to three weeks, damping hopes for a swift resolution to the conflict.",
-        "url": "https://www.swissinfo.ch/eng/stocks-fall%2C-oil-jumps-as-trump-says-to-hit-iran%3A-markets-wrap/91198102",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341319",
-        "publishedAt": "2026-04-02T01:53:22Z",
-        "source": "SWI swissinfo.ch"
+        "title": "Dow Jones Futures Fall, Oil Prices Jump As Trump Vows To Hit Iran 'Extremely Hard'; Tesla Deliveries Due",
+        "description": "Dow Jones futures fell and oil prices jumped as President Donald Trump said the U.S. would continue to hit Iran \"extremely hard\" over the next 2-3 weeks.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-tesla-deliveries/",
+        "image": "https://www.investors.com/wp-content/uploads/2026/04/stock-trump-wh-shutterstock.jpg",
+        "publishedAt": "2026-04-02T02:39:00Z",
+        "source": "Investor's Business Daily"
       },
       {
-        "title": "In lecture at Brown, Yann LeCun discusses a new approach to AI",
-        "description": "No stranger to controversy, AI pioneer Yann LeCun told a capacity crowd that large language models are not the future of AI and that a new approach is needed if machines are to achieve human-like intelligence.",
-        "url": "https://www.brown.edu/news/2026-04-01/yann-lecun-artificial-intelligence-pioneer",
-        "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-04/IMG_8448.jpeg?h=3ad648c1&itok=V7eW2B3D",
-        "publishedAt": "2026-04-02T01:50:47Z",
-        "source": "brown.edu"
+        "title": "Rupee to rally as RBI tightens FX curbs, traders digest Trump remarks",
+        "description": "By Jaspreet Kalra MUMBAI, April 2 (Reuters) - The Indian rupee is poised to open sharply higher on Thursday after the Reserve Bank of India rolled out a fresh set of measures to clamp down on",
+        "url": "https://sg.news.yahoo.com/rupee-rally-rbi-tightens-fx-023740978.html",
+        "image": "https://s.yimg.com/os/en/reuters.com/8b1ae410c60dde5fff8c61371c6ff366",
+        "publishedAt": "2026-04-02T02:37:00Z",
+        "source": "Yahoo News Singapore"
       },
       {
-        "title": "In lecture at Brown, Yann LeCun discusses a new approach to AI",
-        "description": "No stranger to controversy, AI pioneer Yann LeCun told a capacity crowd that large language models are not the future of AI and that a new approach is needed if machines are to achieve human-like intelligence.",
-        "url": "https://www.brown.edu/news/2026-04-01",
-        "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-04/IMG_8448.jpeg?h=3ad648c1&itok=V7eW2B3D",
-        "publishedAt": "2026-04-02T01:50:47Z",
-        "source": "Brown University"
+        "title": "Wearing this on a plane can leave you feeling 'stiff and fatigued', according to pilot",
+        "description": "Fiji Airways pilot, Captain Etika has shared one of the biggest mistakes he sees passengers make when flying.",
+        "url": "https://travel.nine.com.au/latest/pilot-tips-what-to-wear-on-a-plane/1d788b43-44e7-40b1-b769-4e6dddada668",
+        "image": "https://imageresizer.static9.net.au/dddcyUhn98dlcNBl-lKnnPDPVaA=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F820629b2-7eb6-49cc-b5b9-9da384b54dcb",
+        "publishedAt": "2026-04-02T02:34:20Z",
+        "source": "9Travel"
       },
       {
-        "title": "TVS family rift spills into Sundaram Clayton boardroom: Venu Srinivasan takes governance charge, tells Lakshmi to focus on biz",
-        "description": "Tensions within the TVS Group promoter family have spilled into the boardroom of Sundaram Clayton, raising governance concerns at the holding company of TVS Motor Company. Within days, the board reversed its own decision on the resignation of company secretary P D Dev Kishan after managing director Lakshmi Venu pushed for his removal, citing alignment issues.",
-        "url": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/tvs-family-rift-spills-into-sundaram-clayton-boardroom-venu-srinivasan-takes-governance-charge-tells-lakshmi-to-focus-on-biz/articleshow/129965074.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-129966847,width-1200,height-630,imgsize-75476,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-02T01:50:17Z",
-        "source": "The Economic Times"
+        "title": "Ottawa to spend $15M to help build 2 mental health treatment centres for first responders",
+        "description": "The federal government will contribute $15 million to the construction of two new treatment facilities in Greater Toronto Area for first responders who are dealing with post-traumatic stress injuries.",
+        "url": "https://uk.news.yahoo.com/ottawa-spend-15m-help-build-023401060.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/tboaXYZco_F0zVWH9IqRfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/9cdda4007623cd019d3c5a95613dc139",
+        "publishedAt": "2026-04-02T02:34:00Z",
+        "source": "uk.news.yahoo.com"
       },
       {
-        "title": "In-Depth FX Analysis: USD/JPY Faces Major Technical Pressure From Bearish RSI Divergence",
-        "description": "USD/JPY recently bounced to April 2024 highs during a mid-March crude oil spike but has failed to hold its prior highs.",
-        "url": "https://seekingalpha.com/article/4887995-in-depth-fx-analysis-usd-jpy-faces-major-technical-pressure-from-bearish-rsi-divergence",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/855135112/image_855135112.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-02T01:50:00Z",
-        "source": "seekingalpha.com"
+        "title": "SA Post Office on borrowed time - funding gaps push it closer to the edge",
+        "description": "The South African Post Office (Sapo) has been here before: short of cash, full of promises and waiting for rescue. Another funding patch may keep it going for six months, but Parliament’s latest briefing suggests the harder question is no longer whether Sapo matters, but whether it can still work.",
+        "url": "https://www.dailymaverick.co.za/article/2026-04-01-sa-post-office-on-borrowed-time-funding-gaps-push-it-closer-to-the-edge/",
+        "image": "https://cdn.dailymaverick.co.za/i/0bauUdJYvGT8xVG-hJvuQS-7WK4=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2025/10/MC-BeyondSRD-copy.jpg",
+        "publishedAt": "2026-04-02T02:31:27Z",
+        "source": "Daily Maverick"
       },
       {
-        "title": "Global Manufacturers Report Safety Stock Building As War Stokes Supply And Price Concerns",
-        "description": "The global manufacturing Purchasing Managers’ Index PMI indicated a surge in both prices and supply delays in March following the outbreak of war in the Middle East. Read more here.",
-        "url": "https://seekingalpha.com/article/4887996-global-manufacturers-report-safety-stock-building-war-stokes-supply-price-concerns",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191263363/image_2191263363.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-02T01:50:00Z",
-        "source": "Seeking Alpha"
+        "title": "SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027",
+        "description": "Worldwide 300mm fab equipment spending is expected to increase by 18% to $133 billion in 2026 and by 14% to $151 billion in 2027, according to SEMI’s latest 300mm Fab Outlook. This strong growth reflects surging AI chip demand for data centers and edge devices, as well as the growing commitment to semiconductor self-sufficiency across […]",
+        "url": "https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/",
+        "image": "https://www.eetasia.com/wp-content/uploads/sites/2/2025/07/Fab-Semiconductor-Wafer-Generic1-123RF-Hero.jpg",
+        "publishedAt": "2026-04-02T02:31:03Z",
+        "source": "EE Times Asia"
       },
       {
-        "title": "Over 200,000 students get free access to Microsoft AI tools as tech giant invests US$5.5b in Singapore",
-        "description": "Over 200,000 students get free access to Microsoft AI tools as tech giant invests US$5.5b in Singapore Asia News Network (ANN) is the leading regional alliance of news titles striving to bring the region closer, through an active sharing of editorial content on happenings in the region.",
-        "url": "https://asianews.network/over-200000-students-get-free-access-to-microsoft-ai-tools-as-tech-giant-invests-us5-5b-in-singapore/",
-        "image": "https://asianews.network/wp-content/uploads/2026/04/9f90a99dc4b2b4513873ee4649c24bfe39f267495a180b9f5ff2cadd5645cff3.webp",
-        "publishedAt": "2026-04-02T01:49:39Z",
-        "source": "Asia News Network"
+        "title": "Oracle lays off around 30,000 staff with 6am email; 'Getting very close': Trump's major speech on Iran war offers few specifics: Singapore live news",
+        "description": "Welcome to Yahoo Singapore's live updates, your guide to some of the most compelling stories unfolding across the digital universe and beyond. Today, we're featuring a curated selection of some of the...",
+        "url": "https://sg.news.yahoo.com/live/oracle-lays-off-around-30000-staff-with-6am-email-getting-very-close-trumps-major-speech-on-iran-war-offers-few-specifics-singapore-live-news-020000956.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/63DQwfMe.ncvJ9y7VUuuhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/live_blog_260402_1727.png",
+        "publishedAt": "2026-04-02T02:30:00Z",
+        "source": "Yahoo News Singapore"
       }
     ],
     "science": [
+      {
+        "title": "Fractal dimension and morphological heterogeneity of pore in carbonate rocks: implications for production differences between adjacent wells",
+        "description": "This work investigates the morphological heterogeneity of pore systems in the carbonate rocks of the Canglangpu Formation, Sichuan Basin, aiming to explain the significant gas production disparity between two adjacent wells. An integrated methodology combining scanning electron microscopy (SEM) with digital image analysis was employed to classify pore morphologies and calculate fractal dimensions for 132 and 153 SEM images from Wells P7 and P9, respectively. The results demonstrate that Well P7 exhibits a more heterogeneous and intricate pore network, characterized by a higher median D value and a broader distribution, dominated by sub-circle pores across a wide complexity spectrum. In contrast, Well P9 possesses a more homogeneous pore structure with a lower, more clustered D value distribution. This morphological difference provides a mechanistic explanation for the production data, where the complex pore architecture of P7 likely impedes fluid flow, resulting in minimal production, while the more uniform system of P9 suggests better matrix connectivity. This matrix characteristic, combined with a more developed natural fracture network (the primary driver for high flow rates in such tight rock), correlates with its high daily gas output. In contrast, the complex pore architecture of P7 likely impedes matrix flow, contributing to its minimal production. The findings underscore that quantitative pore-scale characterization is critical for accurately assessing reservoir quality and predicting productivity in heterogeneous carbonate reservoirs, with direct implications for optimizing exploration and development strategies.",
+        "url": "https://www.nature.com/articles/s41598-026-47223-0?error=cookies_not_supported&code=8f75e9f9-9c2f-4e91-a27b-ace618f431b7",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-02T02:37:30Z",
+        "source": "nature.com"
+      },
+      {
+        "title": "A possible role of Painless channel in the regulation of immune system activity in Tenebrio molitor L.",
+        "description": "The immunomodulatory properties of transient receptor potential (TRP) channels in insects are poorly understood. Here, we provide evidence of the immunoregulatory role of one of the TRPA (transient receptor potential ankyrin) channels, Painless, in the mealworm beetle (Tenebrio molitor), an economically important insect species. Our research revealed that the expression patterns of Painless gene vary across different phases of the immune response. Additionally, we show that the cytokine Spätzle-like protein significantly influences the expression of Painless gene. Furthermore, we report that an allyl isothiocyanate (AITC), TRPA channel agonist which may activate the Painless channel, increases calcium level in T. molitor haemocytes which leading to changes in the expression of immune-related genes. On the basis of the results of the dsRNA experiment, our research also suggested that the link between Painless channel activity and immune pathways is likely mediated by Calcineurin, a calcium-activated serine/threonine phosphatase. Importantly, coinjection of AITC with Escherichia coli significantly improved beetle survival, indicating a functional role in host defense. The results of physiological experiments and phylogenetic analysis suggest that the modulation of Painless channel activity can be a valuable tool for pest control and large-scale T. molitor production.",
+        "url": "https://www.nature.com/articles/s41598-026-45339-x?error=cookies_not_supported&code=bd290395-9a8e-4f03-993d-ebd45f04455a",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-02T02:37:30Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Genomic and transcriptomic basis of morphological and life cycle diversity in the prasinophyte alga Pseudoscourfieldia marina",
+        "description": "The prasinophyte green alga Pseudoscourfieldia marina exhibits striking morphological diversity, with coccoid and flagellated forms now recognized as a single species. To investigate the basis of this divergence, we compare here the genomes and transcriptomes of two morphotypes: CCMP1203 (coccoid, non-flagellated) and UIO007 (scaly, flagellated). Although their genome architecture is largely conserved, the strains differ in ploidy and repeat content, and harbor divergent outlier chromosomes enriched in transposable elements and carbohydrate metabolism genes, suggesting roles in antiviral defense. CCMP1203 is predominantly diploid, whereas UIO007 is haploid and strongly upregulates genes for flagellar assembly and scale formation, including those encoding the complete biosynthetic pathway for the 2-keto sugar 3-deoxy-D-manno-octulosonate, a major carbohydrate component of prasinophyte scales. The presence of meiosis-specific and life-cycle genes in P. marina supports a heteromorphic haplodiplontic life cycle, with the flagellated, scaly UIO007 strain representing the haploid phase and the coccoid CCMP1203 strain the diploid phase. Comparative genomics of two Pseudoscourfieldia marina morphotypes reveals ploidy differences and coordinated expression of scale and flagellar genes, supporting a heteromorphic haplodiplontic life cycle.",
+        "url": "https://www.nature.com/articles/s42003-026-09965-5?error=cookies_not_supported&code=63c47504-616a-4837-a52d-39acc2ff5195",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-02T02:19:03Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Old Fossils in Egypt Show All Apes Came From North Africa",
+        "description": "New fossils suggest early apes originated in Africa, strengthening evidence that all modern apes trace their roots to the continent.",
+        "url": "https://greekreporter.com/2026/04/02/eighteen-million-year-old-fossils-all-apes-africa/",
+        "image": "https://greekreporter.com/wp-content/uploads/2026/04/a-gorilla-one-of-the-living-great-apes-shares-deep-evolutionary-roots-with-ancient-ancestors-credit-eric-kilby-flickr-ccbysa2.jpg",
+        "publishedAt": "2026-04-02T02:01:45Z",
+        "source": "GreekReporter.com"
+      },
+      {
+        "title": "Fifty years of measuring the world's cleanest air",
+        "description": "Australia marks 50 years of monitoring the world's cleanest air in remote northwest Tasmania at Kennaook / Cape Grim Baseline Air Pollution Station, supporting global efforts to track human-driven changes to the atmosphere.",
+        "url": "https://phys.org/news/2026-04-fifty-years-world-cleanest-air.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/50-years-measuring-the.jpg",
+        "publishedAt": "2026-04-02T02:00:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Two comets may be visible to the naked eye this April: NARIT",
+        "description": "NARIT says Thai skywatchers may have a chance to spot two comets in April — C/2026 A1 (MAPS) and C/2025 R3 (PanSTARRS).",
+        "url": "https://www.nationthailand.com/news/general/40064571",
+        "image": "https://media.nationthailand.com/uploads/images/md/2026/04/xZfabYHydPLPgrz5Svkg.webp",
+        "publishedAt": "2026-04-02T02:00:00Z",
+        "source": "Nation Thailand"
+      },
+      {
+        "title": "Artemis II Mission Launches Successfully",
+        "description": "The crew of Artemis II will not descend to the moon, but their capsule will fly over the far side of its surface.",
+        "url": "https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/",
+        "image": "https://media.wired.com/photos/69cdc8b72391edcacfeb9147/191:100/w_1280,c_limit/2269453122",
+        "publishedAt": "2026-04-02T01:55:00Z",
+        "source": "WIRED"
+      },
       {
         "title": "Device tracks 3D vibrations in bridges and buildings in real time",
         "description": "Scientists have developed a cost-effective and scalable method for monitoring buildings and bridges in real time.",
@@ -142,128 +198,72 @@
         "image": "https://cff2.earth.com/uploads/2026/04/01151137/real-time-structural-monitoring-system.jpg",
         "publishedAt": "2026-04-02T01:52:30Z",
         "source": "Earth.com"
-      },
-      {
-        "title": "Boulder space weather forecasters help with Artemis II mission",
-        "description": "Boulder's Space Weather Prediction Center has been working for years to help ensure Artemis II is a successful mission.",
-        "url": "https://www.cbsnews.com/colorado/news/boulder-space-weather-forecasters-artemis-ii-mission/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/02/363cccc8-3dec-48aa-87db-f809b338ae5b/thumbnail/1200x630/4f44d2270fd22395c3c536ae00716b3b/noaa-artemis-ii-launch-6vo-frame-1090.jpg",
-        "publishedAt": "2026-04-02T01:33:37Z",
-        "source": "CBS News"
-      },
-      {
-        "title": "Reactions as Artemis II astronauts lift off on historic lunar mission",
-        "description": "April 1 - Four astronauts blasted off from Florida on Wednesday on NASA's Artemis II mission, a 10-day trip around the moon that would be the farthest humans have ever traveled and a major step toward returning people to the lunar surface this decade. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/reactions-as-artemis-ii-astronauts-lift-off-on-historic-lunar-mission",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7c8706cd84eed107ac7ea66aa38d0f932cc03473f11b378f6e5f9dd00753d7b7",
-        "publishedAt": "2026-04-02T01:08:58Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "NASA Artemis II launch: Astronauts reach orbit on historic mission to moon and back",
-        "description": "Artemis II astronauts successfully reach orbit, marking humanity's first lunar mission in over 50 years, aiming for the moon.",
-        "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-astronauts-reach-orbit-on-historic-mission-to-moon-and-back/article70813994.ece",
-        "image": "https://th-i.thgim.com/public/incoming/b76jfb/article70813997.ece/alternates/LANDSCAPE_1200/2026-04-01T234336Z_1264972665_HP1EM411RF1WZ_RTRMADP_3_SPACE-MOON-ARTEMIS.JPG",
-        "publishedAt": "2026-04-02T01:03:07Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Mercury scout mission concept with solar sail propulsion",
-        "description": "The planet Mercury is the closest planet to the sun, and also the most difficult for spacecraft to visit and explore. This is because as spacecraft get closer to Mercury, the sun's enormous gravity pulls in the spacecraft, greatly increasing its speed and making it hard to slow down without large amounts of fuel. But what if a spacecraft could both travel to and explore Mercury without fuel? This could drastically reduce mission costs while delivering impactful science.",
-        "url": "https://phys.org/news/2026-04-mercury-scout-mission-concept-solar.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/mercury-scout-mission.jpg",
-        "publishedAt": "2026-04-02T01:00:06Z",
-        "source": "phys.org"
-      },
-      {
-        "title": "Nichole Ayers on flying to space, complexities of Artemis II mission",
-        "description": "Astronaut Nichole Ayers is no stranger to spaceflight. She spent more than 140 days in space and explains parts of the Artemis II mission.",
-        "url": "https://gazette.com/2026/04/01/local-astronaut-nichole-ayers-says-artemis-ii-mission-is-important-step-toward-moon-return-1/",
-        "image": "https://gazette.com/wp-content/uploads/2026/04/Nichole-Ayers-1024x683.jpg",
-        "publishedAt": "2026-04-02T00:43:21Z",
-        "source": "Colorado Springs Gazette"
-      },
-      {
-        "title": "Why is the Artemis 2 rocket launch different from all other rocket launches?",
-        "description": "That's one small sip of Manischewitz…",
-        "url": "https://www.space.com/space-exploration/artemis/why-is-the-artemis-2-rocket-launch-different-from-all-other-rocket-launches",
-        "image": "https://cdn.mos.cms.futurecdn.net/ixzEhGDP6LSgbd6ezoRiKk-2560-80.jpg",
-        "publishedAt": "2026-04-02T00:37:03Z",
-        "source": "space.com"
-      },
-      {
-        "title": "Gaia telescope reveals long-hidden symbiotic star systems",
-        "description": "Astronomers discover 13 new symbiotic stars in Gaia DR3 and help close a historic gap between theory and observation.",
-        "url": "https://www.earth.com/news/gaia-telescope-reveals-long-hidden-symbiotic-star-systems/",
-        "image": "https://cff2.earth.com/uploads/2026/04/01173305/new-symbiotic-stars-gaia-dr3-discovery.jpg",
-        "publishedAt": "2026-04-02T00:33:45Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "Led Infertility Treatment in Industry",
-        "description": "Gaudium IVF and Women Health Limited has launched AI-led infertility treatment in an industry-first initiative for India. The company has integrated advanced AI-driven embryology systems SiD and ERICA into clinical practice through collaboration with UK-based IVF 2.0. The milestone was inaugurated by Union Minister Shri Nitin Jairam Gadkari on April 1st, 2026, with early observations suggesting significant improvements in fertilisation and blastocyst development rates.",
-        "url": "https://scanx.trade/stock-market-news/companies/gaudium-ivf-launches-ai-led-infertility-treatment-in-industry-first-initiative/36640325",
-        "image": "http://news-images.dhan.co/gaudium-ivf-launches-ai-led-infertility-treatment-in-industry-first-initiative.jpg",
-        "publishedAt": "2026-04-02T01:52:05Z",
-        "source": "scanx.trade"
+        "title": "Google faces calls to prohibit AI videos for kids on YouTube",
+        "description": "More than 200 children's specialists, advocacy groups and schools sent a letter raising concerns about what they view as a lack of substance in AI-generated YouTube videos.",
+        "url": "https://www.japantimes.co.jp/business/2026/04/02/tech/google-ai-videos-kids-youtube/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/02/532683.jpg?v=3.1",
+        "publishedAt": "2026-04-02T02:32:09Z",
+        "source": "The Japan Times "
       },
       {
-        "title": "AI & Computational Thinking Curriculum Introduced for Classes 3-8 to Boost Future-Ready Learning",
-        "description": "The CBSE had set up an expert panel to create the curriculum for artificial intelligence and computational thinking., Education, Times Now",
-        "url": "https://www.timesnownews.com/education/ai-computational-thinking-curriculum-introduced-for-classes-38-to-boost-future-ready-learning-article-153978898",
-        "image": "https://images.timesnownews.com/thumb/msid-153978898,width-1280,height-720,resizemode-75/153978898.jpg",
-        "publishedAt": "2026-04-02T01:41:49Z",
-        "source": "Times Now"
+        "title": "10 home names inspired by Indian traditions and their meanings",
+        "description": "A home that follows Indian traditions is more than just a structure; it’s a reflection of centuries of tradition, culture, rituals, and meanings. From entry ceremonies to more mundane features like a courtyard, lamps, and rangoli, everything in an Indian home has a spiritual and social connotation. Naming your home after Indian traditions will give you a sense of continuity, a sense of grounding your home in values like prosperity, warmth, and positivity. These words aren’t just titles; they embody the spirit in which Indian homes have been built, that is, as sanctuaries. PC: AI-Generated",
+        "url": "https://timesofindia.indiatimes.com/life-style/home-garden/10-home-names-inspired-by-indian-traditions-and-their-meanings/photostory/129949403.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129949620,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-02T02:30:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Hon Hai Technology Group (Foxconn) Names Michael Chiang Rotating CEO, Boosting Leadership Governance",
-        "description": "**media[998580]**Stable and sustainable operations at core of innovative C-suite training amid AI era",
-        "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/pr-newswire/hon-hai-technology-group-foxconn-names-michael-chiang-rotating-ceo-boosting-leadership-governance/2313066",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/998578.jpg",
-        "publishedAt": "2026-04-02T01:38:11Z",
-        "source": "The Manila Times"
+        "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
+        "description": "ZHANGJIAGANG, China (AP) — In an industrial park in Zhangjiagang, a small city on China's east coast, a large humming and hissing machine feeds on piles of used…",
+        "url": "https://wtop.com/world/2026/04/ai-machine-sorts-clothes-faster-than-humans-to-boost-textile-recycling-in-china/",
+        "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+        "publishedAt": "2026-04-02T02:07:43Z",
+        "source": "WTOP"
       },
       {
-        "title": "Trump threatens to quit NATO, says US may exit Iran war soon",
-        "description": "President Donald Trump stated that the United States is close to ending its war with Iran, projecting a withdrawal within two to three weeks..US Iran war end, Trump Iran war strategy, AI geopolitical analysis, LLM conflict prediction, US NATO withdrawal possibility, Middle East conflict update, global oil supply disruption, Strait of Hormuz security, Iran nuclear program status, financial impact of Iran war, Pakistan mediation efforts, JD Vance ceasefire talks, airline fuel shortage concerns, drone attacks Kuwait, missile strikes Tel Aviv",
-        "url": "https://www.onmanorama.com/news/world/2026/04/02/trump-nato-withdrawal-iran-war-end.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/4/2/donald-trump.png",
-        "publishedAt": "2026-04-02T01:32:57Z",
-        "source": "Malayala Manorama"
+        "title": "Anthropic's AI Agent Claude leak that it termed 'human error' has exposed commercially …",
+        "description": "Tech News News: Anthropic is currently dealing with an accidental leak of the source code for Claude Code. Even though the company has termed this incident a 'human e.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-ai-agent-claude-leak-that-it-termed-human-error-has-exposed-commercially-/articleshow/129963827.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129963815,width-1280,height-720,imgsize-50340,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-02T02:07:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "ixigo-backed SqaaS rolls out agent platform ShellBot as the travel platform deepens AI push",
-        "description": "ShellBot is positioned as a new category of AI infrastructure, offering users their own dedicated virtual machine running an autonomous AI agent rather than relying on shared environments.",
-        "url": "https://www.moneycontrol.com/artificial-intelligence/ixigo-backed-sqaas-rolls-out-agent-platform-shellbot-as-the-travel-platform-deepens-ai-push-article-13877170.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2021/07/ixigo.jpg",
-        "publishedAt": "2026-04-02T01:30:27Z",
-        "source": "Moneycontrol"
+        "title": "Chinese company uses AI machine to sort clothes for recycling",
+        "description": "A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.",
+        "url": "https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4",
+        "image": "https://dims.apnews.com/dims4/default/e39909c/2147483647/strip/true/crop/8484x5653+36+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fcb%2F369a5742e9952dca8095ede2443b%2F8f350843a5754430bad649b125698611",
+        "publishedAt": "2026-04-02T02:03:25Z",
+        "source": "The Associated Press"
       },
       {
-        "title": "Chuck Norris' family left furious over AI-generated videos of star after his death",
-        "description": "Chuck Norris' family has been left furious over A.I. videos sharing 'false' information following the star's death nearly two weeks earlier.",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15699927/chuck-norris-family-furious-ai-videos-star-death.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/02/02/107598253-0-image-m-40_1775091903568.jpg",
-        "publishedAt": "2026-04-02T01:25:11Z",
-        "source": "Daily Mail Online"
+        "title": "SpaceX files Confidentially for IPO: What this means; and how Elon Musk’s company may have left OpenAI and Anthropic 'behind'",
+        "description": "Tech News News: Elon Musk's Space company SpaceX has reportedly filed confidentially for an initial public offering (IPO). SpaceX confidentially filing brings Elon Mu.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/spacex-files-confidentially-for-ipo-what-this-means-and-how-elon-musks-company-may-have-left-openai-and-anthropic-behind/articleshow/129965231.cms",
+        "image": "https://static.toiimg.com/thumb/msid-129965227,width-1280,height-720,imgsize-116302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-02T02:01:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "NASA launches Artemis II, first crewed lunar mission in half a century",
-        "description": "Artemis II mission marks a significant step in human lunar exploration as four astronauts journey around the Moon. This mission, powered by advanced.Artemis II mission, Moon landing mission, NASA astronauts to Moon, human lunar exploration, Artemis program, AI in space exploration, future of lunar travel, Artemis II launch, Orion spacecraft, Space Launch System, deep space mission, crewed lunar return",
-        "url": "https://www.onmanorama.com/news/world/2026/04/02/artemis-ii-moon-mission-nasa-lunar-exploration.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/4/2/artemis-ii-nasa.png",
-        "publishedAt": "2026-04-02T01:19:22Z",
-        "source": "Malayala Manorama"
+        "title": "What Zhipu and MiniMax’s first post-IPO earnings say about the 2 Chinese AI start-ups",
+        "description": "The two Chinese start-ups show promising commercialisation of AI models, which are reflected in rising demand and revenue.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3348699/what-zhipu-and-minimaxs-first-post-ipo-earnings-say-about-2-chinese-ai-start-ups",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/01/2f877a20-8860-4321-9912-ca7f9c45c5e5_0fe823f5.jpg?itok=utDhWR9A&v=1775047428",
+        "publishedAt": "2026-04-02T02:00:09Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Populist Mani C Kappen scores over Jose K Mani in Pala, Shone plays poster boy of change",
-        "description": "The Pala constituency is experiencing a close triangular contest between UDF, LDF, and NDA candidates, with the BJP's performance seen as potentially.Pala election, Jose K Mani, Mani C Kappen, Shone George, Kerala election, UDF LDF NDA contest, independent voters Pala, youth migration Pala, development candidate Pala, P C George son election, anti-incumbency Kerala, AI in election analysis, LLM political forecasting, data-driven political strategy, real-time election insights",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/02/pala-assembly-election-analysis-jose-k-mani-kappen-shone-trends.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/2/pala-poll-meter2.jpg",
-        "publishedAt": "2026-04-02T01:11:00Z",
-        "source": "Malayala Manorama"
+        "title": "Sharon AI shares soar on $1.8b deal despite posting bigger loss",
+        "description": "The Sydney-based, Nasdaq-listed cloud infrastructure group’s shares soared more than 20 per cent after announcing a deal to expand its fleet of Nvidia AI chips.",
+        "url": "https://www.afr.com/technology/sharon-ai-shares-soar-on-1-8b-deal-despite-posting-bigger-loss-20260402-p5zku4",
+        "image": "https://static.ffx.io/images/$zoom_0.3813%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_651%2C$y_49/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/87f549472e61ec063d2492fe6fcbe59693960116",
+        "publishedAt": "2026-04-02T01:59:58Z",
+        "source": "Australian Financial Review"
       }
     ]
   }
