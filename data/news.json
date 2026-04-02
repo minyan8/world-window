@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-02T11:34:23.033Z",
+  "fetchedAt": "2026-04-02T12:37:34.491Z",
   "sections": {
     "world": [
       {
-        "title": "Cleaner markets for safer food in Cameroon",
-        "description": "Geneva, Switzerland, 01 April 2026- /African Media Agency (AMA)/- Along with Senegal, Cameroon is implementing the “Healthy Food Market” project in the city of Douala through two pilot markets: New Deido and Ndogpassi. Coordinated by the urban municipality, this project aims to strengthen the prevention of foodborne diseases and improve…",
-        "url": "https://www.newsghana.com.gh/cleaner-markets-for-safer-food-in-cameroon/",
-        "image": "https://b843437.smushcdn.com/843437/wp-content/uploads/2024/08/logo-newsghana.png?lossy=2&strip=1&webp=1",
-        "publishedAt": "2026-04-01T23:34:06Z",
-        "source": "newsghana.com.gh"
+        "title": "Trump says US objectives in Iran 'nearing completion'",
+        "description": "US President Donald Trump has said that the United States is \"nearing completion\" of its objectives in the war against Iran.",
+        "url": "https://www.rte.ie/news/middle-east/2026/0402/1566383-us-iran/",
+        "image": "https://www.rte.ie/images/00242808-1600.jpg",
+        "publishedAt": "2026-04-02T00:23:31Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
-        "description": "The force has an initial mandate of 12 months to address widespread gang violence in Haiti ahead of its elections.",
-        "url": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69cda423-1775084579.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-01T23:29:09Z",
+        "title": "US-Europe rift widens as Trump lashes out at NATO allies over Mideast war",
+        "description": "LONDON (AP) — U.S. President Donald Trump says he's strongly considering pulling the United States out of NATO, ratcheting up his criticism of European...",
+        "url": "https://mb.com.ph/2026/04/02/us-europe-rift-widens-as-trump-lashes-out-at-nato-allies-over-mideast-war",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/02/90713.webp",
+        "publishedAt": "2026-04-02T00:21:33Z",
+        "source": "Manila Bulletin"
+      },
+      {
+        "title": "Powerful 7.4 magnitude earthquake in Indonesia's Molucca Sea kills 1 person, sets off small tsunami",
+        "description": "Indonesia, a vast archipelago of more than 280 million people, sits on major seismic faults and is frequently hit by earthquakes​.",
+        "url": "https://www.cbsnews.com/news/indonesia-molucca-sea-earthquake-tsunami/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/02/7b2f652e-16fe-4751-87d3-ff6b4a9d50a9/thumbnail/1200x630/b57e4e3ccf1c123a901ff4652241e680/screenshot-2026-04-01-at-8-05-33-pm.png",
+        "publishedAt": "2026-04-02T00:16:00Z",
+        "source": "CBS News"
+      },
+      {
+        "title": "Tsunami warning lifted after 7.4-magnitude earthquake hits Indonesia",
+        "description": "Locals are reckoning with the aftermath of the quake, which damaged buildings and caused at least one death.",
+        "url": "https://www.bbc.com/news/live/c8xy522nd5lt",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14bf/live/623e4af0-2e35-11f1-a51c-f5c41fb3ee77.jpg",
+        "publishedAt": "2026-04-02T00:06:45Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Watch live as President Trump addresses nation on Iran war",
+        "description": "President Trump will address the nation \"to provide an important update on Iran\" as he anticipates the U.S. will end its military campaign soon.",
+        "url": "https://www.usatoday.com/story/news/politics/2026/04/01/donald-trump-iran-war-address-watch-stream-live/89423026007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/01/USAT/89423097007-2262903387.jpg?crop=4198,2361,x999,y896&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-04-02T00:00:00Z",
+        "source": "usatoday.com"
+      },
+      {
+        "title": "Yemen's Houthis threaten potential closure of key Red Sea strait if Gulf states join war",
+        "description": "As Iranian proxies keep up attacks, senior official says the Yemeni rebels could also move to close Bab el-Mandeb 'should the aggression against Iran and Lebanon escalate savagely'",
+        "url": "https://www.timesofisrael.com/yemens-houthis-threaten-potential-closure-of-key-red-sea-strait-if-gulf-states-join-war/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260327__A4XY7T3__v1__HighRes__YemenIranUsIsraelWarProtest-e1774729233327.jpg",
+        "publishedAt": "2026-04-01T23:57:33Z",
+        "source": "The Times of Israel"
+      },
+      {
+        "title": "Several countries on tsunami watch after 7.8 magnitude earthquake hits Indonesia",
+        "description": "A 7.8 magnitude earthquake has struck off the coast of eastern Indonesia, prompting tsunami warnings across...",
+        "url": "https://www.9news.com.au/world/several-countries-on-tsunamniwatch-after-78-magnitude-earthquake-hits-indonesia/a179d8be-503f-498a-af96-25b52b5e8e14",
+        "image": "https://imageresizer.static9.net.au/0NxZla9HUpgzeXWjxtYJqx52cNg=/0x0:2804x1577/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F19937a60-83ec-477c-ab9e-577ae17e5374",
+        "publishedAt": "2026-04-01T23:55:30Z",
+        "source": "9News"
+      },
+      {
+        "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+        "description": "The epicentre of the ⁠earthquake was about ⁠120km (75 miles) from Ternate, in Indonesia’s North Maluku ‌province.",
+        "url": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/WEBMAP_MALUKU_TERNATE-1775087619.jpg?resize=1200%2C675",
+        "publishedAt": "2026-04-01T23:54:52Z",
         "source": "Al Jazeera"
-      },
-      {
-        "title": "7.4-magnitude quake hits eastern Indonesia, tsunami warning issued",
-        "description": "A warning centre said that hazardous tsunami waves were possible 'within 1,000km of the epicenter' along the coasts of Indonesia, the Philippines and Malaysia.",
-        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/04/02/7-4-magnitude-quake-hits-eastern-indonesia-tsunami-warning-issued",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/01/66f0ac25-ombak-waves-high-tide-rawpixel-resize-120125.webp",
-        "publishedAt": "2026-04-01T23:21:10Z",
-        "source": "Free Malaysia Today"
-      },
-      {
-        "title": "7.4-magnitude quake off Indonesia kills one, tsunami warning lifted",
-        "description": "Within half an hour of the quake, waves up to 75cm were recorded in North Minahasa and 20cm in Bitung, both north of Sulawesi island.",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-earthquake-tsunami-warning-molucca-sea-manado-6032326",
-        "image": "https://dam.mediacorp.sg/image/upload/s--uWwuXKu5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/02/000_a6hg4j7.jpg?itok=m66fZg2J",
-        "publishedAt": "2026-04-01T23:16:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Spring forums signal certainty, stability",
-        "description": "A series of high-profile forums hosted by China in close succession over the past couple of weeks have reaffirmed the country's commitment to serving as a cornerstone of certainty and an anchor of stability, offering fresh momentum and confidence to a world fraught with uncertainty.",
-        "url": "https://www.chinadaily.com.cn/a/202604/02/WS69cda51ba310d6866eb41431.html",
-        "image": "http://img2.chinadaily.com.cn/images/202604/02/69cda51ba310d68600fae6fc.jpeg",
-        "publishedAt": "2026-04-01T23:06:00Z",
-        "source": "China Daily"
-      },
-      {
-        "title": "Israel's occupation of Lebanon comes from an outdated playbook",
-        "description": "Israel is now fighting on three fronts: Iran, Gaza and Lebanon. A ground operation in Lebanon stretches Israeli society and its military.",
-        "url": "https://www.crikey.com.au/2026/04/02/israel-lebanon-war-iran-middle-east-occupation/",
-        "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/04/20260331159649238477-original-copy.jpg?quality=70&w=1024",
-        "publishedAt": "2026-04-01T23:03:44Z",
-        "source": "Crikey"
-      },
-      {
-        "title": "Global super-rich may have hidden $3.55tn from tax officials, says Oxfam",
-        "description": "Charity calls for a levy on the very richest and the closing of tax loopholes in its report on offshore wealth",
-        "url": "https://www.theguardian.com/world/2026/apr/02/global-super-rich-hidden-355trn-from-tax-officials-oxfam",
-        "image": "https://i.guim.co.uk/img/media/52b7e008651b405de12498acdc7d35f154375bd5/178_0_4188_3352/master/4188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d96815e1341a9a1f9dd9b320e2fcc586",
-        "publishedAt": "2026-04-01T23:02:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "How to check 2026 WASSCE Private First Series results",
-        "description": "The West African Examinations Council has announced the release of provisional results for candidates who sat the 2026 West African Senior School Certificate Examination for Private Candidates, First Series.",
-        "url": "https://www.myjoyonline.com/how-to-check-2026-wassce-private-first-series-results/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-22.04.51.jpeg",
-        "publishedAt": "2026-04-01T23:01:31Z",
-        "source": "MyJoyOnline"
       }
     ],
     "business": [
       {
-        "title": "The SpaceX IPO Could Raise Over $75 Billion. Here's Everything Investors Need to Know.",
-        "description": "The SpaceX IPO is likely to be the largest in history.",
-        "url": "https://www.fool.com/investing/2026/04/01/spacex-ipo-raise-over-75-billion-invest-need-know/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F862549%2Frocket-launch.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-01T23:33:57Z",
-        "source": "The Motley Fool"
+        "title": "Local councils are calling to freeze AI data centre construction",
+        "description": "Data centres are already delaying houses being built because of their demands for electricity and water, NSW local councils have claimed.",
+        "url": "https://www.crikey.com.au/2026/04/02/nsw-local-councils-inquiry-freeze-ai-data-centre-construction/",
+        "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/04/AIDataCentres5_1680x945.jpg?quality=70&w=1024",
+        "publishedAt": "2026-04-02T00:36:15Z",
+        "source": "Crikey"
       },
       {
-        "title": "Murrumbidgee Council considers 4-day week to save $1.1m",
-        "description": "A rural NSW council is considering a major shake-up to the traditional working week as it searches for ways to cut costs without raising rates.",
-        "url": "https://www.news.com.au/finance/work/at-work/murrumbidgee-council-explores-fourday-work-week-to-avoid-rate-rise-amid-debate/news-story/7bb6fb4301c947cf3494be1c6120d6bd",
-        "image": "https://content.api.news/v3/images/bin/a2ad9a2f532fc6bdb345ac7bf8d6179c",
-        "publishedAt": "2026-04-01T23:31:18Z",
-        "source": "News.com.au"
+        "title": "Nigerian manufacturers face interest rates as high as 60%",
+        "description": "Despite the CBN's monetary policy easing, Nigerian manufacturers still face borrowing costs up to 60%, impacting investment and economic growth.",
+        "url": "https://punchng.com/manufacturers-face-60-interest-rate-report/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/03/08220917/CBN-Building-Abuja-1200x630.jpg",
+        "publishedAt": "2026-04-02T00:35:45Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "IndiGo raises fuel surcharge from today, tickets get costlier",
-        "description": "IndiGo passengers will face increased fuel charges for all new bookings from April 2, 2026, due to a rise in aviation fuel prices.",
-        "url": "https://www.newsbytesapp.com/news/business/indigo-raises-fuel-surcharge-from-today-tickets-get-costlier/story",
-        "image": "https://i.cdn.newsbytesapp.com/images/l142_13671775083508.jpg",
-        "publishedAt": "2026-04-01T23:30:10Z",
-        "source": "NewsBytes"
+        "title": "Thompson Shipping Group expands fleet with handysize purchase",
+        "description": "The Fremantle (Western Australia)-based Thompson Shipping Group has expanded its dry bulk fleet through its subsidiary, Thompson Shipping Lines. This",
+        "url": "https://shippingtelegraph.com/shipsale-news/thompson-shipping-group-expands-fleet-with-handysize-bulker-purchase/",
+        "image": "https://shippingtelegraph.com/wp-content/uploads/2026/04/Thompson-Shipping-Group.jpg",
+        "publishedAt": "2026-04-02T00:32:20Z",
+        "source": "Shipping Telegraph"
       },
       {
-        "title": "Entanglement and electronic coherence in attosecond molecular photoionization",
-        "description": "Electronic coherences resulting from molecular photoionization underlie the process of attosecond charge migration, widely investigated as a possible path towards controlled charge-directed reactivity1–4. However, photoionization often creates entangled ions and photoelectrons. This entanglement compromises the ability to explore coherent ultrafast electron dynamics within ions or of their accompanying photoelectrons5–8. Here we present experiments and calculations in which hydrogen molecules are ionized by the combination of a phase-locked pair of isolated attosecond laser pulses and a few-cycle near-infrared (NIR) laser pulse. The electronic coherence in the dissociating H2+ ion is influenced by ion–photoelectron entanglement. We demonstrate experimental control over the degree of entanglement by varying the delay between the two attosecond pulses and the delay between these pulses and the few-cycle NIR pulse. Our work demonstrates the importance of proper consideration of the role of quantum entanglement for the optimal observation of electronic coherences in attosecond experiments. Dissociative ionization of H2 molecules by the combination of a phase-locked attosecond laser pair and a few-cycle NIR laser shows that ion–photoelectron entanglement influences electronic coherence in H2+, allowing control over the degree of entanglement by varying the delay between the pulses.",
-        "url": "https://www.nature.com/articles/s41586-026-10230-2?error=cookies_not_supported&code=cb870911-3b0e-473d-bd46-01c2c1cb9353",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10230-2/MediaObjects/41586_2026_10230_Fig1_HTML.png",
-        "publishedAt": "2026-04-01T23:23:51Z",
-        "source": "nature.com"
+        "title": "India's top consulting and audit firms hit by AI and war; job cuts, hiring freeze loom",
+        "description": "Consulting and auditing firms are slowing hiring and cutting jobs due to AI automation and reduced client demand linked to the West Asia war. Research and production services roles face the biggest impact, while hiring shifts toward AI, data, and risk-focused positions.",
+        "url": "https://www.livemint.com/companies/india-consulting-big-four-jobs-layoffs-ai-automation-west-asia-war-impact-11775034304364.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/01/1600x900/logo/Artificial_intelligence_1775060503429_1775060523072.jpg",
+        "publishedAt": "2026-04-02T00:31:12Z",
+        "source": "Mint"
       },
       {
-        "title": "Scammed, but still told to settle credit card bill",
-        "description": "KUALA LUMPUR: A 67-year-old contractor who lost nearly RM20,000 to credit card fraud involving overseas transactions has been required to settle the full outstanding amount, despite disputing the charges.",
-        "url": "https://www.thestar.com.my/news/nation/2026/04/02/scammed-but-still-told-to-settle-credit-card-bill",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3840177.jpg",
-        "publishedAt": "2026-04-01T23:22:55Z",
-        "source": "The Star"
+        "title": "Hong Kong home bought 52 years ago fetches owner 252 times return",
+        "description": "Veteran sports administrator Lawrence Yu is selling his house for about HK$190 million, for which he paid HK$750,000 in 1974.",
+        "url": "https://www.scmp.com/business/banking-finance/article/3348677/hong-kong-home-bought-52-years-ago-fetches-owner-252-times-return",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/01/83bc3cfa-b327-4834-90f9-62df3ffd2960_38f2bbe0.jpg?itok=uQi2CqyU&v=1775037709",
+        "publishedAt": "2026-04-02T00:30:08Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "A new app is bringing Ireland’s property market into the AI era",
-        "description": "Buyers can now explore Ireland’s largest property marketplace in a smarter, more personalised way.",
-        "url": "https://www.thejournal.ie/daft-chatgpt-app-6990287-Mar2026/",
-        "image": "https://img2.thejournal.ie/article/6990287/river/?height=400&version=6999170",
-        "publishedAt": "2026-04-01T23:18:10Z",
-        "source": "The Journal"
+        "title": "How much will E10, unleaded and diesel petrol cost in your city?",
+        "description": "Use our fuel price calculator to calculate how much a full tank of petrol will cost you in Sydney, Melbourne, Brisbane, Canberra, Adelaide, Darwin, Hobart and Perth. Select your city, your type of fuel and your vehicle type.",
+        "url": "https://www.theage.com.au/national/fuel-price-calculator-how-much-it-will-cost-to-fill-up-your-car-20260401-p5zkp1.html",
+        "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e8fc3c805d739ba20e659140192dbae7ee067aa68854030776410c45176fa838",
+        "publishedAt": "2026-04-02T00:30:00Z",
+        "source": "theage.com.au"
       },
       {
-        "title": "slim front load washing machine",
-        "description": "Xiaomi launches the Mijia 10Kg Ultra-Slim Washing Machine, featuring a sleek design, advanced cleaning, quiet operation, and smart home integration.",
-        "url": "https://www.gizmochina.com/2026/04/01/xiaomi-mijia-10kg-ultra-slim-washing-machine-launched-specs-price/",
-        "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Xiaomi-Mijia-10Kg-Ultra-Slim-Washing-Machine.png",
-        "publishedAt": "2026-04-01T23:14:57Z",
-        "source": "Gizmochina"
+        "title": "Jeffrey Cheah urges GLICs to evaluate Sunway's IJM bid objectively",
+        "description": "Tan Sri Jeffrey Cheah Fook Ling, the founder and 59.4% shareholder of Sunway Bhd (KL:SUNWAY), is urging shareholders of IJM Corp Bhd (KL:IJM), particularly government-linked investment funds (GLICs), to evaluate Sunway's takeover bid objectively, and not be influenced by the “noises” made by certain quarters.",
+        "url": "https://theedgemalaysia.com/node/798330",
+        "image": "https://assets.theedgemarkets.com/SAM_0040_20260402011525_theedgemalaysia.jpg",
+        "publishedAt": "2026-04-02T00:30:00Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "China Communications Services Corporation Limited (CUCSY) Q4 2025 Earnings Call Prepared Remarks Transcript",
-        "description": "China Communications Services Corporation Limited (CUCSY) Q4 2025 Earnings Call March 30, 2026 8:00 PM EDTCompany ParticipantsWai Cheung Chung - Company...",
-        "url": "https://seekingalpha.com/article/4887979-china-communications-services-corporation-limited-cucsy-q4-2025-earnings-call-prepared",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-04-01T23:12:07Z",
-        "source": "seekingalpha.com"
+        "title": "UBS Says Dollar-Yen May Rise to 175 on Extended Oil Disruption",
+        "description": "The yen’s slide is seen continuing even as Japanese officials ramp up intervention rhetoric, according to UBS Group AG strategists, who see the dollar-yen pair reaching 175 by year-end in an “extended disruption” scenario.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-02/ubs-says-dollar-yen-may-rise-to-175-on-extended-oil-disruption",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idfSIxj1Z_Xg/v0/1200x800.jpg",
+        "publishedAt": "2026-04-02T00:28:00Z",
+        "source": "bloomberg.com"
       }
     ],
     "science": [
+      {
+        "title": "Why is the Artemis 2 rocket launch different from all other rocket launches?",
+        "description": "That's one small sip of Manischewitz…",
+        "url": "https://www.space.com/space-exploration/artemis/why-is-the-artemis-2-rocket-launch-different-from-all-other-rocket-launches",
+        "image": "https://cdn.mos.cms.futurecdn.net/ixzEhGDP6LSgbd6ezoRiKk-2560-80.jpg",
+        "publishedAt": "2026-04-02T00:37:03Z",
+        "source": "space.com"
+      },
+      {
+        "title": "Gaia telescope reveals long-hidden symbiotic star systems",
+        "description": "Astronomers discover 13 new symbiotic stars in Gaia DR3 and help close a historic gap between theory and observation.",
+        "url": "https://www.earth.com/news/gaia-telescope-reveals-long-hidden-symbiotic-star-systems/",
+        "image": "https://cff2.earth.com/uploads/2026/04/01173305/new-symbiotic-stars-gaia-dr3-discovery.jpg",
+        "publishedAt": "2026-04-02T00:33:45Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Nudibranchs use tiny crystals to create their dazzling colors",
+        "description": "Scientists reveal how nudibranchs create dazzling colors through microscopic crystals, unlocking a surprising marine mystery.",
+        "url": "https://www.earth.com/news/nudibranchs-use-microscopic-crystals-specks-to-create-otherworldly-colors/",
+        "image": "https://cff2.earth.com/uploads/2026/04/01114544/color-changing-marine-sea-slugs.jpg",
+        "publishedAt": "2026-04-02T00:33:45Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "L3Harris Powers First Crewed Mission Around the Moon in 50 Years",
+        "description": "L3Harris Technologies (NYSE: LHX) has successfully powered the historic launch of the Artemis II mission, providing propulsion and avionics for the first cre...",
+        "url": "https://www.businesswire.com/news/home/20260401115410/en/L3Harris-Powers-First-Crewed-Mission-Around-the-Moon-in-50-Years",
+        "image": "https://mms.businesswire.com/media/20260401115410/en/2764203/22/31847_SPPS_Social_rtemisIILaunchPhotos.jpg",
+        "publishedAt": "2026-04-02T00:15:00Z",
+        "source": "Business Wire"
+      },
+      {
+        "title": "Stony Brook University Professor Timothy Glotch to Serve on NASA’s Artemis Mission First Geology Team",
+        "description": "The University of New York at Stony Brook (Stony Brook University) professor and chair of the Department of Geosciences in the College of Arts and Sciences Timothy Glotch will be a participating scientist with NASA (National Aeronautics and Space Administration) as part of Artemis’  first lunar surface science team.  Professor Glotch is among 10 participating scientists who are joining the team that will shape a science plan for astronauts to complete on the lunar surface under the Artemis",
+        "url": "https://www.newswise.com/articles/stony-brook-university-professor-timothy-glotch-to-serve-on-nasa-s-artemis-mission-first-geology-team",
+        "image": "https://www.newswise.com/images/uploads/2026/04/01/69cdb0654603f_ProfessorGlotchPhoto-CreditTimGlotch.jpg",
+        "publishedAt": "2026-04-01T23:50:00Z",
+        "source": "Newswise"
+      },
+      {
+        "title": "Tree Branch Orientation Identified as Indicator of Rehydration During Spring by UBC Okanagan Researchers",
+        "description": "Researchers at the University of British Columbia Okana […]",
+        "url": "https://www.geneonline.com/tree-branch-orientation-identified-as-indicator-of-rehydration-during-spring-by-ubc-okanagan-researchers/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-04-01T23:38:20Z",
+        "source": "geneonline.com"
+      },
       {
         "title": "Statement by Prime Minister Carney on the launch of the Artemis II mission",
         "description": "OTTAWA, ON, April 1, 2026 /CNW/ - \"Today, Canadian Space Agency astronaut Colonel Jeremy Hansen makes history as the first Canadian to venture to the Moon.",
@@ -150,120 +198,72 @@
         "image": "https://artthreat.net/wp-content/uploads/2026/01/cropped-Art-Threat-Logo.png",
         "publishedAt": "2026-04-01T23:20:53Z",
         "source": "artthreat.net"
-      },
-      {
-        "title": "Protein Model Test Sheds Light on AI Black Box",
-        "description": "AI language models, used to generate human-like text to power chatbots and create content, are also revolutionizing biology by treating complex",
-        "url": "https://www.miragenews.com/protein-model-test-sheds-light-on-ai-black-box-1649227/",
-        "image": "https://news.emory.edu/stories/2026/04/esc_bromberg_protein_language_models_01-04-2026/thumbs/sized_scatter_plot.jpg",
-        "publishedAt": "2026-04-01T23:14:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "To the Moon: Canadian Space Agency astronaut Jeremy Hansen lifts off for Artemis II",
-        "description": "Today, the Honourable Mélanie Joly congratulates Canadian Space Agency (CSA) astronaut Colonel Jeremy Hansen as the first Canadian to venture to the Moon aboard Artemis II, the first crewed mission to the Moon since 1972.",
-        "url": "https://www.canada.ca/en/space-agency/news/2026/03/april-1st-2026--longueuil-quebec.html",
-        "image": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico",
-        "publishedAt": "2026-04-01T23:13:09Z",
-        "source": "canada.ca"
-      },
-      {
-        "title": "Moon phase today explained: What the Moon will look like on April 1, 2026",
-        "description": "See the Moon phase expected for April 1, 2026 as well as when the next Full Moon is expected.",
-        "url": "https://mashable.com/article/moon-phase-today-april-1",
-        "image": "https://helios-i.mashable.com/imagery/articles/06Kn1SDepAP9WK4uKsZT5A5/hero-image.fill.size_1200x675.v1774879336.jpg",
-        "publishedAt": "2026-04-01T23:12:52Z",
-        "source": "Mashable"
-      },
-      {
-        "title": "Astronauts blast off for first manned lunar journey in more than 50 years",
-        "description": "Four astronauts blasted off aboard a massive NASA rocket Wednesday on a long-anticipated journey around the moon, the first crewed lunar flyby in more than 50 years. With an intense roar that reverberated far beyond the launchpad the enormous orange-and-white rocket carried three Americans and one Canadian away from Florida's…",
-        "url": "https://japantoday.com/category/world/astronauts-blast-off-for-historic-us-lunar-journey",
-        "image": "https://media.japantoday.com/img/store/df/72/a16eb046d54c2657ba0bd9f2d7061fa6f88d/c5f25a68c629386ca5bff9170d4f0915ac674a2e/_w1700.jpeg",
-        "publishedAt": "2026-04-01T23:09:07Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "NASA launches 4 astronauts to the moon on historic Artemis 2 voyage, a lunar leap for the 21st century",
-        "description": "NASA launched its Artemis 2 mission today (April 1), sending astronauts toward the moon for the first time in more than 50 years.",
-        "url": "https://www.space.com/space-exploration/artemis/nasa-launches-4-astronauts-to-the-moon-on-historic-artemis-2-voyage-a-lunar-leap-for-the-21st-century",
-        "image": "https://cdn.mos.cms.futurecdn.net/KCNpgX8ATtYKPNTcf9aEba-1920-80.jpg",
-        "publishedAt": "2026-04-01T23:02:39Z",
-        "source": "space.com"
-      },
-      {
-        "title": "'Thundering ascent': Artemis II on its way to the moon",
-        "description": "Liftoff! The Artemis II ​mission has sent ‌its crew on a nearly 10-day journey around the moon and...",
-        "url": "https://www.canberratimes.com.au/story/9212537/thundering-ascent-artemis-ii-on-its-way-to-the-moon/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d7b8056b-e5dd-41ab-b16e-39cc6abb8095.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-04-01T23:00:27Z",
-        "source": "The Canberra Times"
       }
     ],
     "ai": [
       {
-        "title": "Blind artist to run marathon using AI glasses and app in ‘world first’",
-        "description": "Clarke Reynolds, known as Braille creative Mr Dot, is set to run the Brighton Marathon with the help of remote volunteers supporting him through tech.",
-        "url": "https://www.standard.co.uk/news/tech/dot-braille-portsmouth-victoria-coren-mitchell-b1277428.html",
-        "image": "https://static.standard.co.uk/2026/04/02/00/27122029-ba6e4c13-7327-48ff-985e-e3c7b4739c18.jpeg?width=1200&auto=webp&quality=75",
-        "publishedAt": "2026-04-01T23:24:58Z",
-        "source": "Evening Standard"
+        "title": "Chuck Norris family breaks silence on misleading reports about actor's death",
+        "description": "Chuck Norris' family is giving fans a warning about fake and AI-generated stories circulating on the internet about the action film star's death.\nThe late actors familt release a statement on the...",
+        "url": "https://www.thenews.com.pk/latest/1397440-chuck-norris-family-addresses-misleading-reports-about-actors-death",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-02/1397440_060714_updates.jpg",
+        "publishedAt": "2026-04-02T00:33:00Z",
+        "source": "The News International"
       },
       {
-        "title": "Google AI Pro subscribers get a huge storage boost at no extra cost",
-        "description": "A huge and very welcome leap",
-        "url": "https://www.androidpolice.com/google-ai-pro-subscribers-get-a-huge-storage-boost-at-no-extra-cost/",
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/google-ai-pro-logo-surrounded-by-floating-feature-previews-on-a-blue-teal-gradient-background.png?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-01T23:21:56Z",
-        "source": "Android Police"
+        "title": "Brands struggle with AI disclosure as usage surges across marketing",
+        "description": "Nearly four in five global brands are already using AI-generated content in consumer-facing marketing, yet most are still unsure how, or when, to tell consumers about it.",
+        "url": "https://www.marketing-interactive.com/brands-struggle-with-ai-disclosure-as-usage-surges-across-marketing",
+        "image": "https://marketing-interactive-assets.b-cdn.net/article_images/brands-struggle-with-ai-disclosure-as-usage-surges-across-marketing/1775017242_WFA%20research.jpg",
+        "publishedAt": "2026-04-02T00:32:08Z",
+        "source": "Marketing Interactive"
       },
       {
-        "title": "Top Analyst Calls Micron Stock (MU) a “Top Pick,” Sees Multi-Year AI Upside",
-        "description": "Micron Technology (MU) stock rallied about 9% on Wednesday as it continued to gain the confidence of Wall Street analysts. Top-rated Cantor Fitz...",
-        "url": "https://markets.businessinsider.com/news/stocks/top-analyst-calls-micron-stock-mu-a-top-pick-sees-multi-year-ai-upside-1035989329",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-123.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-01T23:21:07Z",
-        "source": "Markets Insider"
+        "title": "India's top consulting and audit firms hit by AI and war; job cuts, hiring freeze loom",
+        "description": "Consulting and auditing firms are slowing hiring and cutting jobs due to AI automation and reduced client demand linked to the West Asia war. Research and production services roles face the biggest impact, while hiring shifts toward AI, data, and risk-focused positions.",
+        "url": "https://www.livemint.com/companies/india-consulting-big-four-jobs-layoffs-ai-automation-west-asia-war-impact-11775034304364.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/01/1600x900/logo/Artificial_intelligence_1775060503429_1775060523072.jpg",
+        "publishedAt": "2026-04-02T00:31:12Z",
+        "source": "Livemint"
       },
       {
-        "title": "Analysis-SpaceX’s orbital data centers could face same hurdles as Microsoft’s abandoned undersea project",
-        "description": "LOS ANGELES, April 1 (Reuters) - SpaceX on Wednesday filed for an IPO that Elon ⁠Musk says will bankroll an effort to turn the rocket maker into an AI powerhouse, launching up to 1 million data‑center satellites into orbit to bypass power and water limits on Earth.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/02/analysis-spacexs-orbital-data-centers-could-face-same-hurdles-as-microsofts-abandoned-undersea-project",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3840442.jpg",
-        "publishedAt": "2026-04-01T23:18:00Z",
-        "source": "The Star"
+        "title": "Promotion Day celebrated at Vivekanand Millennium School",
+        "description": "‘Samvardhanam 2026’ — The Promotion Day at St Vivekanand Millennium School, Pinjore, was a vibrant and heart-warming celebration that beautifully captured the spirit of students’ growth, efforts and achievements. Held at Dr BR Ambedkar Auditorium, the event transformed the traditional result day into a joyful and unforgettable experience where every child felt valued, motivated and truly celebrated. The programme began with a soulful rendition of Vande Mataram, followed by an energetic celebration that lit up the stage with rhythmic music and dazzling cold pyros, setting an enthusiastic tone for the day. As excitement built up, students eagerly waited to hear their names. The moment their names were announced with lively music, they walked onto the stage with great confidence. Their success was celebrated in a grand manner with sparkling effects and cheerful applause, making each child feel special and proud. The major highlights of the event were the beautifully arranged 360-degree selfie stand and other selfie corners where students and parents captured joyful moments together in their graceful convocation attire. These vibrant setups became the centre of attraction, preserving unforgettable memories of this milestone day. Bringing smiles all around, cartoon characters interacted with students, adding a playful and joyous vibe to the celebration. Adding a futuristic touch, the school recognised students’ participation in skill-based learning. Certifications in advanced domains such as Blockchain, Artificial Intelligence, Coding & Programming, and Cyber Security — awarded in collaboration with IBM and TransNeuron —reflected the school’s commitment to preparing students for the future. The Parent Appreciation Card Initiative added an emotional touch, as parents shared heartfelt messages of pride and encouragement, strengthening bonds and boosting students’ confidence. Parents also appreciated the school’s dedicated efforts in nurturing their children’s overall development. Students also expressed their gratitude towards their parents, teachers and school, reflecting happiness, confidence and a strong determination to move ahead. Principal Dr Piyush Punj emphasised that education goes beyond marks, focusing on building confident and responsible individuals.",
+        "url": "https://www.tribuneindia.com/news/schools/promotion-day-celebrated-at-vivekanand-millennium-school/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJiNzkzMDcwLTJlMmItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-04-02T00:30:24Z",
+        "source": "The Tribune"
       },
       {
-        "title": "SINTRONES to Demonstrate Secure Edge AI for Industrial, Mobility, and Mission-Critical Applications",
-        "description": "At Japan IT Week Spring 2026, Enabling IEC 62443-4-1-Aligned Security and Real-Time Intelligence Across Connected Infrastructure",
-        "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/pr-newswire/sintrones-to-demonstrate-secure-edge-ai-for-industrial-mobility-and-mission-critical-applications/2313045",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/998519.jpg",
-        "publishedAt": "2026-04-01T23:17:47Z",
+        "title": "Ecommerce, quick commerce chasing ad spends with profitability in focus",
+        "description": "Online platforms like Amazon, Flipkart, Blinkit, Instamart, Zepto, Zomato, and Swiggy are set to earn substantial advertising revenue. This growth is fueled by integrated shopping experiences and advanced AI insights. Quick commerce is experiencing rapid expansion, with brands shifting ad spends for faster results.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-quick-commerce-chasing-ad-spends-with-profitability-in-focus/articleshow/129959468.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2910149,resizemode-75,msid-129959468/tech/technology/ecommerce-quick-commerce-chasing-ad-spends-with-profitability-in-focus.jpg",
+        "publishedAt": "2026-04-02T00:30:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Oracle’s AI pivot cuts deep, lays off 20% of its India workforce",
+        "description": "Oracle has cut around 10,000 jobs in India, sources told ET. This is part of a global restructuring affecting 30,000 employees. The company is reducing roles in its tech divisions. Oracle Financial Software Services also saw job losses. Employees are concerned about increased workloads. This follows similar tech industry layoffs this year.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/oracles-ai-pivot-cuts-deep-lays-off-20-of-its-india-workforce/articleshow/129959312.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31586,resizemode-75,msid-129959312/tech/technology/oracles-ai-pivot-cuts-deep-lays-off-20-of-its-india-workforce.jpg",
+        "publishedAt": "2026-04-02T00:30:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "GA technologies Rebrands \"Renters Warehouse\" as \"RENOSY by Renters Warehouse\" to Accelerate U.S. Growth",
+        "description": "**media[998535]**TOKYO, April 2, 2026 /PRNewswire/ -- GA technologies Co., Ltd. (Headquarters: Minato-ku, Tokyo; President, CEO: Ryo Higuchi; Stock Code: 3491; hereinafter referred to as the 'Company') announces that its AI real estate investment service, 'RENOSY,' has launched an initiative to rebrand 'Renters Warehouse' (operated by RW OpCo, LLC [Headquarters: United States], a Group company), as 'RENOSY by Renters Warehouse.'",
+        "url": "https://www.manilatimes.net/2026/04/02/tmt-newswire/pr-newswire/ga-technologies-rebrands-renters-warehouse-as-renosy-by-renters-warehouse-to-accelerate-us-growth/2313051",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/02/998533.jpg",
+        "publishedAt": "2026-04-02T00:17:52Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Blind artist to run marathon using AI glasses and app in ‘world first’",
-        "description": "Clarke Reynolds, known as Braille creative Mr Dot, is set to run the Brighton Marathon with the help of remote volunteers supporting him through tech.",
-        "url": "https://www.lbc.co.uk/article/ca249d4e0c324a3eb8673a49aab4885f-5HjdXBx_2/",
-        "image": "https://images.globalplayer.com/images/803670?crop=16_9&width=1200&signature=6RUM90k-9iqNhaBwSxO3Cv__OkM=",
-        "publishedAt": "2026-04-01T23:04:05Z",
-        "source": "LBC"
-      },
-      {
-        "title": "AI is killing pupils' critical thinking - and many now can't be bothered to learn how to spell",
-        "description": "A survey of 9,000 teachers found 66 per cent of those in secondary schools thought critical thinking has declined because of AI tools such as ChatGPT.",
-        "url": "https://www.dailymail.co.uk/news/article-15698223/AI-killing-pupils-critical-thinking.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593291-0-image-m-17_1775076724764.jpg",
-        "publishedAt": "2026-04-01T23:01:52Z",
-        "source": "Daily Mail Online"
-      },
-      {
-        "title": "AI powered drones hunt hidden bombs in breakthrough UK trial as Army races to keep pace with modern warfare",
-        "description": "AI drones spot hidden bombs in breakthrough trial as UK races to keep up with modern warfare",
-        "url": "https://www.lbc.co.uk/article/british-army-ai-bomb-hunting-drones-5HjdXC6_2/",
-        "image": "https://images.globalplayer.com/images/803522?crop=16_9&width=1200&signature=VbOZwWOVCNXtqEPZGiQUCXwujxo=",
-        "publishedAt": "2026-04-01T23:01:00Z",
-        "source": "LBC"
+        "title": "Is it time to buy IT ? Fund managers suggest gradual addition by investors",
+        "description": "Indian IT stocks are at their cheapest since mid-2020, presenting a buying opportunity. Fund managers suggest gradual accumulation over two years as valuations have significantly compressed. Despite concerns over AI and recent sell-offs, the sector's improving deal momentum and expanding market offer potential for value investors. A balanced approach combining lump sum and staggered investments is advised.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-it-time-to-buy-it-fund-managers-suggest-gradual-addition-by-investors/articleshow/129964032.cms",
+        "image": "https://img.etimg.com/thumb/msid-129964028,width-1200,height-630,imgsize-44458,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-02T00:08:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
