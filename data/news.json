@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-03T10:32:02.285Z",
+  "fetchedAt": "2026-04-03T11:30:56.600Z",
   "sections": {
     "world": [
       {
-        "title": "US-Iran war live updates: Trump tells Iran to ‘make a deal before it’s too late’ as US strikes bridge; states agree to cut fuel prices further with GST windfalls",
-        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
-        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-tells-iran-to-make-a-deal-before-it-s-too-late-as-us-strikes-bridge-states-agree-to-cut-fuel-prices-further-with-gst-windfalls-20260402-p5zl0b.html",
-        "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/8e7a000b1f44a7aee217faf73d91a802c69d419dbd1aec359a591c3eeeb01234",
-        "publishedAt": "2026-04-02T22:26:36Z",
+        "title": "Police offered support to tackle rising threats against MPs",
+        "description": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
+        "url": "https://www.bbc.co.uk/news/articles/c8ej47g6w3jo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d34/live/a1786c10-2e93-11f1-90b9-6ffcd881a7dc.jpg",
+        "publishedAt": "2026-04-02T23:24:53Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Trump makes his best case for the war - but fails to ease worries about how it will end",
+        "description": "Analysis - Many expected Trump to point to a clear end-game for the war in his recent speech, but he failed to do so.",
+        "url": "https://www.rnz.co.nz/news/world/591430/trump-makes-his-best-case-for-the-war-but-fails-to-ease-worries-about-how-it-will-end",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--9KE6_DKS--/t_tohu-badge-facebook/v1774259133/4JRAQ85_AFP__20260321__mazza_presiden260320_npBg6__v1__HighRes__PresidentDonaldTrumpAndMarco_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-02T23:24:13Z",
+        "source": "rnz.co.nz"
+      },
+      {
+        "title": "UK-led talks demand 'immediate' reopening of Hormuz",
+        "description": "“Iran is trying to hold the global economy hostage in the Strait of Hormuz. They must not prevail,” said British Foreign Minister Yvette Cooper, calling for an immediate and unconditional reopening of the waterway.",
+        "url": "https://www.channelnewsasia.com/world/uk-cooper-virtual-meeting-reopening-strait-hormuz-iran-us-israel-war-6034341",
+        "image": "https://dam.mediacorp.sg/image/upload/s--yj0zWCUc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-02T163013Z_1_LYNXMPEM31105_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=twb2Mpid",
+        "publishedAt": "2026-04-02T23:18:20Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources say",
+        "description": "Roughly half of Iran’s missile launchers are still intact and thousands of one-way attack drones remain in Iran’s arsenal despite the daily pounding by US and Israeli strikes against military targets over the past five weeks, according to recent US intelligence assessments, three sources familiar with the intel told CNN.",
+        "url": "https://www.cnn.com/2026/04/02/politics/iran-missiles-us-military-strikes-trump",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-10t023204z-1947975990-rc2e1kagctu8-rtrmadp-3-iran-crisis.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-04-02T23:16:35Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Protestors up against the law across the world",
+        "description": "Democratic rights are under threat in the EU, the UK, the US and elsewhere, as the rule of law is eroded in many countries, but defending these rights is a priority, argues John Clarke\nA report issued by the Civil Liberties Union for Europe (Liberties), has found that: ‘Concerted dismantling and cumulative decline sum up the state of the rule of law across large parts of the EU and increasingly within the European Institutions themselves’ (p.",
+        "url": "https://www.counterfire.org/article/protestors-up-against-the-law-across-the-world/",
+        "image": "https://uploads.counterfire.org/uploads/2026/04/pa-protest-sv-lg.jpg",
+        "publishedAt": "2026-04-02T23:14:09Z",
+        "source": "Counterfire"
+      },
+      {
+        "title": "Australia hit with 100 per cent levy on patented drugs",
+        "description": "Australia’s largest biotech firm, CSL, could be exempt from the new tariffs, which will not apply to therapies derived from blood plasma in certain circumstances.",
+        "url": "https://www.theage.com.au/world/north-america/trump-imposes-100-per-cent-tariff-on-australian-drugs-but-with-caveats-20260403-p5zl4e.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_70/t_crop_custom/q_86%2Cf_auto/7da3f671ea770244dda2e2683acdc1c0c208ed29",
+        "publishedAt": "2026-04-02T23:13:15Z",
         "source": "The Age"
       },
       {
-        "title": "Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US",
-        "description": "Health minister Mark Butler says federal government is ‘not negotiating’ when it comes to removing price protections on common medications",
-        "url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
-        "image": "https://i.guim.co.uk/img/media/9c80bc6f410c2e8e5507aae02c7440c2d46a188c/62_0_4004_3205/master/4004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be1ac309a13a28a84833bc3d5db53d6d",
-        "publishedAt": "2026-04-02T22:24:00Z",
-        "source": "The Guardian"
+        "title": "Pakistan hit by Iran war-led global oil crisis, diesel up by 55%, petrol 42%",
+        "description": "Fuel costs soar in Pakistan as government balances subsidies with rising global oil prices",
+        "url": "https://www.indiatoday.in/world/story/pakistan-diesel-petrol-price-hike-middle-east-conflict-oil-surge-iran-war-2890944-2026-04-03",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/pak-fuel-rate-spike-034354768-16x9_0.jpg?VersionId=ru2uRQ3.IjVZP1HQ_TYJh1QssZfjabox",
+        "publishedAt": "2026-04-02T23:11:35Z",
+        "source": "India Today"
       },
       {
-        "title": "Min Aung Hlaing: Myanmar's coup leader set to become president",
-        "description": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
-        "url": "https://www.bbc.co.uk/news/articles/c1782nk0018o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
-        "publishedAt": "2026-04-02T22:14:00Z",
-        "source": "BBC"
-      },
-      {
-        "title": "U.S., European navy leaders discuss joint combined interoperability, critical maritime infrastructure and evolution of warfare at Naval War College symposium in Poland",
-        "description": "U.S. and top European navy leaders tackled a range of important issues – such as joint combined interoperability and the evolution of warfare – at the U.S. Naval War College Regional Alumni Symposium, hosted by the Polish Navy in Gdynia, Poland, from March 29-April 1.",
-        "url": "https://www.dvidshub.net/news/561889/us-european-navy-leaders-discuss-joint-combined-interoperability-critical-maritime-infrastructure-and-evolution-warfare-naval-war-college-symposium",
-        "image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2604/9595512/1000w_q95.jpg",
-        "publishedAt": "2026-04-02T22:07:00Z",
-        "source": "DVIDS"
-      },
-      {
-        "title": "Pharmaceuticals face 100% tariffs in US",
-        "description": "The order does not affect generic medicines, the most commonly used in the US.",
-        "url": "https://www.bbc.com/news/articles/cx29kke01gpo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b7a7/live/07f8aa70-2ec8-11f1-bb7c-976587a5003c.jpg",
-        "publishedAt": "2026-04-02T22:06:30Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Hegseth ousts Army Chief of Staff Gen. Randy George",
-        "description": "One of the sources said Hegseth wants someone in the role who will implement President Trump and Hegseth's vision for the Army.",
-        "url": "https://www.cbsnews.com/news/hegseth-ousts-army-chief-of-staff-gen-randy-george/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/02/8e99c479-c8c8-4fb9-a44a-e8b2c47ff2d8/thumbnail/1200x630g2/3fecbb8e4f00de05aff5c7ab366a2764/gettyimages-2264407224.jpg",
-        "publishedAt": "2026-04-02T22:05:40Z",
-        "source": "CBS News"
-      },
-      {
-        "title": "Iran targets Israel and Gulf neighbours as Trump talks of winding down war",
-        "description": "Iran’s chokehold on the Strait of Hormuz has disrupted the world’s energy supplies with effects far beyond the Middle East.",
-        "url": "https://www.breakingnews.ie/world/iran-targets-israel-and-gulf-neighbours-as-trump-talks-of-winding-down-war-1882069.html",
-        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMDIyMDM4MzhcXFwvNWRlZGMyNzU5ZjBjNGY5NWFmM2ZjYWI2ZTEyNTA2YWYtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY1OWU5YzIyNWY3Y2EwZTAwZTMyOTQ1YzIyMjM2M2Q4N2E2ZmE0YzIifQ==/iran-targets-israel-and-gulf-neighbours-as-trump-talks-of-winding-down-war.jpg",
-        "publishedAt": "2026-04-02T22:05:33Z",
-        "source": "breakingnews.ie"
-      },
-      {
-        "title": "Dezi Freeman's sister speaks out after his death at hands of Victorian police",
-        "description": "The sister of Dezi Freeman has broken her silence on the sovereign citizen's death at the hands of Victoria Police this week.",
-        "url": "https://www.rnz.co.nz/news/world/591422/dezi-freeman-s-sister-speaks-out-after-his-death-at-hands-of-victorian-police",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--AP-cbds_--/t_tohu-badge-facebook/v1756197198/4K21UWL_freeman_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-02T22:03:11Z",
-        "source": "RNZ"
+        "title": "Hegseth Fires Army Chief Amid Battle With Its Leaders",
+        "description": "Senior Army officers reacted with anger and frustration to news of Gen. Randy George’s dismissal, characterizing it as the latest blow to the service.",
+        "url": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
+        "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02dc-army-kclh/02dc-army-kclh-facebookJumbo.jpg",
+        "publishedAt": "2026-04-02T23:04:25Z",
+        "source": "The New York Times"
       }
     ],
     "business": [
       {
-        "title": "Atmus Filtration Technologies Set to Join S&P SmallCap 600",
-        "description": "Our unique offerings work together to bring you the essential intelligence necessary to make decisions with conviction.",
-        "url": "https://press.spglobal.com/2026-04-02-Atmus-Filtration-Technologies-Set-to-Join-S-P-SmallCap-600",
-        "image": "https://media.mhfi.com/images/spg-facebook.jpg",
-        "publishedAt": "2026-04-02T22:15:24Z",
-        "source": "S&P Global"
+        "title": "Malaysian maritime industry facing shortage of locals joining the workforce",
+        "description": "PETALING JAYA: A shortage of seafarers is deepening Malaysia's reliance on foreign maritime labour, raising concerns about workforce development and the sustainability of national shipping interests.",
+        "url": "https://www.thestar.com.my/news/nation/2026/04/03/malaysian-maritime-industry-facing-shortage-of-locals-joining-the-workforce",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/03/3842080.jpg",
+        "publishedAt": "2026-04-02T23:30:27Z",
+        "source": "thestar.com.my"
       },
       {
-        "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
-        "description": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
-        "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/442c151878a896570ef9c97dd4ceed9b4d0d4571-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-02T22:14:37Z",
-        "source": "CoinDesk"
+        "title": "Shaping the next generation of cybersecurity experts",
+        "description": "IN an era where cyberattacks can cripple hospitals, disrupt economies and compromise national security within minutes, cybersecurity expertise is mission-critical.",
+        "url": "https://www.thestar.com.my/starpicks/2026/04/03/shaping-the-next-generation-of-cybersecurity-experts",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/02/3841608.jpg",
+        "publishedAt": "2026-04-02T23:30:00Z",
+        "source": "thestar.com.my"
       },
       {
-        "title": "Dubai's tourism industry reels from 'brutal' impact of war",
-        "description": "Last year, Dubai welcomed 19.59 million international visitors, making it one of the most-visited cities globally, but the US-Israel war with Iran has had a devastating impact on visitor numbers, and local businesses are struggling.",
-        "url": "https://www.myjoyonline.com/dubais-tourism-industry-reels-from-brutal-impact-of-war/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-213.png",
-        "publishedAt": "2026-04-02T22:12:25Z",
-        "source": "MyJoyOnline"
+        "title": "New microwave frying technique could make french fries much healthier",
+        "description": "Scientists have discovered a way to make French fries less greasy without ruining their taste. By combining regular frying with microwave heating, they reduce the amount of oil absorbed during cooking. The key lies in pressure inside the food—microwaves help push oil out instead of letting it seep in. The result: faster cooking, lower fat, and fries that can still stay crispy.",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260402042803.htm",
+        "image": "https://www.sciencedaily.com/images/1920/golden-french-fries.webp",
+        "publishedAt": "2026-04-02T23:17:12Z",
+        "source": "ScienceDaily"
       },
       {
-        "title": "Stock Market Today, April 2: Intel Rises on $14.2 Billion Fab 34 Stake Repurchase",
-        "description": "Intel rose after agreeing to repurchase Apollo’s stake in its Fab 34 facility, restoring full ownership as investors look to quarterly results later this month for progress on margins and its foundry strategy.",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/02/stock-market-today-april-2-intel-rises-on-usd14-2-billion-fab-34-stake-repurchase/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F23fc1b822f8eafa9d627ca7fbac8d5b39aebf467-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-        "publishedAt": "2026-04-02T22:12:18Z",
-        "source": "The Motley Fool"
+        "title": "Iran war could make beer and bottled water pricier for Indians",
+        "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywqky5dd7o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bb8/live/2e39bd00-2d9c-11f1-8be6-dbad2e8ac294.jpg",
+        "publishedAt": "2026-04-02T23:16:37Z",
+        "source": "BBC"
       },
       {
-        "title": "2 Industrial Stocks You'll Wish You Bought in 2026 a Decade From Now",
-        "description": "These companies will benefit from increased spending on manufacturing in America.",
-        "url": "https://www.fool.com/investing/2026/04/02/2-industrial-stocks-youll-wish-you-bought-in-2026/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F863036%2Fai.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-02T22:12:18Z",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "ImageSource Releases ILINX on Microsoft SharePoint Embedded, Bringing AI-Powered Process Innovation to Microsoft 365",
-        "description": "/PRNewswire/ -- ImageSource, the maker of the ILINX® intelligent automation platform, have been named a 2026 Star Performer in the Everest Group Intelligent...",
-        "url": "https://www.prnewswire.com/news-releases/imagesource-releases-ilinx-on-microsoft-sharepoint-embedded-bringing-ai-powered-process-innovation-to-microsoft-365-302733293.html",
-        "image": "https://mma.prnewswire.com/media/1867035/imagesource_logo_no_tag_rgb_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-02T22:12:00Z",
+        "title": "KT&G ESSE's annual overseas revenue breaks USD 700 million",
+        "description": "/PRNewswire/ -- KT&G's superslim cigarette brand \"ESSE\" recorded annual overseas revenue of approximately USD 700 million last year. Furthermore \"ESSE\",...",
+        "url": "https://www.prnewswire.com/news-releases/ktg-esses-annual-overseas-revenue-breaks-usd-700-million-302733320.html",
+        "image": "https://mma.prnewswire.com/media/2316472/KT_G_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-02T23:14:00Z",
         "source": "PR Newswire"
       },
       {
-        "title": "Warner, Schiff probe potential insider trading in government",
-        "description": "The lawmakers also cited a recent report that a Pete Hegseth-linked broker sought to make a multimillion-dollar investment in a defense-linked ETF in February.",
-        "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108286971-1775165757967-Side_by_Side_template.jpg?v=1775165868&w=1920&h=1080",
-        "publishedAt": "2026-04-02T22:11:11Z",
-        "source": "CNBC"
+        "title": "A Look At Pathward Financial (CASH) Valuation As Earnings Optimism Builds On Positive ESP And Zacks Rank",
+        "description": "Recent commentary around earnings expectations has pushed Pathward Financial (CASH) into focus, as investors react to its positive Earnings ESP, recent record of topping forecasts, and current Zacks Rank ahead of upcoming results. See our latest analysis for Pathward Financial. Pathward Financial’s recent 90 day share price return of 25.23% and 1 year total shareholder return of 29.47% point to building momentum, with multi year total shareholder returns above 90% reinforcing that longer term...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/look-pathward-financial-cash-valuation-231319916.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/c355483febd8e77cc0daa4c43dbcf2ca",
+        "publishedAt": "2026-04-02T23:13:19Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Merit Medical Systems, Inc. to Announce Q1 2026 Financial Results and Host Investor Conference Call on April 30",
-        "description": "Merit Medical Systems will announce Q1 2026 financial results and host an investor call on April 30,",
-        "url": "https://www.quiverquant.com/news/Merit+Medical+Systems%2C+Inc.+to+Announce+Q1+2026+Financial+Results+and+Host+Investor+Conference+Call+on+April+30",
-        "image": "https://www.quiverquant.com/images/mmsi_rect_new.png",
-        "publishedAt": "2026-04-02T22:10:00Z",
-        "source": "Quiver Quantitative"
+        "title": "Visa’s New AI Dispute Tools Target Fraud Costs And Support Growth Narrative",
+        "description": "Visa (NYSE:V) has introduced six new AI powered tools to overhaul how credit card disputes are handled. The tools focus on automating case analysis, generating merchant responses, and providing real time insights across the payments chain. Visa aims to reduce fraud related losses and inefficiencies tied to manual, fragmented dispute workflows for issuers, merchants, and payment processors. Visa, trading around $300.8, has recorded a 36.2% total return over the past 3 years and 41.4% over...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/visa-ai-dispute-tools-target-231255933.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/ce005faf0fa52260b570b412e5c6a96e",
+        "publishedAt": "2026-04-02T23:12:55Z",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Energy Minister engage stakeholders to strengthen upstream petroleum sector",
+        "description": "The Minister of Energy and Green Transition, Dr John Abdulai Jinapor, has held a strategic meeting with key stakeholders in Ghana’s upstream petroleum sector to align priorities and refine plans for the industry’s development.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Energy-Minister-engage-stakeholders-to-strengthen-upstream-petroleum-sector-2028608",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/208/20818206.jpg",
+        "publishedAt": "2026-04-02T23:12:19Z",
+        "source": "GhanaWeb"
       }
     ],
     "science": [
+      {
+        "title": "The Artemis Generation Begins! Artemis II Launches for the Moon",
+        "description": "At 06:25 p.m. EDT (03:25 p.m. PDT) on April 1st, the Artemis II mission lifted off from the historic Launch Pad-39B at NASA's Kennedy Space Center in Florida. This mission will send astronauts on a ten-day journey around the Moon and will be the first crewed mission to venture beyond Low Earth Orbit (LEO) since the Apollo Era.",
+        "url": "https://www.universetoday.com/articles/the-artemis-generation-begins-artemis-ii-launches-for-the-moon",
+        "image": "https://www.universetoday.com/article_images/55182789108-f13e3eb9ec-o_20260402_232111.jpg",
+        "publishedAt": "2026-04-02T23:26:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "Cell lineage tracing reveals early‑segregated germline in plants",
+        "description": "August Weismann's germ plasm theory of the late 19th century posited that only germ cells, e.g., sperm and egg cells in animals or pollen and ovule cells in plants, transmit genetic information to the next generation, and that somatic mutations represent an evolutionary dead end. This theory has been highly validated in animals, whose germ cells are formed and segregated early in the organism's development.",
+        "url": "https://phys.org/news/2026-04-cell-lineage-reveals-earlysegregated-germline.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/cell-lineage-tracing-r.jpg",
+        "publishedAt": "2026-04-02T23:20:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Sir Anthony Leggett obituary: theoretical physicist",
+        "description": "Modest and unassuming Nobel prizewinner lauded for his research into superfluids, dies aged 87",
+        "url": "https://www.thetimes.com/uk/obituaries/article/sir-anthony-leggett-obituary-death-nrjwv2dlf",
+        "image": "https://www.thetimes.com/imageserver/image/076100d2-0ef6-4fd5-9bd3-c47fa070e8a6.jpg?strip=all&format=webp&crop=2131px%2C1199px%2C616px%2C297px&resize=1200",
+        "publishedAt": "2026-04-02T23:01:00Z",
+        "source": "The Times"
+      },
+      {
+        "title": "NASA Artemis II astronauts fix toilet issue aboard Orion spacecraft during historic Moon flyby mission",
+        "description": "NASA’s Artemis II astronauts solved an awkward onboard problem after the Orion capsule had a malfunction, with the crew now on track for the moon.",
+        "url": "https://thenightly.com.au/world/nasa-artemis-ii-astronauts-fix-toilet-issue-aboard-orion-spacecraft-during-historic-moon-flyby-mission-c-22089575",
+        "image": "https://images.thenightly.com.au/publication/C-22089575/bf4013ee85253970976756925837556d72e271d5-16x9-x0y145w3598h2024.webp?imwidth=1200",
+        "publishedAt": "2026-04-02T22:53:46Z",
+        "source": "The Nightly"
+      },
+      {
+        "title": "4/2/2026: As Earth’s climate warms, when it rains, it pours",
+        "description": "AGU 2026 Journalism Awards call for nominations AGU is now accepting nominations for its 2026 Journalism Awards, which honor outstanding reporting on the Earth…",
+        "url": "https://news.agu.org/4-2-2026-as-earths-climate-warms-when-it-rains-it-pours/",
+        "image": "https://news.agu.org/files/2026/04/qimono-rain-2085065-scaled.jpg",
+        "publishedAt": "2026-04-02T22:42:25Z",
+        "source": "AGU Newsroom"
+      },
       {
         "title": "Engineered E. coli dependency may help contain microbes to defined areas",
         "description": "Take a typical fish out of the water and it won't live long. It gets the oxygen it needs from the water it swims in. In a similar way, scientists are exploring dependency as a method of controlling what microbes can do and where they can do it.",
@@ -158,112 +198,72 @@
         "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
         "publishedAt": "2026-04-02T22:10:44Z",
         "source": "geneonline.com"
-      },
-      {
-        "title": "New 2D material demonstrates capability for ultrathin waveplates",
-        "description": "Polarization has always been a core property of light that is essential for a broad range of everyday applications, including displays (LED, LCD, 3D Cinematics), photography, as well as satellite and antenna technologies. The ability to tune light polarization empowers us with enhanced communication signals, improved image quality, and access to hidden image details and non-conventional imaging modes (e.g. 3D imaging).",
-        "url": "https://phys.org/news/2026-04-2d-material-capability-ultrathin-waveplates.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-2d-material-demons.jpg",
-        "publishedAt": "2026-04-02T22:00:01Z",
-        "source": "phys.org"
-      },
-      {
-        "title": "Mount Etna’s strange seismic signal finally has an explanation",
-        "description": "Mount Etna’s strange hum comes from surface waves, helping scientists better detect early signs of eruption.",
-        "url": "https://www.earth.com/news/mount-etnas-strange-seismic-signal-decoded-after-years-of-uncertainty/",
-        "image": "https://cff2.earth.com/uploads/2026/04/02094442/Mount-Etna.jpg",
-        "publishedAt": "2026-04-02T21:47:07Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Scientists rethink how animals build repeating body parts",
-        "description": "Study reveals that early embryonic cells can switch roles, reshaping what we know about how fins, gills, and other body structures evolve.",
-        "url": "https://www.earth.com/news/scientists-rethink-how-animals-build-repeating-body-parts-like-fins-and-limbs/",
-        "image": "https://cff2.earth.com/uploads/2026/04/02140656/serial-homology.jpg",
-        "publishedAt": "2026-04-02T21:45:00Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "To astronauts' relief, Artemis II's moonbound toilet is working again after overnight fix",
-        "description": "NASA's moonbound astronauts have reason to celebrate, and not just because their launch went so well.",
-        "url": "https://www.latimes.com/science/story/2026-04-02/to-astronauts-relief-artemis-iis-moonbound-toilet-is-working-again-after-overnight-fix",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/4d98600/2147483647/strip/true/crop/4096x2150+0+522/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F34%2F4f1d5ac4433c89d74a1858e75275%2Fd31fa1a0e4e24cd1a72e535befb90bfe.jpg",
-        "publishedAt": "2026-04-02T21:33:01Z",
-        "source": "Los Angeles Times"
-      },
-      {
-        "title": "Population genetic diversity in the annual breeding area of the Spodoptera frugiperda in China",
-        "description": "The fall armyworm (Spodoptera frugiperda), a globally invasive pest, has established persistent populations in China since its invasion in late 2018, posing a continuous threat to agriculture due to its potential for rapid adaptation and insecticide resistance evolution. To elucidate the genetic underpinnings of its invasion success in China’s annual breeding area, this study systematically analyzed the genetic diversity, differentiation, and population structure of fall armyworm (FAW) populations across four provinces (Yunnan, Guangdong, Guangxi, and Hainan) using a dual-marker system combining mitochondrial COI and nuclear Tpi genes. Our analyses revealed significantly reduced genetic diversity (haplotype diversity: 0.47–0.56; nucleotide diversity: 0.007–0.009) in Chinese populations compared to putative source populations in India (0.942 and 0.014, respectively), indicating a strong genetic bottleneck effect. All individuals were identified as the corn-strain, with 22.7% classified as heterozygous corn-strain based on Tpi genotyping. Population differentiation analysis highlighted the Himalayas as a substantial barrier (Fst = 0.294 between Yunnan and India), while the South China Sea monsoon facilitated genetic fusion between Guangdong and Hainan (Fst = -0.033). Guangxi emerged as a gene flow hub, exhibiting higher haplotype diversity likely due to continuous influx from the China-Vietnam border. Furthermore, significantly positive Tajima’s D values (3.08–3.94) in Chinese populations, coupled with field-observed population fluctuations, support an invasion model characterized by rapid expansion from a limited number of founders. This study provides critical insights into the population genetic dynamics of fall armyworm in its newly invaded range, which are essential for forecasting its spread and formulating sustainable management strategies.",
-        "url": "https://www.nature.com/articles/s41598-026-46482-1?error=cookies_not_supported&code=460f6dfe-bf49-45fa-b452-b1371f43ade3",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-02T21:32:34Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Nudificaton ban: Minnesota lawmakers close to banning AI apps that turn photos into fake porn",
-        "description": "Dozens of Minnesota women have had their innocent social media photos turned into pornography that could haunt them for the rest of their lives. Minnesota lawmakers call it “nudification,\" and they’re getting close to a bipartisan ban on the technology, which they say could be as simple as flipping a switch.",
-        "url": "https://www.fox9.com/news/minnesota-legislature-nudification-ban-politics",
-        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/04/1200/630/mn-lawmakers-close-to-banning-ai-apps-that-turn-photos-into-fake-porn.jpg?ve=1&tl=1",
-        "publishedAt": "2026-04-02T22:28:39Z",
-        "source": "FOX 9"
+        "title": "QQQI And QQQ: The Ultimate AI Growth And Income Combo",
+        "description": "Balance Nasdaq-100 growth with income: pair QQQ and QQQI for tech/AI exposure plus ~14.1% yield, tax-efficient options cash flow.",
+        "url": "https://seekingalpha.com/article/4888218-qqqi-and-qqq-the-ultimate-ai-growth-and-income-combo",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242072348/image_2242072348.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-02T23:30:51Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Roth Analyst Calls Applied Digital Stock (APLD) a ‘Top Pick’ Ahead of Q3 Earnings",
-        "description": "Applied Digital (APLD) is seeing strong demand for its high-performance data centers required for AI workloads. The company is scheduled to anno...",
-        "url": "https://markets.businessinsider.com/news/stocks/roth-analyst-calls-applied-digital-stock-apld-a-top-pick-ahead-of-q3-earnings-1035992862",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-224.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-02T22:25:15Z",
+        "title": "Blue Owl limits withdrawals after jittery investors seek to yank whopping $5.4B from funds",
+        "description": "Blue Owl told investors Thursday that it is limiting withdrawals from two of its funds after a historic level of redemption requests came in for the first quarter, with AI-related worries driving an investor exodus from its technology-focused fund.",
+        "url": "https://nypost.com/2026/04/02/business/blue-owl-limits-withdrawals-after-jittery-investors-seek-to-yank-whopping-5-4b-from-funds/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/blue-owl-redemptions.jpg?quality=75&strip=all&1775155101&w=1200",
+        "publishedAt": "2026-04-02T23:17:23Z",
+        "source": "New York Post"
+      },
+      {
+        "title": "73% of B2B Buyers Use AI Tools in Purchase Research, Multi-Source Analysis Finds",
+        "description": "/PRNewswire/ -- Loganix, a performance SEO and link building services provider, today released findings from its 2026 B2B AI Buying Behavior Analysis — a...",
+        "url": "https://www.prnewswire.co.uk/news-releases/73-of-b2b-buyers-use-ai-tools-in-purchase-research-multi-source-analysis-finds-302733321.html",
+        "image": "https://mma.prnewswire.com/media/2949458/Loganix.jpg?p=facebook",
+        "publishedAt": "2026-04-02T23:16:00Z",
+        "source": "PR Newswire UK"
+      },
+      {
+        "title": "Oracle's Dubai Data Center Reportedly Hit As Iran Expands Attack On AI Infrastructure",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/technology/oracles-dubai-data-center-reportedly-hit-iran-expands-attack-ai-infrastructure",
+        "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-04/2026-04-02_15-40-19.png?h=aa3a9fe0&itok=hgqTSag0",
+        "publishedAt": "2026-04-02T23:15:00Z",
+        "source": "ZeroHedge"
+      },
+      {
+        "title": "Nobody Could Answer the CFO’s Question on the ROI from AI Adoption; TechWish Built a Platform That Can",
+        "description": "Platform validated at a major Fortune 500 energy company, establishing an estimated 20× productivity ROI and 44% increase in active Copilot utilization within 90 days",
+        "url": "https://www.manilatimes.net/2026/04/03/tmt-newswire/globenewswire/nobody-could-answer-the-cfos-question-on-the-roi-from-ai-adoption-techwish-built-a-platform-that-can/2313851",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-04-02T23:11:20Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Tatiana Elizabeth rejects influencer’s apology over AI face swap",
+        "description": "Lauren Blake Boultier blamed an automated content system, but Tatiana Elizabeth rejected the apology as an attempt to shift blame to her agency.",
+        "url": "https://www.silive.com/entertainment/2026/04/tatiana-elizabeth-rejects-influencers-apology-over-ai-face-swap.html",
+        "image": "https://www.silive.com/resizer/v2/A22RHV7AHVDBTBHZH4TZ2IZ3LI.JPG?auth=9f4c7c706987fb53c521e435afa6128fd903a3eafac7a688f6ad93597c03601c&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-04-02T23:00:00Z",
+        "source": "Staten Island Advance"
+      },
+      {
+        "title": "You Won’t Believe How Much Electricity Meta’s New AI Data Center Will Need",
+        "description": "Social media giant Meta (META) is building an AI data center so large that its power needs now rival those of an entire U.S. state. More specifi...",
+        "url": "https://markets.businessinsider.com/news/stocks/you-won-t-believe-how-much-electricity-meta-s-new-ai-data-center-will-need-1035993291",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-192.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-04-02T22:55:00Z",
         "source": "Markets Insider"
       },
       {
-        "title": "Digitising sport: Apps bring players, venues together",
-        "description": "From wearable trackers for cyclists and step counting to the use of AI analytics in assessing athletes’ performance across games, technology has permeated the lives of sports enthusiasts in multiple ways.",
-        "url": "https://www.tribuneindia.com/news/jalandhar/digitising-sport-apps-bring-players-venues-together/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTliMmY5NzMwLTJlZTItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
-        "publishedAt": "2026-04-02T22:23:21Z",
-        "source": "The Tribune"
-      },
-      {
-        "title": "The Brunch round-up for April 4: The week and how it made us feel",
-        "description": "This week, we’re cheering for the final boss of gamers, running away from commitment, and hating AI slop",
-        "url": "https://www.hindustantimes.com/lifestyle/brunch/the-brunch-round-up-for-april-4-the-week-and-how-it-made-us-feel-101775168415287.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/02/550x309/After-Wuthering-Heights-s-cringe-press-tour--we-re_1775168412995.jpg",
-        "publishedAt": "2026-04-02T22:20:14Z",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "Majority of college students use AI for their coursework, poll finds",
-        "description": "A majority of college students in the United States uses artificial intelligence tools for their coursework at least once per week, a poll revealed.",
-        "url": "https://www.upi.com/Top_News/US/2026/04/02/survey-college-students-artificial-intelligence-coursework/5341775162201/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/5341775162201/2026/1/e57e85d75571da20d2594cf8125682e2/v1.5/Majority-of-college-students-use-AI-for-their-coursework-poll-finds.jpg",
-        "publishedAt": "2026-04-02T22:15:09Z",
-        "source": "UPI News"
-      },
-      {
-        "title": "Sony's gaming division just bought an AI startup that turns photos into 3D volumes",
-        "description": "Sony purchased an AI startup called Cinemersive Labs to help improve rendering techniques and gameplay visuals on future games.",
-        "url": "https://www.engadget.com/gaming/playstation/sonys-gaming-division-just-bought-an-ai-startup-that-turns-photos-into-3d-volumes-220648699.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/bajWMcNmpXfT2NjLBEMdNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/f462ae40-9bd2-11ef-9534-69bd84910e73",
-        "publishedAt": "2026-04-02T22:06:48Z",
-        "source": "Engadget"
-      },
-      {
-        "title": "Take-Two Reshuffles Its AI Team",
-        "description": "The AI division was working on 'cutting edge technology' to support game development",
-        "url": "https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344",
-        "image": "https://kotaku.com/app/uploads/2026/04/taketwo2logo1-1200x675.jpg",
-        "publishedAt": "2026-04-02T22:05:32Z",
-        "source": "Kotaku"
-      },
-      {
-        "title": "NY AG warns of AI tax scams and fraud tips",
-        "description": "New York Attorney General Letitia James warns residents about increasing AI-powered tax scams and offers tips to stay safe.",
-        "url": "https://www.lohud.com/story/news/ny-news/2026/04/02/ny-ag-warns-of-ai-tax-scams-and-fraud-tips/89442560007/",
-        "image": "https://www.lohud.com/gcdn/authoring/authoring-images/2026/03/09/USAT/89073342007-getty-images-2151451936.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
-        "publishedAt": "2026-04-02T22:05:24Z",
-        "source": "White Plains Journal News"
+        "title": "Top Startup and Tech Funding News - April 2, 2025",
+        "description": "It’s Thursday, April 2, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds reflect a clear shift toward infrastructure that powers the next wave of AI, security, and advanced computing—from identity governance and physical access control to quantum hardware and autonomous systems data. Investors are doubling down on platforms that",
+        "url": "https://techstartups.com/2026/04/02/top-startup-and-tech-funding-news-april-2-2025/",
+        "image": "https://techstartups.com/wp-content/uploads/2026/04/Generare-team-960x567.jpg",
+        "publishedAt": "2026-04-02T22:46:07Z",
+        "source": "TechStartups.com"
       }
     ]
   }
