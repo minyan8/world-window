@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-03T09:37:28.447Z",
+  "fetchedAt": "2026-04-03T10:32:02.285Z",
   "sections": {
     "world": [
       {
-        "title": "In Its Iran War Debate, Washington Has Lost the Plot in Asia",
-        "description": "The United States ignores the region’s lived experience—and the tough political and social trade-offs the war has produced—at its peril.",
-        "url": "https://carnegieendowment.org/emissary/2026/04/asia-iran-war-united-states-fuel-crisis-welfare-budget",
-        "image": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvUGhpbGlwcGluZXMtZnVlbC1zaG9ydGFnZS1JcmFuLXdhci1Bc2lhLUdldHR5SW1hZ2VzLTIyNjUwNjEzMzcuanBnIn0=",
-        "publishedAt": "2026-04-02T21:33:45Z",
-        "source": "Carnegie Endowment for International Peace"
+        "title": "US-Iran war live updates: Trump tells Iran to ‘make a deal before it’s too late’ as US strikes bridge; states agree to cut fuel prices further with GST windfalls",
+        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
+        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-tells-iran-to-make-a-deal-before-it-s-too-late-as-us-strikes-bridge-states-agree-to-cut-fuel-prices-further-with-gst-windfalls-20260402-p5zl0b.html",
+        "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/8e7a000b1f44a7aee217faf73d91a802c69d419dbd1aec359a591c3eeeb01234",
+        "publishedAt": "2026-04-02T22:26:36Z",
+        "source": "The Age"
       },
       {
-        "title": "Saharan dust storm turns sky a deep red over holiday island of Crete",
-        "description": "On other islands in the Aegean, streets turned into small rivers while stormy seas compounded the heavy rain on coastal areas.",
-        "url": "https://www.thejournal.ie/saharan-dust-storm-turns-sky-a-deep-red-over-holiday-island-of-crete-7002775-Apr2026/",
-        "image": "https://img2.thejournal.ie/article/7002775/river/?height=400&version=7002777",
-        "publishedAt": "2026-04-02T21:30:00Z",
-        "source": "The Journal"
+        "title": "Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US",
+        "description": "Health minister Mark Butler says federal government is ‘not negotiating’ when it comes to removing price protections on common medications",
+        "url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+        "image": "https://i.guim.co.uk/img/media/9c80bc6f410c2e8e5507aae02c7440c2d46a188c/62_0_4004_3205/master/4004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be1ac309a13a28a84833bc3d5db53d6d",
+        "publishedAt": "2026-04-02T22:24:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Trump hits some drugmakers with 100% tariffs, adjusts metal product duties",
-        "description": "New orders signed Thursday urge manufacturers to make government drug pricing deals or move production to the U.S., and address issues with steel, aluminum and copper tariffs.",
-        "url": "https://globalnews.ca/news/11757640/donald-trump-tariffs-pharmacutical-drugs-steel-aluminum-copper/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/04/Trump-april-2-e1775164809192.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-04-02T21:29:07Z",
-        "source": "Global News"
+        "title": "Min Aung Hlaing: Myanmar's coup leader set to become president",
+        "description": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
+        "url": "https://www.bbc.co.uk/news/articles/c1782nk0018o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+        "publishedAt": "2026-04-02T22:14:00Z",
+        "source": "BBC"
       },
       {
-        "title": "Hegseth tells US Army chief of staff Randy George to step down immediately",
-        "description": "US Army Chief of Staff Gen. Randy George has been told to retire immediately by Defense Secretary Pete Hegseth, a Pentagon official told CNN.",
-        "url": "https://www.cnn.com/2026/04/02/politics/hegseth-removes-randy-george-army-chief-of-staff",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2264407224.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-02T21:26:53Z",
-        "source": "cnn.com"
+        "title": "U.S., European navy leaders discuss joint combined interoperability, critical maritime infrastructure and evolution of warfare at Naval War College symposium in Poland",
+        "description": "U.S. and top European navy leaders tackled a range of important issues – such as joint combined interoperability and the evolution of warfare – at the U.S. Naval War College Regional Alumni Symposium, hosted by the Polish Navy in Gdynia, Poland, from March 29-April 1.",
+        "url": "https://www.dvidshub.net/news/561889/us-european-navy-leaders-discuss-joint-combined-interoperability-critical-maritime-infrastructure-and-evolution-warfare-naval-war-college-symposium",
+        "image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2604/9595512/1000w_q95.jpg",
+        "publishedAt": "2026-04-02T22:07:00Z",
+        "source": "DVIDS"
       },
       {
-        "title": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
-        "description": "Britain chaired a virtual meeting of some 40 countries to explore ways to free up navigation. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/world-anxious-to-open-hormuz-strait-while-trump-and-iran-trade-threats",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0b35e237992a848576928753fb436d91319bb8e0c448cd8cd52fe4a6a45d835f",
-        "publishedAt": "2026-04-02T21:25:46Z",
-        "source": "The Straits Times"
+        "title": "Pharmaceuticals face 100% tariffs in US",
+        "description": "The order does not affect generic medicines, the most commonly used in the US.",
+        "url": "https://www.bbc.com/news/articles/cx29kke01gpo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b7a7/live/07f8aa70-2ec8-11f1-bb7c-976587a5003c.jpg",
+        "publishedAt": "2026-04-02T22:06:30Z",
+        "source": "BBC"
       },
       {
-        "title": "How Great Powers Lose Wars They’re Winning",
-        "description": "Nearly 70 years after the Suez Crisis, the United States may be stumbling into a strikingly similar trap in the Strait of Hormuz.",
-        "url": "https://www.thefp.com/p/niall-ferguson-how-great-powers-lose",
-        "image": "https://substackcdn.com/image/fetch/$s_!B-0C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3767d38c-5cc0-4b39-835a-cbef921a4b4f_1024x707.jpeg",
-        "publishedAt": "2026-04-02T21:23:42Z",
-        "source": "The Free Press"
+        "title": "Hegseth ousts Army Chief of Staff Gen. Randy George",
+        "description": "One of the sources said Hegseth wants someone in the role who will implement President Trump and Hegseth's vision for the Army.",
+        "url": "https://www.cbsnews.com/news/hegseth-ousts-army-chief-of-staff-gen-randy-george/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/02/8e99c479-c8c8-4fb9-a44a-e8b2c47ff2d8/thumbnail/1200x630g2/3fecbb8e4f00de05aff5c7ab366a2764/gettyimages-2264407224.jpg",
+        "publishedAt": "2026-04-02T22:05:40Z",
+        "source": "CBS News"
       },
       {
-        "title": "A Bid to Use Force to Open Strait of Hormuz Hits U.N. Roadblocks",
-        "description": "Several permanent members of the Security Council opposed the resolution, drafted by Bahrain in coordination with its Gulf neighbors, officials said.",
-        "url": "https://www.nytimes.com/2026/04/02/world/middleeast/arab-iran-hormuz-force.html",
-        "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-security-council-topart-bfvj/02israel-iran-security-council-topart-bfvj-facebookJumbo.jpg",
-        "publishedAt": "2026-04-02T21:20:38Z",
-        "source": "The New York Times"
+        "title": "Iran targets Israel and Gulf neighbours as Trump talks of winding down war",
+        "description": "Iran’s chokehold on the Strait of Hormuz has disrupted the world’s energy supplies with effects far beyond the Middle East.",
+        "url": "https://www.breakingnews.ie/world/iran-targets-israel-and-gulf-neighbours-as-trump-talks-of-winding-down-war-1882069.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMDIyMDM4MzhcXFwvNWRlZGMyNzU5ZjBjNGY5NWFmM2ZjYWI2ZTEyNTA2YWYtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY1OWU5YzIyNWY3Y2EwZTAwZTMyOTQ1YzIyMjM2M2Q4N2E2ZmE0YzIifQ==/iran-targets-israel-and-gulf-neighbours-as-trump-talks-of-winding-down-war.jpg",
+        "publishedAt": "2026-04-02T22:05:33Z",
+        "source": "breakingnews.ie"
       },
       {
-        "title": "Who is Randy George? US defence secretary Pete Hegseth asks army chief of staff general to step down",
-        "description": "US News: US defence secretary Pete Hegseth has asked army chief of staff general Randy George to step down and take immediate retirement, reports CBS News.Hegs.",
-        "url": "https://timesofindia.indiatimes.com/world/us/who-is-randy-george-us-defence-secretary-pete-hegseth-asks-army-chief-of-staff-general-to-step-down/articleshow/129988771.cms",
-        "image": "https://static.toiimg.com/thumb/msid-129988771,width-1280,height-720,imgsize-107420,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-02T21:16:00Z",
-        "source": "timesofindia.indiatimes.com"
+        "title": "Dezi Freeman's sister speaks out after his death at hands of Victorian police",
+        "description": "The sister of Dezi Freeman has broken her silence on the sovereign citizen's death at the hands of Victoria Police this week.",
+        "url": "https://www.rnz.co.nz/news/world/591422/dezi-freeman-s-sister-speaks-out-after-his-death-at-hands-of-victorian-police",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--AP-cbds_--/t_tohu-badge-facebook/v1756197198/4K21UWL_freeman_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-02T22:03:11Z",
+        "source": "RNZ"
       }
     ],
     "business": [
       {
-        "title": "A Look At PJT Partners (PJT) Valuation After Recent Share Price Pullback",
-        "description": "Recent share performance and business profile\nPJT Partners (PJT) has drawn investor attention after a recent pullback, with the stock down about 5% over the past month and about 17% over the past 3 months from a last close of $139.99.\nThe New York based advisory firm generates US$1.71b in revenue, primarily from providing advisory services on M&A, restructuring, capital markets and shareholder matters to corporations, financial sponsors, investors and governments around the world.\nSee our...",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-pjt/pjt-partners/news/a-look-at-pjt-partners-pjt-valuation-after-recent-share-pric",
-        "image": "https://images.simplywall.st/asset/industry/7132000-choice1-main-header/1585186724276",
-        "publishedAt": "2026-04-02T21:36:44Z",
-        "source": "simplywall.st"
+        "title": "Atmus Filtration Technologies Set to Join S&P SmallCap 600",
+        "description": "Our unique offerings work together to bring you the essential intelligence necessary to make decisions with conviction.",
+        "url": "https://press.spglobal.com/2026-04-02-Atmus-Filtration-Technologies-Set-to-Join-S-P-SmallCap-600",
+        "image": "https://media.mhfi.com/images/spg-facebook.jpg",
+        "publishedAt": "2026-04-02T22:15:24Z",
+        "source": "S&P Global"
       },
       {
-        "title": "Do Definium Therapeutics’ (DFTX) New Hires Hint At A Deeper Bet On Anxiety Treatments?",
-        "description": "Definium Therapeutics, Inc. recently granted options to purchase 55,580 common shares to three new non-executive employees, with exercise prices set at the respective grant-date closing prices and vesting over four years, as inducement awards approved under NASDAQ rules.\nThe company also reported a retrospective U.S. study, published in the Journal of Mood and Anxiety Disorders, showing generalized anxiety disorder diagnoses affecting more than 1 in 10 adults from 2020 to 2023, underscoring...",
-        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-dftx/definium-therapeutics/news/do-definium-therapeutics-dftx-new-hires-hint-at-a-deeper-bet",
-        "image": "https://images.simplywall.st/asset/industry/6121000-choice2-main-header/1585186699299",
-        "publishedAt": "2026-04-02T21:36:20Z",
-        "source": "simplywall.st"
+        "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
+        "description": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
+        "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/442c151878a896570ef9c97dd4ceed9b4d0d4571-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-02T22:14:37Z",
+        "source": "CoinDesk"
       },
       {
-        "title": "Assessing Figma (FIG) Valuation After A Steep Share Price Pullback",
-        "description": "Why Figma (FIG) is on investors’ radar today\nFigma (FIG) has been catching investor attention after a steep share price pullback, with the stock showing a 3.4% decline over the past day and a 45.7% slide year to date.\nSee our latest analysis for Figma.\nFigma’s recent 30 day share price return of 30.3% and year to date share price return of 45.7% both point to fading momentum. The latest close at $20.42 reflects that shift in sentiment.\nIf you are weighing what else to watch in software and AI...",
-        "url": "https://simplywall.st/stocks/us/software/nyse-fig/figma/news/assessing-figma-fig-valuation-after-a-steep-share-price-pull",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
-        "publishedAt": "2026-04-02T21:34:44Z",
-        "source": "simplywall.st"
+        "title": "Dubai's tourism industry reels from 'brutal' impact of war",
+        "description": "Last year, Dubai welcomed 19.59 million international visitors, making it one of the most-visited cities globally, but the US-Israel war with Iran has had a devastating impact on visitor numbers, and local businesses are struggling.",
+        "url": "https://www.myjoyonline.com/dubais-tourism-industry-reels-from-brutal-impact-of-war/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-213.png",
+        "publishedAt": "2026-04-02T22:12:25Z",
+        "source": "MyJoyOnline"
       },
       {
-        "title": "CU Boulder and Techstars Announce Partnership to Accelerate Colorado’s Entrepreneurial Ecosystem",
-        "description": "The University of Colorado Boulder and Techstars have announced a strategic partnership to expand opportunities for founders and strengthen Colorado’s innovation economy.",
-        "url": "https://www.techstars.com/newsroom/cu-boulder-and-techstars-announce-partnership-to-accelerate-colorado",
-        "image": "https://cdn.bfldr.com/CBWQP80B/as/c4qr2thjhs8qqjbbk3zk79/techstars_cu_boulder_announcement?jpg=webp&format=jpg?width=700",
-        "publishedAt": "2026-04-02T21:33:24Z",
-        "source": "Techstars"
+        "title": "Stock Market Today, April 2: Intel Rises on $14.2 Billion Fab 34 Stake Repurchase",
+        "description": "Intel rose after agreeing to repurchase Apollo’s stake in its Fab 34 facility, restoring full ownership as investors look to quarterly results later this month for progress on margins and its foundry strategy.",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/02/stock-market-today-april-2-intel-rises-on-usd14-2-billion-fab-34-stake-repurchase/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F23fc1b822f8eafa9d627ca7fbac8d5b39aebf467-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "publishedAt": "2026-04-02T22:12:18Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Blue Owl Redemptions Surge As Private Credit Wobbles; What to Know",
-        "description": "Blue Owl has become the poster child of private credit's current turmoil. It just saw a record number of redemption requests from investors.",
-        "url": "https://www.businessinsider.com/blue-owl-private-credit-firm-redemptions-2026-4",
-        "image": "https://i.insider.com/69cec355c02a678bd7e477d1?width=800&format=jpeg",
-        "publishedAt": "2026-04-02T21:33:00Z",
-        "source": "Business Insider"
+        "title": "2 Industrial Stocks You'll Wish You Bought in 2026 a Decade From Now",
+        "description": "These companies will benefit from increased spending on manufacturing in America.",
+        "url": "https://www.fool.com/investing/2026/04/02/2-industrial-stocks-youll-wish-you-bought-in-2026/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F863036%2Fai.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-02T22:12:18Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "GBP/USD trapped below 1.33 as the BoE's rate dilemma deepens",
-        "description": "Thursday's session was a downer for the British Pound. GBP/USD opened near 1.3300, sold off steadily through the day, and closed around 1.3220, losing 0.65%.",
-        "url": "https://www.fxstreet.com/news/gbp-usd-trapped-below-133-as-the-boes-rate-dilemma-deepens-202604022132",
-        "image": "https://editorial.fxsstatic.com/images/i/gbp-usd-001_Medium.jpg",
-        "publishedAt": "2026-04-02T21:32:20Z",
-        "source": "FXStreet"
+        "title": "ImageSource Releases ILINX on Microsoft SharePoint Embedded, Bringing AI-Powered Process Innovation to Microsoft 365",
+        "description": "/PRNewswire/ -- ImageSource, the maker of the ILINX® intelligent automation platform, have been named a 2026 Star Performer in the Everest Group Intelligent...",
+        "url": "https://www.prnewswire.com/news-releases/imagesource-releases-ilinx-on-microsoft-sharepoint-embedded-bringing-ai-powered-process-innovation-to-microsoft-365-302733293.html",
+        "image": "https://mma.prnewswire.com/media/1867035/imagesource_logo_no_tag_rgb_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-02T22:12:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
-        "description": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
-        "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
-        "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02xp-chocolate-top-hmwk/02xp-chocolate-top-hmwk-facebookJumbo.jpg",
-        "publishedAt": "2026-04-02T21:27:39Z",
-        "source": "The New York Times"
+        "title": "Warner, Schiff probe potential insider trading in government",
+        "description": "The lawmakers also cited a recent report that a Pete Hegseth-linked broker sought to make a multimillion-dollar investment in a defense-linked ETF in February.",
+        "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108286971-1775165757967-Side_by_Side_template.jpg?v=1775165868&w=1920&h=1080",
+        "publishedAt": "2026-04-02T22:11:11Z",
+        "source": "CNBC"
       },
       {
-        "title": "2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Before They Rebound From the Tech Sell-Off",
-        "description": "AI stocks are getting battered despite healthy growth, which is why now would be a good time to invest in this sector from a long-term perspective.",
-        "url": "https://www.fool.com/investing/2026/04/02/2-artificial-intelligence-ai-stocks-id-buy-with-10/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F861406%2Famd-headquarters-santa-clara-with-amd-logo-on-building_amd_advance.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-02T21:27:01Z",
-        "source": "fool.com"
+        "title": "Merit Medical Systems, Inc. to Announce Q1 2026 Financial Results and Host Investor Conference Call on April 30",
+        "description": "Merit Medical Systems will announce Q1 2026 financial results and host an investor call on April 30,",
+        "url": "https://www.quiverquant.com/news/Merit+Medical+Systems%2C+Inc.+to+Announce+Q1+2026+Financial+Results+and+Host+Investor+Conference+Call+on+April+30",
+        "image": "https://www.quiverquant.com/images/mmsi_rect_new.png",
+        "publishedAt": "2026-04-02T22:10:00Z",
+        "source": "Quiver Quantitative"
       }
     ],
     "science": [
+      {
+        "title": "Engineered E. coli dependency may help contain microbes to defined areas",
+        "description": "Take a typical fish out of the water and it won't live long. It gets the oxygen it needs from the water it swims in. In a similar way, scientists are exploring dependency as a method of controlling what microbes can do and where they can do it.",
+        "url": "https://phys.org/news/2026-04-coli-microbes-areas.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/harnessing-the-power-o.jpg",
+        "publishedAt": "2026-04-02T22:20:05Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Providing The Artemis Mission With Solar Radiation Forecasts",
+        "description": "In the Artemis II mission, NASA will test out a pair of new solar radiation forecasts, developed at University of Michigan Engineering, designed to protect astronauts venturing away from Earth. The mission launched Wednesday.  The forecasts will provide warnings of harmful solar radiation released by solar flares and eruptions up to 24 hours in advance....",
+        "url": "https://www.eurasiareview.com/03042026-providing-the-artemis-mission-with-solar-radiation-forecasts/",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-41.jpg",
+        "publishedAt": "2026-04-02T22:11:20Z",
+        "source": "Eurasia Review"
+      },
+      {
+        "title": "Bionic Flexible Sensor Designed for Extreme Conditions Combines Biological Inspiration with Advanced Materials",
+        "description": "Researchers have developed a new bionic distributed mul […]",
+        "url": "https://www.geneonline.com/bionic-flexible-sensor-designed-for-extreme-conditions-combines-biological-inspiration-with-advanced-materials/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-04-02T22:10:44Z",
+        "source": "geneonline.com"
+      },
+      {
+        "title": "New 2D material demonstrates capability for ultrathin waveplates",
+        "description": "Polarization has always been a core property of light that is essential for a broad range of everyday applications, including displays (LED, LCD, 3D Cinematics), photography, as well as satellite and antenna technologies. The ability to tune light polarization empowers us with enhanced communication signals, improved image quality, and access to hidden image details and non-conventional imaging modes (e.g. 3D imaging).",
+        "url": "https://phys.org/news/2026-04-2d-material-capability-ultrathin-waveplates.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-2d-material-demons.jpg",
+        "publishedAt": "2026-04-02T22:00:01Z",
+        "source": "phys.org"
+      },
+      {
+        "title": "Mount Etna’s strange seismic signal finally has an explanation",
+        "description": "Mount Etna’s strange hum comes from surface waves, helping scientists better detect early signs of eruption.",
+        "url": "https://www.earth.com/news/mount-etnas-strange-seismic-signal-decoded-after-years-of-uncertainty/",
+        "image": "https://cff2.earth.com/uploads/2026/04/02094442/Mount-Etna.jpg",
+        "publishedAt": "2026-04-02T21:47:07Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Scientists rethink how animals build repeating body parts",
+        "description": "Study reveals that early embryonic cells can switch roles, reshaping what we know about how fins, gills, and other body structures evolve.",
+        "url": "https://www.earth.com/news/scientists-rethink-how-animals-build-repeating-body-parts-like-fins-and-limbs/",
+        "image": "https://cff2.earth.com/uploads/2026/04/02140656/serial-homology.jpg",
+        "publishedAt": "2026-04-02T21:45:00Z",
+        "source": "Earth.com"
+      },
       {
         "title": "To astronauts' relief, Artemis II's moonbound toilet is working again after overnight fix",
         "description": "NASA's moonbound astronauts have reason to celebrate, and not just because their launch went so well.",
@@ -150,120 +198,72 @@
         "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-04-02T21:32:34Z",
         "source": "Nature"
-      },
-      {
-        "title": "Early data from Vera C. Rubin Observatory reveals over 11,000 new asteroids",
-        "description": "Using preliminary data from the Vera C. Rubin Observatory, scientists have discovered over 11,000 new asteroids. The data were confirmed by the International Astronomical Union's Minor Planet Center (MPC), making this the largest single batch of asteroid discoveries submitted in the past year. The discoveries were made using data from Rubin's early optimization surveys and offer a powerful preview of the observatory's transformative impact on solar system science.",
-        "url": "https://phys.org/news/2026-04-early-vera-rubin-observatory-reveals.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/early-data-from-vera-c.jpg",
-        "publishedAt": "2026-04-02T21:23:58Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "One-atom substitution successfully tunes molecular heat transport for the first time",
-        "description": "Control of heat transport in nanostructures is of central importance for numerous modern technologies—from high-performance computer chips that need to be cooled to energy converters—and is a highly active area of research. While great progress has been made in recent years in understanding how heat transport can be influenced by nanostructuring, it was previously unclear whether the replacement of a single atom in a molecule could measurably alter phonon transport—i.e. heat transport through lattice vibrations.",
-        "url": "https://phys.org/news/2026-04-atom-substitution-successfully-tunes-molecular.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/heat-transport-through.jpg",
-        "publishedAt": "2026-04-02T21:20:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Satellite data map reveals 33 subglacial lakes beneath the Canadian Arctic",
-        "description": "Researchers have created the first map of a network of subglacial lakes in the Canadian Arctic showing 33 bodies of water under glaciers. Using a decade of ArcticDEM satellite data of Earth's surface height, a team of researchers including the University of Waterloo has developed a method that allowed them to track the draining and filling of active subglacial lakes in unprecedented detail. The team's paper is published in The Cryosphere.",
-        "url": "https://phys.org/news/2026-04-satellite-reveals-subglacial-lakes-beneath.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/first-cataloguing-of-l.jpg",
-        "publishedAt": "2026-04-02T21:10:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Physicists Found Something That Can Move Faster Than Light: The Darkness Inside It",
-        "description": "For the first time, physicists have observed that 'holes' in light can move faster than the light itself.",
-        "url": "https://www.sciencealert.com/physicists-found-something-that-can-move-faster-than-light-the-darkness-inside-it",
-        "image": "https://www.sciencealert.com/images/2026/04/light-hole.jpg",
-        "publishedAt": "2026-04-02T21:02:20Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "Physicists Found Something That Can Move Faster Than Light: The Darkness Inside It",
-        "description": "This is fine.",
-        "url": "https://www.yahoo.com/news/articles/physicists-found-something-move-faster-210049472.html",
-        "image": "https://s.yimg.com/os/en/sciencealert_160/de7329e6534a116b1e802c5ec4f025db",
-        "publishedAt": "2026-04-02T21:00:49Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Introducing MirrorBot, a robot designed to foster human connection",
-        "description": "While technology has made the world \"smaller,\" it has also pulled individuals apart, thanks to mobile phones and other devices that command our attention. Cornell University researchers are using technology, in the form of ...",
-        "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/introducing-mirrorbot.jpg",
-        "publishedAt": "2026-04-02T21:00:19Z",
-        "source": "techxplore.com"
       }
     ],
     "ai": [
       {
-        "title": "Are Micron (MU) and SanDisk (SNDK) Stocks Overvalued after AI-Driven Rally?",
-        "description": "Semiconductor giants Micron (MU) and SanDisk (SNDK) have emerged as key players riding the AI-driven memory boom. MU stock has surged 315.2% and...",
-        "url": "https://markets.businessinsider.com/news/stocks/are-micron-mu-and-sandisk-sndk-stocks-overvalued-after-ai-driven-rally-1035992828",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-183.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-02T21:36:00Z",
+        "title": "Nudificaton ban: Minnesota lawmakers close to banning AI apps that turn photos into fake porn",
+        "description": "Dozens of Minnesota women have had their innocent social media photos turned into pornography that could haunt them for the rest of their lives. Minnesota lawmakers call it “nudification,\" and they’re getting close to a bipartisan ban on the technology, which they say could be as simple as flipping a switch.",
+        "url": "https://www.fox9.com/news/minnesota-legislature-nudification-ban-politics",
+        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/04/1200/630/mn-lawmakers-close-to-banning-ai-apps-that-turn-photos-into-fake-porn.jpg?ve=1&tl=1",
+        "publishedAt": "2026-04-02T22:28:39Z",
+        "source": "FOX 9"
+      },
+      {
+        "title": "Roth Analyst Calls Applied Digital Stock (APLD) a ‘Top Pick’ Ahead of Q3 Earnings",
+        "description": "Applied Digital (APLD) is seeing strong demand for its high-performance data centers required for AI workloads. The company is scheduled to anno...",
+        "url": "https://markets.businessinsider.com/news/stocks/roth-analyst-calls-applied-digital-stock-apld-a-top-pick-ahead-of-q3-earnings-1035992862",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-224.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-04-02T22:25:15Z",
         "source": "Markets Insider"
       },
       {
-        "title": "Tech Advances on Hopes For AI Outlook - Tech Roundup",
-        "description": "Shares of technology companies rose as traders bet the artificial-intelligence boom will survive an energy shock.\nChip makers continued a recent recovery rally, led by formerly embattled Intel.\n...",
-        "url": "https://www.marketscreener.com/news/tech-advances-on-hopes-for-ai-outlook-tech-roundup-ce7e51dddc8ff320",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-04-02T21:31:45Z",
-        "source": "MarketScreener"
+        "title": "Digitising sport: Apps bring players, venues together",
+        "description": "From wearable trackers for cyclists and step counting to the use of AI analytics in assessing athletes’ performance across games, technology has permeated the lives of sports enthusiasts in multiple ways.",
+        "url": "https://www.tribuneindia.com/news/jalandhar/digitising-sport-apps-bring-players-venues-together/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTliMmY5NzMwLTJlZTItMTFmMS04ZWE5LTk5MGI3ZjZhOWEzOS5qcGc=",
+        "publishedAt": "2026-04-02T22:23:21Z",
+        "source": "The Tribune"
       },
       {
-        "title": "MU, META, and AVGO: Top Analyst Turns Cautious on 3 AI Stocks",
-        "description": "The AI trade has been one of the market’s biggest drivers, but not all analysts are staying bullish. Top Erste Group analyst Hans Engel has turn...",
-        "url": "https://markets.businessinsider.com/news/stocks/mu-meta-and-avgo-top-analyst-turns-cautious-on-3-ai-stocks-1035992286",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-169-1024x239.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-02T21:15:00Z",
-        "source": "Markets Insider"
+        "title": "The Brunch round-up for April 4: The week and how it made us feel",
+        "description": "This week, we’re cheering for the final boss of gamers, running away from commitment, and hating AI slop",
+        "url": "https://www.hindustantimes.com/lifestyle/brunch/the-brunch-round-up-for-april-4-the-week-and-how-it-made-us-feel-101775168415287.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/02/550x309/After-Wuthering-Heights-s-cringe-press-tour--we-re_1775168412995.jpg",
+        "publishedAt": "2026-04-02T22:20:14Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "TSMC: The AI Foundry Supremacy Still Has Room To Run",
-        "description": "Bullish Taiwan Semiconductor Manufacturing Company Limited outlook ahead of Q1 2026: click for TSM guidance, margins, Nvidia Blackwell/Vera Rubin demand, and more.",
-        "url": "https://seekingalpha.com/article/4888193-tsmc-the-ai-foundry-supremacy-still-has-room-to-run",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1828680032/image_1828680032.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-02T21:09:52Z",
-        "source": "Seeking Alpha"
+        "title": "Majority of college students use AI for their coursework, poll finds",
+        "description": "A majority of college students in the United States uses artificial intelligence tools for their coursework at least once per week, a poll revealed.",
+        "url": "https://www.upi.com/Top_News/US/2026/04/02/survey-college-students-artificial-intelligence-coursework/5341775162201/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi/5341775162201/2026/1/e57e85d75571da20d2594cf8125682e2/v1.5/Majority-of-college-students-use-AI-for-their-coursework-poll-finds.jpg",
+        "publishedAt": "2026-04-02T22:15:09Z",
+        "source": "UPI News"
       },
       {
-        "title": "Brands Beloved by People Risk Being Invisible to AI",
-        "description": "The same qualities that drive successful brand turnarounds also drive AI visibility.",
-        "url": "https://www.adweek.com/brand-marketing/brands-beloved-by-people-risk-being-invisible-to-ai/",
-        "image": "https://static-www.adweek.com/wp-content/uploads/2026/02/voice-brian-niccol-starbucks-ceo.jpeg?w=600&h=315&crop=1",
-        "publishedAt": "2026-04-02T21:07:37Z",
-        "source": "Adweek"
+        "title": "Sony's gaming division just bought an AI startup that turns photos into 3D volumes",
+        "description": "Sony purchased an AI startup called Cinemersive Labs to help improve rendering techniques and gameplay visuals on future games.",
+        "url": "https://www.engadget.com/gaming/playstation/sonys-gaming-division-just-bought-an-ai-startup-that-turns-photos-into-3d-volumes-220648699.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/bajWMcNmpXfT2NjLBEMdNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/f462ae40-9bd2-11ef-9534-69bd84910e73",
+        "publishedAt": "2026-04-02T22:06:48Z",
+        "source": "Engadget"
       },
       {
-        "title": "Venture Capital Explodes: $300 Billion Floods Startups In Historic AI-Fueled Surge",
-        "description": "Venture investments saw \"unprecedented spending\" on AI compute and frontier labs, as investors poured $300 billion into 6,000 startups in Q1.",
-        "url": "https://www.benzinga.com/markets/private-markets/26/04/51640265/venture-capital-explodes-300-billion-floods-startups-in-historic-ai-fueled-surge",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/02/Venture-Capital--Investor-Capital-busine.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-02T21:05:40Z",
-        "source": "Benzinga"
+        "title": "Take-Two Reshuffles Its AI Team",
+        "description": "The AI division was working on 'cutting edge technology' to support game development",
+        "url": "https://kotaku.com/take-two-ai-zynga-layoffs-gta-2000684344",
+        "image": "https://kotaku.com/app/uploads/2026/04/taketwo2logo1-1200x675.jpg",
+        "publishedAt": "2026-04-02T22:05:32Z",
+        "source": "Kotaku"
       },
       {
-        "title": "Gmail’s useful new AI inbox features will cost you $250 a month",
-        "description": "If you're constantly wading through never-ending emails, these AI feature might actually useful.",
-        "url": "https://www.xda-developers.com/gmails-useful-new-ai-inbox-features-will-cost-you-250-a-month/",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/04/google-gmail-ai-integration.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-02T21:05:22Z",
-        "source": "XDA Developers"
-      },
-      {
-        "title": "New AI Education at Louisiana Universities",
-        "description": "Higher ed expert Melissa Morriss-Olson shares her latest EdTech innovation rave.",
-        "url": "https://www.usnews.com/education/u-s-news-higher-ground/articles/2026-04-02/ai-louisiana-university-students-microcredential",
-        "image": "https://www.usnews.com/dims4/USNEWS/76c1c60/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fb9%2F56%2Fc5855e5744409349c83e2d1405d6%2Font-4-2.jpg",
-        "publishedAt": "2026-04-02T21:03:00Z",
-        "source": "U.S. News & World Report"
+        "title": "NY AG warns of AI tax scams and fraud tips",
+        "description": "New York Attorney General Letitia James warns residents about increasing AI-powered tax scams and offers tips to stay safe.",
+        "url": "https://www.lohud.com/story/news/ny-news/2026/04/02/ny-ag-warns-of-ai-tax-scams-and-fraud-tips/89442560007/",
+        "image": "https://www.lohud.com/gcdn/authoring/authoring-images/2026/03/09/USAT/89073342007-getty-images-2151451936.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
+        "publishedAt": "2026-04-02T22:05:24Z",
+        "source": "White Plains Journal News"
       }
     ]
   }
