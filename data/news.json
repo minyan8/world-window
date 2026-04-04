@@ -1,269 +1,269 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-04T11:29:14.380Z",
+  "fetchedAt": "2026-04-04T12:31:08.713Z",
   "sections": {
     "world": [
       {
-        "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-        "description": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g8k8vq8gno",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg",
-        "publishedAt": "2026-04-03T23:14:04Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Downed planes raise new perils for Trump as Tehran hunts for missing US pilot",
-        "description": "Two US warplanes were downed over Iran and the Gulf, Iranian and US officials said, with two pilots rescued and a third still missing.",
-        "url": "https://www.rnz.co.nz/news/world/591468/downed-planes-raise-new-perils-for-trump-as-tehran-hunts-for-missing-us-pilot",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--vVBRK5P0--/t_tohu-badge-facebook/v1775257651/4JQPBRJ_AFP__20260403__A6PX8CW__v1__HighRes__IranUsIsraelWar_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-03T23:13:52Z",
-        "source": "RNZ"
-      },
-      {
-        "title": "Jomtien Beach falls quiet as tourist numbers drop, Pattaya businesses hit by economic slowdown",
-        "description": "PATTAYA, Thailand – Tourist numbers along Jomtien Beach have dropped noticeably in recent days, leaving normally busy beachfront areas unusually quiet and raising concerns among local operators. A survey of the area found a clear decline in visitors, with long stretches of beach appearing sparse compared to the typically lively atmosphere Pattaya is known for. […]",
-        "url": "https://www.pattayamail.com/news/jomtien-beach-falls-quiet-as-tourist-numbers-drop-pattaya-businesses-hit-by-economic-slowdown-541962",
-        "image": "https://www.pattayamail.com/wp-content/uploads/2026/04/Pattaya-7-Jomtien-Beach-falls-quiet-as-tourist-numbers-drop-Pattaya-businesses-hit-by-economic-slowdown-copy.jpg",
-        "publishedAt": "2026-04-03T23:10:41Z",
-        "source": "Pattaya Mail"
-      },
-      {
-        "title": "2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing",
-        "description": "One crew member has been rescued after an American aircraft went down in Iran, according to one U.S. and one Israeli official, who both spoke on condition of anonymity to describe sensitive ongoing military operations.",
-        "url": "https://wtop.com/world/2026/04/iran-fires-on-targets-across-mideast-while-israel-and-us-hit-tehran-as-war-shows-no-signs-of-slowing/",
-        "image": "https://wtop.com/wp-content/uploads/2026/04/Israel_Iran_War_75_97-scaled.jpg",
-        "publishedAt": "2026-04-03T23:08:17Z",
-        "source": "WTOP"
-      },
-      {
-        "title": "Top things to do in Goyang, South Korea: Explore a cafe with a lake, K-drama filming spots and a BTS mural",
-        "description": "Situated about 19km from Seoul, the city of Goyang has grown increasingly popular with tourists in recent years, drawing visitors for everything from major concerts to scenic day trips. If you’re planning a visit, here are the top things to do in Goyang, South Korea.",
-        "url": "https://cnalifestyle.channelnewsasia.com/travel/goyang-south-korea-things-do-bts-580921",
-        "image": "https://dam.mediacorp.sg/image/upload/s--rmC9jOCo--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/31/things_to_do_in_goyang.jpg?itok=w2NVCcFm",
-        "publishedAt": "2026-04-03T23:06:44Z",
-        "source": "CNA Lifestyle"
-      },
-      {
-        "title": "After 16 years in power, can Viktor Orban finally be unseated?",
-        "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
-        "url": "https://www.bbc.co.uk/news/articles/czd7y1n3jyjo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6409/live/d4812350-2d07-11f1-934f-036468834728.jpg",
-        "publishedAt": "2026-04-03T23:04:24Z",
-        "source": "BBC"
-      },
-      {
-        "title": "‘It’s suffocating’: Why Chiang Mai’s air is among the world’s worst right now",
-        "description": "PAI (Thailand), April 4 — After hours spent in the thick pollution-choking parts of northern Thailand, Pon Doikam gets home and blows her burning nose to find blood clots...",
-        "url": "https://www.malaymail.com/news/world/2026/04/04/its-suffocating-why-chiang-mais-air-is-among-the-worlds-worst-right-now/214957",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/03/333731.jpg",
-        "publishedAt": "2026-04-03T23:01:33Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "The most beautiful coast in the world? Exploring New Zealand’s overlooked Nelson Tasman by sand and sea",
-        "description": "For years this region was regarded as little more than a gateway from the North Island to the South. But spend several days there and you’ll ache to tear yourself away",
-        "url": "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast",
-        "image": "https://i.guim.co.uk/img/media/dcf9cca2fb1abf7068ba90aa44599c64bf495b90/139_0_1221_977/master/1221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5061f191d77e4c93f75cc78e475e65ff",
-        "publishedAt": "2026-04-03T23:01:00Z",
+        "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
+        "description": "Russian advances slowing, thinktank’s data shows; 14 killed in Ukraine in massive drone and missile salvo. What we know on day 1,501",
+        "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
+        "image": "https://i.guim.co.uk/img/media/08bd983271ca0b9f1c82ca3ca6b2c763fba0920d/320_0_4576_3661/master/4576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02deff91e6bb399b1c63debd50093710",
+        "publishedAt": "2026-04-04T00:30:00Z",
         "source": "The Guardian"
+      },
+      {
+        "title": "Former Somali PM slams appointment of interim Southwest state leader",
+        "description": "Mogadishu (HOL) — Former Somali Prime Minister Omar Abdirashid Ali Sharmarke has criticized the federal government’s appointment of an interim leader for Southwest State, describing the decision as unconstitutional and a direct challenge to Somalia’s federal framework.",
+        "url": "https://www.hiiraan.com/news4/2026/Apr/204810/former_somali_pm_slams_appointment_of_interim_southwest_state_leader.aspx",
+        "image": "https://www.hiiraan.com/uploads/2026/04/17752190801775200965images.jpg",
+        "publishedAt": "2026-04-04T00:25:25Z",
+        "source": "hiiraan.com"
+      },
+      {
+        "title": "Foreign Ministry Reports Safety of Vietnamese Vessels in the Middle East",
+        "description": "Pham Thu Hang, spokesperson for Vietnam’s Ministry of Foreign Affairs, provided an update on the country’s response to ongoing conflicts in the Middle East. Since the conflict began, the Ministry has coordinated closely with the Ministry of Construction and Vietnamese missions in the region to monitor developments actively. These diplomatic missions are tasked with maintaining […]",
+        "url": "https://maritimefairtrade.org/foreign-ministry-reports-safety-of-vietnamese-vessels-in-the-middle-east/",
+        "image": "https://maritimefairtrade.org/wp-content/uploads/pwa/icon-192.png",
+        "publishedAt": "2026-04-04T00:22:39Z",
+        "source": "Maritime Fairtrade"
+      },
+      {
+        "title": "Iran and US race to find missing American pilot downed in fighter jet - reports",
+        "description": "Iranian security forces are searching for the missing American pilot, Iranian state media report, after a US F-15 fighter jet was reportedly downed in southern Iran.",
+        "url": "https://www.bbc.co.uk/news/live/cm29zmpdj3vt",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1299/live/44f69b20-2fbe-11f1-8e1e-69b35ddf5e37.jpg",
+        "publishedAt": "2026-04-04T00:17:47Z",
+        "source": "BBC"
+      },
+      {
+        "title": "'We want a voice in our land'",
+        "description": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
+        "url": "https://www.bbc.com/news/articles/clyggr00x5vo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a9a/live/e28392a0-291d-11f1-934f-036468834728.jpg",
+        "publishedAt": "2026-04-04T00:17:20Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Call for Applications: 5 Fully Funded PhD Opportunities in Space & Society - University of Leicester",
+        "description": "The University of Leicester is offering an exciting set of fully funded PhD studentships through its pioneering Leverhulme Centre for Humanity and Space.",
+        "url": "https://www.globalsouthopportunities.com/2026/04/04/phd-16/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2025/09/GlobalSouthOpportunities-IconicMark-RGB-FullColor.png?fit=32%2C32&ssl=1",
+        "publishedAt": "2026-04-04T00:12:03Z",
+        "source": "Global South Opportunities"
+      },
+      {
+        "title": "Ferry and rail passengers warned of disruption as Storm Dave approaches",
+        "description": "No flight cancellations yet as Dublin Airport gears up for busiest weekend of 2026 so far",
+        "url": "https://www.irishtimes.com/environment/2026/04/03/ferry-and-rail-passengers-warned-of-disruption-as-storm-dave-approaches/",
+        "image": "https://www.irishtimes.com/resizer/v2/WBXYJ7IG3FHK7IL6LS73T5K724.jpg?smart=true&auth=bf65f22e7da090f5c8cd8704b16a6d9baa9d4658ebae0574844953ad7be93384&width=1200&height=630",
+        "publishedAt": "2026-04-04T00:01:42Z",
+        "source": "irishtimes.com"
+      },
+      {
+        "title": "China steps up Iran war diplomacy",
+        "description": "China is stepping up its diplomacy as the Iran war drags on. It has put forward a five-point proposal with Pakistan and is rallying support for the plan from Gulf countries and Western governments.",
+        "url": "https://apnews.com/article/china-pakistan-iran-war-diplomacy-5032adf869db373558775db0e030f18c",
+        "image": "https://dims.apnews.com/dims4/default/51d6a42/2147483647/strip/true/crop/6087x4056+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F74%2F54137e7fb21a1157f0b2038d5270%2Fe9082d8d12884bfdb3d09eedde756fde",
+        "publishedAt": "2026-04-04T00:01:00Z",
+        "source": "AP News"
       }
     ],
     "business": [
       {
-        "title": "Alan Titchmarsh urges gardeners to make 2 changes to stop gardens being an 'open invitation for rats'",
-        "description": "Spring is the prime breeding season for rodents, but there are easy ways to make your outdoor space less attractive to them",
-        "url": "https://www.irishmirror.ie/lifestyle/homes-and-property/alan-titchmarsh-stop-garden-rats-36964954",
-        "image": "https://i2-prod.irishmirror.ie/article36964952.ece/ALTERNATES/s1200d/0_Brown-rat-Rattus-norvegicus-adult-rodent-animal-emerging-from-a-burrow-hole-in-grassland-England-United-Kingdom.jpg",
-        "publishedAt": "2026-04-03T23:19:07Z",
-        "source": "Irish Mirror"
+        "title": "Telecom regulator orders Reliance Jio to stop ‘discriminatory’ tariff practices",
+        "description": "The directive follows a probe into Jio’s discontinuation of certain entry-level prepaid recharge plans offering 1 GB data per day, which the operator had said were available only through its own retail stores.",
+        "url": "https://www.livemint.com/companies/news/reliance-jio-tariff-plan-telecom-industry-india-regulator-trai-airtel-11775204254480.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/RELIANCE-JIO-INDIA-IPO-0_1765978646097_1765978657480_1775207368374.JPG",
+        "publishedAt": "2026-04-04T00:30:28Z",
+        "source": "livemint.com"
       },
       {
-        "title": "Colon cancer survivor who became viral fitness trainer isn’t afraid of eating McDonald’s",
-        "description": "Bill Maeda, 57, is an unconventional fitness influencer who doesn’t count reps and has some clients exercise for just 10 minutes a day.",
-        "url": "https://www.scmp.com/lifestyle/health-wellness/article/3348756/colon-cancer-survivor-who-became-viral-fitness-trainer-isnt-afraid-eating-mcdonalds",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/04/68894b1c-d609-4fbb-9e5a-65200b159521_a365e6ef.jpg?itok=BUD_WJgD&v=1775259823",
-        "publishedAt": "2026-04-03T23:15:08Z",
-        "source": "scmp.com"
+        "title": "Hong Kong airport opens sensory space for passengers with invisible disabilities",
+        "description": "Room near Gate 10 in Terminal One designed for passengers with autism, attention deficit hyperactivity disorder, claustrophobia and dementia.",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3348952/hong-kong-airport-opens-sensory-space-passengers-invisible-disabilities",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/03/e3e5b93e-3b49-42d1-9a0d-07740d4c35e0_a2cfe6f1.jpg?itok=PjFFxDq-&v=1775206761",
+        "publishedAt": "2026-04-04T00:30:09Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "HypurrFi Website Compromised in Suspected Domain Hijack, Users Told to Stay Away",
-        "description": "HypurrFi warns users to avoid its platform after a suspected domain hijack, assuring funds remain safe while investigations continue.",
-        "url": "https://www.livebitcoinnews.com/hypurrfi-website-compromised-in-suspected-domain-hijack-users-told-to-stay-away/",
-        "image": "https://www.livebitcoinnews.com/wp-content/uploads/2026/04/Cybersecurity-threat-exposed-through-glitching-screen-1100x733.png",
-        "publishedAt": "2026-04-03T23:14:36Z",
-        "source": "Live Bitcoin News"
+        "title": "5 stocks with consistent score improvement and upside potential of up to 26% in 1 year, according to analysts",
+        "description": "Here are three questions. First: When will the war end? Second: How long will it take to rebuild destroyed infrastructure? Third: How will the geopolitical situation pan out after? The answers to all three are up in the air. So, there is really no point in trying to figure out what will happen to the global equity markets. There is, however, one fact to consider: The market is in the habit of sharply pricing in events. And the short covering it witnessed on Thursday was perhaps the first indication of what is in the store. Our selected stocks for today depict a strong upward trajectory in their overall average score which is based on five key pillars: Earnings, fundamentals, relative valuation, risk, and price momentum. This implies that there has been a significant improvement in their market outlook in the given time frame.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/5-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-26-in-1-year-according-to-analysts/articleshow/130011322.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130011338,width-1070,height-580/premium-articleshow.jpg",
+        "publishedAt": "2026-04-04T00:21:38Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "FG cracks down on adulterated fuel",
-        "description": "The Nigerian government is cracking down on the sale of adulterated fuel. Learn how the NMDPRA is conducting inspections to ensure fuel quality for consume",
-        "url": "https://punchng.com/fg-cracks-down-on-adulterated-fuel/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2025/08/13011505/NMDPRA.jpg",
-        "publishedAt": "2026-04-03T23:14:29Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Bristol-Myers Squibb Cancer Moves And Equity Efforts Underpin Valuation Case",
-        "description": "Janux Therapeutics has nominated a new tumor activated therapeutic candidate under its collaboration with Bristol-Myers Squibb, triggering a milestone for the partnership. The candidate targets a broad range of solid tumors, with Bristol-Myers Squibb preparing for potential clinical development and future commercialization. Separately, Bristol-Myers Squibb is expanding its Standing in the Gaap program in multiple myeloma, launching a survey to better understand care barriers and inequities...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-cancer-moves-231130937.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/5a13d347387951add3c978a1a10a0331",
-        "publishedAt": "2026-04-03T23:11:30Z",
+        "title": "A Look At Millicom International Cellular (NasdaqGS:TIGO) Valuation After Recent Share Price Momentum",
+        "description": "Millicom International Cellular stock triggered overview With no single headline event driving attention to Millicom International Cellular (TIGO) today, recent performance metrics and fundamentals are in focus as investors reassess the telecom group’s position in Latin American markets. See our latest analysis for Millicom International Cellular. The recent 3.6% 1 day share price return to US$79.64 builds on a 40.8% 90 day share price return and a very large 3 year total shareholder return...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/look-millicom-international-cellular-nasdaqgs-002107869.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/6008364ab7a4bfa5cc53e4098a01b3b0",
+        "publishedAt": "2026-04-04T00:21:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "How emerging markets borrow: New evidence on sovereign bond issuance",
-        "description": "Emerging market debt has surged since the pandemic, renewing concerns about rollover risk and fiscal vulnerability. This column uses a new auction-level dataset covering sovereign bond issuance events across 20 emerging markets to study the evolution, currency composition, and maturity of emerging market bond issuance. The majority of issuance is in local currency and has a maturity of five years or less. Furthermore, local-currency borrowing is mainly driven by rollover needs, while foreign-currency issuance is timed around global financial conditions. These findings underscore the importance of developing deep domestic bond markets as core infrastructure for macroeconomic resilience.",
-        "url": "https://cepr.org/voxeu/columns/how-emerging-markets-borrow-new-evidence-sovereign-bond-issuance",
-        "image": "https://cepr.org/themes/custom/cepr/assets/favicon/favicon-32x32.png?v=1",
-        "publishedAt": "2026-04-03T23:08:26Z",
-        "source": "CEPR"
+        "title": "A Look At Valeura Energy (TSX:VLE) Valuation After Major Shareholder Trims Its Stake",
+        "description": "Insider selling event puts focus on major shareholder moves Thoresen Thai Agencies Public Company Limited, a 10% holder in Valeura Energy (TSX:VLE), recently sold 100,000 common shares for about CA$1,521,000, trimming its stake by roughly 0.6%. This insider transaction highlights changing positioning by a significant shareholder. This can be relevant if you track ownership concentration and how aligned large holders appear with Valeura Energy’s current valuation and outlook. See our latest...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/look-valeura-energy-tsx-vle-002040593.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
+        "publishedAt": "2026-04-04T00:20:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Payward Names Robert Moore as Chief Financial Officer",
-        "description": "Payward today announced the appointment of Robert Moore as Chief Financial Officer, effective immediately. Most executive searches answer the question in fro...",
-        "url": "https://www.businesswire.com/news/home/20260403518955/en/Payward-Names-Robert-Moore-as-Chief-Financial-Officer",
-        "image": "https://www.businesswire.com/bw-logo.png",
-        "publishedAt": "2026-04-03T23:01:00Z",
-        "source": "Business Wire"
+        "title": "McDonald's Introduces a 'Pro Gamer Menu' With an Arch-Shaped Device That Will Keep You From Going AFK While You Eat, But It's Only Available in Türkiye",
+        "description": "For when those fries can't wait...",
+        "url": "https://sea.ign.com/news/240914/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-device-that-will-keep-you-from-going-afk-w",
+        "image": "https://sm.ign.com/t/ign_ap/news/m/mcdonalds-/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-de_vsan.1200.jpg",
+        "publishedAt": "2026-04-04T00:03:34Z",
+        "source": "IGN Southeast Asia"
       },
       {
-        "title": "How often should you change your toilet brush?",
-        "description": "If you're just shoving the brush into its holder to wait for the next use and actively avoiding thinking about how dirty the whole concept of it is, you're not alone. Here's how to make sure your toilet brush is as hygienic as possible while it lasts.",
-        "url": "https://www.abc.net.au/news/2026-04-04/how-often-should-you-change-your-toilet-brush/106503772",
-        "image": "https://live-production.wcms.abc-cdn.net.au/cfd8247638bf1eeb468b2be24ed20aec?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=57&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-03T23:00:00Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Insight Health Raises $11M To Expand AI Clinical Systems",
+        "description": "Insight Health raises $11M to expand patient-facing clinical systems that reduce administrative strain and improve care workflows.",
+        "url": "https://ventureburn.com/insight-health-raises-11m/",
+        "image": "https://ventureburn.com/wp-content/uploads/2026/04/Insight-2.png",
+        "publishedAt": "2026-04-04T00:00:10Z",
+        "source": "Ventureburn"
+      },
+      {
+        "title": "Blokees made its debut at 2026 Thailand Toy Expo, exhibiting multiple products",
+        "description": "/PRNewswire/ -- From April 2 to 31, the Assembly Character Toys brand Blokees made its debut at the 2026 Thailand Toy Expo. Blokees unveiled its two major...",
+        "url": "https://www.prnewswire.com/in/news-releases/blokees-made-its-debut-at-2026-thailand-toy-expo-exhibiting-multiple-products-302733786.html",
+        "image": "https://mma.prnewswire.com/media/2949701/image_5032250_44313405.jpg?p=facebook",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "prnewswire.com"
       }
     ],
     "science": [
       {
-        "title": "bound NASA astronauts capture Earth's blue beauty",
-        "description": "As Artemis II astronauts forge ahead, NASA has released new images from inside the Orion spacecraft, including a portrait of Earth's deep blue oceans.",
-        "url": "https://www.abc.net.au/news/2026-04-04/artemis-ii-moon-nasa-orion-astronauts-earth-images-pictures/106531232",
-        "image": "https://live-production.wcms.abc-cdn.net.au/736f067c8fedc70f60acbcdcf7cc6cc4?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=84&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-03T23:27:34Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "The Picture Show",
+        "description": "Many of the photos that have come out of the moon mission so far were taken by crew members. NASA says the crew is getting guidance from scientists on what to capture when they get closer to the moon.",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/04/03/nx-s1-5773282/artemis-ii-nasa-photos",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+100/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Ff6%2F64a977144762b3a66b84f540d098%2Fgettyimages-2269058905.jpg",
+        "publishedAt": "2026-04-04T00:30:30Z",
+        "source": "NPR"
       },
       {
-        "title": "Biochar in soil significantly reshapes the social lives of ants",
-        "description": "Biochar may improve soil, but too much can harm ants, disrupting their behavior, teamwork, and the health of the ecosystem.",
-        "url": "https://www.earth.com/news/biochar-significantly-reshapes-the-social-lives-of-ants-which-further-improves-soil-ecosystems/",
-        "image": "https://cff2.earth.com/uploads/2026/04/03161044/biochar_ants_social_soil_1m.jpg",
-        "publishedAt": "2026-04-03T23:26:15Z",
-        "source": "Earth.com"
+        "title": "NASA's Artemis II crew are quite the photographers. See what they've snapped so far",
+        "description": "Many of the photos that have come out of the moon mission so far were taken by crew members. NASA says the crew is getting guidance from scientists on what to capture when they get closer to the moon.",
+        "url": "https://www.btpm.org/2026-04-03/nasas-artemis-ii-crew-are-quite-the-photographers-see-what-theyve-snapped-so-far",
+        "image": "https://npr.brightspotcdn.com/dims4/default/69c8d85/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F1920x1080%200%20100%2Fresize%2F1920x1080%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Ff6%2F64a977144762b3a66b84f540d098%2Fgettyimages-2269058905.jpg",
+        "publishedAt": "2026-04-04T00:30:00Z",
+        "source": "Buffalo Toronto Public Media"
       },
       {
-        "title": "Gold’s origins lie beneath the ocean deep inside the Earth's mantle",
-        "description": "Study finds repeated hydrous mantle melting helps concentrate gold beneath island arcs north of New Zealand.",
-        "url": "https://www.thebrighterside.news/post/golds-origins-lie-beneath-the-ocean-deep-inside-the-earths-mantle/",
-        "image": "https://www.thebrighterside.news/uploads/2026/04/Gold-Earth.png?auto=webp",
-        "publishedAt": "2026-04-03T23:07:00Z",
-        "source": "thebrighterside.news"
+        "title": "Fruit flies could help us better understand cellular recycling and human fertility",
+        "description": "Review of decades of research highlights how the cellular recycling process known as autophagy is essential for healthy egg development, offering vital clues for understanding human fertility and reproductive decline. | Agharkar Research Institute,Savitribai Phule Pune University,Drosophila,oogenesis | Research News by \"Research Matters\"",
+        "url": "https://researchmatters.in/news/fruit-flies-could-help-us-better-understand-cellular-recycling-and-human-fertility",
+        "image": "https://researchmatters.in/sites/researchmatters/files/Drosophila%20oogenesis.jpg",
+        "publishedAt": "2026-04-04T00:30:00Z",
+        "source": "researchmatters.in"
       },
       {
-        "title": "First photos from Artemis II show 'extraordinary' views of Earth",
-        "description": "NASA released the images which were taken from the Orion spacecraft as it rockets towards the Moon.",
-        "url": "https://www.sbs.com.au/news/article/nasa-releases-photographs-of-earth-taken-by-artemis-ii-crew/wmi8lr4ew",
-        "image": "https://assets.sbs.com.au/dims4/default/235167c/2147483647/strip/true/crop/5568x3132+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8f%2F2d%2F6eccea23452fa2ab41ca0c4b89be%2F20260404127540548532-original.jpg",
-        "publishedAt": "2026-04-03T23:03:20Z",
-        "source": "SBS Australia"
+        "title": "Scientists make ytterbium atomic clock that could detect dark matter",
+        "description": "Scientists have built an ultra-precise ytterbium atomic clock that could expose cracks in the Standard Model and detect dark matter.",
+        "url": "https://interestingengineering.com/science/japan-ytterbium-atomic-clock-dark-matter",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/1Z.jpeg",
+        "publishedAt": "2026-04-04T00:18:00Z",
+        "source": "Interesting Engineering"
       },
       {
-        "title": "Artemis moon mission: What will happen next and what could go wrong",
-        "description": "Here's what you'll want to watch for as Artemis II makes its way around the moon.",
-        "url": "https://www.rnz.co.nz/news/world/591498/artemis-moon-mission-what-will-happen-next-and-what-could-go-wrong",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--7fm6IYhe--/t_tohu-badge-facebook/v1775247477/4JQPJM6_AFP__20260402__A6HV226__v1__HighRes__776478560_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-03T22:59:54Z",
-        "source": "RNZ"
+        "title": "How the Artemis II mission is rekindling humanity’s long love affair with the moon",
+        "description": "In the coming days, astronauts on the mission are set to witness something that very few have seen before: the moon’s far side",
+        "url": "https://www.theglobeandmail.com/canada/article-how-the-artemis-ii-mission-is-rekindling-humanitys-long-love-affair/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/XLSPSXKFY5EJPPYH2AHUCB3HWY.jpg?auth=9a888d8eca01b32a29b2cabfd7565a45a3f78324c88126c1789cc55ca2856a1a&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-04T00:07:36Z",
+        "source": "theglobeandmail.com"
       },
       {
-        "title": "Vera C. Rubin Observatory Discovers Over 11,000 New Asteroids",
-        "description": "Astronomers using the Vera C. Rubin Observatory have discovered over 11,000 new asteroids, including hundreds of trans-Neptunian objects and 33 previously unknown near-Earth asteroids.",
-        "url": "https://www.sci.news/astronomy/vera-c-rubin-observatory-asteroids-14671.html",
-        "image": "https://cdn.sci.news/images/2026/04/image_14671-Rubin-Asteroids.jpg",
-        "publishedAt": "2026-04-03T22:56:59Z",
-        "source": "Sci.News"
+        "title": "Vast Safely Deorbits Haven Demo, Marking Key Step Toward Commercial Space Stations",
+        "description": "Vast successfully deorbits its Haven Demo spacecraft, proving key technologies for future commercial space stations.",
+        "url": "https://orbitaltoday.com/2026/04/04/vast-safely-deorbits-haven-demo-marking-key-step-toward-commercial-space-stations/",
+        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/vast-deorbit.jpg",
+        "publishedAt": "2026-04-04T00:02:05Z",
+        "source": "Orbital Today"
       },
       {
-        "title": "An Aerobot With ISRU Capabilities Could Explore Venus' Atmosphere for Years",
-        "description": "In a new proposal, a team of scientists explores how aerial robotic platforms (areobots) with in-situ resource utilization (ISRU) capability could operate for years in Venus' atmosphere.",
-        "url": "https://www.universetoday.com/articles/an-aerobot-with-isru-capabilities-could-explore-venus-atmosphere-for-years",
-        "image": "https://www.universetoday.com/article_images/Venus-Balloons-Big-c-NASA_20260403_214258.webp",
-        "publishedAt": "2026-04-03T22:40:00Z",
-        "source": "Universe Today"
+        "title": "Artemis astronauts more than halfway to Moon",
+        "description": "Astronaut Christina Koch said the crew had a collective \"expression of joy\" upon being told of the milestone, which was hit around two days, five hours and 24 minutes after the spacecraft blasted off from the Kennedy Space Center in Florida.",
+        "url": "https://www.newvision.co.ug/category/science/artemis-astronauts-more-than-halfway-to-moon-NV_231178_042026",
+        "image": "https://newvision-media.s3.amazonaws.com/cms/8f0916e5-1b14-4965-85b1-74c6300521c4.jpg",
+        "publishedAt": "2026-04-04T00:00:05Z",
+        "source": "newvision.co.ug"
       },
       {
-        "title": "NASA's Artemis II Is the First Crewed Moon Mission Since 1972. Why Are We Going Back?",
-        "description": "These lunar resources could be valuable to us on Earth and in space.",
-        "url": "https://www.nytimes.com/interactive/2026/04/03/science/space/moon-map-nasa-artemis-ii.html",
-        "image": "https://static01.nyt.com/images/2026/04/02/multimedia/2026-01-28-moon-map-index/2026-01-28-moon-map-index-facebookJumbo.jpg",
-        "publishedAt": "2026-04-03T22:35:26Z",
-        "source": "The New York Times"
+        "title": "Stunning photo taken from Artemis II commander Reid Wiseman has rebooted the world’s love of space",
+        "description": "Wiseman's photo from Artemis II as it departs Earth and heads to the moon has quickly become one of the defining images of the mission so far.",
+        "url": "https://ca.news.yahoo.com/stunning-photo-taken-artemis-ii-234836093.html",
+        "image": "https://s.yimg.com/os/en/good_279/ac9cb76ba64750b353803da7940394e9",
+        "publishedAt": "2026-04-03T23:48:36Z",
+        "source": "Yahoo News Canada"
       }
     ],
     "ai": [
       {
-        "title": "GCAP awards $908M deal for AI",
-        "description": "A $908 million GCAP contract signals a shift to unified development of a next-gen fighter built for networked, multi-domain warfare.",
-        "url": "https://interestingengineering.com/military/gcap-deal-next-gen-fighter",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-04T045447.348.jpg",
-        "publishedAt": "2026-04-03T23:27:01Z",
-        "source": "Interesting Engineering"
+        "title": "A company that makes AI training data has been hit by a security breach.",
+        "description": "Meta has paused work with the company, Mercor (which The Verge has profiled), while OpenAI is investigating the security incident, Wired reports.\n[Link: Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk | https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/ | WIRED]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/907083/a-company-that-makes-ai-training-data-has-been-hit-by-a-security-breach",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-04-04T00:00:58Z",
+        "source": "The Verge"
       },
       {
-        "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-        "description": "At GTC 2026, Nvidia launched its Agent Toolkit, signing Adobe, Salesforce, SAP and 14 others in a major push to power enterprise AI agents.",
-        "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2fleqnUY239c0tJFBLRGPF/123f498a5442eb1308cbeaee7fdd56c5/Vector_art_portrait_of_Jensen_Huang_image_in_Nvidia_green_and_black_minimalist_no_text_image_1.png?w=800&q=75",
-        "publishedAt": "2026-04-03T23:25:01Z",
-        "source": "VentureBeat"
+        "title": "Cornell University instructor turns to typewriters to curb AI writing",
+        "description": "The scene is right out of the 1950s with students pecking away at manual typewriters, the machines dinging at the end of each line. Once each semester, Grit Matthias Phelps, a German language instructor at Cornell University, introduces her students to the raw feeling of typing without online assistance. No screens, online dictionaries, spellcheckers or […]",
+        "url": "https://www.altoonamirror.com/life/area-life/2026/04/ai-cornell-instructor-turns-to-typewriters/",
+        "image": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/04/03142100/AP26080655513734-750x500.jpg",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "Altoona Mirror"
       },
       {
-        "title": "The Man Who Predicted Gold Would Reach $10,000 Says the AI Crash Will Send It Even Higher - and the Biggest Move Is Still Ahead",
-        "description": "Jim Rickards Has Released a New Video Presentation Arguing That the Coming AI Meltdown Will Supercharge the Gold Bull Market He Predicted Years Before Wall Street Believed It",
-        "url": "https://www.manilatimes.net/2026/04/04/tmt-newswire/globenewswire/the-man-who-predicted-gold-would-reach-10000-says-the-ai-crash-will-send-it-even-higher-and-the-biggest-move-is-still-ahead/2314177",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-04-03T23:19:43Z",
-        "source": "The Manila Times"
+        "title": "‘You stood by me without a second thought: Anupama Parameswaran pens emotional note on mom’s birthday",
+        "description": "On the work front, Anupama Parameswaran, who has been delivering strong performances consistently in critically-acclaimed films in Tamil, Telugu and.Anupama Parameswaran, Anupama Parameswaran mother birthday, actress heartfelt message, AI understanding parent-child bond, LLM sentiment analysis of celebrity posts, celebrity mother appreciation, South Indian actress birthday wish, Anupama Parameswaran new movie, psychological thriller casting, AI for social media trends, LLM content generation for entertainment news, understanding emotional messages, actress career updates, pan-Indian recognition, emotional intelligence in AI",
+        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/04/anupama-parameswaran-mother-birthday-tribute.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/4/4/anupama-parameswaran.jpg",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "OpenAI Isn’t Just Buying A Podcast It’s Buying Influence In The AI Narrative War",
-        "description": "INSIDE THIS REPORT A century-old strategy is quietly resurfacing as tech giants move to control not just platforms—but the conversations surrounding them. OpenAI’s acquisition of a niche but influential AI talk show signals a deeper shift in how power is exercised in the digital age. The question is no longer who builds the technology—but who OpenAI’s acquisition of TBPN signals a strategic move to shape AI narratives, reflecting a broader shift in how influence and technology intersect.",
-        "url": "https://usaherald.com/openai-isnt-just-buying-a-podcast-its-buying-influence-in-the-ai-narrative-war/",
+        "title": "Rs 650 crore payout in 7 years: Is this 5% yield small-cap AI stock the ultimate dividend hunter’s bet?",
+        "description": "A debt-free cash machine quietly compounds wealth, returning ₹650 crore to shareholders while scaling into AI-led learning. With steady demand and rising payouts, can this income story sustain its edge?",
+        "url": "https://www.financialexpress.com/market/stock-insights/dividend-hunter/rs-650-crore-payout-in-7-years-is-this-5-yield-small-cap-ai-stock-the-ultimate-dividend-hunters-bet/4194496/",
+        "image": "https://images.financialexpressdigital.com/2026/04/Untitled-design83.jpg",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "The Financial Express"
+      },
+      {
+        "title": "Framework would protect news organizations from Artificial Intelligence",
+        "description": "A musician spends years learning and honing his craft, investing in equipment and practice space, hiring musicians, living on a friend’s couch and taking odd",
+        "url": "https://www.adirondackdailyenterprise.com/opinion/editorials/2026/04/framework-would-protect-news-organizations-from-artificial-intelligence/",
+        "image": "https://d14e0irai0gcaa.cloudfront.net/www.adirondackdailyenterprise.com/images/2017/04/17105339/Untitled-2.jpg",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "Adirondack Daily Enterprise"
+      },
+      {
+        "title": "Micro AI Sentry Guns May Be Next Layer Of Defense For Data Centers Against Kamikaze Drones",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/military/micro-ai-sentry-guns-may-be-next-layer-defense-data-centers-against-kamikaze-drones",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/2026-04-03_09-44-26.png?itok=gXNHHjSM",
+        "publishedAt": "2026-04-04T00:00:00Z",
+        "source": "ZeroHedge"
+      },
+      {
+        "title": "Annie Altman Files Amended Lawsuit Against Brother Sam Altman In Federal Court As Filing Revives Explosive Abuse Allegations",
+        "description": "CASE AT A GLANCE A dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway. The case now pivots on procedural law rather than factual determinations, raising critical questions about how courts handle delayed claims of childhood abuse. As the litigation moves forward, the An amended lawsuit revives allegations against OpenAI CEO Sam Altman, shifting the case into a new legal phase under Missouri’s childhood sexual abuse statute.",
+        "url": "https://usaherald.com/annie-altman-files-amended-lawsuit-against-brother-sam-altman-in-federal-court-as-filing-revives-explosive-abuse-allegations/",
         "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-        "publishedAt": "2026-04-03T23:15:19Z",
+        "publishedAt": "2026-04-03T23:57:55Z",
         "source": "USA Herald"
       },
       {
-        "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-        "description": "April 3 (Reuters) - Elon ⁠Musk is requiring banks and other advisers ⁠working on SpaceX's planned IPO to buy subscriptions ‌to Grok, his artificial intelligence chatbot, the New York Times reported on Friday, citing people familiar with the matter.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/04/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/04/3843790.jpg",
-        "publishedAt": "2026-04-03T23:13:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "Report: Edge AI chip startup Hailo to go public via SPAC merger",
-        "description": "Report: Edge AI chip startup Hailo to go public via SPAC merger - SiliconANGLE",
-        "url": "https://siliconangle.com/2026/04/03/report-edge-ai-chip-startup-hailo-go-public-via-spac-merger/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Hailo.jpg",
-        "publishedAt": "2026-04-03T23:09:53Z",
-        "source": "SiliconANGLE News"
-      },
-      {
-        "title": "Teachers warn AI will 'turbocharge' racism in schools",
-        "description": "ARTIFICIAL intelligence threatens to turbocharge rising racism and misogyny in Scotland's schools, teachers have warned.",
-        "url": "https://www.dailymail.co.uk/news/article-15705041/Teachers-warn-AI-turbocharge-racism-schools.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646059-0-image-m-33_1775243295800.jpg",
-        "publishedAt": "2026-04-03T23:03:38Z",
-        "source": "Daily Mail Online"
-      },
-      {
-        "title": "Elon Musk asks SpaceX IPO banks to buy Grok AI subscriptions: report",
-        "description": "Elon Musk is requiring banks and other advisers working on SpaceX’s planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported Friday, citing people familiar with the matter.",
-        "url": "https://nypost.com/2026/04/03/business/elon-musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-report/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/elon-musk-spacex-ipo.jpg?quality=75&strip=all&1775241161&w=1200",
-        "publishedAt": "2026-04-03T22:47:18Z",
-        "source": "New York Post"
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "description": "The popular combination of OpenClaw and Claude Code is being severed now that Anthropic has announced it will start charging subscribers extra to access its AI with third-party tools.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-03T23:52:49Z",
+        "source": "The Verge"
       }
     ]
   }
