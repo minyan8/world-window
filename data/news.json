@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-04T12:31:08.713Z",
+  "fetchedAt": "2026-04-04T13:38:20.126Z",
   "sections": {
     "world": [
       {
-        "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
-        "description": "Russian advances slowing, thinktank’s data shows; 14 killed in Ukraine in massive drone and missile salvo. What we know on day 1,501",
-        "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
-        "image": "https://i.guim.co.uk/img/media/08bd983271ca0b9f1c82ca3ca6b2c763fba0920d/320_0_4576_3661/master/4576.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02deff91e6bb399b1c63debd50093710",
-        "publishedAt": "2026-04-04T00:30:00Z",
+        "title": "Young people ‘more likely to leave for health reasons when in low-paid, insecure jobs’",
+        "description": "Research for TUC analyses link between job quality and economic inactivity, as UK youth unemployment rises",
+        "url": "https://www.theguardian.com/society/2026/apr/03/young-people-more-likely-to-leave-for-health-reasons-when-in-low-paid-insecure-jobs",
+        "image": "https://i.guim.co.uk/img/media/c7de72e8d2e0eee94b3dba563cda22e03d883cf9/251_0_4433_3550/master/4433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb4c6caceca4b3a51a70789928af3dd6",
+        "publishedAt": "2026-04-04T01:30:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "Former Somali PM slams appointment of interim Southwest state leader",
-        "description": "Mogadishu (HOL) — Former Somali Prime Minister Omar Abdirashid Ali Sharmarke has criticized the federal government’s appointment of an interim leader for Southwest State, describing the decision as unconstitutional and a direct challenge to Somalia’s federal framework.",
-        "url": "https://www.hiiraan.com/news4/2026/Apr/204810/former_somali_pm_slams_appointment_of_interim_southwest_state_leader.aspx",
-        "image": "https://www.hiiraan.com/uploads/2026/04/17752190801775200965images.jpg",
-        "publishedAt": "2026-04-04T00:25:25Z",
-        "source": "hiiraan.com"
+        "title": "Is the US committing war crimes by targeting Iran’s civilian infrastructure?",
+        "description": "International law experts ‘seriously concerned’ about ‘strikes on schools, health centres and homes’ in contravention of Geneva conventions",
+        "url": "https://www.theguardian.com/law/2026/apr/03/us-war-crimes-iran-civilian-infrastructure-international-law-school-strike",
+        "image": "https://i.guim.co.uk/img/media/e788e1cd0556a1078b361f316149f4695a90bc19/414_0_4140_3312/master/4140.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76ce4bda787d88bd95e002e7b1e5f5b7",
+        "publishedAt": "2026-04-04T01:30:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Foreign Ministry Reports Safety of Vietnamese Vessels in the Middle East",
-        "description": "Pham Thu Hang, spokesperson for Vietnam’s Ministry of Foreign Affairs, provided an update on the country’s response to ongoing conflicts in the Middle East. Since the conflict began, the Ministry has coordinated closely with the Ministry of Construction and Vietnamese missions in the region to monitor developments actively. These diplomatic missions are tasked with maintaining […]",
-        "url": "https://maritimefairtrade.org/foreign-ministry-reports-safety-of-vietnamese-vessels-in-the-middle-east/",
-        "image": "https://maritimefairtrade.org/wp-content/uploads/pwa/icon-192.png",
-        "publishedAt": "2026-04-04T00:22:39Z",
-        "source": "Maritime Fairtrade"
+        "title": "Massive Roman necropolis discovered contains over 3,000 tombs",
+        "description": "A massive Roman necropolis containing 3,000 ancient tombs has been discovered beneath Croatia's oldest city, Zadar.",
+        "url": "https://www.earth.com/news/massive-roman-necropolis-found-with-3000-tombs-beneath-zadar-croatia/",
+        "image": "https://cff2.earth.com/uploads/2026/03/03132939/massive-roman-necropolis-3000-tombs-zadar-croatia.jpg",
+        "publishedAt": "2026-04-04T01:30:00Z",
+        "source": "Earth.com"
       },
       {
-        "title": "Iran and US race to find missing American pilot downed in fighter jet - reports",
-        "description": "Iranian security forces are searching for the missing American pilot, Iranian state media report, after a US F-15 fighter jet was reportedly downed in southern Iran.",
-        "url": "https://www.bbc.co.uk/news/live/cm29zmpdj3vt",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1299/live/44f69b20-2fbe-11f1-8e1e-69b35ddf5e37.jpg",
-        "publishedAt": "2026-04-04T00:17:47Z",
-        "source": "BBC"
+        "title": "Met Éireann warns Storm Dave may bring 'severe gusts'",
+        "description": "Met Éireann has warned of the potential for \"severe gusts\", with a Status Yellow warning due to come into effect for the country this afternoon as Storm Dave makes landfall.",
+        "url": "https://www.rte.ie/news/ireland/2026/0404/1566697-storm-dave-ireland/",
+        "image": "https://www.rte.ie/images/001b0a45-1600.jpg",
+        "publishedAt": "2026-04-04T01:23:54Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "'We want a voice in our land'",
-        "description": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
-        "url": "https://www.bbc.com/news/articles/clyggr00x5vo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a9a/live/e28392a0-291d-11f1-934f-036468834728.jpg",
-        "publishedAt": "2026-04-04T00:17:20Z",
-        "source": "BBC"
+        "title": "Downed jets raise new perils for Trump, as Tehran hunts for missing US pilot",
+        "description": "Stakes raised for Washington in a conflict with low public support and no sign of an imminent end. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-downs-us-fighter-jet-raising-stakes-in-war",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/edfb857c1f749ccd9e1d0ef1cacec423bfd7530a96a2098820aa68663af4a181",
+        "publishedAt": "2026-04-04T01:22:06Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Call for Applications: 5 Fully Funded PhD Opportunities in Space & Society - University of Leicester",
-        "description": "The University of Leicester is offering an exciting set of fully funded PhD studentships through its pioneering Leverhulme Centre for Humanity and Space.",
-        "url": "https://www.globalsouthopportunities.com/2026/04/04/phd-16/",
-        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2025/09/GlobalSouthOpportunities-IconicMark-RGB-FullColor.png?fit=32%2C32&ssl=1",
-        "publishedAt": "2026-04-04T00:12:03Z",
-        "source": "Global South Opportunities"
+        "title": "US, Iran search for American pilot after warplane downed",
+        "description": "Two US warplanes have been downed over Iran and the Gulf, Iranian ⁠and US officials said, with two pilots rescued and a third still missing and being hunted by Tehran's forces.",
+        "url": "https://www.rte.ie/news/middle-east/2026/0404/1566696-us-iran/",
+        "image": "https://www.rte.ie/images/00242a77-1600.jpg",
+        "publishedAt": "2026-04-04T00:57:01Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Ferry and rail passengers warned of disruption as Storm Dave approaches",
-        "description": "No flight cancellations yet as Dublin Airport gears up for busiest weekend of 2026 so far",
-        "url": "https://www.irishtimes.com/environment/2026/04/03/ferry-and-rail-passengers-warned-of-disruption-as-storm-dave-approaches/",
-        "image": "https://www.irishtimes.com/resizer/v2/WBXYJ7IG3FHK7IL6LS73T5K724.jpg?smart=true&auth=bf65f22e7da090f5c8cd8704b16a6d9baa9d4658ebae0574844953ad7be93384&width=1200&height=630",
-        "publishedAt": "2026-04-04T00:01:42Z",
-        "source": "irishtimes.com"
+        "title": "A fast-growing wildfire in windy Southern California triggers evacuations",
+        "description": "A smoky and fast-growing wildfire Friday in windy Southern California has prompted multiple evacuation orders and warnings.",
+        "url": "https://www.castanet.net/news/World/607031/A-fast-growing-wildfire-in-windy-Southern-California-triggers-evacuations",
+        "image": "https://www.castanet.net/content/2026/4/screenshot_2026-04-03_at_5.56.01pm_p4272945.jpg",
+        "publishedAt": "2026-04-04T00:57:00Z",
+        "source": "Castanet"
       },
       {
-        "title": "China steps up Iran war diplomacy",
-        "description": "China is stepping up its diplomacy as the Iran war drags on. It has put forward a five-point proposal with Pakistan and is rallying support for the plan from Gulf countries and Western governments.",
-        "url": "https://apnews.com/article/china-pakistan-iran-war-diplomacy-5032adf869db373558775db0e030f18c",
-        "image": "https://dims.apnews.com/dims4/default/51d6a42/2147483647/strip/true/crop/6087x4056+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F74%2F54137e7fb21a1157f0b2038d5270%2Fe9082d8d12884bfdb3d09eedde756fde",
-        "publishedAt": "2026-04-04T00:01:00Z",
-        "source": "AP News"
+        "title": "Somalia Registers First Ship in 30 Years with International Registry Launch",
+        "description": "Somalia officially registered its first ocean-going ship in more than 30 years on Wednesday as part of what the government calls a revitalization of i...",
+        "url": "https://maritime-executive.com/article/somalia-registers-first-ship-in-30-years-with-international-registry-launch",
+        "image": "https://maritime-executive.com/media/images/article/Guney-Somali-flagged-ship.491be8.jpg",
+        "publishedAt": "2026-04-04T00:51:59Z",
+        "source": "The Maritime Executive"
       }
     ],
     "business": [
       {
-        "title": "Telecom regulator orders Reliance Jio to stop ‘discriminatory’ tariff practices",
-        "description": "The directive follows a probe into Jio’s discontinuation of certain entry-level prepaid recharge plans offering 1 GB data per day, which the operator had said were available only through its own retail stores.",
-        "url": "https://www.livemint.com/companies/news/reliance-jio-tariff-plan-telecom-industry-india-regulator-trai-airtel-11775204254480.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/RELIANCE-JIO-INDIA-IPO-0_1765978646097_1765978657480_1775207368374.JPG",
-        "publishedAt": "2026-04-04T00:30:28Z",
-        "source": "livemint.com"
+        "title": "Does ASA (ASA) Pairing a Higher Payout with an Advisory Extension Reveal Its Capital Return Priorities?",
+        "description": "ASA Gold and Precious Metals Limited recently declared a US$0.04 per-share distribution, payable on May 13, 2026, up US$0.01 from last year, and extended its investment advisory agreement with Merk Investments LLC for 90 days starting April 1, 2026.\nThe simultaneous distribution increase, special committee review supported by Cantor Fitzgerald, and recognition for earnings strength highlight an actively evolving story around ASA’s capital return and governance approach.\nNext, we examine how...",
+        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-asa/asa-gold-and-precious-metals/news/does-asa-asa-pairing-a-higher-payout-with-an-advisory-extens",
+        "image": "https://images.simplywall.st/asset/industry/7131000-choice2-main-header/1585186813996",
+        "publishedAt": "2026-04-04T01:37:25Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Hong Kong airport opens sensory space for passengers with invisible disabilities",
-        "description": "Room near Gate 10 in Terminal One designed for passengers with autism, attention deficit hyperactivity disorder, claustrophobia and dementia.",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3348952/hong-kong-airport-opens-sensory-space-passengers-invisible-disabilities",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/03/e3e5b93e-3b49-42d1-9a0d-07740d4c35e0_a2cfe6f1.jpg?itok=PjFFxDq-&v=1775206761",
-        "publishedAt": "2026-04-04T00:30:09Z",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "5 stocks with consistent score improvement and upside potential of up to 26% in 1 year, according to analysts",
-        "description": "Here are three questions. First: When will the war end? Second: How long will it take to rebuild destroyed infrastructure? Third: How will the geopolitical situation pan out after? The answers to all three are up in the air. So, there is really no point in trying to figure out what will happen to the global equity markets. There is, however, one fact to consider: The market is in the habit of sharply pricing in events. And the short covering it witnessed on Thursday was perhaps the first indication of what is in the store. Our selected stocks for today depict a strong upward trajectory in their overall average score which is based on five key pillars: Earnings, fundamentals, relative valuation, risk, and price momentum. This implies that there has been a significant improvement in their market outlook in the given time frame.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/5-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-26-in-1-year-according-to-analysts/articleshow/130011322.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130011338,width-1070,height-580/premium-articleshow.jpg",
-        "publishedAt": "2026-04-04T00:21:38Z",
+        "title": "Feeling the heat of Iran war: Plan afoot to raise induction cooktop, utensil output",
+        "description": "India is planning to increase the production of induction cooktops and electric cookers. This move comes as demand surges due to disruptions in cooking gas imports caused by Iran war. The government held a meeting to discuss ways to speed up manufacturing. This proactive step aims to ensure future supply chains are robust.",
+        "url": "https://economictimes.indiatimes.com/news/india/feeling-the-heat-of-iran-war-plan-afoot-to-raise-induction-cooktop-utensil-output/articleshow/130008414.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130008536,width-1200,height-630,imgsize-59028,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-04T01:37:12Z",
         "source": "The Economic Times"
       },
       {
-        "title": "A Look At Millicom International Cellular (NasdaqGS:TIGO) Valuation After Recent Share Price Momentum",
-        "description": "Millicom International Cellular stock triggered overview With no single headline event driving attention to Millicom International Cellular (TIGO) today, recent performance metrics and fundamentals are in focus as investors reassess the telecom group’s position in Latin American markets. See our latest analysis for Millicom International Cellular. The recent 3.6% 1 day share price return to US$79.64 builds on a 40.8% 90 day share price return and a very large 3 year total shareholder return...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/look-millicom-international-cellular-nasdaqgs-002107869.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/6008364ab7a4bfa5cc53e4098a01b3b0",
-        "publishedAt": "2026-04-04T00:21:00Z",
-        "source": "Yahoo Finance"
+        "title": "A Look At Papa John’s (PZZA) Valuation As Oven Toasted Sandwiches Roll Out",
+        "description": "Papa John's International (PZZA) has moved further beyond its core pizza offering, rolling out Oven Toated Sandwiches and pairing the launch with a short window Pizza Miles rewards promo aimed at carryout customers.\nSee our latest analysis for Papa John's International.\nThe recent product launch and governance proposals come as the 1 month share price return of 9.38% and 1 week gain of 7.20% contrast with a 1 year total shareholder return decline of 10.68%. This may signal short term momentum...",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-pzza/papa-johns-international/news/a-look-at-papa-johns-pzza-valuation-as-oven-toasted-sandwich",
+        "image": "https://images.simplywall.st/asset/industry/4214000-choice1-main-header/1585186691957",
+        "publishedAt": "2026-04-04T01:37:08Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "A Look At Valeura Energy (TSX:VLE) Valuation After Major Shareholder Trims Its Stake",
-        "description": "Insider selling event puts focus on major shareholder moves Thoresen Thai Agencies Public Company Limited, a 10% holder in Valeura Energy (TSX:VLE), recently sold 100,000 common shares for about CA$1,521,000, trimming its stake by roughly 0.6%. This insider transaction highlights changing positioning by a significant shareholder. This can be relevant if you track ownership concentration and how aligned large holders appear with Valeura Energy’s current valuation and outlook. See our latest...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/look-valeura-energy-tsx-vle-002040593.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
-        "publishedAt": "2026-04-04T00:20:00Z",
-        "source": "Yahoo Finance"
+        "title": "A Look At BBB Foods (NYSE:TBBB) Valuation After Its Latest SEC 20 F Filing",
+        "description": "Why BBB Foods’ latest SEC filing matters for shareholders\nBBB Foods (NYSE:TBBB) recently filed its Annual Report on Form 20-F with the U.S. Securities and Exchange Commission, giving investors a detailed, audited look at the Mexican hard discount grocer’s operations and financial position.\nThis filing follows the company’s recent stock exchange listing and rapid store expansion in Mexico. It offers a single source for updated financial statements, risk disclosures, and governance information...",
+        "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-tbbb/bbb-foods/news/a-look-at-bbb-foods-nysetbbb-valuation-after-its-latest-sec",
+        "image": "https://images.simplywall.st/asset/industry/5023000-choice1-main-header/1585186815097",
+        "publishedAt": "2026-04-04T01:37:07Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "McDonald's Introduces a 'Pro Gamer Menu' With an Arch-Shaped Device That Will Keep You From Going AFK While You Eat, But It's Only Available in Türkiye",
-        "description": "For when those fries can't wait...",
-        "url": "https://sea.ign.com/news/240914/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-device-that-will-keep-you-from-going-afk-w",
-        "image": "https://sm.ign.com/t/ign_ap/news/m/mcdonalds-/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-de_vsan.1200.jpg",
-        "publishedAt": "2026-04-04T00:03:34Z",
-        "source": "IGN Southeast Asia"
+        "title": "Assessing Getlink (ENXTPA:GET) Valuation After A Strong Recent Share Price Run",
+        "description": "Why Getlink stock is on investors’ radar\nGetlink (ENXTPA:GET) has recently drawn attention after a solid run in its shares over the past month and past 3 months, prompting investors to reassess how its core tunnel and rail operations are valued.\nSee our latest analysis for Getlink.\nThe recent move to a €19.37 share price comes after a 21.75% year to date share price return and a 23.03% total shareholder return over 12 months, which points to building momentum rather than a one off move.\nIf...",
+        "url": "https://simplywall.st/stocks/fr/transportation/epa-get/getlink-shares/news/assessing-getlink-enxtpaget-valuation-after-a-strong-recent",
+        "image": "https://images.simplywall.st/asset/industry/3252000-choice1-main-header/1585187186848",
+        "publishedAt": "2026-04-04T01:36:48Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Insight Health Raises $11M To Expand AI Clinical Systems",
-        "description": "Insight Health raises $11M to expand patient-facing clinical systems that reduce administrative strain and improve care workflows.",
-        "url": "https://ventureburn.com/insight-health-raises-11m/",
-        "image": "https://ventureburn.com/wp-content/uploads/2026/04/Insight-2.png",
-        "publishedAt": "2026-04-04T00:00:10Z",
-        "source": "Ventureburn"
+        "title": "A Look At WEBTOON Entertainment (WBTN) Valuation After Legal Investigation And Post IPO Earnings Concerns",
+        "description": "Kaskela Law’s investigation into WEBTOON Entertainment (WBTN), following a securities fraud complaint tied to disappointing post IPO quarterly results, has put governance and disclosure risks in sharper focus for existing and prospective shareholders.\nSee our latest analysis for WEBTOON Entertainment.\nWEBTOON’s share price return paints a mixed picture, with a 7 day share price return of 7.97% contrasting with a 30 day share price return decline of 15.36% and a 90 day share price return...",
+        "url": "https://simplywall.st/stocks/us/media/nasdaq-wbtn/webtoon-entertainment/news/a-look-at-webtoon-entertainment-wbtn-valuation-after-legal-i",
+        "image": "https://images.simplywall.st/asset/industry/4300003-choice1-main-header/1585186588101",
+        "publishedAt": "2026-04-04T01:36:48Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Blokees made its debut at 2026 Thailand Toy Expo, exhibiting multiple products",
-        "description": "/PRNewswire/ -- From April 2 to 31, the Assembly Character Toys brand Blokees made its debut at the 2026 Thailand Toy Expo. Blokees unveiled its two major...",
-        "url": "https://www.prnewswire.com/in/news-releases/blokees-made-its-debut-at-2026-thailand-toy-expo-exhibiting-multiple-products-302733786.html",
-        "image": "https://mma.prnewswire.com/media/2949701/image_5032250_44313405.jpg?p=facebook",
-        "publishedAt": "2026-04-04T00:00:00Z",
-        "source": "prnewswire.com"
+        "title": "A Look At Alarm.com Holdings (ALRM) Valuation After New AI Security Product Launches",
+        "description": "Alarm.com Holdings (ALRM) recently rolled out AI-powered video search, a battery spotlight camera, and an advanced video doorbell, drawing attention to how these tools might influence the company’s long term growth story for investors.\nSee our latest analysis for Alarm.com Holdings.\nThese AI-focused launches arrive at a time when Alarm.com’s share price, now at US$43.67, has a 7 day share price return of 1.06% but a 1 year total shareholder return of 16.82% decline. This suggests that recent...",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-alrm/alarmcom-holdings/news/a-look-at-alarmcom-holdings-alrm-valuation-after-new-ai-secu",
+        "image": "https://images.simplywall.st/asset/industry/8041000-choice2-main-header/1585186556238",
+        "publishedAt": "2026-04-04T01:36:48Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Ghana spent GH¢39 billion on food imports in 2024 - Goosie Tanoh",
+        "description": "Augustus Goosie Tanoh, Presidential Adviser on the 24-Hour Economy and Accelerated Export Development, has called for a fundamental shift in Ghana’s economic structure from an import-driven model to a vibrant manufacturing-led economy that creates...",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Ghana-spent-GH-39-billion-on-food-imports-in-2024-Goosie-Tanoh-2028737",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/722/72212447.jpg",
+        "publishedAt": "2026-04-04T01:33:08Z",
+        "source": "GhanaWeb"
       }
     ],
     "science": [
+      {
+        "title": "Microbes turned a dead ichthyosaur into an exceptional 3D fossil",
+        "description": "Scientists reveal how microbes preserved a 183-million-year-old ichthyosaur as a stunning three-dimensional fossil now",
+        "url": "https://www.earth.com/news/over-180-million-years-microbes-turned-a-dead-ichthyosaur-into-an-exceptional-3d-fossil/",
+        "image": "https://cff2.earth.com/uploads/2026/04/03185315/ichthyosaur-microbes-3d-fossilization-180-million-years_Nature_1m.jpg",
+        "publishedAt": "2026-04-04T01:37:10Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Volcanoes emit faint but detectable signals before they erupt",
+        "description": "A study has discovered faint, underground seismic signals that could provide warning hours before volcano eruptions.",
+        "url": "https://www.earth.com/news/scientists-identify-faint-detectable-signals-emitted-by-volcanoes-before-they-erupt/",
+        "image": "https://cff2.earth.com/uploads/2026/03/03103241/volcano-eruption-warning-underground-signal.jpg",
+        "publishedAt": "2026-04-04T01:35:38Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Saturn’s magnetic field is twisted and scientists just figured out why",
+        "description": "Saturn’s magnetic field isn’t the smooth, symmetrical shield scientists see around Earth. Instead, it’s noticeably skewed, and researchers now think they understand why. By analyzing years of data from the Cassini spacecraft, scientists found that a key region where solar particles enter Saturn’s atmosphere is consistently shifted to one side. This distortion appears to be driven by the planet’s rapid spin combined with a thick cloud of charged particles coming from its moon Enceladus.",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260403002014.htm",
+        "image": "https://www.sciencedaily.com/images/1920/saturns-and-earths-magnetospheres-compared.webp",
+        "publishedAt": "2026-04-04T00:46:45Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Saturn’s magnetic field is twisted and scientists just figured out why",
+        "description": "Saturn’s magnetic field isn’t the smooth, symmetrical shield scientists see around Earth. Instead, it’s noticeably skewed, and researchers now think they understand why. By analyzing years of data from the Cassini spacecraft, scientists found that a key region where solar particles enter Saturn’s atmosphere is consistently shifted to one side. This distortion appears to be driven by the planet’s rapid spin combined with a thick cloud of charged particles coming from its moon Enceladus.",
+        "url": "http://www.sciencedaily.com/releases/2026/04/260403002014.htm",
+        "image": "https://www.sciencedaily.com/images/1920/saturns-and-earths-magnetospheres-compared.webp",
+        "publishedAt": "2026-04-04T00:46:45Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "See the 'amazing' photos of Earth taken on historic Artemis II moon mission",
+        "description": "NASA has shared the first breathtaking views of Earth taken from the Artemis II mission as the crew continues its journey toward the moon",
+        "url": "https://www.nbcnews.com/science/space/photos-artemis-moon-earth-space-rcna266665",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260403-ARTEMIS-aa-121-a16d62.jpg",
+        "publishedAt": "2026-04-04T00:37:00Z",
+        "source": "NBC News"
+      },
       {
         "title": "The Picture Show",
         "description": "Many of the photos that have come out of the moon mission so far were taken by crew members. NASA says the crew is getting guidance from scientists on what to capture when they get closer to the moon.",
@@ -158,112 +198,72 @@
         "image": "https://researchmatters.in/sites/researchmatters/files/Drosophila%20oogenesis.jpg",
         "publishedAt": "2026-04-04T00:30:00Z",
         "source": "researchmatters.in"
-      },
-      {
-        "title": "Scientists make ytterbium atomic clock that could detect dark matter",
-        "description": "Scientists have built an ultra-precise ytterbium atomic clock that could expose cracks in the Standard Model and detect dark matter.",
-        "url": "https://interestingengineering.com/science/japan-ytterbium-atomic-clock-dark-matter",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/1Z.jpeg",
-        "publishedAt": "2026-04-04T00:18:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "How the Artemis II mission is rekindling humanity’s long love affair with the moon",
-        "description": "In the coming days, astronauts on the mission are set to witness something that very few have seen before: the moon’s far side",
-        "url": "https://www.theglobeandmail.com/canada/article-how-the-artemis-ii-mission-is-rekindling-humanitys-long-love-affair/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/XLSPSXKFY5EJPPYH2AHUCB3HWY.jpg?auth=9a888d8eca01b32a29b2cabfd7565a45a3f78324c88126c1789cc55ca2856a1a&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-04T00:07:36Z",
-        "source": "theglobeandmail.com"
-      },
-      {
-        "title": "Vast Safely Deorbits Haven Demo, Marking Key Step Toward Commercial Space Stations",
-        "description": "Vast successfully deorbits its Haven Demo spacecraft, proving key technologies for future commercial space stations.",
-        "url": "https://orbitaltoday.com/2026/04/04/vast-safely-deorbits-haven-demo-marking-key-step-toward-commercial-space-stations/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/vast-deorbit.jpg",
-        "publishedAt": "2026-04-04T00:02:05Z",
-        "source": "Orbital Today"
-      },
-      {
-        "title": "Artemis astronauts more than halfway to Moon",
-        "description": "Astronaut Christina Koch said the crew had a collective \"expression of joy\" upon being told of the milestone, which was hit around two days, five hours and 24 minutes after the spacecraft blasted off from the Kennedy Space Center in Florida.",
-        "url": "https://www.newvision.co.ug/category/science/artemis-astronauts-more-than-halfway-to-moon-NV_231178_042026",
-        "image": "https://newvision-media.s3.amazonaws.com/cms/8f0916e5-1b14-4965-85b1-74c6300521c4.jpg",
-        "publishedAt": "2026-04-04T00:00:05Z",
-        "source": "newvision.co.ug"
-      },
-      {
-        "title": "Stunning photo taken from Artemis II commander Reid Wiseman has rebooted the world’s love of space",
-        "description": "Wiseman's photo from Artemis II as it departs Earth and heads to the moon has quickly become one of the defining images of the mission so far.",
-        "url": "https://ca.news.yahoo.com/stunning-photo-taken-artemis-ii-234836093.html",
-        "image": "https://s.yimg.com/os/en/good_279/ac9cb76ba64750b353803da7940394e9",
-        "publishedAt": "2026-04-03T23:48:36Z",
-        "source": "Yahoo News Canada"
       }
     ],
     "ai": [
       {
-        "title": "A company that makes AI training data has been hit by a security breach.",
-        "description": "Meta has paused work with the company, Mercor (which The Verge has profiled), while OpenAI is investigating the security incident, Wired reports.\n[Link: Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk | https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/ | WIRED]",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/907083/a-company-that-makes-ai-training-data-has-been-hit-by-a-security-breach",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-        "publishedAt": "2026-04-04T00:00:58Z",
-        "source": "The Verge"
+        "title": "OpenAI COO shifts out of role, AGI CEO taking medical leave",
+        "description": "OpenAI faces major leadership changes as Brad Lightcap moves roles, Denise Dresser takes duties, and Kate Rouch and Fidji Simo go on health leave. The company prepares for a possible IPO, expands revenue efforts like ads, and relies on executives to maintain continuity, growth, and progress during a pivotal period.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave/articleshow/130011601.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59054,resizemode-75,msid-130011601/tech/technology/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave.jpg",
+        "publishedAt": "2026-04-04T01:32:33Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Cornell University instructor turns to typewriters to curb AI writing",
-        "description": "The scene is right out of the 1950s with students pecking away at manual typewriters, the machines dinging at the end of each line. Once each semester, Grit Matthias Phelps, a German language instructor at Cornell University, introduces her students to the raw feeling of typing without online assistance. No screens, online dictionaries, spellcheckers or […]",
-        "url": "https://www.altoonamirror.com/life/area-life/2026/04/ai-cornell-instructor-turns-to-typewriters/",
-        "image": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/04/03142100/AP26080655513734-750x500.jpg",
-        "publishedAt": "2026-04-04T00:00:00Z",
-        "source": "Altoona Mirror"
+        "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+        "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
+        "publishedAt": "2026-04-04T01:31:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "‘You stood by me without a second thought: Anupama Parameswaran pens emotional note on mom’s birthday",
-        "description": "On the work front, Anupama Parameswaran, who has been delivering strong performances consistently in critically-acclaimed films in Tamil, Telugu and.Anupama Parameswaran, Anupama Parameswaran mother birthday, actress heartfelt message, AI understanding parent-child bond, LLM sentiment analysis of celebrity posts, celebrity mother appreciation, South Indian actress birthday wish, Anupama Parameswaran new movie, psychological thriller casting, AI for social media trends, LLM content generation for entertainment news, understanding emotional messages, actress career updates, pan-Indian recognition, emotional intelligence in AI",
-        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/04/anupama-parameswaran-mother-birthday-tribute.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/4/4/anupama-parameswaran.jpg",
-        "publishedAt": "2026-04-04T00:00:00Z",
+        "title": "To learn the tech, all you have to do is ask",
+        "description": "AI is being embedded into the apps we already use. Fortunately, so is guidance on how to use",
+        "url": "https://www.livemint.com/opinion/columns/ai-technology-learning-asks-questions-chatbot-assistant-human-interaction-11775141222595.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/02/1600x900/logo/1000090540_1775144396794_1775144401140.png",
+        "publishedAt": "2026-04-04T01:30:49Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "AI Tool of the Week: This Claude feature runs your desktop from your phone",
+        "description": "Send tasks to your desktop AI while you’re in transit. Claude Dispatch works on your files, on your machine, and delivers finished output before you’re back at your desk.",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/claude-dispatch-task-management-local-processing-async-ai-productivity-tools-mobile-control-11775184705082.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/2-0-218579518-459310425-0_1680593760678_1775186205844.jpg",
+        "publishedAt": "2026-04-04T01:30:30Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Ex-Army man's 'Hello Nariyal' represents Kerala brigade of coconut climbers that won Anand Mahindra's praise",
+        "description": "The brand 'Hello Nariyal' was formalised four years into the venture, followed by the launch of a website..coconut climbing service, on-demand coconut harvesting, digital coconut farming, Hello Nariyal, Kerala coconut solutions, tech-enabled agriculture, LLM coconut industry insights, AI for agricultural labor, skilled coconut climbers, mechanized coconut harvesting, hyperlocal services Kerala, modern coconut farming, agricultural technology innovations, language models in agriculture, AI in farming efficiency",
+        "url": "https://www.onmanorama.com/news/kerala/2026/04/04/hello-nariyal-coconut-climbing-ex-army-man-kerala-brigade-coconut-climber.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/4/coconut-climber.jpg",
+        "publishedAt": "2026-04-04T01:30:00Z",
         "source": "Malayala Manorama"
       },
       {
-        "title": "Rs 650 crore payout in 7 years: Is this 5% yield small-cap AI stock the ultimate dividend hunter’s bet?",
-        "description": "A debt-free cash machine quietly compounds wealth, returning ₹650 crore to shareholders while scaling into AI-led learning. With steady demand and rising payouts, can this income story sustain its edge?",
-        "url": "https://www.financialexpress.com/market/stock-insights/dividend-hunter/rs-650-crore-payout-in-7-years-is-this-5-yield-small-cap-ai-stock-the-ultimate-dividend-hunters-bet/4194496/",
-        "image": "https://images.financialexpressdigital.com/2026/04/Untitled-design83.jpg",
-        "publishedAt": "2026-04-04T00:00:00Z",
-        "source": "The Financial Express"
+        "title": "Online attacks and Luigi Mangione-inspired death threats in ugly brawl to build California AI megaproject",
+        "description": "The defamation lawsuit, filed by Imperial Valley Computer Manufacturing and its attorney, Sebastian Rucci, claims nonprofit Comite Civico del Valle (CCV) is attempting to stall the data center project in a bid to force a financial settlement.",
+        "url": "https://nypost.com/2026/04/03/tech/online-attacks-and-luigi-mangione-inspired-death-threats-in-ugly-brawl-to-build-california-ai-megaproject/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124974077.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-04-04T01:28:34Z",
+        "source": "New York Post"
       },
       {
-        "title": "Framework would protect news organizations from Artificial Intelligence",
-        "description": "A musician spends years learning and honing his craft, investing in equipment and practice space, hiring musicians, living on a friend’s couch and taking odd",
-        "url": "https://www.adirondackdailyenterprise.com/opinion/editorials/2026/04/framework-would-protect-news-organizations-from-artificial-intelligence/",
-        "image": "https://d14e0irai0gcaa.cloudfront.net/www.adirondackdailyenterprise.com/images/2017/04/17105339/Untitled-2.jpg",
-        "publishedAt": "2026-04-04T00:00:00Z",
-        "source": "Adirondack Daily Enterprise"
+        "title": "Buying a new smartphone? These AI features should be your top priority in 2026",
+        "description": "AI is now at the core of modern smartphones, shaping everything from photography to battery life and security. If you're planning to buy a new phone, understanding the right AI features can help you make a smarter and future-proof choice.",
+        "url": "https://www.indiatvnews.com/technology/news/buying-a-new-smartphone-these-ai-features-should-be-your-top-priority-in-2026-2026-04-03-1036206",
+        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/04/smartphone-pixabay-1775220665.jpg",
+        "publishedAt": "2026-04-04T01:00:01Z",
+        "source": "India TV News"
       },
       {
-        "title": "Micro AI Sentry Guns May Be Next Layer Of Defense For Data Centers Against Kamikaze Drones",
-        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-        "url": "https://www.zerohedge.com/military/micro-ai-sentry-guns-may-be-next-layer-defense-data-centers-against-kamikaze-drones",
-        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/2026-04-03_09-44-26.png?itok=gXNHHjSM",
-        "publishedAt": "2026-04-04T00:00:00Z",
-        "source": "ZeroHedge"
-      },
-      {
-        "title": "Annie Altman Files Amended Lawsuit Against Brother Sam Altman In Federal Court As Filing Revives Explosive Abuse Allegations",
-        "description": "CASE AT A GLANCE A dismissed lawsuit involving one of the most powerful figures in artificial intelligence has unexpectedly been revived through a narrow legal pathway. The case now pivots on procedural law rather than factual determinations, raising critical questions about how courts handle delayed claims of childhood abuse. As the litigation moves forward, the An amended lawsuit revives allegations against OpenAI CEO Sam Altman, shifting the case into a new legal phase under Missouri’s childhood sexual abuse statute.",
-        "url": "https://usaherald.com/annie-altman-files-amended-lawsuit-against-brother-sam-altman-in-federal-court-as-filing-revives-explosive-abuse-allegations/",
-        "image": "https://usaherald.com/wp-content/uploads/2017/09/usa_favicon32.png",
-        "publishedAt": "2026-04-03T23:57:55Z",
-        "source": "USA Herald"
-      },
-      {
-        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-        "description": "The popular combination of OpenClaw and Claude Code is being severed now that Anthropic has announced it will start charging subscribers extra to access its AI with third-party tools.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-03T23:52:49Z",
-        "source": "The Verge"
+        "title": "How a Madurai goat tradition inspired this Malayalam filmmaker’s Tamil film 'Jockey'",
+        "description": "Director Pragabhal was inspired to make the film 'Jockey' after witnessing a traditional goat fighting event in Madurai, a sport largely unknown.goat fighting film, Kida Sandai movie, Tamil cinema, Jockey film director, Madurai traditions, rural sports, animal bond cinema, Indian folk sports, lesser known traditions, AI storytelling insights, LLM narrative analysis, cinematic depiction of rituals, agricultural community films, emotional sports drama, Pragabhal directorial",
+        "url": "https://www.onmanorama.com/entertainment/interviews/2026/04/03/goat-fighting-tradition-tamil-nadu-pragabhal-malayalam-director.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/interviews/images/2026/4/3/pragabhal.jpg",
+        "publishedAt": "2026-04-04T00:58:06Z",
+        "source": "Malayala Manorama"
       }
     ]
   }
