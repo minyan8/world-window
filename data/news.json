@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-04T18:30:36.980Z",
+  "fetchedAt": "2026-04-04T19:29:25.330Z",
   "sections": {
     "world": [
       {
-        "title": "How 2 downed jets show a critical vulnerability for the US as Iran war rages on",
-        "description": "US launches rescue mission after F-15E downing; one crew member found, another missing in first such combat loss since war began.",
-        "url": "https://www.channelnewsasia.com/world/iran-us-2-down-jets-critical-vulnerability-6036471",
-        "image": "https://dam.mediacorp.sg/image/upload/s--wJV8qmit--/c_crop,h_1315,w_2339,x_1,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/04/us_f-15_jet_india.jpg?itok=A8Cytq37",
-        "publishedAt": "2026-04-04T06:29:41Z",
-        "source": "CNA"
+        "title": "The United States is no friend of Europe",
+        "description": "After the Iran war, the Atlantic relationship can never be the same",
+        "url": "https://www.newstatesman.com/international-politics/geopolitics/2026/04/the-united-states-is-no-friend-of-europe",
+        "image": "https://dl6pgk4f88hky.cloudfront.net/2026/04/02/gettyimages-2236150117-800x418.jpg?1775300852",
+        "publishedAt": "2026-04-04T07:27:34Z",
+        "source": "newstatesman.com"
       },
       {
-        "title": "UG celebrates alumna, Christina Koch, the only female on the Artemis II mission to the moon",
-        "description": "The University of Ghana (UG) has celebrated its alumna, Christina Hammock Koch, one of the four astronauts and the only female on the historic Artemis II mission around the Moon.",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/UG-celebrates-alumna-Christina-Koch-the-only-female-on-the-Artemis-II-mission-to-the-moon-2028750",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/520/52091832.jpg",
-        "publishedAt": "2026-04-04T06:28:22Z",
-        "source": "GhanaWeb"
+        "title": "Pakistan vows to repay UAE $3.5 bn as rollover refused",
+        "description": "With UAE declining further leniency amid escalating West Asia conflict, Pakistan is finally settling $3.5 bn debt.",
+        "url": "https://theprint.in/diplomacy/pakistan-remembers-dignity-after-extensions-nudges-vows-to-repay-uae-3-5-bn-as-rollover-refused/2896522/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/04/Untitled-design-3-2.png",
+        "publishedAt": "2026-04-04T07:23:17Z",
+        "source": "ThePrint"
       },
       {
-        "title": "President Kagame criticises US sanctions, accuses Washington of bias against Rwanda",
-        "description": "Kagame described Washington’s approach as “insults thrown in the face” of Rwanda, asserting that the sanctions ignore the deeper security challenges in the regi...",
-        "url": "https://eastleighvoice.co.ke/regional/326306/president-kagame-criticises-us-sanctions-accuses-washington-of-bias-against-rwanda",
-        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2025/11/Screenshot-2025-11-29-141831.jpg",
-        "publishedAt": "2026-04-04T06:24:17Z",
-        "source": "The Eastleigh Voice"
+        "title": "As a state visit looms … can King Charles tame Trump?",
+        "description": "Royal visitors have long been popular in the US, and Charles has decades of diplomacy under his belt. But can soft power save the special relationship?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
+        "image": "https://i.guim.co.uk/img/media/ab78c5043708ff7ab60eb0838476927897628ee2/65_197_3901_3121/master/3901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7636c31385bf9315508b353864f8555a",
+        "publishedAt": "2026-04-04T07:23:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Iran war live updates: US and Iran race to find missing crew member",
-        "description": "One U.S. service member was rescued and at least one was missing after Iran downed a U.S. military plane.",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-04-2026",
-        "image": "https://dims.apnews.com/dims4/default/c69c8de/2147483647/strip/true/crop/4766x3176+188+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F54%2F866e1244cf75a3e616217640d816%2Fc5f43c1504ca452ab2e66736853d3ec0",
-        "publishedAt": "2026-04-04T06:23:35Z",
-        "source": "AP News"
+        "title": "Storm Dave to hit Ireland as Met Éireann warns of 'severe' wind",
+        "description": "Met Éireann said Storm Dave will bring very strong southerly winds, veering westerly by the evening.",
+        "url": "https://www.breakingnews.ie/ireland/storm-dave-to-hit-ireland-as-met-eireann-warns-of-severe-wind-1882627.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDFcXFwvMjMxNTIwMDBcXFwvMi43ODU5NjgxNi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImEyMWUzYTBiYjRjZTU3NWYzYzIyYzYzOTFjMTQxOTllNDBhOTk2MjEifQ==/storm-dave-to-hit-ireland-as-met-eireann-warns-of-severe-wind.jpg",
+        "publishedAt": "2026-04-04T07:20:25Z",
+        "source": "BreakingNews.ie"
       },
       {
-        "title": "Northern Thailand air crisis: Governor orders closure of nine national forests to combat ‘toxic smog’",
-        "description": "BANGKOK: Authorities in Nan have taken the drastic step of \"locking down\" nine national forest reserves in a bid to curb the catastrophic levels of PM2.5 pollution currently suffocating Northern Thailand.",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/04/northern-thailand-air-crisis-governor-orders-closure-of-nine-national-forests-to-combat-toxic-smog",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/04/3843959.jpg",
-        "publishedAt": "2026-04-04T06:07:00Z",
-        "source": "thestar.com.my"
+        "title": "Cheekwood Estate & Gardens Named One of the Best Botanical Gardens in the U.S.",
+        "description": "Cheekwood is Named One of the Best Botanical Gardens in the US.",
+        "url": "https://rutherfordsource.com/cheekwood-estate-gardens-named-one-of-the-best-botanical-gardens-in-the-us/",
+        "image": "https://rutherfordsource.com/wp-content/uploads/2026/04/cheekwood-in-bloom-2-scaled-e1774885519352.jpg",
+        "publishedAt": "2026-04-04T07:15:55Z",
+        "source": "Rutherford Source"
       },
       {
-        "title": "Cameroon opposition slams plan to create vice president post as 'coup'",
-        "description": "If approved, the vice president would take over in the event of the president's death, resignation or incapacity with no obligation to hold elections",
-        "url": "https://www.africanews.com/2026/04/04/cameroon-opposition-slams-plan-to-create-vice-president-post-as-coup/",
-        "image": "https://images.euronews.com/articles/stories/09/71/03/18/1024x538_cmsv2_aa1a60e4-5837-5405-9d4b-2720602cf3b3-9710318.jpg",
-        "publishedAt": "2026-04-04T06:03:19Z",
-        "source": "africanews.com"
+        "title": "Storm Dave to bring severe gusts as nationwide wind warning takes effect",
+        "description": "Severe gusts, coastal gales and travel disruption expected as Storm Dave becomes the fourth named storm of the season",
+        "url": "https://www.irishexaminer.com/news/arid-41822090.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10058/5029244_2_seoimageog_DENIS_20storm_201.jpg",
+        "publishedAt": "2026-04-04T07:13:00Z",
+        "source": "Irish Examiner"
       },
       {
-        "title": "Can Europe remain on the sidelines in a long Iran war?",
-        "description": "This week it was hard not to feel the chill echoes of the Covid-19 pandemic that ravaged Europe and almost crippled its economy in 2020-21.",
-        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0404/1566663-europe-war-mid-east/",
-        "image": "https://www.rte.ie/images/002429ff-1600.jpg",
-        "publishedAt": "2026-04-04T06:00:02Z",
-        "source": "RTE.ie"
+        "title": "South Africa emerges as major player in U.S. critical minerals supply chain",
+        "description": "Africa is playing an increasingly strategic role in supplying the United States with critical minerals essential for advanced manufacturing, clean energy, and defense technologies, with South Africa emerging as a dominant player across key resources. | Business Insider Africa",
+        "url": "https://africa.businessinsider.com/local/markets/south-africa-emerges-as-major-player-in-us-critical-minerals-supply-chain/x7l7tes",
+        "image": "https://ocdn.eu/pulscms-transforms/1/-CIktkpTURBXy8zOTE2NmJiYjA5NmUzOGI4MDZjNTM5MjkyZTNhZTFmNy5qcGeSlQMAAM0Crs0BgpMFzQSwzQJ2",
+        "publishedAt": "2026-04-04T07:10:23Z",
+        "source": "Business Insider Africa"
       },
       {
-        "title": "Govt to import 17 lakh tonnes of fuel to bolster energy security as Mideast war rages",
-        "description": "Of the proposed imports, 16 lakh tonnes will be diesel and one lakh tonnes petrol.",
-        "url": "https://www.tbsnews.net/bangladesh/energy/govt-import-17-lakh-tonnes-fuel-bolster-energy-security-mideast-war-rages-1402031",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/03/09/fuel.png",
-        "publishedAt": "2026-04-04T06:00:00Z",
-        "source": "The Business Standard"
+        "title": "Taking Action For Africa’s Agrifood Systems Amid Global Uncertainty",
+        "description": "A call for practical, collective leadership on food security and nutrition",
+        "url": "https://www.thereporterethiopia.com/50042/",
+        "image": "https://www.thereporterethiopia.com/wp-content/uploads/2022/06/The-Reporter-Ethiopia.jpg",
+        "publishedAt": "2026-04-04T07:07:30Z",
+        "source": "The Reporter Ethiopia"
       }
     ],
     "business": [
       {
-        "title": "US doubles Hormuz guarantees to US$40 billion with new partners",
-        "description": "[NEW YORK] The US is doubling, to US$40 billion, its commitment to provide reinsurance guarantees to ships willing to travel through the Strait of Hormuz with the addition of new insurance partners, i...",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-doubles-hormuz-guarantees-us40-billion-new-partners",
-        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f4a27546bac4632d8e4225ecbc6ad4cbdb99e62b9adf89ad36746691fef2e419?w=1200&f=webp",
-        "publishedAt": "2026-04-04T06:30:00Z",
-        "source": "The Business Times"
+        "title": "IMF urges BOJ to keep raising rates even as Iran war poses new risks",
+        "description": "The proposal comes amid market expectations the BOJ ‌will raise ‌interest rates as soon as April in the face of mounting inflationary ​pressure.",
+        "url": "https://www.japantimes.co.jp/business/2026/04/04/economy/imf-boj-raise-rates/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/04/533208.JPG?v=3.1",
+        "publishedAt": "2026-04-04T07:24:00Z",
+        "source": "The Japan Times"
       },
       {
-        "title": "How Canal+ plans to reset MultiChoice",
-        "description": "MultiChoice is going through a sweeping and aggressive overhaul, in a bid to rebuild its once-formidable sales engine from the ground up.",
-        "url": "https://www.sundaytimes.timeslive.co.za/business/2026-04-04-how-canal-plans-to-reset-multichoice/",
-        "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/55QYJBBNVZHFROSXEN6S3TT2MY?smart=true&auth=48b94989f1008ac3b36ca10074700390a9fc57c7a65aadd590cb00ba4d30daf1&width=1200&height=630",
-        "publishedAt": "2026-04-04T06:27:32Z",
-        "source": "TimesLIVE"
+        "title": "Hongkongers crossing border for Easter break wowed by new Shenzhen tech museum",
+        "description": "More than 420,000 residents head to the mainland drawn by wider range of shopping, dining and entertainment options.",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3349029/thousands-hongkongers-brave-heavy-rain-shenzhen-trip-day-2-easter",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/04/50ad9c07-756a-4613-9fc2-c644fb8827e6_1c89645f.jpg?itok=cPQ0Slu4&v=1775301622",
+        "publishedAt": "2026-04-04T07:15:30Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "How Canal+ plans to reset MultiChoice",
-        "description": "MultiChoice is going through a sweeping and aggressive overhaul, in a bid to rebuild its once-formidable sales engine from the ground up.",
-        "url": "https://www.timeslive.co.za/news/business/2026-04-04-how-canal-plans-to-reset-multichoice/",
-        "image": "https://www.timeslive.co.za/resizer/v2/55QYJBBNVZHFROSXEN6S3TT2MY?smart=true&auth=48b94989f1008ac3b36ca10074700390a9fc57c7a65aadd590cb00ba4d30daf1&width=1200&height=630",
-        "publishedAt": "2026-04-04T06:27:32Z",
-        "source": "TimesLIVE"
+        "title": "South Africa emerges as major player in U.S. critical minerals supply chain",
+        "description": "Africa is playing an increasingly strategic role in supplying the United States with critical minerals essential for advanced manufacturing, clean energy, and defense technologies, with South Africa emerging as a dominant player across key resources. | Business Insider Africa",
+        "url": "https://africa.businessinsider.com/local/markets/south-africa-emerges-as-major-player-in-us-critical-minerals-supply-chain/x7l7tes",
+        "image": "https://ocdn.eu/pulscms-transforms/1/-CIktkpTURBXy8zOTE2NmJiYjA5NmUzOGI4MDZjNTM5MjkyZTNhZTFmNy5qcGeSlQMAAM0Crs0BgpMFzQSwzQJ2",
+        "publishedAt": "2026-04-04T07:10:23Z",
+        "source": "africa.businessinsider.com"
       },
       {
-        "title": "‘Everything is going up’: Singapore hit by war-fuelled price hikes across the board",
-        "description": "SINGAPORE, April 4 — The economic shockwaves from the Iran war are beginning to ripple through Singapore’s everyday life, pushing up costs from electricity and fuel to...",
-        "url": "https://www.malaymail.com/news/singapore/2026/04/04/everything-is-going-up-singapore-hit-by-war-fuelled-price-hikes-across-the-board/215078",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/04/333889.JPG",
-        "publishedAt": "2026-04-04T06:26:56Z",
-        "source": "Malay Mail"
+        "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 6 April 2026",
+        "description": "Buy or sell stocks on 6 April 2026: Sumeet Bagadia recommends three stocks to buy on Monday — Tata Consumer Products, BEL, and ACME Solar Holdings",
+        "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-april-2026-11775235029612.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/03/1600x900/logo/Buy_or_sell_stocks_to_buy_today_stock_market_news_1698472404481_1775235518533.jpg",
+        "publishedAt": "2026-04-04T07:09:42Z",
+        "source": "Mint"
       },
       {
-        "title": "China rides out Iran war oil shock on back of ‘teapot’ refineries - at least for now",
-        "description": "As the war in Iran enters its second month and Brent crude surges past $100 a barrel, China has largely managed to shield its economy from a massive disruption due to the oil crisis. One of the biggest reasons of this insulation is its network of small, independent \"teapot\" refineries in Shandong province.",
-        "url": "https://www.firstpost.com/world/china-rides-out-iran-war-oil-shock-on-back-of-teapot-refineries-at-least-for-now-13996494.html",
-        "image": "https://images.firstpost.com/uploads/2024/02/Oil-JPG-1-2024-02-5e9c3658177b89673505d0b20c693143.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-04T06:22:43Z",
-        "source": "Firstpost"
-      },
-      {
-        "title": "Workers hit by 'heart-breaking' Denby redundancies",
-        "description": "MP Linsey Farnsworth has told the BBC she understood 80 redundancies had been made at the firm.",
-        "url": "https://www.bbc.co.uk/news/articles/c208rg7x303o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b51/live/366626d0-2e7d-11f1-8dc4-7bd9501845f2.jpg",
-        "publishedAt": "2026-04-04T06:20:50Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Chartist Talk: Is Nifty 50’s bearish momentum losing strength? Is Nifty IT’s pullback rally set to continue next week? Sudeep Shah answers",
-        "description": "The 22,900-23,000 zone remains a key resistance band for the Nifty 50 next week, however, a decisive break below 22,350 would indicate a continuation of the downtrend, potentially dragging the index towards 22,200 and even 22,000, making this a crucial make-or-break zone in the near term, said Sudeep Shah of SBI Securities.",
-        "url": "https://www.moneycontrol.com/news/business/markets/chartist-talk-is-nifty-50-s-bearish-momentum-losing-strength-is-nifty-it-s-pullback-rally-set-to-continue-next-week-sudeep-shah-answers-13879805.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251025213936_Sudeep_ShahSBI.jpg",
-        "publishedAt": "2026-04-04T06:11:14Z",
+        "title": "New OTR framework for Equity Options from April 6, exchanges issue circular",
+        "description": "The Order-to-Trade Ratio (OTR) measures the number of orders placed—including modifications and cancellations—relative to the number of trades executed by a trading member. A high OTR indicates excessive order placement with relatively low execution, creating ‘noise’ in the system.",
+        "url": "https://www.moneycontrol.com/news/business/markets/new-otr-framework-for-equity-options-from-monday-exchanges-issue-circular-13879840.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260216073803_sensex_stocks.jpg",
+        "publishedAt": "2026-04-04T07:09:41Z",
         "source": "Moneycontrol.com"
       },
       {
-        "title": "HDFC Bank Q4 update: Advances rise 12% YoY, deposits grow 15.5%",
-        "description": "The bank’s average advances under management stood at ₹29.64 lakh crore for the March 2026 quarter, up 10% from ₹26.95 lakh crore a year earlier. Period-end advances under management were approximately ₹30.57 lakh crore, marking a 10.2% rise year-on-year.",
-        "url": "https://www.cnbctv18.com/market/earnings/hdfc-bank-q4-update-advances-rise-deposits-grow-liabilities-share-price-ws-l-19880461.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/03/1774347299_9ZGjm0DHnI-HDFC-Bankjpg-HuSxLSN4Qu.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-04T06:05:57Z",
-        "source": "CNBC TV18"
+        "title": "Judge continues Nevada ban on Kalshi sports markets",
+        "description": "A state judge ruled that Kalshi's prediction markets offering sports bets were \"indistinguishable\" from gambling, and extended a temporary ban in Nevada.",
+        "url": "https://www.coindesk.com/policy/2026/04/04/judge-continues-nevada-ban-on-kalshi-sports-markets",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-04T07:06:25Z",
+        "source": "CoinDesk"
+      },
+      {
+        "title": "Beyond the buzzwords: Daniel on what healthcare systems really need",
+        "description": "The global conversation on healthcare innovation continues to centre on technology, but a growing number of experts are questioning...",
+        "url": "https://businessday.ng/bd-weekender/article/beyond-the-buzzwords-daniel-on-what-healthcare-systems-really-need/",
+        "image": "https://cdn.businessday.ng/wp-content/uploads/2026/04/Daniel-Abaneme.png",
+        "publishedAt": "2026-04-04T07:05:45Z",
+        "source": "Businessday NG"
+      },
+      {
+        "title": "No Shortage Of Volatility In Shortened Trading Week",
+        "description": "Geopolitical developments in the Middle East continued to drive market performance. Read more here.",
+        "url": "https://seekingalpha.com/article/4888368-no-shortage-volatility-shortened-trading-week",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/942696884/image_942696884.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-04T07:05:00Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Artemis astronauts more than halfway to Moon, putting Earth in rearview",
+        "description": "HOUSTON: The Artemis 2 astronauts have passed the halfway point between Earth and the Moon on Saturday as they sped toward a planned lunar flyby, with NASA releasing initial images of Earth taken from inside the Orion spacecraft. Astronaut Christina Koch said the crew had a collective “expression of joy” upon being told of the milestone, which was hit around two days, five",
+        "url": "https://www.arabnews.pk/node/2638734/world",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/04/04/4699650-514174273.jpg?itok=BOUADiLD",
+        "publishedAt": "2026-04-04T07:15:00Z",
+        "source": "arabnews.pk"
+      },
+      {
+        "title": "Artemis astronauts more than halfway to Moon, putting Earth in rearview",
+        "description": "The Artemis 2 astronauts have passed the halfway point between Earth and the Moon on Saturday as they sped toward a planned lunar flyby, with NASA releasing initial images of Earth taken from inside the Orion spacecraft.",
+        "url": "https://www.enca.com/news/artemis-astronauts-more-halfway-moon-putting-earth-rearview",
+        "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-04/doc-A6QA7WE-%40photo0.jpg.webp?itok=MzQqMgwY",
+        "publishedAt": "2026-04-04T07:12:44Z",
+        "source": "enca.com"
+      },
+      {
+        "title": "Space-to-Earth connection: CSA astronaut Jeremy Hansen speaks to Canadians on his way to the Moon",
+        "description": "/CNW/ - Today, Canadian Space Agency (CSA) astronaut Colonel Jeremy Hansen had a first space-to-Earth connection with Canada since the successful launch of...",
+        "url": "https://www.newswire.ca/news-releases/space-to-earth-connection-csa-astronaut-jeremy-hansen-speaks-to-canadians-on-his-way-to-the-moon-891510916.html",
+        "image": "https://mma.prnewswire.com/media/2950028/Canadian_Space_Agency_Space_to_Earth_connection__CSA_astronaut_J.jpg?p=facebook",
+        "publishedAt": "2026-04-04T07:04:00Z",
+        "source": "newswire.ca"
+      },
+      {
+        "title": "Artemis astronauts more than halfway to Moon, putting Earth in rearview",
+        "description": "The milestone was hit around two days after liftoff. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/artemis-astronauts-pass-half-way-point-on-way-to-moon",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a926fbfd83442ddea2b71c0738793a9dc5b89c319b851c19980e6ff1d19405ca",
+        "publishedAt": "2026-04-04T06:42:55Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Artemis astronauts more than halfway to moon, putting Earth in rearview",
+        "description": "NASA's online dashboard showed Saturday that the Orion spacecraft was more than 229,000 kilometers from Earth.",
+        "url": "https://www.japantimes.co.jp/news/2026/04/04/world/science-health/artemis-halfway-moon/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/04/533203.jpg?v=3.1",
+        "publishedAt": "2026-04-04T06:35:00Z",
+        "source": "The Japan Times"
+      },
       {
         "title": "What UG said about Christina Koch, the only female on the Artemis II mission to the moon",
         "description": "The University of Ghana (UG) has celebrated its alumna, Christina Hammock Koch, one of the four astronauts and the only female on the historic Artemis II mission around the Moon.",
@@ -158,112 +198,72 @@
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4072/live/0ca74c00-2de4-11f1-9c68-d3b327b335eb.jpg",
         "publishedAt": "2026-04-04T06:14:19Z",
         "source": "BBC"
-      },
-      {
-        "title": "Earth connection: CSA astronaut Jeremy Hansen speaks to Canadians on his way to the Moon",
-        "description": "Today, Canadian Space Agency (CSA) astronaut Colonel Jeremy Hansen had a first space-to-Earth connection with Canada since the successful launch of Artemis II, three days ago.",
-        "url": "https://www.canada.ca/en/space-agency/news/2026/04/space-to-earth-connection-csa-astronaut-jeremy-hansen-speaks-to-canadians-on-his-way-to-the-moon.html",
-        "image": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico",
-        "publishedAt": "2026-04-04T06:00:46Z",
-        "source": "canada.ca"
-      },
-      {
-        "title": "Artemis astronauts are halfway to the Moon, says NASA",
-        "description": "The four Artemis astronauts have passed the halfway point between Earth and the Moon on the way to their planned lunar flyby, NASA has said.",
-        "url": "https://www.rte.ie/news/world/2026/0404/1566699-artemis-astronauts-nasa/",
-        "image": "https://www.rte.ie/images/0024293e-1600.jpg",
-        "publishedAt": "2026-04-04T04:30:27Z",
-        "source": "RTE.ie"
-      },
-      {
-        "title": "Artemis astronauts are halfway to the Moon - NASA",
-        "description": "The four Artemis astronauts have passed the halfway point between Earth and the Moon on the way to their planned lunar flyby, NASA has said.",
-        "url": "https://www.rte.ie/news/world/2026/0404/1566699-artemis-astronauts-are-halfway-to-the-moon-nasa/",
-        "image": "https://www.rte.ie/images/0024293e-1600.jpg",
-        "publishedAt": "2026-04-04T04:30:27Z",
-        "source": "RTE.ie"
-      },
-      {
-        "title": "Meteor impacts may have sparked life on Earth, scientists say",
-        "description": "Asteroid impacts may have helped kick-start life on Earth by creating hot, chemical-rich environments ideal for early biology. These impact-generated hydrothermal systems could have lasted thousands of years—long enough for life’s building blocks to form. Scientists now think these environments may have been common on early Earth, making them a strong candidate for where life began. The idea could also guide the search for life on other worlds.",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260403224449.htm",
-        "image": "https://www.sciencedaily.com/images/1920/giant-asteroid-striking-earth.webp",
-        "publishedAt": "2026-04-04T04:13:15Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Meteor impacts may have sparked life on Earth, scientists say",
-        "description": "Asteroid impacts may have helped kick-start life on Earth by creating hot, chemical-rich environments ideal for early biology. These impact-generated hydrothermal systems could have lasted thousands of years—long enough for life’s building blocks to form. Scientists now think these environments may have been common on early Earth, making them a strong candidate for where life began. The idea could also guide the search for life on other worlds.",
-        "url": "http://www.sciencedaily.com/releases/2026/04/260403224449.htm",
-        "image": "https://www.sciencedaily.com/images/1920/giant-asteroid-striking-earth.webp",
-        "publishedAt": "2026-04-04T04:13:15Z",
-        "source": "ScienceDaily"
       }
     ],
     "ai": [
       {
-        "title": "Sivankutty welcomes Modi to ‘developed Nemom’ ahead of PM's roadshow, seeks clarity on central fund dues",
-        "description": "In an official statement, Sivankutty outlined a series of infrastructure and education projects implemented in the constituency in recent years,.Nemom development, Kerala Assembly elections, BJP campaign Nemom, LDF candidate Nemom, V Sivankutty development projects, Prime Minister Modi roadshow, Narendra Modi Nemom visit, Kerala education funding, Central government Kerala funds, Right to Education Act Kerala, AI for analyzing development claims, LLM for political campaign analysis, optimizing political campaign messaging with AI, impact of LLMs on election strategies, AI-powered political forecasting Nemom",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/04/sivankutty-welcomes-modi-developed-nemom-roadshow-fund-delay.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/4/modi-rajeev-sivankutty-facebook-post.png",
-        "publishedAt": "2026-04-04T06:28:46Z",
-        "source": "Malayala Manorama"
-      },
-      {
-        "title": "When an AI bot wouldn’t stop saying goodbye: What really happened",
-        "description": "A viral post about a chatbot typing “bye” endlessly highlights how unpredictable autonomous AI systems can be.",
-        "url": "https://www.moneycontrol.com/news/trends/when-an-ai-bot-wouldn-t-stop-saying-goodbye-what-really-happened-13879874.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260404062805_chatbot.jpg",
-        "publishedAt": "2026-04-04T06:28:39Z",
-        "source": "Moneycontrol"
-      },
-      {
-        "title": "Road excavations threaten drinking water supply in Piravom",
-        "description": "Most of the pipelines in Piravom city are over three decades old and are already under strain from high-pressure pumping, which frequently leads to.Piravom water supply issues, Kerala Water Authority challenges, drinking water pipeline damage, road excavation water disruption, KWA Piravom problems, telecom company pipeline damage, Kakkad Methippara water projects, Peruvamoozhi renovation works, underground electricity cables water, casual laborers pipeline damage, repairing old water pipes, broken pipe Piravom, water supply restoration Ramamangalam, Maradi Panchayat water disruption, Kakkad drinking water project outages, LLM impact on infrastructure management, AI for water pipe detection, water utility infrastructure AI, large language models for infrastructure, AI-driven water supply optimization",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/04/piravom-water-supply-issues-kwa-piravom-challenges.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/4/road-pipe-line-wm-c.jpg",
-        "publishedAt": "2026-04-04T06:19:34Z",
-        "source": "Malayala Manorama"
-      },
-      {
-        "title": "Innovative Solutions Unveiled at HDB-AWS Fintech Ideathon",
-        "description": "HDB Financial Services, in partnership with AWS, hosted the HDB-AWS Ideathon, gathering fintech innovators to tackle challenges in lending, risk management, and operational efficiency. The event saw 38 participants develop production-ready solutions, aiming to transform India's financial services sector. Noventiq's Agentic AI won, with Nugget by Zomato and Ganit Business Solutions as runners-up.",
-        "url": "https://www.devdiscourse.com/article/headlines/3862084-innovative-solutions-unveiled-at-hdb-aws-fintech-ideathon",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_08_50_08_8407791.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-04T06:16:29Z",
-        "source": "Devdiscourse"
-      },
-      {
-        "title": "Anthropic Acquires Stealth Startup Coefficient Bio For $400 Million: Report",
-        "description": "Anthropic's $400M all-stock acquisition of Coefficient Bio adds life sciences AI to its portfolio as the company prepares for a potential IPO.",
-        "url": "https://www.benzinga.com/m-a/26/04/51649388/anthropic-acquires-stealth-startup-coefficient-bio-400-million",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/04/Stuttgart--Germany---04-21-2024-Mobile-P.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-04T06:11:42Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Microsoft new AI models: Create transcriptions, voice, and images with MAI-Transcribe 1, MAI-Voice 1, MAI-Image 2",
-        "description": "Microsoft AI models: Microsoft has introduced three new artificial intelligence models-MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2-on April 2.",
-        "url": "https://zeenews.india.com/technology/microsoft-new-ai-models-create-transcriptions-voice-and-images-with-mai-transcribe-1-mai-voice-1-mai-image-2-3033544.html",
-        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/04/04/1926989-microsoft.jpg",
-        "publishedAt": "2026-04-04T06:10:24Z",
-        "source": "Zee News"
-      },
-      {
-        "title": "Who will win GT vs RR? ChatGPT, Gemini and Claude predict IPL 2026 match result",
-        "description": "GT vs RR match prediction IPL 2026: Who will win today? Check AI predictions, head-to-head stats, pitch report and match insights for Gujarat Titans vs Rajasthan Royals.",
-        "url": "https://www.financialexpress.com/sports/gt-vs-rr-match-prediction-ipl-2026-who-will-win-today/4194845/",
-        "image": "https://images.financialexpressdigital.com/2026/04/GT-vs-RR.jpg",
-        "publishedAt": "2026-04-04T06:03:51Z",
+        "title": "Man uses ChatGPT to create special cancer vaccine for his dog, OpenAI CEO Sam Altman comments",
+        "description": "The Australian man reportedly had the vaccine synthesised and administered to his dog under the guidance of qualified scientists and veterinarians.",
+        "url": "https://www.financialexpress.com/life/technology-man-uses-chatgpt-to-create-special-cancer-vaccine-for-his-dog-openai-ceo-sam-altman-comments-4194915/",
+        "image": "https://images.financialexpressdigital.com/2026/02/Untitled-design-38-1.jpg",
+        "publishedAt": "2026-04-04T07:28:25Z",
         "source": "The Financial Express"
       },
       {
-        "title": "AMD Rolls Out Gemma 4 Model Support Across Full Range of GPUs & CPUs",
-        "description": "AMD has rolled out official support for Google's Gemma 4 across its full range of GPUs & CPUs, offering support for the compact AI model.",
-        "url": "https://wccftech.com/amd-rolls-out-gemma-4-model-support-across-full-range-of-gpus-cpus/",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/AMD-Google-Gemma-4-AI-Models-1-1920x1005.jpg",
-        "publishedAt": "2026-04-04T06:00:08Z",
-        "source": "Wccftech"
+        "title": "AI reimagines Sushant Singh Rajput as Lord Ram amid Ranbir Kapoor's 'Ramayana' first glimpse, netizens react",
+        "description": "Namit Malhotra, producer, filmmaker and creative architect behind one of the world’s most ambitious cinematic productions RAMAYANA, introduces Rama",
+        "url": "https://www.firstpost.com/entertainment/ai-reimagines-sushant-singh-rajput-as-lord-ram-amid-ranbir-kapoors-ramayana-first-glimpse-netizens-react-13996517.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/air-1-2026-04-4b857f8c2e5b6352deb20b5e2e96cbf4.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-04T07:27:49Z",
+        "source": "Firstpost"
+      },
+      {
+        "title": "AI is rewiring the world's most prolific film industry",
+        "description": "India produces the most movies of any country, but shifting audience habits are squeezing production budgets and studios are responding by tapping AI.",
+        "url": "https://www.japantimes.co.jp/news/2026/04/04/asia-pacific/ai-india-bollywood-film/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/04/533199.JPG?v=3.1",
+        "publishedAt": "2026-04-04T07:09:46Z",
+        "source": "The Japan Times "
+      },
+      {
+        "title": "Salesforce CEO Marc Benioff says ‘it’s too easy’ to ‘make AI… the scapegoat’ for layoffs",
+        "description": "Salesforce CEO Marc Benioff refutes the notion that AI is solely responsible for the tech industry’s layoffs, calling it a lazy excuse for CEOs. He emphasizes the importance of understanding each company’s individual circumstances and not grouping them together when discussing AI-related job cuts. | financialexpress.com",
+        "url": "https://www.financialexpress.com/shorts/trending/news/salesforce-ceo-marc-benioff-says-its-too-easy-to-make-ai-the-scapegoat-for-layoffs-4194886/",
+        "image": "https://images.financialexpressdigital.com/2026/04/Salesforce-CEO-Marc-Benioff-on-AI-layoffs.jpg",
+        "publishedAt": "2026-04-04T07:06:04Z",
+        "source": "The Financial Express"
+      },
+      {
+        "title": "Salesforce CEO Marc Benioff says ‘it’s too easy’ to ‘make AI… the scapegoat’ for layoffs",
+        "description": "In an interview, Benioff stated that the companies are cutting jobs for different reasons and cautioned that AI is sometimes being used as a convenient explanation.",
+        "url": "https://www.financialexpress.com/business/news/salesforce-ceo-marc-benioff-says-its-too-easy-to-make-ai-the-scapegoat-for-layoffs/4194886/",
+        "image": "https://images.financialexpressdigital.com/2026/04/Salesforce-CEO-Marc-Benioff-on-AI-layoffs.jpg",
+        "publishedAt": "2026-04-04T07:04:09Z",
+        "source": "The Financial Express"
+      },
+      {
+        "title": "Amid Massive Trolling AI Imagines Ranveer Singh In Ramayana Over Ranbir Kapoor, Netizens Pick The 'Better Lord Ram'",
+        "description": "Ever since the first glimpse of Ranbir Kapoor as Lord Ram from Ramayana, the movie has dominated social media discourse. Fans are now using AI tools to reimagine other actors in the role of the protagonist.",
+        "url": "https://www.republicworld.com/entertainment/bollywood/amid-massive-trolling-ai-imagines-ranveer-singh-in-ramayana-over-ranbir-kapoor-netizens-pick-the-better-lord-ram",
+        "image": "https://img.republicworld.com/all_images/2026/04/ranbir-kapoor-vs-ranveer-singh-as-lord-ram-in-ramayana-1775286076186-1280x720.webp",
+        "publishedAt": "2026-04-04T07:01:24Z",
+        "source": "Republic World"
+      },
+      {
+        "title": "Blind runner set to make history using AI glasses at marathon",
+        "description": "Trending News: Running a marathon is brutal. Your legs scream, your lungs burn, and by mile 18, you’re usually questioning every life choice that got you to the star.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/blind-runner-set-to-make-history-using-ai-glasses-at-marathon-this-is-truly-next-level/articleshow/130014563.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130014563,width-1280,height-720,imgsize-62980,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-04T07:01:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "AI evolution decoded: Ace investor Vijay Kedia explains it with a simple house-building analogy",
+        "description": "Veteran investor Vijay Kedia explains AI's evolution using a house-building analogy, from expert advice (LLMs) to autonomous action (agents), collaborative teams (multi-agent), human-level mastery (AGI), and beyond (superintelligence). This framework mirrors his investment philosophy: learn, earn, evolve. However, Kedia's portfolio faced a challenging FY26, with most holdings declining amid market pressures and geopolitical concerns.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-evolution-decoded-ace-investor-vijay-kedia-explains-it-with-a-simple-house-building-analogy/articleshow/130014840.cms",
+        "image": "https://img.etimg.com/thumb/msid-130014835,width-1200,height-630,imgsize-1179024,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-04T07:01:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
