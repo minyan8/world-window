@@ -1,206 +1,254 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-05T10:29:53.304Z",
+  "fetchedAt": "2026-04-05T11:29:15.402Z",
   "sections": {
     "world": [
       {
-        "title": "Artemis II shares new lunar images while more than halfway to the Moon",
-        "description": "Awe-inspiring new photos captured by the NASA astronauts showcase the Moon and the interior of the Orion spacecraft.",
-        "url": "https://www.rnz.co.nz/news/top/591539/artemis-ii-shares-new-lunar-images-while-more-than-halfway-to-the-moon",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--Y9Barjqp--/t_tohu-badge-facebook/v1775340177/4JQNK34_Artemis_Moon_Images_02_April_2025_6_JPG?_a=BACCd2AD",
-        "publishedAt": "2026-04-04T22:23:54Z",
-        "source": "RNZ"
+        "title": "Man charged over fatal shooting of baby Kaori Patterson-Moore in pram in New York",
+        "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+        "url": "https://www.bbc.co.uk/news/articles/cx267dnex7ko",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
+        "publishedAt": "2026-04-04T23:28:09Z",
+        "source": "bbc.co.uk"
       },
       {
-        "title": "Man charged with impaired driving after after hitting Louisiana crowd celebrating Lao New Year",
-        "description": "At least 15 people injured in incident with authorities saying some of the injuries believed to be serious",
-        "url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
-        "image": "https://i.guim.co.uk/img/media/0444d6b1410eaca406b043c5fd662de3fe020abd/221_0_1368_1094/master/1368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb606d69d0cc2a82cb62342429b59978",
-        "publishedAt": "2026-04-04T22:20:00Z",
-        "source": "The Guardian"
+        "title": "Man charged over fatal shooting of baby Kaori Patterson",
+        "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+        "url": "https://www.bbc.com/news/articles/cx267dnex7ko",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
+        "publishedAt": "2026-04-04T23:28:09Z",
+        "source": "BBC"
       },
       {
-        "title": "Iran flags 'contamination risk' after attack near nuclear plant, writes to UN",
-        "description": "Iran's Foreign Minister Abbas Araghchi said repeated strikes in the vicinity of the country’s only operational nuclear power plant posed grave human and environmental dangers for the wider region. He said the repeated attacks near the active Bushehr facility had created an “intolerable situation” and warned that any radiological release could have severe consequences beyond Iran’s borders.",
-        "url": "https://www.indiatoday.in/world/story/iran-warns-radioactive-risk-strikes-bushehr-nuclear-plant-un-letter-grossi-araghchi-2891739-2026-04-05",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/seyed-abbas-araghchi-222938909-16x9.jpg?VersionId=OG4vfELWS7QK4ETkqFHsTUxujR9a.xaS",
-        "publishedAt": "2026-04-04T22:16:58Z",
-        "source": "indiatoday.in"
+        "title": "Trump claims massive Tehran strike killed top Iranian military leaders",
+        "description": "Rising tensions in West Asia as US and Iran exchange sharp warnings and military actions",
+        "url": "https://www.indiatoday.in/world/story/us-president-trump-massive-strike-iran-conflict-escalation-2891740-2026-04-05",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/more-and-more-us-civilian-and-military-leaders-set-to-be-fired-in-midst-of-iran-war-034854944-16x9_1.jpg?VersionId=9ge6foBa8SoI8aZSGPgQTwdwh.hki.0x",
+        "publishedAt": "2026-04-04T23:22:47Z",
+        "source": "India Today"
       },
       {
-        "title": "Middle East crisis live: US and Iran race to find missing pilot; Trump warns Tehran over strait of Hormuz",
-        "description": "Iran’s Revolutionary Guard Corps said it was combing an area near where plane came down in south-western Iran",
-        "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut?page=with:block-69d154ec8f086bcf9a2a090f",
-        "image": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/483_103_2602_2082/master/2602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=85898f54bcb652f9a6a1878ffbe14a53",
-        "publishedAt": "2026-04-04T22:11:00Z",
-        "source": "The Guardian"
+        "title": "Dozens Killed in Haiti Massacre as International Force Trickles In",
+        "description": "Gangs tore through several rural communities last weekend, underscoring the challenges that will face the new, U.N.-backed Gang Suppression Force starting to enter the country.",
+        "url": "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html",
+        "image": "https://static01.nyt.com/images/2026/04/04/multimedia/04int-haiti-kwtm/04int-haiti-kwtm-facebookJumbo.jpg",
+        "publishedAt": "2026-04-04T23:17:17Z",
+        "source": "The New York Times"
       },
       {
-        "title": "India expands Africa push with rice aid, long-term mineral ambitions",
-        "description": "In recent weeks, New Delhi has shipped rice to Burkina Faso, Malawi, and Mozambique while policy thinkers in India are urging a stronger push into Africa’s critical minerals sector.",
-        "url": "https://www.jpost.com/international/article-892045",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714625",
-        "publishedAt": "2026-04-04T22:09:27Z",
-        "source": "The Jerusalem Post"
+        "title": "AI videos fuel anti-Ukraine fears ahead of Hungary's pivotal vote",
+        "description": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yj97yd6v5o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6ec/live/47e3fed0-3005-11f1-a1a5-7555ad51d4c1.jpg",
+        "publishedAt": "2026-04-04T23:15:48Z",
+        "source": "BBC"
       },
       {
-        "title": "Fact check: New Trump video surfaces amid health concerns; ‘DJT released from hospital’",
-        "description": "As concerns about Donald Trump's health surfaced on social media on Saturday, the White House issued an urgent statement",
-        "url": "https://www.hindustantimes.com/world-news/us-news/fact-check-new-trump-video-surfaces-amid-health-concerns-released-from-walter-reed-hospital-101775335804752.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/04/550x309/Trump_health_1775337340750_1775337340881.JPG",
-        "publishedAt": "2026-04-04T22:07:05Z",
-        "source": "hindustantimes.com"
+        "title": "20 Natural Wonders That Might Not Exist In 50 Years",
+        "description": "Imagine lounging on a tropical beach in the Maldives or wandering through the iridescent blue ice caves of Alaska. For decades, these natural wonders have been the definitive highlights of global travel. However, a lethal combination of accelerating climate change, record-breaking ocean temperatures, and industrial expansion means these landmarks now face an existential threat within the next half-century.The devastating reality is that these once-glimmering areas of majestic beauty could soon b",
+        "url": "https://www.aol.com/20-natural-wonders-might-not-153102211.html",
+        "image": "https://s.yimg.com/os/en/aol_bored_panda_979/d046cbb8af2dd502d44829d3ce47174a",
+        "publishedAt": "2026-04-04T23:12:11Z",
+        "source": "AOL.com"
       },
       {
-        "title": "New Zealand visible in photo from NASA's Artemis mission",
-        "description": "The Orion capsule carrying four astronauts in NASA's Artemis II mission executed a key thruster firing on Thursday that will kick the crew out of...",
-        "url": "https://www.odt.co.nz/news/world/new-zealand-visible-photo-nasas-artemis-mission",
-        "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/04/art002e008487large.jpg?itok=XiVKk94j",
-        "publishedAt": "2026-04-04T22:03:30Z",
-        "source": "odt.co.nz"
+        "title": "America's CIA Recruited Iran's Nuclear Scientists",
+        "description": "A former U.S. spy spoke to The New Yorker about \"years of clandestine work for the C.I.A. — which, he said, had 'prevented Iran from getting a nuke'.\"\n[Kevin] Chalker told me that, as he understood it, the Pentagon had suggested running commando operations to kill key Iranian scientists, as I...",
+        "url": "https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them",
+        "image": "https://a.fsdn.com/sd/topics/usa_64.png",
+        "publishedAt": "2026-04-04T23:07:51Z",
+        "source": "Slashdot"
       },
       {
-        "title": "Insects in the tropics are already near their heat limits. Climate change could push many beyond survival",
-        "description": "Insects make up to 90% of all animal species on the planet, and most of them can be found in the tropics, the regions around the equator. Yet we still know surprisingly little about how these species will cope with rising temperatures driven by climate change.",
-        "url": "https://phys.org/news/2026-04-insects-tropics-limits-climate-survival.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/insects-in-the-tropics.jpg",
-        "publishedAt": "2026-04-04T22:00:03Z",
-        "source": "Phys.org"
+        "title": "Iran to US, Israel: Entire region will turn into hell if attacks continue",
+        "description": "The Iranian military has warned the United States and Israel that “entire region will turn into hell’ if the ongoing war escalates further",
+        "url": "https://www.thecable.ng/iran-to-us-israel-entire-region-will-turn-into-hell-if-attacks-continue/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2026/02/IMG_8905-e1770141436946.jpeg",
+        "publishedAt": "2026-04-04T23:00:00Z",
+        "source": "TheCable"
       }
     ],
     "business": [
       {
-        "title": "Amul hits Rs 1 trillion turnover milestone",
-        "description": "Vadodara: The Gujarat Cooperative Milk Marketing Federation Ltd (GCMMF), which markets home-grown dairy brand Amul, has achieved a major milestone wit.",
-        "url": "https://timesofindia.indiatimes.com/city/vadodara/amul-hits-rs-1-trillion-turnover-milestone/articleshow/130026042.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130026016,width-1280,height-720,imgsize-81044,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-04T22:26:00Z",
-        "source": "timesofindia.indiatimes.com"
+        "title": "Representation Transfer via Invariant Input-driven Continuous Attractors for Fast Domain Adaptation",
+        "description": "Conventional end-to-end deep neural networks often degrade under domain shifts and require costly retraining when deployed in unpredictable, noisy environments. Inspired by biological brains, we propose a modular framework where each module is a recurrent neural network pretrained via a simple, task-agnostic protocol to learn robust, transferable features. This shapes stable yet flexible low-dimensional representations as invariant input-driven continuous attractor manifolds embedded in high-dimensional latent space across different tasks, supporting robust transfer and resilience to temporal perturbations. At deployment, only a lightweight adapter needs training, allowing rapid adaptation to new tasks. Validated on gesture and rehabilitation action recognition tasks, our framework achieves accuracy competitive with state-of-the-art methods, especially in few-shot settings, while requiring an order of magnitude fewer parameters and minimal training. By integrating biologically inspired attractor dynamics with cortical-like modular composition, the framework offers a practical path toward robust, continual adaptation in real-world information processing. Integrating modular recurrent networks with input-driven continuous attractors provides a brain-inspired mechanism for invariant motion representation, enabling robust action recognition and fast domain adaptation in noisy, data-scarce environments",
+        "url": "https://www.nature.com/articles/s42003-026-09938-8?error=cookies_not_supported&code=1cc9b2e8-96d1-4d39-a179-634249d088d4",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-04T23:28:47Z",
+        "source": "nature.com"
       },
       {
-        "title": "award sweep for PAC Capital at International Business Awards",
-        "description": "PAC Capital Limited secures four continental awards in 2026, including Best Investment Banking Firm Africa, at the International Business Magazine Awards.",
-        "url": "https://businessday.ng/briefs/article/four-award-sweep-for-pac-capital-at-international-business-awards/",
-        "image": "https://cdn.businessday.ng/wp-content/uploads/2026/04/IMG-20260404-WA0001.jpg",
-        "publishedAt": "2026-04-04T22:10:12Z",
+        "title": "CBN and undue delays in resolution of customers’ complaints",
+        "description": "The Nigerian Press is the unyielding torchbearer of enlightenment, dispelling darkness of ignorance and empowering every citizen",
+        "url": "https://thenationonlineng.net/cbn-and-undue-delays-in-resolution-of-customers-complaints/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2025/09/28023342/CBN.jpg",
+        "publishedAt": "2026-04-04T23:28:31Z",
+        "source": "The Nation Newspaper"
+      },
+      {
+        "title": "Asia's EVolution: China's growing electric car pains offer lessons for the region and beyond",
+        "description": "As China’s electric cars age, the promise of cheap, clean mobility is colliding with the practical costs of battery degradation and upkeep. CNA unpacks the issue as part of a series examining the forces powering Asia�",
+        "url": "https://www.channelnewsasia.com/east-asia/china-electric-vehicles-age-costs-range-charging-repairs-time-money-6004211",
+        "image": "https://dam.mediacorp.sg/image/upload/s--61WoItko--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/18/chinavj_cars_in_harbin.png?itok=IioqUXEJ",
+        "publishedAt": "2026-04-04T23:28:23Z",
+        "source": "CNA"
+      },
+      {
+        "title": "How frequent fliers are beating jet lag using apps like Timeshifter and StopJetLag",
+        "description": "Flying across time zones disrupts your circadian rhythm, which affects functioning and even long-term health. But apps could help.",
+        "url": "https://www.scmp.com/lifestyle/health-wellness/article/3348783/how-frequent-fliers-are-beating-jet-lag-using-apps-timeshifter-and-stopjetlag",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/02/849b55f7-5caf-4f91-a596-179aacdbd946_76a2e6e9.jpg?itok=wEpuDIXO&v=1775127374",
+        "publishedAt": "2026-04-04T23:15:07Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "ABC Logistics expands fleet, cuts delivery time to boost cargo movement nationwide",
+        "description": "ABC Logistics has expanded its fleet and cut delivery timelines across key commercial corridors in Nigeria, unlocking faster cargo movement and improving service efficiency nationwide.",
+        "url": "https://businessday.ng/transport/article/abc-logistics-expands-fleet-cuts-delivery-time-to-boost-cargo-movement-nationwide/",
+        "image": "https://cdn.businessday.ng/wp-content/uploads/2026/04/ABC-Logistics-.png",
+        "publishedAt": "2026-04-04T23:06:10Z",
         "source": "businessday.ng"
       },
       {
-        "title": "Hello Kitty transit cards sell out immediately, says TransLink",
-        "description": "Fans of Hello Kitty hoping to get their hands on a limited edition TransLink Compass Pass bearing the popular cartoon character's image are out of luck.",
-        "url": "https://vancouver.citynews.ca/2026/04/04/vancouver-translink-hello-kitty-compass-pass/",
-        "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/04/04/Hello-Kitty-Compass-1-scaled.jpg",
-        "publishedAt": "2026-04-04T22:06:30Z",
-        "source": "CityNews Vancouver"
+        "title": "The Rare Meat Cut Known As The 'Wagyu Of Pork' (It's Gordon Ramsay Approved)",
+        "description": "Discover the breed of pig known for producing the most marbled, juicy, and tender cuts of pork, perfect for your next pork chop.",
+        "url": "https://www.yahoo.com/lifestyle/articles/rare-meat-cut-known-wagyu-230500516.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/Nx09Z418KGMrXl75E7ePPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/chowhound_739/919e247ee1c8bc2a5f81bd2a90263014",
+        "publishedAt": "2026-04-04T23:05:00Z",
+        "source": "yahoo.com"
       },
       {
-        "title": "LPG shortage: Campaigning at tea shops fails to gather steam in Kerala",
-        "description": "KOCHI: Screenwriter Sreenivasan gave a big political mileage to kattan chaya (black tea) and parippuvada (lentil fritters) with Sandesham but tea shop.",
-        "url": "https://timesofindia.indiatimes.com/city/kochi/lpg-shortage-campaigning-at-tea-shops-fails-to-gather-steam/articleshow/130025995.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130034928,width-1280,height-720,imgsize-58772,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-04T22:06:00Z",
-        "source": "timesofindia.indiatimes.com"
+        "title": "The exceptional Dorset cafe that's serious about its coffee",
+        "description": "TheKaffee in Gillingham is a Dorset cafe that has been highly praised for its service, interiors, cake and coffee",
+        "url": "https://www.dorsetecho.co.uk/news/25996085.exceptional-dorset-cafe-serious-coffee/",
+        "image": "https://www.dorsetecho.co.uk/resources/images/20745588.jpg?type=og-image",
+        "publishedAt": "2026-04-04T23:04:00Z",
+        "source": "dorsetecho.co.uk"
       },
       {
-        "title": "Sauté pans sold at Costco recalled after metal caps on handle heat and \"forcefully eject\"",
-        "description": "One consumer reported sustaining bruising and burn injuries.",
-        "url": "https://www.cbsnews.com/news/costco-saute-pans-recalled-heat/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/17/0fc1bbad-f96f-4246-9a75-5df2830aef8f/thumbnail/1200x630/f9917712b3e2ac6f57f6c4e25eb322c3/gettyimages-2166109182.jpg",
-        "publishedAt": "2026-04-04T22:03:23Z",
-        "source": "CBS News"
-      },
-      {
-        "title": "New cars with the lowest power-to-weight ratios in Australia",
-        "description": "Forget land-speed records and acceleration times, here are the new cars with the lowest power-to-weight ratios in Australia.",
-        "url": "https://www.carexpert.com.au/car-news/new-cars-with-the-lowest-power-to-weight-ratios-in-australia",
-        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-11-2026-byd-atto-1-1.png",
-        "publishedAt": "2026-04-04T22:02:03Z",
-        "source": "CarExpert"
-      },
-      {
-        "title": "Curated Graphs and the Internet's Trust Layer",
-        "description": "Explore Intuition Protocol’s decentralized trust layer: Token Curated Graphs, Atoms, Triples, and the TRUST token powering portable reputation and AI-ready data.",
-        "url": "https://westafricatradehub.com/reviews/intuition-crypto/",
-        "image": "https://westafricatradehub.com/favicon.ico",
-        "publishedAt": "2026-04-04T21:57:14Z",
-        "source": "West Africa Trade Hub"
-      },
-      {
-        "title": "Casiguran airport eyes global gateway status",
-        "description": "APECO plans to transform Casiguran Airport into an international gateway by 2028, boosting Aurora’s connectivity, tourism, and investment potential in northern Luzon.",
-        "url": "https://tribune.net.ph/2026/04/04/casiguran-airport-eyes-global-gateway-status-2",
-        "image": "https://media.assettype.com/tribune%2F2026-04-04%2Fdci7b64g%2Fclipboardimage406123bb5705aa63e99768fa80edd49c.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-04T21:45:18Z",
-        "source": "Daily Tribune"
+        "title": "Greening at the border: Carbon Border Adjustment Mechanism incidence on EU member states and their trading partners",
+        "description": "The EU’s Carbon Border Adjustment Mechanism seeks to address carbon leakage and ensure fair competition between EU and non-EU producers as EU climate policy tightens. This column uses input-output tables and sector-level carbon intensity data to estimate the carbon fees implied by the mechanism for member states and trading partners. While the direct impact of the current design is modest, its effects are concentrated in key sectors – such as iron, steel, and aluminium – and among a small group of suppliers, underscoring its political significance. Future expansions in sectoral coverage and higher carbon prices could amplify the Carbon Border Adjustment Mechanism’s influence on trade costs and global climate policy.",
+        "url": "https://cepr.org/voxeu/columns/greening-border-carbon-border-adjustment-mechanism-incidence-eu-member-states-and",
+        "image": "https://cepr.org/themes/custom/cepr/assets/favicon/favicon-32x32.png?v=1",
+        "publishedAt": "2026-04-04T23:02:11Z",
+        "source": "CEPR"
       }
     ],
     "science": [
       {
-        "title": "Artemis II shares new lunar images while more than halfway to the Moon",
-        "description": "Awe-inspiring new photos captured by the NASA astronauts showcase the Moon and the interior of the Orion spacecraft.",
-        "url": "https://www.rnz.co.nz/news/top/591539/artemis-ii-shares-new-lunar-images-while-more-than-halfway-to-the-moon",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--Y9Barjqp--/t_tohu-badge-facebook/v1775340177/4JQNK34_Artemis_Moon_Images_02_April_2025_6_JPG?_a=BACCd2AD",
-        "publishedAt": "2026-04-04T22:23:54Z",
-        "source": "RNZ"
+        "title": "Artemis II toilet acts up again as astronauts more than halfway to moon",
+        "description": "The Artemis II astronauts are preparing for their historic lunar fly-around to push deeper into space than even the Apollo astronauts.",
+        "url": "https://www.1news.co.nz/2026/04/05/artemis-ii-toilet-acts-up-again-as-astronauts-more-than-halfway-to-moon/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/earth-TKVXJ54JHJFQPEFD5WFQTYKGUQ.jpg?auth=bf7903338a3a2c3f732c97f3a620166b6b916b2f0491a8fbb10d81652ff93838&quality=70&width=600&height=315&focal=512%2C341",
+        "publishedAt": "2026-04-04T23:22:56Z",
+        "source": "1News"
       },
       {
-        "title": "80 Years to an Overnight Success: The Real History of Artificial Intelligence",
-        "description": "By Futurist Thomas Frey From a shirtless philosopher in 1943 to ChatGPT — the people, the breakthroughs, the winters, and the single idea that refused to die The Man Without a Shirt In January 2026, Marc Andreessen sat down for an 81-minute podcast conversation on the a16z show and did something most technology commentary doesn’t […]",
-        "url": "https://futuristspeaker.com/artificial-intelligence/80-years-to-an-overnight-success-the-real-history-of-artificial-intelligence/",
-        "image": "https://futuristspeaker.com/wp-content/uploads/2026/04/History-of-AI-8006.jpg",
-        "publishedAt": "2026-04-04T22:05:48Z",
-        "source": "Futurist Speaker"
+        "title": "Artemis astronauts to study the Moon's surfa",
+        "description": "Despite the technological advancements since the Apollo missions, NASA still relies on the eyesight of its astronauts to learn more about the Moon.",
+        "url": "https://www.newvision.co.ug/category/science/artemis-astronauts-to-study-the-moons-surface-NV_231234_042026",
+        "image": "https://newvision-media.s3.amazonaws.com/cms/32e7364c-38e4-4e5a-89e2-9a193b2644bb.jpg",
+        "publishedAt": "2026-04-04T23:00:05Z",
+        "source": "newvision.co.ug"
       },
       {
-        "title": "WATCH: Canadian Space Agency’s first space to Earth video call with Jeremy Hansen",
-        "description": "Canadian astronaut Jeremy Hansen connected with Earth from deep space early Saturday morning in a historic fir...",
-        "url": "https://panow.com/2026/04/04/watch-canadian-space-agencys-first-space-to-earth-video-call-with-jeremy-hansen/",
-        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1479/files/2026/04/f2610008-0b35-49d9-b947-b992e48f76d1.jpg",
-        "publishedAt": "2026-04-04T21:59:06Z",
-        "source": "panow.com"
+        "title": "Most comprehensive view to date of Jupiter's upper atmosphere",
+        "description": "Scientists have obtained the most comprehensive view to date of Jupiter's upper atmosphere and its mysteries.",
+        "url": "https://www.earth.com/news/scientists-have-most-comprehensive-view-to-date-of-jupiters-upper-atmosphere/",
+        "image": "https://cff2.earth.com/uploads/2026/04/04144140/jupiters-upper-atmosphere_juno-mission_nasa_1m.jpg",
+        "publishedAt": "2026-04-04T22:52:12Z",
+        "source": "earth.com"
       },
       {
-        "title": "Nasa Artemis 2 astronauts close in on historic moon flyby milestone",
-        "description": "The Artemis astronauts are gearing up for their long-anticipated lunar flyby, including reviewing the surface features they must analyse and photograph...",
-        "url": "https://www.nzherald.co.nz/world/nasa-artemis-2-astronauts-close-in-on-historic-moon-flyby-milestone/DMPHI32FE5EXNARCMTFRSKP6OQ/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/6B6ON4K7E5CWNIBK2GOLMSLSIY.jpg?auth=ab3fc41126a1fc6577bfae0f68fecc69b8ebd0563b5b5bc4b29bafdb0d2fa00e&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-04-04T21:53:50Z",
-        "source": "nzherald.co.nz"
+        "title": "Why the Animas de la Victoria sank off the coast of Mexico",
+        "description": "New evidence reveals why an 18th-century ship sank off Mexico’s Caribbean coast, uncovering a possible smuggling route",
+        "url": "https://www.earth.com/news/animas-de-la-victoria-18th-century-spanish-ship-wrecked-mexicos-caribbean-coastline/",
+        "image": "https://cff2.earth.com/uploads/2026/04/04151315/spanish-shipwreck_Animas-de-la-Victoria_anchor_Springer-Nature_1m.jpg",
+        "publishedAt": "2026-04-04T22:52:12Z",
+        "source": "earth.com"
       },
       {
-        "title": "Moon-bound Artemis II crew copes with toilet issue in otherwise smooth flight",
-        "description": "A possibly frozen vent line forced the Artemis II astronauts to avoid using their space toilet while engineers worked to resolve the problem.",
-        "url": "https://www.cbsnews.com/news/artemis-ii-crew-moon-flight-smooth-flight-toilet-issue/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/04/4aa01938-4705-4fc2-a7d6-8277e510a16f/thumbnail/1200x630/605e0677fb953be59d40667700e4729b/040426-vents.jpg",
-        "publishedAt": "2026-04-04T21:51:48Z",
-        "source": "CBS News"
+        "title": "Artemis II update: Toilet acts up again as astronauts speed toward the moon to break Apollo 13's record",
+        "description": "Artemis II is the first moon-bound crew in more than 53 years, picking up where NASA’s Apollo program left off.",
+        "url": "https://www.hindustantimes.com/world-news/us-news/artemis-ii-update-toilet-acts-up-again-as-astronauts-speed-toward-the-moon-to-break-apollo-13s-record-101775342382654.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/04/550x309/NASA-Artemis-Moonshot-0_1775342553287_1775342578867.jpg",
+        "publishedAt": "2026-04-04T22:45:37Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "If Life Exists in Venus' Atmosphere, It Could Have Come From Space",
-        "description": "A new study presented at the 2026 LPSC suggests that if life does exist in Venus' clouds, there's a chance it came from Earth.",
-        "url": "https://www.universetoday.com/articles/if-life-exists-in-venus-atmosphere-it-could-have-come-from-space",
-        "image": "https://www.universetoday.com/article_images/Venus1__1__20260404_211329.jpg",
-        "publishedAt": "2026-04-04T21:44:00Z",
-        "source": "Universe Today"
+        "title": "Artemis II astronauts are more than halfway to the moon",
+        "description": "Astronauts on NASA's Artemis II lunar mission are in high spirits as they pass the halfway point to...",
+        "url": "https://www.canberratimes.com.au/story/9214522/artemis-ii-astronauts-are-more-than-halfway-to-the-moon/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d33fa409-24c6-4312-9275-3a7eb9339f10.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-04-04T22:45:29Z",
+        "source": "The Canberra Times"
       },
       {
-        "title": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
-        "description": "The astronauts said they had lost track of which day it is on Earth on their transit to the moon.",
-        "url": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
-        "image": "https://static01.nyt.com/images/2026/04/04/multimedia/04HS-moon-daily-pzhv/04HS-moon-daily-pzhv-facebookJumbo.jpg",
-        "publishedAt": "2026-04-04T21:28:32Z",
-        "source": "nytimes.com"
+        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13’s record",
+        "description": "HOUSTON (AP) — Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts. On the downside, their toilet is on the blink again. ...",
+        "url": "https://nanaimonewsnow.com/2026/04/04/artemis-ii-toilet-acts-up-again-as-astronauts-speed-toward-the-moon-to-break-apollo-13s-record/",
+        "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2Fce3a97f7-e36f-4cf9-a2a6-deaa50455d79%2Faae7dd120f47b2815dd31b2f9063cddf6ebed1ffd80e1dd1d869eee9b9178b28.jpg",
+        "publishedAt": "2026-04-04T22:43:49Z",
+        "source": "NanaimoNewsNOW"
       },
       {
-        "title": "Artemis astronauts preparing for historic lunar flyby",
-        "description": "The Artemis astronauts were gearing up Saturday for their long-anticipated lunar flyby, including reviewing the surface features they must analyze and photograph during their time circling the Moon.",
-        "url": "https://www.news.com.au/breaking-news/artemis-astronauts-preparing-for-historic-lunar-flyby/news-story/c6d6a92a665152cf6f4d62b4f26b329b",
-        "image": "https://content.api.news/v3/images/bin/94e27f845533138aedcf55a7ec6e7fb9",
-        "publishedAt": "2026-04-04T21:22:20Z",
-        "source": "News.com.au"
+        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13’s record",
+        "description": "HOUSTON (AP) — Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts. On the downside, their toilet is on the blink again. ...",
+        "url": "https://lethbridgenewsnow.com/2026/04/04/artemis-ii-toilet-acts-up-again-as-astronauts-speed-toward-the-moon-to-break-apollo-13s-record/",
+        "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F6ab94d31-def3-4502-a4d9-53618188c6dc%2Faae7dd120f47b2815dd31b2f9063cddf6ebed1ffd80e1dd1d869eee9b9178b28.jpg",
+        "publishedAt": "2026-04-04T22:43:21Z",
+        "source": "Lethbridge News Now"
       }
     ],
     "ai": [
+      {
+        "title": "Solana Price Prediction: Miners Pivot to AI as Pepeto Eyes 100x Before Binance Listing",
+        "description": "Explore the latest Solana price prediction amid shifts in Bitcoin mining strategies and emerging AI trends in the crypto market.",
+        "url": "https://techbullion.com/solana-price-prediction-miners-pivot-to-ai-as-pepeto-eyes-100x-before-binance-listing/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/04/54-1000x600.jpg",
+        "publishedAt": "2026-04-04T23:07:32Z",
+        "source": "TechBullion"
+      },
+      {
+        "title": "AI-Driven school expanding to major US cities despite union pushback",
+        "description": "Alpha Schools, which uses AI as its primary teaching method, is expanding to Chicago, Atlanta, and other major U.S. cities this fall, according to the school's website.",
+        "url": "https://www.foxnews.com/media/ai-driven-school-expanding-major-us-cities-despite-union-pushback",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/students-classroom.jpg",
+        "publishedAt": "2026-04-04T23:00:06Z",
+        "source": "Fox News"
+      },
+      {
+        "title": "Simon Willison Says the 'Dark Factory' Is the Next Big Thing in AI",
+        "description": "Django creator Simon Willison said AI could usher in the \"dark factory\" era, when bots run everything and there's no need to keep the lights on.",
+        "url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+        "image": "https://i.insider.com/69d18440c02a678bd7e480f4?width=1200&format=jpeg",
+        "publishedAt": "2026-04-04T22:47:09Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Sessions on AI & Life-Saving Skills at BHU from tomorrow",
+        "description": "Varanasi: A series of three academic and skill-oriented programmes will be organised at BHU Rajiv Gandhi South Campus (RGSC), Barkachha, Mirzapur on A.",
+        "url": "https://timesofindia.indiatimes.com/city/varanasi/sessions-on-ai-life-saving-skills-at-bhu-from-tomorrow/articleshow/130026090.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117694328,width-1280,height-720,imgsize-99124,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-04T22:46:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Chennai colleges gear up to launch new courses",
+        "description": "Chennai: Quantum computing, visual arts, fintech with AI, cyber security, international business are some of the new courses that city colleges are pl.",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-colleges-gear-up-to-launch-new-courses/articleshow/130026043.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130026019,width-1280,height-720,imgsize-55132,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-04T22:41:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Families of AI171 crash victims seek release of black box data, write to PM",
+        "description": "AHMEDABAD, Apr 4 : Ten months after the tragic Air India plane crash that killed 260 persons, bereaved families of the victims have written to Prime Minister Narendra Modi, urging the release of the Cockpit Voice Recorder (CVR) and black box data. Air India flight AI 171, a Boeing 787-8 aircraft enroute to London, crashed into a medical college hostel complex shortly after the take-off from Sardar Vallabhbhai Patel International Airport here on June 12, 2025. The aircraft burst into […]",
+        "url": "https://www.dailyexcelsior.com/families-of-ai171-crash-victims-seek-release-of-black-box-data-write-to-pm/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/plane-carsh.jpg",
+        "publishedAt": "2026-04-04T22:30:09Z",
+        "source": "Daily Excelsior"
+      },
       {
         "title": "What next for the struggling rural mothers in China who helped to build AI?",
         "description": "Data-labelling workshops once hailed as a solution in the country’s poverty alleviation campaign face a painful reckoning.",
@@ -216,54 +264,6 @@
         "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/Page11-3.jpg",
         "publishedAt": "2026-04-04T21:58:46Z",
         "source": "Daily Excelsior"
-      },
-      {
-        "title": "Can AI fix loneliness? The answer is… complicated",
-        "description": "Studies show AI companions can reduce loneliness, but experts warn about emotional dependence and risks of replacing real human connections.",
-        "url": "https://www.digitaltrends.com/cool-tech/can-ai-fix-loneliness-the-answer-is-complicated/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/Man-rubs-his-temple-and-looks-at-laptop.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-04T21:38:11Z",
-        "source": "Digital Trends"
-      },
-      {
-        "title": "Writers Guild forges tentative contract deal with studios",
-        "description": "Negotiations between the union and film and TV studios began in March, with union leaders prioritizing more robust healthcare benefits, streaming residuals and protections against the misuse of AI tools.",
-        "url": "https://www.latimes.com/entertainment-arts/business/story/2026-04-04/writers-guild-tentative-deal-with-amptp-what-to-know",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/c31916f/2147483647/strip/true/crop/5002x2626+0+300/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdc%2Fca%2F03c2d1474374a2fdd8c7a794ade7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1252539381",
-        "publishedAt": "2026-04-04T21:38:04Z",
-        "source": "Los Angeles Times"
-      },
-      {
-        "title": "Tinder to launch new AI feature that finds your perfect date by your camera roll",
-        "description": "The dating site is set to roll out a new feature which will see it use AI to match make",
-        "url": "https://www.dailystar.co.uk/news/latest-news/tinder-launch-new-ai-feature-36970084",
-        "image": "https://i2-prod.dailystar.co.uk/article36970080.ece/ALTERNATES/s1200d/2_Tinder-Photo-Illustration.jpg",
-        "publishedAt": "2026-04-04T21:36:09Z",
-        "source": "The daily Star"
-      },
-      {
-        "title": "Chinese Firms Sell Live AI Tracking of US Forces",
-        "description": "Chinese AI startup Jingan Technology on the first day of the conflict claimed on social media that its Jinqi system had intercepted voice communications and tracked the trajectories of four B-2A Spirits.",
-        "url": "https://www.newsmax.com/newsfront/china-ai-firm/2026/04/04/id/1251839/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=bae90e84-c3ea-46f9-89bd-71f377af6910&SiteName=Newsmax",
-        "publishedAt": "2026-04-04T21:20:38Z",
-        "source": "Newsmax"
-      },
-      {
-        "title": "Crypto Market News: Algorand Jumps 15% as Pepeto Eyes 150x Before Listing",
-        "description": "Stay updated with the latest Crypto Market News. Discover how the AI sector is leading the recovery in the crypto space.",
-        "url": "https://techbullion.com/crypto-market-news-algorand-jumps-15-as-pepeto-eyes-150x-before-listing/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/03/N38-1000x600.jpg",
-        "publishedAt": "2026-04-04T21:15:18Z",
-        "source": "TechBullion"
-      },
-      {
-        "title": "The People Who Know the Most Are Quietly Selling. Jim Rickards Is Asking Why.",
-        "description": "Former CIA Advisor Releases New Presentation Documenting an Unusual Pattern of Insider Selling, Institutional Exits, and CEO Warnings Across the AI Sector - and What He Believes It Signals for the Rest of the Market",
-        "url": "https://www.manilatimes.net/2026/04/05/tmt-newswire/globenewswire/the-people-who-know-the-most-are-quietly-selling-jim-rickards-is-asking-why/2314335",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-04-04T21:03:14Z",
-        "source": "The Manila Times"
       }
     ]
   }
