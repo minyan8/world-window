@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-05T17:29:18.030Z",
+  "fetchedAt": "2026-04-05T18:30:41.912Z",
   "sections": {
     "world": [
       {
-        "title": "Compound Chinese surnames come from historic figures, ancient states; fewer than 100 remain",
-        "description": "BEIJING: While most Chinese people's surnames are only one character long, there are also millions of people who have compound surnames which are considered rare and precious.",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/05/compound-chinese-surnames-come-from-historic-figures-ancient-states-fewer-than-100-remain",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3844887.png",
-        "publishedAt": "2026-04-05T05:28:00Z",
-        "source": "thestar.com.my"
+        "title": "Cousin eulogizes: 'They didn't want Guy to enlist in combat role, he insisted'",
+        "description": "The cousin of Sergeant First Class Guy Ludar, of blessed memory, who was killed in a friendly-fire incident in southern Lebanon, eulogized him and spoke about the immense loss and pain.",
+        "url": "https://www.israelnationalnews.com/news/425035",
+        "image": "https://2.a7.org/files/pictures/000/1214367.jpg",
+        "publishedAt": "2026-04-05T06:30:00Z",
+        "source": "Israel National News"
       },
       {
-        "title": "Iran offers $60,000 reward for missing American pilot",
-        "description": "Iranian merchants and trade groups have announced a $60,000 reward for anyone who finds the missing American pilot from a warplane that crashed in Iran.",
-        "url": "https://dailypost.ng/2026/04/05/iran-offers-60000-reward-for-missing-american-pilot/",
-        "image": "https://dailypost.ng/wp-content/uploads/2025/06/Flag-of-Iran-1.jpg",
-        "publishedAt": "2026-04-05T05:20:12Z",
-        "source": "Daily Post Nigeria"
+        "title": "Africa faces growth slowdown due to war on Iran - Report",
+        "description": "The conflict threatens to increase the cost of living and curtail growth on the continent, the African Union and the African Development Bank (AfDB) said in a report Saturday",
+        "url": "https://www.africanews.com/2026/04/05/africa-faces-growth-slowdown-due-to-war-on-iran-report/",
+        "image": "https://images.euronews.com/articles/stories/09/71/09/18/1024x538_cmsv2_5afe8f65-1a5e-59b9-8f6e-c157efe52de1-9710918.jpg",
+        "publishedAt": "2026-04-05T06:25:12Z",
+        "source": "africanews.com"
       },
       {
-        "title": "Satellite firm says it's indefinitely withholding Iran war images at US request",
-        "description": "Planet Labs tells clients it's switching to case-by-case 'managed distribution' of images, expanding on 14-day delay it imposed in March to prevent Iranian attacks on US and allies",
-        "url": "https://www.timesofisrael.com/satellite-firm-says-its-indefinitely-withholding-iran-war-images-at-us-request/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP9187500561754597-e1775363893925.jpg",
-        "publishedAt": "2026-04-05T05:18:18Z",
-        "source": "The Times of Israel"
+        "title": "Iran hangs two men linked to Israel in pre-war protests",
+        "description": "Iran executed two men convicted of acting on behalf of Israel and the U.S. during a recent wave of anti-government protests, the judiciary confirmed.",
+        "url": "https://punchng.com/iran-hangs-two-convicted-of-links-with-israel-in-pre-war-protests/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+        "publishedAt": "2026-04-05T06:24:27Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "US-Iran War LIVE updates: US rescues second air force member from downed F-15 fighter jet in Iran; Trump sets 48-hour deadline for Strait of Hormuz",
-        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
-        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-sets-iran-48-hour-deadline-to-make-a-deal-or-reopen-strait-of-hormuz-search-continues-for-missing-us-airman-after-fighter-jet-shot-down-20260404-p5zlco.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2059%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/q_86%2Cf_auto/f25ff0881cf8104e60c5476df96b96139c8b8527",
-        "publishedAt": "2026-04-05T05:11:06Z",
-        "source": "The Age"
+        "title": "Chief Dakamela of Nkayi gets virgin wife as present from South African royal family",
+        "description": "CHIEF Mbusi Dakamela (29), was Saturday presented with a virgin wife by South Africa’s Manala Royal Family as a present and cultural symbol at his Imiklomelo KaDakamela Festival. The Manala Royal Family of Mpumalanga province is a prominent South African royal house within the Southern Ndebele nation led by King Makhosoke Mabhena. Princess Andile Manala, […]",
+        "url": "https://www.newzimbabwe.com/chief-dakamela-of-nkayi-gets-virgin-wife-as-present-from-south-african-royal-family/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/04/05062005/fb_img_1775363421560.jpg",
+        "publishedAt": "2026-04-05T06:19:45Z",
+        "source": "NewZimbabwe.com"
       },
       {
-        "title": "Iran war is hindering global humanitarian aid efforts, groups warn",
-        "description": "Aid groups are warning that the war in the Middle East has upended their ability to get food and medicine to millions in need and that more people will suffer if the violence continues.",
-        "url": "https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b",
-        "image": "https://dims.apnews.com/dims4/default/71ed2a5/2147483647/strip/true/crop/5510x3671+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2F37%2F88a1c89861d1dee5807bde5d4a37%2F1d7acc5830394c03b43efdff1426e8c4",
-        "publishedAt": "2026-04-05T05:07:00Z",
-        "source": "AP News"
+        "title": "Zimbabwean bakery manager dismissed for posting bible verse on WhatsApp group",
+        "description": "By Sinenhlanhla Masilela l IOL A ZIMBABWEAN bakery manager dismissed for sharing a controversial Bible verse during a period of heightened xenophobic tension has won compensation after the Labour Court in Cape Town ruled that his dismissal was too harsh. Judge Tapiwa Cecilia Gandidze dismissed an application by Erarite (Pty) Ltd t/a Khayelitsha SuperSpar to […]",
+        "url": "https://www.newzimbabwe.com/zimbabwean-bakery-manager-dismissed-for-posting-bible-verse-on-whatsapp-group/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/04/05071524/Screenshot_20260405-074449_1.jpg",
+        "publishedAt": "2026-04-05T06:16:10Z",
+        "source": "NewZimbabwe.com"
       },
       {
-        "title": "New Prefect Of Papal Household, Archbishop Rajič, Expresses Gratitude To Pope",
-        "description": "The Archbishop, until now Apostolic Nuncio to Italy and the Republic of San Marino, expressed “profound” gratitude for the appointment he received from Leo XIV, and his hopes in offering “his service to the universal Church.”  Archbishop Rajic has expressed his “deep gratitude” for the new role entrusted to him by the Pope and for...",
-        "url": "https://independent.ng/new-prefect-of-papal-household-archbishop-rajic-expresses-gratitude-to-pope/",
-        "image": "https://independent.ng/wp-content/uploads/2026/04/Untitled-7.jpg",
-        "publishedAt": "2026-04-05T05:05:59Z",
-        "source": "Independent Newspaper Nigeria"
+        "title": "'First time seen with human eyes': NASA shares full view image of Moon’s Orientale Basin captured by Artemis II crew",
+        "description": "The three Americans and one Canadian are onboard the Orion spacecraft, which is expected to reach its destination on Monday. | World News",
+        "url": "https://www.hindustantimes.com/world-news/first-time-seen-with-human-eyes-nasa-shares-full-view-image-of-moons-orientale-basin-captured-by-artemis-ii-crew-101775368480496.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/05/550x309/moon_nasa_1775368773254_1775368778159.jpg",
+        "publishedAt": "2026-04-05T06:14:55Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "From Rasputin to Putin: Why Russia will never learn from its history",
-        "description": "Antony Beevor says Rasputin was a historically important figure who accelerated the demise of the Romanov dynasty",
-        "url": "https://www.irishtimes.com/life-style/people/2026/04/05/from-rasputin-to-putin-why-russia-will-never-learn-from-its-history/",
-        "image": "https://www.irishtimes.com/resizer/v2/PWEN6RQVDRCCPKGM3LI33KH2WI.JPG?smart=true&auth=dec5a530500fa459d077e3ac067e9e0c85d8f7aadfa2d625a90c005e48986ed0&width=1200&height=630",
-        "publishedAt": "2026-04-05T05:02:23Z",
-        "source": "The Irish Times"
+        "title": "World’s unhappiest countries in 2026: Afghanistan, Zimbabwe and Lebanon among least happy nations",
+        "description": "Rest of World News: The latest global happiness rankings paint a difficult picture, especially at the lower end of the list. Countries like Afghanistan, Zimbabwe, and Leb.",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-unhappiest-countries-in-2026-afghanistan-zimbabwe-and-lebanon-among-least-happy-nations/articleshow/130034336.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130034542,width-1280,height-720,imgsize-31850,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-05T06:13:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
-        "description": "Walker Smith, 54, who worked for retailer for 17 years, says he grabbed bag from thief before they escaped",
-        "url": "https://www.theguardian.com/business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
-        "image": "https://i.guim.co.uk/img/media/dfc8024a5bf218fca4886cd0cdc4e9392dfc723f/398_0_10496_8397/master/10496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=841611adbc428a7bf76f94885f7d09ef",
-        "publishedAt": "2026-04-05T05:00:00Z",
-        "source": "The Guardian"
+        "title": "Artemis astronauts to study the Moon's surface using eyesight",
+        "description": "Washington, United States—More than 50 years after humans first flew around the Moon, Artemis astronauts will repeat the feat on Monday and use the most",
+        "url": "https://manilastandard.net/news/world/314723129/artemis-astronauts-to-study-the-moons-surface-using-eyesight.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/artemis-astronauts-nasa.jpg",
+        "publishedAt": "2026-04-05T06:10:35Z",
+        "source": "Manila Standard"
       }
     ],
     "business": [
       {
-        "title": "YES Bank Q4 biz update: Loans rise 11%, deposits grow 12% YoY",
-        "description": "YES Bank reported steady Q4 growth, with advances rising 6% QoQ and deposits outpacing at 9%, improving its CD ratio to 85.4%. Strong CASA traction supported margins, though reliance on certificates of deposit increased. Liquidity remained comfortable. Overall, improving deposit quality and a stronger liability franchise signal a more balanced outlook despite measured loan growth.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q4-biz-update-loans-rise-11-deposits-grow-12-yoy/articleshow/130034185.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130034177,width-1200,height-630,imgsize-285342,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-05T05:28:49Z",
-        "source": "The Economic Times"
+        "title": "Home heating oil costs in rural Lancashire doubles",
+        "description": "One elderly couple had to find £1,000 for an oil delivery and suppliers are not giving quotes, a councillor says.",
+        "url": "https://www.bbc.co.uk/news/articles/cql70rlkk27o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6fa/live/82e6bff0-2e83-11f1-9119-fd03bc447b24.jpg",
+        "publishedAt": "2026-04-05T06:29:52Z",
+        "source": "BBC"
       },
       {
-        "title": "Royal Enfield Hunter 350 Base Premium variant launched at Rs 1.50 lakh",
-        "description": "Royal Enfield has introduced a new ‘Base Premium’ variant of the Hunter 350 priced at Rs 1.50 lakh (ex-showroom), making it more accessible for a wider customer base.",
-        "url": "https://www.team-bhp.com/news/royal-enfield-hunter-350-base-premium-variant-launched-rs-150-lakh",
-        "image": "https://www.team-bhp.com/sites/default/files/styles/large/public/Hunter350_LHS_Profile_TarmacBlack.jpg",
-        "publishedAt": "2026-04-05T05:27:30Z",
-        "source": "Team-BHP"
+        "title": "Plans to turn former Alfreton Hall wedding venue into school",
+        "description": "Kingdom Christian School plans to move staff and pupils from its current home to Alfreton Hall.",
+        "url": "https://www.bbc.co.uk/news/articles/c2ev3133prko",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a62/live/30787f10-2dc0-11f1-b45a-13c2fd78bbe1.jpg",
+        "publishedAt": "2026-04-05T06:24:45Z",
+        "source": "BBC"
       },
       {
-        "title": "Retail experts map trends driving Africa's consumer market in 2026",
-        "description": "The Nation Newspaper Retail experts map trends driving Africa's consumer market in 2026",
-        "url": "https://thenationonlineng.net/retail-experts-map-trends-driving-africas-consumer-market-in-2026/",
-        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/04/05061853/Uchenna-Uzo-Deputy-Vice-Chancellor-Academic-at-Pan-Atlantic-University.jpg",
-        "publishedAt": "2026-04-05T05:26:59Z",
-        "source": "The Nation Newspaper"
+        "title": "Flexible financing and hybrid systems driving Nigeria’s solar growth- Daystar Power CEO",
+        "description": "Nigeria’s solar energy sector is gaining momentum, driven by rising energy costs, persistent grid instability, and supportive regulatory frameworks. In this exclusive",
+        "url": "https://nairametrics.com/2026/04/05/flexible-financing-and-hybrid-systems-driving-nigerias-solar-growth-daystar-power-ceo/",
+        "image": "https://nairametrics.com/wp-content/uploads/2026/04/Yischai-Beinisch-640x406-1.webp",
+        "publishedAt": "2026-04-05T06:21:26Z",
+        "source": "Nairametrics"
       },
       {
-        "title": "A Look At Motorola Solutions (MSI) Valuation As AI Security Platform And Deals Gain Attention",
-        "description": "Motorola Solutions (MSI) stepped into ISC West 2026 with its expanded AI-driven security platform as a showcase for how video, access control and software can work together as a real-time intelligence layer.\nSee our latest analysis for Motorola Solutions.\nThe recent ISC West 2026 platform expansion, together with acquisitions in Canadian land mobile radio and cloud recording, has come alongside a 14.7% 90 day share price return and a 143.83% five year total shareholder return, suggesting...",
-        "url": "https://simplywall.st/stocks/us/tech/nyse-msi/motorola-solutions/news/a-look-at-motorola-solutions-msi-valuation-as-ai-security-pl",
-        "image": "https://images.simplywall.st/asset/company-cover/99186-main-header/1756225745612",
-        "publishedAt": "2026-04-05T05:26:15Z",
-        "source": "simplywall.st"
+        "title": "How a barber's boy from Gainsborough wrapped the world",
+        "description": "William Rose was an apprentice barber when he developed the first automatic wrapping machine.",
+        "url": "https://www.bbc.co.uk/news/articles/ce84ymn5647o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b71/live/4d286950-2dc4-11f1-b45a-13c2fd78bbe1.jpg",
+        "publishedAt": "2026-04-05T06:18:27Z",
+        "source": "BBC"
       },
       {
-        "title": "Assessing AST SpaceMobile (ASTS) Valuation As BlueBird 7 Nears Launch And Growth Expectations Build",
-        "description": "AST SpaceMobile (ASTS) is back in focus as investors watch for the imminent BlueBird 7 launch, a mission expected to support 4G and 5G service directly to standard smartphones from low Earth orbit.\nSee our latest analysis for AST SpaceMobile.\nThe recent excitement around BlueBird 7 comes after a volatile stretch, with a 1-day share price return of 10.27% and 7-day share price return of 17.73%, while the 1-year total shareholder return of 361.48% points to strong underlying momentum despite...",
-        "url": "https://simplywall.st/stocks/us/telecom/nasdaq-asts/ast-spacemobile/news/assessing-ast-spacemobile-asts-valuation-as-bluebird-7-nears",
-        "image": "https://images.simplywall.st/asset/industry/9031000-choice2-main-header/1585186861487",
-        "publishedAt": "2026-04-05T05:25:40Z",
-        "source": "simplywall.st"
+        "title": "The best budget skincare products",
+        "description": "These high-street heroes prove that smart formulas can rival luxury for far less",
+        "url": "https://www.telegraph.co.uk/beauty/face/best-budget-skincare-products/",
+        "image": "https://www.telegraph.co.uk/content/dam/beauty/2026/03/31/TELEMMGLPICT000476352967_17749714227120_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2026-04-05T06:10:00Z",
+        "source": "The Telegraph"
       },
       {
-        "title": "Cirrus Logic (CRUS) Valuation Check After Strong Recent Share Price Momentum",
-        "description": "What Cirrus Logic’s Recent Performance Tells You\nCirrus Logic (CRUS) has drawn fresh investor attention after a strong stretch for the stock over the past month and past 3 months, alongside mixed recent revenue and net income trends.\nSee our latest analysis for Cirrus Logic.\nThat strong recent share price momentum, including a 12.86% 30 day share price return and 24.33% 90 day share price return to US$147.13, sits alongside a 76.78% 1 year total shareholder return. This suggests sentiment has...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-crus/cirrus-logic/news/cirrus-logic-crus-valuation-check-after-strong-recent-share",
-        "image": "https://images.simplywall.st/asset/industry/8212000-choice1-main-header/1585186704996",
-        "publishedAt": "2026-04-05T05:25:40Z",
-        "source": "simplywall.st"
+        "title": "Leviathan gas field resumes operations after risk of strikes from Iran",
+        "description": "The Leviathan and Karish reservoirs were shut down to reduce the risk of being hit when Operation Roaring Lion began on February 28th",
+        "url": "https://www.jpost.com/business-and-innovation/article-892058",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/668739",
+        "publishedAt": "2026-04-05T06:03:24Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Terra Cube bags ADVAN's Brand of the Year award",
-        "description": "The Nation Newspaper Terra Cube bags ADVAN's Brand of the Year award",
-        "url": "https://thenationonlineng.net/terra-cube-bags-advans-brand-of-the-year-award/",
-        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/04/05061124/Terra-Cube-wins-ADVANs-Biggest-Award.jpg",
-        "publishedAt": "2026-04-05T05:22:11Z",
-        "source": "The Nation Newspaper"
+        "title": "Britain woos Anthropic expansion after US defence clash, FT reports",
+        "description": "Britain seeks to capitalise on a fight between the maker of AI app Claude and the US Defence Department. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/europe/britain-woos-anthropic-expansion-after-us-defence-clash-ft-reports",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ce5ddd8a750394145af4bd5d2e6612d4712a1f8aadd19b497abbfe7b7fb77ae3",
+        "publishedAt": "2026-04-05T06:02:33Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Warren Buffett may halt donations to Gates Foundation amid scrutiny of Bill Gates links: Report",
-        "description": "Warren Buffett reconsiders his long running support for the Gates Foundation after Jeffrey Epstein revelations strain his relationship with Bill Gates",
-        "url": "https://www.storyboard18.com/brand-makers/warren-buffett-may-halt-donations-to-gates-foundation-amid-scrutiny-of-bill-gates-links-report-ws-l-94239.htm",
-        "image": "https://images.storyboard18.com/storyboard18/2026/04/PRESIZE-TB-2026-04-05T105103.362-2026-04-c776d3cdf2135f97ac348c2df7398777-1019x573.png",
-        "publishedAt": "2026-04-05T05:21:33Z",
-        "source": "Storyboard18"
+        "title": "Cola Beverages Uganda rewards top distributors with delivery Tuk Tuks",
+        "description": "Coca-Cola Beverages Uganda (CCBU) has rewarded 54 top-performing distributors with fully kitted Tuk Tuk delivery vehicles as part of its Tuk-Tuk Peak Challenge.",
+        "url": "https://www.ccbagroup.com/coca-cola-beverages-uganda-rewards-top-distributors-with-delivery-tuk-tuks/",
+        "image": "https://www.ccbagroup.com/wp-content/uploads/2026/04/Ellis-Handing-over-Tuk-Tuks-website2.jpeg",
+        "publishedAt": "2026-04-05T06:01:44Z",
+        "source": "ccbagroup.com"
       }
     ],
     "science": [
+      {
+        "title": "Incoming call from deep space: astronaut Jeremy Hansen connects with Canadians during historic lunar mission",
+        "description": "/CNW/ - Today, Canadians were given a rare and inspiring glimpse into humans' return to the Moon, as Canadian Space Agency (CSA) astronaut Colonel Jeremy spoke...",
+        "url": "https://www.newswire.ca/news-releases/incoming-call-from-deep-space-astronaut-jeremy-hansen-connects-with-canadians-during-historic-lunar-mission-858715530.html",
+        "image": "https://mma.prnewswire.com/media/2950058/Canadian_Space_Agency_Incoming_call_from_deep_space__astronaut_J.jpg?p=facebook",
+        "publishedAt": "2026-04-05T06:29:00Z",
+        "source": "Newswire Canada"
+      },
+      {
+        "title": "Mercer Island man shares what it means to see brother as Commander of Artemis II mission",
+        "description": "Bill Wiseman says his younger brother Reid was put on this planet to push the boundaries of flight. As the Commander of a four-person crew of the Artemis II mis",
+        "url": "https://komonews.com/news/local/nasa-seattle-mercer-island-man-shares-what-it-means-to-see-brother-as-commander-of-artemis-ii-mission-florida-kennedy-space-center",
+        "image": "https://komonews.com/resources/media2/16x9/4032/1320/0x378/90/bf91c6dd-c0fe-4d08-8277-8f94bd62f5c4-IMG_4609.jpeg",
+        "publishedAt": "2026-04-05T06:11:12Z",
+        "source": "KOMO"
+      },
+      {
+        "title": "China's Shenzhou-21 crew advances space experiments five months on",
+        "description": "The crew of China's Shenzhou-21, astronauts Zhang Lu, Wu Fei and Zhang Hongzhang, has spent more than five months aboard the China Space Station, with mission tasks progressing steadily, according to the latest updates.Over the past week, the crew carried",
+        "url": "https://news.cgtn.com/news/2026-04-05/China-s-Shenzhou-21-crew-advances-space-experiments-five-months-on-1M5MEK5FeYU/p.html",
+        "image": "https://news.cgtn.com/news/2026-04-05/China-s-Shenzhou-21-crew-advances-space-experiments-five-months-on-1M5MEK5FeYU/img/8b75e5cdea144284a9d65bea953241c6/8b75e5cdea144284a9d65bea953241c6-1280.jpeg",
+        "publishedAt": "2026-04-05T06:08:15Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "old Mass. doctor runs Boston Marathon to honor patient",
+        "description": "Endocrinologist Michael Holick was diagnosed with stage III prostate cancer in 2021.",
+        "url": "https://www.bostonglobe.com/2026/04/05/metro/80-year-old-runs-third-boston-marathon/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/VGWHHQOAABBVFU3VXPR5BKVN3Q.jpg?auth=9b08a04b7dde1d0cd094c853fddce28a1d93c578c4c87981aa9d86a74124d79b&width=1440",
+        "publishedAt": "2026-04-05T06:00:00Z",
+        "source": "The Boston Globe"
+      },
+      {
+        "title": "Artemis astronauts to study the Moon's surface using mainly their eyes",
+        "description": "More than 50 years after humans first flew around the Moon, Artemis astronauts will repeat the feat on Monday and use the most basic instrument to study it: their eyes.",
+        "url": "https://www.france24.com/en/live-news/20260405-artemis-astronauts-to-study-the-moon-s-surface-using-mainly-their-eyes",
+        "image": "https://s.france24.com/media/display/294e9620-30b3-11f1-9658-005056bfb2b6/w:1280/p:16x9/4d71fb8802ea93d17b27a41154018cf8ec2fa9ae.jpg",
+        "publishedAt": "2026-04-05T05:49:09Z",
+        "source": "France 24"
+      },
+      {
+        "title": "Artemis astronauts to study the Moon's surface using mainly their eyes",
+        "description": "More than 50 years after humans first flew around the Moon, Artemis astronauts will repeat the feat on Monday and use the most basic instrument to study it: their eyes. \"The human eye is basically the...",
+        "url": "https://sg.news.yahoo.com/artemis-astronauts-study-moons-surface-054659503.html",
+        "image": "https://s.yimg.com/os/en/afp.com.sg/653362fcfd91dbccf6cc6b631f3e4872",
+        "publishedAt": "2026-04-05T05:46:00Z",
+        "source": "Yahoo News Singapore"
+      },
+      {
+        "title": "NASA's Artemis II toilet costs $23M",
+        "description": "The malfunctioning toilet aboard the Artemis II, costing American taxpayers $23 million, ranks as the second most expensive loo ever constructed.",
+        "url": "https://www.newsbytesapp.com/news/science/the-23-million-toilet-nasa-artemis-ii-s-costly-commode/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l271_52061775360538.jpg",
+        "publishedAt": "2026-04-05T05:31:15Z",
+        "source": "NewsBytes"
+      },
       {
         "title": "Earthrise 2.0 heralds dawn of the race to settle surface ...",
         "description": "Even as Artemis II’s astronauts captured a view first immortalised in 1968, the science programmes that sent them into space were being sacrificed to Trump’s ‘aggressive’ quest to beat China to the lunar surface",
@@ -142,128 +198,72 @@
         "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/105453.jpeg",
         "publishedAt": "2026-04-05T05:03:47Z",
         "source": "The Observer"
-      },
-      {
-        "title": "Incoming call from deep space: astronaut Jeremy Hansen connects with Canadians during historic lunar mission",
-        "description": "Today, Canadians were given a rare and inspiring glimpse into humans’ return to the Moon, as Canadian Space Agency (CSA) astronaut Colonel Jeremy spoke live from aboard the Orion spacecraft.",
-        "url": "https://www.canada.ca/en/space-agency/news/2026/04/incoming-call-from-deep-space-astronaut-jeremy-hansen-connects-with-canadians-during-historic-lunar-mission.html",
-        "image": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico",
-        "publishedAt": "2026-04-05T05:00:58Z",
-        "source": "canada.ca"
-      },
-      {
-        "title": "New study exposes common lab item contaminating research equipment: 'We finally traced it down'",
-        "description": "\"It led to a wild goose chase of trying to figure out where this contamination could possibly have come from.\"",
-        "url": "https://www.yahoo.com/news/articles/study-exposes-common-lab-item-050000486.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/fYetJXXtSiGwrUaGVdhQ3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/f3da04cadb8d6f4b47e43f013e9c9d95",
-        "publishedAt": "2026-04-05T05:00:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Saudi Arabia makes history with 'Shams' Satellite launch, joins NASA's Artemis Programme",
-        "description": "Middle East News: Saudi Arabia makes significant strides in space exploration with the launch of its 'Shams' satellite as part of NASA's Artemis program, marking its first participation in a mission aimed at lunar exploration and further scientific research.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-makes-history-with-shams-satellite-launch-joins-nasas-artemis-programme/articleshow/130033746.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130033879,width-1280,height-720,imgsize-1030389,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T04:54:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "ARTEMIS II's Orion spacecraft imaged",
-        "description": "See the ARTEMIS II's Orion spacecraft while it was flying to the Moon with its manned crew, while at 217,000 km from Earth. Image: G. Masi.",
-        "url": "https://www.virtualtelescope.eu/2026/04/05/artemis-iis-orion-spacecraft-imaged-5-april-2026/",
-        "image": "https://www.virtualtelescope.eu/wordpress/wp-content/uploads/2026/04/ARTEMISII_ORION_5APR2026_MASI.jpg",
-        "publishedAt": "2026-04-05T04:10:36Z",
-        "source": "The Virtual Telescope Project 2.0"
-      },
-      {
-        "title": "1,375 Satellites to Go and No Clear Ride to Orbit",
-        "description": "An Atlas 5 rocket reportedly carried 29 Amazon broadband satellites into low Earth orbit early Saturday morning, what may have been the heaviest payload the venerable rocket has ever flown and a sign of how hard Amazon is pushing to catch up on a constellation deployment timeline that looks increasingly difficult to meet. The Atlas […]",
-        "url": "https://spacedaily.com/sd-n-amazons-kuiper-math-problem-1-375-satellites-to-go-and-no-clear-ride-to-orbit/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/04/amazon-s-kuiper-math-problem-1-375-satel.jpg",
-        "publishedAt": "2026-04-05T04:09:56Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13's record",
-        "description": "HOUSTON - Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts.On the downside, their toilet is on the blink again.The three Americans and one Canadian are set to reach their destination Monday, photographing the mysterious lunar far side as they zoom around....",
-        "url": "https://www.asiaone.com/world/artemis-ii-toilet-acts-again-astronauts-speed-toward-moon-break-apollo-13s-record",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Apr2026/5426_earth_ap.jpg?itok=xj6UZBjK",
-        "publishedAt": "2026-04-05T04:04:54Z",
-        "source": "AsiaOne"
-      },
-      {
-        "title": "Overnight News Digest: Science Saturday, 4/4/26",
-        "description": "Welcome to the Overnight News Digest with a crew consisting of founder Magnifico, regular editors side pocket, maggiejean, Chitown Kev, eeff, Magnifico, annetteboardman, Besame, jck, JeremyBloom, ...",
-        "url": "https://www.dailykos.com/stories/2026/4/4/2375234/-Overnight-News-Digest-Science-Saturday-4-4-26",
-        "image": "https://cdn.prod.dailykos.com/images/1093443/story_image/ONDheadSS-01.jpg?1658285487",
-        "publishedAt": "2026-04-05T04:04:45Z",
-        "source": "Daily Kos"
       }
     ],
     "ai": [
       {
-        "title": "1500 cameras and New Station Buildings: Ashwini Vaishnaw shares glimpse of redevelopment work at New Delhi railway station | Video",
-        "description": "Railway Minister Ashwini Vaishnaw recently unveiled a video showcasing the redevelopment of the New Delhi Railway Station, highlighting its futuristic design and ongoing progress. As part of a major security and infrastructure upgrade, the Minister announced that the station will feature 1,500 AI-enabled cameras to enhance passenger safety and operational efficiency.",
-        "url": "https://www.financialexpress.com/business/railways/1500-cameras-and-new-station-buildings-ashwini-vaishnaw-shares-glimpse-of-redevelopment-work-at-new-delhi-railway-station-video/4195815/",
-        "image": "https://images.financialexpressdigital.com/2026/04/FotoJet-10.jpg",
-        "publishedAt": "2026-04-05T05:28:37Z",
+        "title": "Ramayana 2026 teaser: Bollywood fan ‘fixes’ Ranbir Kapoor’s scene with AI; social media reacts, ‘Don’t be lame’",
+        "description": "The teaser for Ramayana, featuring Ranbir Kapoor, has received mixed reviews, particularly regarding the casting and VFX quality. A viral post suggested AI can improve visual effects.",
+        "url": "https://www.livemint.com/entertainment/ramayana-2026-teaser-bollywood-fan-fixes-ranbir-kapoor-s-scene-with-ai-social-media-reacts-don-t-be-lame-11775369859740.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/Ramayana_1775370137631_1775370143304.jpg",
+        "publishedAt": "2026-04-05T06:28:58Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Who is Brad Lightcap? OpenAI COO moves to new ‘Special Projects’ role amid major executive shuffle",
+        "description": "As COO, Lightcap played an instrumental role in building OpenAI’s commercial side, signing partnerships with Microsoft and other enterprises.",
+        "url": "https://www.financialexpress.com/life/technology-who-is-brad-lightcap-openai-coo-moves-to-new-special-projects-role-amid-major-executive-shuffle-4195861/",
+        "image": "https://images.financialexpressdigital.com/2026/04/Brad-Lightcap.jpg",
+        "publishedAt": "2026-04-05T06:23:04Z",
         "source": "The Financial Express"
       },
       {
-        "title": "Key events in Kerala today: Easter worship, Kathakali performance, book release on April 5",
-        "description": "Meghamalhar Musical Charitable Society Karaoke Song Competition is being held at Edappally Changampuzha Park, Kochi..Kerala events April 5 2026, Easter celebrations Kerala, Kollam music program, Kottayam story release, Kochi health check-up, Kozhikode Vishu fest, Mayanad Devaraja Sangeetha Sabha, Shajimon Ollasseri 32 Rathnangal, free health camp Kochi, Khadi Vishu festival Kozhikode, LLM event listings Kerala, AI powered event discovery, AI for event aggregation, event intelligence LLM, Kerala religious festivals",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/05/kerala-events-april-5-2026.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/9/30/changampuzha-park.jpg",
-        "publishedAt": "2026-04-05T05:21:25Z",
+        "title": "TVK chief Vijay updates poll affidavit, reveals 2 pending criminal cases",
+        "description": "The TVK leader reported an income of 184.53 crore for the 2024–25 financial year..actor turned politician Vijay, Tamilaga Vettri Kazhagam affidavit, Vijay election affidavit, criminal cases Vijay, election disclosure, AI legal analysis, LLM political insights, Vijay assets disclosure, election law compliance, revised election filing, public disturbance case, election campaigning issues, political candidate assets, Tamil Nadu elections, AI driven legal review",
+        "url": "https://www.onmanorama.com/news/india/2026/04/05/tamil-nadu-assembly-election-vijay-submits-fresh-affidavit-declaring-criminal-cases.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/4/5/tvk-vijay-poll-affidavit.jpg",
+        "publishedAt": "2026-04-05T06:20:30Z",
         "source": "Malayala Manorama"
       },
       {
-        "title": "Families of AI-171 crash victims write to Modi, seek release of black box data",
-        "description": "The letter, also sent to AAIB, DGCA & Gujarat CM Bhupendra Patel, states that if the data can’t be made public, it should at least be privately shared with victims' families.",
-        "url": "https://theprint.in/india/families-of-ai-171-crash-victims-write-to-modi-seek-release-of-black-box-data/2897007/",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/452344906-scaled-e1774426164340.jpg",
-        "publishedAt": "2026-04-05T05:16:49Z",
-        "source": "ThePrint"
+        "title": "UK physicists' chip could make AI systems more energy efficient",
+        "description": "Developed by Loughborough University physicists, the device can process data that changes over time directly in hardware, rather than relying on software running on conventional computers.",
+        "url": "https://interestingengineering.com/innovation/chip-make-ai-systems-energy-efficient",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/chip-new.jpg",
+        "publishedAt": "2026-04-05T06:16:05Z",
+        "source": "Interesting Engineering"
       },
       {
-        "title": "Bernie Sanders Warns AI Could Cost Millions Of Jobs: '70% Think AI Will Lead To Fewer Jobs. They Are Righ",
-        "description": "Bernie Sanders warns AI could cost millions of jobs, criticizes billionaires rushing technology without oversight.",
-        "url": "https://www.benzinga.com/markets/tech/26/04/51650318/bernie-sanders-warns-ai-could-cost-millions-of-jobs-70-think-ai-will-lead-to-fewer-jobs-they-are-right",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/05/Des-Moines--Iowa---September-21--2019-Be.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-05T05:14:00Z",
-        "source": "Benzinga"
+        "title": "Sheer prevalence of AI prose is giving rise to a new and extreme kind of suspicion",
+        "description": "We exist, increasingly, in a cultural environment where we can never be quite sure whether what we are reading was written by a human or LLM",
+        "url": "https://www.irishtimes.com/opinion/2026/04/05/mark-oconnell-sheer-prevalence-of-ai-prose-is-giving-rise-to-a-new-and-extreme-kind-of-suspicion/",
+        "image": "https://www.irishtimes.com/resizer/v2/BPBOOLC5PX5DBSK7BSG7FRHXZY.jpg?smart=true&auth=7f5fb40cbf2966ce8bdb12cba2556d21c088949e9867bdb3961799c9231d839d&width=1200&height=630",
+        "publishedAt": "2026-04-05T06:15:00Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "Britain woos Anthropic to expand after clash with Pentagon: Report",
-        "description": "The US government blacklisted Anthropic,designating the company a national-security supply-chain risk after it refused to allow the military to use AI chatbot Claude for US surveillance",
-        "url": "https://www.business-standard.com/technology/tech-news/britain-woos-anthropic-to-expand-after-clash-with-pentagon-report-126040500137_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/26/full/1742981700-9695.JPG",
-        "publishedAt": "2026-04-05T05:13:15Z",
-        "source": "Business Standard"
+        "title": "Who will win RCB vs CSK today? ChatGPT, Gemini and Claude predict IPL 2026 match result",
+        "description": "RCB vs CSK match prediction IPL 2026: Who will win today? Check AI predictions from ChatGPT, Gemini and Claude, head-to-head stats, and match insights.",
+        "url": "https://www.financialexpress.com/sports/rcb-vs-csk-match-prediction-ipl-2026-who-will-win-today/4195814/",
+        "image": "https://images.financialexpressdigital.com/2026/04/Chennai-Super-Kings.jpg",
+        "publishedAt": "2026-04-05T06:14:51Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Two lays off its entire AI team after saying it was \"actively embracing\" the tech",
-        "description": "Tech News News: Take-Two Interactive, the company behind Grand Theft Auto VI, has laid off its head of AI and an unknown number of team members. The news surfaced thr.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/gta-vi-maker-take-two-lays-off-its-entire-ai-team-after-saying-it-was-actively-embracing-the-tech/articleshow/130034014.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130034014,width-1280,height-720,imgsize-13968,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T05:11:00Z",
-        "source": "Times of India"
+        "title": "'Ottakomban' first look sets the tone for Suresh Gopi’s action comeback",
+        "description": "Directed by debutant Mathews Thomas and produced by Gokulam Gopalan under the Sree Gokulam Movies banner, Ottakomban is being pitched as an.Ottakomban, Suresh Gopi movie, Ottakomban first look, Malayalam action film, Gokulam Gopalan movies, Mathews Thomas directorial, comeback movie, movie poster release, ensemble cast film, AI movie analysis, LLM film insights, AI film predictions, movie character arc, action drama Malayalam, new movie Ottakomban",
+        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/05/ottakomban-movie-first-look-suresh-gopi-gokulan-gopalan.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/4/5/ottakomban.jpg",
+        "publishedAt": "2026-04-05T06:09:49Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "Samsung, Mistral AI discuss cooperation in AI memory sector",
-        "description": "Samsung Electronics and French AI startup Mistral AI explored cooperation in AI memory. Mistral AI CEO Arthur Mensch met Samsung's head of device solutions. This follows French President Emmanuel Macron's visit to Seoul. Mistral AI seeks stable semiconductor supply for its AI models. The discussions aim to ensure reliable chip supply amid tight market conditions.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-mistral-ai-discuss-cooperation-in-ai-memory-sector/articleshow/130034001.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-18624,resizemode-75,msid-130034001/tech/artificial-intelligence/samsung-mistral-ai-discuss-cooperation-in-ai-memory-sector.jpg",
-        "publishedAt": "2026-04-05T05:07:43Z",
+        "title": "Indian film studios are using AI to cut costs, speed production, despite mixed audience reactions",
+        "description": "Indian film studios are embracing Artificial Intelligence to slash production costs and speed up movie making. This technology helps overcome India's many languages with AI dubbing. While audiences have mixed reactions, studios are using AI for everything from creating new content to re-releasing older films with altered endings. Tech giants are partnering with Indian filmmakers to advance AI-driven storytelling.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions/articleshow/130034364.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-75194,resizemode-75,msid-130034364/tech/artificial-intelligence/indian-studios-use-ai-to-cut-costs-speed-production-despite-mixed-audience-reactions.jpg",
+        "publishedAt": "2026-04-05T06:01:21Z",
         "source": "The Economic Times"
-      },
-      {
-        "title": "Gujarat High Court issues AI policy; bans use in decision-making, mandates human oversight",
-        "description": "While allowing AI for research and translation, the Gujarat High Court policy mandates that all outputs must be verified by a \"qualified human officer\".",
-        "url": "https://indianexpress.com/article/legal-news/gujarat-high-court-ai-policy-judicial-decision-making-ban-human-oversight-10619719/",
-        "image": "https://images.indianexpress.com/2026/04/Gujarat-HC-AI-policy.jpg",
-        "publishedAt": "2026-04-05T05:04:04Z",
-        "source": "The Indian Express"
       }
     ]
   }
