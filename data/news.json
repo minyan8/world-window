@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-05T14:30:21.526Z",
+  "fetchedAt": "2026-04-05T15:29:42.730Z",
   "sections": {
     "world": [
       {
-        "title": "Netanyahu confirms attack on petrochemical plant- as it happened",
-        "description": "This live blog is now closed",
-        "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut?page=with:block-69d1b8878f08764b987ca413",
-        "image": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/483_103_2602_2082/master/2602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=85898f54bcb652f9a6a1878ffbe14a53",
-        "publishedAt": "2026-04-05T02:26:00Z",
+        "title": "US readies its most lethal missiles as Iran war enters dangerous new phase",
+        "description": "After the loss of two fighter aircraft, the US is positioning the bulk of its lethal long-range JASSM-ER missiles in readiness to strike Iran, reported Bloomberg.",
+        "url": "https://www.indiatoday.in/world/story/us-deploys-long-range-jassm-er-missiles-in-iran-strikes-amid-rising-losses-2891756-2026-04-05",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/us-deploying-jassm-er-stockpile-050805901-16x9_0.jpg?VersionId=Zk0r5tnzQ3EXiRUiLDfzbefRzuxCLqdG",
+        "publishedAt": "2026-04-05T03:22:48Z",
+        "source": "indiatoday.in"
+      },
+      {
+        "title": "Energy resilience becomes critical for ASEAN economies",
+        "description": "Southeast Asia is entering a critical period where energy security and economic stability are inseparable. A recent report by the ASEAN+3 Macroeconomic Research Office (AMRO) warns that climate change, rising electricity demand from AI and digital infrastructure, and geopolitical tensions are putting unprecedented pressure on the region’s energy systems. For governments and businesses alike, strengthening […]",
+        "url": "https://thephilbiznews.com/2026/04/05/energy-resilience-becomes-critical-for-asean-economies/",
+        "image": "https://thephilbiznews.com/wordpress/wp-content/uploads/2026/04/ASEAN-FLAG.jpg",
+        "publishedAt": "2026-04-05T03:13:37Z",
+        "source": "thephilbiznews"
+      },
+      {
+        "title": "US-Iran War LIVE updates: US rescues second air force member from downed F-15 fighter jet in Iran; Trump sets 48-hour deadline for Strait of Hormuz",
+        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
+        "url": "https://www.brisbanetimes.com.au/world/middle-east/us-iran-war-live-updates-trump-sets-iran-48-hour-deadline-to-make-a-deal-or-reopen-strait-of-hormuz-search-continues-for-missing-us-airman-after-fighter-jet-shot-down-20260404-p5zlco.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2059%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/q_86%2Cf_auto/f25ff0881cf8104e60c5476df96b96139c8b8527",
+        "publishedAt": "2026-04-05T03:11:44Z",
+        "source": "Brisbane Times"
+      },
+      {
+        "title": "Where is US President Trump? Sudden 'press lid' sparks hospitalisation rumours",
+        "description": "Rumours about Donald Trump’s health circulated after a White House press lid, suggesting hospitalisation. Journalists confirmed he remained at the West Wing. Trump stayed active on Truth Social reporting a Tehran strike, while First Lady Melania Trump focused on humanitarian updates.",
+        "url": "https://www.wionews.com/photos/where-is-us-president-donald-trump-sudden-press-lid-sparks-hospitalisation-rumours-melania-trump-response-truth-social-truth-trump-location-1775356110651",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260405/image-1775356180727.jpg?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-05T03:06:00Z",
+        "source": "WION"
+      },
+      {
+        "title": "Sisters of officer Neal Thompson to sue Victoria Police over his fatal shooting by Dezi Freeman",
+        "description": "They also say they felt \"abandoned\" by police after their brother's death.",
+        "url": "https://www.rnz.co.nz/news/world/591557/sisters-of-officer-neal-thompson-to-sue-victoria-police-over-his-fatal-shooting-by-dezi-freeman",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--H-D4DT0A--/t_tohu-badge-facebook/v1775356381/4JQN7L1_Killed_by_Dezi_avif?_a=BACCd2AD",
+        "publishedAt": "2026-04-05T02:56:23Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Middle East crisis live: Iran rejects Trump’s 48 hour deadline to ‘make a deal’; US races to find missing pilot",
+        "description": "Iran launches missiles and drones at Israel and Kuwait after US president says regime will face ‘all hell’",
+        "url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+        "image": "https://i.guim.co.uk/img/media/792c3c06a4d4314e83ddd43623d53a67ad965f31/121_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a5b1025a746d4c2cab631180c38288ef",
+        "publishedAt": "2026-04-05T02:54:47Z",
         "source": "The Guardian"
       },
       {
-        "title": "Netanyahu confirms attack on petrochemical plant- as it happened",
-        "description": "This live blog is now closed",
-        "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut?page=with%3Ablock-69d15a8c8f086bcf9a2a0927",
-        "image": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/483_103_2602_2082/master/2602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=85898f54bcb652f9a6a1878ffbe14a53",
-        "publishedAt": "2026-04-05T02:26:00Z",
-        "source": "The Guardian"
+        "title": "Government hands over land titles to Rastafarian community in western Jamaica",
+        "description": "KINGSTON, Jamaica, Apr. 4, CMC P Deputy Prime Minister and Minister of National Security and Peace,  Dr. Horace Chang, on Friday formally handed over land titles to the Rastafari Coral Gardens Ben…",
+        "url": "https://www.thestkittsnevisobserver.com/government-hands-over-land-titles-to-rastafarian-community-in-western-jamaica/",
+        "image": "https://www.thestkittsnevisobserver.com/wp-content/uploads/IMG_4244-768x528-1.jpeg",
+        "publishedAt": "2026-04-05T02:49:58Z",
+        "source": "thestkittsnevisobserver.com"
       },
       {
-        "title": "Netanyahu confirms attack on petrochemical plant- as it happened",
-        "description": "This live blog is now closed",
-        "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut?page=with:block-69d19a808f080da25b48b42a",
-        "image": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/483_103_2602_2082/master/2602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=85898f54bcb652f9a6a1878ffbe14a53",
-        "publishedAt": "2026-04-05T02:26:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Iran command rejects Trump's ‘helpless, nervous’ ultimatum",
-        "description": "Iran's military command dismisses Trump's ultimatum as \"helpless\" and warns of dire consequences for escalating conflict.",
-        "url": "https://www.thehindu.com/news/international/iran-command-rejects-trumps-helpless-nervous-ultimatum/article70825734.ece",
-        "image": "https://th-i.thgim.com/public/incoming/kvmkij/article70825741.ece/alternates/LANDSCAPE_1200/2026-04-04T180422Z_27348487_RC2IIKAZT7R0_RTRMADP_3_IRAN-CRISIS-ISRAEL.JPG",
-        "publishedAt": "2026-04-05T02:20:38Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "World Bank Considers Financing Uganda’s Long-Delayed Standard Gauge Railway",
-        "description": "Uganda seeks World Bank support for $3 billion railway project\nFunding aims to revive delayed Kampala–Malaba standard gauge line\nProject",
-        "url": "https://www.ecofinagency.com/news-infrastructures/0504-54428-world-bank-considers-financing-uganda-s-long-delayed-standard-gauge-railway",
-        "image": "https://www.ecofinagency.com/media/k2/items/cache/a24e432972292eea19054c1434e23106_S.jpg",
-        "publishedAt": "2026-04-05T02:20:10Z",
-        "source": "ecofinagency.com"
-      },
-      {
-        "title": "Mali's New Fuel Stockpile: 45 Days of Buffer Against a Longer Crisis",
-        "description": "Since September 2025, Mali has been facing an unprecedented fuel supply crisis, triggered by a blockade of fuel tanker convoys imposed by the",
-        "url": "https://www.ecofinagency.com/news/0504-54427-malis-new-fuel-stockpile-45-days-of-buffer-against-a-longer-crisis",
-        "image": "https://www.ecofinagency.com/media/k2/items/cache/7b31060d295077045ba9cfd8e4412a33_S.jpg",
-        "publishedAt": "2026-04-05T02:15:20Z",
-        "source": "Ecofin Agency"
-      },
-      {
-        "title": "Pope Leo marks first Easter as pontiff under cloud of war",
-        "description": "Pope Leo XIV is set to mark Easter Sunday for the first time as pontiff, with the Middle East war casting a pall over the most important date in the Christian calendar.",
-        "url": "https://www.rte.ie/news/world/2026/0405/1566779-easter-global-pope/",
-        "image": "https://www.rte.ie/images/00242b1b-1600.jpg",
-        "publishedAt": "2026-04-05T02:09:26Z",
-        "source": "RTE.ie"
-      },
-      {
-        "title": "Satellite Firm Planet Labs To Indefinitely Withhold Iran War Images",
-        "description": "California-based Planet Labs said the U.S. government had asked all satellite imagery providers to indefinitely withhold images of the conflict region.",
-        "url": "https://www.huffpost.com/entry/satellite-firm-planet-labs-withhold-iran-war-images_n_69d1c240e4b05047ac8eb4b5",
-        "image": "https://img.huffingtonpost.com/asset/69d1c28b140000757b86d2c0.jpeg?cache=cEFsPInH2O&ops=500_281%2Cscalefit_1200_630",
-        "publishedAt": "2026-04-05T02:06:17Z",
-        "source": "HuffPost"
+        "title": "'Your sons more in danger with Trump': Iran tells US pilot's mother it doesn't treat POWs 'like your savage allies'",
+        "description": "Middle East News: Iran’s diplomatic missions issued sharp responses to a US woman who said her fighter pilot son was missing, even as American forces continued searchin.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/your-sons-more-in-danger-with-trump-iran-tells-us-pilots-mother-it-doesnt-treat-pows-like-your-savage-allies/articleshow/130032617.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130032646,width-1280,height-720,imgsize-59496,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-05T02:49:00Z",
+        "source": "The Times of India"
       }
     ],
     "business": [
       {
-        "title": "Renewed interest in traditional Malaysian lutes comes with strings attached",
-        "description": "While young musicians are increasingly drawn to the old instruments, few want to take up the tedious task of crafting them.",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3348962/renewed-interest-traditional-malaysian-lutes-comes-strings-attached",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/03/81957e1c-fb0e-40df-a663-a3d96d321d5c_baf86690.jpg?itok=qYSS4mui&v=1775208484",
-        "publishedAt": "2026-04-05T02:30:09Z",
-        "source": "South China Morning Post"
+        "title": "Asante Gold reports US$345million loss for 2025",
+        "description": "Asante Gold Corporation recorded a net loss attributable to shareholders of US$345.44 million for the eleven months ended December 31, 2025, a sharp deterioration from the US$62.18 million loss reported for the previous financial year, according to the company’s audited consolidated financial statements released on March 31, 2026.",
+        "url": "https://www.myjoyonline.com/asante-gold-reports-us345million-loss-for-2025/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/1Asante-Career-scaled-1.jpg",
+        "publishedAt": "2026-04-05T03:28:27Z",
+        "source": "MyJoyOnline"
       },
       {
-        "title": "How sensory sensitivity can affect everyday functioning and why it needs to be talked about",
-        "description": "Explore how sensory sensitivity impacts daily life in India, highlighting the need for greater recognition and understanding beyond formal diagnoses.",
-        "url": "https://www.thehindu.com/sci-tech/health/how-sensory-sensitivity-can-affect-everyday-functioning-and-why-it-needs-to-be-talked-about/article70823053.ece",
-        "image": "https://th-i.thgim.com/public/incoming/i2kyso/article70823072.ece/alternates/LANDSCAPE_1200/IMG_5593_2_1_5UFOT8IO.jpg",
-        "publishedAt": "2026-04-05T02:30:00Z",
-        "source": "The Hindu"
+        "title": "Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking",
+        "description": "Tech News News: Meta has indefinitely suspended all work with Mercor. This comes after the artificial intelligence (AI) data contracting startup valued at $10 billion.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-pauses-all-work-with-ai-recruiting-startup-mercor-after-10-billion-company-confirms-hacking/articleshow/130033252.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130033247,width-1280,height-720,imgsize-17456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-05T03:24:00Z",
+        "source": "timesofindia.indiatimes.com"
       },
       {
-        "title": "For generations, Vietnam made its most beloved condiment the same way. The craft lives on",
-        "description": "PHU QUOC: Ha Tan Tai starts every morning the same way – a 7am walk through his Phu Quoc factory, past rows of litsea-wood barrels bound with rattan rope. He breathes in the sharp, saline perfume of anchovies, slowly turning into liquid gold.",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/05/for-generations-vietnam-made-its-most-beloved-condiment-the-same-way-the-craft-lives-on",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3844830.png",
-        "publishedAt": "2026-04-05T02:26:00Z",
-        "source": "The Star"
+        "title": "Winner loses $20 million in cautionary tale for person behind Australia's historic $100m Powerball mystery",
+        "description": "Can you imagine losing this amount of money?",
+        "url": "https://au.news.yahoo.com/winner-loses-20-million-in-cautionary-tale-for-person-behind-australias-historic-100m-powerball-mystery-032020658.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/ZJQTehhJROfFpT53MfYAbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTg7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-04/6b189d50-309d-11f1-bfff-a43b08241b53",
+        "publishedAt": "2026-04-05T03:20:00Z",
+        "source": "au.news.yahoo.com"
       },
       {
-        "title": "85 Nostalgic Photos That Will Transport Boomers Back",
-        "description": "Some of these will make you smile…and some might make you a little misty-eyed.",
-        "url": "https://www.buzzfeed.com/briangalindo/nostalgic-things-boomers-grew-up-with-mega-list",
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/01/thumb/c0jNMwn4J.jpg?crop=2400:1257;0,2%26downsize=1250:*",
-        "publishedAt": "2026-04-05T02:16:02Z",
-        "source": "BuzzFeed"
+        "title": "Car dealers race to secure S$68m to renew lease for Singapore's largest used-car hub",
+        "description": "Dealers value AML’s location, but lease renewal hinges on all owners paying their share",
+        "url": "https://www.businesstimes.com.sg/singapore/car-dealers-race-secure-s68m-renew-lease-singapores-largest-used-car-hub",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/466224382e59d4bf801f6bdd5c1cef67b08ade61b9bdcfd587e55a9277211289?w=1200&f=webp",
+        "publishedAt": "2026-04-05T03:15:00Z",
+        "source": "The Business Times"
       },
       {
-        "title": "Ransomware Attack on Vivaticket Disrupts Louvre and Major European Museums",
-        "description": "What happened A ransomware attack on Vivaticket disrupted online reservations at major European museums and monuments after the ticketing provider was hit in early March. The incident reportedly took place on March 2 and affected about 3,500 European museums and monuments. Vivaticket, which serves thousands of organizations across 50 countries and manages about 850 million The post Ransomware Attack on Vivaticket Disrupts Louvre and Major European Museums appeared first on CISO Whisperer.",
-        "url": "https://securityboulevard.com/2026/04/ransomware-attack-on-vivaticket-disrupts-louvre-and-major-european-museums/",
-        "image": "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg",
-        "publishedAt": "2026-04-05T02:11:23Z",
-        "source": "Security Boulevard"
+        "title": "Pain At The Pump: Local Gas Prices Continue To Surge",
+        "description": "ACO, Texas (FOX 44) – Local gas prices continue to surge across the nation, our state and in both the Central Texas and Brazos Valley metro and rural counties. Locally, Triple A Texas reports the pain...",
+        "url": "https://www.yahoo.com/news/articles/pain-pump-local-gas-prices-222650528.html",
+        "image": "https://s.yimg.com/os/en/kwkt_waco_articles_828/4150f01b32d6d58a40e6b3ece9299651",
+        "publishedAt": "2026-04-05T03:12:00Z",
+        "source": "Yahoo"
       },
       {
-        "title": "Bank holidays next week: SBI, HDFC, others closed on these days between 6 and 12 April; check RBI calendar",
-        "description": "Bank holidays next week, 6 April - 12 April: Bank holidays are decided by the Reserve Bank of India (RBI), with the central bank releasing a list of bank holidays at the beginning of each year.",
-        "url": "https://www.livemint.com/industry/banking/bank-holidays-next-week-sbi-hdfc-others-closed-on-these-days-between-6-and-12-april-check-rbi-calendar-11775351555491.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/HDFC_bank_senior_citizens_1685421357284_1775354632216.jpg",
-        "publishedAt": "2026-04-05T02:05:27Z",
-        "source": "Mint"
+        "title": "FBR Revises Customs Value on Import of Empty Tin Cans",
+        "description": "The Directorate General of Pakistan Customs Valuation, Karachi, has issued a fresh customs valuation ruling revising the import value of empty tin cans",
+        "url": "https://propakistani.pk/2026/04/05/fbr-revises-customs-value-on-import-of-empty-tin-cans/",
+        "image": "https://propakistani.pk/wp-content/uploads/2026/04/FBR-pp-1.png",
+        "publishedAt": "2026-04-05T03:07:34Z",
+        "source": "ProPakistani"
       },
       {
-        "title": "Here's The Science on How Peptides Could Boost Your Workout",
-        "description": "Peptides are widely marketed as a kind of \"holy grail\" for workout recovery and physical performance.",
-        "url": "https://www.sciencealert.com/heres-the-science-on-how-peptides-could-boost-your-workout",
-        "image": "https://www.sciencealert.com/images/2026/03/male-athlete.jpg",
-        "publishedAt": "2026-04-05T02:02:03Z",
-        "source": "ScienceAlert"
+        "title": "Luxury EV brand founded by Singaporean automotive boss Soh Weiming reportedly ceases operations",
+        "description": "Luxury electric vehicle brand BeyonCa, established by high-profile Singaporean automotive executive Soh Weiming, has reportedly ceased operations, with employees alleging unpaid wages. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/business/companies/luxury-ev-brand-founded-by-singaporean-automotive-boss-soh-weiming-reportedly-ceases-operations-5058134.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/04/03/2022-10-30t130545z-290268182-r-9110-7877-1775204394.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=20uPiAg3pBOso7TCbfaOcg",
+        "publishedAt": "2026-04-05T03:05:19Z",
+        "source": "VnExpress International"
       },
       {
-        "title": "India Manufacturing PMI Falls to 45",
-        "description": "India’s manufacturing activity witnessed a slowdown in March, as reflected in the HSBC India Manufacturing Purchasing Managers’ Index (PMI), which declined to 53.9 from 5",
-        "url": "https://www.gktoday.in/india-manufacturing-pmi-falls-to-45-month-low/",
-        "image": "https://i0.wp.com/www.gktoday.in/wp-content/uploads/2019/05/logopeg.jpg?fit=32%2C32&ssl=1",
-        "publishedAt": "2026-04-05T01:43:04Z",
-        "source": "gktoday.in"
+        "title": "'Best foundation for rosacea' treats redness while concealing and 'doesn't budge'",
+        "description": "'If I could give this product 10 stars, I would. A little goes a long way and it's great value for money'",
+        "url": "https://www.mirror.co.uk/3am/style/shopping/fans-kalme-anti-redness-concealer-36958611",
+        "image": "https://i2-prod.mirror.co.uk/article36959060.ece/ALTERNATES/s1200d/1_Kalme-Before-and-After.jpg",
+        "publishedAt": "2026-04-05T03:03:00Z",
+        "source": "The Mirror"
       }
     ],
     "science": [
+      {
+        "title": "Artemis II astronauts are more than halfway to the moon",
+        "description": "The crew is scheduled to fly around the moon on Monday and then head back home, with splashdown in the Pacific Ocean on April 10.",
+        "url": "https://www.bostonglobe.com/2026/04/04/nation/artemis-ii-astronauts-halfway-moon/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/GTI42W3GOEYTCMNLMPX4YSKLQQ.jpg?auth=0e29675aaa49976a31d0a3a067ff5c02e6175a60c320153ef25a0258d2486f73&width=1440",
+        "publishedAt": "2026-04-05T02:50:03Z",
+        "source": "The Boston Globe"
+      },
+      {
+        "title": "Live: En route to the moon as lunar flyby approaches",
+        "description": "At the time of their wake-up call, the crew was roughly 272,000 kilometers from Earth and was traveling toward the moon, located approximately 178,000 kilometers ahead.",
+        "url": "https://news.cgtn.com/news/2026-04-05/-Live-En-route-to-the-moon-as-lunar-flyby-approaches-1M5zSTXaMQE/p.html",
+        "image": "https://news.cgtn.com/news/2026-04-05/-Live-En-route-to-the-moon-as-lunar-flyby-approaches-1M5zSTXaMQE/img/df55ceae02a9412da3067d32aae28df9/df55ceae02a9412da3067d32aae28df9-750.png",
+        "publishedAt": "2026-04-05T02:45:36Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "Scientists find evidence of theorised star explosions that obliterate without black hole or neutron star",
+        "description": "These explosions are called a pair-instability supernovasThe supernovas involve the largest stars in the universeThey do not leave behind a black hole or neutron starWASHINGTON,...",
+        "url": "https://www.malaymail.com/news/life/2026/04/05/scientists-find-evidence-of-theorised-star-explosions-that-obliterate-without-black-hole-or-neutron-star/215156",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/05/333977.JPG",
+        "publishedAt": "2026-04-05T02:44:00Z",
+        "source": "Malay Mail"
+      },
       {
         "title": "Artemis II astronauts pass halfway mark to moon in historic mission: NASA",
         "description": "NASA's Artemis II astronauts are now more than halfway to the moon, marking a major milestone in the first crewed deep-space mission in more than 50 years.",
@@ -174,33 +198,65 @@
         "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/aae7dd120f47b2815dd31b2f9063cddf6ebed1ffd80e1dd1d869eee9b9178b28.jpg;w=1200;h=800;mode=crop",
         "publishedAt": "2026-04-05T00:15:24Z",
         "source": "BayToday.ca"
-      },
-      {
-        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13's record",
-        "description": "HOUSTON (AP) — Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts. On the downside, their toilet is on the blink again.",
-        "url": "https://www.orilliamatters.com/world-news/artemis-ii-toilet-acts-up-again-as-astronauts-speed-toward-the-moon-to-break-apollo-13s-record-12100610",
-        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/04/aae7dd120f47b2815dd31b2f9063cddf6ebed1ffd80e1dd1d869eee9b9178b28.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-04-05T00:15:24Z",
-        "source": "orilliamatters.com"
-      },
-      {
-        "title": "Artemis astronauts preparing for historic lunar flyby",
-        "description": "The next major milestone of the approximately 10-day journey is expected overnight Sunday into Monday, at which point the astronauts will enter the 'lunar sphere of influence.'",
-        "url": "https://www.japantimes.co.jp/news/2026/04/05/world/science-health/artemis-astronauts-lunar-flyby/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/05/533220.JPG?v=3.1",
-        "publishedAt": "2026-04-05T00:13:00Z",
-        "source": "The Japan Times"
-      },
-      {
-        "title": "Artemis II is going so well that we're left to talk about frozen urine",
-        "description": "I think the fixation on the toilet is kind of human nature.\"",
-        "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large-1152x648.jpg",
-        "publishedAt": "2026-04-05T00:12:45Z",
-        "source": "Ars Technica"
       }
     ],
     "ai": [
+      {
+        "title": "Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking",
+        "description": "Tech News News: Meta has indefinitely suspended all work with Mercor. This comes after the artificial intelligence (AI) data contracting startup valued at $10 billion.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-pauses-all-work-with-ai-recruiting-startup-mercor-after-10-billion-company-confirms-hacking/articleshow/130033252.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130033247,width-1280,height-720,imgsize-17456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-05T03:24:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Mark Cuban Warns CEOs Face 'Innovator's AI Dilemma' As AI-Native Startups Move To Displace Incumbents",
+        "description": "Mark Cuban warns CEOs face an \"Innovator's AI Dilemma\" as AI-native startups threaten incumbents and shareholder lawsuits loom.",
+        "url": "https://www.benzinga.com/markets/tech/26/04/51650232/mark-cuban-warns-ceos-face-innovators-ai-dilemma-as-ai-native-startups-move-to-displace-incumbents",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/04/04/Mark-Cuban.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-04-05T03:09:14Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Janhvi Kapoor Recalls Seeing Her Morphed Image On Porn Site At 15: ‘We Had IT Class In School…’",
+        "description": "Janhvi Kapoor recalled a disturbing experience, revealing that she saw her morphed photo on a porn site when she was 15. She said AI-generated images of her still affect her.",
+        "url": "https://www.news18.com/movies/bollywood/janhvi-kapoor-recalls-seeing-her-morphed-image-on-porn-site-at-15-we-had-it-class-in-school-ws-l-10014989.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/janhvi-kapoor-on-deepfake-2026-04-efe1492a3b280485ff0c05c8971f0d40-1200x675.jpg",
+        "publishedAt": "2026-04-05T03:03:41Z",
+        "source": "News18"
+      },
+      {
+        "title": "Tome And Plume: Grammar-Samar, AI VS Human Intelligence",
+        "description": "The AI grammar checker is based on probabilities and not on exact grammar rules. Let’s check the following sentence from Pride and Prejudice: “It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” The AI grammar checker puts red marks on the commas after ‘acknowledged’ and after",
+        "url": "https://www.freepressjournal.in/bhopal/tome-and-plume-grammar-samar-ai-vs-human-intelligence",
+        "image": "https://media.assettype.com/freepressjournal/2026-04-04/iip3wm1x/Untitled-design-2026-04-04T213208.859.jpg",
+        "publishedAt": "2026-04-05T03:00:00Z",
+        "source": "Free Press Journal"
+      },
+      {
+        "title": "How AI helped one US man (and his brother) build a $2.3 billion company",
+        "description": "He took just two months, S$25,740 and more than a dozen AI tools to get his start-up off the ground. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/how-ai-helped-one-us-man-and-his-brother-build-a-2-3-billion-company",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c80273e1a16f674d0d6369f06f2c3e535c225dced35ddcefd80995c1a3962234",
+        "publishedAt": "2026-04-05T03:00:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "India evacuates 345 TN fishermen stranded in war-hit Iran",
+        "description": "They were evacuated via Armenia, confirmed External Affairs Ministry..Indian fishermen Iran, fishermen evacuated Iran, stranded Indian fishermen, Armenia evacuation route, LLM stranded fishermen rescue, AI assisted fisherman repatriation, Iran regional tensions, Indian nationals return, Ministry External Affairs Iran, fishermen return Chennai, Kish Island fishermen, Tamil Nadu fishermen Iran, West Asia conflict, Indian citizens safety Iran, Armenia diplomatic support",
+        "url": "https://www.onmanorama.com/news/india/2026/04/05/indian-fishermen-return-home-from-war-hit-iran.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/4/5/fishermen-from-iran.jpg",
+        "publishedAt": "2026-04-05T02:46:29Z",
+        "source": "Malayala Manorama"
+      },
+      {
+        "title": "New AI tool developed by Bengaluru startup tracks ships, aircraft even with GPS off",
+        "description": "Currently, the company relies on data from multiple sources, resulting in a tracking delay of about 20 minutes.",
+        "url": "https://www.newindianexpress.com/states/karnataka/2026/Apr/05/new-ai-tool-developed-by-bengaluru-startup-tracks-ships-aircraft-even-with-gps-off",
+        "image": "https://media.newindianexpress.com/TNIE%2Fimport%2F2021%2F8%2F26%2Foriginal%2FUS_ship_South_China_Sea_AP.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-05T02:36:13Z",
+        "source": "The New Indian Express"
+      },
       {
         "title": "AI at war: Five things to know about Project Maven",
         "description": "Project Maven is the Pentagon's flagship artificial intelligence program, launched in 2017 as a narrow experiment to help military analysts make sense of the torrent of drone footage pouring in from conflict zones.",
@@ -208,62 +264,6 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260403033538_iran-war.jpg",
         "publishedAt": "2026-04-05T02:24:01Z",
         "source": "Moneycontrol"
-      },
-      {
-        "title": "Michel Foucault in the age of Artificial Intelligence",
-        "description": "Michel Foucault in the age of Artificial Intelligence",
-        "url": "https://www.telegraphindia.com/opinion/person-to-process-michel-foucault-in-the-age-of-artificial-intelligence-prnt/cid/2154676",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Apr/1775355233_michel-foucault.jpg",
-        "publishedAt": "2026-04-05T02:17:23Z",
-        "source": "Telegraph India"
-      },
-      {
-        "title": "Corp victory powers Congress's campaign in Kollam, Mukesh's replacement Jayamohan feels the heat",
-        "description": "While the LDF banks on its deep-rooted organisational strength and legacy hold over the seat, the UDF enters the fray with renewed confidence after.Kollam assembly election, Kollam constituency election, Kollam election candidates, LDF UDF Kollam election, Kollam election analysis, Kollam election results prediction, Bindhu Krishna Kollam, S Jayamohan Kollam, Kollam election campaign strategy, AI election forecasting Kollam, LLM election analysis Kollam, Kollam local body election impact, Kollam cashew sector election, Kollam political analysis, Kerala assembly elections Kollam",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/05/kerala-assembly-polls-kollam-election-candidates-jayamohan-bindhu-krishna.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/5/s-jayamohan-bindhu-krishna-election.jpg",
-        "publishedAt": "2026-04-05T02:10:00Z",
-        "source": "Malayala Manorama"
-      },
-      {
-        "title": "Quote of the day by OpenAI CEO Sam Altman: “Outcomes are what count; don’t let good process excuse bad results”",
-        "description": "Tech News News: Sam Altman, CEO of OpenAI and one of Silicon Valley's most influential voices has a habit of cutting through complexity with short, pointed observatio.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-openai-ceo-sam-altman-outcomes-are-what-count-dont-let-good-process-excuse-bad-results/articleshow/130026178.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130026173,width-1280,height-720,imgsize-11300,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-05T02:08:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Pentagon AI Project Maven used in US strike operations linked to Iran: 5 things to know",
-        "description": "The Pentagon’s AI program Project Maven is transforming modern warfare by accelerating targeting and battlefield decisions, playing a key role in recent US strikes against Iran and reshaping the future of military operations.",
-        "url": "https://www.cnbctv18.com/technology/pentagon-ai-project-maven-used-in-us-strike-operations-linked-to-iran-5-things-to-know-ws-el-19880620.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/image-2026-04-b7635b23e7d330e92fd04959ad000c0b.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-05T02:03:59Z",
-        "source": "CNBC TV18"
-      },
-      {
-        "title": "Haier Desert Rose AI AC launched in India with AI-AtmoX, smart cooling and more",
-        "description": "Haier has unleashed its Desert Rose Super Heavy Duty Air Conditioners in India, powered by AI-AtmoX technology. Designed for extreme Indian summers, the new AC range focuses on smart cooling, energy efficiency, and automatic maintenance, starting at Rs 55,990.",
-        "url": "https://www.indiatvnews.com/technology/news/haier-desert-rose-ai-ac-launched-in-india-with-ai-atmox-smart-cooling-and-more-2026-04-03-1036208",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/04/haier-dessert-rose-super-heavy-suty-air-conditioner-1775220992.jpg",
-        "publishedAt": "2026-04-05T01:45:01Z",
-        "source": "India TV News"
-      },
-      {
-        "title": "AI Desktop 98 lets you chat with Claude, ChatGPT, and Gemini through a Windows 98-inspired interface",
-        "description": "It even has Minesweeper.",
-        "url": "https://www.xda-developers.com/ai-desktop-98-lets-you-chat-with-claude-chatgpt-and-gemini-through-a-windows-98-inspired-interface/",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/04/ai-desktop-98-featured.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-05T01:35:54Z",
-        "source": "XDA Developers"
-      },
-      {
-        "title": "Detection To Destruction: Pentagon's 'Project Maven' Is AI-Assistant In War",
-        "description": "A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most...",
-        "url": "https://www.ndtv.com/world-news/detection-to-destruction-pentagons-project-maven-is-ai-assistant-in-war-11312706",
-        "image": "https://c.ndtvimg.com/2026-04/65saj3vc_artificial-intelligence-ai-photo-envato_625x300_02_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-05T01:34:40Z",
-        "source": "NDTV.com"
       }
     ]
   }
