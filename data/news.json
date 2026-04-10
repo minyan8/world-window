@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-10T07:56:07.932Z",
+  "fetchedAt": "2026-04-10T08:49:27.035Z",
   "sections": {
     "world": [
       {
-        "title": "Melania Trump says she did not have relationship with Jeffrey Epstein",
-        "description": "First lady calls on Congress to hold hearing with survivors of late financier’s abuse in statement delivered at White House",
-        "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
-        "image": "https://i.guim.co.uk/img/media/a5d524167d5e1e03ac118233f33a5215e68b1809/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac4043a058f8b1b0ef4b33e80857d52c",
-        "publishedAt": "2026-04-09T19:46:00Z",
+        "title": "Building Record Speaks for Itself, And Must Be Protected",
+        "description": "Much of the commentary now circulating on Somalia, online and beyond, offers a selective and sometimes deeply misleading account of the country’s governance. The same is true of how developments in South West State are being portrayed, obscuring the real issue at hand: the integrity of Somalia’s federal compact. That demands a direct response.",
+        "url": "https://www.hiiraan.com/op4/2026/Apr/204827/somalias_statebuilding_record_speaks_for_itself_and_must_be_protected.aspx",
+        "image": "https://www.hiiraan.com/uploads/2026/04/1775395759WhatsAppImage2026-04-05at06.28.27.jpeg",
+        "publishedAt": "2026-04-09T20:48:58Z",
+        "source": "hiiraan.com"
+      },
+      {
+        "title": "Development aid down 'historic' 23.1 percent in 2025: OECD",
+        "description": "International, MNA | Development aid suffered a \"historic decline\" of 23.1 percent in real terms last year, the OECD said Thursday, blaming a massive withdrawal of US support against a",
+        "url": "https://macaubusiness.com/development-aid-down-historic-23-1-percent-in-2025-oecd/",
+        "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+        "publishedAt": "2026-04-09T20:40:59Z",
+        "source": "Macau Business"
+      },
+      {
+        "title": "Negotiation, War, and Ceasefire Cycle Must Not Be Repeated",
+        "description": "WANA (Apr 09) – Iran’s Deputy Foreign Minister stated that Iran is completely opposed to any temporary settlement of the current situation that would repeat the cycle of negotiation, war, and ceasefire, asserting that only the option of a sustainable end to the war, holding aggressors accountable, and compensation for damages can be considered.   […]",
+        "url": "https://wanaen.com/negotiation-war-and-ceasefire-cycle-must-not-be-repeated/",
+        "image": "https://wanaen.com/wp-content/uploads/2025/12/WANA-Irans-Deputy-Foreign-Minister-for-Legal-and-International-Affairs-Kazem-Gharibabadi.jpg?v=1766667535",
+        "publishedAt": "2026-04-09T20:31:46Z",
+        "source": "WANA News Agency"
+      },
+      {
+        "title": "Melania Trump criticises Jeffrey Epstein 'lies' and calls for public hearings",
+        "description": "In an unusual White House address, Melania Trump denies having a friendship with Jeffrey Epstein and complains about \"mean-spirited\" attempts to smear her.",
+        "url": "https://www.abc.net.au/news/2026-04-10/melania-trump-slams-epstein-lies-in-unusual-address/106549486",
+        "image": "https://live-production.wcms.abc-cdn.net.au/368304bb889cf299aaf7ac838da15572?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-09T20:31:41Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+        "description": "Kremlin proposes 32-hour ceasefire starting on Saturday afternoon – with Ukraine expected to agree to plan",
+        "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+        "image": "https://i.guim.co.uk/img/media/eaccccc766c27060c3b71fa35c29745a83a1aead/72_0_5088_4073/master/5088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b9e25bf7820aed47f2b85424617cf41",
+        "publishedAt": "2026-04-09T20:23:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "Israel-Lebanon ceasefire talks risk stalling out of sight",
-        "description": "Israel has agreed to Lebanon talks - but the fear is they will unfold away from the spotlight while the war continues, writes Edmund Heaphy in Beirut.",
-        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0409/1567472-lebanon-israel-analysis/",
-        "image": "https://www.rte.ie/images/002430b4-1600.jpg",
-        "publishedAt": "2026-04-09T19:45:35Z",
-        "source": "RTE.ie"
+        "title": "Israel's backflip on Lebanon may be posturing, but it's keeping the fragile peace. What you need to know on Iran today",
+        "description": "The need to ensure the Iran ceasefire holds until the first round of peace talks are held has put Israel under pressure.",
+        "url": "https://www.abc.net.au/news/2026-04-10/iran-israel-war-daily-briefing-from-matthew-doran/106549500",
+        "image": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_watermark_news&cropH=2350&cropW=4177&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-09T20:18:41Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Iran's supreme leader vows ‘new phase’ in Hormuz management, demands war compensation",
-        "description": "Message marks 40 days since Khamenei killing, calls it a historic blow and painful moment for Iran",
-        "url": "https://tribune.com.pk/story/2601916/irans-supreme-leader-vows-new-phase-in-hormuz-management-demands-war-compensation",
-        "image": "https://i.tribune.com.pk/media/images/iran1774031082-0/iran1774031082-0-640x480.webp",
-        "publishedAt": "2026-04-09T19:41:34Z",
-        "source": "The Express Tribune"
+        "title": "Two of a Kind, Twice: Inside Virunga's Extraordinary Wildlife Comeback",
+        "description": "A mountain gorilla has defied the odds — again. And she's not the only one making history in one of Africa's most embattled parks. Read more African news and",
+        "url": "https://africa.com/two-of-a-kind-twice-inside-virungas-extraordinary-wildlife-comeback/",
+        "image": "https://africa.com/wp-content/uploads/2026/04/gorillas-e1775765749102.jpg",
+        "publishedAt": "2026-04-09T20:16:18Z",
+        "source": "Africa.com"
       },
       {
-        "title": "International leaders discuss Africa's finance and trade",
-        "description": "The Future of Finance and Trade in Africa conference addresses economic challenges and opportunities in Africa. Join international leaders and experts.",
-        "url": "https://www.washingtoninformer.com/africa-economic-transformation-conference/",
-        "image": "https://www.washingtoninformer.com/wp-content/uploads/2026/04/image-43.jpg",
-        "publishedAt": "2026-04-09T19:33:00Z",
-        "source": "The Washington Informer"
-      },
-      {
-        "title": "US has let in 4,499 refugees since October - all but three were South African",
-        "description": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g89kkvenqo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg",
-        "publishedAt": "2026-04-09T19:31:52Z",
-        "source": "BBC"
-      },
-      {
-        "title": "US has let in 4,499 refugees since October - all but three were South African",
-        "description": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.",
-        "url": "https://www.bbc.com/news/articles/c4g89kkvenqo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg",
-        "publishedAt": "2026-04-09T19:31:52Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Russia's president announces Orthodox Easter ceasefire with Ukraine, Kremlin says",
-        "description": "Ukraine’s President Volodymyr Zelenskyy had previously signalled Kyiv's openness to a potential Easter truce.",
-        "url": "https://www.euronews.com/2026/04/09/russias-president-announces-orthodox-easter-ceasefire-with-ukraine-kremlin-says",
-        "image": "https://images.euronews.com/articles/stories/09/71/65/69/1200x675_cmsv2_42937e4f-a429-50e6-a601-4d4b91273399-9716569.jpg",
-        "publishedAt": "2026-04-09T19:29:09Z",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "'Fed up' with Trump and Putin affecting UK energy costs",
-        "description": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring.",
-        "url": "https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108270816-1772180493424-gettyimages-2262757819-Britain_Politics.jpeg?v=1775769561&w=1920&h=1080",
-        "publishedAt": "2026-04-09T19:29:09Z",
-        "source": "CNBC"
+        "title": "Ships still aren’t going through the Strait of Hormuz. Here’s what it will take to get things going again",
+        "description": "A fragile ceasefire that’s mostly quieted the skies over the Middle East isn’t giving shippers the nerve to brave the narrow waterway that holds the key to 20% of the world’s oil supply.",
+        "url": "https://www.cnn.com/2026/04/09/business/shipping-vessels-oil-ceasefire-strait-of-hormuz",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-08t111223z-590392774-rc2wkkabf756-rtrmadp-3-iran-crisis-oman-hormuz.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-04-09T20:15:56Z",
+        "source": "CNN"
       }
     ],
     "business": [
       {
-        "title": "AI Hype, Hard Lessons: Where SEA’s Startup Capital Is Really Going",
-        "description": "Cooley partner David He was quoted in an e27 article about Southeast Asia’s (SEA) startup ecosystem, analyzing how capital, expectations and behavior have fundamentally changed in the past few years. He also highlighted the trend of increased investments in artificial intelligence (AI) and the four areas in which investors are scrutinizing startups.",
-        "url": "https://www.cooley.com/news/coverage/2026/2026-04-09-ai-hype-hard-lessons-where-seas-startup-capital-is-really-going",
-        "image": "https://www.cooley.com/-/media/cooley/media-logos/cooley-social-image.jpg",
-        "publishedAt": "2026-04-09T19:56:03Z",
-        "source": "Cooley"
+        "title": "AI Capex Surge, Bottlenecks, And The Race For ROI",
+        "description": "Two of Seeking Alpha's top tech analysts, Amrita Roy and Uttam Dey, share how they approach the sector.",
+        "url": "https://seekingalpha.com/article/4889636-ai-capex-surge-bottlenecks-and-the-race-for-roi",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187976145/image_2187976145.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-09T20:45:00Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Financial Seminar Services Partners with Catchlight.ai to Deliver Deeper Insights on Seminar Reservations",
-        "description": "/PRNewswire/ -- Financial Seminar Services, a leading full-service seminar marketing company for financial and insurance professionals, today announced a...",
-        "url": "https://www.prnewswire.com/news-releases/financial-seminar-services-partners-with-catchlightai-to-deliver-deeper-insights-on-seminar-reservations-302738713.html",
-        "image": "https://mma.prnewswire.com/media/2953422/Financial_Seminar_Services_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-09T19:56:00Z",
+        "title": "'Why is this so high?' Electric bills in West Virginia now top mortgages despite Trump's promises",
+        "description": "West Virginians are angry and perplexed over soaring utility costs in one of the most energy-rich, yet poorest, corners of America, where families have been forced to choose between paying for food or heat.",
+        "url": "https://www.pbs.org/newshour/nation/why-is-this-so-high-electric-bills-in-west-virginia-now-top-mortgages-despite-trumps-promises",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2025-03-24T195351Z_831219358_RC2VJDA31WM7_RTRMADP_3_USA-TRUMP-ECONOMY-1-1024x708.jpg",
+        "publishedAt": "2026-04-09T20:38:24Z",
+        "source": "PBS"
+      },
+      {
+        "title": "Apex Group Aims to Bridge TradFi & DeFi",
+        "description": "The firm has a target of $100bn in tokenized assets under administration by June 2027.",
+        "url": "https://www.marketsmedia.com/apex-group-aims-to-bridge-tradfi-defi/",
+        "image": "https://www.marketsmedia.com/wp-content/uploads/2021/10/Depositphotos_92455516_L-1024x760.jpg",
+        "publishedAt": "2026-04-09T20:37:22Z",
+        "source": "Markets Media"
+      },
+      {
+        "title": "Throwback Thursday: Pictures from the Limerick Leader archives",
+        "description": "Can you spot yourself or your friends? In association with Glasshouse Opticians",
+        "url": "https://www.limerickleader.ie/news/pictures---videos/2053739/throwback-thursday-pictures-from-the-limerick-leader-archives.html",
+        "image": "https://www.limerickleader.ie/resizer/1200/700/true/2026_04_02/photo-collage.png_-_2026-04-02T204327.967-1775159674541.png--throwback_thursday__pictures_from_the_limerick_leader_archives.png?1775159674820",
+        "publishedAt": "2026-04-09T20:32:56Z",
+        "source": "Limerick Leader"
+      },
+      {
+        "title": "Supermicro Accelerates Deployment Times with New Gold Series Enterprise Server Solutions",
+        "description": "/PRNewswire/ -- Supermicro, Inc. (NASDAQ: SMCI) a Total IT Solution Provider for AI/ML, HPC, Cloud, Storage, and 5G/Edge announces the pre-configured Gold...",
+        "url": "https://www.prnewswire.com/in/news-releases/supermicro-accelerates-deployment-times-with-new-gold-series-enterprise-server-solutions-302738749.html",
+        "image": "https://mma.prnewswire.com/media/2953395/Super_Micro_Gold_Series_Server_Solutions.jpg?p=facebook",
+        "publishedAt": "2026-04-09T20:30:00Z",
         "source": "PR Newswire"
       },
       {
-        "title": "Prediction: The Sovereign AI Boom Could Create the Next Trillion-Dollar Tech Company",
-        "description": "Sovereign AI makes up a significant part of Oracle's cloud business -- and arguably, it's the more stable part.",
-        "url": "https://www.fool.com/investing/2026/04/09/prediction-the-sovereign-ai-boom-could-create-the/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F862676%2Forcl.png&w=1200&op=resize",
-        "publishedAt": "2026-04-09T19:52:07Z",
-        "source": "The Motley Fool"
+        "title": "OpenAI Plans Advanced Cybersecurity Product-With 'Trusted Access' Only",
+        "description": "Both OpenAI and Anthropic are restricting access to their most powerful cybersecurity capabilities, releasing them only to vetted organizations.",
+        "url": "https://decrypt.co/363858/openai-cyber-model-anthropic-mythos",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
+        "publishedAt": "2026-04-09T20:27:49Z",
+        "source": "Decrypt"
       },
       {
-        "title": "Rates Spark: Continue to play the end-of-war game",
-        "description": "Lots of noise, but enough to map out a steeper curve(s) trajectory",
-        "url": "https://think.ing.com/articles/rates-spark-the-glass-is-half-full-for-markets/",
-        "image": "https://think.ing.com/uploads/hero/_w800h450/Rates_US_Iran_deal_090426.jpg",
-        "publishedAt": "2026-04-09T19:51:38Z",
-        "source": "ING THINK economic and financial analysis | ING THINK"
+        "title": "Oil pares gains to close up 1% as Israel plans peace talks with Lebanon",
+        "description": "NEW YORK, April 9 : Oil prices closed up 1 per cent but settled below $100 for the second straight session on Thursday in volatile trading as a fragile Middle East ceasefire held and Israel said it would start direct negotiations with Lebanon as soon as possible.Earlier in the session, doubts over the durabil",
+        "url": "https://www.channelnewsasia.com/business/oil-pares-gains-close-up-1-israel-plans-peace-talks-lebanon-6045146",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Co4xc07Q--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-08T224313Z_2_LYNXMPEM371CL_RTROPTP_3_RUSSIA-BUDGET-OIL.JPG?itok=PppaDXJu",
+        "publishedAt": "2026-04-09T20:17:04Z",
+        "source": "CNA"
       },
       {
-        "title": "Jog for Joe aims to raise awareness of male eating disorders in Australia",
-        "description": "Joe Cappello was 25 years old when he died after a 12-year struggle, and the statistics show many more men are at risk.",
-        "url": "https://www.abc.net.au/news/2026-04-10/jog-for-joe-set-to-raise-awareness-for-mens-eating-disorders/106541596",
-        "image": "https://live-production.wcms.abc-cdn.net.au/1bb066dd18d921d96f8530aee56951a9?impolicy=wcms_watermark_news&cropH=405&cropW=720&xPos=0&yPos=45&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-09T19:49:19Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Fake maple syrup plot thickens: Cans found with label hiding name of implicated company",
-        "description": "Since Radio-Canada first broke the story last week of fake maple syrup found on grocery store shelves, consumers have since found cans of syrup in stores from the same producer with a sticker hiding the company’s name.",
-        "url": "https://www.cbc.ca/news/canada/montreal/fake-maple-syrup-stickers-cans-9.7157917",
-        "image": "https://i.cbc.ca/ais/bf14e011-72a6-4129-ac21-9e4589bd5819,1775756996231/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
-        "publishedAt": "2026-04-09T19:44:47Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Mild pullback follows record surge at PSX",
-        "description": "Mild pullback follows record surge at PSX",
-        "url": "https://tribune.com.pk/story/2601940/mild-pullback-follows-record-surge-at-psx",
-        "image": "https://i.tribune.com.pk/media/images/aaa-canva-1200x900-191768934324-2/aaa-canva-1200x900-191768934324-2-640x480.webp",
-        "publishedAt": "2026-04-09T19:43:09Z",
-        "source": "The Express Tribune"
-      },
-      {
-        "title": "Securing the bridge between legacy, smart",
-        "description": "THE recent Liaison Agreement between the STS Association and the DLMS User Association marks a pivotal step in the evolution of interoperable, secure and future-ready metering systems. By aligning STS token technology with the widely adopted DLMS/COSEM framework, this collaboration is set to bridge",
-        "url": "https://realnewsmagazine.net/securing-the-bridge-between-legacy-smart/",
-        "image": "https://realnewsmagazine.net/wp-content/uploads/2026/04/image-354.png",
-        "publishedAt": "2026-04-09T19:42:25Z",
-        "source": "Realnews Magazine"
+        "title": "Federated Hermes, Inc. completes acquisition of 80% majority interest in FCP Fund Manager, L.P.",
+        "description": "/PRNewswire/ -- Federated Hermes, Inc. (NYSE: FHI), a global leader in active investing, today announced the completion of its previously announced acquisition...",
+        "url": "https://www.prnewswire.com/news-releases/federated-hermes-inc-completes-acquisition-of-80-majority-interest-in-fcp-fund-manager-lp-302738596.html",
+        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+        "publishedAt": "2026-04-09T20:17:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "Artemis II Splashdown Friday With UGA Tech Onboard",
+        "description": "An instrument designed by a University of Georgia graduate is currently on its way back to Earth after the successful completion of NASA's Artemis II",
+        "url": "https://www.miragenews.com/artemis-ii-splashdown-friday-with-uga-tech-1653026/",
+        "image": "https://news.uga.edu/wp-content/uploads/2026/04/04102026_Artemismission_photo2-768x1024.jpeg",
+        "publishedAt": "2026-04-09T20:49:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Satellite data reveal Earth is getting brighter at night: Major regions include sub-Saharan Africa and Southeast Asia",
+        "description": "Science News: Go out at night when the sky is clear and take a look around more often than not, you'll see fewer stars than your grandparents did when they were you.",
+        "url": "https://timesofindia.indiatimes.com/science/satellite-data-reveal-earth-is-getting-brighter-at-night-major-regions-include-sub-saharan-africa-and-southeast-asia/articleshow/130142994.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130143094,width-1280,height-720,imgsize-926501,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-09T20:30:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Light Pollution Has Increased Earth's Brightness by 16% Since 2014, Satellite Data Shows",
+        "description": "Satellite data reveals that Earth's night sky has brightened by 16% since 2014, with surprising shifts in regions due to wars, disasters, and energy-saving policies.",
+        "url": "https://indiandefencereview.com/light-pollution-increased-earth-brightness/",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/light-pollution-has-increased-earths-brightness-by-16-since-2014-satellite-data-shows-scaled.png",
+        "publishedAt": "2026-04-09T20:15:00Z",
+        "source": "Indian Defence Review"
+      },
       {
         "title": "Jog for Joe aims to raise awareness of male eating disorders in Australia",
         "description": "Joe Cappello was 25 years old when he died after a 12-year struggle, and the statistics show many more men at are risk.",
@@ -174,96 +198,72 @@
         "image": "https://media.glamour.com/photos/69d7f84d45eccb5d3fa804cd/16:9/w_1280,c_limit/Artemis%20Mission_Final.jpg",
         "publishedAt": "2026-04-09T19:28:48Z",
         "source": "glamour.com"
-      },
-      {
-        "title": "House‑Size Asteroid to Zoom Past Earth Tonight: Here’s What NASA and ESA Are Saying",
-        "description": "A near-Earth object makes a close pass tonight. Here’s what scientists say about its size, trajectory, and whether there’s any risk.",
-        "url": "https://orbitaltoday.com/2026/04/09/house-size-asteroid-to-zoom-past-earth-tonight-heres-what-nasa-and-esa-are-saying/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/asteroid-passing-Earth-scaled.jpg",
-        "publishedAt": "2026-04-09T19:20:24Z",
-        "source": "Orbital Today"
-      },
-      {
-        "title": "Habitability Study of Terrestrial Planets: Application to Venus",
-        "description": "Welcome to Astrobiology.com",
-        "url": "https://astrobiology.com/2026/04/habitability-study-of-terrestrial-planets-application-to-venus-like-worlds.html",
-        "image": "https://astrobiology.com/wp-content/uploads/2026/04/Habitability-Study-of.png",
-        "publishedAt": "2026-04-09T19:19:41Z",
-        "source": "astrobiology.com"
-      },
-      {
-        "title": "Scientists Solve Origin of a Massive Ocean Current Carrying a Hundred Times More Water Than All the World's Rivers Combined",
-        "description": "Shifting continents weren't enough; wild winds had to align to plunge Earth into an icehouse.",
-        "url": "https://www.zmescience.com/ecology/climate/antarctic-circumpolar-current-origin/",
-        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/04/The_Antarctic_Circumpolar_Current_affected_by_climate_change_Copernicus.jpg",
-        "publishedAt": "2026-04-09T19:18:45Z",
-        "source": "ZME Science"
       }
     ],
     "ai": [
       {
-        "title": "AI Can Code, But It Can't Bet: Why Top Models Are Going Broke On Sports Markets",
-        "description": "New research shows frontier AI models can't beat a football betting market, with implications for Citrini scenario odds on Kalshi and AI bubble contracts on Polymarket.",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/04/51743325/ai-can-code-but-it-cant-bet-why-top-models-are-going-broke-on-sports-markets",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/09/Soccer-International-Friendly-Soccer-Liv.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-09T19:48:14Z",
-        "source": "Benzinga"
+        "title": "As Amazon Takes on Chipmakers, Should You Buy AMZN Stock Here?",
+        "description": "Amazon stock pushed higher as the company revealed plans of selling AI chips and announces $25 billion data center investment in Mississippi. Here’s why these updates warrant buying AMZN shares.",
+        "url": "https://www.barchart.com/story/news/1230176/as-amazon-takes-on-chipmakers-should-you-buy-amzn-stock-here",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Amazon%20-%20Image%20by%20bluestork%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-04-09T20:49:00Z",
+        "source": "Barchart"
       },
       {
-        "title": "OpenAI faces investigation over ChatGPT concerns",
-        "description": "Florida’s Attorney General has launched an investigation into OpenAI and ChatGPT, raising concerns over safety, misuse, and national security.",
-        "url": "https://www.digitaltrends.com/cool-tech/openai-faces-investigation-over-chatgpt-concerns/",
-        "image": "https://www.digitaltrends.com/tachyon/2025/06/sam-altman-uncapped.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-09T19:42:56Z",
-        "source": "Digital Trends"
+        "title": "YouTube just eliminated the need to ever film yourself to star in your own videos",
+        "description": "Google is betting you'd rather let AI do the filming.",
+        "url": "https://www.phonearena.com/news/youtube-just-eliminated-the-need-to-ever-film-yourself-to-star-in-your-own-videos_id179586",
+        "image": "https://m-cdn.phonearena.com/images/article/179586-wide-two_1200/YouTube-just-eliminated-the-need-to-ever-film-yourself-to-star-in-your-own-videos.jpg",
+        "publishedAt": "2026-04-09T20:48:54Z",
+        "source": "PhoneArena"
       },
       {
-        "title": "Build Your First AI Agent at Social Media Week",
-        "description": "Code and Theory experts will walk you through hands-on agent building, and you’ll leave with tools you can actually use.",
-        "url": "https://www.adweek.com/agencies/build-your-first-ai-agent-at-social-media-week/",
-        "image": "https://static-www.adweek.com/wp-content/uploads/2026/04/Zuck-in-court-Feb.2026-1.png?w=600&h=315&crop=1",
-        "publishedAt": "2026-04-09T19:42:45Z",
-        "source": "Adweek"
+        "title": "AI Capex Surge, Bottlenecks, And The Race For ROI",
+        "description": "Two of Seeking Alpha's top tech analysts, Amrita Roy and Uttam Dey, share how they approach the sector.",
+        "url": "https://seekingalpha.com/article/4889636-ai-capex-surge-bottlenecks-and-the-race-for-roi",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187976145/image_2187976145.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-09T20:45:00Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "CoreWeave’s $8.5B Deal Signals Shift From Crypto Mining to AI Finance",
-        "description": "CoreWeave’s $8.5 billion loan highlights Wall Street’s pivot from volatile Bitcoin mining models to cash-flow-driven AI infrastructure financing backed by real demand.",
-        "url": "https://cointelegraph.com/news/coreweave-8-5b-ai-loan-shift-crypto-mining-to-computefi",
-        "image": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c7ef9-d554-7e0a-9209-e6aaf05a65c0.jpg",
-        "publishedAt": "2026-04-09T19:42:22Z",
-        "source": "Cointelegraph"
+        "title": "Target Hospitality Stock up After $550M Texas Data Center Deal",
+        "description": "Target Hospitality made a $550M deal for housing 4,000 Texas data center. It's one of many companies outside tech benefiting from the AI boom.",
+        "url": "https://www.businessinsider.com/target-hospitality-stock-up-after-550m-texas-data-center-deal-2026-4",
+        "image": "https://i.insider.com/69d7d9a205c9b303c4e769ec?width=1200&format=jpeg",
+        "publishedAt": "2026-04-09T20:44:55Z",
+        "source": "Business Insider"
       },
       {
-        "title": "IGV ETF Hit By Palantir Rout As Anthropic Reshapes AI Spending",
-        "description": "IGV ETF slides further as Palantir tumbles and Anthropic captures rising enterprise AI spend, signaling a shift in sector dynamics and investor sentiment.",
-        "url": "https://www.benzinga.com/etfs/sector-etfs/26/04/51743137/igv-etf-hit-by-palantir-rout-as-anthropic-reshapes-enterprise-ai-spending",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/09/Bosnia-And-Hercegovina--Sarajevo--27-1-2_1.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-09T19:41:02Z",
-        "source": "Benzinga"
+        "title": "TSX snaps winning streak as tech and energy shares fall",
+        "description": "Canada's main stock index gave back some of its recent gains on Thursday as investors assessed a fragile ceasefire in the Middle East and the potential for artificial intelligence to upend the...",
+        "url": "https://www.marketscreener.com/news/tsx-snaps-winning-streak-as-tech-and-energy-shares-fall-ce7e50d8da8efe26",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T113745Z_1_LYNXMPEL3D0G5_RTROPTP_4_CANADA-STOCKS.JPG",
+        "publishedAt": "2026-04-09T20:44:16Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Environment Canada to use AI in new weather forecasting",
-        "description": "Environment and Climate Change Canada says it will use artificial intelligence to make its weather forecasts more accurate.",
-        "url": "https://www.cp24.com/news/canada/2026/04/09/environment-canada-to-use-ai-in-new-weather-forecasting-model/",
-        "image": "https://www.cp24.com/resizer/v2/4BDKY65LQON4V3ZVHDTLNDSXCI.jpg?smart=true&auth=417ea8c71912e1618ac1d4331502e5909bfa33984656a5cdd835c06241c77186&width=1200&height=630",
-        "publishedAt": "2026-04-09T19:38:15Z",
-        "source": "CP24 Toronto"
+        "title": "Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter",
+        "description": "Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter - SiliconANGLE",
+        "url": "https://siliconangle.com/2026/04/09/amazon-ceo-andy-jassy-highlights-ai-growth-annual-shareholder-letter/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/aws-andy-jassy.jpg",
+        "publishedAt": "2026-04-09T20:43:28Z",
+        "source": "SiliconANGLE News"
       },
       {
-        "title": "‘This has to be AI.’ British TikToker gets real with Gov. Whitmer on big swells and lake effect weather",
-        "description": "The British duo of Josh & Jase say they’ll be returning for a summer Michigan adventure.",
-        "url": "https://www.mlive.com/life/2026/04/this-has-to-be-ai-british-tiktoker-gets-real-with-gov-whitmer-on-big-swells-and-lake-effect-weather.html",
-        "image": "https://www.mlive.com/resizer/v2/43EYRIFKQRHLNOEZHYY5VHEINU.JPG?auth=3557a004c4c097ce804485a487846a512c1dbfcaa9dab38ae9d3e70138620cde&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-04-09T19:36:21Z",
-        "source": "M Live Michigan "
+        "title": "Shark AI Ultra Robot Vacuum at 51% Off Quietly Undercuts Dyson's Stick Cleaner Prices",
+        "description": "Save big on this robot vacuum and stop spending all your time tidying up on your own.",
+        "url": "https://gizmodo.com/shark-ai-ultra-robot-vacuum-at-51-off-quietly-undercuts-dysons-stick-cleaner-prices-2000744313",
+        "image": "https://gizmodo.com/app/uploads/2026/04/Shark-AV2501S-AI-Ultra-Robot-Vacuum-1200x675.jpg",
+        "publishedAt": "2026-04-09T20:43:19Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
-        "description": "Expert said federal law prohibits officials from taking actions in their jobs that benefit their own financial interests",
-        "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-        "image": "https://i.guim.co.uk/img/media/e8d114d7a2085d2a0f6b9cda817046887ee6deb0/426_267_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03276288ebbb1ebefc83f4c9c6cb9290",
-        "publishedAt": "2026-04-09T19:35:29Z",
-        "source": "The Guardian"
+        "title": "Waiting for DeepSeek: New model to test China's AI ambitions",
+        "description": "For weeks now, the global tech industry has been waiting for a major artificial intelligence launch from DeepSeek, seen as a benchmark for China's progress in the fast-moving field. More than a year has passed since the startup put Chinese AI on the map in early 2025 with a low-cost…",
+        "url": "https://japantoday.com/category/tech/waiting-for-deepseek-new-model-to-test-china%27s-ai-ambitions",
+        "image": "https://media.japantoday.com/img/store/f0/df/c899f35d8ed85793cabaa834e5fe9660f4a3/46b2ac1614ede03cba8a908674ccbd14b1f08c21/_w1700.jpeg",
+        "publishedAt": "2026-04-09T20:42:00Z",
+        "source": "Japan Today"
       }
     ]
   }
