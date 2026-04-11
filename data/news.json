@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-11T18:30:36.766Z",
+  "fetchedAt": "2026-04-11T19:30:13.460Z",
   "sections": {
     "world": [
       {
-        "title": "Djibouti’s President Guelleh wins sixth straight term in office",
-        "description": "The longtime ruler, in power since 1999, has secured 97 percent of the vote, according to official results.",
-        "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260410__A7CT2XZ__v1__HighRes__DjiboutiVote-1775886443.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-11T06:28:32Z",
-        "source": "Al Jazeera"
+        "title": "Senegal PM Ousmane Sonko Slams Trump's Foreign Policy",
+        "description": "Senegal's Prime Minister, Ousmane Sonko, slams Donald Trump, calling him a destabilizing force and saying the world has become less safe under his watch.",
+        "url": "https://punchng.com/senegal-pm-slams-trump-says-world-less-safe-under-his-watch/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/11/08223800/AFP__20251108__83GZ7P3__v1__Mockup__SenegalPoliticsDemonstrationSonko-1200x630.jpg",
+        "publishedAt": "2026-04-11T07:30:03Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "US says Iran lost track of mine location spread in Strait of Hormuz",
-        "description": "The mines, which were laid by small boats and without a clear record of where they were placed, make the Strait of Hormuz almost impossible to transit.",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-892623",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/670743",
-        "publishedAt": "2026-04-11T06:26:42Z",
-        "source": "The Jerusalem Post"
+        "title": "Key facts about Sunday's election in Hungary and possible outcomes",
+        "description": "Hungarians vote in a landmark parliamentary election on Sunday that is being closely watched in the European Union, the United States, Russia and beyond.Opinion polls suggest that Prime Minister Viktor Orban and his nationalist Fidesz party will lose power after 16 years to the c",
+        "url": "https://www.breakingnews.ie/explained/key-facts-about-sundays-election-in-hungary-and-possible-outcomes-1885468.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMTEwODI1MjBcXFwvSHVuZ2FyeS1lbGVjdGlvbi5wbmdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImFhMWY0MTBlNDlmZmVkYWQ1Mjk3M2QyZmY2OTVjZmM1MzkxN2ZiMjcifQ==/key-facts-about-sunday-s-election-in-hungary-and-possible-outcomes.png",
+        "publishedAt": "2026-04-11T07:29:17Z",
+        "source": "BreakingNews.ie"
       },
       {
-        "title": "Even Russia now seems to acknowledge that Ukraine has achieved a drone advantage",
-        "description": "The increase in Ukrainian drone usage is likely a main reason for the stalling of Russian operations.",
-        "url": "https://www.dagens.com/news/even-russia-now-seems-to-acknowledge-that-ukraine-has-achieved-a-drone-advantage",
-        "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2026/03/Design-uden-navn-16.webp",
-        "publishedAt": "2026-04-11T06:19:00Z",
-        "source": "Dagens.com"
+        "title": "Ruto calls for urgent strengthening of Africa’s security architecture",
+        "description": "President William Ruto has urged urgent reforms to Africa’s security architecture, calling for stronger institutions, intelligence sharing and AU reforms.",
+        "url": "https://www.capitalfm.co.ke/news/2026/04/ruto-africa-security-architecture-emerging-threats-diani-speech/",
+        "image": "https://www.capitalfm.co.ke/news/files/2026/04/RUKO-MASHARIKI-CONFRENCE.png",
+        "publishedAt": "2026-04-11T07:28:32Z",
+        "source": "Capital FM (Nairobi)"
       },
       {
-        "title": "Iran unable to fully reopen Hormuz after losing track of sea mines, report says",
-        "description": "US officials say Tehran lacks the ability to quickly locate and clear mines it laid in the strategic waterway, complicating Trump administration demands for a broader reopening ahead of talks in Pakistan",
-        "url": "https://www.ynetnews.com/article/rjir7dwh11l",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/25/HJuASGWoZg/HJuASGWoZg_0_200_3000_1689_0_large.jpg",
-        "publishedAt": "2026-04-11T06:09:35Z",
-        "source": "ynetnews"
+        "title": "Ukrainian Drones Strike Strategic Oil Hub in Krasnodar Region Ahead of Ceasefire",
+        "description": "A series of explosions rocked the Krymsk district and Gelendzhik overnight, with reports indicating a successful strike on a key pumping station that feeds Russia’s Black Sea oil exports.",
+        "url": "https://www.kyivpost.com/post/73714",
+        "image": "https://static.kyivpost.com/storage/2026/04/11/5a4484bfb6f19d228561e2b342034872.png?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-04-11T07:23:36Z",
+        "source": "Kyiv Post"
       },
       {
-        "title": "Iran’s new Supreme Leader Mojtaba Khamenei has severe and disfiguring wounds: Sources",
-        "description": "He suffered severe facial and leg injuries in the air strike that killed his father on Feb 28. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/irans-new-supreme-leader-has-severe-and-disfiguring-wounds-sources-say",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/dac2fe8b553035172c3e42bb80a1a273142d11bb00e3640df8e42339ab2060bb",
-        "publishedAt": "2026-04-11T06:06:51Z",
+        "title": "NASA Achieves Artemis II Splashdown, Securing Lunar Lead",
+        "description": "NASA’s Artemis II splashdown confirms a historic victory in the new lunar race. With geopolitical competition accelerating, the Moon is open again.",
+        "url": "https://streamlinefeed.co.ke/news/nasa-achieves-artemis-ii-splashdown-securing-lunar-lead",
+        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/d39db193-1467-44e5-b011-54e8529d1c9e/1775892112808-pljp170rlgc.jpg",
+        "publishedAt": "2026-04-11T07:22:55Z",
+        "source": "streamlinefeed.co.ke"
+      },
+      {
+        "title": "Ethiopia Among Top EU Sustainable Energy Finance Recipients",
+        "description": "Ethiopia is ranked among the top 10 recipients of European financing for energy projects under the sustainable development goals (SDGs) between 2014 and 2024,",
+        "url": "https://www.thereporterethiopia.com/50173/",
+        "image": "https://www.thereporterethiopia.com/wp-content/uploads/2022/06/The-Reporter-Ethiopia.jpg",
+        "publishedAt": "2026-04-11T07:16:23Z",
+        "source": "The Reporter Ethiopia"
+      },
+      {
+        "title": "JD Vance’s High-Stakes Islamabad Visit Sparks A Viral Meme Storm In Pakistan",
+        "description": "As US Vice President JD Vance lands in Islamabad for critical negotiations, social media users respond with their signature brand of \"meme diplomacy.\"",
+        "url": "https://www.news18.com/viral/jd-vances-high-stakes-islamabad-visit-sparks-a-viral-meme-storm-in-pakistan-10027365.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/Viral-video-2-2026-04-075951d04572019db9d0c44af757dc6c-1200x675.jpg",
+        "publishedAt": "2026-04-11T07:11:34Z",
+        "source": "News18"
+      },
+      {
+        "title": "Iran Pakistan talks overshadowed by mistrust",
+        "description": "US Vice-President Vance joins talks in Islamabad with Iran, aiming to halt weeks of fighting amid deep-seated mutual suspicion. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/vance-joins-iranians-in-islamabad-for-peace-talks-overshadowed-by-mutual-mistrust",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bc54af1e1907b8ea2618cfc92455a2ef485c446846117e72ac0217924603d56c",
+        "publishedAt": "2026-04-11T07:08:52Z",
         "source": "The Straits Times"
-      },
-      {
-        "title": "US-Iran war live updates: Iranian Speaker wants ceasefire in Lebanon before peace talks begin; Vance warns Iran not to ‘play’ US; Trump lashes out over Strait of Hormuz",
-        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
-        "url": "https://www.brisbanetimes.com.au/world/middle-east/us-iran-war-live-updates-trump-lashes-out-at-iran-over-strait-of-hormuz-vance-heads-to-pakistan-for-peace-talks-20260411-p5zn14.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2719%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_147%2C$y_0/t_crop_custom/q_86%2Cf_auto/257f120c5ee67c7bc7e7f70405ab11d849597f04",
-        "publishedAt": "2026-04-11T06:03:00Z",
-        "source": "Brisbane Times"
-      },
-      {
-        "title": "‘We are not like the rest of the Andalucía’: the rugged charms of Almería, Spain’s desert city",
-        "description": "While Málaga battles overtourism down the coast, this ‘forgotten’ working port city revels in its outsider status",
-        "url": "https://www.theguardian.com/travel/2026/apr/11/charms-almeria-andalucia-spain-desert-city",
-        "image": "https://i.guim.co.uk/img/media/226b2d9de6dc954c6edabb32549277c765545526/2087_0_4281_3425/master/4281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=070bef5d29a4d17dff4ad46b659c19bb",
-        "publishedAt": "2026-04-11T06:00:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Djibouti: A landslide victory for Guelleh according to official results",
-        "description": "Djibouti's veteran leader Ismail Omar Guelleh won the country's presidential election with 97.8 percent of the vote, according to official results on Saturday.",
-        "url": "https://www.africanews.com/2026/04/11/djibouti-a-landslide-victory-for-guelleh-according-to-official-results/",
-        "image": "https://images.euronews.com/articles/stories/09/71/82/27/1024x538_cmsv2_e9208a8f-495f-52ea-bed0-8a12f048f740-9718227.jpg",
-        "publishedAt": "2026-04-11T05:58:21Z",
-        "source": "africanews.com"
       }
     ],
     "business": [
       {
-        "title": "Chocolate theft surge tied to vast illegal cigarette trade, retailers say",
-        "description": "Paul Cheema says legitimate shops are being put at risk by pop-up shops selling illicit goods.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g4wdg1g94o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e7b/live/56b636b0-336d-11f1-af12-a7b3159b34f1.jpg",
-        "publishedAt": "2026-04-11T06:29:34Z",
+        "title": "Chery Master Pakistan Launches Tiggo 7 PHEV as a Solution to Pakistan’s Fuel Crisis",
+        "description": "Chery Tiggo 7 PHEV arrives at a defining moment for Pakistan’s mobility landscape. As fuel costs continue to rise and everyday mobility becomes",
+        "url": "https://propakistani.pk/2026/04/11/chery-master-pakistan-launches-tiggo-7-phev-as-a-solution-to-pakistans-fuel-crisis/",
+        "image": "https://propakistani.pk/wp-content/uploads/2026/04/Chery-Tiggo.jpg",
+        "publishedAt": "2026-04-11T07:21:42Z",
+        "source": "ProPakistani"
+      },
+      {
+        "title": "Fuel shortages from Iran war threaten Asia’s biggest food staple",
+        "description": "Across Southeast Asia, tens of millions of smallholders are struggling to find affordable crop nutrients as well as the diesel needed to run tractors, irrigation pumps and rice planters",
+        "url": "https://www.moneycontrol.com/world/fuel-shortages-from-iran-war-threaten-asia-s-biggest-food-staple-article-13886127.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260411071554_rice-thailand.jpg",
+        "publishedAt": "2026-04-11T07:16:24Z",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Hotel plan for H﻿SBC Canary Wharf tower",
+        "description": "Dramatic changes including a hotel proposed after HSBC leaves head office block in Canary Wharf.",
+        "url": "https://www.bbc.co.uk/news/articles/c9vlj4nve94o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b89/live/e9a6dd10-34c3-11f1-b079-8d85ad9c406e.jpg",
+        "publishedAt": "2026-04-11T07:14:02Z",
         "source": "BBC"
       },
       {
-        "title": "Travel warning in Gloucestershire as works takes place on railway",
-        "description": "Some services will be replaced by buses for the next two weekends due to engineering works.",
-        "url": "https://www.bbc.co.uk/news/articles/cvg3kzgy0y9o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24d2/live/62cbbe50-ff58-11f0-b8ba-b50eb3939275.jpg",
-        "publishedAt": "2026-04-11T06:24:21Z",
-        "source": "BBC"
+        "title": "Kia Seltos Hybrid Walkaround - More Features, 2026 Launch in US",
+        "description": "Kia Seltos Hybrid walkaround video from New York Auto Show by Kia Hyundai Channel shows expected changes and equipment for 2027 launch.",
+        "url": "https://www.rushlane.com/kia-seltos-hybrid-walkaround-more-features-2026-launch-in-us-12543878.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2019/09/favicon.ico",
+        "publishedAt": "2026-04-11T07:12:40Z",
+        "source": "RushLane"
       },
       {
-        "title": "Child trust funds: a windfall at 18 - but what should you do next?",
-        "description": "All children born in the UK between September 2002 and January 2011 have a CTF – but £1bn has not been claimed",
-        "url": "https://www.theguardian.com/money/2026/apr/11/child-trust-funds-windfall-18-uk-ctf",
-        "image": "https://i.guim.co.uk/img/media/cc43623bf756cede682160774a458bece2210834/0_0_2900_2320/master/2900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f423b6d9d8e68747400f01766d07d7a",
-        "publishedAt": "2026-04-11T06:20:00Z",
-        "source": "The Guardian"
+        "title": "UKEF Secures £128 Million for Indonesian Navy’s Submarine Rescue Systems",
+        "description": "The United Kingdom’s export credit agency, UK Export Finance (UKEF), has secured £128 million in loan guarantee financing to support the export of British-made submarine rescue vehicle systems (SRVS) to the Indonesian Navy (TNI AL).",
+        "url": "https://www.navalnews.com/naval-news/2026/04/ukef-secures-128-million-for-indonesian-navys-submarine-rescue-systems/",
+        "image": "https://www.navalnews.com/wp-content/uploads/2026/04/KRI-Nanggala-402.-U.S.-Navy-picture-scaled.jpg",
+        "publishedAt": "2026-04-11T07:09:51Z",
+        "source": "navalnews.com"
       },
       {
-        "title": "Vietnamese student's Taylor Swift research wins her a spot at Oxford without an interview",
-        "description": "A Vietnamese student's research into the hidden power of Taylor Swift's lyrics has won her a place at the University of Oxford, the world's top-ranked university, without even being called for an interview. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-s-taylor-swift-research-wins-her-a-spot-at-oxford-without-an-interview-5057380.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/04/02/image1-1775111202-1775111216-3443-1775111232.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=B1Zmk87-LU372ot_QXKoUw",
-        "publishedAt": "2026-04-11T06:17:36Z",
-        "source": "VnExpress International"
+        "title": "Man, 34, charged with sexually assaulting 10-year-old daughter",
+        "description": "Accused required to have no intoxicants, not commit any offences, reside at the address supplied to gardaí, and notify them in advance of any ...",
+        "url": "https://www.echolive.ie/corknews/arid-41825300.html",
+        "image": "https://www.echolive.ie/cms_media/module_img/10072/5036468_3_seoimageog_LC_20anglesea_20street_20courthouse_2008.jpg",
+        "publishedAt": "2026-04-11T07:02:00Z",
+        "source": "echo live"
       },
       {
-        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
-        "description": "Airports Council International (ACI) Europe said its members had \"increasing concerns\" about the availability of jet fuel.",
-        "url": "https://www.bbc.co.uk/news/articles/c3w37ggp011o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff5e/live/06b8a020-34f9-11f1-9d5c-8ba507d7dbde.jpg",
-        "publishedAt": "2026-04-11T06:13:49Z",
-        "source": "BBC"
+        "title": "Buyers fret as the average cost of a new car nears $50K",
+        "description": "Vehicle ownership has long been a big part of the American dream",
+        "url": "https://abcnews.com/Business/wireStory/buyers-fret-average-cost-new-car-nears-50k-131943715",
+        "image": "https://i.abcnewsfe.com/a/94e197da-aa28-4173-83c1-73c6aac2f427/wirestory_83ae4eb1a57056539d42bb330fa4dfbd_16x9.jpg?w=1600",
+        "publishedAt": "2026-04-11T07:01:30Z",
+        "source": "ABC News"
       },
       {
-        "title": "Wellington's water entity scrutinised over proposed bills",
-        "description": "Last month Tiaki Wai released a set of projected charges - including bills of up to $6800 per year in a decade for residents - as it tries to upgrade old, failing infrastructure.",
-        "url": "https://www.1news.co.nz/2026/04/11/wellingtons-water-entity-scrutinised-over-proposed-bills/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/wellington-water-leak-RVH45KO2IZHK3D4T4DVD7EQERY.jpg?auth=abb4d67eb15f585b8414e6925e18912e3d6c87470110c8bcd70b5b8996fb2a5b&quality=70&width=600&height=315&focal=600%2C337",
-        "publishedAt": "2026-04-11T06:12:57Z",
-        "source": "1News"
-      },
-      {
-        "title": "Gold, silver rate today, 11 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver",
-        "description": "Gold, silver rates today, 11 April: Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai and other major Indian cities.",
-        "url": "https://www.livemint.com/market/commodities/gold-silver-rate-today-11-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775882437063.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/11/1600x900/logo/GLOBAL-PRECIOUS--0_1766800474264_1766800490861_1775887702172.JPG",
-        "publishedAt": "2026-04-11T06:09:39Z",
-        "source": "Mint"
-      },
-      {
-        "title": "The AI Stock Wall Street Can't Stop Talking About in 2026",
-        "description": "It's the face of AI, and it's looking ripe to buy.",
-        "url": "https://www.fool.com/investing/2026/04/11/the-ai-stock-wall-street-cant-stop-talking-about-i/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F862233%2Fa-person-using-artificial-intelligence.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-11T06:07:26Z",
-        "source": "The Motley Fool"
+        "title": "Kultura brings summer market experience to SM Megamall",
+        "description": "Kultura launches its Summer Crawl at SM Megamall, showcasing Filipino craftsmanship, local brands, and interactive experiences from April 17–21, promoting culture-driven and sustainable shopping.",
+        "url": "https://tribune.net.ph/2026/04/11/kultura-brings-summer-market-experience-to-sm-megamall",
+        "image": "https://media.assettype.com/tribune%2F2026-04-11%2Fmfknjlsb%2FFashion-Binibining-Marikit.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-11T06:59:05Z",
+        "source": "Daily Tribune"
       }
     ],
     "science": [
+      {
+        "title": "NASA Achieves Artemis II Splashdown, Securing Lunar Lead",
+        "description": "NASA’s Artemis II splashdown confirms a historic victory in the new lunar race. With geopolitical competition accelerating, the Moon is open again.",
+        "url": "https://streamlinefeed.co.ke/news/nasa-achieves-artemis-ii-splashdown-securing-lunar-lead",
+        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/d39db193-1467-44e5-b011-54e8529d1c9e/1775892112808-pljp170rlgc.jpg",
+        "publishedAt": "2026-04-11T07:22:55Z",
+        "source": "streamlinefeed.co.ke"
+      },
+      {
+        "title": "How a Remote Camera With a Sound Trigger Captured the Artemis II Launch - and Startled Birds",
+        "description": "Chris O’Meara is a Tampa-based staff photographer who has worked for 39 years documenting major events, including space launches along Florida’s Space Coast.",
+        "url": "https://www.republicworld.com/science/how-a-remote-camera-with-a-sound-trigger-captured-the-artemis-ii-launch-and-startled-birds",
+        "image": "https://img.republicworld.com/all_images/2026/04/how-a-remote-camera-with-a-sound-trigger-captured-the-artemis-ii-launch-and-startled-birds-1775891461015-1280x720.webp",
+        "publishedAt": "2026-04-11T07:11:07Z",
+        "source": "Republic World"
+      },
+      {
+        "title": "Artemis II spotlights engineering of human spaceflight and ISRO’s progress",
+        "description": "Explore Artemis II's engineering achievements in human spaceflight and ISRO's advancements toward its Gaganyaan crewed mission.",
+        "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-spotlights-engineering-of-human-spaceflight-and-isros-progress/article70850229.ece",
+        "image": "https://th-i.thgim.com/public/incoming/g831wa/article70850262.ece/alternates/LANDSCAPE_1200/2026-04-10T172804Z_2046254458_RC2VJKA2YTEP_RTRMADP_3_SPACE-MOON-ARTEMIS-VICTOR-GLOVER.JPG",
+        "publishedAt": "2026-04-11T06:55:50Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "'What a journey': Artemis astronauts splash down into Pacific Ocean",
+        "description": "NASA personnel and the US military helped extract the astronauts from the bobbing capsule – to the applause of those watching from mission control.",
+        "url": "https://www.thejournal.ie/artemis-astronauts-splash-down-into-pacific-ocean-7009643-Apr2026/",
+        "image": "https://img2.thejournal.ie/article/7009643/river/?height=400&version=7009650",
+        "publishedAt": "2026-04-11T06:54:00Z",
+        "source": "The Journal"
+      },
+      {
+        "title": "(VIDEO) Ocean Planet 30% Water by Mass? 'Can't Even Compare to Earth'-What Is TOI-1452 b?",
+        "description": "MONTREAL — Astronomers have identified a distant world that could rewrite understanding of planetary composition: an exoplanet potentially made up of as much as 30 percent water by mass, a staggering",
+        "url": "https://www.ibtimes.com.au/video-ocean-planet-30-water-mass-cant-even-compare-earthwhat-toi-1452-b-1866156",
+        "image": "https://d.ibtimes.com.au/en/full/1893615/ocean-planet-30-water-mass-cant-even-compare.jpg",
+        "publishedAt": "2026-04-11T06:37:21Z",
+        "source": "International Business Times Australia"
+      },
       {
         "title": "Reid Wiseman And Carroll's Daughters Wanted Him As 'Stay-At-Home Dad' Before Artemis II Mission",
         "description": "Reid Wiseman's children were supportive of his job, but at the same time hoped he would stay at home with them.",
@@ -158,112 +198,72 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58fe/live/b856ba20-34c1-11f1-8bf0-3fa0c850deba.jpg",
         "publishedAt": "2026-04-11T06:02:47Z",
         "source": "BBC"
-      },
-      {
-        "title": "'Howl at the Moon': NASA's bid to boost space enthusiasm",
-        "description": "NASA's Artemis II mission captivated millions with improved live streaming and astronaut accounts. Flight director Zebulon Scoville focused on public engagement, using platforms like Twitch. Astronauts shared awe-inspiring views of the Moon and Earth. This effort echoes the Apollo program's impact, aiming to unite people through space exploration. The mission highlights a desire for positive events amidst global challenges.",
-        "url": "https://economictimes.indiatimes.com/news/science/howl-at-the-moon-nasas-bid-to-boost-space-enthusiasm/articleshow/130185667.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130185667,width-1200,height-630,imgsize-51746,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-11T06:00:41Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "From bone loss to blurred vision: How space travel impacts the human body",
-        "description": "As human spaceflight continues to pushes boundaries, scientists try to understand — and minimise — the physical and psychological impact of space travel on the human body.",
-        "url": "https://www.euronews.com/health/2026/04/11/from-bone-loss-to-blurred-vision-how-space-travel-impacts-the-human-body",
-        "image": "https://images.euronews.com/articles/stories/09/71/74/28/1200x675_cmsv2_636d20d1-993d-568f-848b-9a97081e81fe-9717428.jpg",
-        "publishedAt": "2026-04-11T06:00:09Z",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Artemis II astronauts safely return from historic moon missi",
-        "description": "The Artemis II astronauts have successfully splashed down, completing a historic 10-day lunar flyby. Learn about their safe return and the mission's succes",
-        "url": "https://punchng.com/artemis-ii-astronauts-return-to-earth/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/07105713/AFP__20260407__A6WK9ZR__v2__MidRes__TopshotUsCanadaSpaceArtemisIiNasa-1200x630.jpg",
-        "publishedAt": "2026-04-11T05:21:15Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Artemis II crew safely returns to Earth",
-        "description": "The history making crew is back after splashing into the Pacific Ocean off the coast of San Diego.",
-        "url": "https://www.sabcnews.com/sabcnews/artemis-ii-crew-safely-returns-to-earth/",
-        "image": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-11-at-07.28.19.jpeg",
-        "publishedAt": "2026-04-11T05:06:58Z",
-        "source": "SABC News"
-      },
-      {
-        "title": "The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
-        "description": "An international collaboration of astronomers has produced one of the most precise measurements yet of how fast the local Universe is expanding. The result deepens one of the most significant challenges in modern cosmology. John Blakeslee, astronomer at NSF NOIRLab, funded by the U.S. National Science Foundation, is a member of the collaboration, and telescopes across two NSF NOIRLab Programs contributed data.",
-        "url": "https://noirlab.edu/public/news/noirlab2611/",
-        "image": "http://storage.noirlab.edu/media/archives/images/screen/noirlab2611a.jpg",
-        "publishedAt": "2026-04-11T05:02:51Z",
-        "source": "NOIRLab"
       }
     ],
     "ai": [
       {
-        "title": "From complexity to clarity: How AI is transforming insurance for customers",
-        "description": "Artificial Intelligence is revolutionizing insurance in India. Customers now start their search online, with AI simplifying complex policies into easy conversations. This technology makes insurance understandable and accessible, even in smaller cities. AI-powered tools handle queries, speed up processes, and personalize recommendations. This shift is crucial for increasing insurance penetration across the nation.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-complexity-to-clarity-how-ai-is-transforming-insurance-for-customers/articleshow/130185935.cms",
-        "image": "https://img.etimg.com/thumb/msid-130185928,width-1200,height-630,imgsize-44324,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-11T06:23:00Z",
-        "source": "The Economic Times"
+        "title": "AI takes the lead in Malayalam short film 'Soosi'",
+        "description": "The use of an AI-generated lead in 'Soosi' highlights how such techniques are beginning to appear more prominently within narrative formats",
+        "url": "https://www.theweek.in/news/entertainment/2026/04/11/ai-takes-the-lead-in-malayalam-short-film-soosi.html",
+        "image": "https://www.theweek.in/content/dam/week/week/news/entertainment/images/2026/4/11/soosi-ai-short-film.jpg",
+        "publishedAt": "2026-04-11T07:29:32Z",
+        "source": "THE WEEK"
       },
       {
-        "title": "OpenAI CEO Sam Altman Links Molotov Attack On Home To Rising 'AI Anxiety'",
-        "description": "OpenAI CEO Sam Altman revealed that a 20-year-old man hurled a Molotov cocktail at his San Francisco residence early Saturday morning, April 11, 2026, in what appears to be linked to rising public anxiety over artificial intelligence. The suspect also threatened OpenAI’s office. Altman shared a family photo, expressing that his family was shaken, and called for broader sharing of AI benefits.",
-        "url": "https://www.freepressjournal.in/tech/openai-ceo-sam-altman-links-molotov-attack-on-home-to-rising-ai-anxiety",
-        "image": "https://media.assettype.com/freepressjournal/2026-04-11/2tdzv7gg/Open-AI-Sam-Altman.jpg",
-        "publishedAt": "2026-04-11T06:22:24Z",
-        "source": "Free Press Journal"
+        "title": "Babul Supriyo on remixes & singing in the age of AI",
+        "description": "In an exclusive interview with IANS, Babul Supriyo shares insights on the evolution of music in the age of AI, the significance of remixes, and the changing dynamics for female singers in the industry.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/babul-supriyo-on-remixes-singing-in-the-age-of-ai/articleshow/130186383.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130186383,width-1280,height-720,imgsize-15900,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T07:25:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Google AI features: You can now book restaurant tables from search bar; Check how it works",
-        "description": "Google AI features: Unlike traditional search, where users scroll through links, this new system can understand detailed requests and take action based on them.",
-        "url": "https://zeenews.india.com/technology/google-ai-features-you-can-now-book-restaurant-tables-from-search-bar-check-how-it-works-3036021.html",
-        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/04/11/1929702-google-restaurant-booking-feature.jpg",
-        "publishedAt": "2026-04-11T06:22:07Z",
-        "source": "Zee News"
+        "title": "ChatGPT’s Sam Altman home attacked with Molotov cocktail: CEO shares family photo, says, “I love them more than anything”",
+        "description": "Trending News: OpenAI CEO Sam Altman has long been at the centre of discussions around artificial intelligence, but his family’s safety has now become part of that s.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/chatgpts-sam-altman-home-attacked-with-molotov-cocktail-ceo-shares-family-photo-says-i-love-them-more-than-anything/articleshow/130186660.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130186660,width-1280,height-720,imgsize-888302,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T07:21:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Bound Action to Position UP as India's 'Deep",
-        "description": "According to a press statement, at a high-level meeting, Adityanath emphasised growth in sectors, such as artificial intelligence, quantum computing, drones, green hydrogen, cyber security and med-tech, while stressing stronger industry-research coordination to scale innovation and generate employment",
-        "url": "https://www.outlookbusiness.com/corporate/adityanath-calls-for-time-bound-action-to-position-up-as-indias-deep-tech-capital",
-        "image": "https://media.assettype.com/outlookbusiness/2025-09-10/6lzb3ym1/Deep-tech.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-11T06:20:42Z",
-        "source": "Outlook Business"
+        "title": "Chitkara University Partners with JAN AI to Drive Inclusive Innovation and AI",
+        "description": "Chandigarh [India], April 11: Chitkara University has signed a strategic Memorandum of Understanding (MoU) with JAN AI, a flagship initiative of the Head Held High Foundation, to advance innovation, entrepreneurship, and inclusive access to Artificial Intelligence.",
+        "url": "https://www.tribuneindia.com/news/business/chitkara-university-partners-with-jan-ai-to-drive-inclusive-innovation-and-ai-led-entrepreneurship/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVlZWRhMjAwLTM1NzYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-11T07:20:29Z",
+        "source": "The Tribune"
       },
       {
-        "title": "OpenAI CEO Sam Altman issues 'ring of power' warning on AGI",
-        "description": "Sam Altman said the race to develop artificial general intelligence (AGI) is driving intense competition and conflict among AI companies in a bid to seize control, adding that AGI carries significant societal risks and must not be controlled by a small group of companies.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ceo-sam-altman-issues-ring-of-power-warning-on-agi/articleshow/130185805.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30758,resizemode-75,msid-130185805/tech/artificial-intelligence/openai-ceo-sam-altman-issues-ring-of-power-warning-on-agi.jpg",
-        "publishedAt": "2026-04-11T06:11:43Z",
-        "source": "The Economic Times"
+        "title": "TVM dental student ends life at Kannur MCH, internal committee begins probe",
+        "description": "A BDS student named Nithin Raj, hailing from Thiruvananthapuram, was discovered deceased on Friday at the Anjarakandy Dental College in Kannur..BDS student death, Anjarakandy dental college incident, Nithin Raj death, unnatural death case BNS, dental student found dead, medical college student death Kannur, Uzhamalackal student demise, Puthukulangara student tragedy, Chakkarakkal police case, dental college student mortality, student death investigation India, recent student deaths Kerala, AI assisted death investigation, LLM forensic analysis death, understanding unnatural death BNS",
+        "url": "https://www.onmanorama.com/news/kerala/2026/04/11/bds-medical-student-death-anjarakandy-kannur.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2025/1/9/suicide-representational.jpg",
+        "publishedAt": "2026-04-11T07:19:42Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "OpenAI CEO Sam Altman Targeted By Molotov Cocktail Attack- SF Police Arrest Suspect After Threats Near Co",
-        "description": "San Francisco police arrested a suspect after a Molotov cocktail attack targeted Sam Altman's home, with OpenAI confirming no injuries.",
-        "url": "https://www.benzinga.com/markets/tech/26/04/51768156/openai-ceo-sam-altman-targeted-by-molotov-cocktail-attack-sf-police-arrest-suspect-after-threats-near-company-headquarters",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/11/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-11T06:05:18Z",
-        "source": "Benzinga"
+        "title": "Silicon Valley entrepreneur accused of using ChatGPT to harass and stalk ex",
+        "description": "Tech News News: A woman has sued OpenAI, alleging its chatbot ChatGPT amplified her ex-partner’s delusions and enabled months of stalking and harassment, according to.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/silicon-valley-entrepreneur-accused-of-using-chatgpt-to-harass-and-stalk-ex-girlfriend-openai-sued/articleshow/130186639.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130186669,width-1280,height-720,imgsize-22564,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T07:18:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Dropping of Tyneside AI investment 'reflects national challenges'",
-        "description": "North East political chiefs say the region remains \"open for business\" despite OpenAI's step.",
-        "url": "https://www.bbc.com/news/articles/cly9zyg29p3o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/791f/live/dad91e10-34f5-11f1-955f-add91a6f90f4.jpg",
-        "publishedAt": "2026-04-11T06:03:23Z",
-        "source": "BBC News"
+        "title": "Man arrested for allegedly throwing Molotov cocktail at Sam Altman’s house",
+        "description": "A 20-year-old man was arrested Friday morning following an arson attack on the residence of OpenAI CEO Sam Altman and subsequent threats made at the company’s headquarters. The situation began...",
+        "url": "https://www.thenews.com.pk/latest/1398511-man-arrested-for-allegedly-throwing-molotov-cocktail-at-sam-altmans-house",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-11/1398511_120632_updates.jpg",
+        "publishedAt": "2026-04-11T07:07:00Z",
+        "source": "The News International"
       },
       {
-        "title": "OpenAI CEO Sam Altman hints 'AI anxiety' behind attack on his home",
-        "description": "OpenAI CEO Sam Altman hints 'AI anxiety' behind attack on his home - New Delhi, April 11 OpenAI CEO Sam Altman said on Saturday that a suspect hurled a Molotov cocktail ... Get Latest News on Business only on lokmattimes.com",
-        "url": "https://www.lokmattimes.com/business/openai-ceo-sam-altman-hints-ai-anxiety-behind-attack-on-his-home/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202602191267f_202604.jpg",
-        "publishedAt": "2026-04-11T06:03:04Z",
-        "source": "Lokmat Times"
+        "title": "Skygen.AI Launches Next-Gen AI Agents to Automate Complex Workflows: A New Paradigm for Global IT Services",
+        "description": "Skygen.AI's innovative approach bridges traditional and modern software, positioning Indian tech firms to leverage AI for enhanced service delivery.",
+        "url": "https://www.hindustantimes.com/genesis/skygenai-launches-next-gen-ai-agents-to-automate-complex-workflows-a-new-paradigm-for-global-it-services-101775890843022.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/11/550x309/Sky_gen_1775890957663_1775891031763.png",
+        "publishedAt": "2026-04-11T07:04:21Z",
+        "source": "Hindustan Times"
       }
     ]
   }
