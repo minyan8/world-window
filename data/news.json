@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-11T14:30:23.149Z",
+  "fetchedAt": "2026-04-11T15:29:39.675Z",
   "sections": {
     "world": [
       {
-        "title": "Watch: Dramatic splashdown as Artemis II astronauts return to Earth after historic journey around Moon",
-        "description": "Science News: The Artemis II crew has safely returned to Earth after a nearly 10-day mission around the Moon, splashing down in the Pacific Ocean off the coast of S.",
-        "url": "https://timesofindia.indiatimes.com/science/watch-dramatic-splashdown-as-artemis-ii-astronauts-return-to-earth-after-historic-journey-around-moon/articleshow/130183220.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130183239,width-1280,height-720,imgsize-259701,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-11T02:30:00Z",
-        "source": "The Times of India"
+        "title": "US, Iran set for peace talks but doubts emerging",
+        "description": "The US and Iran were to hold negotiations in the Pakistani capital Islamabad to end their six-week-old war, although Tehran threw the talks into doubt by saying they could not begin without commitments on Lebanon and sanctions.",
+        "url": "https://www.rte.ie/news/middle-east/2026/0411/1567668-iran-us-talks/",
+        "image": "https://www.rte.ie/images/0024325a-1600.jpg",
+        "publishedAt": "2026-04-11T03:26:34Z",
+        "source": "RTE.ie"
+      },
+      {
+        "title": "NASA’s Artemis II astronauts splash down on Earth after lunar mission",
+        "description": "Crew safely complete first mission to travel around the Moon in more than 50 years.",
+        "url": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-11T000835Z_1756204704_RC2OMKA439T8_RTRMADP_3_SPACE-MOON-ARTEMIS-1775866154.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-11T03:21:59Z",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "South Korea no longer Vietnam's largest source of visitors",
+        "description": "Mainland China has overtaken South Korea to regain its position as Vietnam’s largest source of tourists with 1.4 million arrivals in the first quarter of the year despite a 12% year-on-year decline. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/travel/south-korea-no-longer-vietnam-s-largest-source-of-visitors-5060868.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/04/10/d07847875babecf5b5ba2175064468-4299-2407-1775804086.png?w=680&h=0&q=100&dpr=1&fit=crop&s=h378uUamCa2nWbe-eN9X8A",
+        "publishedAt": "2026-04-11T03:19:15Z",
+        "source": "VnExpress International"
+      },
+      {
+        "title": "Ukraine war briefing: doubts linger in Kyiv over Moscow’s promise to uphold Orthodox Easter ceasefire",
+        "description": "Kremlin orders temporary truce from Saturday afternoon until Sunday, a 32-hour period during which Russia would stop fighting ‘in all directions’.",
+        "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-war-briefing-doubts-linger-in-kyiv-over-moscows-promise-to-uphold-orthodox-easter-ceasefire",
+        "image": "https://i.guim.co.uk/img/media/9ebcdfc8a80372dd147907a0c621194500820f89/396_0_4617_3692/master/4617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=257cd021e8a8f014f525e3772485b88b",
+        "publishedAt": "2026-04-11T03:19:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Iran war leaves crisis-scarred countries counting the cost",
+        "description": "Sri Lanka, Egypt and Pakistan ‌belong to ‌a group of crisis-scarred countries that analysts fear have been thrust back toward trouble amid rising energy costs.",
+        "url": "https://www.japantimes.co.jp/business/2026/04/11/economy/iran-war-crisis-countries-analysis/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/11/534443.jpg?v=3.1",
+        "publishedAt": "2026-04-11T03:18:00Z",
+        "source": "The Japan Times"
       },
       {
         "title": "California governor candidate Eric Swalwell denies sexual assault allegations",
         "description": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-        "url": "https://www.bbc.co.uk/news/articles/c20qg3g9554o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg",
-        "publishedAt": "2026-04-11T02:24:04Z",
+        "url": "https://www.bbc.com/news/articles/c20qg3g9554o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg",
+        "publishedAt": "2026-04-11T03:13:10Z",
         "source": "BBC"
       },
       {
-        "title": "‘Strait of Hormuz will open, with or without Iran’: Donald Trump ahead of peace talks in Pakistan",
-        "description": "US News: US President Donald Trump on Friday (local time) asserted the Strait of Hormuz “will open with or without Iran,” ahead of ceasefire talks with Tehran .",
-        "url": "https://timesofindia.indiatimes.com/world/us/strait-of-hormuz-will-open-with-or-without-iran-donald-trump-ahead-of-peace-talks-in-pakistan/articleshow/130183099.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130183143,width-1280,height-720,imgsize-93328,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-11T02:19:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Leo to become first pope to visit Muslim Algeria",
-        "description": "VATICAN CITY: Leo XIV will become the first pope to visit Algeria on Monday, taking a message of dialogue with Islam on a trip that also represents a personal pilgrimage for the American pontiff. Algeria is the first stop on an 11-day tour of four African nations, covering 18,000 kilometers and also taking in Cameroon, Angola and Equatorial Guinea from April 13 to 23. No other",
-        "url": "https://www.arabnews.pk/node/2639512/middle-east",
-        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/04/11/4701700-1351303407.jpg?itok=tp-R4dcz",
-        "publishedAt": "2026-04-11T02:09:02Z",
-        "source": "Arab News PK"
-      },
-      {
-        "title": "How JD Vance has emerged as Trump’s Iran closer, a task fraught with risk",
-        "description": "Vance is leading a US delegation to Islamabad for the first face-to-face talks with Iranian officials since the beginning of the conflict, which has triggered a global energy crisis",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-jd-vance-has-emerged-as-trump-s-iran-closer-a-task-fraught-with-risk-article-13885987.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260411015010_JD-Vance.jpg",
-        "publishedAt": "2026-04-11T01:51:08Z",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "US-Israel-Iran War LIVE Updates: US-Iran To Hold Key Peace Talks In Islamabad Today",
-        "description": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf has arrived in Islamabad for peace talks with US, JD Vance is said to be en route.",
-        "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504",
-        "image": "https://c.ndtvimg.com/2026-04/p3sqios_trump-mojtaba-iran-war_650x400_09_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-11T01:38:01Z",
-        "source": "NDTV"
-      },
-      {
-        "title": "Indonesia's Prabowo calls for criminal charges against firms resisting forest crackdown",
-        "description": "JAKARTA: Indonesian President Prabowo Subianto ordered prosecutors on Friday (Apr 10) to file criminal charges against companies that refuse to cooperate with a task force he launched to crack down on illegal activities in the country's forests.The task force, made up of military personnel, prosecutors and en",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-forest-crackdown-criminal-charges-prabowo-6049026",
-        "image": "https://dam.mediacorp.sg/image/upload/s--aQzlEYeb--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-10T103449Z_2_LYNXMPEM390K3_RTROPTP_3_INDONESIA-FOREST.JPG?itok=EZpBDLLj",
-        "publishedAt": "2026-04-11T01:36:37Z",
+        "title": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions",
+        "description": "\"The only reason they are alive today is to negotiate,\" US President Donald Trump said, ahead of talks with Iran.",
+        "url": "https://www.channelnewsasia.com/world/us-israel-iran-peace-talks-ceasefire-pakistan-6050326",
+        "image": "https://dam.mediacorp.sg/image/upload/s--qdVyFu7K--/c_crop,h_449,w_799,x_1,y_31/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-11T024537Z_2_LYNXMPEM3A017_RTROPTP_3_IRAN-CRISIS-PAKISTAN.JPG?itok=Z7I8WVzi",
+        "publishedAt": "2026-04-11T03:11:49Z",
         "source": "CNA"
       },
       {
-        "title": "Trump news at a glance: Epstein survivors have words for Melania Trump after surprise statement",
-        "description": "More than a dozen survivors accuse first lady of ‘shifting the burden’ on to them after she called on Congress to hold public hearings",
-        "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-news-at-a-glance-latest-updates-today",
-        "image": "https://i.guim.co.uk/img/media/99e95fa440c623306ff4cc671edd85af1b2482cc/895_0_4459_3569/master/4459.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b5719ad933f0d668f08f6fa7f735cfb",
-        "publishedAt": "2026-04-11T01:32:00Z",
-        "source": "The Guardian"
+        "title": "Bau delegation presents i-reguregu to family of late former President Ratu Epeli Nailatikau",
+        "description": "Bau delegation presents i-reguregu to family of late former President Ratu Epeli Nailatikau",
+        "url": "https://www.fijivillage.com/news/bau-delegation-presents-i-reguregu-to-family-of-late-former-president-ratu-epeli-nailatikau-4717ff/",
+        "image": "https://www.fijivillage.com/news_images/20260411093806_media_69d886ed44fb33_44131991.jpg",
+        "publishedAt": "2026-04-11T03:05:17Z",
+        "source": "Fijivillage"
       }
     ],
     "business": [
       {
-        "title": "Fomer actor Huang Yiliang turns fishmonger and hawker",
-        "description": "He now runs a wet market and hawker stall, rebuilding his life after prison and legal troubles. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/life/food/im-an-ordinary-person-i-cant-be-more-ordinary-ex-actor-huang-yiliang-now-a-fishmonger-hawker",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/08f6b1629a00424c53a76ff21503aa6ed02abe50f99a5f40cfbb3c240518a12d",
-        "publishedAt": "2026-04-11T02:30:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Record gas price surge fuels sharp rise in U.S. inflation",
-        "description": "WASHINGTON >> U.S. consumer prices increased by the most in nearly four years in March as the war with Iran led to a record surge in the cost of gasoline and diesel, dealing a blow to President Donald Trump, whose approval ratings have been falling because of unhappiness over his handling of the economy.",
-        "url": "https://www.staradvertiser.com/2026/04/10/breaking-news/record-gas-price-surge-fuels-sharp-rise-in-u-s-inflation/",
-        "image": "https://www.staradvertiser.com/wp-content/uploads/2026/04/web1_20260410_brk_gas01.jpg",
-        "publishedAt": "2026-04-11T02:26:01Z",
-        "source": "Honolulu Star-Advertiser"
-      },
-      {
-        "title": "Police arrest a suspect in Molotov attack at OpenAI CEO's home",
-        "description": "Altman, the co-founder and CEO of the company which is behind ChatGPT, has become a preeminent voice in Silicon Valley on the promise and potential dangers of artificial intelligence.",
-        "url": "https://www.1news.co.nz/2026/04/11/police-arrest-a-suspect-in-molotov-attack-at-openai-ceos-home/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/openais-ceo-sam-altman-speaks-at-the-ai-summit-in-new-delhi-IQ6OIMYPLVF25LXWCKSAWAZJ3Q.jpg?auth=784a900711502c1c1dd9892cb85ea4fd1ef57e3e89d821a0b244904ba2e15e23&quality=70&width=600&height=315&focal=2190%2C1232",
-        "publishedAt": "2026-04-11T02:25:35Z",
-        "source": "1News"
-      },
-      {
-        "title": "Driven Brands Holdings Inc. Securities Fraud Class Actions Result of Erroneous Financial Statements and 39% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
-        "description": "/PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial...",
-        "url": "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-securities-fraud-class-actions-result-of-erroneous-financial-statements-and-39-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739650.html",
-        "image": "https://i.ytimg.com/vi/5xYWRtzJ3DE/hqdefault.jpg",
-        "publishedAt": "2026-04-11T02:14:00Z",
-        "source": "PR Newswire"
-      },
-      {
-        "title": "BYD triples EV, hybrid shipments to 30,000 amid high Aus demand",
-        "description": "To meet increased demand amid high fuel prices, shipments of BYD cars to Australia will triple – up to 30,000 in two months.",
-        "url": "https://www.drive.com.au/news/byd-fast-tracking-shipments-to-australia-amid-surge-in-ev-hybrid-demand/",
-        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/fad7d592-b55b-50cb-87bc-5bf105750000",
-        "publishedAt": "2026-04-11T02:06:56Z",
-        "source": "drive.com.au"
-      },
-      {
-        "title": "Elders to halt WA wool handling and move to Melbourne from mid",
-        "description": "Elders is relocating its Western Australian wool handling and marketing operations to Victoria in response to declining wool production volumes in WA.",
-        "url": "https://www.abc.net.au/news/rural/2026-04-11/elders-to-move-wool-sales-to-victoria-from-western-australia/106550942",
-        "image": "https://live-production.wcms.abc-cdn.net.au/823d80bf99ad37f2a33776d93d1ad997?impolicy=wcms_watermark_news&cropH=563&cropW=1000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-11T02:05:53Z",
+        "title": "Thailand's enormous fishing industry highlights 'big trouble' caused by Middle East war",
+        "description": "Tens of thousands of small and commercial fishing vessels in Thailand are stranded on shore, no longer able to afford diesel, which has more than doubled in price since the Iran war began.",
+        "url": "https://www.abc.net.au/news/2026-04-11/middle-east-war-hits-thailand-fishing-industry/106554192",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a1aabd80e32be20ac352e37b2be63f54?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=263&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-11T03:23:58Z",
         "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "‘Nobody gets free pickles on BC Ferries’: Family’s White Spot experience goes viral",
-        "description": "Jeff Groot, executive director of communications at BC Ferries, told Global News that it is unfortunate that the family had the situation they did.",
-        "url": "https://globalnews.ca/news/11774058/pickles-bc-ferries-white-spot-viral/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/04/white-spot-pickles.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-04-11T02:01:25Z",
-        "source": "Global News"
+        "title": "Vineyard Wind Sues Turbine Manufacturer To Stop…",
+        "description": "Nantucket Current is the island's leading online news source. We deliver the news, stories, and people of Nantucket, unbiased and unfiltered.",
+        "url": "https://nantucketcurrent.com/news/vineyard-wind-sues-turbine-manufacturer-to-stop-it-from-backing-out-of-wind-farm-4-5-billion-project-in-jeopardy",
+        "image": "https://nantucket-current.nyc3.cdn.digitaloceanspaces.com/assets/_1200x630_crop_center-center_82_none/295426/3C0A9943_2024-08-16-032303_aplm.jpg?mtime=1775871610",
+        "publishedAt": "2026-04-11T03:21:00Z",
+        "source": "Nantucket Current"
       },
       {
-        "title": "DBS to probe high-risk fund transfers with more questions to customers",
-        "description": "DBS is implementing new questions and in-app prompts for high-risk fund transfers to help prevent scams and protect online banking users. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/who-what-and-why-dbs-to-roll-out-probing-questions-for-high-risk-transfers",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/23f9c4dbc570900a6704ed5ed91aa289a19ff7ca35d64b731c739f7b9edb75b6",
-        "publishedAt": "2026-04-11T02:00:00Z",
-        "source": "The Straits Times"
+        "title": "Metals Lost In Translation; Risk Assets Or Safe Haven? - Silver, Gold And Copper Outlook",
+        "description": "Silver, Gold and the entire metals Market have been trading in confusion around US-Iran conflict and ceasefire news. Read more here.",
+        "url": "https://seekingalpha.com/article/4889963-metals-lost-in-translation-risk-assets-safe-haven-silver-gold-copper-outlook",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260004002/image_2260004002.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-11T03:20:00Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "South Korea no longer Vietnam's largest source of visitors",
+        "description": "Mainland China has overtaken South Korea to regain its position as Vietnam’s largest source of tourists with 1.4 million arrivals in the first quarter of the year despite a 12% year-on-year decline. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/travel/south-korea-no-longer-vietnam-s-largest-source-of-visitors-5060868.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/04/10/d07847875babecf5b5ba2175064468-4299-2407-1775804086.png?w=680&h=0&q=100&dpr=1&fit=crop&s=h378uUamCa2nWbe-eN9X8A",
+        "publishedAt": "2026-04-11T03:19:15Z",
+        "source": "VnExpress International"
+      },
+      {
+        "title": "Fuel for thought: India boosts domestic LPG output to 60% amid Middle East tensions",
+        "description": "India Business News: India’s domestic LPG production now meets nearly 60% of the country’s requirement, offering relief as the Middle East war continues to ripple across g.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-for-thought-india-boosts-domestic-lpg-output-to-60-amid-middle-east-tensions/articleshow/130183685.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130183785,width-1280,height-720,imgsize-154618,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T03:19:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "2026 Yamaha R3 and R25 Start At JPY 690k (Rs 4.04 Lakh) - New Colours",
+        "description": "Other than the newly introduced colour options, the 2026 Yamaha YZF-R25 and YZF-R3 remain largely unchanged",
+        "url": "https://www.rushlane.com/2026-yamaha-r3-and-r25-start-at-jpy-690k-rs-4-04-lakh-new-colours-12543858.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/04/2026-yamaha-r3-and-r25-launch-cover.jpg",
+        "publishedAt": "2026-04-11T03:18:14Z",
+        "source": "RushLane"
+      },
+      {
+        "title": "Middle East war to cut growth, deliver cascading impact, World Bank chief says",
+        "description": "WASHINGTON: The war in the Middle East will have a cascading impact on the global economy, even if a ceasefire announced by US President Donald Trump takes hold, World Bank President Ajay Banga told Reuters in an interview on Friday. And the damage will be far deeper if the ceasefire fails and the conflict escalates, he said. Banga on Tuesday said global growth could be",
+        "url": "https://www.arabnews.pk/node/2639515/middle-east",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/04/11/4701706-64207629.jpg?itok=wG0Q_dky",
+        "publishedAt": "2026-04-11T03:18:13Z",
+        "source": "Arab News PK"
+      },
+      {
+        "title": "PAL bets on transit traffic, premium leisure demand with Manila-Palau link",
+        "description": "To capture the growing number of leisure travelers and transit passengers seeking faster access to Micronesia, flag carrier Philippine Airlines (PAL) has launch",
+        "url": "https://tribune.net.ph/2026/04/11/pal-bets-on-transit-traffic-premium-leisure-demand-with-manilapalau-link",
+        "image": "https://media.assettype.com/tribune%2F2024-07%2Fbc981684-3f60-475f-a527-29eac658ee63%2FFlight_Status_2_Child_Hero_Full_1440x440.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-11T03:15:31Z",
+        "source": "Daily Tribune"
       }
     ],
     "science": [
+      {
+        "title": "Did these historic NASA spacecraft find life on Mars - and accidentally kill it?",
+        "description": "The NASA Viking landers may have found organic molecules on Mars, but accidentally destroyed them, according to a study.",
+        "url": "https://www.skyatnightmagazine.com/news/did-nasa-viking-find-life-on-mars-and-kill-it",
+        "image": "https://c02.purpledshub.com/uploads/sites/48/2026/04/nasa-viking-mars.jpg?w=1200",
+        "publishedAt": "2026-04-11T03:09:15Z",
+        "source": "BBC Sky at Night Magazine"
+      },
+      {
+        "title": "Out of this world: The records NASA's Artemis II broke on its way to the moon and back | In Pics",
+        "description": "Nine days, one hour, 31 minutes — history made at every turn: Artemis II just rewrote space history, from record-breaking distance to historic firsts by NASA astronauts, this mission pushed human spaceflight further than ever before.\nWhat made this journey truly historic? Scroll down.",
+        "url": "https://www.wionews.com/photos/out-of-this-world-the-records-nasa-s-artemis-ii-broke-on-its-way-to-the-moon-and-back-in-pics-1775873988051",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260411/image-1775876446319.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-11T03:09:00Z",
+        "source": "WION"
+      },
+      {
+        "title": "'A perfect mission': Artemis II astronauts return to Earth",
+        "description": "Mission commander Reid Wiseman reported that the crewmembers -- himself along with Christina Koch, Victor Glover and Jeremy Hansen -- were \"stable\" and \"green.\"",
+        "url": "https://www.standardmedia.co.ke/world/article/2001545095/a-perfect-mission-artemis-ii-astronauts-return-to-earth",
+        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/ZnxK9Canmg627NSXmcDiT4Ph2mVWmgJOKeA1aIOd.jpg",
+        "publishedAt": "2026-04-11T03:04:02Z",
+        "source": "standardmedia.co.ke"
+      },
+      {
+        "title": "Artemis II splashdown: What was wrong with Orion's heat shield? How did NASA make it work?",
+        "description": "NASA engineers altered the descent trajectory for Artemis II to reduce heat buildup and lower the risk to the capsule and its crew.",
+        "url": "https://www.livemint.com/science/news/artemis-ii-splashdown-what-was-wrong-with-orions-heat-shield-how-did-nasa-make-it-work-11775868584407.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/11/1600x900/logo/SPACE-MOON-ARTEMIS-18_1775868562571_1775868577533.JPG",
+        "publishedAt": "2026-04-11T02:44:30Z",
+        "source": "Mint"
+      },
+      {
+        "title": "In pictures: Artemis II’s spectacular Moon mission, from launch to dramatic splashdown",
+        "description": "Stunning images capture the Artemis II astronauts' historic journey around the Moon for the first time in more than 50 years",
+        "url": "https://www.bbc.co.uk/news/resources/idt-16b00b19-21d0-4108-96e8-38bb7e4846c6",
+        "image": "https://ichef.bbc.co.uk/images/ic/raw/p0nbzktd.jpg",
+        "publishedAt": "2026-04-11T02:34:23Z",
+        "source": "BBC"
+      },
       {
         "title": "Artemis II returns to Earth with a 'perfect bullseye' splashdown: See the end of the historic 10-day lunar mission, in photos",
         "description": "The four Artemis II astronauts made a \"textbook touchdown\" in the Pacific Ocean off the coast of San Diego on Friday.",
@@ -158,112 +198,72 @@
         "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/04/nasa-artemis-moonshot_302523893.jpg",
         "publishedAt": "2026-04-11T02:12:04Z",
         "source": "Montreal Gazette"
-      },
-      {
-        "title": "'Blips' led these Australian backyard astronomers to a world-first planetary discovery",
-        "description": "Amateur astronomers have been recognised for their discoveries that have \"guided humanity’s big telescopes.\"",
-        "url": "https://www.sbs.com.au/news/article/how-amateur-astronauts-are-reshaping-what-we-know-about-space/wb3gcwej0",
-        "image": "https://assets.sbs.com.au/dims4/default/3ea1885/2147483647/strip/true/crop/3648x2052+0+342/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc8%2F32%2F6a60d54d417bab23c472bb3cee6e%2Fjonathan-and-his-telescope.jpg",
-        "publishedAt": "2026-04-11T02:02:03Z",
-        "source": "SBS Australia"
-      },
-      {
-        "title": "A Mercury Rover Could Explore The Planet By Sticking To The Terminator",
-        "description": "[caption id=\"attachment_1073940\" align=\"alignright\" width=\"400\"] The planet Mercury in true color. (Credit: NASA)[/caption]\nWith multiple rovers currently scurrying around on the surface of Mars to c...",
-        "url": "https://hackaday.com/2026/04/10/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator/",
-        "image": "https://hackaday.com/wp-content/uploads/2026/04/Mercury_with_magnetic_field.svg_.png",
-        "publishedAt": "2026-04-11T02:00:00Z",
-        "source": "Hackaday"
-      },
-      {
-        "title": "Live updates: Artemis II astronauts splash down off California’s coast",
-        "description": "After making history on their journey around the moon, NASA’s Reid Wiseman, Victor Glover, Christina Koch and Canadian Space Agency astronaut Jeremy Hansen are coming home.",
-        "url": "https://www.cnn.com/2026/04/10/science/live-news/artemis-2-splashdown-astronauts-return",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/art002e013365-large.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-11T01:47:00Z",
-        "source": "CNN"
-      },
-      {
-        "title": "SF Campaign: Why do people living at high altitudes have lower rates of diabetes?",
-        "description": "Sherpas, for instance, carry genetic variants that suppress the usual altitude-driven increase in red blood cells, and unlike most other mountain communities, they do not enjoy improved blood sugar control. This fits perfectly with the new mechanism.",
-        "url": "https://thesouthfirst.com/bold/sf-campaign-why-do-people-living-at-high-altitudes-have-lower-rates-of-diabetes/",
-        "image": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/04/Altitude.jpg",
-        "publishedAt": "2026-04-11T01:36:38Z",
-        "source": "The South First"
-      },
-      {
-        "title": "New imaging technique captures ultrafast microscopic processes with unprecedented detail",
-        "description": "Researchers have developed a new imaging technique that captures more information about ultrafast processes in the microscopic world than was previously possible.",
-        "url": "https://www.news-medical.net/news/20260410/New-imaging-technique-captures-ultrafast-microscopic-processes-with-unprecedented-detail.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2018/7/By_Gorodenkoff_571684e159074a84992c0edbe24d0030-620x480.jpg",
-        "publishedAt": "2026-04-11T01:35:00Z",
-        "source": "News-Medical"
       }
     ],
     "ai": [
       {
-        "title": "Chandigarh: Haryana CM pitches AI push, says two centres coming up as TiECON 2026 kicks off",
-        "description": "The conclave began earlier in the day with Haryana governor Ashim Kumar Ghosh declaring the region’s startup ecosystem a “model for the nation”",
-        "url": "https://www.hindustantimes.com/cities/chandigarh-news/chandigarh-haryana-cm-pitches-ai-push-says-two-centres-coming-up-as-tiecon-2026-kicks-off-101775852425293.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/10/550x309/The-governor-highlighted-India-s-rise-in-the-Globa_1775852423001.jpeg",
-        "publishedAt": "2026-04-11T02:30:12Z",
-        "source": "Hindustan Times"
+        "title": "20-year-old arrested after Molotov cocktail attack at OpenAI CEO Sam Altman’s home",
+        "description": "San Francisco police arrested a 20-year-old after an alleged Molotov cocktail attack on Sam Altman’s home and threats near OpenAI’s headquarters",
+        "url": "https://www.firstpost.com/world/man-arrested-after-alleged-attack-at-sam-altmans-home-threats-near-openai-headquarters-13999062.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/Sam-Altman-2026-04-38d6718d0fe28b796190b36ccc9e8179.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-11T03:24:40Z",
+        "source": "Firstpost"
       },
       {
-        "title": "Fabindia eyes AI first future as digital surge reshapes retail playbook, says William Bissell",
-        "description": "Managing Director of Fabindia, William Bissell, said the company remains focused on doubling its size by the end of the decade, underpinned by a long-term growth trajectory that is resilient to short-term fluctuations.",
-        "url": "https://www.businesstoday.in/latest/corporate/story/fabindia-eyes-ai-first-future-as-digital-surge-reshapes-retail-playbook-says-william-bissell-525187-2026-04-11",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/resource/img/default.png",
-        "publishedAt": "2026-04-11T02:30:03Z",
-        "source": "Business Today"
+        "title": "SAP CEO Christian Klein warns employees: Company’s AI transition would be as painful as its shift to ...",
+        "description": "Tech News News: SAP CEO Christian Klein has warned employees that the company’s shift to artificial intelligence will not be easy, saying it could be as difficult as .",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/sap-ceo-christian-klein-warns-employees-companys-ai-transition-would-be-as-painful-as-its-shift-to-/articleshow/130183782.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130183778,width-1280,height-720,imgsize-24818,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T03:16:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "In IVF labs, AI is raising odds of parenthood",
-        "description": "AI is transforming IVF in India by improving embryo assessment and supporting couples' journey",
-        "url": "https://www.indiatoday.in/health/story/ai-improves-ivf-success-embryo-selection-india-2894325-2026-04-11",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/florida-couple-sues-clinic-after-ivf-error-leads-to-wrong-baby-birth-representative-pic-302440786-16x9.jpg?VersionId=mbpHRznDl23245kZmr4GObNv4Sjwjw4V",
-        "publishedAt": "2026-04-11T02:30:00Z",
-        "source": "India Today"
+        "title": "Who Is Alejandro Daniel Moreno-Gama? 20-Year-Old Arrested in Sam Altman’s California House Molotov Attack at 3:45 am, OpenAI CEO Shares Rare Family Photo After Scare",
+        "description": "A Molotov cocktail was thrown at the home of OpenAI CEO Sam Altman, where he lives with his family. San Francisco police arrested a person for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.",
+        "url": "https://www.newsx.com/world/who-is-alejandro-daniel-moreno-gama-20-year-old-arrested-in-sam-altman-california-house-molotov-attack-at-345-am-openai-ceo-shares-rare-family-photo-after-scare-sam-altman-house-attack-197241/",
+        "image": "https://www.newsx.com/wp-content/uploads/2026/04/sam-altman-californai-house-attack-by-molotov-cocktail.jpg",
+        "publishedAt": "2026-04-11T03:14:48Z",
+        "source": "NewsX"
       },
       {
-        "title": "OpenAI says it faced a security issue, forces mandatory update for all Mac users to block fake ChatGPT apps",
-        "description": "OpenAI reported a security issue related to third-party library Axios. The company said it found no evidence of compromised user data or altered systems.",
-        "url": "https://www.livemint.com/technology/tech-news/openai-says-it-faced-a-security-issue-forces-mandatory-update-for-all-mac-users-to-block-fake-chatgpt-apps-11775873495758.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/11/1600x900/logo/CHATGPT-APP-STORE-4_1775791469983_1775791474339_1775873715844.jpg",
-        "publishedAt": "2026-04-11T02:16:32Z",
-        "source": "Livemint"
+        "title": "CFTC Announces Initial Crypto Task Force Members",
+        "description": "The CFTC's new innovation task force will focus on crypto, blockchain, AI and prediction markets as the agency awaits the Clarity Act's potential passage.",
+        "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force",
+        "image": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b0037-7cd5-77b9-bf4e-a2c0aa926137",
+        "publishedAt": "2026-04-11T03:13:56Z",
+        "source": "Cointelegraph"
       },
       {
-        "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution",
-        "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance...",
-        "url": "https://9to5mac.com/2026/04/10/openai-says-to-update-mac-apps-including-chatgpt-and-codex-as-security-precaution/",
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/chatgpt-app-icon-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-04-11T02:11:37Z",
-        "source": "9to5Mac"
+        "title": "OpenAI identifies security issue involving third",
+        "description": "OpenAI said on Friday it had identified a ​security issue involving a ​third-party developer tool called Axios and is ​taking steps to protect the process that certifies its macOS applications are legitimate OpenAI apps.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed/articleshow/130183696.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-52534,resizemode-75,msid-130183696/tech/technology/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed.jpg",
+        "publishedAt": "2026-04-11T03:11:14Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Iran-US talks face uncertainty as Tehran sets preconditions despite ceasefire",
-        "description": "Iran's negotiating team, led by parliamentary speaker Mohammad Baqer Qalibaf and Foreign Minister Abbas Araqchi, arrived in Islamabad for peace talks..Iran US peace talks Islamabad, Iran US ceasefire negotiations, Donald Trump Iran demands, Strait of Hormuz blockade, Hezbollah Israel conflict updates, Iran's parliamentary speaker Qalibaf, US Vice President JD Vance Pakistan, Pakistani Prime Minister Shehbaz Sharif, LLM driven geopolitical analysis, AI enhanced conflict resolution, Iranian assets unblocking, Lebanon ceasefire talks, Israeli airstrikes Lebanon, Hezbollah rocket attacks Israel, global energy supply disruption",
-        "url": "https://www.onmanorama.com/news/world/2026/04/11/iran-us-peace-talks-islamabad.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/11/iran-israel-conflict.jpg",
-        "publishedAt": "2026-04-11T02:10:45Z",
-        "source": "Malayala Manorama"
+        "title": "Sam Altman Confirms Molotov Cocktail Incident in Personal Blog Post",
+        "description": "The OpenAI CEO opened up about the shocking incident while also acknowledging the 'incendiary article' published about him by The New Yorker.",
+        "url": "https://www.hollywoodreporter.com/news/general-news/sam-altman-molotov-cocktail-new-yorker-investigation-1236561709/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg?crop=0px%2C288px%2C5466px%2C3059px&resize=1440%2C810",
+        "publishedAt": "2026-04-11T03:07:35Z",
+        "source": "The Hollywood Reporter"
       },
       {
-        "title": "Crypto News: Pepeto Draws Trader Interest for AI Tools as LINK and BlockDAG Show Different Paths",
-        "description": "Stay updated with the latest Crypto News including Strategy's 100th Bitcoin purchase and major developments in the market.",
-        "url": "https://techbullion.com/crypto-news-pepeto-draws-trader-interest-for-ai-tools-as-link-and-blockdag-show-different-paths/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/04/53-1-1000x600.jpg",
-        "publishedAt": "2026-04-11T02:10:38Z",
-        "source": "TechBullion"
+        "title": "Police arrest suspect after Molotov cocktail thrown at OpenAI CEO’s home",
+        "description": "Police said they arrested a suspect Friday after a Molotov cocktail was thrown at the San Francisco home of OpenAI CEO Sam Altman.",
+        "url": "https://www.washingtonexaminer.com/news/crime/4525309/police-arrest-suspect-molotov-attack-openai-ceo-sam-altman-home/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP25203637518638.jpg?resize=1200,683",
+        "publishedAt": "2026-04-11T03:04:47Z",
+        "source": "Washington Examiner"
       },
       {
-        "title": "Man Arrested for Molotov Attack on OpenAI CEO Sam Altman's Residence",
-        "description": "A 20-year-old man has been arrested after a Molotov cocktail was hurled at the San Francisco residence of OpenAI CEO Sam Altman in the early hours of Friday. According to the San Francisco Police Department, the incident occurred around 4 am (local time) when the suspect allegedly threw an “incendiary destructive device” at the property, […]",
-        "url": "https://indianexpress.com/shorts/world/sam-altman-home-attack-molotov-san-francisco-arrest-10630542/",
-        "image": "https://images.indianexpress.com/2026/04/OpenAI-Sam-Altman_20260411020510.png",
-        "publishedAt": "2026-04-11T02:09:21Z",
-        "source": "The Indian Express"
+        "title": "Insilico Medicine launches Pharma AI Spring Kickoff 2026 webinar",
+        "description": "As the AI era becomes increasingly shaped by foundation models, the pharmaceutical industry is entering a new phase of opportunity for discovery, design, and decision-making driven by AI for science.",
+        "url": "https://www.news-medical.net/news/20260410/Insilico-Medicine-launches-Pharma-AI-Spring-Kickoff-2026-webinar.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+        "publishedAt": "2026-04-11T03:03:00Z",
+        "source": "News-Medical.net"
       }
     ]
   }
