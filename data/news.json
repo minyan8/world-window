@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-12T11:29:59.229Z",
+  "fetchedAt": "2026-04-12T12:31:24.661Z",
   "sections": {
     "world": [
       {
-        "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-        "description": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood.",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdepjrv95o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce3a/live/552fe3d0-35e9-11f1-ba3f-938a430be8f6.jpg",
-        "publishedAt": "2026-04-11T23:25:42Z",
+        "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+        "description": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+        "url": "https://www.bbc.co.uk/news/articles/cx237vmr2lyo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1fe/live/c8e4a650-33f8-11f1-a4ee-f9cebb92412a.jpg",
+        "publishedAt": "2026-04-12T00:30:44Z",
         "source": "BBC"
       },
       {
-        "title": "Bachir Mustapha Sayed criticizes UN Resolution 2797 amid Polisario leadership tensions",
-        "description": "Bachir Mustapha Sayed criticizes UN Resolution 2797 amid Polisario leadership tensions. Despite his recent elevation within the Polisario leadership, Bachir Mustapha Sayed remains a vocal critic. While figures like Mohamed Yeslem Beissat and Brahim Ghali have lauded the United States' efforts to revive dialogue in line",
-        "url": "https://en.yabiladi.com/articles/details/192196/bachir-mustapha-sayed-criticizes-resolution.html",
-        "image": "https://static.yabiladi.com/files/articles/yabiladi.40d58b8d6ef788841bf2fdd67a1f3a8420260411224204.webp",
-        "publishedAt": "2026-04-11T23:20:51Z",
-        "source": "Yabiladi.com"
+        "title": "Queensland sunrise hotspots: Where to go for epic early starts",
+        "description": "We’re only one week into daylight saving, but if the darker days are already wearing thin, Queensland has the fix: no daylight saving and, with Brisbane...",
+        "url": "https://www.nzherald.co.nz/travel/queensland-sunrise-hotspots-where-to-go-for-epic-early-starts/WL75LLMQZVFN3FUD63ZK2VMQJI/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/7LRKCQ6JEVH63FRTBOFIZASVP4.jpg?auth=7c148c799abd0582cc36a956498dda1ca321073bf7555084f703b22d342af405&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-04-12T00:24:56Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "What will the Southport Inquiry tell us and what are next steps?",
-        "description": "The public inquiry was set up following a knife attack which led to the deaths of three young girls.",
-        "url": "https://www.bbc.co.uk/news/articles/cp86e615j68o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg",
-        "publishedAt": "2026-04-11T23:19:13Z",
+        "title": "Aerothai picks 2,500 flights per day",
+        "description": "Flight volumes during the Songkran holiday are expected to average more than 2,500 flights per day, with traffic remaining concentrated at major airports and key tourist destinations, says Aeronautical Radio of Thailand (Aerothai).",
+        "url": "https://www.bangkokpost.com/thailand/general/3235583/aerothai-picks-2500-flights-per-day",
+        "image": "https://static.bangkokpost.com/media/content/20260412/c1_3235583_260412071548_700.jpg",
+        "publishedAt": "2026-04-12T00:12:00Z",
+        "source": "Bangkok Post"
+      },
+      {
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-04-12T00:11:25Z",
+        "source": "The Australian"
+      },
+      {
+        "title": "WEEKEND READING: The time for change is right now: why Northumbria is moving ahead with pension reform",
+        "description": "This blog was kindly authored by Jane Embley, Chief People Officer and Tom Lawson, Deputy Vice-Chancellor and Provost, both of Northumbria University. For over a year, Northumbria University has been grappling with a structural challenge familiar across Post-92 institutions: the spiralling cost of employer contributions to the Teachers’ Pension Scheme (TPS), now 28.68%, is nearly […]",
+        "url": "https://www.hepi.ac.uk/2026/04/12/weekend-reading-the-time-for-change-is-right-now-why-northumbria-is-moving-ahead-with-pension-reform/",
+        "image": "https://www.hepi.ac.uk/wp-content/uploads/2026/03/iStock-1276470319.jpg",
+        "publishedAt": "2026-04-12T00:00:00Z",
+        "source": "hepi.ac.uk"
+      },
+      {
+        "title": "US, Iran hold historic talks in Pakistan on war's fragile ceasefire",
+        "description": "The US military says two destroyers have transited the Iran-gripped Strait of Hormuz ahead of mine-clearing work, a first since the war began.",
+        "url": "https://www.1news.co.nz/2026/04/12/us-iran-hold-historic-talks-in-pakistan-on-wars-fragile-ceasefire/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/aptopix-pakistan-iran-us-vance-RRSPD5IXZJE6RDVARJNG4IFCMA.jpg?auth=066c5e235f433bac1a59e099532a1bfec80b322ded455ec2720099ee4a9c70b1&quality=70&width=600&height=315&focal=2834%2C1889",
+        "publishedAt": "2026-04-11T23:57:18Z",
+        "source": "1News"
+      },
+      {
+        "title": "Wes Streeting says 'disappointing' that US-Iran talks have broken down",
+        "description": "Liberal Democrat leader Ed Davey says that the war in Iran is \"idiotic\" and praises Keir Starmer for keeping the UK out of the conflict.",
+        "url": "https://www.bbc.co.uk/news/live/cp389ge3923t",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4171/live/e2d13c90-3646-11f1-880c-4b901053cc40.jpg",
+        "publishedAt": "2026-04-11T23:52:00Z",
         "source": "BBC"
       },
       {
-        "title": "What will the Southport Inquiry tell us and what are next steps?",
-        "description": "The public inquiry was set up following a knife attack which led to the deaths of three young girls.",
-        "url": "https://www.bbc.com/news/articles/cp86e615j68o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg",
-        "publishedAt": "2026-04-11T23:19:13Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Contraception on social media: Why posts are trying to scare me off",
-        "description": "Misinformation about contraception has been spreading on social media, alongside the \"very real frustrations\" of women complaining about side effects.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyvw9pgjveo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36c5/live/6e6dbf30-34e4-11f1-8606-05fe34b06e1b.jpg",
-        "publishedAt": "2026-04-11T23:15:17Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda",
-        "description": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
-        "url": "https://www.bbc.co.uk/news/articles/cjd8jrd1vnyo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-11T23:13:23Z",
-        "source": "BBC"
-      },
-      {
-        "title": "A 9-year-old in France was found locked in a van since 2024, malnourished and unable to walk",
-        "description": "A 9-year-old boy has been rescued after living locked in his father’s utility van in eastern France since 2024, according to the local prosecutor. The child has been hospitalized, and his father detained.",
-        "url": "https://www.cnn.com/2026/04/11/europe/boy-locked-van-years-latam-intl",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26101604433679.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-11T23:12:36Z",
-        "source": "CNN"
-      },
-      {
-        "title": "Collaboration between aviation Ministry, Microsoft to use AI in enhancing travel experience",
-        "description": "This came during a meeting held at the ministry’s headquarters between Minister el-Hefny and a delegation from Microsoft, led by Naim Yazbeck, the company’s",
-        "url": "https://egyptian-gazette.com/skyward/collaboration-between-aviation-ministry-microsoft-to-use-ai-in-enhancing-travel-experience/",
-        "image": "https://egyptian-gazette.com/wp-content/uploads/2026/04/c367e9ef-5d62-430c-840f-fde8b51f11b9.webp",
-        "publishedAt": "2026-04-11T23:12:00Z",
-        "source": "Egyptian Gazette"
+        "title": "No sale of diesel to the Philippines, say MTEN, Petronas",
+        "description": "The National Economic Action Council advises the public against speculation and urges reliance on official government sources.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/04/12/no-sale-of-diesel-to-the-philippines-says-mten-petronas",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/4efa419e-diesel-3.webp",
+        "publishedAt": "2026-04-11T23:46:53Z",
+        "source": "Free Malaysia Today"
       }
     ],
     "business": [
       {
-        "title": "neuroClues: €10 Million Series A Secured To Scale AI-Powered Neurological Biomarkers Across Europe",
-        "description": "neuroClues announced a €10 million Series A funding round to accelerate the rollout of its AI-powered neurological biomarker platform across Europe, bringing its total capital raised to €25 million, including additional non-dilutive funding. The round was led by Teampact Ventures, White Fund, and the European Innovation Council Fund, with participation from existing investors including InvestBW, Leansquare, and Wallonie Entreprendre.",
-        "url": "https://pulse2.com/neuroclues-e10-million-series-a-secured-to-scale-ai-powered-neurological-biomarkers-across-europe/",
-        "image": "https://cdn.pulse2.com/cdn/2026/04/neuroClues-Logo.jpeg",
-        "publishedAt": "2026-04-11T23:28:34Z",
-        "source": "Pulse 2.0"
+        "title": "Minister casts doubt on road user tax over concerns it could hurt EV uptake",
+        "description": "A new tax on road users, including electric vehicles, has been cast into doubt by the transport minister, who says now may not be the time for it.",
+        "url": "https://www.abc.net.au/news/2026-04-12/road-user-tax-cast-into-doubt-concerns-it-could-hurt-ev-uptake/106555742",
+        "image": "https://live-production.wcms.abc-cdn.net.au/85825fdc347bda0283f6cf1012e46f10?impolicy=wcms_watermark_news&cropH=625&cropW=1112&xPos=0&yPos=41&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-12T00:29:33Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "PLD Space: €30 Million Financing From European Investment Bank To Advance MIURA 5 Rocket Development",
-        "description": "The European Investment Bank announced a €30 million venture debt loan to PLD Space to support the final development of its MIURA 5 rocket and scale its industrial and launch capabilities. The financing marks the EIB’s first direct investment in small satellite launchers and is backed by the InvestEU initiative.",
-        "url": "https://pulse2.com/pld-space-e30-million-financing-from-european-investment-bank-to-advance-miura-5-rocket-development/",
-        "image": "https://cdn.pulse2.com/cdn/2026/04/PLD-Space-Logo.jpeg",
-        "publishedAt": "2026-04-11T23:23:34Z",
-        "source": "Pulse 2.0"
+        "title": "Energy minister will not side with 'oil hoarders'",
+        "description": "Energy Minister Akanat Promphan warns the government will take tough action against oil hoarding, adding he has never bowed to business interests and that anyone found stockpiling fuel will face severe legal consequences, even if they are wealthy.",
+        "url": "https://www.bangkokpost.com/thailand/general/3235483/energy-minister-will-not-side-with-oil-hoarders",
+        "image": "https://static.bangkokpost.com/media/content/20260412/c1_3235483_260412073228_700.jpg",
+        "publishedAt": "2026-04-12T00:25:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "Why Britain shouldn't fear the rise of Chinese car imports",
-        "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
-        "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2801/live/f5b10fd0-3500-11f1-b057-1d9fee7490d8.jpg",
-        "publishedAt": "2026-04-11T23:12:58Z",
-        "source": "BBC"
+        "title": "Queensland sunrise hotspots: Where to go for epic early starts",
+        "description": "We’re only one week into daylight saving, but if the darker days are already wearing thin, Queensland has the fix: no daylight saving and, with Brisbane...",
+        "url": "https://www.nzherald.co.nz/travel/queensland-sunrise-hotspots-where-to-go-for-epic-early-starts/WL75LLMQZVFN3FUD63ZK2VMQJI/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/7LRKCQ6JEVH63FRTBOFIZASVP4.jpg?auth=7c148c799abd0582cc36a956498dda1ca321073bf7555084f703b22d342af405&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-04-12T00:24:56Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Why Britain shouldn't fear the rise of Chinese car imports",
-        "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
-        "url": "https://www.bbc.co.uk/news/articles/cnv82v3n6yqo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2801/live/f5b10fd0-3500-11f1-b057-1d9fee7490d8.jpg",
-        "publishedAt": "2026-04-11T23:12:58Z",
-        "source": "BBC"
-      },
-      {
-        "title": "‘Early stages’: Ray Dalio’s chilling WW3 warning as he outlines 13 steps to a global conflict",
-        "description": "Billionaire hedge fund manager Ray Dalio has warned the escalating conflict in the Middle East could spiral into a “world war” scenario, in an unsettling note to investors.",
-        "url": "https://www.news.com.au/finance/work/leaders/early-stages-ray-dalios-chilling-ww3-warning-as-he-outlines-13-steps-to-a-global-conflict/news-story/16ff7ef00a13c0f3a8da960551fea09a",
-        "image": "https://content.api.news/v3/images/bin/c2d813e99b222a9627d92631d6256af4",
-        "publishedAt": "2026-04-11T23:10:55Z",
-        "source": "News.com.au"
-      },
-      {
-        "title": "At 1am, the ‘kaya’ starts: An 84-year-old keeps a half-century craft alive in a KL alley",
-        "description": "KUALA LUMPUR, April 12 — Long before the city stirs, when Jalan Yap Ah Loy is still in shadow, Wong Pek Yoke is already awake.At 1am, in a kitchen far from the bustle of Kuala...",
-        "url": "https://www.malaymail.com/news/life/2026/04/12/at-1am-the-kaya-starts-an-84-year-old-keeps-a-half-century-craft-alive-in-a-kl-alley/214843",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/11/333578.jpg",
-        "publishedAt": "2026-04-11T23:04:32Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "Another Day of Iran-Led Volatility: Why the Case for Staying Invested Remains Intact",
-        "description": "The lessons of history are clear regarding riding out volatility and staying invested.",
-        "url": "https://www.fool.com/investing/2026/04/11/another-day-of-iran-led-volatility-why-the-case-fo/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F864307%2Finvesting-in-great-stocks.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-11T23:00:38Z",
+        "title": "The 30% Dip in Tesla Rippled Across EV Stocks. These 2 Stocks Are Worth Catching.",
+        "description": "Tesla stock is down big since its December highs.",
+        "url": "https://www.fool.com/investing/2026/04/11/the-dip-in-tesla-rippled-across-ev-stocks-these/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F863055%2Fev-electrical-vehicle-factory-robot-machinery-1200x675-128554e-1.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-12T00:22:46Z",
         "source": "The Motley Fool"
       },
       {
-        "title": "New Research Brings Joint Repair Closer For Millions With Osteoarthritis",
-        "description": "Osteoarthritis affects more than 32 million Americans, making it one of the leading causes of chronic pain, disability, and loss",
-        "url": "https://www.eurasiareview.com/12042026-new-research-brings-joint-repair-closer-for-millions-with-osteoarthritis/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/01/a-324.jpeg",
-        "publishedAt": "2026-04-11T22:48:31Z",
-        "source": "Eurasia Review"
+        "title": "Iran War Ceasefire: 3 Stocks to Buy Now",
+        "description": "The U.S. and Iran recently announced a two-week ceasefire in hopes of reaching a broader agreement that would put an end to the war.",
+        "url": "https://www.fool.com/investing/2026/04/11/iran-war-ceasefire-3-stocks-to-buy-now/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F864504%2Fperson-computer-2.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-12T00:22:46Z",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "Chickens come home to roost (II)",
+        "description": "The Nation Newspaper Chickens come home to roost (II)",
+        "url": "https://thenationonlineng.net/chickens-come-home-to-roost-ii-2/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2022/08/28013614/Adebayo-Lamikanra.png",
+        "publishedAt": "2026-04-12T00:22:10Z",
+        "source": "The Nation Newspaper"
+      },
+      {
+        "title": "Ghana’s recovery supported by gold strength despite global oil price pressures - Standard Bank Research",
+        "description": "Ghana’s economic recovery continues to show encouraging signs of resilience, supported by strong gold export performance and improving macroeconomic stability, even as rising global oil prices present new external challenges.",
+        "url": "https://www.myjoyonline.com/ghanas-recovery-supported-by-gold-strength-despite-global-oil-price-pressures-standard-bank-research/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-885.png",
+        "publishedAt": "2026-04-12T00:20:11Z",
+        "source": "MyJoyOnline"
+      },
+      {
+        "title": "State of Business Poll shows business owners facing rising stress levels",
+        "description": "The April poll, which surveyed more than 400 business owners and senior managers, found nearly two‑thirds of respondents believe the current state of the economy is \"bad\" or \"very bad\".",
+        "url": "https://www.rnz.co.nz/news/business/592139/state-of-business-poll-shows-business-owners-facing-rising-stress-levels",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--XZiK3w1h--/t_tohu-badge-facebook/v1725417038/4KKDL2E_blake_wisz_q3o_8MteFM0_unsplash_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-12T00:19:19Z",
+        "source": "RNZ"
       }
     ],
     "science": [
+      {
+        "title": "'It's OK to howl at Moon': Why Nasa streamed Artemis flight on Twitch",
+        "description": "US News: When Nasa flight director Zebulon Scoville was working a shift during the uncrewed Artemis I test flight, he realised the space agency wasn't consiste.",
+        "url": "https://timesofindia.indiatimes.com/world/us/its-ok-to-howl-at-moon-why-nasa-streamed-artemis-flight-on-twitch/articleshow/130201164.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130201162,width-1280,height-720,imgsize-290462,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T00:29:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "NASA astronauts receive hero’s welcome in Houston after record-breaking mission",
+        "description": "The crew of NASA’s Artemis II mission explain how it felt to become the first humans to fly to the moon in over 50 years.",
+        "url": "https://www.theage.com.au/world/north-america/i-have-not-processed-what-we-just-did-artemis-moon-travelling-astronauts-return-home-to-cheers-20260412-p5zn6r.html",
+        "image": "https://static.ffx.io/images/$zoom_0.33821829176114887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_462%2C$y_81/t_crop_custom/q_86%2Cf_auto/e0e76006362670591f3a92dd5b63d0f6fabb08c3",
+        "publishedAt": "2026-04-11T23:58:45Z",
+        "source": "The Age"
+      },
+      {
+        "title": "NASA's Artemis II crew speaks for first time after historic mission",
+        "description": "Artemis crew members have described their mission as \"the greatest dream on Earth\" after landing on Saturday and setting a new deep-space travel record.",
+        "url": "https://www.abc.net.au/news/2026-04-12/nasa-artemis-ii-crew-speaks-for-first-time-moon-mission/106555720",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c51e2fb58e2ba41ae082f22942c42d28?impolicy=wcms_watermark_news&cropH=2807&cropW=4991&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-11T23:58:39Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Artemis II astronauts return to Houston home base after moon flyby",
+        "description": "Artemis II's moon-traveling astronauts are back home and feted to a thunderous welcome. Still marveling over their record-breaking lunar fly-around, the crew of four flew to Houston's Ellington Field from San Diego on Saturday afternoon.",
+        "url": "https://apnews.com/article/artemis-astronauts-moon-flyby-splashdown-1fe7e0f38a9dd506945a4e508abb402d",
+        "image": "https://dims.apnews.com/dims4/default/be22167/2147483647/strip/true/crop/3900x2599+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F83%2Fb3894d52e48dda7cfeee56ad56d6%2F4fea58b76fe7461db07f75f9dcbd38e8",
+        "publishedAt": "2026-04-11T23:35:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "Canadian astronaut and Artemis II crew return to Houston",
+        "description": "Canadian astronaut Jeremy Hansen and his crew members received a standing ovation as they were welcomed back i...",
+        "url": "https://panow.com/2026/04/11/canadian-astronaut-and-artemis-ii-crew-return-to-houston/",
+        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1479/files/2026/04/4025984c-9a23-4944-b31d-fb111068c695-1-1200x675.jpg",
+        "publishedAt": "2026-04-11T23:34:42Z",
+        "source": "paNOW"
+      },
       {
         "title": "Why Does Your Cat Never Finish Its Food? Scientists May Finally Have the Answer!",
         "description": "A new study sheds light on why cats often leave meals unfinished, offering fresh insights into their eating habits and what might be influencing their food choices.",
@@ -158,49 +198,57 @@
         "image": "https://assets.vogue.com/photos/69d96719675257451243d86d/16:9/w_1280,c_limit/AdobeStock_957222234.jpeg",
         "publishedAt": "2026-04-11T23:07:06Z",
         "source": "Vogue"
-      },
-      {
-        "title": "Newly discovered Asgard microbe could explain the origins of complex life on Earth",
-        "description": "Shark Bay microbes may offer rare clues to how simple cells first joined forces and gave rise to complex life.",
-        "url": "https://www.thebrighterside.news/post/newly-discovered-asgard-microbe-could-explain-the-origins-of-complex-life-on-earth/",
-        "image": "https://www.thebrighterside.news/uploads/2026/04/Asgard-microbe.jpg?auto=webp&width=2000&height=1125",
-        "publishedAt": "2026-04-11T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "The no-weights glute move that actually works - how to do 'frog pumps'",
-        "description": "Frog pumps involve externally rotating and abducting your hips, isolating your glute muscles and making them work harder. Here's how to do the exercise.",
-        "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a70972993/frog-pumps-exercise/",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/37112632-ee81-4df5-8577-de279cf49e23.jpg?crop=1.00xw:0.753xh;0,0.110xh&resize=1200:*",
-        "publishedAt": "2026-04-11T23:03:52Z",
-        "source": "womenshealthmag.com"
-      },
-      {
-        "title": "Mummified reptile reveals how modern humans learned to breathe",
-        "description": "Scientists discover a tiny ancient reptile, Captorhinus aguti, that may explain how rib breathing evolved and how humans breathe today.",
-        "url": "https://www.earth.com/news/mummified-reptile-first-known-rib-breathing-animal-human-ancestor-captorhinus-aguti/",
-        "image": "https://cff2.earth.com/uploads/2026/04/11160520/reptile-fossil_Captorhinus-aguti_amniote-breathing-system_Michael-DeBraga_2m.jpg",
-        "publishedAt": "2026-04-11T23:03:45Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "This Beautiful Island With Stunning Waterfalls And Mountain Trails Was Free Of Wild Mosquitoes (Until Last Year)",
-        "description": "This beautiful island destination is no longer mosquito free, but it still has its stunning waterfalls and gorgeous mountain trails.",
-        "url": "https://www.islands.com/2142517/iceland-beautiful-island-waterfalls-mountain-trails-no-longer-mosquito-free/",
-        "image": "https://www.islands.com/img/gallery/this-beautiful-island-with-stunning-waterfalls-and-mountain-trails-was-free-of-wild-mosquitoes-until-last-year/l-intro-1775587518.jpg",
-        "publishedAt": "2026-04-11T23:00:00Z",
-        "source": "islands.com"
-      },
-      {
-        "title": "Canada's Jeremy Hansen, fellow Artemis astronauts receive warm welcome in Houston",
-        "description": "Canadian astronaut Jeremy Hansen and his crew members received a standing ovation as they were welcomed back in Houston after splashing down in the Pacific Ocean on Friday, concluding the Artemis II mission.",
-        "url": "https://www.cbc.ca/news/science/artemis-astronauts-welcome-ceremony-houston-9.7160645",
-        "image": "https://i.cbc.ca/ais/b00018f1-5574-4251-8d1d-27f4a0b9eb4b,1775941952620/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C795%2C8256%2C4644%29%3BResize%3D620",
-        "publishedAt": "2026-04-11T22:31:55Z",
-        "source": "CBC"
       }
     ],
     "ai": [
+      {
+        "title": "TCS Says AI Now Helps Allocate Half Of Internal Roles",
+        "description": "TCS says nearly half of internal job allocations now happen through AI recommendations, marking a major shift in workplace staffing decisions.",
+        "url": "https://www.ndtvprofit.com/business/tcs-says-ai-now-helps-allocate-half-of-internal-roles-11344057",
+        "image": "https://c.ndtvimg.com/2026-04/933qbmc_tcs_625x300_09_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-12T00:30:01Z",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "TCS Says Half Of Internal Jobs Now Filled By AI",
+        "description": "TCS says nearly half of internal job allocations now happen through AI recommendations, marking a major shift in workplace staffing decisions.",
+        "url": "https://www.ndtvprofit.com/business/tcs-says-half-of-internal-jobs-now-filled-by-ai-11344057",
+        "image": "https://c.ndtvimg.com/2026-04/933qbmc_tcs_625x300_09_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-12T00:30:01Z",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "Singapore’s robotaxi drive revs up with help from Chinese AV leaders",
+        "description": "The city state is working with Chinese companies like WeRide and Pony.ai to test and deploy shuttle taxi services on public roads.",
+        "url": "https://www.scmp.com/week-asia/economics/article/3349672/singapores-robotaxi-drive-revs-help-chinese-av-leaders",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/10/5151379f-7ede-439a-872f-c4f5ac55623e_f0754470.jpg?itok=JtTpjwXB&v=1775818992",
+        "publishedAt": "2026-04-12T00:00:09Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "Cannon-Brookes says Atlassian’s $37b AI fall is rational but wrong",
+        "description": "In an interview, the billionaire says the software giant will emerge stronger from the sharemarket sell-off and that he misses running it with Scott Farquhar.",
+        "url": "https://www.afr.com/technology/cannon-brookes-says-atlassian-s-37b-ai-fall-is-rational-but-wrong-20260409-p5zmj2",
+        "image": "https://static.ffx.io/images/$zoom_0.3065%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_62%2C$y_298/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c9c42f84ad06c2422d548823a77081e2a7bbb29a",
+        "publishedAt": "2026-04-12T00:00:00Z",
+        "source": "Australian Financial Review"
+      },
+      {
+        "title": "AI adoption drives demand: Tech Inc hiring cold but MNCs, local companies covet its leaders",
+        "description": "As per experts, many MNCs are considering shifting global tech positions to India, mostly to their GCCs. Ratna Gupta, senior partner, ABC Consultants, said the uptick in tech leadership hiring is strong, especially over the last two–three quarters in comparison to the first half of FY25 when companies were relatively cautious. There is an about 20% increase in mandates at the director, vice-president and higher levels, she said. “Quite a few country heads for GCCs are also coming in.”",
+        "url": "https://economictimes.indiatimes.com/jobs/c-suite/ai-adoption-drives-demand-tech-inc-hiring-cold-but-mncs-local-companies-covet-its-leaders/articleshow/130198103.cms",
+        "image": "https://img.etimg.com/thumb/msid-130198093,width-1200,height-630,imgsize-4756,overlay-etcareers/articleshow.jpg",
+        "publishedAt": "2026-04-12T00:00:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Abhishek flays Kabir on home turf. Don’t fall for AI clips: PM",
+        "description": "Kolkata: Prime Minister Narendra Modi on Saturday warned voters in Murshidabad not to fall for what he called Trinamool's AI-generated disinformation .",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/abhishek-flays-kabir-on-home-turf-dont-fall-for-ai-clips-pm/articleshow/130198834.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130198819,width-1280,height-720,imgsize-23446,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T23:45:00Z",
+        "source": "Times of India"
+      },
       {
         "title": "K’taka drafts AI-focused law to tighten social media regulation",
         "description": "Bengaluru: Karnataka's proposed digital safety law aims to tighten regulation of social media platforms with a focus on artificial intelligence (AI), .",
@@ -216,54 +264,6 @@
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
         "publishedAt": "2026-04-11T23:13:23Z",
         "source": "BBC News"
-      },
-      {
-        "title": "Suspect arrested after Molotov cocktail thrown at OpenAI CEO's home",
-        "description": "Police arrested a 20-year-old man for throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and threatening to burn the company's offices down.",
-        "url": "https://www.newsbreak.com/upi-news-510013/4587264149240-suspect-arrested-after-molotov-cocktail-thrown-at-openai-ceo-s-home",
-        "image": "https://img.particlenews.com/img/id/0UfExc_1ANE7dEc00",
-        "publishedAt": "2026-04-11T23:06:46Z",
-        "source": "NewsBreak"
-      },
-      {
-        "title": "Suspect arrested after Molotov cocktail thrown at OpenAI CEO's home",
-        "description": "Police arrested a 20-year-old man for throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and threatening to burn the company's offices down.",
-        "url": "https://www.upi.com/Top_News/US/2026/04/11/openai-altman-home-arson/9711775944234/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/9711775944234/2026/1/e20c0635f4bba79c4fabbe0fdcec3eab/v1.5/Suspect-arrested-after-Molotov-cocktail-thrown-at-OpenAI-CEOs-home.jpg",
-        "publishedAt": "2026-04-11T23:06:46Z",
-        "source": "UPI News"
-      },
-      {
-        "title": "5 Tips And Tricks For Shopping At Home Depot On A Budget In 2026",
-        "description": "Save money at Home Depot with price matching, tool rentals, oops paint discounts, AI tools, and daily deals for DIY projects in 2026.",
-        "url": "https://www.slashgear.com/2142344/home-depot-budget-shopping-tips-in-2026/",
-        "image": "https://www.slashgear.com/img/gallery/5-tips-and-tricks-for-shopping-at-home-depot-on-a-budget-in-2026/l-intro-1775580304.jpg",
-        "publishedAt": "2026-04-11T22:45:00Z",
-        "source": "SlashGear"
-      },
-      {
-        "title": "Elon Musk’s XChat App Officially Launches on App Store",
-        "description": "XChat launches on iPhone and iPad on April 17 with E2E encryption and Grok AI — but security researchers are questioning its privacy claims.",
-        "url": "https://www.gizchina.com/elon-musk/elon-musks-xchat-app-officially-launches-on-app-store",
-        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-04%2Fx-chat-7569-69dabe8aa6813.jpg",
-        "publishedAt": "2026-04-11T22:26:00Z",
-        "source": "Gizchina.com"
-      },
-      {
-        "title": "Patients are arriving not just with symptoms, but with scripts - and people in REAL need are being left behind, writes NHS GP and presenter DR RENEE HOENDERKAMP",
-        "description": "Carefully prepared phrases, polished descriptions and diagnostic language lifted straight from specialist websites and, increasingly, AI-powered chatbots.",
-        "url": "https://www.dailymail.co.uk/news/article-15725285/Patients-symptoms-scripts-REAL-NHS-GP-DR-RENEE-HOENDERKAMP.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-m-12_1775938665301.jpg",
-        "publishedAt": "2026-04-11T22:14:03Z",
-        "source": "Daily Mail Online"
-      },
-      {
-        "title": "Trillion Dollar Robot Under Investigation: New 2026 Report Highlights Nvidia AI Expansion, Autonomous Trucking Breakthroughs, and Rapid Expansion of Robotics Infrastructure",
-        "description": "Disruptors & Dominators 2026 Research Identifies Small-Cap Nvidia Partner at the Center of Autonomous Trucking's Accelerating Commercial Deployment",
-        "url": "https://www.manilatimes.net/2026/04/12/tmt-newswire/globenewswire/trillion-dollar-robot-under-investigation-new-2026-report-highlights-nvidia-ai-expansion-autonomous-trucking-breakthroughs-and-rapid-expansion-of-robotics-infrastructure/2318536",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/12/1009680.png",
-        "publishedAt": "2026-04-11T22:03:59Z",
-        "source": "The Manila Times"
       }
     ]
   }
