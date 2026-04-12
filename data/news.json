@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-12T21:29:45.248Z",
+  "fetchedAt": "2026-04-12T22:29:46.420Z",
   "sections": {
     "world": [
       {
-        "title": "Keir Starmer sends warning to US and Iran after peace talks break down",
-        "description": "Keir Starmer has “urged both sides to find a way through” after US-Iran peace talks broke down this morning",
-        "url": "https://www.mirror.co.uk/news/politics/breaking-keir-starmer-sends-warning-37000879",
-        "image": "https://i2-prod.mirror.co.uk/article37000871.ece/ALTERNATES/s1200d/0_Middle-East-conflict.jpg",
-        "publishedAt": "2026-04-12T09:29:00Z",
-        "source": "The Mirror"
+        "title": "Russia and Ukraine trade blame over Easter truce violations",
+        "description": "Russia and Ukraine have accused each other of violating a Kremlin-declared Easter ceasefire as Christians gathered to celebrate the Orthodox holiday.",
+        "url": "https://apnews.com/article/russia-ukraine-war-easter-ceasefire-violation-ee87ae1e85a285837c0a359380f37bb6",
+        "image": "https://dims.apnews.com/dims4/default/3c597ca/2147483647/strip/true/crop/6473x4313+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F6b%2Fa964173a6afeb2c7a8ae221a6436%2F8774bb21a6c7418289995eb3cb4b6667",
+        "publishedAt": "2026-04-12T10:27:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Prabowo Advised to Put ASEAN First Over Middle East Diplomacy",
-        "description": "Former Indonesian Ambassador to the United States, Dino Patti Djalal, encourages Prabowo to become more actively involved in managing the Southeast Asian region (ASEAN) instead of focusing solely on the Middle East.",
-        "url": "https://en.tempo.co/read/2097761/prabowo-advised-to-put-asean-first-over-middle-east-diplomacy",
-        "image": "https://statik.tempo.co/data/2025/04/17/id_1392436/1392436_720.jpg",
-        "publishedAt": "2026-04-12T09:29:00Z",
-        "source": "Tempo.co English"
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-04-12T10:26:46Z",
+        "source": "The Australian"
       },
       {
-        "title": "Why US-Iran talks in Islamabad failed. Explained in 5 points",
-        "description": "The 21-hour marathon talks in Islamabad between the US and Iran ended with no deal. From the rigid red lines to Israel's Lebanon strikes and the standoff at the Strait of Hormuz, here are five key factors that doomed the talks in Pakistan.",
-        "url": "https://www.indiatoday.in/world/story/us-iran-talks-islamabad-pakistan-failed-why-strait-of-hormuz-explained-key-points-2895048-2026-04-12",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/iranian-negotiator-ghalibaf-said-before-the-talks-that-while-iran-may-show-goodwill--it-has-no-trust-120217968-16x9_0.png?VersionId=DZdCy6d1Ze4Nbl6ma8FAcXoVFbgzYrRj",
-        "publishedAt": "2026-04-12T09:28:17Z",
-        "source": "India Today"
+        "title": "Somalia Begins Construction of Army Orphans Care Agency",
+        "description": "New agency to support children of fallen soldiers",
+        "url": "https://www.dawan.africa/news/somalia-begins-construction-of-army-orphans-care-agency",
+        "image": "https://utfs.io/f/v9D9ylrdiyZgqzyDTpQfQLwRY3Vxse6j5FnhUcCbDEJy4rPZ",
+        "publishedAt": "2026-04-12T10:26:31Z",
+        "source": "Dawan Africa"
       },
       {
-        "title": "US-Iran talks ending without deal disappointing, Streeting says",
-        "description": "The health secretary says the UK - which is not involved in the talks - wants to see a deal that ends Iran's nuclear ambitions.",
-        "url": "https://www.bbc.co.uk/news/articles/c3dlmdl1v57o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44dd/live/ee5bf930-364e-11f1-837e-77d669b4895f.jpg",
-        "publishedAt": "2026-04-12T09:28:04Z",
-        "source": "BBC"
+        "title": "The Anti-Fascist and Anti-Imperialist Conference in Porto Alegre: Great achievements, challenges and opportunities",
+        "description": "“It is through all these events that the alliances necessary to counter fascism and imperialism are being forged. It is up to us to involve the trade unions, human rights organizations, feminist and LGBTQI+ movements, anti-racist organizations, those campaigning for Palestine, and those standing in solidarity with the Ukrainian and the Iranian people. It is in this way – and by defending our eco-socialist revolutionary perspectives – that we will build the movement needed to change the world.”",
+        "url": "https://internationalviewpoint.org/The-Anti-Fascist-and-Anti-Imperialist-Conference-in-Porto-Alegre-Great",
+        "image": "https://internationalviewpoint.org/IMG/logo/img_3705.jpg?1775986292",
+        "publishedAt": "2026-04-12T10:23:29Z",
+        "source": "International Viewpoint"
       },
       {
-        "title": "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators head home",
-        "description": "Vance says Iranians refused to disavow nuclear program that would let them build bomb; he makes no mention of Strait of Hormuz, cited in Iran as other key point of disagreement; Iran's Ghalibaf: US side failed to gain our trust",
-        "url": "https://www.timesofisrael.com/us-iran-talks-in-pakistan-end-after-21-hours-with-no-deal-us-negotiators-leave/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26102077651829-e1775984670907.jpg",
-        "publishedAt": "2026-04-12T09:22:32Z",
-        "source": "The Times of Israel"
+        "title": "NigComSat Posts Threefold Revenue Jump Despite US$11.4m Chinese Debt Crisis",
+        "description": "Nigeria's state-owned satellite operator has reported a sharp rise in earnings, even as an unresolved multimillion-dollar debt to its Chinese technical partner puts the country's only working communications satellite under threat. The Nigerian Communications Satellite Limited (NigComSat) recorded revenue of approximately N2.2 billion (US$1.6 million) in 2025, up from N650…",
+        "url": "https://www.newsghana.com.gh/nigcomsat-posts-threefold-revenue-jump-despite-us11-4m-chinese-debt-crisis/",
+        "image": "https://b843437.smushcdn.com/843437/wp-content/uploads/2024/08/logo-newsghana.png?lossy=2&strip=1&webp=1",
+        "publishedAt": "2026-04-12T10:21:34Z",
+        "source": "NewsGhana"
       },
       {
-        "title": "Mukasa Appointed Deputy Governor Bank of Namibia",
-        "description": "In a significant boost to Namibia’s central banking leadership, President Netumbo Nandi-Ndaitwah has appointed Nicholas Mukasa as the second Deputy Governor of the Bank of Namibia, effective 1 May 2026. Mukasa, who previously served as Director of Financial Markets at the Bank, brings nearly two decades of hands-on experience in capital markets, investment management, and …",
-        "url": "https://chimpreports.com/mukasa-appointed-deputy-governor-bank-of-namibia/",
-        "image": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/04/1003408872.x45235.jpg",
-        "publishedAt": "2026-04-12T09:20:54Z",
-        "source": "ChimpReports"
+        "title": "TechReviewAfrica - News Details",
+        "description": "Your Trusted Tech News Platform",
+        "url": "https://techreviewafrica.com/news/4898/cote-divoire-deploys-over-1200-newly-trained-science-teachers-to-address-education-gap",
+        "image": "https://techreviewafrica.com/assets/images/news/2026/04/12/69db7b8a204cf1775991690.jpg",
+        "publishedAt": "2026-04-12T10:12:36Z",
+        "source": "Tech Review Africa"
       },
       {
-        "title": "Ukraine and Russia accuse each other of thousands of ceasefire violations",
-        "description": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-        "url": "https://www.bbc.co.uk/news/articles/cz78y73v830o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
-        "publishedAt": "2026-04-12T09:19:47Z",
-        "source": "BBC"
+        "title": "UK will not join any Trump blockade of strait of Hormuz",
+        "description": "UK’s willingness to consider role in removing mines from strait is seen as distinct from Trump’s blockade proposal",
+        "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
+        "image": "https://i.guim.co.uk/img/media/dbfdffaf6d2d4dd08527e5582cc7b64caee54327/598_45_1603_1282/master/1603.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=887ab8a1ccad0252d1028e0b68f46a84",
+        "publishedAt": "2026-04-12T10:09:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Ukraine and Russia accuse each other of thousands of ceasefire violations",
-        "description": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-        "url": "https://www.bbc.com/news/articles/cz78y73v830o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
-        "publishedAt": "2026-04-12T09:19:47Z",
-        "source": "BBC"
+        "title": "Uganda army chief's 30-day ultimatum to Turkey: ‘Give $1 billion and a wife’",
+        "description": "Muhoozi Kainerugaba accused Turkey of profiting from infra and port deals in Somalia while Ugandan troops have spent two decades fighting Al-Shabab militants. | World News",
+        "url": "https://www.hindustantimes.com/world-news/uganda-army-chief-kainerugaba-30-day-ultimatum-to-turkey-give-1-billion-and-a-wife-101775987081949.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/army_chief_uganda_1775987302622_1775987337927.jpg",
+        "publishedAt": "2026-04-12T10:08:27Z",
+        "source": "Hindustan Times"
       }
     ],
     "business": [
       {
-        "title": "As E15 Gas Becomes More Common, Remember That It's Terrible For These Engines",
-        "description": "It's illegal to use E15 in lawnmowers, motorcycles, boats, and heavy-duty vehicles. And you may want to think twice before using it in your car.",
-        "url": "https://www.jalopnik.com/2141072/e15-gas-terrible-for-many-engines/",
-        "image": "https://www.jalopnik.com/img/gallery/as-e15-gas-becomes-more-common-remember-that-its-terrible-for-these-engines/l-intro-1775488365.jpg",
-        "publishedAt": "2026-04-12T09:25:00Z",
-        "source": "Jalopnik"
+        "title": "These cofounders quit their jobs and racked up $100K in credit card debt to launch $1.2B company",
+        "description": "Wemimo Abbey and Samir Goel, the cofounders of fintech company Esusu, quit their corporate jobs and exhausted their savings on the road to unicorn status.",
+        "url": "https://fortune.com/2026/04/12/esusu-cofounders-wemimo-abbey-samir-goel-quit-jobs-credit-card-debt-slept-in-dennys-company-backed-by-serena-williams/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Esusu-e1775836116375.jpg?resize=1200,600",
+        "publishedAt": "2026-04-12T10:29:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "A panicked race for barrels grips the global oil market",
-        "description": "A desperate scramble for immediately available oil supplies is occurring globally, with traders paying unprecedented prices for prompt cargoes. This physical market frenzy contrasts with futures, highlighting a significant crude shortfall as Middle East supplies are disrupted. Refiners may cut production, deepening shortages of vital products like diesel and jet fuel.",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/a-panicked-race-for-barrels-grips-the-global-oil-market/articleshow/130205268.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130205278,width-1200,height-630,imgsize-1896436,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-12T09:18:12Z",
-        "source": "The Economic Times"
+        "title": "Fuel protests a window to an Ireland without the benefit of €30bn in corporation tax",
+        "description": "The anger on the protests is a sign of what the Government will face if it cannot solve issues with spending",
+        "url": "https://www.irishtimes.com/media/2026/04/12/fuel-protests-a-window-to-an-ireland-without-the-benefit-of-30bn-in-corporation-tax/",
+        "image": "https://www.irishtimes.com/resizer/v2/ZYL45SHVCNTT4KWH2ZWM7SBM24.jpg?smart=true&auth=3efeb4f8b480cc77668c5234f6e6feec96ef1b7c7898d907fc4172e722e0c167&width=1200&height=630",
+        "publishedAt": "2026-04-12T10:28:50Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "Failure of US-Iran Talks Set to Weigh on Risk Assets Monday",
-        "description": "The US and Iran’s failure to strike a peace deal over the weekend is set to weigh on market sentiment and lift demand for safe haven assets on Monday, according to analysts.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-12/failure-of-us-iran-talks-set-to-weigh-on-risk-assets-monday",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if3iBAcHk.oo/v1/1200x800.jpg",
-        "publishedAt": "2026-04-12T09:17:53Z",
-        "source": "Bloomberg.com"
+        "title": "Competition watchdog monitors fuel market",
+        "description": "THE Philippine Competition Commission (PCC) said it is closely monitoring the behavior of companies in the fuel sector and related industries to",
+        "url": "https://www.sunstar.com.ph/cebu/competition-watchdog-monitors-fuel-market",
+        "image": "https://media.assettype.com/sunstar%2F2024-05%2F39de4c56-e3f7-4b8c-b20b-483605740cde%2FSunStar%20Business.jpg?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-12T10:23:08Z",
+        "source": "SunStar Publishing Inc."
       },
       {
-        "title": "9 Stocks To Buy For Long Term: Motilal Oswal, Sharekhan bullish on TCS, UltraTech Cement, Coal India; up to 49% upside",
-        "description": "9 Stocks To Buy For Long Term: Motilal Oswal and Sharekhan have turned bullish on nine stocks including TCS, UltraTech Cement and Coal India, with target prices indicating upside of up to 49 per cent. The picks span IT, cement, mining, retail and FMCG sectors, backed by strong earnings outlook, demand recovery and improving business momentum.",
-        "url": "https://www.zeebiz.com/markets/stocks/photo-gallery-9-stocks-to-buy-for-long-term-motilal-oswal-sharekhan-bullish-on-tcs-ultratech-cement-coal-india-up-to-49-upside-393539",
-        "image": "https://cdn.zeebiz.com/sites/default/files/2026/04/12/404028-398688-1.jpg",
-        "publishedAt": "2026-04-12T09:16:00Z",
-        "source": "Zee Business"
+        "title": "TCS makes 25,000 fresher offers for FY27, hiring to depend on demand: CEO",
+        "description": "India Business News: India’s largest IT services firm Tata Consultancy Services (TCS) has made 25,000 offers to fresh graduates for FY27, with further hiring dependent on .",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-makes-25000-fresher-offers-for-fy27-hiring-to-depend-on-demand-ceo/articleshow/130205944.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130205993,width-1280,height-720,imgsize-115452,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T10:16:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Here's How Much Gasoline the Average American Consumes Annually",
-        "description": "Americans use a lot of gas each year.",
-        "url": "https://www.fool.com/investing/2026/04/12/heres-how-much-gasoline-the-average-american-consu/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F864493%2Fa-frustrated-person-holding-money-while-pumping-gas.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-12T09:10:58Z",
-        "source": "The Motley Fool"
+        "title": "Why there is shortage of ginger in Ghana - Deputy Agric Minister explains",
+        "description": "There has been a shortage of ginger on the market in recent times, leading to an astronomical price increase.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Why-there-is-shortage-of-ginger-in-Ghana-Deputy-Agric-Minister-explains-2029705",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/869/86918375.jpg",
+        "publishedAt": "2026-04-12T10:12:37Z",
+        "source": "GhanaWeb"
       },
       {
-        "title": "Diesel hike squeezes supply chain as tofu, soya products see price increase in KL",
-        "description": "KUALA LUMPUR, April 12 — Even the humble tofu, often seen as a cheaper alternative to meat, is beginning to feel the pinch following weeks of sharp diesel price hikes.In some...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/04/12/diesel-hike-squeezes-supply-chain-as-tofu-soya-products-see-price-increase-in-kl/216098",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/12/335340.jpg",
-        "publishedAt": "2026-04-12T09:09:32Z",
-        "source": "Malay Mail"
+        "title": "ChatGPT: Best Affordable Cars for Families",
+        "description": "New cars are pricey, but families still have plenty of options in 2026. See the best affordable family cars for 2026 that balance safety, space and value.",
+        "url": "https://www.gobankingrates.com/saving-money/car/asked-chatgpt-best-most-affordable-cars-for-families-2026/",
+        "image": "https://cdn.gobankingrates.com/wp-content/uploads/2024/02/hondacrv-2024-Honda-CR-V-Sport-Touring.jpg",
+        "publishedAt": "2026-04-12T10:12:33Z",
+        "source": "GOBankingRates"
       },
       {
-        "title": "Meet the founder who came to Nigeria by chance, saw tomatoes going to waste, and raised over $18 million to fix it",
-        "description": "Tomato Jos, founded in 2014 by Mira Mehta, has grown from a small farming experiment into a company tackling inefficiencies in Nigeria’s tomato value chain. | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/leaders/meet-the-founder-who-came-to-nigeria-by-chance-saw-tomatoes-going-to-waste-and-raised/b925x84",
-        "image": "https://ocdn.eu/pulscms-transforms/1/V4ZktkpTURBXy8yNjg0ZjhmZWVlNmU0ODFkMjFiMmZkMGJiMDYzNDg3NS5qcGeSlQMAAM0Crs0BgZMFzQSwzQJ2",
-        "publishedAt": "2026-04-12T09:06:21Z",
-        "source": "Business Insider Africa"
+        "title": "Failure of US-Iran talks set to weigh on risk assets Monday",
+        "description": "The dollar is expected to rise on Monday, after falling 1.4% last week, along with oil prices, analysts said.",
+        "url": "https://www.bostonglobe.com/2026/04/12/nation/failure-of-us-iran-talks-set-to-weigh-on-risk-assets-monday/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WZNXXLJEZJEU5DRVL3EI7WHLVY.jpg?auth=c8586658e31395a8212cf029ddd9b9ed19b96876a339aa5866b8aa941cb798dd&width=1440",
+        "publishedAt": "2026-04-12T10:11:24Z",
+        "source": "The Boston Globe"
       },
       {
-        "title": "Health-Focused Scandinavian Electrolyte Drinks",
-        "description": "Scandinavian Electrolyte - SALTE — the Scandinavian electrolyte brand — has been named Product of the Year at Norway's leading health retail chain Sunkost. This award wa...",
-        "url": "https://www.trendhunter.com/trends/scandinavian-electrolyte",
-        "image": "https://cdn.trendhunterstatic.com/thumbs/608/scandinavian-electrolyte.jpeg",
-        "publishedAt": "2026-04-12T09:04:32Z",
-        "source": "Trend Hunter"
+        "title": "Micron Technology: I'm Buying And Not Looking Back",
+        "description": "Micron's HBM product line, power efficiency, and supply chain control position it to benefit from sustained AI and GPU demand. Read why MU stock is a Strong Buy.",
+        "url": "https://seekingalpha.com/article/4890056-micron-technology-im-buying-and-not-looking-back",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254496340/image_2254496340.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-12T10:10:00Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Louise Thompson says she believes the Artemis II space mission was a 'wild hoax' as she questions snaps of the astronauts' historic return to Earth",
+        "description": "On Friday, NASA astronauts Reid Wiseman, Victor Glover and Christina Koch, along with Canadian astronaut Jeremy Hansen, finished a ten-day mission that carried them around the moon,.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15726217/Louise-Thompson-says-believes-Artemis-II-space-mission-wild-hoax-questions-snaps-historic-return-Earth.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832701-0-image-m-115_1775989254450.jpg",
+        "publishedAt": "2026-04-12T10:21:54Z",
+        "source": "Daily Mail"
+      },
+      {
+        "title": "Extreme athletes just helped scientists unlock a deep evolutionary secret about human survival",
+        "description": "How does the human body manage its energy when pushed to the brink? New research shows that during extreme physical stress, deep evolutionary programming kicks in, sacrificing tissue repair and reproduction to keep the immune system active.",
+        "url": "https://www.psypost.org/extreme-athletes-just-helped-scientists-unlock-a-deep-evolutionary-secret-about-human-survival/",
+        "image": "https://www.psypost.org/wp-content/uploads/2026/04/ultramarathon-runner.jpg",
+        "publishedAt": "2026-04-12T10:16:34Z",
+        "source": "PsyPost"
+      },
+      {
+        "title": "NASA’s Artemis II is delivering a jackpot of data, Brown researchers say",
+        "description": "While Apollo was a ‘Lewis and Clark-like’ scientific expedition, planetary research professor James Head III said, Artemis has bigger ambitions: establishing a permanent base on the moon.",
+        "url": "https://www.bostonglobe.com/2026/04/12/metro/nasa-artemis-ii-data-brown/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/2OHFUN2RACYAK4QHAVDRTC47KE.jpg?auth=cfaf969dce094fc09b402a2ef3aa28005126818f79abd3343a156c3a5d9c45a5&width=1440",
+        "publishedAt": "2026-04-12T10:11:30Z",
+        "source": "The Boston Globe"
+      },
+      {
+        "title": "Can Pluto regain planet status? NASA responds to 10-year-old’s emotional request",
+        "description": "A renewed debate over Pluto's planet status has begun after a viral post on X shared a 10-year-old child’s emotional letter asking for Pluto to be reinstated as a planet. The discussion...",
+        "url": "https://www.thenews.com.pk/latest/1398633-can-pluto-regain-planet-status-nasa-responds-to-10-year-olds-emotional-request",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-12/1398633_031156_updates.jpg",
+        "publishedAt": "2026-04-12T10:10:07Z",
+        "source": "The News International"
+      },
+      {
+        "title": "'Human minds shouldn't have to go through' this: Artemis II crew recalls unreal moment when Earth disappeared - Space photo of the week",
+        "description": "A stunning Earthset image from Artemis II recalls Apollo 8's Earthrise, marking humanity's return to deep space and the start of a new era of exploration.",
+        "url": "https://www.livescience.com/space/human-minds-shouldnt-have-to-go-through-this-artemis-ii-crew-recalls-unreal-moment-when-earth-disappeared-space-photo-of-the-week",
+        "image": "https://cdn.mos.cms.futurecdn.net/95DQWuHqSXz4iWkXFxXBeT-1920-80.jpg",
+        "publishedAt": "2026-04-12T10:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "New Era For Space Dawns As Artemis Astronauts Return",
+        "description": "After a 10-day journey around the far side of the Moon, the four astronauts on NASA’s Artemis II mission are set to splash down in the Pacific Ocean late on Friday.",
+        "url": "https://www.scoop.co.nz/stories/SC2604/S00022/new-era-for-space-dawns-as-artemis-astronauts-return.htm",
+        "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+        "publishedAt": "2026-04-12T09:59:00Z",
+        "source": "Scoop - New Zealand News"
+      },
       {
         "title": "Blockage of autophagy causes severe skeletal muscle disruption in a mouse model for myofibrillar myopathy 6",
         "description": "Myofibrillar myopathy 6 is a rare, autosomal-dominant neuromuscular disorder caused by an amino acid exchange Pro209Leu in the co-chaperone BAG3, which disrupts muscle protein turnover and causes severe muscle weakness and shortened lifespan. We generated transgenic mice overexpressing the human mutant BAG3P209L-GFP, which rapidly develop skeletal muscle weakness unlike controls expressing BAG3WT-GFP. Here we show that mutant mice exhibit sarcomere breakdown, inflammation, protein aggregates, centralized nuclei and mitochondrial defects in their skeletal muscles, thereby reducing contraction force by ~90%. Omics profiling uncovered impaired protein synthesis, blocked autophagy, impaired mitophagy and loss of sarcomere proteins. Pathway modulation in vitro and in vivo showed autophagy dysfunction as the primary driver for the pathology, while BAG3 knockdown gene therapy markedly restored muscle function in vivo. In summary, this model recapitulates core disease features, revealing how BAG3 aggregates and loss of BAG3 function impair autophagy to drive muscle degeneration. Myopathy caused by BAG3 mutation disrupts muscle protein homeostasis and leads to severe muscle weakness. In mouse models, the authors demonstrate that impaired autophagy drives the pathology, while gene therapy targeting the mutated BAG3 improves muscle function.",
@@ -150,120 +198,72 @@
         "image": "https://s.yimg.com/ny/api/res/1.2/Uvekc0DU2Ji0mq80Na.M.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/live_science_953/58cd5f775728e8fb2cf028202c5f313e",
         "publishedAt": "2026-04-12T09:00:00Z",
         "source": "Yahoo"
-      },
-      {
-        "title": "Does the moon look the same from everywhere on Earth?",
-        "description": "The moon's orientation changes quite dramatically across time and between places, largely due to differences in perspective.",
-        "url": "https://www.livescience.com/space/the-moon/does-the-moon-look-the-same-from-everywhere-on-earth",
-        "image": "https://cdn.mos.cms.futurecdn.net/pLsoiWEnz47k5PuJgr2M59-1920-80.jpg",
-        "publishedAt": "2026-04-12T09:00:00Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Artemis II crew urges unity after seeing fragile earth",
-        "description": "NASA’s Artemis II astronauts have described their historic lunar flyby after splashing back to earth near the California coastline.",
-        "url": "https://www.enca.com/news/artemis-ii-crew-urges-unity-after-seeing-fragile-earth",
-        "image": "https://www.enca.com/sites/default/files/styles/large/public/2023-07/doc-9XB4NJ-%2540photo0.jpg.webp?itok=eLOX9EDz",
-        "publishedAt": "2026-04-12T08:54:46Z",
-        "source": "eNCA"
-      },
-      {
-        "title": "The Sky Today on Sunday, April 12: Comet C/2025 R3 (PanSTARRS) grows bright",
-        "description": "This bright, breakout comet has cracked naked-eye magnitude and should be easy to spot with binoculars or a smartphone before dawn.",
-        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-april-12-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/04/PanSTARRS04122026.png",
-        "publishedAt": "2026-04-12T08:02:07Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "Over 150 mergers reveal three different black hole origin stories",
-        "description": "New findings suggest that a fraction of black hole collisions involve \"recycled\" objects from previous mergers.",
-        "url": "https://interestingengineering.com/space/three-type-of-black-hole-mergers",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/black-hole-mergers.jpg",
-        "publishedAt": "2026-04-12T07:55:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "Universe Expanding Rapidly, Scientists Baffled",
-        "description": "An international team of astronomers has delivered one of the clearest measurements yet of how quickly the nearby Universe is expanding. Instead of",
-        "url": "https://www.miragenews.com/universe-expanding-rapidly-scientists-baffled-1653862/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1517048676732-d65bc937f952%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-12T07:20:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Scientists thought this bird was one species",
-        "description": "An Amazonian bird turned out to be five distinct species; two of them were previously unknown to the scientific community.",
-        "url": "https://www.earth.com/news/scientists-thought-this-amazon-bird-was-one-species-its-actually-five/",
-        "image": "https://cff2.earth.com/uploads/2026/04/08101800/amazon-antbird-five-distinct-species-discovery.jpg",
-        "publishedAt": "2026-04-12T07:18:45Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "Are humans failing ethically in the AI Age?",
-        "description": "Are humans failing ethically in the age of AI? Explore UPSC-ready insights on integrity, AI bias, and ethical dilemmas for GS Paper 4.",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-gs4-ethics-ai-bias-integrity-case-study-10632372/",
-        "image": "https://images.indianexpress.com/2026/04/UPSC-Ethics-AI-and-humans.jpg",
-        "publishedAt": "2026-04-12T09:23:09Z",
-        "source": "The Indian Express"
+        "title": "UNM student calls for clear AI rules in the college classroom",
+        "description": "A University of New Mexico junior describes how artificial intelligence tools like chatbots are reshaping college classes and argues that professors need clear AI guidelines to protect academic integrity and prepare students for the workforce.",
+        "url": "https://www.abqjournal.com/opinion/opinion-searching-for-clarity-in-a-post-ai-classroom/2997694",
+        "image": "https://image.abqjournal.com/3018029.jpg?imageId=3018029&x=0&y=25.38&cropw=100&croph=32.25&panox=0&panoy=25.38&panow=100&panoh=32.25&width=1200&height=683",
+        "publishedAt": "2026-04-12T10:26:00Z",
+        "source": "Albuquerque Journal"
       },
       {
-        "title": "IT employee hailing from Kollam leads Pooram craft, follows father’s footsteps",
-        "description": "An employee of a Netherlands-based IT company, Jayesh returns home each year to carry forward his father's legacy, crafting the decorations and.Kollam Pooram decorations, festival adornments Kerala, Jayesh Pooram artist, traditional temple art, Kollam Pooram preparations, AI in festival art, LLM for cultural heritage, crafting temple decor, Vishu festival traditions, South Indian temple festivals, digital art for festivals, generative AI cultural projects, Kollam Pooram artistic legacy, AI-assisted craft design, LLMs for creative expression",
-        "url": "https://www.onmanorama.com/news/kerala/2026/04/12/kollam-pooram-decorations-festival-artistry-kerala-jayesh.html",
-        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/12/jayesh-wm-c.jpg",
-        "publishedAt": "2026-04-12T09:19:23Z",
+        "title": "FOBO (The fear of becoming obsolete): How anxiety triggered by AI is taking over workplaces",
+        "description": "The anxiety over rapid advancements in artificial intelligence (AI) has unlocked a new fear in employees. People are now increasingly facing FOBO, or the fear of becoming obsolete. But are these worries valid? What can employers do to allay these fears?",
+        "url": "https://www.firstpost.com/explainers/fobo-fear-of-becoming-obsolete-ai-anxiety-workplaces-13997559.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/2-2026-04-966213dcbda7d3b0aa550fc7946e08d0.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-12T10:25:47Z",
+        "source": "Firstpost"
+      },
+      {
+        "title": "Michael Burry is still betting against Palantir even after Trump's 'warfighting' praise. AI bubble ready to pop?",
+        "description": "Veteran investor Michael Burry remains bearish on Palantir Technologies, citing high valuations and AI bubble risks. While optimism persists around artificial intelligence, experts warn uncertainty over profitability and infrastructure spending could challenge long-term returns despite strong technological potential.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/michael-burry-is-still-betting-against-palantir-even-after-trumps-warfighting-praise-ai-bubble-ready-to-pop/articleshow/130206118.cms",
+        "image": "https://img.etimg.com/thumb/msid-130206110,width-1200,height-630,imgsize-10892,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-12T10:25:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Man Fell In Love With AI Chatbot: After 4732 Messages, Ended In Tragedy",
+        "description": "The tragic case of Jonathan Gavalas highlights the dangers of emotional attachment to AI, specifically Google Gemini, which he referred to as his queen. , Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/man-fell-in-love-with-ai-chatbot-after-4732-messages-ended-in-tragedy-article-154059296",
+        "image": "https://images.timesnownews.com/thumb/msid-154059296,width-1280,height-720,resizemode-75/154059296.jpg",
+        "publishedAt": "2026-04-12T10:19:13Z",
+        "source": "Times Now"
+      },
+      {
+        "title": "Micron Technology: I'm Buying And Not Looking Back",
+        "description": "Micron's HBM product line, power efficiency, and supply chain control position it to benefit from sustained AI and GPU demand. Read why MU stock is a Strong Buy.",
+        "url": "https://seekingalpha.com/article/4890056-micron-technology-im-buying-and-not-looking-back",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254496340/image_2254496340.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-12T10:10:00Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Kerala's cyclist-photographer explores India, braving death multiple times",
+        "description": "Navin Paul began the 'India on Cycle' journey during the COVID times to capture the million expressions of India in his camera..Navin Paul India cycling journey, India on cycle adventure, solo cycling trip India, Khardung La cycling challenge, cyclist photographer India, landscape photography India tour, long distance cycle touring, extreme weather cycling adventure, Navin Paul's India travelogue, inspiring travel stories, AI powered travel planning insights, LLM for travel itinerary optimization, machine learning travel recommendations, natural language processing travel narratives, future of AI in adventure travel",
+        "url": "https://www.onmanorama.com/travel/outside-kerala/2026/04/12/navin-paul-kerala-cyclist-photographer.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/travel/outside-kerala/images/2026/4/12/navin-paul-photo1.jpg",
+        "publishedAt": "2026-04-12T10:08:21Z",
         "source": "Malayala Manorama"
       },
       {
-        "title": "‘Ms Curie’ brings AI tutoring to schools",
-        "description": "LEAD Group has launched ‘Ms Curie’, an artificial intelligence-powered tutor designed to deliver one-to-one personalised learning in classrooms, with plans to roll it out across more than 1,000 schools over the next 12–18 months.",
-        "url": "https://www.tribuneindia.com/news/schools/ms-curie-brings-ai-tutoring-to-schools/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdiMThlYTMwLTM2NTAtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-        "publishedAt": "2026-04-12T09:17:47Z",
-        "source": "The Tribune"
+        "title": "Editorial: As AI turns classmates into targets, schools and parents are playing catch-up",
+        "description": "Lake Zurich High School officials said police are investigating reports that students had allegedly used artificial intelligence to generate and share explicit, pornographic images using the likeness of other students.",
+        "url": "https://www.chicagotribune.com/2026/04/12/lake-zurich-lake-zurich-high-school-illinois-sextortion-deepfakes-students/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/04/ctc-l-state-capitol04_259663352.jpg?w=1024&h=642",
+        "publishedAt": "2026-04-12T10:00:41Z",
+        "source": "Chicago Tribune"
       },
       {
-        "title": "‘Mythos Drama’: Meta AI Chief Scientist Yann LeCun Comments On Mythos AI, Sparks Debate-Know About Anthropic’s New Model And Its Controversy",
-        "description": "Anthropic’s Mythos AI sparks debate as Yann LeCun calls concerns overblown, while firms like Cisco see it as a breakthrough; access remains restricted.",
-        "url": "https://www.newsx.com/tech-and-auto/mythos-drama-meta-ai-chief-scientist-yann-lecun-comments-on-mythos-ai-sparks-debateknow-about-anthropics-new-model-and-its-controversy-197870/",
-        "image": "https://www.newsx.com/wp-content/uploads/2026/04/yann-lecun.jpg",
-        "publishedAt": "2026-04-12T09:13:23Z",
-        "source": "NewsX"
-      },
-      {
-        "title": "Europe missed AI bus, but India has potential to catch up: Former WEF Director",
-        "description": "India has the potential to lead in AI and manufacturing, according to former WEF Director Frank-Jurgen Richter.",
-        "url": "https://www.thehindubusinessline.com/news/world/europe-missed-ai-bus-but-india-has-potential-to-catch-up-former-wef-director/article70853551.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/odavl2/article70853700.ece/alternates/LANDSCAPE_1200/02_Frank_Jurgen_Richter.jpg",
-        "publishedAt": "2026-04-12T09:08:33Z",
-        "source": "The Hindu Business Line"
-      },
-      {
-        "title": "Microsoft VP Rajesh Jha on how even if companies layoff half their workforce due to AI, it will only increase business of software companies, not 'kill'",
-        "description": "Tech News News: While investors fret over a potential software rout due to ‘explosion’ of AI technology, one of Microsoft’s top executive has pushed back against fear.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-vp-rajesh-jha-on-how-even-if-companies-layoff-half-their-workforce-due-to-ai-it-will-only-increase-business-of-software-companies-not-kill/articleshow/130205233.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130205202,width-1280,height-720,imgsize-30160,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T09:06:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Molotov cocktail thrown at Sam Altman’s house: All you need to know",
-        "description": "A Molotov cocktail was thrown at the house of OpenAI CEO Sam Altman, sparking concerns about the safety of technology executives. The 20-year-old suspect also made threats outside OpenAI’s headquarters. Altman reflected on the consequences of public narratives around AI and called for de-escalation of rhetoric.",
-        "url": "https://indianexpress.com/shorts/explained/explained-sci-tech/sam-altman-house-attack-all-you-need-to-know-10632390-2/",
-        "image": "https://images.indianexpress.com/2026/04/sam-altman-1600.jpg",
-        "publishedAt": "2026-04-12T09:05:45Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Kevin O'Leary Says Top Creatives Now Earn Up To $600K As AI Turns Jobs Into Profit Centers: 'If You Can D",
-        "description": "Kevin O'Leary says top creative talent now earn up to $300K base plus bonuses as marketing roles shift to performance-based.",
-        "url": "https://www.benzinga.com/personal-finance/financial-advisors/26/04/51770302/kevin-oleary-says-top-creatives-now-earn-up-to-600k-as-ai-turns-jobs-into-profit-centers-if-you-can-deliver-you-get-paid",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/12/OLeary-Credits-Wifes-Rule-For-His-Wealth.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-12T09:05:37Z",
-        "source": "Benzinga"
+        "title": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
+        "description": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI",
+        "url": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+        "image": "https://i.guim.co.uk/img/media/52f28e3778e0def3eb14d4cf2f324385763c3788/415_0_2671_2138/master/2671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83348bb3505e4574d4ff10668a834b30",
+        "publishedAt": "2026-04-12T10:00:14Z",
+        "source": "The Guardian"
       }
     ]
   }
