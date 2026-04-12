@@ -1,74 +1,130 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-12T09:33:15.477Z",
+  "fetchedAt": "2026-04-12T10:30:37.873Z",
   "sections": {
     "world": [
       {
-        "title": "U.S. troops sank Iran's mines-laying ships in Strait of Hormuz: Trump",
-        "description": "Last Sunday, Mr Trump threatened to visit hell on Iran within 48 hours by attacking civilian infrastructure.",
-        "url": "https://gazettengr.com/u-s-troops-sank-irans-mines-laying-ships-in-strait-of-hormuz-trump/",
-        "image": "https://gazettengr.com/wp-content/uploads/Trump-2.jpg",
-        "publishedAt": "2026-04-11T21:32:54Z",
-        "source": "Peoples Gazette Nigeria"
+        "title": "If China does that, Trump warns Beijing over possible Iran arms shipment",
+        "description": "President Donald Trump warned China would face “big problems” if it sends weapons to Iran, after US intelligence suggested Beijing may secretly route air defence systems through third countries. China denied the allegation, calling it baseless. The report adds to tensions despite a fragile US-Iran ceasefire and Trump’s upcoming China visit.",
+        "url": "https://www.indiatoday.in/world/story/trump-warns-china-weapons-shipments-iran-ceasefire-tensions-stait-of-hormuz-war-2894950-2026-04-12",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/trump-kharg-attack-plan-162716771-16x9.jpg?VersionId=7wfJZRktSgEzWGiBm.lgpvc7FDt5xL11",
+        "publishedAt": "2026-04-11T22:27:44Z",
+        "source": "India Today"
       },
       {
-        "title": "Prime Minister Netanyahu Says Israel Will Continue to Fight Iran Amid Ceasefire",
-        "description": "Netanyahu declared Israel’s campaign against Iran achieved historic gains, citing strikes, covert operations, and intelligence after October 7, 2023.",
-        "url": "https://www.legit.ng/world/1705085-prime-minister-netanyahu-israel-continue-fight-iran-ceasefire/",
-        "image": "https://cdn.legit.ng/images/1200x675/33dd41d1f9c02424.jpeg?v=1",
-        "publishedAt": "2026-04-11T21:27:37Z",
-        "source": "Legit.ng"
+        "title": "'Going to have big problems': Donald Trump warns China on reports of weapons shipments to Iran",
+        "description": "US News: Donald Trump early Sunday doubled down on his victory rhetoric against Iran, claiming the US had dismantled Tehran’s military capabilities and warning.",
+        "url": "https://timesofindia.indiatimes.com/world/us/going-to-have-big-problems-donald-trump-warns-china-on-reports-of-weapons-shipments-to-iran/articleshow/130200950.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130200956,width-1280,height-720,imgsize-849862,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-11T22:24:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Iranian Canadians call on U.S. to keep up military pressure at embassy rally",
-        "description": "Hundreds of demonstrators gathered outside the U.S. Embassy in Ottawa on Saturday to call for continued military pressure in Iran, sharing concerns about a prolonged internet blackout and the potential results of face-to-face talks between the two countries.",
-        "url": "https://www.cbc.ca/news/canada/ottawa/iranian-demonstrators-in-ottawa-hope-the-u-s-doesn-t-leave-them-behind-9.7160608",
-        "image": "https://i.cbc.ca/ais/195b8076-9a45-4501-8675-687343564b1d,1775940388607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C328%2C6000%2C3375%29%3BResize%3D620",
-        "publishedAt": "2026-04-11T21:22:16Z",
-        "source": "CBC"
+        "title": "In fiery speech, Pope Leo says ‘Enough to war!’",
+        "description": "The pontiff calls on billions of people around the globe to embrace peace and 'believe once again in love, moderation and good politics'.",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/04/12/in-fiery-speech-pope-leo-says-enough-to-war",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/03/13801893-Pope-Leo-XIV.webp",
+        "publishedAt": "2026-04-11T22:11:09Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Eric Swalwell abuse claims investigated by Manhattan district attorney",
-        "description": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
-        "url": "https://www.bbc.co.uk/news/articles/c7vq0jnn0yro",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg",
-        "publishedAt": "2026-04-11T21:11:18Z",
-        "source": "BBC"
+        "title": "Shadowy, pro-Iranian group claims spate of attacks in Europe. But it might be a facade",
+        "description": "An pro-Iran group has claimed responsibility for attacks on Jewish communities and American interests in Europe. The catch is, some believe it could be a state-assisted low-cost hybrid attack tactic, and a \"new normal\".",
+        "url": "https://www.rnz.co.nz/news/world/592133/shadowy-pro-iranian-group-claims-spate-of-attacks-in-europe-but-it-might-be-a-facade",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--qGS5UUwA--/t_tohu-badge-facebook/v1775940211/4JQAP3J_AFP_UK_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-11T22:10:43Z",
+        "source": "RNZ"
       },
       {
-        "title": "Middle East crisis live: US-Iran peace talks expected to resume Sunday as ‘serious disagreements’ remain",
-        "description": "Iranian government says historic talks have paused after stretching into early morning, while Netanyahu says Israel is still committed to fighting Iran",
-        "url": "https://www.theguardian.com/world/live/2026/apr/11/middle-east-crisis-live-iranian-officials-arrive-in-islamabad-for-conditional-peace-talks-with-us?page=with%3Ablock-69da947a8f08dd48307746c9",
-        "image": "https://i.guim.co.uk/img/media/461c7bcfe4d90c68804f90bb9ef3373414175464/36_0_3782_3025/master/3782.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=abbd864f7a323cf3c8971aef464c068d",
-        "publishedAt": "2026-04-11T21:09:00Z",
+        "title": "Iran issues BIG warning to 2 US warships 'transit Strait of Hormuz' amid ongoing talks",
+        "description": "Iran’s Strait of Hormuz tensions escalate as US Central Command begins mine-clearing operations. Islamic Revolutionary Guard Corps warns of severe action against military vessels, while Donald Trump claims US dominance amid ongoing talks.",
+        "url": "https://www.wionews.com/photos/iran-issues-warning-to-2-us-warships-transit-strait-of-hormuz-amid-ongoing-pakistan-islamabad-talks-irgc-warning-will-be-dealt-severely-1775944332187",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260412/image-1775944779677.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-11T22:06:08Z",
+        "source": "WION"
+      },
+      {
+        "title": "Malaysia’s work-from-home policy: Experts flag minimal fuel savings, businesses wary of economic fallout",
+        "description": "As segments of Malaysia’s civil service gear up to work from home thrice a week, economists say fuel savings from the move will be minimal. But businesses warn expanding the policy will hurt the economy.",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-wfh-work-home-civil-servants-save-fuel-iran-war-6048416",
+        "image": "https://dam.mediacorp.sg/image/upload/s--DnjVEs-a--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/09/fdz_4620.jpg?itok=_TvgXR9w",
+        "publishedAt": "2026-04-11T22:00:00Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Pope says ‘enough of war’ and decries ‘delusion of omnipotence’ at peace vigil",
+        "description": "Leo’s comments did not directly mention war in Iran but read as his strongest condemnation of the conflict yet",
+        "url": "https://www.theguardian.com/world/2026/apr/11/pope-leo-us-israel-iran-war",
+        "image": "https://i.guim.co.uk/img/media/97f435dec68a0d87d45425a65faa904ef912eaca/568_0_2875_2301/master/2875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba04740d988f078923848eaaa75e09d5",
+        "publishedAt": "2026-04-11T21:47:09Z",
         "source": "The Guardian"
       },
       {
-        "title": "Takaichi speaking less to press; more active on social media",
-        "description": "In the more than five months since becoming Japan's first female prime minister, Sanae Takaichi has shown a tendency to speak to the press less frequently than her recent predecessors, according to data on her daily activities. Takaichi's tenure so far has been marked by active use of social media…",
-        "url": "https://japantoday.com/category/politics/Takaichi-speaking-less-to-press-more-active-on-social-media",
-        "image": "https://media.japantoday.com/img/store/f0/38/16e957ebc15e205988e96d7ee9d960ffea18/screenshot-2026-04-11-at-14-49-47/_w1700.png",
-        "publishedAt": "2026-04-11T21:08:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Parts of Japan sees warm temperatures; 30 C recorded in Shizuoka",
-        "description": "Parts of Japan across its east and west saw unseasonably warm weather Saturday, with the city of Shizuoka reaching 30.3 C, a level usually on par with late July, the weather agency said. Central Tokyo saw 27.3 C, while other areas recording high temperatures included Sano in Tochigi Prefecture north…",
-        "url": "https://japantoday.com/category/national/swathe-of-japan-sees-warm-temperatures-30-c-recorded-in-shizuoka",
-        "image": "https://media.japantoday.com/img/store/fa/84/fe7418fb7ea970586043a1bcffffe55e746a/20260411kw___0013000010-ph-----n-ci0004/_w1700.jpeg",
-        "publishedAt": "2026-04-11T21:08:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
-        "description": "Ukraine reports 469 violations of Putin’s 32-hour ceasefire, hours after deadly drone attacks on Odesa and Kherson",
-        "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
-        "image": "https://i.guim.co.uk/img/media/1ea7fd0418c7178463b6e984a3b7b791fc836b9e/110_94_1083_866/master/1083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f31d8b84583724e763e40e73c2c5fc8b",
-        "publishedAt": "2026-04-11T21:07:00Z",
-        "source": "The Guardian"
+        "title": "Grief and rage in Lebanon ahead of talks with Israel in the US",
+        "description": "Mourners in Lebanon are burying 13 state security officers killed when Israeli airstrikes hit their office headquarters in the southern Lebanese town of Nabatiyeh.",
+        "url": "https://apnews.com/article/lebanon-israel-war-hezbollah-negotiations-394f8bdaee36bab82ab3ebc713221302",
+        "image": "https://dims.apnews.com/dims4/default/2e00991/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F49%2Fcfd26e901f88f3653a6273fab4de%2Fd555a27e137c429ebb484168c8ec5e12",
+        "publishedAt": "2026-04-11T21:41:00Z",
+        "source": "AP News"
       }
     ],
     "business": [
+      {
+        "title": "England rugby player blames head injuries for £450,000 investment loss",
+        "description": "Paul Sampson ended up penniless and sleeping in his car after handing over his life savings",
+        "url": "https://www.thetimes.com/money/saving-investing/article/england-rugby-player-blames-head-injuries-for-450000-investment-loss-6vkbh7zvd",
+        "image": "https://www.thetimes.com/imageserver/image/7516901e-d9d3-42a1-8b52-b74e85241f80.jpg?strip=all&format=webp&crop=1544px%2C869px%2C110px%2C328px&resize=1200",
+        "publishedAt": "2026-04-11T22:30:00Z",
+        "source": "The Times"
+      },
+      {
+        "title": "day psychedelic trips for the terminally ill",
+        "description": "In a development that would have been unthinkable not long ago, Medsafe has granted a single New Zealand doctor permission to use mind-altering psilocybin –...",
+        "url": "https://www.nzherald.co.nz/nz/auckland-gp-fi-darracott-cankovic-offers-all-day-psychedelic-trips-for-the-terminally-ill/premium/X2BOZ6WS5BGD5IO3ZFE555WUYU/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/ADCBKYYGDRDE7MIXWMWKSU6ECQ.jpg?auth=0b5486c7570e2af1027dd0b905e6bfe912303046adee5bdd72261d462817613a&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-04-11T22:28:12Z",
+        "source": "NZ Herald"
+      },
+      {
+        "title": "Why Falling Rocket Launch Costs Are Getting Investors Excited About Space",
+        "description": "Solutions that previously weren't cost effective to utilize are now quite affordable.",
+        "url": "https://www.fool.com/investing/2026/04/11/why-falling-rocket-launch-costs-are-getting-invest/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F862606%2Frocket-launch.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-11T22:16:30Z",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "Amethis: Majority Stake Acquisition Of Power Solutions Provider ADEMAT",
+        "description": "Pan-African private equity firm Amethis has acquired a majority stake in Côte d’Ivoire-based power security solutions provider ADEMAT from SPE Capital, marking a new phase of growth for the company as it expands its footprint across West and Central Africa.",
+        "url": "https://pulse2.com/amethis-majority-stake-acquisition-of-power-solutions-provider-ademat/",
+        "image": "https://cdn.pulse2.com/cdn/2026/04/Amethis-Logo.jpeg",
+        "publishedAt": "2026-04-11T22:13:34Z",
+        "source": "Pulse 2.0"
+      },
+      {
+        "title": "Denza expands service, resale options for owners as line",
+        "description": "Luxury brand Denza used the Melbourne Motor Show to announce it's bolstering its ownership proposition as it grows its local footprint.",
+        "url": "https://www.drive.com.au/news/denza-offering-pre-paid-servicing-guaranteed-future-value-to-reassure-buyers-its-here-to-stay/",
+        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/6e63f799-6d76-5eb4-a8da-70d025d50000",
+        "publishedAt": "2026-04-11T22:06:26Z",
+        "source": "drive.com.au"
+      },
+      {
+        "title": "Toowoomba great-grandfather named Qld's second-oldest newly admitted lawyer",
+        "description": "A 77-year-old great-grandfather from Toowoomba proves age is no barrier to launching a new career as he is admitted as a lawyer.",
+        "url": "https://www.abc.net.au/news/2026-04-12/toowoomba-great-grandfather-named-new-lawyer/106540798",
+        "image": "https://live-production.wcms.abc-cdn.net.au/791ef9eb3b514d53227da10938d9e5d2?impolicy=wcms_watermark_news&cropH=618&cropW=1099&xPos=129&yPos=722&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-11T22:00:56Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "The four stocks that will see you through troubled times",
+        "description": "In this era of uncertainty, food, energy and defence investments can provide a solid return",
+        "url": "https://www.thetimes.com/money/saving-investing/article/money-stocks-advice-investing-safe-5d3hrns7k",
+        "image": "https://www.thetimes.com/imageserver/image/c603de11-4340-4cf4-b35b-04f589e25c52.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-04-11T22:00:00Z",
+        "source": "The Times"
+      },
       {
         "title": "Safe Money Report Under Investigation: Martin Weiss's 2026 \"Age of Chaos\" Report Outlines Six-Step Framework Addressing Dollar Instability, Gold, and Bitcoin Amid Rising Market Volatility",
         "description": "Weiss Ratings' 2026 Financial Research Report Also Addresses Farmland Exposure, Stock Ratings Across 53,000+ Securities, and Portfolio Risk Considerations Amid Trade War Uncertainty",
@@ -76,131 +132,123 @@
         "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/12/1009674.png",
         "publishedAt": "2026-04-11T21:23:50Z",
         "source": "The Manila Times"
-      },
-      {
-        "title": "How pharmacies quietly drain your budget and what to do about it - Nadine Higgins",
-        "description": "I’ve been taking a closer look at my spending, hoping to at least partially offset the rising cost of, well, everything. Something in me chafes against the...",
-        "url": "https://www.nzherald.co.nz/business/personal-finance/how-pharmacies-quietly-drain-your-budget-and-what-to-do-about-it-nadine-higgins/premium/II7Y74L5RFCSDKVZM3RPN6FBWY/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/KIKTOKYG5QTXOMGPCU576IKKMM.jpg?auth=5c4d17249e3b056f56df126d7dc9c19bd6e7c14bfe1920d5c80577459b1f79ec&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-04-11T21:09:41Z",
-        "source": "NZ Herald"
-      },
-      {
-        "title": "Experimental Drug Can Reverse Osteoarthritis in Weeks, Animal Research Shows",
-        "description": "The debilitating, chronic loss of joint cartilage known as osteoarthritis causes pain and bone decay for hundreds of millions of people every day, but new help may be on the way – in the form of a simple, single shot.",
-        "url": "https://www.sciencealert.com/experimental-drug-can-reverse-osteoarthritis-in-weeks-animal-research-shows",
-        "image": "https://www.sciencealert.com/images/2026/04/KneePain.jpg",
-        "publishedAt": "2026-04-11T21:03:46Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "How a primary school student turned excess backyard fruit into a thriving school farmers' market",
-        "description": "A primary school student's simple observation about wasted fruit has sparked a thriving community movement that's sharing fresh produce and teaching valuable skills.",
-        "url": "https://www.abc.net.au/news/rural/2026-04-12/student-turns-excess-fruit-into-farmers-market/106547510",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4453c99968e79bfe8b4d208d76b91cd4?impolicy=wcms_watermark_news&cropH=1266&cropW=2250&xPos=2187&yPos=2177&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-11T21:01:15Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Meetings take up more than a quarter of the week - are they pointless?",
-        "description": "Harry Wallop visits the firms that have found better ways of working",
-        "url": "https://www.thetimes.com/life-style/work/article/meetings-take-up-more-than-a-quarter-of-the-week-are-they-pointless-c9qt0ntkq",
-        "image": "https://www.thetimes.com/imageserver/image/eed06842-5153-4a4e-b020-f06504a0773a.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-        "publishedAt": "2026-04-11T21:00:00Z",
-        "source": "The Times"
-      },
-      {
-        "title": "Changan Deepal S07 review - ‘A Chinese car you will be hearing about’",
-        "description": "‘From the rear three quarters it actually looks quite dynamic, and that’s not something you could say about many of its blobby peers’",
-        "url": "https://www.thetimes.com/life-style/driving/article/changan-deepal-s07-review-p6p8rlwfb",
-        "image": "https://www.thetimes.com/imageserver/image/17eec1cc-36b7-4f5f-a9a7-85d8b64a5c92.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-        "publishedAt": "2026-04-11T21:00:00Z",
-        "source": "The Times"
-      },
-      {
-        "title": "Alleged Sam Altman firebomber wrote of fears AI would end humanity",
-        "description": "The alleged firebomber of OpenAI CEO Sam Altman’s home wrote of fears AI would end humanity.",
-        "url": "https://www.sfchronicle.com/crime/article/sam-altman-openai-daniel-alejandro-moreno-gama-22201211.php",
-        "image": "https://s.hdnux.com/photos/01/65/74/56/30919557/5/rawImage.jpg",
-        "publishedAt": "2026-04-11T20:56:36Z",
-        "source": "San Francisco Chronicle"
-      },
-      {
-        "title": "Tope Akande builds alternative international financial data for Nigerians with BucksTrybe",
-        "description": "Tope Akande is building a different path with BucksTrybe, a platform that turns everyday financial behaviour into financial credible data.At the centre of BucksTrybe’s model is the digitisation of long-standing group savings practices trusted across communities, such as the ‘Ajo’ system amongst the Yorubas, ‘Esusu’ system among the Igbos and ‘Adashe’ among the Hausas.",
-        "url": "https://techcabal.com/2026/04/11/tope-akande/",
-        "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/04/TC-Featured-Image-design-14.jpg",
-        "publishedAt": "2026-04-11T20:55:40Z",
-        "source": "TechCabal"
       }
     ],
     "science": [
       {
-        "title": "TechReviewAfrica - News Details",
-        "description": "Your Trusted Tech News Platform",
-        "url": "https://techreviewafrica.com/news/4891/university-of-ghana-commends-artemis-ii-astronaut-christina-koch-following-mission-success",
-        "image": "https://techreviewafrica.com/assets/images/news/2026/04/11/69dab82012dfa1775941664.jpg",
-        "publishedAt": "2026-04-11T21:12:36Z",
-        "source": "Tech Review Africa"
+        "title": "Cheers welcome Artemis II astronauts home after record-breaking trip",
+        "description": "The crew of four arrived at Ellington Field near NASA's Johnson Space Center and Mission Control, flying in from San Diego, where they splashed down just offshore the evening before.",
+        "url": "https://www.pbs.org/newshour/science/cheers-welcome-artemis-ii-astronauts-home-after-record-breaking-trip",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-11T221130Z_1272478881_RC29NKADIMGL_RTRMADP_3_SPACE-MOON-ARTEMIS-1024x683.jpg",
+        "publishedAt": "2026-04-11T22:23:05Z",
+        "source": "PBS"
       },
       {
-        "title": "Dirt, a 1970s flag, a stuffie: What's inside the Orion spacecraft",
-        "description": "NASA's Artemis II lunar flyby mission is carrying mementos on the 10-day journey around the moon in the Orion spacecraft.",
-        "url": "https://mashable.com/article/nasa-artemis-ii-launch-mementos",
-        "image": "https://helios-i.mashable.com/imagery/articles/06esMS5kDuPraPt7f6lJHll/hero-image.fill.size_1200x675.v1775251143.jpg",
-        "publishedAt": "2026-04-11T20:35:43Z",
-        "source": "Mashable"
+        "title": "Artificial Intelligence And Drones To Select The Most Resilient Wheat",
+        "description": "Making wheat more resilient to climate change without compromising yields has become an urgent priority for the agricultural sector. Now,",
+        "url": "https://www.eurasiareview.com/12042026-artificial-intelligence-and-drones-to-select-the-most-resilient-wheat/",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-117.jpg",
+        "publishedAt": "2026-04-11T22:20:58Z",
+        "source": "Eurasia Review"
       },
       {
-        "title": "Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets",
-        "description": "Another key official who reportedly had access to America's nuclear secrets has gone missing, as a disturbing web of deaths and disappearances grows.",
-        "url": "https://www.dailymail.co.uk/sciencetech/article-15722375/missing-nuclear-official-new-mexico-secrets.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/10/22/107804473-0-image-m-12_1775857702995.jpg",
-        "publishedAt": "2026-04-11T20:22:20Z",
-        "source": "Daily Mail"
+        "title": "New 'metamaterials' learn to change shape and adapt with no brain",
+        "description": "New research shows robotic materials can learn and adapt without software, storing behavior directly in their structure.",
+        "url": "https://www.earth.com/news/new-metamaterials-learn-to-change-shape-and-adapt-without-a-central-brain/",
+        "image": "https://cff2.earth.com/uploads/2026/04/11143210/metamaterials_learn-to-change-hold-shape_Nature_1m.jpg",
+        "publishedAt": "2026-04-11T22:07:30Z",
+        "source": "Earth.com"
       },
       {
-        "title": "As Starlink satellite disappeared at 560 km above Earth; tech company LeoLabs tells Elon Musk's company: Time to give more clarity to these ...",
-        "description": "Tech News News: Elon Musk’s space company Starlink recently posted an update on satellite 34343, which it lost communication with late last month. The SpaceX-owned g.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-starlink-satellite-disappeared-at-560-km-above-earth-tech-company-leolabs-tells-elon-musks-company-time-to-give-more-clarity-to-these-/articleshow/130198996.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130198999,width-1280,height-720,imgsize-93294,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-11T20:08:00Z",
-        "source": "The Times of India"
+        "title": "‘We are bonded forever’: Artemis II crew reflect on historic 10-day mission",
+        "description": "After a 10-day mission that sent them around the far side of the moon, NASA Commander Reid Wiseman says he and his three fellow Artemis II crew members are \"bonded forever.\"",
+        "url": "https://globalnews.ca/news/11796172/artemis-2-crew-returns/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/04/artemis-crew-april-7-e1775859476749.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-04-11T22:03:33Z",
+        "source": "Global News"
       },
       {
-        "title": "Researchers Develop PYEAST Toolkit for Genetic Engineering in Baker’s Yeast Published April 2026",
-        "description": "Researchers have developed PYEAST, a computational tool […]",
-        "url": "https://www.geneonline.com/researchers-develop-pyeast-toolkit-for-genetic-engineering-in-bakers-yeast-published-april-2026/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-04-11T20:05:20Z",
-        "source": "geneonline.com"
+        "title": "I'm going to put a hotel on the Moon, and I plan to do it by 2032. Here's how",
+        "description": "Skyler Chan of GRU Space reveals the company's plans to build a hotel on the surface of the Moon by the year 2032.",
+        "url": "https://www.skyatnightmagazine.com/news/gru-space-moon-hotel",
+        "image": "https://c02.purpledshub.com/uploads/sites/48/2026/04/human-hotel-on-moon.jpg?w=1200",
+        "publishedAt": "2026-04-11T21:54:36Z",
+        "source": "BBC Sky at Night Magazine"
       },
       {
-        "title": "Brian Cox: ‘We don’t know how powerful AI is going to become - it’s both exciting and potentially a problem’",
-        "description": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons",
-        "url": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
-        "image": "https://i.guim.co.uk/img/media/e8512c0e0aef3c770ae596a382ca5333e1826213/692_0_4648_3720/master/4648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8a740a89c5af70cee2673fe51cad2da",
-        "publishedAt": "2026-04-11T20:01:00Z",
-        "source": "The Guardian"
+        "title": "Jeremy Hansen, rest of the crew return to Houston",
+        "description": "Canadian astronaut Jeremy Hansen and his crew members received a standing ovation as they were welcomed back in Houston after splashing down in the Pacific Ocean on Friday, concluding the Artemis II mission.",
+        "url": "https://www.cp24.com/news/canada/2026/04/11/canadian-astronaut-and-artemis-ii-crew-return-to-houston/",
+        "image": "https://www.cp24.com/resizer/v2/TU6LK4BX4JFPHHBONEVRQY5P4Y.jpg?smart=true&auth=3e4319defe1318c5f65d764b3c1f591abea696846d1575c6aa6d7dc450dc4674&width=1200&height=630",
+        "publishedAt": "2026-04-11T21:52:28Z",
+        "source": "CP24"
       },
       {
-        "title": "Apes may have originated in north Afrida, study finds",
-        "description": "The remains, discovered in 2023 and 2024, are incomplete, and made up of only a few jawbone fragments and worn teeth.",
-        "url": "https://www.jpost.com/science/article-892308",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715031",
-        "publishedAt": "2026-04-11T19:45:26Z",
-        "source": "The Jerusalem Post"
+        "title": "'We are bonded forever': Artemis II astronauts speak on completing their historic moon mission",
+        "description": "The four Artemis II astronauts said Saturday that they’re “bonded forever” in their first public remarks since completing NASA’s first lunar mission in more than 50 years",
+        "url": "https://www.nbcnews.com/news/us-news/artemis-ii-astronauts-speak-after-nasa-flight-moon-rcna301628",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260411-artemis-nasa-ch-1355-b5491c.jpg",
+        "publishedAt": "2026-04-11T21:50:09Z",
+        "source": "NBC News"
       },
       {
-        "title": "UFOs: 'Most are reported by people out for an evening smoke'",
-        "description": "Hansjürgen Köhler has been a volunteer UFO hunter for more than 50 years. He sees his work as scientific investigation, but sometimes also as caring for others.",
-        "url": "https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858",
-        "image": "https://static.dw.com/image/76271754_6.jpg",
-        "publishedAt": "2026-04-11T19:21:40Z",
-        "source": "DW.com"
+        "title": "Artemis astronauts receive thunderous welcome home at Mission Control",
+        "description": "Commander Reid Wiseman and his US-Canadian crew’s homecoming was poignant.",
+        "url": "https://www.breakingnews.ie/world/artemis-astronauts-receive-thunderous-welcome-home-at-mission-control-1885715.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMTEyMjQ1NDdcXFwvZTgzMGI0MjcxOTY3NGJjYWE4OTNhOTcxZTg5NDkxMTEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhZTU3ZWM5M2Y5NzM0NzI2MWVjY2UyNjdjODA0YzUzNTU3NDcwNTMzIn0=/artemis-astronauts-receive-thunderous-welcome-home-at-mission-control.jpg",
+        "publishedAt": "2026-04-11T21:44:39Z",
+        "source": "BreakingNews.ie"
       }
     ],
     "ai": [
+      {
+        "title": "Elon Musk’s XChat App Officially Launches on App Store",
+        "description": "XChat launches on iPhone and iPad on April 17 with E2E encryption and Grok AI — but security researchers are questioning its privacy claims.",
+        "url": "https://www.gizchina.com/elon-musk/elon-musks-xchat-app-officially-launches-on-app-store",
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-04%2Fx-chat-7569-69dabe8aa6813.jpg",
+        "publishedAt": "2026-04-11T22:26:00Z",
+        "source": "Gizchina.com"
+      },
+      {
+        "title": "Patients are arriving not just with symptoms, but with scripts - and people in REAL need are being left behind, writes NHS GP and presenter DR RENEE HOENDERKAMP",
+        "description": "Carefully prepared phrases, polished descriptions and diagnostic language lifted straight from specialist websites and, increasingly, AI-powered chatbots.",
+        "url": "https://www.dailymail.co.uk/news/article-15725285/Patients-symptoms-scripts-REAL-NHS-GP-DR-RENEE-HOENDERKAMP.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-m-12_1775938665301.jpg",
+        "publishedAt": "2026-04-11T22:14:03Z",
+        "source": "Daily Mail Online"
+      },
+      {
+        "title": "Trillion Dollar Robot Under Investigation: New 2026 Report Highlights Nvidia AI Expansion, Autonomous Trucking Breakthroughs, and Rapid Expansion of Robotics Infrastructure",
+        "description": "Disruptors & Dominators 2026 Research Identifies Small-Cap Nvidia Partner at the Center of Autonomous Trucking's Accelerating Commercial Deployment",
+        "url": "https://www.manilatimes.net/2026/04/12/tmt-newswire/globenewswire/trillion-dollar-robot-under-investigation-new-2026-report-highlights-nvidia-ai-expansion-autonomous-trucking-breakthroughs-and-rapid-expansion-of-robotics-infrastructure/2318536",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/12/1009680.png",
+        "publishedAt": "2026-04-11T22:03:59Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "AI's Second Wind Is Here - Weiss Ratings Plus Report Cites 303% Historical Average and 2026 Data Signals Pointing Beyond the First AI Cycle",
+        "description": "Weiss Ratings Plus latest research outline what the company describes as a developing second phase of AI market activity - referencing infrastructure sectors, emerging data patterns, and a quantitative methodology with a 22-year track record - as 2026 conditions continue shifting beyond the first wave of AI-driven gains.",
+        "url": "https://www.manilatimes.net/2026/04/12/tmt-newswire/globenewswire/ais-second-wind-is-here-weiss-ratings-plus-report-cites-303-historical-average-and-2026-data-signals-pointing-beyond-the-first-ai-cycle/2318534",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/12/1009677.png",
+        "publishedAt": "2026-04-11T22:03:57Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Commentary: Slopaganda wars - why the US and Iran are flooding the zone with AI",
+        "description": "Slopaganda, defined as AI-generated slop that serves propagandistic purposes, can reach huge audiences, which is why even a small misleading effect in the general population may have significant consequences, say two academics.",
+        "url": "https://www.channelnewsasia.com/commentary/ai-generated-slop-propaganda-us-iran-war-6043521",
+        "image": "https://dam.mediacorp.sg/image/upload/s--qzDxqyJj--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/08/ai_propaganda_slop_istock.jpg?itok=NqppThZJ",
+        "publishedAt": "2026-04-11T22:00:00Z",
+        "source": "CNA"
+      },
+      {
+        "title": "age startups bet on food, wellness",
+        "description": "The two-day AI summit, TiECON Chandigarh-2026 which concluded on Saturday, showcased a range of emerging startups focused on nutrition, sustainability and lifestyle innovation, offering visitors a glimpse into evolving consumer trends and grassroots entrepreneurship.",
+        "url": "https://www.tribuneindia.com/news/chandigarh/tiecon-chandigarh-2026-new-age-startups-bet-on-food-wellness/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQyMmM3MWUwLTM1ZWYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-11T21:45:48Z",
+        "source": "The Tribune"
+      },
       {
         "title": "Rent a human: The day bots started hiring us",
         "description": "The following is a guest post and opinion from Laura Estefania, Founder and CEO of Conquista PR. From Automation to Orchestration Bots are creating a new economy. And for the first time, it is not about replacing humans, but organizing them. The rise of AI agents has moved quietly from novelty to structure. What we […]",
@@ -216,54 +264,6 @@
         "image": "https://cdn.mos.cms.futurecdn.net/f5eoe48KN9Pg4gD2M5hHDX-1920-80.png",
         "publishedAt": "2026-04-11T21:10:00Z",
         "source": "TechRadar"
-      },
-      {
-        "title": "The Seasoning Company Behind Your Food Flavors Controls The Future Of AI Chips, And Supply Is Running Dangerously Low",
-        "description": "Well, you read the headline right, and we are talking about a critical element in AI chips that is not only in tremendous shortage but also originally comes from an MSG maker.",
-        "url": "https://wccftech.com/the-seasoning-company-behind-your-food-flavors-could-control-the-future-of-ai-chips/",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Untitled-design-49.jpg",
-        "publishedAt": "2026-04-11T21:08:59Z",
-        "source": "Wccftech"
-      },
-      {
-        "title": "Why I turned to AI when I needed a life coach",
-        "description": "It acts as a sounding board, helping the writer arrive at her own decisions with more purpose. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/opinion/why-i-turned-to-ai-when-i-needed-a-life-coach",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6591b52a81a1923dbf02f8f8360856bf249b19ac8efe4bab7a8c8b08a553ce9d",
-        "publishedAt": "2026-04-11T21:00:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "High-profile gaffes surrounding AI use offer cautionary tale",
-        "description": "A lifestyle magazine used AI to fabricate an interview with an actor, drawing a public backlash. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/tech/high-profile-gaffes-surrounding-ai-use-offer-cautionary-tale",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/504de76c0d0bec88aae3b0e2db92df4f9af626d99b8a1d0471500666d99a64ac",
-        "publishedAt": "2026-04-11T21:00:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman’s alleged Molotov cocktail attacker in San Francisco identified as Daniel Alejandro Moreno",
-        "description": "US News: Daniel Alejandro Moreno-Gama, a 20-year-old San Francisco resident, has been arrested and charged in connection with an alleged attack on the home of .",
-        "url": "https://timesofindia.indiatimes.com/world/us/openai-ceo-sam-altmans-alleged-molotov-cocktail-attacker-in-san-francisco-identified-as-daniel-alejandro-moreno-gama/articleshow/130199058.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130199058,width-1280,height-720,imgsize-38212,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-11T20:55:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Waldron confirms Dem chair resignation linked to AI scandal",
-        "description": "The Democrat state lawmaker used artificial intelligence technology to create inappropriate images of himself kissing a young woman whom he had met as a potential candidate, online publication NonDoc reported.",
-        "url": "https://tulsaworld.com/news/state-regional/government-politics/article_5e742c92-92c0-46b4-9fd0-74025c0798cf.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/4f/64fe81f9-f3ab-40ef-addf-549c16d0b32f/69373e76d40d4.image.jpg?crop=1521%2C799%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-04-11T20:45:00Z",
-        "source": "Tulsa World"
-      },
-      {
-        "title": "Artemis II lunar mission draws flood of conspiracy theories",
-        "description": "From false claims that a historic lunar fly-by was staged in a movie studio to unfounded narratives that footage of the crew was AI-generated, the Artemis II mission has been clouded by a blizzard of misinformation. The falsehoods -- circulating across tech platforms including X, TikTok and Facebook -- have…",
-        "url": "https://japantoday.com/category/world/artemis-ii-lunar-mission-draws-flood-of-conspiracy-theories",
-        "image": "https://media.japantoday.com/img/store/d7/26/21fb965d22f7fc1adb832ac3ccc5e4beacad/72e9000d1015ffec36c5da49be9be304fb723685/_w1700.jpeg",
-        "publishedAt": "2026-04-11T20:45:00Z",
-        "source": "Japan Today"
       }
     ]
   }
