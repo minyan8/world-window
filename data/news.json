@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-13T01:04:43.535Z",
+  "fetchedAt": "2026-04-13T02:00:37.616Z",
   "sections": {
     "world": [
       {
-        "title": "Trump says U.S. will blockade Strait of Hormuz",
-        "description": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure.",
-        "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108290109-1775859390176-gettyimages-2270777180-wmr52981_a6370_jjunqeeh.jpeg?v=1775859433&w=1920&h=1080",
-        "publishedAt": "2026-04-12T13:01:21Z",
-        "source": "CNBC"
+        "title": "Donald Trump health fears resurface as he 'limps' down stairs of Air Force One",
+        "description": "Trump's laboured descent down the steps of Air Force One has brought back comments on his health, with social media users drawn to his 'cankles' during his latest appearance",
+        "url": "https://www.mirror.co.uk/news/us-news/donald-trump-health-fears-resurface-37001584",
+        "image": "https://i2-prod.mirror.co.uk/article37001578.ece/ALTERNATES/s1200d/0_President-Trump-Departs-Washington-Enroute-To-Miami-Florida.jpg",
+        "publishedAt": "2026-04-12T13:57:00Z",
+        "source": "The Mirror"
       },
       {
-        "title": "Ancient Egyptian stone monument depicting a Roman emperor as a pharaoh discovered in Luxor",
-        "description": "A stone slab depicting the Roman emperor Tiberius was found during restoration work at the Karnak temple complex in Luxor.",
-        "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-stone-monument-depicting-a-roman-emperor-as-a-pharaoh-discovered-in-luxor",
-        "image": "https://cdn.mos.cms.futurecdn.net/bYWLMHJZBhWSo2jAUioVVg-1920-80.jpg",
-        "publishedAt": "2026-04-12T13:00:00Z",
-        "source": "Live Science"
+        "title": "US Navy will begin Strait of Homuz blockade, President Donald Trump says",
+        "description": "US President Donald Trump made the comments after the US and Iran failed to reach an agreement after 21 hours in talks in Islamabad.",
+        "url": "https://www.abc.net.au/news/2026-04-12/trump-blockades-strait-of-hormuz-iran-us-war/106556552",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c49a57e4a8c3cc4a21e93697c195fd69?impolicy=wcms_watermark_news&cropH=2531&cropW=4500&xPos=0&yPos=386&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-12T13:56:47Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "3,375 bodies identified in US-Israeli strikes: Iran forensic authority",
-        "description": "Iran's forensic medicine organization has identified 3,375 bodies, including about 500 females, during US-Israeli strikes on the country, the semi-official Mehr news agency reported Sunday.",
-        "url": "https://news.cgtn.com/news/2026-04-12/3-375-bodies-identified-in-US-Israeli-strikes-Iran-forensic-authority-1MhTbqvKHwk/p.html",
-        "image": "https://news.cgtn.com/news/2026-04-12/3-375-bodies-identified-in-US-Israeli-strikes-Iran-forensic-authority-1MhTbqvKHwk/img/fb73114ea21e44f59e473c6bac2c2ada/fb73114ea21e44f59e473c6bac2c2ada-1920.png",
-        "publishedAt": "2026-04-12T12:59:53Z",
-        "source": "news.cgtn.com"
-      },
-      {
-        "title": "Japa: Do You Know The Differences Between Visa",
-        "description": "Japa has been associated with migration in the Nigerian context, but there is a common term that you may not know the meaning of: visa-free vs free visa travel.",
-        "url": "https://www.legit.ng/nigeria/1705121-japa-differences-visa-free-free-visa/",
-        "image": "https://cdn.legit.ng/images/1200x675/ea050cd45e741616.jpeg?v=1",
-        "publishedAt": "2026-04-12T12:56:43Z",
-        "source": "Legit.ng"
-      },
-      {
-        "title": "Putin Says Russia Ready To Mediate US-Iran Negotiations After Islamabad Talks Collapse",
-        "description": "US and Iranian negotiators failed to come to an agreement on ending the war after 21 hours of high-level talks in Islamabad, although the two-week ceasefire holds.",
-        "url": "https://www.news18.com/world/putin-says-russia-ready-to-mediate-us-iran-negotiations-after-islamabad-talks-collapse-10029323.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/03/putin-pezeshkian-2026-03-dbcdf88257998e0b2f041315d9ed3fec-1200x675.jpg",
-        "publishedAt": "2026-04-12T12:56:01Z",
-        "source": "News18"
-      },
-      {
-        "title": "It Was a Big Mistake to Have the Ceasefire",
-        "description": "In an interview with The Free Press, President Trump’s former national security adviser assesses that the U.S. may have snatched defeat from the jaws of victory.",
-        "url": "https://www.thefp.com/p/john-bolton-it-was-a-big-mistake",
-        "image": "https://substackcdn.com/image/fetch/$s_!xV96!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ac3ea25-f67c-499f-a9c5-a5604f6c93ed_1024x683.jpeg",
-        "publishedAt": "2026-04-12T12:50:33Z",
-        "source": "The Free Press"
-      },
-      {
-        "title": "Mixed signals from Washington cloud intentions for future of Iran war",
-        "description": "Marc Seivers, a former US ambassador to Oman, suggested that neither the talks nor the ceasefire was a sign that the US was pulling back from the war.",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-892714",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715622",
-        "publishedAt": "2026-04-12T12:50:24Z",
+        "title": "Turkey threatens military action against Israel, MK calls Recep Tayyip Erdogan 'pathetic'",
+        "description": "Turkey could take military action against Israel if necessary, Erdogan warns, drawing comparisons to past interventions in Karabakh and Libya.",
+        "url": "https://www.jpost.com/middle-east/article-892720",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/711279",
+        "publishedAt": "2026-04-12T13:55:47Z",
         "source": "The Jerusalem Post"
       },
       {
-        "title": "After Iran talks falter, the big question is 'what happens next?'",
-        "description": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y943x2g8qo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ad6/live/d13b6fd0-366b-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-12T12:48:01Z",
-        "source": "BBC"
+        "title": "Iran releases dramatic Hormuz Strait footage, ‘warning US warship to stay away’",
+        "description": "US has not confirmed u-turn upon a “30-minute warning”, and in fact claimed that 2 of its warships carried out mine-clearing operation in the waterway. | World News",
+        "url": "https://www.hindustantimes.com/world-news/iran-releases-dramatic-hormuz-strait-footage-warning-us-warship-to-stay-away-101776001716139.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/gif_for_iran_1776003505392_1776003524604.gif",
+        "publishedAt": "2026-04-12T13:55:06Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Turkish President Erdogan threatens to invade Israel, slams Netanyahu: ‘Blinded by blood, Hitler of our time’",
+        "description": "Turkish President Recep Tayyip Erdogan warned Israel of consequences.  | World News",
+        "url": "https://www.hindustantimes.com/world-news/turkish-president-erdogan-threatens-to-invade-israel-slams-netanyahu-blinded-by-blood-hitler-us-iran-peace-talk-101775999115038.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/ISRAEL-NETANYAHU-TRIAL-0_1775999458902_1775999498437.JPG",
+        "publishedAt": "2026-04-12T13:48:13Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
+        "description": "Two sides tested one another’s resolve but timeframe meant it was probably unrealistic to expect deal",
+        "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
+        "image": "https://i.guim.co.uk/img/media/81ad6b6cf0692f0756b29bb8031774ec5358da5e/342_0_3409_2729/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=926305f7b650a0f661dca6b168b20ef2",
+        "publishedAt": "2026-04-12T13:48:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Trump says US to start blockading the Strait of Hormuz immediately",
+        "description": "Trump on Sunday said the US Navy would immediately start blockading the Strait of Hormuz",
+        "url": "https://www.sabcnews.com/sabcnews/trump-says-us-to-start-blockading-the-strait-of-hormuz-immediately/",
+        "image": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/04/Strait-of-Hormuz-Reuters.jpg",
+        "publishedAt": "2026-04-12T13:47:20Z",
+        "source": "SABC News"
+      },
+      {
+        "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+        "description": "Israel’s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.",
+        "url": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/13116742-1750325281.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-12T13:45:12Z",
+        "source": "Al Jazeera"
       }
     ],
     "business": [
       {
-        "title": "Japanese trains in Sapporo might be better than those in Tokyo, thanks to one special feature",
-        "description": "Sure, Tokyo has fancy digital signage, but Sapporo has a better old-school idea.",
-        "url": "https://soranews24.com/2026/04/12/japanese-trains-in-sapporo-might-be-better-than-those-in-tokyo-thanks-to-one-special-feature/",
-        "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/04/Japanese-trains-subway-how-to-use-Sapporo-Municipal-Namboku-Line-Tokyo-sign-travel-tourists-news-2-1.jpg?w=580&h=305&crop=1",
-        "publishedAt": "2026-04-12T13:00:52Z",
-        "source": "SoraNews24"
+        "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+        "description": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.",
+        "url": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/Blank-Slate-Roller-1_web.jpg?resize=1200,800",
+        "publishedAt": "2026-04-12T14:00:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
-        "description": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding out",
-        "url": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
-        "image": "https://i.guim.co.uk/img/media/6112fb5496ea1a1473958169c9e0da66f6c902fe/640_0_5042_4033/master/5042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1b59503080db61864a40121e61b9de2",
-        "publishedAt": "2026-04-12T13:00:00Z",
-        "source": "The Guardian"
+        "title": "Turnips grown under solar panels boost productivity, could add nearly $36B in economic benefit",
+        "description": "\"Agrivoltaics provides a realistic path to a sustainable food system.\"",
+        "url": "https://www.yahoo.com/news/articles/turnips-grown-under-solar-panels-140000484.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/DTvqsJT0FqA44PkCXIfhfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/8e3278f1997809ca0fe3685220501324",
+        "publishedAt": "2026-04-12T14:00:00Z",
+        "source": "Yahoo"
       },
       {
-        "title": "‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment",
-        "description": "Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme",
-        "url": "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina",
-        "image": "https://i.guim.co.uk/img/media/e8246ec027b3c04c46b42d210ae69bb03e34da1c/271_0_2659_2128/master/2659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e22eae87d58e9a5b3efb8ba5e4b0b856",
-        "publishedAt": "2026-04-12T13:00:00Z",
-        "source": "The Guardian"
+        "title": "Pakistan hikes electricity tariff in double whammy after fuel price rise",
+        "description": "New Delhi, April 12 (SocialNews.XYZ) Pakistan’s National Electric Power Regulatory Authority (NEPRA) has delivered a major shock to the country’s consumers with an increase in electricity tariffs by Rs 1.42 per unit under the monthly... - Social News XYZ",
+        "url": "https://www.socialnews.xyz/2026/04/12/pakistan-hikes-electricity-tariff-in-double-whammy-after-fuel-price-rise/",
+        "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/04/12/5bda5ad1a3cb0c47435c9677cb6919b7.jpg?fit=2000%2C1338&quality=80&zoom=1&ssl=1?v=1775982687",
+        "publishedAt": "2026-04-12T13:47:36Z",
+        "source": "Social News XYZ"
       },
       {
-        "title": "Stocks to Watch for April13: Muthoot Finance, Mahindra & Mahindra, Torrent Pharma and more",
-        "description": "From Muthoot Finance approving ₹30 interim dividend to Mahindra & Mahindra reporting higher March 2026 production and sales, here are some stocks to watch ahead of Monday trading session.",
-        "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-april13-muthoot-finance-mahindra-mahindra-torrent-pharma-and-more-19884963.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/untitled-design-2026-04-10t175205796-2026-04-d062122104488de925463e2258cab807.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-12T12:56:27Z",
-        "source": "CNBC TV18"
+        "title": "OpenAI Staffers Horrified When Senior Leadership Hatched \"Insane\" Plan to Pit World Governments Against Each Other",
+        "description": "OpenAI leadership discussed a plan to play world powers against each other to drive a bidding war for its AI.",
+        "url": "https://futurism.com/artificial-intelligence/openai-staffers-horrified-insane-plan",
+        "image": "https://futurism.com/wp-content/uploads/2026/04/openai-staffers-horrified-insane-plan.jpg?quality=85&w=1200",
+        "publishedAt": "2026-04-12T13:45:00Z",
+        "source": "Futurism"
       },
       {
-        "title": "Elorian AI: $55 Million Raised For Multimodal Reasoning Research Lab Founded By Former DeepMind Leaders",
-        "description": "Elorian AI, a newly launched multimodal reasoning research and product lab, has raised $55 million to advance the next frontier of artificial intelligence focused on visual understanding. The company was co-founded by Andrew Dai, a former leader at Google’s Brain and DeepMind divisions, where he spent nearly 14 years contributing to large-scale AI development.",
-        "url": "https://pulse2.com/elorian-ai-55-million-raised-for-multimodal-reasoning-research-lab-founded-by-former-deepmind-leaders/",
-        "image": "https://cdn.pulse2.com/cdn/2026/04/Elorian-AI-Logo.jpeg",
-        "publishedAt": "2026-04-12T12:53:35Z",
-        "source": "Pulse 2.0"
+        "title": "The US Air Force Is Buying Up Used Jumbo Jets, And It's Not Hard To See Why",
+        "description": "Boeing's 747 airliner was once a mainstay of the commercial long-haul aviation, and although those days are gone, they still have a use.",
+        "url": "https://www.slashgear.com/2142994/why-us-air-force-buying-used-lufthansa-boeing-747/",
+        "image": "https://www.slashgear.com/img/gallery/the-us-air-force-is-buying-up-used-jumbo-jets-and-its-not-hard-to-see-why/l-intro-1775649907.jpg",
+        "publishedAt": "2026-04-12T13:45:00Z",
+        "source": "SlashGear"
       },
       {
-        "title": "Vitol trading bet backfires as Iran conflict jolts oil markets: WSJ",
-        "description": "Vitol’s trading team reportedly lost hundreds of millions as the Iran conflict upended energy market bets.",
-        "url": "https://seekingalpha.com/news/4574221-vitol-trading-bet-backfires-as-iran-conflict-jolts-oil-markets-wsj",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266446664/image_2266446664.jpg?io=getty-c-w630",
-        "publishedAt": "2026-04-12T12:48:58Z",
-        "source": "Seeking Alpha"
+        "title": "A Look At Trane Technologies (TT) Valuation After AI Energy Optimization Success Lifts Investor Sentiment",
+        "description": "Trane Technologies (TT) is in focus after a late session rally tied to increased institutional interest and its AI powered energy optimization work for Dollar Tree, which delivered meaningful energy, cost, and emissions savings.\nSee our latest analysis for Trane Technologies.\nThat late session move sits on top of strong recent momentum, with a 7 day share price return of 9.05% and a 90 day share price return of 20.82%. The 1 year total shareholder return of 35.92% and 5 year total shareholder...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tt/trane-technologies/news/a-look-at-trane-technologies-tt-valuation-after-ai-energy-op",
+        "image": "https://images.simplywall.st/asset/company-cover/280944-main-header/1756254932987",
+        "publishedAt": "2026-04-12T13:40:54Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Mental performance coach",
-        "description": "Start the day strong by focusing on gratitude and purpose, says mental performance coach Cindra Kamphoff.",
-        "url": "https://www.cnbc.com/2026/04/12/this-4-minute-morning-routine-is-key-to-a-successful-day-mental-performance-coach.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108288058-1775579123065-gettyimages-2215235706-5v1a3231.jpeg?v=1775579173&w=1920&h=1080",
-        "publishedAt": "2026-04-12T12:46:01Z",
-        "source": "CNBC"
+        "title": "Assessing Everpure (PSTG) Valuation After Mixed Recent Share Price Performance",
+        "description": "Everpure stock reacts to recent performance and valuation shifts\nEverpure (PSTG) has captured investor attention after a mixed run in recent performance, with a 1 day gain alongside pressure over the past 3 months and year to date. This has prompted closer scrutiny of its current valuation.\nSee our latest analysis for Everpure.\nRecent trading tells a mixed story, with a 1 day share price return of 1.25% set against a 90 day share price return of 15.88% and a strong 1 year total shareholder...",
+        "url": "https://simplywall.st/stocks/us/tech/nyse-pstg/everpure/news/assessing-everpure-pstg-valuation-after-mixed-recent-share-p",
+        "image": "https://images.simplywall.st/asset/industry/9621091-choice2-main-header/1585186855318",
+        "publishedAt": "2026-04-12T13:40:54Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "World Shea Expo returns to Tamale for 2026 edition",
-        "description": "The World Shea Expo, one of Africa’s most significant agribusiness platforms, is set to return to Tamale in August  2026 under the theme “From Local Commodity to Global Brand: Accelerating Women and Youth-Led Value Addition in Shea.” Building on the momentum of last year’s highly successful edition, the upcoming Expo is expected to deepen investment, expand international trade linkages, and accelerate value addition across the shea value chain.",
-        "url": "https://www.myjoyonline.com/world-shea-expo-returns-to-tamale-for-2026-edition/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/hjj-1024x832.jpeg",
-        "publishedAt": "2026-04-12T12:45:47Z",
-        "source": "MyJoyOnline"
+        "title": "PureCycle (PCT) Is Up 9.6% After Record Q4 Output Fuels Global Expansion Ambitions",
+        "description": "Cantor Fitzgerald recently reiterated its Overweight rating on PureCycle Technologies after the company reported record Q4 2025 production of 7.5 million pounds of recycled plastic, supported by a third shift in Denver and strong output at its Ironton purification facility.\nBy pairing higher throughput with plans to build a global network capable of producing one billion pounds annually before 2030, PureCycle is signaling how operational execution underpins its longer term expansion...",
+        "url": "https://simplywall.st/stocks/us/materials/nasdaq-pct/purecycle-technologies/news/purecycle-pct-is-up-96-after-record-q4-output-fuels-global-e",
+        "image": "https://images.simplywall.st/asset/industry/2021000-choice1-main-header/1585186559642",
+        "publishedAt": "2026-04-12T13:40:54Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Human ancestors butchered and ate elephants 1.8 million years ago, helping to fuel their large brains",
+        "description": "Opinion: A professor of anthropology explores how early hominids ate prehistoric elephants to survive.",
+        "url": "https://www.livescience.com/archaeology/human-evolution/human-ancestors-butchered-and-ate-elephants-18-million-years-ago-helping-to-fuel-their-large-brains",
+        "image": "https://cdn.mos.cms.futurecdn.net/bG87njeamMvhgAnCbyRmbW-1920-80.jpg",
+        "publishedAt": "2026-04-12T14:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "SpaceX Launches Historic Cygnus XL, Delivering 5 Tons of Supplies to ISS",
+        "description": "SpaceX’s latest Cygnus XL mission is a game-changing resupply mission, bringing over 5 tons of essential equipment to astronauts aboard the ISS.",
+        "url": "https://dailygalaxy.com/2026/04/spacex-cygnus-xl-5-tons-supplies-iss/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/SpaceX-Launches-Historic-Cygnus-XL-Delivering-5-Tons-of-Supplies-to-ISS-scaled.png",
+        "publishedAt": "2026-04-12T13:45:00Z",
+        "source": "The Daily Galaxy"
+      },
+      {
+        "title": "WATCH: Artemis II astronauts splash down after historic mission around the Moon",
+        "description": "Dark side of the moon: The ten-day mission took the NASA astronauts farther into space than humans have ever gone before.",
+        "url": "https://www.ewn.co.za/watch-artemis-ii-astronauts-splash-down-after-historic-mission-around-the-moon/",
+        "image": "https://media-cache.primedia-service.com/media/uy0mahm5/artemis.jpg?width=1200&height=630",
+        "publishedAt": "2026-04-12T13:20:14Z",
+        "source": "EWN"
+      },
+      {
+        "title": "WATCH: Artemis II astronauts splash down after historic mission around the Moon",
+        "description": "Dark side of the moon: The ten-day mission took the NASA astronauts farther into space than humans have ever gone before.",
+        "url": "https://www.ewn.co.za/2026/04/12/watch-artemis-ii-astronauts-splash-down-after-historic-mission-around-the-moon",
+        "image": "https://media-cache.primedia-service.com/media/uy0mahm5/artemis.jpg?width=1200&height=630",
+        "publishedAt": "2026-04-12T13:18:45Z",
+        "source": "EWN"
+      },
+      {
+        "title": "Artemis II aerospace engineer sends thanks to this Twin Hills teachers",
+        "description": "A little more than a decade ago, Nate Eller was an standout student at Twin Hills Middle school. Today, he's an aerospace engineer at NASA who played a role in the Artemis II mission, giving thanks to his teachers",
+        "url": "https://www.pressdemocrat.com/2026/04/11/aerospace-engineer-who-worked-on-artemis-ii-thanks-middle-school-science-teachers/",
+        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/04/TPD-L-benefield-040826-nate2.jpg?w=1024&h=768",
+        "publishedAt": "2026-04-12T13:06:40Z",
+        "source": "The Press Democrat"
+      },
       {
         "title": "April 12, 1981: Columbia lifts of for the first space shuttle mission",
         "description": "Today in the history of astronomy, the era of the space shuttle begins.",
@@ -158,112 +198,72 @@
         "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/Scientists-Discover-a-Massive-Cave-That-Preserved-Traces-of-Human-Life-Long-After-They-Disappeared-From-the-Surface-scaled.jpg",
         "publishedAt": "2026-04-12T12:45:00Z",
         "source": "The Daily Galaxy"
-      },
-      {
-        "title": "Hidden Deep Inside Uranus (and Also Neptune), Researchers Predict New Superionic State: Directional Atomic Motion Explains Non-Dipolar Magnetic Fields",
-        "description": "A new quasi-1D superionic phase inside Uranus and Neptune explains their messy magnetic fields and reshapes our model of ice giant planetary physics.",
-        "url": "https://www.intelligentliving.co/uranus-superionic-state-non-dipolar/",
-        "image": "https://www.intelligentliving.co/wp-content/uploads/2026/04/uranus-superionic-state-cutaway.jpg",
-        "publishedAt": "2026-04-12T12:12:18Z",
-        "source": "Intelligent Living"
-      },
-      {
-        "title": "China’s new crystal may help submarines, missiles navigate without GPS",
-        "description": "A breakthrough ultraviolet crystal from China could help power next-generation nuclear clocks capable of navigation without GPS signals.",
-        "url": "https://interestingengineering.com/military/china-crystal-navigate-without-gps",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/chinese-submarine-clock.jpg",
-        "publishedAt": "2026-04-12T12:03:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "Neandertals may have hunted and eaten outsiders, chilling cannibalism study finds",
-        "description": "A cave in Belgium has revealed unsettling evidence that Neandertals selectively cannibalized outsiders, focusing on women and children. The victims weren’t from the local group and appear to have been treated like prey, with bones butchered for meat and marrow. This suggests the behavior wasn’t ritual, but practical—or possibly linked to intergroup conflict. The discovery paints a darker, more complex picture of Neandertal life during their final millennia.",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260411022044.htm",
-        "image": "https://www.sciencedaily.com/images/1920/neanderthal-man-eating-meat.webp",
-        "publishedAt": "2026-04-12T12:01:16Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "How DNA forensics is transforming studies of ancient manuscripts",
-        "description": "In May 2006, Tim Stinson travelled to England to tour the libraries of London, Oxford and Cambridge. At the time, he was editing a fourteenth-century poem for his PhD at the University of Virginia in...",
-        "url": "https://www.yahoo.com/news/articles/dna-forensics-transforming-studies-ancient-120000258.html",
-        "image": "https://s.yimg.com/os/en/scientific_american_754/aab4481b4f80be8ace09fb5fedb9f374",
-        "publishedAt": "2026-04-12T12:00:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "The missing ingredient in limb regeneration may be oxygen",
-        "description": "New research at the Max Planck Institute and EPFL links oxygen sensing to why frog tadpoles regrow limbs while mammals fail to do so.",
-        "url": "https://www.thebrighterside.news/post/the-missing-ingredient-in-limb-regeneration-may-be-oxygen/",
-        "image": "https://www.thebrighterside.news/uploads/2026/04/Screenshot-2026-04-11-120206.png?auto=webp&width=2000&height=1193",
-        "publishedAt": "2026-04-12T11:51:00Z",
-        "source": "The Brighter Side of News"
       }
     ],
     "ai": [
       {
-        "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - The AI Boom's Impact on North St. Louis: Pollution Struggles Amid Technological Progress",
-        "description": "Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all sectors— from healthcare and finance to entertainment and manufacturing. Its impact is far-reaching, transforming industries, reshaping economies, and influencing the way we navigate daily life.",
-        "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life",
-        "image": "https://www.devdiscourse.com?width=1280&format=jpeg",
-        "publishedAt": "2026-04-12T13:04:24Z",
-        "source": "Devdiscourse"
+        "title": "How a Chinese company said it used AI to track US bomber movements over Iran",
+        "description": "MizarVision tried to determine bomber movements based on aerial tanker positions and US attacks on key strategic sites.",
+        "url": "https://www.scmp.com/news/china/military/article/3349788/how-chinese-company-said-it-used-ai-track-us-bomber-movements-over-iran",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/12/6d7f504b-7899-463e-abbc-f8288a07d550_19e7258e.jpg?itok=EUs4HGXf&v=1776003111",
+        "publishedAt": "2026-04-12T14:00:08Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "The AI Boom's Impact on North St. Louis: Pollution Struggles Amid Technological Progress",
-        "description": "Barbara Johnson has fought coal pollution in North St. Louis for decades. However, the AI boom has halted planned improvements. New federal soot standards were expected to lower emissions from sites like Ameren’s Labadie Energy Center, but now plans are uncertain despite the area's persistent air quality issues.",
-        "url": "https://www.devdiscourse.com/article/politics/3871400-the-ai-booms-impact-on-north-st-louis-pollution-struggles-amid-technological-progress",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_58_29_8149663.jpg?width=920&format=jpeg",
-        "publishedAt": "2026-04-12T13:04:24Z",
-        "source": "Devdiscourse"
+        "title": "Bitcoin Miners Face a Tougher Road to the 2028 Halving",
+        "description": "Bitcoin’s fifth halving is two years out, as miners sell coins, cut costs and build AI and power infrastructure to survive record hashrate and tighter regulation.",
+        "url": "https://cointelegraph.com/news/bitcoin-2028-halving-hits-the-halfway-point",
+        "image": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d76b5-28f1-7fa5-b7cd-503a2b6c40d6.jpg",
+        "publishedAt": "2026-04-12T14:00:00Z",
+        "source": "Cointelegraph"
       },
       {
-        "title": "NM judges see AI mistakes creeping into legal cases",
-        "description": "Courts have detected AI-generated hallucinations in at least seven NM lawsuits since 2023, leading to warnings and sanctions",
-        "url": "https://www.abqjournal.com/news/nm-judges-see-ai-mistakes-creeping-into-legal-cases/3020276",
-        "image": "https://image.abqjournal.com/2962812.jpg?imageId=2962812&x=0&y=8.06&cropw=100&croph=71.67&panox=0&panoy=8.06&panow=100&panoh=71.67&width=1200&height=683",
-        "publishedAt": "2026-04-12T13:01:00Z",
-        "source": "Albuquerque Journal"
+        "title": "TN polls: Vijay unveils welfare, AI governance vision; targets CM Stalin",
+        "description": "TN polls: Vijay unveils welfare, AI governance vision; targets CM Stalin - Kanyakumari, April 12 Tamilaga Vettri Kazhagam (TVK) president Vijay on Sunday outlined an ambitious governance roadmap while sharply ... Get Latest News on National only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/national/tn-polls-vijay-unveils-welfare-ai-governance-vision-targets-cm-stalin/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260412388f_202604.jpg",
+        "publishedAt": "2026-04-12T13:59:07Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "3 Top Stocks to Buy to Invest in Anthropic’s Project Glasswing",
-        "description": "Anthropic’s Project Glasswing is bringing AI into cybersecurity in a big way. With tech leaders like Microsoft, Broadcom, and Nvidia, among others, involved, here’s why these three top-rated stocks could be solid picks now.",
-        "url": "https://www.barchart.com/story/news/1263192/3-top-stocks-to-buy-to-invest-in-anthropics-project-glasswing",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Buy%2C%20Sell/Buy%20enter%20button%20by%20Ardasavasciogullari%20via%20iStock.jpg",
-        "publishedAt": "2026-04-12T13:00:02Z",
+        "title": "TN Assembly elections: Joseph Vijay promises ‘Citizen Privilege Card’, AI-led governance in TVK roadmap",
+        "description": "Joseph Vijay outlines TVK's vision for AI-driven governance, promising a Citizen Privilege Card and participatory models in Tamil Nadu elections.",
+        "url": "https://www.thehindubusinessline.com/news/elections/tn-assembly-elections-joseph-vijay-promises-citizen-privilege-card-ai-led-governance-in-tvk-roadmap/article70854138.ece",
+        "image": "https://bl-i.thgim.com/public/news/71ewat/article70854151.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-04-12%20at%2017.57.13.jpeg",
+        "publishedAt": "2026-04-12T13:56:42Z",
+        "source": "The Hindu Business Line"
+      },
+      {
+        "title": "‘Not just Meta issue’: Ex-Facebook vet Chamath Palihapitiya reacts to techie’s H-1B rant",
+        "description": "Chamath Palihapitiya, CEO of Social Capital, addressed the growing divide between skilled AI engineers and the rest of the tech industry, warning that it could lead to smaller companies failing. He also criticized the high salaries and working conditions for H-1B visa holders at companies like Meta, arguing that they are contributing to a harmful […] | financialexpress.com",
+        "url": "https://www.financialexpress.com/shorts/trending/not-just-meta-issue-ex-facebook-veteran-chamath-palihapitiya-reacts-to-techies-viral-h-1b-rant-4204710/",
+        "image": "https://images.financialexpressdigital.com/2026/04/chamath-palihapitiya-tweet-viral-h1b-meta-engineer.jpg",
+        "publishedAt": "2026-04-12T13:56:33Z",
+        "source": "The Financial Express"
+      },
+      {
+        "title": "Acclaimed indie dev is leaning into the \"uncomfortable uncanniness\" that comes from hyper-realistic graphics with its AI-centred horror game",
+        "description": "We're just like: let's jump into the uncanny valley",
+        "url": "https://www.gamesradar.com/games/horror/acclaimed-indie-dev-is-leaning-into-the-uncomfortable-uncanniness-that-comes-from-hyper-realistic-graphics-with-its-ai-centred-horror-game/",
+        "image": "https://cdn.mos.cms.futurecdn.net/zpd9WnwTnktSLsBa7y7qZJ-1920-80.jpg",
+        "publishedAt": "2026-04-12T13:46:21Z",
+        "source": "GamesRadar+"
+      },
+      {
+        "title": "AI models like Anthropic's Mythos pose disruption risks to India's IT services growth: Kotak",
+        "description": "AI models such as Anthropic's Mythos could pose disruption risks to the growth of India's IT services sector, according to a report by Kotak Institutional Equities.The report said the model 'exhibits a step-jump in benchmark performance across software engineering tasks,' and added that it 'raises near- to medium-term disruption risks for IT services,' particularly for companies with higher exposure to application services.",
+        "url": "https://www.tribuneindia.com/news/business/ai-models-like-anthropics-mythos-pose-disruption-risks-to-indias-it-services-growth-kotak/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUzMzQzOGMwLTM2NzUtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-12T13:45:31Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Micron Is Investing in SiMa.ai. What Does That Mean for MU Stock?",
+        "description": "As Micron leans deeper into Physical AI with its SiMa.ai investment, is MU stock gearing up for its next big leg of growth?",
+        "url": "https://www.barchart.com/story/news/1263540/micron-is-investing-in-sima-ai-what-does-that-mean-for-mu-stock",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/Micron%20Technology%20Inc_logo%20and%20website-by%20Mojahid%20Mottakin%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-04-12T13:45:02Z",
         "source": "Barchart"
-      },
-      {
-        "title": "Nervous about AI replacing jobs? Here’s where opportunity is growing",
-        "description": "AI is more likely to disrupt white-collar professions than blue-collar trades, putting middle-to-high-paid workers at significant risk of job loss and displacement.",
-        "url": "https://www.foxnews.com/opinion/ai-revolution-threatens-office-jobs-revives-demand-skilled-trades",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/artifical-intelligence.jpg",
-        "publishedAt": "2026-04-12T13:00:00Z",
-        "source": "Fox News"
-      },
-      {
-        "title": "Entrepreneurs Can Get Websites Up and Running With This Multitasking Tool, Now for Just $400",
-        "description": "Build, market, and manage your online business with one AI-powered solution.",
-        "url": "https://www.entrepreneur.com/science-technology/entrepreneurs-can-get-websites-up-and-running-with-this/503993",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/04/1775702900-Sellful1.jpg?resize=1024,682",
-        "publishedAt": "2026-04-12T13:00:00Z",
-        "source": "Entrepreneur"
-      },
-      {
-        "title": "AI juggernaut rumbles on even as markets whipsaw",
-        "description": "The artificial intelligence sector continues its strong financial growth. Despite global tensions, significant funding is flowing into AI initiatives. Major companies are raising billions through debt sales. This trend is attracting investors seeking stable opportunities. The demand for AI infrastructure is driving substantial investment in the market.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-juggernaut-rumbles-on-even-as-markets-whipsaw/articleshow/130208277.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42342,resizemode-75,msid-130208277/tech/artificial-intelligence/ai-juggernaut-rumbles-on-even-as-markets-whipsaw.jpg",
-        "publishedAt": "2026-04-12T12:54:43Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Anthropic Closes In on OpenAI as Enterprise AI Growth Shifts Momentum",
-        "description": "Anthropic is starting to close the gap with OpenAI in the race for paying business users, as new data points to a shift in how companies adopt A...",
-        "url": "https://markets.businessinsider.com/news/stocks/anthropic-closes-in-on-openai-as-enterprise-ai-growth-shifts-momentum-1036013351",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-957.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-04-12T12:52:55Z",
-        "source": "Markets Insider"
       }
     ]
   }
