@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-14T11:40:44.943Z",
+  "fetchedAt": "2026-04-14T12:41:36.539Z",
   "sections": {
     "world": [
       {
-        "title": "U.S. and Iran begin a battle of economic endurance in the Strait of Hormuz",
-        "description": "The waterway has now fallen under a complete blockade, with mirror-image military threats from Washington and Tehran",
-        "url": "https://www.theglobeandmail.com/world/article-trumps-blockade-of-strait-of-hormuz-shuts-down-all-traffic/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/KBN46K2VDZHZFAIZIOTQKOPWNI.JPG?auth=7492d11085deef711fc247cae2d22bd559236411bc9da636204c9451a2efd07b&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-13T23:39:21Z",
+        "title": "Trump vows US will sink any Iran boats that challenge blockade",
+        "description": "WASHINGTON: US President Donald Trump warned Monday that any Iranian attack boats that approach the American naval blockade around Iran's ports would be destroyed, despite international calls for a ceasefire to be respected and negotiations to resume.",
+        "url": "https://www.thestar.com.my/news/world/2026/04/14/trump-vows-us-will-sink-any-iran-boats-that-challenge-blockade",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858403.jpg",
+        "publishedAt": "2026-04-14T00:41:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "US, Iran leave door open to dialogue after tense Islamabad talks",
+        "description": "The weekend meeting to resolve the conflict between the US and Iran, held four days after a ceasefire announcement, was the first direct encounter between US and Iranian officials in more than a decade",
+        "url": "https://www.rappler.com/world/middle-east/us-iran-tense-islamabad-talks/",
+        "image": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-CEASEFIRE-PAKISTAN-2026-04-13-scaled.jpg",
+        "publishedAt": "2026-04-14T00:37:39Z",
+        "source": "Rappler"
+      },
+      {
+        "title": "Trump deletes Jesus post of himself after outcry",
+        "description": "WASHINGTON: US President Donald Trump on Monday deleted a social media image apparently depicting him as Jesus after an outcry from religious leaders that he was being blasphemous.",
+        "url": "https://www.thestar.com.my/news/world/2026/04/14/trump-deletes-jesus-post-of-himself-after-outcry",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858397.jpg",
+        "publishedAt": "2026-04-14T00:37:00Z",
+        "source": "thestar.com.my"
+      },
+      {
+        "title": "Tokyo sees first increase in Japanese births in 10 years",
+        "description": "The number of Japanese babies born in Tokyo from January through November of 2025 rose 0.7% year-on-year to 77,375 and the total for the year is expected to...",
+        "url": "https://www.nzherald.co.nz/world/tokyo-sees-first-increase-in-japanese-births-in-10-years/JRMBAKLRK5GRRGTSU6TUDLK2VE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/V7KNMUA7SZHBLFC67NJD5AGW5Y.jpg?auth=b8c81f767a404d267337078ab6605737117b09a49f282ef04f7b182be3485673&width=1200&height=675&quality=70&focal=1340%2C682&smart=false",
+        "publishedAt": "2026-04-14T00:36:18Z",
+        "source": "NZ Herald"
+      },
+      {
+        "title": "Iran War: I don't fear the Trump administration - Pope Leo",
+        "description": "Pushing back against United States President Donald Trump’s broadside, Pope Leo XIV says the Vatican’s appeals for peace and reconciliation are rooted in the Gospel, and that he did not fear the Trump administration.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Iran-War-I-don-t-fear-the-Trump-administration-Pope-Leo-2029949",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/213/21366051.jpg",
+        "publishedAt": "2026-04-14T00:33:07Z",
+        "source": "GhanaWeb"
+      },
+      {
+        "title": "Harry and Meghan: Sussexes arrive in Australia for four-day tour",
+        "description": "It is the couple's first visit to Australia since 2018 when they were working royals.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgk3vpyzdqo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f154/live/dc0fd340-37bc-11f1-b977-e9b0bfcbd7b4.jpg",
+        "publishedAt": "2026-04-14T00:14:27Z",
+        "source": "BBC"
+      },
+      {
+        "title": "The votes are in: AI will hurt elections and relationships",
+        "description": ": Latest report from Stanford's AI boffins finds unsafe usage practices, widespread anxiety about impacts, and China catching up to the USA",
+        "url": "https://www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+        "image": "https://regmedia.co.uk/2026/04/14/shutterstock_angry_and_afraid_of_laptop.jpg",
+        "publishedAt": "2026-04-14T00:05:00Z",
+        "source": "theregister.com"
+      },
+      {
+        "title": "Iran trolls Trump on social media after he launches his own blockade of the Strait of Hormuz",
+        "description": "‘Blocking the Strait is our job, not yours,’ an Iranian diplomatic mission said on X",
+        "url": "https://www.theglobeandmail.com/world/us-politics/article-iran-trolls-trump-on-social-media-after-he-launches-his-own-blockade/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/MKHLKO762JAZFNGBOJG6VTPIJI.jpg?auth=7418436a7dbcbca14e8c3908859844ff751ca536f28deb0d96b45b8707c9e9fc&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-14T00:03:22Z",
         "source": "The Globe and Mail"
-      },
-      {
-        "title": "Human rights watchdog to ask foreign ministry to work for transfer of NK POWs in Ukraine",
-        "description": "The state human rights watchdog said Tuesday it has decided to ask Foreign Minister Cho Hyun and Prime Minister Kim Min-seok to work for the swift...",
-        "url": "https://www.koreatimes.co.kr/southkorea/20260414/human-rights-watchdog-to-ask-foreign-ministry-to-work-for-transfer-of-nk-pows-in-ukraine",
-        "image": "https://newsimg.koreatimes.co.kr/2026/04/14/331d5559-3e3d-4b81-808c-742204561dda.jpg",
-        "publishedAt": "2026-04-13T23:38:00Z",
-        "source": "The Korea Times"
-      },
-      {
-        "title": "Lebanon enters talks with Israel but with no cards to play",
-        "description": "The Lebanese government go into peace talks with limited influence over the group.",
-        "url": "https://www.bbc.co.uk/news/articles/cr51l794mlyo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-13T23:26:46Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Vessels turned back as US blockades Strait of Hormuz",
-        "description": "The United States has turned away two vessels that were trying to pass the Strait of Hormuz, according to tracking data.",
-        "url": "https://www.telegraph.co.uk/world-news/2026/04/13/iran-israel-trump-hormuz-latest/",
-        "image": "https://www.telegraph.co.uk/content/dam/world-news/2026/04/13/TELEMMGLPICT000478382896_17761120743500_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Live",
-        "publishedAt": "2026-04-13T23:26:45Z",
-        "source": "The Telegraph"
-      },
-      {
-        "title": "US-Iran war live updates: Trump’s blockade of Strait of Hormuz takes effect; Trump deletes image of himself as Jesus Christ; Tehran wants a deal ‘very badly’, says US president",
-        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
-        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-s-blockade-of-strait-of-hormuz-takes-effect-trump-deletes-image-of-himself-as-jesus-christ-tehran-wants-a-deal-very-badly-says-us-president-20260413-p5znin.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2574247350244135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_63%2C$y_45/t_crop_custom/q_86%2Cf_auto/d4b8756e8e66489bfee3d0dde37cc9d4d4eb6e54",
-        "publishedAt": "2026-04-13T23:16:06Z",
-        "source": "The Age"
-      },
-      {
-        "title": "Why hospitals can run more smoothly on strike days (but it's no long",
-        "description": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
-        "url": "https://www.bbc.com/news/articles/cp3l2pygnlyo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg",
-        "publishedAt": "2026-04-13T23:06:45Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Public services card set to be acceptable as form of ID",
-        "description": "Government source said this would be 'useful for people who may not have a driving licence or passport'",
-        "url": "https://www.irishexaminer.com/news/politics/arid-41826761.html",
-        "image": "https://www.irishexaminer.com/cms_media/module_img/10078/5039282_6_seoimageog_Ireland_PSC-card_front_05.jpg",
-        "publishedAt": "2026-04-13T23:05:00Z",
-        "source": "Irish Examiner"
-      },
-      {
-        "title": "Swalwell exit shakes up chaotic California governor's race",
-        "description": "California Democrats were already fretting about the race due to troubling polls and low name recognition",
-        "url": "https://www.bbc.com/news/articles/cje419peejxo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/67b8/live/98517c00-377e-11f1-99f7-ef2fbb708262.jpg",
-        "publishedAt": "2026-04-13T23:02:45Z",
-        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "She Said Yes Launches \"Earth Love\" Sustainable Wedding Jewelry Collection with Global Green for Earth Day 2026",
-        "description": "/PRNewswire/ -- In celebration of Earth Day, fine wedding jewelry brand She Said Yes today announced the launch of its \"Earth Love\" limited-edition collection...",
-        "url": "https://www.prnewswire.com/news-releases/she-said-yes-launches-earth-love-sustainable-wedding-jewelry-collection-with-global-green-for-earth-day-2026-302741041.html",
-        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-13T23:38:00Z",
-        "source": "PR Newswire"
+        "title": "Seoul shares open sharply higher on revived hopes for US",
+        "description": "Korean stocks opened higher Tuesday, tracking overnight gains on Wall Street on revived hopes for peace talks after a U.S. blockade of the Strait o...",
+        "url": "https://www.koreatimes.co.kr/economy/20260414/seoul-shares-open-sharply-higher-on-revived-hopes-for-us-iran-peace-talks",
+        "image": "https://newsimg.koreatimes.co.kr/2026/04/14/66cd97c6-95f3-4ec9-8fee-9f1d1bbac178.jpg",
+        "publishedAt": "2026-04-14T00:39:03Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "Hootsuite founder Ryan Holmes returns to CEO role on interim basis, as Irina Novoselsky exits",
-        "description": "The CEO of Hootsuite has stepped down after spending the last several months defending a contract between the company and a controversial U.S. government department, making way for the firm's founder to return on an interim basis.",
-        "url": "https://www.cbc.ca/news/business/hootsuite-ryan-holmes-returns-irina-novoselsky-steps-down-dhs-9.7162357",
-        "image": "https://i.cbc.ca/ais/1.6545851,1769649084550/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C191%2C6296%2C3541%29%3BResize%3D620",
-        "publishedAt": "2026-04-13T23:37:05Z",
-        "source": "CBC"
+        "title": "United Airlines Reportedly Floats Merger With American Airlines",
+        "description": "United Airlines has reportedly discussed the idea of a merger with American Airlines. United Airlines stock rose late. American Air jumped.",
+        "url": "https://www.investors.com/news/united-airlines-merger-with-american-airlines/",
+        "image": "https://www.investors.com/wp-content/uploads/2020/06/Stock-unitedplanes-03-adobe.jpg",
+        "publishedAt": "2026-04-14T00:34:00Z",
+        "source": "Investor's Business Daily"
       },
       {
-        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-        "description": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
-        "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
-        "image": "https://media.wired.com/photos/69dd62de5630ccde90450adb/191:100/w_1280,c_limit/2200095767",
-        "publishedAt": "2026-04-13T23:37:00Z",
-        "source": "WIRED"
+        "title": "Access Bank maintains lead in Brand Finance rankings",
+        "description": "Access Bank is Nigeria’s Most Valuable Brand for the fifth consecutive year, with a brand value of N773.2bn, as per the Brand Finance Nigeria 25 report.",
+        "url": "https://punchng.com/access-bank-maintains-lead-in-brand-finance-rankings/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2016/11/27215742/Access-Bank.jpg",
+        "publishedAt": "2026-04-14T00:33:14Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "World Liberty investor Justin Sun claims Trump crypto venture 'secretly' installed tool to freeze user holdings",
-        "description": "LONDON, April 13 (Reuters) - A major investor in ⁠U.S. President Donald Trump's World Liberty Financial crypto venture has claimed that the firm \"secretly\" implemented a tool to unilaterally freeze and restrict private holdings ⁠of its WLFI token.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/world-liberty-investor-justin-sun-claims-trump-crypto-venture-039secretly039-installed-tool-to-freeze-user-holdings",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858331.jpg",
-        "publishedAt": "2026-04-13T23:34:00Z",
-        "source": "The Star"
+        "title": "How to avoid being friendless at 40: Fix these common mistakes men make",
+        "description": "Emotional self-sufficiency is the cornerstone of the Kiwi male experience. It’s a skill our fathers and grandfathers teach us. Be tough. Don’t rely on...",
+        "url": "https://www.nzherald.co.nz/lifestyle/how-to-avoid-being-friendless-at-40-fix-these-common-mistakes-men-make/premium/ZIRUCFQAFFD27HOPKEVQKB66VM/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/KBUGKPC4OVDDHENTKFAEUDOX4A.jpg?auth=6844a4f7dcb8a9c5be2b2ca75dec3a1847a2a13dedae610fe52b24941276e6d0&width=1200&height=675&quality=70&focal=660%2C754&smart=false",
+        "publishedAt": "2026-04-14T00:32:41Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "India Inc pulls back a bit from Gulf as cracks widen across operations",
-        "description": "Indian consumer companies are scaling back West Asian operations due to steep losses and a fivefold surge in container costs amid the US-Israel-Iran war. Expansion plans are on hold as some businesses see up to a 40% decline, with mass consumers leaving the region.",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/india-inc-pulls-back-a-bit-from-gulf-as-cracks-widen-across-operations-fmcg-companies-us-israel-iran-war/articleshow/130244751.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130249846,width-1200,height-630,imgsize-7228,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-13T23:30:00Z",
-        "source": "The Economic Times"
+        "title": "Hong Kong taxpayers face HK$28 billion Covid bad-loan burden from SMEs",
+        "description": "Of 67,189 loan applications approved under government’s Special 100% Loan Guarantee scheme, 13,231 had defaulted by end of February.",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349954/hong-kong-taxpayers-face-hk28-billion-covid-bad-loan-burden-smes",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/13/429400fe-da7e-4796-9317-8970f73ab45a_6fb5f43c.jpg?itok=a9bjQlpU&v=1776095974",
+        "publishedAt": "2026-04-14T00:30:08Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Asian Stocks to Rise on Iran Deal Hopes, Oil Falls: Markets Wrap",
-        "description": "(Bloomberg) -- Stocks in Asia were set to advance, tracking Wall Street gains as US President Donald Trump raised hopes for an Iran deal even as a blockade of the Strait of Hormuz took effect.",
-        "url": "https://www.swissinfo.ch/eng/asian-stocks-to-rise-on-iran-deal-hopes%2C-oil-falls%3A-markets-wrap/91251062",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341862",
-        "publishedAt": "2026-04-13T23:28:45Z",
-        "source": "SWI swissinfo.ch"
+        "title": "Aer Lingus launches exciting new US route",
+        "description": "Aer Lingus has launched a new USA route from Dublin",
+        "url": "https://www.irishmirror.ie/lifestyle/travel/aer-lingus-launches-exciting-new-37007428",
+        "image": "https://i2-prod.irishmirror.ie/article33109416.ece/ALTERNATES/s1200d/1_JS337169191.jpg",
+        "publishedAt": "2026-04-14T00:29:19Z",
+        "source": "Irish Mirror"
       },
       {
-        "title": "Lufax Holding (LU) Facing Securities Class Action Amid Firing Auditor Who Raised Red Flags -- Hagens Berman",
-        "description": "/PRNewswire/ -- A securities class action lawsuit has been filed against Lufax Holding Ltd. (NYSE: LU), seeking to represent investors who purchased or...",
-        "url": "https://www.prnewswire.com/news-releases/lufax-holding-lu-facing-securities-class-action-amid-firing-auditor-who-raised-red-flags----hagens-berman-302741019.html",
-        "image": "https://mma.prnewswire.com/media/2590203/Hagens_Berman_Sobol_Shapiro_LLP_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-13T23:28:00Z",
-        "source": "PR Newswire"
+        "title": "Do Fortescue’s plans to eliminate gas and diesel stack up? The big win comes from electric trucks",
+        "description": "We crunch the numbers on Fortescue's plans to eliminate gas and diesel. It's the transition to electric trucks that deliver the biggest return on investment.",
+        "url": "https://reneweconomy.com.au/do-fortescues-plans-to-eliminate-gas-and-diesel-stack-up-the-big-win-comes-from-electric-trucks/",
+        "image": "https://reneweconomy.com.au/wp-content/uploads/2025/10/Fortescue-partners-with-Liebherr-to-develop-AHS-1.webp",
+        "publishedAt": "2026-04-14T00:25:32Z",
+        "source": "Renew Economy"
       },
       {
-        "title": "Introducing: Patek Philippe Calatrava Alarme 24",
-        "description": "A modern style Calatrava with a 24-hour alarm. Meet the new duo of Patek Philippe Calatrava Alarme 24-hour Reference 5322G.",
-        "url": "https://monochrome-watches.com/the-new-patek-philippe-calatrava-alarme-24-hour-reference-5322g-introducing/",
-        "image": "https://monochrome-watches.com/app/uploads/2026/04/Calatrava-Alarm-Reference-5322G-001-5322G-010.jpg",
-        "publishedAt": "2026-04-13T23:27:54Z",
-        "source": "Monochrome Watches"
+        "title": "How Nigeria can boost growth through critical minerals",
+        "description": "Discover how financing Nigeria's critical minerals sector can unlock economic growth, add 2% to GDP, and drive diversification through value chain developm",
+        "url": "https://punchng.com/nigeria-can-boost-growth-through-critical-minerals/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/14003343/Rutten.jpg",
+        "publishedAt": "2026-04-14T00:23:25Z",
+        "source": "Punch Newspapers"
       }
     ],
     "science": [
+      {
+        "title": "As Artemis II is celebrated, the world faces hard questions about US leadership in space",
+        "description": "The US disregards international law on Earth. Is that what we want on the Moon?",
+        "url": "https://www.unsw.edu.au/newsroom/news/2026/04/as-artemis-ii-is-celebrated-the-world-faces-hard-questions-about-us-leadership-in-space",
+        "image": "https://www.unsw.edu.au/content/dam/images/unsw-wide/general/news/2026/2026-01-mel-newsroom/artemis-crew-copy.cropimg.width=700.crop=landscape.jpeg",
+        "publishedAt": "2026-04-14T00:32:20Z",
+        "source": "UNSW Sydney"
+      },
+      {
+        "title": "Asia's largest gamma-ray telescope, MACE, explores the high-energy cosmos",
+        "description": "Perched 4.3 kilometres above sea level in the high-altitude desert of Ladakh, the MACE telescope is capturing fleeting flashes of light to uncover the secrets of the most extreme and energetic phenomena in the universe. | Bhabha Atomic Research Centre,MACE telescope,Astronomy,gamma rays | Research News by \"Research Matters\"",
+        "url": "https://researchmatters.in/news/asias-largest-gamma-ray-telescope-mace-explores-high-energy-cosmos",
+        "image": "https://researchmatters.in/sites/researchmatters/files/MACE.jpg",
+        "publishedAt": "2026-04-14T00:30:00Z",
+        "source": "researchmatters.in"
+      },
+      {
+        "title": "Superconductivity found in iron telluride",
+        "description": "Penn State team reveals iron defects hid zero-resistance state. Hidden inside a material long written off as an ordinary magnetic metal, researchers",
+        "url": "https://www.metaltechnews.com/story/2026/04/15/tech-bytes/superconductivity-found-in-iron-telluride/2719.html",
+        "image": "https://www.metaltechnews.com/home/cms_data/dfault/photos/stories/id/1/9/2719/s_top",
+        "publishedAt": "2026-04-14T00:28:10Z",
+        "source": "Metal Tech News"
+      },
+      {
+        "title": "Artemis astronaut steals moon mascot from Nasa",
+        "description": "The mascot was supposed to be left aboard Nasa Artemis 2 Commander to be retrieved at a later date",
+        "url": "https://www.telegraph.co.uk/us/news/2026/04/14/artemis-astronaut-steals-moon-mascot-from-nasa/",
+        "image": "https://www.telegraph.co.uk/content/dam/en-us/news/2026/04/14/TELEMMGLPICT000475807931_17761253031080_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2026-04-14T00:24:00Z",
+        "source": "The Telegraph"
+      },
+      {
+        "title": "What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week",
+        "description": "The best time to see Earthshine is a few days before and a few days after each new moon during the spring.",
+        "url": "https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/",
+        "image": "https://www.cnet.com/a/img/resize/d6e1710be7550d47a22b0364dcc3e805cbf81df5/hub/2026/04/13/aaf5ca58-b20f-4342-b728-02cad5971dfc/earthshine.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-04-14T00:15:00Z",
+        "source": "CNET"
+      },
+      {
+        "title": "Two Earth-Size Worlds in TRAPPIST-1 System Reveal Stark Divide Between Day and Night",
+        "description": "New Webb observations of two exoplanets TRAPPIST-1b and TRAPPIST-1c show blistering days and frozen nights, offering the first detailed climate maps of rocky exoplanets and dimming hopes for habitability.",
+        "url": "https://www.sci.news/astronomy/two-trappist-1-exoplanets-climate-14692.html",
+        "image": "https://cdn.sci.news/images/2016/05/image_3831_1-TRAPPIST-1.jpg",
+        "publishedAt": "2026-04-13T23:46:27Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "UTS study highlights need for personalised respiratory care",
+        "description": "Researchers from the University of Technology Sydney (UTS) have used a patient-specific 3D airway model to show that respiratory therapy doesn’t affect all parts of the airway equally and that there’s “potential to support the design of better devices and personalised treatment” for respiratory patients. Published in Respiratory Physiology & Neurobiology, the study used CT-derived modelling […]",
+        "url": "https://retailpharmacymagazine.com.au/uts-study-highlights-need-for-personalised-respiratory-care/",
+        "image": "https://retailpharmacymagazine.com.au/wp-content/uploads/2019/08/Red-lungs.jpg",
+        "publishedAt": "2026-04-13T23:46:20Z",
+        "source": "retailpharmacymagazine.com.au"
+      },
       {
         "title": "Why cats stop eating-it's not just fullness",
         "description": "Researchers in Japan have shown that domestic cats may stop eating—often leaving food unfinished—not only because they are full, but also because smell plays an important role in regulating feeding motivation.  The study led by a team at Iwate University—and published in Physiology & Behavior—suggests that feeding behaviour in cats is dynamically influenced by olfactory habituation […]",
@@ -142,128 +198,72 @@
         "image": "https://www.vetpracticemag.com.au/wp-content/uploads/2026/04/cat-with-food.jpg",
         "publishedAt": "2026-04-13T23:18:19Z",
         "source": "Vet Practice Magazine"
-      },
-      {
-        "title": "Physicists achieve most accurate measurement yet of the W boson",
-        "description": "CMS measured the W boson mass with high precision, backing the Standard Model and challenging the 2022 CDF anomaly.",
-        "url": "https://www.thebrighterside.news/post/physicists-achieve-most-accurate-measurement-yet-of-the-w-boson/",
-        "image": "https://www.thebrighterside.news/uploads/2026/04/W-Boson.jpg?auto=webp",
-        "publishedAt": "2026-04-13T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "New model explains how single electrons cause damage inside silicon chips",
-        "description": "Insights from Chris Van de Walle’s Computational Materials Group open the door to longer-lasting devices",
-        "url": "https://news.ucsb.edu/2026/022508/new-model-explains-how-single-electrons-cause-damage-inside-silicon-chips",
-        "image": "https://news.ucsb.edu/sites/default/files/2026-04/circuit-board-hero-umberto-unsplash-uc-santa-barbara.jpg",
-        "publishedAt": "2026-04-13T23:05:23Z",
-        "source": "UC Santa Barbara"
-      },
-      {
-        "title": "Ancient microbes may reveal how complex life began",
-        "description": "Scientists have discovered a hidden partnership between ancient microbes that may explain how complex life first evolved on Earth.",
-        "url": "https://www.earth.com/news/microbes-found-in-living-fossils-hold-insights-into-how-complex-life-began/",
-        "image": "https://cff2.earth.com/uploads/2026/04/13161312/Asgard-archaeon_Nerearchaeum-marumarumayae_complex-life_Cell-Biology_2m.jpg",
-        "publishedAt": "2026-04-13T23:03:45Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
-        "description": "An analysis of DNA from Stone Age skeletons buried in Scotland reveals how people organized the burial of their dead.",
-        "url": "https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
-        "image": "https://cdn.mos.cms.futurecdn.net/Lq2Scoqf7mKN6YZLowN3iY-1379-80.png",
-        "publishedAt": "2026-04-13T23:01:00Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Saturn's Magnetic Shield Is Not Where Anyone Expected It To Be.",
-        "description": "Saturn is one of the most recognisable and studied planets in the Solar System, it was the first thing I ever saw through a telescope and yet it is still finding ways to surprise us. New research analysing data from NASA's Cassini spacecraft has revealed a significant and unexpected quirk in Saturn's protective magnetic bubble, one that confirms the giant planets of our Solar System play by completely different rules to Earth.",
-        "url": "https://www.universetoday.com/articles/saturns-magnetic-shield-is-not-where-anyone-expected-it-to-be",
-        "image": "https://www.universetoday.com/article_images/1280px-Saturn_during_Equinox_20260413_225043.jpg",
-        "publishedAt": "2026-04-13T22:51:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "How Jupiter Cultivated More Large Moons Than Saturn",
-        "description": "The two largest planets in our Solar System, Jupiter and Saturn, also have the largest satellite systems, or the most",
-        "url": "https://www.eurasiareview.com/14042026-how-jupiter-cultivated-more-large-moons-than-saturn/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-139.jpeg",
-        "publishedAt": "2026-04-13T22:44:30Z",
-        "source": "Eurasia Review"
-      },
-      {
-        "title": "The Most Quiet Place We've Ever Listened From!",
-        "description": "For the first time in history, scientists have used a spacecraft on the far side of the Moon to search for signals from extraterrestrial intelligence. China's Chang'E-4 lander sat in the most radio quiet location humanity has ever placed an instrument, shielded from Earth's constant electronic chatter by the entire bulk of the Moon itself. They found nothing but that is almost beside the point!",
-        "url": "https://www.universetoday.com/articles/the-most-quiet-place-weve-ever-listened-from",
-        "image": "https://www.universetoday.com/article_images/1280px-Far_side_of_the_Moon_20260413_222432.png",
-        "publishedAt": "2026-04-13T22:32:00Z",
-        "source": "Universe Today"
       }
     ],
     "ai": [
       {
-        "title": "Attempted murder charge laid in attack on OpenAI CEO Sam Altman’s home",
-        "description": "The man accused of throwing a Molotov cocktail at the San Francisco residence has been charged with attempting to kill Altman and a security guard, the district attorney said.",
-        "url": "https://globalnews.ca/news/11799876/sam-altman-openai-molotov-cocktail-charge/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/04/sam-altman-file-april-13-e1776123138301.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-04-13T23:38:33Z",
-        "source": "Global News"
+        "title": "Echovision AI Glasses for the Blind and Low Vision Users",
+        "description": "EchoVision is AI-powered smart glasses from AGIGA, a Silicon Valley startup founded in 2024. The help blind and low-vision users. The glasses look like",
+        "url": "https://www.nextbigfuture.com/2026/04/echovision-ai-glasses-for-the-blind-and-low-vision-users.html",
+        "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/Screenshot-2026-04-13-at-5.31.03-PM.jpg",
+        "publishedAt": "2026-04-14T00:36:24Z",
+        "source": "NextBigFuture.com"
       },
       {
-        "title": "Celonis and Oracle expand collaboration to power Enterprise AI and accelerate IT modernisation",
-        "description": "Celonis and Oracle have expanded their long-standing collaboration opening up additional features to joint customers. The collaboration enables compan...",
-        "url": "https://itwire.com/itwire-latest-news/celonis-and-oracle-expand-collaboration-to-power-enterprise-ai-and-accelerate-it-modernisation.html",
-        "image": "https://itwire.com/media/k2/items/cache/fdc8a2186bd3e8aaf76b33f85a0e92ab_XS.jpg",
-        "publishedAt": "2026-04-13T23:37:25Z",
-        "source": "iTWire"
+        "title": "Bigg Boss 18's Edin Rose researched how AI processes emotions for role in Pradeep Ranganathan's Love Insurance Kompany",
+        "description": "In an interview with Hindustan Times, Edin Rose talks about her recent release, Vignesh Shivan's Love Insurance Kompany, working with SJ Suryah and more.",
+        "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/bigg-boss-18s-edin-rose-researched-how-ai-processes-emotions-for-role-in-pradeep-ranganathans-love-insurance-kompany-101776077806511.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/13/550x309/Edin_Rose_2_1776077782918_1776077799196.jpeg",
+        "publishedAt": "2026-04-14T00:36:02Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says",
-        "description": "WASHINGTON, April 13 (Reuters) - Anthropic ⁠is discussing its frontier AI model Mythos with the Trump ⁠administration, the firm's co-founder said on Monday, even after the ‌Pentagon cut off business with the U.S. AI company following a contract dispute.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/anthropic-talking-to-the-trump-administration-about-its-next-ai-model-co-founder-says",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858330.jpg",
-        "publishedAt": "2026-04-13T23:32:00Z",
-        "source": "The Star"
+        "title": "HR Tech Asia 2026 unveils the human blueprint for the AI",
+        "description": "The age of AI-powered organisations has arrived—and HR Tech Asia 2026 will explore how leaders can design the intelligent workplace.",
+        "url": "https://hrmasia.com/hr-tech-asia-2026-unveils-the-human-blueprint-for-the-ai-native-enterprise/",
+        "image": "https://hrmasia.com/wp-content/uploads/2026/04/11846thMay-HRTechAsia2025_DSD2895-1024x683.jpg",
+        "publishedAt": "2026-04-14T00:35:49Z",
+        "source": "HRM Asia"
       },
       {
-        "title": "Microsoft seeks to throw out lawsuit from ChatGPT Plus subscribers alleging its agreement with OpenAI led to inflated prices",
-        "description": "Legal battle centers on pricing claims tied to OpenAI partnership",
-        "url": "https://www.techradar.com/pro/a-secret-agreement-microsoft-urges-judge-to-throw-out-claims-it-colluded-with-openai-to-boost-chatgpt-prices-could-this-be-the-needle-to-pop-the-ai-bubble",
-        "image": "https://cdn.mos.cms.futurecdn.net/f9k4KNEbF4sT2WVJ8KZZ4K-1920-80.jpg",
-        "publishedAt": "2026-04-13T23:30:00Z",
-        "source": "TechRadar"
+        "title": "Japan's Fujitsu Bets on Hardware-AI Package as Europe Seeks Alternatives to U.S. Dominance",
+        "description": "Japanese ICT firm Fujitsu is pivoting to become an AI business by merging its electronics manufacturing roots with AI services, aligning with Europe's push to reduce U.S. tech dependence, Nikkei...",
+        "url": "https://www.marketscreener.com/news/japan-s-fujitsu-bets-on-hardware-ai-package-as-europe-seeks-alternatives-to-u-s-dominance-ce7e50dede8dff23",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-04-14T00:33:29Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Indore News: IIT Indore’s Agrihub Spearheads AI-Driven Farming Revolution",
-        "description": "Other innovations feature an IoT-based soybean disease forewarning system, groundwater forecasting applications, and a genome analysis platform. Building on this, AgriHub recently approved 10 new AI-based genomics projects, bringing the total to 21 projects and one startup. These focus on vital crops such as soybean, chickpea, wheat, and rice.",
-        "url": "https://www.freepressjournal.in/indore/indore-news-iit-indores-agrihub-spearheads-ai-driven-farming-revolution",
-        "image": "https://media.assettype.com/freepressjournal/2026-01-15/bqcy8zyj/Add-a-subheading-45.jpg",
-        "publishedAt": "2026-04-13T23:30:00Z",
-        "source": "Free Press Journal"
+        "title": "“Political prostitution”: Candace Owens slams identical posts defending President as AI Jesus image sparks backlash",
+        "description": "US Streamers News: Candace Owens jumped into a growing online fight after a strange set of posts about Donald Trump started spreading. It all began when users noticed tw.",
+        "url": "https://timesofindia.indiatimes.com/world/us-streamers/political-prostitution-candace-owens-slams-identical-posts-defending-president-as-ai-jesus-image-sparks-backlash/articleshow/130249062.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130249056,width-1280,height-720,imgsize-989758,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-14T00:31:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "LPU organizes Edu-Leaders Meet 2026, highlights academic innovation",
-        "description": "Excelsior Correspondent JAMMU, Apr 13: Through its Jammu chapter, Lovely Professional University (LPU) today organized the Edu-Leaders Meet 2026, creating a vibrant academic forum for dialogue, reflection and innovation in contemporary education. Aligned with the theme “Artificial Intelligence in modern education,” the meet highlighted the transformative role of technology in reshaping teaching, learning and institutional leadership. The discussions focused on leveraging AI-driven tools, enhancing personalized learning experiences and promoting data-informed decision-making to meet the demands of 21st-century education. The event […]",
-        "url": "https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/page8-3-7.jpg",
-        "publishedAt": "2026-04-13T23:29:54Z",
-        "source": "Daily Excelsior"
+        "title": "India Inc stares at a reckoning as Mythos rewires cybersecurity",
+        "description": "Indian enterprises could be facing a structural cybersecurity risk after the release of the advanced AI model Mythos by Anthropic. As Mythos begins finding software vulnerabilities in hours, far faster than companies can fix them, experts said this could leave systems exposed, especially in sectors like banking and telecom that rely on older systems.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241342.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2140845,resizemode-75,msid-130241342/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises.jpg",
+        "publishedAt": "2026-04-14T00:31:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "TSMC Q1: Middle East War Consequences And The Zero-Availability Crisis (NYSE:TSM)",
-        "description": "TSMC is central to the AI and data center boom. Read how revenue growth is driven by surging AI inference and memory demand.",
-        "url": "https://seekingalpha.com/article/4890364-taiwan-semiconductor-q1-middle-east-war-consequences-and-the-zero-availability-crisis",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363604154/image_1363604154.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-13T23:27:33Z",
-        "source": "Seeking Alpha"
+        "title": "Indian AI firms take up super hard stuff",
+        "description": "AI startups in India are now shifting their focus to move beyond applications and AI wrappers to build solutions in frontier deeptech areas, writes Swathi Moorthy.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-ai-firms-take-up-super-hard-stuff/articleshow/130242824.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-334538,resizemode-75,msid-130242824/tech/artificial-intelligence/indian-ai-firms-take-up-super-hard-stuff.jpg",
+        "publishedAt": "2026-04-14T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Suspect in arson Sam Altman home aimed to kill, warned extinction AI",
-        "description": "San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.",
-        "url": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108236133-17647882242025-11-06t201852z_653951074_rc2umcacl8qk_rtrmadp_0_openai-outlook.jpeg?v=1765924912&w=1920&h=1080",
-        "publishedAt": "2026-04-13T23:27:13Z",
-        "source": "CNBC"
+        "title": "Indian companies turn to outsourced cybersecurity to bridge talent gap",
+        "description": "India’s cybersecurity outsourcing market is growing as companies adopt SOC-as-a-service due to talent shortages, high costs, and complex threats. Mid-sized firms lead demand, especially in BFSI, telecom, and IT. Hybrid models dominate, with AI-driven automation improving efficiency, while human oversight remains essential in managing evolving cyber risks and responses.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-outsourcing-booms-amid-talent-squeeze-rising-costs/articleshow/130241176.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-857480,resizemode-75,msid-130241176/tech/technology/cybersecurity-outsourcing-booms-amid-talent-squeeze-rising-costs.jpg",
+        "publishedAt": "2026-04-14T00:30:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
