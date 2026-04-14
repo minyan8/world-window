@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-14T10:44:30.798Z",
+  "fetchedAt": "2026-04-14T11:40:44.943Z",
   "sections": {
     "world": [
       {
-        "title": "U.S. and Iran mull second round of talks as Hormuz blockade begins",
-        "description": "The news comes as the U.S. pressed ahead with a naval blockade of the Strait of Hormuz as a way of ramping up pressure on the regime in Tehran.",
-        "url": "https://www.japantimes.co.jp/news/2026/04/14/world/politics/iran-talks-blockade-starts/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/14/534668.jpg?v=3.1",
-        "publishedAt": "2026-04-13T22:43:00Z",
-        "source": "The Japan Times"
+        "title": "U.S. and Iran begin a battle of economic endurance in the Strait of Hormuz",
+        "description": "The waterway has now fallen under a complete blockade, with mirror-image military threats from Washington and Tehran",
+        "url": "https://www.theglobeandmail.com/world/article-trumps-blockade-of-strait-of-hormuz-shuts-down-all-traffic/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/KBN46K2VDZHZFAIZIOTQKOPWNI.JPG?auth=7492d11085deef711fc247cae2d22bd559236411bc9da636204c9451a2efd07b&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-13T23:39:21Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Trump administration agrees to keep Pride flag at Stonewall monument",
-        "description": "A lawsuit was filed after the flag was removed this year from the Stonewall National Monument, which commemorates a milestone for the gay rights movement.",
-        "url": "https://www.bbc.com/news/articles/clye0lj5kg6o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4086/live/97b2dbf0-3787-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-13T22:39:17Z",
+        "title": "Human rights watchdog to ask foreign ministry to work for transfer of NK POWs in Ukraine",
+        "description": "The state human rights watchdog said Tuesday it has decided to ask Foreign Minister Cho Hyun and Prime Minister Kim Min-seok to work for the swift...",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260414/human-rights-watchdog-to-ask-foreign-ministry-to-work-for-transfer-of-nk-pows-in-ukraine",
+        "image": "https://newsimg.koreatimes.co.kr/2026/04/14/331d5559-3e3d-4b81-808c-742204561dda.jpg",
+        "publishedAt": "2026-04-13T23:38:00Z",
+        "source": "The Korea Times"
+      },
+      {
+        "title": "Lebanon enters talks with Israel but with no cards to play",
+        "description": "The Lebanese government go into peace talks with limited influence over the group.",
+        "url": "https://www.bbc.co.uk/news/articles/cr51l794mlyo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg",
+        "publishedAt": "2026-04-13T23:26:46Z",
         "source": "BBC"
       },
       {
-        "title": "Trump administration agrees to keep Pride flag at Stonewall monument",
-        "description": "A lawsuit was filed after the flag was removed this year from the Stonewall National Monument, which commemorates a milestone for the gay rights movement.",
-        "url": "https://www.bbc.co.uk/news/articles/clye0lj5kg6o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4086/live/97b2dbf0-3787-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-13T22:39:17Z",
+        "title": "Vessels turned back as US blockades Strait of Hormuz",
+        "description": "The United States has turned away two vessels that were trying to pass the Strait of Hormuz, according to tracking data.",
+        "url": "https://www.telegraph.co.uk/world-news/2026/04/13/iran-israel-trump-hormuz-latest/",
+        "image": "https://www.telegraph.co.uk/content/dam/world-news/2026/04/13/TELEMMGLPICT000478382896_17761120743500_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Live",
+        "publishedAt": "2026-04-13T23:26:45Z",
+        "source": "The Telegraph"
+      },
+      {
+        "title": "US-Iran war live updates: Trump’s blockade of Strait of Hormuz takes effect; Trump deletes image of himself as Jesus Christ; Tehran wants a deal ‘very badly’, says US president",
+        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
+        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-s-blockade-of-strait-of-hormuz-takes-effect-trump-deletes-image-of-himself-as-jesus-christ-tehran-wants-a-deal-very-badly-says-us-president-20260413-p5znin.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2574247350244135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_63%2C$y_45/t_crop_custom/q_86%2Cf_auto/d4b8756e8e66489bfee3d0dde37cc9d4d4eb6e54",
+        "publishedAt": "2026-04-13T23:16:06Z",
+        "source": "The Age"
+      },
+      {
+        "title": "Why hospitals can run more smoothly on strike days (but it's no long",
+        "description": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
+        "url": "https://www.bbc.com/news/articles/cp3l2pygnlyo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg",
+        "publishedAt": "2026-04-13T23:06:45Z",
         "source": "BBC"
       },
       {
-        "title": "Embattled GOP Rep. Tony Gonzales announces he’s stepping down from Congress",
-        "description": "Embattled Republican Rep. Tony Gonzales announced Monday that he would step down from Congress, just days before he faced the possibility of a high-stakes vote that could have made him the seventh member to ever be expelled from the House.",
-        "url": "https://www.cnn.com/2026/04/13/politics/tony-gonzales-leaving-congress",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2206345748.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-13T22:37:19Z",
-        "source": "CNN"
+        "title": "Public services card set to be acceptable as form of ID",
+        "description": "Government source said this would be 'useful for people who may not have a driving licence or passport'",
+        "url": "https://www.irishexaminer.com/news/politics/arid-41826761.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10078/5039282_6_seoimageog_Ireland_PSC-card_front_05.jpg",
+        "publishedAt": "2026-04-13T23:05:00Z",
+        "source": "Irish Examiner"
       },
       {
-        "title": "Eric Swalwell to resign from Congress after sexual misconduct claims",
-        "description": "Four women have accused the congressman and ex-candidate for California governor of misconduct ranging from sexual harassment to rape, which he has denied.",
-        "url": "https://www.bbc.com/news/articles/cwyd8rj1ylro",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e254/live/6a60a1f0-3782-11f1-baf3-a7621754a772.jpg",
-        "publishedAt": "2026-04-13T22:35:20Z",
+        "title": "Swalwell exit shakes up chaotic California governor's race",
+        "description": "California Democrats were already fretting about the race due to troubling polls and low name recognition",
+        "url": "https://www.bbc.com/news/articles/cje419peejxo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/67b8/live/98517c00-377e-11f1-99f7-ef2fbb708262.jpg",
+        "publishedAt": "2026-04-13T23:02:45Z",
         "source": "BBC"
-      },
-      {
-        "title": "South Africa's mining industry faces money laundering problems",
-        "description": "It is a move which could affect new mining opportunities for investors: On Oct. 18, 2025, South Africa was officially removed from […]",
-        "url": "https://www.canadianminingjournal.com/featured-article/south-africas-mining-industry-faces-money-laundering-problems/",
-        "image": "https://www.canadianminingjournal.com/wp-content/uploads/2026/04/AdobeStock_152589155-1024x684.jpeg",
-        "publishedAt": "2026-04-13T22:34:34Z",
-        "source": "Canadian Mining Journal"
-      },
-      {
-        "title": "Orbán’s defeat may signal shift in Europe’s far-right, illiberal tide says Michael Ignatieff",
-        "description": "For Michael Ignatieff, news that Viktor Orbán’s 16-year rule in Hungary had come to an end was reason enough to raise a glass. He speaks about what Orbán’s defeat and Péter Magyar's victory could mean for geopolitics.",
-        "url": "https://www.cbc.ca/radio/asithappens/michael-ignatieff-hungary-election-9.7162264",
-        "image": "https://i.cbc.ca/ais/0237655a-2fcb-4e93-8ed0-ba165e0b858e,1776118653932/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C359%2C6896%2C3879%29%3BResize%3D620",
-        "publishedAt": "2026-04-13T22:28:14Z",
-        "source": "CBC"
-      },
-      {
-        "title": "US's 20-year uranium freeze demand vs Iran's 5: Deadlock that derailed truce talks",
-        "description": "A disagreement over Iran’s nuclear programme emerged as the central sticking point in weekend talks between Iran and the United States in Pakistan, with Washington seeking a 20-year freeze on uranium enrichment while Tehran countered with a five-year limit.",
-        "url": "https://www.indiatoday.in/world/story/us-proposes-20-year-uranium-enrichment-moratorium-in-iran-nuclear-talks-2895713-2026-04-14",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/this-satellite-image-provided-by-vantor-shows-the-natanz-nuclear-complex-in-iran-on-march-7--2026--w-143415392-16x9_0.png?VersionId=HcX8F9Gao0DBdhSLdLWVDeNILKiuAe47",
-        "publishedAt": "2026-04-13T22:26:12Z",
-        "source": "India Today"
       }
     ],
     "business": [
       {
-        "title": "Influential NZ fashion label Wynn Hamlyn is 'pressing pause'",
-        "description": "After ten years of distinct New Zealand craftsmanship, Wynn Hamlyn's current collection will be its last - for now.",
-        "url": "https://www.rnz.co.nz/life/lifestyle/style/influential-nz-fashion-label-wynn-hamlyn-is-pressing-pause",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--I5IZQQcQ--/t_tohu-badge-facebook/f_auto/q_auto/4JQ6VAD_IMG_1155_jpg",
-        "publishedAt": "2026-04-13T22:44:27Z",
-        "source": "RNZ"
+        "title": "She Said Yes Launches \"Earth Love\" Sustainable Wedding Jewelry Collection with Global Green for Earth Day 2026",
+        "description": "/PRNewswire/ -- In celebration of Earth Day, fine wedding jewelry brand She Said Yes today announced the launch of its \"Earth Love\" limited-edition collection...",
+        "url": "https://www.prnewswire.com/news-releases/she-said-yes-launches-earth-love-sustainable-wedding-jewelry-collection-with-global-green-for-earth-day-2026-302741041.html",
+        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+        "publishedAt": "2026-04-13T23:38:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "STG Buys Carrier Logistics to Launch Autonomous Freight Agents",
-        "description": "Private equity firm STG plans to develop an AI-native less-than-truckload solution with its acquisition of Carrier Logistics.",
-        "url": "https://www.pymnts.com/acquisitions/2026/stg-buys-carrier-logistics-to-launch-autonomous-freight-agents/",
-        "image": "https://www.pymnts.com/wp-content/uploads/2026/04/STG-Carrier-Logistics-acquisitions-freight-AI.jpeg",
-        "publishedAt": "2026-04-13T22:41:15Z",
-        "source": "PYMNTS.com"
+        "title": "Hootsuite founder Ryan Holmes returns to CEO role on interim basis, as Irina Novoselsky exits",
+        "description": "The CEO of Hootsuite has stepped down after spending the last several months defending a contract between the company and a controversial U.S. government department, making way for the firm's founder to return on an interim basis.",
+        "url": "https://www.cbc.ca/news/business/hootsuite-ryan-holmes-returns-irina-novoselsky-steps-down-dhs-9.7162357",
+        "image": "https://i.cbc.ca/ais/1.6545851,1769649084550/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C191%2C6296%2C3541%29%3BResize%3D620",
+        "publishedAt": "2026-04-13T23:37:05Z",
+        "source": "CBC"
       },
       {
-        "title": "Oil prices drop as US, Iran weigh more talks with blockade in place",
-        "description": "Brent crude, the global oil benchmark, fell 1.55 per cent to US$97.82 a barrel as at 9.40am Singapore time. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/companies-markets/oil-prices-drop-as-us-and-iran-weigh-meeting-to-revive-ceasefire-talks",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/44b8ccc5eb78439a01e55a9ebf94ce39f83537d79d0e9ed56bb1b08a3284f4d1",
-        "publishedAt": "2026-04-13T22:40:00Z",
-        "source": "The Straits Times"
+        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+        "description": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+        "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+        "image": "https://media.wired.com/photos/69dd62de5630ccde90450adb/191:100/w_1280,c_limit/2200095767",
+        "publishedAt": "2026-04-13T23:37:00Z",
+        "source": "WIRED"
       },
       {
-        "title": "Introducing The Panerai Luminor 31 Giorni PAM01631",
-        "description": "A month-long power reserve comes to the Luminor for the first time in a new 200-piece limited edition.",
-        "url": "https://www.hodinkee.com/articles/the-panerai-luminor-31-giorni-pam01631",
-        "image": "https://hodinkee.imgix.net/uploads/images/97e14518-178b-40ca-a38c-a65a3c3bfe1b/Panerai-Luminor-31-Giorni-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "publishedAt": "2026-04-13T22:39:48Z",
-        "source": "Hodinkee"
+        "title": "World Liberty investor Justin Sun claims Trump crypto venture 'secretly' installed tool to freeze user holdings",
+        "description": "LONDON, April 13 (Reuters) - A major investor in ⁠U.S. President Donald Trump's World Liberty Financial crypto venture has claimed that the firm \"secretly\" implemented a tool to unilaterally freeze and restrict private holdings ⁠of its WLFI token.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/world-liberty-investor-justin-sun-claims-trump-crypto-venture-039secretly039-installed-tool-to-freeze-user-holdings",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858331.jpg",
+        "publishedAt": "2026-04-13T23:34:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Stocks in Asia Poised to Climb on Iran Deal Hopes: Markets Wrap",
+        "title": "India Inc pulls back a bit from Gulf as cracks widen across operations",
+        "description": "Indian consumer companies are scaling back West Asian operations due to steep losses and a fivefold surge in container costs amid the US-Israel-Iran war. Expansion plans are on hold as some businesses see up to a 40% decline, with mass consumers leaving the region.",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/india-inc-pulls-back-a-bit-from-gulf-as-cracks-widen-across-operations-fmcg-companies-us-israel-iran-war/articleshow/130244751.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130249846,width-1200,height-630,imgsize-7228,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-13T23:30:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Asian Stocks to Rise on Iran Deal Hopes, Oil Falls: Markets Wrap",
         "description": "(Bloomberg) -- Stocks in Asia were set to advance, tracking Wall Street gains as US President Donald Trump raised hopes for an Iran deal even as a blockade of the Strait of Hormuz took effect.",
-        "url": "https://www.swissinfo.ch/eng/stocks-in-asia-poised-to-climb-on-iran-deal-hopes%3A-markets-wrap/91251062",
+        "url": "https://www.swissinfo.ch/eng/asian-stocks-to-rise-on-iran-deal-hopes%2C-oil-falls%3A-markets-wrap/91251062",
         "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341862",
-        "publishedAt": "2026-04-13T22:32:30Z",
+        "publishedAt": "2026-04-13T23:28:45Z",
         "source": "SWI swissinfo.ch"
       },
       {
-        "title": "What Auckland is doing wrong when it comes to recycling - and how it can change",
-        "description": "Explainer - A third of the city's recycling ends up in a landfill. What are we doing wrong, and how can we fix it?",
-        "url": "https://www.rnz.co.nz/news/national/592297/what-auckland-is-doing-wrong-when-it-comes-to-recycling-and-how-it-can-change",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--5VcaWs_K--/t_tohu-badge-facebook/v1776116347/4KL7DGN_BTS_Recycling_PreSort_AC_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-13T22:28:55Z",
-        "source": "RNZ"
+        "title": "Lufax Holding (LU) Facing Securities Class Action Amid Firing Auditor Who Raised Red Flags -- Hagens Berman",
+        "description": "/PRNewswire/ -- A securities class action lawsuit has been filed against Lufax Holding Ltd. (NYSE: LU), seeking to represent investors who purchased or...",
+        "url": "https://www.prnewswire.com/news-releases/lufax-holding-lu-facing-securities-class-action-amid-firing-auditor-who-raised-red-flags----hagens-berman-302741019.html",
+        "image": "https://mma.prnewswire.com/media/2590203/Hagens_Berman_Sobol_Shapiro_LLP_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-13T23:28:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Iran war: IMF, World Bank to support countries as surging fertiliser prices ignite food security fears",
-        "description": "The International Monetary Fund (IMF) and World Bank Group (WBG) have pledged to support member countries affected by the Middle East conflict, as surging oil, gas, and fertiliser prices ignite fears of food security and job losses.",
-        "url": "https://www.thecable.ng/iran-war-imf-world-bank-to-support-countries-as-surging-fertiliser-prices-ignite-food-security-fears/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2026/04/IMF-IEA-WBG.png",
-        "publishedAt": "2026-04-13T22:28:00Z",
-        "source": "TheCable"
-      },
-      {
-        "title": "Introducing The Chopard L.U.C. 1860 With An “Areuse Blue” Gold Dial",
-        "description": "Three years after the launch of the great salmon-dialed LUC 1860, that model is being replaced with a beautiful blue variation.",
-        "url": "https://www.hodinkee.com/articles/introducing-chopard-luc-1860",
-        "image": "https://hodinkee.imgix.net/uploads/images/08305633-1135-4094-8a24-dc906c193feb/168860-3005_L.U.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "publishedAt": "2026-04-13T22:28:00Z",
-        "source": "Hodinkee"
+        "title": "Introducing: Patek Philippe Calatrava Alarme 24",
+        "description": "A modern style Calatrava with a 24-hour alarm. Meet the new duo of Patek Philippe Calatrava Alarme 24-hour Reference 5322G.",
+        "url": "https://monochrome-watches.com/the-new-patek-philippe-calatrava-alarme-24-hour-reference-5322g-introducing/",
+        "image": "https://monochrome-watches.com/app/uploads/2026/04/Calatrava-Alarm-Reference-5322G-001-5322G-010.jpg",
+        "publishedAt": "2026-04-13T23:27:54Z",
+        "source": "Monochrome Watches"
       }
     ],
     "science": [
+      {
+        "title": "Why cats stop eating-it's not just fullness",
+        "description": "Researchers in Japan have shown that domestic cats may stop eating—often leaving food unfinished—not only because they are full, but also because smell plays an important role in regulating feeding motivation.  The study led by a team at Iwate University—and published in Physiology & Behavior—suggests that feeding behaviour in cats is dynamically influenced by olfactory habituation […]",
+        "url": "https://www.vetpracticemag.com.au/why-cats-stop-eating-its-not-just-fullness/",
+        "image": "https://www.vetpracticemag.com.au/wp-content/uploads/2026/04/cat-with-food.jpg",
+        "publishedAt": "2026-04-13T23:18:19Z",
+        "source": "Vet Practice Magazine"
+      },
+      {
+        "title": "Physicists achieve most accurate measurement yet of the W boson",
+        "description": "CMS measured the W boson mass with high precision, backing the Standard Model and challenging the 2022 CDF anomaly.",
+        "url": "https://www.thebrighterside.news/post/physicists-achieve-most-accurate-measurement-yet-of-the-w-boson/",
+        "image": "https://www.thebrighterside.news/uploads/2026/04/W-Boson.jpg?auto=webp",
+        "publishedAt": "2026-04-13T23:07:00Z",
+        "source": "The Brighter Side of News"
+      },
+      {
+        "title": "New model explains how single electrons cause damage inside silicon chips",
+        "description": "Insights from Chris Van de Walle’s Computational Materials Group open the door to longer-lasting devices",
+        "url": "https://news.ucsb.edu/2026/022508/new-model-explains-how-single-electrons-cause-damage-inside-silicon-chips",
+        "image": "https://news.ucsb.edu/sites/default/files/2026-04/circuit-board-hero-umberto-unsplash-uc-santa-barbara.jpg",
+        "publishedAt": "2026-04-13T23:05:23Z",
+        "source": "UC Santa Barbara"
+      },
+      {
+        "title": "Ancient microbes may reveal how complex life began",
+        "description": "Scientists have discovered a hidden partnership between ancient microbes that may explain how complex life first evolved on Earth.",
+        "url": "https://www.earth.com/news/microbes-found-in-living-fossils-hold-insights-into-how-complex-life-began/",
+        "image": "https://cff2.earth.com/uploads/2026/04/13161312/Asgard-archaeon_Nerearchaeum-marumarumayae_complex-life_Cell-Biology_2m.jpg",
+        "publishedAt": "2026-04-13T23:03:45Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
+        "description": "An analysis of DNA from Stone Age skeletons buried in Scotland reveals how people organized the burial of their dead.",
+        "url": "https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
+        "image": "https://cdn.mos.cms.futurecdn.net/Lq2Scoqf7mKN6YZLowN3iY-1379-80.png",
+        "publishedAt": "2026-04-13T23:01:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "Saturn's Magnetic Shield Is Not Where Anyone Expected It To Be.",
+        "description": "Saturn is one of the most recognisable and studied planets in the Solar System, it was the first thing I ever saw through a telescope and yet it is still finding ways to surprise us. New research analysing data from NASA's Cassini spacecraft has revealed a significant and unexpected quirk in Saturn's protective magnetic bubble, one that confirms the giant planets of our Solar System play by completely different rules to Earth.",
+        "url": "https://www.universetoday.com/articles/saturns-magnetic-shield-is-not-where-anyone-expected-it-to-be",
+        "image": "https://www.universetoday.com/article_images/1280px-Saturn_during_Equinox_20260413_225043.jpg",
+        "publishedAt": "2026-04-13T22:51:00Z",
+        "source": "Universe Today"
+      },
       {
         "title": "How Jupiter Cultivated More Large Moons Than Saturn",
         "description": "The two largest planets in our Solar System, Jupiter and Saturn, also have the largest satellite systems, or the most",
@@ -150,120 +198,72 @@
         "image": "https://www.universetoday.com/article_images/1280px-Far_side_of_the_Moon_20260413_222432.png",
         "publishedAt": "2026-04-13T22:32:00Z",
         "source": "Universe Today"
-      },
-      {
-        "title": "‘Cosmic volcano’ erupts after 100 million years of silence",
-        "description": "A giant “cosmic volcano” has erupted in deep space as a colossal black hole reawakens after 100 million years | Newsreel",
-        "url": "https://newsreel.com.au/article/education/cosmic-volcano-erupts-after-100-million-years-of-silence/",
-        "image": "https://newsreel.com.au/wp-content/uploads/2026/04/Black-hole.jpeg",
-        "publishedAt": "2026-04-13T22:31:11Z",
-        "source": "newsreel.com.au"
-      },
-      {
-        "title": "X-ray Beam Communication Enables Advanced Interstellar Signaling",
-        "description": "Research on X-ray and gamma-ray beams highlights their advantages in interstellar communication, offering new strategies for detecting extraterrestrial signals.",
-        "url": "https://www.azooptics.com/News.aspx?newsID=30662",
-        "image": "https://www.azooptics.com/images/news/ImageForNews_30662_1776118983080735.jpg",
-        "publishedAt": "2026-04-13T22:24:00Z",
-        "source": "AZoOptics"
-      },
-      {
-        "title": "Tiny Particles In Arctic Ponds May Play Role In Cloud Formation, Climate Change",
-        "description": "Tiny particles bubbling up from the tops of melting sea ice into the Arctic sky may be a key, understudied",
-        "url": "https://www.eurasiareview.com/14042026-tiny-particles-in-arctic-ponds-may-play-role-in-cloud-formation-climate-change/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2018/08/a-15.jpg",
-        "publishedAt": "2026-04-13T22:23:17Z",
-        "source": "Eurasia Review"
-      },
-      {
-        "title": "Two Monsters, One Galaxy, and a Collision 100 Years Away!",
-        "description": "Deep in the heart of a distant galaxy, two monsters are locked in a death spiral and for the first time, they have been caught them in the act. A new study has confirmed the first close pair of supermassive black holes ever detected, orbiting each other every 121 days and closing in fast. If the models are right, they could collide within a century.",
-        "url": "https://www.universetoday.com/articles/two-monsters-one-galaxy-and-a-collision-100-years-away",
-        "image": "https://www.universetoday.com/article_images/markarian-501-b85b2534-d0ee-482d-89b0-42165247fdf-resize-750_20260413_221548.jpg",
-        "publishedAt": "2026-04-13T22:16:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "New chip traps light for millions of cycles using novel method",
-        "description": "New photonic chip traps light for millions of cycles using protected atomically thin materials.",
-        "url": "https://interestingengineering.com/energy/light-trapping-photonic-chip-vdw-materials",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/OtaNano-research-facility.jpg",
-        "publishedAt": "2026-04-13T22:12:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "When giant animals vanished, early humans reinvented their tools",
-        "description": "A new study shows that early humans shifted from hunting giants to smaller animals, shaping tools, survival, and intelligence.",
-        "url": "https://www.earth.com/news/when-giant-animals-vanished-early-humans-reinvented-their-tools-and-possibly-their-brains/",
-        "image": "https://cff2.earth.com/uploads/2026/04/13160042/early-tools_changed_very-heavy-to-smaller_m.jpg",
-        "publishedAt": "2026-04-13T22:05:20Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "Anthropic’s Mythos Triggers Cybersecurity Race",
-        "description": "ARK Invest says AI models such as Mythos are a tailwind for cybersecurity firms CrowdStrike, Cloudflare and Rubrik.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51794324/anthropics-mythos-triggers-cybersecurity-race-crowdstrike-rubrik-cloudflare-stand-to-gain",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/13/Endpoint-Security---Endpoint-Protection-.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-13T22:43:33Z",
-        "source": "Benzinga"
+        "title": "Attempted murder charge laid in attack on OpenAI CEO Sam Altman’s home",
+        "description": "The man accused of throwing a Molotov cocktail at the San Francisco residence has been charged with attempting to kill Altman and a security guard, the district attorney said.",
+        "url": "https://globalnews.ca/news/11799876/sam-altman-openai-molotov-cocktail-charge/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/04/sam-altman-file-april-13-e1776123138301.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-04-13T23:38:33Z",
+        "source": "Global News"
       },
       {
-        "title": "Man accused in Molotov cocktail attack on OpenAI CEO’s home charged with attempted murder",
-        "description": "The man accused of throwing a Molotov cocktail at Sam Altman’s home in San Francisco was opposed to AI, writing about its purported risk to humanity and “our impending extinction,” according to court documents.",
-        "url": "https://www.adn.com/nation-world/2026/04/13/man-accused-in-molotov-cocktail-attack-on-openai-ceos-home-charged-with-attempted-murder/",
-        "image": "https://www.adn.com/resizer/v2/SRDBH23LO6VRRZOFTU3ALE3I4E.jpg?smart=true&auth=d0ae8eda26bf7d9d0b391b996a8bc1c5f94be8be39768894fa6959d17d1a4a5c&width=1200&height=630",
-        "publishedAt": "2026-04-13T22:40:16Z",
-        "source": "Anchorage Daily News"
+        "title": "Celonis and Oracle expand collaboration to power Enterprise AI and accelerate IT modernisation",
+        "description": "Celonis and Oracle have expanded their long-standing collaboration opening up additional features to joint customers. The collaboration enables compan...",
+        "url": "https://itwire.com/itwire-latest-news/celonis-and-oracle-expand-collaboration-to-power-enterprise-ai-and-accelerate-it-modernisation.html",
+        "image": "https://itwire.com/media/k2/items/cache/fdc8a2186bd3e8aaf76b33f85a0e92ab_XS.jpg",
+        "publishedAt": "2026-04-13T23:37:25Z",
+        "source": "iTWire"
       },
       {
-        "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder",
-        "description": "San Francisco District Attorney Brooke Jenkins says that 20-year-old Daniel Moreno-Gama has been charged with attempting to kill the OpenAI CEO as well as a security guard at the residence when he threw the incendiary device at the gate of Sam Altman’s home on April 10. Moreno-Gama was arrested a short time later outside the headquarters of OpenAI, and police said that he threatened to burn down the business. Court documents say the man was opposed to artificial intelligence and had a list of other AI tech executives.",
-        "url": "https://www.ajc.com/news/2026/04/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-charged-with-attempted-murder/",
-        "image": "https://images.ajc.com/resizer/v2/OQD53T6CLBESVK7B2XIEQZPSVE.jpg?auth=e0c01eb987aef04e0d1706486027bb8569e4ce538ce28b6bb3ef0ec815864e2f&width=1200&height=630&smart=true",
-        "publishedAt": "2026-04-13T22:31:21Z",
-        "source": "The Atlanta Journal-Constitution"
+        "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says",
+        "description": "WASHINGTON, April 13 (Reuters) - Anthropic ⁠is discussing its frontier AI model Mythos with the Trump ⁠administration, the firm's co-founder said on Monday, even after the ‌Pentagon cut off business with the U.S. AI company following a contract dispute.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/anthropic-talking-to-the-trump-administration-about-its-next-ai-model-co-founder-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/14/3858330.jpg",
+        "publishedAt": "2026-04-13T23:32:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Man accused in Molotov cocktail attack of OpenAI CEO’s home charged with attempted murder",
-        "description": "SPRING, Texas (AP) — The man accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman’s home in San Francisco has been charged with attempting to kill…",
-        "url": "https://wtop.com/national/2026/04/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-opposed-ai-court-documents-say/",
-        "image": "https://wtop.com/wp-content/uploads/2026/04/OpenAI-Fire-Arrest_249_8-scaled.jpg",
-        "publishedAt": "2026-04-13T22:28:36Z",
-        "source": "WTOP"
+        "title": "Microsoft seeks to throw out lawsuit from ChatGPT Plus subscribers alleging its agreement with OpenAI led to inflated prices",
+        "description": "Legal battle centers on pricing claims tied to OpenAI partnership",
+        "url": "https://www.techradar.com/pro/a-secret-agreement-microsoft-urges-judge-to-throw-out-claims-it-colluded-with-openai-to-boost-chatgpt-prices-could-this-be-the-needle-to-pop-the-ai-bubble",
+        "image": "https://cdn.mos.cms.futurecdn.net/f9k4KNEbF4sT2WVJ8KZZ4K-1920-80.jpg",
+        "publishedAt": "2026-04-13T23:30:00Z",
+        "source": "TechRadar"
       },
       {
-        "title": "Dash Social Brings Canva Into Its Platform, Connecting Design, Data, and Publishing for Social Teams",
-        "description": "NEW YORK, April 13, 2026 (GLOBE NEWSWIRE) -- Dash Social today announced a new integration that brings Canva into its platform, combining creative excellence with creative intelligence. Canva, the all-in-one design tool used by hundreds of millions of people worldwide, can now be accessed from Dash to create or edit content and return with a finished asset ready to schedule or publish. With Dash Social’s Vision AI built in, teams can understand how their content is predicted to perform and make informed edits before going live.",
-        "url": "https://www.manilatimes.net/2026/04/14/tmt-newswire/globenewswire/dash-social-brings-canva-into-its-platform-connecting-design-data-and-publishing-for-social-teams/2319442",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/14/1011511.jpg",
-        "publishedAt": "2026-04-13T22:27:39Z",
-        "source": "The Manila Times"
+        "title": "Indore News: IIT Indore’s Agrihub Spearheads AI-Driven Farming Revolution",
+        "description": "Other innovations feature an IoT-based soybean disease forewarning system, groundwater forecasting applications, and a genome analysis platform. Building on this, AgriHub recently approved 10 new AI-based genomics projects, bringing the total to 21 projects and one startup. These focus on vital crops such as soybean, chickpea, wheat, and rice.",
+        "url": "https://www.freepressjournal.in/indore/indore-news-iit-indores-agrihub-spearheads-ai-driven-farming-revolution",
+        "image": "https://media.assettype.com/freepressjournal/2026-01-15/bqcy8zyj/Add-a-subheading-45.jpg",
+        "publishedAt": "2026-04-13T23:30:00Z",
+        "source": "Free Press Journal"
       },
       {
-        "title": "Anthropic’s AI model sparks rush from industry, government to batten down defence hatches",
-        "description": "Financial and tech sectors and national governments brace for security threat posed by latest iteration of Mythos",
-        "url": "https://www.theglobeandmail.com/business/economy/article-anthropic-mythos-ai-defence/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/VIQZLTMN3VAD5D6ZIBZEK7CDFA.jpg?auth=cd2c7c0560d0527b2030c74acc9266fd6e8551f3117c86a14ddcdf6205fb18f3&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-13T22:26:03Z",
-        "source": "The Globe and Mail"
+        "title": "LPU organizes Edu-Leaders Meet 2026, highlights academic innovation",
+        "description": "Excelsior Correspondent JAMMU, Apr 13: Through its Jammu chapter, Lovely Professional University (LPU) today organized the Edu-Leaders Meet 2026, creating a vibrant academic forum for dialogue, reflection and innovation in contemporary education. Aligned with the theme “Artificial Intelligence in modern education,” the meet highlighted the transformative role of technology in reshaping teaching, learning and institutional leadership. The discussions focused on leveraging AI-driven tools, enhancing personalized learning experiences and promoting data-informed decision-making to meet the demands of 21st-century education. The event […]",
+        "url": "https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/page8-3-7.jpg",
+        "publishedAt": "2026-04-13T23:29:54Z",
+        "source": "Daily Excelsior"
       },
       {
-        "title": "Man charged with attempted murder",
-        "description": "San Francisco District Attorney Brooke Jenkins said Monday that 20-year-old Daniel Moreno-Gama has been charged with attempting to kill the OpenAI CEO as well as a security guard at the residence when he threw the incendiary device at the gate of Sam Altman’s home on April 10.",
-        "url": "https://www.cp24.com/news/world/2026/04/13/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-charged-with-attempted-murder/",
-        "image": "https://www.cp24.com/resizer/v2/XTSNCYZTPJHVNZY3XAPNBOXPVM.jpg?smart=true&auth=7fc201083d6fe766ef43f69bbeb4d443163729f485b46cb6e9bcdaf7bcd084ae&width=1200&height=630",
-        "publishedAt": "2026-04-13T22:25:39Z",
-        "source": "CP24 Toronto"
+        "title": "TSMC Q1: Middle East War Consequences And The Zero-Availability Crisis (NYSE:TSM)",
+        "description": "TSMC is central to the AI and data center boom. Read how revenue growth is driven by surging AI inference and memory demand.",
+        "url": "https://seekingalpha.com/article/4890364-taiwan-semiconductor-q1-middle-east-war-consequences-and-the-zero-availability-crisis",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363604154/image_1363604154.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-13T23:27:33Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Meet the man accused of throwing a Molotov cocktail at Sam Altman: a 20-year-old AI doomer",
-        "description": "Officials found a document discussing AI’s purported risk to humanity and “our impending extinction,” according to the criminal complaint.",
-        "url": "https://fortune.com/2026/04/13/meet-the-man-accused-of-throwing-a-molotov-cocktail-at-sam-altman-a-20-year-old-ai-doomer/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26100683757101.jpg?resize=1200,600",
-        "publishedAt": "2026-04-13T22:20:44Z",
-        "source": "Fortune"
+        "title": "Suspect in arson Sam Altman home aimed to kill, warned extinction AI",
+        "description": "San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.",
+        "url": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108236133-17647882242025-11-06t201852z_653951074_rc2umcacl8qk_rtrmadp_0_openai-outlook.jpeg?v=1765924912&w=1920&h=1080",
+        "publishedAt": "2026-04-13T23:27:13Z",
+        "source": "CNBC"
       }
     ]
   }
