@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-16T07:58:03.259Z",
+  "fetchedAt": "2026-04-16T08:53:28.106Z",
   "sections": {
     "world": [
       {
-        "title": "Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold",
-        "description": "Ship tracking data shows only a few ships have transited key waterway during ceasefire, as US military says it has some 10,000 personnel ready to enforce naval blockade",
-        "url": "https://www.timesofisrael.com/hormuz-traffic-remains-at-a-trickle-as-us-blockade-of-iranian-ports-appears-to-hold/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26081545222382.jpg",
-        "publishedAt": "2026-04-15T19:50:30Z",
+        "title": "Resolving opposition parties’ crises not APC’s responsibility - Oshiomhole",
+        "description": "A chieftain of the All Progressives Congress (APC) and former Governor of Edo State, Adams Oshiomhole, has dismissed criticisms from opposition parties,",
+        "url": "https://dailypost.ng/2026/04/15/resolving-opposition-parties-crises-not-apcs-responsibility-oshiomhole/",
+        "image": "https://dailypost.ng/wp-content/uploads/2024/09/Oshiomhole.jpg",
+        "publishedAt": "2026-04-15T20:46:53Z",
+        "source": "Daily Post Nigeria"
+      },
+      {
+        "title": "Middle East war live updates: US President Donald Trump claims he is ‘permanently opening’ the Strait of Hormuz in blockade backflip",
+        "description": "Follow along as we cover all the breaking news of the tenuous ceasefire holding back conflict between Iran, the United States and Israel.",
+        "url": "https://7news.com.au/news/middle-east-war-live-us-president-donald-trump-claims-he-is-permanently-opening-the-strait-of-hormuz-in-blockade-backflip-c-22147801",
+        "image": "https://images.7news.com.au/publication/C-22147801/f7c9d5a3ff4779b212102e713d140fd71635dd57-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-04-15T20:46:47Z",
+        "source": "7NEWS"
+      },
+      {
+        "title": "EU Is Rolling Out an Online Age Verification App That Could Become the Global Blueprint",
+        "description": "The momentum is building for a social media ban for minors in one of the largest economies in the world.",
+        "url": "https://gizmodo.com/eu-is-rolling-out-an-online-age-verification-app-that-could-become-the-global-blueprint-2000746948",
+        "image": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
+        "publishedAt": "2026-04-15T20:40:39Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "Security cabinet said to weigh one-week Lebanon ceasefire amid US pressure",
+        "description": "US claims it didn’t ask Israel to hold fire at Hezbollah, but would welcome truce as part of Lebanon talks; IDF chief says south Lebanon to be 'kill zone' for terrorists; 5 soldiers wounded in Hezbollah attack",
+        "url": "https://www.timesofisrael.com/security-cabinet-said-weighing-one-week-lebanon-ceasefire-amid-us-pressure/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260415AMA20.jpg",
+        "publishedAt": "2026-04-15T20:35:21Z",
         "source": "The Times of Israel"
       },
       {
-        "title": "Trump posts image of himself with Jesus, continues war of words with Pope",
-        "description": "Trump posted an image portraying him as a Jesus-like figure earlier this week, prompting widespread outrage",
-        "url": "https://www.theglobeandmail.com/world/article-trump-jesus-pope-catholic-church-christianity/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/3J7RCPIB4FDNBNWYSQZS3JYP2U.jpg?auth=ebec62ff5111cd7b9d591308ad3a743ca2f5c9eb12e6d7b30af821739caa37f2&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-15T19:49:43Z",
-        "source": "The Globe and Mail"
+        "title": "COFEK raises alarm over alleged harmful compounds in fuel",
+        "description": "The consumer lobby group said it intends to move to court against Swiss firms SICPA SA and SGS, which it said were contracted to implement and monitor the count...",
+        "url": "https://eastleighvoice.co.ke/business/332700/cofek-raises-alarm-over-alleged-harmful-compounds-in-fuel",
+        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/03/Screenshot-2026-03-12-at-11.23.58.png",
+        "publishedAt": "2026-04-15T20:33:07Z",
+        "source": "The Eastleigh Voice"
       },
       {
-        "title": "Russia’s Defense Ministry publishes list of European drone manufacturers, and a Kremlin official calls them potential military targets",
-        "description": "Russia’s Defense Ministry on April 15 published lists of companies in multiple countries, including across Europe, that it claims are involved in producing strike drones for Ukraine.",
-        "url": "https://meduza.io/en/news/2026/04/15/russia-s-defense-ministry-publishes-list-of-european-drone-manufacturers-and-a-kremlin-official-calls-them-potential-military-targets",
-        "image": "https://meduza.io/imgly/share/1776282225/en/news/2026/04/15/russia-s-defense-ministry-publishes-list-of-european-drone-manufacturers-and-a-kremlin-official-calls-them-potential-military-targets",
-        "publishedAt": "2026-04-15T19:43:00Z",
-        "source": "Meduza"
+        "title": "Trump posts new Jesus image as Pope doubles down on peace message",
+        "description": "Pope Leo XIV made no mention of Trump's latest social media post or the suggestion by JD Vance that he should \"be careful\" when speaking about theology.",
+        "url": "https://www.1news.co.nz/2026/04/16/trump-posts-new-jesus-image-as-pope-doubles-down-on-peace-message/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/trump-reposts-another-ai-generated-image-of-himself-this-tim-M3NXZFQRWVAX5LW7DESYZXIOFM.jpg?auth=ef1fb3731f7abcf854e509b2aba2984b86e1fecbb853dac3d9dd80af1f75d703&quality=70&width=600&height=315&focal=391%2C205",
+        "publishedAt": "2026-04-15T20:32:41Z",
+        "source": "1News"
       },
       {
-        "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
-        "description": "Developing countries are banking on having a stronger voice in debt negotiations, following the launch of a new country-led borrowing initiative on Wednesday on the margins of the annual IMF-World Bank Spring Meetings.",
-        "url": "https://news.un.org/en/story/2026/04/1167308",
-        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/27022/image770x420cropped.jpg",
-        "publishedAt": "2026-04-15T19:38:44Z",
-        "source": "UN News"
+        "title": "US Counters China’s Rare Earth Dominance in Africa by Securing Global Shipping Routes to Control Supply Chains",
+        "description": "The geopolitical contest between the United States and China has entered a decisive phase, with Africa’s rare earth and critical minerals sector emerging as a central battleground. While Beijing accelerates its grip on mineral resources across the continent, Washington is tightening its hold on global shipping routes to counterbalance China’s growing dominance in supply chains. China has steadily expanded its footprint in Africa, securing access to key minerals essential for electric vehicles, renewable energy systems and advanced manufacturing. Through aggressive investments, Chinese firms now control major mining assets spanning lithium, copper and rare earth elements. These moves have strengthened Beijing’s long-term supply security and reinforced its position as a global industrial powerhouse. At the same time, the United States is shifting strategy. Instead of competing directly in mining at scale, Washington is focusing on controlling critical maritime chokepoints that underpin China’s energy and trade flows. Routes such as the Strait of Hormuz and the Strait of Malacca have become central to this approach. Data shows that nearly half of China’s crude oil imports pass through the Strait of Hormuz. Meanwhile, a significant portion of the remaining supply flows through the Strait of Malacca. These routes are highly vulnerable to disruption, and increased U.S. presence has already influenced tanker movements, particularly those linked to sanctioned exports. As a result, shipping delays and rising transportation costs have begun to affect Chinese manufacturing output. Analysts warn that any prolonged disruption could trigger wider economic consequences, given China’s reliance on stable energy imports to sustain industrial production. In parallel, Washington is expanding its reach beyond the Middle East. It is strengthening its influence over the Panama Canal and exploring broader military access near Southeast Asia to tighten oversight of maritime flows. This layered strategy reflects a deliberate attempt to gain leverage over China’s supply chain vulnerabilities. However, China’s dominance in Africa remains formidable. Beijing continues to secure strategic assets, including Tanzania’s Ngualla rare earth project and key mining operations in countries such as the Democratic Republic of Congo, Botswana and Mali. In Nigeria, Chinese-backed investments in lithium processing are also strengthening control over battery supply chains. These investments go beyond extraction. China integrates mining with infrastructure development, building railways, ports and power systems that connect African resources directly to global trade networks. This end-to-end control gives Beijing a decisive advantage, particularly as it dominates processing and refining capacity worldwide. Furthermore, Chinese firms are securing long-term supply through early-stage project investments, joint ventures and binding offtake agreements. State-backed financing has enabled projects that often struggle to attract Western capital, reinforcing China’s leadership across the value chain. China has also demonstrated its willingness to weaponize this dominance. Export controls on rare earth materials and critical inputs have increased sharply in recent years. These restrictions target essential components used in high-tech manufacturing, including semiconductors and defense systems, signaling Beijing’s readiness to respond to geopolitical pressure. Despite these developments, the United States is recalibrating its approach. By focusing on maritime control rather than direct resource competition, Washington aims to offset China’s upstream dominance with downstream leverage. Strategic reserves and alliances are also being strengthened to support domestic industries and reduce dependency on foreign inputs. This evolving rivalry highlights a broader shift in global power dynamics. China is consolidating control over resources and production, while the United States is positioning itself to influence how those resources move across the world. As both powers intensify their strategies, Africa’s role in global supply chains will only grow more critical.",
+        "url": "https://ttybrandafrica.com/us-china-africa-rare-earth-supply-chain-routes/",
+        "image": "https://ttybrandafrica.com/wp-content/uploads/2024/04/cropped-AEBS-Logo-Website-32x32.png",
+        "publishedAt": "2026-04-15T20:26:19Z",
+        "source": "TTYBrand Africa"
       },
       {
-        "title": "Pakistan and Bangladesh migrants are faking they are gay to get asylum in the UK: Report",
-        "description": "South Asia News: LONDON: A shady network of immigration advisers in the UK is charging migrants from Pakistan and Bangladesh thousands of pounds to pretend they are ga.",
-        "url": "https://timesofindia.indiatimes.com/world/south-asia/pakistan-and-bangladesh-migrants-are-faking-they-are-gay-to-get-asylum-in-the-uk/articleshow/130292874.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130292887,width-1280,height-720,imgsize-31934,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-15T19:32:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Rio offers trekking and swimming in a vast urban rain forest : NPR",
-        "description": "Rio de Janeiro in Brazil is home to the world's largest urban rain forest. Woven among the city's bustling neighborhoods are soaring tree canopies, waterfalls, and miles of hiking trails.",
-        "url": "https://www.npr.org/2026/04/15/nx-s1-5776528/rio-brazil-rain-forest-hike",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3285x1848+357+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fe4%2F935e994b4b92b5ca94f0bf33f42d%2Fwhatsapp-image-2026-04-14-at-7-18-59-am.jpeg",
-        "publishedAt": "2026-04-15T19:31:26Z",
-        "source": "NPR"
-      },
-      {
-        "title": "UN experts warn Israeli destruction in Lebanon consistent with pattern of genocide in Gaza",
-        "description": "NEW YORK CITY: A large number of UN human rights experts on Wednesday condemned Israel’s latest military actions in Lebanon, warning that the scale and nature of the destruction mirror patterns previously documented in Gaza and might amount to grave breaches of international law. In a joint statement, the independent experts denounced what they described as Israel’s “illegal",
-        "url": "https://www.arabnews.pk/node/2640056/middle-east",
-        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/04/15/4703142-1535033148.jpg?itok=8aBWoxYe",
-        "publishedAt": "2026-04-15T19:28:47Z",
-        "source": "Arab News PK"
-      },
-      {
-        "title": "The Grand Budapest Cartel",
-        "description": "Viktor Orbán has lost reelection as Prime Minister of Hungary—but how did a small central European state rise to such prominence among American right-wing intellectuals to begin with?",
-        "url": "https://providencemag.com/2026/04/the-grand-budapest-cartel/",
-        "image": "https://providencemag.com/wp-content/uploads/Budapest_Orszaghaz_31355012995-scaled.jpg",
-        "publishedAt": "2026-04-15T19:25:56Z",
-        "source": "providencemag.com"
+        "title": "Iran briefing with Matthew Doran: There could be respite for Lebanon despite Netanyahu's latest orders",
+        "description": "Israeli forces are expected to \"overwhelm\" parts of southern Lebanon and yet a ceasefire may still be only a matter of days away.",
+        "url": "https://www.abc.net.au/news/2026-04-16/iran-israel-war-daily-briefing/106569780",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a2f16e134f755ae65ddfb292e234f3a0?impolicy=wcms_watermark_news&cropH=2350&cropW=4177&xPos=0&yPos=220&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-15T20:19:00Z",
+        "source": "Australian Broadcasting Corporation"
       }
     ],
     "business": [
       {
-        "title": "Dollar falls below three shekels for first time in over 30 years",
-        "description": "Avraham Novogrocki, president of Israel’s Manufacturers’ Association, which represents some 1,500 firms and 400,000 workers, said the strong shekel posed a risk to the economy.",
-        "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-893150",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/697129",
-        "publishedAt": "2026-04-15T19:56:19Z",
-        "source": "The Jerusalem Post"
+        "title": "GitLab Stock Surges on Google Cloud Deal. Here's What It Means for Investors",
+        "description": "Users can now run GitLab's AI Gateway directly on Google Cloud.",
+        "url": "https://www.fool.com/investing/2026/04/15/gitlab-stock-surges-on-google-cloud-deal-heres-wha/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865773%2Fdevelopers-looking-at-lines-of-ai-code-on-a-computer-screen.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-15T20:52:17Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Monolithic 3D integration of tantalum pentoxide nonlinear photonics",
-        "description": "The photonics landscape encompasses a wide scope of material platforms, each optimized for specific functionalities, yet no platform meets the demands of all current and evolving photonic applications. Although combining integrated-photonics materials enhances overall capability, such as unifying nonlinear optics, low-loss passive devices and electro-optics, material and process compatibility remains a major challenge. Here we introduce full-wafer, monolithic 3D integration of tantalum pentoxide (Ta2O5, hereafter tantala1) photonics directly onto a patterned substrate, demonstrated here with thin-film lithium niobate2. Tantala’s unique properties, importantly room-temperature deposition, moderate-temperature annealing and low residual stress in thick films optimized for phase matching, make it well suited for monolithic 3D integration without compromising substrate performance or compatibility. We demonstrate low-loss, high-quality-factor microresonators and nanophotonics in tantala, robust quasi-phase-matching in poled lithium niobate waveguides3, and efficient 3D interlayer routing. These capabilities enable us to demonstrate a rich palette of nonlinear frequency conversion processes, including χ(3) four-wave mixing for supercontinuum generation, optical parametric oscillation and dark-pulse microcomb generation in tantala microresonators and photonic crystal resonators, χ(2) second-harmonic generation in periodically poled lithium niobate, and combinations thereof. Monolithic three-dimensional (3D) integration of tantalum pentoxide on a lithium niobate substrate enables scalable, multifunctional photonic systems and the incorporation of nonlinear optics directly into existing and emerging photonics infrastructure.",
-        "url": "https://www.nature.com/articles/s41586-026-10379-w?error=cookies_not_supported&code=030345a0-8fbb-4791-a697-b3aa731a9fe4",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10379-w/MediaObjects/41586_2026_10379_Fig1_HTML.png",
-        "publishedAt": "2026-04-15T19:52:30Z",
-        "source": "Nature"
+        "title": "Coinbase vs. PayPal: Scale and Stability in Revenue",
+        "description": "Quarterly results reveal contrasting patterns in revenue consistency and profit margins between these two fintech leaders.",
+        "url": "https://www.fool.com/coverage/charts/2026/04/15/coinbase-vs-paypal-scale-and-stability-in-revenue/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Fcoin-pypl%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Fcoin-pypl_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
+        "publishedAt": "2026-04-15T20:52:17Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "BC Ferries' Queen of Surrey sailings resume after morning breakdown",
-        "description": "BC Ferries says sailings from West Vancouver to the Sunshine Coast have resumed Wednesday afternoon after a morning breakdown.",
-        "url": "https://vancouver.citynews.ca/2026/04/15/bc-ferries-queen-of-surrey-breaks-down-sailings-cancelled/",
-        "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2024/11/01/Queen-of-Surrey-BC-Ferries-1024x576.jpg",
-        "publishedAt": "2026-04-15T19:48:22Z",
-        "source": "CityNews Vancouver"
+        "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived",
+        "description": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
+        "url": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107343943-1701877114420-gettyimages-1835267152-wm_10586_metgxgdq.jpeg?v=1776281391&w=1920&h=1080",
+        "publishedAt": "2026-04-15T20:45:29Z",
+        "source": "CNBC"
       },
       {
-        "title": "Court restrains FCCPC from enforcing 2025 digital lending regulations",
-        "description": "The federal high court in Lagos has restrained the Federal Competition and Consumer Protection Commission (FCCPC) from enforcing parts of the digital, electronic, online, or non-traditional consumer lending regulations, 2025.",
-        "url": "https://www.thecable.ng/court-restrains-fccpc-from-enforcing-2025-digital-lending-regulations/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2024/12/Court-gavel.jpeg",
-        "publishedAt": "2026-04-15T19:42:00Z",
-        "source": "TheCable"
+        "title": "Wall Street eyes record, ASX set for flat start",
+        "description": "US stocks are flirting with a record following their big rally the last two weeks on hopes that the global economy can avoid a worst-case scenario because of the US-Iran war.",
+        "url": "https://www.theage.com.au/business/markets/asx-set-for-flat-open-wall-street-eyes-record-as-rally-continues-a-stronger-20260416-p5zoa0.html",
+        "image": "https://static.ffx.io/images/$zoom_0.7468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_369%2C$y_302/t_crop_custom/q_86%2Cf_auto/de1f1053b48e365cbdd35e490f28bf2bd1ecbc92",
+        "publishedAt": "2026-04-15T20:45:16Z",
+        "source": "The Age"
       },
       {
-        "title": "Today in History - April 16: The bank robbery lottery scheme that worked until it didn't",
-        "description": "Branch managers at a Chinese bank noticed an enormous sum of money missing on April 16, 2007.",
-        "url": "https://www.9news.com.au/world/today-in-history-april-16-what-happened-on-this-day-chinese-lottery/5f8b5664-b13a-4178-92d4-d65a7461aa93",
-        "image": "https://imageresizer.static9.net.au/K1I5mOQzB9UQPq7lR2v6fdBuKuI=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fdd42db4b-3842-4c8c-9f64-5f3a8635894d",
-        "publishedAt": "2026-04-15T19:39:04Z",
-        "source": "9News"
+        "title": "Expeditors International of Washington, Inc. (EXPD) Discusses Energy Market Volatility Amid Iran Conflict and Supply Chain Impacts Transcript",
+        "description": "Expeditors International of Washington, Inc. (EXPD) Discusses Energy Market Volatility Amid Iran Conflict and Supply Chain Impacts April 15, 2026 1:00 PM...",
+        "url": "https://seekingalpha.com/article/4891021-expeditors-international-of-washington-inc-expd-discusses-energy-market-volatility-amid-iran",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-04-15T20:41:46Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Toll Brothers Announces Final Opportunity for Luxury Living at Santa Rosa Valley Estates in California",
-        "description": "Exclusive gated community offers expansive equestrian home sites and luxury living in Ventura County",
-        "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/toll-brothers-announces-final-opportunity-for-luxury-living-at-santa-rosa-valley-estates-in-california/2321381",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/16/1015196.jpg",
-        "publishedAt": "2026-04-15T19:38:51Z",
+        "title": "DSS, Inc. Letter to Shareholders",
+        "description": "ROCHESTER, N.Y., April 15, 2026 (GLOBE NEWSWIRE) -- DSS, Inc. (NYSE American: DSS) today issued the following letter to shareholders from the Interim CEO, Jason Grady, highlighting the Company’s operational progress, financial improvements, and strategic initiatives.",
+        "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/dss-inc-letter-to-shareholders/2321449",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/16/1015277.png",
+        "publishedAt": "2026-04-15T20:40:15Z",
         "source": "The Manila Times"
       },
       {
-        "title": "First homes of O'Flynn Group's 550-home Dunkettle development launched for sale",
-        "description": "On the market 20 years after Cork developer bought the lands for €24m",
-        "url": "https://www.irishexaminer.com/property/developmentconstruction/arid-41828189.html",
-        "image": "https://www.irishexaminer.com/cms_media/module_img/10083/5041790_9_seoimageog_Dunkettle_20aerial_20NEW.jpg",
-        "publishedAt": "2026-04-15T19:38:00Z",
-        "source": "Irish Examiner"
+        "title": "Home Federal Bancorp, Inc. Of Louisiana Declares Quarterly Cash Dividend",
+        "description": "SHREVEPORT, La., April 15, 2026 (GLOBE NEWSWIRE) -- Home Federal Bancorp, Inc. of Louisiana (the 'Company”) (NASDAQ: HFBL), the holding company for Home Federal Bank, announced today that its Board of Directors at their meeting on April 15, 2026, declared a quarterly cash dividend of $0.135 per share on the Company’s common stock. The dividend is payable on May 11, 2026, to the shareholders of record at the close of business on April 27, 2026.",
+        "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/home-federal-bancorp-inc-of-louisiana-declares-quarterly-cash-dividend/2321447",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/16/1015275.jpg",
+        "publishedAt": "2026-04-15T20:40:13Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "CAC suffers data breach, asks users to update login credentials",
-        "description": "The Corporate Affairs Commission (CAC) says it is reviewing a cybersecurity incident involving unauthorised access to parts of its information systems.",
-        "url": "https://www.thecable.ng/cac-suffers-data-breach-asks-users-to-update-login-credentials/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2021/07/CAC-ABUJA5-scaled.jpg",
-        "publishedAt": "2026-04-15T19:38:00Z",
-        "source": "TheCable"
+        "title": "City of Mississauga, Ridgeway Plaza reach new deal aimed at reducing nuisance gatherings",
+        "description": "The City of Mississauga and Ridgeway Plaza have reached a new security framework aimed at reducing nuisance gatherings at the plaza. Under the agreement, the condominium corporation that oversees the plaza has agreed to install security cameras, speed bumps and permanent gate access at the location while also providing increased security on evenings when large […]",
+        "url": "https://toronto.citynews.ca/2026/04/15/mississauga-ridgeway-plaza-reducing-nuisance-gatherings/",
+        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/04/15/ridgeway-plaza-police.jpg",
+        "publishedAt": "2026-04-15T20:35:00Z",
+        "source": "CityNews Toronto"
       }
     ],
     "science": [
+      {
+        "title": "NASA Sends Six CubeSats to Space Station",
+        "description": "Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency's Northrop Grumman Commercial Resupply",
+        "url": "https://www.miragenews.com/nasa-sends-six-cubesats-to-space-station-1656172/",
+        "image": "https://cdn1.miragenews.com/wp-content/uploads/def_rota/news2.jpeg",
+        "publishedAt": "2026-04-15T20:52:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "AI advances in the liver disease field",
+        "description": "MASH represents the advanced inflammatory form of metabolic dysfunction-associated steatotic liver disease (MASLD, formerly known as nonalcoholic fatty liver disease), where fat accumulation in the liver triggers fibrosis and progressive liver injury. According to a recent MedCentral article, more AI-based clinical assessment tools in MASH are needed.",
+        "url": "https://www.uc.edu/news/articles/2026/04/masld-mash-clinical-landscape-sees-ai-advances.html",
+        "image": "https://www.uc.edu/content/dam/uc/news/medistock/MedicalAI.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+        "publishedAt": "2026-04-15T20:40:32Z",
+        "source": "University of Cincinnati"
+      },
+      {
+        "title": "Astronomers solve Saturn spin mystery: The truth behind its “changing” rotation",
+        "description": "Science News: It is worth noting that for many years, the rotation speed of Saturn was seen as unusual by scientists, since it was changing from time to time. Days .",
+        "url": "https://timesofindia.indiatimes.com/science/astronomers-solve-saturn-spin-mystery-the-truth-behind-its-changing-rotation/articleshow/130287069.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130287078,width-1280,height-720,imgsize-7765378,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-15T20:30:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Active Moons In Our Solar System And Beyond",
+        "description": "Welcome to Astrobiology.com",
+        "url": "https://astrobiology.com/2026/04/active-moons-in-our-solar-system-and-beyond-io-europa-enceladus-triton-and-exomoons.html",
+        "image": "https://astrobiology.com/wp-content/uploads/2026/04/Active-moons-in-our.png",
+        "publishedAt": "2026-04-15T20:09:45Z",
+        "source": "astrobiology.com"
+      },
+      {
+        "title": "How do supergiant exoplanets form? James Webb Space Telescope finds a clue",
+        "description": "Using the James Webb Space Telescope, astronomers have investigated the giant exoplanet 29 Cygni b — work that could clarify the line between planets and stars.",
+        "url": "https://www.space.com/astronomy/exoplanets/how-do-supergiant-exoplanets-form-james-webb-space-telescope-finds-a-clue",
+        "image": "https://cdn.mos.cms.futurecdn.net/pu34T2kXzLR6gCYzkHoJC-1600-80.png",
+        "publishedAt": "2026-04-15T20:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "Origin And Characterization Of Super",
+        "description": "Welcome to Astrobiology.com",
+        "url": "https://astrobiology.com/2026/04/origin-and-characterization-of-super-earths-and-sub-neptunes.html",
+        "image": "https://astrobiology.com/wp-content/uploads/2026/04/Origin-And-Characterization.png",
+        "publishedAt": "2026-04-15T19:59:26Z",
+        "source": "astrobiology.com"
+      },
       {
         "title": "Black Ghost Knifefish Inspires Next-Generation Maneuverable Underwater Robots",
         "description": "New study reveals how the fish’s undulating fin achieves exceptional agility, offering a blueprint for bio-inspired propulsion systems.",
@@ -150,120 +198,72 @@
         "image": "https://astrobiology.com/wp-content/uploads/2026/04/Phreatobacter-aquiterrae.png",
         "publishedAt": "2026-04-15T19:54:25Z",
         "source": "astrobiology.com"
-      },
-      {
-        "title": "The World Welcomes the Crew of Artemis II Home!",
-        "description": "After achieving their record-breaking 10-day flight around the Moon, the crew of the Artemis II mission returned home on Friday, April 10th, 2026.",
-        "url": "https://www.universetoday.com/articles/the-world-welcomes-the-crew-of-artemis-ii-home",
-        "image": "https://www.universetoday.com/article_images/55199878669-257ddff58b-o-1_20260415_180854.jpg",
-        "publishedAt": "2026-04-15T19:54:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "'Interstellar Glaciers': NASA’s SPHEREx Maps Vast Galactic Ice Regions",
-        "description": "Cambridge, MA (April 15, 2026)— Using NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer), scientists from the Center for Astrophysics | Harvard & Smithsonian (CfA) have helped map interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds, which are vast regions of gas and dust where dense clumps of matter collapse under gravity, giving birth to stars.",
-        "url": "https://www.cfa.harvard.edu/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions",
-        "image": "https://www.cfa.harvard.edu/themes/cfa/favicon.ico",
-        "publishedAt": "2026-04-15T19:51:55Z",
-        "source": "Center for Astrophysics | Harvard & Smithsonian"
-      },
-      {
-        "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-        "description": "Data from more than 15,000 ancient people reveal natural selection of hundreds of genes linked to immunity, skin tone, behaviour and other traits.",
-        "url": "https://www.nature.com/articles/d41586-026-01204-5?error=cookies_not_supported&code=9e0eae62-9613-4550-a68b-c8444ac1de87",
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01204-5/d41586-026-01204-5_52289742.jpg",
-        "publishedAt": "2026-04-15T19:51:53Z",
-        "source": "Nature"
-      },
-      {
-        "title": "\"God of chaos\" asteroid will pass close to Earth in 3 years, NASA says",
-        "description": "People on the ground in the Eastern Hemisphere will be able to observe the asteroid with their own eyes, weather permitting, according to NASA.",
-        "url": "https://www.cbsnews.com/news/apophis-god-of-chaos-asteroid-passing-earth-nasa/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/15/1d8656c1-1d90-4022-9713-f1d0d20082e7/thumbnail/1200x630/f6630e0004d5d8e200c62c65b59b1f0f/apophis.jpg",
-        "publishedAt": "2026-04-15T19:43:16Z",
-        "source": "CBS News"
-      },
-      {
-        "title": "\"God of chaos\" asteroid will pass close to Earth in 3 years, NASA says",
-        "description": "People on the ground in the Eastern Hemisphere will be able to observe the asteroid with their own eyes, weather permitting, according to NASA.",
-        "url": "https://www.yahoo.com/news/articles/god-chaos-asteroid-pass-close-194316980.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/i6l9doYZNqypiHBdLcrJ4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjM7Y2Y9d2VicA--/https://media.zenfs.com/en/cbs_news_897/ee3e23d584b5b26b52879a76eb934f52",
-        "publishedAt": "2026-04-15T19:43:16Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "A Seagull Fumbled the Landing, Then a Jackdaw Showed Perfect Precision",
-        "description": "There is such a difference between the methods these two birds use as they try to retrieve a wafer from a roof ledge. The seagull uses a smash-and-grab technique, landing clumsily, missing its targete...",
-        "url": "https://malaysia.news.yahoo.com/seagull-fumbled-landing-then-jackdaw-193828514.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/6lEmisTup9ycaGozRNujKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/a_z_animals_articles_598/f4c6f1609a83035fe748bfecd9d5c157",
-        "publishedAt": "2026-04-15T19:38:28Z",
-        "source": "Yahoo News Malaysia"
       }
     ],
     "ai": [
       {
-        "title": "What's next for Palantir as AI competition intensifies?",
-        "description": "Palantir stock outlook 2026: PLTR’s growth vs lofty valuation and rising AI competition (Anthropic).",
-        "url": "https://seekingalpha.com/news/4574916-whats-next-for-palantir-as-ai-competition-intensifies",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w630",
-        "publishedAt": "2026-04-15T19:57:25Z",
-        "source": "Seeking Alpha"
+        "title": "Republican Senator McCormick says AI could cause 'enormous' disruption",
+        "description": "The Pennsylvania lawmaker acknowledged the risk posed by the technology during a conference held by the news outlet Axios in Washington on Wednesday.",
+        "url": "https://wjla.com/news/nation-world/republican-senator-dave-mccormick-says-ai-technology-could-cause-enormous-disruption",
+        "image": "https://wjla.com/resources/media2/16x9/8192/1320/0x428/90/7303fd57-ab48-46bc-973f-bf96c068cd8f-GettyImages2217686309.jpg",
+        "publishedAt": "2026-04-15T20:53:01Z",
+        "source": "WJLA"
       },
       {
-        "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says",
-        "description": "European Central Bank\nsupervisors are set to quiz bankers about the risks that\nAnthropic's new artificial intelligence model might supercharge\ncyberattacks, one source familiar with the situation...",
-        "url": "https://www.marketscreener.com/news/ecb-to-quiz-bankers-about-risks-of-anthropic-s-new-ai-model-source-says-ce7e50dcde81f220",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-04-15T19:56:29Z",
-        "source": "MarketScreener"
+        "title": "Republican Senator McCormick says AI could cause 'enormous' disruption",
+        "description": "The Pennsylvania lawmaker acknowledged the risk posed by the technology during a conference held by the news outlet Axios in Washington on Wednesday.",
+        "url": "https://foxbaltimore.com/station/share/republican-senator-dave-mccormick-says-ai-technology-could-cause-enormous-disruption",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/8192/1320/0x428/90/7303fd57-ab48-46bc-973f-bf96c068cd8f-GettyImages2217686309.jpg",
+        "publishedAt": "2026-04-15T20:53:01Z",
+        "source": "Baltimore News"
       },
       {
-        "title": "Trusted data foundation is a gating factor for enterprise AI",
-        "description": "The emerging obstacle to AI deployment is a lack of a trusted data foundation capable of supporting reliable, production-grade agentic AI.",
-        "url": "https://siliconangle.com/2026/04/15/trusted-data-foundation-gating-factor-enterprise-ai-qlikconnect/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/IMG_9935-e1776282234160.jpg",
-        "publishedAt": "2026-04-15T19:56:01Z",
-        "source": "SiliconANGLE News"
+        "title": "A Once-in-a-Decade Investment Opportunity: The 2 Best AI Stocks to Buy in April 2026",
+        "description": "Kinaxis and Docebo are two Canadian AI stocks with record growth, expanding margins, and massive tailwinds. Here is why April 2026 could be the ideal time to buy.",
+        "url": "https://www.fool.ca/2026/04/15/a-once-in-a-decade-investment-opportunity-the-2-best-ai-stocks-to-buy-in-april-2026/",
+        "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1367106352-1-1200x800.jpg",
+        "publishedAt": "2026-04-15T20:50:00Z",
+        "source": "The Motley Fool Canada"
       },
       {
-        "title": "Trailer for Hershey's biopic absolutely roasted for looking like 'fake AI movie'",
-        "description": "Hershey is a period biopic about the US chocolate company and founder starring Finn Wittrock and Alexandra Daddario - but fans aren't happy.",
-        "url": "https://metro.co.uk/2026/04/15/trailer-hersheys-biopic-absolutely-roasted-looking-like-fake-ai-movie-27989859/",
-        "image": "https://metro.co.uk/wp-content/uploads/2026/04/107878603-0-image-a-54_1776157832861-e1776282224718_1776282867.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-        "publishedAt": "2026-04-15T19:54:22Z",
-        "source": "Metro.co.uk"
+        "title": "How Trump’s AI Slop Propaganda War Went Up in Flames",
+        "description": "The president has found himself in a hell of a mess.",
+        "url": "https://www.thedailybeast.com/how-trumps-ai-slop-propaganda-war-went-up-in-flames/",
+        "image": "https://www.thedailybeast.com/resizer/v2/JGNVCMHH3ZDSBB7BODEA2U4IGY.jpg?smart=true&auth=436b832ad9fd0512c3add489b76a1293452ebc8602e668a2830627f990a67b7c&width=1200&height=630",
+        "publishedAt": "2026-04-15T20:49:45Z",
+        "source": "The Daily Beast"
       },
       {
-        "title": "FertilAI Secures World's First CE Mark for Predictive AI in Fertility Treatment Cycle Optimization",
-        "description": "/PRNewswire/ -- FertilAI has received CE marking under the EU Medical Device Regulation (EU MDR) for its AI-driven clinical decision support tools. To the...",
-        "url": "https://www.prnewswire.co.uk/news-releases/fertilai-secures-worlds-first-ce-mark-for-predictive-ai-in-fertility-treatment-cycle-optimization-302743712.html",
-        "image": "https://www.prnewswire.co.uk/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-15T19:53:00Z",
-        "source": "PR Newswire UK"
+        "title": "Nasdaq sets record highs as investors return to tech stocks",
+        "description": "The Nasdaq hit an intraday all-time high and closing record on Wednesday, its first since October, as investors returned to technology stocks, signaling a rebound ​in risk appetite after weeks of concerns over war-related economic disruption and ‌fears about the labor-force impact of AI.",
+        "url": "https://www.reuters.com/business/nasdaq-sets-record-highs-investors-return-tech-stocks-2026-04-15/",
+        "image": "https://www.reuters.com/resizer/v2/OX33BBMTEBK6PCFQ4AHEA47LKU.jpg?auth=7e6e1324f61db337c46ffbbb9b2c1bc04a56ab374f66c2667cb97a193d670604&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-15T20:48:05Z",
+        "source": "Reuters"
       },
       {
-        "title": "The language learning app that helps you converse",
-        "description": "Learn why Preply is reshaping language learning in 2026 by replacing gamified apps with real 1:1 tutor conversations, AI support and proven fluency results.",
-        "url": "https://nypost.com/2026/04/15/shopping/preply-2026-the-language-learning-app-that-helps-you-converse/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Charlottes-Product-Cards-2026-04-15T135633.698.png?w=1200",
-        "publishedAt": "2026-04-15T19:52:20Z",
-        "source": "New York Post"
+        "title": "Joe Rogan Mocks Trump’s Excuse For Posting AI Jesus Image",
+        "description": "Rogan's reaction comes after Trump claimed that the AI image showed him \"as a doctor\" and not as Jesus Christ.",
+        "url": "https://www.huffpost.com/entry/joe-rogan-trump-ai-jesus-post_n_69dfe192e4b0223b458513ff",
+        "image": "https://img.huffingtonpost.com/asset/69dfe489180000363aa162b6.jpeg?cache=bY7I9jz6k3&ops=1200_630",
+        "publishedAt": "2026-04-15T20:46:13Z",
+        "source": "HuffPost"
       },
       {
-        "title": "Adam Zyglis: The Faithful",
-        "description": "President Trump doubled down on his attacks on Pope Leo after posting an AI image of himself as Jesus.",
-        "url": "https://buffalonews.com/opinion/article_fa74f90b-e4a8-40bd-9208-9d17e258a5e2.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/72/9729e49f-a6fc-448e-8f45-5496cdb13dfb/69dfec2f6acd9.image.jpg?crop=1602%2C841%2C0%2C226&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-04-15T19:51:00Z",
-        "source": "Buffalo Buffalo News"
+        "title": "EU rejects Meta's pay-for-access remedy in WhatsApp AI chatbots probe",
+        "description": "The EU told Meta Wednesday that charging rival AI chatbots for access to its WhatsApp platform runs against the bloc's antitrust rules, rebuffing the measure taken by the U.S. giant in response to a probe. Meta started charging a fee as redress in March after an EU probe found it…",
+        "url": "https://japantoday.com/category/tech/eu-rejects-meta's-pay-for-access-remedy-in-whatsapp-ai-chatbots-probe",
+        "image": "https://media.japantoday.com/img/store/21/9a/0cc9fee4fe683386f0fea46b8b6230bf746b/4970de5dc10f6764dcc77fd7075940708b7dff26/_w1700.jpeg",
+        "publishedAt": "2026-04-15T20:44:00Z",
+        "source": "Japan Today"
       },
       {
-        "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-        "description": "Plus: what Werner Herzog thinks of the Trump penguin meme.",
-        "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-        "publishedAt": "2026-04-15T19:50:31Z",
-        "source": "The Verge"
+        "title": "EU rejects Meta's pay-for-access remedy in WhatsApp AI chatbots probe",
+        "description": "The EU told Meta Wednesday that charging rival AI chatbots for access to its WhatsApp platform runs against the bloc's antitrust rules, rebuffing the measure taken by the U.S. giant in response to a probe. Meta started charging a fee as redress in March after an EU probe found it…",
+        "url": "https://japantoday.com/category/tech/eu-rejects-meta%27s-pay-for-access-remedy-in-whatsapp-ai-chatbots-probe",
+        "image": "https://media.japantoday.com/img/store/21/9a/0cc9fee4fe683386f0fea46b8b6230bf746b/4970de5dc10f6764dcc77fd7075940708b7dff26/_w1700.jpeg",
+        "publishedAt": "2026-04-15T20:44:00Z",
+        "source": "Japan Today"
       }
     ]
   }
