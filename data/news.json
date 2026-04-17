@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-17T20:31:38.274Z",
+  "fetchedAt": "2026-04-17T21:31:12.772Z",
   "sections": {
     "world": [
       {
-        "title": "Putin might attack NATO island to test the alliance, chief of armed forces warns",
-        "description": "The Baltic Sea contains thousands of islands, but one of them is very strategically important.",
-        "url": "https://www.dagens.com/news/putin-might-attack-nato-island-to-test-the-alliance-chief-of-armed-forces-warns",
-        "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2026/04/Design-uden-navn-26.webp",
-        "publishedAt": "2026-04-17T08:30:46Z",
-        "source": "Dagens.com"
+        "title": "Iran war energy shock drives nuclear power plans in Asia and Africa",
+        "description": "The Iran war has exposed the fragility of global fossil fuel supply chains. Now dozens of countries across Asia and Africa are turning to nuclear power as their answer.",
+        "url": "https://www.euronews.com/business/2026/04/17/iran-war-energy-shock-drives-nuclear-power-plans-in-asia-and-africa",
+        "image": "https://images.euronews.com/articles/stories/09/72/56/12/1200x675_cmsv2_3ec175d0-687b-56f9-99e2-c9f299cf3b55-9725612.jpg",
+        "publishedAt": "2026-04-17T09:30:19Z",
+        "source": "Euronews.com"
       },
       {
-        "title": "election as president of Djibouti",
-        "description": "​Chinese President Xi Jinping on Friday sent a congratulatory message to Ismail Omar Guelleh on his re-election as president of Djibouti.",
-        "url": "http://www.china.org.cn/2026-04/17/content_118443701.shtml",
-        "image": "https://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
-        "publishedAt": "2026-04-17T08:29:48Z",
-        "source": "China.org"
+        "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
+        "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
+        "url": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
+        "image": "https://media.wired.com/photos/69e0e57f3af2e04b54b6cc82/191:100/w_1280,c_limit/GettyImages-2269814669.jpg",
+        "publishedAt": "2026-04-17T09:30:00Z",
+        "source": "WIRED"
       },
       {
-        "title": "Ben Roberts-Smith walks free on bail on Australian war crimes charges related to Afghan deaths",
-        "description": "Australia’s most decorated living veteran has walked free on bail from a Sydney prison 10 days after he was charged with committing war crimes in Afghanistan.",
-        "url": "https://apnews.com/article/australia-afghan-war-crimes-ben-roberts-smith-a64ad62169be971b96bdd0c3b44c9262",
-        "image": "https://dims.apnews.com/dims4/default/01d0995/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F48%2F1d252e2aa680887089a618eaef1e%2Ffb00e54fa5dd4d5295e35449748f762b",
-        "publishedAt": "2026-04-17T08:29:00Z",
-        "source": "AP News"
+        "title": "Kazakhstan Enters Top 30 Countries Globally in Employment Rate in 2025",
+        "description": "Kazakhstan Enters Top 30 Countries Globally in Employment Rate in 2025",
+        "url": "https://astanatimes.com/2026/04/kazakhstan-enters-top-30-countries-globally-in-employment-rate-in-2025/",
+        "image": "https://astanatimes.com/wp-content/uploads/2026/04/kazahstanec-soglasilsja-na-skidku-i-poterjal-20-millionov_1.png",
+        "publishedAt": "2026-04-17T09:29:35Z",
+        "source": "The Astana Times"
       },
       {
-        "title": "NATO member Estonia trusts US defence pledge",
-        "description": "NATO member Estonia has no doubt that the United States would help defend it if Russia attacks",
-        "url": "https://www.bairdmaritime.com/security/nato-member-estonia-trusts-us-defence-pledge-says-europe-not-ready-to-face-russia-alone",
-        "image": "https://media.assettype.com/bairdmaritime%2F2025-05-20%2F0wmm097n%2F230430-snmg1-dynamicmongoose-dzioba-0771.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-17T08:28:19Z",
-        "source": "Baird Maritime"
+        "title": "African Development Bank Channels Nearly Half of Early 2026 Financing to Single Cameroon Road Project",
+        "description": "AfDB approved $755m across 18 projects between January and mid-April 2026, a 443% jump on the same period last year — its strongest start since",
+        "url": "https://www.ecofinagency.com/news-finances/1704-54760-african-development-bank-channels-nearly-half-of-early-2026-financing-to-single-cameroon-road-project",
+        "image": "https://www.ecofinagency.com/media/k2/items/cache/d112ecd5238ad42a177eff3f508fce8e_S.jpg",
+        "publishedAt": "2026-04-17T09:29:28Z",
+        "source": "Ecofin Agency"
       },
       {
-        "title": "Uganda: Eight Stop EACOP youth activists convicted ahead oh…",
-        "description": "URGENT APPEAL – THE OBSERVATORY New information UGA 006 / 0126 / OBS 065.2 Conviction / Judicial harassment / Arbitrary detention Uganda 16 April 2026 …",
-        "url": "https://www.omct.org/en/resources/urgent-interventions/uganda-eight-stop-eacop-youth-activists-convicted-ahead-oh-their-sentencing",
-        "image": "https://www.omct.org/site-resources/images/_1200x630_crop_center-center_82_none/image-1_2026-04-17-082210_lwgl.jpeg?mtime=1776414207",
-        "publishedAt": "2026-04-17T08:28:18Z",
-        "source": "World Organisation Against Torture | OMCT"
+        "title": "Galway, Ireland plans new tourist tax for overnight visitors",
+        "description": "Galway, on the west side of Ireland, is considering a tourist tax that could generate more than $2.1 million annually in the city, with an accommodation charge of $1.10 to $2.20 per visitor per night.",
+        "url": "https://nypost.com/2026/04/17/world-news/galway-ireland-plans-new-tourist-tax-for-overnight-visitors/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/crop-39114947.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-04-17T09:28:00Z",
+        "source": "New York Post"
       },
       {
-        "title": "Malaysia to raise biodiesel blend target to 15pc",
-        "description": "Malaysia will raise its biodiesel-fossil diesel blending target up to 15pc (B15) from the current B10, the country's economic affairs minister Akmal Nasir said this week.",
-        "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2815465-malaysia-to-raise-biodiesel-blend-target-to-15pc",
-        "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
-        "publishedAt": "2026-04-17T08:28:13Z",
-        "source": "Argus Media"
+        "title": "🤰 Maternal mortality declining - new data and methods show measurable results",
+        "description": "Globally, maternal mortality has decreased by 40 percent since 2000, according to estimates from the UN Maternal Mortality Estimation Inter-Agency Group.\nA sepsis prevention program at 59 hospitals in Malawi and Uganda reduced infection-related maternal mortality by 32 percent.",
+        "url": "https://www.warpnews.org/human-progress/maternal-mortality-declining-new-data-and-methods-show-measurable-results/",
+        "image": "https://storage.ghost.io/c/90/2a/902ae086-e761-4841-a456-2c796f79acff/content/images/size/w1200/2026/04/Child-birth-cover.jpg",
+        "publishedAt": "2026-04-17T09:25:54Z",
+        "source": "warpnews.org"
       },
       {
-        "title": "Pope Leo XIV Slams Exploitation of Africa During Cameroon Visit",
-        "description": "Pope Leo XIV has criticised foreigners who exploit the wealth of Africa for profit during his visit to a conflict-hit region of Cameroon.\nSpeaking in Bamenda, at the heart of the country's long-running Anglophone separatist conflict. He urged the government of Cameroon to root out corruption for peace to prevail. He said that internal problems were exacerbated by outsiders who, in the name of profit, continue to lay their hands on the African continent to exploit and plunder it.\nThe Pope's first stop was at a peace meeting in Bamenda held at Saint Joseph's Cathedral about the nearly 10-year insurgency in Cameroon's two English-speaking regions that has left at least 6,000 people dead and many more forced from their homes. Cameroon, which was divided between the French and the British after the end of World War I, possesses major oil, natural gas, bauxite, cobalt, iron ore, gold, and diamond reserves.",
-        "url": "https://allafrica.com/view/group/main/main/id/00096428.html",
-        "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00660147:47490f1de55632045136969375084ed6:arc614x376:w1200.png",
-        "publishedAt": "2026-04-17T08:27:50Z",
-        "source": "allAfrica.com"
+        "title": "US blockade of Hormuz violates int'l law, says Russian spokesperson",
+        "description": "The US naval blockade of the Strait of Hormuz is a unilateral and illegitimate measure that contradicts international law, Russian Foreign Ministry spokesperson Maria Zakharova said on Thursday.",
+        "url": "https://news.cgtn.com/news/2026-04-17/US-blockade-of-Hormuz-violates-int-l-law-says-Russian-spokesperson-1MpWg59Q4EM/p.html",
+        "image": "https://news.cgtn.com/news/2026-04-17/US-blockade-of-Hormuz-violates-int-l-law-says-Russian-spokesperson-1MpWg59Q4EM/img/1b4770866bd548638518e1ec7b717035/1b4770866bd548638518e1ec7b717035-250.png",
+        "publishedAt": "2026-04-17T09:24:39Z",
+        "source": "news.cgtn.com"
       },
       {
-        "title": "Why Santiago Martinez, the Love Is Blind Argentina star, was sentenced to 15 years in prison",
-        "description": "Discover why Santiago Martinez, Emily Ceco's groom from Love is Blind: Argentina, was sentenced to 15 years in prison and what the details of the case were.",
-        "url": "https://www.tuko.co.ke/entertainment/celebrities/623376-why-santiago-martinez-love-blind-argentina-star-sentenced-15-years-prison/",
-        "image": "https://cdn.tuko.co.ke/images/1200x675/78b8623f8668179b.jpeg?v=1",
-        "publishedAt": "2026-04-17T08:26:44Z",
-        "source": "Tuko News"
+        "title": "Global coalition urges World Bank to stop factory farming",
+        "description": "A global coalition under the banner ‘Stop Financing Factory Farming’ is urging the World Bank and the International Finance Corporation to stop funding factory farming and redirect money to smallholder farmers.",
+        "url": "https://www.kbc.co.ke/global-coalition-urges-world-bank-to-stop-factory-farming/",
+        "image": "https://www.kbc.co.ke/wp-content/uploads/2026/04/FACTORY-FARMING.jpg",
+        "publishedAt": "2026-04-17T09:23:59Z",
+        "source": "KBC Digital"
       }
     ],
     "business": [
       {
-        "title": "The Manufacturing Indaba Has One Job This July: Give Africa a Step One",
-        "description": "When the Manufacturing Indaba opens its doors at the Sandton Convention Centre on 14 July under the theme Made in Africa: Scaling Growth, Shaping Trade, it will do so against a backdrop of numbers that should make every delegate uncomfortable. South Africa holds approximately 37% of the world’s manganese ore reserves. Only 2% of it […]",
-        "url": "https://africannewsagency.com/the-manufacturing-indaba-has-one-job-this-july-give-africa-a-step-one-2/",
-        "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/1db8aaf5478414a17c52dcf0aca76d523edee0bf/1055&operation=CROP&offset=0x34&resize=1055x593",
-        "publishedAt": "2026-04-17T08:30:44Z",
-        "source": "African News Agency"
-      },
-      {
-        "title": "Nationwide shares important advice for anyone with a current or savings account",
-        "description": "The building society has shed some light on its account access policies",
-        "url": "https://www.dailyrecord.co.uk/lifestyle/nationwide-shares-important-advice-anyone-37030441",
-        "image": "https://i2-prod.dailyrecord.co.uk/article37030519.ece/ALTERNATES/s1200d/0_07f9c144-4eb5-4d0f-864a-6ec0f5ff4ef9.gif",
-        "publishedAt": "2026-04-17T08:30:00Z",
-        "source": "Daily Record"
-      },
-      {
-        "title": "RBI Proposes 1-Hour Pause For High-Value UPI Payments: What It Means For You",
-        "description": "UPI users may need time to adjust, but industry leaders believe that the time gap in payment will feel safer and more reliable in the long run.",
-        "url": "https://www.ndtv.com/business-news/rbi-proposes-one-hour-pause-high-value-upi-digital-payment-bank-transfer-fraud-safety-11370633",
-        "image": "https://c.ndtvimg.com/2026-03/ug2cs5g4_upi-payment_625x300_26_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-17T08:28:24Z",
-        "source": "NDTV"
-      },
-      {
-        "title": "Dangote to Sell 10% Refinery Stake via Pan-African IPO",
-        "description": "Dangote Group unveils plans for a 2026 Pan-African IPO to sell a 10% stake in its $20 billion, 650,000-barrel-per-day refinery to boost investment.",
-        "url": "https://punchng.com/dangote-unveils-plan-to-sell-10-refinery-stake-via-pan-african-ipo/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2025/03/17192452/C2Dk9kpTURBXy9jNWY3NDJjNjJkZmVjYmM4ODA3YWJlMTJkYzMwMzQ5Mi5qcGeSlQMAAM0HgM0EOJMFzQMWzQGu3gACoTAGoTEA.jpg",
-        "publishedAt": "2026-04-17T08:27:01Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "ICYMI: NDIC to conclude liquidation of 89 microfinance, mortgage banks as new owners take over",
-        "description": "The Nigeria Deposit Insurance Corporation says it has commenced the process of concluding the liquidation of 89 microfinance banks (MFBs) and primary mortgage banks (PMBs) whose licences were revoked in 2023.",
-        "url": "https://www.thecable.ng/icymi-ndic-to-conclude-liquidation-of-89-microfinance-mortgage-banks-as-new-owners-take-over/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-28-at-3.50.52-PM-e1705045909685.jpeg",
-        "publishedAt": "2026-04-17T08:27:00Z",
+        "title": "Keyamo asks airlines to reconsider planned suspension of flight operations over aviation fuel hike",
+        "description": "Festus Keyamo, minister of aviation and aerospace development, has appealed to airlines to reconsider plans to suspend flight operations over the rising cost of aviation fuel, also known as Jet A1.",
+        "url": "https://www.thecable.ng/keyamo-asks-airlines-to-reconsider-planned-suspension-of-flight-operations-over-aviation-fuel-hike/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2025/08/Festus-Keyamo--e1754324108678.jpeg",
+        "publishedAt": "2026-04-17T09:31:00Z",
         "source": "TheCable"
       },
       {
-        "title": "New hydrogen plant to provide energy to the Humber Refinery",
-        "description": "The plant in South Killingholme will turn water into gas to fuel heaters at the nearby refinery.",
-        "url": "https://www.bbc.com/news/articles/c86edn8666po",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/49d7/live/8e01c3b0-3a24-11f1-9d5c-8ba507d7dbde.jpg",
-        "publishedAt": "2026-04-17T08:25:18Z",
-        "source": "BBC"
+        "title": "West Asia crisis: India resilient for now, but second-order inflation pain is coming, warns Swaminathan Aiyar",
+        "description": "India might weather the West Asia conflict's economic storm if it ends soon, according to Swaminathan Aiyar. While a swift resolution is expected due to US political pressures, second-order effects like rising inflation and fertilizer costs are unavoidable. India's resilience is noted, but the possibility of a prolonged conflict poses significant risks.",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/west-asia-crisis-india-resilient-for-now-but-second-order-inflation-pain-is-coming-warns-swaminathan-aiyar/articleshow/130328494.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130328482,width-1200,height-630,imgsize-59582,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-17T09:28:04Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Ireland 'significantly' exposed to jet fuel risk",
-        "description": "As an island nation, Ireland is 'significantly' exposed to jet fuel supply shortages, aviation expert Anita Mendiratta told RTÉ's Morning Ireland.",
-        "url": "https://www.rte.ie/news/business/2026/0417/1568723-jetfuel-expert/",
-        "image": "https://www.rte.ie/images/00243c61-1600.jpg",
-        "publishedAt": "2026-04-17T08:22:28Z",
-        "source": "RTE.ie"
+        "title": "Is the Weston family ready to break up its £18bn empire?",
+        "description": "The owners must decide if Primark should be split off from the century-old conglomerate that includes Twinings tea and Kingsmill bread",
+        "url": "https://www.thetimes.com/business/companies-markets/article/primark-uk-family-richest-westons-break-up-abf-foods-97gnwj3hb",
+        "image": "https://www.thetimes.com/imageserver/image/41e8a609-04a3-4048-a4d7-602481ca3147.jpg?strip=all&format=webp&crop=6720px%2C3780px%2C0px%2C350px&resize=1200",
+        "publishedAt": "2026-04-17T09:22:37Z",
+        "source": "The Times"
       },
       {
-        "title": "Renault Bridger SUV To Launch With Electric Variants, Turbo Petrol Engine",
-        "description": "The Renault Bridger will likely launch in late 2027 with a turbo petrol engine and battery electric powertrain variant.",
-        "url": "https://www.ndtv.com/auto/renault-bridger-suv-to-launch-with-electric-variants-turbo-petrol-engine-11370593",
-        "image": "https://c.ndtvimg.com/2026-04/9iiqp7tc_renault-bridger_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=800",
-        "publishedAt": "2026-04-17T08:20:08Z",
-        "source": "NDTV"
+        "title": "Russia-linked Grinex exchange halts operations after $13 million ‘state-backed’ hack",
+        "description": "The exchange, formerly known as Garantex and based in Kyrgyzstan, has been sanctioned by the U.S., UK, and EU for helping users bypass sanctions.",
+        "url": "https://www.coindesk.com/business/2026/04/17/russia-linked-grinex-exchange-halts-operations-after-usd13-million-state-backed-hack",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-17T09:18:13Z",
+        "source": "CoinDesk"
+      },
+      {
+        "title": "Samsung Showcases AI-Powered Retail Ecosystems at BES Gurugram, Introduces Glasses-Free 3D Spatial Signage",
+        "description": "Introduces immersive 3D spatial displays for high-impact commercial environments Leverages AI Studio and VXT for seamless content creation and deployment Extends connected ecosystems across retail and banking environments",
+        "url": "https://news.samsung.com/in/samsung-showcases-ai-powered-retail-ecosystems-at-bes-gurugram-introduces-glasses-free-3d-spatial-signage",
+        "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/04/31483_Spatial-Signage-2000-pixel-copy-1.jpg",
+        "publishedAt": "2026-04-17T09:17:14Z",
+        "source": "samsung.com"
+      },
+      {
+        "title": "Slight dip in April electric bill",
+        "description": "Davao Light residential rates fall to ₱10.53/kWh this April, offering slight relief as NGCP reports higher transmission and ancillary charges.",
+        "url": "https://www.sunstar.com.ph/davao/slight-dip-in-april-electric-bill",
+        "image": "https://media.assettype.com/sunstar%2Fimport%2Fuploads%2Fimages%2F2023%2F08%2F14%2F456499.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-17T09:17:12Z",
+        "source": "SunStar Publishing Inc."
+      },
+      {
+        "title": "Israeli central bank chief pins hopes on ceasefire amid growth shock",
+        "description": "Israel's central bank governor hopes a swift resolution to the wars in Lebanon and Iran can ease a growth shock.",
+        "url": "https://www.cnbc.com/2026/04/17/israel-lebanon-ceasefire-interest-rates-iran-inflation.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107339358-1701099483057-gettyimages-1806078916-ISRAEL_BANK.jpeg?v=1776411293&w=1920&h=1080",
+        "publishedAt": "2026-04-17T09:16:51Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "Blockchain bonds workshops session 2: Picking the architecture for tokenised bonds",
+        "description": "As issuers prepare to take the next step in issuing tokenised bonds, a new set of questions emerges. How should they design the instrument? What chains should it be available on? What token standard should they use? For most issuers, blockchains are a novel infrastructure and the taxonomy of different protocols is baffling. Before embarking […]",
+        "url": "https://www.omfif.org/meetings/blockchain-bonds-workshops-session-2-picking-the-architecture-for-tokenised-bonds/",
+        "image": "https://www.omfif.org/wp-content/uploads/2026/04/untitled-2026-04-17t091756-903.webp",
+        "publishedAt": "2026-04-17T09:16:18Z",
+        "source": "OMFIF"
       }
     ],
     "science": [
+      {
+        "title": "Is Dark Matter Actually Bits of Black Hole From a Different Universe?",
+        "description": "It's speculative, but it's an exciting idea.",
+        "url": "https://www.zmescience.com/space/astrophysics-space/is-dark-matter-actually-bits-of-black-hole-from-a-different-universe/",
+        "image": "https://cdn.zmescience.com/wp-content/uploads/2025/03/Galaxy_Cluster_ZwCl_00241652_and_Dark_Matter_Map.jpg",
+        "publishedAt": "2026-04-17T09:08:33Z",
+        "source": "ZME Science"
+      },
+      {
+        "title": "How Female Anglerfish Evolved to Have It All",
+        "description": "The deep-sea fish ended up with glowing lures not just to snag meals, but also to attract mates, a new study finds.",
+        "url": "https://www.nytimes.com/2026/04/17/science/anglerfish-lure-evolution.html",
+        "image": "https://static01.nyt.com/images/2026/04/16/multimedia/00HS-tb-anglerfish-promo/00HS-tb-anglerfish-promo-facebookJumbo.jpg",
+        "publishedAt": "2026-04-17T09:04:39Z",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Hydrogen made from alcohol by scientists using iron catalyst, UV light",
+        "description": "Researchers discovered a simple method for producing hydrogen gas, which could lower the barrier to sustainable energy production.",
+        "url": "https://interestingengineering.com/science/iron-alcohol-hydrogen-generation",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/IE-57.jpg",
+        "publishedAt": "2026-04-17T09:02:00Z",
+        "source": "Interesting Engineering"
+      },
+      {
+        "title": "Whale optimization algorithm based on Markov chain is used for overlapping community discovery",
+        "description": "To address issues such as low search efficiency and reduced diversity in the later stages of the Whale Optimization Algorithm (WOA), this paper proposes a Markov Chain-based Whale Optimization Algorithm for overlapping community detection. To address the low search efficiency of traditional WOA caused by the lack of prior knowledge utilization, a Markov chain-based state decision mechanism is introduced. To tackle the low diversity in the late stages of WOA, a differential bidirectional crossover strategy is proposed. This strategy increases diversity by implementing bidirectional crossover on individuals entering the late search phase through screening. To address the low partitioning accuracy caused by redundant nodes during the initial overlapping community division, a topology-potential-based overlapping node optimization strategy is proposed. This strategy enhances the accuracy of overlapping communities by calculating and eliminating redundant nodes. Experiments on the LFR synthetic network and seven real-world networks demonstrate that MKWOA outperforms six mainstream comparison algorithms. On the LFR benchmark network, MKWOA achieves excellent or competitive normalized mutual information (NMI) values, particularly excelling when mixed parameters are high and community structures are ambiguous. MKWOA achieved the highest extended modularity (EQ) values on five of the seven real networks (including Karate, Polbooks, and Jazz). For instance, on the Polbooks network, its EQ value surpassed the second-best algorithm by approximately 9.5%. These results validate that the proposed strategy effectively enhances the algorithm’s performance and robustness in overlapping community detection.",
+        "url": "https://www.nature.com/articles/s41598-026-47989-3?error=cookies_not_supported&code=a07f6df3-2282-4e5c-8766-fe6351dbac63",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-17T08:58:19Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Three chemistry Nobel laureates shared their failures - and how they overcame them",
+        "description": "Laureates talk about how they faced frustration and self-doubt over whether they were cut out for chemistry before they finally triumphed",
+        "url": "https://www.chemistryworld.com/news/three-chemistry-nobel-laureates-shared-their-failures-and-how-they-overcame-them/4023304.article",
+        "image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/2/2/546822_wc13_04_2026_nobellaureatesfailureindex_443468.jpg",
+        "publishedAt": "2026-04-17T08:38:58Z",
+        "source": "Chemistry World"
+      },
+      {
+        "title": "Lyrid meteor shower 2026: When, where to see meteors light up the sky",
+        "description": "Want to make a wish on a shooting star? Up to 10-20 can be seen per hour during the Lyrid Meteors' peak in April.",
+        "url": "https://www.usatoday.com/story/graphics/2026/04/17/lyrid-meteor-shower-2026-what-to-know/89407947007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/01/USAT/89422335007-lyrid-meteor-showertopper.png?crop=3554,1997,x124,y0&width=3200&height=1799&format=pjpg&auto=webp",
+        "publishedAt": "2026-04-17T08:34:21Z",
+        "source": "USA Today"
+      },
+      {
+        "title": "2 siRNA Shows Increased Apoptosis in Osteosarcoma Cells",
+        "description": "Researchers have investigated the use of graphene oxide […]",
+        "url": "https://www.geneonline.com/graphene-oxide-used-to-deliver-bcl-2-sirna-shows-increased-apoptosis-in-osteosarcoma-cells/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-04-17T08:33:20Z",
+        "source": "geneonline.com"
+      },
       {
         "title": "Lyrid meteor shower 2026: Peak dates and best viewing times",
         "description": "Astronomy enthusiasts are gearing up for one of the year's most historic celestial events as the Lyrid meteor shower prepares to peak up in the early hours of April 22. With a history traced back...",
@@ -142,128 +198,72 @@
         "image": "https://www.thenews.com.pk/assets/uploads/2026-04-17/1399319_013152_updates.jpg",
         "publishedAt": "2026-04-17T08:31:00Z",
         "source": "The News International"
-      },
-      {
-        "title": "A Moon Crater Three Times Bigger Than Anything We've Seen Before Just Got Caught Forming",
-        "description": "NASA's LRO captured a 225-metre lunar crater — more than 3 times the largest ever recorded during the mission — forming in late spring 2024.",
-        "url": "https://orbitaltoday.com/2026/04/17/a-moon-crater-three-times-bigger-than-anything-weve-seen-before-just-got-caught-forming/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/andreasdestiny-moon-2055834_1280.jpg",
-        "publishedAt": "2026-04-17T07:57:41Z",
-        "source": "Orbital Today"
-      },
-      {
-        "title": "Rosalind Franklin: This Mars rover will dig deeper than ever to look for signs of life",
-        "description": "NASA has approved key support for ESA’s Rosalind Franklin Mars rover, set for a 2028 launch, including landing systems, heating units and a mass spectrometer to search for signs of ancient life.",
-        "url": "https://www.cnbctv18.com/technology/rosalind-franklin-this-mars-rover-will-dig-deeper-than-ever-to-look-for-signs-of-life-ws-l-19888460.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/nasas-rosalind-franklin-support-and-augmentation-rosa-project-2026-04-84561627f14f3b416147a3ff8733491a.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-17T07:57:13Z",
-        "source": "CNBC TV18"
-      },
-      {
-        "title": "Scientists discover gene that helps the brain repair itself",
-        "description": "Study identifies mechanism that restores nerve insulation, with potential implications for neurological disorders.",
-        "url": "https://www.moneycontrol.com/news/trends/scientists-discover-gene-that-helps-the-brain-repair-itself-13891805.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260324065945_brainn.jpg",
-        "publishedAt": "2026-04-17T07:51:58Z",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Shredded to cosmic dust: Stunning footage captures comet’s death plunge into the Sun - watch",
-        "description": "Science News: Nasa heliophysics spacecraft observed the destruction of comet C/2026 A1 (MAPS) during its close approach to the Sun on April 4, according to data fro.",
-        "url": "https://timesofindia.indiatimes.com/science/shredded-to-cosmic-dust-stunning-footage-captures-comets-death-plunge-into-the-sun-watch/articleshow/130324590.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130324562,width-1280,height-720,imgsize-3412785,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T07:50:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Viral 'Tsunami Warning' Worries Internet After Satellite Images Shock Scientists: Is A New Warning In Effect?",
-        "description": "Viral satellite images showing a tsunami forming in the ocean have sparked global curiosity and online searches. The images captured a 2025 Pacific tsunami triggered by a magnitude 8.8 earthquake near Russia’s Kamchatka Peninsula. Scientists discovered tsunami waves behave more complexly than expected, potentially improving future warning systems. Experts confirm there is no current tsunami threat",
-        "url": "https://www.freepressjournal.in/viral/viral-tsunami-warning-worries-internet-after-satellite-images-shock-scientists-is-a-new-warning-in-effect",
-        "image": "https://media.assettype.com/freepressjournal/2026-04-17/83f5j9ql/amisha-2026-04-17T125758.033.jpg",
-        "publishedAt": "2026-04-17T07:40:27Z",
-        "source": "Free Press Journal"
-      },
-      {
-        "title": "Indian scientists find data 'fully consistent' for dwarf galaxies to host black holes",
-        "description": "New Delhi, April 17 (IANS) A new study from Indian scientists probed the possibility of some of the smallest galaxies- dwarf spheroidal galaxies orbiting the Milky Way, hosting black holes and found data “fully consistent with the presence of intermediate-mass black holes,” an official statement said on Friday. The study by K. Aditya and Arun […]",
-        "url": "https://tennews.in/indian-scientists-find-data-fully-consistent-for-dwarf-galaxies-to-host-black-holes/",
-        "image": "https://tennews.in/wp-content/uploads/2023/09/GU-NAAC-Logo_page-0001.jpg",
-        "publishedAt": "2026-04-17T07:36:41Z",
-        "source": "tennews.in"
-      },
-      {
-        "title": "Back on Earth, Artemis II Crew Still Finding their Footing",
-        "description": "Nearly a week after their Pacific splashdown, the astronauts who crewed the Artemis II mission that flew around the Moon told reporters Thursday they have yet to fully grasp the magnitude of the moment. \"It's been a week of medical testing, physical testing, doctors, science objectives,\" mission commander Reid Wiseman said during a press conference at NASA's Johnson Space Center in Houston. \"We have not had that decompression,\" he added.",
-        "url": "https://english.aawsat.com/varieties/5263404-back-earth-artemis-ii-crew-still-finding-their-footing",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-04/1495861_0.jpeg.webp",
-        "publishedAt": "2026-04-17T07:30:21Z",
-        "source": "Asharq Al-Awsat"
       }
     ],
     "ai": [
       {
-        "title": "AI-Focused Accounting Is Hindered by State CPA Licensing Laws",
-        "description": "Reforming state CPA licensure requirements would give accounting firms more ways to recruit talent in the age of artificial intelligence.",
-        "url": "https://news.bloombergtax.com/daily-tax-report/ai-focused-accounting-is-hindered-by-state-cpa-licensing-laws",
-        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/beb3600/2147483647/strip/false/crop/957x369+1+0/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F8f%2Fcd%2F325cc0b44bed8cf4c8509bd1dd62%2Fbli-law-image4-958x369.png",
-        "publishedAt": "2026-04-17T08:30:06Z",
-        "source": "Bloomberg Tax News"
+        "title": "Taiwan Semiconductor: Massive Growth From This Huge AI Winner",
+        "description": "TSMC delivered robust Q1 results, beating revenue and EPS estimates and showcasing exceptional 41% year-over-year revenue growth. Learn more about TSM stock here.",
+        "url": "https://seekingalpha.com/article/4891487-taiwan-semiconductor-tsmc-massive-growth-from-this-huge-ai-winner",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1199346879/image_1199346879.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-17T09:29:27Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Amazon thinks you love AI, so it has launched a special storefront for AI-powered gadgets",
-        "description": "When everything is AI, figuring out what works gets tricky. This store makes it simpler.",
-        "url": "https://www.digitaltrends.com/cool-tech/amazon-thinks-you-love-ai-so-it-has-launched-a-special-storefront-for-ai-powered-gadgets/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/Google-AI-mode-mockup-showing-new-feature.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-17T08:30:04Z",
-        "source": "Digital Trends"
+        "title": "AI Adoption In Digital Investigation: Boon Or Bane?",
+        "description": "AI in digital investigation is not a simple choice between benefit and risk. It is a question of maturity.",
+        "url": "https://www.ndtvprofit.com/technology/ai-adoption-in-digital-investigation-boon-or-bane-11370921",
+        "image": "https://c.ndtvimg.com/2026-04/kj8r1b8o_ai_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-17T09:28:22Z",
+        "source": "NDTV Profit"
       },
       {
-        "title": "This AI-powered robot can tell which trees are thirsty and which aren’t",
-        "description": "Science News: Water scarcity is emerging as a major threat in contemporary agriculture, necessitating the development of innovative means by which every drop of wat.",
-        "url": "https://timesofindia.indiatimes.com/science/this-ai-powered-robot-can-tell-which-trees-are-thirsty-and-which-arent/articleshow/130327018.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130327094,width-1280,height-720,imgsize-1426662,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T08:30:00Z",
-        "source": "Times of India"
+        "title": "IndiaAI Mission Powers Global Expansion for AI Startups",
+        "description": "The IndiaAI Mission, in collaboration with Station F and HEC Paris, has selected 10 Indian AI startups for its Global Acceleration Programme's second cohort. The initiative aims to nurture global AI champions by equipping startups with resources, expertise, and strategic connections necessary for international expansion.",
+        "url": "https://www.devdiscourse.com/article/technology/3877433-indiaai-mission-powers-global-expansion-for-ai-startups",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_03_2025_15_30_03_6016702.png?width=920&format=jpeg",
+        "publishedAt": "2026-04-17T09:25:22Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "OpenAI to rival Google’s AlphaFold with new AI model for life sciences research",
-        "description": "OpenAI have announced the early release of its new AI-powered life sciences application GPT-Rosalind, to specific life science groups.",
-        "url": "https://www.siliconrepublic.com/machines/openai-rival-google-alphafold-ai-model-life-sciences-research",
-        "image": "https://www.siliconrepublic.com/wp-content/uploads/2026/04/Life-Science-AI.jpeg",
-        "publishedAt": "2026-04-17T08:26:26Z",
-        "source": "Siliconrepublic.com"
+        "title": "Joju George turns director again, this time for ‘Paripadi’",
+        "description": "The film will be shot at multiple locations across Kerala, Europe, and beyond, promising a global scale to the project..Paripadi movie, Joju George film, Kavya Film Company new project, high-budget Malayalam cinema, Paripadi cast training, Malayalam film production, Paripadi international locations, Rajiv Ravi cinematographer, Anparivu action choreographer, upcoming Malayalam releases, film Paripadi details, Venu Kunnappally producer, Joju George director, Paripadi movie news, AI in film production",
+        "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/17/paripadi-movie-news-joju-george-kavya-film-company.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/entertainment/entertainment-news/images/2026/4/17/joju-george-rajiv-ravi.jpg",
+        "publishedAt": "2026-04-17T09:24:31Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "ET Most Innovative AI Product Awards 2026: what it is, why it matters and who it is for",
-        "description": "As Indias AI ecosystem moves from experimentation to execution, the need to recognise real, measurable innovation has become critical. The ET Most Innovative AI Product Awards 2026 is designed to evaluate AI products based on architecture, deployment, and business impact across startups, SMEs, and enterprises. Here is a clear breakdown of what the programme stands for and why it matters now.",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/et-most-innovative-ai-product-awards-2026-what-it-is-why-it-matters-and-who-it-is-for/articleshow/130327068.cms",
-        "image": "https://img.etimg.com/thumb/msid-130327565,width-1200,height-630,imgsize-1253604,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-17T08:26:00Z",
-        "source": "The Economic Times"
+        "title": "Iranian embassy posts AI video of Jesus violently punching and bloodying Trump",
+        "description": "The Iranian Embassy in Tajikistan has been posting AI-generated propaganda videos criticizing President Donald Trump.",
+        "url": "https://www.washingtonexaminer.com/news/4533239/iranian-embassy-posts-ai-video-of-jesus-violently-punching-and-bloodying-trump/",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26103630698808_4327ce.jpg?resize=1200,683",
+        "publishedAt": "2026-04-17T09:23:30Z",
+        "source": "Washington Examiner"
       },
       {
-        "title": "Anthropic unveils Claude Opus 4.7 with enhanced reasoning and coding abilities",
-        "description": "Artificial intelligence firm Anthropic has announced the launch of Claude Opus 4.7, the latest iteration in its series of hybrid reasoning models, marking another rapid",
-        "url": "https://www.nation.com.pk/17-Apr-2026/anthropic-unveils-claude-opus-4-7-enhanced-reasoning-coding-abilities",
-        "image": "https://www.nation.com.pk/digital_images/large/2026-04-17/anthropic-launches-claude-opus-4-7-intelligent-public-ai-model-1776414377-8681.png",
-        "publishedAt": "2026-04-17T08:26:00Z",
-        "source": "The Nation"
+        "title": "Google And Gucci Are Working Together To Launch AI Smart Glasses To Take On Meta",
+        "description": "Google is collaborating with Gucci to create stylish, premium smart glasses based on Android XR technology. This partnership aims to blend fashion with technology., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/google-and-gucci-are-working-together-to-launch-ai-smart-glasses-to-take-on-meta-article-154100426",
+        "image": "https://images.timesnownews.com/thumb/msid-154100426,width-1280,height-720,resizemode-75/154100426.jpg",
+        "publishedAt": "2026-04-17T09:18:50Z",
+        "source": "Times Now"
       },
       {
-        "title": "'Raaka' actor Allu Arjun moves Delhi High Court to protect personality rights; flags AI and unauthorized ad misuse",
-        "description": "Allu Arjun has taken a major legal step by approaching the Delhi High Court to safeguard his personality rights. The actor has filed a petition seekin.",
-        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/after-chiranjeevi-nagarjuna-and-pawan-kalyan-raaka-actor-allu-arjun-moves-delhi-high-court-to-protect-personality-rights-flags-ai-and-unauthorized-ad-misuse/articleshow/130327252.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130327252,width-1280,height-720,imgsize-74894,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T08:26:00Z",
-        "source": "Times of India"
+        "title": "Samsung addresses why it won’t make small phones, and more in Reddit AMA",
+        "description": "Samsung’s VP of Marketing discusses the future of Galaxy AI, the Galaxy S26 Ultra’s best features, and the end of small phones in a new AMA.",
+        "url": "https://www.androidauthority.com/samsung-galaxy-ai-future-vision-ama-3658489/",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-purple.jpg",
+        "publishedAt": "2026-04-17T09:18:37Z",
+        "source": "Android Authority"
       },
       {
-        "title": "Australian court warns lawyers over AI use in legal cases",
-        "description": "New rules say AI can be used, but errors like fake citations and unchecked content could lead to serious consequences.",
-        "url": "https://www.moneycontrol.com/news/trends/australian-court-warns-lawyers-over-ai-use-in-legal-cases-13891827.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417082420_COURY.png",
-        "publishedAt": "2026-04-17T08:25:44Z",
-        "source": "Moneycontrol"
+        "title": "'Don’t fear the dead, and don’t fear me' - AI brings a digital Val Kilmer back to the screen",
+        "description": "Blurring the line between performance and reconstruction",
+        "url": "https://www.techradar.com/ai-platforms-assistants/dont-fear-the-dead-and-dont-fear-me-ai-brings-a-digital-val-kilmer-back-to-the-screen",
+        "image": "https://cdn.mos.cms.futurecdn.net/PJ9mAvEYCCCugPBWsoKCd4-1920-80.png",
+        "publishedAt": "2026-04-17T09:15:41Z",
+        "source": "TechRadar"
       }
     ]
   }
