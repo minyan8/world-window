@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-17T11:36:29.828Z",
+  "fetchedAt": "2026-04-17T12:40:13.866Z",
   "sections": {
     "world": [
       {
-        "title": "AI is changing careers: What SPM graduates must do next",
-        "description": "ARTIFICIAL INTELLIGENCE (AI) is transforming the way ideas are developed, decisions are made and work is carried out across industries.",
-        "url": "https://www.thestar.com.my/starpicks/2026/04/17/ai-is-changing-careers-what-spm-graduates-must-do-next",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/16/3862658.jpg",
-        "publishedAt": "2026-04-16T23:30:00Z",
-        "source": "The Star"
+        "title": "Acting ICE director Todd Lyons to leave agency",
+        "description": "Lyons, who oversaw hundreds of thousands of deportations, will step away from the role after 31 May.",
+        "url": "https://www.bbc.co.uk/news/articles/cd9vpv35jk3o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d90/live/1dc5d070-39f5-11f1-b36c-918395f808bb.jpg",
+        "publishedAt": "2026-04-17T00:36:03Z",
+        "source": "BBC"
       },
       {
-        "title": "Turkey or Pakistan could become Israel's new enemy, analyst says",
-        "description": "In an opinion piece in Maariv, Israeli analyst Boaz Golani claims the war on Iran has 'wiped out' Islamic Republic's military capabilities",
-        "url": "https://www.middleeasteye.net/news/turkey-pakistan-could-become-israels-new-enemy-analyst-says",
-        "image": "https://www.middleeasteye.net/sites/default/files/images-story/israel-pakistan-afp-handout-picture-2026.jpg",
-        "publishedAt": "2026-04-16T23:27:03Z",
-        "source": "Middle East Eye"
+        "title": "Israel, Lebanon begin ceasefire as Iran deal 'very close'",
+        "description": "A ten-day ceasefire between Lebanon and Israel has come into effect and President Donald Trump said the next meeting between the US and Iran may take place over the weekend, adding to optimism that the Iran war could be nearing an end.",
+        "url": "https://www.rte.ie/news/middle-east/2026/0417/1568689-lebanon-ceasefire/",
+        "image": "https://www.rte.ie/images/00243c35-1600.jpg",
+        "publishedAt": "2026-04-17T00:35:01Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Rights group backs those affected by contaminated Zambia mining site",
-        "description": "Human Rights Watch (HRW) released a statement on Wednesday in support of a group in Zambia that has called for the African Union to take steps to clean up a mine site that has caused child led-poisoni...",
-        "url": "https://www.jurist.org/news/2026/04/rights-group-backs-those-affected-by-contaminated-zambia-mining-site/",
-        "image": "https://www.jurist.org/news/wp-content/uploads/sites/4/2026/04/Broken_Hill_Town__Line_of_Lode_Pano_NSW_08.07.2007.jpg",
-        "publishedAt": "2026-04-16T23:23:14Z",
-        "source": "Jurist.org"
-      },
-      {
-        "title": "Philippines, US to build 1,619-hectare 'economic security zone' in Luzon",
-        "description": "The United States (US) and the Philippines are planning to establish a 4,000-acre, or a nearly 1,619-hectare (ha), industrial hub in Luzon aimed at...",
-        "url": "https://mb.com.ph/2026/04/17/philippines-us-to-build-1619-hectare-economic-security-zone-in-luzon",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/17/94214.webp",
-        "publishedAt": "2026-04-16T23:22:12Z",
-        "source": "Manila Bulletin"
-      },
-      {
-        "title": "'We are not leaving': Netanyahu says Israeli forces will hold positions in Lebanon as 10",
-        "description": "Middle East News: Israeli Prime Minister Benjamin Netanyahu on Thursday said Israeli forces will continue to remain in southern Lebanon during the ongoing 10-day ceasef.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/we-are-not-leaving-netanyahu-says-israeli-forces-will-hold-positions-in-lebanon-as-10-day-ceasefire-begins/articleshow/130320041.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130320093,width-1280,height-720,imgsize-729315,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T23:19:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Department of Justice investigating Eric Swalwell amid sexual assault allegations",
-        "description": "Democratic representative from California has suspended gubernatorial campaign and resigned from Congress",
-        "url": "https://www.theguardian.com/us-news/2026/apr/16/eric-swalwell-department-of-justice-investigation",
-        "image": "https://i.guim.co.uk/img/media/3b2a39c285abe5ecd6ff7c9fe90830101ed9ab48/0_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a616df91bfce49e0b883fab85ac9e7",
-        "publishedAt": "2026-04-16T23:12:00Z",
+        "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
+        "description": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513",
+        "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
+        "image": "https://i.guim.co.uk/img/media/142f78c921a46c09daa5e077bf76e675f6fdd70e/690_0_6872_5501/master/6872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf252fae9e0f51691b4230cb441ee07c",
+        "publishedAt": "2026-04-17T00:21:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "Trump announces 10-day ceasefire in Lebanon after ‘excellent conversations’",
-        "description": "Halt to seven weeks of fighting will be followed by first Israeli-Lebanese summit in decades",
-        "url": "https://www.theguardian.com/world/2026/apr/16/trump-announces-10-day-ceasefire-in-lebanon-after-excellent-conversations",
-        "image": "https://i.guim.co.uk/img/media/0ad0b211b4215a60d7f47e233d397705ee3d7af7/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb72804c01b8d052adde8f0dfc02616c",
-        "publishedAt": "2026-04-16T23:11:00Z",
-        "source": "The Guardian"
+        "title": "Iran war 'should be ending pretty soon'",
+        "description": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
+        "url": "https://www.cnbc.com/2026/04/16/trump-iran-war-predicts-end-soon.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108292836-1776372592073-gettyimages-2271072024-TRUMP_DEPART_WH.jpeg?v=1776372673&w=1920&h=1080",
+        "publishedAt": "2026-04-17T00:20:00Z",
+        "source": "CNBC"
       },
       {
-        "title": "Europe's defence cloud reliance risks US 'kill switch,' think tank warns",
-        "description": "A vast majority of EU countries rely on US cloud services for their national defence agencies, putting them at risk of a \"kill switch\" that shuts down service at any time.View on euronews",
-        "url": "https://sg.news.yahoo.com/europes-defence-cloud-reliance-risks-230534771.html",
-        "image": "https://s.yimg.com/os/en/euronews_sg_articles_551/2dc25233ba941d94371287a0bb1cbe71",
-        "publishedAt": "2026-04-16T23:05:34Z",
-        "source": "Yahoo News Singapore"
+        "title": "What lagging jet fuel supplies could mean for airlines and travelers",
+        "description": "A looming jet fuel shortage in Europe and Asia sparked by the Iran war and the effective closure of the Strait of Hormuz could further upend world travel within weeks if oil doesn't start flowing again soon — meaning higher airfares and flight cancellations as the summer travel season approaches.",
+        "url": "https://www.pbs.org/newshour/economy/what-lagging-jet-fuel-supplies-could-mean-for-airlines-and-travelers",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-16T154953Z_1537290625_RC2DQKASYTAA_RTRMADP_3_IRAN-CRISIS-SPAIN-JET-FUEL-e1776383966902-1024x636.jpg",
+        "publishedAt": "2026-04-17T00:01:24Z",
+        "source": "PBS"
+      },
+      {
+        "title": "Golden Handcuffs: The Political Economy of Pliable Democracy in Africa",
+        "description": "Western democracy-promotion programs in Africa are failing, but not for the reasons most analysts claim. The problem is not naivety or poor implementation.",
+        "url": "https://moderndiplomacy.eu/2026/04/17/golden-handcuffs-the-political-economy-of-pliable-democracy-in-africa/",
+        "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/04/Thomas-Sankara.jpg",
+        "publishedAt": "2026-04-17T00:00:40Z",
+        "source": "Modern Diplomacy"
+      },
+      {
+        "title": "Marshall Islands government shuts down at 3pm amid fuel crisis",
+        "description": "Most government offices in the Marshall Islands began enforcing a new policy this week of closing by 3pm daily as a way to conserve fuel given uncertainties of fuel supply globally.",
+        "url": "https://www.rnz.co.nz/news/pacific_marshall-islands/592663/marshall-islands-government-shuts-down-at-3pm-amid-fuel-crisis",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--Ff2n7VkS--/t_tohu-badge-facebook/v1776383423/4NO1VW7_MEC_Majuro_Delap_drone_MEC_power_plant_9_25_18_Tyler_MilneDJI_0174_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-16T23:57:47Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Armed robbers hold 25 people hostage in bank heist in Naples, Italy before escaping into the 'sewers'",
+        "description": "The group took customers and employees hostage before fleeing with \"the contents of dozens of safe deposit boxes\", according to police.",
+        "url": "https://www.abc.net.au/news/2026-04-17/armed-robbery-bank-naples-italy-hostages/106575028",
+        "image": "https://live-production.wcms.abc-cdn.net.au/dde260dc129f65661a6a922fa2b2c37c?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-16T23:55:20Z",
+        "source": "Australian Broadcasting Corporation"
       }
     ],
     "business": [
       {
-        "title": "Iron Ore Prices Split As Supply Worries Meet Steel Curbs",
-        "description": "Port stockpiles fell and fuel risks added support, but Hebei pollution controls and Vale’s strong sales kept iron ore’s outlook mixed.",
-        "url": "https://finimize.com/content/iron-ore-prices-split-as-supply-worries-meet-steel-curbs",
-        "image": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L1N41006M_1981183493.jpeg?ixlib=python-3.1.2&s=46aaa5806117971425fb50a6d99f26bc",
-        "publishedAt": "2026-04-16T23:34:07Z",
-        "source": "Finimize"
-      },
-      {
-        "title": "Reed Hastings’s exit from $455 billion Netflix ‘had nothing to do with’ failed Warner Bros. deal",
-        "description": "Netflix’s stock price sank 9% in after-hours trading on Thursday.",
-        "url": "https://fortune.com/2026/04/16/netflix-reed-hastings-depart-board-warner-stock-results/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2224569843-e1776376951178.jpg?resize=1200,600",
-        "publishedAt": "2026-04-16T23:34:00Z",
-        "source": "Fortune"
-      },
-      {
-        "title": "WINNING | Maya scales profitably as digital bank growth accelerates",
-        "description": "Maya is accelerating its push toward sustainable growth as customer adoption deepens and its digital ecosystem scales, signaling a shift from rapid expansion to profitability among Philippine fintech players.",
-        "url": "https://insiderph.com/winning-maya-scales-profitably-as-digital-bank-growth-accelerates",
-        "image": "https://insiderph.com/uploads/articles/thumb_1776381787829_oq06jfzayupk8htlrdb3-800x600.webp?v=1",
-        "publishedAt": "2026-04-16T23:33:50Z",
-        "source": "InsiderPH"
-      },
-      {
-        "title": "Hyundai Motor Group Expands Contribution to Society in India, Strengthening Korea-India Bridge",
-        "description": "Hyundai Motor Group is expanding its social contribution activities and reinforcing its role as a bridge between South Korea and India.",
-        "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001155",
-        "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/highlight-horizontal-thumbnail-group-basic.jpg",
-        "publishedAt": "2026-04-16T23:30:00Z",
-        "source": "Hyundai"
-      },
-      {
-        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-        "description": "All three of the major indexes rose on Thursday, with both the S&P 500 and Nasdaq Composite setting new intraday and closing highs.",
-        "url": "https://www.cnbc.com/2026/04/16/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108288653-1775657627439-gettyimages-2270383834-mms18856_uzxxpaoo.jpeg?v=1776378919&w=1920&h=1080",
-        "publishedAt": "2026-04-16T23:29:57Z",
+        "title": "Israel-Lebanon truce fuels optimism for Middle East peace",
+        "description": "Oil prices fell after Donald Trump said Israel and Lebanon had agreed to a 10-day ceasefire following talks in Washington.",
+        "url": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg?v=1776346758&w=1920&h=1080",
+        "publishedAt": "2026-04-17T00:40:00Z",
         "source": "CNBC"
       },
       {
-        "title": "Malaysia’s richest billionaires: IOI’s Lee brothers enter top 5 as rankings shift",
-        "description": "The ranks of Malaysia’s five richest billionaires saw a shake-up this year, with the Lee brothers of palm oil giant IOI joining the list, but tycoon Robert Kuok still retained the top spot. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/business/billionaires/malaysia-s-richest-billionaires-ioi-s-lee-brothers-enter-top-5-as-rankings-shift-5063007.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/04/16/2024-ioi-1776313799-4320-1776315037.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=uab90FdGfVZvjnDOR82nvw",
-        "publishedAt": "2026-04-16T23:25:26Z",
-        "source": "VnExpress International"
-      },
-      {
-        "title": "FinanceAsia names SM companies among Asia's Best Companies for 2026",
-        "description": "/PRNewswire/ -- Hong Kong-based publication FinanceAsia has recognized four SM companies in its Asia's Best Companies 2026 poll, reflecting the views of...",
-        "url": "https://www.prnewswire.com/news-releases/financeasia-names-sm-companies-among-asias-best-companies-for-2026-302745390.html",
-        "image": "https://mma.prnewswire.com/media/1880730/Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-16T23:22:00Z",
-        "source": "PR Newswire"
-      },
-      {
-        "title": "Dangote to showcase refinery at Nasarawa trade fair",
-        "description": "Dangote Industries will showcase its flagship Dangote Refinery and other products at the 2026 Nasarawa Trade Fair to drive African industrialisation.",
-        "url": "https://punchng.com/dangote-to-showcase-refinery-at-nasarawa-trade-fair/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2024/08/14232906/Aliko-Dangote.jpg",
-        "publishedAt": "2026-04-16T23:16:51Z",
+        "title": "Alert Microfinance Bank secures national MFI licence",
+        "description": "Alert Microfinance Bank has acquired a national licence from the CBN, unveiling plans for nationwide expansion to deepen financial inclusion in Nigeria.",
+        "url": "https://punchng.com/alert-group-secures-mfi-licence-eyes-n250bn-assets/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/01/24041316/Alert-Group.jpeg",
+        "publishedAt": "2026-04-17T00:39:04Z",
         "source": "Punch Newspapers"
+      },
+      {
+        "title": "Vietnam requires pre-arrival declarations for foreigners at Tan Son Nhat airport",
+        "description": "Vietnam’s Immigration Department has introduced a mandatory pre-arrival information declaration for certain travelers entering via Tan Son Nhat International Airport in Ho Chi Minh City, effective Wednesday.",
+        "url": "https://news.tuoitre.vn/vietnam-requires-pre-arrival-declarations-for-foreigners-at-tan-son-nhat-airport-103260416162153398.htm",
+        "image": "https://cdn2.tuoitre.vn/zoom/600_315/471584752817336320/2026/4/16/nhap-canh-1710758753274516806489-1776331028718650597868-175-0-693-989-crop-17763311200542001362875.png",
+        "publishedAt": "2026-04-17T00:38:00Z",
+        "source": "Tuoi Tre News | The News Gateway to Vietnam"
+      },
+      {
+        "title": "Quick commerce turning to reset lane as profit push tempers growth metrics",
+        "description": "After several quarters of breakneck expansion, quick commerce majors Blinkit and Instamart are expected to report moderation in growth in the January-March quarter, as they sharpen focus on margin improvement and profitability, analysts and industry executives said.",
+        "url": "https://economictimes.indiatimes.com/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics/articleshow/130315966.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2358699,resizemode-75,msid-130315966/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics.jpg",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Singapore exports surge on AI electronics demand",
+        "description": "Singapore's key exports rose 15.3% in March, driven by a significant surge in AI-related electronics and semiconductor demand. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/economy/singapore-key-exports-surge-15-3-in-march-on-ai-driven-electronics-demand",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/100884f5899f6f7ff4cbbcf526a788e1f18c4cb99981333720c14d74aba860e5",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "QVC Group files for bankruptcy",
+        "description": "The West Chester-based company plans to continue operating and intends to emerge from bankruptcy within 90 days.",
+        "url": "https://whyy.org/articles/qvc-bankruptcy-chester-county/",
+        "image": "https://whyy.org/wp-content/uploads/2026/04/qvc-west-chester-ap-scaled.jpg",
+        "publishedAt": "2026-04-17T00:28:17Z",
+        "source": "WHYY"
+      },
+      {
+        "title": "Norwegian Jewel cruise ship sets sail from Philadelphia port, the first in 15 years",
+        "description": "The Norwegian Jewel is now the first cruise ship to set sail from the Port of Philadelphia after 15 years.",
+        "url": "https://www.cbsnews.com/philadelphia/news/norwegian-jewel-cruise-ship-philadelphia-port/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/16/6dc9545b-a50f-4438-a5bd-a5891d7d81ef/thumbnail/1200x630/85755fdfbfc746a2363afb09a7aa97e4/cruise-ship-chopper.jpg",
+        "publishedAt": "2026-04-17T00:27:28Z",
+        "source": "CBS News"
+      },
+      {
+        "title": "Netflix Investors Just Got Fantastic News From Co-CEOs Greg Peters and Ted Sarandos",
+        "description": "This is a classic disconnect between the results and investor reaction -- but Reed Hastings will be missed.",
+        "url": "https://www.fool.com/investing/2026/04/16/netflix-investors-just-got-fantastic-news-from-co/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866115%2Fthe-netflix-logo-superimposed-over-a-person-walking-through-the-companys-lobby.png&w=1200&op=resize",
+        "publishedAt": "2026-04-17T00:20:00Z",
+        "source": "The Motley Fool"
       }
     ],
     "science": [
+      {
+        "title": "Shenzhou-21 Crew's Extra Space Month: A New Milestone in China's Astronautics Journey",
+        "description": "China's Shenzhou-21 astronaut crew will extend their mission by an extra month as approved by China's Manned Space Engineering Office. The crew includes Wu Fei, the youngest Chinese astronaut. Previously scheduled to return in April, the extension aims to verify long-term orbital stay technologies.",
+        "url": "https://www.devdiscourse.com/article/technology/3876996-shenzhou-21-crews-extra-space-month-a-new-milestone-in-chinas-astronautics-journey",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=920&format=jpeg",
+        "publishedAt": "2026-04-17T00:40:02Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Navy search and rescue medical technician supports recovery of Artemis II astronauts",
+        "description": "SAN DIEGO (April 15, 2026) — As NASA’s Artemis II crew returned to Earth following their historic mission around the moon, a team of Navy Medicine professionals stood ready in the Pacific Ocean to receive them—prepared for anything from a routine recovery, News Articles",
+        "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4462937/navy-search-and-rescue-medical-technician-supports-recovery-of-artemis-ii-astro/",
+        "image": "https://media.defense.gov/2026/Apr/16/2003914156/1460/1280/0/260410-N-VX022-1777.JPG",
+        "publishedAt": "2026-04-17T00:20:43Z",
+        "source": "pacom.mil"
+      },
+      {
+        "title": "Elemental patterns in antarctic limpet shells indicate size and geographic differences based on gull pellet assemblages",
+        "description": "Seabirds play a key role in connecting different parts of Antarctic ecosystems, yet the biogeochemical consequences of their interactions with marine invertebrates are not well understood. This study examines Nacella concinna shells recovered from kelp gull (Larus dominicanus) pellets across ten Antarctic islands, investigating how interactions between seabirds and limpets record elemental signatures shaped by organismal traits and environmental conditions. By analysing the levels of various elements (calcium, magnesium, sodium, phosphorus, manganese, iron, zinc, copper, cobalt, aluminium, nickel, tin and beryllium), we demonstrate that gull pellets provide a unique and underutilised record of marine-terrestrial nutrient transfer. This approach reveals how seabirds redistribute elements from coastal benthic habitats to terrestrial deposition sites, offering new insights into nutrient cycling and ecological connectivity in extreme polar environments. The elemental patterns in the shells reflect a combination of intrinsic and extrinsic factors. Shell size, used as a proxy for age, strongly influenced the concentrations of Mg, P, Mn, Be and Zn, indicating that there are age-related physiological controls on biomineralisation. Geographic location also modulated elemental composition, with elements such as copper and tin (Sn) showing pronounced spatial variability. This suggests that local environmental conditions shape elemental uptake prior to ingestion by gulls. The combined sensitivity of Mg, P, Sn and Ni to both size and geography highlights their potential as reliable indicators of ecological variability and environmental change across Antarctic islands. This study provides a novel framework for understanding how biological processes mediate nutrient redistribution in polar ecosystems by capturing the biogeochemical imprint of seabird–limpet interactions. Gull pellets are revealed to be not only biological remnants, but also focal points of elemental deposition and integrative records of marine-terrestrial linkages. These findings enhance our comprehension of ecosystem resilience in the swiftly evolving Antarctic region, emphasising the significance of seabird-mediated pathways in shaping nutrient dynamics and habitat functionality.",
+        "url": "https://www.nature.com/articles/s41598-026-42536-6?error=cookies_not_supported&code=7188fa00-eb3f-4688-ae84-be76b4b298e7",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-16T23:56:20Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Nature is still molding human genes, study finds",
+        "description": "Many scientists have contended that humans have evolved very little over the past 10,000 years.",
+        "url": "https://www.ekathimerini.com/nytimes/1301045/nature-is-still-molding-human-genes-study-finds/",
+        "image": "https://www.ekathimerini.com/wp-content/uploads/2026/04/SCI_HUMAN_EVOLUTION_1-960x600.jpg",
+        "publishedAt": "2026-04-16T23:45:58Z",
+        "source": "eKathimerini.com"
+      },
+      {
+        "title": "Astronaut Jeremy Hansen says Artemis II proves Canada can ‘do big things’",
+        "description": "In an interview with Global News, the Canadian astronaut reflected on his historic lunar journey and shared how it reinforced his perspective on humanity.",
+        "url": "https://globalnews.ca/news/11804946/artemis-ii-jeremy-hansen-canada-interview/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/04/Jeremy-hansen-april-16-e1776380222362.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-04-16T23:39:41Z",
+        "source": "Global News"
+      },
+      {
+        "title": "Weather satellites now track ocean currents in real time",
+        "description": "Scientists have succeeded in using weather satellites to track ocean currents in real time with an unprecedented level of detail.",
+        "url": "https://www.earth.com/news/weather-satellites-now-track-ocean-currents-in-real-time/",
+        "image": "https://cff2.earth.com/uploads/2026/04/16060712/real-time-ocean-currents-weather-satellites.jpg",
+        "publishedAt": "2026-04-16T23:37:30Z",
+        "source": "Earth.com"
+      },
       {
         "title": "Artemis astronaut describes charring on heat shield during crew's fiery return to Earth",
         "description": "The mission's commander said there was charring on the Orion capsule's critical heat shield.",
@@ -150,120 +198,72 @@
         "image": "https://i.abcnewsfe.com/a/8c61e6ee-cd30-480c-959b-ad337d314b6b/artemis-crew-01-abc-jt-260416_1776371414563_hpMain_16x9.jpg?w=1600",
         "publishedAt": "2026-04-16T23:29:59Z",
         "source": "abcnews.com"
-      },
-      {
-        "title": "Artemis II astronauts praise their moonship's performance, especially the heat shield",
-        "description": "The astronauts say their lunar flyby puts NASA in a much better position for a crewed Moon landing in two years and an eventual Moon base.",
-        "url": "https://www.abc.net.au/news/2026-04-17/artemis-astronauts-praise-moonship-performance-heat-shield/106574892",
-        "image": "https://live-production.wcms.abc-cdn.net.au/85073c20ba0f36c6b0c5d51775a43b62?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-16T23:29:28Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Forgotten Fossil in Museum Drawer Reveals 200-Million-Year-Old Croc Ancestor with Unbelievable Bite",
-        "description": "A rediscovered fossil reveals Eosphorosuchus lacrimosa, an ancient relative of crocodiles, with a powerful bite and unique traits, reshaping our understanding of early crocodylomorphs.",
-        "url": "https://indiandefencereview.com/fossil-200-million-year-old-croc-ancestor/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/forgotten-fossil-in-museum-drawer-reveals-200-million-year-old-croc-ancestor-with-unbelievable-bite-scaled.png",
-        "publishedAt": "2026-04-16T23:05:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "Huge 'bathtub ring' may show contours of ancient ocean on Mars",
-        "description": "Ancient ocean may have existed on Martian northern plainsResearch uses data from Nasa probe that orbited MarsScientists see a “coastal shelf” where land met waterWASHINGTON,...",
-        "url": "https://www.malaymail.com/news/life/2026/04/17/huge-bathtub-ring-may-show-contours-of-ancient-ocean-on-mars/216494",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/16/335961.JPG",
-        "publishedAt": "2026-04-16T23:04:12Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "Early Galaxies Were Surrounded by Huge Clouds of Hydrogen, and Astronomers Found a Whole Bunch!",
-        "description": "Astronomers using data from the Hobby–Eberly Telescope Dark Energy Experiment (HETDEX) have discovered tens of thousands of gigantic hydrogen gas halos, called “Lyman-alpha nebulae,” surrounding galaxies 10 billion to 12 billion years ago.",
-        "url": "https://www.universetoday.com/articles/early-galaxies-were-surrounded-by-huge-clouds-of-hydrogen-and-astronomers-found-a-whole-bunch",
-        "image": "https://www.universetoday.com/article_images/image_7935_1e-Quasar-Halo_20260416_224446.jpg",
-        "publishedAt": "2026-04-16T23:02:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "NASA’s Orion Spacecraft Nails Crewed Flight Debut",
-        "description": "Astronauts venture into deep space for the first time in 53 years.",
-        "url": "https://aviationweek.com/space/space-exploration/nasas-orion-spacecraft-nails-crewed-flight-debut-0",
-        "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
-        "publishedAt": "2026-04-16T22:49:30Z",
-        "source": "Aviation Week"
-      },
-      {
-        "title": "MIT Study Reveals Lipid Composition in Cell Membranes Influences Cellular Behavior",
-        "description": "A recent study conducted by researchers at the Massachu […]",
-        "url": "https://www.geneonline.com/mit-study-reveals-lipid-composition-in-cell-membranes-influences-cellular-behavior/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-04-16T22:34:23Z",
-        "source": "geneonline.com"
       }
     ],
     "ai": [
       {
-        "title": "'Slow your horses' on AI in the classroom",
-        "description": "The protesters delivered a petition with more than 2,200 signatures to the Mamdani administration, citing the risks of generative AI to children.",
-        "url": "https://www.nydailynews.com/2026/04/16/nyc-parents-mayor-mamdani-ai-classroom/",
-        "image": "https://www.nydailynews.com/wp-content/uploads/2026/04/IMG_4753.jpg?w=1024&h=768",
-        "publishedAt": "2026-04-16T23:34:13Z",
-        "source": "New York Daily News"
+        "title": "Early warning signal: Anthropic's Mythos puts Indian fintechs on guard",
+        "description": "Fintech body FACE urges stronger cyber defences as Anthropic's Claude Mythos raises concerns over AI-driven software vulnerabilities",
+        "url": "https://www.business-standard.com/companies/news/early-warning-signal-anthropic-s-mythos-puts-indian-fintechs-on-guard-126041601120_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/17/full/1776364492-4035.jpg",
+        "publishedAt": "2026-04-17T00:36:40Z",
+        "source": "Business Standard"
       },
       {
-        "title": "Angie Mentink explains why she used AI for formulating question",
-        "description": "Baseball reporter Angie Mentink is handling her viral 15 seconds with grace, poking fun at herself after a video was posted on social media showing her using Google Gemini to formulate postgame questions.",
-        "url": "https://nypost.com/2026/04/16/sports/angie-mentink-explains-why-she-used-ai-for-formulating-question/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-020bjb7ls-1776381427433.jpg?quality=75&strip=all&1776367064&w=1200",
-        "publishedAt": "2026-04-16T23:32:54Z",
-        "source": "New York Post"
+        "title": "DeepL unveils real-time spoken translation, breaking the next language barrier with Voice-to-Voice",
+        "description": "**media[1017183]**DeepL is also launching the next generation of its DeepL Translator platform beyond simple translation to offer an AI platform that is fully integrated into enterprise tech stacks",
+        "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/deepl-unveils-real-time-spoken-translation-breaking-the-next-language-barrier-with-voice-to-voice/2322475",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/17/1017182.jpg",
+        "publishedAt": "2026-04-17T00:35:21Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "As Amazon Pours Another $25B into Data Centers, Buy This 1 High-Yield Data Center Dividend Stock",
-        "description": "Amazon’s new 25 billion dollar data‑center push underscores why American Tower’s tower network and CoreSite data‑center arm are valuable, giving investors a nearly 4% yield, discounted valuation, and direct exposure to growing cloud and AI traffic wi...",
-        "url": "https://www.barchart.com/story/news/1357147/as-amazon-pours-another-25b-into-data-centers-buy-this-1-high-yield-data-center-dividend-stock",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dividends/Dividend%20Yield%20by%20Drozd%20Irina%20via%20Shutterstock.jpg",
-        "publishedAt": "2026-04-16T23:30:02Z",
-        "source": "Barchart"
+        "title": "GitLab Extends Agentic AI with New Automated Security Remediation, Pipeline Setup, and Delivery Analytics",
+        "description": "COMPANY NEWS: Agentic SAST Vulnerability Resolution is now generally available, automatically generating ready-to-merge code fixes and helping r...",
+        "url": "https://itwire.com/business-it-news/data/gitlab-extends-agentic-ai-with-new-automated-security-remediation,-pipeline-setup,-and-delivery-analytics.html",
+        "image": "https://itwire.com/media/k2/items/cache/125f64480b3ec7144463bead34df208b_XS.jpg",
+        "publishedAt": "2026-04-17T00:32:58Z",
+        "source": "iTWire"
       },
       {
-        "title": "AI is changing careers: What SPM graduates must do next",
-        "description": "ARTIFICIAL INTELLIGENCE (AI) is transforming the way ideas are developed, decisions are made and work is carried out across industries.",
-        "url": "https://www.thestar.com.my/starpicks/2026/04/17/ai-is-changing-careers-what-spm-graduates-must-do-next",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/16/3862658.jpg",
-        "publishedAt": "2026-04-16T23:30:00Z",
-        "source": "The Star"
+        "title": "Study finds popular AI chatbots often give problematic health advice",
+        "description": "Researchers audited five popular public-facing AI chatbots across 250 health prompts and found that 49.6% of responses were problematic, with especially weak performance on open-ended questions and in nutrition and athletic performance. The study also found poor citation quality, difficult readability, and very few refusals to answer, raising concerns about the reliability of chatbots for everyday health information.",
+        "url": "https://www.news-medical.net/news/20260416/Study-finds-popular-AI-chatbots-often-give-problematic-health-advice.aspx",
+        "image": "https://www.news-medical.net/images/news/ImageForNews_835445_17763871534648351.jpg",
+        "publishedAt": "2026-04-17T00:32:00Z",
+        "source": "News-Medical.net"
       },
       {
-        "title": "Anthropic taking responsible approach with Claude Mythos software rollout, TD CEO says",
-        "description": "Raymond Chun says the lender is working closely with the AI company and government to address cybersecurity concerns",
-        "url": "https://www.theglobeandmail.com/business/article-anthropic-claude-mythos-software-rollout-td-ceo/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/JPEGCVPQXVDV7L4VKBZZ4BYNLQ.JPG?auth=b2ea6f3e879d865bb237a87b1d678d55dda337c98c8b8201c702cbc49adce6a3&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-16T23:29:12Z",
-        "source": "The Globe and Mail"
+        "title": "Legal checkpoints for AI agents now mission critical, say experts",
+        "description": "Legal and policy experts are urging Indian regulators to move beyond broad AI principles and begin addressing the unique risks posed by autonomous AI agents. India currently has no dedicated law to govern AI agents that can act on their own and interact with other systems, leading to a yawning gap as companies rapidly deploy such tools across payments, banking and supply chains, they said.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts/articleshow/130315620.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1196162,resizemode-75,msid-130315620/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts.jpg",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "OpenAI launches AI model GPT-Rosalind for life sciences research",
-        "description": "April 16 - ⁠OpenAI on Thursday introduced an artificial intelligence model touting ⁠increased biology knowledge and scientific research capabilities, as the ‌startup deepens its push into the life sciences field.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/17/openai-launches-ai-model-gpt-rosalind-for-life-sciences-research",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/17/3863862.jpg",
-        "publishedAt": "2026-04-16T23:28:00Z",
-        "source": "The Star"
+        "title": "Singapore key exports surge 15.3% in March on AI-driven electronics demand",
+        "description": "For electronics, semiconductors was the star performer with shipments soaring 113.8 per cent. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/economy/singapore-key-exports-surge-15-3-in-march-on-ai-driven-electronics-demand",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/100884f5899f6f7ff4cbbcf526a788e1f18c4cb99981333720c14d74aba860e5",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "AI Resurrection: Val Kilmer's Posthumous Role Raises Ethical Debate",
-        "description": "Using AI-generated technology, directors Coerte and John Voorhees recreated late actor Val Kilmer's performance in 'As Deep as the Grave.' With consent from Kilmer's family and SAG-AFTRA guidelines, the filmmakers defend their approach as an ethical model. The trailer stirred controversy on social media.",
-        "url": "https://www.devdiscourse.com/article/entertainment/3876978-ai-resurrection-val-kilmers-posthumous-role-raises-ethical-debate",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_04_2025_11_48_13_4735218.jpg?width=920&format=jpeg",
-        "publishedAt": "2026-04-16T23:18:54Z",
-        "source": "Devdiscourse"
+        "title": "Wipro Q4 net profit dips 1.9% to Rs 3,502 crore, revenue rises 8%",
+        "description": "Wipro reported a 1.6% decline in annual revenue in fiscal year 2026 in constant currency terms, in line with its larger rival, Tata Consultancy Services, as geopolitical uncertainties, AI-led disruptions and slow deal ramp-ups weigh on its performance",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8/articleshow/130316743.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34910,resizemode-75,msid-130316743/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8.jpg",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "71 students part of first BPGP-BA&AI batch at IIM Ah",
-        "description": "Ahmedabad: A total of 71 students joined the blended PGP course in business analytics and AI (BPGP-BA&AI) at IIM Ahmedabad (IIM-A) as the course c.",
-        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/71-students-part-of-first-bpgp-baai-batch-at-iim-ah/articleshow/130316886.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117516813,width-1280,height-720,imgsize-240821,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T23:18:00Z",
-        "source": "Times of India"
+        "title": "led Pax Silica seed fund",
+        "description": "India is keen on getting access to the US State Department's new $250 million Pax Silica seed fund designed to secure global supply chains for artificial intelligence, semiconductors and critical minerals, people in the know said. This was discussed among steps to operationalise the multilateral initiative during foreign secretary Vikram Misri's three-day visit to Washington DC last week, they said.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/india-eyes-us-led-pax-silica-seed-fund/articleshow/130316363.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70650,resizemode-75,msid-130316363/tech/technology/india-eyes-us-led-pax-silica-seed-fund.jpg",
+        "publishedAt": "2026-04-17T00:30:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
