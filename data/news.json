@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-17T12:40:13.866Z",
+  "fetchedAt": "2026-04-17T13:55:23.047Z",
   "sections": {
     "world": [
       {
-        "title": "Acting ICE director Todd Lyons to leave agency",
-        "description": "Lyons, who oversaw hundreds of thousands of deportations, will step away from the role after 31 May.",
-        "url": "https://www.bbc.co.uk/news/articles/cd9vpv35jk3o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d90/live/1dc5d070-39f5-11f1-b36c-918395f808bb.jpg",
-        "publishedAt": "2026-04-17T00:36:03Z",
+        "title": "Eight people killed in helicopter crash in Indonesia’s West Kalimantan, authorities say",
+        "description": "The location of the crash or loss of contact is in a densely forested area; the cause of the crash remains unclear. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/eight-people-killed-in-helicopter-crash-in-indonesias-west-kalimantan-authorities-say",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/143603f2e7371e06ff8fc934a91813bec99acea10a63f6ae077847b62a80b71b",
+        "publishedAt": "2026-04-17T01:53:44Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Kenya eagerly awaits zero-tariff export boom to China",
+        "description": "Anticipation is building across Kenya's agricultural export sector as China prepares to implement a zero-tariff policy on a wide range of African products from May 1.",
+        "url": "https://www.chinadaily.com.cn/a/202604/17/WS69e191f9a310d6866eb43f99.html",
+        "image": "http://img2.chinadaily.com.cn/images/202604/17/69e191f8a310d68600fbd25e.jpeg",
+        "publishedAt": "2026-04-17T01:50:00Z",
+        "source": "China Daily"
+      },
+      {
+        "title": "Mozambique relies on Rwanda’s troops to fight terrorism: what happens if they leave?",
+        "description": "Rwanda’s military intervention in northern Mozambique began in July 2021, when Kigali deployed about 1,000 troops and police at the request of the Mozambican go...",
+        "url": "https://eastleighvoice.co.ke/africa/333346/mozambique-relies-on-rwanda%E2%80%99s-troops-to-fight-terrorism:-what-happens-if-they-leave",
+        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/04/Screenshot-2026-04-16-182055.png",
+        "publishedAt": "2026-04-17T01:48:03Z",
+        "source": "The Eastleigh Voice"
+      },
+      {
+        "title": "Geelong fuel refinery fire won't lead to rationing, Australian PM says",
+        "description": "A 13-hour blaze at one of Australia's two oil refineries could impact petrol prices and supply.",
+        "url": "https://www.bbc.co.uk/news/articles/cx24118yrpwo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4ad/live/ba7aea50-39fe-11f1-b676-51331d55276d.jpg",
+        "publishedAt": "2026-04-17T01:43:02Z",
         "source": "BBC"
       },
       {
-        "title": "Israel, Lebanon begin ceasefire as Iran deal 'very close'",
-        "description": "A ten-day ceasefire between Lebanon and Israel has come into effect and President Donald Trump said the next meeting between the US and Iran may take place over the weekend, adding to optimism that the Iran war could be nearing an end.",
-        "url": "https://www.rte.ie/news/middle-east/2026/0417/1568689-lebanon-ceasefire/",
-        "image": "https://www.rte.ie/images/00243c35-1600.jpg",
-        "publishedAt": "2026-04-17T00:35:01Z",
-        "source": "RTE.ie"
+        "title": "Druglord dies in military custody",
+        "description": "Druglord dies in military custody",
+        "url": "https://www.fijivillage.com/feature/druglord-dies-in-military-custody-a1cafe/",
+        "image": "https://www.fijivillage.com/news_images/20260417152058_media_69e18ef5b02a83_67411705.jpg",
+        "publishedAt": "2026-04-17T01:40:21Z",
+        "source": "Fijivillage"
       },
       {
-        "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-        "description": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513",
-        "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-        "image": "https://i.guim.co.uk/img/media/142f78c921a46c09daa5e077bf76e675f6fdd70e/690_0_6872_5501/master/6872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf252fae9e0f51691b4230cb441ee07c",
-        "publishedAt": "2026-04-17T00:21:00Z",
-        "source": "The Guardian"
+        "title": "Druglord dies in military custody",
+        "description": "Druglord dies in military custody",
+        "url": "https://www.fijivillage.com/news/druglord-dies-in-military-custody-a1cafe/",
+        "image": "https://www.fijivillage.com/news_images/20260417133857_media_69e18ef5b02a83_67411705.jpg",
+        "publishedAt": "2026-04-17T01:38:53Z",
+        "source": "Fijivillage"
       },
       {
-        "title": "Iran war 'should be ending pretty soon'",
-        "description": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
-        "url": "https://www.cnbc.com/2026/04/16/trump-iran-war-predicts-end-soon.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108292836-1776372592073-gettyimages-2271072024-TRUMP_DEPART_WH.jpeg?v=1776372673&w=1920&h=1080",
-        "publishedAt": "2026-04-17T00:20:00Z",
-        "source": "CNBC"
+        "title": "Afghan Special Forces veteran hospitalised after Weymouth assault",
+        "description": "Aziz Ahmadzai had been working as security guard at Weymouth Railway Station when he collapsed.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7jp2wjdnvo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c94/live/690e7be0-39a5-11f1-990c-ebf66a8167aa.jpg",
+        "publishedAt": "2026-04-17T01:38:27Z",
+        "source": "BBC"
       },
       {
-        "title": "What lagging jet fuel supplies could mean for airlines and travelers",
-        "description": "A looming jet fuel shortage in Europe and Asia sparked by the Iran war and the effective closure of the Strait of Hormuz could further upend world travel within weeks if oil doesn't start flowing again soon — meaning higher airfares and flight cancellations as the summer travel season approaches.",
-        "url": "https://www.pbs.org/newshour/economy/what-lagging-jet-fuel-supplies-could-mean-for-airlines-and-travelers",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-16T154953Z_1537290625_RC2DQKASYTAA_RTRMADP_3_IRAN-CRISIS-SPAIN-JET-FUEL-e1776383966902-1024x636.jpg",
-        "publishedAt": "2026-04-17T00:01:24Z",
-        "source": "PBS"
-      },
-      {
-        "title": "Golden Handcuffs: The Political Economy of Pliable Democracy in Africa",
-        "description": "Western democracy-promotion programs in Africa are failing, but not for the reasons most analysts claim. The problem is not naivety or poor implementation.",
-        "url": "https://moderndiplomacy.eu/2026/04/17/golden-handcuffs-the-political-economy-of-pliable-democracy-in-africa/",
-        "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/04/Thomas-Sankara.jpg",
-        "publishedAt": "2026-04-17T00:00:40Z",
-        "source": "Modern Diplomacy"
-      },
-      {
-        "title": "Marshall Islands government shuts down at 3pm amid fuel crisis",
-        "description": "Most government offices in the Marshall Islands began enforcing a new policy this week of closing by 3pm daily as a way to conserve fuel given uncertainties of fuel supply globally.",
-        "url": "https://www.rnz.co.nz/news/pacific_marshall-islands/592663/marshall-islands-government-shuts-down-at-3pm-amid-fuel-crisis",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--Ff2n7VkS--/t_tohu-badge-facebook/v1776383423/4NO1VW7_MEC_Majuro_Delap_drone_MEC_power_plant_9_25_18_Tyler_MilneDJI_0174_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-16T23:57:47Z",
-        "source": "RNZ"
-      },
-      {
-        "title": "Armed robbers hold 25 people hostage in bank heist in Naples, Italy before escaping into the 'sewers'",
-        "description": "The group took customers and employees hostage before fleeing with \"the contents of dozens of safe deposit boxes\", according to police.",
-        "url": "https://www.abc.net.au/news/2026-04-17/armed-robbery-bank-naples-italy-hostages/106575028",
-        "image": "https://live-production.wcms.abc-cdn.net.au/dde260dc129f65661a6a922fa2b2c37c?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-16T23:55:20Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "India, Pakistan held Track 1.5, 2 meetings after Op Sindoor",
+        "description": "The most recent engagement was a Track 2 meeting held in the Qatari capital of Doha in February and was facilitated by a UK-based think tank| India News",
+        "url": "https://www.hindustantimes.com/india-news/india-pakistan-held-track-1-5-2-meetings-after-op-sindoor-101776388987071.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/17/550x309/India_Pakistan_news_live_updates_operation_sindoor_1747008519099_1776390626398.jpg",
+        "publishedAt": "2026-04-17T01:35:39Z",
+        "source": "Hindustan Times"
       }
     ],
     "business": [
       {
-        "title": "Israel-Lebanon truce fuels optimism for Middle East peace",
-        "description": "Oil prices fell after Donald Trump said Israel and Lebanon had agreed to a 10-day ceasefire following talks in Washington.",
-        "url": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg?v=1776346758&w=1920&h=1080",
-        "publishedAt": "2026-04-17T00:40:00Z",
-        "source": "CNBC"
+        "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 April",
+        "description": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a tepid start for the Indian benchmark index. The Gift Nifty was trading around 24,170 level, a discount of nearly 25 points from the Nifty futures’ previous close.",
+        "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-17-april-11776390303690.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/17/1600x900/logo/2-0-1471349099-RTX6I2CD-0_1679922711446_1776390634962.jpg",
+        "publishedAt": "2026-04-17T01:53:19Z",
+        "source": "Mint"
       },
       {
-        "title": "Alert Microfinance Bank secures national MFI licence",
-        "description": "Alert Microfinance Bank has acquired a national licence from the CBN, unveiling plans for nationwide expansion to deepen financial inclusion in Nigeria.",
-        "url": "https://punchng.com/alert-group-secures-mfi-licence-eyes-n250bn-assets/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2025/01/24041316/Alert-Group.jpeg",
-        "publishedAt": "2026-04-17T00:39:04Z",
-        "source": "Punch Newspapers"
+        "title": "AI-enabled pharmaceutical R&D market growing quickly",
+        "description": "Artificial intelligence has drawn billions of dollars in global investment as pharmaceutical giants race to accelerate new drug development, yet the AI drug discovery sector is still defining its viable commercial models. In China's vibrant biotech ecosystem, two industry heavyweights with deep roots in the country are now offering different answers.",
+        "url": "https://www.chinadaily.com.cn/a/202604/17/WS69e19236a310d6866eb43f9f.html",
+        "image": "http://img2.chinadaily.com.cn/images/202604/17/69e19236a310d68600fbd279.png",
+        "publishedAt": "2026-04-17T01:51:00Z",
+        "source": "China Daily"
       },
       {
-        "title": "Vietnam requires pre-arrival declarations for foreigners at Tan Son Nhat airport",
-        "description": "Vietnam’s Immigration Department has introduced a mandatory pre-arrival information declaration for certain travelers entering via Tan Son Nhat International Airport in Ho Chi Minh City, effective Wednesday.",
-        "url": "https://news.tuoitre.vn/vietnam-requires-pre-arrival-declarations-for-foreigners-at-tan-son-nhat-airport-103260416162153398.htm",
-        "image": "https://cdn2.tuoitre.vn/zoom/600_315/471584752817336320/2026/4/16/nhap-canh-1710758753274516806489-1776331028718650597868-175-0-693-989-crop-17763311200542001362875.png",
-        "publishedAt": "2026-04-17T00:38:00Z",
-        "source": "Tuoi Tre News | The News Gateway to Vietnam"
+        "title": "Is now the time to gamble on a new car brand?",
+        "description": "Have customers of new car brands jumped on the bandwagon too soon? We asked maintenance and servicing experts.",
+        "url": "https://www.drive.com.au/caradvice/the-servicing-struggles-facing-new-car-brands-and-owners/",
+        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/e17ded15-f349-544e-9013-06a6d9c50000",
+        "publishedAt": "2026-04-17T01:49:34Z",
+        "source": "drive.com.au"
       },
       {
-        "title": "Quick commerce turning to reset lane as profit push tempers growth metrics",
-        "description": "After several quarters of breakneck expansion, quick commerce majors Blinkit and Instamart are expected to report moderation in growth in the January-March quarter, as they sharpen focus on margin improvement and profitability, analysts and industry executives said.",
-        "url": "https://economictimes.indiatimes.com/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics/articleshow/130315966.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2358699,resizemode-75,msid-130315966/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
+        "title": "Iran war pushes Asia to think twice before doubling down on LNG",
+        "description": "A Middle East conflict has disrupted global liquefied natural gas supply. This has caused prices to surge, impacting Asian nations heavily reliant on the fuel. Plans for widespread adoption of gas are now uncertain. Countries are seeking alternatives, potentially leading to long-term shifts in energy strategies and reduced demand for LNG.",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-war-pushes-asia-to-think-twice-before-doubling-down-on-lng/articleshow/130320705.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130320714,width-1200,height-630,imgsize-134646,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-17T01:48:03Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Singapore exports surge on AI electronics demand",
-        "description": "Singapore's key exports rose 15.3% in March, driven by a significant surge in AI-related electronics and semiconductor demand. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/economy/singapore-key-exports-surge-15-3-in-march-on-ai-driven-electronics-demand",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/100884f5899f6f7ff4cbbcf526a788e1f18c4cb99981333720c14d74aba860e5",
-        "publishedAt": "2026-04-17T00:30:00Z",
-        "source": "The Straits Times"
+        "title": "Empire Sushi owner opens with 57% premium on Main Market debut",
+        "description": "KUALA LUMPUR (April 17): Empire Premium Food Bhd (KL:EMPIRE) was up 57% on the opening bell in its Friday trading debut on the Main Market of Bursa Malaysia.",
+        "url": "https://theedgemalaysia.com/node/800220",
+        "image": "https://assets.theedgemarkets.com/empire-sushi_20260330161004_www.empirepremiumfood.com-APP.png",
+        "publishedAt": "2026-04-17T01:36:25Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "QVC Group files for bankruptcy",
-        "description": "The West Chester-based company plans to continue operating and intends to emerge from bankruptcy within 90 days.",
-        "url": "https://whyy.org/articles/qvc-bankruptcy-chester-county/",
-        "image": "https://whyy.org/wp-content/uploads/2026/04/qvc-west-chester-ap-scaled.jpg",
-        "publishedAt": "2026-04-17T00:28:17Z",
-        "source": "WHYY"
+        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+        "url": "https://www.bbc.co.uk/news/articles/c2ev24yx4rmo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
+        "publishedAt": "2026-04-17T01:34:22Z",
+        "source": "BBC"
       },
       {
-        "title": "Norwegian Jewel cruise ship sets sail from Philadelphia port, the first in 15 years",
-        "description": "The Norwegian Jewel is now the first cruise ship to set sail from the Port of Philadelphia after 15 years.",
-        "url": "https://www.cbsnews.com/philadelphia/news/norwegian-jewel-cruise-ship-philadelphia-port/",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/16/6dc9545b-a50f-4438-a5bd-a5891d7d81ef/thumbnail/1200x630/85755fdfbfc746a2363afb09a7aa97e4/cruise-ship-chopper.jpg",
-        "publishedAt": "2026-04-17T00:27:28Z",
-        "source": "CBS News"
+        "title": "Manycore, one of Hangzhou’s ‘Six Little Dragons’, surges on Hong Kong IPO debut",
+        "description": "The company’s listing highlights its pivot from design tools to advanced AI-driven spatial platforms as it eyes overseas growth.",
+        "url": "https://www.scmp.com/business/banking-finance/article/3350387/manycore-one-hangzhous-six-little-dragons-surges-hong-kong-ipo-debut",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/17/1f205ee1-eb52-4476-9715-9ffbfc70ea06_7e8d5624.jpg?itok=cqdX9Ms5&v=1776389564",
+        "publishedAt": "2026-04-17T01:32:52Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Netflix Investors Just Got Fantastic News From Co-CEOs Greg Peters and Ted Sarandos",
-        "description": "This is a classic disconnect between the results and investor reaction -- but Reed Hastings will be missed.",
-        "url": "https://www.fool.com/investing/2026/04/16/netflix-investors-just-got-fantastic-news-from-co/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866115%2Fthe-netflix-logo-superimposed-over-a-person-walking-through-the-companys-lobby.png&w=1200&op=resize",
-        "publishedAt": "2026-04-17T00:20:00Z",
-        "source": "The Motley Fool"
+        "title": "The Insolvency and Bankruptcy Code 2.0 explained",
+        "description": "A story that dives into The Insolvency and Bankruptcy Code (Amendment) Act, 2026.",
+        "url": "https://finshots.in/archive/the-insolvency-and-bankruptcy-code-2-0-explained/",
+        "image": "https://cdn.finshots.app/images/2026/04/solvency-ratio.jpg",
+        "publishedAt": "2026-04-17T01:32:25Z",
+        "source": "Finshots"
       }
     ],
     "science": [
+      {
+        "title": "How to see the Lyrid meteor shower",
+        "description": "The Lyrid meteor shower is here, and this is everything you need to know about when to watch, where to look and what to expect.",
+        "url": "https://www.womensweekly.com.au/lifestyle/lyrid-meteor-shower-australia/",
+        "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/3/2026/04/meteor-shower-69e19094eebec.jpg?resize=1200%2C630",
+        "publishedAt": "2026-04-17T01:53:54Z",
+        "source": "The Australian Women's Weekly"
+      },
+      {
+        "title": "Artemis astronaut describes charring on heat shield during crew’s fiery return to Earth",
+        "description": "The heat shield is a critical barrier that protects the crew from temperatures of up to 2,760 deg C. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/artemis-astronaut-describes-charring-on-heat-shield-during-crews-fiery-return-to-earth",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/48a92e296569da5022606deb379ebd4bd84128ac41fbc8f00a7ba7ce9f14087b",
+        "publishedAt": "2026-04-17T01:41:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "‘We came back as best friends’: Jeremy Hansen says Artemis II voyage created a special bond between crew members",
+        "description": "Canadian astronaut says he was resigned to the fact that he might not come back from trip around the moon",
+        "url": "https://www.theglobeandmail.com/canada/science/article-jeremy-hansen-recounts-artemis-iis-lunar-voyage-in-post-flight/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/CEX7QB7LY5DCHGPQWDJU6MFLOQ.JPG?auth=ae5e9a40e6fe85b4c717a451f32243400ab108e4bc002ac198d258ec871e376b&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-17T01:40:39Z",
+        "source": "The Globe and Mail"
+      },
+      {
+        "title": "21 astronaut crew to stay in space an extra month",
+        "description": "HONG KONG (April 17):  China's Shenzhou-21 astronaut crew will stay in space for an extra month, after careful consideration from China's ​Manned Space Engineering Office, the country's state broadcaster reported ‌on Friday.\nThe Shenzhou-21 space rocket and its crew blasted of...",
+        "url": "https://theedgemalaysia.com/node/800221",
+        "image": "https://assets.theedgemarkets.com/china_rocket_03032026_reuters (1).png",
+        "publishedAt": "2026-04-17T01:37:30Z",
+        "source": "The Edge Malaysia"
+      },
+      {
+        "title": "Cosmic fury: Scientists measure staggering power, speed of black hole jets",
+        "description": "Located 7,200 light-years away, Cygnus X-1 features not only a black hole — the first one ever identified more than a half-century ago — but a blue supergiant star, its constant companion. A light-year is nearly 6 trillion miles (9.7 trillion kilometres)",
+        "url": "https://www.dtnext.in/edit/cosmic-fury-scientists-measure-staggering-power-speed-of-black-hole-jets",
+        "image": "https://media.assettype.com/dt-next%2F2026-04-16%2F6qnre935%2F1-20.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-17T01:00:00Z",
+        "source": "DT Next"
+      },
+      {
+        "title": "Record-Breaking Map Charts Universe in 3D Like Never Before",
+        "description": "Astronomers using the Dark Energy Spectroscopic Instrument (DESI) on NSF’s Nicholas U. Mayall 4-m telescope have produced the largest high-resolution 3D map of the Universe, tracing the positions of more than 47 million galaxies and quasars.",
+        "url": "https://www.sci.news/astronomy/desi-universe-3d-map-14702.html",
+        "image": "https://cdn.sci.news/images/2026/04/image_14702-DESI-Map.jpg",
+        "publishedAt": "2026-04-17T00:49:59Z",
+        "source": "Sci.News"
+      },
       {
         "title": "Shenzhou-21 Crew's Extra Space Month: A New Milestone in China's Astronautics Journey",
         "description": "China's Shenzhou-21 astronaut crew will extend their mission by an extra month as approved by China's Manned Space Engineering Office. The crew includes Wu Fei, the youngest Chinese astronaut. Previously scheduled to return in April, the extension aims to verify long-term orbital stay technologies.",
@@ -150,120 +198,72 @@
         "image": "https://media.defense.gov/2026/Apr/16/2003914156/1460/1280/0/260410-N-VX022-1777.JPG",
         "publishedAt": "2026-04-17T00:20:43Z",
         "source": "pacom.mil"
-      },
-      {
-        "title": "Elemental patterns in antarctic limpet shells indicate size and geographic differences based on gull pellet assemblages",
-        "description": "Seabirds play a key role in connecting different parts of Antarctic ecosystems, yet the biogeochemical consequences of their interactions with marine invertebrates are not well understood. This study examines Nacella concinna shells recovered from kelp gull (Larus dominicanus) pellets across ten Antarctic islands, investigating how interactions between seabirds and limpets record elemental signatures shaped by organismal traits and environmental conditions. By analysing the levels of various elements (calcium, magnesium, sodium, phosphorus, manganese, iron, zinc, copper, cobalt, aluminium, nickel, tin and beryllium), we demonstrate that gull pellets provide a unique and underutilised record of marine-terrestrial nutrient transfer. This approach reveals how seabirds redistribute elements from coastal benthic habitats to terrestrial deposition sites, offering new insights into nutrient cycling and ecological connectivity in extreme polar environments. The elemental patterns in the shells reflect a combination of intrinsic and extrinsic factors. Shell size, used as a proxy for age, strongly influenced the concentrations of Mg, P, Mn, Be and Zn, indicating that there are age-related physiological controls on biomineralisation. Geographic location also modulated elemental composition, with elements such as copper and tin (Sn) showing pronounced spatial variability. This suggests that local environmental conditions shape elemental uptake prior to ingestion by gulls. The combined sensitivity of Mg, P, Sn and Ni to both size and geography highlights their potential as reliable indicators of ecological variability and environmental change across Antarctic islands. This study provides a novel framework for understanding how biological processes mediate nutrient redistribution in polar ecosystems by capturing the biogeochemical imprint of seabird–limpet interactions. Gull pellets are revealed to be not only biological remnants, but also focal points of elemental deposition and integrative records of marine-terrestrial linkages. These findings enhance our comprehension of ecosystem resilience in the swiftly evolving Antarctic region, emphasising the significance of seabird-mediated pathways in shaping nutrient dynamics and habitat functionality.",
-        "url": "https://www.nature.com/articles/s41598-026-42536-6?error=cookies_not_supported&code=7188fa00-eb3f-4688-ae84-be76b4b298e7",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-16T23:56:20Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Nature is still molding human genes, study finds",
-        "description": "Many scientists have contended that humans have evolved very little over the past 10,000 years.",
-        "url": "https://www.ekathimerini.com/nytimes/1301045/nature-is-still-molding-human-genes-study-finds/",
-        "image": "https://www.ekathimerini.com/wp-content/uploads/2026/04/SCI_HUMAN_EVOLUTION_1-960x600.jpg",
-        "publishedAt": "2026-04-16T23:45:58Z",
-        "source": "eKathimerini.com"
-      },
-      {
-        "title": "Astronaut Jeremy Hansen says Artemis II proves Canada can ‘do big things’",
-        "description": "In an interview with Global News, the Canadian astronaut reflected on his historic lunar journey and shared how it reinforced his perspective on humanity.",
-        "url": "https://globalnews.ca/news/11804946/artemis-ii-jeremy-hansen-canada-interview/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/04/Jeremy-hansen-april-16-e1776380222362.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-04-16T23:39:41Z",
-        "source": "Global News"
-      },
-      {
-        "title": "Weather satellites now track ocean currents in real time",
-        "description": "Scientists have succeeded in using weather satellites to track ocean currents in real time with an unprecedented level of detail.",
-        "url": "https://www.earth.com/news/weather-satellites-now-track-ocean-currents-in-real-time/",
-        "image": "https://cff2.earth.com/uploads/2026/04/16060712/real-time-ocean-currents-weather-satellites.jpg",
-        "publishedAt": "2026-04-16T23:37:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Artemis astronaut describes charring on heat shield during crew's fiery return to Earth",
-        "description": "The mission's commander said there was charring on the Orion capsule's critical heat shield.",
-        "url": "https://www.rnz.co.nz/news/world/592661/artemis-astronaut-describes-charring-on-heat-shield-during-crew-s-fiery-return-to-earth",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--2XTqpKvc--/t_tohu-badge-facebook/v1775949999/4JQAHJN_ArtemisII_Wiseman_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-16T23:32:28Z",
-        "source": "RNZ"
-      },
-      {
-        "title": "Artemis II astronauts detail 'intense' reentry in interview with ABC News' David Muir",
-        "description": "The Artemis II crew spoke with ABC's \"World News Tonight\" anchor David Muir, nearly a week after returning home from their historic 10-day journey to the moon and back.",
-        "url": "https://abcnews.com/US/artemis-ii-astronauts-detail-intense-reentry-interview-abc/story?id=132112982",
-        "image": "https://i.abcnewsfe.com/a/8c61e6ee-cd30-480c-959b-ad337d314b6b/artemis-crew-01-abc-jt-260416_1776371414563_hpMain_16x9.jpg?w=1600",
-        "publishedAt": "2026-04-16T23:29:59Z",
-        "source": "abcnews.com"
       }
     ],
     "ai": [
       {
-        "title": "Early warning signal: Anthropic's Mythos puts Indian fintechs on guard",
-        "description": "Fintech body FACE urges stronger cyber defences as Anthropic's Claude Mythos raises concerns over AI-driven software vulnerabilities",
-        "url": "https://www.business-standard.com/companies/news/early-warning-signal-anthropic-s-mythos-puts-indian-fintechs-on-guard-126041601120_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/17/full/1776364492-4035.jpg",
-        "publishedAt": "2026-04-17T00:36:40Z",
-        "source": "Business Standard"
+        "title": "White House to give US agencies Anthropic Mythos access",
+        "description": "White House was working with frontier AI labs to ensure their models help secure critical software vulnerabilities, adding that any new technology requires a technical period of evaluation for fidelity and security, an official told Bloomberg.",
+        "url": "https://www.firstpost.com/tech/white-house-to-give-us-agencies-anthropic-mythos-access-14001343.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/Anthropic-2026-04-e104edeb7e1e5b31b7f94a1178500759-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-17T01:53:35Z",
+        "source": "Firstpost"
       },
       {
-        "title": "DeepL unveils real-time spoken translation, breaking the next language barrier with Voice-to-Voice",
-        "description": "**media[1017183]**DeepL is also launching the next generation of its DeepL Translator platform beyond simple translation to offer an AI platform that is fully integrated into enterprise tech stacks",
-        "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/deepl-unveils-real-time-spoken-translation-breaking-the-next-language-barrier-with-voice-to-voice/2322475",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/17/1017182.jpg",
-        "publishedAt": "2026-04-17T00:35:21Z",
-        "source": "The Manila Times"
+        "title": "White House Works To Give US Agencies Access To Anthropic Mythos AI",
+        "description": "The Pentagon this year declared Anthropic a supply chain threat, under an authority normally reserved for foreign adversaries, over a dispute about over artificial intelligence safeguards.",
+        "url": "https://www.ndtvprofit.com/technology/white-house-works-to-give-us-agencies-access-to-anthropic-mythos-ai-11369300",
+        "image": "https://c.ndtvimg.com/2026-04/8d73avt8_b_625x300_17_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-17T01:52:01Z",
+        "source": "NDTV Profit"
       },
       {
-        "title": "GitLab Extends Agentic AI with New Automated Security Remediation, Pipeline Setup, and Delivery Analytics",
-        "description": "COMPANY NEWS: Agentic SAST Vulnerability Resolution is now generally available, automatically generating ready-to-merge code fixes and helping r...",
-        "url": "https://itwire.com/business-it-news/data/gitlab-extends-agentic-ai-with-new-automated-security-remediation,-pipeline-setup,-and-delivery-analytics.html",
-        "image": "https://itwire.com/media/k2/items/cache/125f64480b3ec7144463bead34df208b_XS.jpg",
-        "publishedAt": "2026-04-17T00:32:58Z",
+        "title": "NiCE Cognigy Named a Leader in Conversational AI by Independent Research Firm",
+        "description": "COMPANY NEWS:  NiCE received the highest possible scores in 10 criteria across current offering and strategy, with a score of4.5 out of...",
+        "url": "https://itwire.com/guest-articles/company-news/nice-cognigy-named-a-leader-in-conversational-ai-by-independent-research-firm.html",
+        "image": "https://itwire.com/media/k2/items/cache/f4015deb08edfcf39cc44d57853c39ba_XS.jpg",
+        "publishedAt": "2026-04-17T01:50:37Z",
         "source": "iTWire"
       },
       {
-        "title": "Study finds popular AI chatbots often give problematic health advice",
-        "description": "Researchers audited five popular public-facing AI chatbots across 250 health prompts and found that 49.6% of responses were problematic, with especially weak performance on open-ended questions and in nutrition and athletic performance. The study also found poor citation quality, difficult readability, and very few refusals to answer, raising concerns about the reliability of chatbots for everyday health information.",
-        "url": "https://www.news-medical.net/news/20260416/Study-finds-popular-AI-chatbots-often-give-problematic-health-advice.aspx",
-        "image": "https://www.news-medical.net/images/news/ImageForNews_835445_17763871534648351.jpg",
-        "publishedAt": "2026-04-17T00:32:00Z",
-        "source": "News-Medical.net"
+        "title": "Escaped wolf in South Korea recaptured, returned to zoo",
+        "description": "SEOUL - A wolf that escaped from a South Korean zoo was recaptured on Friday, authorities said, after he caused a school closure, a huge nine-day search and a government gaffe over an AI-generated image.",
+        "url": "https://www.bangkokpost.com/world/3238568/escaped-wolf-in-south-korea-recaptured-returned-to-zoo",
+        "image": "https://static.bangkokpost.com/media/content/20260417/c1_6053258_700.jpg",
+        "publishedAt": "2026-04-17T01:45:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "Legal checkpoints for AI agents now mission critical, say experts",
-        "description": "Legal and policy experts are urging Indian regulators to move beyond broad AI principles and begin addressing the unique risks posed by autonomous AI agents. India currently has no dedicated law to govern AI agents that can act on their own and interact with other systems, leading to a yawning gap as companies rapidly deploy such tools across payments, banking and supply chains, they said.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts/articleshow/130315620.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1196162,resizemode-75,msid-130315620/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "What AI Doesn't Know - And Why It Matters",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/markets/what-ai-doesnt-know-and-why-it-matters",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-04/Screenshot%202026-04-16%20at%2007-02-02%20What%20AI%20Doesn%E2%80%99t%20Know%20%E2%80%93%20and%20Why%20It%20Matters%20RealClearWire.png?h=2bd521d4&itok=P9GNUc05",
+        "publishedAt": "2026-04-17T01:45:00Z",
+        "source": "ZeroHedge"
       },
       {
-        "title": "Singapore key exports surge 15.3% in March on AI-driven electronics demand",
-        "description": "For electronics, semiconductors was the star performer with shipments soaring 113.8 per cent. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/economy/singapore-key-exports-surge-15-3-in-march-on-ai-driven-electronics-demand",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/100884f5899f6f7ff4cbbcf526a788e1f18c4cb99981333720c14d74aba860e5",
-        "publishedAt": "2026-04-17T00:30:00Z",
-        "source": "The Straits Times"
+        "title": "Reintroducing Figma Weave with 20+ new workflows for AI",
+        "description": "COMPANY NEWS:  Customers like DoorDash, Lyft, and NVIDIA use Figma Weave for creative production on a visual canvas Figma officially reintroduced...",
+        "url": "https://itwire.com/guest-articles/company-news/reintroducing-figma-weave-with-20-new-workflows-for-ai-native-design.html",
+        "image": "https://itwire.com/media/k2/items/cache/2965ddcb22876f6d8d5dd08b32e65aab_XS.jpg",
+        "publishedAt": "2026-04-17T01:42:14Z",
+        "source": "iTWire"
       },
       {
-        "title": "Wipro Q4 net profit dips 1.9% to Rs 3,502 crore, revenue rises 8%",
-        "description": "Wipro reported a 1.6% decline in annual revenue in fiscal year 2026 in constant currency terms, in line with its larger rival, Tata Consultancy Services, as geopolitical uncertainties, AI-led disruptions and slow deal ramp-ups weigh on its performance",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8/articleshow/130316743.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34910,resizemode-75,msid-130316743/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "OpenAI Global Affairs Officer Chris Lehane is very angry with everyone blaming AI for 'doomsday', especially Americans and Europeans; says: They are ...",
+        "description": "Tech News News: ChatGPT-maker OpenAI's Chief Global Affairs Officer Chris Lehane is reportedly very upset with all AI doomers. For those unaware, AI doomers are those.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-global-affairs-officer-chris-lehane-is-very-angry-with-everyone-blaming-ai-for-doomsday-especially-americans-and-europeans-says-they-are-/articleshow/130320708.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130320699,width-1280,height-720,imgsize-95548,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-17T01:42:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "led Pax Silica seed fund",
-        "description": "India is keen on getting access to the US State Department's new $250 million Pax Silica seed fund designed to secure global supply chains for artificial intelligence, semiconductors and critical minerals, people in the know said. This was discussed among steps to operationalise the multilateral initiative during foreign secretary Vikram Misri's three-day visit to Washington DC last week, they said.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/india-eyes-us-led-pax-silica-seed-fund/articleshow/130316363.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70650,resizemode-75,msid-130316363/tech/technology/india-eyes-us-led-pax-silica-seed-fund.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Philippines, US to build industrial hub to strengthen supply chain security",
+        "description": "The United States and the Philippines will build a 4,000-acre (1,620 hectares) industrial ​hub after Manila joined a Washington-led initiative to ‌secure AI and semiconductor supply chains, the U.S. State Department said in a statement.",
+        "url": "https://www.reuters.com/world/asia-pacific/philippines-us-build-industrial-hub-supply-chain-security-2026-04-17/",
+        "image": "https://www.reuters.com/resizer/v2/KLT3S5YWSBNTFE3UA24IAVWEOM.jpg?auth=5b3913b31b97f631eb644486a4e3b6213fcf0a65594e6f13f42e0a968c49831b&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-17T01:39:16Z",
+        "source": "Reuters"
       }
     ]
   }
