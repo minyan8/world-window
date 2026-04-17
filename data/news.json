@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-17T10:39:53.764Z",
+  "fetchedAt": "2026-04-17T11:36:29.828Z",
   "sections": {
     "world": [
       {
-        "title": "Police in Ontario warn of safety risks linked to ‘Senior Assassin’ game",
-        "description": "Authorities say carrying imitation firearms in public could result in criminal charges, school discipline or serious injury.",
-        "url": "https://globalnews.ca/news/11805062/police-senior-assassin-game-risks/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/03/5af1cdad92e681f9eb2977bb9293b50e057063c9bf0a4fc87e7e8737a67f5910.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-04-16T22:35:49Z",
-        "source": "Global News"
+        "title": "AI is changing careers: What SPM graduates must do next",
+        "description": "ARTIFICIAL INTELLIGENCE (AI) is transforming the way ideas are developed, decisions are made and work is carried out across industries.",
+        "url": "https://www.thestar.com.my/starpicks/2026/04/17/ai-is-changing-careers-what-spm-graduates-must-do-next",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/16/3862658.jpg",
+        "publishedAt": "2026-04-16T23:30:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Noida protests: Workers in India demand hike in minimum wage",
-        "description": "Workers in some north Indian cities have been protesting, demanding better pay and working conditions.",
-        "url": "https://www.bbc.com/news/articles/ce8444gex65o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc4f/live/a0c5ffa0-3891-11f1-a836-373ce269a87a.jpg",
-        "publishedAt": "2026-04-16T22:25:26Z",
-        "source": "BBC"
+        "title": "Turkey or Pakistan could become Israel's new enemy, analyst says",
+        "description": "In an opinion piece in Maariv, Israeli analyst Boaz Golani claims the war on Iran has 'wiped out' Islamic Republic's military capabilities",
+        "url": "https://www.middleeasteye.net/news/turkey-pakistan-could-become-israels-new-enemy-analyst-says",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/israel-pakistan-afp-handout-picture-2026.jpg",
+        "publishedAt": "2026-04-16T23:27:03Z",
+        "source": "Middle East Eye"
       },
       {
-        "title": "The Crisis In The Middle East Could Cost Africa 0.2 Percent In Economic Growth In 2026",
-        "description": "The crisis in the Middle East is impacting global economies, with growth in African countries forecast to decline by up",
-        "url": "https://www.eurasiareview.com/17042026-the-crisis-in-the-middle-east-could-cost-africa-0-2-percent-in-economic-growth-in-2026/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2024/03/b-1.jpeg",
-        "publishedAt": "2026-04-16T22:08:59Z",
-        "source": "Eurasia Review"
+        "title": "Rights group backs those affected by contaminated Zambia mining site",
+        "description": "Human Rights Watch (HRW) released a statement on Wednesday in support of a group in Zambia that has called for the African Union to take steps to clean up a mine site that has caused child led-poisoni...",
+        "url": "https://www.jurist.org/news/2026/04/rights-group-backs-those-affected-by-contaminated-zambia-mining-site/",
+        "image": "https://www.jurist.org/news/wp-content/uploads/sites/4/2026/04/Broken_Hill_Town__Line_of_Lode_Pano_NSW_08.07.2007.jpg",
+        "publishedAt": "2026-04-16T23:23:14Z",
+        "source": "Jurist.org"
       },
       {
-        "title": "Hong Kong banks dependent on SWIFT are warned of new US sanctions",
-        "description": "The US has threatened to impose sanctions on Chinese banks if they are found to be involved in handling money from Iran’s oil trade payments",
-        "url": "https://asiatimes.com/2026/04/hong-kong-banks-dependent-on-swift-are-warned-of-new-us-sanctions/",
-        "image": "https://asiatimes.com/wp-content/uploads/2024/03/IMG_0189.jpeg",
-        "publishedAt": "2026-04-16T22:08:40Z",
-        "source": "Asia Times"
+        "title": "Philippines, US to build 1,619-hectare 'economic security zone' in Luzon",
+        "description": "The United States (US) and the Philippines are planning to establish a 4,000-acre, or a nearly 1,619-hectare (ha), industrial hub in Luzon aimed at...",
+        "url": "https://mb.com.ph/2026/04/17/philippines-us-to-build-1619-hectare-economic-security-zone-in-luzon",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/17/94214.webp",
+        "publishedAt": "2026-04-16T23:22:12Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Lebanon Israel ceasefire takes effect",
-        "description": "A 10-day ceasefire deal between Lebanon and Israel takes effect as US President Trump attempts to broker a meeting between the leaders. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/10-day-ceasefire-deal-between-israel-and-lebanon-takes-effect",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c70729e212937f3f48ee1b5e0afda17b16110abfacb4270d5824030ee20c0853",
-        "publishedAt": "2026-04-16T22:01:22Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Britain’s PM Starmer was not ‘aware’ security vetting for former UK ambassador to US was overruled",
-        "description": "Peter Mandelson, Britain’s former ambassador to the United States, failed his security vetting before taking up the role, but Prime Minister Keir Starmer was unaware that officials had overruled the recommendation, the government said Thursday.",
-        "url": "https://www.cnn.com/2026/04/16/europe/peter-mandelson-failed-security-vetting-intl",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-03t170228z-1687452015-rc235fad1kj5-rtrmadp-3-usa-trump-epstein-mandelson.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-16T22:00:32Z",
-        "source": "CNN"
-      },
-      {
-        "title": "'Seasoned diplomat': Trump congratulates former envoy to US Taranjit Sandhu on Delhi LG appointment",
-        "description": "India News: US President Donald Trump on Thursday congratulated Taranjit Singh Sandhu on his appointment as the new Lieutenant Governor of Delhi, praising his dip.",
-        "url": "https://timesofindia.indiatimes.com/india/seasoned-diplomat-trump-congratulates-former-envoy-to-us-taranjit-sandhu-on-delhi-lg-appointment/articleshow/130317797.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130318044,width-1280,height-720,imgsize-76486,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T21:54:00Z",
+        "title": "'We are not leaving': Netanyahu says Israeli forces will hold positions in Lebanon as 10",
+        "description": "Middle East News: Israeli Prime Minister Benjamin Netanyahu on Thursday said Israeli forces will continue to remain in southern Lebanon during the ongoing 10-day ceasef.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/we-are-not-leaving-netanyahu-says-israeli-forces-will-hold-positions-in-lebanon-as-10-day-ceasefire-begins/articleshow/130320041.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130320093,width-1280,height-720,imgsize-729315,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-16T23:19:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "Vijay promises free LPG, doles & wedding gold",
-        "description": "India News: CHENNAI: Tamilaga Vettri Kazhagam (TVK) president Vijay announced a slew of freebies in his election manifesto, ranging from six free LPG cylinders a .",
-        "url": "https://timesofindia.indiatimes.com/india/vijay-promises-free-lpg-doles-wedding-gold/articleshow/130318042.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130318048,width-1280,height-720,imgsize-22588,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T21:51:00Z",
-        "source": "The Times of India"
+        "title": "Department of Justice investigating Eric Swalwell amid sexual assault allegations",
+        "description": "Democratic representative from California has suspended gubernatorial campaign and resigned from Congress",
+        "url": "https://www.theguardian.com/us-news/2026/apr/16/eric-swalwell-department-of-justice-investigation",
+        "image": "https://i.guim.co.uk/img/media/3b2a39c285abe5ecd6ff7c9fe90830101ed9ab48/0_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a616df91bfce49e0b883fab85ac9e7",
+        "publishedAt": "2026-04-16T23:12:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Trump announces 10-day ceasefire in Lebanon after ‘excellent conversations’",
+        "description": "Halt to seven weeks of fighting will be followed by first Israeli-Lebanese summit in decades",
+        "url": "https://www.theguardian.com/world/2026/apr/16/trump-announces-10-day-ceasefire-in-lebanon-after-excellent-conversations",
+        "image": "https://i.guim.co.uk/img/media/0ad0b211b4215a60d7f47e233d397705ee3d7af7/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb72804c01b8d052adde8f0dfc02616c",
+        "publishedAt": "2026-04-16T23:11:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Europe's defence cloud reliance risks US 'kill switch,' think tank warns",
+        "description": "A vast majority of EU countries rely on US cloud services for their national defence agencies, putting them at risk of a \"kill switch\" that shuts down service at any time.View on euronews",
+        "url": "https://sg.news.yahoo.com/europes-defence-cloud-reliance-risks-230534771.html",
+        "image": "https://s.yimg.com/os/en/euronews_sg_articles_551/2dc25233ba941d94371287a0bb1cbe71",
+        "publishedAt": "2026-04-16T23:05:34Z",
+        "source": "Yahoo News Singapore"
       }
     ],
     "business": [
       {
-        "title": "Asian stocks drop as traders await ceasefire news",
-        "description": "Asian stocks on Friday fell as investors lightened their positions ahead of the weekend while awaiting progress on extending the US-Iran ceasefire, after a rally driven by expectations the truce would be prolonged.",
-        "url": "https://theedgemalaysia.com/node/800216",
-        "image": "https://assets.theedgemarkets.com/Global-Markets-3_theedgemalaysia_44.jpg",
-        "publishedAt": "2026-04-16T22:37:37Z",
-        "source": "The Edge Malaysia"
+        "title": "Iron Ore Prices Split As Supply Worries Meet Steel Curbs",
+        "description": "Port stockpiles fell and fuel risks added support, but Hebei pollution controls and Vale’s strong sales kept iron ore’s outlook mixed.",
+        "url": "https://finimize.com/content/iron-ore-prices-split-as-supply-worries-meet-steel-curbs",
+        "image": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L1N41006M_1981183493.jpeg?ixlib=python-3.1.2&s=46aaa5806117971425fb50a6d99f26bc",
+        "publishedAt": "2026-04-16T23:34:07Z",
+        "source": "Finimize"
       },
       {
-        "title": "Bluetti FridgePower launch: Preorder the new FridgePower and take up to 44% off",
-        "description": "Preorder the new Bluetti FridgePower for $759, down from the normal price of $1,299. That's a 42% discount.",
-        "url": "https://mashable.com/article/bluetti-fridge-power-how-to-buy",
-        "image": "https://helios-i.mashable.com/imagery/articles/04XHaEYyxuFxjIvS2eaGmcG/hero-image.fill.size_1200x675.v1776346851.png",
-        "publishedAt": "2026-04-16T22:37:26Z",
-        "source": "Mashable"
+        "title": "Reed Hastings’s exit from $455 billion Netflix ‘had nothing to do with’ failed Warner Bros. deal",
+        "description": "Netflix’s stock price sank 9% in after-hours trading on Thursday.",
+        "url": "https://fortune.com/2026/04/16/netflix-reed-hastings-depart-board-warner-stock-results/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2224569843-e1776376951178.jpg?resize=1200,600",
+        "publishedAt": "2026-04-16T23:34:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "Exxon pulls offer to sell two initial Golden Pass LNG cargoes - Reuters",
-        "description": "Exxon Mobil has withdrawn an offer to sell two initial cargoes of liquefied natural gas from its Golden Pass export plant in Texas in the process of starting up operations, Reuters reported.",
-        "url": "https://seekingalpha.com/news/4575979-exxon-pulls-offer-to-sell-two-initial-golden-pass-lng-cargoes---reuters",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/79471476/image_79471476.jpg?io=getty-c-w630",
-        "publishedAt": "2026-04-16T22:35:29Z",
-        "source": "Seeking Alpha"
+        "title": "WINNING | Maya scales profitably as digital bank growth accelerates",
+        "description": "Maya is accelerating its push toward sustainable growth as customer adoption deepens and its digital ecosystem scales, signaling a shift from rapid expansion to profitability among Philippine fintech players.",
+        "url": "https://insiderph.com/winning-maya-scales-profitably-as-digital-bank-growth-accelerates",
+        "image": "https://insiderph.com/uploads/articles/thumb_1776381787829_oq06jfzayupk8htlrdb3-800x600.webp?v=1",
+        "publishedAt": "2026-04-16T23:33:50Z",
+        "source": "InsiderPH"
       },
       {
-        "title": "Cork woman Samantha Barry steps down as editor-in-chief at Glamour magazine",
-        "description": "Journalist who worked at RTÉ, BBC and CNN is leaving the magazine’s parent company Condé Nast",
-        "url": "https://www.irishtimes.com/media/2026/04/16/cork-woman-samantha-barry-steps-down-as-editor-in-chief-at-glamour-magazine/",
-        "image": "https://www.irishtimes.com/resizer/v2/NSQ3CLCN3ZCMVOEMN6RYUYSINE.jpg?smart=true&auth=b4cdc4bdfb6941f337248ac4bbf66fb82dee3bc48717881055a92ca2fde6db09&width=1200&height=630",
-        "publishedAt": "2026-04-16T22:33:49Z",
-        "source": "The Irish Times"
+        "title": "Hyundai Motor Group Expands Contribution to Society in India, Strengthening Korea-India Bridge",
+        "description": "Hyundai Motor Group is expanding its social contribution activities and reinforcing its role as a bridge between South Korea and India.",
+        "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001155",
+        "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/highlight-horizontal-thumbnail-group-basic.jpg",
+        "publishedAt": "2026-04-16T23:30:00Z",
+        "source": "Hyundai"
       },
       {
-        "title": "Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety",
-        "description": "Anthropic announced the release of Claude Opus 4.7 on April 16. The new frontier AI model is available now.",
-        "url": "https://mashable.com/article/anthropic-releases-claude-opus-4-7",
-        "image": "https://helios-i.mashable.com/imagery/articles/04zJtLWpVRtQlyJqB0cB32h/hero-image.fill.size_1200x675.v1776361953.jpg",
-        "publishedAt": "2026-04-16T22:30:00Z",
-        "source": "Mashable"
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+        "description": "All three of the major indexes rose on Thursday, with both the S&P 500 and Nasdaq Composite setting new intraday and closing highs.",
+        "url": "https://www.cnbc.com/2026/04/16/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108288653-1775657627439-gettyimages-2270383834-mms18856_uzxxpaoo.jpeg?v=1776378919&w=1920&h=1080",
+        "publishedAt": "2026-04-16T23:29:57Z",
+        "source": "CNBC"
       },
       {
-        "title": "Kulbanyi bush tea from NT station hits the shelves in Asia",
-        "description": "The product is being sent from a remote property in the Northern Territory all the way to Japan, Korea and China.",
-        "url": "https://www.abc.net.au/news/2026-04-17/nt-bush-tea-kulbanyi-exporting-to-asian-markets/106572254",
-        "image": "https://live-production.wcms.abc-cdn.net.au/0e51206559501b815859bf00978823c6?impolicy=wcms_watermark_news&cropH=1238&cropW=2200&xPos=0&yPos=148&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-16T22:27:54Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Malaysia’s richest billionaires: IOI’s Lee brothers enter top 5 as rankings shift",
+        "description": "The ranks of Malaysia’s five richest billionaires saw a shake-up this year, with the Lee brothers of palm oil giant IOI joining the list, but tycoon Robert Kuok still retained the top spot. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/business/billionaires/malaysia-s-richest-billionaires-ioi-s-lee-brothers-enter-top-5-as-rankings-shift-5063007.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/04/16/2024-ioi-1776313799-4320-1776315037.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=uab90FdGfVZvjnDOR82nvw",
+        "publishedAt": "2026-04-16T23:25:26Z",
+        "source": "VnExpress International"
       },
       {
-        "title": "Netflix Reports Strong Earnings and Co-Founder Reed Hastings' Departure. But Here's the Real Reason the Stock is Getting Crushed in After-Hours Trading",
-        "description": "Netflix reported earnings and revenue for the first quarter of 2026 that beat consensus estimates. Yet, the stock sold off anyway.",
-        "url": "https://www.fool.com/investing/2026/04/16/netflix-reports-strong-earnings-and-co-founder-ree/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866073%2Fnetflix-1-company-photo.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-16T22:27:00Z",
-        "source": "The Motley Fool"
+        "title": "FinanceAsia names SM companies among Asia's Best Companies for 2026",
+        "description": "/PRNewswire/ -- Hong Kong-based publication FinanceAsia has recognized four SM companies in its Asia's Best Companies 2026 poll, reflecting the views of...",
+        "url": "https://www.prnewswire.com/news-releases/financeasia-names-sm-companies-among-asias-best-companies-for-2026-302745390.html",
+        "image": "https://mma.prnewswire.com/media/1880730/Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-16T23:22:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Former Espy owners relist vacant Brunswick Street venue for $6-7 million",
-        "description": "The five-level Brunswick Street pub is vacant and selling for far less than its previous asking price.",
-        "url": "https://www.theage.com.au/business/companies/pub-price-slump-former-espy-owners-second-go-at-selling-historic-fitzroy-hotel-20260416-p5zogh.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_71/t_crop_custom/q_86%2Cf_auto/ea94f73c640c9cfd5638bc45d8e4bb2dffc5f736",
-        "publishedAt": "2026-04-16T22:19:39Z",
-        "source": "The Age"
+        "title": "Dangote to showcase refinery at Nasarawa trade fair",
+        "description": "Dangote Industries will showcase its flagship Dangote Refinery and other products at the 2026 Nasarawa Trade Fair to drive African industrialisation.",
+        "url": "https://punchng.com/dangote-to-showcase-refinery-at-nasarawa-trade-fair/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2024/08/14232906/Aliko-Dangote.jpg",
+        "publishedAt": "2026-04-16T23:16:51Z",
+        "source": "Punch Newspapers"
       }
     ],
     "science": [
+      {
+        "title": "Artemis astronaut describes charring on heat shield during crew's fiery return to Earth",
+        "description": "The mission's commander said there was charring on the Orion capsule's critical heat shield.",
+        "url": "https://www.rnz.co.nz/news/world/592661/artemis-astronaut-describes-charring-on-heat-shield-during-crew-s-fiery-return-to-earth",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--2XTqpKvc--/t_tohu-badge-facebook/v1775949999/4JQAHJN_ArtemisII_Wiseman_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-16T23:32:28Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Artemis II astronauts detail 'intense' reentry in interview with ABC News' David Muir",
+        "description": "The Artemis II crew spoke with ABC's \"World News Tonight\" anchor David Muir, nearly a week after returning home from their historic 10-day journey to the moon and back.",
+        "url": "https://abcnews.com/US/artemis-ii-astronauts-detail-intense-reentry-interview-abc/story?id=132112982",
+        "image": "https://i.abcnewsfe.com/a/8c61e6ee-cd30-480c-959b-ad337d314b6b/artemis-crew-01-abc-jt-260416_1776371414563_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2026-04-16T23:29:59Z",
+        "source": "abcnews.com"
+      },
+      {
+        "title": "Artemis II astronauts praise their moonship's performance, especially the heat shield",
+        "description": "The astronauts say their lunar flyby puts NASA in a much better position for a crewed Moon landing in two years and an eventual Moon base.",
+        "url": "https://www.abc.net.au/news/2026-04-17/artemis-astronauts-praise-moonship-performance-heat-shield/106574892",
+        "image": "https://live-production.wcms.abc-cdn.net.au/85073c20ba0f36c6b0c5d51775a43b62?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-16T23:29:28Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Forgotten Fossil in Museum Drawer Reveals 200-Million-Year-Old Croc Ancestor with Unbelievable Bite",
+        "description": "A rediscovered fossil reveals Eosphorosuchus lacrimosa, an ancient relative of crocodiles, with a powerful bite and unique traits, reshaping our understanding of early crocodylomorphs.",
+        "url": "https://indiandefencereview.com/fossil-200-million-year-old-croc-ancestor/",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/forgotten-fossil-in-museum-drawer-reveals-200-million-year-old-croc-ancestor-with-unbelievable-bite-scaled.png",
+        "publishedAt": "2026-04-16T23:05:00Z",
+        "source": "Indian Defence Review"
+      },
+      {
+        "title": "Huge 'bathtub ring' may show contours of ancient ocean on Mars",
+        "description": "Ancient ocean may have existed on Martian northern plainsResearch uses data from Nasa probe that orbited MarsScientists see a “coastal shelf” where land met waterWASHINGTON,...",
+        "url": "https://www.malaymail.com/news/life/2026/04/17/huge-bathtub-ring-may-show-contours-of-ancient-ocean-on-mars/216494",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/16/335961.JPG",
+        "publishedAt": "2026-04-16T23:04:12Z",
+        "source": "Malay Mail"
+      },
+      {
+        "title": "Early Galaxies Were Surrounded by Huge Clouds of Hydrogen, and Astronomers Found a Whole Bunch!",
+        "description": "Astronomers using data from the Hobby–Eberly Telescope Dark Energy Experiment (HETDEX) have discovered tens of thousands of gigantic hydrogen gas halos, called “Lyman-alpha nebulae,” surrounding galaxies 10 billion to 12 billion years ago.",
+        "url": "https://www.universetoday.com/articles/early-galaxies-were-surrounded-by-huge-clouds-of-hydrogen-and-astronomers-found-a-whole-bunch",
+        "image": "https://www.universetoday.com/article_images/image_7935_1e-Quasar-Halo_20260416_224446.jpg",
+        "publishedAt": "2026-04-16T23:02:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "NASA’s Orion Spacecraft Nails Crewed Flight Debut",
+        "description": "Astronauts venture into deep space for the first time in 53 years.",
+        "url": "https://aviationweek.com/space/space-exploration/nasas-orion-spacecraft-nails-crewed-flight-debut-0",
+        "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+        "publishedAt": "2026-04-16T22:49:30Z",
+        "source": "Aviation Week"
+      },
       {
         "title": "MIT Study Reveals Lipid Composition in Cell Membranes Influences Cellular Behavior",
         "description": "A recent study conducted by researchers at the Massachu […]",
@@ -142,128 +198,72 @@
         "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
         "publishedAt": "2026-04-16T22:34:23Z",
         "source": "geneonline.com"
-      },
-      {
-        "title": "Astronaut Christina Koch on Artemis II and the Outdoors",
-        "description": "Astronaut Christina Koch on her Artemis II mission, being the first woman to orbit the moon, and how climbing prepared her for space.",
-        "url": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/christina-koch-artemis-ii-interview/?scope=anon",
-        "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/christinakoch_artemis_splashdown.png",
-        "publishedAt": "2026-04-16T22:31:14Z",
-        "source": "Outside Magazine"
-      },
-      {
-        "title": "With navigating nematodes, scientists map out how brains implement behaviors",
-        "description": "An MIT Picower Institute study provides maps out exactly what happens in the brains of C. elegans worms when they “follow their nose” to savor attractive odors or avoid unappealing ones.",
-        "url": "https://news.mit.edu/2026/navigating-nematodes-scientists-map-out-how-brains-implement-behaviors-0416",
-        "image": "https://news.mit.edu/sites/default/files/images/202604/mit-picower-Turning-Worm.jpg",
-        "publishedAt": "2026-04-16T22:30:00Z",
-        "source": "MIT News"
-      },
-      {
-        "title": "Artemis astronaut describes charring on heat shield during crew's fiery return to Earth",
-        "description": "COLORADO SPRINGS, Colorado, April 16 : The astronauts who flew around the moon and back in NASA's landmark Artemis II mission said their re-entry into Earth's atmosphere was smooth, but the mission's commander described some charring on the Orion capsule's critical heat shield.The four Artemis II astronauts s",
-        "url": "https://www.channelnewsasia.com/business/artemis-astronaut-describes-charring-heat-shield-during-crews-fiery-return-earth-6062241",
-        "image": "https://dam.mediacorp.sg/image/upload/s--xJKh5HxE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-16T222153Z_1_LYNXMPEM3F1IY_RTROPTP_3_SPACE-MOON-ARTEMIS.JPG?itok=--q7kb9S",
-        "publishedAt": "2026-04-16T22:21:53Z",
-        "source": "CNA"
-      },
-      {
-        "title": "NASA scientists detect surprise explosion on the sun",
-        "description": "The findings will help scientists refine theoretical models of magnetic reconnection to better understand how solar storms are powered.",
-        "url": "https://www.ttownmedia.com/news/national/nasa-scientists-detect-surprise-explosion-on-the-sun/article_ebca3678-ce1e-5774-a74f-18fbc7014929.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/b/ef/bef4c89c-8986-5fb4-b7d8-31bdecee235a/69e10f1fc399d.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-04-16T22:16:20Z",
-        "source": "ttownmedia.com"
-      },
-      {
-        "title": "Landing astronauts on the moon 'is absolutely doable, and it's doable soon,' NASA's Artemis 2 commander says",
-        "description": "The Artemis 2 astronauts said they gained a deeper understanding of their Orion capsule during their moon mission — and what they learned bodes well for future Artemis flights.",
-        "url": "https://www.space.com/space-exploration/artemis/landing-astronauts-on-the-moon-is-absolutely-doable-and-its-doable-soon-nasas-artemis-2-commander-says",
-        "image": "https://cdn.mos.cms.futurecdn.net/rZGQwdBBQsrKMwBhEWmjbR-1920-80.jpg",
-        "publishedAt": "2026-04-16T21:53:36Z",
-        "source": "Space"
-      },
-      {
-        "title": "Artemis II astronauts: What they said in first post‑Moon Q&A",
-        "description": "The four crew members gave their first press conference since they splashed down nearly a week ago, and emphasised hope and unity.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8jpz9rx2yo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5c8/live/87baadb0-39dd-11f1-8606-05fe34b06e1b.png",
-        "publishedAt": "2026-04-16T21:49:38Z",
-        "source": "BBC"
-      },
-      {
-        "title": "NASA Captured Earth’s Most Unique Geological Formation in the Sahara Desert",
-        "description": "NASA's latest image reveals the true geological origins of the Eye of the Sahara, debunking its origins as a meteor impact and shedding light on its fascinating formation process.",
-        "url": "https://indiandefencereview.com/nasa-captured-most-unique-formation-sahara/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/nasa-captured-earths-most-unique-geological-formation-in-the-sahara-desert-scaled.png",
-        "publishedAt": "2026-04-16T21:48:44Z",
-        "source": "Indian Defence Review"
       }
     ],
     "ai": [
       {
-        "title": "Austrian companies have vast opportunities to expand trade, investment in India: Prez Murmu",
-        "description": "NEW DELHI, Apr 16 : President Droupadi Murmu on Thursday said that Austrian companies have vast opportunities to expand trade and investment in India, especially in emerging sectors such as semiconductors, green energy and artificial intelligence (AI). Her assertion came during a meeting with Christian Stocker, Federal Chancellor of the Republic of Austria, who had called on Murmu at the Rashtrapati Bhavan here. Welcoming Stocker on his first visit to India, the President said that India and Austria share close […]",
-        "url": "https://www.dailyexcelsior.com/austrian-companies-have-vast-opportunities-to-expand-trade-investment-in-india-prez-murmu/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2025/12/Murmu.jpg",
-        "publishedAt": "2026-04-16T22:30:59Z",
-        "source": "Daily Excelsior"
+        "title": "'Slow your horses' on AI in the classroom",
+        "description": "The protesters delivered a petition with more than 2,200 signatures to the Mamdani administration, citing the risks of generative AI to children.",
+        "url": "https://www.nydailynews.com/2026/04/16/nyc-parents-mayor-mamdani-ai-classroom/",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2026/04/IMG_4753.jpg?w=1024&h=768",
+        "publishedAt": "2026-04-16T23:34:13Z",
+        "source": "New York Daily News"
       },
       {
-        "title": "Rohtak girl shines with 99.83% in Class X exams",
-        "description": "Aspires to become AI scientist.",
-        "url": "https://www.tribuneindia.com/news/haryana/rohtak-girl-shines-with-99-83-in-class-x-exams/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVkODQwZTEwLTM5ZTMtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-        "publishedAt": "2026-04-16T22:30:47Z",
-        "source": "The Tribune"
+        "title": "Angie Mentink explains why she used AI for formulating question",
+        "description": "Baseball reporter Angie Mentink is handling her viral 15 seconds with grace, poking fun at herself after a video was posted on social media showing her using Google Gemini to formulate postgame questions.",
+        "url": "https://nypost.com/2026/04/16/sports/angie-mentink-explains-why-she-used-ai-for-formulating-question/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-020bjb7ls-1776381427433.jpg?quality=75&strip=all&1776367064&w=1200",
+        "publishedAt": "2026-04-16T23:32:54Z",
+        "source": "New York Post"
       },
       {
-        "title": "Kayana, Trusting Social launch AI credit scoring for underbanked Filipinos",
-        "description": "Kayana and Trusting Social Philippines launch an AI-powered alternative credit score to expand financial access for underbanked Filipinos using behavioral data.",
-        "url": "https://manilastandard.net/business/it-telecom/314728087/kayana-trusting-social-launch-ai-credit-scoring-for-underbanked-filipinos.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/kayana-trusting-social.jpg",
-        "publishedAt": "2026-04-16T22:30:00Z",
-        "source": "manilastandard.net"
+        "title": "As Amazon Pours Another $25B into Data Centers, Buy This 1 High-Yield Data Center Dividend Stock",
+        "description": "Amazon’s new 25 billion dollar data‑center push underscores why American Tower’s tower network and CoreSite data‑center arm are valuable, giving investors a nearly 4% yield, discounted valuation, and direct exposure to growing cloud and AI traffic wi...",
+        "url": "https://www.barchart.com/story/news/1357147/as-amazon-pours-another-25b-into-data-centers-buy-this-1-high-yield-data-center-dividend-stock",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dividends/Dividend%20Yield%20by%20Drozd%20Irina%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-04-16T23:30:02Z",
+        "source": "Barchart"
       },
       {
-        "title": "China willing to ‘buy’ or ‘steal’ US tech to get ahead in AI race, Congress told",
-        "description": "US lawmakers, experts accused Beijing of buying ‘what they can’ and stealing ‘what they cannot’ from America to advance their AI technology.",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3350380/china-willing-buy-or-steal-us-tech-get-ahead-ai-race-congress-told",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/17/3ee16e7d-6cc8-4b15-972c-488855aebc3b_e3ac0728.jpg?itok=eOr2zKvf&v=1776378389",
-        "publishedAt": "2026-04-16T22:26:36Z",
-        "source": "South China Morning Post"
+        "title": "AI is changing careers: What SPM graduates must do next",
+        "description": "ARTIFICIAL INTELLIGENCE (AI) is transforming the way ideas are developed, decisions are made and work is carried out across industries.",
+        "url": "https://www.thestar.com.my/starpicks/2026/04/17/ai-is-changing-careers-what-spm-graduates-must-do-next",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/16/3862658.jpg",
+        "publishedAt": "2026-04-16T23:30:00Z",
+        "source": "The Star"
       },
       {
-        "title": "AI campaign text sparks deepfake law questions in Minnesota",
-        "description": "Minnesota’s political campaign season is kicking into high gear and some operatives are crying foul over AI-generated campaign messages.",
-        "url": "https://www.fox9.com/news/ai-campaign-text-sparks-deepfake-law-questions-minnesota",
-        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/04/1200/630/6v-ai-political-deep-fakes_-hoggard_kmsp5b3b_146_m_00.00.13.48.jpg?ve=1&tl=1",
-        "publishedAt": "2026-04-16T22:13:07Z",
-        "source": "FOX 9"
+        "title": "Anthropic taking responsible approach with Claude Mythos software rollout, TD CEO says",
+        "description": "Raymond Chun says the lender is working closely with the AI company and government to address cybersecurity concerns",
+        "url": "https://www.theglobeandmail.com/business/article-anthropic-claude-mythos-software-rollout-td-ceo/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/JPEGCVPQXVDV7L4VKBZZ4BYNLQ.JPG?auth=b2ea6f3e879d865bb237a87b1d678d55dda337c98c8b8201c702cbc49adce6a3&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-16T23:29:12Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Pony AI H-shares initiated with a Buy at Goldman Sachs",
-        "description": "Goldman Sachs initiated coverage of Hong Kong-listed Pony AI (PONY) with a Buy rating and HK$234 price target while also keeping the firm’s ADR ...",
-        "url": "https://markets.businessinsider.com/news/stocks/pony-ai-h-shares-initiated-with-a-buy-at-goldman-sachs-1036031730",
-        "image": "https://markets.businessinsider.com/favicon-32x32.png",
-        "publishedAt": "2026-04-16T22:10:29Z",
-        "source": "Markets Insider"
+        "title": "OpenAI launches AI model GPT-Rosalind for life sciences research",
+        "description": "April 16 - ⁠OpenAI on Thursday introduced an artificial intelligence model touting ⁠increased biology knowledge and scientific research capabilities, as the ‌startup deepens its push into the life sciences field.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/17/openai-launches-ai-model-gpt-rosalind-for-life-sciences-research",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/17/3863862.jpg",
+        "publishedAt": "2026-04-16T23:28:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Fact Check: Did Angie Mentink Use AI Questions After Mariners’ Loss to Padres? Real Truth Behind Viral Footage",
-        "description": "After the Mariners lost to the Padres, a video falsely alleged Mariners' color commentator Angie Mentink used AI for interview questions.",
-        "url": "https://www.essentiallysports.com/mlb-baseball-news-fact-check-did-angie-mentink-use-ai-questions-after-mariners-loss-to-padres-real-truth-behind-viral-footage/",
-        "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/Angie-Mentink.jpg",
-        "publishedAt": "2026-04-16T22:07:20Z",
-        "source": "Essentially Sports"
+        "title": "AI Resurrection: Val Kilmer's Posthumous Role Raises Ethical Debate",
+        "description": "Using AI-generated technology, directors Coerte and John Voorhees recreated late actor Val Kilmer's performance in 'As Deep as the Grave.' With consent from Kilmer's family and SAG-AFTRA guidelines, the filmmakers defend their approach as an ethical model. The trailer stirred controversy on social media.",
+        "url": "https://www.devdiscourse.com/article/entertainment/3876978-ai-resurrection-val-kilmers-posthumous-role-raises-ethical-debate",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_04_2025_11_48_13_4735218.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-04-16T23:18:54Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "I'm A Celebrity's David Haye made sexist remarks because he 'couldn't use AI in the jungle to check if his comments were safe'",
-        "description": "David Haye allegedly made his 'sexist' comments on I'm A Celebrity: All Stars because he couldn't use AI to 'check if his comments were safe'.",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15740519/Im-Celebritys-David-Haye-sexist-remarks-use-AI-jungle-check-comments-safe.html",
-        "image": "https://i.dailymail.co.uk/1s/2026/04/16/23/107954609-0-image-a-139_1776377094824.jpg",
-        "publishedAt": "2026-04-16T22:03:45Z",
-        "source": "Daily Mail Online"
+        "title": "71 students part of first BPGP-BA&AI batch at IIM Ah",
+        "description": "Ahmedabad: A total of 71 students joined the blended PGP course in business analytics and AI (BPGP-BA&AI) at IIM Ahmedabad (IIM-A) as the course c.",
+        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/71-students-part-of-first-bpgp-baai-batch-at-iim-ah/articleshow/130316886.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117516813,width-1280,height-720,imgsize-240821,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-16T23:18:00Z",
+        "source": "Times of India"
       }
     ]
   }
