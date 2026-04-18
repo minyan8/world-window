@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-18T05:50:48.867Z",
+  "fetchedAt": "2026-04-18T06:44:31.675Z",
   "sections": {
     "world": [
       {
-        "title": "1 killed in Israeli strike in southern Lebanon on 1st full day of ceasefire deal",
-        "description": "An Israeli drone strike killed one person in southern Lebanon on Friday, the first full day of a U.S.-brokered truce meant to end hostilities between Israel and the militant group Hezbollah, paramedics in the area and the head of a local hospital told Reuters.",
-        "url": "https://www.cbc.ca/news/world/lebanon-israel-ceasefire-hezbollah-9.7167688",
-        "image": "https://i.cbc.ca/ais/4aa00e6f-e3be-452e-a7d0-4470ba3694dd,1776412589079/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C179%2C3449%2C1940%29%3BResize%3D620",
-        "publishedAt": "2026-04-17T17:45:41Z",
-        "source": "CBC"
+        "title": "South Africa Publishes Revised Rhino Conservation Management Plan",
+        "description": "South Africa's Minister of Forestry, Fisheries and the Environment, Willie Aucamp, announced yesterday the publication of the revised Black and White Rhino Biodiversity Management Plan (BMP) in the Government Gazette.",
+        "url": "https://atta.travel/resource/south-africa-publishes-revised-rhino-conservation-management-plan.html",
+        "image": "https://atta.travel/assets/img/favicon/favicon-96.png",
+        "publishedAt": "2026-04-17T18:42:52Z",
+        "source": "Atta Travel"
       },
       {
-        "title": "The Weekly Volcanic Activity Report: April 9-15, 2026",
-        "description": "New activity/unrest was reported for 3 volcanoes from April 9 to 15, 2026. During the same period, ongoing activity was reported for 17 volcanoes.",
-        "url": "https://watchers.news/2026/04/17/weekly-volcanic-activity-report-april-9-15-2026/",
-        "image": "https://watchers.news/wp-content/uploads/2025/09/weekly-volcanic-report-the-watchers.webp",
-        "publishedAt": "2026-04-17T17:45:00Z",
-        "source": "The Watchers - Watching the world evolve and transform"
+        "title": "New roads, artillery positions built in Belarus near Ukraine border, Zelensky says",
+        "description": "\"We believe that Russia will once again attempt to drag Belarus into its war,\" the Ukrainian president said on April 17.",
+        "url": "https://kyivindependent.com/belarus-building-roads-artillery-positions-near-ukraine-border-zelensky-says/",
+        "image": "https://assets.kyivindependent.com/content/images/2026/04/GettyImages-2263059367_20260417-174139.jpg",
+        "publishedAt": "2026-04-17T18:37:00Z",
+        "source": "The Kyiv Independent"
       },
       {
-        "title": "EU to game out bloc’s mutual assistance clause in case of attack",
-        "description": "The exercise comes after Cyprus was targeted by drones during the war between Iran, Israel and the United States.",
-        "url": "https://www.politico.eu/article/eu-defense-exercise-mutual-assistance-clause/",
-        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/17/GettyImages-2266776344-scaled.jpg",
-        "publishedAt": "2026-04-17T17:35:00Z",
-        "source": "politico.eu"
+        "title": "Four arrested in latest ‘PowerOFF’ DDoS-for-hire takedown",
+        "description": "More than 20 countries participated in a coordinated takedown of platforms selling cheap access to distributed denial-of-service (DDoS) attacks.",
+        "url": "https://therecord.media/ddos-hire-europol-doj-crackdown",
+        "image": "https://cms.therecord.media/uploads/Power_Off_fdd5aa054d.jpg",
+        "publishedAt": "2026-04-17T18:34:09Z",
+        "source": "The Record from Recorded Future News"
       },
       {
-        "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
-        "description": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
-        "url": "https://www.bbc.com/news/articles/crr185nx0n9o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6ce3/live/7537af70-3a7e-11f1-850e-07c4418cf86c.jpg",
-        "publishedAt": "2026-04-17T17:30:17Z",
+        "title": "How To Avoid Them",
+        "description": "The new Entry and Exit System (EES) is causing long lines at airports in Europe, but a few practical tips can help you avoid the worst waits.",
+        "url": "https://upgradedpoints.com/news/avoid-long-lines-europe-airports-ees/",
+        "image": "https://upgradedpoints.com/wp-content/uploads/2025/08/TAP-Air-Portugal-Lisbon-eGate-passport-control.jpeg",
+        "publishedAt": "2026-04-17T18:33:05Z",
+        "source": "Upgraded Points"
+      },
+      {
+        "title": "India's rail expertise can benefit South Africa: envoy",
+        "description": "India's rail expertise can benefit South Africa: envoy",
+        "url": "https://www.hindustantimes.com/world-news/us-news/indias-rail-expertise-can-benefit-south-africa-envoy-101776450730973.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/30/550x309/US_News_1767090888271_1767090921295.png",
+        "publishedAt": "2026-04-17T18:32:10Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "As Iran war fallout spreads, the focus shifts to Trump's mind - as it should",
+        "description": "The world is stuck watching a performative series of announcements about meetings that could, may, will happen, involving a president not dealing with the reality that he is in a weak and confused bargaining position.",
+        "url": "https://www.abc.net.au/news/2026-04-18/fallout-iran-war-spreads-focus-donald-trump-mind/106576096",
+        "image": "https://live-production.wcms.abc-cdn.net.au/5080f48ab9e38f2b849d3a287d42917c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=137&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-17T18:30:00Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Trump Admits His Doordash Stunt Was ‘Tacky’",
+        "description": "After accepting a McDonalds delivery from ‘DoorDash Grandma’ Sharon Simmons on Monday, Trump admitted the stunt was a bit ‘tacky’ and ‘embarrassing.’",
+        "url": "https://www.thecut.com/article/trump-admits-his-doordash-stunt-was-tacky.html",
+        "image": "https://pyxis.nymag.com/v1/imgs/4d1/1a7/1f5c24599144d76e935f7919e6acdd47cb-donald-trump.1x.rsocial.w1200.jpg",
+        "publishedAt": "2026-04-17T18:29:17Z",
+        "source": "The Cut"
+      },
+      {
+        "title": "UK and France to lead defensive mission in Strait of Hormuz",
+        "description": "Sir Keir Starmer has said further details of the plan will come after a meeting in London next week.",
+        "url": "https://www.bbc.com/news/articles/c5yjz819vmgo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cef6/live/2f8ca090-3a86-11f1-8606-05fe34b06e1b.jpg",
+        "publishedAt": "2026-04-17T18:27:55Z",
         "source": "BBC"
-      },
-      {
-        "title": "Oil's well that ends well? Trump claims nuke deal with Iran to end Hormuz horror",
-        "description": "US News: TOI correspondent from Washington: US President Donald Trump announced on Friday that Iran has agreed to give up its enriched uranium and reopen the S.",
-        "url": "https://timesofindia.indiatimes.com/world/us/oils-well-that-ends-well-trump-claims-nuke-deal-with-iran-to-end-hormuz-horror/articleshow/130339391.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130339502,width-1280,height-720,imgsize-977664,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T17:22:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Europe to accelerate effort to secure Hormuz despite Trump’s order to ‘STAY AWAY’",
-        "description": "More than 30 leaders joined a video conference call on Friday to map out an international mission to secure the Strait of Hormuz.",
-        "url": "https://www.politico.eu/article/europe-to-accelerate-effort-secure-hormuz-despite-donald-trump-order-to-stay-away/",
-        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/17/GettyImages-2271200898-scaled.jpg",
-        "publishedAt": "2026-04-17T17:21:57Z",
-        "source": "politico.eu"
-      },
-      {
-        "title": "Central Asia Steps Up Its Digital Agenda: Justin Sun in Kyrgyzstan",
-        "description": "In recent years, Kyrgyzstan has been gradually moving onto a new development trajectory, shaping its image as a country open to innovation, investment, and modern financial technologies. Against this backdrop, growing interest from global business leaders and tech billionaires is drawing particular attention.",
-        "url": "https://caspianpost.com/central-asia/central-asia-steps-up-its-digital-agenda-justin-sun-in-kyrgyzstan",
-        "image": "https://caspianpost.com/storage/photos/thumbs/aspect/gLNvVrczrejcqUGVVDmYvMGZz08320VdwnTvdtjj.webp",
-        "publishedAt": "2026-04-17T17:21:54Z",
-        "source": "Caspian Post"
-      },
-      {
-        "title": "Iran says it still controls Hormuz transit, warns of response to US blockade",
-        "description": "Iran’s foreign ministry said on Friday transit through the Strait of Hormuz remains under the Islamic Republic's control and subject to its coordination, warning that any continued US naval blockade would violate the ceasefire and prompt a response.",
-        "url": "https://www.iranintl.com/en/202604173535",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/a4d640b9a5f10c0150499187adea0ff14244d0f8-600x417.jpg?rect=0,52,600,315&w=1200&h=630&fit=max&auto=format",
-        "publishedAt": "2026-04-17T17:21:22Z",
-        "source": "ایران اینترنشنال"
       }
     ],
     "business": [
       {
-        "title": "Rachel Reeves to raise windfall tax on low-carbon electricity generators",
-        "description": "Chancellor aims to curb households’ rising bills as she consults on reforms to weaken link between gas and electricity prices",
-        "url": "https://www.theguardian.com/business/2026/apr/17/rachel-reeves-to-raise-windfall-tax-on-low-carbon-electricity-generators",
-        "image": "https://i.guim.co.uk/img/media/47403d0c0940c54868217e83e6c449f38e7efc1b/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3966b6bee3548312542f72bea5f6f383",
-        "publishedAt": "2026-04-17T17:49:00Z",
-        "source": "The Guardian"
+        "title": "Zoom and Tools for Humanity advance trust in the age of AI through new integration",
+        "description": "Read more about: Zoom and Tools for Humanity advance trust in the age of AI through new integration",
+        "url": "https://news.zoom.com/zoom-and-tools-for-humanity/",
+        "image": "https://news.zoom.com/wp-content/uploads/2026/04/Newsroom-header-templates-2.png",
+        "publishedAt": "2026-04-17T18:44:31Z",
+        "source": "Zoom"
       },
       {
-        "title": "Quebec pilot killed in crash at N.Y. airport remembered at visitation",
-        "description": "Captain Antoine Forest, who died in a plane crash at New York's LaGuardia airport last month, is being remembered Friday in his hometown of Coteau-du-Lac, Que.",
-        "url": "https://www.cbc.ca/news/canada/montreal/quebec-pilot-remembered-9.7167252",
-        "image": "https://i.cbc.ca/ais/9d5edb2a-9560-48ed-a29b-434857b0fb76,1774565198077/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C512%2C288%29%3BResize%3D620",
-        "publishedAt": "2026-04-17T17:48:55Z",
+        "title": "'Tokenmaxxing' is making developers less productive than they think",
+        "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+        "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+        "publishedAt": "2026-04-17T18:42:45Z",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "JimStoppani.com Announces Summer Shred Challenge with $25,000 Grand Prize",
+        "description": "Transform Your Body and Compete for a Life-Changing Reward",
+        "url": "https://www.manilatimes.net/2026/04/18/tmt-newswire/globenewswire/jimstoppanicom-announces-summer-shred-challenge-with-25000-grand-prize/2323025",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018328.png",
+        "publishedAt": "2026-04-17T18:42:18Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "U.S. Chamber Discusses How Medical Breakthroughs Are Extending Lives and Strengthening the Economy with YourUpdateTV",
+        "description": "Nationwide media tour conducted by U.S. Chamber of Commerce, in conjunction with D S Simon Media, on topic of new analysis commissioned by the U.S. Chamber of Commerce revealing just how transformative American medical innovation has been for families, communities, and the economy.",
+        "url": "https://www.manilatimes.net/2026/04/18/tmt-newswire/globenewswire/us-chamber-discusses-how-medical-breakthroughs-are-extending-lives-and-strengthening-the-economy-with-yourupdatetv/2323022",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018323.png",
+        "publishedAt": "2026-04-17T18:42:10Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "AGIBOT Declares 2026 \"Deployment Year One\" at APC 2026, Accelerating the Era of Embodied AI Productivity",
+        "description": "SHANGHAI, April 18, 2026 /PRNewswire/ -- AGIBOT today outlined its long-term strategic vision for embodied intelligence at the AGIBOT Partner Conference (APC) 2026, declaring 2026 as the first year of large-scale commercial deployment of physical AI systems delivering measurable productivity gains.",
+        "url": "https://www.manilatimes.net/2026/04/18/tmt-newswire/pr-newswire/agibot-declares-2026-deployment-year-one-at-apc-2026-accelerating-the-era-of-embodied-ai-productivity/2323019",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/18/1018316.jpg",
+        "publishedAt": "2026-04-17T18:40:58Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Alberta commits to restore power line with Montana to capacity, potentially easing trade tension",
+        "description": "Alberta has mandated a goal to restore the Montana-Alberta intertie to full capacity, whenever reasonable, potentially providing some relief to a trade irritant cited by U.S. President Donald Trump’s top trade representative last year.",
+        "url": "https://www.cbc.ca/news/canada/calgary/alberta-montana-daniel-zolnikov-nathan-neudorf-9.7168142",
+        "image": "https://i.cbc.ca/ais/ea41ab2a-bc31-4751-a974-9ce70e8a1ae2,1776441701733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
+        "publishedAt": "2026-04-17T18:40:19Z",
         "source": "CBC"
       },
       {
-        "title": "Ecolab’s US$4.75b Loan And Frigeo Deal Reframe Growth And Valuation",
-        "description": "Ecolab (NYSE:ECL) has entered into a large, unsecured delayed draw term loan agreement totaling $4.75b.\nThe company plans to use the facility to fund its acquisition of Frigeo Holdings LLC.\nThe financing and acquisition together represent a significant expansion move for Ecolab.\nEcolab, a major player in water, hygiene, and infection prevention solutions, is adding a sizable transaction to its corporate story with the planned Frigeo Holdings LLC acquisition. Recent coverage around NYSE:ECL...",
-        "url": "https://simplywall.st/stocks/us/materials/nyse-ecl/ecolab/news/ecolabs-us475b-loan-and-frigeo-deal-reframe-growth-and-valua",
-        "image": "https://images.simplywall.st/asset/company-cover/268799-main-header/1756229100113",
-        "publishedAt": "2026-04-17T17:43:12Z",
-        "source": "simplywall.st"
+        "title": "Jet fuel supply warnings causing holidaymakers worry",
+        "description": "Travel agents across Ireland are reporting an increase in the number of people contacting them with \"worries about their holiday plans\" amid warnings of a shortage of jet fuel.",
+        "url": "https://www.rte.ie/news/ireland/2026/0417/1568857-jet-fuel-shortage/",
+        "image": "https://www.rte.ie/images/00243c95-1600.jpg",
+        "publishedAt": "2026-04-17T18:37:20Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "CoreWeave (CRWV) Is Up 30.0% After New AI Cloud Deals And $4.5 Billion Debt Financing - What's Changed",
-        "description": "In recent days, CoreWeave completed and expanded multiple private offerings of its 9.750% senior notes due 2031, raising an additional US$1.00 billion at a price of 102% on top of an earlier US$1.75 billion tranche, while also issuing US$3.50 billion of 1.75% convertible notes due 2032.\nAlongside these financings, new multi-year AI cloud agreements with Meta Platforms, Anthropic and a roughly US$6.00 billion commitment from Jane Street, plus Jane Street’s US$1.00 billion equity purchase, are...",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-up-300-after-new-ai-cloud-deals-and-45-bil",
-        "image": "https://images.simplywall.st/asset/industry/8030001-choice2-main-header/1585186766184",
-        "publishedAt": "2026-04-17T17:43:10Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Bay Area-based Philz Coffee reversing course, adding Pride flags back to all of its locations",
-        "description": "Bay Area-based Philz Coffee is reversing course and adding back Pride flags to all of its locations.",
-        "url": "https://abc7news.com/post/bay-area-based-philz-coffee-reversing-course-adding-back-pride-flags-locations/18900998/",
-        "image": "https://cdn.abcotvs.com/dip/images/18860781_040926-kgo-philz-pride-flags-split-img.jpg?w=1600",
-        "publishedAt": "2026-04-17T17:40:37Z",
-        "source": "ABC7 San Francisco"
-      },
-      {
-        "title": "Expert analyzes potential new pancreatic cancer breakthrough",
-        "description": "Paul Oberstein of NYU Langone's Perlmutter Cancer Center discusses the stunning results of a Revolution Medicines drug trial on STAT's Readout Loud podcast.",
-        "url": "https://www.statnews.com/2026/04/17/revolution-medicines-daraxonrasib-clinical-trial-readout-loud-podcast-transcript/",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/26645704270_e23f5b8db8_o-1024x576.jpg",
-        "publishedAt": "2026-04-17T17:39:38Z",
-        "source": "statnews.com"
-      },
-      {
-        "title": "“We can’t continue to be a local champion”- GCB Bank targets Liberia expansion",
-        "description": "GCB Bank PLC is pursuing an ambitious regional expansion strategy, with plans to acquire one of Liberia’s largest banks as it seeks to reposition itself as a cross-border financial institution.",
-        "url": "https://www.myjoyonline.com/we-cant-continue-to-be-a-local-champion-gcb-bank-targets-liberia-expansion/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/GCB-Bank.webp",
-        "publishedAt": "2026-04-17T17:37:34Z",
-        "source": "MyJoyOnline"
-      },
-      {
-        "title": "GCB Bank PLC to acquire Liberia’s third",
-        "description": "Beyond Liberia, GCB Bank PLC is also exploring expansion opportunities in other West African markets, including The Gambia and Burkina Faso.",
-        "url": "https://www.myjoyonline.com/gcb-bank-plc-to-acquire-liberias-third-largest-bank/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-18.24.34.jpeg",
-        "publishedAt": "2026-04-17T17:35:26Z",
-        "source": "MyJoyOnline"
+        "title": "Chinese carmakers rolling out cars with 'in-vehicle toilet.'",
+        "description": "Seres, a Chinese automotive manufacturer, specializing in high-end, high-tech electric vehicles, has been granted a patent for in-vehicle toilets, which will allow travelers to use the restroom during road trips and camping trips.",
+        "url": "https://nypost.com/2026/04/17/lifestyle/chinese-carmakers-rolling-out-cars-with-in-vehicle-toilet/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125841821.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-04-17T18:37:00Z",
+        "source": "New York Post"
       }
     ],
     "science": [
+      {
+        "title": "Nature Might Pulse to a Universal Rhythm - 2 Beats Per Second",
+        "description": "A surprising number of creatures across a wide swath of sizes, species, and communication methods all seem to time their signals to the same basic beat.",
+        "url": "https://www.sciencealert.com/nature-might-pulse-to-a-universal-rhythm-2-beats-per-second",
+        "image": "https://www.sciencealert.com/images/2026/04/Bluefooted-boobies-with-feet-in-air-.jpg",
+        "publishedAt": "2026-04-17T18:02:58Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "'Tall waves moving in slow motion': Here's how oily oceans on Saturn's giant moon Titan may behave",
+        "description": "The size of waves on alien worlds will depend as much on the characteristics of the liquid as well as the gravity.",
+        "url": "https://www.space.com/astronomy/saturn/tall-waves-moving-in-slow-motion-heres-how-oily-oceans-on-saturns-giant-moon-titan-may-behave",
+        "image": "https://cdn.mos.cms.futurecdn.net/ZNfCHLnCUofSdXcZCmuCdd-1920-80.png",
+        "publishedAt": "2026-04-17T18:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "Rare Comet Visible Over Connecticut This Month: When, Where To Look",
+        "description": "Astronomers say Comet PanSTARRS R3 could be visible before sunrise, but timing and conditions will be key.",
+        "url": "https://patch.com/connecticut/across-ct/rare-comet-visible-over-connecticut-month-when-where-look",
+        "image": "https://patch.com/img/cdn20/shutterstock/27243934/20260417/015805/styles/patch_image/public/shutterstock-2146025953-1___17131539656.jpg",
+        "publishedAt": "2026-04-17T17:59:45Z",
+        "source": "Patch"
+      },
       {
         "title": "Volcanoes may have cooled Earth in a way scientists didn’t expect",
         "description": "Ash from ancient eruptions may have driven cooling on Earth by fertilizing oceans, boosting algal blooms, and pulling carbon from the air.",
@@ -174,96 +198,72 @@
         "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
         "publishedAt": "2026-04-17T17:30:17Z",
         "source": "geneonline.com"
-      },
-      {
-        "title": "Researchers discover how cell membrane composition drives cancer proliferation",
-        "description": "Cells are enveloped by a lipid membrane that gives them structure and provides a barrier between the cell and its environment.",
-        "url": "https://www.news-medical.net/news/20260417/Researchers-discover-how-cell-membrane-composition-drives-cancer-proliferation.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg",
-        "publishedAt": "2026-04-17T17:22:00Z",
-        "source": "News-Medical"
-      },
-      {
-        "title": "Back on Earth, Jeremy Hansen describes his long journey in space",
-        "description": "HOUSTON — When Canadian astronaut Jeremy Hansen first floated to the window after the Orion capsule’s bone-rattling launch into space early this month, what he saw and felt left him grasping for words. He saw the sweep of the ocean first, and then, drifting into view, the rich, dusty red of Australia. And behind it […]",
-        "url": "https://vancouver.citynews.ca/2026/04/17/extraordinary-back-on-earth-jeremy-hansen-describes-his-long-journey-in-space/",
-        "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/04/96466e6ee49d99009a3e082c27128d7b833a54135939fbfcebad2b6ff0643467.jpg",
-        "publishedAt": "2026-04-17T17:20:44Z",
-        "source": "CityNews Vancouver"
-      },
-      {
-        "title": "Warmer Streams Could Weaken River Food Webs",
-        "description": "Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems.In a new",
-        "url": "https://www.miragenews.com/warmer-streams-could-weaken-river-food-webs-1657618/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1517048676732-d65bc937f952%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-17T17:18:00Z",
-        "source": "Mirage News"
       }
     ],
     "ai": [
       {
-        "title": "Backup calling, direct voicemail features in smartphones originated in India: Samsung official",
-        "description": "Samsung launched the Galaxy S26 series smartphone in February, which is the company's third AI smartphone.",
-        "url": "https://www.moneycontrol.com/news/business/backup-calling-direct-voicemail-features-in-smartphones-originated-in-india-samsung-official-13892402.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260106072435_samsung.jpeg",
-        "publishedAt": "2026-04-17T17:50:45Z",
-        "source": "Moneycontrol"
+        "title": "White House chief of staff to meet with Anthropic CEO over its new AI technology",
+        "description": "White House chief of staff to meet with Anthropic CEO over its new AI technology",
+        "url": "https://www.livemint.com/technology/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology-11776451301214.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+        "publishedAt": "2026-04-17T18:41:40Z",
+        "source": "Livemint"
       },
       {
-        "title": "Anthropic CEO meeting White House chief of staff",
-        "description": "Dario Amodei, CEO of AI company Anthropic, is meeting with White House Chief of Staff Susie Wiles Friday amid a lawsuit against the administration.",
-        "url": "https://www.upi.com/Top_News/US/2026/04/17/anthropic-white-house-meeting-pentagon/1601776445122/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/1601776445122/2026/1/91c1bda7c6d1c745f001fb381b3ab6b0/v1.5/Anthropic-CEO-meeting-White-House-chief-of-staff.jpg",
-        "publishedAt": "2026-04-17T17:49:34Z",
-        "source": "UPI News"
+        "title": "Cursor In Talks to Raise $2 Billion at Over $50 Billion Value",
+        "description": "Cursor, a leading artificial intelligence startup for coding, is in advanced talks with investors to raise about $2 billion in a funding round at a valuation of more than $50 billion, not including the investment, according to a person familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-17/ai-coding-startup-cursor-in-talks-to-raise-2-billion-in-funding",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inIaDjFKPOA0/v0/1200x800.jpg",
+        "publishedAt": "2026-04-17T18:41:18Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "Intel Core Series 3 Wildcat Lake launches to challenge Apple's $599 MacBook Neo",
-        "description": "Intel's Wildcat Lake chips bring 40 TOPS AI performance to budget laptops on the 18A node, but MacBook Neo benchmarks lead by 44% in single-core as 70+ OEM designs arrive.",
-        "url": "https://thenextweb.com/news/intel-wildcat-lake-core-series-3-macbook-neo-ai-budget-laptops",
-        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/intel-wildcat-lake-core-series-3-macbook-neo-ai-budget-laptops.png",
-        "publishedAt": "2026-04-17T17:49:29Z",
-        "source": "TNW"
+        "title": "Palantir, Thales Among Companies Competing on FAA AI Tool",
+        "description": "The US Federal Aviation Administration has brought in Palantir Technologies Inc., Thales SA and Air Space Intelligence Inc. to compete on a new artificial intelligence tool for air traffic management, according to a person familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-17/palantir-thales-among-companies-competing-on-new-faa-ai-tool",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLmXuDYU1DF0/v1/1200x800.jpg",
+        "publishedAt": "2026-04-17T18:40:07Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "TSMC Q1 2026 Earnings Update",
-        "description": "Yesterday’s TSMC earnings call was yet another confirmation that the AI momentum right now is a one-way street: up and to the right.",
-        "url": "https://seekingalpha.com/article/4891648-tsmc-q1-2026-earnings-update",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1828680032/image_1828680032.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-17T17:48:00Z",
-        "source": "Seeking Alpha"
+        "title": "Authors are slamming Reese Witherspoon for telling followers to learn AI",
+        "description": "LOS ANGELES — Reese Witherspoon is hyping AI again, and American authors have a few thoughts. The Oscar-winning actor and producer, known for spotlighting women's voices through her famed book club, television and screen projects, may have been barking up the wrong tree when she told her social media followers that it was time to learn AI on Wednesday. \"Well…I've decided it's TIME,\" she wrote ...",
+        "url": "https://www.baltimoresun.com/2026/04/17/authors-are-slamming-reese-witherspoon-for-telling-followers-to-learn-ai-2-2/",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/04/BOOKS-BOOK-WITHERSPOON-AI-GET.jpg?w=1024&h=683",
+        "publishedAt": "2026-04-17T18:39:52Z",
+        "source": "Baltimore Sun"
       },
       {
-        "title": "Andreessen Horowitz partner Bryan Kim departs to launch new AI",
-        "description": "Bryan Kim, who joined the Silicon Valley venture capital firm in November 2020, focused on consumer technology and AI applications. During his tenure at a16z, Kim led and participated in several early-stage investments, often at the seed and Series A levels.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/andreessen-horowitz-partner-bryan-kim-departs-to-launch-new-ai-focused-fund/articleshow/130340217.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-542997,resizemode-75,msid-130340217/tech/technology/andreessen-horowitz-partner-bryan-kim-departs-to-launch-new-ai-focused-fund.jpg",
-        "publishedAt": "2026-04-17T17:45:50Z",
-        "source": "The Economic Times"
+        "title": "White House meeting with Anthropic CEO over new AI model",
+        "description": "White House Chief of Staff Susie Wiles plans to meet with Anthropic CEO Dario Amodei to discuss the company's new AI model, Mythos.",
+        "url": "https://apnews.com/article/white-house-anthropic-meeting-ai-mythos-f3c590fcee98297832973d02d3979c87",
+        "image": "https://dims.apnews.com/dims4/default/1f0b4c8/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2Ff5%2F4eec79969aadaacfc3bb86816a36%2Fcb1e9f987a2146b1b804e29ca63358bd",
+        "publishedAt": "2026-04-17T18:39:33Z",
+        "source": "The Associated Press"
       },
       {
-        "title": "Jane Street Just Bought $1 Billion of CoreWeave Stock. Should You?",
-        "description": "A massive institutional bet is reinforcing CoreWeave’s AI infrastructure story, but valuation and execution risks still leave investors with a nuanced decision.",
-        "url": "https://www.barchart.com/story/news/1371738/jane-street-just-bought-1-billion-of-coreweave-stock-should-you",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/The%20CoreWeave%20logo%20displayed%20on%20a%20smartphone%20screen_%20Image%20by%20Robert%20Way%20via%20Shutterstock_.jpg",
-        "publishedAt": "2026-04-17T17:44:26Z",
-        "source": "Barchart"
+        "title": "White House chief of staff to meet with Anthropic CEO over its new AI technology",
+        "description": "White House Chief of Staff Susie Wiles plans to meet with Anthropic CEO Dario Amodei to discuss the company's new AI model, Mythos.",
+        "url": "https://www.clickondetroit.com/news/politics/2026/04/17/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology/",
+        "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOBFDRD2IRCBNBD6OI54BNKVCA.jpg?_a=DATAg1fkZAA0",
+        "publishedAt": "2026-04-17T18:39:32Z",
+        "source": "WDIV ClickOnDetroit"
       },
       {
-        "title": "Illicit drugs to be tracked in B.C. with chemical fingerprinting and AI",
-        "description": "Scientists and police in B.C. are working together on what they hope will be a game-changing \"chemical fingerprinting\" program to track the source and destination of individual batches of illicit drugs.",
-        "url": "https://cheknews.ca/illicit-drugs-to-be-tracked-in-b-c-with-chemical-fingerprinting-and-ai-1319406/",
-        "image": "https://cheknews.ca/wp-content/uploads/2026/04/6251287db12e102c6532512454d782cb2a69d0b26330c7063189db63db97d3e3-e1776447588547.jpg",
-        "publishedAt": "2026-04-17T17:40:21Z",
-        "source": "CHEK News"
+        "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
+        "description": "WASHINGTON (AP) — White House chief of staff Susie Wiles plans to sound out Anthropic CEO Dario Amodei about the artificial intelligence company's new Mythos model, which has attracted attention from the federal government for how it could transform national security and the economy.",
+        "url": "https://www.usnews.com/news/business/articles/2026-04-17/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology",
+        "image": "https://www.usnews.com/dims4/USNEWS/bc17328/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F26%2Fd702d0860b5b98f13694ead51bb713%2Fcb1e9f987a2146b1b804e29ca63358bdPentagon_AI_Anthropic_6155_.jpg",
+        "publishedAt": "2026-04-17T18:39:00Z",
+        "source": "U.S. News & World Report"
       },
       {
-        "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-        "description": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-        "url": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-        "image": "https://static01.nyt.com/images/2026/04/15/14visualUploader-54630-cover/14visualUploader-54630-cover-facebookJumbo-v2.jpg",
-        "publishedAt": "2026-04-17T17:37:10Z",
-        "source": "The New York Times"
+        "title": "Shantakumar calls for AI-driven sugarcane farming model in K’taka, citing Maharashtra’s success",
+        "description": "Pic: State Sugarcane Growers' Association president Kuruburu Shantakumar addresses the media FridayBelagavi: Karnataka State Sugarcane Growers Associa.",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/shantakumar-calls-for-ai-driven-sugarcane-farming-model-in-ktaka-citing-maharashtras-success/articleshow/130340134.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130340112,width-1280,height-720,imgsize-44564,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-17T18:39:00Z",
+        "source": "Times of India"
       }
     ]
   }
