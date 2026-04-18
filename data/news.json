@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-18T13:42:32.298Z",
+  "fetchedAt": "2026-04-18T14:31:31.502Z",
   "sections": {
     "world": [
       {
-        "title": "Iran threatens to close Hormuz anew, if US blockade continues",
-        "description": "WASHINGTON: Tehran on Saturday (April 18) threatened to shut the Strait of Hormuz once more if the United States continues its blockade of Iranian ports, hours after the key waterway was reopened in the wake of a ceasefire deal in Lebanon",
-        "url": "https://www.thestar.com.my/news/world/2026/04/18/iran-threatens-to-close-hormuz-anew-if-us-blockade-continues",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/18/3865815.jpg",
-        "publishedAt": "2026-04-18T01:42:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "Singapore's Nanyang Junior College student suspended, police report lodged after alleged case of sexual misconduct",
-        "description": "SINGAPORE: A Nanyang Junior College (NYJC) student has been suspended from school and a police report has been lodged, following an alleged case of sexual misconduct.",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/18/singapore039s-nanyang-junior-college-student-suspended-police-report-lodged-after-alleged-case-of-sexual-misconduct",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/18/3865811.jpg",
-        "publishedAt": "2026-04-18T01:40:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "US renews Russian oil sanctions waiver for 1 month, days after signaling it would not do so",
-        "description": "The effective extension of the waiver comes just two days after U.S. Treasury Secretary Scott Bessent told reporters that the Trump administration \"will not be renewing the general license on Russian oil,\" as well as another waiver on Iranian oil.",
-        "url": "https://kyivindependent.com/us-extends-russian-oil-waiver-for-1-month/",
-        "image": "https://assets.kyivindependent.com/content/images/2026/03/GettyImages-2264312873.jpg",
-        "publishedAt": "2026-04-18T01:39:22Z",
-        "source": "The Kyiv Independent"
-      },
-      {
-        "title": "Fuel price comparison across East Africa",
-        "description": "In Kenya, petrol is priced at Sh197.60 and diesel at Sh196.63, placing it among the more expensive markets in the region.",
-        "url": "https://eastleighvoice.co.ke/infographics/332858/fuel-price-comparison-across-east-africa",
-        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/04/info-graphic-3-1.png",
-        "publishedAt": "2026-04-18T01:39:19Z",
-        "source": "The Eastleigh Voice"
-      },
-      {
-        "title": "From festivity to fiscal strain",
-        "description": "With Songkran over, government faces shrinking room to act as inflation risks and public scepticism grow v Abhisit's strong debate performance revives party's electoral hopes and positions him once again as a credible challenger.",
-        "url": "https://www.bangkokpost.com/thailand/politics/3239189/from-festivity-to-fiscal-strain",
-        "image": "https://static.bangkokpost.com/media/content/20260418/c1_3239189_260418083146_700.jpg",
-        "publishedAt": "2026-04-18T01:31:46Z",
-        "source": "Bangkok Post"
-      },
-      {
-        "title": "Round 2 of US-Iran talks likely in Pakistan on April 20: Report",
-        "description": "They also said they expected negotiators to arrive in Islamabad on Sunday.",
-        "url": "https://indianexpress.com/article/world/us-news/us-iran-talks-pakistan-monday-islamabad-negotiations-ceasefire-deadline-10642590/",
-        "image": "https://images.indianexpress.com/2026/04/US-7-1.jpg",
-        "publishedAt": "2026-04-18T01:30:16Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Iran war latest: Our enriched uranium isn’t going anywhere, says Tehran",
-        "description": "Iran war latest updates: President Trump claimed Tehran had agreed to hand over the material — used in the construction of nuclear weapons",
-        "url": "https://www.thetimes.com/world/middle-east/article/iran-war-latest-news-enriched-uranium-donald-trump-s7m80lr5m",
-        "image": "https://www.thetimes.com/imageserver/image/bd5169db-2598-48a5-95c5-1c4a70c5868d.jpg?strip=all&format=webp&crop=7200px%2C4050px%2C0px%2C375px&resize=1200",
-        "publishedAt": "2026-04-18T01:22:10Z",
-        "source": "The Times"
-      },
-      {
-        "title": "US Catholics unsettled by Trump’s feud with Pope Leo",
-        "description": "American Catholics are a key voting bloc; the spat could make Republicans vulnerable in the midterms. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/united-states/us-catholics-unsettled-by-trumps-feud-with-pope-leo",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a1c65d1f2dcf56cfd6535cddb4e5707f992bc299628fe4974717bc4c97ee7a72",
-        "publishedAt": "2026-04-18T01:20:00Z",
+        "title": "RON95, diesel supply disrupted at some Malaysian Caltex stations",
+        "description": "Caltex Malaysia said the shortage is due to unexpected delays at the port. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/ron95-diesel-supply-disrupted-at-some-malaysian-caltex-stations",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1b4fc4c55f8a3a20edecc53052ae679107fc1c7fd3e003b9b3484a806cf4b347",
+        "publishedAt": "2026-04-18T02:31:00Z",
         "source": "The Straits Times"
+      },
+      {
+        "title": "Iran threatens to close Strait of Hormuz anew",
+        "description": "Iran warns it will shut the Strait of Hormuz if US warships continue to blockade Iranian ports, amid ongoing negotiations. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-threatens-to-close-strait-of-hormuz-anew-if-us-blockade-continues",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b4ce6af57c1d34ab6bbf163c951345a843f741766c60829b65eae47c3e6f598f",
+        "publishedAt": "2026-04-18T02:25:36Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "UMNO opens doors to Khairy, Hishammuddin and Syed Hamid",
+        "description": "The council also amended party membership rules to enable online registration. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/umno-opens-doors-to-khairy-hishammuddin-and-syed-hamid",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8a9106751e88f7ab784257ade3beddec7b237c999f687aee8111c42616a8a500",
+        "publishedAt": "2026-04-18T02:20:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "\"7 Claims In 1 Hour, All False\": Iran After Trump's 'Hormuz Blockade' Post",
+        "description": "Ghalibaf, in a post on X, asserted that the passage through the Strait of Hormuz will be conducted based on the \"designated route\" and with \"Iranian authorisation\".",
+        "url": "https://www.ndtv.com/world-news/irans-hormuz-wont-remain-open-warning-after-trumps-blockade-post-mohammad-bagher-ghalibaf-iran-war-strait-of-hormuz-uranium-11374202",
+        "image": "https://c.ndtvimg.com/2026-03/bv9ej7pc_ghalibaf-trump-afp_625x300_25_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-18T02:19:37Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "Iran says strait of Hormuz ‘completely open’ to commercial vessels as oil prices fall",
+        "description": "Trump claims Tehran will also suspend nuclear programme as Lebanon truce enters first full day",
+        "url": "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels",
+        "image": "https://i.guim.co.uk/img/media/73d9c4ca228d8962f01040ff1578c899dbe92e89/682_0_3865_3095/master/3865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de28bdc7926e427cf6dc066134c930cb",
+        "publishedAt": "2026-04-18T02:07:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Screaming body, freezing temps - life lessons from a freediver",
+        "description": "In cold, dark water, freediver Ant Williams can control negative thoughts. He applies the same techniques in life.",
+        "url": "https://www.rnz.co.nz/life/people/screaming-body-freezing-temps-life-lessons-from-a-freediver",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--l270kjBf--/t_tohu-badge-facebook/f_auto/q_auto/4NEYQXA_ANT_jpg",
+        "publishedAt": "2026-04-18T01:59:16Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Japan child-rearing homes more burdened with tax than US, Europe: Govt",
+        "description": "The calculation was based on a model of a 35-year-old dual-income couple with two children aged 5 and 2. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/japan-child-rearing-homes-more-burdened-with-tax-than-us-europe-govt",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2b0e8cc5fba4b1bcf4fff84b5adcee03f47a7eba6a060b7f15cbaec2384e8f58",
+        "publishedAt": "2026-04-18T01:50:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Russian Offensive Campaign Assessment, April 17, 2026",
+        "description": "Russian state polls are acknowledging the growing societal discontent with Russian President Vladimir Putin.",
+        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-april-17-2026/",
+        "image": "https://understandingwar.org/wp-content/uploads/2025/08/Website-Featured-Image-2-scaled.webp",
+        "publishedAt": "2026-04-18T01:48:18Z",
+        "source": "Institute for the Study of War"
       }
     ],
     "business": [
       {
-        "title": "Generation alpha's fascination with old technology on show at Denmark Youth Festival",
-        "description": "With the constant evolution of the digital world, community history is rapidly disappearing into memories and museums. But a historical society on WA's south coast is delighting today's kids by showing them the technology older Australians grew up with.",
-        "url": "https://www.abc.net.au/news/2026-04-18/gen-alpha-fascinated-old-tech-denmark-youth-festival/106567284",
-        "image": "https://live-production.wcms.abc-cdn.net.au/0f7b506006b0e309667452530f059af4?impolicy=wcms_watermark_news&cropH=866&cropW=1540&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-18T01:35:08Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Man missing after going overboard near Moreton Island",
-        "description": "The man in his 70s was believed to have climbed over a safety railing before disappearing near Queensland’s Moreton Island overnight.",
-        "url": "https://www.brisbanetimes.com.au/national/queensland/man-missing-from-carnival-cruise-ship-en-route-to-sydney-20260418-p5zp0d.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4262000000000001%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/848c4ac6e2c9042a474238022752b13ea91c0419",
-        "publishedAt": "2026-04-18T01:33:59Z",
-        "source": "Brisbane Times"
-      },
-      {
-        "title": "Amazon is returning to China after it was 'killed' by JD.com and Alibaba 7 years ago, and the reason is …",
-        "description": "Tech News News: Amazon is making a fresh push into China nearly seven years after shutting down its local marketplace, and this time the company is focusing on logist.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-is-returning-to-china-after-it-was-killed-by-jd-com-and-alibaba-7-years-ago-and-the-reason-is-/articleshow/130340832.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130340910,width-1280,height-720,imgsize-36842,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T01:31:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "MOF explains why fuel is getting pricier: Insurance up 17 times, shipping costs triple amid West Asia conflict",
-        "description": "KUALA LUMPUR, April 18 — Today’s surge in fuel prices is not solely due to higher crude oil prices following the West Asia conflict, but also to increased risks to the global...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/04/18/mof-explains-why-fuel-is-getting-pricier-insurance-up-17-times-shipping-costs-triple-amid-west-asia-conflict/216705",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/18/336177.JPG",
-        "publishedAt": "2026-04-18T01:09:16Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "How change in H-1B selection system has been a boon to employees already in the US whose companies opted to …",
-        "description": "Tech News News: The US Department of Homeland Security (DHS) introduced a new H-1B visa selection system last year. The department then replaced the random lottery sy.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-change-in-h-1b-selection-system-has-been-a-boon-to-employees-already-in-the-us-whose-companies-opted-to-/articleshow/130302589.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130302571,width-1280,height-720,imgsize-75616,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T01:06:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "PGE starts execution of Lumut Balai expansion",
-        "description": "By Romel S Gurky Geothermal developer PT Pertamina Geothermal Energy Tbk PGE IDX PGEO has commenced",
-        "url": "https://www.petromindo.com/news/article/pge-starts-execution-of-lumut-balai-expansion",
-        "image": "https://i.petromindo.com/petromindo-og-default.png",
-        "publishedAt": "2026-04-18T01:03:59Z",
-        "source": "Petromindo"
-      },
-      {
-        "title": "Hong Kong Tourism Board invited 1,730 influencers with 1.6 billion followers in 2 years",
-        "description": "Cultural, Sports and Tourism Bureau says influencers’ itineraries were tailored to their markets and audiences.",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350512/tourism-board-invited-1730-influencers-hong-kong-over-2-years",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/17/3e138b16-e410-40c4-a39f-f7012f124dae_3c5d1b3a.jpg?itok=QlI7b3_w&v=1776427372",
-        "publishedAt": "2026-04-18T01:00:25Z",
+        "title": "Hong Kong seen leading Asia in push to scale stablecoins, HSBC says",
+        "description": "Interoperability and real-world applications seen as key hurdles as city looks to unlock tokenisation’s full potential.",
+        "url": "https://www.scmp.com/tech/blockchain/article/3350498/hong-kong-seen-leading-asia-push-scale-stablecoins-hsbc-says",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/17/f9897f15-815a-4fbb-8242-058b50c574b7_00dde748.jpg?itok=N75NtI1Q&v=1776423235",
+        "publishedAt": "2026-04-18T02:30:11Z",
         "source": "South China Morning Post"
       },
       {
-        "title": "Tegna Merger Frozen By Judge's Preliminary Injunction",
-        "description": "A federal judge just put a halt to Nexstar's proposed $6.2 billion merger with Tegna, putting in doubt the combination.",
-        "url": "https://deadline.com/2026/04/nexstar-tegna-merger-blocked-2-1236784770/",
-        "image": "https://deadline.com/wp-content/uploads/2025/08/Nexstar-Media-Group-and-Tegna.jpg?w=1024",
-        "publishedAt": "2026-04-18T01:00:00Z",
-        "source": "Deadline"
+        "title": "The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next.",
+        "description": "The S&P 500 has shown signs of major resilience so far in 2026, but a little-known indicator suggests a harsh sell-off could be on the horizon.",
+        "url": "https://www.fool.com/investing/2026/04/17/the-stock-market-sounds-an-alarm-for-the-first-tim/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865374%2Fgettyimages-1169868458-3.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-18T02:30:00Z",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "Benguet launches weeklong vegetable floor price trial",
+        "description": "LA TRINIDAD, Benguet — After a consensus was reached to implement a temporary floor price system designed to prevent vegetable prices from falling below a susta",
+        "url": "https://tribune.net.ph/2026/04/18/benguet-launches-weeklong-vegetable-floor-price-trial",
+        "image": "https://media.assettype.com/tribune%2F2026-04-18%2Ff8y6tez5%2F1000020303.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-18T02:25:07Z",
+        "source": "Daily Tribune"
+      },
+      {
+        "title": "Oil, gas plunge on hope for end of war in Gulf",
+        "description": "International Business News: Oil and European natural gas prices tumbled after Iran said that the Strait of Hormuz is “completely open,” raising hopes that the unprecedented disru.",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/oil-gas-plunge-on-hope-for-end-of-war-in-gulf/articleshow/130345950.cms",
+        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+        "publishedAt": "2026-04-18T02:24:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Strait of Hormuz 'not fully open' as shipping remains cautious: What’s happening?",
+        "description": "Oil tankers remain cautious in the Strait of Hormuz despite reopening claims, as security concerns and restrictions continue to disrupt transit.",
+        "url": "https://www.moneycontrol.com/world/strait-of-hormuz-not-fully-open-as-shipping-remains-cautious-article-13892460.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260418012136_Russia.jpg",
+        "publishedAt": "2026-04-18T02:20:56Z",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Bullish momentum continues, but analysts warn of near-term resistance",
+        "description": "Indian stock markets rallied for a second week, driven by hopes of peace in West Asia and a strengthening rupee. Easing geopolitical tensions and falling oil prices boosted investor confidence, leading to gains across major indices. While the market shows positive momentum, analysts caution about potential resistance and short-term pullbacks.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bullish-momentum-continues-but-analysts-warn-of-near-term-resistance/articleshow/130345908.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130345896,width-1200,height-630,imgsize-26662,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-18T02:19:16Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Federal judge blocks politically fraught Nexstar-Tegna merger",
+        "description": "Nexstar’s politically charged acquisition of a rival TV station owner, Tegna, has been halted by a federal judge in California.",
+        "url": "https://www.cnn.com/2026/04/17/media/nexstar-tegna-trump-merger-judge-california-bonta",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267089029.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-04-18T02:13:00Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Kilburn houses daubed in red paint in latest mystery 'brothel' attack on London's streets",
+        "description": "The attack follows more than a dozen similar incidents across London over the past 18 months",
+        "url": "https://www.standard.co.uk/news/crime/kilburn-houses-red-paint-in-brothel-attack-b1279058.html",
+        "image": "https://static.standard.co.uk/2026/04/17/13/13/Houses-was-splattered-with-red-and-black-paint-in-an-early-morning-attack.png?width=1200&auto=webp&quality=75",
+        "publishedAt": "2026-04-18T02:04:13Z",
+        "source": "London Evening Standard"
       }
     ],
     "science": [
+      {
+        "title": "This asteroid will skim by Earth and be visible with the naked eye. And scientists have calculated whether it will hit us",
+        "description": "Asteroid (99942) Apophis will pass within 32,000km of Earth's surface on 13 April 2029, and should be visible to the naked eye.",
+        "url": "https://www.skyatnightmagazine.com/news/asteroid-99942-apophis",
+        "image": "https://c02.purpledshub.com/uploads/sites/48/2026/04/asteroid-apophis.jpg?w=1200",
+        "publishedAt": "2026-04-18T02:27:57Z",
+        "source": "BBC Sky at Night Magazine"
+      },
       {
         "title": "Asteroid Apophis Will Pass Close To Earth In 2029",
         "description": "NASA says that the asteroid Apophis now poses no threat to Earth, as it’ll pass close to our home planet in 2029.",
@@ -190,17 +198,49 @@
         "image": "https://endeavourhillshallamdoveton.starcommunity.com.au/files/2026/04/hopedinkus_208617_01-1.jpg",
         "publishedAt": "2026-04-17T23:03:25Z",
         "source": "Endeavour Hills Hallam Doveton Star Journal"
-      },
-      {
-        "title": "Gravity Follows Newton And Einstein’s Rules, Even At Cosmic Scales",
-        "description": "Gravity, as most people understand it, is the familiar force that pulls a falling apple toward Earth. But for astronomers",
-        "url": "https://www.eurasiareview.com/18042026-gravity-follows-newton-and-einsteins-rules-even-at-cosmic-scales/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-178.jpeg",
-        "publishedAt": "2026-04-17T22:35:50Z",
-        "source": "Eurasia Review"
       }
     ],
     "ai": [
+      {
+        "title": "EC takes tech-driven approach, warns of repoll over malpractices",
+        "description": "Election Commission adopts tech-driven monitoring with AI, webcasting and warns of repoll even for minor irregularities to ensure free and fair polls.",
+        "url": "https://indianexpress.com/article/cities/kolkata/ec-takes-tech-driven-approach-warns-of-repoll-over-malpractices-10642639/",
+        "image": "https://images.indianexpress.com/2026/04/ec-3.jpg",
+        "publishedAt": "2026-04-18T02:27:21Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "China Central Bank’s Pan Flags AI Risks, Opportunities at IMF",
+        "description": "China’s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-central-bank-s-pan-flags-ai-risks-opportunities-at-imf",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNuRXuxWlMhI/v0/1200x800.jpg",
+        "publishedAt": "2026-04-18T02:26:33Z",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Trump Appears Unaware Of Anthropic CEO Visit As White House Calls Meeting 'Constructive' Weeks After Blac",
+        "description": "The White House signaled easing tensions with Anthropic after \"constructive\" talks with CEO Dario Amodei on its Mythos AI model.",
+        "url": "https://www.benzinga.com/markets/private-markets/26/04/51901213/trump-appears-unaware-of-anthropic-ceo-visit-as-white-house-calls-meeting-constructive-weeks-after-blacklist",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/04/17/Anthropic-Logo-Is-Displayed-On-A-Smartph.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-04-18T02:26:06Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Starlink outage hit drone tests, exposing Pentagon’s growing reliance on SpaceX",
+        "description": "SpaceX is indispensable to ​the U.S. government, with its array of technologies spanning satellite communications to space launches and military AI.",
+        "url": "https://www.japantimes.co.jp/news/2026/04/18/world/starlink-outage-drones-us-military/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/18/535653.JPG?v=3.1",
+        "publishedAt": "2026-04-18T02:21:56Z",
+        "source": "The Japan Times "
+      },
+      {
+        "title": "California-based Srinivas Narayanan quits OpenAI after ‘3 incredible years,’ hints at India return – Who is he?",
+        "description": "Indian-origin tech leader at OpenAI, Srinivas Narayanan, quits OpenAI after 3-year stint. Read his full statement.",
+        "url": "https://www.financialexpress.com/trending/california-based-srinivas-narayanan-quits-openai-after-3-incredible-years-hints-at-india-return-who-is-he/4211084/",
+        "image": "https://images.financialexpressdigital.com/2026/04/srinivas-narayanan-openai.jpg",
+        "publishedAt": "2026-04-18T01:53:34Z",
+        "source": "The Financial Express"
+      },
       {
         "title": "Analysts’ Opinions Are Mixed on These Industrial Goods Stocks: Exail Technologies (OtherEXALF), VAT Group AG (OtherVTTGF) and Airbus Group SE (OtherEADSF)",
         "description": "Analysts have been eager to weigh in on the Industrial Goods sector with new ratings on Exail Technologies (EXALF), VAT Group AG (VTTGF) and Ai...",
@@ -224,46 +264,6 @@
         "image": "https://images.indianexpress.com/2026/04/17-APRIL-OPED-2-ILLU.jpg",
         "publishedAt": "2026-04-18T01:30:58Z",
         "source": "The Indian Express"
-      },
-      {
-        "title": "AI Tool of the Week: This assistant works inside Microsoft Word and tracks every edit",
-        "description": "Claude for Word embeds AI directly into Microsoft Word, summarizing redlines, citing clauses and applying edits as tracked changes — without disrupting your workflow.",
-        "url": "https://www.livemint.com/ai/ai-claude-microsoft-word-documents-legal-tech-redlines-productivity-contract-review-track-changes-11776401627858.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/17/1600x900/logo/pexels-photo-8085944_1776403136746_1776403151773.jpeg",
-        "publishedAt": "2026-04-18T01:30:58Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Agentic AI spells the end of privacy",
-        "description": "We worry over cookies and tracking, but with AI, we’re living in a glass house.",
-        "url": "https://www.livemint.com/opinion/columns/agentic-ai-digital-privacy-personal-data-harvesting-smart-glasses-google-gemini-meta-ai-11776328398615.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/16/1600x900/logo/pexels-photo-5475752_1776333938581_1776333947413.jpeg",
-        "publishedAt": "2026-04-18T01:30:38Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Meta plans to slash roughly 8,000 jobs next month: report",
-        "description": "Meta is reportedly planning to lay off nearly 8,000 employees on May 20, according to sources, as the tech giant seeks to offset rising artificial intelligence infrastructure costs.",
-        "url": "https://www.foxbusiness.com/technology/meta-plans-major-layoffs-next-month-more-cuts-expected-report",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/mark-zuckerberg.jpg?ve=1&tl=1",
-        "publishedAt": "2026-04-18T01:30:14Z",
-        "source": "Fox Business"
-      },
-      {
-        "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings",
-        "description": "Cerebras Systems revealed its filing for a ​US initial public offering on Friday, ​bringing the Nvidia rival closer to the public markets as it seeks to ​tap into growing optimism around a broad revival in the listings market.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-rival-cerebras-discloses-us-ipo-filing-as-ai-boom-drives-listings/articleshow/130345619.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2058531,resizemode-75,msid-130345619/tech/technology/nvidia-rival-cerebras-discloses-us-ipo-filing-as-ai-boom-drives-listings.jpg",
-        "publishedAt": "2026-04-18T01:29:08Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "White House and Anthropic CEO discuss working together amid rising fear about Mythos model",
-        "description": "The meeting between CEO Dario Amodei and White House staff, which took place amid growing ‌fears the AI ⁠startup's latest model ⁠will supercharge cyberattacks, suggests the two sides might be on a path to rebuilding trust.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-and-anthropic-ceo-discuss-working-together-amid-rising-fear-about-mythos-model/articleshow/130345606.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30332,resizemode-75,msid-130345606/tech/artificial-intelligence/white-house-and-anthropic-ceo-discuss-working-together-amid-rising-fear-about-mythos-model.jpg",
-        "publishedAt": "2026-04-18T01:22:01Z",
-        "source": "The Economic Times"
       }
     ]
   }
