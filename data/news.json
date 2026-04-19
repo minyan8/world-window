@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-19T08:35:54.680Z",
+  "fetchedAt": "2026-04-19T09:33:56.492Z",
   "sections": {
     "world": [
       {
-        "title": "As Donald Trump's popularity tanks, where are the Democrats?",
-        "description": "The midterm elections are on the horizon, and the contest to succeed Donald Trump is quietly underway.",
-        "url": "https://www.sbs.com.au/news/article/donald-trump-low-polls-midterms-democratic-opposition/izljctwo9",
-        "image": "https://assets.sbs.com.au/dims4/default/ff1e279/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa3%2F0d%2Ff0be66594ade8a6c692b57d68d97%2Fgfx-070426-democratic-leadership-header.png",
-        "publishedAt": "2026-04-18T20:31:13Z",
-        "source": "SBS Australia"
+        "title": "‘Britain failed family’ of girl shot dead by father in Texas",
+        "description": "Lucy Harrison’s MP is joining the fight for action in America — and answers in the UK",
+        "url": "https://www.thetimes.com/uk/crime/article/lucy-harrison-texas-shooting-father-kris-qz59hrswc",
+        "image": "https://www.thetimes.com/imageserver/image/1172e21d-375a-4d57-ad51-24a47f4827f7.jpg?strip=all&format=webp&crop=5187px%2C2918px%2C1705px%2C1415px&resize=1200",
+        "publishedAt": "2026-04-18T21:30:00Z",
+        "source": "The Times"
       },
       {
-        "title": "Court seeks Sonia Gandhi’s reply in voter list case, next hearing on May 16",
-        "description": "India News: NEW DELHI: A Delhi court Saturday directed Congress parliamentary party chairperson Sonia Gandhi to file written submissions in a criminal revision pe.",
-        "url": "https://timesofindia.indiatimes.com/india/court-seeks-sonia-gandhis-reply-in-voter-list-case-next-hearing-on-may-16/articleshow/130361746.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130361749,width-1280,height-720,imgsize-815390,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T20:30:00Z",
-        "source": "The Times of India"
+        "title": "Items found near Israeli embassy are non",
+        "description": "Nearby Kensington Gardens was closed on Friday and specialist emergency services units were deployed to the site.",
+        "url": "https://www.bbc.com/news/articles/cpqx33y5lljo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/11d1/live/c1765a80-3b69-11f1-82d7-e5c9d3ef5ba2.jpg",
+        "publishedAt": "2026-04-18T21:29:00Z",
+        "source": "BBC"
       },
       {
-        "title": "Boeing 737 Co-Pilot Collapsed At 35,000ft After Admitting To Zero Sleep",
-        "description": "A co-pilot's shocking collapse mid-flight raises critical questions about pilot rest and working conditions in the aviation industry.",
-        "url": "https://simpleflying.com/boeing-737-tarom-pilot-zero-sleep-collapse/",
-        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/tarom-boeing-737-landing-1.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-18T20:27:30Z",
-        "source": "Simple Flying"
+        "title": "Trump announces reforms to accelerate access to psychedelic drug treatments",
+        "description": "President signed executive order directing FDA to expedite review of psychedelic drugs including ibogaine",
+        "url": "https://www.theguardian.com/us-news/2026/apr/18/trump-psychedelic-drugs-executive-order",
+        "image": "https://i.guim.co.uk/img/media/f2ebed9b07293916a1863a83b9b46dc43a6cfbc6/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01ab962e5595059e8ba665f832e0b956",
+        "publishedAt": "2026-04-18T21:25:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "India flags 'deep concerns' over attack on two Indian ships in Strait of Hormuz",
-        "description": "Iran said on Saturday (Apr 18) it would continue to block transit through the strait as long as the US blockade of Iranian ports remains in effect.",
-        "url": "https://www.channelnewsasia.com/asia/two-indian-flagged-ships-attacked-crossing-strait-hormuz-6065526",
-        "image": "https://dam.mediacorp.sg/image/upload/s--A69fUzgj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-18T153531Z_1_LYNXMPEM3H08B_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?itok=9wn6bKQ1",
-        "publishedAt": "2026-04-18T20:22:00Z",
-        "source": "CNA"
+        "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+        "description": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
+        "url": "https://www.bbc.com/news/articles/cx2631x6nelo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg",
+        "publishedAt": "2026-04-18T21:19:46Z",
+        "source": "BBC"
       },
       {
-        "title": "Iranian officials 'afraid' to bury assassinated Supreme Leader Khamenei: expert",
-        "description": "The burial site of Iran's former Supreme Leader Ali Khamenei has yet to be determined as regime officials weigh safety concerns for an expected politically charged funeral.",
-        "url": "https://nypost.com/2026/04/18/world-news/iranian-officials-afraid-to-bury-assassinated-supreme-leader-khamenei-expert/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/handout-via-reuters-attention-editors-125910444.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-18T20:22:00Z",
-        "source": "New York Post"
+        "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+        "description": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2631x6nelo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg",
+        "publishedAt": "2026-04-18T21:19:46Z",
+        "source": "BBC"
       },
       {
-        "title": "10th Indian ship crosses Strait amid firing by Iranian gunboats",
-        "description": "India News: NEW DELHI: Amid firing by Iranian gunboats that caused two Indian-flagged tankers to turn back from Strait of Hormuz on Saturday, the tenth Indian-fla.",
-        "url": "https://timesofindia.indiatimes.com/india/10th-indian-ship-crosses-strait-amid-firing-by-iranian-gunboats/articleshow/130361703.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130361704,width-1280,height-720,imgsize-61934,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T20:13:00Z",
-        "source": "The Times of India"
+        "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
+        "description": "The attacker, who killed six people in Kyiv before police shot him dead, was a Ukrainian citizen born in Moscow",
+        "url": "https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine",
+        "image": "https://i.guim.co.uk/img/media/aedfe17cac77ae243363045868ae861b8cbb9e13/1284_48_4764_3811/master/4764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23ad1efa60df0ff9a7c7caa046a95b94",
+        "publishedAt": "2026-04-18T21:19:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "One of world’s most wanted cartel leaders captured",
-        "description": "An international fugitive was arrested in Dubai this week following a years-long manhunt.",
-        "url": "https://nypost.com/2026/04/18/world-news/alleged-irish-cartel-boss-arrested-in-dubai-after-years-long-manhunt/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-ip2vh7u96-1776543370192.jpg?quality=75&strip=all&1776528993&w=1200",
-        "publishedAt": "2026-04-18T20:11:00Z",
-        "source": "New York Post"
+        "title": "Iran reimposes Strait of Hormuz restrictions as tensions with U.S. continue",
+        "description": "The duelling blockades in the Strait of Hormuz lurched into uncharted waters on Saturday as the United States pressed ahead with its campaign to choke off Iranian ports and Iran reversed an initial move to reopen the waterway.",
+        "url": "https://www.cbc.ca/news/world/strait-of-hormuz-blocked-iran-us-9.7169212",
+        "image": "https://i.cbc.ca/ais/7434578b-a92c-4c5e-a2f5-da239ed77a08,1776510417320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C1578%2C887%29%3BResize%3D620",
+        "publishedAt": "2026-04-18T21:18:37Z",
+        "source": "CBC"
       },
       {
-        "title": "For Iran, Flexing Control Over Waterway Is New Deterrent",
-        "description": "Iran’s government could emerge from the conflict with a blueprint to keep adversaries at bay, regardless of any restrictions on its nuclear program.",
-        "url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
-        "image": "https://static01.nyt.com/images/2026/04/17/multimedia/00dc-iran-strait-01-kqgf/00dc-iran-strait-01-kqgf-facebookJumbo.jpg",
-        "publishedAt": "2026-04-18T20:08:40Z",
-        "source": "The New York Times"
+        "title": "Middle East crisis live: Trump leaves Situation Room to golf as ships report attacks and Iran closes strait of Hormuz",
+        "description": "Unicef pulls out of north Gaza Strip after fatal attack on contractors, and UN peacekeeper killed in Lebanon",
+        "url": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues?page=with%3Ablock-69e3edbf8f089feed64f5646",
+        "image": "https://i.guim.co.uk/img/media/89eec2ffe0be69295ce9a8ef75694ca02446dbfa/0_0_1079_863/master/1079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5328cbbf61ef5775949ad74dd95d56f4",
+        "publishedAt": "2026-04-18T21:18:18Z",
+        "source": "The Guardian"
       }
     ],
     "business": [
       {
-        "title": "Vehicle incident downs pole, cuts electricity in Colwood",
-        "description": "A vehicle incident in Colwood early Saturday morning downed a power pole, cutting electricity to over 400 customers for most of the day.",
-        "url": "https://www.timescolonist.com/local-news/vehicle-incident-downs-power-pole-causing-outage-in-colwood-12161835",
-        "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/04/web1_04182026-colwoodoutage1.jpg;w=1000;h=601;mode=crop",
-        "publishedAt": "2026-04-18T20:33:59Z",
-        "source": "Times Colonist"
+        "title": "Assessing Berkshire Hathaway (BRK.B) Valuation After Recent Share Price Softness",
+        "description": "Event Context and Recent Performance\nBerkshire Hathaway (BRK.B) has drawn investor attention after recent trading, with the share price at $474.58 and total return figures showing mixed outcomes over the past year and over the past 3 months.\nSee our latest analysis for Berkshire Hathaway.\nThe recent share price softness, with a 30 day share price return decline of 2.04% and a year to date share price return decline of 4.48%, contrasts with Berkshire Hathaway’s 3 year total shareholder return...",
+        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-brk.b/berkshire-hathaway/news/assessing-berkshire-hathaway-brkb-valuation-after-recent-sha-5",
+        "image": "https://images.simplywall.st/asset/company-cover/255251-main-header/1756254519057",
+        "publishedAt": "2026-04-18T21:33:45Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "United plane makes emergency landing in Pittsburgh over ‘possible security issue’",
-        "description": "Passengers on flight from Chicago to New York exited via slides as FBI, bomb technicians and K-9 unit responded",
-        "url": "https://www.theguardian.com/us-news/2026/apr/18/united-plane-emergency-landing-pittsburgh",
-        "image": "https://i.guim.co.uk/img/media/ece8ecd387fc8e648b98d6f3efc9f0b686137e55/219_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf424e9c88b3bb67347b6d39562682f3",
-        "publishedAt": "2026-04-18T20:31:00Z",
-        "source": "The Guardian"
+        "title": "Solaris Energy Infrastructure Shelf Plan Raises Dilution Questions And Valuation Focus",
+        "description": "Solaris Energy Infrastructure, NYSE:SEI, has filed a new $226 million shelf registration to offer additional Class A common stock.\nThe filing gives the company flexibility to issue new shares over time as funding needs arise.\nThe move follows a recent large debt facility amendment and recent expansion activity that increased the company’s capital needs.\nFor investors watching NYSE:SEI, the new shelf registration comes with the stock trading at $65.62 and very large 1-year and 3-year...",
+        "url": "https://simplywall.st/stocks/us/energy/nyse-sei/solaris-energy-infrastructure/news/solaris-energy-infrastructure-shelf-plan-raises-dilution-que",
+        "image": "https://images.simplywall.st/asset/industry/1022000-choice2-main-header/1585186558401",
+        "publishedAt": "2026-04-18T21:33:45Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Govt moves to end used car influx",
-        "description": "Govt moves to end used car influx",
-        "url": "https://tribune.com.pk/story/2603533/govt-moves-to-end-used-car-influx",
-        "image": "https://i.tribune.com.pk/media/images/ss1761868079-0/ss1761868079-0-640x480.webp",
-        "publishedAt": "2026-04-18T20:28:20Z",
-        "source": "The Express Tribune"
+        "title": "Allegion Highlights Data Center Security Offering While Shares Trade Below Targets",
+        "description": "Allegion (NYSE:ALLE) is showcasing integrated security solutions for data centers at Data Center World in Washington, D.C.\nThe company is highlighting a specialty door that combines Schlage and LCN hardware for live, on site demonstrations.\nThe focus is on robust physical security and design support tailored to large, mission critical data center facilities.\nFor investors tracking NYSE:ALLE, this event puts a spotlight on how Allegion is positioning its hardware and design capabilities for...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-alle/allegion/news/allegion-highlights-data-center-security-offering-while-shar",
+        "image": "https://images.simplywall.st/asset/industry/3031000-choice2-main-header/1585186655644",
+        "publishedAt": "2026-04-18T21:24:40Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "From smelters to servers: Alcoa to cash in on crypto’s thirst for energy",
-        "description": "Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.",
-        "url": "https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0e8aeeac906cd50168870a80d35f8d8db5317d27-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-18T20:24:16Z",
-        "source": "CoinDesk"
+        "title": "Three Irish Lotto players miss out on €7.1m jackpot as lucky punter becomes millionaire bagging Plus draw top prize",
+        "description": "ONE lucky Irish punter won a life-changing MILLION euro in today's Lotto plus 1 draw.\nTheir winning numbers were 2, 3, 5, 16, 32, 42 and a bonus...",
+        "url": "https://www.thesun.ie/money/16842389/ireland-lottery-winning-numbers-euromillions/",
+        "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/newspress-collage-q8gseilqo-1776545908504.jpg?quality=90&strip=all&1776549521&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-04-18T21:15:43Z",
+        "source": "The Irish Sun"
       },
       {
-        "title": "Banking the economy that actually exists",
-        "description": "As Union Bank enters its 109th year, the inclusion question is not peripheral to its institutional story. It is central to it. A bank that has been present in Nigeria since 1917 has watched the country’s economic structure change repeatedly.",
-        "url": "https://www.premiumtimesng.com/promoted/872896-banking-the-economy-that-actually-exists.html",
-        "image": "https://media.premiumtimesng.com/wp-content/files/2026/04/IMG_20260418_205629.jpg",
-        "publishedAt": "2026-04-18T20:04:57Z",
-        "source": "Premium Times Nigeria"
+        "title": "The RAM shortage could last years",
+        "description": "Memory makers are only expected to meet 60 percent of demand by the end of 2027.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-18T21:08:45Z",
+        "source": "The Verge"
       },
       {
-        "title": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
-        "description": "The Albanese government overhauled policy and promised significant pollution cuts – but carbon offsets are still being used as an excuse",
-        "url": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
-        "image": "https://i.guim.co.uk/img/media/8a6b78e977fc6f81e57358d8666573cb062d5987/227_0_2440_1952/master/2440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6ca5987631e94ebd33cafff41646f98",
-        "publishedAt": "2026-04-18T20:01:00Z",
-        "source": "The Guardian"
+        "title": "Retirement planning guide: Pros and cons of downsizing your family home",
+        "description": "For many New Zealanders, the “big downsize” has become a standard retirement plan: sell the family home, buy something smaller, and live off the proceeds. It...",
+        "url": "https://www.nzherald.co.nz/business/personal-finance/retirement-planning-guide-pros-and-cons-of-downsizing-your-family-home-diana-clement/premium/YQACRKAK2ZDDZNMSAWZDNPRH4E/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/ORHSLA3ISJBSHJRDSMXPN7OZ24.jpg?auth=3d1cac222a06ab1a3d8e1d7669a37f6a9dabc32977b3e43e02be8a31c9a071cf&width=1200&height=675&quality=70&focal=502%2C544&smart=false",
+        "publishedAt": "2026-04-18T21:03:16Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Dangote Refinery makes Nigeria net petrol exporter for the first time - Report",
-        "description": "For the first time in history, Nigeria, Africa’s largest oil producer, has become a net petrol exporter — a monumental shift spearheaded by the Dangote Petroleum Refinery & Petrochemicals. After decades of exporting crude oil and importing...",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Dangote-Refinery-makes-Nigeria-net-petrol-exporter-for-the-first-time-Report-2030683",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/112/11267250.jpg",
-        "publishedAt": "2026-04-18T20:00:42Z",
-        "source": "GhanaWeb"
+        "title": "ChatGPT owner’s London HQ clobbered by cobblestones",
+        "description": "Before OpenAI can move into its new offices, Victorian paving must be dug up and filed down to ensure the buildings comply with accessibility rules",
+        "url": "https://www.thetimes.com/business/companies-markets/article/chatgpt-owners-london-hq-cobblestones-bpn0jvfr7",
+        "image": "https://www.thetimes.com/imageserver/image/6071efa9-9065-4695-8fa1-ccbdf0ed277c.jpg?strip=all&format=webp&crop=1160px%2C652px%2C0px%2C11px&resize=1200",
+        "publishedAt": "2026-04-18T21:00:00Z",
+        "source": "The Times"
       },
       {
-        "title": "Air Force One's Special Engines: The Technology Keeping The President Safe At 40,000 Feet",
-        "description": "Inside Air Force One’s engines: from CF6 reliability to GEnx innovation, the technology that keeps the President safe in the skies.",
-        "url": "https://simpleflying.com/af1-special-engines-technolgy-president-safe-40000-feet/",
-        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/40000-feet.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-18T20:00:17Z",
-        "source": "Simple Flying"
+        "title": "Lloyds shut my account and now my £33,000 is missing",
+        "description": "Our consumer champion helps an expat whose account was closed because he couldn’t open an email to verify his address",
+        "url": "https://www.thetimes.com/money/ask-times-money/article/lloyds-shut-my-account-and-now-my-33000-is-missing-lhpkklfj0",
+        "image": "https://www.thetimes.com/imageserver/image/89cb19fc-6419-4049-a5af-6aa052477ff8.jpg?strip=all&format=webp&crop=6133px%2C3450px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-04-18T21:00:00Z",
+        "source": "The Times"
       }
     ],
     "science": [
+      {
+        "title": "Asteroid Bennu samples reveal ancient water channels",
+        "description": "A sample from Bennu reveals that water once flowed through hidden channels, preserving key compounds from the early days of the solar system.",
+        "url": "https://www.earth.com/news/asteroid-bennu-samples-reveal-ancient-water-channels/",
+        "image": "https://cff2.earth.com/uploads/2026/04/18144739/Bennu-asteroid.jpg",
+        "publishedAt": "2026-04-18T21:11:15Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Roman wall art shows advanced technique for paint conservation",
+        "description": "Archaeologists reveal a Roman technique that conserved red pigment without losing color, showcasing ancient ingenuity and luxury.",
+        "url": "https://www.earth.com/news/roman-wall-art-shows-advanced-technique-for-pigment-conservation/",
+        "image": "https://cff2.earth.com/uploads/2026/04/18041142/roman-paint-technique-red-pigment-cartagena.jpg",
+        "publishedAt": "2026-04-18T21:11:15Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Century Novel By Was The First To Predict Rocket Technology",
+        "description": "Space travel may seem like a modern phenomenon, but Cyrano de Bergerac first wrote about the idea in 1657. His groundbreaking novel predicted many technologies.",
+        "url": "https://www.bgr.com/2146845/17th-century-novel-cyrano-de-bergerac-first-predict-rocket-technology/",
+        "image": "https://www.bgr.com/img/gallery/this-17th-century-novel-was-the-first-to-predict-rocket-technology/l-intro-1775825758.jpg",
+        "publishedAt": "2026-04-18T20:47:00Z",
+        "source": "bgr.com"
+      },
       {
         "title": "Scientists build 'living reefs' that protect coasts and keep growing",
         "description": "A hybrid reef made of concrete and marine life could help shield coastlines, cutting wave energy and growing stronger over time.",
@@ -174,33 +198,57 @@
         "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt7c8f00b38c9b1574/69e3cb09feeec1b6d75740dd/artemis-walk.jpg",
         "publishedAt": "2026-04-18T19:27:01Z",
         "source": "UNILAD"
-      },
-      {
-        "title": "Astronomers Discover Surprising Sympathetic Flares on Distant Stars",
-        "description": "Scientists have discovered that the solar phenomenon of sympathetic flares, long seen only on our Sun, is common among distant stars.",
-        "url": "https://dailygalaxy.com/2026/04/astronomers-discover-flares-distant-stars/",
-        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/Astronomers-Discover-Sympathetic-Flares-on-Distant-Stars-scaled.png",
-        "publishedAt": "2026-04-18T19:15:00Z",
-        "source": "The Daily Galaxy"
-      },
-      {
-        "title": "Eta Aquariids meteor shower 2026 is coming. How can you see it?",
-        "description": "The shower, which peaks on May 5, is knowns for its fast-moving meteors and can enter the Earth's atmosphere at speeds topping 40 miles per second.",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/18/eta-aquariids-meteor-shower-2026/89607692007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/17/USAT/89660649007-usatsi-23936336.jpg?crop=1023,577,x0,y118&width=1023&height=577&format=pjpg&auto=webp",
-        "publishedAt": "2026-04-18T19:01:24Z",
-        "source": "USA Today"
-      },
-      {
-        "title": "NASA plans moon fire experiment to boost Artemis mission safety",
-        "description": "HOUSTON - NASA has announced the plans to ignite fire on the lunar surface in a first-of-its kind experiment, aiming to boost the safety of astronauts. After achieving",
-        "url": "https://www.nation.com.pk/19-Apr-2026/nasa-plans-moon-fire-experiment-boost-artemis-mission-safety",
-        "image": "https://www.nation.com.pk/print_images/large/2026-04-18/nasa-plans-moon-fire-experiment-boost-artemis-mission-safety-1776536847-8638.jpg",
-        "publishedAt": "2026-04-18T19:00:00Z",
-        "source": "The Nation (Pakistan )"
       }
     ],
     "ai": [
+      {
+        "title": "Judicial independence means freedom from AI influence: SC judge",
+        "description": "Supreme Court judge Justice BV Nagarathna on Saturday said judicial independence in the modern era is not just freedom from external power, but also from algorithmic influence.",
+        "url": "https://www.tribuneindia.com/news/top-headlines/judicial-independence-means-freedom-from-ai-influence-sc-judge/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMxYTVmOTMwLTNiNmQtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-18T21:29:55Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Charlize Theron Says AI Could Replace Timothée Chalamet But Not Ballet",
+        "description": "Charlize Theron censured Timothée Chalamet over his 'reckless' comments about ballet and opera, saying AI will soon replace his job.",
+        "url": "https://deadline.com/2026/04/charlize-theron-timothee-chalamet-ballet-opera-ai-1236865017/",
+        "image": "https://deadline.com/wp-content/uploads/2026/04/charlize-chalamet.jpg?w=1000",
+        "publishedAt": "2026-04-18T21:23:03Z",
+        "source": "Deadline"
+      },
+      {
+        "title": "AI tool helps paralysed patients communicate through blinks and focus; hospital to trial device",
+        "description": "Some 30 patients at Tan Tock Seng Hospital will be involved in the trial starting in June. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/tech/ai-tool-helps-paralysed-patients-communicate-through-blinks-and-focus-hospital-to-trial-device",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ca29da3686a2827ea1527e9e923629783890af45cbbb16a004fbcd52b6a624f0",
+        "publishedAt": "2026-04-18T21:00:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "ChatGPT owner’s London HQ clobbered by cobblestones",
+        "description": "Before OpenAI can move into its new offices, Victorian paving must be dug up and filed down to ensure the buildings comply with accessibility rules",
+        "url": "https://www.thetimes.com/business/companies-markets/article/chatgpt-owners-london-hq-cobblestones-bpn0jvfr7",
+        "image": "https://www.thetimes.com/imageserver/image/6071efa9-9065-4695-8fa1-ccbdf0ed277c.jpg?strip=all&format=webp&crop=1160px%2C652px%2C0px%2C11px&resize=1200",
+        "publishedAt": "2026-04-18T21:00:00Z",
+        "source": "The Sunday Times"
+      },
+      {
+        "title": "AirPods Pro 3 may let you talk to Siri without actually saying a word",
+        "description": "AirPods Pro 3 may do more than play music: with IR cameras and Q.ai's micro-facial-movement tech, Apple's next earbuds could let users control Siri in complete silence.",
+        "url": "https://www.digitaltrends.com/wearables/airpods-pro-3-may-let-you-talk-to-siri-without-actually-saying-a-word/",
+        "image": "https://www.digitaltrends.com/tachyon/2025/09/IMG_1493.jpg?resize=1200%2C630",
+        "publishedAt": "2026-04-18T20:51:12Z",
+        "source": "Digital Trends"
+      },
+      {
+        "title": "New artificial intelligence bots could drain nation's cash machines",
+        "description": "British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
+        "url": "https://www.dailymail.co.uk/money/markets/article-15744747/New-artificial-intelligence-bots-drain-nations-cash-machines.html",
+        "image": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991837-0-image-m-176_1776536330227.jpg",
+        "publishedAt": "2026-04-18T20:50:07Z",
+        "source": "Daily Mail Online"
+      },
       {
         "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
         "description": "The same ChatGPT chatbot that gave OpenAI’s chief financial officer Sarah Friar a tilapia recipe for a recent Sunday night dinner at home is also now doing her most mundane tasks at work like summarizing her emails and Slack messages. Friar and other company executives are banking OpenAI's future on…",
@@ -216,54 +264,6 @@
         "image": "https://cdn.mos.cms.futurecdn.net/LZASUhTibTvQeHgTZg773Y-2089-80.jpg",
         "publishedAt": "2026-04-18T20:05:00Z",
         "source": "TechRadar"
-      },
-      {
-        "title": "Single vote separates Nederland mayoral candidates",
-        "description": "The CEO of an AI company who helped lead the charge in Nederland's purchase of Eldora the incumbent mayor.",
-        "url": "https://www.dailycamera.com/2026/04/18/nederland-mayor-election-results/",
-        "image": "https://www.dailycamera.com/wp-content/uploads/2025/07/DCC-L-ELDORA_2MJ4790.jpg?w=1024&h=682",
-        "publishedAt": "2026-04-18T20:02:42Z",
-        "source": "Boulder Daily Camera"
-      },
-      {
-        "title": "‘No such thing as absolute safety’: Japan embraces nuclear post-Fukushima",
-        "description": "The country is rapidly moving to restart reactors as artificial intelligence increases electricity demand and foreign wars choke gas supplies.",
-        "url": "https://www.politico.com/news/2026/04/18/japan-nuclear-fukushima-energy-00816474",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1e%2F2a%2Fbf18e27e47918a4044439ecf69e9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2256821449",
-        "publishedAt": "2026-04-18T20:00:00Z",
-        "source": "POLITICO"
-      },
-      {
-        "title": "Zoom will now check if you are a human or an AI imposter during video meetings",
-        "description": "Zoom has launched human verification in video meetings, partnering with Sam Altman's World to display a \"Verified Human\" badge for participants whose identities pass a three-step biometric check.",
-        "url": "https://www.digitaltrends.com/computing/zoom-will-now-check-if-you-are-a-human-or-an-ai-imposter-during-video-meetings/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/Zoom-face-scan-technology.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-18T19:54:28Z",
-        "source": "Digital Trends"
-      },
-      {
-        "title": "US man, 36, dies by suicide after AI chat suggested ‘joining’ it in digital world: ‘I am scared to die'",
-        "description": "A Florida man’s death by suicide has triggered global debate on the psychological risks posed by increasingly human-like AI chatbots. Chat records cited in a lawsuit suggest the bot may have reinforced delusions, raising urgent questions about safety, regulation, and emotional dependency on AI.",
-        "url": "https://www.livemint.com/technology/tech-news/us-man-36-dies-by-suicide-after-ai-chat-suggested-joining-it-in-digital-world-i-am-scared-to-die-11776539461260.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/tech1_1734536428801_1734536438047.jpg",
-        "publishedAt": "2026-04-18T19:47:26Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Iran’s AI slopaganda: who is behind the giant billboards in Tehran?",
-        "description": "Three-storey images of Khamenei, Khomeini and Hormuz are being erected at ever greater speed. The timing is no accident",
-        "url": "https://www.thetimes.com/world/middle-east/article/iran-tehran-propaganda-billboards-j3fkrt3c2",
-        "image": "https://www.thetimes.com/imageserver/image/846919d5-c00d-4804-b8e4-3fbc77082d0e.jpg?strip=all&format=webp&crop=5152px%2C2898px%2C0px%2C226px&resize=1200",
-        "publishedAt": "2026-04-18T19:30:15Z",
-        "source": "The Sunday Times"
-      },
-      {
-        "title": "All Gemini users can now access Notebook projects on the web without paying a dime",
-        "description": "Gemini now lets all free users create Notebooks on the web, a shared workspace that syncs with NotebookLM. You can store files, past chats, and sources in one place for smarter AI responses.",
-        "url": "https://www.digitaltrends.com/computing/all-gemini-users-can-now-access-notebook-projects-on-the-web-without-paying-a-dime/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/gemini-notebooklm.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-18T19:28:56Z",
-        "source": "Digital Trends"
       }
     ]
   }
