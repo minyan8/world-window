@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-19T12:31:17.442Z",
+  "fetchedAt": "2026-04-19T13:41:57.963Z",
   "sections": {
     "world": [
       {
-        "title": "Hormuz standoff: Trump misread his leverage and overplayed his hand",
-        "description": "A brief reopening of the Strait of Hormuz offered hope for US-Iran ties. Oil prices fell and markets rallied. However, Iran quickly reversed course, shutting the strait again. This move contradicted US claims about negotiations. Experts suggest Trump may have misjudged his leverage, potentially hindering talks.",
-        "url": "https://economictimes.indiatimes.com/news/defence/hormuz-standoff-trump-misread-his-leverage-and-overplayed-his-hand/articleshow/130360323.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130360459,width-1200,height-630,imgsize-104518,overlay-etdefence/articleshow.jpg",
-        "publishedAt": "2026-04-19T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Lithuania, Latvia bar Slovak prime minister from using airspace for travel to Moscow",
+        "description": "Lithuania and Latvia will not let Slovak Prime Minister Robert Fico use their airspace to travel to Moscow for Russia's Victory Day celebrations in May, he said April 18.",
+        "url": "https://kyivindependent.com/lithuania-latvia-bar-slovak-prime-minister-from-using-airspace-for-travel-to-moscow/",
+        "image": "https://assets.kyivindependent.com/content/images/2026/03/GettyImages-2232743865.jpg",
+        "publishedAt": "2026-04-19T01:38:33Z",
+        "source": "The Kyiv Independent"
       },
       {
-        "title": "MSF worker deployed to S Sudan warns of rising attacks on healthcare facilities",
-        "description": "MSF project coordinator Lucy Lau said she had noticed an increased willingness in recent years to target civilian infrastructure and aid organisations in armed conflicts, resulting in greater difficulty in delivering humanitarian aid.",
-        "url": "https://hongkongfp.com/2026/04/19/growing-trend-worldwide-msf-worker-warns-of-rising-attacks-on-healthcare-facilities-after-s-sudan-hospital-strike/",
-        "image": "https://hongkongfp.com/wp-content/uploads/2026/04/‘Space-is-shrinking-MSF-coordinator-warns-of-rising-attacks-on-infrastructure-after-South-Sudan-hospital-strike.jpg",
-        "publishedAt": "2026-04-19T00:30:00Z",
-        "source": "Hong Kong Free Press HKFP"
+        "title": "French man, 86, issues historic apology for family’s role in transatlantic slavery",
+        "description": "Pierre Guillon de Prince believed to be first in France to formally apologise for ancestors’ connections to slavery",
+        "url": "https://www.theguardian.com/world/2026/apr/18/french-man-86-issues-historic-apology-for-familys-role-in-transatlantic-slavery",
+        "image": "https://i.guim.co.uk/img/media/b024bbc3ff31c4f5e825013f1c6e57f3def15e98/1143_999_3081_2465/master/3081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23d48504857a7a0dac5265b1c536fec0",
+        "publishedAt": "2026-04-19T01:35:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Trump's 'favourite field marshal' Asim Munir's Iran ties a red flag for US: Report",
-        "description": "General Munir is playing a key backchannel mediator between Washington and Tehran. However, critics argue that this positioning is complicated by his reported long-standing proximity to senior figures within Iran’s Islamic Revolutionary Guard Corps (IRGC).",
-        "url": "https://www.indiatoday.in/world/story/general-asim-munirs-reported-iran-ties-a-red-flag-for-us-intel-report-2898370-2026-04-19",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/donald-trump--asim-munir-195920799-16x9_0.jpg?VersionId=HPLTPw5WDQyy7rxdR3AJJtM1StNqJBvN",
-        "publishedAt": "2026-04-19T00:20:23Z",
-        "source": "India Today"
+        "title": "North Korea launches ballistic missiles toward sea",
+        "description": "North Korea launched multiple ballistic missiles toward the sea on Sunday, its neighbors said, the North's latest weapons testing activity this year.",
+        "url": "https://www.nbcnews.com/world/north-korea/north-korea-launches-ballistic-missiles-sea-rcna340834",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260418-north-korea-ww-1823-894b46.jpg",
+        "publishedAt": "2026-04-19T01:29:00Z",
+        "source": "NBC News"
       },
       {
-        "title": "MPs and govt agencies to discuss policy tweaks after residents’ feedback on vice in neighbourhoods",
-        "description": "An ST report had revealed a rise in the number of beauty and massage businesses in the heartland. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/mps-govt-agencies-discuss-policy-tweaks-following-residents-feedback-on-vice-in-neighbourhoods",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9d6b05bf20f8ca16f9011e0fc489a747838e1cec52976ae3b7ba7febb68488f4",
-        "publishedAt": "2026-04-19T00:14:34Z",
-        "source": "The Straits Times"
+        "title": "US strikes on alleged 'drug boats' spark legal controversy",
+        "description": "The US has carried out further attacks on alleged \"drug boats.\" Critics say the strikes are not only ineffective, they are also largely about appealing to Trump's own domestic base.",
+        "url": "https://www.dw.com/en/us-strikes-on-alleged-drug-boats-spark-legal-controversy/a-76844186",
+        "image": "https://static.dw.com/image/75177533_6.jpg",
+        "publishedAt": "2026-04-19T01:20:29Z",
+        "source": "DW.com"
       },
       {
-        "title": "'Shooting down F-35 not small event': Iran declares victory in war, Ghalibaf says negotiations 'far from final agreement'",
-        "description": "Iran’s parliament speaker Mohammad Bagher Ghalibaf claimed control over the Strait of Hormuz, warned the US over naval actions. He stressed Iran’s military strength, criticized the US blockade, and highlighted major differences in ongoing negotiations.",
-        "url": "https://www.wionews.com/photos/-shooting-down-f-35-not-small-event-iran-declares-victory-in-war-ghalibaf-says-negotiations-far-from-final-agreement-1776555686132",
-        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260419/image-1776556054489.png?imwidth=1200&imheight=900",
-        "publishedAt": "2026-04-19T00:13:00Z",
-        "source": "WION"
+        "title": "North Korea launches ballistic missiles toward sea",
+        "description": "North Korea launched multiple ballistic missiles toward the sea on Sunday, its neighbors said, the North’s latest weapons testing activity this year.",
+        "url": "https://www.castanet.net/news/World/609686/North-Korea-launches-ballistic-missiles-toward-sea",
+        "image": "https://www.castanet.net/content/2026/4/751fc3e5c0e35e28324de9a2104c9f8458430c400d70bb0b2c6b9bf05db09ef4.jpg",
+        "publishedAt": "2026-04-19T01:16:00Z",
+        "source": "Castanet"
       },
       {
-        "title": "NZDF in wargame based on Russian nuke taking out satellites",
-        "description": "The classified exercise was run by the American space warfighting agency, alongside 60 companies.",
-        "url": "https://www.rnz.co.nz/news/political/592786/nzdf-in-wargame-based-on-russian-nuke-taking-out-satellites",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--9Kg5fMAl--/t_tohu-badge-facebook/v1716371329/4KPRGQP_US_Space_Command_png?_a=BACCd2AD",
-        "publishedAt": "2026-04-19T00:04:50Z",
-        "source": "RNZ"
-      },
-      {
-        "title": "Spain, Brazil, Mexico vow to boost Cuba aid amid US threats",
-        "description": "The pledge comes amid a US oil embargo and Donald Trump's threats to invade the island. Leftist leaders meeting in Barcelona also spoke against the global far-right threat.",
-        "url": "https://www.dw.com/en/spain-brazil-mexico-vow-to-boost-cuba-aid-amid-us-threats/a-76845646",
-        "image": "https://static.dw.com/image/76845709_6.jpg",
-        "publishedAt": "2026-04-19T00:02:10Z",
+        "title": "Bodies of 50 babies, 6 adults found in Trinidad and Tobago",
+        "description": "Police made the grim discovery at a cemetery in Cumuto on the island of Trinidad. Initial probes suggest it was a case of \"unlawful disposal of unclaimed corpses.\"",
+        "url": "https://www.dw.com/en/bodies-of-50-babies-6-adults-found-in-trinidad-and-tobago/a-76845914",
+        "image": "https://static.dw.com/image/76845968_6.jpg",
+        "publishedAt": "2026-04-19T01:11:13Z",
         "source": "dw.com"
       },
       {
-        "title": "Dramatic day in Strait of Hormuz reflects uncertainty as ceasefire deadline approaches",
-        "description": "There is an intense uncertainty and volatility on the vital shipping waterway which is at the centre of a growing energy crisis.",
-        "url": "https://www.abc.net.au/news/2026-04-19/uncertainty-in-strait-of-hormuz-as-deadline-approaches/106580284",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4ce53a42e0d2fd05f747adfa36f38689?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-18T23:57:22Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Iran victorious in war with US: Speaker",
+        "description": "Iran's parliamentary speaker claims victory in the war with the US, stating a ceasefire was agreed upon after demands were met. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-victorious-in-war-with-us-speaker-says",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a17b1c753c6e870befd6a48b7bf0bddb402d43e603186d46bef5680e506686df",
+        "publishedAt": "2026-04-19T00:55:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "North Korea launches ballistic missiles toward sea",
+        "description": "South Korea's Joint Chiefs of Staff says the launches happened on Sunday morning from the North's eastern Sinpo area.",
+        "url": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+240/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F88%2F0d2fbede474b8f2dd08a64c282ac%2Fap26109016653999.jpg",
+        "publishedAt": "2026-04-19T00:54:43Z",
+        "source": "NPR"
       }
     ],
     "business": [
       {
-        "title": "Warrnambool real estate: Five homes sell as confidence grows",
-        "description": "Warrnambool’s property market saw five homes sell on April 18, 2026. Experts reveal why buyer confidence remains strong despite winter approaching.",
-        "url": "https://www.standard.net.au/story/9226917/warrnambool-real-estate-five-homes-sell-as-confidence-grows/",
-        "image": "https://www.standard.net.au/images/transform/v1/crop/frm/250523074/6e579ac4-0f9d-4ab0-9ade-f8834a876e21.jpg/r0_628_5712_3627_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-04-19T00:27:23Z",
-        "source": "The Standard | Warrnambool, VIC"
+        "title": "Evaluating Ericsson (OM:ERIC B) After Strong Returns And Mixed Signals On Valuation",
+        "description": "Telefonaktiebolaget LM Ericsson (OM:ERIC B) has drawn investor attention after recent share price moves, with the stock showing a mix of short term weakness and stronger performance over the past year.\nSee our latest analysis for Telefonaktiebolaget LM Ericsson.\nAt the current share price of SEK105.7, the stock has seen short term share price pressure, including a 1 day share price return decline of 4.13%, while longer term momentum remains positive with a 1 year total shareholder return of...",
+        "url": "https://simplywall.st/stocks/se/tech/sto-eric-b/telefonaktiebolaget-lm-ericsson-shares/news/evaluating-ericsson-omeric-b-after-strong-returns-and-mixed",
+        "image": "https://images.simplywall.st/asset/industry/8111000-choice2-main-header/1585186811567",
+        "publishedAt": "2026-04-19T01:41:59Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Regina residents rally against proposed AI data centre before RM of Sherwood council vote",
-        "description": "Nearly 200 people gathered at the legislature in Regina Saturday to protest the lack of consultation around Bell Canada's planned AI data centre, set to be built in Sherwood. The rural municipality's council is set to vote on the AI centre's development agreement on Monday.",
-        "url": "https://www.cbc.ca/news/canada/saskatchewan/ai-data-centre-protest-regina-9.7169295",
-        "image": "https://i.cbc.ca/ais/e835d6b6-a1c7-4a6d-8d5a-cd1ed6f8a873,1776557518209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C588%2C6000%2C3375%29%3BResize%3D620",
-        "publishedAt": "2026-04-19T00:27:00Z",
-        "source": "CBC"
+        "title": "ePlus’ AI-Era Memory Reclamation Push Might Change The Case For Investing In ePlus (PLUS)",
+        "description": "Earlier in April 2026, ePlus announced a Memory Optimization and Reclamation Assessment aimed at helping enterprises reclaim underused memory capacity amid severe AI-driven memory chip shortages and supply chain constraints identified by Gartner.\nBy focusing on uncovering “zombie” and stranded memory and providing an optimization roadmap with cost-avoidance insights, ePlus is positioning itself as a practical partner for customers struggling to secure or afford new memory hardware.\nNext,...",
+        "url": "https://simplywall.st/stocks/us/tech/nasdaq-plus/eplus/news/eplus-ai-era-memory-reclamation-push-might-change-the-case-f",
+        "image": "https://images.simplywall.st/asset/industry/8133000-choice2-main-header/1585186662886",
+        "publishedAt": "2026-04-19T01:41:59Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "The Australian",
-        "description": "No Cookies | The Australian",
-        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-        "publishedAt": "2026-04-19T00:24:54Z",
-        "source": "The Australian"
+        "title": "APA Production Cut Links Waha Gas Prices To Valuation Opportunity",
+        "description": "APA Corporation curtailed a significant amount of U.S. natural gas and NGL production in Q1 2026.\nThe decision was driven by unfavorable Waha hub pricing for natural gas.\nThe move reflects an operational adjustment that could affect revenue and production guidance.\nFor investors, this production cut comes with APA shares at $35.74, after a 40.9% gain year to date and a 133.3% return over the past year. Those figures sit alongside weaker recent trading, with a 7.5% decline over the past week...",
+        "url": "https://simplywall.st/stocks/us/energy/nasdaq-apa/apa/news/apa-production-cut-links-waha-gas-prices-to-valuation-opport",
+        "image": "https://images.simplywall.st/asset/industry/1032000-choice1-main-header/1585186548616",
+        "publishedAt": "2026-04-19T01:41:59Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Akshay Tritiya 2026: 31% Indians feel cheated buying silver; 93% back mandatory hallmarking, reveal survey",
-        "description": "A survey reveals that 31% of consumers feel cheated when buying silver, with 93% supporting mandatory hallmarking to ensure purity and quality of silver products.",
-        "url": "https://www.livemint.com/money/personal-finance/akshay-tritiya-2026-31-indians-feel-cheated-buying-silver-93-back-mandatory-hallmarking-reveal-survey-11776555590874.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/19/1600x900/logo/SWISS-SNB-RESULTS-0_1767152816158_1767152832358_1776557079289.JPG",
-        "publishedAt": "2026-04-19T00:15:27Z",
-        "source": "Mint"
+        "title": "ESCO Technologies Megger Deal Expands Grid Reliability And Earnings Story",
+        "description": "ESCO Technologies (NYSE:ESE) announced the acquisition and planned merger of Megger Group, a global provider of electrical testing and utility solutions.\nThe combination brings together two established players in grid reliability, predictive maintenance, and utility diagnostics.\nThe deal is structured to broaden ESCO's portfolio, with a focus on operational resilience and expanded service capabilities for utilities worldwide.\nESCO Technologies, trading at $314.92, has seen very strong...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ese/esco-technologies/news/esco-technologies-megger-deal-expands-grid-reliability-and-e",
+        "image": "https://images.simplywall.st/asset/industry/3072000-choice2-main-header/1585186655182",
+        "publishedAt": "2026-04-19T01:41:59Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "New Zealand First to campaign on breaking up supermarket duopoly",
-        "description": "New Zealand First says it will break up New Zealand’s supermarket duopoly as part of its election policy. The move is part of a three-point plan NZ First...",
-        "url": "https://www.nzherald.co.nz/business/new-zealand-first-to-campaign-on-breaking-up-supermarket-duopoly/XFTP27CLQVC3RCFERUJZSME43E/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/KIVIRRV2B5BHZKJZJZTPIBAJNI.jpg?auth=278645595876941da9f6887d5602f119f82b372403d8ac437907e644b5f2746c&width=1200&height=675&quality=70&focal=851%2C521&smart=false",
-        "publishedAt": "2026-04-19T00:14:04Z",
-        "source": "NZ Herald"
+        "title": "American Airlines Rebuffs United Merger And Doubles Down On Standalone Plan",
+        "description": "American Airlines Group, NasdaqGS:AAL, has publicly rejected the idea of a merger with United Airlines.\nThe company cited antitrust and competition concerns, emphasizing potential impacts on consumers.\nManagement reiterated a focus on pursuing its own independent plans rather than large scale airline consolidation.\nFor investors tracking NasdaqGS:AAL, this announcement comes with the share price around $12.78 and a value score of 1. Over the past week the stock return is 12.9%, and over the...",
+        "url": "https://simplywall.st/stocks/us/transportation/nasdaq-aal/american-airlines-group/news/american-airlines-rebuffs-united-merger-and-doubles-down-on",
+        "image": "https://images.simplywall.st/asset/industry/3221000-choice2-main-header/1585186666788",
+        "publishedAt": "2026-04-19T01:41:59Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Can you use generative AI in Family Court? The rules and risks – Ex",
-        "description": "Q: I am representing myself in a relationship property case in the Family Court. I have been using AI in some of my materials and have been finding it...",
-        "url": "https://www.nzherald.co.nz/business/can-you-use-generative-ai-in-family-court-the-rules-and-risks-ex-files/premium/LLKLFQFTCREJ3CGVQXIJUXDO5M/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/3CEDWJ4X35FT7FKD677XX2POLA.JPG?auth=da1f70e122dabd6338fd742124a1abd212d8641a8a3c1b3ed4b814532df077ab&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-04-19T00:04:58Z",
-        "source": "NZ Herald"
+        "title": "TTW Unveils Top 50 Airlines in the World for 2026",
+        "description": "/PRNewswire/ -- Travel And Tour World (TTW) announces its comprehensive global aviation research for 2026, presenting the Top 50 Airlines in the World, shaping...",
+        "url": "https://www.prnewswire.com/news-releases/ttw-unveils-top-50-airlines-in-the-world-for-2026-302746561.html",
+        "image": "https://mma.prnewswire.com/media/2959878/ttw_airlines_compressed_450kb__1.jpg?p=facebook",
+        "publishedAt": "2026-04-19T01:39:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Kelp DAO exploited for $292 million with wrapped ether stranded across 20 chains",
-        "description": "An attacker drained 116,500 rsETH, roughly 18% of circulating supply, from Kelp's LayerZero-powered bridge on Saturday, triggering emergency freezes across Aave, SparkLend, Fluid and Upshift.",
-        "url": "https://www.coindesk.com/tech/2026/04/19/2026-s-biggest-crypto-exploit-kelp-dao-hit-for-usd292-million-with-wrapped-ether-stranded-across-20-chains",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-19T00:02:38Z",
-        "source": "CoinDesk"
+        "title": "INTERVIEW: TSE Planning New Disclosure Rules for Midsize Firms",
+        "description": "Tokyo, April 19 (Jiji Press)--Tokyo Stock Exchange Inc. plans to introduce new disclosure rules for midsize co…",
+        "url": "https://www.nippon.com/en/news/yjj2026041800336/",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/2989899/2989899.jpg",
+        "publishedAt": "2026-04-19T01:30:41Z",
+        "source": "nippon.com"
       },
       {
-        "title": "5 Key Regulatory Changes Banks Must Know",
-        "description": "UAE tightens AML rules for banks and exchange houses, with stricter risk monitoring, customer checks and cross-border oversight. Here are 5 key changes to know.",
-        "url": "https://gulfnews.com/business/banking/uae-banks-face-tighter-aml-rules-5-key-changes-to-know-1.500509254",
-        "image": "https://media.assettype.com/gulfnews%2F2024-11-17%2F7onk3g1g%2FStock_Money_laundering_17b077b0206_original_ratio.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-19T00:01:00Z",
-        "source": "Gulf News"
+        "title": "Conflict cuts luxury’s Middle East boom",
+        "description": "Luxury’s fortunes in the Middle East have flipped almost overnight, turning what was once the industry’s most dependable growth story into a source of.",
+        "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/conflict-cuts-luxurys-middle-east-boom/articleshow/130353298.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130353298,width-1280,height-720,imgsize-186092,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-19T01:30:00Z",
+        "source": "The Times of India"
       }
     ],
     "science": [
+      {
+        "title": "Artemis II Astronauts Reveal Persistent Spacecraft Toilet Malfunction During Historic Deep Space Mission",
+        "description": "Article by Viory Astronauts from NASA’s Artemis II mission spoke candidly on Thursday about a recurring technical issue with the",
+        "url": "https://wakeup.sg/deep-space-mission/",
+        "image": "https://media.wakeup.sg/wp-content/uploads/2026/04/Ella-Feature-Image-Edit-12-1.png",
+        "publishedAt": "2026-04-19T01:30:44Z",
+        "source": "Wake Up Singapore"
+      },
+      {
+        "title": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals",
+        "description": "Tiny organisms on the ground – bacteria and fungi – have a \"superpower\" that allows them to reach up into the atmosphere and pull down the rain, according to a recent study.",
+        "url": "https://www.sciencealert.com/tiny-microbes-hiding-in-soil-may-help-pull-rain-from-the-sky-study-reveals",
+        "image": "https://www.sciencealert.com/images/2026/04/Sprout-growing-in-soil-with-raindrops-on-it-.jpg",
+        "publishedAt": "2026-04-19T01:04:10Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "Penn, CHOP Clinch Breakthrough Prize for Gene Therapy",
+        "description": "LOS ANGELES- Their discovery started with a group of blind dogs living at a vet school. Now, the work has been awarded the prestigious Breakthrough",
+        "url": "https://www.miragenews.com/penn-chop-clinch-breakthrough-prize-for-gene-1657815/",
+        "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
+        "publishedAt": "2026-04-19T01:02:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Scientists recreate a rare cosmic reaction never seen before",
+        "description": "Scientists recreate a previously unseen cosmic reaction and reveal how rare elements are formed in stellar explosions",
+        "url": "https://www.earth.com/news/scientists-recreate-a-rare-cosmic-reaction-never-seen-before/",
+        "image": "https://cff2.earth.com/uploads/2026/04/17202828/rare-cosmic-reaction-selenium-supernova-experiment.jpg",
+        "publishedAt": "2026-04-19T00:51:50Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Boston researchers take home top science honors",
+        "description": "Boston researchers were honored for their work from physics to cosmology to gene editing.",
+        "url": "https://www.bostonglobe.com/2026/04/18/business/breakthrough-award-winners-boston/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/2WSLQ4YCY4CWFJWEUVHAWGAMGM.jpg?auth=0c223853d7c563a38798c39fe7d5942bb86a77227722ba4e9e0e16bca628e251&width=1440",
+        "publishedAt": "2026-04-19T00:31:23Z",
+        "source": "The Boston Globe"
+      },
+      {
+        "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
+        "description": "Dr. Swee Lay Thein and Dr. Stuart Orkin won the $3 million Breakthrough Prize in Life Sciences for their work toward a functional cure for the deadly blood disorders sickle cell disease and beta thala...",
+        "url": "https://www.yahoo.com/news/articles/3-million-prize-goes-duo-000000809.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/XDRw7uQYqKrzUTfAjhUp.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/live_science_953/d259cee959b7798f5c993cdb6c5aed7d",
+        "publishedAt": "2026-04-19T00:00:00Z",
+        "source": "Yahoo"
+      },
       {
         "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy",
         "description": "Dr. Swee Lay Thein and Dr. Stuart Orkin won the $3 million Breakthrough Prize in Life Sciences for their work on a functional cure for the deadly blood disorders sickle cell disease and beta thalassemia.",
@@ -150,57 +198,33 @@
         "image": "https://astrobiology.com/wp-content/uploads/2026/04/Interstellar-Spacecraft-Voyager.png",
         "publishedAt": "2026-04-18T23:36:42Z",
         "source": "astrobiology.com"
-      },
-      {
-        "title": "\"Immature\" Lunar Soil Could Be Suitable for Roadways on the Moon",
-        "description": "Using lunar regolith simulant, a team of researchers demonstrated that",
-        "url": "https://www.universetoday.com/articles/immature-lunar-soil-could-be-suitable-for-roadways-on-the-moon",
-        "image": "https://www.universetoday.com/article_images/viper_cdr_hero_08_lrg_20260418_224411.jpeg",
-        "publishedAt": "2026-04-18T22:44:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Fuel costs no obstacle as West Australian aurora chasers hit the road",
-        "description": "For Leonie and Dean McFaull, fuel prices aren't stopping them crossing the country to add to their capture of more than 100 auroras.",
-        "url": "https://www.abc.net.au/news/2026-04-19/fuel-cost-no-obstacle-for-aurora-australis-hunters/106567626",
-        "image": "https://live-production.wcms.abc-cdn.net.au/40605b38270325c83a6cb2e55bdcee4d?impolicy=wcms_watermark_news&cropH=899&cropW=1599&xPos=0&yPos=167&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-18T22:25:38Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Aging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial aging",
-        "description": "Mitochondrial dysfunction is a prominent hallmark of aging contributing to the decline of metabolic plasticity in late life. While genetic distortions of mitochondrial integrity elicit premature aging, the mechanisms leading to “natural” aging of mitochondria are less clear. Here we use proteomics, lipidomics, genetics and functional tests in wild type Caenorhabditis elegans and long-lived clk-1(qm30) and isp-1(qm150) mitochondrial mutants to identify molecular pathways that support longevity amid persistent mitochondrial inefficiency. These tests and subsequent transcriptomics and metabolomics analyses in humans reveal aging-associated decline of phosphatidylcholine synthesis as a trigger of mitochondrial network disruption, which contributes to mitochondrial dysfunction during normal aging. Moreover, ectopic boosting of phosphatidylcholine levels via diet restores late life mitochondrial integrity in vivo in nematodes and reinstates metabolic resilience in human cell culture tests. We thus describe a previously unrecognized natural driver of mitochondrial decline in aging that is malleable by dietary interventions. Mitochondrial decline impairs late-life metabolic plasticity. Using nematodes and human data, this study identifies reduced phosphatidylcholine synthesis as a natural trigger of mitochondrial dysfunction during aging.",
-        "url": "https://www.nature.com/articles/s41467-026-71508-7?error=cookies_not_supported&code=0fa716a8-efc1-4495-ab4c-1210d66e061b",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71508-7/MediaObjects/41467_2026_71508_Fig1_HTML.png",
-        "publishedAt": "2026-04-18T22:18:45Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Wild drone video shows SoCal surfers paddling inches away from great white sharks",
-        "description": "Right before the wave ride, one can see a shark lurking right beneath the water's surface directly underneath the surfer.",
-        "url": "https://nypost.com/2026/04/18/science/wild-drone-video-shows-socal-surfers-paddling-inches-away-from-great-white-sharks/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125948509.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-18T21:50:00Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "Earth Asteroid 2026 HJ very close encounter: an image",
-        "description": "Near-Earth Asteroid 2026 HJ was safely coming very close to us on 18 April 2026, when spotted by Gianluca Masi at Virtual Telescope Project",
-        "url": "https://www.virtualtelescope.eu/2026/04/18/near-earth-asteroid-2026-hj-very-close-encounter-an-image-18-april-2026/",
-        "image": "https://www.virtualtelescope.eu/wordpress/wp-content/uploads/2026/04/2026HJ_18apr2026_pw17_masi.jpg",
-        "publishedAt": "2026-04-18T21:47:16Z",
-        "source": "The Virtual Telescope Project 2.0"
-      },
-      {
-        "title": "Asteroid Bennu samples reveal ancient water channels",
-        "description": "A sample from Bennu reveals that water once flowed through hidden channels, preserving key compounds from the early days of the solar system.",
-        "url": "https://www.earth.com/news/asteroid-bennu-samples-reveal-ancient-water-channels/",
-        "image": "https://cff2.earth.com/uploads/2026/04/18144739/Bennu-asteroid.jpg",
-        "publishedAt": "2026-04-18T21:11:15Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
+      {
+        "title": "AI is not eating up China’s software market but turbocharging it: HSBC analyst",
+        "description": "Legacy Chinese SaaS firms are integrating AI into their offerings and seeing ‘significant robust growth’ as a result, Liu said.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3350586/ai-not-eating-chinas-software-market-turbocharging-it-hsbc-analyst",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/18/1c4951a9-d4f0-4465-b7ab-a381271870a6_e366aa3e.jpg?itok=SNE1U65g&v=1776517214",
+        "publishedAt": "2026-04-19T01:00:19Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "FAA accepting bids for AI system to assist air traffic controllers",
+        "description": "The FAA is working to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.",
+        "url": "https://www.upi.com/Top_News/US/2026/04/18/faa-bids-ai-system-air-traffic-control-assistance/7181776557305/",
+        "image": "https://cdnph.upi.com/sv/ph/og/upi_com/7181776557305/2026/1/202c1fa298e7e03e9752a902cb2944dd/v1.5/FAA-accepting-bids-for-AI-system-to-assist-air-traffic-controllers.jpg",
+        "publishedAt": "2026-04-19T00:52:20Z",
+        "source": "UPI News"
+      },
+      {
+        "title": "Srinivas Narayanan, Kevin Weil, Bill Peebles: OpenAI lost 3 executives in one day as science division shuts down",
+        "description": "OpenAI lost Kevin Weil, Srinivas Narayanan and Bill Peebles in a single day as its science division was dissolved and Prism folded into Codex. Here's what happened.",
+        "url": "https://www.livemint.com/companies/news/srinivas-narayanan-kevin-weil-bill-peebles-openai-lost-3-executives-in-one-day-as-science-division-shuts-down-11776557240056.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/19/1600x900/logo/AWARDS-BREAKTHROUGH-PRIZE--10_1776557727013_1776557918346.JPG",
+        "publishedAt": "2026-04-19T00:33:08Z",
+        "source": "Livemint"
+      },
       {
         "title": "Regina residents rally against proposed AI data centre before RM of Sherwood council vote",
         "description": "Nearly 200 people gathered at the legislature in Regina Saturday to protest the lack of consultation around Bell Canada's planned AI data centre, set to be built in Sherwood. The rural municipality's council is set to vote on the AI centre's development agreement on Monday.",
@@ -240,30 +264,6 @@
         "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/17/d54e4ff1-e1fd-4748-b630-f15cebcf9e87_929393e0.jpg?itok=RKh8u5TF&v=1776422010",
         "publishedAt": "2026-04-19T00:00:17Z",
         "source": "South China Morning Post"
-      },
-      {
-        "title": "Redistricting session delayed as DeSantis adds AI, vaccines to agenda",
-        "description": "TALLAHASSEE – Florida’s special session on redistricting will be delayed one week, after Gov.",
-        "url": "https://www.aroundosceola.com/news-statewide-news/redistricting-session-delayed-desantis-adds-ai-vaccines-agenda",
-        "image": "http://www.aroundosceola.com/sites/aroundosceola.com/files/2026-04/DeSantis.jpg",
-        "publishedAt": "2026-04-19T00:00:00Z",
-        "source": "Around Osceola"
-      },
-      {
-        "title": "[Tech Thoughts] Wartime AI slopaganda is a symptom of worse things",
-        "description": "Even as we are pummeled with disinformation and AI-fueled propaganda, so many things can exist as true at the same time",
-        "url": "https://www.rappler.com/technology/features/wartime-ai-slopaganda-symptom-worse-things/",
-        "image": "https://www.rappler.com/tachyon/2026/04/AI-Slopaganda.jpg",
-        "publishedAt": "2026-04-19T00:00:00Z",
-        "source": "Rappler"
-      },
-      {
-        "title": "As if the plate wasn't already full, AI is about to worsen the global e-waste crisis",
-        "description": "AI growth could add up to 5 million metric tons of e-waste by 2030, as rapid hardware upgrades and data center expansion increase environmental impact.",
-        "url": "https://www.digitaltrends.com/cool-tech/as-if-the-plate-wasnt-already-full-ai-is-about-to-worsen-the-global-e-waste-crisis/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/Stack-of-graphics-cards-and-motherboards-in-a-landfill-site-e-waste.jpg?resize=1200%2C630",
-        "publishedAt": "2026-04-18T23:58:19Z",
-        "source": "Digital Trends"
       }
     ]
   }
