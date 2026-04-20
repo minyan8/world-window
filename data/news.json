@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-20T01:05:00.761Z",
+  "fetchedAt": "2026-04-20T02:00:35.046Z",
   "sections": {
     "world": [
       {
-        "title": "‘It was constant chaos’: ex-Infowars producer on life under Alex Jones",
-        "description": "Book from Josh Owens tells of punishing work for far-right conspiracy theorist who, far from silenced, broadcasts on",
-        "url": "https://www.theguardian.com/us-news/2026/apr/19/alex-jones-josh-owens-infowars",
-        "image": "https://i.guim.co.uk/img/media/7c9a23346259d7ae87a3c21c6f8a6e6ae8cbeb7a/679_0_6793_5435/master/6793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b24a8fb2f9955a49ae3cecec2d0da445",
-        "publishedAt": "2026-04-19T13:01:00Z",
-        "source": "The Guardian"
+        "title": "Some 450 medieval cannonballs were unearthed at a construction site in Belgium",
+        "description": "Archaeologists uncovered around 450 medieval cannonballs at a construction site in Nieuwpoort, Belgium. The cache dates between 1350 and 1600 A.D. and may be a first-of-its-kind find.",
+        "url": "https://www.foxnews.com/travel/highly-unusual-cannonball-cache-found-construction-site-coastal-city-may-worlds-first",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/BELGIUM-ANCIENT-CANNONBALLS-FOUND-ARCHAEOLOGY-HISTORY-DISCOVERY-MEDIEVAL-1.jpeg",
+        "publishedAt": "2026-04-19T14:00:34Z",
+        "source": "Fox News"
       },
       {
-        "title": "'Will knock out every power plant’: Trump warns Iran again; US delegation going to Pakistan for talks on April 20",
-        "description": "US News: US president Donald Trump on Sunday said a US delegation will travel to Islamabad for fresh talks with Iran, days after an earlier round of negotiatio.",
-        "url": "https://timesofindia.indiatimes.com/world/us/will-knock-out-every-power-plant-trump-warns-iran-again-us-delegation-going-to-pakistan-for-talks-on-april-20/articleshow/130370415.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130370921,width-1280,height-720,imgsize-34606,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-19T13:01:00Z",
-        "source": "The Times of India"
+        "title": "Book Review: ‘When We See You Again,’ by Rachel Goldberg-Polin",
+        "description": "Rachel Goldberg-Polin’s precise and devastating memoir chronicles the 328 days her son was held hostage in Gaza, and what came after.",
+        "url": "https://www.nytimes.com/2026/04/19/books/review/rachel-goldberg-polin-when-we-see-you-again.html",
+        "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19tbr-goldberg-polin-review-1-gbmj/19tbr-goldberg-polin-review-1-gbmj-facebookJumbo.jpg",
+        "publishedAt": "2026-04-19T13:57:47Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Contrast between Uganda's growth and people's poverty worries World Bank",
-        "description": "Kampala, Uganda | URN | ‎‎The World Bank has hailed Uganda’s high economic growth rates but noted that this is not corresponding with the improvement in people’s livelihoods. ‎Ndiame Diop, the Bank’s Vice-President for Africa lauded Uganda for the macroeconomic stability but urged the country to translate the growth of the economy into good jobs …",
-        "url": "https://www.independent.co.ug/contrast-between-ugandas-growth-and-peoples-poverty-worries-world-bank/",
-        "image": "https://www.independent.co.ug/wp-content/uploads/2026/04/Uganda-delegation-right-interacting-with-the-World-Bank-Africa-Region-department.jpg",
-        "publishedAt": "2026-04-19T13:00:27Z",
-        "source": "The Independent Uganda"
+        "title": "Trump says US delegation going to Pakistan Monday for Iran negotiations",
+        "description": "WASHINGTON,UNITED STATES — President Donald Trump said US negotiators will be in Pakistan Monday to resume talks on ending the war with Iran, as he again threatened to destroy its power plants and bridges if no deal is reached.",
+        "url": "https://www.manilatimes.net/2026/04/19/news/world/trump-says-us-delegation-going-to-pakistan-monday-for-iran-negotiations/2323487",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/19/1019536.jpg",
+        "publishedAt": "2026-04-19T13:57:00Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Nairobi to host global medical expo in April",
-        "description": "Investors, manufacturers, suppliers and policymakers in the medical industry will meet in Nairobi for the annual medical expo.",
-        "url": "https://www.standardmedia.co.ke/health/health-science/article/2001545759/nairobi-to-host-global-medical-expo-in-april",
-        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/6YtAt7AmC06uQEMBxAsWz3T2EM7GA3xYc20q5kRk.jpg",
-        "publishedAt": "2026-04-19T12:59:33Z",
-        "source": "standardmedia.co.ke"
+        "title": "West Africa Bank Commits €310M to Guinea's Simandou 2040 Development Plan",
+        "description": "The Economic Community of West African States Bank for Investment and Development, or EBID, has signed a financing agreement with the Republic of Guinea covering six priority projects valued at more than €310.5 million ($387.9 million) under Guinea's national development plan, Simandou 2040. The memorandum of understanding was signed April…",
+        "url": "https://bantugazette.com/west-africa-bank-commits-e310m-to-guineas-simandou-2040-development-plan/",
+        "image": "https://bantugazette.com/wp-content/uploads/2026/04/Simandou-2040.-programme-de-developpement-socio-economique-de-la-Republique-de-Guinee.-Bantu-Gazette.jpg",
+        "publishedAt": "2026-04-19T13:52:44Z",
+        "source": "Bantu Gazette"
       },
       {
-        "title": "Veteran journalist shot dead in Uganda",
-        "description": "A retired veteran Ugandan journalist and author was shot dead by a masked man near his home in capital Kampala, police said Sunday. Joe Nam, 55, worked for state media",
-        "url": "https://www.24newshd.tv/19-Apr-2026/veteran-journalist-shot-dead-uganda",
-        "image": "https://www.24newshd.tv/digital_images/large/2026-04-19/veteran-journalist-shot-dead-uganda-1776603521-7306.png",
-        "publishedAt": "2026-04-19T12:59:05Z",
-        "source": "24 News HD"
+        "title": "Trump threatens to target Iran infrastructure if talks fail",
+        "description": "The President of the United States, Donald Trump, has announced that American negotiators will travel to Pakistan on Monday to continue discussions aimed",
+        "url": "https://dailypost.ng/2026/04/19/trump-threatens-to-target-iran-infrastructure-if-talks-fail/",
+        "image": "https://dailypost.ng/wp-content/uploads/2026/04/Trump-3.jpg",
+        "publishedAt": "2026-04-19T13:51:07Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Attempted arson at London synagogue is 3rd attack on Jewish site in past week: \"Sustained campaign of violence\"",
-        "description": "U.K. counterterrorism police are investigating a spate of arson attacks against Jewish sites in London.",
-        "url": "https://www.cbsnews.com/news/arson-attack-london-kenton-united-synagogue-antisemitism/",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/19/014c396e-111c-4b27-98fe-d5bfb77cc5d3/thumbnail/1200x630/18f6d7969a6683f265bd38a160cdd09a/gettyimages-2271516096.jpg",
-        "publishedAt": "2026-04-19T12:58:00Z",
-        "source": "CBS News"
+        "title": "Trump managing Iran war based on conflicting caprices that blindside his aides — report",
+        "description": "WSJ says advisers have urged US president to curb his improvised social media posts and media interviews; Trump yelled at aides 'for hours' when US jet was downed, was kept from situation room",
+        "url": "https://www.timesofisrael.com/trump-managing-iran-war-based-on-conflicting-caprices-that-blindside-his-aides-report/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26108712459309-e1776578241155.jpg",
+        "publishedAt": "2026-04-19T13:45:32Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Trump says U.S. negotiators will be in Pakistan on Monday for talks with Iran",
-        "description": "Shipping through the Strait of Hormuz was at a standstill on Sunday after Iran reasserted control over the strategic waterway that is key to global energy supply, days before a fragile ceasefire with the United States was set to expire.",
-        "url": "https://www.cbc.ca/news/world/strait-of-hormuz-blocked-peace-talks-9.7169599",
-        "image": "https://i.cbc.ca/ais/c0f9df8f-6429-40f5-b0bf-cafb3a9cf60d,1776602062562/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4608%2C2592%29%3BResize%3D620",
-        "publishedAt": "2026-04-19T12:53:14Z",
-        "source": "CBC"
+        "title": "Trump says Iran talks in Pakistan this week amid Strait of Hormuz stand-off",
+        "description": "The US President has again threatened to strike civilian infrastructure if Tehran does not agree to a deal. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/trump-says-iran-talks-in-pakistan-this-week-amid-strait-of-hormuz-stand-off",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0fdb227dc0e2d71eed7879c6aa81fd87c12f05f6ce6fddbeb1361dd77aa827b3",
+        "publishedAt": "2026-04-19T13:45:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Iran US War LIVE: Trump says US reps will be in Pak for more negotiations on Monday; accuses Iran of ceasefire violation",
-        "description": "Iran US War LIVE: US President Donald Trump on Sunday said that US representatives will be in Pakistan tomorrow, renewing hopes for a possible peace deal with Tehran to end the six-week-long conflict.",
-        "url": "https://www.livemint.com/news/world/iran-us-war-live-indian-ships-strait-of-hormuz-donald-trump-brent-crude-price-today-april-19-sanmar-herald-hezbollah-11776564846064.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/19/1600x900/logo/Trump_1776526185296_1776526185413_1776602055315.jpg",
-        "publishedAt": "2026-04-19T12:53:02Z",
-        "source": "Mint"
+        "title": "India sends humanitarian assistance to African nations as US",
+        "description": "Cape Town, April 19 (SocialNews.XYZ) In recent weeks, India has sent 1,000 metric tonnes of rice to drought-stricken Malawi, 1,000 metric tonnes to Burkina Faso, and 500 metric tonnes plus relief supplies, including tents, hygiene... - Social News XYZ",
+        "url": "https://www.socialnews.xyz/2026/04/19/india-sends-humanitarian-assistance-to-african-nations-as-us-iran-war-exacerbates-food-crisis-report/",
+        "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/04/19/20260310377f-scaled.jpg?fit=2560%2C1704&quality=80&zoom=1&ssl=1",
+        "publishedAt": "2026-04-19T13:41:37Z",
+        "source": "Social News XYZ"
       }
     ],
     "business": [
       {
-        "title": "Nomura survey shows rising institutional crypto adoption driven by regulation and diversification",
-        "description": "Institutional investors are warming to crypto as regulation improves and new products emerge, according to a Nomura survey showing growing allocations and broader use cases.",
-        "url": "https://www.coindesk.com/business/2026/04/19/nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-diversifier",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/25090ff126224815eb4859930f8912dbba7ec186-7952x5304.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-19T13:04:19Z",
-        "source": "CoinDesk"
+        "title": "Gas prices may not drop under $3 until next year: Wright",
+        "description": "Gas prices are more than $4 per gallon on average in the U.S. right now, a massive spike from just months ago.",
+        "url": "https://www.cnbc.com/2026/04/19/gas-prices-drop-until-next-year-wright.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108292020-17762799072026-04-15t185748z_1982747551_rc2upkav59ur_rtrmadp_0_usa-congress-energy.jpeg?v=1776279975&w=1920&h=1080",
+        "publishedAt": "2026-04-19T14:00:35Z",
+        "source": "CNBC"
       },
       {
-        "title": "UK seeks EU deals on steel and EVs in push for closer economic ties",
-        "description": "Agreements would aim to shield British industry from new steel tariffs and stricter rules on electric vehicles due in 2027",
-        "url": "https://www.theguardian.com/politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
-        "image": "https://i.guim.co.uk/img/media/8ab0cdf0d430e3257ca969f133bc738343df5ddc/202_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcae0db69cc68f7a0fdfebb808d385bc",
-        "publishedAt": "2026-04-19T13:01:00Z",
-        "source": "The Guardian"
+        "title": "Consumer habits shifting amid economic anxiety, Kamloops business owners say",
+        "description": "As the cost of everything from gas to groceries continues to rise, many British Columbians are choosing to be a little more careful about where they park their hard-earned dollars.",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-b-c-consumer-spending-economy-9.7167635",
+        "image": "https://i.cbc.ca/ais/f3c8131b-a89c-4de4-b9da-b63f9647a095,1776438881813/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3520%2C1980%29%3BResize%3D620",
+        "publishedAt": "2026-04-19T14:00:00Z",
+        "source": "CBC"
       },
       {
-        "title": "Iran conflict to keep market sentiment wary",
-        "description": "PHILIPPINE SHARES may move sideways this week as investors continue to await news of progress in negotiations between the United States and Iran as the Middle East conflict drags on. On Friday, the Philippine Stock Exchange index (PSEi) fell by 1.06% or 64.56 points to close at 5,999.13, while the broader all shares index went […]",
-        "url": "https://www.bworldonline.com/stock-market/2026/04/19/743869/us-iran-conflict-to-keep-market-sentiment-wary/",
-        "image": "https://www.bworldonline.com/wp-content/uploads/2021/12/PSEPSE-Trading-Floor-090920-5.jpg",
-        "publishedAt": "2026-04-19T13:00:33Z",
-        "source": "BusinessWorld - BusinessWorld Online"
+        "title": "'524 packages, 421 locations': Amazon delivery driver shows 'normal' routine, video goes viral",
+        "description": "In the clip, the driver begins by showing her route details, which include more than 300 stops, over 500 packages, and hundreds of delivery locations. | Trending",
+        "url": "https://www.hindustantimes.com/trending/524-packages-421-locations-amazon-delivery-driver-shows-normal-routine-video-goes-viral-101776606070843.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/19/550x309/amazon_1776606385922_1776606410061.jpg",
+        "publishedAt": "2026-04-19T13:55:49Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Big Tech’s $4 Trillion Boomerang Powers S&P 500 to New Heights",
-        "description": "Big Tech stocks are back and powering the S&P 500 Index to new highs, giving investors confidence that the latest equity market rally has room to run even as the risks from the war with Iran remain.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-19/big-tech-s-4-trillion-boomerang-powers-s-p-500-to-new-heights",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYCu9GfKXgg/v0/1200x800.jpg",
-        "publishedAt": "2026-04-19T13:00:07Z",
-        "source": "Bloomberg.com"
+        "title": "Breaking Stocks Meet Tesla (TSLA) Earnings and Diplomatic Breakthroughs",
+        "description": "Markets hit fresh records for third straight week. Tesla earnings, Iran negotiations, retail sales figures, and Intel results highlight the week ahead.",
+        "url": "https://parameter.io/market-preview-record-breaking-stocks-meet-tesla-tsla-earnings-and-diplomatic-breakthroughs/",
+        "image": "https://parameter.io/wp-content/uploads/2026/04/Tesla-7.webp",
+        "publishedAt": "2026-04-19T13:52:50Z",
+        "source": "parameter.io"
       },
       {
-        "title": "I only work 6 hours a week and pay £125 a month on bills",
-        "description": "AFTER five years working a hectic job in the NHS as a project manager, Eva Outram was fed up with feeling stressed and unfulfilled.\nNow, her...",
-        "url": "https://www.thesun.co.uk/money/38846281/ditched-nhs-job-caravan/",
-        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/04/exchange-working-six-hours-week-1074170044_e00532.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-04-19T13:00:00Z",
-        "source": "The Sun"
+        "title": "Chery's Exeed EX7 launched with electronic‑mechanical braking and 1,520 km range, from 29,300 USD",
+        "description": "Chery launched the Exeed EX7 with BEV and EREV powertrains, highlighting EMB brakes, 800V charging and up to 1,520 km range.",
+        "url": "https://carnewschina.com/2026/04/19/cherys-exeed-ex7-launched-with-electronic-mechanical-braking-and-1520-km-range-from-29300-usd/",
+        "image": "https://carnewschina.com/wp-content/uploads/2026/04/e58ebbe999a4e8bda6e7898c_webhook_1500x900_q85_1776606746.jpg",
+        "publishedAt": "2026-04-19T13:52:00Z",
+        "source": "CarNewsChina.com"
       },
       {
-        "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-        "description": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
-        "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
-        "publishedAt": "2026-04-19T12:52:26Z",
-        "source": "BBC"
+        "title": "Activist investors seek to oust Radcom board",
+        "description": "Value Base has joined forces with the late founder’s children in efforts to oust the chairman and most of the board, including the late founder’s second wife.",
+        "url": "https://en.globes.co.il/en/article-activist-investors-seek-to-oust-radcom-board-1001540462",
+        "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776351530/direct/P-20-800_ykjwcp.png",
+        "publishedAt": "2026-04-19T13:50:55Z",
+        "source": "Globes - Israel Business News"
       },
       {
-        "title": "Cracks are starting to form on fusion energy’s funding boom",
-        "description": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
-        "url": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850",
-        "publishedAt": "2026-04-19T12:51:10Z",
-        "source": "TechCrunch"
+        "title": "Power restored to 3,000 customers between Raleigh and Durham",
+        "description": "Duke Energy's outage map shows 3,315 customers without power on Sunday morning between Raleigh and Durham.",
+        "url": "https://www.wral.com/news/local/power-outage-more-than-3000-between-raleigh-durham-brier-creek-april-2024/",
+        "image": "https://images.wral.com/asset/news/local/2026/04/19/22349615/OUTAGE-DMID1-6apm3yl3m-1920x1080.jpg?w=1200&h=630&height=630",
+        "publishedAt": "2026-04-19T13:47:31Z",
+        "source": "WRAL"
       },
       {
-        "title": "Bolton Middlebrook M&S café closes for final time TODAY",
-        "description": "A much-loved Marks and Spencer café at Bolton Middlebrook closes today, marking the end of an era as part of a major store redevelopment.",
-        "url": "https://www.theboltonnews.co.uk/news/26029607.bolton-middlebrook-m-s-cafe-closes-final-time-today/",
-        "image": "https://www.theboltonnews.co.uk/resources/images/20798228.jpg?type=og-image",
-        "publishedAt": "2026-04-19T12:35:20Z",
-        "source": "The Bolton News"
+        "title": "China Is Starting to Pull Ahead of US in AI Race",
+        "description": "China \"appears to have nearly erased any US lead.\"",
+        "url": "https://www.yahoo.com/news/articles/china-starting-pull-ahead-us-134500345.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/uNZNll1NJhUHJqDta07vVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/967382dc576b2e8194e0dc072a353fff",
+        "publishedAt": "2026-04-19T13:45:00Z",
+        "source": "Yahoo"
       }
     ],
     "science": [
+      {
+        "title": "'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified",
+        "description": "Live Science spoke with Nobel prize-winning physicist David Gross, who recently received the $3 million Special Breakthrough Prize in Fundamental Physics, about the quest to unite all the forces and why humanity might not live to see a unified theory.",
+        "url": "https://www.livescience.com/space/cosmology/the-chances-of-you-living-50-years-are-very-small-theoretical-physicist-explains-why-humanity-likely-wont-survive-to-see-all-the-forces-unified",
+        "image": "https://cdn.mos.cms.futurecdn.net/DUqHN8S9xCzpFFYoTZ5ct-1920-80.jpg",
+        "publishedAt": "2026-04-19T14:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "Humans reshaped planet, now can we fix it?",
+        "description": "Humans have spent thousands of years transforming the natural world from controlled burns that reshaped landscapes to industrial agriculture that feeds billions. The question now, according to one...",
+        "url": "https://www.thenews.com.pk/latest/1399583-humans-reshaped-planet-now-can-we-fix-it",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-19/1399583_070203_updates.jpg",
+        "publishedAt": "2026-04-19T13:56:20Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Scientists Reveal How Ocean Waves Would Behave On Alien Worlds Under Extreme Conditions Across The Solar System",
+        "description": "A new model reveals that waves on alien oceans, especially on Titan, could behave in ways that defy everything we know from Earth.",
+        "url": "https://dailygalaxy.com/2026/04/how-ocean-waves-would-behave-alien-worlds/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/Scientists-Reveal-How-Ocean-Waves-Would-Behave-On-Alien-Worlds-Under-Extreme-Conditions-Across-The-Solar-System-scaled.png",
+        "publishedAt": "2026-04-19T13:45:00Z",
+        "source": "The Daily Galaxy"
+      },
+      {
+        "title": "Stargazing: April showers set to thrill",
+        "description": "Share via: Facebook X (Twitter) EVER stood under a quiet night sky and caught a sudden flash, like the heavens just struck a match? That fleeting streak we casually call a “shooting star” is anything but ordinary. And over the coming week, the sky is set to put on a show that rewards patience, curiosity, […]",
+        "url": "https://coffscoast.newsofthearea.com.au/stargazing-april-showers-set-to-thrill",
+        "image": "https://coffscoast.newsofthearea.com.au/wp-content/uploads/2026/04/NEWS_STARGAZING1.jpg",
+        "publishedAt": "2026-04-19T13:39:45Z",
+        "source": "Coffs Coast News Of The Area"
+      },
+      {
+        "title": "A new force of nature is reshaping the planet, study finds",
+        "description": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
+        "image": "https://www.sciencedaily.com/images/1920/realistic-planet-earth-with-blue-atmosphere.webp",
+        "publishedAt": "2026-04-19T13:19:23Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "In the Middle of His Farm in Patagonia, a Shepherd Found a 20-Meter Dinosaur That Doesn’t Fit Any Known Group",
+        "description": "A set of ancient bones found in Argentina is drawing unusual attention from researchers. There’s something about this dinosaur that refuses to fit neatly into existing categories.",
+        "url": "https://dailygalaxy.com/2026/04/shepherd-found-20-meter-dinosaur-in-farm/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/In-the-Middle-of-His-Farm-in-Patagonia-a-Shepherd-Found-a-20-Meter-Dinosaur-That-Doesnt-Fit-Any-Known-Group-scaled.jpg",
+        "publishedAt": "2026-04-19T13:15:00Z",
+        "source": "The Daily Galaxy"
+      },
       {
         "title": "The Lyrid meteor shower returns with ideal viewing conditions! Here's what to look out for this week",
         "description": "The Lyrid meteor shower ends a months-long dry spell, peaking on April 22. Learn when and where to see these fast, bright meteors.",
@@ -150,120 +198,72 @@
         "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/Scientists-Discover-50000-Year-Old-Neanderthal-Baby-in-a-Cave-With-the-Body-of-a-One-Year-Old-scaled.jpg",
         "publishedAt": "2026-04-19T12:45:00Z",
         "source": "The Daily Galaxy"
-      },
-      {
-        "title": "Stargazing: April showers set to thrill",
-        "description": "Share via: Facebook X (Twitter) EVER stood under a quiet night sky and caught a sudden flash, like the heavens just struck a match? That fleeting streak we casually call a “shooting star” is anything but ordinary. And over the coming week, the sky is set to put on a show that rewards patience, curiosity, […]",
-        "url": "https://portmacquarie.newsofthearea.com.au/stargazing-april-showers-set-to-thrill",
-        "image": "https://portmacquarie.newsofthearea.com.au/wp-content/uploads/2026/04/NEWS_STARGAZING1.jpg",
-        "publishedAt": "2026-04-19T12:32:53Z",
-        "source": "Port Macquarie News Of The Area"
-      },
-      {
-        "title": "NASA Observes Rare Sungrazer Comet Disintegration Near the Sun",
-        "description": "NASA spacecraft observed C/2026 A1 (MAPS) break apart near the Sun, offering insights into comet structure and early solar system formation.",
-        "url": "https://www.gadgets360.com/science/news/sungrazer-c-2026-a1-maps-disintegrates-near-the-sun-11371090",
-        "image": "https://i.gadgets360cdn.com/large/space__craft_full_img_1776420191709.png",
-        "publishedAt": "2026-04-19T12:30:24Z",
-        "source": "Gadgets 360"
-      },
-      {
-        "title": "The best brownie recipe, according to science",
-        "description": "Fat is key for fudgy brownies.",
-        "url": "https://www.yahoo.com/lifestyle/articles/best-brownie-recipe-according-science-120100115.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/q57wemMH7K_qz_wxgTDfkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_science_109/17b85b92b2457d78099e947e43495e68",
-        "publishedAt": "2026-04-19T12:01:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Oprah Reflects on the Artemis II Mission",
-        "description": "Oprah reflects on the Artemis II crew and their view of Earth from the Moon.",
-        "url": "https://www.oprahdaily.com/life/a71029728/oprah-artemis-ii-intention/",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/ff40ebde-93c4-4e62-b0d6-56ab42b6f114.jpg?crop=1.00xw:0.669xh;0,0.0662xh&resize=1200:*",
-        "publishedAt": "2026-04-19T12:00:00Z",
-        "source": "Oprah Daily"
-      },
-      {
-        "title": "ton sharks could face overheating risk in waters exceeding 62.6°F",
-        "description": "New physics-based modeling shows that 1-tonne sharks face an uphill battle to shed heat in warming oceans, threatening their survival.",
-        "url": "https://interestingengineering.com/science/sharks-struggle-in-warm-waters",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Great_White_Shark_14730719119-1.jpg",
-        "publishedAt": "2026-04-19T11:46:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "Antiviral activity and chemical characterization of Egyptian Ziziphus spina-christi against human respiratory viruses",
-        "description": "Since acute respiratory infections are the most prevalent illnesses in humans and can develop into respiratory tract infections, they pose a serious threat to public health. One of the most crucial approaches to treating the respiratory tract is development of medications derived from natural sources. Ziziphus spina-christi (L.). is a well-known plant that has been used for centuries in the Middle East to treat a variety of illnesses, such as anti-inflammatory, anti-fungal, anti-microbial, and anti-viral activities. This study examined antiviral properties of Z. spina-christi leaves and fruits against three respiratory viruses: influenza virus H1N1, MERS-CoV, and SARS-CoV-2. The crude methanol extracts of the leaves and fruits were fractionated n-hexane, dichloromethane, and ethyl acetate, along with the remaining aqueous residues of the two parts to give their corresponding fractions. Chemical profiling of the crude extracts and fractions of the leaves and fruits was investigated using LC-ESI-MS/MS analysis. By applying in-silico molecular docking techniques, the compounds identified in the most active extract or fraction were examined to determine which phytocompounds might have antiviral properties and to predict how they function. The results showed that flavonoids, phenolic acids, saponins, sterols, and triterpenes and their glucosides are the major detected compounds in both leaf and fruit fractions and extracts. The most common phenolic in all six samples is caffeic acid, whereas the most common flavonoids in the fruits’ ethyl acetate fraction were quercetin, luteolin, taxifolin, and is quercetin. The common saponin chemicals found in leaf and fruit extracts and their fractions are lotoside II, Ziziphus saponin I, and betulinic acid. The results also exhibited that crude extract of leaves had high antiviral activity against H1N1 with IC50 equal 1.240 µg/ml and against SARS-CoV-2 with IC50 equal 7.397 µg/ml, by performed mode of action the results showed that the extracts had virucidal effect against three viruses by applying in-silico molecular docking techniques, binding energy with HA of H1N1 equal − 7.48 kcal/mol and binding energy with spike of SARS-CoV-2 equal − 10.18 kcal/mol. On the other hand, residual extract had antiviral efficacy against MERS-CoV with an IC50 equal to 1.501 µg/mL and binding energy with the spike equal to -8.19 kcal/mol. Our findings suggest that Z. spina-christi is a natural medication with potent antiviral effects.",
-        "url": "https://www.nature.com/articles/s41598-026-47325-9?error=cookies_not_supported&code=2aa671f3-dd5a-4e7a-af9c-7523ed966779",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-47325-9/MediaObjects/41598_2026_47325_Fig2_HTML.png",
-        "publishedAt": "2026-04-19T11:24:04Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Your resume is getting rejected by machines, and tiny wording choices are quietly deciding who gets seen and who disappears",
-        "description": "AI hiring systems are rejecting qualified candidates for small technical details",
-        "url": "https://www.techradar.com/pro/75-of-resumes-never-reach-a-human-heres-the-hidden-reason-your-application-is-getting-rejected-by-ai",
-        "image": "https://cdn.mos.cms.futurecdn.net/EKQukU5HsQBWMcApgmx4e5-1920-80.jpg",
-        "publishedAt": "2026-04-19T13:05:00Z",
-        "source": "TechRadar"
+        "title": "Pete Buttigieg Spots What's Oh So 'Insulting' About Trump's AI Jesus Post",
+        "description": "The former transportation secretary addressed Christians who \"got something to say\" about the president's controversial, since-deleted post.",
+        "url": "https://www.huffpost.com/entry/pete-buttigieg-trump-ai-jesus-image-post_n_69e4b7bde4b0b6f552ba5992",
+        "image": "https://img.huffingtonpost.com/asset/69e4d99a1800005e325b2e13.jpg?cache=E5xEIGxXdR&ops=1200_630",
+        "publishedAt": "2026-04-19T13:48:50Z",
+        "source": "HuffPost"
       },
       {
-        "title": "Why engineers must focus on domain skills",
-        "description": "Zoho founder Sridhar Vembu says software engineers must build domain expertise to thrive in the AI era, beyond coding skills",
-        "url": "https://indianexpress.com/article/trending/trending-in-india/coding-isnt-enough-anymore-zohos-sridhar-vembu-reveals-the-one-skill-engineers-need-to-beat-ai-10645258/",
-        "image": "https://images.indianexpress.com/2026/04/Sridhar-Vembu-Trump-H-1B-visa-fee_20251119053308_20260419130313.jpg",
-        "publishedAt": "2026-04-19T13:04:08Z",
-        "source": "The Indian Express"
+        "title": "'Not AI, This Is Mizoram': Mizoram Traffic Discipline Video Wins Praises On Internet -VIDEO",
+        "description": "A viral video showcasing disciplined traffic behaviour in Mizoram has crossed 5 million views, sparking conversations about civic sense in India. The clip shows vehicles following lanes, avoiding honking, and waiting patiently in traffic. Netizens praised the orderliness, while locals responded modestly. The video reignited debates on how everyday behaviour shapes public spaces and road culture",
+        "url": "https://www.freepressjournal.in/viral/not-ai-this-is-mizoram-mizoram-traffic-discipline-video-wins-praises-on-internet-video",
+        "image": "https://media.assettype.com/freepressjournal/2026-04-19/dc3n95av/154113232.jpg",
+        "publishedAt": "2026-04-19T13:48:07Z",
+        "source": "Free Press Journal"
       },
       {
-        "title": "Reese Witherspoon urges women to learn AI: ‘We don’t want to be left behind’",
-        "description": "Reese Witherspoon urges women to learn AI: ‘We don’t want to be left behind’ - Los Angeles, April 19 Hollywood actress Reese Witherspoon shares the same opinion with actress Sandra Bullock on AI. ... Get Latest News on Entertainment only on lokmattimes.com",
-        "url": "https://www.lokmattimes.com/entertainment/reese-witherspoon-urges-women-to-learn-ai-we-dont-want-to-be-left-behind/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202604193755799_202604.jpg",
-        "publishedAt": "2026-04-19T13:01:39Z",
-        "source": "Lokmat Times"
+        "title": "Noted neurosurgeon Dr Jacob Abraham passes away at 94",
+        "description": "Dr Abraham made notable contributions to medical science, particularly in neurosurgery, through his research..Dr Jacob Abraham, Dr Jacob Abraham death, Dr Jacob Abraham CMC Vellore, neurosurgery pioneer, neurological sciences expert, medical superintendent CMC Vellore, Chennai medical news, former CMC Vellore head, Basanti Devi ICMR Award winner, LLM medical research, AI in neurosurgery advancements, understanding large language models, AI medical applications, cognitive AI applications, neurosurgeon achievements",
+        "url": "https://www.onmanorama.com/news/kerala/2026/04/19/dr-jacob-abraham-passes-away.html",
+        "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/4/19/jacob-abraham.jpg",
+        "publishedAt": "2026-04-19T13:45:16Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "Weekend Round-Up: Netflix's Q1 Earnings, Barclays CEO's AI Warning, Meta's Layoffs And TSMC's AI Chip Vic",
-        "description": "This Week In Tech: Barclays flags AI risks; Meta Platforms layoffs; OpenAI exits; Netflix beats; TSMC leads AI chips.",
-        "url": "https://www.benzinga.com/markets/tech/26/04/51903437/weekend-round-up-netflixs-q1-earnings-barclays-ceos-ai-warning-metas-layoffs-and-tsmcs-ai-chip-victory",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/19/Netflix-Logo-On-A-Building-Exterior-With.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-19T13:01:27Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Global Health and Innovation: From Takeovers to Pioneering AI",
-        "description": "A round-up of health-related headlines reveals Gerresheimer's rejection of a takeover, the launch of groundbreaking biopharmaceuticals, executive orders on psychedelic drugs, and AI models for life sciences. These developments highlight the ongoing innovation and regulatory movements reshaping the global health landscape.",
-        "url": "https://www.devdiscourse.com/article/science-environment/3879727-global-health-and-innovation-from-takeovers-to-pioneering-ai",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_21_03_58_9018448.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-19T13:00:31Z",
+        "title": "Odisha Unveils India's First 3D Semiconductor Packaging Plant: A Step Towards Self-Reliance",
+        "description": "In Bhubaneswar, India's inaugural 3D semiconductor packaging facility has been launched, promising to produce 70,000 glass panels annually. The Rs 1,943.53 crore investment aims to bolster sectors like AI and defense while creating 2,500 jobs. Odisha emerges as a significant player in advanced electronics.",
+        "url": "https://www.devdiscourse.com/article/technology/3879771-odisha-unveils-indias-first-3d-semiconductor-packaging-plant-a-step-towards-self-reliance",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-04-19T13:44:52Z",
         "source": "Devdiscourse"
       },
       {
-        "title": "I’ve Tested a Lot of Bad Smart Glasses and These Are the Worst Yet",
-        "description": "The Dymesty AI Glasses are close to being a perfect 0/10.",
-        "url": "https://gizmodo.com/ive-tested-a-lot-of-bad-smart-glasses-and-these-might-be-the-worst-yet-2000747463",
-        "image": "https://gizmodo.com/app/uploads/2026/04/Dymesty-AI-glasses-review-06-1200x675.jpg",
-        "publishedAt": "2026-04-19T13:00:31Z",
-        "source": "Gizmodo"
+        "title": "New AI platforms hand hackers powerful new tools for cracking cybersecurity",
+        "description": "Anthropic released its new Mythos AI to 40 top tech companies so they can debug their systems before the bad guys get a chance.",
+        "url": "https://chicago.suntimes.com/columnists/2026/04/19/new-ai-platforms-hackers-tools-cybersecurity-column",
+        "image": "https://cst.brightspotcdn.com/dims4/default/421d3d9/2147483647/strip/true/crop/3264x1863+0+292/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F14%2F8458e9c94bf19f812bc661a2fcd7%2Fimg-4581.JPG",
+        "publishedAt": "2026-04-19T13:37:18Z",
+        "source": "Chicago Sun-Times"
       },
       {
-        "title": "Election Commission Cracks Down on Unlawful Social Media Content",
-        "description": "The Election Commission has taken action against 11,000 unlawful social media posts related to assembly elections in Assam, Kerala, Puducherry, Tamil Nadu, and West Bengal. Misleading content must be addressed within three hours, and AI-altered content must be clearly labeled for transparency.",
-        "url": "https://www.devdiscourse.com/article/politics/3879726-election-commission-cracks-down-on-unlawful-social-media-content",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_03_2025_03_55_21_9204714.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-19T13:00:29Z",
-        "source": "Devdiscourse"
+        "title": "Google in talks with Marvell to build new AI chips for inference - The Information",
+        "description": "April 19 -\nGoogle in talks with Marvell to build new AI chips for inference - The Information\n...",
+        "url": "https://www.marketscreener.com/news/google-in-talks-with-marvell-to-build-new-ai-chips-for-inference-the-information-ce7e50d3dc8af525",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-04-19T13:36:17Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Dear Seagate Technology Stock Fans, Mark Your Calendars for April 28",
-        "description": "Strong AI-driven storage demand, tight supply, and rising analyst confidence have set the stage as Seagate approaches its next key update on April 28.",
-        "url": "https://www.barchart.com/story/news/1389667/dear-seagate-technology-stock-fans-mark-your-calendars-for-april-28",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/Seagate%20Technology%20Holdings%20Plc%20office-by%20JHVEPhoto%20via%20Shutterstock.jpg",
-        "publishedAt": "2026-04-19T13:00:02Z",
-        "source": "Barchart"
+        "title": "Google in talks with Marvell to build new AI chips, The Information reports",
+        "description": "Alphabet's Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, The Information reported on Sunday citing two people with knowledge of the...",
+        "url": "https://www.marketscreener.com/news/google-in-talks-with-marvell-to-build-new-ai-chips-the-information-reports-ce7e50d3dc8af62d",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-13T202436Z_1_LYNXMPEL7C0W1_RTROPTP_4_EU-ANTITRUST-TECH.JPG",
+        "publishedAt": "2026-04-19T13:35:12Z",
+        "source": "MarketScreener"
+      },
+      {
+        "title": "Using the ocean to power data centers",
+        "description": "The renewable energy company Panthalassa says it has a solution to the proliferation of AI data centers, which consume massive amounts of energy and are the cause of increased carbon pollution: sea-based data centers, powered by wave energy.",
+        "url": "https://www.cbsnews.com/news/using-wave-energy-to-power-sea-based-ai-data-centers/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/18/72c6dfc5-21c5-45f5-89f4-ee425c7c1f7a/thumbnail/1200x630/a2823db4f547df4c501be682f6c14840/wave-energy-panthalassa-ocean-2-1280.jpg",
+        "publishedAt": "2026-04-19T13:35:02Z",
+        "source": "CBS News"
       }
     ]
   }
