@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-21T08:57:44.714Z",
+  "fetchedAt": "2026-04-21T09:55:15.898Z",
   "sections": {
     "world": [
       {
-        "title": "France to Join Steering Committee",
-        "description": "France is joining the steering committee part of a special tribunal investigating Russia’s crime of aggression against Ukraine.",
-        "url": "https://www.kyivpost.com/post/74359",
-        "image": "https://static.kyivpost.com/storage/2026/03/02/150f9f01a308540ae77216a54c75ff59.jpg?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-04-20T20:54:07Z",
-        "source": "Kyiv Post"
+        "title": "Donald Trump: US will not lift Hormuz blockade until deal made with Iran",
+        "description": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd88r2wjzo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bda0/live/eff6d4d0-3cee-11f1-879d-1b2f5c3919b8.jpg",
+        "publishedAt": "2026-04-20T21:52:12Z",
+        "source": "BBC"
       },
       {
-        "title": "Australia news live: Ed Husic condemns ‘obscenely sweet’ gas deals; Anthony Albanese says national cabinet to discuss ‘long tail’ of fuel crisis",
-        "description": "Follow live",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
-        "image": "https://i.guim.co.uk/img/media/a60d186cb1af4c43a739b2c63ca35037d4131931/650_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=96102b3126a416cbc73468bd1076651d",
-        "publishedAt": "2026-04-20T20:54:00Z",
-        "source": "The Guardian"
+        "title": "US, Philippine and Australian troops begin largest military exercise in 'real",
+        "description": "Troops from the US, Philippines, Australia and Japan unite for the biggest military exercise in \"real-world conditions\" to ensure security in the Indo-Pacific region. But China has criticised the drill.",
+        "url": "https://www.abc.net.au/news/2026-04-21/largest-us-philippines-military-drill-begins/106586002",
+        "image": "https://live-production.wcms.abc-cdn.net.au/126c72536efbd5ecb17b95ab0f5b5246?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=105&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-20T21:50:19Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Canadian Armed Forces provides insight into Portage exercise",
-        "description": "Canadian Armed Forces personnel are conducting a week-long training exercise in Portage la Prairie this week, bringing about 50 Army Reserve soldiers to the city as part of a Civil-Military Cooperation operation designed to simulate support roles in a conflict environment. The exercise, known as BALTIC COOPERATION, runs from April 19 to 25 and involves soldiers working through scenarios that mirror coordination efforts between military forces and civilian populations during large-scale operations. Exercise overview Lieutenant Colonel Jon Baker explains that the training brings together Army Reserve members from across the country to simulate real-world operational conditions. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/pol-all-bigbox', [300, 250], 'div-gpt-1647631135332-bbm1'); s.setTargeting('URL', [window.location.pathname]); s.setTargeting('position', [1647631135332]) s.setTargeting('story_id', 'canadian-armed-forces-provides-insight-into-portage-exercise'); s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } });",
-        "url": "https://www.portageonline.com/articles/canadian-armed-forces-provides-insight-into-portage-exercise",
-        "image": "https://dht7q8fif4gks.cloudfront.net/2026-04/MILITARY%20PORTAGE.jpg",
-        "publishedAt": "2026-04-20T20:52:02Z",
-        "source": "PortageOnline"
+        "title": "Hardship: What opposition parties can do differently in Nigeria - Agahiu",
+        "description": "A university don, Prof. Adams Agahiu, has outlined what opposition political parties can do differently to help tackle the economic hardship facing",
+        "url": "https://dailypost.ng/2026/04/20/hardship-what-opposition-parties-can-do-differently-in-nigeria-agahiu/",
+        "image": "https://dailypost.ng/wp-content/uploads/2025/02/news.jpg",
+        "publishedAt": "2026-04-20T21:47:30Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Canadian Armed Forces provides insight into Portage exercise",
-        "description": "Canadian Armed Forces personnel are conducting a week-long training exercise in Portage la Prairie this week, bringing about 50 Army Reserve soldiers to the city as part of a Civil-Military Cooperation operation designed to simulate support roles in a conflict environment. The exercise, known as BALTIC COOPERATION, runs from April 19 to 25 and involves soldiers working through scenarios that mirror coordination efforts between military forces and civilian populations during large-scale operations. Exercise overview Lieutenant Colonel Jon Baker explains that the training brings together Army Reserve members from across the country to simulate real-world operational conditions. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/pol-all-bigbox', [300, 250], 'div-gpt-1647631135332-bbm1'); s.setTargeting('URL', [window.location.pathname]); s.setTargeting('position', [1647631135332]) s.setTargeting('story_id', 'canadian-armed-forces-provides-insight-into-portage-exercise'); s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } });",
-        "url": "https://portageonline.com/articles/canadian-armed-forces-provides-insight-into-portage-exercise",
-        "image": "https://dht7q8fif4gks.cloudfront.net/2026-04/MILITARY%20PORTAGE.jpg",
-        "publishedAt": "2026-04-20T20:52:02Z",
-        "source": "PortageOnline"
+        "title": "NHS recruitment crisis leaves graduates wondering if they will get work",
+        "description": "The mother of a physiotherapy graduate says she is heartbroken to see him working in Starbucks.",
+        "url": "https://www.bbc.com/news/articles/c2488mn4r4po",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/386c/live/5adfb330-3a5f-11f1-9d5c-8ba507d7dbde.jpg",
+        "publishedAt": "2026-04-20T21:47:24Z",
+        "source": "BBC"
       },
       {
-        "title": "Iran war: 'No plans' for fresh peace talks, Tehran says",
-        "description": "Pakistan is preparing to host a second round of negotiations, but doubts remain as to whether they will take place, after the US seizure of an Iranian cargo ship. DW has the latest.",
-        "url": "https://www.dw.com/en/iran-war-no-plans-for-fresh-peace-talks-tehran-says/live-76853963",
-        "image": "https://static.dw.com/image/76862780_6.jpg",
-        "publishedAt": "2026-04-20T20:51:44Z",
-        "source": "dw.com"
+        "title": "Trump says ceasefire extension unlikely; JD Vance to lead US delegaton for Pakistan talks; Israel-Lebanon talks to be held in Washington",
+        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
+        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-trump-says-he-won-t-be-rushed-into-making-a-bad-deal-vance-to-lead-us-delegation-in-pakistan-for-peace-talks-with-iran-20260420-p5zpij.html",
+        "image": "https://static.ffx.io/images/$zoom_0.1796%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0ddac9e68e754d8615d64c21ab83b4e4849e042a",
+        "publishedAt": "2026-04-20T21:43:44Z",
+        "source": "The Age"
       },
       {
-        "title": "Why Macky Sall Can’t Count on Africa in His Bid to Lead the UN",
-        "description": "Why Macky Sall Can’t Count on Africa in His Bid to Lead the UN - PassBlue",
-        "url": "https://passblue.com/2026/04/20/why-macky-sall-cant-count-on-africa-in-his-bid-to-lead-the-un/",
-        "image": "https://passblue.com/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-3.08.14-PM.jpg",
-        "publishedAt": "2026-04-20T20:46:55Z",
-        "source": "PassBlue"
+        "title": "Zelensky says Ukraine and European countries developing anti-ballistic missile system",
+        "description": "Ukraine's President Volodymyr Zelensky said Ukraine and Europe are working on a European defence system to counter ballistic missiles, according to a 19 April 2026...",
+        "url": "https://www.janes.com/osint-insights/defence-news/weapons/zelensky-says-ukraine-and-european-countries-developing-anti-ballistic-missile-system",
+        "image": "https://www.janes.com/images/default-source/news-images/bsp_103387-jdw-35678.jpeg?sfvrsn=3bcf75cb_2",
+        "publishedAt": "2026-04-20T21:40:03Z",
+        "source": "Janes"
       },
       {
-        "title": "US seizes Iranian ship but both sides say Pakistan talks on",
-        "description": "US News: TOI Correspondent from Washington: Despite mixed signals, especially over the seizure of an Iranian cargo ship by the US as part of its blockade of th.",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-seizes-iranian-ship-but-both-sides-say-pakistan-talks-on/articleshow/130402419.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130402475,width-1280,height-720,imgsize-88012,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-20T20:42:00Z",
-        "source": "The Times of India"
+        "title": "Trump 'out cold' during Fox News broadcast as viewers worried about President",
+        "description": "US President Donald Trump was seen with his eyes closed during a Tax Day roundtable in Las Vegas, with viewers speculating the commander-in-chief had dozed off as Treasury Secretary Scott Bessent delivered remarks",
+        "url": "https://www.mirror.co.uk/news/us-news/trump-out-cold-during-fox-37045396",
+        "image": "https://i2-prod.mirror.co.uk/article37045394.ece/ALTERNATES/s1200d/0_Donald-Trump.jpg",
+        "publishedAt": "2026-04-20T21:35:31Z",
+        "source": "The Mirror"
       },
       {
-        "title": "Massive Atlantic sargassum blooms traced to west Africa",
-        "description": "Massive blooms of Sargassum seaweed that have inundated coastlines across the Atlantic since 2011 likely originate off the coast of West Africa—forming years before they are visible and overturning long-standing assumptions about where these events begin.",
-        "url": "https://www.eurekalert.org/news-releases/1124971",
-        "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/e4e38a9d-462e-4831-823e-e731527aed29/Rendition/thumbnail/Content/Public",
-        "publishedAt": "2026-04-20T20:39:37Z",
-        "source": "EurekAlert!"
+        "title": "‘India-made’ Galaxy Z Flip7 selfie: PM Modi poses for pic with Samsung Chairman, South Korean President | Watch",
+        "description": "The video, that captures a candid moment between Modi, the Samsung Chairman and the Korean President is in focus because of the phone used: a Galaxy Z Flip7.| India News",
+        "url": "https://www.hindustantimes.com/india-news/indiamade-galaxy-z-flip7-selfie-pm-modi-poses-for-pic-with-samsung-chairman-korean-president-watch-101776719095395.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/20/550x309/PM_Modi_selfie_1776720498491_1776720515939.jpg",
+        "publishedAt": "2026-04-20T21:32:38Z",
+        "source": "Hindustan Times"
       }
     ],
     "business": [
       {
-        "title": "Apple names new chief executive to replace Tim Cook",
-        "description": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-        "url": "https://www.bbc.co.uk/news/articles/c1kr19lry18o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/355a/live/1c690050-3cfa-11f1-a60f-41d0a7fcc620.jpg",
-        "publishedAt": "2026-04-20T20:57:25Z",
-        "source": "BBC"
+        "title": "Another major bank hikes home loan rates",
+        "description": "Kiwibank makes mortgage rate changes, staying competitive for one year fixed but they now have the highest carded rates for longer fixed terms. Its matching term deposit rate changes are for terms savers don't favour",
+        "url": "https://www.interest.co.nz/personal-finance/138171/kiwibank-makes-mortgage-rate-changes-staying-competitive-one-year-fixed",
+        "image": "https://www.interest.co.nz/sites/default/files/2026-03/kiwibank-up-2.jpg",
+        "publishedAt": "2026-04-20T21:50:00Z",
+        "source": "Interest.co.nz"
       },
       {
-        "title": "Apple names John Ternus as new chief executive, replacing Tim Cook",
-        "description": "Cook, who led iPhone maker since 2011, will become company’s new executive chairman",
-        "url": "https://www.irishtimes.com/technology/big-tech/2026/04/20/apple-names-john-ternus-as-new-chief-executive-replacing-tim-cook/",
-        "image": "https://www.irishtimes.com/resizer/v2/FKANQ5DLPR6WCRYO7HCGABIEMI.jpg?smart=true&auth=4deae7c1a3f609c41c898c7bfbdb5504c64c8bdfc55cd05bacddb68650d93fff&width=1200&height=630",
-        "publishedAt": "2026-04-20T20:55:00Z",
-        "source": "The Irish Times"
+        "title": "Man snapped leaving 'suspicious item' at Oamaru property",
+        "description": "A man who tried to get into an Oamaru property late at night left a \"suspicious item\" behind, police say. Oamaru police are seeking the public's...",
+        "url": "https://www.odt.co.nz/regions/north-otago/man-snapped-leaving-suspicious-item-oamaru-property",
+        "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/04/674715010_1390565066437563_1312465735515357993_n.jpg?itok=nZqDcnlB",
+        "publishedAt": "2026-04-20T21:47:33Z",
+        "source": "Otago Daily Times"
       },
       {
-        "title": "Apple CEO Tim Cook to step down after more than a decade",
-        "description": "Cook, who has led Apple since 2011, will become the company's executive chairman.",
-        "url": "https://www.rnz.co.nz/news/world/592940/apple-ceo-tim-cook-to-step-down-after-more-than-a-decade",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--NvZBwdC5--/t_tohu-badge-facebook/v1776718141/4JPU0UE_AFP__20260121__93JW2L7__v1__HighRes__SwitzerlandPoliticsEconomyDiplomacy_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-20T20:52:24Z",
-        "source": "RNZ"
+        "title": "Dollar to Naira exchange rate today, April 20, 2026: Nigerian currency depreciates significantly",
+        "description": "Dollar to Naira exchange rate today, April 20, 2026: Nigerian currency depreciates significantly The Naira depreciated significantly against the United",
+        "url": "https://dailypost.ng/2026/04/20/dollar-to-naira-exchange-rate-today-april-20-2026-nigerian-currency-depreciates-significantly/",
+        "image": "https://dailypost.ng/wp-content/uploads/2026/03/naira-.jpg",
+        "publishedAt": "2026-04-20T21:42:49Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Rare Earth Stocks Rally Further Above Key Levels, Led By 2 Trump Bets",
-        "description": "USA Rare Earth stock surged on the company's big Brazil buy and MP Materials as one analyst firm began coverage with a bullish view.",
-        "url": "https://www.investors.com/news/usa-rare-earth-stock-soars-brazil-mega-deal-china-battle-heats-up/",
-        "image": "https://www.investors.com/wp-content/uploads/2026/04/Stock-RareEarthMining-equip-shut.jpg",
-        "publishedAt": "2026-04-20T20:50:00Z",
-        "source": "Investor's Business Daily"
+        "title": "Hackers accessed personal information for up to 70,000 people in Canada Life data breach",
+        "description": "Cyberextortion group ShinyHunters accessed information through an employee account",
+        "url": "https://www.theglobeandmail.com/business/article-hackers-personal-information-70000-people-canada-life-data-breach/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/7RO6SZ6W5ZBZBFO5LIUGRWSA4Q.jpg?auth=cd67d5ba8e0200837892dcb2456fbd13bad24e7b104b44596bed6b1389b527f2&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-20T21:39:44Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Braskem majority stake sale advances as Novonor signs deal to sell to IG4",
-        "description": "Braskem said Novonor and NSP Investimentos signed an agreement to sell control of the company to private equity fund Shine I, which is controlled by asset manager IG4 Capital.",
-        "url": "https://seekingalpha.com/news/4576907-braskem-majority-stake-sale-advances-as-novonor-signs-deal-to-sell-to-ig4",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1366274435/image_1366274435.jpg?io=getty-c-w630",
-        "publishedAt": "2026-04-20T20:49:02Z",
-        "source": "Seeking Alpha"
+        "title": "Marvel Visual Director Andy Park Out After 16 Years Amid Disney Layoffs",
+        "description": "Marvel's Director of Visual Development Andy Park departs amid Walt Disney Studios layoffs",
+        "url": "https://variety.com/2026/film/news/marvels-director-visual-development-andy-park-layoffs-1236726446/",
+        "image": "https://variety.com/wp-content/uploads/2025/09/MCDCAAM_EC038.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-04-20T21:38:00Z",
+        "source": "Variety"
       },
       {
-        "title": "Second Jury Finds Uber Responsible for Sexual Assault by a Driver",
-        "description": "The ride-hailing giant has now lost the first two of more than 3,000 pending federal lawsuits.",
-        "url": "https://www.nytimes.com/2026/04/20/business/uber-sexual-assault-verdict-bellwether.html",
-        "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20biz-uber-plqk/20biz-uber-plqk-facebookJumbo.jpg",
-        "publishedAt": "2026-04-20T20:47:15Z",
-        "source": "The New York Times"
+        "title": "KBRA Assigns a Preliminary Rating to Converge Holdings' Senior Unsecured Note Offering",
+        "description": "KBRA assigns a BBB- preliminary long term credit rating (LTCR) for $50 million of five-year, 8.05% fixed rate senior unsecured notes to be issued by Converge...",
+        "url": "https://www.businesswire.com/news/home/20260420449494/en/KBRA-Assigns-a-Preliminary-Rating-to-Converge-Holdings-Senior-Unsecured-Note-Offering",
+        "image": "https://mms.businesswire.com/media/20260420449494/en/2779850/22/kbra-logo.jpg",
+        "publishedAt": "2026-04-20T21:38:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "Meta Fast-Tracks Fiber Tech Training to Fix Data Center Bottleneck",
-        "description": "A new four-week training program from Meta aims to address the shortage of fiber technicians as AI companies sprint to build new data centers.",
-        "url": "https://www.businessinsider.com/meta-fast-track-fiber-technician-training-fix-data-center-bottleneck-2026-4",
-        "image": "https://i.insider.com/69e688c93fecbb42897a1d0d?width=1200&format=jpeg",
-        "publishedAt": "2026-04-20T20:46:00Z",
-        "source": "Business Insider"
+        "title": "Eli Lilly’s $3.25B acquisition of Kelonia Therapeutics caps startup’s tortuous ride",
+        "description": "An original investment memo and slide deck once used to get Kelonia off the ground offer a rare look at the process of growing a biotech company.",
+        "url": "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/04/YSNF6ILVWYEOR7LC2XLPMK3VII-1024x576.jpg",
+        "publishedAt": "2026-04-20T21:36:07Z",
+        "source": "statnews.com"
       },
       {
-        "title": "Woodward Family Gifts MUN Half a Million Dollars to Foster Entrepreneurship",
-        "description": "Memorial University is feeling the entrepreneurial spirit from the family of a man who breathed it. A $500,000...",
-        "url": "https://vocm.com/2026/04/20/297105/",
-        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/peter-woodward.jpg",
-        "publishedAt": "2026-04-20T20:46:00Z",
-        "source": "VOCM"
+        "title": "The problem with Europe's Big Tech breakup: It’s still hooked",
+        "description": "Thanks to Trump, EU governments are trying to break their overreliance on U.S. technology. It won’t be cheap or easy.",
+        "url": "https://www.politico.eu/article/europe-big-tech-donald-trump-alexander-scholtes-breakup-still-hooked/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/20/trumptech.jpg",
+        "publishedAt": "2026-04-20T21:35:00Z",
+        "source": "politico.eu"
       }
     ],
     "science": [
+      {
+        "title": "Newly-Identified Geological Feature Points to Vast, Long-Dried Up Ocean in Northern Plains of Mars",
+        "description": "A continent-like shelf beneath the Martian surface hints that a vast ocean once covered up to a third of Mars, reshaping the long-running debate over its watery past.",
+        "url": "https://www.sci.news/space/mars-ocean-14706.html",
+        "image": "https://cdn.sci.news/images/2026/04/image_14706-Mars-Ocean.jpg",
+        "publishedAt": "2026-04-20T21:45:37Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "Scientists Discuss Tactics To Save Coral Reefs From Heat Waves",
+        "description": "Scientists are discussing how host-assisted evolution could help to save the coral reefs from the increasing heat waves.",
+        "url": "https://outdoors.com/scientists-discuss-tactics-to-save-coral-reefs-from-heat-waves/",
+        "image": "https://outdoors.com/wp-content/uploads/2026/04/Scientists-Discuss-Tactics-To-Save-Coral-Reefs-From-Heat-Waves.jpg?w=1200",
+        "publishedAt": "2026-04-20T21:41:04Z",
+        "source": "Outdoors with Bear Grylls"
+      },
+      {
+        "title": "Cellular Drawstrings Seal the Developing Brain",
+        "description": "How does the neural tube close? A new study uses physics-based modeling to reveal the actin \"purse-string\" mechanism and cellular coordination that prevents spina bifida.",
+        "url": "https://neurosciencenews.com/physics-neural-tube-closure-30564/",
+        "image": "https://neurosciencenews.com/files/2026/04/neural-tube-development-neuroscience-physics.png",
+        "publishedAt": "2026-04-20T21:35:46Z",
+        "source": "Neuroscience News"
+      },
+      {
+        "title": "NASA shuts down Voyager 1 instrument to keep probe exploring interstellar space",
+        "description": "NASA engineers have shut down another instrument on Voyager 1 to preserve the power of the most distant spacecraft ever sent into space.",
+        "url": "https://www.space.com/space-exploration/nasa-shuts-down-voyager-1-instrument-to-keep-probe-exploring-interstellar-space",
+        "image": "https://cdn.mos.cms.futurecdn.net/2LtFhcaQXV7cBaUx7Nra4A-1920-80.jpg",
+        "publishedAt": "2026-04-20T21:31:11Z",
+        "source": "Space"
+      },
+      {
+        "title": "Chinese researchers turn desert sand into fertile soil in just 10 months using cyanobacteria",
+        "description": "Science News: The researchers at the Shapotou Desert Experimental Research Station in China have developed a revolutionary approach for reversing desertification an.",
+        "url": "https://timesofindia.indiatimes.com/science/chinese-researchers-turn-desert-sand-into-fertile-soil-in-just-10-months-using-cyanobacteria/articleshow/130391558.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130391499,width-1280,height-720,imgsize-137828,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-20T21:30:00Z",
+        "source": "The Times of India"
+      },
       {
         "title": "Black hole restarts jets after 100 million years of silence",
         "description": "A black hole awoke after 100 million years and triggered a massive cosmic eruption that is warping its entire galaxy.",
@@ -158,111 +198,71 @@
         "image": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg?w=2048",
         "publishedAt": "2026-04-20T20:52:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop",
-        "description": "Engineers are working on a long-term plan to keep the iconic spacecraft alive.",
-        "url": "https://gizmodo.com/nasa-shut-down-voyager-science-instrument-after-power-levels-fell-unexpectedly-2000748707",
-        "image": "https://gizmodo.com/app/uploads/2026/04/1_Voyager_artist_concept-1200x675.jpg",
-        "publishedAt": "2026-04-20T20:50:37Z",
-        "source": "Gizmodo"
-      },
-      {
-        "title": "Gravity measured in 300,000 galaxies follows Newton’s law",
-        "description": "A study of 300,000 galaxies confirms that gravity follows Newton's law and deepens the mystery of dark matter.",
-        "url": "https://www.earth.com/news/gravity-measured-across-300000-galaxies-matches-newtons-predictions/",
-        "image": "https://cff2.earth.com/uploads/2026/04/19072428/gravity-measured-300000-galaxies-newton-law-confirmed.jpg",
-        "publishedAt": "2026-04-20T20:48:45Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Brain Development: Cells Unite to Form Neural Tube",
-        "description": "In about one out of every 1,000 pregnancies , the neural tube, a key nervous system structure, fails to close properly. Georgia Tech physicists are",
-        "url": "https://www.miragenews.com/brain-development-cells-unite-to-form-neural-1658576/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1453847668862-487637052f8a%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1176%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-20T20:44:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Pilot Study Measures Muscle Energy in Cancer Survivors",
-        "description": "Even apparently healthy cancer survivors often complain of extreme fatigue. They have finished treatment, the scans are clear, but they feel hollowed",
-        "url": "https://www.miragenews.com/pilot-study-measures-muscle-energy-in-cancer-1658574/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1584515933487-779824d29309%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-20T20:44:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Printed neurons communicate with living brain cells: A computer efficiency boost?",
-        "description": "Since the human brain is five orders of magnitude more energy efficient than a digital computer, it makes sense to look to the brain for inspiration.",
-        "url": "https://www.digitaljournal.com/tech-science/printed-neurons-communicate-with-living-brain-cells-a-computer-efficiency-boost/article",
-        "image": "https://www.digitaljournal.com/wp-content/uploads/2026/04/20190619_125114-EDIT.jpg",
-        "publishedAt": "2026-04-20T20:43:45Z",
-        "source": "Digital Journal"
       }
     ],
     "ai": [
       {
-        "title": "Health Innovations and Challenges: A Global Overview",
-        "description": "Recent developments in the health sector included a significant rise in psychedelic drug shares following Trump's directive to expedite FDA reviews, an extortion attempt involving poisoned baby food, India's seizure of fake Mounjaro pens, and Boehringer Ingelheim's AI center opening in London. The summary captures the diverse global health challenges and innovations.",
-        "url": "https://www.devdiscourse.com/article/health/3881156-health-innovations-and-challenges-a-global-overview",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/26_05_2025_04_39_55_2022969.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-20T20:56:42Z",
+        "title": "Pa. coach's attorney accused of using AI citations after $293K verdict",
+        "description": "Defendants accuse lawyer for ex-Montoursville coach of fabricating case citations, possibly from AI.",
+        "url": "https://www.pennlive.com/news/2026/04/pa-coachs-attorney-accused-of-using-ai-citations-after-293k-verdict.html",
+        "image": "https://www.pennlive.com/resizer/v2/LEQLX7CUKVHSBOB5GEBGXUKIUU.JPG?auth=3ee080834288864858d4f2a6dee6c87ab3fe6dfdac95eae18d162f3b6f2f6cbe&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-04-20T21:54:40Z",
+        "source": "Mechanicsburg Patriot News "
+      },
+      {
+        "title": "OpenAI Codex Chronicle captures your Mac screen to build AI context, with cloud processing and no encryption",
+        "description": "Codex's Chronicle feature captures Mac screenshots, processes them on OpenAI's servers, and stores unencrypted text memories locally. It is unavailable in the EU.",
+        "url": "https://thenextweb.com/news/openai-codex-chronicle-screen-context-mac",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/openai-codex-chronicle-screen-context-mac.png",
+        "publishedAt": "2026-04-20T21:53:27Z",
+        "source": "TNW"
+      },
+      {
+        "title": "Metafoodx to Showcase Award-Winning AI Kitchen Intelligence Platform at the 2026 National Restaurant Association Show",
+        "description": "SAN JOSÉ, Calif., April 20, 2026 (GLOBE NEWSWIRE) -- Metafoodx, an AI-powered kitchen intelligence platform for commercial foodservice operations, will showcase its award-winning 3D AI food tracking and analytics technology at the 2026 National Restaurant Association Show in Chicago. The show draws more than 52,000 foodservice professionals and 2,000 exhibiting organizations across 900+ product categories, offering a premier platform for Metafoodx to provide customers and industry leaders with an exclusive look at its breakthrough technology transforming kitchen efficiency and sustainability.",
+        "url": "https://www.manilatimes.net/2026/04/21/tmt-newswire/globenewswire/metafoodx-to-showcase-award-winning-ai-kitchen-intelligence-platform-at-the-2026-national-restaurant-association-show/2324431",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/21/1021356.png",
+        "publishedAt": "2026-04-20T21:53:18Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "John Ternus Named Next CEO of Apple: A New Era Begins",
+        "description": "Apple has appointed John Ternus as its new CEO, succeeding Tim Cook. Ternus, a long-serving Apple executive, has been pivotal in pioneering some of the company's notable hardware developments. His leadership will guide Apple through industry transformations driven by artificial intelligence as he takes the helm on September 1.",
+        "url": "https://www.devdiscourse.com/article/technology/3881180-john-ternus-named-next-ceo-of-apple-a-new-era-begins",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=920&format=jpeg",
+        "publishedAt": "2026-04-20T21:52:29Z",
         "source": "Devdiscourse"
       },
       {
-        "title": "Multiple devices could deliver powerful distributed AI capability by 2030",
-        "description": "Your phone, watch, and earbuds could all contribute to a shared AI experience",
-        "url": "https://www.techradar.com/pro/the-1000-tops-consumer-how-the-npu-everywhere-strategy-could-turn-every-user-into-a-walking-supercomputer-by-2030",
-        "image": "https://cdn.mos.cms.futurecdn.net/jHwRvnjFUjce3j5pTvpSbH-1536-80.png",
-        "publishedAt": "2026-04-20T20:51:41Z",
-        "source": "TechRadar"
+        "title": "Financially struggling, AI power startup Fermi loses its CEO and CFO for ‘2.0’ reset",
+        "description": "Fermi touts \"acceleration in customer conversations\" since the leadership changes.",
+        "url": "https://fortune.com/2026/04/20/financially-struggling-ai-power-startup-fermi-loses-ceo-reset/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/DSC00956-e1760043977791.jpeg?resize=1200,600",
+        "publishedAt": "2026-04-20T21:50:23Z",
+        "source": "Fortune"
       },
       {
-        "title": "49ers' AI-assistance paints scenario of trading down in NFL Draft",
-        "description": "John Lynch acknowledged a trade-down scenario might be in the 49ers' best interests after running through multiple scenarios with artificial intelligence.",
-        "url": "https://www.pressdemocrat.com/2026/04/20/did-49ers-lynch-drop-subtle-clue-on-nfl-draft-plan-with-help-from-ai/",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2025/11/BNG-L-49ERS-0422-6.jpg?w=1024&h=683",
-        "publishedAt": "2026-04-20T20:51:09Z",
-        "source": "Santa Rosa Press Democrat"
+        "title": "Google AI Pro and Ultra subscribers now get higher AI Studio limits",
+        "description": "Google AI Studio provides access to Gemini models via your web browser, with AI Pro and Ultra subscribers now getting expanded usage limits.",
+        "url": "https://9to5google.com/2026/04/20/google-ai-studio-limits/",
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Google-AI-Studio-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-04-20T21:46:53Z",
+        "source": "9to5Google"
       },
       {
-        "title": "Did 49ers GM Lynch drop subtle clue on NFL Draft plan with help from AI?",
-        "description": "John Lynch acknowledged a trade-down scenario might be in the 49ers' best interests after running through multiple scenarios with artificial intelligence.",
-        "url": "https://www.mercurynews.com/2026/04/20/49ers-nfl-draft-john-lynch-ai/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/04/BNG-L-49ERS-0422-6.jpg?w=1024&h=683",
-        "publishedAt": "2026-04-20T20:51:09Z",
-        "source": "The Mercury News"
+        "title": "Here's How Much Apple Stock Has Soared During Tim Cook's Nearly 15",
+        "description": "Apple under Tim Cook enjoyed a nearly 2,000% stock gain. The reins pass to John Ternus, who will take over as investors wonder about the AI strategy.",
+        "url": "https://markets.businessinsider.com/news/stocks/apple-stock-under-tim-cook-ceo-john-ternus-hardware-iphone-2026-4",
+        "image": "https://i.insider.com/69e699a23fecbb42897a1dd3?width=1200&format=jpeg",
+        "publishedAt": "2026-04-20T21:43:43Z",
+        "source": "Markets Insider"
       },
       {
-        "title": "Who decides? Ohio lawmakers eye limits on local say over nuclear plants",
-        "description": "The idea of limiting local ability to have a say over smaller modular nuclear power plants comes as tech companies turn to nuclear energy to power AI systems and data centers across the state.",
-        "url": "https://www.cleveland.com/news/2026/04/who-decides-ohio-lawmakers-eye-limits-on-local-say-over-nuclear-plants.html",
-        "image": "https://www.cleveland.com/resizer/v2/A55TGSEHFZBSHICBSRNVY4ELR4.jpeg?auth=6a77c545ccf49a0a029b5a1a805df5413fb0ff48c9b6aff6a1da2dff39370687&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-04-20T20:48:25Z",
-        "source": "cleveland.com"
-      },
-      {
-        "title": "Samsung Honors 20 Years at No. 1 With a 20% Flash Sale on Top-Tier 2025 8K and 4K Vision AI TVs",
-        "description": "Samsung says it has been the #1 global TV brand for 20 consecutive years, and to mark that milestone, it is running 24-hour flash sales on the 20th...",
-        "url": "https://www.ubergizmo.com/2026/04/samsung-flash-sale-on-top-tier-2025-8k-and-4k-vision-ai-tvs/",
-        "image": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/04/Samsung-Neo-QLED-8K-QN990F-2025-art.jpg",
-        "publishedAt": "2026-04-20T20:47:45Z",
-        "source": "Ubergizmo"
-      },
-      {
-        "title": "Apple names insider John Ternus to succeed Tim Cook as CEO",
-        "description": "Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an industry change spurred by artificial intelligence.",
-        "url": "https://nypost.com/2026/04/20/business/apple-names-insider-john-ternus-to-succeed-tim-cook-as-ceo/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/126054527.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-20T20:46:45Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "Meta Fast-Tracks Fiber Tech Training to Fix Data Center Bottleneck",
-        "description": "A new four-week training program from Meta aims to address the shortage of fiber technicians as AI companies sprint to build new data centers.",
-        "url": "https://www.businessinsider.com/meta-fast-track-fiber-technician-training-fix-data-center-bottleneck-2026-4",
-        "image": "https://i.insider.com/69e688c93fecbb42897a1d0d?width=1200&format=jpeg",
-        "publishedAt": "2026-04-20T20:46:20Z",
+        "title": "Here's How Much Apple Stock Has Soared During Tim Cook's Nearly 15",
+        "description": "Apple under Tim Cook enjoyed a nearly 2,000% stock gain. The reins pass to John Ternus, who will take over as investors wonder about the AI strategy.",
+        "url": "https://www.businessinsider.com/apple-stock-under-tim-cook-ceo-john-ternus-hardware-iphone-2026-4",
+        "image": "https://i.insider.com/69e699a23fecbb42897a1dd3?width=1200&format=jpeg",
+        "publishedAt": "2026-04-20T21:43:43Z",
         "source": "Business Insider"
       }
     ]
