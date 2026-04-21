@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-21T10:47:40.107Z",
+  "fetchedAt": "2026-04-21T11:41:55.032Z",
   "sections": {
     "world": [
       {
-        "title": "Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
-        "description": "Chavez-DeRemer, entangled in string of controversies, leaving for private sector, president’s spokesperson says",
-        "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
-        "image": "https://i.guim.co.uk/img/media/39b89888320c6a1fbc87e8f8199683737ce81b98/0_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84332961453037fe8751be74830da349",
-        "publishedAt": "2026-04-20T22:40:00Z",
-        "source": "The Guardian"
+        "title": "Poilievre slams PM's video for pushing 'costly illusions'",
+        "description": "Pierre Poilievre pushed back on a speech by Mark Carney, saying it does nothing to help Canadians weather economic challenges at home. More.",
+        "url": "https://torontosun.com/news/national/pierre-poilievre-slams-mark-carney-speech",
+        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/04/0222leaders-e1776208029431.jpg",
+        "publishedAt": "2026-04-20T23:36:39Z",
+        "source": "Toronto Sun"
       },
       {
-        "title": "Trump 'blocked from accessing nuclear codes' during furious bust-up",
-        "description": "US President Donald Trump was reportedly blocked from accessing the US nuclear codes by a senior military chief during an emergency White House meeting",
-        "url": "https://www.express.co.uk/news/us/2196363/trump-blocked-accessing-nuclear-codes",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/198/1200x630/6874110.jpg",
-        "publishedAt": "2026-04-20T22:30:00Z",
-        "source": "Daily Express"
+        "title": "Iran talks on shaky footing after U.S. ship seizure, oil prices jump",
+        "description": "Iranian officials have threatened to forgo negotiations even as U.S. representatives plan to arrive in Pakistan for the meeting and a ceasefire is set to expire Wednesday.",
+        "url": "https://www.washingtonpost.com/world/2026/04/20/iran-united-states-ceasefire-talks-negotiations-hormuz-retaliate/",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PUX6Q4C7LUHSOGBALYE3RHKOOY_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-04-20T23:35:35Z",
+        "source": "The Washington Post"
       },
       {
-        "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
-        "description": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup",
-        "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
-        "image": "https://i.guim.co.uk/img/media/9e6e385eac2754dbbe73a8589e5e615e25152c6b/192_0_1921_1536/master/1921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ac592c9b288ff57c8ae93656d4f9ae5",
-        "publishedAt": "2026-04-20T22:30:00Z",
-        "source": "The Guardian"
+        "title": "Won't negotiate under threats: Iran hardens position, warns US of escalation",
+        "description": "Iran and US on edge as ceasefire deadline nears",
+        "url": "https://www.indiatoday.in/world/story/no-talks-under-shadow-of-threats-iran-hardens-stance-warns-new-battlefield-cards-trump-ghalibaf-2899209-2026-04-21",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/iran-parliament-speaker-mohammad-bagher-ghalibaf--us-president-donald-trump-235309147-16x9_2.jpg?VersionId=r22eCwMAzgwf9_ZZQTAEV5XhgDCaeeWU",
+        "publishedAt": "2026-04-20T23:24:16Z",
+        "source": "India Today"
       },
       {
-        "title": "The Australian",
-        "description": "No Cookies | The Australian",
-        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-        "publishedAt": "2026-04-20T22:28:59Z",
-        "source": "The Australian"
+        "title": "US enforces Hormuz blockade, asks vessel to turn back: \"You Are Entering Military Blockade\"",
+        "description": "The visuals highlight the intensity of the operation as Washington tightens control over maritime traffic linked to Iran.",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/watch-us-enforces-iran-blockade-in-strait-of-hormuz-warns-vessel-to-turn-back-article-13894613.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260420232139_hormuz-us-navy.jpg",
+        "publishedAt": "2026-04-20T23:22:56Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Asia focuses on energy security amid war",
-        "description": "Supply disruptions from the Middle East are forcing Asia to put a greater focus on energy self-sufficiency.",
-        "url": "https://www.yahoo.com/news/articles/asia-focuses-energy-security-amid-222832081.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/Fmrt8hLwjb94m.KVyLqyhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/semafor_310/0ce1d1f42b76dd9e6d2e5f43ba877b8c",
-        "publishedAt": "2026-04-20T22:28:32Z",
-        "source": "Yahoo"
+        "title": "New Zealand urges Wellington residents in low",
+        "description": "People living in low-lying areas of New Zealand's capital city, Wellington, have been urged to evacuate, as heavy rain continued to drench the city.",
+        "url": "https://www.abc.net.au/news/2026-04-21/new-zealand-flooding-capital-wellington-evacuation-order/106586718",
+        "image": "https://live-production.wcms.abc-cdn.net.au/6195daf67e0e3da47dd4e0a0eff6ff47?impolicy=wcms_watermark_news&cropH=557&cropW=991&xPos=0&yPos=35&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-20T23:21:42Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Asia pivots to energy security amid war",
-        "description": "Supply disruptions from the Middle East are forcing Asia to put a greater focus on energy self-sufficiency.",
-        "url": "https://www.semafor.com/article/04/20/2026/asia-pivots-to-energy-security-amid-war",
-        "image": "https://img.semafor.com/6cd42f862d2170f2c8f5d710b32ed7d3dfb766de-5957x3972.jpg?rect=0,423,5957,3127&w=1200&h=630&q=75&auto=format",
-        "publishedAt": "2026-04-20T22:28:00Z",
-        "source": "Semafor"
+        "title": "Lori Chavez-DeRemer leaving Trump’s cabinet after abuse of power allegations",
+        "description": "Labor Secretary is the third cabinet member to leave",
+        "url": "https://www.theglobeandmail.com/world/us-politics/article-lori-chavez-deremer-leaving-trump-cabinet/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/3K4SRYTKBJBWLLCVJDHQLFFKFE.jpg?auth=88a35b81638d62578fec53543aeb8c420dab1f5702903dd2f5cea240ca3c6922&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-04-20T23:18:46Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Trump signs memos to boost US fossil-fuel production for ‘defense readiness’",
-        "description": "President claims ‘inadequate’ supply presents security threat and orders expansion of oil, coal and gas production",
-        "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-memos-domestic-fossil-fuels-defense",
-        "image": "https://i.guim.co.uk/img/media/7f2ee295db64d87ed5fa4e2048be6cc292064bf8/598_0_4318_3456/master/4318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47cb4543883d9c44ac289453a15703d6",
-        "publishedAt": "2026-04-20T22:27:00Z",
-        "source": "The Guardian"
+        "title": "Maintaining hope: Equatorial Guinea waits for the Pope",
+        "description": "As Equatorial Guinea prepares to receive Pope Leo XIV, Vatican News speaks to residents of Malabo about their expectations for his upcoming visit.",
+        "url": "https://www.vaticannews.va/en/world/news/2026-04/waiting-for-pope-leo-equatorial-guinea-maintaning-hope.html",
+        "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/aprile/20/2026.04.20-Attesa-Papa-Malabo-Cattedrale.00_00_13_16.Immagine0021.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+        "publishedAt": "2026-04-20T23:15:14Z",
+        "source": "Vatican News"
       },
       {
-        "title": "Canadian tourist killed when gunman opened fire at Teotihuacán",
-        "description": "The attack happened at the historic Teotihuacán pyramids, killing a Canadian tourist and injuring six people, authorities said.",
-        "url": "https://www.theage.com.au/world/north-america/horrific-act-tourist-killed-as-gunman-opens-fire-at-mexico-pyramids-20260421-p5zpmg.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4869%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9d4a33a061615a5025148bc561114967395077a0",
-        "publishedAt": "2026-04-20T22:26:23Z",
-        "source": "The Age"
+        "title": "Contiki trades buses for Vespas and tuk",
+        "description": "SINGAPORE, 21 April 2026: The Travel Corporation’s Contiki, a social travel brand for 18–35 year-olds, is expanding its Asia portfolio with the launch of two new small-group adventures: Ride Vietnam and Ride Cambodia.  Moving beyond traditional coach tours, the new ride itineraries offer a more immersive way to experience Southeast Asia on the backs of […]",
+        "url": "https://www.ttrweekly.com/site/2026/04/contiki-trades-buses-for-vespas-and-tuk-tuks/",
+        "image": "https://www.ttrweekly.com/site/wp-content/uploads/2026/04/image-194-600x393.png",
+        "publishedAt": "2026-04-20T23:15:00Z",
+        "source": "TTR Weekly"
       }
     ],
     "business": [
       {
-        "title": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager",
-        "description": "Billionaire entrepreneur Elon Musk’s Tesla ​has settled a wrongful death lawsuit in Florida stemming from a 2018 high-speed crash that ‌killed a teenager riding in one of the electric vehicle maker's sedans, court records show.",
-        "url": "https://www.myjoyonline.com/tesla-settles-wrongful-death-lawsuit-over-crash-that-killed-florida-teenager/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2024/06/image-501.png",
-        "publishedAt": "2026-04-20T22:43:21Z",
-        "source": "MyJoyOnline"
+        "title": "Not NTPC: 2 stocks to watch for India’s 100 GW nuclear power surge",
+        "description": "As India’s nuclear capacity targets increase, investor attention is beginning to follow. But the early signals from the ecosystem suggest that value may be building in parts of the cycle that are still largely under the radar.",
+        "url": "https://www.financialexpress.com/market/stock-insights/not-ntpc-2-stocks-to-watch-for-indias-100-gw-nuclear-power-surge/4213504/",
+        "image": "https://images.financialexpressdigital.com/2026/04/STOCKMARKETINSIGHTS.jpg",
+        "publishedAt": "2026-04-20T23:41:10Z",
+        "source": "financialexpress.com"
       },
       {
-        "title": "Hyundai Ioniq 3 'Aero Hatch' Looks Sensationally Funky And Debuts Hyundai's Major Infotainment Overhaul",
-        "description": "I mean, come on. How can you not love this thing?",
-        "url": "https://www.jalopnik.com/2153081/hyundai-ioniq-3-design-reveal-pleos-connect-infotainment/",
-        "image": "https://www.jalopnik.com/img/gallery/hyundai-ioniq-3-aero-hatch-looks-sensationally-funky-and-debuts-hyundais-major-infotainment-overhaul/l-intro-1776724806.jpg",
-        "publishedAt": "2026-04-20T22:41:53Z",
-        "source": "Jalopnik"
+        "title": "Hozpitality Group Announces Los Angeles Hospitality Leadership Forum 2026, Featuring Top Industry Leaders and Timely Panel Discussions",
+        "description": "/PRNewswire/ -- Hozpitality Group has officially announced the Los Angeles Hospitality Leadership Forum 2026, an exclusive, invite-only event scheduled for...",
+        "url": "https://www.prnewswire.com/news-releases/hozpitality-group-announces-los-angeles-hospitality-leadership-forum-2026-featuring-top-industry-leaders-and-timely-panel-discussions-302747888.html",
+        "image": "https://mma.prnewswire.com/media/2684265/Hozpitality_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-20T23:35:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Goop Kitchen Expands From California With Delivery In New York City",
-        "description": "Goop Kitchen is bringing its ghost kitchen to prime real estate in Midtown Manhattan",
-        "url": "https://www.forbes.com/sites/melissakravitz/2026/04/20/goop-kitchen-expands-from-california-with-delivery-in-new-york-city/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69e6aad77d9e787d9ac8b6b9/0x0.jpg?format=jpg&crop=2025,1518,x0,y794,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-20T22:40:43Z",
-        "source": "Forbes"
+        "title": "Warren, Lee raise antitrust concerns over possible United-American merger",
+        "description": "Sens. Elizabeth Warren and Mike Lee sent a letter to the CEOs of United Airlines and American Airlines expressing concerns about a potential merger between the two carriers.",
+        "url": "https://www.foxbusiness.com/politics/bipartisan-senators-press-united-american-ceos-reported-merger-leading-airlines",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/united-american-airlines-san-francisco-airport.jpg?ve=1&tl=1",
+        "publishedAt": "2026-04-20T23:31:00Z",
+        "source": "Fox Business"
       },
       {
-        "title": "Business sentiment plummets as Middle East conflict war dampens confidence",
-        "description": "Firms are turning more cautious on hiring and investment despite steady demand.",
-        "url": "https://www.rnz.co.nz/news/business/592951/business-sentiment-plummets-as-middle-east-conflict-war-dampens-confidence",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--djJwawvL--/t_tohu-badge-facebook/v1644020990/4NJOKRO_copyright_image_180822?_a=BACCd2AD",
-        "publishedAt": "2026-04-20T22:39:33Z",
-        "source": "RNZ"
+        "title": "Jump in EU EV sales amid Iran war boosts Chinese brands’ fortunes",
+        "description": "Chinese-made EVs accounted for 16 per cent of the EU market in the year’s first two months, up from 12.2 per cent in 2025, CPCA data shows.",
+        "url": "https://www.scmp.com/business/china-evs/article/3350776/jump-eu-ev-sales-amid-iran-war-boosts-chinese-brands-fortunes",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/20/1ecda739-cc3c-46c2-92e6-462621bc25c4_3a77f8bd.jpg?itok=JHK5DjlL&v=1776695065",
+        "publishedAt": "2026-04-20T23:30:07Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Uber loses another US driver sex assault trial, ordered to pay $5,000",
-        "description": "A federal jury in North Carolina on Monday said Uber should pay $5,000 to a ​woman who claimed she was sexually assaulted by a driver she booked through the app.",
-        "url": "https://www.myjoyonline.com/uber-loses-another-us-driver-sex-assault-trial-ordered-to-pay-5000/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-1964.png",
-        "publishedAt": "2026-04-20T22:38:19Z",
-        "source": "MyJoyOnline"
+        "title": "Geely Monjaro i-HEV opens pre-sales with 48.4% efficiency hybrid system, starts 19,600 USD in China",
+        "description": "The Monjaro i-HEV combines a 1.5TD engine and dual motors, delivering 230 kW and 4.75 L/100 km fuel consumption.",
+        "url": "https://carnewschina.com/2026/04/21/geely-monjaro-i-hev-opens-pre-sales-with-48-4-efficiency-hybrid-system-starts-19600-usd-in-china/",
+        "image": "https://carnewschina.com/wp-content/uploads/2026/04/1200x0_1_autohomecar__chtpwgngs8kadeltahjswzgebjq100-picsart-aiimageenhancer-1500x863.jpg",
+        "publishedAt": "2026-04-20T23:30:00Z",
+        "source": "CarNewsChina.com"
       },
       {
-        "title": "Tim Cook Stepping Down as Apple CEO",
-        "description": "Apple CEO Tim Cook will step down from the role, with John Ternus named his successor. Cook will continue with the company as executive chairman.",
-        "url": "https://www.billboard.com/pro/apple-ceo-tim-cook-step-down-john-ternus-successor/",
-        "image": "https://www.billboard.com/wp-content/uploads/2026/04/tim-cook-2025-billboard-1800_dd0149.jpg?w=1024",
-        "publishedAt": "2026-04-20T22:38:07Z",
-        "source": "Billboard"
+        "title": "Price Tracker: Oil, fuel monitor for Tuesday, April 21",
+        "description": "Fuel prices are set for another round of rollbacks.",
+        "url": "https://www.philstar.com/headlines/2026/04/21/2522384/price-tracker-oil-fuel-monitor-apr-21",
+        "image": "https://media.philstar.com/photos/2026/04/03/price-tracker-11_2026-04-03_21-34-39.jpg",
+        "publishedAt": "2026-04-20T23:30:00Z",
+        "source": "Philstar.com"
       },
       {
-        "title": "Mount Gambier locals hope for rail return following Qantas flight suspension",
-        "description": "Trains stopped coming to Mount Gambier decades ago, but with fewer flights, locals want them back.",
-        "url": "https://www.abc.net.au/news/2026-04-21/mount-gambier-hopes-for-train-return-after-losing-qantas-flights/106575796",
-        "image": "https://live-production.wcms.abc-cdn.net.au/ba138a8dbd9787cd444213e3ef0be53e?impolicy=wcms_watermark_news&cropH=1044&cropW=1856&xPos=0&yPos=22&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-20T22:33:57Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Indonesia Stocks Slide After MSCI Delays High-Stakes Review",
+        "description": "Indonesian equities slid after MSCI Inc. extended its market status review to June to assess regulatory reforms and warned it would remove major stocks with tightly-held ownership from its indexes.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-20/msci-to-assess-indonesia-stock-reforms-update-on-status-in-june",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im9a93XOJVFc/v1/1200x899.jpg",
+        "publishedAt": "2026-04-20T23:29:22Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Kathmandu owner KMD Brands in trading halt for 169.3m share bookbuild after shortfall in capital raise from smaller investors",
-        "description": "Kathmandu retail chain owner KMD Brands has gone into a trading halt while it goes through a book build to offload 169.3 million shares not taken up in the...",
-        "url": "https://www.nzherald.co.nz/business/companies/retail/kathmandu-owner-kmd-brands-in-trading-halt-for-1693m-share-bookbuild-after-shortfall-in-capital-raise-from-smaller-investors/V5PF4Q2QP5A5ND3RLWBDVKSXWA/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/MW7LUPMCB5DD5LQFCG5HF6ESP4.webp?auth=e12c9d859d2fb36979135eb7dac741abda12222f35d77d2d437fad9744bbd824&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-04-20T22:33:32Z",
-        "source": "NZ Herald"
+        "title": "How one couple acquired 24 properties in just over three years",
+        "description": "An Aussie tradie says his financial situation is ‘rock solid’ after amassing a huge amount of wealth in just three years and he says anyone can do it.",
+        "url": "https://www.realestate.com.au/news/how-one-couple-acquired-24-properties-in-just-over-three-years/",
+        "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/04/capi_81e4697e38f71e48e1c2dd766eb630dd_d182004995372234f8a0f04e1739b643.jpeg",
+        "publishedAt": "2026-04-20T23:27:52Z",
+        "source": "realestate.com.au"
       }
     ],
     "science": [
+      {
+        "title": "NASA Plans to Test Fire on The Moon Ahead of Future Missions",
+        "description": "There's one particular challenge facing the crewed missions of the near future that scares mission planners more than almost any other: fire.",
+        "url": "https://www.sciencealert.com/nasa-plans-to-test-fire-on-the-moon-ahead-of-future-missions",
+        "image": "https://www.sciencealert.com/images/2026/04/FlamesInZeroGravityComparedToOnEarth.jpg",
+        "publishedAt": "2026-04-20T23:32:34Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "Monkey business: Churchill research lab in the crosshairs",
+        "description": "By AIDAN KNIGHT   A MONASH University, Churchill facility has come under fire, following a Legislative Council motion for greater [...]",
+        "url": "https://latrobevalleyexpress.com.au/news/2026/04/21/monkey-business-churchill-research-lab-in-the-crosshairs/",
+        "image": "https://latrobevalleyexpress.com.au/wp-content/uploads/2026/04/IMG_9227_89884-1024x683.jpg",
+        "publishedAt": "2026-04-20T23:24:04Z",
+        "source": "Latrobe Valley Express"
+      },
+      {
+        "title": "Museum Fossil Reveals Triassic Crocodile Cousin with Powerful Jaws",
+        "description": "CT scans of a decades-old specimen from the Yale Peabody Museum of Natural History show a new species of short-snouted crocodylomorph with unusually strong jaws, offering a rare snapshot of ecological specialization in the Late Triassic epoch.",
+        "url": "https://www.sci.news/paleontology/eosphorosuchus-lacrimosa-14708.html",
+        "image": "https://cdn.sci.news/images/2026/04/image_14708f-Eosphorosuchus-lacrimosa.jpg",
+        "publishedAt": "2026-04-20T23:20:38Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "Comet to delight stargazers, if it survives sun",
+        "description": "Comet to delight stargazers, if it survives sun",
+        "url": "https://www.sunlive.co.nz/news/380312-comet-to-delight-stargazers--if-it-survives-sun.html",
+        "image": "https://cdn.sunlive.co.nz/images/sunlive/210426COMET.jpg",
+        "publishedAt": "2026-04-20T23:00:00Z",
+        "source": "SunLive"
+      },
+      {
+        "title": "Hubble’s 36th Birthday Image Shows Trifid Nebula",
+        "description": "A new anniversary image from the NASA/ESA Hubble Space Telescope reveals surprisingly fast evolution in a turbulent stellar nursery called the Trifid Nebula, where newborn stars sculpt gas and dust on human timescales.",
+        "url": "https://www.sci.news/astronomy/hubbles-birthday-image-trifid-nebula-14707.html",
+        "image": "https://cdn.sci.news/images/2026/04/image_14707-Trifid-Nebula.jpg",
+        "publishedAt": "2026-04-20T22:55:55Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "Black holes formed before the Big Bang may still exist today",
+        "description": "Black holes formed before the Big Bang may still exist as cosmic fossils, offering new clues about dark matter and the origin of galaxies.",
+        "url": "https://www.earth.com/news/black-holes-formed-before-the-big-bang-may-still-exist-shape-galaxies-today/",
+        "image": "https://cff2.earth.com/uploads/2026/04/20161258/cosmic-fossils_ancient-black-holes_1m.jpg",
+        "publishedAt": "2026-04-20T22:52:30Z",
+        "source": "Earth.com"
+      },
       {
         "title": "Peak of the Lyrid meteor showe expected to light up the night sky",
         "description": "Space lovers and sky watchers have much to look forward to this month, with a plethora of activity already occurring in April.",
@@ -150,120 +198,72 @@
         "image": "https://www.azorobotics.com/images/news/ImageForNews_16381_17767250081942156.jpg",
         "publishedAt": "2026-04-20T22:44:00Z",
         "source": "AZoRobotics"
-      },
-      {
-        "title": "Scientists discover that a New York cemetery is the underground home for over 5 million of bees",
-        "description": "A cemetery in Ithaca, New York is the home to one of largest collections of pollinating bees that contribute the state's agriculture.",
-        "url": "https://malaysia.news.yahoo.com/scientists-discover-york-cemetery-underground-222240535.html",
-        "image": "https://s.yimg.com/os/en/good_279/c65a89f2e6b91d79fe4b05cc53c13bd0",
-        "publishedAt": "2026-04-20T22:22:40Z",
-        "source": "Yahoo News Malaysia"
-      },
-      {
-        "title": "New imaging technique helps scientists see the inside of living cells",
-        "description": "New fluorescent dyes allow scientists to watch cancer activity inside living cells in real time, opening new possibilities for treatment.",
-        "url": "https://www.earth.com/news/new-imaging-technique-helps-scientists-see-the-inside-of-living-cells-to-study-how-cancer-spreads-and-grows/",
-        "image": "https://cff2.earth.com/uploads/2026/04/20153921/living-cells_see-inside_new-imaging_Cathy-Galbraith_1m.jpg",
-        "publishedAt": "2026-04-20T22:16:53Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "NASA Advances Artemis II with Initial Assessments",
-        "description": "Four astronauts aboard NASA's Orion spacecraft on top of the SLS (Space Launch System) rocket launch on the agency's Artemis II test flight, at 6:35",
-        "url": "https://www.miragenews.com/nasa-advances-artemis-ii-with-initial-1658647/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg?w=2048",
-        "publishedAt": "2026-04-20T22:16:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Black ghost knifefish swim without bending their bodies",
-        "description": "The black ghost knifefish swims without bending its body, using a single fin to move forward, backward, and hover.",
-        "url": "https://www.earth.com/news/black-ghost-knifefish-swims-without-bending-engineers-are-trying-to-copy-that-skill/",
-        "image": "https://cff2.earth.com/uploads/2026/04/20153027/black-ghost-knifefish_locomotion_innovation_1m.jpg",
-        "publishedAt": "2026-04-20T22:07:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Ocean eddies are amplifying climate extremes in coastal seas",
-        "description": "Ocean eddies are churning harder, driving coastal currents and temperature extremes by warming surface waters while cooling deeper layers.",
-        "url": "https://www.earth.com/news/ocean-eddies-are-amplifying-currents-and-climate-extremes-in-coastal-seas-around-the-world/",
-        "image": "https://cff2.earth.com/uploads/2026/04/20151252/ocean-eddies_coastal-climate-extremes_1m.jpg",
-        "publishedAt": "2026-04-20T22:07:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Arsenic Trisulfide (As2S3): A ‘Photosensitive Clay’ For Nano-Optics, Shaped By A Simple Laser",
-        "description": "Scientists from the XPANCEO Emerging Technologies Research Center, in collaboration with Nobel Laureate Prof. Konstantin Novoselov (University of Manchester and the National",
-        "url": "https://www.eurasiareview.com/21042026-arsenic-trisulfide-as2s3-a-photosensitive-clay-for-nano-optics-shaped-by-a-simple-laser/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-215.jpg",
-        "publishedAt": "2026-04-20T22:06:41Z",
-        "source": "Eurasia Review"
       }
     ],
     "ai": [
       {
-        "title": "Julie Brill, formerly at FTC, joins Boston office of national law firm",
-        "description": "Brill joined Manatt, Phelps & Phillips this month as a national advisor, to focus on the interconnected issues of AI, data privacy, and cybersecurity.",
-        "url": "https://www.bostonglobe.com/2026/04/20/business/julie-brill-ftc-manatt-phelps-phillips/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/GQHTDSVSYRGPDNADLLZNSY3H7M.png?auth=9369ab78c27061922558e09bdaa597a585015de329c5476c44aa737a786ef4fc&width=1440",
-        "publishedAt": "2026-04-20T22:39:16Z",
-        "source": "The Boston Globe"
+        "title": "Apple names insider John Ternus as CEO, Cook to become executive chairman",
+        "description": "SAN FRANCISCO, April 20 (Reuters) - ⁠Apple on Monday named insider John Ternus as its next CEO, tasking the long-time ⁠hardware chief to steer the company after Tim Cook as the iPhone maker gears ‌up for an industry change spurred by artificial intelligence.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/21/apple-names-insider-john-ternus-as-ceo-cook-to-become-executive-chairman",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/21/3869843.jpg",
+        "publishedAt": "2026-04-20T23:35:00Z",
+        "source": "The Star"
       },
       {
-        "title": "TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth",
-        "description": "21.04.2026 - Geneva, Switzerland--(Newsfile Corp. - April 20, 2026) - CoinDesk Data, the institutional research division of CoinDesk, and Messari, the leading provider of digital asset market intelligence, have independently released their Q1 2026 reports on the ... Seite 1",
-        "url": "https://www.wallstreet-online.de/nachricht/20757022-tron-powers-2t-usdt-transfers-q1-coindesk-and-messari-research-highlight-ai-institutional-growth",
-        "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/informationstechnologie/size_645/adobestock-580119272.jpeg",
-        "publishedAt": "2026-04-20T22:35:58Z",
-        "source": "Wallstreet Online"
+        "title": "As experts differ on AI trajectory, markets can only reflect collective expectations of the present",
+        "description": "Artificial intelligence is creating both risks and opportunities for Indian IT services firms, as productivity gains in coding threaten traditional models while opening new avenues in higher-value services.",
+        "url": "https://www.financialexpress.com/opinion/as-experts-differ-on-ai-trajectory-markets-can-only-reflect-collective-expectations-of-the-present/4213500/",
+        "image": "https://images.financialexpressdigital.com/2026/04/FASTag-annual-pass-to-get-Costlier-from-April-1-NHAI-revises-fee-Check-new-charges-how-to-buy-it-online-45.jpg",
+        "publishedAt": "2026-04-20T23:34:00Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "From May 1, CBI notices to carry QR code to verify genuineness",
-        "description": "NEW DELHI, Apr 20 : CBI notices from May 1 will carry a special QR code, allowing people to verify their genuineness through an artificial intelligence-powered chatbot, ABHAY, a first-of-its-kind initiative by any agency to deter the public from falling prey to cybercriminals, officials said on Monday. Launching the chatbot at the 22nd D P Kohli Memorial Lecture here on Monday, Chief Justice of India (CJI) Surya Kant called it a “pivotal and opportune initiative” that would act as an […]",
-        "url": "https://www.dailyexcelsior.com/from-may-1-cbi-notices-to-carry-qr-code-to-verify-genuineness/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/cbiii.jpg",
-        "publishedAt": "2026-04-20T22:30:38Z",
-        "source": "Daily Excelsior"
+        "title": "Deezer says AI-generated songs now make up 44% of daily uploads",
+        "description": "Deezer says nearly half of daily music uploads are now AI-generated, raising concerns around quality, fraud, and originality.",
+        "url": "https://www.digitaltrends.com/phones/deezer-says-ai-generated-songs-now-make-up-44-of-daily-uploads/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/04/DT-2026-04-21T045635.134.jpg?resize=1200%2C630",
+        "publishedAt": "2026-04-20T23:29:40Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "A New Era at Apple: John Ternus Takes the Helm",
-        "description": "Apple appoints John Ternus as CEO, succeeding Tim Cook. Known for his key role in Apple's product advancements, Ternus is set to guide the tech giant through a transformative AI era, while enhancing product lines. Tim Cook transitions to executive chairman, marking a shift from supply chain to product leadership.",
-        "url": "https://www.devdiscourse.com/article/technology/3881187-a-new-era-at-apple-john-ternus-takes-the-helm",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-20T22:29:55Z",
-        "source": "Devdiscourse"
+        "title": "Apple bets on hardware veteran John Ternus as CEO, Tim Cook shifts to executive chairman role",
+        "description": "Apple named long-time hardware chief John Ternus as its next CEO, with Tim Cook set to transition to executive chairman in a planned leadership reshuffle aimed at steering the company through the next wave of artificial intelligence-driven competition",
+        "url": "https://www.firstpost.com/business/apple-ceo-john-ternus-tim-cook-executive-chairman-2026-leadership-transition-apple-succession-plan-ai-strategy-big-tech-news-14002607.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/AFP__20260420__A8FR9D4__v1__MidRes__FilesUsAppleItInternetTelecommunicationComputers-1-2026-04-41ab044fa91fee5e99159e5d8f22a777.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-20T23:16:00Z",
+        "source": "Firstpost"
       },
       {
-        "title": "Banking Titans Scramble for Anthropic's Mythos Amid Cybersecurity Concerns",
-        "description": "Anthropic's new AI model, Mythos, is prompting a rush among banks to gain access as regulators examine its cybersecurity risks. While some banks, like JPMorgan and Citigroup, are testing the technology, others highlight concerns over limited access. European and Asian regulators are also monitoring developments cautiously.",
-        "url": "https://www.devdiscourse.com/article/technology/3881182-banking-titans-scramble-for-anthropics-mythos-amid-cybersecurity-concerns",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=920&format=jpeg",
-        "publishedAt": "2026-04-20T22:06:37Z",
-        "source": "Devdiscourse"
+        "title": "Apple shakeup sparks reactions as Cook hands reins to longtime deputy",
+        "description": "Tim Cook is stepping down as Apple CEO, with hardware chief John Ternus set to take over on Sept. 1, 2026. Analyst Dan Ives calls the timing a surprise amid Apple's AI push.",
+        "url": "https://www.foxbusiness.com/technology/leadership-change-apple-sparks-industry-wall-street-reactions-cook-transitions-roles",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/tim-cook-peace-sign.jpg?ve=1&tl=1",
+        "publishedAt": "2026-04-20T23:15:22Z",
+        "source": "Fox Business"
       },
       {
-        "title": "DOJ Signals Antitrust Shift on Media Deals as AI Alters Industry",
-        "description": "Rapid changes in media fueled by increased use of artificial intelligence and streaming services require a “cautious humility” from antitrust enforcers as they assess whether mergers in the industry are threatening competition and consumers, a senior US Justice Department official said.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-20/doj-signals-antitrust-shift-on-media-deals-as-ai-alters-industry",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGCFGz_dRTAE/v1/1200x800.jpg",
-        "publishedAt": "2026-04-20T22:06:14Z",
-        "source": "Bloomberg"
+        "title": "10 tips for retirement travel, from planning with AI to what to pack in your bag",
+        "description": "With travelling after retirement a growing trend, intrepid mature globe-trotters share tips on how to get the most out of more relaxed trips.",
+        "url": "https://www.scmp.com/lifestyle/travel-leisure/article/3350445/10-tips-retirement-travel-planning-ai-what-pack-your-bag",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/20/948405fa-b76c-400f-b137-09342e944fac_515ec86a.jpg?itok=u8wt7WsD&v=1776683100",
+        "publishedAt": "2026-04-20T23:15:07Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "AWS collaborates with SHI India to enable AI infrastructure for IndiaAI mission",
-        "description": "Amazon.com Inc:\nAmazon - AWS partners with SHI India for IndiaAI mission AI development\n...",
-        "url": "https://www.marketscreener.com/news/aws-collaborates-with-shi-india-to-enable-ai-infrastructure-for-indiaai-mission-ce7f59dadc88ff23",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-04-20T22:03:30Z",
-        "source": "MarketScreener"
+        "title": "Leadership change at Apple sparks industry and Wall Street reactions as Cook transitions roles",
+        "description": "Analyst Dan Ives says Tim Cook's exit as Apple CEO raises questions amid the company's major AI strategy push, calling the timing a surprise move.",
+        "url": "https://www.newsbreak.com/fox-business-1600402/4603150345849-leadership-change-at-apple-sparks-industry-and-wall-street-reactions-as-cook-transitions-roles",
+        "image": "https://img.particlenews.com/img/id/3TPvIN_1AdEaTIY00",
+        "publishedAt": "2026-04-20T23:15:00Z",
+        "source": "NewsBreak"
       },
       {
-        "title": "Mumbai: BMC To Use AI, Advanced Tech To Detect Water Leaks, Cut 25 Per Cent Supply Loss",
-        "description": "BMC plans to use AI-driven tools and advanced technologies like ground penetrating radar to detect leaks in underground pipelines. The move aims to curb nearly 25% water loss and improve supply efficiency across Mumbai.",
-        "url": "https://www.freepressjournal.in/mumbai/mumbai-bmc-to-use-ai-advanced-tech-to-detect-water-leaks-cut-25-per-cent-supply-loss",
-        "image": "https://media.assettype.com/freepressjournal/2026-04-07/gunmdxnx/2pic07-with-2-MP.jpg",
-        "publishedAt": "2026-04-20T22:02:19Z",
-        "source": "Free Press Journal"
+        "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+        "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+        "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+        "publishedAt": "2026-04-20T23:10:27Z",
+        "source": "TechCrunch"
       }
     ]
   }
