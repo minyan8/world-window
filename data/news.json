@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-22T13:58:13.023Z",
+  "fetchedAt": "2026-04-22T14:53:03.808Z",
   "sections": {
     "world": [
       {
-        "title": "Tokyo Dome City worker dies after being trapped in ride mechanism",
-        "description": "Tokyo Dome City Corporation says an employee died after becoming trapped in the mechanism of the \"Flying Balloon\" amusement ride during routine maintenance on Tuesday.",
-        "url": "https://www.foxnews.com/world/tokyo-theme-park-worker-dies-trapped-ride-mechanism-routine-maintenance",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tokyo-dome-amusement-park-2.jpeg",
-        "publishedAt": "2026-04-22T01:56:35Z",
-        "source": "Fox News"
+        "title": "Iran's military 'takes ayatollah hostage' in new claim",
+        "description": "Fox News' Jesse Watters says it appears that there has already been somewhat of a soft military coup in Iran",
+        "url": "https://www.express.co.uk/news/world/2196851/irans-military-takes-ayatollah-hostage",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6876554.jpg",
+        "publishedAt": "2026-04-22T02:53:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Does the White House have an alcohol problem?",
-        "description": "According to a recent, explosive report in The Atlantic, FBI director Kash Patel likes to drink - sometimes to excess. The FBI Director’s alleged exploits - which he denies, and is suing the magazine over - raise fresh questions about the conduct of people Donald Trump has surrounded himself with at the very top of his administration.",
-        "url": "https://www.theage.com.au/world/north-america/does-the-trump-administration-have-a-drinking-problem-20260421-p5zpwf.html",
-        "image": "https://static.ffx.io/images/$zoom_2.4685%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_44/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/t_metro_analysis_no_age_social_wm/58d0b6fb8a329491b3bcd29b297a3ec829ed93b800e59418cc05df4b3c5a0928",
-        "publishedAt": "2026-04-22T01:52:35Z",
-        "source": "The Age"
+        "title": "New Zealand could buy Japanese warships, missiles under export overhaul",
+        "description": "Japan has lifted major defence export restrictions, opening the door to weapons sales to countries including New Zealand.",
+        "url": "https://www.rnz.co.nz/news/world/593100/new-zealand-could-buy-japanese-warships-missiles-under-export-overhaul",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--GKgr034D--/t_tohu-badge-facebook/v1776824105/4JPRR2Z_AFP__20260421__A8G34NR__v1__HighRes__FilesJapanDefenceExports_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-22T02:50:10Z",
+        "source": "RNZ"
       },
       {
-        "title": "US potentially facing 'near-term risk' of running out of key missiles",
-        "description": "According to an analysis conducted by the Center for Strategic and International Studies, it may take three to five years to replenish US missile stockpiles to pre-war levels.",
-        "url": "https://www.jpost.com/international/article-893788",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710022",
-        "publishedAt": "2026-04-22T01:47:17Z",
+        "title": "4 Indian Tourists Caught Stealing Hotel Items From Resort In Bali's Ubud; Viral Video Shows Luggage Check By Staff",
+        "description": "Four Indian tourists were caught allegedly taking hotel items from a luxury resort in Bali, with a video of staff checking their luggage going viral. Items like towels, robes and utensils were recovered during checkout. The matter was later settled amicably, with all belongings returned and no police complaint filed.",
+        "url": "https://www.freepressjournal.in/viral/4-indian-tourists-caught-stealing-hotel-items-from-resort-in-balis-ubud-viral-video-shows-luggage-check-by-staff",
+        "image": "https://media.assettype.com/freepressjournal/2026-04-22/j0q6yhbo/Nanobot-1-8.jpg",
+        "publishedAt": "2026-04-22T02:49:51Z",
+        "source": "Free Press Journal"
+      },
+      {
+        "title": "Armed Conflict Location & Event Data Project (ACLED) is Hiring a West Africa Researcher (Remote Consultancy Role)",
+        "description": "The Armed Conflict Location & Event Data Project (ACLED) is offering a remote consultancy opportunity for a West Africa Researcher within its GDC Africa",
+        "url": "https://www.globalsouthopportunities.com/2026/04/22/acled-29/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2024/02/ACLED_Full-Logo.webp",
+        "publishedAt": "2026-04-22T02:45:01Z",
+        "source": "Global South Opportunities"
+      },
+      {
+        "title": "Ex-abbot of Thai temple jailed 50 years over 2bil baht embezzlement scandal linked to online gambling network",
+        "description": "BANGKOK: A Thai court has sentenced a former abbot of Wat Rai Khing to 50 years in prison after finding him guilty in a major embezzlement case involving more than two billion baht (US$62.14 million) in temple funds, with money trails linked to online gambling networks and close associates.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/22/ex-abbot-of-thai-temple-jailed-50-years-over-2bil-baht-embezzlement-scandal-linked-to-online-gambling-network",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/22/3871720.jpg",
+        "publishedAt": "2026-04-22T02:41:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Celebrating 25 Years of Gorilla Conservation in the DRC: Expanding Protection in the Nkuba Conservation Area",
+        "description": "The Dian Fossey Gorilla Fund is celebrating major milestones in the Democratic Republic of the Congo (DRC) – marking 25 years of conservation work, 15 years since we began working with local communities to establish a community-led conservation forest – the Nkuba Conservation Area – and five years since the first 1,100 square kilometers of […]",
+        "url": "https://gorillafund.org/congo/nkuba-25years-later/",
+        "image": "https://gorillafund.org/app/uploads/2026/04/YntzevanderHoek_Nkuba_Oct2022-429.jpg",
+        "publishedAt": "2026-04-22T02:38:21Z",
+        "source": "Dian Fossey Gorilla Fund"
+      },
+      {
+        "title": "Alleged Iranian front group calls on Americans to kill Donald Trump",
+        "description": "The group also called on Americans, particularly those in the US security apparatus and alleged victims of financier and sex offender Jeffrey Epstein, to kill Trump.",
+        "url": "https://www.jpost.com/international/article-893792",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715528",
+        "publishedAt": "2026-04-22T02:33:01Z",
         "source": "The Jerusalem Post"
       },
       {
-        "title": "Two CIA officers killed in Mexico",
-        "description": "US agents died in Chihuahua during an anti-drug trafficking operation",
-        "url": "https://www.telegraph.co.uk/us/news/2026/04/22/cia-officers-killed-mexico/",
-        "image": "https://www.telegraph.co.uk/content/dam/en-us/news/2026/04/22/TELEMMGLPICT000480182164_17768206777970_trans_NvBQzQNjv4BqNBQR1B2V7E2MYQ_NH-gF5wesZedZvNXdHa6gh2bv7bs.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-04-22T01:43:00Z",
-        "source": "The Telegraph"
-      },
-      {
-        "title": "US extends Iran ceasefire for peace talks",
-        "description": "US President Trump indefinitely extends ceasefire with Iran to facilitate ongoing peace talks mediated by Pakistan. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/trump-extends-ceasefire-until-iran-submits-new-proposal",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8f5cf416d139386fef8cc501cc0b5092adef80d164d4b267d3a7e55b0a5bdde9",
-        "publishedAt": "2026-04-22T01:40:39Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "'Trust and confidence reposed': Pakistan PM Shehbaz Sharif thanks Donald Trump for ceasefire extension",
-        "description": "Pakistan News: Pakistan Prime Minister Shehbaz Sharif on Wednesday thanked US President Donald Trump for extending the ceasefire in the ongoing Iran conflict, expres.",
-        "url": "https://timesofindia.indiatimes.com/world/pakistan/trust-and-confidence-reposed-pakistan-pm-shehbaz-sharif-thanks-donald-trump-for-ceasefire-extension/articleshow/130429761.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130429794,width-1280,height-720,imgsize-656404,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-22T01:32:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Airlines demand UK relax noise rules and cut flight tax as fuel shortage looms",
-        "description": "Ministers also asked to alter compensation rights and suspend emissions trading scheme amid Middle East war",
-        "url": "https://www.theguardian.com/business/2026/apr/21/airlines-uk-relax-rules-fuel-shortage",
-        "image": "https://i.guim.co.uk/img/media/395db319b2f0f3cdad78c0a692e120a1f2933958/551_0_4261_3409/master/4261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b836797dae3af0639d9f1188ef6d7d92",
-        "publishedAt": "2026-04-22T01:31:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Libya fueled war in Sudan with Colombian mercenaries, UN finds",
-        "description": "United Nations experts have found that paramilitaries fighting against the Sudanese military received support from an armed group in Libya, adding more chaos to the devastating war in Sudan.",
-        "url": "https://apnews.com/article/sudan-war-military-rsf-libya-uae-d6dea5d3d58c99bdf9c30d4554e24508",
-        "image": "https://dims.apnews.com/dims4/default/a89f2aa/2147483647/strip/true/crop/7606x5068+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5f%2Fb3%2F348369315223da0c65dddaf449d3%2F74d8f2e393274ccf8f7fccf14578c9d4",
-        "publishedAt": "2026-04-22T01:30:00Z",
-        "source": "AP News"
+        "title": "Viasat, Thales, ESA and Partners Complete Iris RPAS Flight Trials for BVLOS Multi-Link Connectivity in UK Airspace",
+        "description": "Thales BVLOS Connectivity Iris RPAS Flight Trials Advance Multi-link Connectivity",
+        "url": "https://www.thefastmode.com/technology-solutions/48191-viasat-thales-esa-and-partners-complete-iris-rpas-flight-trials-for-bvlos-multi-link-connectivity-in-uk-airspace",
+        "image": "https://www.thefastmode.com/media/k2/items/src/9bd73076d59de25bf3af6a21bfc7b630.jpg?t=20260422_023337",
+        "publishedAt": "2026-04-22T02:31:11Z",
+        "source": "The Fast Mode"
       }
     ],
     "business": [
       {
-        "title": "Hong Kong stocks retreat as war uncertainty lingers after ceasefire extension",
-        "description": "Investors need more conviction about material progress on a ceasefire and the normalisation of oil flow, investor says.",
-        "url": "https://www.scmp.com/business/china-business/article/3350939/hong-kong-stocks-retreat-after-trump-extends-iran-war-ceasefire",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/22/41456832-ecdb-4f32-91d3-2541a6382379_2ed3ee61.jpg?itok=2wQMyCm4&v=1776822838",
-        "publishedAt": "2026-04-22T01:54:03Z",
-        "source": "South China Morning Post"
+        "title": "Hobart’s new Australia Post parcel facility to sort 6,000 parcels per hour",
+        "description": "The 12,000 square metre facility is set to open next to the airport in 2027…",
+        "url": "https://pulsetasmania.com.au/news/hobarts-new-australia-post-parcel-facility-to-sort-6000-parcels-per-hour/",
+        "image": "https://cdn.pulsetasmania.com.au/images/pmg/a5f7a3c9-i96bc8jvp8pa7fh_nn73d_mx3ke.jpg",
+        "publishedAt": "2026-04-22T02:51:10Z",
+        "source": "Pulse Tasmania"
       },
       {
-        "title": "Globe and Grab utilize real-world insights to strengthen network optimization",
-        "description": "Globe has partnered with Grab and its driver-partners to capture real‑world data on connectivity strength and consistency across Metro Manila.",
-        "url": "https://www.gizguide.com/2026/04/globe-grab-real-world-insights-network-optimization.html",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX-0NN6tJw0A2GnLHII-ggbmSUqXS8OQbYK12TaFxZCE5WS_EradGDOnykodDc4XxllvFVKpNDUgeiAl9Y29PtBCOg1ZWn8q5TGxCEe663e2D_bhHM5xd4RWFHUwSbg11vdzUG5sA-QYILQpkqopTVQFb1YekT2onewAgE1Xdnjyxecv5sdZEW4rRJrDQd/w1200-h630-p-k-no-nu/globe-grab-logos-1.png",
-        "publishedAt": "2026-04-22T01:52:00Z",
-        "source": "GIZGUIDE"
+        "title": "Fossil fuel, renewable financing reached 'new heights' in 2025",
+        "description": "Environmental advocates call on domestic banks to 'cushion, rather than enable' the Philippines’ vulnerability amid global price shocks",
+        "url": "https://www.rappler.com/philippines/fossil-fuel-renewable-financing-record-high-2025/",
+        "image": "https://www.rappler.com/tachyon/2025/09/coal-plant-villanueva-misamis-oriental.jpg",
+        "publishedAt": "2026-04-22T02:49:23Z",
+        "source": "Rappler"
       },
       {
-        "title": "Taiwan's Smart Tolling Technology Goes Global as Thailand Launches AI-Powered M81 Motorway System",
-        "description": "TAIPEI, April 22, 2026 /PRNewswire/ -- Sightings of electronic toll collection (ETC) gantries resembling those used on Taiwan's freeways have recently drawn attention on social media along the Bangkok-Kanchanaburi highway. Far Eastern Electronic Toll Collection Co., Ltd. (FETC) confirmed that the system is part of Thailand's newly launched M-Flow multi-lane free-flow tolling system on the Intercity Motorway No. 81 Bang Yai - Kanchanaburi Route (M81).",
-        "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/pr-newswire/taiwans-smart-tolling-technology-goes-global-as-thailand-launches-ai-powered-m81-motorway-system/2325615",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/22/1023572.jpg",
-        "publishedAt": "2026-04-22T01:50:12Z",
-        "source": "The Manila Times"
+        "title": "Trade setup for April 22: Can NIFTY50 bounce back after weak opening on Wednesday?",
+        "description": "The GIFT NIFTY futures traded over 150 points lower at 7:30 am on Wednesday morning, indicating a weak opening for NIFTY50. The global market cues remain mixed as US and Iran failed to meet for second round of negotiation talks.",
+        "url": "https://upstox.com/news/market-news/trading/trade-setup-for-april-22-can-nifty-50-bounce-back-after-weak-opening-on-wednesday/article-192516/",
+        "image": "https://assets.upstox.com/content/assets/images/news/buzzing-stocks-april-16-converted-from-jpg.webp",
+        "publishedAt": "2026-04-22T02:48:08Z",
+        "source": "Upstox"
       },
       {
-        "title": "Strikes on petrochemical hubs leave Iran short of plastics",
-        "description": "Iran is facing severe shortages of key petrochemical products after recent strikes on its main production hubs, according to two informed sources inside the country.",
-        "url": "https://www.iranintl.com/en/202604219227",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/12224f6d42e0b2b6178e222bcc651cd7d564e888-1170x632.jpg?rect=148,107,813,427&w=1200&h=630&fit=max&auto=format",
-        "publishedAt": "2026-04-22T01:47:59Z",
-        "source": "ایران اینترنشنال"
+        "title": "RBI updates e-mandate norms: No OTP needed for recurring payments up to ₹15,000 - here's what it means for users",
+        "description": "RBI on Tuesday issued a consolidated digital payments e-mandate framework, setting a threshold of ₹15,000 per transaction for recurring payments without requiring an OTP. The framework includes provisions for cross-border payments and mandates pre-debit alerts, among other measures. Details here.",
+        "url": "https://www.livemint.com/money/personal-finance/rbi-updates-e-mandate-norms-no-otp-needed-for-recurring-payments-up-to-15-000-heres-what-it-means-for-users-11776822756977.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/logo/INDIA-CENBANK-INTEREST-RATES-0_1744095799648_1776824748302.JPG",
+        "publishedAt": "2026-04-22T02:48:03Z",
+        "source": "Mint"
       },
       {
-        "title": "Millions of renters hit by unlawful data collection",
-        "description": "Australia’s privacy regulator has found that one of the country’s most widely used rental application platforms collected far more personal information than it needed and used manipulative design tactics to pressure tenants into handing it over.",
-        "url": "https://www.theage.com.au/technology/millions-of-renters-hit-by-unlawful-data-collection-20260422-p5zpzv.html",
-        "image": "https://static.ffx.io/images/$zoom_0.6639%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_159%2C$y_82/t_crop_custom/q_86%2Cf_auto/6c3c816ffe36601d1b1b9c7b33a8bebd752fdfe0",
-        "publishedAt": "2026-04-22T01:47:51Z",
-        "source": "The Age"
+        "title": "Asia Piling Co named for hitting fibre optic cables that led to 20-hour broadband disruption",
+        "description": "Asia Piling Co is the sub-contractor that hit critical underground fibre optic cables, causing a 20-hour broadband outage in Singapore on April 18. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/asia-piling-co-named-for-hitting-fibre-optic-cables-that-led-to-20-hour-broadband-disruption",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ee97abd246f9dbba3836c87d1f31711eb179996d01e05962350c67b0cf3d9f18",
+        "publishedAt": "2026-04-22T02:45:42Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Millions of renters hit by unlawful data collection",
-        "description": "Australia’s privacy regulator has found that one of the country’s most widely used rental application platforms collected far more personal information than it needed and used manipulative design tactics to pressure tenants into handing it over.",
-        "url": "https://www.brisbanetimes.com.au/technology/millions-of-renters-hit-by-unlawful-data-collection-20260422-p5zpzv.html",
-        "image": "https://static.ffx.io/images/$zoom_0.6639%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_159%2C$y_82/t_crop_custom/q_86%2Cf_auto/6c3c816ffe36601d1b1b9c7b33a8bebd752fdfe0",
-        "publishedAt": "2026-04-22T01:47:51Z",
-        "source": "Brisbane Times"
+        "title": "MPA, PSA seek autonomous vessel proposals to shuttle containers between S’pore terminals",
+        "description": "The aim is to assess their readiness, operational feasibility and safety for use in port operations. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/transport/mpa-psa-seek-autonomous-vessel-proposals-to-shuttle-containers-between-spore-terminals",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d2629ab05e15ba3e949e6c41ddbd6c8f67c5114f9270de711cd668a188504c41",
+        "publishedAt": "2026-04-22T02:45:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "US Stock Futures Rise, Dollar Falls on Iran Truce: Markets Wrap",
-        "description": "(Bloomberg) -- US equity-index futures climbed and the dollar edged lower after President Donald Trump said he would extend the ceasefire with Iran, spurring cautious optimism among investors.",
-        "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise%2C-dollar-falls-on-iran-truce%3A-markets-wrap/91294700",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1768386618",
-        "publishedAt": "2026-04-22T01:46:40Z",
-        "source": "SWI swissinfo.ch"
+        "title": "Packaging Startup Targets Single-Use Plastics",
+        "description": "U.K. company Xampla creates biodegradable, plant protein packaging to replace plastic packaging.",
+        "url": "https://www.ift.org/food-technology-magazine/packaging-startup-targets-single-use-plastics",
+        "image": "https://www.ift.org/cdn-cgi/image/width=480,height=0/siteassets/2-publications-media-blocks/1-food-technology-magazine/2026/04/packaging-startup-targets-single-use-plastics/xampla-packaging-720x405.jpg?v=",
+        "publishedAt": "2026-04-22T02:39:40Z",
+        "source": "IFT.org"
       },
       {
-        "title": "Thailand cuts diesel prices but remains mid-range in ASEAN",
-        "description": "Thailand’s major fuel retailers have cut diesel prices by THB1.20 per litre, offering some relief to motorists as the country continues to grapple with energy price pressures linked to the Middle East crisis.",
-        "url": "https://asianews.network/thailand-cuts-diesel-prices-but-remains-mid-range-in-asean/",
-        "image": "https://asianews.network/wp-content/uploads/2026/04/2-9.jpg",
-        "publishedAt": "2026-04-22T01:44:39Z",
-        "source": "Asia News Network"
+        "title": "Europe's most valuable company is laying off 1,700 employees: These are the jobs that will be cut",
+        "description": "Tech News News: ASML, the Dutch chip equipment maker that holds a global monopoly on the machines used to manufacture advanced semiconductors, is cutting roughly 1,70.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/europes-most-valuable-company-is-laying-off-1700-employees-these-are-the-jobs-that-will-be-cut/articleshow/130430487.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130430445,width-1280,height-720,imgsize-34420,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-22T02:38:00Z",
+        "source": "The Times of India"
       }
     ],
     "science": [
+      {
+        "title": "Bursting the Barrier: Catalysts Unlock Hydrogen from Magnesium Hydride",
+        "description": "A new study sheds light on how hydrogen can be stored and released more effectively using magnesium hydride (MgH₂), offering fresh direction for clean",
+        "url": "https://www.nationaltribune.com.au/bursting-the-barrier-catalysts-unlock-hydrogen-from-magnesium-hydride/",
+        "image": "https://www.tohoku.ac.jp/en/press/images/030_bursting_the_barrier_t.jpg",
+        "publishedAt": "2026-04-22T02:43:03Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "Why forest conservation is also public health",
+        "description": "Environmental science and conservation news",
+        "url": "https://news.mongabay.com/2026/04/why-forest-conservation-is-also-public-health/",
+        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/20194949/Eliurus-Credit-ElisePaietta.jpg",
+        "publishedAt": "2026-04-22T02:16:21Z",
+        "source": "news - Mongabay"
+      },
+      {
+        "title": "First Actual Measurement of “Attempt Time” in Nanomagnets After 70 Years of Assumptions",
+        "description": "A compass always points north – or does it? Magnets normally maintain a stable direction of magnetization, pointing from south to north (S→N",
+        "url": "https://www.nationaltribune.com.au/first-actual-measurement-of-attempt-time-in-nanomagnets-after-70-years-of-assumptions/",
+        "image": "https://www.tohoku.ac.jp/en/press/images/028_first_measurement_of_attempt_time_after_70_years_t.jpg",
+        "publishedAt": "2026-04-22T02:13:09Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "Artemis II Mission Milestones: Image And Video Recap",
+        "description": "A view of Earth taken by an Artemis II astronaut from one of the Orion spacecraft's windows after completing the translunar injection burn on April 2",
+        "url": "https://www.miragenews.com/artemis-ii-mission-milestones-image-and-video-1659665/",
+        "image": "https://images-assets.nasa.gov/image/art002e000192/art002e000192~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "publishedAt": "2026-04-22T02:13:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "First Measured Attempt Time in Nanomagnets After 70 Years",
+        "description": "A compass always points north - or does it? Magnets normally maintain a stable direction of magnetization, pointing from south to north (S→N",
+        "url": "https://www.miragenews.com/first-measured-attempt-time-in-nanomagnets-1659660/",
+        "image": "https://www.tohoku.ac.jp/en/press/images/028_first_measurement_of_attempt_time_after_70_years_t.jpg",
+        "publishedAt": "2026-04-22T02:10:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Peripheral neuropathy: why only some mutations cause disease",
+        "description": "Discover how specific mutations in ARS genes cause inherited peripheral neuropathies and potential avenues for targeted treatments.",
+        "url": "https://www.thehindu.com/sci-tech/science/peripheral-neuropathy-why-only-some-mutations-cause-disease/article70887286.ece",
+        "image": "https://th-i.thgim.com/public/sci-tech/science/10eyzz/article70887277.ece/alternates/LANDSCAPE_1200/mjh-shikder--bJj_81Zois-unsplash.jpg",
+        "publishedAt": "2026-04-22T02:00:00Z",
+        "source": "The Hindu"
+      },
       {
         "title": "Epigenome proteins shape dynamic gene expression beyond simple on-off",
         "description": "A new study finds the proteins responsible for controlling which genes are expressed in a genome do more than simply turn a gene on or off.",
@@ -150,120 +198,72 @@
         "image": "https://www.news-medical.net/image-handler/picture/2014/7/DNA_Genetics-620x480.jpg",
         "publishedAt": "2026-04-22T01:32:00Z",
         "source": "News-Medical"
-      },
-      {
-        "title": "Chinese engineers plan to study building greenhouse on lunar surface",
-        "description": "A Chinese lunar exploration team plans to conduct research on a lunar surface greenhouse, according to Wang Qiong, a senior space engineer with the China National Space Administration (CNSA), during a press conference in Beijing on Tuesday.",
-        "url": "https://news.cgtn.com/news/2026-04-22/Chinese-engineers-plan-to-study-building-greenhouse-on-lunar-surface-1MxBkwLUJzy/p.html",
-        "image": "https://news.cgtn.com/news/2026-04-22/Chinese-engineers-plan-to-study-building-greenhouse-on-lunar-surface-1MxBkwLUJzy/img/2da7d052f54843e5b629cebaf6450c73/2da7d052f54843e5b629cebaf6450c73-750.jpeg",
-        "publishedAt": "2026-04-22T01:21:19Z",
-        "source": "news.cgtn.com"
-      },
-      {
-        "title": "Curiosity Explores Sand, Seeks New Drill Target",
-        "description": "Curiosity NavigationCuriosity HomeMission OverviewWhere is Curiosity?Mission Updates\nScienceOverviewInstrumentsHighlightsExploration Goals\nNews and",
-        "url": "https://www.miragenews.com/curiosity-explores-sand-seeks-new-drill-target-1659611/",
-        "image": "https://cdn1.miragenews.com/wp-content/uploads/def_rota/news2.jpeg",
-        "publishedAt": "2026-04-22T01:20:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "How does imagination really work in the brain? New theory upends what we knew",
-        "description": "There’s a lot going on in your brain all the time. To power your imagination, the neurons need some silence.",
-        "url": "https://www.unsw.edu.au/newsroom/news/2026/04/how-does-imagination-really-work-in-the-brain-new-theory-upends-what-we-knew",
-        "image": "https://www.unsw.edu.au/content/dam/images/medicine-health/cheba/websites/2025-08-website-migration/AdobeStock_1084786502.cropimg.width=700.crop=landscape.jpeg",
-        "publishedAt": "2026-04-22T01:19:43Z",
-        "source": "UNSW Sydney"
-      },
-      {
-        "title": "A Powerful Supercomputer Found A Flaw In A Decades-Old Theory About Sun-Like Stars",
-        "description": "All stars slow their rotation when they age, but new research shows that contrary to previous research, the poles slow down in tandem with the equator.",
-        "url": "https://www.bgr.com/2149086/japanese-supercomputer-found-flaw-in-sun-like-stars-theory/",
-        "image": "https://www.bgr.com/img/gallery/a-powerful-supercomputer-found-a-flaw-in-a-decades-old-theory-about-sun-like-stars/l-intro-1776271500.jpg",
-        "publishedAt": "2026-04-22T01:17:00Z",
-        "source": "bgr.com"
-      },
-      {
-        "title": "Scientists develop MIND approach to predict and reshape microbiomes",
-        "description": "University of California San Diego researchers have developed a new tool for understanding and modifying any microbiome, including the human microbiome.",
-        "url": "https://www.news-medical.net/news/20260421/Scientists-develop-MIND-approach-to-predict-and-reshape-microbiomes.aspx",
-        "image": "https://www.news-medical.net/images/tags/TagImage-4166-452960421181018548294-620x480.jpg",
-        "publishedAt": "2026-04-22T01:16:00Z",
-        "source": "News-Medical"
-      },
-      {
-        "title": "New Findings Shed Light on Bronze Age Life in the Caucasus 4,500 Years Ago",
-        "description": "New study reveals the Bronze Age Caucasus diet included wine, dairy, and imported pine resin, uncovered through ancient pottery.",
-        "url": "https://greekreporter.com/2026/04/22/bronze-age-caucasus/",
-        "image": "https://greekreporter.com/wp-content/uploads/2026/04/kura–araxes-ceramics-and-selected-shapes-from-qaracinar-credit-maxime-rageot-cc-by-nc-nd-40.jpg",
-        "publishedAt": "2026-04-22T01:01:04Z",
-        "source": "GreekReporter.com"
       }
     ],
     "ai": [
       {
-        "title": "Reese Witherspoon responds to criticism over her stance on AI: ‘No one is paying me to talk about this’",
-        "description": "Reese Witherspoon has responded to backlash over comments on AI, also addressing speculation about whether she was being paid to promote the technology. | Hollywood",
-        "url": "https://www.hindustantimes.com/entertainment/hollywood/reese-witherspoon-responds-to-criticism-over-her-stance-on-ai-instagram-101776822276009.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/22/550x309/Reese_Witherspoon_1776822361278_1776822361449.jpg",
-        "publishedAt": "2026-04-22T01:57:26Z",
+        "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
+        "description": "Florida Attorney General James Uthmeier launches criminal probe into OpenAI and ChatGPT over an FSU shooting, testing legal limits of AI responsibility",
+        "url": "https://www.cnbctv18.com/world/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting-ws-l-19890894.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/02/449621808-2026-02-18db60977cb92dc22c01518fd153ebcf-scaled.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-04-22T02:53:04Z",
+        "source": "CNBC TV18"
+      },
+      {
+        "title": "ChatGPT Images 2.0: Which prompts work best? All about OpenAI’s new model",
+        "description": "OpenAI labelled ChatGPT Images 2.0 as a “new era of image generation”. | Trending",
+        "url": "https://www.hindustantimes.com/trending/chatgpt-images-2-0-which-prompts-work-best-all-about-openai-s-new-model-101776825859821.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/22/550x309/ChatGPT_Images_2_0_Prompts_OpenAi_Viral_1776825898273_1776825898403.jpg",
+        "publishedAt": "2026-04-22T02:50:25Z",
         "source": "Hindustan Times"
       },
       {
-        "title": "Trump says Anthropic is 'shaping up,' open to deal with Pentagon",
-        "description": "After months of tension, the Trump administration’s tone signals a thaw with Anthropic, as legal battles and national security concerns persist. Whether this leads to renewed Pentagon ties or stricter guardrails on military AI use could shape how Washington balances innovation, safety, and control in the escalating global AI race.",
-        "url": "https://www.firstpost.com/tech/trump-says-anthropic-is-shaping-up-open-to-deal-with-pentagon-14002988.html",
-        "image": "https://images.firstpost.com/uploads/2026/03/2026-03-11T223216Z_2_LYNXMPEM2A1IL_RTROPTP_4_PENTAGON-ANTHROPIC-EXEMPTION-2026-03-c2a4d1d4949480b3648ad88cadaf5f3e-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-22T01:56:59Z",
+        "title": "Anthropic’s Mythos AI reportedly accessed by outsiders days after launch - here’s what happened",
+        "description": "A reported breach involving Anthropic’s Mythos highlights a growing paradox in AI, tools built to strengthen cybersecurity may themselves become targets. As companies race to develop powerful models, controlling access is proving just as critical as innovation, especially when even limited releases can be quietly exposed.",
+        "url": "https://www.firstpost.com/tech/anthropics-mythos-ai-reportedly-accessed-by-outsiders-days-after-launch-heres-what-happened-14002992.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/Anodot-Hackers-2026-04-5afd3b39d45c448886625f15d3b570d9.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-22T02:48:28Z",
         "source": "Firstpost"
       },
       {
-        "title": "SpaceX's Galactic IPO: A New Frontier in Business Valuation",
-        "description": "Elon Musk's SpaceX makes headlines with plans for the largest IPO ever. The company announced a potential $60 billion acquisition of AI startup Cursor and a June market IPO targeting $75 billion capital raising. Despite facing substantial losses, Musk maintains control, driving innovation and investment interest.",
-        "url": "https://www.devdiscourse.com/article/technology/3882529-spacexs-galactic-ipo-a-new-frontier-in-business-valuation",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=920&format=jpeg",
-        "publishedAt": "2026-04-22T01:55:24Z",
-        "source": "Devdiscourse"
+        "title": "HCLTech Q4: Revenue dips 3.3% QoQ, flags AI deflation",
+        "description": "India Business News: BENGALURU/NEW DELHI: HCLTech’s results presented a mixed picture, weighed down by client-specific headwinds, delayed procurement decisions and persist.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-q4-revenue-dips-3-3-qoq-flags-ai-deflation/articleshow/130430581.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130430577,width-1280,height-720,imgsize-24060,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-22T02:44:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Meta to track employees' mouse movements, keystrokes to train AI models",
-        "description": "The initiative, part of Meta's push to build autonomous “AI agents” for workplace tasks, comes alongside workforce restructuring and has sparked concerns among experts over heightened white-collar surveillance and data privacy.",
-        "url": "https://www.indiatoday.in/technology/story/meta-to-track-employees-mouse-movements-keystrokes-to-train-ai-models-2899722-2026-04-22",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/meta-181230175-16x9_2.jpg?VersionId=F1dqlsB_NSvFdUbuubx4Nb94IQSXy4ic",
-        "publishedAt": "2026-04-22T01:54:43Z",
-        "source": "India Today"
+        "title": "Tim Cook steps down Apple CEO",
+        "description": "Cook moves to chairman role as Apple bets on hardware leadership amid AI challenges, supply chain shifts and evolving global strategy",
+        "url": "https://www.telegraphindia.com/business/tim-cook-steps-down-apple-ceo-john-ternus-takes-over-in-major-leadership-shift-prnt/cid/2157210",
+        "image": "https://assets.telegraphindia.com/telegraph/2026/Apr/1776825211_new-project-2026-04-22t072946-389.jpg",
+        "publishedAt": "2026-04-22T02:38:58Z",
+        "source": "Telegraph India"
       },
       {
-        "title": "This week at SpaceX: AI bets, losses and push for control as mega IPO looms",
-        "description": "Elon Musk's SpaceX saw a slew of developments this week as it barrels toward what could be the largest initial public offering in history.\nThe rocket and satellite company disclosed an...",
-        "url": "https://www.marketscreener.com/news/this-week-at-spacex-ai-bets-losses-and-push-for-control-as-mega-ipo-looms-ce7f59dbd08df226",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-10T100250Z_1_LYNXMPEM290K8_RTROPTP_4_SPACEX-STARSHIP.JPG",
-        "publishedAt": "2026-04-22T01:53:39Z",
-        "source": "MarketScreener"
+        "title": "Meta to capture U.S. employee mouse movements and keystrokes to train AI",
+        "description": "The new tracking software will run on work-related apps and websites and will also take occasional snapshots of the content on employees' screens, according to an internal memo.",
+        "url": "https://www.japantimes.co.jp/business/2026/04/22/tech/meta-employee-ai-training-data/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/22/536377.JPG?v=3.1",
+        "publishedAt": "2026-04-22T02:38:06Z",
+        "source": "The Japan Times "
       },
       {
-        "title": "Feud between AI power startup Fermi and fired CEO and top shareholder heats up over proposed sale",
-        "description": "The former CEO wants to sell the company to make money for shareholders rather than see Fermi's plans to fruition.",
-        "url": "https://fortune.com/2026/04/21/feud-between-ai-power-startup-fermi-and-its-fired-ceo-and-top-shareholder-heats-up/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/DSC00956-e1760043977791.jpeg?resize=1200,600",
-        "publishedAt": "2026-04-22T01:50:58Z",
-        "source": "Fortune"
+        "title": "Michael and Susan Dell give $1B+ to UT Austin for AI-native hospital",
+        "description": "Michael Dell and Susan Dell became the first donors to give more than $1 billion to the University of Texas at Austin, funding a massive AI-native hospital and research campus.",
+        "url": "https://www.foxnews.com/tech/michael-susan-dell-surpass-1-billion-donations-backing-ai-driven-hospital-project",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/michael-dell-1b-ut-austin-ai-hospital-campus-001.jpeg",
+        "publishedAt": "2026-04-22T02:35:52Z",
+        "source": "Fox News"
       },
       {
-        "title": "Taiwan's Smart Tolling Technology Goes Global as Thailand Launches AI-Powered M81 Motorway System",
-        "description": "TAIPEI, April 22, 2026 /PRNewswire/ -- Sightings of electronic toll collection (ETC) gantries resembling those used on Taiwan's freeways have recently drawn attention on social media along the Bangkok-Kanchanaburi highway. Far Eastern Electronic Toll Collection Co., Ltd. (FETC) confirmed that the system is part of Thailand's newly launched M-Flow multi-lane free-flow tolling system on the Intercity Motorway No. 81 Bang Yai - Kanchanaburi Route (M81).",
-        "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/pr-newswire/taiwans-smart-tolling-technology-goes-global-as-thailand-launches-ai-powered-m81-motorway-system/2325615",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/22/1023572.jpg",
-        "publishedAt": "2026-04-22T01:50:12Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Apple's Veteran Engineer John Ternus Ascends to CEO Amid AI Race Uncertainties",
-        "description": "John Ternus, who has been with Apple for 25 years, is set to take over as CEO from Tim Cook. With a rich hardware engineering background, Ternus faces the challenge of steering Apple in the competitive AI landscape, while managing supply chain dynamics and maintaining strategic partnerships globally.",
-        "url": "https://www.devdiscourse.com/article/technology/3882528-apples-veteran-engineer-john-ternus-ascends-to-ceo-amid-ai-race-uncertainties",
-        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png?width=920&format=jpeg",
-        "publishedAt": "2026-04-22T01:49:03Z",
-        "source": "Devdiscourse"
+        "title": "AI Chatbots and Cancer Risk: Unsafe Alternatives to Chemotherapy Explained",
+        "description": "AI chatbots may suggest unsafe cancer treatment alternatives, risking patient health by promoting misinformation instead of evidence-based therapies like chemotherapy. , Health, Times Now",
+        "url": "https://www.timesnownews.com/health/cancer-patients-at-risk-ai-chatbots-push-unsafe-alternatives-to-chemotherapy-article-154133067",
+        "image": "https://images.timesnownews.com/thumb/msid-154133067,width-1280,height-720,resizemode-75/154133067.jpg",
+        "publishedAt": "2026-04-22T02:35:41Z",
+        "source": "Times Now"
       }
     ]
   }
