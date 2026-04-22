@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-22T08:55:07.021Z",
+  "fetchedAt": "2026-04-22T09:51:46.270Z",
   "sections": {
     "world": [
       {
-        "title": "Dozens of US lawmakers have been accused of sexual harassment, study finds",
-        "description": "Analysis finds 53 workplace harassment allegations against 30 lawmakers amid wave of resignations in Congress",
-        "url": "https://www.theguardian.com/us-news/2026/apr/21/house-senate-sexual-harassment-study",
-        "image": "https://i.guim.co.uk/img/media/6d0719b5ce71abee46db6b5933560bdc300e8608/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63ceb8da8fc979e5ffb85daa37bb5751",
-        "publishedAt": "2026-04-21T20:48:00Z",
-        "source": "The Guardian"
+        "title": "old pilot in training to be Top Gun Maverick",
+        "description": "Two years into his lessons and Californian Maverick Foletta is almost ready to fly a plane solo – if only he wasn’t just 8 years old. Maverick told American...",
+        "url": "https://www.nzherald.co.nz/world/eight-year-old-pilot-in-training-to-be-top-gun-maverick/O7YPDMBG4ZH4BOCHQVS45RXXWY/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/PR3GG5N4QVHFXKZ2UHYJCPJ2HA.jpg?auth=45cbfed7d663ca851c32c109741b6091e206013e432863d440435ae927032451&width=1200&height=675&quality=70&focal=1319%2C699&smart=false",
+        "publishedAt": "2026-04-21T21:50:31Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
-        "description": "More than four in every 10 deaths and disappearances occurred on sea routes to Europe, UN agency says.",
-        "url": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2023/04/32KN4NY-highres.jpg?resize=1920%2C1400",
-        "publishedAt": "2026-04-21T20:47:29Z",
-        "source": "Al Jazeera"
+        "title": "Trump Extends Ceasefire To Give Iran More Time To Negotiate",
+        "description": "Trump Extends Ceasefire To Give Iran More Time To Negotiate",
+        "url": "https://www.channelstv.com/2026/04/21/trump-extends-ceasefire-to-give-iran-more-time-to-negotiate/",
+        "image": "https://www.channelstv.com/wp-content/uploads/2026/03/Trump-1.jpg",
+        "publishedAt": "2026-04-21T21:50:13Z",
+        "source": "Channels Television"
       },
       {
-        "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-        "description": "The Trump administration targets 14 individuals and entities over alleged links to Iran’s arms industry.",
-        "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-02-11T090421Z_522651403_RC2LJJAY8AY9_RTRMADP_3_IRAN-CRISIS-PROTEST-1776795305.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-21T20:45:04Z",
-        "source": "Al Jazeera"
+        "title": "US nuclear chief 'escorted out Pentagon' as probe launched into 'sensitive leak'",
+        "description": "It comes after footage was released online that appeared to show him speaking with a stranger.",
+        "url": "https://www.express.co.uk/news/world/2196831/us-nuclear-chief-escorted-out",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6876470.jpg",
+        "publishedAt": "2026-04-21T21:48:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Safe Hearts Plan: EU Commission seeks feedback on cardiovascular health checks",
-        "description": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-        "url": "https://ieu-monitoring.com/editorial/eu-commission-seeks-feedback-on-cardiovascular-health-checks/1074680?utm_source=ieu-portal",
-        "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-        "publishedAt": "2026-04-21T20:42:35Z",
-        "source": "INSIGHT EU MONITORING"
+        "title": "Is the Brussels Effect Losing Steam?",
+        "description": "Europe’s Digital Markets Act was designed to lead a global antitrust crackdown on tech. But the Act’s impact has been limited and few countries are following.",
+        "url": "https://cepa.org/article/is-the-brussels-effect-losing-steam/",
+        "image": "https://cepa.org/wp-content/uploads/2026/04/2026-02-23T111347Z_883872580_MT1SOPA000EDGSF4_RTRMADP_3_SOPA-2-scaled.jpg",
+        "publishedAt": "2026-04-21T21:44:44Z",
+        "source": "Center for European Policy Analysis (CEPA)"
       },
       {
-        "title": "Teen charged with killing Florida stepsister Anna Kepner on cruise ship pleads not guilty",
-        "description": "A teenager charged with killing his stepsister on a Carnival Cruise ship filed a not-guilty plea Tuesday and waived his appearance at a hearing in Miami federal court.",
-        "url": "https://www.cnn.com/2026/04/21/us/cruise-ship-stepsister-killed",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/anna-kepner.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-21T20:38:14Z",
-        "source": "CNN"
+        "title": "EU attempts to outmaneuver Iran rollercoaster with emergency energy plan",
+        "description": "There’s only so much the EU can do to address the fallout of the chaotic war in the Gulf.",
+        "url": "https://www.politico.eu/article/eu-bids-to-outmaneuver-iran-rollercoaster-with-emergency-energy-plan/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/22/GettyImages-2267810468-scaled.jpg",
+        "publishedAt": "2026-04-21T21:42:00Z",
+        "source": "politico.eu"
       },
       {
-        "title": "Donald Trump extends Iran ceasefire but continues Strait of Hormuz blockade",
-        "description": "US President Donald Trump says he will hold off attacking Iran until Tehran's negotiating teams come up with a unified proposal for a peace deal.",
-        "url": "https://www.abc.net.au/news/2026-04-22/trump-extends-iran-ceasefire-but-continues-blockade/106590964",
-        "image": "https://live-production.wcms.abc-cdn.net.au/1b37e552c8c577a225f8c4341b1bf29d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-21T20:35:23Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Fourth man charged over alleged kidnapping and murder of Sydney pensioner Chris Baghsarian",
+        "description": "A fourth man has been arrested and charged over the alleged kidnapping and murder of Australian pensioner Chris Baghsarian. Baghsarian, 85, was taken from...",
+        "url": "https://www.nzherald.co.nz/world/fourth-man-charged-over-alleged-kidnapping-and-murder-of-sydney-pensioner-chris-baghsarian/SHGSCD6OOZG6NJMD5CNUSEUFCE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/Q7752PDIQBAW3KYXAAYF5YQ43I.jpg?auth=11767bc136424b03e2cf56474892c0be766635de7bb9e4f7e76493b800eddf7e&width=1200&height=675&quality=70&focal=511%2C290&smart=false",
+        "publishedAt": "2026-04-21T21:38:31Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Trump extends Iran ceasefire with Tehran regime ‘seriously fractured’",
-        "description": "The move comes as the deadline loomed on the current fragile truce and proposed talks in Islamabad were put on hold.",
-        "url": "https://www.breakingnews.ie/world/trump-extends-iran-ceasefire-with-tehran-regime-seriously-fractured-1889985.html",
-        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMjEyMTMzMjBcXFwvZTUyMTVkNzVmMWNlNDU2NGExNWMxNjZjMWFmMzE1ZmUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4ZDYxNzI2MTMyZGNmNDkxNmU4ZTU3NTkxZWJlMTAxOGRjZWE2YTU5In0=/trump-extends-iran-ceasefire-with-tehran-regime-seriously-fractured.jpg",
-        "publishedAt": "2026-04-21T20:30:33Z",
-        "source": "BreakingNews.ie"
+        "title": "How Asim Munir, Pak PM Sharif's 'request' changed Trump's mind on Iran ceasefire",
+        "description": "Donald Trump announced on Wednesday that he will be extending the ceasefire until Iran comes up with a unified proposal. | World News",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-ceasefire-extension-how-asim-munir-pakistan-pm-shehbaz-sharif-islamabad-request-changed-donald-trump-mind-101776805771920.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/21/550x309/PTI09-26-2025-000117B-0_1759277870796_1759277890740_1776807282376.jpg",
+        "publishedAt": "2026-04-21T21:38:02Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "World on edge as US puts Vance’s Pakistan visit on hold after Iran fails to join talks",
-        "description": "West Asia conflict: Both sides hint at resumption of hostilities as two-week ceasefire concludes today.",
-        "url": "https://www.tribuneindia.com/news/top-headlines/world-on-edge-as-us-puts-vances-pak-visit-on-hold-after-iran-fails-to-join-talks/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRiNDM0YmMwLTNkYzEtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-        "publishedAt": "2026-04-21T20:30:09Z",
-        "source": "The Tribune"
+        "title": "US-Iran war live updates: Trump says US will extend ceasefire, blockade to continue; Israeli soldiers punished for destroying Jesus statue",
+        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
+        "url": "https://www.theage.com.au/world/middle-east/us-iran-war-live-updates-jd-vance-s-trip-to-pakistan-for-peace-talks-on-hold-iran-yet-to-decide-on-attending-israeli-soldiers-punished-for-destroying-jesus-statue-20260421-p5zpw9.html",
+        "image": "https://static.ffx.io/images/$zoom_0.7101483200347392%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_931%2C$y_301/t_crop_custom/q_86%2Cf_auto/7f0355098c6827ff1512d5998a0336866add7b3f",
+        "publishedAt": "2026-04-21T21:35:25Z",
+        "source": "The Age"
       }
     ],
     "business": [
       {
-        "title": "TSX falls over 550 points, U.S. stocks negative, oil prices rise",
-        "description": "Canada’s main stock index fell more than 550 points, while U.S. markets also lost ground amid uncertainty about U.S.-Iran ceasefire talks.",
-        "url": "https://www.bnnbloomberg.ca/markets/2026/04/21/sptsx-composite-falls-more-than-300-points-us-stock-markets-also-move-lower/",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/3CDE63I4HJDQPFC35WOGDHVSCQ.jpg?smart=true&auth=02ab11d4b61fd38ae7fa2cadfd7468f512643b86b6aab20903b501fb4a1e1054&width=1200&height=630",
-        "publishedAt": "2026-04-21T20:48:27Z",
-        "source": "BNN Bloomberg"
+        "title": "QC Ware Announces 5th Q2B Tokyo Conference Focused on the Roadmap to Quantum Value in Asia and Beyond, Quemix to Co",
+        "description": "/PRNewswire/ -- QC Ware, a leading provider of industry-disrupting quantum technology, quantum-inspired machine learning, and quantum chemistry simulation...",
+        "url": "https://www.prnewswire.com/news-releases/qc-ware-announces-5th-q2b-tokyo-conference-focused-on-the-roadmap-to-quantum-value-in-asia-and-beyond-quemix-to-co-host-and-sponsor-302748197.html",
+        "image": "https://mma.prnewswire.com/media/2343975/Q2B24_Paris_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-21T21:51:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "5 things to watch on the ASX 200 on Wednesday",
-        "description": "BHP Group Ltd (ASX: BHP) and Northern Star Resources Ltd (ASX: NST) shares will be on watch on the ASX 200 on Wednesday...",
-        "url": "https://www.fool.com.au/2026/04/22/5-things-to-watch-on-the-asx-200-on-wednesday-22-april-2026/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2022/02/broker-14-16.9-1200x675.jpg",
-        "publishedAt": "2026-04-21T20:45:38Z",
-        "source": "The Motley Fool Australia"
+        "title": "When oil prices spike, where does the money go?",
+        "description": "Matthew E. Oliver & Tibor Besedeš look at who wins and who loses when prices for oil, the 'fuel for the industrial economy,' rise",
+        "url": "https://www.interest.co.nz/economy/138189/matthew-e-oliver-tibor-besede%C5%A1-look-who-wins-and-who-loses-when-prices-oil-fuel",
+        "image": "https://www.interest.co.nz/sites/default/files/2026-04/Oil_2.png",
+        "publishedAt": "2026-04-21T21:49:00Z",
+        "source": "Interest.co.nz"
       },
       {
-        "title": "Fuel Allowance early payment date confirmed ahead of May bank holiday",
-        "description": "The final extra payment of the Fuel Allowance extension is due to land in accounts early next week due to the May bank holiday",
-        "url": "https://www.dublinlive.ie/news/dublin-news/fuel-allowance-early-payment-date-33813672",
-        "image": "https://i2-prod.dublinlive.ie/article33813671.ece/ALTERNATES/s1200d/0_Dara-Calleary-TD202601206161-1JPG.jpg",
-        "publishedAt": "2026-04-21T20:43:29Z",
-        "source": "Dublin Live"
+        "title": "Meta Plans to Turn Its Employees' Clicks and Keystrokes into AI Training Data",
+        "description": "Surely this will encourage a sense of job security.",
+        "url": "https://gizmodo.com/meta-plans-to-turn-its-employees-clicks-and-keystrokes-into-ai-training-data-2000749176",
+        "image": "https://gizmodo.com/app/uploads/2026/02/meta_sign-1200x675.jpg",
+        "publishedAt": "2026-04-21T21:46:06Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "The Australian",
-        "description": "No Cookies | The Australian",
-        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-        "publishedAt": "2026-04-21T20:42:28Z",
-        "source": "The Australian"
+        "title": "Canada Post Reporting Worsening Financial Situation",
+        "description": "Canada Post says its financial situation has worsened with the Crown corporation posting a record $1.57 billio...",
+        "url": "https://vocm.com/2026/04/21/canada-post-reporting-worsening-financial-situation/",
+        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Canada-Post-Headquarters-1.jpg",
+        "publishedAt": "2026-04-21T21:44:00Z",
+        "source": "VOCM"
       },
       {
-        "title": "Global economy loses over 30 per cent of potential value each year, Circle Economy report says",
-        "description": "A Circle Economy Circularity Gap Report estimates global economies lose €25.4 trillion in potential value annually—over 30%—due to inefficient resource use acro...",
-        "url": "https://eastleighvoice.co.ke/business/336204/global-economy-loses-over-30-per-cent-of-potential-value-each-year-circle-economy-report-says",
-        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/04/economy.jpg",
-        "publishedAt": "2026-04-21T20:40:38Z",
-        "source": "The Eastleigh Voice"
+        "title": "Claude Mythos AI can be 'net positive' to UK says cyber official",
+        "description": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.",
+        "url": "https://www.bbc.com/news/articles/cy41zejp9pko",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b11/live/a8955660-3d85-11f1-b36e-e38d844afc06.jpg",
+        "publishedAt": "2026-04-21T21:43:48Z",
+        "source": "BBC"
       },
       {
-        "title": "Temenos AG (TMSNY) Q1 2026 Earnings Call Transcript",
-        "description": "Temenos AG (TMSNY) Q1 2026 Earnings Call April 21, 2026 12:30 PM EDTCompany ParticipantsPanagiotis Spiliopoulos - CEO & Interim CFOConference Call...",
-        "url": "https://seekingalpha.com/article/4892505-temenos-ag-tmsny-q1-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-04-21T20:40:35Z",
-        "source": "Seeking Alpha"
+        "title": "Panakeia Unveils Landmark Metabolic and Pathway Activation Data in Cancers at AACR 2026",
+        "description": "CAMBRIDGE, UK - April 21, 2026 - Panakeia ('the Company”), the world’s first in silico multi-omics company, today unveiled landmark pathway activation data in cancers at the American Association for Cancer Research (AACR) Annual Meeting 2026, further proving its unique capability to unlock complete biological blueprints essential for drug discovery and clinical decision-making.",
+        "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/globenewswire/panakeia-unveils-landmark-metabolic-and-pathway-activation-data-in-cancers-at-aacr-2026/2325553",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/22/1023466.png",
+        "publishedAt": "2026-04-21T21:40:19Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Wall Street slides as ceasefire uncertainty swirls; Trump’s Fed nominee grilled",
-        "description": "Wall Street and oil prices flip-flopped as Middle East uncertainty hovers over markets, while Donald Trump announced after the closing bell that the US is extending its ceasefire with Iran",
-        "url": "https://www.theage.com.au/business/markets/asx-set-to-fall-wall-street-slides-as-deadline-nears-trump-s-fed-nominee-grilled-20260422-p5zpwx.html",
-        "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/q_86%2Cf_auto/ec3ff9891dda11b899c6a63c9d531ff1d0280085",
-        "publishedAt": "2026-04-21T20:39:40Z",
-        "source": "The Age"
+        "title": "Autodesk Joins Howard University to Celebrate and Tour New Makerspace Funded by Company’s $1.95 Million Donation",
+        "description": "Howard and Autodesk's partnership supports the development of a construction engineering and management program in the College of Engineering and Architecture, and the creation of a makerspace powered by AI design and digital fabrication.",
+        "url": "https://thedig.howard.edu/all-stories/autodesk-joins-howard-university-celebrate-and-tour-new-makerspace-funded-companys-195-million",
+        "image": "https://thedig.howard.edu/sites/thedig.howard.edu/files/styles/optimized/public/2026-04/Autodesk%20and%20Howard%20Hero.jpg?itok=I7cJ1S35",
+        "publishedAt": "2026-04-21T21:37:21Z",
+        "source": "The Dig at Howard University"
       },
       {
-        "title": "Cellular neighborhoods inside tumors may predict which patients with melanoma benefit from combination immunotherapy",
-        "description": "Findings suggest it may eventually be possible to use tumor structure, not just genetics, to help guide treatment decisions in melanoma.",
-        "url": "https://www.uclahealth.org/news/release/cellular-neighborhoods-inside-tumors-may-predict-which",
-        "image": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_030000_1200x675/public/images/fa/2025-08-18-uclah-jccc-ribas-campbell-075-1-copy.jpg?f=295121b9&itok=kWzbrwVr",
-        "publishedAt": "2026-04-21T20:39:20Z",
-        "source": "UCLA Health"
+        "title": "Assessing Grand Pharmaceutical Group (SEHK:512) Valuation After Positive DOORwaY90 Liver Cancer Trial Results",
+        "description": "Grand Pharmaceutical Group (SEHK:512) just reported that its DOORwaY90 trial for SIR-Spheres Y-90 in unresectable hepatocellular carcinoma met its clinical endpoint, a key data point for investors watching its radiopharmaceutical pipeline.\nSee our latest analysis for Grand Pharmaceutical Group.\nThe DOORwaY90 success comes at a time when Grand Pharmaceutical Group’s short-term share price performance has been weak, with a 30-day share price return showing a decline of 5.35% and a 90-day share...",
+        "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-512/grand-pharmaceutical-group-shares/news/assessing-grand-pharmaceutical-group-sehk512-valuation-after-2",
+        "image": "https://images.simplywall.st/asset/industry/6121000-choice1-main-header/1585186685410",
+        "publishedAt": "2026-04-21T21:33:45Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Physicists Now Understand Why a Weird Quantum Gas Refuses to Heat Up",
+        "description": "It's weird but true, and physicists now have more questions.",
+        "url": "https://gizmodo.com/physicists-now-understand-why-a-weird-quantum-gas-refuses-to-heat-up-2000749260",
+        "image": "https://gizmodo.com/app/uploads/2026/04/quantum-gas-dynamic-localization-1200x675.jpg",
+        "publishedAt": "2026-04-21T21:45:12Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "NASA's Incredible New Telescope Will Offer An 'Atlas Of The Universe'",
+        "description": "Get a first look at the completed observatory.",
+        "url": "https://in.mashable.com/space/108784/nasas-incredible-new-telescope-will-offer-an-atlas-of-the-universe",
+        "image": "https://sm.mashable.com/t/mashable_in/article/n/nasas-incr/nasas-incredible-new-telescope-will-offer-an-atlas-of-the-un_xaye.1200.jpg",
+        "publishedAt": "2026-04-21T21:39:05Z",
+        "source": "Mashable India"
+      },
+      {
+        "title": "New NASA Views Of Earth, From PACE",
+        "description": "Earth (ESD)EarthExploreExplore Earth ScienceAgricultureAir QualityClimate ChangeFreshwaterLife on EarthSevere StormsSnow and IceThe Global",
+        "url": "https://www.miragenews.com/new-nasa-views-of-earth-from-pace-1659451/",
+        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/pace_tour_diatom_still_01.05500.tif?w=1536",
+        "publishedAt": "2026-04-21T21:38:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "NASA Astronaut Christina Koch Talks Skincare, Sleep, and Space Travel in New Interview",
+        "description": "Fresh off her Artemis II Moon mission, the record-breaking astronaut speaks to Harper’s Bazaar about everything from the wonders of space to her zero-gravity skincare routineRead her full interview here.",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a71086934/nasa-astronaut-christina-koch-skincare-routine-sleep-space-interview/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/657d5238-6061-493f-b745-109756b3d4e6.jpg?crop=0.806xw:0.269xh;0.194xw,0.157xh&resize=1200:*",
+        "publishedAt": "2026-04-21T21:32:00Z",
+        "source": "Harper's BAZAAR"
+      },
+      {
+        "title": "Space Travel Evolution: When AI Leaves Earth",
+        "description": "FUTURE CRAFT  On April 10, a small capsule called Orion splashed into the Pacific Ocean off the coast of California. Inside were four astronauts who had just become...",
+        "url": "https://risingkashmir.com/space-travel-evolution-when-ai-leaves-earth",
+        "image": "https://risingkashmir.com/uploads/news-post/69e7d44995e42.jpg",
+        "publishedAt": "2026-04-21T21:28:06Z",
+        "source": "Rising Kashmir"
+      },
+      {
+        "title": "Coroner raises concern over prescribing errors following prison death",
+        "description": "The Pharmaceutical Journal from the Royal College of Pharmacy",
+        "url": "https://pharmaceutical-journal.com/article/news/coroner-raises-concern-over-prescribing-errors-following-prison-death",
+        "image": "https://pharmaceutical-journal.com/wp-content/uploads/2026/04/Coroner-raises-concern-over-prescribing-errors-following-prison-death-.jpg",
+        "publishedAt": "2026-04-21T21:22:30Z",
+        "source": "The Pharmaceutical Journal"
+      },
+      {
+        "title": "NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars",
+        "description": "Welcome to Astrobiology.com",
+        "url": "https://astrobiology.com/2026/04/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars.html",
+        "image": "https://astrobiology.com/wp-content/uploads/2026/04/NASAs-Curiosity-Finds.jpg",
+        "publishedAt": "2026-04-21T21:03:49Z",
+        "source": "astrobiology.com"
+      },
       {
         "title": "Old Site in Ethiopia Offers Window into How Early Humans Lived",
         "description": "A new study reveals early human life in Ethiopia, showing how humans made tools, used resources, and adapted to their environment.",
@@ -142,128 +198,72 @@
         "image": "https://greekreporter.com/wp-content/uploads/2026/04/large-msa-tools-and-small-debitage-from-faro-daba-credit-yonas-beyene-et-al-ccbyncnd4.jpg",
         "publishedAt": "2026-04-21T20:30:51Z",
         "source": "GreekReporter.com"
-      },
-      {
-        "title": "Exoplanets struggle to sustain carbon cycles without water",
-        "description": "Science News: Not only is water necessary for sustaining life, but it is also an important factor in maintaining the climate of a planet. The study of exoplanets re.",
-        "url": "https://timesofindia.indiatimes.com/science/exoplanets-struggle-to-sustain-carbon-cycles-without-water/articleshow/130423804.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130423914,width-1280,height-720,imgsize-2363695,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-21T20:30:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "A rare particle decay at the LHC is behaving strangely, and physicists are starting to question whether their most trusted theory holds",
-        "description": "Rare LHC anomaly pushes scientists to question its 50-year-old Standard Model",
-        "url": "https://www.techradar.com/pro/physicists-just-found-a-bizarre-charming-penguin-glitch-at-the-lhc-that-could-prove-everything-weve-ever-known-about-physics-and-reality-itself-is-dead-wrong",
-        "image": "https://cdn.mos.cms.futurecdn.net/CNPBhrsA86Q7U8UdpT5qp9-2560-80.png",
-        "publishedAt": "2026-04-21T20:30:00Z",
-        "source": "TechRadar"
-      },
-      {
-        "title": "Penguin Waddle and Flight Secrets Unveiled by Scientists",
-        "description": "Penguins may look charmingly awkward on land, but new research shows their bodies are finely tuned for powerful, efficient movement both on land and",
-        "url": "https://www.miragenews.com/penguin-waddle-and-flight-secrets-unveiled-by-1659406/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-21T20:30:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Lyrid meteor shower peaks soon in sky above Washington. Here’s when to watch",
-        "description": "Here’s how to see “bright and fast” shooting stars and fireballs.",
-        "url": "https://ca.news.yahoo.com/lyrid-meteor-shower-peaks-soon-202751407.html",
-        "image": "https://s.yimg.com/os/en/tacoma_news_tribune_mcclatchy_articles_153/d1c923c826acf805c04b558bdaf056a8",
-        "publishedAt": "2026-04-21T20:27:51Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "NASA Satellite Captures Strange Gleaming Halo Surrounding New Zealand’s Chatham Islands",
-        "description": "A strange, glowing halo has been captured by NASA’s satellite, surrounding New Zealand’s remote Chatham Islands.",
-        "url": "https://indiandefencereview.com/gleaming-halo-new-zealands-chatham-islands/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/nasa-satellite-captures-strange-gleaming-halo-surrounding-new-zealands-chatham-islands-scaled.png",
-        "publishedAt": "2026-04-21T20:20:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "The Lyrid meteor shower peaks tonight! Here’s how to catch a glimpse",
-        "description": "The Lyrid meteor shower, which happens every April, peaks tonight in the night sky. Here’s how to catch a glimpse in Canada.",
-        "url": "https://www.cbc.ca/kidsnews/post/the-lyrid-meteor-shower-peaks-tonight-heres-how-to-catch-a-glimpse",
-        "image": "https://www.cbc.ca/kidsnews/images/LYRIDMETEORAPR26THUMB.jpg",
-        "publishedAt": "2026-04-21T20:19:21Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Lyrid meteor shower peaks this week. Here's how to watch and when to look up",
-        "description": "Spring's first meteor shower will peak this week. Here's how and when to see one of the oldest recorded celestial events. (AP Photo)",
-        "url": "https://www.newscentermaine.com/article/news/nation-world/lyrid-meteor-shower-peak-what-time-how-to-watch/507-a4705900-3d97-4696-91cf-7f8336eb6fd9",
-        "image": "https://media.newscentermaine.com/assets/CCT/images/e95d13a8-60b2-4a42-a780-c199b96e8166/20251209T190915/e95d13a8-60b2-4a42-a780-c199b96e8166_1140x641.jpg",
-        "publishedAt": "2026-04-21T20:16:00Z",
-        "source": "newscentermaine.com"
       }
     ],
     "ai": [
       {
-        "title": "New app using AI aims to expand civic engagement in Minnesota",
-        "description": "For anyone who isn’t familiar with how legislation is written and advanced at the state Capitol, the process can feel like it was deliberately created to confuse.",
-        "url": "https://apnews.com/article/civicloon-bill-translation-app-ai-1037dd4c3996b309a9dac9b90dbf92e5",
-        "image": "https://dims.apnews.com/dims4/default/eb0bbc8/2147483647/strip/true/crop/5942x3959+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F69%2Fa20e4b8763449dbf2b34e39707e5%2F0288525ce9d54327861c2b3beec7d532",
-        "publishedAt": "2026-04-21T20:51:26Z",
-        "source": "The Associated Press"
+        "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports",
+        "description": "A small group of unauthorized ​users has accessed Anthropic's new Mythos AI ‌model, Bloomberg News reported on Tuesday, citing documentation and a person familiar with the matter.",
+        "url": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
+        "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-21T21:49:32Z",
+        "source": "Reuters"
       },
       {
-        "title": "New App Using AI Aims to Expand Civic Engagement in Minnesota",
-        "description": "For anyone who isn’t familiar with how legislation is written and advanced at the state Capitol, the process can feel like it was deliberately created to confuse.",
-        "url": "https://www.usnews.com/news/best-states/minnesota/articles/2026-04-21/new-app-using-ai-aims-to-expand-civic-engagement-in-minnesota",
-        "image": "https://www.usnews.com/dims4/USNEWS/244b925/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F4d%2F3194d4c2d7b6a1dbd25026ce646b30%2F0288525ce9d54327861c2b3beec7d532Minnesota_Bill_Translation_App_89376.jpg",
-        "publishedAt": "2026-04-21T20:51:00Z",
-        "source": "U.S. News & World Report"
+        "title": "Florida’s attorney general launches criminal probe into ChatGPT over FSU shooting",
+        "description": "ORLANDO, Fla. — Florida’s attorney general on Tuesday opened a rare criminal investigation into OpenAI’s ChatGPT over whether the artificial intelligence app offered advice to a gunman who killed two people and wounded six others last year at Florida State University. Attorney General James Uthmeier said that prosecutors had done",
+        "url": "https://triblive.com/news/world/floridas-attorney-general-launches-criminal-probe-into-chatgpt-over-fsu-shooting/",
+        "image": "https://assets-varnish.triblive.com/2026/04/9503810_web1_9503810-36b72d4f9f9f4ad9b72a0d827dec4313.jpg",
+        "publishedAt": "2026-04-21T21:49:14Z",
+        "source": "Pittsburgh Tribune-Review"
       },
       {
-        "title": "Nvidia: Shifting Competitive Landscape, Shares A ‘Hold’ (NASDAQ:NVDA)",
-        "description": "Nvidia Corporation leads the AI race, beating targets with a strong outlook, but rising competition may cap share gains. Click for more on NVDA stock prospects.",
-        "url": "https://seekingalpha.com/article/4892537-nvidia-shifting-competitive-landscape-shares-a-hold",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-21T20:46:48Z",
-        "source": "Seeking Alpha"
+        "title": "'Not just generating images. It’s thinking' - ChatGPT Images 2.0 could fundamentally change how you make AI images",
+        "description": "OpenAI’s new model focuses on better interpretation of complex image prompts.",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/not-just-generating-images-its-thinking-chatgpt-images-2-0-could-fundamentally-change-how-you-make-ai-images",
+        "image": "https://cdn.mos.cms.futurecdn.net/arxLCi4q4UYGh3RVbwqLSn-1920-80.png",
+        "publishedAt": "2026-04-21T21:46:48Z",
+        "source": "TechRadar"
       },
       {
-        "title": "Florida attorney general launches criminal inquiry into OpenAI over shooter",
-        "description": "OpenAI said ChatGPT is not responsible for the FSU shooting and that it only provided data \"that could be found broadly across public sources.\"",
-        "url": "https://www.washingtonexaminer.com/news/crime/4537916/florida-ag-criminal-investigation-openai-fsu-shooter/",
-        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP25203637223708.jpg?resize=1200,683",
-        "publishedAt": "2026-04-21T20:46:43Z",
-        "source": "Washington Examiner"
+        "title": "Apple’s Tim Cook says he’s ‘healthy’; John Ternus promises AI products",
+        "description": "Cook made the comments in an all-hands meeting with staff, following the announcement that he will pass the reins to hardware chief John Ternus on Sept. 1",
+        "url": "https://www.moneycontrol.com/technology/apple-s-tim-cook-says-he-s-healthy-ternus-promises-ai-products-article-13895719.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260421214547_tim-cook.jpg",
+        "publishedAt": "2026-04-21T21:46:26Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "The new war room",
-        "description": "Militaries already use AI to detect what humans might miss. Now they also want an advice engine for commanders to consult in battle.",
-        "url": "https://www.technologyreview.com/2026/04/21/1135667/new-war-room-military-ai-artificial-intelligence/",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/war-roomC-thumb.jpg?resize=1200,600",
-        "publishedAt": "2026-04-21T20:45:00Z",
-        "source": "MIT Technology Review"
+        "title": "Meta Plans to Turn Its Employees' Clicks and Keystrokes into AI Training Data",
+        "description": "Surely this will encourage a sense of job security.",
+        "url": "https://gizmodo.com/meta-plans-to-turn-its-employees-clicks-and-keystrokes-into-ai-training-data-2000749176",
+        "image": "https://gizmodo.com/app/uploads/2026/02/meta_sign-1200x675.jpg",
+        "publishedAt": "2026-04-21T21:46:06Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "2026 10 Things That Matter in AI Right Now",
-        "description": "MIT Technology Review's authoritative overview of the 10 technologies, emerging trends, bold ideas, and powerful movements in AI in 2026.",
-        "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT-TR_10-things-that-matter-in-AI-right-now_Social_1200x628.jpg?resize=1200,600",
-        "publishedAt": "2026-04-21T20:45:00Z",
-        "source": "MIT Technology Review"
+        "title": "Claude Mythos AI can be 'net positive' to UK says cyber official",
+        "description": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.",
+        "url": "https://www.bbc.com/news/articles/cy41zejp9pko",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7b11/live/a8955660-3d85-11f1-b36e-e38d844afc06.jpg",
+        "publishedAt": "2026-04-21T21:43:48Z",
+        "source": "BBC News"
       },
       {
-        "title": "Supercharged scams",
-        "description": "AI tools are making it easier than ever for online criminals to trick people and steal money and valuable confidential data.",
-        "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/superchargedC-thumb.jpg?resize=1200,600",
-        "publishedAt": "2026-04-21T20:45:00Z",
-        "source": "MIT Technology Review"
+        "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+        "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+        "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
+        "publishedAt": "2026-04-21T21:40:41Z",
+        "source": "Ars Technica"
       },
       {
-        "title": "China’s open-source bet",
-        "description": "The country’s top AI labs are undercutting US competitors and winning over developers by making their best models free.",
-        "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/open-sourceC-thumb.jpg?resize=1200,600",
-        "publishedAt": "2026-04-21T20:45:00Z",
-        "source": "MIT Technology Review"
+        "title": "Florida’s attorney general launches criminal probe into ChatGPT over FSU shooting",
+        "description": "Attorney General James Uthmeier said that prosecutors had done an initial review of chat logs between ChatGPT and the gunman to determine if the AI app aided, abetted, or advised the commission of a crime.",
+        "url": "https://www.bostonglobe.com/2026/04/21/business/florida-attorney-general-criminal-probe-chatgpt-fsu-shooting/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XXWPTDMNHY5VTBRPX4QRNWAZYY.jpg?auth=95b2e0e150544f1af0d15a578698fd4c2ba4afdab568beecb31bb03011eb3076&width=1440",
+        "publishedAt": "2026-04-21T21:37:53Z",
+        "source": "The Boston Globe"
       }
     ]
   }
