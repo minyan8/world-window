@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-25T11:30:57.803Z",
+  "fetchedAt": "2026-04-25T12:31:58.359Z",
   "sections": {
     "world": [
       {
-        "title": "Watching the movie All the President’s Men makes me yearn for pre",
-        "description": "The movie All the President’s Men is 50 years old. Watching it reminds us of a time when dishonour in US politics came at a price and The Washington Post was in good hands.",
-        "url": "https://www.smh.com.au/culture/movies/watching-this-watergate-classic-makes-me-yearn-for-pre-trump-america-20260423-p5zqcp.html",
-        "image": "https://static.ffx.io/images/$zoom_0.572%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/24727efa138e93517d635d0e3d70675e08d25749",
-        "publishedAt": "2026-04-24T23:30:00Z",
-        "source": "SMH.com.au"
+        "title": "13 Horrifying American History Facts You Were Never Taught In School",
+        "description": "Most US history textbooks give it less than a page — if it’s mentioned at all.",
+        "url": "https://www.buzzfeed.com/victoriavouloumanos/american-history-facts-never-taught-in-school",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/07/20/thumb/hXvJCsVjo.jpg?crop=3000:1571;0,3%26downsize=1250:*",
+        "publishedAt": "2026-04-25T00:31:02Z",
+        "source": "BuzzFeed"
       },
       {
-        "title": "Watching the movie All the President’s Men makes me yearn for pre",
-        "description": "The movie All the President’s Men is 50 years old. Watching it reminds us of a time when dishonour in US politics came at a price and The Washington Post was in good hands.",
-        "url": "https://www.theage.com.au/culture/movies/watching-this-watergate-classic-makes-me-yearn-for-pre-trump-america-20260423-p5zqcp.html",
-        "image": "https://static.ffx.io/images/$zoom_0.572%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/24727efa138e93517d635d0e3d70675e08d25749",
-        "publishedAt": "2026-04-24T23:30:00Z",
-        "source": "The Age"
+        "title": "New global panel aims to accelerate move away from fossil fuels",
+        "description": "Scientists and economists will help countries develop plans to reduce dependence on oil, gas and coal",
+        "url": "https://www.theguardian.com/environment/2026/apr/25/new-global-panel-aims-to-accelerate-move-away-from-fossil-fuels",
+        "image": "https://i.guim.co.uk/img/media/3836e7bd7c62757413a6dd34041f97c519b529d5/0_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3adabfae496aea1ea9052282e8c661e",
+        "publishedAt": "2026-04-25T00:31:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "I moved 1,500 miles to be with my deported husband",
-        "description": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
-        "url": "https://www.bbc.co.uk/news/articles/cly032z5e71o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d38d/live/0ebba0c0-2878-11f1-831a-89df8c4bf49f.jpg",
-        "publishedAt": "2026-04-24T23:29:45Z",
+        "title": "FWRM calls for end to immunity provisions and demands civilian control of military",
+        "description": "FWRM calls for end to immunity provisions and demands civilian control of military",
+        "url": "https://www.fijivillage.com/news/fwrm-calls-for-end-to-immunity-provisions-and-demands-civilian-control-of-military-fdbaa5/",
+        "image": "https://www.fijivillage.com/news_images/20260425122955_media_69ebfadb1a97c8_21187554.jpg",
+        "publishedAt": "2026-04-25T00:29:12Z",
+        "source": "Fijivillage"
+      },
+      {
+        "title": "No cyber hack: Fintech expert exposes shocking legacy flaws that led to $2.5 million theft",
+        "description": "The alleged diversion of Sri Lanka’s $2.5 million debt repayment is unlikely to be a simple “hack,” but rather a case of a compromised payment process, where weak verification layers, email-based instructions, and insufficient system segregation created an opening for fraud, a fintech expert told The Island Financial Review. He pointed out that in cross-border […]",
+        "url": "https://island.lk/no-cyber-hack-fintech-expert-exposes-shocking-legacy-flaws-that-led-to-2-5-million-theft/",
+        "image": "http://island.lk/wp-content/uploads/2026/04/No-cyber-hack.png",
+        "publishedAt": "2026-04-25T00:26:12Z",
+        "source": "Island.lk"
+      },
+      {
+        "title": "TechReviewAfrica - News Details",
+        "description": "Your Trusted Tech News Platform",
+        "url": "https://techreviewafrica.com/news/5135/honor-act-mark-international-girls-in-ict-day-with-focus-on-ai-skills-development",
+        "image": "https://techreviewafrica.com/assets/images/news/2026/04/25/69ec07d4d1dce1777076180.jpg",
+        "publishedAt": "2026-04-25T00:15:21Z",
+        "source": "Tech Review Africa"
+      },
+      {
+        "title": "Europe's Nato allies push back at reported US threat to Spain",
+        "description": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+        "url": "https://www.bbc.co.uk/news/articles/cj40r2gw24wo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcbe/live/62677690-4038-11f1-b55d-0f258dce1735.jpg",
+        "publishedAt": "2026-04-25T00:10:51Z",
         "source": "BBC"
       },
       {
-        "title": "Everest flood warning neglected for years, Nepal officials tell BBC",
-        "description": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
-        "url": "https://www.bbc.co.uk/news/articles/czjwr93vrrzo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/001b/live/825a5210-3fd4-11f1-bd52-e755d604ece4.jpg",
-        "publishedAt": "2026-04-24T23:28:09Z",
+        "title": "Europe's Nato allies push back at reported US threat to Spain",
+        "description": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fcbe/live/62677690-4038-11f1-b55d-0f258dce1735.jpg",
+        "publishedAt": "2026-04-25T00:10:51Z",
         "source": "BBC"
       },
       {
-        "title": "Twins found holding each other after both die from intense electrocution",
-        "description": "The twins, 22, were fatally electrocuted after accidentally touching high-voltage cables using a metal pole and it is believed that one of the brothers died while trying to save his twin",
-        "url": "https://www.mirror.co.uk/news/world-news/twins-both-die-from-electrocution-37068214",
-        "image": "https://i2-prod.mirror.co.uk/article37068204.ece/ALTERNATES/s1200d/1_ahead-upcoming-hunting-season-failed-1075874190.jpg",
-        "publishedAt": "2026-04-24T23:19:00Z",
-        "source": "The Mirror"
-      },
-      {
-        "title": "Behind Nigeria's murky coup plot",
-        "description": "For months rumours and secrecy have surrounded last year's alleged Independence Day coup plot in Nigeria - but with this week's indictment of six people accused of involvement comes the first details of what is said to have been an elaborate plan to oust President Bola Tinubu.",
-        "url": "https://www.myjoyonline.com/behind-nigerias-murky-coup-plot-the-money-the-prayers-and-a-nollywood-arrest/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/8f2143c0-3fd2-11f1-ac78-2112837ce2aa.jpg.webp",
-        "publishedAt": "2026-04-24T23:14:07Z",
-        "source": "MyJoyOnline"
-      },
-      {
-        "title": "US Justice Department to allow firing squads for executions",
-        "description": "The Justice Department will adopt firing squads as a permitted method of execution as the Trump administrat...",
-        "url": "https://www.9news.com.au/world/justice-department-to-allow-firing-squads-for-executions-in-move-to-ramp-up-capital-punishment/ad0befb9-d46c-496c-b24d-d6a632be07ae",
-        "image": "https://imageresizer.static9.net.au/6xJQT-iHbJoK1E7YmWILUH_b3Ns=/0x778:2453x2157/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc5d98494-3aaf-4db8-ac29-7db77f24efd3",
-        "publishedAt": "2026-04-24T23:13:03Z",
-        "source": "9News"
-      },
-      {
-        "title": "'No meeting is planned': Iran rules out direct talks with US in Islamabad; asserts engagement through Pakistan",
-        "description": "Middle East News: Iran has denied any plans for direct talks with the United States in Islamabad, even as both sides step up diplomatic activity in Pakistan. Tehran has.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/no-meeting-is-planned-iran-rules-out-direct-talks-with-us-in-islamabad-asserts-engagement-through-pakistan/articleshow/130506161.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130506166,width-1280,height-720,imgsize-1137851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-24T23:07:00Z",
-        "source": "The Times of India"
+        "title": "A continental call from Africa: Standing with Cuba against imperialist aggression",
+        "description": "With the economic strangulation of Cuba by the United States, African progressive organizations and movements are calling for broader continental solidarity.",
+        "url": "https://sfbayview.com/2026/04/a-continental-call-from-africa-standing-with-cuba-against-imperialist-aggression/",
+        "image": "https://sfbayview.com/wp-content/uploads/2026/04/cuban-solidarity-event-in-kenya-by-ajiambo-ashlyn-x.jpeg",
+        "publishedAt": "2026-04-25T00:06:49Z",
+        "source": "San Francisco Bay View"
       }
     ],
     "business": [
       {
-        "title": "Dreame will unveil its latest wet dry vacuum innovations in Silicon Valley, building on rapid growth across the world",
-        "description": "/PRNewswire/ -- As part of DREAME NEXT, Dreame's upcoming Silicon Valley launch event, Dreame wet dry vacuum will take center stage on April 28 (PT) with its...",
-        "url": "https://www.prnewswire.com/news-releases/dreame-will-unveil-its-latest-wet-dry-vacuum-innovations-in-silicon-valley-building-on-rapid-growth-across-the-world-302753426.html",
-        "image": "https://mma.prnewswire.com/media/2965499/20260424_123545.jpg?p=facebook",
-        "publishedAt": "2026-04-24T23:26:00Z",
-        "source": "PR Newswire"
+        "title": "Leading through crisis, from 1997 to the pandemic",
+        "description": "The corner office at Globe Tower in Bonifacio Global City (BGC), Taguig City, has long been a vantage point for the shifting skyline of Metro Manila, but for...",
+        "url": "https://mb.com.ph/2026/04/25/leading-through-crisis-from-1997-to-the-pandemic",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96370.webp",
+        "publishedAt": "2026-04-25T00:26:38Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Nigeria aviation digitalisation at 40%, ICAN warns",
-        "description": "ICAN warns Nigeria's aviation digitalisation is at only 40% efficiency, urging faster tech adoption to improve operations and reduce corruption in the sect",
-        "url": "https://punchng.com/nigeria-aviation-digitalisation-operating-at-40-ican-warns/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2022/06/14221239/Murtala-Muhammed-International-Airport-Lagos.jpg",
-        "publishedAt": "2026-04-24T23:25:13Z",
+        "title": "SLB Advances Digital Strategy with Acquisition of S&P Global Energy’s Upstream Software Portfolio",
+        "description": "Transaction expands SLB's digital subsurface presence in U.S. unconventional workflows and supports its long‑term AI‑enabled platform strategy",
+        "url": "https://www.slb.com/newsroom/updates/2026/2026-0423-sp-global-acquisition",
+        "image": "https://www.slb.com/-/media/images/newsroom/updates/2026-0424-sp-global-hero.jpg",
+        "publishedAt": "2026-04-25T00:22:30Z",
+        "source": "SLB"
+      },
+      {
+        "title": "Smoke from Air NZ aircraft halts take-off on runway at Auckland Airport",
+        "description": "Air New Zealand said Flight NZ81 from Auckland to Hong Kong experienced a technical issue with the braking system when positioning for take-off.",
+        "url": "https://www.1news.co.nz/2026/04/25/smoke-from-air-nz-aircraft-halts-take-off-on-runway-at-auckland-airport/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/flight-nz81-on-the-runway-at-auckland-international-airport-7RKCWYKW4ZDCXNT545P7S62EXI.png?auth=e0e26ad29459908211fe0b9a23fda579c1463e11cc31b4ac5e6af98b214af663&quality=70&width=600&height=315&focal=340%2C311",
+        "publishedAt": "2026-04-25T00:22:05Z",
+        "source": "1News"
+      },
+      {
+        "title": "WHO approves first Malaria drug for babies",
+        "description": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group.",
+        "url": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581",
+        "image": "https://static.dw.com/image/76894318_6.jpg",
+        "publishedAt": "2026-04-25T00:21:33Z",
+        "source": "DW.com"
+      },
+      {
+        "title": "Regent Microfinance Bank expands services with new office",
+        "description": "Regent Microfinance Bank relocates its Abuja HQ to expand financial services, enhance customer experience, and boost digital and in-branch banking.",
+        "url": "https://punchng.com/regent-mfb-expands-banking-services/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/25005322/Regent-MFB-1200x630.jpg",
+        "publishedAt": "2026-04-25T00:20:44Z",
         "source": "Punch Newspapers"
       },
       {
-        "title": "Fines imposed on fuel stations over price cap",
-        "description": "Violations in fuel pricing were identified during inspections by the Independent Authority for Market Control and Consumer Protection, and fines totaling €54,000 will be imposed on nine fuel stations.",
-        "url": "https://www.ekathimerini.com/economy/1301872/fines-imposed-on-fuel-stations-over-price-cap/",
-        "image": "https://www.ekathimerini.com/wp-content/uploads/2026/04/Fuel_pumps_Intime.jpg",
-        "publishedAt": "2026-04-24T23:22:14Z",
-        "source": "eKathimerini.com"
+        "title": "HERE introduces AI-powered, live map intelligence for NOA use cases at Auto China 2026",
+        "description": "HERE introduces AI-powered, live map intelligence for NOA use cases at Auto China 2026",
+        "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/here-introduces-ai-powered-live-map-intelligence-for-noa-use-cases-at-auto-china-2026/2328422",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/25/1028599.jpg",
+        "publishedAt": "2026-04-25T00:12:15Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "IFS announces filing of 2025 Annual Report on Form 20-F",
-        "description": "/PRNewswire/ -- Intercorp Financial Services Inc. (\"IFS\" or the \"Company\") (BVL/NYSE: IFS) announced today the filing of its Annual Report on Form 20-F for the...",
-        "url": "https://www.prnewswire.com/news-releases/ifs-announces-filing-of-2025-annual-report-on-form-20-f-302753423.html",
-        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-24T23:22:00Z",
-        "source": "PR Newswire"
+        "title": "TruGen AI Launches Clara AI SDR - The AI Teammate That Converts Website Traffic Into Sales Qualified Pipeline",
+        "description": "Clara is a fully interactive AI Sales Development Representative that converts inbound website traffic into Sales qualified pipeline 24/7, books meetings, runs personalized demos, and integrates directly with HubSpot, Salesforce, and more",
+        "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/trugen-ai-launches-clara-ai-sdr-the-ai-teammate-that-converts-website-traffic-into-sales-qualified-pipeline/2328421",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/25/1028597.jpg",
+        "publishedAt": "2026-04-25T00:12:14Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Workers Struggles: Asia, Australia and the Pacific",
-        "description": "South Korea: Striking worker killed on CU Logistics Centre picket line; India: 1.7 million Maharashtra state government employees walk out; 38,000 Telangana road transport workers strike; Australia: National Broadband Network subcontract workers protest low pay; Brownes Foods logistics workers strike again in Western Australia.",
-        "url": "https://www.wsws.org/en/articles/2026/04/24/sflu-a24.html",
-        "image": "https://www.wsws.org/asset/6d43619c-8b6c-4255-8ae2-9c325f47e2de?rendition=image2560",
-        "publishedAt": "2026-04-24T23:20:55Z",
-        "source": "World Socialist Web Site"
-      },
-      {
-        "title": "Apple Loop: iPhone 18 Pro Cherry, Filming The Neo, Critical iOS Update",
-        "description": "This week’s Apple headlines: Tim Cook stepping down as CEO, John Ternus stepping up, Siri calls for help from Google, a cherry iPhone 18 Pro, Apple’s urgent iOS update and more...",
-        "url": "https://www.forbes.com/sites/ewanspence/2026/04/24/apple-news-headlines-tim-cook-ceo-john-ternus-iphone-18-pro-macbook-neo-memory-shortage/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69ebf5a008e036d8168aa03f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-24T23:17:43Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Burnham-On-Sea Co-op store among 15 Southern Co-op outlets 'at risk' as chain warns of administration",
-        "description": "Southern Co‑op has warned it could be forced into administration after three consecutive years of financial losses, putting 15 Somerset stores – including its branch on Berrow Road in Burnham-On-Sea – at risk of closure.",
-        "url": "https://www.burnham-on-sea.com/news/burnham-on-sea-co-op-store-among-southern-co-op-outlets-at-risk-as-chain-warns-of-administration/",
-        "image": "https://www.burnham-on-sea.com/wp-content/uploads/2021/07/co-op-berrow.jpg",
-        "publishedAt": "2026-04-24T23:16:36Z",
-        "source": "Burnham-On-Sea.com"
-      },
-      {
-        "title": "NNPC denies selling refinery scrap, warns public",
-        "description": "The NNPC denies all claims of selling refinery scrap materials and equipment, warning the public against fraudulent individuals posing as its agents.",
-        "url": "https://punchng.com/nnpc-denies-selling-refinery-scrap-warns-public/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2025/12/08202610/G6hmCheWYAAS4nS-1200x630.jpeg",
-        "publishedAt": "2026-04-24T23:14:21Z",
-        "source": "Punch Newspapers"
+        "title": "CapitaLand China Trust (CLDHF) Q1 2026 Earnings Call Transcript",
+        "description": "CapitaLand China Trust (CLDHF) Q1 2026 Earnings Call April 22, 2026 8:00 PM EDTCompany ParticipantsXiuyi Ng - Manager of Investor Relations of CapitaLand...",
+        "url": "https://seekingalpha.com/article/4894134-capitaland-china-trust-cldhf-q1-2026-earnings-call-transcript",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-04-25T00:01:32Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Earth’s magnetic pulses reveal 92-million-year-old crust beneath the Bay of Bengal",
+        "description": "Researchers have successfully dated the oceanic crust beneath the Bay of Bengal to 92 million years ago by tracking ancient fluctuations in Earth’s magnetic field, solving a long-standing geological mystery. | Indian Institute of Science Education and Research Pune,Earth's crust,magnetic field,Bay of Bengal | Research News by \"Research Matters\"",
+        "url": "https://researchmatters.in/news/earths-magnetic-pulses-reveal-92-million-year-old-crust-beneath-bay-bengal",
+        "image": "https://researchmatters.in/sites/researchmatters/files/Bayofbengal.webp",
+        "publishedAt": "2026-04-25T00:30:00Z",
+        "source": "researchmatters.in"
+      },
       {
         "title": "Micro ale pub in Milford-on-Sea reopens under new ownership",
         "description": "A micro ale pub in Milford-on-Sea has recently opened under new ownership.",
@@ -190,80 +198,72 @@
         "image": "https://www.sciencealert.com/images/2026/04/etna-eruption.jpg",
         "publishedAt": "2026-04-24T21:04:19Z",
         "source": "ScienceAlert"
-      },
-      {
-        "title": "This X-ray image shows our solar system 'breathing'",
-        "description": "The eROSITA spacecraft has built the most precise map of soft X-rays over Earth, observing a fascinating phenomenon driven by solar winds from the sun.",
-        "url": "https://www.space.com/astronomy/solar-system/this-x-ray-image-shows-our-solar-system-breathing",
-        "image": "https://cdn.mos.cms.futurecdn.net/aL3AdvHWqhUMGka8iwtsd8-1600-80.png",
-        "publishedAt": "2026-04-24T21:00:00Z",
-        "source": "Space"
       }
     ],
     "ai": [
       {
-        "title": "5 Ways to Get Your New Brand Into AI Search Results",
-        "description": "A practical guide for new brands on how to get discovered and recommended by AI tools like ChatGPT, Gemini and Claude.",
-        "url": "https://www.entrepreneur.com/building-a-business/grow-your-business/5-ways-to-get-your-new-brand-into-ai-search-results",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/04/get-your-brand-in-ai-search-results-0426_g2251837740_2e1030.jpg?resize=1024,683",
-        "publishedAt": "2026-04-24T23:30:00Z",
-        "source": "Entrepreneur"
+        "title": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect",
+        "description": "Florida Attorney General Ashley Moody has opened a criminal investigation into OpenAI’s ChatGPT over whether it offered advice to the suspected gunman.l",
+        "url": "https://foxbaltimore.com/news/nation-world/florida-ag-opens-criminal-probe-into-openai-over-alleged-advice-to-fsu-shooting-suspect-lawyer-chatgpt-president-donald-trump-betting-fraud",
+        "image": "https://foxbaltimore.com/resources/media2/16x9/8667/1320/0x447/90/410733bd-1b11-40ab-acfa-b34d0906a98f-GettyImages22646405431.jpg",
+        "publishedAt": "2026-04-25T00:30:59Z",
+        "source": "Baltimore News"
       },
       {
-        "title": "Oklo, NVIDIA, And Los Alamos Working On Plutonium-Powered AI",
-        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-        "url": "https://www.zerohedge.com/energy/oklo-nvidia-and-los-alamos-working-plutonium-powered-ai",
-        "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-04/Oklo_Aurora_powerhouse_with_NVIDIA.jpg?itok=1lZ8gItA",
-        "publishedAt": "2026-04-24T23:30:00Z",
-        "source": "ZeroHedge"
+        "title": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect",
+        "description": "Florida Attorney General Ashley Moody has opened a criminal investigation into OpenAI’s ChatGPT over whether it offered advice to the suspected gunman.l",
+        "url": "https://wjla.com/news/nation-world/florida-ag-opens-criminal-probe-into-openai-over-alleged-advice-to-fsu-shooting-suspect-lawyer-chatgpt-president-donald-trump-betting-fraud",
+        "image": "https://wjla.com/resources/media2/16x9/8667/1320/0x447/90/410733bd-1b11-40ab-acfa-b34d0906a98f-GettyImages22646405431.jpg",
+        "publishedAt": "2026-04-25T00:30:59Z",
+        "source": "WJLA"
       },
       {
-        "title": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims",
-        "description": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims\n...",
-        "url": "https://www.marketscreener.com/news/u-s-judge-dismisses-elon-musk-s-fraud-claims-in-lawsuit-against-openai-and-sam-altman-plans-to-pro-ce7f59dfd180f120",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-04-24T23:28:18Z",
-        "source": "MarketScreener"
+        "title": "Before Mythos goes public, Indian IT also wants access",
+        "description": "AI firm Anthropic is in talks with governments worldwide, including India, about safeguarding critical infrastructure. This is ahead of the public release of its powerful Claude Mythos AI model. The model could expose significant vulnerabilities. Indian tech industry body Nasscom and the Indian government are seeking early access to the model to enhance cybersecurity.",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/before-mythos-goes-public-indian-it-also-wants-access/articleshow/130502490.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34562,resizemode-75,msid-130502490/tech/information-tech/before-mythos-goes-public-indian-it-also-wants-access.jpg",
+        "publishedAt": "2026-04-25T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "US issues global warning about alleged China AI thefts",
-        "description": "Tensions between the US and China have escalated after the White House accused Beijing of stealing intellectual property...",
-        "url": "https://www.canberratimes.com.au/story/9232978/us-issues-global-warning-about-alleged-china-ai-thefts/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/3299f47a-847f-465b-90a0-361abbf7908b.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-04-24T23:25:30Z",
-        "source": "The Canberra Times"
+        "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
+        "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
+        "url": "https://www.livemint.com/market/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings-11777076636370.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+        "publishedAt": "2026-04-25T00:23:55Z",
+        "source": "Livemint"
       },
       {
-        "title": "What’s next for UnitedHealth Group after Q1 earnings beat and guidance raise",
-        "description": "UnitedHealth (UNH) Q1 earnings beat lifts shares as analysts debate a 2026 turnaround, AI cost savings, and MLR risks.",
-        "url": "https://seekingalpha.com/news/4578901-what-s-next-for-unitedhealth-group-after-q1-earnings-beat-and-guidance-raise",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/486382066/image_486382066.jpg?io=getty-c-w630",
-        "publishedAt": "2026-04-24T23:24:58Z",
-        "source": "Seeking Alpha"
+        "title": "OpenAI CEO Sam Altman apologized to the town of Tumbler Ridge.",
+        "description": "The suspect in a school shooting at the Canadian town described violent scenarios to ChatGPT, but even though OpenAI banned the account, it did not alert law enforcement about the person.\n”I want to express my deepest condolences to the entire community,” Altman wrote in a letter published by the local publication Tumbler RidgeLines. “No one should ever have to endure a tragedy like this.”\n[Link: OpenAI apologizes to Tumbler Ridge | https://tumblerridgelines.com/2026/04/24/openai-apologizes-to-tumbler-ridge/ | Tumbler RidgeLines]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/918680/openai-ceo-sam-altman-apologized-to-the-town-of-tumbler-ridge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-04-25T00:15:19Z",
+        "source": "The Verge"
       },
       {
-        "title": "Interest in \"service industry\" jobs soars as AI threatens many white‑collar careers",
-        "description": "A 20‑year‑old Fort Worth service tech is earning his degree debt‑free through a Dallas College-industry partnership, showing how skilled trades offer stable careers in an AI‑shifting economy.",
-        "url": "https://www.cbsnews.com/texas/news/north-texas-ford-asset-program-michael-hovland-technician-career-path/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/24/4edf767b-10db-408c-b285-541ed9ff34ed/thumbnail/1200x630/8db4ded402b7aac7a914636dacf9b9fe/robbie.png",
-        "publishedAt": "2026-04-24T23:19:10Z",
-        "source": "CBS News"
+        "title": "HERE introduces AI-powered, live map intelligence for NOA use cases at Auto China 2026",
+        "description": "HERE introduces AI-powered, live map intelligence for NOA use cases at Auto China 2026",
+        "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/here-introduces-ai-powered-live-map-intelligence-for-noa-use-cases-at-auto-china-2026/2328422",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/25/1028599.jpg",
+        "publishedAt": "2026-04-25T00:12:15Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
-        "description": "Experts say the technology is expanding independence but still faces limitations around reliability and should complement existing support rather than replacing it.",
-        "url": "https://www.bostonherald.com/2026/04/24/smart-glasses-london-marathon/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/04/Smart_Glasses_London_Marathon_82373-1.jpg?w=1024&h=682",
-        "publishedAt": "2026-04-24T23:18:07Z",
-        "source": "The Boston Herald"
+        "title": "TruGen AI Launches Clara AI SDR - The AI Teammate That Converts Website Traffic Into Sales Qualified Pipeline",
+        "description": "Clara is a fully interactive AI Sales Development Representative that converts inbound website traffic into Sales qualified pipeline 24/7, books meetings, runs personalized demos, and integrates directly with HubSpot, Salesforce, and more",
+        "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/trugen-ai-launches-clara-ai-sdr-the-ai-teammate-that-converts-website-traffic-into-sales-qualified-pipeline/2328421",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/25/1028597.jpg",
+        "publishedAt": "2026-04-25T00:12:14Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
-        "description": "Experts say the technology is expanding independence but still faces limitations around reliability and should complement existing support rather than replacing it.",
-        "url": "https://www.courant.com/2026/04/24/smart-glasses-london-marathon/",
-        "image": "https://www.courant.com/wp-content/uploads/2026/04/Smart_Glasses_London_Marathon_82373-1.jpg?w=1024&h=682",
-        "publishedAt": "2026-04-24T23:18:07Z",
-        "source": "Hartford Courant"
+        "title": "Elon Musk vs Sam Altman: US Court drops fraud allegations against OpenAI, but biggest AI trial of the decade is still on",
+        "description": "A US judge has dismissed Elon Musk's fraud claims against OpenAI and Sam Altman, but his $134 billion lawsuit over breach of charitable trust heads to trial Monday.",
+        "url": "https://www.livemint.com/companies/news/elon-musk-vs-sam-altman-us-judge-dismisses-fraud-claims-against-openai-trial-to-proceed-on-breach-of-trust-claim-11777074120973.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/Screenshot_2026-04-25_051219_1777074575817_1777074583835.jpg",
+        "publishedAt": "2026-04-25T00:02:58Z",
+        "source": "Livemint"
       }
     ]
   }
