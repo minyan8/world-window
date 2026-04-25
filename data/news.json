@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-25T18:31:33.957Z",
+  "fetchedAt": "2026-04-25T19:34:20.779Z",
   "sections": {
     "world": [
       {
-        "title": "After over two months, Sam Altman sends apology letter to Canada's Tumbler Ridge community for shooting that killed six children",
-        "description": "Tech News News: ChatGPT maker OpenAI’s CEO, Sam Altman, has apologised for the mass shooting incident that happened in Canada more than two months ago. In a letter ad.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-over-two-months-sam-altman-sends-apology-letter-to-canadas-tumbler-ridge-community-for-shooting-that-killed-six-children/articleshow/130509679.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130509669,width-1280,height-720,imgsize-22156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-25T06:31:00Z",
+        "title": "Imran Khan's son alleges 'whitewashing' bid as Pakistan prepares to host fresh US",
+        "description": "Pakistan News: Sulaiman Khan, son of jailed former Pakistan prime minister Imran Khan, has accused the country’s leadership of masking a deepening democratic crisis,.",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/imran-khans-son-alleges-whitewashing-bid-as-pakistan-prepares-to-host-fresh-us-iran-truce-talks/articleshow/130510451.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130510461,width-1280,height-720,imgsize-690646,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-25T07:31:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "Jazeera Airways to Resume Direct Flights From Terminal 5 on Sunday After 55-Day Airspace Closure",
-        "description": "KUWAIT CITY, Apr 23: Jazeera Airways, Kuwait’s leading low-cost carrier, today confirmed the resumption of direct o...",
-        "url": "https://www.arabtimesonline.com/news/jazeera-airways-to-resume-direct-flights-from-terminal-5-on-sunday-after-55-day-airspace-closure/",
-        "image": "https://www.arabtimesonline.com/arabtimes/uploads/images/2026/04/23/thumbs/400x400/123682.jpg",
-        "publishedAt": "2026-04-25T06:28:33Z",
-        "source": "Arab Times Kuwait News"
+        "title": "UK rejects claims British jets downed Russian drones",
+        "description": "UPDATED: The UK has clarified that both RAF Typhoons returned to base without engaging any targets, after Romania's Ministry of National Defence reported the jets were authorised to engage drones near the Ukrainian border and that multiple explosions subsequently followed.",
+        "url": "https://ukdefencejournal.org.uk/british-fighter-jets-shoot-down-russian-drones-over-ukraine/",
+        "image": "https://ukdj.ams3.digitaloceanspaces.com/2024/02/AKR-20240203-0034-Typhoon-Take-Off-106.jpg",
+        "publishedAt": "2026-04-25T07:23:46Z",
+        "source": "UK Defence Journal"
       },
       {
-        "title": "Ship Missiles in the Philippines for Balikatan 2026",
-        "description": "U.S. Marine Corps anti-ship missiles are deployed in the Northern Philippines near the Luzon Strait for Balikatan 2026.",
-        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-anti-ship-missiles-in-the-philippines-for-balikatan-2026/",
-        "image": "https://www.navalnews.com/wp-content/uploads/2026/04/9634290-scaled.jpg",
-        "publishedAt": "2026-04-25T06:20:09Z",
-        "source": "navalnews.com"
+        "title": "Ukrainian Drones Strike Urals for First Time in Record 1,800-km Raid",
+        "description": "Explosions were reported at military and industrial sites in Yekaterinburg and Chelyabinsk as Kyiv’s long-range campaign reaches deep into Russian territory.",
+        "url": "https://www.kyivpost.com/post/74725",
+        "image": "https://static.kyivpost.com/storage/2026/04/25/4087013aa5edede44e0df930861a2710.png?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-04-25T07:15:38Z",
+        "source": "Kyiv Post"
       },
       {
-        "title": "Palestinians head to polls in first elections since Israel’s war on Gaza",
-        "description": "Palestinians have begun voting in municipal elections in the occupied West Bank and parts of Gaza, marking the first elections since the Gaza war began in 2023.\nAccording to the Ramallah based...",
-        "url": "https://www.thenews.com.pk/latest/1400291-palestinians-head-to-polls-in-first-elections-since-israels-war-on-gaza",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-25/1400291_112123_updates.jpg",
-        "publishedAt": "2026-04-25T06:15:12Z",
-        "source": "The News International"
+        "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
+        "description": "The Hengli refinery has generated hundreds of millions of dollars for Iran’s military, says US Treasury.",
+        "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-21T055824Z_235121374_RC2T7KAALUYU_RTRMADP_3_IRAN-CRISIS-OIL-ASIA-1774074778.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-25T07:13:24Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Man Walks Calmly Among Mexican Ruins, Then Opens Fire Killing Tourist",
-        "description": "The attacker has been identified as 27-year-old Mexican national Julio César Jasso Ramírez who was obsessed with Adolf Hitler.",
-        "url": "https://www.ndtv.com/world-news/footage-shows-gunman-calmly-walking-before-deadly-shooting-at-teotihuac-n-in-mexico-11406984",
-        "image": "https://c.ndtvimg.com/2026-04/kqph7hns_mexico-pyramid_625x300_25_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-25T06:13:18Z",
-        "source": "NDTV"
+        "title": "Inside Manx Wildlife Week: A Global Blueprint for Conservation",
+        "description": "Manx Wildlife Week launches with over 25 events, transforming the Isle of Man into a hub of citizen science. Can this model save global biodiversity? The...",
+        "url": "https://streamlinefeed.co.ke/news/inside-manx-wildlife-week-a-global-blueprint-for-conservation",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fcae/live/1355cdc0-3fef-11f1-b7e9-5d346a313b73.jpg",
+        "publishedAt": "2026-04-25T07:13:23Z",
+        "source": "streamlinefeed.co.ke"
       },
       {
-        "title": "Egypt seeks to isolate Ethiopia with diplomacy blitz in Africa as nations quarrel over water",
-        "description": "Cairo broadens Horn of Africa campaign of collaboration to other parts of the continent",
-        "url": "https://www.thenationalnews.com/news/mena/2026/04/25/egypt-seeks-to-isolate-ethiopia-with-diplomacy-blitz-in-africa-as-nations-quarrel-over-water/",
-        "image": "https://www.thenationalnews.com/resizer/v2/OYKDSW726WN6WH326T2C5OM3SY.jpg?smart=true&auth=9c106a5300298e86cc476a5819678e850dcce5f73d1f4d9e5b8d154bb64c2b5c&width=1200&height=630",
-        "publishedAt": "2026-04-25T06:11:15Z",
-        "source": "The National"
+        "title": "Princess Anne wears one of her oldest brooches as she pays tribute to the fallen on Anzac Day",
+        "description": "Princess Anne, 75, wore her gold ribbon brooch to attend the Dawn Service at Wellington Arch, Hyde Park Corner",
+        "url": "https://www.tatler.com/article/princess-anne-wears-one-of-her-oldest-brooches-as-she-pays-tribute-to-the-fallen-on-anzac-day",
+        "image": "https://media.tatler.com/photos/69ec675116751a2d8f5b0a2f/16:9/w_1280,c_limit/2272373523",
+        "publishedAt": "2026-04-25T07:12:58Z",
+        "source": "Tatler"
       },
       {
-        "title": "Hopes for progress as Iran delegation arrives in Pakistan",
-        "description": "Iran's foreign minister arrived in Pakistan and US envoys headed to Islamabad in a bid to kickstart a new round of peace negotiations amid a fragile ceasefire.",
-        "url": "https://www.rte.ie/news/middle-east/2026/0425/1570114-middle-east/",
-        "image": "https://www.rte.ie/images/00244692-1600.jpg",
-        "publishedAt": "2026-04-25T06:10:10Z",
-        "source": "RTE.ie"
+        "title": "Call for Applications: 2026 Youth Innovation Challenge (YIC)",
+        "description": "The 2026 Youth Innovation Challenge (YIC) is a global competition designed to empower young people to develop innovative solutions addressing critical marine",
+        "url": "https://www.globalsouthopportunities.com/2026/04/25/youth-15/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/04/YIC.png",
+        "publishedAt": "2026-04-25T07:12:54Z",
+        "source": "Global South Opportunities"
       },
       {
-        "title": "RAF jets 'engage' Russian drones in NATO operation as WW3 tensions soar",
-        "description": "At least 14 people were left injured following the Russian attack.",
-        "url": "https://www.express.co.uk/news/world/2198279/nato-jet-scrambled-russia-ukraine-attack",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6883725.jpg",
-        "publishedAt": "2026-04-25T06:08:00Z",
-        "source": "Daily Express"
+        "title": "H-1B scare: Bill moved in US Cong to pause visa programme for 3 years. What it means for Indians",
+        "description": "The fresh obstacle for H-1B visa programme comes months after US President Donald Trump announced a $1,00,000 fee on fresh applications. | World News",
+        "url": "https://www.hindustantimes.com/world-news/h1b-visa-scare-h1b-abuse-act-2026-us-congress-visa-programme-pause-3-years-what-it-means-for-indians-101777095611761.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/25/550x309/h1b_visa_1777100792804_1777100792928.png",
+        "publishedAt": "2026-04-25T07:08:59Z",
+        "source": "Hindustan Times"
       }
     ],
     "business": [
       {
-        "title": "Got $5,000? 5 Tech Stocks to Buy and Hold for the Long Term.",
-        "description": "These five companies offer diversified exposure to the AI boom.",
-        "url": "https://www.fool.com/investing/2026/04/25/got-x-x-tech-stocks-to-buy-and-hold-for-the-long-t/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865979%2Fwoman_working_at_home_on_a_laptop.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-25T06:30:00Z",
-        "source": "The Motley Fool"
+        "title": "West Footscray house sells post-auction for $1,175,000 after passing in",
+        "description": "Despite attracting a large crowd, the auction of the three-bedroom, two-bathroom house was slow to start on Saturday.",
+        "url": "https://www.theage.com.au/property/news/west-footscray-house-sells-post-auction-for-1-175-000-after-passing-in-20260424-p5zqt0.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/q_86%2Cf_auto/1a34c731ce669d213408c705a6bf195979737b79",
+        "publishedAt": "2026-04-25T07:26:43Z",
+        "source": "The Age"
       },
       {
-        "title": "748 PS/1,000 Nm PHEV with improved chassis, insulation; RM1.65 million OTR",
-        "description": "BMW Malaysia has announced the local arrival of the BMW XM Label, which succeeds the Label Red and is now the sole available variant in the XM line-up in Malaysia. Here, the BMW XM Label …",
-        "url": "https://paultan.org/2026/04/25/bmw-xm-label-in-malaysia-748-ps-1000-nm-phev-with-improved-chassis-insulation-rm1-65-million-otr/",
-        "image": "https://paultan.org/image/2026/04/2026-BMW-XM-Label-Frozen-Tanzanite-Blue-Merino-Silverstone-2-e1777032210592-1200x629.jpeg",
-        "publishedAt": "2026-04-25T06:18:37Z",
-        "source": "Paul Tan's Automotive News"
+        "title": "Perth fuel prices: Further fuel relief as petrol edges towards pre-war prices",
+        "description": "Perth motorists can rejoice when fuel prices drop again come Sunday, as the bowser edges closer to pre-Middle East war prices.",
+        "url": "https://www.perthnow.com.au/wa/perth-fuel-prices-further-fuel-relief-as-petrol-edges-towards-pre-war-prices-c-22192360",
+        "image": "https://images.perthnow.com.au/publication/C-22192360/8ffac2f9edbaf52512c1f2c121a0a85d6b025732-16x9-x0y17w656h369.jpg?imwidth=1200",
+        "publishedAt": "2026-04-25T07:26:00Z",
+        "source": "PerthNow"
       },
       {
-        "title": "Campaigners vow to fight Somerset solar farm appeal",
-        "description": "Residents are campaigning to prevent the site on fields near the rural village of Burnett.",
-        "url": "https://www.bbc.com/news/articles/c70dll0qeero",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/be5d/live/779de620-3fc5-11f1-8315-775f5525a4f0.png",
-        "publishedAt": "2026-04-25T06:16:37Z",
-        "source": "BBC"
+        "title": "Mukul Agrawal’s winning bets: 4 stocks turn multibaggers in a year, fresh Q4 picks revealed",
+        "description": "Prominent investor Mukul Mahavir Agrawal’s portfolio continues to draw significant attention in financial circles. According to ETMarkets’ analysis of his holdings, Agrawal currently owns around 75 stocks with a combined value of approximately Rs 6,919 crore as of April 24, 2026, based on shareholding data for the March 2026 quarter. This represents a modest increase of 3% from the Rs 6,751 crore valuation recorded in the March 2025 quarter.Over the past 1-year, about 22 stocks in the portfolio have delivered double-digit returns. Of these, 10 have surged between 50% and 190%, including four multibaggers. We also highlight five new additions to his portfolio in the March 2026 quarter. (Data Source: ACE Equity, Trendlyne) Ace Bets",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawals-winning-bets-4-stocks-turn-multibaggers-in-a-year-fresh-q4-picks-revealed/ace-bets/slideshow/130510205.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130510205,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-04-25T07:20:34Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "San Miguel Power deploys ₱4.5-billion bond cash for green shift",
-        "description": "San Miguel Global Power Holdings Corp., the energy unit led by billionaire Ramon Ang, has deployed ₱4.5 billion from its latest bond proceeds to accelerate...",
-        "url": "https://mb.com.ph/2026/04/25/san-miguel-power-deploys-45-billion-bond-cash-for-green-shift",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/25/96423.webp",
-        "publishedAt": "2026-04-25T06:12:57Z",
-        "source": "Manila Bulletin"
+        "title": "Axis Bank Q4 results: Net profit flat at Rs 7,071 crore, beats estimate; provisions surge, asset quality improves",
+        "description": "Axis Bank Q4 net profit fell marginally to Rs 7,071 crore, still beating Street expectations. The private lender's gross NPA ratio improved to 1.23 percent from 1.40 percent. Axis Bank board also recommended a Re 1 dividend per share for FY26.",
+        "url": "https://www.moneycontrol.com/news/business/earnings/axis-bank-q4-results-net-profit-flat-at-rs-7-071-crore-beats-estimate-asset-quality-improves-13899232.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260318064842_axis-bank1.jpg",
+        "publishedAt": "2026-04-25T07:18:29Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "$1.90 chicken rice stall in AMK 'no plans to raise prices', says customers mostly elderly",
-        "description": "While businesses are increasing prices to keep up with the inflation, one chicken rice stall in Ang Mo Kio is keeping theirs low.The owner of the Nguan Express 88, which offers braised and roasted chicken rice for $1.90 per serving, told Lianhe Zaobao why he keeps his prices low.\"I'll be very honest, we don't make much from a packet of...",
-        "url": "https://www.asiaone.com/singapore/1-90-chicken-rice-stall-amk",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Apr2026/IMG_1172.jpeg?itok=ShXs9Tso",
-        "publishedAt": "2026-04-25T06:02:00Z",
-        "source": "AsiaOne"
+        "title": "UK’s BII Launches $1.4 Billion Climate Fund to Tackle Asia Coal Reliance",
+        "description": "BII launched a $1.4 billion climate initiative to mobilize private capital for Asia’s energy transition, targeting coal-reliant markets.",
+        "url": "https://jakartaglobe.id/business/uks-bii-launches-14-billion-climate-fund-to-tackle-asia-coal-reliance",
+        "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2025/12/1766076227-5000x3334.webp",
+        "publishedAt": "2026-04-25T07:16:00Z",
+        "source": "Jakarta Globe"
       },
       {
-        "title": "Turnaround Plan: The brands that shifted to new sectors",
-        "description": "Start-ups talk about the importance of the 'pivot', but it's not a new idea for a firm to completely change direction many years into its existence, writes Adam Maguire.",
-        "url": "https://www.rte.ie/news/business/2026/0425/1570108-pivot-ai-tech/",
-        "image": "https://www.rte.ie/images/001c8786-1600.jpg",
-        "publishedAt": "2026-04-25T06:00:02Z",
-        "source": "RTE.ie"
+        "title": "Fuel economy a winner for Toyota Corolla Cross GR-S",
+        "description": "With the price of fuel is steeply on the rise, hitting the open road is becoming more a of luxury than ever before.",
+        "url": "https://www.citizen.co.za/motoring/toyota-corolla-cross-gr-s-a-winner/",
+        "image": "https://media.citizen.co.za/wp-content/uploads/2026/04/toyota-corolla-cross-front-web.jpg",
+        "publishedAt": "2026-04-25T07:13:36Z",
+        "source": "The Citizen"
       },
       {
-        "title": "Your UK pension is no longer safe from inheritance tax: what should you do?",
-        "description": "Many people are taking action now, from taking family on holiday to paying off grandchildren’s student loans or giving tax-free gifts",
-        "url": "https://www.theguardian.com/money/2026/apr/25/uk-pension-inheritance-tax-holiday-student-loans-tax-free-gifts",
-        "image": "https://i.guim.co.uk/img/media/2c13d3593def9754f78a39ba2fe7030edbeffbde/443_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21afd28a1b8220bfa482f842e8784d67",
-        "publishedAt": "2026-04-25T06:00:00Z",
-        "source": "The Guardian"
+        "title": "LONGi EcoLife Series Module Top TaiyangNews Global Ranking, Ushering in the \"25%+\" Era of Photovoltaic Efficiency",
+        "description": "/PRNewswire/ -- Taiyang News, a globally authoritative photovoltaic media outlet, officially released its April 2026 edition of the \"TOP SOLAR MODULES LISTING\"....",
+        "url": "https://www.prnewswire.com/news-releases/longi-ecolife-series-module-top-taiyangnews-global-ranking-ushering-in-the-25-era-of-photovoltaic-efficiency-302753523.html",
+        "image": "https://mma.prnewswire.com/media/2965335/image1.jpg?p=facebook",
+        "publishedAt": "2026-04-25T07:11:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Gov't secures 21,000 metric tons of US-sourced LPG to boost fuel supply",
-        "description": "The Department of Energy and the Philippine National Oil Company have secured 21,000 metric tons of liquefied petroleum gas sourced from the United States to shore up supply stability amid global market volatility and tensions in the Middle East.",
-        "url": "https://www.philstar.com/headlines/2026/04/25/2523523/govt-secures-21000-metric-tons-us-sourced-lpg-boost-fuel-supply",
-        "image": "https://media.philstar.com/photos/2026/04/25/lpg-store_2026-04-25_13-55-54.jpg",
-        "publishedAt": "2026-04-25T05:58:00Z",
-        "source": "Philstar.com"
+        "title": "India's top five IT firms cut nearly 7,000 jobs in FY26",
+        "description": "India's top IT firms saw a hiring pullback in FY26, with the five major players reducing staff by nearly 7,000. This shift from expansion to efficiency, driven by AI and uncertain demand, sees a move towards specialised skills. Despite this, overall industry employment saw marginal growth, largely from global capability centres.",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26/articleshow/130510007.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-481232,resizemode-75,msid-130510007/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26.jpg",
+        "publishedAt": "2026-04-25T07:04:59Z",
+        "source": "The Economic Times"
       }
     ],
     "science": [
+      {
+        "title": "Baikonur prepares to launch Progress MS-34 cargo spacecraft on Sunday",
+        "description": "At the Baikonur Cosmodrome, preparations are nearing completion for the launch of the next cargo spacecraft Progress MS-34 to the International Space Station, Qazinform News Agency correspondent reports.",
+        "url": "https://qazinform.com/news/baikonur-prepares-to-launch-progress-ms-34-cargo-spacecraft-on-sunday-91f6fd",
+        "image": "https://img.inform.kz/kazinform-photobank/media/2026-04-25/98824a86-a3b4-4b58-be39-557dbd191385.jpeg",
+        "publishedAt": "2026-04-25T07:16:49Z",
+        "source": "Qazinform"
+      },
+      {
+        "title": "🌍 Earth to Have 25-Hour Day After 200 Million Years: What",
+        "description": "viral : A new scientific projection suggests that Earth’s day could gradually become 25 hours long in about 200 million years due to a slow change in",
+        "url": "https://www.indiaherald.com/Viral/Read/994888521/-Earth-to-Have-Hour-Day-After-Million-Years-What-Scientists-Say",
+        "image": "https://www.indiaherald.com/imagestore/images/viral/127/-earth-to-have-hour-day-after-million-years-what-scientists-saydcf31510-7ade-4b3a-af2a-8d9b99c145c5-415x250-IndiaHerald.jpg",
+        "publishedAt": "2026-04-25T07:05:39Z",
+        "source": "indiaherald.com"
+      },
+      {
+        "title": "East Africa Rift Study Suggests Continent Slowly Splitting-and May Explain Fossil Richness",
+        "description": "A new study has found that the Earth’s crust beneath a key region in East Africa is thinning more than scientists previously thought—bringing the continent",
+        "url": "https://africa.dailynewsegypt.com/east-africa-rift-study-suggests-continent-slowly-splitting-and-may-explain-fossil-richness/",
+        "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/04/in-eastern-africa-the-1024x768.jpg",
+        "publishedAt": "2026-04-25T06:55:03Z",
+        "source": "DNE Africa"
+      },
+      {
+        "title": "World’s most mysterious volcano Mount Etna explained: Study reveals hidden magma source",
+        "description": "A new study has finally explained the unusual behavior of Mount Etna, Europe’s most active volcano. Scientists found it is fueled by a rare “petit-spot” magma system, unlike typical volcanoes.",
+        "url": "https://www.news9live.com/science/worlds-most-mysterious-volcano-mount-etna-explained-study-reveals-hidden-magma-source-2963692",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/04/Mount-Etna.png",
+        "publishedAt": "2026-04-25T06:42:44Z",
+        "source": "News9live"
+      },
       {
         "title": "Scientists just found where airborne microplastics really come from",
         "description": "Microplastics are floating through the atmosphere and spreading across the globe, but their true origins have been misunderstood. New research shows land sources emit over 20 times more microplastic particles into the air than the ocean, challenging earlier beliefs. Scientists also discovered that previous models dramatically overestimated how much plastic is in the atmosphere.",
@@ -166,104 +198,72 @@
         "image": "https://morungexpress.com/uploads/2026/04/87669083_1777095722_202604253763412.jpg",
         "publishedAt": "2026-04-25T05:45:51Z",
         "source": "MorungExpress"
-      },
-      {
-        "title": "How Antarctica warmed by 28°C in depths of winter - what it signals for decades ahead",
-        "description": "Sheffield      Sheffield (UK), Apr 25 (The Conversation) In the middle of the Antarctic winter, during months of darkness when",
-        "url": "https://www.theweek.in/wire-updates/international/2026/04/25/how-antarctica-warmed-by-28%C2%B0c-in-depths-of-winter-%E2%80%93-what-it-signals-for-decades-ahead.html",
-        "image": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-        "publishedAt": "2026-04-25T05:43:36Z",
-        "source": "theweek.in"
-      },
-      {
-        "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-        "description": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscles weren’t constrained by oxygen after all. Their breathing system has plenty of room to expand, meaning oxygen alone can’t explain their giant forms. Now, researchers are searching for new answers—like predators or physical limits of their bodies.",
-        "url": "https://www.sciencedaily.com/releases/2026/04/260424233208.htm",
-        "image": "https://www.sciencedaily.com/images/1920/giant-prehistoric-dragonfly.webp",
-        "publishedAt": "2026-04-25T04:47:40Z",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-        "description": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscles weren’t constrained by oxygen after all. Their breathing system has plenty of room to expand, meaning oxygen alone can’t explain their giant forms. Now, researchers are searching for new answers—like predators or physical limits of their bodies.",
-        "url": "http://www.sciencedaily.com/releases/2026/04/260424233208.htm",
-        "image": "https://www.sciencedaily.com/images/1920/giant-prehistoric-dragonfly.webp",
-        "publishedAt": "2026-04-25T04:47:40Z",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Scientists unearth evidence of 19-metre ‘kraken-sized’ octopuses as big as lorries",
-        "description": "Octopuses the size of lorries once prowled the planet’s oceans when dinosaurs ruled the Earth, new fossil discoveries suggest.",
-        "url": "https://www.independent.ie/world-news/scientists-unearth-evidence-of-19-metre-kraken-sized-octopuses-as-big-as-lorries/a563429631.html",
-        "image": "https://focus.independent.ie/thumbor/-zlw6RPjgP5QC-TIbE5FjlIhQXo=/0x61:3053x2096/629x0/prod-mh-ireland/cf2be8e2-d1c5-4ab3-ab61-5fcf87788916/8f8571d7-a280-44f1-807a-7607d87a95b7/cf2be8e2-d1c5-4ab3-ab61-5fcf87788916.jpg",
-        "publishedAt": "2026-04-25T04:30:00Z",
-        "source": "The Irish Independent"
       }
     ],
     "ai": [
       {
-        "title": "After over two months, Sam Altman sends apology letter to Canada's Tumbler Ridge community for shooting that killed six children",
-        "description": "Tech News News: ChatGPT maker OpenAI’s CEO, Sam Altman, has apologised for the mass shooting incident that happened in Canada more than two months ago. In a letter ad.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-over-two-months-sam-altman-sends-apology-letter-to-canadas-tumbler-ridge-community-for-shooting-that-killed-six-children/articleshow/130509679.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130509669,width-1280,height-720,imgsize-22156,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-25T06:31:00Z",
-        "source": "Times of India"
+        "title": "Meet Sinceerly: Harvard student uses Claude to build ‘anti-Grammarly’ tool to add typos to your AI emails",
+        "description": "Harvard student has Ben Horwitz created Sinceerly, a Chrome extension that injects errors into AI-generated text to make it appear human",
+        "url": "https://www.livemint.com/technology/tech-news/meet-sinceerly-harvard-student-uses-claude-to-build-anti-grammarly-tool-to-add-typos-to-your-ai-emails-11777099428793.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/25/1600x900/logo/Sinceerly_1777102269444_1777102269612.jpg",
+        "publishedAt": "2026-04-25T07:32:27Z",
+        "source": "Livemint"
       },
       {
-        "title": "GitHub curbs individual plans as agentic AI demand surges",
-        "description": "GitHub has tightened usage conditions for its GitHub Copilot individual plans after a sharp rise in demand for computing resources overwhelmed its current system capacity, driven largely by the adoption of AI agentic workflows.",
-        "url": "https://www.bangkokpost.com/life/tech/3243742/github-curbs-individual-plans-as-agentic-ai-demand-surges",
-        "image": "https://static.bangkokpost.com/media/content/20260425/c2_3243742.jpg",
-        "publishedAt": "2026-04-25T06:26:00Z",
-        "source": "Bangkok Post"
-      },
-      {
-        "title": "Keeping it real in the AI age",
-        "description": "Life is particularly difficult for teachers these days, but it is possible to foster collaboration free of competition and inspire intellectual curiosity in a classroom.",
-        "url": "https://www.bostonglobe.com/2026/04/25/opinion/letters-ai-writing-college-classes/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZAG7LDTJYFH2XCRC62ANV3BN3U.jpg?auth=878acb552620e5ca86ffeda612e729e18d8d378eecc69305f13156d8a1908427&width=1440",
-        "publishedAt": "2026-04-25T06:20:00Z",
-        "source": "The Boston Globe"
-      },
-      {
-        "title": "Google May Pour Up To $40 Billion Into Anthropic As AI Compute Demand Booms",
-        "description": "Google may invest upto $40 billion in Anthropic as demand for AI computing surges and strategic ties between the companies deepen.",
-        "url": "https://www.benzinga.com/markets/tech/26/04/52050426/google-may-pour-up-to-40-billion-into-anthropic-as-ai-compute-demand-booms",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Anthropic-Logo-Is-Displayed-On-A-Smartph.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-25T06:15:03Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "3 Questions Nobody Asks as AI Replaces Human Workers",
-        "description": "Market Analysis by covering: . Read 's Market Analysis on Investing.com",
-        "url": "https://www.investing.com/analysis/3-questions-nobody-asks-as-ai-replaces-human-workers-200678842",
-        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-        "publishedAt": "2026-04-25T06:14:16Z",
-        "source": "Investing.com"
-      },
-      {
-        "title": "EU Seeks Android Access From Google For Rival AI Assistants",
-        "description": "The EU is stepping up pressure on Google to open up its Android ecosystem to rival artificial intelligence assistants, marking a fresh escalation in the bloc’s ongoing regulatory push against Big Tech dominance. The move comes under the framework of the Digital Markets Act (DMA), which aims to ensure fair competition by preventing large technology platforms from favouring their own services",
-        "url": "https://www.freepressjournal.in/tech/eu-seeks-android-access-from-google-for-rival-ai-assistants",
-        "image": "https://media.assettype.com/freepressjournal/2026-02-25/zq5b8w8r/Google-logo-Googleplex-headquarters-Mountain-View-California.webp",
-        "publishedAt": "2026-04-25T06:13:23Z",
-        "source": "Free Press Journal"
-      },
-      {
-        "title": "Musk Drops Fraud Claims Against OpenAI, Altman Ahead of Trial",
-        "description": "Elon Musk dropped most fraud claims against OpenAI, focusing on unjust enrichment and breach of charitable trust ahead of trial starting Monday in Oakland, California.",
-        "url": "https://www.ndtvprofit.com/technology/musk-drops-fraud-claims-against-openai-altman-ahead-of-trial-11406983",
-        "image": "https://c.ndtvimg.com/2026-04/n65l3ck_elon-muskphotographer-stefani-reynoldsbloomberg_625x300_25_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-04-25T06:12:57Z",
+        "title": "Government Forms Panel Under SBI Chief C S Setty To Assess Mythos-Related Risks",
+        "description": "The government has formed a panel led by SBI Chairman C S Setty to assess risks from the AI platform Mythos and develop mitigation strategies for the banking sector.",
+        "url": "https://www.ndtvprofit.com/business/govt-forms-panel-under-sbi-chief-setty-to-assess-mythos-related-risks-11405439",
+        "image": "https://c.ndtvimg.com/2026-04/bjdtk68s_union-finance-minister-nirmala-sitharaman-inaugurates-the-new-premises-of-the-state-bank-of-india-sbi-local-head-office-at-maharashtra-circle-in-kharadi-pune-district_625x300_25_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-25T07:22:28Z",
         "source": "NDTV Profit"
       },
       {
-        "title": "After DeepSeek V4 launch, US accuses Chinese AI labs of using 'unauthorized distillation' to clone Western tech",
-        "description": "US has accused Chinese AI firms, particularly DeepSeek, of intellectual property theft in a diplomatic cable, as per a Reuters report. The document warns of risks from distilled AI models that mimic U.S. technology",
-        "url": "https://www.livemint.com/technology/tech-news/us-warns-chinas-ai-is-cloning-western-tech-via-unauthorized-distillation-flags-massive-data-theft-risks-after-deepse-11777092594629.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/25/1600x900/logo/DeepSeek_1777097437731_1777097437992.png",
-        "publishedAt": "2026-04-25T06:11:21Z",
+        "title": "Nuclear secrets to the grave: The mysterious 'pattern of disappearance' killing the world's brightest scientists",
+        "description": "At least 20 top-tier defense scientists from the US and China have died or vanished since early 2026. From Maj. Gen. McCasland to AI pioneer Feng Yanghe, discover the chilling patterns triggering a White House and FBI probe into potential foreign sabotage.",
+        "url": "https://zeenews.india.com/world/missing-scientists-us-china-defense-researchers-dead-disappeared-mystery-investigation-3040875.html",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/04/25/1935782-mixcollage-25-apr-2026-12-50-pm-7567.jpg",
+        "publishedAt": "2026-04-25T07:20:41Z",
+        "source": "Zee News"
+      },
+      {
+        "title": "Sam Altman apologises after OpenAI failed to flag suspect before Canada shooting",
+        "description": "Sam Altman apologised after OpenAI did not alert police about an account later linked to the Tumbler Ridge killings. The letter acknowledged the community's anger and grief and pledged work with governments to prevent similar tragedies.",
+        "url": "https://www.indiatoday.in/world/story/sam-altman-apologises-openai-failed-flag-suspect-ai-chatbot-canada-mass-shooting-tumbler-ridge-killings-2901389-2026-04-25",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/openai-he-also-admitted-that-the-company-could-have-handled-the-announcement-bettersam-altman-044917349-16x9.jpg?VersionId=LZ0bG5vAFHh6sOKXinXMXMWPRLODGVo5",
+        "publishedAt": "2026-04-25T07:20:37Z",
+        "source": "India Today"
+      },
+      {
+        "title": "RR vs SRH prediction: Who’ll win, Rajasthan or Hyderabad? We asked ChatGPT to choose tonight’s winner",
+        "description": "Tonight's IPL 2026 match sees Sunrisers Hyderabad take on Rajasthan Royals. It's Abhishek Sharma's form and Klaasen's ability to tackle spin against the dynamic duo of Yashasvi Jaiswal and Vaibhav Sooryavanshi. Check AI prediction.",
+        "url": "https://www.livemint.com/news/trends/rr-vs-srh-prediction-who-ll-win-rajasthan-or-hyderabad-we-asked-chatgpt-to-choose-tonight-s-winner-11777101175863.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/25/1600x900/logo/PTI04-17-2026-000582B-0_1777101408063_1777101427437.jpg",
+        "publishedAt": "2026-04-25T07:19:22Z",
         "source": "Livemint"
+      },
+      {
+        "title": "How I Went From BCG Consultant to AI Startup Founder by Age 25",
+        "description": "Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.",
+        "url": "https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4",
+        "image": "https://i.insider.com/69df6084d06bf1b901273bf5?width=1200&format=jpeg",
+        "publishedAt": "2026-04-25T07:17:01Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Understanding The Psychology Of The Grim-Keeping Dating Trend By Getting Personal Advice From AI Such As ChatGPT",
+        "description": "New trend for dating is grim-keeping. People are looking to date someone with the same hatreds and dislikes. This is dicey. Use AI to help. An AI Insider scoop.",
+        "url": "https://www.forbes.com/sites/lanceeliot/2026/04/25/understanding-the-psychology-of-the-grim-keeping-dating-trend-by-getting-personal-advice-from-ai-such-as-chatgpt/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69a8a735fdf62cdff3e3a3cb/0x0.jpg?format=jpg&crop=2274,1516,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-25T07:15:00Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "US State Dept orders global push to warn of DeepSeek AI ‘distillation’ thefts",
+        "description": "The US State Department has reportedly mandated a global expansion of an extensive initiative in response to moves by Chinese companies, including AI startup DeepSeek.\nThe primary motive...",
+        "url": "https://www.thenews.com.pk/latest/1400298-us-state-dept-orders-global-push-to-warn-of-deepseek-ai-distillation-thefts",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-25/1400298_120442_updates.jpg",
+        "publishedAt": "2026-04-25T07:04:00Z",
+        "source": "The News International"
       }
     ]
   }
