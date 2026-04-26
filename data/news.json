@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-26T08:43:20.262Z",
+  "fetchedAt": "2026-04-26T09:36:49.990Z",
   "sections": {
     "world": [
       {
-        "title": "Mexico says U.S. agents killed in car crash weren’t authorized to participate in local operation",
-        "description": "Role of the two CIA agents who were returning from destroying a clandestine drug lab remains unclear",
-        "url": "https://www.theglobeandmail.com/world/article-mexico-says-us-agents-killed-in-car-crash-werent-authorized-to/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/3R5Q37AWQVA3JEBT53HMXQIKEA.jpg?auth=9b6be93770fdc002a3eaaa14ca0e0770c8eb29528c2eceb6f11014281eb6b769&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-25T20:42:30Z",
-        "source": "The Globe and Mail"
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "description": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg",
+        "publishedAt": "2026-04-25T21:34:12Z",
+        "source": "BBC"
       },
       {
-        "title": "WMA Calls for Healthcare Safe Zones for All Migrants",
-        "description": "The World Medical Association (WMA), the global body representing physicians across more than 100 countries, has formally adopted a revised policy on medical care for migrants, calling on governments to keep immigration enforcement out of hospitals and reaffirming that healthcare is a fundamental human right that must be provided on…",
-        "url": "https://www.newsghana.com.gh/wma-calls-for-healthcare-safe-zones-for-all-migrants/",
-        "image": "https://b843437.smushcdn.com/843437/wp-content/uploads/2024/08/logo-newsghana.png?lossy=2&strip=1&webp=1",
-        "publishedAt": "2026-04-25T20:41:59Z",
-        "source": "News Ghana"
+        "title": "China donates climate aid to Gabon under South-South cooperation",
+        "description": "LIBREVILLE, April 25 (Xinhua/GNA) — The Chinese Embassy in Gabon, donated a batch of climate aid to Gabon’s Ministry of Water and Forests, Environment, Climate, in charge of…",
+        "url": "https://gna.org.gh/2026/04/china-donates-climate-aid-to-gabon-under-south-south-cooperation/",
+        "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+        "publishedAt": "2026-04-25T21:32:53Z",
+        "source": "Ghana News Agency"
       },
       {
-        "title": "Trump’s correspondents’ dinner appearance sparks boycotts: ‘You’re having dinner with him?’",
-        "description": "Trump was notably roasted by President Obama at the 2011 event",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-correspondents-dinner-2026-b2964996.html",
-        "image": "https://static.independent.co.uk/2026/04/23/16/59/GettyImages-2238138813.jpg?width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-04-25T20:40:00Z",
-        "source": "The Independent"
+        "title": "Today in History - April 26: Three volunteers stepped up for task they were told would kill them",
+        "description": "A safety test mistake at the Chernobyl Nuclear Power Plant in modern-day Ukraine caused the worst nuclear a...",
+        "url": "https://www.9news.com.au/world/today-in-history-april-26-what-happened-on-this-day-chernobyl/6234f768-fbe3-4c5d-98ef-e8a3342ce509",
+        "image": "https://imageresizer.static9.net.au/D5yZxaxrQd2GC6I3fkDLeLPv918=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fed737317-86f2-4082-b7cc-0a2f6006ae0a",
+        "publishedAt": "2026-04-25T21:29:47Z",
+        "source": "9News"
       },
       {
-        "title": "Orbán relinquishes seat in Hungary’s parliament",
-        "description": "Outgoing prime minister plans to seek reelection as party leader in a vote scheduled for June.",
-        "url": "https://www.politico.eu/article/orban-relinquishes-seat-in-hungarys-parliament/",
-        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/21/GettyImages-2269687483.jpg",
-        "publishedAt": "2026-04-25T20:37:00Z",
-        "source": "politico.eu"
+        "title": "Ghana News Agency",
+        "description": "Frankfurt, April 25, (dpa/GNA) – An 18-year-old boy has died, after a car carrying five youngsters plunged into the Main River in Frankfurt overnight, German police said on…",
+        "url": "https://gna.org.gh/2026/04/one-dead-as-five-teens-in-a-car-plunge-into-frankfurts-main-river/",
+        "image": "https://gna.org.gh/web/wp-content/uploads/2022/04/cropped-cropped-WhatsApp-Image-2022-04-06-at-7.25.37-AM-150x150.jpeg",
+        "publishedAt": "2026-04-25T21:27:52Z",
+        "source": "Ghana News Agency"
       },
       {
-        "title": "held bitumen standards waived after supply caught in Strait of Hormuz",
-        "description": "Drivers could soon be travelling on roads built for US and European climates, as supply disruptions force governments to change the standard of bitumen used in Australia.",
-        "url": "https://www.abc.net.au/news/2026-04-26/australia-bitumen-supply-crisis-strait-of-hormuz-disruptions/106566896",
-        "image": "https://live-production.wcms.abc-cdn.net.au/13bd2649277111d8e4da0bc2bfe5315a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=2&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-25T20:36:19Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "FBI director Kash Patel 'likely' to be fired, says White House source: 'It’s only a matter of time'",
+        "description": "US News: FBI Director Kash Patel could be the next senior official to leave the Trump administration, according to a White House source cited in a new report b.",
+        "url": "https://timesofindia.indiatimes.com/world/us/fbi-director-kash-patel-likely-to-be-fired-says-white-house-source-its-only-a-matter-of-time/articleshow/130522871.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130522874,width-1280,height-720,imgsize-79128,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-25T21:25:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "The invisible enemy: 40 years on from nuclear disaster, Chornobyl liquidators return",
-        "description": "Workers who joined the dangerous cleanup effort speak of duty, loss and the catastrophe that continues to haunt Ukraine",
-        "url": "https://www.theglobeandmail.com/business/technology/science/article-the-invisible-enemy-40-years-on-from-nuclear-disaster-chornobyl/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/5SG67NFQIBAMPEUARTA3ZVDFUM.jpg?auth=a30413dfe3637234d4fef6fc7ce41a680e86b389c6ef608400ed3e15f02b2619&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-04-25T20:20:47Z",
-        "source": "The Globe and Mail"
+        "title": "Trump cancels envoys’ trip to Iran talks in Pakistan",
+        "description": "The US president's son-in-law Jared Kushner and special envoy Steve Witkoff were scheduled to leave on Saturday for a second round of peace talks.",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/04/26/trump-cancels-envoys-trip-to-iran-talks-in-pakistan",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/03/72137463-donald-trump-epa-300326.webp",
+        "publishedAt": "2026-04-25T21:22:38Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Tinubu steering Nigeria towards greatness, says Anambra Renewed Hope Ambassadors coordinator",
-        "description": "He said the federal government had achieved notable progress in key sectors.",
-        "url": "https://gazettengr.com/tinubu-steering-nigeria-towards-greatness-says-anambra-renewed-hope-ambassadors-coordinator/",
-        "image": "https://gazettengr.com/wp-content/uploads/dfx.png",
-        "publishedAt": "2026-04-25T20:19:27Z",
-        "source": "Peoples Gazette Nigeria"
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "description": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g6nyvl29po",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg",
+        "publishedAt": "2026-04-25T21:14:42Z",
+        "source": "BBC"
       },
       {
-        "title": "Peace talks in Pakistan collapse; Lebanon reports Israeli strikes despite ceasefire",
-        "description": "Follow our live coverage of the conflict in the Middle East and related developments in Australia.",
-        "url": "https://www.smh.com.au/world/middle-east/us-iran-war-live-updates-peace-talks-in-pakistan-collapse-as-trump-cancels-envoy-trip-israel-lebanon-ceasefire-shaky-amid-strikes-20260426-p5zr2k.html",
-        "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/65823004d6349d743a1ca2e09cc815739b487b99",
-        "publishedAt": "2026-04-25T20:14:44Z",
-        "source": "SMH.com.au"
+        "title": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
+        "description": "While peace talks failed to materialise, Israeli Prime Minister Benjamin Netanyahu ordered his troops to \"forcefully\" attack Hezbollah.",
+        "url": "https://www.rnz.co.nz/news/world/593441/trump-cancels-envoys-pakistan-trip-in-blow-to-hopes-for-iran-war-breakthrough",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--xISWPoAs--/t_tohu-badge-facebook/v1775424754/4JQLQTT_AFP__20260402__A6HV22D__v4__HighRes__UsPresidentDonaldTrumpDeliversNationalAddressOn_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-04-25T21:11:30Z",
+        "source": "RNZ"
       }
     ],
     "business": [
       {
-        "title": "SpaceX Is Going Public at a $1.75 Trillion Valuation. Here Is 1 Stock to Buy Before It Does.",
-        "description": "It's official: SpaceX is looking to IPO this summer.",
-        "url": "https://www.fool.com/investing/2026/04/25/spacex-is-going-public-at-a-175-trillion-valuation/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866835%2Fgettyimages-1182694703-1200x847-d544b0f.jpg&w=1200&op=resize",
-        "publishedAt": "2026-04-25T20:39:39Z",
+        "title": "The Smartest Growth Stocks to Buy With $500 Right Now",
+        "description": "These fast-growing companies have delivered impressive gains for investors so far in 2026, and they can continue to soar.",
+        "url": "https://www.fool.com/investing/2026/04/25/the-smartest-growth-stocks-to-buy-with-500-right/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865976%2Fperson-chart-laptop.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-25T21:30:04Z",
         "source": "The Motley Fool"
       },
       {
-        "title": "What to know if your flight is canceled as jet fuel costs rise",
-        "description": "With airlines worldwide canceling flights as the war in the Middle East strains jet fuel supplies and pushes up prices, here's what to know if your flight is canceled.",
-        "url": "https://www.pbs.org/newshour/economy/what-to-know-if-your-flight-is-canceled-as-jet-fuel-costs-rise",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-23T155523Z_624232224_RC22VKA5ERD3_RTRMADP_3_USA-AIRLINES-AMERICAN-1024x666.jpg",
-        "publishedAt": "2026-04-25T20:38:06Z",
-        "source": "PBS"
-      },
-      {
-        "title": "Trump: Banks Must Not Be Allowed to Undermine Cryptocurrency Market Legislation",
-        "description": "Accordingto CoinDesk, citing on-site attendees, Trump stated at a private event at Mar-a-Lago in Florida that the White House would not allow banks to obstruct or undermine the legislative regulation of the digital asset market. CoinDesk noted that Trump’s remarks were aimed at the Digital Asset Market Clarity Act. The report mentioned that Paolo Ardoino, CEO of Tether, Cathy Wood, founder of Ark Invest, and Nathan McCauley, CEO of Anchorage Digital, all attended the meeting.",
-        "url": "https://news.futunn.com/en/post/72058054/trump-banks-must-not-be-allowed-to-undermine-cryptocurrency-market",
-        "image": "https://pubimg.futunn.com/20220520034359234adad107651.jpg",
-        "publishedAt": "2026-04-25T20:35:04Z",
-        "source": "富途牛牛"
-      },
-      {
-        "title": "US Watchdog Slams FAA Inaction On Boeing 737 MAX Cabin Smoke Risk",
-        "description": "Unresolved safety concerns persist with the Load Reduction Device (LRD) on Boeing 737 MAX aircraft, despite software updates and procedural changes.",
-        "url": "https://simpleflying.com/boeing-737-max-cabin-smoke-faa-watchdog/",
-        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/888-southwest-airlines-boeing-737-max-8-karolis-kavolelis-_-shutterstock.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-25T20:28:23Z",
-        "source": "Simple Flying"
-      },
-      {
-        "title": "GFIM Records GH¢621.7 Million in Total Volume as Treasury Bills Dominate Friday Trading",
-        "description": "The Ghana Fixed Income Market (GFIM) closed Friday, April 24, 2026, with brisk activity across all instrument categories, recording a combined total volume of GH¢621.67 million across 424 transactions, as investors maintained strong appetite for short-dated government securities. Treasury Bills Lead the Market Treasury bills dominated the session, accounting for…",
-        "url": "https://www.newsghana.com.gh/gfim-records-gh%C2%A2621-7-million-in-total-volume-as-treasury-bills-dominate-friday-trading/",
-        "image": "https://b843437.smushcdn.com/843437/wp-content/uploads/2024/08/logo-newsghana.png?lossy=2&strip=1&webp=1",
-        "publishedAt": "2026-04-25T20:16:31Z",
-        "source": "News Ghana"
-      },
-      {
-        "title": "ADT confirms customer data was stolen in a breach.",
-        "description": "The prolific ShinyHunters group is claiming responsibility and threatening to leak the stolen data unless a ransom is paid. ADT has said that the info was mostly limited to names, phone numbers, and addresses, and that credit card or bank account information was not compromised.\n> The investigation confirmed that the information involved was limited to names, phone numbers, and addresses. In a small percentage of cases, dates of birth and the last four digits of Social Security numbers or Tax IDs were included. Critically, no payment information — including bank accounts or credit cards — was accessed, and customer security systems were not affected or compromised in any way.\n[Link: ADT detects cybersecurity incident | https://newsroom.adt.com/corporate-news/adt-detects-cybersecurity-incident | ADT]",
-        "url": "https://www.theverge.com/tech/918784/adt-confirms-customer-data-was-stolen-in-a-breach",
+        "title": "OpenAI’s super PAC might be funding a ‘news’ site staffed by AI reporters.",
+        "description": "Nathan Calvin, from advocacy group Encode, received an interview request from Michael Chen, a reporter at The Wire by Acutus. But it turns out Chen probably doesn’t exist, and most of the “reporters” at the suspiciously pro-AI Acutus appear to be bots. It’s just the tip of a financial trail that appears to lead to OpenAI.\n[Link: The reporters at this news site are AI bots. OpenAI’s super PAC appears to be funding it. | https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are?utm_source=share&utm_medium=android&r=2ji2v&triedRedirect=true | Model Republic]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/918787/openais-super-pac-might-be-funding-a-news-site-staffed-by-ai-reporters",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-        "publishedAt": "2026-04-25T20:00:05Z",
+        "publishedAt": "2026-04-25T21:21:45Z",
         "source": "The Verge"
       },
       {
-        "title": "Tesla Confirms Cybercab Has No Production Cap as Ramp Begins",
-        "description": "After months of building modified test units, the company has confirmed that the true, control-free Cybercab is now in mass production at Gigafactory Texas",
-        "url": "https://www.notateslaapp.com/news/4057/tesla-confirms-cybercab-has-no-production-cap-as-ramp-begins",
-        "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-mass-production-giga-texas-1.webp/5b0c09d3ba04b80c839931bfb2f8b27f/cybercab-mass-production-giga-texas-1.jpg",
-        "publishedAt": "2026-04-25T20:00:00Z",
-        "source": "Not a Tesla App"
+        "title": "Musk drops fraud claims against OpenAI, Altman ahead of trial",
+        "description": "District Judge Yvonne Gonzalez Rogers on Friday agreed to Musk’s request to “streamline” the case.",
+        "url": "https://fortune.com/2026/04/25/elon-musk-fraud-claims-openai-sam-altman-trial/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2256975324-e1777151790299.jpg?resize=1200,600",
+        "publishedAt": "2026-04-25T21:21:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "GIPC, GRA engages HMN Company on EV assembly plant investment",
-        "description": "The Ghana Investment Promotion Centre(GIPC), in collaboration with the Ghana Revenue Authority(GRA), has held strategic discussions with HMN Company on plans to establish an Electric Vehicle (EV) assembly plant in Ghana.",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/business/GIPC-GRA-engages-HMN-Company-on-EV-assembly-plant-investment-2031601",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/750/75056614.jpg",
-        "publishedAt": "2026-04-25T19:59:16Z",
-        "source": "GhanaWeb"
+        "title": "Advancing Women’s Healthcare With AI: Mammogram Radiology",
+        "description": "AI improves women’s healthcare by enhancing imaging, personalization, and addressing longstanding gender bias in research.",
+        "url": "https://www.forbes.com/sites/johnwerner/2026/04/25/advancing-womens-healthcare-with-ai-mammogram-radiology/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69ed2f9f0eb12731a72fabc5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-25T21:18:54Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "What TeraWulf (WULF)'s US$900 Million Equity Raise Means For Shareholders",
+        "description": "TeraWulf Inc. has recently closed an upsized public offering of 54,510,000 common shares at US$19.00 each, raising roughly US$900.6 million to help fund its planned Hawesville, Kentucky data center campus, repay a bridge credit facility, and support future site acquisitions and general corporate uses.\nThis capital raise, executed under an omnibus shelf registration and backed by a syndicate led by Morgan Stanley, signals a move to scale TeraWulf’s digital infrastructure footprint while...",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-wulf/terawulf/news/what-terawulf-wulfs-us900-million-equity-raise-means-for-sha",
+        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
+        "publishedAt": "2026-04-25T21:17:24Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "How Hormel’s Turkey Carve-Out and JENNIE-O Focus Will Impact Hormel Foods (HRL) Investors",
+        "description": "Hormel Foods has completed the sale of its whole-bird turkey business to Life-Science Innovations, transferring the Melrose, Minnesota production facility, feed mill, and transportation assets, while retaining the JENNIE-O brand and value-added turkey operations.\nThis carve-out leaves Hormel with the higher-margin, branded and processed side of its turkey portfolio, while exiting more commodity-oriented whole-bird production.\nNext, we’ll examine how retaining JENNIE-O’s value-added turkey...",
+        "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nyse-hrl/hormel-foods/news/how-hormels-turkey-carve-out-and-jennie-o-focus-will-impact",
+        "image": "https://images.simplywall.st/asset/industry/5122000-choice2-main-header/1585186547117",
+        "publishedAt": "2026-04-25T21:17:24Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "HKBN (SEHK:1310) Margin Improvement To 1.8% Tests Bullish Growth Narrative",
+        "description": "HKBN (SEHK:1310) has just posted its H1 2026 scorecard, with trailing 12 month revenue of HK$11.4b and basic EPS of HK$0.14, setting the tone for how the year is shaping up after a period of faster earnings growth. The company has seen revenue move from HK$4,841.8m in H2 2024 to HK$5,734.3m in H1 2025 and HK$5,394.3m in H2 2025, while basic EPS shifted from HK$0.0067 to HK$0.0821 and HK$0.0685 across those same halves. This gives investors a clear line of sight on how the top and bottom line...",
+        "url": "https://simplywall.st/stocks/hk/telecom/hkg-1310/hkbn-shares/news/hkbn-sehk1310-margin-improvement-to-18-tests-bullish-growth",
+        "image": "https://images.simplywall.st/asset/industry/9022000-choice2-main-header/1585186701264",
+        "publishedAt": "2026-04-25T21:17:23Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "A Look At Corcept Therapeutics (CORT) Valuation After Lifyorli’s FDA Approval And Upcoming ROSELLA Phase 3 Data",
+        "description": "Corcept Therapeutics (CORT) is back in focus after securing FDA approval for Lifyorli in platinum-resistant ovarian cancer and scheduling Phase 3 ROSELLA data for an oral presentation at the 2026 ASCO Annual Meeting.\nSee our latest analysis for Corcept Therapeutics.\nWith Lifyorli’s FDA approval and the upcoming ROSELLA Phase 3 presentation in view, Corcept’s 30-day share price return of 13.81% and year-to-date share price return of 20.58% contrast with a 1-year total shareholder return of...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-cort/corcept-therapeutics/news/a-look-at-corcept-therapeutics-cort-valuation-after-lifyorli",
+        "image": "https://images.simplywall.st/asset/industry/6121000-choice2-main-header/1585186699299",
+        "publishedAt": "2026-04-25T21:17:23Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Scientists Say a Hidden Structure May Exist Inside Earth’s Core",
+        "description": "Deep within Earth’s core, scientists are uncovering signs of a hidden structure that challenges long-standing models of the planet’s interior.",
+        "url": "https://scitechdaily.com/scientists-say-a-hidden-structure-may-exist-inside-earths-core/",
+        "image": "https://scitechdaily.com/images/Inside-Earth-Layers-Glowing-Core.jpg",
+        "publishedAt": "2026-04-25T21:18:18Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "You Should Never Touch A Meteorite With Your Bare Hands - Here's Why",
+        "description": "The reason you don't want to touch a meteorite with your bare hands is because you could contaminate it, robbing it of its scientific value.",
+        "url": "https://www.bgr.com/2152543/meteorite-touching-bare-hands-degrades-rust-contaminatiom/",
+        "image": "https://www.bgr.com/img/gallery/you-should-never-touch-a-meteorite-with-your-bare-hands-heres-why/l-intro-1776699718.jpg",
+        "publishedAt": "2026-04-25T21:17:00Z",
+        "source": "bgr.com"
+      },
+      {
+        "title": "Fluorescent probe lights up centrioles and cilia in living cells across species",
+        "description": "Scientists at EPFL have developed CenSpark, a fluorescent probe that makes centrioles and cilia visible inside living cells, helping researchers study cell division, development, and immunity like never before.",
+        "url": "https://phys.org/news/2026-04-fluorescent-probe-centrioles-cilia-cells.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/lighting-up-the-organi.jpg",
+        "publishedAt": "2026-04-25T21:00:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "The wide-brimmed Sombrero galaxy is revealed in all its splendor by a telescope in Chile",
+        "description": "CAPE CANAVERAL, Fla. (AP) — The Sombrero galaxy and its glowing halo of stars have never looked this good.\nThe U.S. National Science Foundation’s NOIRLab released the latest photo of the popular hat-...",
+        "url": "https://www.the-journal.com/articles/the-wide-brimmed-sombrero-galaxy-is-revealed-in-all-its-splendor-by-a-telescope-in-chile-2/",
+        "image": "https://imengine.public.prod.dur.navigacloud.com/?uuid=ea371b60-af39-567b-b9af-a059961e222f&function=fit&type=preview",
+        "publishedAt": "2026-04-25T20:58:29Z",
+        "source": "Front - The Journal"
+      },
+      {
+        "title": "I own 20 axolotls",
+        "description": "Emma Honeyfield bought her daughter an axolotl for her birthday then quickly fell in love with it.",
+        "url": "https://www.bbc.co.uk/news/articles/cq59v23vy0xo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ca3/live/f7dbfc10-3ff6-11f1-bd52-e755d604ece4.jpg",
+        "publishedAt": "2026-04-25T20:52:47Z",
+        "source": "BBC"
+      },
       {
         "title": "Northern Lights Forecast: 10 States May See Aurora Saturday Night",
         "description": "The northern lights may be visible overnight from up to 10 northern U.S. states on Saturday, April 25, into Sunday, April 26, according to NOAA.",
@@ -158,112 +198,72 @@
         "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-04-25T19:56:57Z",
         "source": "Nature"
-      },
-      {
-        "title": "Gram-negative-staining Bacillaceae with thick cell wall and monoderm architecture uncover evolutionary diversity and challenge Gram-based classification",
-        "description": "Gram staining has guided microbiology for over a century by coloring cells purple or pink, a read-out thought to distinguish monoderms (single membrane, thick peptidoglycan) from diderms (inner and outer membranes with thin wall). Here we show this rule fails repeatedly across Bacillaceae lineages historically deemed “Gram-positive”. By combining light and transmission-electron microscopy, antibiotic-sensitivity assays and comparative genomics across 57 strains, we identify “Gram-negative-staining monoderms” lacking outer membrane yet retaining thick peptidoglycan walls. These bacteria lack lipopolysaccharide- and β-barrel assembly-genes and remain highly susceptible to vancomycin and lysozyme (agents normally excluded by diderm envelopes), demonstrating functional monoderm status. Surprisingly, teichoic-acid biosynthetic pathways are patchily distributed and do not predict staining behavior. This discovery calls into question the textbook purple-or-pink dichotomy, decoupling stain color from membrane architecture. Clinically, misidentifying pink-staining Bacillaceae (including emerging pathogens such as Bacillus infantis) risks inappropriate therapy, whereas genome-guided diagnostics enable precise antibiotic stewardship. Genomic and microscopy evidence shows that the Bacillaceae, assumed to only stain Gram-positive, actually have some lineages staining Gram-negative, yet unexpectedly maintaining a thick wall and no outer membrane, challenging Gram staining assumptions.",
-        "url": "https://www.nature.com/articles/s42003-026-10072-8?error=cookies_not_supported&code=0a9203a4-b94c-41e1-abec-fccce5689cda",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-026-10072-8/MediaObjects/42003_2026_10072_Figa_HTML.png",
-        "publishedAt": "2026-04-25T19:56:57Z",
-        "source": "Nature"
-      },
-      {
-        "title": "NASA Artemis II Astronaut Christina Koch praises Ghana experience - 'My study abroad in Ghana was life-changing'",
-        "description": "NASA astronaut Christina Koch has described her study abroad experience in Ghana as the most life-changing moment of her life. Read more.",
-        "url": "https://www.pulse.com.gh/story/nasa-artemis-ii-astronaut-christina-koch-praises-ghana-experience-my-study-abroad-in-ghana-was-life-changing-2026042511330895757",
-        "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/25042026/978c1e92-418c-43ab-bada-bfc5fdbc3638.jpg?operations=crop(1:0:275:154),autocrop(1200:630)",
-        "publishedAt": "2026-04-25T19:37:55Z",
-        "source": "Pulse Ghana"
-      },
-      {
-        "title": "Research Reveals How Protein PEX11 Regulates Peroxisome Size in Plants and Its Potential Implications for Human Cells",
-        "description": "Plants primarily rely on photosynthesis to generate energy throughout most of their life cycles. However, during the initial phase when a seed begins to grow,",
-        "url": "https://news.ssbcrack.com/research-reveals-how-protein-pex11-regulates-peroxisome-size-in-plants-and-its-potential-implications-for-human-cells/",
-        "image": "https://news.ssbcrack.com/wp-content/uploads/2026/04/Research-Reveals-How-Protein-PEX11-Regulates-Peroxisome-Size-in-Plants.webp.webp",
-        "publishedAt": "2026-04-25T19:36:34Z",
-        "source": "SSBCrack"
-      },
-      {
-        "title": "Light-powered spaceships could get to our nearest star in 20 years. Fiction? Scientists say it could become fact",
-        "description": "A team of researches say they've demonstrated a form of light-driven propulsion that could one day get us to Alpha Centauri in 20 years.",
-        "url": "https://www.skyatnightmagazine.com/news/light-powered-spaceflight",
-        "image": "https://c02.purpledshub.com/uploads/sites/48/2026/04/spacecraft.jpg?w=1200",
-        "publishedAt": "2026-04-25T19:27:03Z",
-        "source": "BBC Sky at Night Magazine"
-      },
-      {
-        "title": "2 solar flares in just 7 hours knock out Earth radio signals: NASA",
-        "description": "The sun unleashed two colossal solar flares within a seven-hour span of each other this week, captured in striking imagery by NASA.",
-        "url": "https://nypost.com/2026/04/25/science/2-solar-flares-in-just-7-hours-knock-out-earth-radio-signals-nasa/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Solar-Flares-comp.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-25T19:13:00Z",
-        "source": "New York Post"
       }
     ],
     "ai": [
       {
-        "title": "'Clearly me': AI drama accused of stealing faces",
-        "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
-        "url": "https://japantoday.com/category/entertainment/%27clearly-me%27-ai-drama-accused-of-stealing-faces",
-        "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
-        "publishedAt": "2026-04-25T20:30:00Z",
+        "title": "Google’s AI agent platform takes pole position but work remains",
+        "description": "Google’s AI agent platform takes pole position but work remains - SiliconANGLE",
+        "url": "https://siliconangle.com/2026/04/25/googles-ai-agent-platform-takes-pole-position-work-remains/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/ChatGPT-Image-Apr-25-2026-02_56_24-PM.png",
+        "publishedAt": "2026-04-25T21:29:28Z",
+        "source": "SiliconANGLE News"
+      },
+      {
+        "title": "OpenAI’s super PAC might be funding a ‘news’ site staffed by AI reporters.",
+        "description": "Nathan Calvin, from advocacy group Encode, received an interview request from Michael Chen, a reporter at The Wire by Acutus. But it turns out Chen probably doesn’t exist, and most of the “reporters” at the suspiciously pro-AI Acutus appear to be bots. It’s just the tip of a financial trail that appears to lead to OpenAI.\n[Link: The reporters at this news site are AI bots. OpenAI’s super PAC appears to be funding it. | https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are?utm_source=share&utm_medium=android&r=2ji2v&triedRedirect=true | Model Republic]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/918787/openais-super-pac-might-be-funding-a-news-site-staffed-by-ai-reporters",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "publishedAt": "2026-04-25T21:21:45Z",
+        "source": "The Verge"
+      },
+      {
+        "title": "Musk drops fraud claims against OpenAI, Altman ahead of trial",
+        "description": "District Judge Yvonne Gonzalez Rogers on Friday agreed to Musk’s request to “streamline” the case.",
+        "url": "https://fortune.com/2026/04/25/elon-musk-fraud-claims-openai-sam-altman-trial/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2256975324-e1777151790299.jpg?resize=1200,600",
+        "publishedAt": "2026-04-25T21:21:19Z",
+        "source": "Fortune"
+      },
+      {
+        "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
+        "description": "Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns over security threats from the recently released model spread across the world. Swift preparations are necessary as the impact of cyberattacks…",
+        "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic's-mythos-ai",
+        "image": "https://media.japantoday.com/img/store/16/07/83c70756b4209338e23e5954ab89ea85da0f/ap26111572582152/_w1700.jpeg",
+        "publishedAt": "2026-04-25T21:12:45Z",
         "source": "Japan Today"
       },
       {
-        "title": "'Clearly me': AI drama accused of stealing faces",
-        "description": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid. The 26-year-old is one of two people who told AFP their likenesses were cast without consent in the AI-generated…",
-        "url": "https://japantoday.com/category/entertainment/'clearly-me'-ai-drama-accused-of-stealing-faces",
-        "image": "https://media.japantoday.com/img/store/26/8a/6bce4187731beda751e4fe3db5f78b328757/3ba4e6630c7c3cf4a64cf3a3f79de4035bfaa01a/_w1700.jpeg",
-        "publishedAt": "2026-04-25T20:30:00Z",
+        "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
+        "description": "Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns over security threats from the recently released model spread across the world. Swift preparations are necessary as the impact of cyberattacks…",
+        "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic%27s-mythos-ai",
+        "image": "https://media.japantoday.com/img/store/16/07/83c70756b4209338e23e5954ab89ea85da0f/ap26111572582152/_w1700.jpeg",
+        "publishedAt": "2026-04-25T21:12:45Z",
         "source": "Japan Today"
       },
       {
-        "title": "How terrifying new AI tool drawing comparisons with Terminator films could ground global flights & crash world's banks",
-        "description": "CLAUDE Mythos sounds like a James Bond villain.\nBut in terrifying reality, the AI tool boasts the power to wreak the kind of havoc 007’s...",
-        "url": "https://www.thesun.ie/tech/16873887/ai-claude-mythos-ground-global-flights-crash-banks/",
-        "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/TM-25-04-AI_OP-2.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-04-25T20:27:12Z",
-        "source": "The Irish Sun"
-      },
-      {
-        "title": "How AI-driven procedures are improving the success rate of IVF in India",
-        "description": "AI is no more considered just a research tool — it's becoming a standard part of IVF procedures, making them less complicated, more accessible, and raising chances of conception as well",
-        "url": "https://www.financialexpress.com/life/lifestyle/how-ai-driven-procedures-are-improving-the-success-rate-of-ivf-in-india/4218290/",
-        "image": "https://images.financialexpressdigital.com/2026/04/ai_w.jpg",
-        "publishedAt": "2026-04-25T20:25:01Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "With GLP-1 generics making debut, doctors warn of ocular risks",
-        "description": "Bengaluru: A 60-year-old woman with poorly controlled diabetes was started on a glucagon-like peptide (GLP)-1 drug to improve glycaemic control and ai.",
-        "url": "https://timesofindia.indiatimes.com/city/bengaluru/with-glp-1-generics-making-debut-doctors-warn-of-ocular-risks/articleshow/130521706.cms",
-        "image": "https://static.toiimg.com/thumb/msid-117518782,width-1280,height-720,imgsize-94950,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-25T20:19:00Z",
+        "title": "Quote of the day by ‘Godfather of AI’ Geoffrey Hinton: \"We need AI mothers rather than AI assistants. An assistant is someone you can fire. You can’t fire your mother, thankfully.\"",
+        "description": "Tech News News: AI is becoming a part of everyday life, from apps for phones to tools for the office and smart home devices. Most people think of AI as a tool that he.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-godfather-of-ai-geoffrey-hinton-we-need-ai-mothers-rather-than-ai-assistants-an-assistant-is-someone-you-can-fire-you-cant-fire-your-mother-thankfully-/articleshow/130522837.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130522846,width-1280,height-720,imgsize-43620,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-25T21:07:00Z",
         "source": "Times of India"
       },
       {
-        "title": "Stanford's AI Index Exposes K-12's Crisis",
-        "description": "Stanford's 2026 AI Index reveals four in five K-12 students now use AI for school while just 6% of teachers report clear school policies.",
-        "url": "https://www.forbes.com/sites/danfitzpatrick/2026/04/25/stanfords-ai-index-exposes-k-12s-crisis/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69ed1f68ed651955446db145/0x0.jpg?format=jpg&crop=5388,3031,x0,y247,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-25T20:13:43Z",
+        "title": "What Investors Should Watch In The Big Tech Earnings Week Ahead",
+        "description": "Big Tech earnings week is here. See what to watch as Apple, Microsoft, Amazon, Alphabet and Meta report, with S&P 500 momentum, AI spending and guidance in focus.",
+        "url": "https://www.forbes.com/sites/bill_stone/2026/04/25/what-investors-should-watch-in-the-big-tech-earnings-week-ahead/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6794fe43c4bc4e01774b3a2b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-25T21:05:55Z",
         "source": "Forbes"
       },
       {
-        "title": "ServiceNow CEO Says AI Fear Is Missing Real Story: Customers Are Spending More",
-        "description": "ServiceNow says AI is boosting demand and productivity, not cutting jobs, as enterprise spending accelerates.",
-        "url": "https://www.benzinga.com/markets/equities/26/04/52051619/servicenow-ceo-says-ai-fear-is-missing-real-story-customers-are-spending-more",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Servicenow-Office-Building-At-Their-Head.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-04-25T19:51:07Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Stream your slop while you drive.",
-        "description": "Suno is available on Android Auto, and CarPlay support is in the works. Now you can stream all your illicit AI covers on your road trip from Hell. According to a post in the Suno Discord, features are limited, with only search, library and explore support, plus playback control.\n[Image: Suno on Android Auto. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all]",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/918768/stream-your-slop-while-you-drive",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Suno_x_Android_Auto.png?quality=90&strip=all&crop=10%2C0%2C80%2C100&w=1200",
-        "publishedAt": "2026-04-25T19:45:28Z",
-        "source": "The Verge"
+        "title": "AI job-takeover fears sending worried Americans back to school: study",
+        "description": "More than 52% of people 25 and older worry an AI takeover could leave them jobless -- forcing them to plan to enroll in courses to sharpen their skills and help advance in their careers, a study says.",
+        "url": "https://nypost.com/2026/04/25/us-news/ai-job-takeover-fears-sending-worried-americans-back-to-school-study/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/back-school-gugliara-americans-returning-126277899_09cb75.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-04-25T21:02:47Z",
+        "source": "New York Post"
       }
     ]
   }
