@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-26T17:30:49.308Z",
+  "fetchedAt": "2026-04-26T18:31:27.913Z",
   "sections": {
     "world": [
       {
-        "title": "US President Donald Trump evacuated as shooter opens fire at Washington gala",
-        "description": "The gunman charged through a security checkpoint outside the annual White House Correspondents dinner.",
-        "url": "https://www.rnz.co.nz/news/world/593469/us-president-donald-trump-evacuated-as-shooter-opens-fire-at-washington-gala",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--vfQw8G0_--/t_tohu-badge-facebook/v1777171157/4JPKBAM_AFP__20260426__2273155913__v1__HighRes__PresidentTrumpMakesAStatementFromWhiteHouseA_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-26T05:24:19Z",
-        "source": "RNZ"
+        "title": "‘Can’t look’: Creepy snaps of abandoned theme park horrify",
+        "description": "Eerie pictures have emerged of an abandoned theme park that is truly freaking the internet out.",
+        "url": "https://www.news.com.au/travel/travel-updates/travel-stories/photographer-shares-look-inside-the-creepiest-abandoned-theme-park-youve-ever-seen/news-story/110ae44d7bb74c1cd8c759a53af13275",
+        "image": "https://content.api.news/v3/images/bin/f04b1d6c6453ca831d8e4d17658c056d",
+        "publishedAt": "2026-04-26T06:22:40Z",
+        "source": "News.com.au"
       },
       {
-        "title": "Pakistan urges SCO action against terrorism",
-        "description": "Pakistan called for stronger coordinated SCO action against terrorism, extremism and drug trafficking during consultations in Moscow.",
-        "url": "https://www.pakistantoday.com.pk/2026/04/26/pakistan-calls-for-coordinated-sco-action-against-terrorism",
-        "image": "https://i.tribune.com.pk/media/images/421777163612-3/421777163612-3.jpg",
-        "publishedAt": "2026-04-26T05:16:33Z",
-        "source": "Pakistan Today"
+        "title": "Hungary's Viktor Orbán steps down from parliament after a landslide defeat, vows to rebuild",
+        "description": "Outgoing Hungarian Prime Minister Viktor Orbán will not take his seat in parliament following a landslide election loss this month.",
+        "url": "https://www.nbcnews.com/world/hungary/hungarys-viktor-orban-steps-parliament-landslide-defeat-vows-rebuild-rcna342037",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260426-orban-nd-ac44fa.jpg",
+        "publishedAt": "2026-04-26T06:14:00Z",
+        "source": "NBC News"
       },
       {
-        "title": "Trump safe after shooting at White House correspondents dinner, suspect in custody",
-        "description": "President Donald Trump and first lady Melania Trump were rushed out of the White House Correspondents’ Association dinner by secret service agents on Saturday night after a man opened fire with a shotgun on security personnel",
-        "url": "https://www.timeslive.co.za/news/world/2026-04-26-trump-safe-after-shooting-at-white-house-correspondents-dinner-suspect-in-custody/",
-        "image": "https://www.timeslive.co.za/resizer/v2/72TM52ONVJE2BLBJJ6MM4RWLOE.JPG?smart=true&auth=24958c02ef0f804577f759575641e40b068f7692e113f188c4da6c3e9cd277fe&width=1200&height=630",
-        "publishedAt": "2026-04-26T05:16:01Z",
-        "source": "TimesLIVE"
+        "title": "US Iran war LIVE updates: Trump calls off envoys’ Pak visit, says Tehran ‘offered a lot but not enough’",
+        "description": "US Iran war LIVE: The war began with US-Israeli strikes on Iran, followed by retaliatory Iranian attacks. Tehran shut down the Strait of Hormuz, a key oil artery, for their ‘enemies’. Washington responded with more bombs and sanctions. A temporary ceasefire announced in April has failed to hold. | World News",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-donald-trump-pakistan-tehran-araghchi-peace-talks-nuclear-strait-of-hormuz-ceasefire-israel-101777168309314.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/26/550x309/Gemini_Generated_Image_71wu3p71wu3p71wu_1777169153793_1777169183241.png",
+        "publishedAt": "2026-04-26T06:12:24Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Kash Patel Faces Ouster Rumors After Alcohol Scandal and $250M Legal War",
-        "description": "The report surfaced hours before a shooting incident at the White House Correspondents’ dinner in Washington.",
-        "url": "https://indianexpress.com/article/world/us-news/kash-patel-fbi-director-firing-rumors-pam-bondi-drinking-scandal-10656243/",
-        "image": "https://images.indianexpress.com/2026/04/Kash-Patel-1.jpg",
-        "publishedAt": "2026-04-26T05:14:35Z",
-        "source": "The Indian Express"
+        "title": "How Washington’s biggest annual dinner transformed into chaos - and a crime scene",
+        "description": "President Donald Trump was seated on the stage of the cavernous Washington Hilton ballroom. Just outside, a man ran through a security checkpoint with a shotgun.",
+        "url": "https://www.cnn.com/2026/04/26/politics/whcd-shooting-trump-drama",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2272595362.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-04-26T06:04:18Z",
+        "source": "CNN"
       },
       {
-        "title": "Middle East war live: Iran's FM to return to Pakistan for talks as US envoys cancel visit",
-        "description": "Iranian Foreign Minister Abbas Araghchi is expected to return to Pakistan on Sunday for more peace negotiations, state media reported, having just left Islamabad the previous day. US envoys did not arrive…",
-        "url": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
-        "image": "https://s.france24.com/media/display/cd8c248e-412d-11f1-9d14-005056a97e36/w:1280/p:16x9/AP26115512502589.jpg",
-        "publishedAt": "2026-04-26T05:13:33Z",
-        "source": "France 24"
+        "title": "40 years after the disaster, Chornobyl remains at risk",
+        "description": "It is 40 years ago today since an explosion ripped through Reactor 4 at the Chornobyl nuclear power plant, causing the world's worst nuclear disaster. Today, it is Russia's full-scale invasion of Ukraine that threatens nuclear safety at the decommissioned plant.",
+        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0426/1570196-comment-analysis-chernobyl/",
+        "image": "https://www.rte.ie/images/0024474c-1600.jpg",
+        "publishedAt": "2026-04-26T06:01:24Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Iran war's surprises",
-        "description": "In some ways, you can feel it in your bones. A momentous wave of anxiety has swept across a world that is struggling to contend with the impact and possible consequences of the unfinished Iran war. We are poised at a turning point in history...",
-        "url": "https://www.geo.tv/latest/661662-iran-wars-surprises",
-        "image": "https://www.geo.tv/assets/uploads/2026-04-26/661662_100400_updates.jpg",
-        "publishedAt": "2026-04-26T05:13:00Z",
-        "source": "Geo News"
+        "title": "Leadership Reshuffle in Somalia’s Ruling Justice and Solidarity Party.",
+        "description": "Hussein Sheikh Mohamud Appointed Secretary-General, Hussein Dhagaweyne Named Deputy Secretary-General.",
+        "url": "https://www.dawan.africa/news/leadership-reshuffle-in-somalias-ruling-justice-and-solidarity-party",
+        "image": "https://utfs.io/f/v9D9ylrdiyZgMf1yXQ2rJDb5eCz4xXupyoAS8gn0UTqY9aNO",
+        "publishedAt": "2026-04-26T06:00:59Z",
+        "source": "Dawan Africa"
       },
       {
-        "title": "Explosive device kills 13 aboard bus in Colombia as violent attacks persist",
-        "description": "Authorities in Colombia say that an explosive device on a bus has killed 13 people in the country's southwest region as violence there escalates.",
-        "url": "https://apnews.com/article/colombia-attacks-police-drones-cali-palmira-934ae0da6de9d751941e5971e8de0f17",
-        "image": "https://dims.apnews.com/dims4/default/b2805d5/2147483647/strip/true/crop/6720x4478+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fd4%2F35dcadd8cfb3751a5e369e3b4959%2F54145442f831475e9de962c221909528",
-        "publishedAt": "2026-04-26T05:04:00Z",
-        "source": "AP News"
+        "title": "Donald Trump evacuated amid shooting at White House correspondents' dinner - what we know so far",
+        "description": "Donald Trump had been due to address the annual White House Correspondents' Association in a glitzy ballroom at a Washington hotel, but the gala was quickly evacuated when shots rang out a few hours into the event.",
+        "url": "https://www.abc.net.au/news/2026-04-26/donald-trump-evacuated-during-shooting-in-washington-explained/106608156",
+        "image": "https://live-production.wcms.abc-cdn.net.au/960163637600d4bc36465096ae7492f2?impolicy=wcms_watermark_news&cropH=2102&cropW=3737&xPos=0&yPos=394&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-26T06:00:10Z",
+        "source": "abc.net.au"
       },
       {
-        "title": "Somalia launches national effort to build cybersecurity framework",
-        "description": "Mogadishu (HOL) —The National Communications Authority (NCA) convened a national consultation to develop Somalia’s Cybersecurity Risk Management and Compliance Framework, bringing together key government institutions, private-sector stakeholders, the education sector, civil society, and technical experts.",
-        "url": "https://www.hiiraan.com/news4/2026/Apr/204984/somalia_launches_national_effort_to_build_cybersecurity_framework.aspx",
-        "image": "https://www.hiiraan.com/uploads/2026/04/5411991777126237.jpeg",
-        "publishedAt": "2026-04-26T05:03:07Z",
-        "source": "hiiraan.com"
+        "title": "Trump rushed off stage as man fires gunshots at correspondents' dinner",
+        "description": "US President Donald Trump was rushed out of the White House Correspondents' Dinner at the Washington Hilton hotel, after a lone gunman fired multiple shots inside the ballroom venue on Saturday night.",
+        "url": "https://www.thecable.ng/trump-rushed-off-stage-as-man-fires-gunshots-inside-correspondents-dinner/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2026/04/Shootng-supect.jpeg",
+        "publishedAt": "2026-04-26T05:59:00Z",
+        "source": "TheCable"
       }
     ],
     "business": [
       {
-        "title": "At Malaysia’s arms bazaar, drone dealers chase Southeast Asian market share",
-        "description": "‘Drone warfare is the future,’ say arms dealers in Kuala Lumpur – and the region’s militaries are buying in.",
-        "url": "https://www.scmp.com/week-asia/economics/article/3351322/malaysias-arms-bazaar-drone-dealers-chase-southeast-asian-market-share",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/24/c0282711-484f-4c37-8d59-34318d96045d_90b603ef.jpg?itok=-dYzzFwP&v=1777023886",
-        "publishedAt": "2026-04-26T05:30:08Z",
+        "title": "10 midcap stocks with massive upside potential up to 60%. Do you own any?",
+        "description": "Analyst forecasts are more than just numbers; they provide a forward-looking perspective on market potential. For investors on the lookout for the next breakout opportunities, a fresh analysis of Nifty Midcap 100 stocks reveals several compelling prospects.Based on market analysts' consensus estimates, Trendlyne data indicates that a number of midcap stocks are expected to deliver strong returns over the next 12 months. This projected upside reflects the average anticipated gain during this period, offering a data-driven roadmap for investors exploring high-potential mid-cap opportunities. We highlight 10 standout mid-cap stocks with an estimated upside potential ranging between 30% and 60% in the coming year. Stock Outlook",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-massive-upside-potential-up-to-60-do-you-own-any/stock-outlook/slideshow/130527460.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130527460,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-04-26T06:31:25Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Shipbuilding Stock with ₹23,758 Cr Order Book to Add to Your Watchlist",
+        "description": "The shares of this company which is one among India’s leading shipbuilding yards, specialising in constructing and repairing warships and submarines for the Ministry of Defence and commercial vessels are in the spotlight with a Rs. 23,758 crore order book, Rs. 3 lakh crore pipeline and Rs. 3,060 target price by ICICI Direct.",
+        "url": "https://tradebrains.in/shipbuilding-stock-with-23758-cr-order-book-to-add-to-your-watchlist/",
+        "image": "https://tradebrains.in/wp-content/uploads/2025/02/ship-building.jpg",
+        "publishedAt": "2026-04-26T06:30:00Z",
+        "source": "Trade Brains"
+      },
+      {
+        "title": "Indian national declared missing in Ghana found dead in car boot",
+        "description": "Davindra Singh, an Indian national residing at Ahenema Kokoben, who was reported missing a few days ago, has been found dead inside the boot of his car at Konkoli.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Indian-national-declared-missing-in-Ghana-found-dead-in-car-boot-2031628",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/176/17613205.jpg",
+        "publishedAt": "2026-04-26T06:28:11Z",
+        "source": "GhanaWeb"
+      },
+      {
+        "title": "From supply chain to record growth: Shenzhen dominates China’s robotics landscape",
+        "description": "The output of the city’s robotics industry hit a record in 2025, rising 20 per cent year on year to over US$35.4 billion.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/26/e7213027-bc99-4a96-aaa1-30cbdd98a4fe_616851c8.jpg?itok=af3VAs_9&v=1777184368",
+        "publishedAt": "2026-04-26T06:25:18Z",
         "source": "South China Morning Post"
       },
       {
-        "title": "Forum set on SOCOTECO II controversy amid JVA debate",
-        "description": "A public forum in General Santos City on April 28 will tackle the SOCOTECO II controversy and its proposed joint venture with Ignite Power, amid privatization fears, transparency issues, and calls for stronger participation from member-consumer-owners in the electric cooperative’s future.",
-        "url": "https://tribune.net.ph/2026/04/26/forum-set-on-socoteco-ii-controversy-amid-jva-debate",
-        "image": "https://media.assettype.com/tribune%2F2026-01-08%2F0j22f3gc%2Fsocoteco-2-pic.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-26T05:28:18Z",
-        "source": "Daily Tribune"
+        "title": "BMW celebrate 25 years of Mini production in Oxford and Swindon",
+        "description": "BMW celebrates its 25th anniversary of producing the modern Mini in Swindon and Oxford.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jkzm1kem8o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cb2/live/7cae17c0-3f25-11f1-a927-3384ef160f59.jpg",
+        "publishedAt": "2026-04-26T06:19:33Z",
+        "source": "BBC"
       },
       {
-        "title": "Hong Kong’s IPO market ‘exceeds’ HK$140 billion amid renewed gold trading push",
-        "description": "Financial Secretary Paul Chan says city remains top IPO hub, citing strong demand among ‘high-quality’ companies and robust market momentum.",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3351458/hong-kongs-ipo-market-exceeds-hk140-billion-amid-renewed-gold-trading-push",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/26/7f0bd060-a6c7-430e-a4c1-2a148d7af66d_7ba4e0bd.jpg?itok=krUJU2vT&v=1777181244",
-        "publishedAt": "2026-04-26T05:27:24Z",
-        "source": "South China Morning Post"
+        "title": "‘He has the market in a chokehold’: Stocks swing as Trump posts",
+        "description": "US stock market moves over the past 15 months have been heavily influenced by President Donald Trumps remarks and social media posts. Fundstrat analysis shows his comments drove the S&P 500s biggest gains and losses, an influence unmatched by any modern US leader. Analysts say this level of market impact is unprecedented and highlights investors sensitivity to political signals.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts/articleshow/130527373.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130527391,width-1200,height-630,imgsize-98536,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-26T06:19:03Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Scotland’s top media academic: ‘BBC Scotland is biased branch office’",
-        "description": "Professor Catherine Happer leads Glasgow University’s acclaimed Media Group. She talks to our Writer at Large about why the national broadcaster…",
-        "url": "https://www.heraldscotland.com/news/26053278.scotlands-top-media-academic-bbc-scotland-biased-branch-office/",
-        "image": "https://www.heraldscotland.com/resources/images/13794732.jpg?type=og-image",
-        "publishedAt": "2026-04-26T05:24:41Z",
-        "source": "The Herald"
+        "title": "China bought zero H200 chips ‘as of today’, says Lutnick as he cites ‘delicate balance’ with Xi",
+        "description": "Commerce chief says Beijing is prioritising its own semiconductor industry when asked whether selling US chips would aid Chinese military",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/26/china-bought-zero-h200-chips-as-of-today-says-lutnick-as-he-cites-delicate-balance-with-xi",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/26/3875483.jpg",
+        "publishedAt": "2026-04-26T06:15:00Z",
+        "source": "The Star"
       },
       {
-        "title": "AppFolio Links Renter Experience Data To Software Upsell Potential",
-        "description": "AppFolio (NasdaqGM:APPF) released its 2026 Renter Preferences Report focused on resident experience and leasing behavior.\nThe report examines how satisfaction ties to lease renewals, retention, and resident advocacy across managed properties.\nFindings highlight the role of technology in shaping renter expectations and day to day property interactions.\nAppFolio, a software provider for property managers, is using this latest research to shine a light on renter behavior at a time when user...",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-appf/appfolio/news/appfolio-links-renter-experience-data-to-software-upsell-pot",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
-        "publishedAt": "2026-04-26T05:19:58Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Vinci Energies Wins Guinea Solar Deal As Investors Weigh Valuation Gap",
-        "description": "VINCI Energies, part of ENXTPA:DG, has signed a €192 million contract with Guinea's Ministry of Energy.\nThe project includes a 50 MWp solar farm, 350 km of overhead transmission lines and two transformer stations.\nThis renewable energy infrastructure project is located in Guinea and focuses on supporting the country's energy sovereignty.\nFor ENXTPA:DG, this contract highlights VINCI Energies' role in large scale power infrastructure, extending beyond its established European base. The deal...",
-        "url": "https://simplywall.st/stocks/fr/capital-goods/epa-dg/vinci-shares/news/vinci-energies-wins-guinea-solar-deal-as-investors-weigh-val",
-        "image": "https://images.simplywall.st/asset/industry/3041000-choice2-main-header/1585186777117",
-        "publishedAt": "2026-04-26T05:19:55Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Ameriprise Financial (AMP) Valuation Check After Earnings Beat And AI Focus In Advice And Wealth Management",
-        "description": "Ameriprise Financial (AMP) just delivered a quarterly report that topped Wall Street expectations, with earnings supported by its Advice & Wealth Management division, a fresh Huntington Bank agreement, and ongoing investment in artificial intelligence tools.\nSee our latest analysis for Ameriprise Financial.\nThe share price has responded to this mix of strong earnings, dividend increase and buybacks with a 6.25% 1 month share price return, even as the 90 day share price return is a 7.27%...",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-amp/ameriprise-financial/news/ameriprise-financial-amp-valuation-check-after-earnings-beat",
-        "image": "https://images.simplywall.st/asset/industry/7131000-choice2-main-header/1585186813996",
-        "publishedAt": "2026-04-26T05:15:49Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Assessing Neogen (NEOG) Valuation After Recent Share Price Momentum And Margin Improvement Hopes",
-        "description": "Why Neogen (NEOG) is on investors’ radar today\nRecent trading in Neogen (NEOG) has drawn attention after a stretch that includes a 2.0% move over the past day, modest gains over the past week, and a stronger showing over the past month.\nSee our latest analysis for Neogen.\nAt a share price of $9.54, Neogen’s recent 1 month share price return of 9.66% contrasts with a 3 month share price return decline of 4.70%, while the 1 year total shareholder return of 84.88% sits against a 5 year total...",
-        "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-neog/neogen/news/assessing-neogen-neog-valuation-after-recent-share-price-mom-1",
-        "image": "https://images.simplywall.st/asset/industry/6022000-choice2-main-header/1585186808155",
-        "publishedAt": "2026-04-26T05:15:49Z",
-        "source": "simplywall.st"
+        "title": "West in Pictures: Crisp",
+        "description": "A round-up of images from across the West this week.",
+        "url": "https://www.bbc.com/news/articles/cy41k184z08o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c80/live/d6bdf950-3e31-11f1-9a72-9fbb6d1baa1e.png",
+        "publishedAt": "2026-04-26T06:14:18Z",
+        "source": "BBC"
       }
     ],
     "science": [
+      {
+        "title": "Lightweight vision architecture deployed in the terminal for safety monitoring and early warning of transmission lines",
+        "description": "Intrusion of hazardous objects into critical transmission lines can directly cause severe accidents, including large-area power outages and even electric shock casualties. However, current monitoring systems remain constrained by single-sensing modalities, such as monocular/binocular vision or Light Detection and Ranging. They fail to achieve reliable real-time three-dimensional perception and lack correlative analysis between external hazard intrusions and the safe clearance distances of transmission lines across complex multi-terrain scene. This study proposes a lightweight vision framework. By fusing pose estimation, visual detection, and depth transformation, this framework achieves high-precision ranging and early warning of external hazards within transmission corridors across all terrains. The architecture employs the lightweight transmission line hazard detection model, by introducing a positive-negative sample dynamic balancing mechanism, thereby improving the detection performance of the model. Furthermore, an improved pose estimation algorithm is proposed to achieve high-precision spatial mapping. Further combined with the depth transformation and point cloud reconstruction, this enables refined ranging for hazards relative to transmission lines under arbitrary terrain conditions. The proposed method has been validated on terminal AI platforms and deployed on on-site camera terminals along transmission lines, showing excellent inference performance and deployment adaptability on terminal devices. The study develops a lightweight vision model for monitoring transmission lines, integrating hazard detection, depth transformation, pose estimation, and point cloud structure sparsification to enhance real-time hazard detection and distance measurement, validated in diverse terrains and weather conditions.",
+        "url": "https://www.nature.com/articles/s41467-026-72321-y?error=cookies_not_supported&code=151da8c7-985e-4162-bebe-8fe51075d222",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-26T06:30:31Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Neanderthals had much closer genetic connections than believed",
+        "description": "Maternal DNA from Neanderthal teeth found in Stajnia Cave show Neanderthals moved across wide areas of Europe.",
+        "url": "https://www.earth.com/news/neanderthal-teeth-stajnia-cave-maternal-dna-closer-genetic-connections-than-believed/",
+        "image": "https://cff2.earth.com/uploads/2026/04/25183028/neanderthal-teeth_maternal-dna_stajnia-cave_Max-Planck_1m.jpg",
+        "publishedAt": "2026-04-26T06:13:24Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Astronomers Map Climate of TRAPPIST",
+        "description": "In a scenario that seems to defy the natural rhythms of day and night, astronomers have recently provided unprecedented insights into two exoplanets that are",
+        "url": "https://news.ssbcrack.com/astronomers-map-climate-of-trappist-1b-and-trappist-1c-in-groundbreaking-study/",
+        "image": "https://news.ssbcrack.com/wp-content/uploads/2026/04/Astronomers-Map-Climate-of-TRAPPIST-1b-and-TRAPPIST-1c-in-Groundbreaking-Study.jpg",
+        "publishedAt": "2026-04-26T06:02:52Z",
+        "source": "SSBCrack"
+      },
+      {
+        "title": "Scientists believe birds’ skulls hold clues to inner lives of long-extinct dinosaurs",
+        "description": "Early birds were like ‘T rex reincarnated’, says scientist who believes avian skulls offer insight into dinosaurs’ behaviour",
+        "url": "https://www.theguardian.com/science/2026/apr/26/scientists-believe-birds-skulls-hold-clues-to-inner-lives-of-long-extinct-dinosaurs",
+        "image": "https://i.guim.co.uk/img/media/f417c183bd89676d3cd3397039d1ac706cfa050c/0_0_6833_5464/master/6833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80b79b4cd0cbab5fbb3b88626023270d",
+        "publishedAt": "2026-04-26T06:01:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "‘Lost world’ Doggerland beneath North Sea once hosted thriving Ice Age forests",
+        "description": "New DNA evidence reveals Doggerland was a lush, life-supporting refuge 16,000 years ago—far earlier than previously believed.",
+        "url": "https://indianexpress.com/article/technology/science/lost-world-doggerland-under-north-sea-once-hosted-thriving-ice-age-forests-10655941/",
+        "image": "https://images.indianexpress.com/2026/04/Tech-Daily-36.jpg",
+        "publishedAt": "2026-04-26T05:46:24Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "The Threat of Light Pollution Puts World’s Darkest Skies in the Atacama Desert at Risk",
+        "description": "It takes a moment for the eyes to adjust. A faint spark appears in the darkness; then another, brighter one. Soon, stars, planets and entire constellations emerge. Before long, a whole galaxy stretches across the sky, visible to the naked eye. In Chile’s Atacama Desert, the night sky feels infinite. Considered the driest place on Earth, its darkness is also one of the clearest windows to the universe.",
+        "url": "https://english.aawsat.com/varieties/5266534-threat-light-pollution-puts-world%E2%80%99s-darkest-skies-atacama-desert-risk",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-04/1511208_0.jpeg.webp",
+        "publishedAt": "2026-04-26T05:38:02Z",
+        "source": "Asharq Al-Awsat | Explore World News Today"
+      },
       {
         "title": "Fungi in space? Study finds surprising survival ability in Mars",
         "description": "Trending News: As space missions to Mars gain momentum, scientists are looking beyond rockets and landing systems. There is a growing focus on something much smaller.",
@@ -150,120 +198,72 @@
         "image": "https://focus.independent.ie/thumbor/CE9pLk5_xqYlewCa4BW9YQhu7SM=/629x460/smart/prod-mh-ireland/6a0570e3-611b-47b2-b78f-2b7bb2e8773f/1fdab55b-d41d-4c2d-85aa-8c62dd1380d9/6a0570e3-611b-47b2-b78f-2b7bb2e8773f.jpg",
         "publishedAt": "2026-04-26T05:20:00Z",
         "source": "The Irish Independent"
-      },
-      {
-        "title": "Regional drought forecasting in data-scarce regions through a novel cluster-based liquid neural network",
-        "description": "The Global Drought Monitor (GDM) provides real-time information about drought to enhance drought forecasting; however, applying complex machine learning algorithms across large spatial domains is computationally challenging. This study presents a novel approach for one-month-ahead regional drought forecasting using GDM data. The new approach first uses k-means to cluster GDM grid points into homogeneous regions based on their geographic coordinates (latitude, longitude, and elevation) and temporal variation of the Standardized Precipitation-Evapotranspiration Index (SPEI) series. Then, a cluster representative SPEI series (SPEIcr) is generated for each cluster, and is targeted for modeling and forecasting using the state-of-the-art liquid neural network (LNN) technique. To achieve the best forecasting accuracy, the univariate and multivariate LNN models are configured by the most effective lags of SPEIcr and exogenous inputs chosen among the GDM-SPEI series that show the minimum Euclidean distance to each cluster centroid in both the geographic and feature spaces. Based on the superior performance of the multivariate LNN, the SPEIcr forecasts are ultimately extended across all GDM points in the corresponding homogenous region to map future regional drought patterns. The new approach was demonstrated through a case study conducted for the Lake Urmia Basin (LUB), which suffers from both frequent prolonged meteorological droughts and scarce long-term ground truth data. The results showed that a rigorous spatially adaptive drought forecasting map can be delineated across LUB via the proposed model. Notably, the LUB was clustered into five drought-hemogenic clusters where multivariate LNN models showed, on average, more than 100% and 40% performance improvement in terms of Nash-Sutcliffe efficiency over the univariate LNN and Seasonal Auto Regressive Integrated Moving Average benchmarks, respectively. This corresponded to an average root mean squared error of 0.25 for the multivariate models, whereas the benchmark errors remained higher, at approximately 0.54 and 0.72, respectively.",
-        "url": "https://www.nature.com/articles/s41598-026-50077-1?error=cookies_not_supported&code=8fa1c941-bfe6-4b59-9499-f573a16d5586",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-26T05:18:21Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Graphene kills harmful bacteria “superbugs” but spares human cells",
-        "description": "Scientists have uncovered how graphene oxide pulls off a remarkable trick: it hunts down and destroys harmful bacteria while leaving human cells completely unharmed. By targeting a molecule found only in bacterial membranes, this ultra-thin carbon-based material acts with laser-like precision—offering a powerful new alternative to traditional antibiotics. Even more exciting, it works against drug-resistant “superbugs,” promotes faster wound healing, and keeps its antibacterial strength even after repeated washing.",
-        "url": "http://www.sciencedaily.com/releases/2026/04/260424233210.htm",
-        "image": "https://www.sciencedaily.com/images/1920/superbug-bacteria-petri-dish-gloved-hand.webp",
-        "publishedAt": "2026-04-26T05:08:47Z",
-        "source": "Science Daily"
-      },
-      {
-        "title": "NASA Releases LAVA Software",
-        "description": "NASA makes its LAVA software available to the public. Learn how this GPU-powered tool simulates extreme airflow for rockets, aircraft, and space missions.",
-        "url": "https://english.mathrubhumi.com/technology/nasa-lava-software-tool-launch-ascent-vehicle-aerodynamics-aerospace-innovation-tw7d3w9n",
-        "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1qprxeodzdvnum6uxxc/0/nasa-jpg.jpeg?f=16%3A9&w=1200&q=0.75",
-        "publishedAt": "2026-04-26T05:00:31Z",
-        "source": "Mathrubhumi English"
-      },
-      {
-        "title": "Making Sociology Matter: Public Sociology and Digital Media: A Conversation with Michaela Benson",
-        "description": "Michaela Benson (she/her) is Professor in Public Sociology at Lancaster University, a Fellow of the Academy of Social Sciences, and Chief Executive of the Sociological Review Foundation. A leading social scientist working on migration and citizenship, she is particularly known for her research with British citizens living in the European Union. She has published numerous […]",
-        "url": "https://doingsociology.org/2026/04/26/making-sociology-matter-public-sociology-and-digital-media-a-conversation-with-michaela-benson/",
-        "image": "https://doingsociology.org/wp-content/uploads/2026/04/Benson.jpeg",
-        "publishedAt": "2026-04-26T04:40:57Z",
-        "source": "Doing Sociology"
-      },
-      {
-        "title": "Webb Finds Water-Ice Clouds on Nearby Super-Jupiter",
-        "description": "The giant planets in our solar system—Jupiter, Saturn, Uranus, and Neptune—have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring images from spacecraft and given scientists key insights into the interior mechanisms of these massive worlds. But what about exoplanets? What can their atmospheres teach scientists about their formation, evolution, composition, and interior mechanisms? And how do longstanding exoplanet models stack up against the real thing?",
-        "url": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-        "image": "https://www.universetoday.com/article_images/ezgif-7135a6dbf527e30a_750_20260426_040536.jpg",
-        "publishedAt": "2026-04-26T04:05:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "The world's darkest skies are under pressure in the Atacama Desert",
-        "description": "The Atacama Desert in Chile offers some of the clearest views of the universe, thanks to its dry climate, high altitude and isolation from light pollution.",
-        "url": "https://apnews.com/article/chile-atacama-desert-dark-skies-obervatory-astronomy-space-bfa6aa6a6d73bd825677121c9589245e",
-        "image": "https://dims.apnews.com/dims4/default/d3fc850/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F6d%2Fd18cfbdfb110d3158f8bc77ad4cd%2F4389e9b88e14407caf8694fbe7ba2850",
-        "publishedAt": "2026-04-26T04:03:00Z",
-        "source": "AP News"
       }
     ],
     "ai": [
       {
-        "title": "Does geopolitics pose the greatest economic danger - or is it AI?",
-        "description": "Whilst the West grapples with the Iran war, the powerful technology could lead to a 2008-style collapse",
-        "url": "https://www.telegraph.co.uk/business/2026/04/26/does-geopolitics-pose-greatest-economic-danger-or-is-it-ai/",
-        "image": "https://www.telegraph.co.uk/content/dam/business/2026/04/25/TELEMMGLPICT000480676909_17771247255970_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=OG-Comment",
-        "publishedAt": "2026-04-26T05:30:00Z",
-        "source": "The Telegraph"
+        "title": "Over 20,000 potential job cuts at Meta, Microsoft signal bigger AI shake-up: Report",
+        "description": "Meta, Microsoft, Amazon and Alphabet are together expected to spend nearly $700 billion this year on AI infrastructure, CNBC said.",
+        "url": "https://www.moneycontrol.com/news/business/over-20-000-potential-job-cuts-at-meta-microsoft-signal-bigger-ai-shake-up-report-13899688.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_366948815.jpg",
+        "publishedAt": "2026-04-26T06:22:45Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "JP Morgan downgrades India equities to 'Neutral'; bets on Asia tech amid AI-led shift",
-        "description": "JP Morgan noted that the macro environment is also evolving, with risks of persistent inflation and slower growth shaping investment strategy.",
-        "url": "https://www.newindianexpress.com/business/2026/Apr/26/jp-morgan-downgrades-india-equities-to-neutral-bets-on-asia-tech-amid-ai-led-shift-2",
-        "image": "https://media.newindianexpress.com/newindianexpress%2F2024-04%2F8a571ffd-84c6-43f8-a0fc-b3937725cb13%2FJP_Morgan_HQ.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-26T05:29:32Z",
+        "title": "Images of Gardai at fuel protests altered using AI to make them appear violent",
+        "description": "Images of Gardaí at this month's Whitegate fuel protests were doctored with AI to make it appear as though they were violent towards protestors.",
+        "url": "https://extra.ie/2026/04/26/news/images-gardai-whitegate-fuel-protests-ai",
+        "image": "https://extra.ie/wp-content/uploads/2026/04/Fuel-protests-friday-9_90746476-e1777183309637.jpg",
+        "publishedAt": "2026-04-26T06:19:14Z",
+        "source": "Extra.ie"
+      },
+      {
+        "title": "Soon Mahatma Gandhi, Vajpayee to come alive in AI avatar at PM Museum in Delhi",
+        "description": "New Delhi, Apr 26 (PTI) Visitors to the Pradhanmantri Sangrahalaya in Delhi will soon be able to interact with AI-powered “hyper-realistic” 3D avatars of Mahatma Gandhi and Atal Bihari Vajpayee, blending an immersive experience of history with cutting-edge technology. The project to bring the two eminent leaders in their AI avatars is in the “final […]",
+        "url": "https://theprint.in/india/soon-mahatma-gandhi-vajpayee-to-come-alive-in-ai-avatar-at-pm-museum-in-delhi/2914657/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+        "publishedAt": "2026-04-26T06:15:59Z",
+        "source": "ThePrint"
+      },
+      {
+        "title": "AI-Powered Legacy: Pradhanmantri Sangrahalaya's Digital Revolution",
+        "description": "The Pradhanmantri Sangrahalaya in Delhi is set to introduce AI-driven 'hyper-realistic' 3D avatars of iconic leaders Mahatma Gandhi and Atal Bihari Vajpayee. This initiative aims to blend technology with history, enhancing visitor experience. The museum, preserving India's democratic evolution, plans further AI integrations to boost accessibility.",
+        "url": "https://www.devdiscourse.com/article/entertainment/3887252-ai-powered-legacy-pradhanmantri-sangrahalayas-digital-revolution",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_28_56_3344151.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-26T06:12:16Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Russia weaponising AI deepfakes in grey zone warfare to shatter Western support for Ukraine, report warns",
+        "description": "The Kremlin has launched a sophisticated \"asymmetric assault\" on Western democracy, deploying advanced artificial intelligence and deepfake technology to flood the information space with realistic lies about the war in Ukraine.",
+        "url": "https://www.lbc.co.uk/article/russia-weaponising-ai-deepfakes-in-grey-zone-warfare-to-shatter-western-support-5HjdYHM_2/",
+        "image": "https://images.globalplayer.com/images/808730?crop=16_9&width=1200&signature=SxsBtxNJD_x2J8QdoZ16oDMuRgQ=",
+        "publishedAt": "2026-04-26T06:00:00Z",
+        "source": "LBC"
+      },
+      {
+        "title": "Big tech layoff now funding AI expansion",
+        "description": "The massive layoffs this year are aimed not to shore up financials, but to free up funds to invest $80-120 billion in AI infrastructure",
+        "url": "https://www.newindianexpress.com/business/2026/Apr/26/big-tech-layoff-now-funding-ai-expansion",
+        "image": "https://media.newindianexpress.com/newindianexpress%2F2026-04-19%2F39xj06u0%2F202604193755637.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-26T05:58:34Z",
         "source": "The New Indian Express"
       },
       {
-        "title": "Google Earmarks $40 Billion for Anthropic Investment",
-        "description": "Alphabet's Google will earmark up to $40 billion into artificial intelligence company Anthropic, according to an April 25 release.\nUnder the investment, the technology giant will initially invest...",
-        "url": "https://www.marketscreener.com/news/google-earmarks-40-billion-for-anthropic-investment-ce7f59dcdb8ef126",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-04-26T05:25:11Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "JP Morgan downgrades India equities to 'Neutral', bets on Asia tech amid AI-led shift",
-        "description": "JP Morgan noted that the macro environment is also evolving, with risks of persistent inflation and slower growth shaping investment strategy",
-        "url": "https://www.thehindubusinessline.com/markets/jp-morgan-downgrades-india-equities-to-neutral-bets-on-asia-tech-amid-ai-led-shift/article70907795.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/6hb6xa/article70901373.ece/alternates/LANDSCAPE_1200/IMG_Woman_signs_agreemen_9_1_5MDGK7D1.jpg",
-        "publishedAt": "2026-04-26T05:23:21Z",
+        "title": "Meta, Microsoft have joined tech layoff tsunami - but is AI really to blame?",
+        "description": "Meta and Microsoft announce significant layoffs, raising questions about AI's role in workforce changes and corporate strategy.",
+        "url": "https://www.thehindubusinessline.com/info-tech/meta-microsoft-have-joined-tech-layoff-tsunami-but-is-ai-really-to-blame/article70907843.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/c8dtca/article70907884.ece/alternates/LANDSCAPE_1200/IMG_iStock-1217160806_2_1_0LAJ5446.jpg",
+        "publishedAt": "2026-04-26T05:46:12Z",
         "source": "The Hindu Business Line"
       },
       {
-        "title": "‘AI boosts justice efficiency, but risks demand human vigilance’: CJI Surya Kant",
-        "description": "CJI Justice Surya Kant emphasizes the role of AI in the justice system at Chaudhary Bansi Lal University’s fifth convocation. He advocates for a balanced approach, celebrating AI’s efficiencies while protecting human judgment. | financialexpress.com",
-        "url": "https://www.financialexpress.com/shorts/india-news/artificial-intelligence-boosts-justice-efficiency-but-risks-demand-human-vigilance-cji-surya-kant-outlines-ais-role-in-indian-judiciary-4218585/",
-        "image": "https://images.financialexpressdigital.com/2026/04/cji.jpg",
-        "publishedAt": "2026-04-26T05:21:14Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "‘Artificial Intelligence boosts justice efficiency, but risks demand human vigilance’: CJI Surya Kant outlines AI’s role in Indian judiciary",
-        "description": "Shifting focus to technology's transformative potential, CJI Surya Kant highlighted AI's practical applications in streamlining judicial processes. He noted its value in administrative tasks and legal research, which enhance efficiency without overstepping core functions.",
-        "url": "https://www.financialexpress.com/india-news/artificial-intelligence-boosts-justice-efficiency-but-risks-demand-human-vigilance-cji-surya-kant-outlines-ais-role-in-indian-judiciary/4218585/",
-        "image": "https://images.financialexpressdigital.com/2026/04/cji.jpg",
-        "publishedAt": "2026-04-26T05:19:41Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "Meta, Microsoft have joined tech layoff tsunami, but is AI really to blame?",
-        "description": "The workers most at risk are not necessarily those whose tasks can be replicated by AI. They are those who wait for pressure to arrive from outside rather than getting ahead of it now",
-        "url": "https://www.business-standard.com/technology/tech-news/meta-microsoft-have-joined-tech-layoff-tsunami-but-is-ai-really-to-blame-126042600165_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/20/thumb/fitandfill/1200X628/1771611565-3179.jpg",
-        "publishedAt": "2026-04-26T05:18:43Z",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Soon Gandhi, Vajpayee to come alive in AI avatar at PM Museum in Delhi",
-        "description": "New Delhi, Apr 26 (PTI) Visitors to the Pradhanmantri Sangrahalaya in Delhi will soon be able to interact with AI-powered “hyper-realistic” 3D avatars of Mahatma Gandhi and Atal Bihari Vajpayee, blending an immersive experience of history with cutting-edge technology. The project to bring the two eminent leaders in their AI avatars is in the “final […]",
-        "url": "https://theprint.in/india/soon-gandhi-vajpayee-to-come-alive-in-ai-avatar-at-pm-museum-in-delhi/2914613/",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-        "publishedAt": "2026-04-26T05:16:04Z",
-        "source": "ThePrint"
+        "title": "DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to know",
+        "description": "More than a year after taking the AI world by storm, Chinese AI startup DeepSeek has unveiled two versions of its all-new large language model (LLM) called DeepSeek V4 Flash and DeepSeek V4 Pro. Both the Flash and Pro models are open-weight models with context windows of over 1 million tokens each, which allows users […]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/",
+        "image": "https://images.indianexpress.com/2025/09/Huawei-13.jpg",
+        "publishedAt": "2026-04-26T05:42:26Z",
+        "source": "The Indian Express"
       }
     ]
   }
