@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-26T01:07:48.408Z",
+  "fetchedAt": "2026-04-26T02:00:22.772Z",
   "sections": {
     "world": [
       {
-        "title": "Ambassador Gao Wenqi Calls on Chairperson of Rwanda National Commission for Human Rights",
-        "description": "Ambassador Gao Wenqi Calls on Chairperson of Rwanda National Commission for Human Rights",
-        "url": "https://www.zawya.com/en/press-release/africa-press-releases/ambassador-gao-wenqi-calls-on-chairperson-of-rwanda-national-commission-for-human-rights-m2ba53g3",
-        "image": "https://www.zawya.com/favicon.ico",
-        "publishedAt": "2026-04-25T13:02:57Z",
-        "source": "ZAWYA"
+        "title": "Trump’s Polling Free Fall",
+        "description": "Donald Trump's polling numbers have been steadily declining for the past year, especially when it comes to inflation and cost of living.",
+        "url": "https://www.rollingstone.com/politics/politics-features/trump-polling-numbers-free-fall-1235553660/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2026/04/trumps-tanking-poll-numbers.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2026-04-25T14:00:00Z",
+        "source": "Rolling Stone"
       },
       {
-        "title": "Engineer and Rotary member Ron Chatburn, from Dover, dies aged 93",
-        "description": "A ‘larger than life’ globetrotter with a ‘witty’ sense of humour will be missed by friends and family following his death aged 93.",
-        "url": "https://www.kentonline.co.uk/dover/news/tributes-to-gregarious-traveller-engineer-and-magician-fo-339444/",
-        "image": "https://www.kentonline.co.uk/_media/img/1FEFT5OWI3UV6RHGP94O.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Kent Online"
+        "title": "Kate Middleton Makes an Appearance in a New Navy",
+        "description": "Kate Middleton attends ANZAC Day commemorations in a new navy-blue dress from Sarah Burton's Alexander McQueen.",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a71126184/kate-middleton-new-navy-blue-dress-anzac-day/",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/1a3e5b91-1249-4271-86e0-b05f8f001baa.jpeg?crop=1xw:0.701xh;0xw,0.124xh&resize=1200:*",
+        "publishedAt": "2026-04-25T13:57:00Z",
+        "source": "Harper's BAZAAR"
       },
       {
-        "title": "Iran military says will respond if US blockade and 'banditry' continues",
-        "description": "Iran's military said on Saturday it would respond if the United States maintained its blockade of Iranian ports, calling it \"banditry\" and...",
-        "url": "https://www.vanguardngr.com/2026/04/iran-military-says-will-respond-if-us-blockade-and-banditry-continues/",
-        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/03/Iran-flag.webp",
-        "publishedAt": "2026-04-25T12:54:50Z",
-        "source": "Vanguard News"
+        "title": "Leaders of France and Greece say the EU's defense splurge is no alternative to the NATO alliance",
+        "description": "The president of France says the European Union’s ongoing push to bolster its own defensive capabilities isn’t intended to spawn an alternative to the NATO alliance but to answer a long-standing U.S. call for the continent to take charge of its own security.",
+        "url": "https://apnews.com/article/greece-france-defense-military-nato-macron-4dcf452a80646c4fad377110c3b6bca3",
+        "image": "https://dims.apnews.com/dims4/default/a70daec/2147483647/strip/true/crop/7582x5052+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F64%2F183a4873d9a8b522cd848063a3c6%2F6d1a464e00ba4369b4e952dd37aafdf0",
+        "publishedAt": "2026-04-25T13:53:00Z",
+        "source": "AP News"
       },
       {
-        "title": "US envoys head to Pakistan for Iran war talks",
-        "description": "The US is \"looking for a face-saving way to escape the war quagmire it has become trapped in\", says Iran's defence ministry.",
-        "url": "https://www.channelnewsasia.com/world/us-pakistan-iran-envoys-war-talks-steve-witkoff-jared-kushner-6080716",
-        "image": "https://dam.mediacorp.sg/image/upload/s--szDtRXDX--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/25/000_a7hg446.jpg?itok=fja0GScH",
-        "publishedAt": "2026-04-25T12:52:00Z",
-        "source": "CNA"
+        "title": "Princess of Wales pays tribute to war dead of Australia and New Zealand",
+        "description": "She attended a service commemorating Australian and New Zealand troops who died in conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/c3dlgz3mm39o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1164/live/7bfc4c70-40b0-11f1-ac78-2112837ce2aa.jpg",
+        "publishedAt": "2026-04-25T13:52:39Z",
+        "source": "BBC"
       },
       {
-        "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato airspace",
-        "description": "Overnight incident in Romania did not lead to hostilities as potential target stayed within Ukrainian airspace",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
-        "image": "https://i.guim.co.uk/img/media/ed5b7f246bea513d923672e490f53e7d5ac9bc2e/0_203_3995_3195/master/3995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53923aed6fe743df87977a95de08cbb6",
-        "publishedAt": "2026-04-25T12:51:00Z",
-        "source": "The Guardian"
+        "title": "These Are the Most-Regretted College Majors",
+        "description": "Plenty of students are rethinking what they studied before they've even framed their diplomas. Per CBS News , a new ZipRecruiter survey of 3,000 people who graduated last...",
+        "url": "https://www.newser.com/story/387984/these-are-the-most-regretted-college-majors.html",
+        "image": "https://img2-azrcdn.newser.com/image/1680661-12-20260425103032.jpeg",
+        "publishedAt": "2026-04-25T13:50:00Z",
+        "source": "Newser"
       },
       {
-        "title": "Identical Twin Brothers, 22, Fatally Electrocuted While Attempting to Retrieve a Bird",
-        "description": "Twins Francesco and Giacomo Fierloni died at the scene on Tuesday, April 21",
-        "url": "https://ca.news.yahoo.com/identical-twin-brothers-22-fatally-125051758.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/cFS0rFjHlqJgUKzzwnREKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/e40bf278427e044d3dc79c5d027eff38",
-        "publishedAt": "2026-04-25T12:50:51Z",
-        "source": "Yahoo News Canada"
+        "title": "Watch: Gunfire, blasts rock Mali's capital, other cities; defence min's residence targeted - what we know so far",
+        "description": "Rest of World News: Fresh violence erupted across Mali early Saturday as gunfire and explosions were reported in multiple locations, including the capital Bamako, nearby .",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-gunfire-blasts-rock-malis-capital-other-cities-defence-mins-residence-targeted-what-we-know-so-far/articleshow/130516399.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130517051,width-1280,height-720,imgsize-31790,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-25T13:49:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "UAE’s Gargash says didn’t expect Iran to attack, reveals long-term impact of regional war",
-        "description": "He also said that Iran is a 'long-term threat' to the region, adding that it had been observed that Iran's initial strategy was to 'enlarge the war'.",
-        "url": "https://www.khaleejtimes.com/uae/uaes-gargash-says-didnt-expect-iran-to-attack-reveals-long-term-impact-of-us-israel-iran-war",
-        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-25/mfpk8rjx/anwar-gargash.png?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=36,0,2751,1834",
-        "publishedAt": "2026-04-25T12:48:53Z",
-        "source": "Khaleej Times"
+        "title": "Ghana Makes History by Launching the Country’s First Marine Protected Area",
+        "description": "Ghana has recently achieved a historic milestone; the African country has created its first-ever marine protected area, a region of the ocean specifically designated with legal protections to protect ...",
+        "url": "https://sg.news.yahoo.com/ghana-makes-history-launching-country-134500673.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/F0s9dOuaU9z.qlzsSgkJvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/a_z_animals_articles_598/c192c09e2a76bc6caf54333b7fecc977",
+        "publishedAt": "2026-04-25T13:45:00Z",
+        "source": "Yahoo News Singapore"
       },
       {
-        "title": "Iran FM leaves Pakistan ahead of planned visit by US envoys",
-        "description": "Stay tuned to Khaleej Times for latest updates on the ceasefire, talks between warring parties, and other significant developments in the region.",
-        "url": "https://www.khaleejtimes.com/world/us-israel-iran-lebanon-war-ceasefire-day-18-live-updates",
-        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-25/rqztrar2/pak-pm-iran-fm.jpeg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,103,1079,719",
-        "publishedAt": "2026-04-25T12:46:09Z",
-        "source": "Khaleej Times"
+        "title": "'Please, have more kids' Vietnam to spend US$68mil a year paying women to have a second child",
+        "description": "Vietnam plans to spend more than VND1.8 trillion (US$68 million) a year on cash bonuses for women who have a second child, and reverse a major fertility decline.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/25/039please-have-more-kids039-vietnam-to-spend-us68mil-a-year-paying-women-to-have-a-second-child",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/25/3877885.jpg",
+        "publishedAt": "2026-04-25T13:43:00Z",
+        "source": "The Star"
       }
     ],
     "business": [
       {
-        "title": "How mid-priced retail products became status symbol for young shoppers",
-        "description": "A growing number of Gen Zers and millennial consumers with disposable income are shifting away from both luxury- and discount-priced retail items alike.",
-        "url": "https://www.cnbc.com/2026/04/25/how-mid-priced-retail-products-became-status-symbol-for-young-shoppers.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108297068-1777054452488-Mid-price_brands.png?v=1777060060&w=1920&h=1080",
-        "publishedAt": "2026-04-25T13:05:01Z",
-        "source": "CNBC"
-      },
-      {
-        "title": "Petrol Price Drops by N35 Per Litre as Filling Stations in Major Nigerian Cities Slash Costs",
-        "description": "Fuel prices in Nigeria fall to N1,295 per litre, a N35 reduction, reflecting strong competition among marketers amid global oil price volatility.",
-        "url": "https://www.legit.ng/business-economy/energy/1707166-petrol-price-drops-by-n35-litre-filling-stations-nigerian-city-slash-costs/",
-        "image": "https://cdn.legit.ng/images/1200x675/196761914986c3a3.jpeg?v=1",
-        "publishedAt": "2026-04-25T13:01:05Z",
-        "source": "Legit.ng"
-      },
-      {
-        "title": "Billionaire behind ‘American Factory’ firm warns of US exit amid trade friction with China",
-        "description": "Fuyao Glass, a major supplier to Ford, GM and BMW in the US, employs thousands across the states of Ohio, Illinois and South Carolina.",
-        "url": "https://www.scmp.com/economy/china-economy/article/3351347/billionaire-behind-american-factory-firm-warns-us-exit-amid-trade-friction-china",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/24/5579f7f5-b7d0-47c9-b01a-477f9c1a07b0_da5cc35d.jpg?itok=lv-G-Vb8&v=1777029985",
-        "publishedAt": "2026-04-25T13:00:09Z",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "36-year-old left the U.S. for China-now pays $1,000 rent and $100 for groceries for family of 4",
-        "description": "A decade ago, Bradley Krae left the United States to teach English in Shenzhen, China. He spends less money and says the has found his own version of the American Dream there.",
-        "url": "https://www.cnbc.com/2026/04/25/36-year-old-left-the-us-for-chinanow-pays-1000-rent-and-100-for-groceries-for-family-of-4.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108297150-1777061914824-11-jl.jpg?v=1777062824&w=1920&h=1080",
-        "publishedAt": "2026-04-25T13:00:01Z",
-        "source": "CNBC"
-      },
-      {
-        "title": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts",
-        "description": "There are lots of things that can move the stock market, from economic data, to Federal Reserve pronouncements, to corporate developments. But for the past 15 months, traders’ fortunes have been largely tethered to the whims of a single person: President Donald Trump.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/-he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMc7tbwcoPs8/v1/1200x800.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
+        "title": "US Wheat Crops Wither, Herds Thin as Spring Drought Deepens",
+        "description": "Farmers across the Great Plains are confronting an intense drought that threatens winter wheat harvests and is pushing cattle producers toward costly feed purchases, prompting some to abandon plans to expand their herds.The dryness is expected to persist through spring after weeks of scant rainfall and a late-winter heat spell that fueled massive pasture fires across the nation's breadbasket. Drought now covers nearly 90% of Nebraska and Oklahoma, with more than half of Nebraska in \"extreme\" dro",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-25/us-wheat-crops-wither-herds-thin-as-spring-drought-deepens",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4dJ49.etC9U/v0/1200x800.jpg",
+        "publishedAt": "2026-04-25T14:00:20Z",
         "source": "Bloomberg.com"
       },
       {
-        "title": "Major airline cancels 20,000 flights as Iran war jet fuel crisis escalates",
-        "description": "Lufthansa Group, the German airline giant, has announced 20,000 flight cancellations through fall amid the Iran war jet fuel crisis, as soaring fuel costs force airline routes to be cut across Europe and beyond.",
-        "url": "https://www.themirror.com/travel/lufthansa-airlines-cancels-20000-flights-1806762",
-        "image": "https://i2-prod.themirror.com/article1806761.ece/ALTERNATES/s1200d/0_Landing-in-sunset-hues-airplane-landing-at-sunrise.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
+        "title": "15 essential food items to stockpile as Iran war drives up prices and empties shelves",
+        "description": "A YouTuber shared 15 essential food items to keep in your emergency stash as the Iran conflict drives up food prices and raises concerns over empty shelves",
+        "url": "https://www.themirror.com/lifestyle/food-drink/food-items-stock-up-prices-1804976",
+        "image": "https://i2-prod.themirror.com/article1804975.ece/ALTERNATES/s1200d/0_Survival-set-of-nonperishable-foods-in-carton-box.jpg",
+        "publishedAt": "2026-04-25T14:00:00Z",
         "source": "The Mirror US"
       },
       {
-        "title": "Road Test: Aston Martin’s New Valhalla Supercar Caresses the Road With Athleticism and Power",
-        "description": "On country roads and a racetrack in northern Spain, we found the British marque's 1,064 hp model to be a powerful turning point.",
-        "url": "https://sg.news.yahoo.com/road-test-aston-martin-valhalla-130000572.html",
-        "image": "https://s.yimg.com/os/en/robb_report_967/e9162ca947861fc52ff32a172553b972",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Yahoo News Singapore"
+        "title": "Three Days Left Until Antero Midstream Corporation (NYSE:AM) Trades Ex-Dividend",
+        "description": "Antero Midstream Corporation ( NYSE:AM ) is about to trade ex-dividend in the next 3 days. The ex-dividend date is one...",
+        "url": "https://simplywall.st/stocks/us/energy/nyse-am/antero-midstream/news/three-days-left-until-antero-midstream-corporation-nyseam-tr",
+        "image": "https://images.simplywall.st/asset/industry/9551704-choice2-main-header/1585186816500",
+        "publishedAt": "2026-04-25T13:58:12Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Waterpik’s Cordless Advanced 2.0 Water Flosser is 32% Off",
-        "description": "Currently, Amazon is offering Waterpik’s Cordless Advanced 2.0 water flosser for 32 percent off. The device can make flossing much easier.",
-        "url": "https://www.nbcnews.com/select/shopping/deal-of-the-day-waterpik-water-flosser-rcna342019",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260424-dotd-waterpik-mm-main-82cf51.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "NBC News"
+        "title": "Assessing Innospec (IOSP) Valuation After Recent Mixed Share Performance And Margin Improvement Hopes",
+        "description": "Event context and recent share performance\nInnospec (IOSP) shares recently closed at US$77.15, with the stock showing a return of about 0.6% over the past day and 1.3% over the past week. This sets the context for its latest trading moves.\nSee our latest analysis for Innospec.\nRecent trading has been mixed, with a 6.6% 1 month share price return contrasting with a 4.6% 3 month share price decline and a 12.2% 1 year total shareholder return loss. This suggests momentum has cooled after a short...",
+        "url": "https://simplywall.st/stocks/us/materials/nasdaq-iosp/innospec/news/assessing-innospec-iosp-valuation-after-recent-mixed-share-p",
+        "image": "https://images.simplywall.st/asset/industry/2024000-choice1-main-header/1585186700183",
+        "publishedAt": "2026-04-25T13:58:01Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "A Look At Lucky Strike Entertainment (LUCK) Valuation After Rebrand And Share Price Pullback",
+        "description": "Recent share performance and business snapshot\nLucky Strike Entertainment (LUCK) has drawn attention after a recent pullback, with the share price closing at US$7.24 as investors reassess the business following its rebrand from Bowlero Corp.\nThe company runs a portfolio of bowling centers and entertainment venues across North America, including AMF, Bowl America, Lucky Strike, Bowlero, Octane Raceway, several water parks, and Boomers Parks. It has reported revenue of US$1,240.203 million and...",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nyse-luck/lucky-strike-entertainment/news/a-look-at-lucky-strike-entertainment-luck-valuation-after-re",
+        "image": "https://images.simplywall.st/asset/industry/4213000-choice1-main-header/1585186783164",
+        "publishedAt": "2026-04-25T13:57:56Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "A Look At Travere Therapeutics (TVTX) Valuation After FILSPARI’s Expanded FDA Approval In FSGS",
+        "description": "Travere Therapeutics (TVTX) just secured full FDA approval for FILSPARI in focal segmental glomerulosclerosis without nephrotic syndrome, extending its use beyond IgA nephropathy and reshaping how investors may think about the company’s rare kidney portfolio.\nSee our latest analysis for Travere Therapeutics.\nThe FDA decision arrives alongside a sharp 46.95% 1 month share price return and a 37.57% 3 month share price return, while the 1 year total shareholder return of 120.95% points to strong...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-tvtx/travere-therapeutics/news/a-look-at-travere-therapeutics-tvtx-valuation-after-filspari",
+        "image": "https://images.simplywall.st/asset/industry/6111000-choice1-main-header/1585186710114",
+        "publishedAt": "2026-04-25T13:57:54Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Super Group (SGHC) Is Up 11.0% After Strong 2025 Earnings And F1 Deal News Has The Bull Case Changed?",
+        "description": "Super Group (SGHC) Limited recently reported past full-year 2025 results, with sales rising to US$2.23 billion and net income reaching US$217 million, alongside higher basic and diluted earnings per share from continuing operations.\nAt the same time, Super Group’s new role as Formula 1’s first Official Betting Operator and upbeat analyst earnings expectations highlight how product innovation and external confidence are shaping its growth story.\nNext, we’ll examine how Super Group’s strong...",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nyse-sghc/super-group-sghc/news/super-group-sghc-is-up-110-after-strong-2025-earnings-and-f1",
+        "image": "https://images.simplywall.st/asset/industry/4211000-choice1-main-header/1585186648041",
+        "publishedAt": "2026-04-25T13:57:50Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "A Look At Arcutis Biotherapeutics (ARQT) Valuation After New Pediatric Guidelines For ZORYVE",
+        "description": "The American Academy of Dermatology’s new pediatric guidelines give a strong, evidence-backed endorsement to Arcutis Biotherapeutics (ARQT) lead product ZORYVE for children with mild to moderate atopic dermatitis, highlighting efficacy, safety, and long-term use.\nSee our latest analysis for Arcutis Biotherapeutics.\nAt a share price of $23.26, Arcutis has a 1 day share price return of 1.75%, while the year to date share price return of 19.79% decline contrasts with a 1 year total shareholder...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-arqt/arcutis-biotherapeutics/news/a-look-at-arcutis-biotherapeutics-arqt-valuation-after-new-p",
+        "image": "https://images.simplywall.st/asset/industry/6111000-choice1-main-header/1585186710114",
+        "publishedAt": "2026-04-25T13:57:11Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Satellite snaps amazing 36th birthday pic of Hubble Space Telescope (photo)",
+        "description": "The private WorldView Legion 4 Earth-observing satellite snapped an amazing photo of the Hubble Space Telescope on April 23, 2026, a day before the obsevatory's 36th birthday.",
+        "url": "https://www.space.com/astronomy/hubble-space-telescope/satellite-snaps-amazing-36th-birthday-pic-of-hubble-space-telescope-photo",
+        "image": "https://cdn.mos.cms.futurecdn.net/ckyVb2x8cJgGr35yq9MPgM-1914-80.jpg",
+        "publishedAt": "2026-04-25T14:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "1,000km Off The Coast Of Portugal Lies A 500km Deep Trough Complex, And Finally We Know How This Unusual Structure Was Formed",
+        "description": "The Earth’s geophysics has pieced together the world we see today.",
+        "url": "https://twistedsifter.com/2026/04/1000km-off-the-coast-of-portugal-lies-a-500km-deep-trough-complex-and-finally-we-know-how-this-unusual-structure-was-formed/",
+        "image": "https://twistedsifter.com/wp-content/uploads/2025/05/Ocean.jpg",
+        "publishedAt": "2026-04-25T13:52:30Z",
+        "source": "TwistedSifter"
+      },
+      {
+        "title": "Colossal Octopus Fossils Suggest a 60-Foot \"Kraken\" Once Ruled the Oceans",
+        "description": "Giant 19-meter-long kraken-like octopuses may have been the apex predators in the Late Cretaceous-era oceans, according to new research.",
+        "url": "https://thedebrief.org/colossal-octopus-fossils-suggest-a-60-foot-kraken-once-ruled-the-oceans/",
+        "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/04/Kraken-1-scaled.jpg",
+        "publishedAt": "2026-04-25T13:52:09Z",
+        "source": "The Debrief"
+      },
+      {
+        "title": "Scientists Decode 'Eyespots': Why Some Rays Have Fake Eyes While Others Stay Hidden",
+        "description": "The study suggests that eyespots in skates and rays evolved as anti-predator defences, appearing mainly in shallow-water species lacking strong physical weapons.",
+        "url": "https://www.etvbharat.com/en/technology/scientists-decode-eyespots-why-some-rays-have-fake-eyes-while-others-stay-hidden-enn26042505200",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/25-04-2026/1200-675-26556366-thumbnail-16x9-ishfgf.jpg",
+        "publishedAt": "2026-04-25T13:35:07Z",
+        "source": "ETV Bharat"
+      },
+      {
+        "title": "NASA Scientists Suggest A Mysterious “Fifth Force” Could Be Lurking In Our Solar System",
+        "description": "A new study reveals a subtle but powerful phenomenon that could reshape our understanding of the universe’s fundamental structure.",
+        "url": "https://dailygalaxy.com/2026/04/nasa-suggest-fifth-force-in-solar-system/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/NASA-Scientists-Suggest-A-Mysterious-Fifth-Force-Could-Be-Lurking-In-Our-Solar-System-scaled.png",
+        "publishedAt": "2026-04-25T13:15:00Z",
+        "source": "The Daily Galaxy"
+      },
+      {
+        "title": "Scientists Discover ‘Molecular Cork’ Controlling Cell Growth",
+        "description": "Scientists discover a molecular “cork” controlling TORC2, a key cell growth system, opening new possibilities for treating cancer and diabetes.",
+        "url": "https://www.techexplorist.com/mechanism-regulates-central-system-cellular-balance/102795/",
+        "image": "https://www.techexplorist.com/wp-content/uploads/2026/04/TORC2.webp",
+        "publishedAt": "2026-04-25T13:13:42Z",
+        "source": "Tech Explorist"
+      },
       {
         "title": "Scientists Warn Watt - Jarrah Forests Cannot Recover From Bauxite Mining",
         "description": "UWA scientists warn Federal Environment Minister Murray Watt that WA's jarrah forests cannot recover from Alcoa's bauxite mining as the lease nears 2045.",
@@ -150,119 +198,71 @@
         "image": "https://www.sciencedaily.com/images/1920/ancient-giant-octopus.webp",
         "publishedAt": "2026-04-25T13:01:45Z",
         "source": "Science Daily"
-      },
-      {
-        "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-        "description": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden inside rock, scientists revealed that early octopuses from the age of dinosaurs weren’t shy, soft-bodied drifters—they were massive apex predators, possibly stretching up to 20 meters long and crushing prey with powerful bites.",
-        "url": "http://www.sciencedaily.com/releases/2026/04/260424233206.htm",
-        "image": "https://www.sciencedaily.com/images/1920/ancient-giant-octopus.webp",
-        "publishedAt": "2026-04-25T13:01:45Z",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Observing a master class in peace building from beyond the moon",
-        "description": "We don’t have to go to space to see the world change through peacemaking, observes Church News reporter Aimee Cobabe.",
-        "url": "https://www.thechurchnews.com/living-faith/2026/04/25/aimee-cobabe-observing-artemis-crew-peacemaking-president-dallin-oaks/",
-        "image": "https://www.thechurchnews.com/resizer/v2/AC7Z6IYITBGFXPHFEURBEH4O54.jpg?focal=0%2C0&auth=efdcf7c2bc7204e17559c553898c23004f79a54ee2f62a7d87a9a7a9c8c72ff5&width=630&height=331",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Church News"
-      },
-      {
-        "title": "From Apollo to alien worlds: 4 'firsts' you can spot in the night sky tonight",
-        "description": "From the first photographer star to the discovery of alien worlds, these night sky targets mark some of astronomy's greatest firsts.",
-        "url": "https://www.yahoo.com/lifestyle/articles/apollo-alien-worlds-4-firsts-130000192.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/_05dWT6rB44N3ONmqws9ug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/space_311/d2632133fc00c762813121beac8ec975",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "What Happens When a Black Hole and a Giant Star Collide? The Answer Is Terrifying",
-        "description": "Scientists have finally measured the raw power of a black hole's jets, and the number is almost impossible to comprehend.",
-        "url": "https://indiandefencereview.com/black-hole-and-a-giant-star-collide-answer/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/what-happens-when-a-black-hole-and-a-giant-star-collide-the-answer-is-terrifying-scaled.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "From Apollo to alien worlds: 4 'firsts' you can spot in the night sky tonight",
-        "description": "Find four scientific 'firsts' in the spring sky, from Apollo 11's landing site to the first exoplanet and Galileo's moons.",
-        "url": "https://www.space.com/stargazing/from-apollo-to-alien-worlds-4-firsts-you-can-spot-in-the-night-sky-tonight",
-        "image": "https://cdn.mos.cms.futurecdn.net/UfszopeGUSgLCc4SFdntuH-1920-80.jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Space"
-      },
-      {
-        "title": "China's scientists could resurrect NASA's 'SpiderFab' concept robot",
-        "description": "China revives NASA’s “space spider” vision, testing technology to build giant structures directly in orbit.",
-        "url": "https://interestingengineering.com/ai-robotics/china-revives-nasas-orbital-construction-robot",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/NASA-spider-robot_09315c.jpg",
-        "publishedAt": "2026-04-25T12:43:00Z",
-        "source": "Interesting Engineering"
       }
     ],
     "ai": [
       {
-        "title": "No, Colleen Hoover didn't email you. AI scams plague authors.",
-        "description": "Scammers are impersonating famous authors, publishers and even USA TODAY. Here's how to stay safe amid a new wave of AI-driven scams.",
-        "url": "https://www.usatoday.com/story/entertainment/books/2026/04/25/author-scams-books-publishing-ai/89722132007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/23/USAT/89757797007-getty-images-499692022.jpg?crop=4864,2737,x0,y381&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-04-25T13:01:55Z",
-        "source": "USA TODAY"
+        "title": "As India welcomes AI investments, it must first reckon with unequal access to water",
+        "description": "The country is simultaneously one of the world’s most ambitious technology adopters and one of its most unequal societies.",
+        "url": "https://scroll.in/article/1092244/as-india-welcomes-ai-investments-it-must-first-reckon-with-unequal-access-to-water",
+        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/213093-kuflylxddv-1776950245.jpg",
+        "publishedAt": "2026-04-25T14:00:00Z",
+        "source": "Scroll.in"
       },
       {
-        "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
-        "description": "Pollak, who will be speaking at Consensus Miami 2026 next month, also sees the open-source protocol x402 as a key part of that wave.",
-        "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac85e5d9c09d2d2891e91e4bff21c568b741187b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "CoinDesk"
+        "title": "Elon Musk's company wants acclaimed novelists, poets to train its AI",
+        "description": "A new xAI job listing seeks decorated writers to refine the company's AI model, Grok, including New York Times writers, Emmy nominees and Guggenheim fellows.",
+        "url": "https://www.sfgate.com/tech/article/musk-job-listing-novelists-22224801.php",
+        "image": "https://s.hdnux.com/photos/01/66/04/74/30953230/5/rawImage.jpg",
+        "publishedAt": "2026-04-25T14:00:00Z",
+        "source": "SFGATE"
       },
       {
-        "title": "ServiceNow Stock: Post-Earnings Meltdown Is Well Overdone (NYSE:NOW)",
-        "description": "ServiceNow (NOW) is down 40% YTD, yet fundamentals stay strong: 20% EPS growth outlook, 97% renewals, and AI upside. Read here for more details.",
-        "url": "https://seekingalpha.com/article/4894295-servicenow-post-earnings-meltdown-well-overdone",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2198127643/image_2198127643.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Seeking Alpha"
+        "title": "The Bottlenecks Slowing Down AI Performance",
+        "description": "AI’s cavalcade of constraints. Uncovering a lost sacred manuscript. Why it’s okay to drink a little coffee before bed. All that and more in this week’s edition of The Prototype.",
+        "url": "https://www.forbes.com/sites/the-prototype/2026/04/25/the-bottlenecks-slowing-down-ai-performance/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69ebf406fb7e7f048bf1a251/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-25T14:00:00Z",
+        "source": "Forbes"
       },
       {
-        "title": "Why I’m Still Very Bullish Into AMD Stock's Earnings (NASDAQ:AMD)",
-        "description": "AMD holds ~41% server CPU share and generated $5.4B in Q4 data center revenue. CPU demand outpaces supply as AI shifts CPU-to-GPU ratios. See more here.",
-        "url": "https://seekingalpha.com/article/4894297-why-i-am-still-very-bullish-into-amd-earnings",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1450615744/image_1450615744.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Seeking Alpha"
+        "title": "AI Is Becoming The Gateway To Global Markets For Indian SMBs",
+        "description": "Pankaj Srivastava, Founder and CEO of UnoSearch, shares his perspective on how AI is fundamentally reshaping how businesses—especially small and medium enterprises (SMBs)—access global markets.",
+        "url": "https://www.republicworld.com/initiatives/ai-is-becoming-the-gateway-to-global-markets-for-indian-smbs",
+        "image": "https://img.republicworld.com/all_images/2026/04/ai-is-becoming-the-gateway-to-global-markets-for-indian-smbs-1777125446976-1280x720.webp",
+        "publishedAt": "2026-04-25T13:57:41Z",
+        "source": "Republic World"
       },
       {
-        "title": "Trump’s Truth Social circus distracts from America’s real triumph | PennLive letters",
-        "description": "While blasphemous AI images dominate presidential attention, the historic Artemis moon mission goes uncelebrated by the leader who should be championing it.",
-        "url": "https://www.pennlive.com/opinion/2026/04/trumps-truth-social-circus-distracts-from-americas-real-triumph-pennlive-letters.html",
-        "image": "https://www.pennlive.com/resizer/v2/6ZOKUM52WFD6PA4ZTQ5X6M4SGM.jpg?auth=679a8a68730a0ba7c69fd0190bb0d978696b813e8f46e7ad4670fb7042ae3528&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-04-25T13:00:00Z",
-        "source": "Mechanicsburg Patriot News "
+        "title": "Anthropic's Mythos AI is flooding companies with security patches",
+        "description": "A single AI model has sent shockwaves through the cybersecurity industry not by being hacked, but by being too good at finding vulnerabilities.\nAnthropic's Mythos, released earlier this month...",
+        "url": "https://www.thenews.com.pk/latest/1400340-anthropics-mythos-ai-is-flooding-companies-with-security-patches",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-25/1400340_070759_updates.jpg",
+        "publishedAt": "2026-04-25T13:52:11Z",
+        "source": "The News International"
       },
       {
-        "title": "OpenAI chief apologises for not reporting shooting suspect to police",
-        "description": "In a letter dated April 23, Altman said he was 'deeply sorry' that law enforcement was not alerted to Van Rootselaar's ChatGPT account.",
-        "url": "https://www.tribuneindia.com/news/world/openai-chief-apologises-for-not-reporting-shooting-suspect-to-police/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxMzQ3NTgwLTQwYTYtMTFmMS05Yjg1LWU5NDFlYmJlZTdkNy5qcGc=",
-        "publishedAt": "2026-04-25T12:55:10Z",
-        "source": "The Tribune"
+        "title": "Tied Minnesota House passes bipartisan bills on guns, fake cops, AI ‘nudification’",
+        "description": "One of the bills featured a rare partnership between Republicans and Democrats on a gun-related bill.",
+        "url": "https://www.twincities.com/2026/04/25/tied-minnesota-house-passes-bipartisan-bills-on-guns-fake-cops-ai-nudification/",
+        "image": "https://www.twincities.com/wp-content/uploads/2025/02/STP-L-jea-04-HOUSE-0206.jpg?w=1024&h=683",
+        "publishedAt": "2026-04-25T13:51:26Z",
+        "source": "St. Paul Pioneer Press"
       },
       {
-        "title": "'Photos from Pinterest': Atishi counters BJP’s ‘Sheesh Mahal 2’ charge at Arvind Kejriwal, says ‘could've used AI’",
-        "description": "Atishi said that the images of a luxury home that were shown at the BJP press conference as Arvind Kejriwal's home were taken straight out of Pinterest. She also took a jibe at the saffron party, saying they could have just used AI.",
-        "url": "https://www.livemint.com/politics/news/photos-from-pinterest-atishi-counters-bjp-s-sheesh-mahal-2-charge-at-arvind-kejriwal-says-couldve-used-ai-11777118112062.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/25/1600x900/logo/ANI-20260425040-0_1777121348709_1777121367493.jpg",
-        "publishedAt": "2026-04-25T12:52:52Z",
-        "source": "Livemint"
+        "title": "1 Canadian Stock Supercharged to Surge in 2026",
+        "description": "VitalHub crossed $100 million in revenue in 2025 and is building AI tools customers are already paying for. Here is why this Canadian stock looks set to surge.",
+        "url": "https://www.fool.ca/2026/04/25/1-canadian-stock-supercharged-to-surge-in-2026/",
+        "image": "https://www.fool.ca/wp-content/uploads/2024/08/gettyimages-1271085883-1200x849.jpg",
+        "publishedAt": "2026-04-25T13:45:00Z",
+        "source": "The Motley Fool Canada"
       },
       {
-        "title": "Posting AI fake GTA 6 images just got fan into legal trouble",
-        "description": "A GTA 6 fan account has been forced into a public apology after receiving a cease and desist letter from Take-Two Interactive for posting AI-generated images that used Rockstar Games' copyrighted...",
-        "url": "https://www.thenews.com.pk/latest/1400333-posting-ai-fake-gta-6-images-just-got-fan-into-legal-trouble",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-25/1400333_055016_updates.jpg",
-        "publishedAt": "2026-04-25T12:45:36Z",
+        "title": "Musk drops fraud claims against OpenAI before April trial",
+        "description": "Elon Musk has quietly shed the fraud charges at the centre of his lawsuit against OpenAI, but the trial, now days away, is very much alive. A US federal judge in Oakland dismissed Musk's fraud and...",
+        "url": "https://www.thenews.com.pk/latest/1400339-musk-drops-fraud-claims-against-openai-before-april-trial",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-25/1400339_064412_updates.jpg",
+        "publishedAt": "2026-04-25T13:38:51Z",
         "source": "The News International"
       }
     ]
