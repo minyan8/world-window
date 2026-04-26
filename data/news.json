@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-26T21:30:36.147Z",
+  "fetchedAt": "2026-04-26T22:30:08.834Z",
   "sections": {
     "world": [
       {
-        "title": "Proton therapy expansion to put India high on global cancer care map",
-        "description": "Rising capacity, cost advantage, and new centres position India as a key destination for advanced cancer care, though access gaps and affordability remain challenges",
-        "url": "https://www.business-standard.com/health/india-proton-therapy-cancer-care-global-hub-apollo-tata-126042600363_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/26/thumb/featurecrop/1200X628/1777195596-4267.jpg",
-        "publishedAt": "2026-04-26T09:30:36Z",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Trump evacuated from White House dinner after gunshots fired",
-        "description": "United States President Donald Trump was evacuated from the White House correspondents’ dinner in Washington, DC, after shots were fired outside the event.",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Trump-evacuated-from-White-House-dinner-after-gunshots-fired-2031626",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/117/11787015.jpg",
-        "publishedAt": "2026-04-26T09:28:11Z",
-        "source": "GhanaWeb"
-      },
-      {
-        "title": "Fresh Fighting Erupts In Mali’s Kidal As Rebels, Army Clash",
-        "description": "Fresh Fighting Erupts In Mali’s Kidal As Rebels, Army Clash",
-        "url": "https://www.channelstv.com/2026/04/26/fresh-fighting-erupts-in-malis-kidal-as-rebels-army-clash/",
-        "image": "https://www.channelstv.com/wp-content/uploads/2026/04/Mali-2.jpg",
-        "publishedAt": "2026-04-26T09:27:33Z",
-        "source": "Channels Television"
-      },
-      {
-        "title": "Police in Northern Ireland declare security alert after reports of a car bomb explosion",
-        "description": "Police in Northern Ireland have declared a security alert in the town of Dunmurry, on the outskirts of Belfast, after reports that a car bomb exploded near a police station.",
-        "url": "https://apnews.com/article/northern-ireland-security-alert-bomb-5518cc576e8ce9cdd2fc8264ff7a5375",
-        "image": "https://dims.apnews.com/dims4/default/c0ae699/2147483647/strip/true/crop/4073x2714+22+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F50%2Fc10c0706c247723cd1eb807b81ba%2Fb540d7971a7d4110afbd01ea593d9dfa",
-        "publishedAt": "2026-04-26T09:26:00Z",
-        "source": "AP News"
-      },
-      {
-        "title": "White House correspondents' dinner shooting suspect was a part-time teacher, game developer",
-        "description": "The chief of the ​District of Columbia police department said investigators believe the suspect was a guest at the Washington Hilton hotel, where the annual dinner was ​taking place, but that no motive had been determined.",
-        "url": "https://www.cbc.ca/news/world/white-house-correspondents-dinner-suspect-9.7177665",
-        "image": "https://i.cbc.ca/ais/084382be-ef8e-4812-bd5d-3e0a356df33c,1777195162264/full/max/0/default.jpg?im=Crop%2Crect%3D%288%2C0%2C2144%2C1206%29%3BResize%3D620",
-        "publishedAt": "2026-04-26T09:23:59Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
-        "description": "About 600,000 soldiers, firefighters, engineers, miners and medics cleaned up after the nuclear plant explosion.",
-        "url": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26113371686055-1777188443.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-26T09:20:43Z",
+        "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+        "description": "Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
+        "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69eddb722113-1777195890.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-26T10:26:21Z",
         "source": "Al Jazeera"
       },
       {
-        "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
-        "description": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.",
-        "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-        "image": "https://static01.nyt.com/images/2026/04/26/multimedia/26int-israel-pardon-wfjv/26int-israel-pardon-wfjv-facebookJumbo.jpg",
-        "publishedAt": "2026-04-26T09:20:11Z",
-        "source": "The New York Times"
+        "title": "Experts push for cross-border trading of t-bills, bonds",
+        "description": "Experts push for capital mobility and review rules to let investors buy regional T-bills and bonds without red tape",
+        "url": "https://www.monitor.co.ug/uganda/news/national/experts-push-for-cross-border-trading-of-t-bills-bonds-5436800",
+        "image": "https://www.monitor.co.ug/resource/blob/5028904/8cb7e4eac4dbb4b83d727b588441f8c8/prosp003pixxx-data.gif",
+        "publishedAt": "2026-04-26T10:25:19Z",
+        "source": "Daily Monitor"
       },
       {
-        "title": "Selangor exco slams viral image linking pig in royal attire to Sultan, urges police to act",
-        "description": "KUALA LUMPUR, April 26 — Selangor executive councillor Ng Sze Han today condemned a social media post showing an image of a pig dressed in royal ceremonial attire and linked it...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/04/26/selangor-exco-slams-viral-image-linking-pig-in-royal-attire-to-sultan-urges-police-to-act/217773",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/26/337748.jpeg",
-        "publishedAt": "2026-04-26T09:20:07Z",
-        "source": "Malay Mail"
+        "title": "Lack of Funds Forces Somalia to Favour Basic Education Over Universities",
+        "description": "Government to continue prioritizing basic education over higher learning",
+        "url": "https://www.dawan.africa/news/lack-of-funds-forces-somalia-to-favour-basic-education-over-universities",
+        "image": "https://utfs.io/f/v9D9ylrdiyZg0tnwn4vuZbUWYiNGj1Vq8Q7MRE2DIyvFhJdz",
+        "publishedAt": "2026-04-26T10:21:47Z",
+        "source": "Dawan Africa"
+      },
+      {
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-04-26T10:20:34Z",
+        "source": "The Australian"
+      },
+      {
+        "title": "Taoiseach condemns 'shocking' attempt on Trump's life",
+        "description": "Taoiseach Micheál Martin has condemned what he described as the \"shocking\" assassination attempt on US President Donald Trump last night.",
+        "url": "https://www.rte.ie/news/2026/0426/1570268-trump-washington-dc-shooting-reaction/",
+        "image": "https://www.rte.ie/images/00241435-1600.jpg",
+        "publishedAt": "2026-04-26T10:16:35Z",
+        "source": "rte.ie"
+      },
+      {
+        "title": "loved' Irishman seriously injured in motorcycle accident in Bali",
+        "description": "The 29-year-old suffered severe damage to his skull and facial trauma in the horror crash which required urgent reconstructive surgery and skin grafts",
+        "url": "https://www.irishmirror.ie/news/irish-news/over-46k-raised-much-loved-37059404",
+        "image": "https://i2-prod.irishmirror.ie/article37059383.ece/ALTERNATES/s1200d/102636358_1776716878415006_r.jpg",
+        "publishedAt": "2026-04-26T10:16:03Z",
+        "source": "Irish Mirror"
+      },
+      {
+        "title": "Péter Magyar Claims Orbán-Linked Oligarchs Are Fleeing Hungary with Billions",
+        "description": "Hungary’s incoming Prime Minister Péter Magyar urged law enforcement to freeze assets and prevent the departure of influential families as the 16-year Fidesz era draws to a close.",
+        "url": "https://www.kyivpost.com/post/74786",
+        "image": "https://static.kyivpost.com/storage/2026/04/14/06a5d689058f9ce825f2c52090af4bef.jpg?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-04-26T10:14:28Z",
+        "source": "Kyiv Post"
+      },
+      {
+        "title": "Chernobyl refugee town welcomes Ukraine's conflict displaced",
+        "description": "Slavutych was built as a Soviet paradise for refugees from the Chernobyl nuclear disaster but now it is being born again as a haven for people escaping Russia's invasion of Ukraine.According to the UN...",
+        "url": "https://www.yahoo.com/news/articles/chernobyl-refugee-town-welcomes-ukraines-091353749.html",
+        "image": "https://s.yimg.com/os/en/afp.com/2c9eed635c57cb865b827ada33b9ea59",
+        "publishedAt": "2026-04-26T10:14:01Z",
+        "source": "Yahoo"
       }
     ],
     "business": [
       {
-        "title": "Is $69 for a week of groceries realistic? The Banner goes shopping.",
-        "description": "Banner reporters went grocery shopping to see whether they could adhere to the U.S. government’s guidance on food spending.",
-        "url": "https://www.thebanner.com/economy/grocery-cost-affordability-inflation-shopping-5W6LNHW2P5HBFNIPU2MGFNPCDU/",
-        "image": "https://www.thebanner.com/resizer/v2/VYWX7QZ5LVEIRCB5TAYYWP22VQ.jpg?auth=2fdd44e5f32dff8906b1deb0609cde0e1eeb0af1217c246e47474f2736797c47&width=1280&height=720&focal=1260,647&quality=85",
-        "publishedAt": "2026-04-26T09:30:00Z",
-        "source": "thebanner.com"
+        "title": "Stocks to Watch for April 27: RIL, Axis Bank, IndusInd Bank, RBL Bank, Paytm, M&M Fin and more",
+        "description": "From RIL, Axis Bank, IndusInd Bank and other lenders reacting to their quarterly results, to news developments surrounding Paytm, here are the important stocks that should be on your radar going into Monday's trading session on April 27.",
+        "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-april-27-ril-axis-indusind-rbl-bank-lt-mahindra-fin-paytm-share-price-ws-el-19893144.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/04/image-2026-04-ca2c871ea61ec08a92f54138b3066a12.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-04-26T10:28:55Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "5 Premium SUVs Worth Waiting For!",
-        "description": "Here are 5 upcoming MG SUVs to look out for. Pricing, launch, powertrain and other key details that you should know.",
-        "url": "https://motoroctane.com/news/311844-5-premium-suvs-worth-waiting-for",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/04/THESE-ARE-EXCITING-3.jpg",
-        "publishedAt": "2026-04-26T09:30:00Z",
-        "source": "MotorOctane"
+        "title": "China Formalizes Labor Rules for Gig Workers on Online Platforms",
+        "description": "China formalized its first comprehensive policy framework for “new employment groups,” including delivery riders and livestreamers, signaling a shift from ad-hoc regulation to normalization of the platform economy.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-26/china-formalizes-labor-rules-for-gig-workers-on-online-platforms",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1m9lIu9m_xo/v1/1200x800.jpg",
+        "publishedAt": "2026-04-26T10:27:03Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "OpenClaw adds DeepSeek V4 models as tech world assesses Huawei tie-up",
-        "description": "The popular AI agent adopts the Chinese firm’s V4 Flash and its flagship V4 Pro models and also integrates other capabilities.",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3351471/openclaw-adds-deepseek-v4-models-tech-world-assesses-huawei-tie",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/26/579cc518-9613-4c3e-9c51-e3acaadb03b7_4dc1081d.jpg?itok=Nvly0ZZw&v=1777193354",
-        "publishedAt": "2026-04-26T09:24:39Z",
-        "source": "South China Morning Post"
+        "title": "Peza pivots to high-tech shift, boosts AI training",
+        "description": "THE Philippine Economic Zone Authority (Peza) is accelerating its pivot toward high-tech, export-driven industries while scaling up artificial",
+        "url": "https://www.sunstar.com.ph/cebu/peza-pivots-to-high-tech-shift-boosts-ai-training",
+        "image": "https://media.assettype.com/sunstar%2F2024-05%2F39de4c56-e3f7-4b8c-b20b-483605740cde%2FSunStar%20Business.jpg?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-26T10:26:57Z",
+        "source": "SunStar Publishing Inc."
       },
       {
-        "title": "Assessing ASML Holding (NasdaqGS:ASML) Valuation After Strong Recent Share Price Momentum",
-        "description": "Why ASML Holding (NasdaqGS:ASML) Is Back on Investor Radars\nASML Holding (NasdaqGS:ASML) has drawn attention after recent share price moves, with the stock showing mixed short term returns and a stronger month. This has prompted investors to reassess how current valuations line up with its fundamentals.\nSee our latest analysis for ASML Holding.\nAt a share price of $1,457.70, ASML’s recent 1 day share price return of 2.81% sits against a 30 day share price return of 11.92% and a 1 year total...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-asml/asml-holding/news/assessing-asml-holding-nasdaqgsasml-valuation-after-strong-r-1",
-        "image": "https://images.simplywall.st/asset/industry/8211000-choice1-main-header/1585186899663",
-        "publishedAt": "2026-04-26T09:15:37Z",
-        "source": "simplywall.st"
+        "title": "UTG With UTF: The Ultimate 50/50 Synergy For The AI Era",
+        "description": "Both UTG and UTF have significantly outperformed the S&P 500, delivering robust double-digit returns. Read more on UTG and UTF CEFs here.",
+        "url": "https://seekingalpha.com/article/4894408-utg-with-utf-ultimate-50-50-synergy-for-ai-era",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217241397/image_2217241397.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-26T10:23:20Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "A Look At CCC Intelligent Solutions (CCC) Valuation After New Sunbit Financing Integration In CCC ONE",
-        "description": "CCC Intelligent Solutions Holdings (CCC) is back in focus after its CCC ONE platform added embedded consumer financing through a new integration with Sunbit, giving collision repair shops more flexible payment options for customers.\nSee our latest analysis for CCC Intelligent Solutions Holdings.\nThe new Sunbit integration comes as CCC’s 1-day share price return of 3.97% contrasts with weaker momentum, including a 30-day share price return of 14.29% and a 1-year total shareholder return of...",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-ccc/ccc-intelligent-solutions-holdings/news/a-look-at-ccc-intelligent-solutions-ccc-valuation-after-new-1",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
-        "publishedAt": "2026-04-26T09:15:36Z",
-        "source": "simplywall.st"
+        "title": "Why should investors approach a 'buy on dips' strategy amid earnings season? Explained",
+        "description": "Earnings performance in the IT and banking sectors has been mixed. The IT sector has faced headwinds, with the index declining amid cautious management commentary and conservative FY27 guidance.",
+        "url": "https://www.livemint.com/market/stock-market-news/why-should-investors-approach-a-buy-on-dips-strategy-amid-earnings-season-explained-11777198679431.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/26/1600x900/stock_1777198921342_1777198921529.jpg",
+        "publishedAt": "2026-04-26T10:22:57Z",
+        "source": "Mint"
       },
       {
-        "title": "Expected Comp Sales Decline Might Change The Case For Investing In Sprouts Farmers Market (SFM)",
-        "description": "Earlier expectations for Sprouts Farmers Market’s upcoming quarterly report pointed to earnings of US$1.67 per share, a 7.7% decline from a year ago, on revenues of US$2.33 billion, up 4%, with comparable store sales growth projected to slow to a 2.3% decline versus 11.7% growth in the same quarter last year.\nThis shift from strong recent comp gains to an anticipated comp decline raises questions about how durable Sprouts’ sales momentum and customer traffic patterns may be.\nWith analysts...",
-        "url": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-sfm/sprouts-farmers-market/news/expected-comp-sales-decline-might-change-the-case-for-invest",
-        "image": "https://images.simplywall.st/asset/industry/5023000-choice1-main-header/1585186815097",
-        "publishedAt": "2026-04-26T09:15:36Z",
-        "source": "simplywall.st"
+        "title": "JETOUR Advances \"Travel⁺\" Strategy: Dual Brands Showcase at Auto China 2026",
+        "description": "BEIJING, April 26, 2026 (GLOBE NEWSWIRE) -- JETOUR International officially unveiled its 'Travel⁺' strategy at the 2026 Beijing International Automotive Exhibition (Auto China 2026). JETOUR and SOUEAST made their first joint appearance and showcased a full-scenario product matrix and hardcore hybrid off-road technologies, comprehensively presenting their achievements in global operations . Over 1200 global dealers, media and KOLs attended the 'Travel+” strategy launch event.",
+        "url": "https://www.manilatimes.net/2026/04/26/tmt-newswire/globenewswire/jetour-advances-travel-strategy-dual-brands-showcase-at-auto-china-2026/2328755",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/26/1029686.png",
+        "publishedAt": "2026-04-26T10:22:25Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Assessing Oruka Therapeutics (ORKA) Valuation After A Sharp Multi Month Share Price Rally",
-        "description": "What Is Moving Oruka Therapeutics Stock Right Now\nOruka Therapeutics (ORKA) has caught investor attention after a very strong recent run, with the share price up about 55% over the past month and roughly doubling over the past 3 months.\nSee our latest analysis for Oruka Therapeutics.\nThe recent move builds on strong momentum, with a 55.2% 1 month share price return, a 102.3% 3 month share price return and a roughly 7x 1 year total shareholder return. This suggests investors are reassessing...",
-        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-orka/oruka-therapeutics/news/assessing-oruka-therapeutics-orka-valuation-after-a-sharp-mu",
-        "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
-        "publishedAt": "2026-04-26T09:15:36Z",
-        "source": "simplywall.st"
+        "title": "Liver Building birthday party was 'so bad' it ended up in court",
+        "description": "\"Oh my God, what is going on? This is a total flop,\" Brad Richardson thought to himself at his £8,000 party",
+        "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liver-building-birthday-party-so-33831301",
+        "image": "https://i2-prod.liverpoolecho.co.uk/article33831512.ece/ALTERNATES/s1200d/0_Christina-Hughes-60th-birthday-party-at-the-Liver-Suite-Royal-Liver-Building.jpg",
+        "publishedAt": "2026-04-26T10:19:00Z",
+        "source": "Liverpool Echo"
       },
       {
-        "title": "AI-driven anti-China propaganda a sign of Japan's national decay",
-        "description": "A country that lives on \"spiritual manipulation\" is bound to lose in the real world.",
-        "url": "https://news.cgtn.com/news/2026-04-26/AI-driven-anti-China-propaganda-a-sign-of-Japan-s-national-decay-1MEQHBWKkM0/p.html",
-        "image": "https://news.cgtn.com/news/2026-04-26/AI-driven-anti-China-propaganda-a-sign-of-Japan-s-national-decay-1MEQHBWKkM0/img/0f0c3d8d419e46359a62c9f81e999e14/0f0c3d8d419e46359a62c9f81e999e14-750.png",
-        "publishedAt": "2026-04-26T09:14:47Z",
-        "source": "news.cgtn.com"
+        "title": "Asda petrol station cordoned off due to police incident in Northumberland",
+        "description": "Asda Express in Prudhoe was taped off by police following an incident which left members of staff 'shaken'",
+        "url": "https://www.chroniclelive.co.uk/news/north-east-news/asda-petrol-station-cordoned-due-33839653",
+        "image": "https://i2-prod.chroniclelive.co.uk/article33839584.ece/ALTERNATES/s1200d/1_WhatsApp-Image-2026-04-26-at-093352.jpg",
+        "publishedAt": "2026-04-26T10:19:00Z",
+        "source": "Chronicle Live"
       }
     ],
     "science": [
+      {
+        "title": "DNA traces show the North Sea once held sprawling woodlands",
+        "description": "Genetic material from oak, elm, hazel, and lime shows that woodlands established themselves thousands of years ahead of previous estimates.",
+        "url": "https://www.jpost.com/science/article-894168",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/676998",
+        "publishedAt": "2026-04-26T10:19:54Z",
+        "source": "The Jerusalem Post"
+      },
+      {
+        "title": "Largest 3D Map of the Universe Is Adding Serious Fuel to the Cosmology Crisis",
+        "description": "The conclusion of DESI's first survey marks an important milestone for cosmology, which finds itself in a bind for the best reasons.",
+        "url": "https://gizmodo.com/largest-3d-map-of-the-universe-is-adding-serious-fuel-to-the-cosmology-crisis-2000750262",
+        "image": "https://gizmodo.com/app/uploads/2026/04/DESI-Map-3D-Universe-Complete-1200x675.jpg",
+        "publishedAt": "2026-04-26T10:00:38Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "Hubble revisits stunning Trifid Nebula after 30 years, and spots a growing jet of energy - Space photo of the week",
+        "description": "The Hubble Space Telescope revisits a star-forming region 5,000 light-years from Earth, which it first captured in 1997, revealing how the cosmic nursery has changed over human timescales.",
+        "url": "https://www.livescience.com/space/astronomy/hubble-revisits-stunning-trifid-nebula-after-30-years-and-spots-a-growing-jet-of-energy-space-photo-of-the-week",
+        "image": "https://cdn.mos.cms.futurecdn.net/FwGT6FnxvBU8UVwqyWdXDQ-1920-80.jpg",
+        "publishedAt": "2026-04-26T10:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "15 expert-checked places to see the 2026 total solar eclipse in Spain, Iceland and Greenland",
+        "description": "From Arctic fjords and volcanic craters to medieval castles and coastal cliffs, here's where to get a clear line of sight to the total solar eclipse on Aug. 12, 2026.",
+        "url": "https://www.space.com/stargazing/solar-eclipses/15-expert-checked-places-to-see-the-2026-total-solar-eclipse-in-spain-iceland-and-greenland",
+        "image": "https://cdn.mos.cms.futurecdn.net/YyYL4Cn5KT8LPBnsPrN6rj-1920-80.jpg",
+        "publishedAt": "2026-04-26T10:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "Ice Age \"Zombie Worm\" Revived After 24,000 Years, Then Began Reproducing",
+        "description": "The permafrost formation, called Yedoma, kept the rotifer frozen solid at around -20 degrees C for the entire period.",
+        "url": "https://www.ndtv.com/feature/ice-age-zombie-worm-revived-after-24-000-years-then-began-reproducing-11411163",
+        "image": "https://c.ndtvimg.com/2026-04/ldct5ue_microscopic-animal_625x300_26_April_26.jpeg",
+        "publishedAt": "2026-04-26T09:52:10Z",
+        "source": "ndtv.com"
+      },
       {
         "title": "Were Neanderthals capable of complex speech?",
         "description": "In The Inheritors, Willliam Golding’s second novel, Neanderthals utter only a few short words and think entirely with images. A…",
@@ -158,112 +198,72 @@
         "image": "https://static.toiimg.com/thumb/msid-130528913,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-04-26T08:45:11Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "Northern lights may be visible from Ireland amid huge solar storm",
-        "description": "The northern lights may be visible from Ireland over the next couple of days as a powerful solar storm hits our planet.",
-        "url": "https://extra.ie/2026/04/26/news/northern-lights-ireland-solar-storm-earth",
-        "image": "https://extra.ie/wp-content/uploads/2023/02/Northern-Lights-Buncrana.jpg",
-        "publishedAt": "2026-04-26T08:12:58Z",
-        "source": "Extra.ie"
-      },
-      {
-        "title": "The Sky Today on Sunday, April 26: A look at enigmatic Gamma Cas",
-        "description": "A strange star sits at the peak of the W in Cassiopeia: Gamma Cas, a binary with a secret only recently uncovered.",
-        "url": "http://www.astronomy.com/https:/the-sky-today-sunday-april-26-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/04/GammaCas.png",
-        "publishedAt": "2026-04-26T08:00:14Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "The Sky Today on Sunday, April 26: A look at enigmatic Gamma Cas",
-        "description": "A strange star sits at the peak of the W in Cassiopeia: Gamma Cas, a binary with a secret only recently uncovered.",
-        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-april-26-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/04/GammaCas.png",
-        "publishedAt": "2026-04-26T08:00:14Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "The Full ‘Flower Moon’ Is Coming - When To See It Rise On May Day",
-        "description": "When is the full moon? Everything you need to know about May’s full flower moon — including exactly when it’s full and the best evening to see it rise during dusk.",
-        "url": "https://www.forbes.com/sites/jamiecartereurope/2026/04/26/mays-full-flower-moon-is-coming---when-to-see-it-rise-on-may-day/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d53472c558503b7bd637c8/0x0.jpg?format=jpg&crop=2673,1505,x0,y492,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-26T08:00:00Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Inside the Deep Space Network: How three antenna complexes on three continents carry every whisper from every spacecraft humanity has ever sent beyond Earth",
-        "description": "Three antenna complexes in California, Spain and Australia carry every signal from every spacecraft humanity has sent beyond Earth. With one of the largest dishes offline since September, the strain on a network already running at 140 percent of capacity is starting to show.",
-        "url": "https://spacedaily.com/sd-e-inside-the-deep-space-network-how-three-antenna-complexes-on-three-continents-carry-every-whisper-from-every-spacecraft-humanity-has-ever-sent-beyond-earth/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/04/inside-the-deep-space-network-how-three-.jpg",
-        "publishedAt": "2026-04-26T07:36:50Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "AI political ads pop up in Ohio races as state lawmakers stall on regulating them",
-        "description": "Ohio, unlike a majority of other states, has no regulations governing the use of AI in political communications, from campaign ads to malicious “deepfakes.\"",
-        "url": "https://www.cleveland.com/news/2026/04/ai-political-ads-pop-up-in-ohio-races-as-state-lawmakers-stall-on-regulating-them.html",
-        "image": "https://www.cleveland.com/resizer/v2/64U7W2Y3RJA5FB2MRQW5S6R5CU.jpg?auth=b17d54cea0dced8cc64e1e5b38c4402acac4eacb2df16faba95dac983c545ed7&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-04-26T09:30:00Z",
-        "source": "cleveland.com"
+        "title": "UTG With UTF: The Ultimate 50/50 Synergy For The AI Era",
+        "description": "Both UTG and UTF have significantly outperformed the S&P 500, delivering robust double-digit returns. Read more on UTG and UTF CEFs here.",
+        "url": "https://seekingalpha.com/article/4894408-utg-with-utf-ultimate-50-50-synergy-for-ai-era",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217241397/image_2217241397.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-04-26T10:23:20Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "LSG vs KKR prediction: Who’ll win, Lucknow or Kolkata? We asked ChatGPT to choose between Rishabh Pant, Ajinkya Rahane",
-        "description": "In the IPL 2026 match today, Lucknow will lock horns with Kolkata at Ekana. We asked AI tools, such as ChatGPT, Google Gemini and Perplexity, to predict today's winner.",
-        "url": "https://www.livemint.com/news/trends/lsg-vs-kkr-prediction-who-ll-win-lucknow-or-kolkata-we-asked-chatgpt-to-choose-between-rishabh-pant-ajinkya-rahane-11777195245524.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/26/1600x900/logo/20260425-LKO-DGP-MN-LSG-VS-KKR-011-0_1777195551017_1777195567335.jpg",
-        "publishedAt": "2026-04-26T09:26:35Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "AI Framework Revolutionizes Retail Sustainability",
-        "description": "Researchers from GIM and Graphic Era have developed an innovative AI framework assisting retail businesses in adapting to dynamic consumer sustainability preferences. By leveraging advanced machine learning techniques and integrating knowledge management, the framework enhances decision-making, addressing the gap between consumer sustainability concerns and actual purchasing behaviors.",
-        "url": "https://www.devdiscourse.com/article/business/3887391-ai-framework-revolutionizes-retail-sustainability",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_04_2026_14_51_25_0110694.png&width=920&format=jpeg",
-        "publishedAt": "2026-04-26T09:21:26Z",
+        "title": "UAE's Billion Dirham Leap Towards Industrial Resilience",
+        "description": "The United Arab Emirates is launching a one billion dirham national fund, announced by Prime Minister Sheikh Mohammed bin Rashid Al Maktoum. The fund aims to boost industrial resilience by focusing on localizing key industries, strengthening supply chains, and integrating artificial intelligence in production and planning.",
+        "url": "https://www.devdiscourse.com/article/law-order/3887446-uaes-billion-dirham-leap-towards-industrial-resilience",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_09_2025_10_09_39_0833444.png&width=920&format=jpeg",
+        "publishedAt": "2026-04-26T10:17:16Z",
         "source": "Devdiscourse"
       },
       {
         "title": "AI adoption to influence salary growth within 2-3 yrs: TeamLease Edtech",
-        "description": "AI adoption will drive salary growth in India over the next 2-3 years, emphasizing the importance of AI skills in hiring.",
-        "url": "https://www.thehindubusinessline.com/info-tech/ai-adoption-to-influence-salary-growth-within-2-3-yrs-teamlease-edtech/article70908190.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/shxrew/article70908193.ece/alternates/LANDSCAPE_1200/IMG_AI__circuit_board_2_1_F9DIVC5V.jpg",
-        "publishedAt": "2026-04-26T09:21:04Z",
+        "description": "AI adoption is set to drive salary growth in various sectors, benefiting employees with AI skills over the next few years.",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-adoption-to-influence-salary-growth-within-2-3-yrs-teamlease-edtech/article70908270.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/8fslym/article70908286.ece/alternates/LANDSCAPE_1200/IMG_bl01_AI_2_1_IJDU65D3.jpg",
+        "publishedAt": "2026-04-26T10:17:07Z",
         "source": "The Hindu Business Line"
       },
       {
-        "title": "A Data Analyst Quit Their Job Over Concerns That AI Would Replace Them",
-        "description": "A data analyst quit their tech job over concerns that AI would replace them and about disillusionment with the industry in general.",
-        "url": "https://www.businessinsider.com/data-analyst-quit-job-over-concerns-ai-would-replace-them-2026-4",
-        "image": "https://i.insider.com/69e8d0f93fecbb42897a2929?width=1200&format=jpeg",
-        "publishedAt": "2026-04-26T09:14:01Z",
-        "source": "Business Insider"
+        "title": "AI drama accused of stealing faces",
+        "description": "Christine Li is a model and influencer but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama, she felt bewildered,",
+        "url": "https://manilastandard.net/showbiz/314732153/ai-drama-accused-of-stealing-faces.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/ai-chinese-drama.png",
+        "publishedAt": "2026-04-26T10:15:00Z",
+        "source": "manilastandard.net"
       },
       {
-        "title": "AI adoption to influence salary growth within 2",
-        "description": "AI is transforming Indian workplaces. Employees leveraging AI skills will see career advantages in the coming years. Sectors like technology, GCCs, and BFSI will lead this shift. Companies are integrating AI into core strategies, not just as tools. This will impact appraisals and career growth, especially in digitally intensive roles. Upskilling is now crucial for career advancement.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-to-influence-salary-growth-within-2-3-years-teamlease-ceo-shantanu-rooj/articleshow/130529109.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38456,resizemode-75,msid-130529109/tech/artificial-intelligence/ai-adoption-to-influence-salary-growth-within-2-3-years-teamlease-ceo-shantanu-rooj.jpg",
-        "publishedAt": "2026-04-26T09:11:55Z",
-        "source": "The Economic Times"
+        "title": "UAE Launches $272 Million Fund to Boost Industrial Resilience",
+        "description": "The United Arab Emirates is establishing a billion-dirham fund to enhance industrial resilience. The initiative aims to localize key industries, bolster supply chains, and integrate AI technologies across production, operations, and planning, as announced by Prime Minister Sheikh Mohammed bin Rashid Al Maktoum.",
+        "url": "https://www.devdiscourse.com/article/technology/3887443-uae-launches-272-million-fund-to-boost-industrial-resilience",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_11_04_04_677892.png&width=920&format=jpeg",
+        "publishedAt": "2026-04-26T10:13:19Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "I Skipped College for Trades and Now on Track to Earn Six Figures",
-        "description": "At 18, he chose a trade over college, earns nearly $60,000, and is working toward a six-figure career without student debt and AI fears.",
-        "url": "https://www.businessinsider.com/skipped-college-for-paid-apprenticeship-on-track-to-six-figures-2026-4",
-        "image": "https://i.insider.com/69eb898aa98bc8fdc096e6b6?width=1067&format=jpeg",
-        "publishedAt": "2026-04-26T09:11:01Z",
-        "source": "Business Insider"
+        "title": "TCS vs Infosys vs Wipro vs HCL Tech vs Tech Mahindra: Which IT stock to buy after Q4 results 2026?",
+        "description": "IT sector has remained in focus amid uncertain global demand, pricing challenges, and the transformative influence of artificial intelligence (AI) continue to reshape its growth outlook. Here's what experts recommended on IT sector stocks.",
+        "url": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-tech-vs-tech-mahindra-which-it-stock-to-buy-after-q4-results-2026-11777195140659.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/26/1600x900/logo/stocks_1777198153183_1777198153345.jpg",
+        "publishedAt": "2026-04-26T10:13:11Z",
+        "source": "Livemint"
       },
       {
-        "title": "Upskilling critical as AI disrupts India’s IT sector: Arundhati Bhattacharya, Salesforce",
-        "description": "India's IT sector faces a critical juncture as AI reshapes the industry, necessitating rapid workforce upskilling. Salesforce India CEO Arundhati Bhattacharya highlighted that while job disruption is unavoidable, new roles will emerge. She emphasized India's young, adaptable talent pool as a key advantage for continued global relevance, urging a proactive embrace of these transformative changes.",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/upskilling-critical-as-ai-disrupts-indias-it-sector-arundhati-bhattacharya-salesforce/articleshow/130529055.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35228,resizemode-75,msid-130529055/tech/information-tech/upskilling-critical-as-ai-disrupts-indias-it-sector-arundhati-bhattacharya-salesforce.jpg",
-        "publishedAt": "2026-04-26T09:06:16Z",
-        "source": "The Economic Times"
+        "title": "Illinois sets rules for state workers on prediction markets, AI use",
+        "description": "Gov. JB Pritzker’s administration is setting rules on two emerging technologies as state governments across the country try to stay ahead of a rapidly changing world.",
+        "url": "https://www.chicagotribune.com/2026/04/26/illinois-employees-prediction-markets-ai/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/04/CTC-L-Pritzker-consular-corps18-x.jpg?w=1024&h=716",
+        "publishedAt": "2026-04-26T10:00:54Z",
+        "source": "Chicago Tribune"
+      },
+      {
+        "title": "Professors advise on training workers to succeed with AI",
+        "description": "For humans to add value, they’ll need to be good at what’s hard for AI: novel problem-solving and navigating social interactions.",
+        "url": "https://www.chicagotribune.com/2026/04/26/opinion-ai-workforce-training-chicago/",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/04/ctc-l-city-colleges19.jpg?w=1024&h=683",
+        "publishedAt": "2026-04-26T10:00:07Z",
+        "source": "Chicago Tribune"
       }
     ]
   }
