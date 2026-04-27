@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-27T10:01:30.432Z",
+  "fetchedAt": "2026-04-27T10:59:46.576Z",
   "sections": {
     "world": [
       {
-        "title": "International schools in India: A new trend",
-        "description": "Discover why affluent Indian parents are opting for international schools and curricula like IB for their children's education. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/south-asia/ditching-rote-learning-indias-affluent-parents-send-kids-to-international-schools",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/48ac8c6e990716ea2f0783567ab249b38e049063dee17f48c0215277e09221ba",
-        "publishedAt": "2026-04-26T22:01:01Z",
-        "source": "The Straits Times"
+        "title": "Mali defence minister killed amid flurry of insurgent attacks",
+        "description": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate",
+        "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+        "image": "https://i.guim.co.uk/img/media/6a71d7c6457cff29dc77170184e6686f1fb3fcff/0_245_2468_1974/master/2468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1573b3d6449759942e125d17c402b39",
+        "publishedAt": "2026-04-26T22:55:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Visa-free travel expands for Vietnamese citizens in 2026",
-        "description": "Visa-free travel expands for Vietnamese citizens in 2026",
-        "url": "https://vietnamnet.vn/en/visa-free-travel-expands-for-vietnamese-citizens-in-2026-2510476.html",
-        "image": "https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/4/27/visa-free-travel-expands-for-vietnamese-citizens-in-2026-a297fcc2d1844a9d94318590616dae63-5.png?width=0&s=Gkh-hBvKWc90GqYEv2LdrA",
-        "publishedAt": "2026-04-26T22:01:00Z",
-        "source": "Báo VietNamNet"
+        "title": "SIPRI: Record arms spending, again",
+        "description": "Global military spending hit a record high in 2025. The Stockholm International Peace Research Institute, or SIPRI, warns the trend is likely to continue — and carries additional risks.",
+        "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397",
+        "image": "https://static.dw.com/image/76885575_6.jpg",
+        "publishedAt": "2026-04-26T22:51:37Z",
+        "source": "DW.com"
       },
       {
-        "title": "Iran condemns Israel’s envoy to Somaliland as violation of Somalia’s sovereignty",
-        "description": "Mogadishu (HOL) — Iran has condemned Israel’s appointment of an ambassador to Somaliland, calling it a violation of international law and Somalia’s territorial integrity, as diplomatic tensions grow over the disputed region.",
-        "url": "https://www.hiiraan.com/news4/2026/Apr/204955/iran_condemns_israels_envoy_to_somaliland_as_violation_of_somalias_sovereignty.aspx",
-        "image": "https://www.hiiraan.com/uploads/2026/04/1776781978d270a27a-c43e-4be9-bc4b-a766f2911a7b.jpg",
-        "publishedAt": "2026-04-26T22:00:22Z",
-        "source": "hiiraan.com"
+        "title": "The hidden target in US war on Iran may be China",
+        "description": "As Washington and Tehran navigate a fragile ceasefire, one of the biggest questions looming over the conflict may not be about Iran at all—but China.",
+        "url": "https://www.iranintl.com/en/202604261036",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4adbb86472fe8f186742e0d1b019df0dc8e507ea-800x549.jpg?rect=0,65,800,420&w=1200&h=630&fit=max&auto=format",
+        "publishedAt": "2026-04-26T22:43:00Z",
+        "source": "ایران اینترنشنال"
       },
       {
-        "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
-        "description": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gxgv8j7zlo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b7e/live/19c42640-41b4-11f1-9742-e92aadbab0a2.jpg",
-        "publishedAt": "2026-04-26T21:49:20Z",
+        "title": "Legal Voting Age by Country",
+        "description": "In the majority of states, the legal voting age is 18.",
+        "url": "https://www.worldatlas.com/politics/legal-voting-age-by-country.html",
+        "image": "https://www.worldatlas.com/r/w1200-q80/upload/e2/18/a0/shutterstock-446643325-s3cdn.jpg",
+        "publishedAt": "2026-04-26T22:30:00Z",
+        "source": "WorldAtlas"
+      },
+      {
+        "title": "Benjamin Netanyahu meets Christians serving in IDF amid controversy in southern Lebanon",
+        "description": "\"These are Christian soldiers, men and women, in the Israeli Defense Forces. They fill all the important positions in our incredible military, and they do incredible work,\" Netanyahu said.",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-894239",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718005",
+        "publishedAt": "2026-04-26T22:27:50Z",
+        "source": "The Jerusalem Post"
+      },
+      {
+        "title": "Missy Bo Kearns: Aston Villa and England midfielder discusses her miscarriage",
+        "description": "Aston Villa and England midfielder Missy Bo Kearns says she spent \"four days of hell in hospital\" after suffering a miscarriage and contracting sepsis.",
+        "url": "https://www.bbc.com/sport/football/articles/ce8l826gq0lo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e083/live/939bdc30-418f-11f1-aab1-e3cba9320794.jpg",
+        "publishedAt": "2026-04-26T22:15:27Z",
         "source": "BBC"
       },
       {
-        "title": "Pakistan not a suitable intermediary, says Iranian MP amid stalled talks",
-        "description": "Iranian lawmaker Ebrahim Rezaei said Pakistan is not a suitable intermediary in the ongoing talks. His remarks come as Abbas Araghchi steps up diplomacy from Oman to Islamabad to keep negotiations moving.",
-        "url": "https://www.indiatoday.in/world/story/pakistan-mediation-role-questioned-by-iranian-lawmaker-as-araghchi-holds-islamabad-talks-2901983-2026-04-27",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/pakistan-peddling-disinformation-on-iran-us-peace-talks-265316846-16x9_1.jpg?VersionId=GAqe3JRvzWs9KfRLxweKCk7xnuuGPcGP",
-        "publishedAt": "2026-04-26T21:42:53Z",
-        "source": "India Today"
+        "title": "The US passport regains ground in 2026 but faces greater global competition",
+        "description": "The US passport climbs back to the tenth position on the 2026 Henley Index after falling out of the Top 10 in 2025.",
+        "url": "https://latination.com/us-passport-ranking-henley-index-2026/",
+        "image": "https://storage.googleapis.com/latination-website-bucket-new/uploads/d7340f93-the-us-passport-regains-ground-in-2026-but-faces-greater-global-competition-600x400.jpg",
+        "publishedAt": "2026-04-26T22:08:58Z",
+        "source": "latination.com"
       },
       {
-        "title": "UK eyes 'defense bank' to fund Europe’s rearmament push against Russia",
-        "description": "The UK government is considering plans to create a defense bank to rearm its northern European allies against Russia",
-        "url": "https://newsukraine.rbc.ua/news/uk-eyes-defense-bank-to-fund-europe-s-rearmament-1777238548.html",
-        "image": "https://newsukraine.rbc.ua/static/img/_/v/_viyskoviy_soldat_gettyimages_2074370973_7381c3a6c7a1f215ebea788113fe83ee_1300x820_269968c4df7fbe426d8f30dba169243f_650x410.jpg",
-        "publishedAt": "2026-04-26T21:40:03Z",
-        "source": "RBC-Ukraine"
-      },
-      {
-        "title": "Anti-Trump sentiment being examined as motive for White House press dinner shooting",
-        "description": "Manifesto reportedly written by the suspect had Trump administration officials at top of list",
-        "url": "https://www.theguardian.com/us-news/2026/apr/26/white-house-press-dinner-shooting-motive",
-        "image": "https://i.guim.co.uk/img/media/6cec5f957c3a72843514a308c93d2ab5d40c051d/556_0_5123_4099/master/5123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4239a6b4f432c0fe4dbc9d12976b01f",
-        "publishedAt": "2026-04-26T21:40:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Australia news live: SA premier angry at Anzac Day service booing; two bodies found after Blue Mountains house fire",
-        "description": "Follow live",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
-        "image": "https://i.guim.co.uk/img/media/b0df8943d6598c72dd887a1c0d934a9800d6b189/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ad5055eb0a22991eeb5e5986f434c384",
-        "publishedAt": "2026-04-26T21:19:00Z",
-        "source": "The Guardian"
+        "title": "US politics live updates: Trump dinner shooter identified as Cole Tomas Allen; Iran peace talks on hold as ceasefire between Israel, Lebanon becomes fragile",
+        "description": "The gunman arrested outside the White House Correspondents’ dinner is in custody as US authorities investigate. Follow the latest news live.",
+        "url": "https://www.theage.com.au/national/trump-dinner-shooting-live-gunman-identified-iran-peace-talks-stall-20260427-p5zr88.html",
+        "image": "https://static.ffx.io/images/$zoom_0.3014%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_119%2C$y_55/t_crop_custom/q_86%2Cf_auto/8a94cbab6f2a8e44f92ab55ee7a7f8ffd7f47cce",
+        "publishedAt": "2026-04-26T22:07:23Z",
+        "source": "The Age"
       }
     ],
     "business": [
       {
-        "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
-        "description": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?",
-        "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-11-at-4.37.19-PM.png?w=1094",
-        "publishedAt": "2026-04-26T22:00:46Z",
-        "source": "TechCrunch"
+        "title": "Emirates’ extreme luxury move in cabin",
+        "description": "Emirates is exploring a major upgrade to its first-class experience — introducing private bathrooms directly inside individual suites, according to Abu Dhabi outlet The National.",
+        "url": "https://www.news.com.au/travel/travel-advice/flights/major-airline-reportedly-plans-private-bathrooms-inside-firstclass-suites-pushing-luxury-to-new-extreme/news-story/a6423c1183ab37841d9e4c59075757b0",
+        "image": "https://content.api.news/v3/images/bin/73fe0e7c3c8bea3c41b3b2a5d24f543a",
+        "publishedAt": "2026-04-26T22:47:12Z",
+        "source": "news.com.au"
       },
       {
-        "title": "South China Morning Post",
-        "description": "Former European economic adviser says Beijing’s bid to build an international currency will hinge on leaders allowing it to fluctuate freely.",
-        "url": "https://www.scmp.com/economy/china-economy/article/3351329/daniel-gros-what-china-can-learn-euro-it-works-towards-global-yuan",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/24/65c43904-2e98-40b6-ba40-0363a1bd25e6_ac0581ce.jpg?itok=BumOsmV9&v=1777025098",
-        "publishedAt": "2026-04-26T22:00:14Z",
-        "source": "South China Morning Post"
+        "title": "Top Quantum Computing Stocks to Buy in April",
+        "description": "Quantum computing investing is relevant now, not five years in the future.",
+        "url": "https://www.fool.com/investing/2026/04/26/3-top-quantum-computing-stocks-to-buy-in-april/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F867012%2Fimage-of-quantum-computing.jpg&w=1200&op=resize",
+        "publishedAt": "2026-04-26T22:39:57Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "The Most Productive Countries in the World, Ranked",
-        "description": "Discover which countries generate the most economic output per hour worked, ranked by GDP per hour. See how productivity compares across OECD economies.",
-        "url": "https://www.mentalfloss.com/geography/most-productive-countries-ranked",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_353,w_5616,h_3159/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kq03hqdr997z41b56v.jpg",
-        "publishedAt": "2026-04-26T22:00:01Z",
-        "source": "Mental Floss"
+        "title": "P&G’s Tech Bet Starts Showing Up in Sales",
+        "description": "P&G says AI, automation and data tools are helping speed product launches, sharpen marketing and cut costs.",
+        "url": "https://www.pymnts.com/news/retail/2026/pgs-tech-bet-starts-showing-up-in-sales/",
+        "image": "https://www.pymnts.com/wp-content/uploads/2026/04/PG-earnings-1.jpg",
+        "publishedAt": "2026-04-26T22:30:41Z",
+        "source": "PYMNTS.com"
       },
       {
-        "title": "China’s ‘gig stations’: A daily wait for ad hoc work - and a window into a labour market under pressure",
-        "description": "Thousands of state-backed “gig stations” have sprung up across China, linking workers - many older and shut out of stable jobs - to low-paid manual work. This piece focuses on those pushed into it, rather than those drawn to the broader gig economy.",
-        "url": "https://www.channelnewsasia.com/east-asia/china-gig-stations-migrant-workers-labour-market-flexible-employment-6052576",
-        "image": "https://dam.mediacorp.sg/image/upload/s--lc3xa4_j--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/22/china_gig_station_xinqiao_shanghai_1.jpeg?itok=SGUd8vw_",
-        "publishedAt": "2026-04-26T22:00:00Z",
-        "source": "CNA"
+        "title": "Slow-selling Honda Civic and Accord safe in Australia",
+        "description": "Despite slow sales, Honda won't cull the Civic and Accord in Australia as it rolls out new models and updates across its lineup.",
+        "url": "https://www.carexpert.com.au/car-news/slow-selling-honda-civic-and-accord-safe-in-australia",
+        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-06-honda-civic-ehev-lhero-3x2-1.jpg",
+        "publishedAt": "2026-04-26T22:28:46Z",
+        "source": "CarExpert"
       },
       {
-        "title": "Assessing Sprott (TSX:SII) Valuation After Launch Of Rare Earths Ex China ETF",
-        "description": "Why the new rare earths ETF matters for Sprott (TSX:SII)\nSprott (TSX:SII) is expanding its ETF lineup with the Sprott Rare Earths Ex-China ETF. This fund gives investors targeted exposure to rare earth companies outside China amid growing supply chain and security concerns.\nSee our latest analysis for Sprott.\nThe launch of the Rare Earths Ex-China ETF comes after a choppy stretch for the stock, with a 12.57% 7 day share price return decline and a 5.07% 30 day share price return. However, the...",
-        "url": "https://simplywall.st/stocks/ca/diversified-financials/tsx-sii/sprott-shares/news/assessing-sprott-tsxsii-valuation-after-launch-of-rare-earth-1",
-        "image": "https://images.simplywall.st/asset/industry/7131000-choice2-main-header/1585186813996",
-        "publishedAt": "2026-04-26T21:58:19Z",
-        "source": "simplywall.st"
+        "title": "style stalk keeps GWM's new Tank 300 4x4 out of Australia",
+        "description": "Local customer feedback suggests the new interior layout is less than ideal for off-road use, so GWM says we won't be getting the updated Tank 300, at least not in the short-term.",
+        "url": "https://www.drive.com.au/news/gwm-tank-300-update-to-skip-australia-for-now-over-feature-locals-consider-less-than-ideal/",
+        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/693c4135-be05-5257-bb92-bced0ba50000",
+        "publishedAt": "2026-04-26T22:28:05Z",
+        "source": "drive.com.au"
       },
       {
-        "title": "A Look At Cisco Systems (CSCO) Valuation After The Universal Quantum Switch Announcement",
-        "description": "Cisco Systems (CSCO) just unveiled its Universal Quantum Switch, a research prototype designed to route quantum information across multiple encoding types at room temperature using standard telecom fiber, drawing fresh attention to the stock.\nSee our latest analysis for Cisco Systems.\nThe Universal Quantum Switch lands at a time when momentum around Cisco has been building, with a 30 day share price return of 11.37% and a 1 year total shareholder return of 60.57% reflecting growing interest...",
-        "url": "https://simplywall.st/stocks/us/tech/nasdaq-csco/cisco-systems/news/a-look-at-cisco-systems-csco-valuation-after-the-universal-q",
-        "image": "https://images.simplywall.st/asset/company-cover/19691-main-header/1756202865667",
-        "publishedAt": "2026-04-26T21:57:40Z",
-        "source": "simplywall.st"
+        "title": "Enterprise Charges Couple Almost $10,000 For Putting Diesel In Rental Car, And The Story Gets Worse From There",
+        "description": "When people started asking questions (i.e. lawyers), as well as Go Public, the rental car giant suddenly decided they were no longer pursuing the claim.",
+        "url": "https://www.jalopnik.com/2156294/enterprise-charges-couple-9500-dollars/",
+        "image": "https://www.jalopnik.com/img/gallery/enterprise-charges-couple-almost-10000-for-putting-diesel-in-rental-car-and-the-story-gets-worse-from-there/l-intro-1777043158.jpg",
+        "publishedAt": "2026-04-26T22:25:00Z",
+        "source": "Jalopnik"
       },
       {
-        "title": "Assessing Archer-Daniels-Midland (ADM) Valuation After Mixed Recent Share Price Performance",
-        "description": "How Archer-Daniels-Midland Stock Has Been Trading Recently\nWith no single catalyst driving headlines, Archer-Daniels-Midland (ADM) has been moving on a mix of recent returns, valuation metrics, and its scale as a global food and agriculture processor.\nThe stock shows a 1 day return of about a 1.1% decline, a 7 day gain of 3.3%, a 1 month decline of 4.2%, and a past 3 months gain of 2.8%, with year-to-date and 1 year total returns of 17.2% and 48.5% respectively.\nSee our latest analysis for...",
-        "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nyse-adm/archer-daniels-midland/news/assessing-archer-daniels-midland-adm-valuation-after-mixed-r",
-        "image": "https://images.simplywall.st/asset/industry/5121000-choice1-main-header/1585186829794",
-        "publishedAt": "2026-04-26T21:56:15Z",
-        "source": "simplywall.st"
+        "title": "Lloyd Blankfein on WHCD Shooting: 'No One Was Killed, and Ended Early'",
+        "description": "The former Goldman Sachs CEO wrote on X that on the 'positive side,' the press dinner was 'exciting'",
+        "url": "https://www.businessinsider.com/lloyd-blankfein-white-house-correspondents-dinner-shooting-thoughts-2026-4",
+        "image": "https://i.insider.com/69ee8cdc3fecbb42897a4410?width=1200&format=jpeg",
+        "publishedAt": "2026-04-26T22:24:54Z",
+        "source": "Business Insider"
       },
       {
-        "title": "Zhour Developments launches EGP 10bn FioRI compound in west Cairo",
-        "description": "Zhour Developments has announced the launch of FioRI compound, a mixed-use residential project in west Cairo, with total investments exceeding EGP 10bn. The project reflects continued expansion in west Cairo, an area that has attracted increasing real estate activity in recent years due to ongoing infrastructure development and connectivity improvements. Tarek Nasr El-Din, Chairperson of",
-        "url": "https://www.dailynewsegypt.com/2026/04/26/zhour-developments-launches-egp-10bn-fiori-compound-in-west-cairo/",
-        "image": "https://images.dailynewsegypt.com/2026/04/WhatsApp-Image-2026-04-27-at-12.40.55-AM.jpeg",
-        "publishedAt": "2026-04-26T21:52:37Z",
-        "source": "Dailynewsegypt"
+        "title": "The Chinese sports brand taking on Nike and Adidas",
+        "description": "Now one of the biggest sportswear firms, Anta's rise follows a playbook adopted by many Chinese giants.",
+        "url": "https://www.bbc.co.uk/news/articles/c87r2d850q4o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/258b/live/1d2ef320-3f91-11f1-803a-036a9bbb46d5.jpg",
+        "publishedAt": "2026-04-26T22:24:41Z",
+        "source": "BBC"
       }
     ],
     "science": [
+      {
+        "title": "NASA launches interactive “Your Name in Landsat” tool using Earth imagery",
+        "description": "(FOX40.COM) — NASA is inviting the public to see their names spelled out in satellite imagery through a new interactive feature that highlights more than 50 years of Earth observation data from the La...",
+        "url": "https://www.yahoo.com/news/articles/nasa-launches-interactive-name-landsat-225041304.html",
+        "image": "https://s.yimg.com/os/en/ktxl_articles_604/944d6e3685691282b53fa45de2b64c40",
+        "publishedAt": "2026-04-26T22:50:41Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Study reveals how aggressive 'Hulk' lizards are wiping out millions of years of evolution",
+        "description": "Humans for ages believed that wall lizards coexisted in three distinct color types, each with its own strategy for survival.\nFor millions of years, scientists observed a vibrant mix of colors...",
+        "url": "https://www.thenews.com.pk/latest/1400466-study-reveals-how-aggressive-hulk-lizards-are-wiping-out-millions-of-years-of-evolution",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-27/1400466_034609_updates.jpg",
+        "publishedAt": "2026-04-26T22:49:00Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Canadian astronaut Joshua Kutrk heads to International Space Station this fall",
+        "description": "Canadian astronaut Joshua Kutrk heads to International Space Station around mid-September 2026 as part of Crew 13.",
+        "url": "https://islandsocialtrends.ca/canadian-astronaut-joshua-kutrk-heads-to-international-space-station-this-fall/",
+        "image": "https://islandsocialtrends.ca/wp-content/uploads/2026/04/NASA-Crew13-fourAstronuats-Apr2526-500px.jpg",
+        "publishedAt": "2026-04-26T22:41:52Z",
+        "source": "islandsocialtrends.ca"
+      },
+      {
+        "title": "Spatio-temporal metabarcoding surveys in ports reveal homogenised communities of non-indigenous species with high genetic diversity and connectivity",
+        "description": "Large commercial ports facilitate the introduction of non-indigenous species (NIS), while smaller harbours and marinas promote their regional spread, making harbour networks key drivers of biological invasions. We analysed spatio-temporal patterns of metazoan communities over one year in four medium-size harbours, as well as at an outside reference point, along the NW Mediterranean coast using standardised biological collectors and COI metabarcoding. We identified 1,774 metazoan molecular operational taxonomic units (MOTUs), of which 75 were classified as NIS. Although less diverse than native species, NIS accounted for 34-70% of reads in harbours, with the southernmost harbour showing the highest abundance, likely due to proximity to aquaculture facilities. Spatial structure varied among harbours, but NIS showed consistently low genetic differentiation and shared more MOTUs among sites than native species. Seasonal patterns affected both NIS and native communities. NIS also exhibited higher haplotype diversity and lower genetic differentiation across harbours, suggesting spread via local boating and recurrent introductions. These results highlight contrasting dynamics between NIS and native species in artificial environments and underscore the need for continued monitoring of harbour networks.",
+        "url": "https://www.nature.com/articles/s41598-026-49393-3?error=cookies_not_supported&code=8b94d8af-a285-4771-ad7d-59fb987cc5bc",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-26T22:08:32Z",
+        "source": "Nature"
+      },
+      {
+        "title": "The Universe is Bending Light, and Astronomers Need Your Help to Find it",
+        "description": "Einstein told us that massive objects bend light and he was of course, right. Across the universe, giant galaxies are acting as natural telescopes, warping and distorting the light of objects behind them into spectacular arcs and rings. Now the Euclid space telescope wants your help to find them and the scale of the hunt is unlike anything attempted before.",
+        "url": "https://www.universetoday.com/articles/the-universe-is-bending-light-and-astronomers-need-your-help-to-find-it",
+        "image": "https://www.universetoday.com/article_images/A_Horseshoe_Einstein_Ring_from_Hubble_20260426_220728.jpeg",
+        "publishedAt": "2026-04-26T22:07:00Z",
+        "source": "Universe Today"
+      },
       {
         "title": "Mining the Solar System to Build a New World",
         "description": "If humans are ever going to live permanently on Mars, someone is going to have to work out where all the raw materials, the food, they oxygen or the material for the structures to name just a few. A new study has tackled that unglamorous but absolutely critical question and the answer involves robots, asteroids, and one of the most complex supply chains ever designed.",
@@ -158,49 +198,41 @@
         "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-04-26T21:17:44Z",
         "source": "Nature"
-      },
-      {
-        "title": "like octopus may have prowled the seas during the age of dinosaurs",
-        "description": "Yohei Utsuki via APBy  ADITHI RAMAKRISHNAN NEW YORK (AP) — The top predator prowling the seas during the age of the dinosaurs 100 million years ago may have been the octopus. New analyses of fossilized jaws reveal that massive, kraken-like octopuses once hunted alongside other marine predators. They boasted eight arms and long bodies that extended more than 60 feet (18 meters),...",
-        "url": "https://www.wxxv25.com/a-massive-kraken-like-octopus-may-have-prowled-the-seas-during-the-age-of-dinosaurs/",
-        "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wxxv25.com/content/uploads/2026/04/o/b/kraken.png",
-        "publishedAt": "2026-04-26T21:00:52Z",
-        "source": "WXXV News 25"
-      },
-      {
-        "title": "Study reveals untapped potential of coral reefs as nature’s pharmacy",
-        "description": "Scientists discovered the micro-organisms can potentially contribute to medical research. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/environment/the-untapped-potential-of-coral-reefs-as-natures-pharmacy-study",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/23a95721fd659ceb11c14585fa45fc49f257994b103d29889506eb305ce72847",
-        "publishedAt": "2026-04-26T21:00:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Scientists Discover How the Iconic ‘Twelve Apostles’ Rock Formations Were Created in Australia",
-        "description": "Landmark research confirmed the ancient impetus that formed the iconic ‘Twelve Apostles’ rock formations along Australia’s southern coast.",
-        "url": "https://www.goodnewsnetwork.org/scientists-discover-how-the-iconic-twelve-apostles-rock-formations-were-created/",
-        "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/04/The-Twelve-Apostles-rock-formations-in-Victoria-Australia-Credit-Michael-J-Fromholtz-wikipedia-CC-BY-SA-4-cropped.jpg",
-        "publishedAt": "2026-04-26T20:45:43Z",
-        "source": "Good News Network"
-      },
-      {
-        "title": "New Brain Discovery Challenges Long-Held Theory of Teenage Brain Development",
-        "description": "Adolescence is widely thought to be a time when the brain trims away excess neural connections, refining circuits through synaptic pruning. New research now suggests this view may be incomplete.",
-        "url": "https://scitechdaily.com/new-brain-discovery-challenges-long-held-theory-of-teenage-brain-development/",
-        "image": "https://scitechdaily.com/images/New-Synaptic-Formation-Adolescent-Brain.jpg",
-        "publishedAt": "2026-04-26T20:32:31Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "NASA satellite spots gleaming halo around New Zealand’s Chatham Islands",
-        "description": "Science News: There was an abnormal gleaming halo that formed around New Zealand’s Chatham Islands early this year because there was a large amount of plankton bloo.",
-        "url": "https://timesofindia.indiatimes.com/science/nasa-satellite-spots-gleaming-halo-around-new-zealands-chatham-islands/articleshow/130537800.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130537875,width-1280,height-720,imgsize-748610,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-26T20:30:00Z",
-        "source": "The Times of India"
       }
     ],
     "ai": [
+      {
+        "title": "College students wary of the job market are changing course in search of 'AI",
+        "description": "The rise of artificial intelligence is prompting college students to second-guess their career paths College students wary of the job market are changing",
+        "url": "https://www.breitbart.com/news/college-students-wary-of-the-job-market-are-changing-course-in-search-of-ai-proof-majors/",
+        "image": "https://media.breitbart.com/media/2026/04/wi/ap/education-ai-changing-majors-71325-education-ai-changing-majors-josephine-timperman-student-at-640x335.jpg",
+        "publishedAt": "2026-04-26T22:48:30Z",
+        "source": "Breitbart News Network"
+      },
+      {
+        "title": "The Big Idea: Moglix, factory reset works",
+        "description": "Moglix is redefining industrial procurement by shifting from marketplace discovery to reliability-led execution, integrating logistics, financing and AI-driven systems.",
+        "url": "https://www.financialexpress.com/business/start-ups/the-big-idea-moglix-factory-reset-works/4218994/",
+        "image": "https://images.financialexpressdigital.com/2026/04/64.jpg",
+        "publishedAt": "2026-04-26T22:45:00Z",
+        "source": "The Financial Express"
+      },
+      {
+        "title": "Canadian province of Manitoba says it will ban social media, AI for youth",
+        "description": "The move would put Manitoba out ahead of Canada’s federal government, which is considering national restrictions. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/canadian-province-of-manitoba-says-it-will-ban-social-media-ai-for-youth",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1e4d38c3b23a334668d31f3d0aa75b437cd49cf9875fee04d34eb6667cb5e86b",
+        "publishedAt": "2026-04-26T22:40:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Air India embraces AI to enhance ops efficiency, increase revenues, reduce costs",
+        "description": "NEW DELHI, Apr 26: Embracing technology in a big way, full-service carrier Air India is tapping opportunities with artificial intelligence to enhance operational efficiency, improve customer services, increase revenues and reduce costs. Piloted by the Tata Group since its takeover from the government in January 2022, the loss-making Air India is in the midst of implementing an ambitious transformation plan in which technology is a key element. “We had practically nothing at the time of privatisation. So, we were able […]",
+        "url": "https://www.dailyexcelsior.com/air-india-embraces-ai-to-enhance-ops-efficiency-increase-revenues-reduce-costs/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/air-india.jpg",
+        "publishedAt": "2026-04-26T22:30:06Z",
+        "source": "Daily Excelsior"
+      },
       {
         "title": "Smart Catering: Airbus' New AI Initiative To Help Airlines Reduce Cabin Food Waste",
         "description": "It aims to close a financial and environmental gap in the airline industry by bringing data analysis to food and beverage services",
@@ -232,38 +264,6 @@
         "image": "https://static.toiimg.com/thumb/msid-130538439,width-1280,height-720,imgsize-10456,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-04-26T21:25:00Z",
         "source": "Times of India"
-      },
-      {
-        "title": "AI transforming human-animal relationship, for the better",
-        "description": "Artificial intelligence is revolutionizing various aspects of society, including the relationship between humans and animals.",
-        "url": "https://www.postandcourier.com/opinion/commentary/ai-innovation-human-animal-relationship-biomedical-research/article_1e338689-7d0f-4b8d-9b4d-f1764353766e.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/82/c82565a3-b09f-4ef5-b5e0-973dc5661b6e/63ebad6543bf8.image.jpg?crop=1443%2C758%2C0%2C174&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-04-26T21:15:00Z",
-        "source": "Charleston Post and Courier"
-      },
-      {
-        "title": "Is AI making us artificially intelligent, but unable to analyse?",
-        "description": "AI can be an assistant or a force multiplier, but humans should never lose the ability to think problems through. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/opinion/is-ai-making-us-artificially-intelligent-but-unable-to-analyse",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a77ebeef80adbb7c1bcabf1250656506b81fa2257db9b9d30faf800af7e6612b",
-        "publishedAt": "2026-04-26T21:00:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
-        "description": "Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The clash in a courtroom across the bay from San Francisco pits the world's richest man against a startup that Musk once…",
-        "url": "https://japantoday.com/category/tech/billionaire-elon-musk-enters-courtroom-showdown-with-openai",
-        "image": "https://media.japantoday.com/img/store/fe/b3/ca3f02a3e4016e2f58febc93242e1c4e032f/b8e5c2c61a7db1f77dbe2df101ea3f5345cbc1f6/_w1700.jpeg",
-        "publishedAt": "2026-04-26T21:00:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "AI decision review system being trialled in Darwin women's division one cricket competition",
-        "description": "Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence umpire review system.",
-        "url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718",
-        "image": "https://live-production.wcms.abc-cdn.net.au/940dc02dc415316763d0d4278942aacf?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=206&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-26T20:44:01Z",
-        "source": "ABC (Australian Broadcasting Corporation)"
       }
     ]
   }
