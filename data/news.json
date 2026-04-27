@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-27T18:45:58.362Z",
+  "fetchedAt": "2026-04-27T19:49:46.714Z",
   "sections": {
     "world": [
       {
-        "title": "Creecy unveils National Rail Master Plan to fix SA’s economic spine",
-        "description": "Minister Barbara Creecy’s new plan may finally exorcise the demons of the nine wasted State Capture years – and South Africa may get back on the […]",
-        "url": "https://www.namibian.com.na/creecy-unveils-national-rail-master-plan-to-fix-sas-economic-spine/",
-        "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-08.40.46.jpg",
-        "publishedAt": "2026-04-27T06:45:21Z",
-        "source": "The Namibian -"
+        "title": "More than 100 women and girls displaced every hour in South Sudan, some going days without food",
+        "description": "Statement by Anna Mutavati, UN Women Regional Director for East and Southern Africa, following her five-day mission in South Sudan, calling for peace and the 35 per cent quota for women’s representation in government to be upheld, as violence, displacement and food insecurity escalate.",
+        "url": "https://www.unwomen.org/en/news-stories/statement/2026/04/more-than-100-women-and-girls-displaced-every-hour-in-south-sudan-some-going-days-without-food",
+        "image": "https://www.unwomen.org/sites/default/files/2026-03/un-women-fawag-lockup-thumbnail-placeholder-1200x800-en.png",
+        "publishedAt": "2026-04-27T07:49:01Z",
+        "source": "UN Women"
       },
       {
-        "title": "Singapore: French teen who licked vending machine straw faces jail",
-        "description": "The teen, who posted on social media a video of himself licking the straw, could be jailed for more than two years.",
-        "url": "https://www.bbc.co.uk/news/articles/cjw8w849g6go",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1322/live/54eb3cb0-41fd-11f1-9626-31907e7084f1.jpg",
-        "publishedAt": "2026-04-27T06:40:22Z",
-        "source": "BBC"
+        "title": "Zimbabwe: Chivayo, Coltart Clash Over ZITF Presidential Tour",
+        "description": "A war of words has erupted between businessman Wicknell Chivayo and Bulawayo Mayor David Coltart following their sharply contrasting views over Chivayo's presence alongside Presidents Emmerson Mnangagwa and Duma Boko during a tour of stands at the Zimbabwe International Trade Fair (ZITF).",
+        "url": "https://allafrica.com/stories/202604270173.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-04-27T07:48:14Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "Prince Harry stirs new debate at Palace with bold move: ‘walking liability'",
-        "description": "Prince Harry may have not realised the consequences of his words that could have caused some trouble for his father King Charles, who is en route to America for the much-anticipated State Visit for the UK.It is a long-held tradition for...",
-        "url": "https://www.geo.tv/latest/661782-prince-harry-stirs-new-debate-at-palace-with-bold-move-walking-liability",
-        "image": "https://www.geo.tv/assets/uploads/2026-04-27/661782_113841_updates.jpg",
-        "publishedAt": "2026-04-27T06:37:00Z",
-        "source": "Geo News"
+        "title": "Toxic Legacy Threatens South Pacific Islands as Communities Resist",
+        "description": "The United Nations is currently supporting efforts to make parts of the South Pacific safe for habitation again, as the long-standing danger of unexploded ordnance (UXO) continues to pose increasing risks to public health and the environment. However, experts warn that corroding munitions left behind from past conflicts are steadily leaking toxic substances into land",
+        "url": "https://news.fundsforngos.org/2026/04/27/toxic-legacy-threatens-south-pacific-islands-as-communities-resist/",
+        "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+        "publishedAt": "2026-04-27T07:47:40Z",
+        "source": "fundsforNGOs News"
       },
       {
-        "title": "A surgeon keeps a bombed hospital running during Sudan's war",
-        "description": "A soft-spoken surgeon kept a hospital running on the front line of Sudan's war as many staffers fled.",
-        "url": "https://apnews.com/article/sudan-doctor-hospital-war-surgeon-omdurman-eb44070e80c6c646bf280559d27e8140",
-        "image": "https://dims.apnews.com/dims4/default/d985ef3/2147483647/strip/true/crop/8216x5475+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F6c%2F39874cec4b39494929d4468a154c%2Fab39645cfa0e4feaa91c0ab2e7b4c83d",
-        "publishedAt": "2026-04-27T06:32:00Z",
+        "title": "Kerten Hospitality Strengthens Global Footprint",
+        "description": "Kerten Hospitality enters Morocco and India, adapting its model to local heritage in one market and rapid real estate growth in the other",
+        "url": "https://tophotel.news/kerten-hospitality-strengthens-global-footprint/",
+        "image": "https://tophotel.news/wp-content/uploads/2026/04/327-Kerten.jpeg",
+        "publishedAt": "2026-04-27T07:47:34Z",
+        "source": "THP News"
+      },
+      {
+        "title": "Odesa bears brunt of latest Russian attacks on Ukraine - as it happened",
+        "description": "Across country, at least 14 have been injured as Zelenskyy highlights importance of air defences",
+        "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+        "image": "https://i.guim.co.uk/img/media/dbc1004cdc6566ce66c9721b24b631f6bf8985d7/841_0_4159_3327/master/4159.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a060e32424d4eb48e38bead2c4cde70d",
+        "publishedAt": "2026-04-27T07:47:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Calls grow for youth inclusion in agriculture at Pan",
+        "description": "Over 300 young leaders, policymakers, and industry stakeholders gathered in Accra, Ghana, for the fifth edition of the Yale Model African Union Conference, a three-day forum focused on youth engagement, policy development, and innovation across the continent. The conference, held from March 13 to 15, 2026, was themed “Imagine, challenge and build the Africa we […]",
+        "url": "https://thesun.ng/calls-grow-for-youth-inclusion-in-agriculture-at-pan-african-conference-in-ghana/",
+        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/04/Austine-logo.png",
+        "publishedAt": "2026-04-27T07:44:54Z",
+        "source": "The Sun Nigeria"
+      },
+      {
+        "title": "Elderly Cubans left to fend for themselves as the latest crisis deepens",
+        "description": "Elderly residents in Old Havana gather for meals at the Church of the Holy Spirit, a crucial support amid Cuba’s economic crisis.",
+        "url": "https://apnews.com/article/cuba-seniors-crisis-us-oil-embargo-e0940ba0d913d66e165d3ad8e2d476f4",
+        "image": "https://dims.apnews.com/dims4/default/acc8b6f/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fdb%2F0abce5859caed77f6d9789b8872b%2Fccb4e211fdc14ff5b1fcc3d906672b68",
+        "publishedAt": "2026-04-27T07:44:00Z",
         "source": "AP News"
       },
       {
-        "title": "CFPs: Strengthening Frontline Media for Resilient Communities (Ukraine)",
-        "description": "Deadline: 11-May-2026 The FAIR Media Ukraine Grants, funded by the European Union and implemented by Internews International, provide approximately €15,000 to local Ukrainian media outlets in frontline regions. The program supports the production of reliable public-interest journalism, strengthens sustainability, and improves operational resilience. Eligible applicants must be independent media organizations serving war-affected communities and not",
-        "url": "https://www2.fundsforngos.org/individuals/cfps-strengthening-frontline-media-for-resilient-communities-ukraine/",
-        "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-        "publishedAt": "2026-04-27T06:30:03Z",
-        "source": "fundsforNGOs"
-      },
-      {
-        "title": "Mali defence minister killed as country hit by wave of rebel attacks",
-        "description": "Mali defence minister killed as country hit by wave of rebel attacks",
-        "url": "https://www.graphic.com.gh/international/international-news/mali-defence-minister-killed-as-country-hit-by-wave-of-rebel-attacks.html",
-        "image": "https://www.graphic.com.gh/images/2026/Apr/20/camara26.jpg",
-        "publishedAt": "2026-04-27T06:29:05Z",
-        "source": "Graphic Online"
-      },
-      {
-        "title": "Iran's foreign minister visits Russia after Israeli strikes kill 14 in Lebanon on Sunday",
-        "description": "Lebanon's Ministry of Health says Israeli strikes on the country on Sunday killed 14 people, including two children and two women.",
-        "url": "https://www.bbc.com/news/live/clyey0yddyrt",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aece/live/05600200-41ff-11f1-9626-31907e7084f1.jpg",
-        "publishedAt": "2026-04-27T06:28:18Z",
-        "source": "BBC"
-      },
-      {
-        "title": "2027 Victorian Women’s Benevolent Trust Grants (Australia)",
-        "description": "Deadline: 19-Jun-2026 The Victorian Women’s Benevolent Trust Grants 2026–27 provide $2,000–$10,000 to support grassroots projects that empower women, girls, and gender-diverse people in Victoria. The program prioritizes community-led, innovative initiatives across five themes including safety, economic security, health, culture, and education. Eligible applicants must be organizations with DGR Item 1 and TCC status or apply",
-        "url": "https://www2.fundsforngos.org/leadership/2026-2027-victorian-womens-benevolent-trust-grants-australia/",
-        "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-        "publishedAt": "2026-04-27T06:27:43Z",
-        "source": "fundsforNGOs"
+        "title": "‘A pretty sick guy’ - Trump ‘not worried’ during attack by gunman at Washington black-tie dinner",
+        "description": "Donald Trump said he was “not worried” during an armed attack at Saturday night’s shooting at the White House Correspondents’ Dinner.",
+        "url": "https://www.independent.ie/world-news/north-america/a-pretty-sick-guy-trump-not-worried-during-attack-by-gunman-at-washington-black-tie-dinner/a865970546.html",
+        "image": "https://focus.independent.ie/thumbor/8VHb55a2fIbsDUOxxIO2jhiuggw=/16x0:3238x2148/629x0/prod-mh-ireland/0af5ee42-40b5-4b8a-b731-834c4e32e704/489786fa-fe83-4331-8c9a-8e412fee24a9/0af5ee42-40b5-4b8a-b731-834c4e32e704.jpg",
+        "publishedAt": "2026-04-27T07:42:55Z",
+        "source": "The Irish Independent"
       }
     ],
     "business": [
       {
-        "title": "Garrett is powering TONFY’s next generation BESS systems",
-        "description": "Garrett is powering TONFY’s next generation battery energy storage (BESS) liquid cooling systems",
-        "url": "https://www.garrettmotion.com/news/media/press-release/garrett-motions-breakthrough-oil-free-centrifugal-compressor-enhances-high-efficiency-liquid-cooling-solutions/",
-        "image": "https://www.garrettmotion.com/wp-content/uploads/2026/04/Group-Image-Tonfy-and-Garrett-e1777270750194.jpg",
-        "publishedAt": "2026-04-27T06:44:27Z",
-        "source": "Garrett - Advancing Motion"
+        "title": "China delivers record LNG carrier as shipbuilding rivalry with South Korea intensifies",
+        "description": "The vessel’s completion follows China dominating global shipbuilding orders last year, with South Korea leading in high-value segments.",
+        "url": "https://www.scmp.com/economy/china-economy/article/3351546/china-delivers-record-lng-carrier-shipbuilding-rivalry-south-korea-intensifies",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/27/ebd5151f-3d9a-487a-b95d-baca347a53c4_ef0e8c23.jpg?itok=t75uSyA_&v=1777276081",
+        "publishedAt": "2026-04-27T07:48:04Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "scooter usage drop by 50 per cent, companies tell Queensland inquiry",
-        "description": "The government's proposed legislation — including new licensing requirements, a 10km/h speed limit on footpaths, and an age restriction — are expected to become law in July.",
-        "url": "https://www.abc.net.au/news/2026-04-27/qld-e-mobility-inquiry-new-legislation-neuron-lime/106609938",
-        "image": "https://live-production.wcms.abc-cdn.net.au/fe416624ec64cf7694fa714fe77a0649?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=471&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-27T06:43:28Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "OPay leads conversation on Africa’s next financial frontier at BusinessDay Fintech Summit 2026",
+        "description": "OPay, a leading financial technology company in Nigeria, took center stage as the Headline Sponsor of the inaugural BusinessDay Fintech Summit held on",
+        "url": "https://dailypost.ng/2026/04/27/opay-leads-conversation-on-africas-next-financial-frontier-at-businessday-fintech-summit-2026/",
+        "image": "https://dailypost.ng/wp-content/uploads/2026/04/OPay-1.jpg",
+        "publishedAt": "2026-04-27T07:46:16Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Kwame Sefa Kayi 'forced' to apologise to Wontumi",
-        "description": "Media personality and host of Peace FM’s morning show Kokrokoo, Kwame Sefa Kayi, has rendered an apology to the Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi Boasiako, popularly known as Chairman Wontumi, after referring...",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Kwame-Sefa-Kayi-forced-to-apologise-to-Wontumi-after-saying-he-is-unfit-to-be-a-role-model-2031706",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/192/19245924.jpg",
-        "publishedAt": "2026-04-27T06:43:11Z",
+        "title": "free banking as local lenders seek licences",
+        "description": "Ghana is moving closer to introducing non-interest banking, as at least one indigenous lender has formally applied for a licence, signalling early domestic uptake of the model.",
+        "url": "https://www.ghanabusinessnews.com/2026/04/27/ghana-moves-toward-interest-free-banking-as-local-lenders-seek-licences/",
+        "image": "https://www.ghanabusinessnews.com/wp-content/uploads/2026/04/Economics-Bank-Licence.jpg",
+        "publishedAt": "2026-04-27T07:46:06Z",
+        "source": "Ghana Business News"
+      },
+      {
+        "title": "Willmott Dixon lands £92m Wembley college campus",
+        "description": "Eight-storey skills hub will rise on Olympic Way",
+        "url": "https://www.constructionenquirer.com/2026/04/27/willmott-dixon-lands-92m-wembley-college-campus/",
+        "image": "https://www.constructionenquirer.com/wp-content/uploads/Screenshot-2026-04-26-at-21.13.13-1200x828.png",
+        "publishedAt": "2026-04-27T07:45:46Z",
+        "source": "Construction Enquirer"
+      },
+      {
+        "title": "McLaren seals Sizewell C worker campus and apprentice college",
+        "description": "Three-year deal covers 2,400-bed worker village, new Leiston college and key site buildings",
+        "url": "https://www.constructionenquirer.com/2026/04/27/mclaren-confirmed-for-sizewell-c-worker-campus-and-college/",
+        "image": "https://www.constructionenquirer.com/wp-content/uploads/4fa2cc1286c4654c1300642a71930d98-1200x828.webp",
+        "publishedAt": "2026-04-27T07:45:46Z",
+        "source": "Construction Enquirer"
+      },
+      {
+        "title": "EPH Controls: From wheelbarrow beginnings to a new €15m HQ by Cork's Kinsale Road",
+        "description": "Cork company EPH is now the market leader in the Irish heating controls industry",
+        "url": "https://www.irishexaminer.com/business/companies/arid-41834252.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10111/5055551_17_seoimageog_DSC04281.jpg",
+        "publishedAt": "2026-04-27T07:45:00Z",
+        "source": "Irish Examiner"
+      },
+      {
+        "title": "Ghana Stock Exchange sees massive gains as market value hits GH¢279 billion",
+        "description": "The Ghana Stock Exchange (GSE) ended the week of April 24, 2026, on a high note, with the main market index rising by 6.05 percent.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Ghana-Stock-Exchange-sees-massive-gains-as-market-value-hits-GH-279-billion-2031696",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/379/37965750.jpg",
+        "publishedAt": "2026-04-27T07:44:03Z",
         "source": "GhanaWeb"
       },
       {
-        "title": "Toyota's Global Vehicle Sales Hit Record High in FY 2025",
-        "description": "Tokyo, April 27 (Jiji Press)--Toyota Motor Corp. said Monday that its parent-only global vehicle sales reached…",
-        "url": "https://www.nippon.com/en/news/yjj2026042700466/",
-        "image": "https://www.nippon.com/en/ncommon/contents/news/2994756/2994756.jpg",
-        "publishedAt": "2026-04-27T06:40:21Z",
-        "source": "nippon.com"
-      },
-      {
-        "title": "Ghana’s Gold for Fuel Strategy Buys Time But Deeper Fixes Needed",
-        "description": "Ghana introduced a gold for oil payment system in 2023 to reduce reliance on U.S. dollars for fuel imports.",
-        "url": "https://moderndiplomacy.eu/2026/04/27/ghanas-gold-for-fuel-strategy-buys-time-but-deeper-fixes-needed/",
-        "image": "https://moderndiplomacy.eu/wp-content/uploads/2023/10/favicon-16x16-1.png",
-        "publishedAt": "2026-04-27T06:39:20Z",
-        "source": "Modern Diplomacy"
-      },
-      {
-        "title": "Nationwide faces board challenge from member",
-        "description": "A campaigning customer has secured a board ballot spot at the building society for the first time in 21 years",
-        "url": "https://www.thetimes.com/business/companies-markets/article/nationwide-faces-board-challenge-from-member-hgw5t6twz",
-        "image": "https://www.thetimes.com/imageserver/image/554f2fa4-479a-4a1f-943f-e65bfbda236c.jpg?strip=all&format=webp&crop=5526px%2C3108px%2C0px%2C0px&resize=1200",
-        "publishedAt": "2026-04-27T06:38:14Z",
-        "source": "The Times"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman is literally losing sleep over the technology that he says will ‘collapse’ the economy",
-        "description": "Tech News News: OpenAI CEO Sam Altman is once again making headlines with his latest post on X (formerly Twitter). Altman shared a post earlier today where he predict.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-is-literally-losing-sleep-over-the-technology-that-he-says-will-collapse-the-economy/articleshow/130546346.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130546334,width-1280,height-720,imgsize-513993,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-27T06:38:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "India Selects These 4 Airports as International Hub-and-Spoke Transfer Points",
-        "description": "India picks Delhi, Mumbai, Bengaluru, and Rajkot as hub-and-spoke airports for seamless international transfers starting June 1.",
-        "url": "https://aviationa2z.com/index.php/2026/04/27/india-selects-4-airports-as-international-hub-and-spoke/",
-        "image": "https://aviationa2z.com/wp-content/uploads/2024/06/l3rb9wf6.webp",
-        "publishedAt": "2026-04-27T06:36:00Z",
-        "source": "Aviation A2Z"
+        "title": "MPS records 22% increase in cargo volumes in Q1 2026 - CEO",
+        "description": "Managing Directors of major global shipping lines, including MSC, Maersk, Hapag-Lloyd, COSCO, and PIL, have held their quarterly engagement with the management of Meridian Port Services Limited at Terminal 3 of the Tema Port in the Greater Accra...",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/business/MPS-records-22-increase-in-cargo-volumes-in-Q1-2026-CEO-2031697",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/934/93421740.jpg",
+        "publishedAt": "2026-04-27T07:44:03Z",
+        "source": "GhanaWeb"
       }
     ],
     "science": [
+      {
+        "title": "brimmed Sombrero galaxy is revealed in all its splendour by a telescope in Chile",
+        "description": "Science News: The Sombrero galaxy and its glowing halo of stars have never looked this good. The US National Science Foundation's NOIRLab released the latest photo.",
+        "url": "https://timesofindia.indiatimes.com/science/the-wide-brimmed-sombrero-galaxy-is-revealed-in-all-its-splendour-by-a-telescope-in-chile/articleshow/130547938.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130548160,width-1280,height-720,imgsize-87330,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-27T07:49:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "5,000-year-old mystery: Scientists discover Stone Age apocalypse in tomb of two peoples",
+        "description": "In France lies a stone tomb, which is biological proof of a Stone Age community that collapsed entirely. What happened to them is not known, barring speculations based on analysis of their remains. Decades later, they were replaced by a genetically different group.",
+        "url": "https://www.wionews.com/trending/5-000-year-old-mystery-scientists-discover-stone-age-apocalypse-in-tomb-of-two-peoples-1777273268146",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260427/image-1777274833199.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-27T07:27:00Z",
+        "source": "WION"
+      },
+      {
+        "title": "Gravitational waves as dark matter seeds",
+        "description": "Early-Universe gravitational waves created dark matter, offering a new explanation for one of cosmology’s biggest mysteries.",
+        "url": "https://www.techexplorist.com/dark-matter-origin-lies-early-universe-gravitational-waves/102799/",
+        "image": "https://www.techexplorist.com/wp-content/uploads/2026/04/evolution-of-our-universe.webp",
+        "publishedAt": "2026-04-27T07:16:17Z",
+        "source": "Tech Explorist"
+      },
+      {
+        "title": "Real-life Kraken revealed? Scientists discover 60-foot octopus that once ruled Earth’s oceans as a top predator",
+        "description": "Animals & Pets News: Fossil evidence suggests there were real ‘Kraken’ – finned octopuses who fed on large animals at the top of the food chain – in ancient Cretaceous oce.",
+        "url": "https://timesofindia.indiatimes.com/etimes/animals/real-life-kraken-revealed-scientists-discover-60-foot-octopus-that-once-ruled-earths-oceans-as-a-top-predator/articleshow/130546541.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130546628,width-1280,height-720,imgsize-50152,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-27T07:00:00Z",
+        "source": "The Times of India"
+      },
       {
         "title": "A 100-million-year-old snake with legs reveals new clues about evolution",
         "description": "Animals & Pets News: The discovery of an ancient snake fossil has changed the way that scientists view the evolution of snakes. About one hundred million years ago, some s.",
@@ -166,104 +198,72 @@
         "image": "https://bigthink.com/wp-content/uploads/2026/04/SM-Cover.jpg?resize=1200,630",
         "publishedAt": "2026-04-27T06:00:00Z",
         "source": "Big Think"
-      },
-      {
-        "title": "Man kills son and mother with axe, dies by suicide in Sabarkantha",
-        "description": "A gruesome incident in Sangrampura village of Khedbrahma taluka has left the community in shock after a man allegedly attacked his own family with an axe, killing his two-year-old son and mother before ending his own life.",
-        "url": "https://english.gujaratsamachar.com/news/gujarat/man-kills-son-and-mother-with-axe-dies-by-in-sabarkantha-village-59503053819.html",
-        "image": "https://static.gujaratsamachar.com/articles/articles_thumbs/photo_1777267477162.jpeg",
-        "publishedAt": "2026-04-27T05:29:04Z",
-        "source": "GujaratSamachar English"
-      },
-      {
-        "title": "Structural characteristics and evolutionary trajectories of knowledge recombination in the field of AI-driven drug discovery",
-        "description": "The rapid evolution of artificial intelligence (AI) and its profound integration with the pharmaceutical industry essentially constitute a process of knowledge recombination. Yet, empirical evidence systematically characterizing the structural and evolutionary dynamics of this phenomenon in AI-driven drug discovery remains scarce. Utilizing 494 granted invention patents from Chinese AI pharmaceutical firms (2011–2024), this study establishes a multi-method framework—integrating IPC co-occurrence networks, semantic similarity, LDA topic modelling, and longitudinal sliding-window analysis—to systematically characterize this cross-domain recombination. Structurally, the network exhibits a “sparse yet concentrated” topology. Bioinformatics (G16B) emerges as the critical bridging hub, facilitating distant recombination characterized by high combinatorial intensity but low cognitive similarity. Longitudinally, the network’s evolution reveals a “temporal lag” in knowledge integration, marked by declining network density alongside a rising average degree. The technological dominance transitioned progressively from traditional pharmaceuticals (A61K) to computing (G06F), and ultimately to bioinformatics (G16B) and multidisciplinary integration. These findings offer an empirical lens into the micro-level dynamics of interdisciplinary knowledge convergence, providing preliminary insights that may inform capability development and innovation policymaking.",
-        "url": "https://www.nature.com/articles/s41598-026-50574-3?error=cookies_not_supported&code=cc01f9d0-46ec-44fa-811d-b65aa8ad8a51",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-27T05:16:35Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Memories: Blank Slate or Pre-formed?",
-        "description": "The hippocampus is a key brain region involved in memory formation and spatial orientation. It transforms short-term memories into long-term ones",
-        "url": "https://www.miragenews.com/memories-blank-slate-or-pre-formed-1662421/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154392128-bf8c7ebee541%3Fixlib%3Drb-1.2.1%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-27T05:12:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "NASA made a typeface using satellite images of the Earth",
-        "description": "Spell your name in landscape photography taken from space.",
-        "url": "https://fastcompanyme.com/co-design/nasa-made-a-typeface-using-satellite-images-of-the-earth/",
-        "image": "https://fastcompanyme.com/wp-content/uploads/2026/04/NASA-made-a-typeface-using-satellite-images-of-the-Earth.jpg",
-        "publishedAt": "2026-04-27T05:02:21Z",
-        "source": "Fast Company Middle East"
       }
     ],
     "ai": [
       {
-        "title": "I asked ChatGPT how to pay off 25-Year home loan in 15 years: Check personal finance advice from AI",
-        "description": "ChatGPT advises a Bengaluru couple to increase their home loan EMI and make annual prepayments to close their loan early. Check the complete set of suggestions.",
-        "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-how-to-pay-off-25-year-home-loan-in-15-years-check-personal-finance-advice-from-ai-11777271625949.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/27/1600x900/logo/Home_loan_AI_1777272286469_1777272296207.jpg",
-        "publishedAt": "2026-04-27T06:45:40Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "The 2nd China (Guangxi)--ASEAN College Students Invitational Competition On Digital Economy and AI Application Innovation was grandly inaugurated in Kuala Lumpur.",
-        "description": "-China and Malaysia Jointly Designated Data Annotation and Corpus Training Base, Setting a New Benchmark for Industry-Education Integration",
-        "url": "https://www.manilatimes.net/2026/04/27/tmt-newswire/pr-newswire/the-2nd-china-guangxi-asean-college-students-invitational-competition-on-digital-economy-and-ai-application-innovation-was-grandly-inaugurated-in-kuala-lumpur/2328994",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/27/1030233.jpg",
-        "publishedAt": "2026-04-27T06:45:40Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "China’s DeepSeek slashes V4-Pro model prices: Is cost the new battleground in AI?",
-        "description": "In artificial intelligence, cost-effectiveness is replacing efficiency as the tool to rule the tech landscape. China has laid the foundation of this competition.\nDeepSeek is aggressively slashing...",
-        "url": "https://www.thenews.com.pk/latest/1400496-chinas-deepseek-slashes-v4-pro-model-prices-is-cost-the-new-battleground-in-ai",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-27/1400496_114523_updates.jpg",
-        "publishedAt": "2026-04-27T06:45:00Z",
+        "title": "After GPT-5.5 release, Sam Altman warns AGI could trigger ‘economic collapse’",
+        "description": "OpenAI CEO Sam Altman is once again in the spotlight due to its unsettling statement envisioning Artificial General Intelligence-powered future of humanity.\nIn a recent post shared on X, Sam Altman...",
+        "url": "https://www.thenews.com.pk/latest/1400502-after-gpt-55-release-sam-altman-warns-agi-could-trigger-economic-collapse",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-27/1400502_124736_updates.jpg",
+        "publishedAt": "2026-04-27T07:48:00Z",
         "source": "The News International"
       },
       {
-        "title": "DeepSeek V4-Pro Price Cut By 75% - Price Comparison With OpenAI's ChatGPT, Google Gemini, Anthropic Claude, Perplexity Pro",
-        "description": "The cuts have escalated the pricing war in the AI space, even as computing power costs continue to exert pressure on AI developers and tech majors.",
-        "url": "https://www.ndtvprofit.com/technology/deepseek-v4-pro-price-cut-by-75-price-comparison-with-openais-chatgpt-google-gemini-anthropic-claude-perplexity-pro-11414178",
-        "image": "https://c.ndtvimg.com/2026-04/9pidj8jc_deepseek-v4pro_625x300_27_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-04-27T06:39:12Z",
-        "source": "NDTV Profit"
+        "title": "DeepSeek's AI Evolution: Navigating New Geopolitical and Market Realities",
+        "description": "DeepSeek, a Chinese AI startup, recently launched its latest model, DeepSeek-V4. While last year's breakthrough with low-cost AI models caused a major market stir, the latest release met a more muted response. Analysts suggest this is due to shifting market expectations and intensified competition both globally and within China.",
+        "url": "https://www.devdiscourse.com/article/technology/3888206-deepseeks-ai-evolution-navigating-new-geopolitical-and-market-realities",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2025_07_07_00_4591046.png&width=920&format=jpeg",
+        "publishedAt": "2026-04-27T07:45:10Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "India IT Stocks Shed $115 Bn in Four Months as Earnings Disappoint",
-        "description": "India’s IT stocks have lost nearly $115 billion in market value in four months as Infosys, TCS and HCL Tech deliver disappointing earnings. Learn how weak global demand, geopolitical risks and the rapid rise of AI are pressuring valuations, reshaping outsourcing models and weighing on the Nifty IT Index.",
-        "url": "https://www.outlookbusiness.com/markets/india-it-stocks-shed-115-bn-in-four-months-as-earnings-disappoint",
-        "image": "https://media.assettype.com/outlookbusiness/2025-06-13/msbbomxc/Stock-Market-Crash?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-27T06:38:51Z",
-        "source": "Outlook Business"
+        "title": "DeepSeek's new AI model does not wow markets in fast-changing industry",
+        "description": "Market reaction to DeepSeek's preview of its long-awaited next-generation artificial intelligence model has so far been subdued compared with the Chinese startup's outsized global breakthrough last...",
+        "url": "https://www.marketscreener.com/news/deepseek-s-new-ai-model-does-not-wow-markets-in-fast-changing-industry-ce7f59dcdc81f524",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-29T103418Z_1_LYNXNPEL8S0DL_RTROPTP_4_DEEPSEEK-MARKETS.JPG",
+        "publishedAt": "2026-04-27T07:44:31Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "OpenAI CEO Sam Altman is literally losing sleep over the technology that he says will ‘collapse’ the economy",
-        "description": "Tech News News: OpenAI CEO Sam Altman is once again making headlines with his latest post on X (formerly Twitter). Altman shared a post earlier today where he predict.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-is-literally-losing-sleep-over-the-technology-that-he-says-will-collapse-the-economy/articleshow/130546346.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130546334,width-1280,height-720,imgsize-513993,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-27T06:38:00Z",
-        "source": "Times of India"
+        "title": "CERT-In outlines safeguards for Indian orgs, MSMEs amid Mythos AI cybersecurity risk concerns",
+        "description": "Anthropic’s new AI model ‘Mythos’ – considered too risky to be released widely to the public – has become a wake-up call for regulators in India and globally.",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/cert-in-safeguards-msmes-mythos-ai-cybersecurity-risk-10657982/",
+        "image": "https://images.indianexpress.com/2026/04/Tech-featured-image205.jpg",
+        "publishedAt": "2026-04-27T07:44:05Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Elon Musk and OpenAI CEO Sam Altman head to court in high",
-        "description": "Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled",
-        "url": "https://www.breitbart.com/news/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/",
-        "image": "https://media.breitbart.com/media/2026/04/wi/ap/26-breakthrough-prize-ceremony-12266-2026-breakthrough-prize-ceremony-sam-altman-arrives-at-12th-640x335.jpg",
-        "publishedAt": "2026-04-27T06:33:40Z",
-        "source": "Breitbart News Network"
+        "title": "OpenAI updated its principles: Here's what quietly changed",
+        "description": "Sam Altman published a new set of operating principles on Sunday, and the gap between what OpenAI said in 2018 and what it says now tells a story about how the company sees itself, its rivals, and...",
+        "url": "https://www.thenews.com.pk/latest/1400503-openai-updated-its-principles-heres-what-quietly-changed",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-04-27/1400503_011723_updates.jpg",
+        "publishedAt": "2026-04-27T07:43:32Z",
+        "source": "The News International"
       },
       {
-        "title": "Axis Bank reduces headcount by over 3,100 in FY26 due to tech gains",
-        "description": "Axis Bank reduced headcount by over 3,100 in FY26 as technology investments improved productivity, even as it added 400 branches and continued investing in AI and digitisation",
-        "url": "https://www.business-standard.com/industry/banking/axis-bank-reduces-headcount-by-over-3-100-in-fy26-due-to-tech-gains-126042700357_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/06/thumb/featurecrop/1200X628/1725614831-4473.jpg",
-        "publishedAt": "2026-04-27T06:33:30Z",
-        "source": "Business Standard"
+        "title": "ACE the ping pong robot developed by engineers and researchers at THK and Sony AI is getting better and better at the game.",
+        "description": "A new chapter in sports technology has unfolded as a table tennis robot named ACE has achieved a milestone that once seemed far beyond the reach of ma...",
+        "url": "https://itwire.com/business-it-news/data/ace-the-ping-pong-robot-developed-by-engineers-and-researchers-at-thk-and-sony-ai-is-getting-better-and-better-at-the-game.html",
+        "image": "https://itwire.com/media/k2/items/cache/f51b3bc33aa4abfa54731e950b38da4b_XS.jpg",
+        "publishedAt": "2026-04-27T07:42:14Z",
+        "source": "iTWire"
+      },
+      {
+        "title": "Indian tech giants struggle to shake off $115 billion rout amid Iran war, AI challenge",
+        "description": "Infosys, the second-largest outsourcer, forecast annual sales growth below analysts’ estimates Thursday, following a profit miss at smaller rival HCL Technologies two days earlier.",
+        "url": "https://theprint.in/economy/indian-tech-giants-struggle-to-shake-off-115-billion-rout-amid-iran-war-ai-challenge/2915134/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/04/20210118023L-e1777275582231.jpeg",
+        "publishedAt": "2026-04-27T07:40:49Z",
+        "source": "ThePrint"
+      },
+      {
+        "title": "India Tech Giants Struggle To Shake Off $115 Billion Rout",
+        "description": "A crucial metric for investors is how effectively India's IT outsourcers adapt - both in how quickly they embed AI into their own delivery models and how successfully they reposition themselves in the value chain.",
+        "url": "https://www.ndtv.com/india-news/india-tech-giants-struggle-to-shake-off-115-billion-rout-11414412",
+        "image": "https://c.ndtvimg.com/2026-04/9lokuuuk_tech_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-27T07:38:22Z",
+        "source": "NDTV.com"
       }
     ]
   }
