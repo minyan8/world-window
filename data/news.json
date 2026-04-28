@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-28T16:58:03.486Z",
+  "fetchedAt": "2026-04-28T17:54:54.428Z",
   "sections": {
     "world": [
       {
-        "title": "New Zealand reports possible N. Korea sanctions breaches at sea",
-        "description": "New Zealand said its spy plane had spotted an at-sea transfer of illicit goods as part of its monitoring of N. Korean attempts to evade international sanctions.",
-        "url": "https://globalnation.inquirer.net/320260/new-zealand-reports-possible-north-korea-sanctions-breaches-at-sea",
-        "image": "https://globalnation.inquirer.net/files/2026/04/New-Zealand-reports-possible-North-Korea-sanctions-breaches-at-sea-scaled.jpg",
-        "publishedAt": "2026-04-28T04:56:00Z",
-        "source": "Inquirer.net"
+        "title": "Signs of El Niño emerging rapidly",
+        "description": "Sea surface temperature observations from the past two weeks suggest that El Niño could be rapidly emerging in the tropical Pacific Ocean.",
+        "url": "https://www.weatherzone.com.au/news/signs-of-el-nino-emerging-rapidly/1891329",
+        "image": "https://www.weatherzone.com.au/news-thumbnail/2962661",
+        "publishedAt": "2026-04-28T05:52:00Z",
+        "source": "Weatherzone"
       },
       {
-        "title": "‘I’ll be there’: Richard Neal, a key ally of Ireland, objected to the last British monarch’s address to Congress - but not this time",
-        "description": "Congressman quietly absented himself when a British monarch last addressed Congress. But times have changed – on both sides of the Atlantic",
-        "url": "https://www.irishtimes.com/world/us/2026/04/28/ill-be-there-richard-neal-key-ally-to-ireland-on-capitol-hill-will-be-present-for-king-charles-address/",
-        "image": "https://www.irishtimes.com/resizer/v2/JR7GHWSJJNPDO3OH2LID2AVLQ4.jpg?smart=true&auth=20ba2c42956694694ad033e1d7deb90350fc03a5bdd6eb0c195adbd6c93403ee&width=1200&height=630",
-        "publishedAt": "2026-04-28T04:53:58Z",
-        "source": "The Irish Times"
+        "title": "Iranian Oil Tankers Are Clustering Just Shy of US Blockade Line",
+        "description": "Tankers laden with Iranian oil are clustering off Chabahar, a port in Iran that’s outside the Persian Gulf but just shy of the US blockade line.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-28/iranian-oil-tankers-are-clustering-just-shy-of-us-blockade-line",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz2Ew2FNgy5c/v0/1200x799.jpg",
+        "publishedAt": "2026-04-28T05:49:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Greek FM in Libya for talks on migration, maritime borders and economic ties",
-        "description": "The Greek Foreign Minister Giorgos Gerapetritis received a warm welcome in Tripoli on Monday as he arrived for talks with his Libyan counterpart, Taher al-Baour.",
-        "url": "https://www.africanews.com/2026/04/28/greek-fm-in-libya-for-talks-on-migration-maritime-borders-and-economic-ties/",
-        "image": "https://images.euronews.com/articles/stories/09/73/84/01/1024x538_cmsv2_945e16e0-5acc-5f5f-9ce7-561506702058-9738401.jpg",
-        "publishedAt": "2026-04-28T04:52:32Z",
-        "source": "africanews.com"
+        "title": "Climate fight needs cash: Sweden backs talks in Southeast Asia",
+        "description": "Sweden is backing a new push to unlock billions for climate action in Southeast Asia, as governments across ASEAN meet this week. The talks, led by UNDP and hosted by …",
+        "url": "https://scandasia.com/climate-fight-needs-cash-sweden-backs-talks-in-southeast-asia/",
+        "image": "https://scandasia.com/wp-content/uploads/2022/05/climate-change.1.webp",
+        "publishedAt": "2026-04-28T05:46:40Z",
+        "source": "Scandasia"
       },
       {
-        "title": "Death toll after train crash near Indonesia’s Jakarta rises to 14",
-        "description": "The head of the national rescue agency says efforts continue to remove people trapped in wreckage.",
-        "url": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-27T201335Z_915219847_RC2VXKAF0KNY_RTRMADP_3_INDONESIA-TRAINS-1777336772.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-28T04:52:30Z",
-        "source": "Al Jazeera"
+        "title": "It’s fine to call the US president a fascist or a despot - but this one line really rattled the White House",
+        "description": "At a time when there should be sympathy for Donald Trump and the White House, they make it so much harder by overplaying their hand.",
+        "url": "https://www.theage.com.au/world/north-america/it-s-fine-to-call-the-us-president-a-fascist-or-a-despot-but-this-one-line-really-rattled-the-white-house-20260428-p5zrn2.html",
+        "image": "https://static.ffx.io/images/$zoom_0.883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_87%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/b637edd05aba3947c1907f2b2030ae43494a7cd7",
+        "publishedAt": "2026-04-28T05:45:00Z",
+        "source": "The Age"
       },
       {
-        "title": "Global military spending hits record high amid warnings of new arms race",
-        "description": "The world is spending more money on weapons than ever before, reaching nearly $4 trillion in 2025.",
-        "url": "https://www.abc.net.au/news/2026-04-28/global-military-spending-hits-record-high-how-countries-rank/106611800",
-        "image": "https://live-production.wcms.abc-cdn.net.au/cbc95b010b69e54739fbafb075e41aba?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-28T04:49:14Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Heavy flooding in southern China forces evacuations and leaves vehicles submerged",
+        "description": "Heavy flooding from torrential rain submerged vehicles and forced the evacuation of more than 200 residents in a southern Chinese city.",
+        "url": "https://apnews.com/article/china-floods-qinzhou-torrential-rain-37626ae30e45c90f11b81d259ad919b4",
+        "image": "https://dims.apnews.com/dims4/default/d463d21/2147483647/strip/true/crop/2438x1625+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F38%2F8bd6acb8073e88909c28b4cdf968%2F7153e790c5fe4f919c17b1ad178d55ad",
+        "publishedAt": "2026-04-28T05:43:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Women-only carriage bore the brunt of Jakarta train crash",
-        "description": "A Jakarta train collision saw a women-only carriage suffer severe damage, resulting in casualties and injuries in one of Indonesia's worst rail accidents. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/her-body-was-swollen-women-only-carriage-bore-the-brunt-of-jakarta-train-collision",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1e417eb88016b5c714d2fb6d8fe8d0fcedd6ce80347b9b0050e6b26cae7e9fce",
-        "publishedAt": "2026-04-28T04:48:26Z",
-        "source": "The Straits Times"
+        "title": "Tanzania Embarks On Upgrading Its Road Network At the Height of Wet Season",
+        "description": "THE Tanzanian government has pledged to ensure all roads in Dar es Salaam remain passable throughout the year, in a major push to ease daily life and unlock economic growth.",
+        "url": "https://allafrica.com/stories/202604280057.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-04-28T05:37:29Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "Did Kash Patel’s Hindu identity keep him off Trump dinner shooter’s hit list?",
-        "description": "Investigators are probing why Kash Patel was excluded from the WHCD gunman’s hit list, examining religion, strategy and political motives behind the manifesto.",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/did-kash-patel-s-hindu-identity-keep-him-off-trump-dinner-shooter-s-hit-list-article-13901517.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260426091851_kashpatelnew.png",
-        "publishedAt": "2026-04-28T04:45:11Z",
-        "source": "Moneycontrol.com"
+        "title": "Tanzania Renews Efforts to Ensure Licensed Mines Begin Production Timely",
+        "description": "THE Minister for Minerals, Anthony Mavunde, has said that the Mining Commission will continue issuing licences for various mining activities and development projects while closely monitoring their implementation to ensure they contribute effectively to the national economy.",
+        "url": "https://allafrica.com/stories/202604280055.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-04-28T05:32:36Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "Somalia Drought Crisis Displaces Over 500,000 Amid Hunger Surge",
-        "description": "Across Somalia, a worsening hunger crisis is unfolding as prolonged drought continues to devastate communities, destroy livelihoods, and force large-scale displacement. The failed September Deyr rains have further deepened the climate emergency, leading to repeated harvest failures and widespread loss of livestock, which many families depend on for survival. So far this year, more than",
-        "url": "https://news.fundsforngos.org/2026/04/28/somalia-drought-crisis-displaces-over-500000-amid-hunger-surge/",
-        "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
-        "publishedAt": "2026-04-28T04:34:13Z",
-        "source": "fundsforNGOs News"
+        "title": "Rwanda: RwandAir, Partners Honour Aviation Personnel Killed in Genocide, Uphold National Unity",
+        "description": "RwandAir and aviation sector stakeholders on Friday, April 24, paid tribute to 13 former airline staff killed in the 1994 Genocide against the Tutsi, while reaffirming their commitment to reject persecution and uphold unity.",
+        "url": "https://allafrica.com/stories/202604280070.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-04-28T05:32:36Z",
+        "source": "allAfrica.com"
       }
     ],
     "business": [
       {
-        "title": "Johari open to EVs for ministers, but says charging network must come first",
-        "description": "KUALA LUMPUR: Cabinet minister Datuk Seri Johari Abdul Ghani says he is open to Cabinet ministers using electric vehicles (EVs) as part of a cost-cutting measure amid the ongoing global oil crisis",
-        "url": "https://www.thestar.com.my/news/nation/2026/04/28/johari-open-to-evs-for-ministers-but-says-charging-network-must-come-first",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/28/3881224.jpg",
-        "publishedAt": "2026-04-28T04:58:00Z",
-        "source": "The Star"
+        "title": "Oil forecasts raised as prolonged Strait of Hormuz disruption continues",
+        "description": "We now assume oil flows through the Strait of Hormuz will slowly start resuming in May and June",
+        "url": "https://think.ing.com/articles/oil-forecasts-revised-higher-as-strait-of-hormuz-disruption-drags-on280426/",
+        "image": "https://think.ing.com/uploads/hero/_w800h450/Iran_conflict_oil_prices_010326.jpg",
+        "publishedAt": "2026-04-28T05:53:45Z",
+        "source": "ING THINK economic and financial analysis | ING THINK"
       },
       {
-        "title": "PSU bank stocks fall up to 3%. How RBI’s ECL directions can impact lenders",
-        "description": "PSU bank stocks fell up to 3% on Tuesday after RBI confirmed the rollout of the Expected Credit Loss (ECL) framework from April 2027, triggering concerns over higher provisioning and capital impact. Brokerages warn of a potential 5–10% hit to net worth, though phased implementation may soften the immediate blow.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-sbi-other-psu-bank-stocks-fall-up-to-3-how-rbis-ecl-directions-can-impact-lenders/articleshow/130569800.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130569786,width-1200,height-630,imgsize-17022,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-28T04:53:33Z",
-        "source": "The Economic Times"
+        "title": "Amazon Now to expand to 100 cities: Eternal, Swiggy shares fall up to 3% as quick commerce war deepens",
+        "description": "The expansion of Amazon Now is likely to heighten competition in the quick commerce space.",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/amazon-now-to-expand-to-100-cities-eternal-swiggy-shares-fall-up-to-3-as-quick-commerce-war-deepens-13901583.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/02/20250211070808_Zomato-Swiggy.jpg",
+        "publishedAt": "2026-04-28T05:49:49Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Woman questions Prudential's head of life claims in lawsuit seeking brain surgery payout as insurer responds",
-        "description": "Ms Cai Yunhong questioned Prudential's head of life claims on the way her policy documents were drafted, alleging that they were \"convoluted\" and \"full of ambiguities\".",
-        "url": "https://www.channelnewsasia.com/singapore/woman-questions-prudential-life-claims-head-insurer-responds-6085366",
-        "image": "https://dam.mediacorp.sg/image/upload/s--Bg_BLorZ--/c_crop,h_900,w_1600,x_0,y_143/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=zLClqFoS",
-        "publishedAt": "2026-04-28T04:50:00Z",
-        "source": "CNA"
+        "title": "Hero Moto Sales Breakup March 2026 - Splendor, Deluxe, Glamour, Passion, Destini, Xtreme, Vida",
+        "description": "Hero MotoCorp domestic sales in March 2026 stood at 5,50,259 units, registering an 8.06% YoY growth compared to 5,09,218 units in March 2025",
+        "url": "https://www.rushlane.com/hero-moto-sales-breakup-march-2026-splendor-deluxe-glamour-12545293.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2025/09/hero-125-million-editions-launched-new-2.jpg",
+        "publishedAt": "2026-04-28T05:49:18Z",
+        "source": "RushLane"
       },
       {
-        "title": "Stranded in mountains, Vietnamese student survives for 37 hours on Choco Pies",
-        "description": "A college student stranded in the mountains of Vietnam reportedly survived for 37 hours on just Orion Choco Pies. The Korean snack, already beloved...",
-        "url": "https://www.koreatimes.co.kr/world/20260428/stranded-in-mountains-vietnamese-student-survives-for-37-hours-on-choco-pies",
-        "image": "https://newsimg.koreatimes.co.kr/2026/04/28/0bc3f2a2-c4e8-4fe8-b371-16de23d0a1e0.jpg",
-        "publishedAt": "2026-04-28T04:49:06Z",
-        "source": "The Korea Times"
+        "title": "Rockhampton's Plaza Hotel set to go under the hammer, but no inspections allowed",
+        "description": "Rockhampton's Plaza Hotel is set to go under the hammer after closing down more than a decade ago.",
+        "url": "https://www.abc.net.au/news/2026-04-28/rockhampton-plaza-hotel-to-go-to-public-auction/106615732",
+        "image": "https://live-production.wcms.abc-cdn.net.au/2e678552f9082fb9f61543ed2a05fc10?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=4&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-28T05:44:57Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "GWM eyes V8 return to Australia with Tank 700 SUV",
-        "description": "Great Wall Motors, is eyeing the addition of V8 power in Australia, with a new flagship SUV leading the charge.",
-        "url": "https://www.news.com.au/technology/motoring/on-the-road/chinese-carmaker-hints-new-v8-engine-could-come-to-australia/news-story/df6016400ab03dd95f653baedf86b09d",
-        "image": "https://content.api.news/v3/images/bin/27f77b89c9776da6fe7557e855dc02af",
-        "publishedAt": "2026-04-28T04:40:43Z",
-        "source": "News.com.au"
+        "title": "3 oversold ASX shares to buy with $10,000",
+        "description": "Looking for cheap ASX shares to buy? Here are three to consider if you have $10,000 to invest in the share market...",
+        "url": "https://www.fool.com.au/2026/04/28/3-oversold-asx-shares-to-buy-with-10000/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2024/12/bank-blues-16.9-1200x675.jpg",
+        "publishedAt": "2026-04-28T05:40:47Z",
+        "source": "The Motley Fool Australia"
       },
       {
-        "title": "First LNG Shipment Crosses Strait Of Hormuz Since West Asia War Began",
-        "description": "The vessel had stopped transmitting its signal around March 31, only to reappear near Indian waters this week.",
-        "url": "https://www.news18.com/world/first-lng-shipment-crosses-strait-of-hormuz-in-a-first-since-west-asia-war-began-ws-l-10061116.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/03/image-2026-03-284864150d55939c43459abedab90cf6-1200x675.jpg",
-        "publishedAt": "2026-04-28T04:38:49Z",
-        "source": "News18"
+        "title": "“Scam Altman and Greg Stockman”: Elon Musk makes fun of OpenAI CEO and President, accuses the two of …",
+        "description": "Tech News News: As the legal battle between Elon Musk and ChatGPT-maker OpenAI kicked off on Monday, April 27, the Tesla CEO has launched fresh attacks against CEO Sa.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/scam-altman-and-greg-stockman-elon-musk-mocks-openai-ceo-and-co-founder-accuses-the-two-of-/articleshow/130570699.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130570682,width-1280,height-720,imgsize-1086229,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-28T05:40:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Hong Kong home prices rise higher in March as rents peak for a fifth month straight",
-        "description": "Prices of the city’s residential property rose by 1.4 per cent, showing strong resilience despite economic turbulence caused by the Iran war.",
-        "url": "https://www.scmp.com/business/article/3351644/hong-kong-home-prices-rise-higher-march-rents-peak-fifth-month-straight",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/28/5297402d-dd4e-4c24-b018-5aff4c2bb5a6_bd00cc0c.jpg?itok=ew1siDsM&v=1777350326",
-        "publishedAt": "2026-04-28T04:38:44Z",
-        "source": "South China Morning Post"
+        "title": "PFA More Effective Than Medical Therapy for Persistent AF",
+        "description": "In treatment-naive persistent atrial fibrillation, pulsed field ablation outperformed antiarrhythmic drugs at 12 months, the AVANT GUARD trial finds.",
+        "url": "https://consultqd.clevelandclinic.org/pulsed-field-ablation-for-initial-treatment-of-persistent-af",
+        "image": "https://assets.clevelandclinic.org/transform/LargeFeatureImage/9be7fda4-321c-4848-8679-b904327262b8/CCC_4654080_02-26-24_121_MLC-jpg",
+        "publishedAt": "2026-04-28T05:37:30Z",
+        "source": "Cleveland Clinic"
       },
       {
-        "title": "'Backup buffer': Government buys 90 million more litres of diesel",
-        "description": "The fuel will be delivered to Marsden Point in Northland and stored in a refurbished tank at Channel Infrastructure's site as early as late June.",
-        "url": "https://www.1news.co.nz/2026/04/28/govt-negotiates-for-90-million-more-litres-of-diesel-to-come-to-nz/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/marsden-point-getty-IQQZRU5NHRCUVAY7CWKC2HGV4I.jpg?auth=4eaf02c8295c53212c6dc1b3003b3f8ae06d15187f711ea0ad3292a0b2bcd1dc&quality=70&width=600&height=315&focal=2505%2C1409",
-        "publishedAt": "2026-04-28T04:37:31Z",
-        "source": "1News"
+        "title": "Budget airlines first to cut flights as jet fuel prices soar",
+        "description": "Ryanair, Transavia, Volotea and other low-cost airlines are feeling the financial pain from high jet fuel prices as a result of the Middle East war and are cutting flights.",
+        "url": "https://www.france24.com/en/live-news/20260428-budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
+        "image": "https://s.france24.com/media/display/078db2aa-42c4-11f1-81e7-005056bf30b7/w:1280/p:16x9/4e16f17bbb9e45595ccc5c6987df058eceea7ef0.jpg",
+        "publishedAt": "2026-04-28T05:35:14Z",
+        "source": "France 24"
       }
     ],
     "science": [
+      {
+        "title": "Data reveals wealthy kids use screens more than poorer peers",
+        "description": "A new study shows that ccreen time among children has soared over the past 30 years.",
+        "url": "https://www.wyomingnewsnow.tv/news/national/data-reveals-wealthy-kids-use-screens-more-than-poorer-peers/article_fb22190d-169e-5ab8-ae96-34f880353736.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnewsnow.tv/content/tncms/assets/v3/editorial/5/c6/5c6b97dc-dcc6-526d-9140-50269c42ae1b/69ef9d8955a19.image.jpg?crop=1470%2C772%2C0%2C165&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-04-28T05:30:18Z",
+        "source": "wyomingnewsnow.tv"
+      },
+      {
+        "title": "Europe AI in Genomics Market Size",
+        "description": "The Europe AI in Genomics Market is estimated to reach USD 630.11 million in 2026, and is projected to reach USD 9,568.11 million by 2034",
+        "url": "https://www.marketdataforecast.com/market-reports/europe-ai-in-genomics-market",
+        "image": "https://www.marketdataforecast.com/images/download.png",
+        "publishedAt": "2026-04-28T05:29:41Z",
+        "source": "Market Data Forecast"
+      },
+      {
+        "title": "Detailed images reveal DNA repair mechanism in cancer-related proteins",
+        "description": "Scientists have captured the most detailed structural images to date of a specific type of protein's DNA repair process, a finding that could reveal ways to inhibit the effects of BRCA1 and BRCA2 mutations that heighten the risk for breast, ovarian and other cancers.",
+        "url": "https://www.news-medical.net/news/20260428/Detailed-images-reveal-DNA-repair-mechanism-in-cancer-related-proteins.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Protein-620x480.jpg",
+        "publishedAt": "2026-04-28T05:26:00Z",
+        "source": "News-Medical"
+      },
+      {
+        "title": "Russia’s spacecraft ‘Progress 95’ docked at ISS with food and fuel - but what exactly is it?",
+        "description": "Progress 95 cargo spacecraft docks at the ISS carrying food, fuel and supplies, ensuring continued operations, supporting astronauts, enabling research activities and maintaining the station’s orbit and functionality.",
+        "url": "https://www.moneycontrol.com/science/russia-s-spacecraft-progress-95-docked-at-iss-with-food-and-fuel-but-what-exactly-is-it-article-13901543.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260428051250_NASA-space.jpg",
+        "publishedAt": "2026-04-28T05:22:49Z",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Stargazing from Churchill backyard",
+        "description": "By PEACE IJIYERA   LOCAL amateur astronomer, Chris Stockdale, has sighted potential planets around distant stars all from his backyard [...]",
+        "url": "https://latrobevalleyexpress.com.au/news/2026/04/28/stargazing-from-churchill-backyard/",
+        "image": "https://latrobevalleyexpress.com.au/wp-content/uploads/2026/04/chrisphoto1_66336-1024x683.jpg",
+        "publishedAt": "2026-04-28T05:21:16Z",
+        "source": "Latrobe Valley Express"
+      },
+      {
+        "title": "NASA Satellite Captures Fiery Autumn Transformation in Patagonia",
+        "description": "Stunning NASA satellite images reveal the vibrant red and gold transformation of Chile’s southern beech forests. A rare look at Patagonia’s seasonal shift.",
+        "url": "https://streamlinefeed.co.ke/news/nasa-satellite-captures-fiery-autumn-transformation-in-patagonia",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagonia_oli2_20260412_th.jpg",
+        "publishedAt": "2026-04-28T05:07:53Z",
+        "source": "streamlinefeed.co.ke"
+      },
+      {
+        "title": "Seeing the Invisible: Scientists Develop New Way To Track Particles in 3D",
+        "description": "Physicists are rethinking how to detect elusive particles like neutrinos by combining existing technologies in unconventional ways.",
+        "url": "https://scitechdaily.com/seeing-the-invisible-scientists-develop-new-way-to-track-particles-in-3d/",
+        "image": "https://scitechdaily.com/images/New-Monolithic-Detector-System-Neutrinos.jpg",
+        "publishedAt": "2026-04-28T05:01:09Z",
+        "source": "SciTechDaily"
+      },
       {
         "title": "How to catch the Eta Aquarid meteor shower this May",
         "description": "The Eta Aquarid meteor shower peaks in early May over Australia. Here’s how to see it, including best viewing times and conditions.",
@@ -142,128 +198,72 @@
         "image": "https://www.russh.com/wp-content/uploads/2026/04/eta.jpg",
         "publishedAt": "2026-04-28T04:32:16Z",
         "source": "RUSSH"
-      },
-      {
-        "title": "See Halley's Comet (Well, Sort of ...)",
-        "description": "Week of May 3-9, 2026 If you're old enough, do you remember seeing Halley's Comet — the most famous of all celestial nomads — when it swung past our neck of the cosmic woods in 1986? I did, and I wasn't terribly impressed. It was arguably one of the comet's worst appearances in some 2,000 years.",
-        "url": "https://www.creators.com/read/stargazers/04/26/see-halleys-comet-well-sort-of-",
-        "image": "https://cdn.creators.com/308/414955/3fe7c9161267b02c8750a101de35ade3baf5f8bd.jpg",
-        "publishedAt": "2026-04-28T04:16:38Z",
-        "source": "Creators Syndicate"
-      },
-      {
-        "title": "Two whale groups separated by seas-but not by genes, study finds",
-        "description": "A paper in Genome Biology and Evolution discovers that the endangered Mediterranean fin whale is not completely isolated from Atlantic groups. Both Atlantic and Mediterranean populations have declined for the past 200,000 years. Considering more recent threats to the whales, this finding has important implications for conservation, particularly considering increasing anthropogenic pressures.",
-        "url": "https://phys.org/news/2026-04-whale-groups-seas-genes.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mediterranean-fin-whal.jpg",
-        "publishedAt": "2026-04-28T04:10:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Whale Groups Divided by Seas, United by Genes",
-        "description": "A new paper in Genome Biology and Evolution, published by Oxford University Press, discovers that the endangered Mediterranean fin whale is not",
-        "url": "https://www.miragenews.com/whale-groups-divided-by-seas-united-by-genes-1663091/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2016%2F12%2F13%2F05%2F27%2Fdna-1903318_960_720.jpg",
-        "publishedAt": "2026-04-28T04:08:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Two whale groups separated by seas-but not by genes, study finds",
-        "description": "A new paper in Genome Biology and Evolution discovers that the endangered Mediterranean fin whale is not completely isolated from Atlantic groups. Both Atlantic and Mediterranean populations have declined for the past 200,000 years. Considering more recent threats to the whales, this finding has important implications for conservation, particularly considering increasing anthropogenic pressures.",
-        "url": "https://www.eurekalert.org/news-releases/1125360",
-        "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-        "publishedAt": "2026-04-28T04:07:01Z",
-        "source": "EurekAlert!"
-      },
-      {
-        "title": "Mapping Molecular Markers Of Physical Fitness",
-        "description": "Patterns of molecular activity in the blood may hold clues not only to how fit someone is, but also to the biological processes that support physical",
-        "url": "https://www.miragenews.com/mapping-molecular-markers-of-physical-fitness-1663080/",
-        "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-Fitness-Markers-01.jpg",
-        "publishedAt": "2026-04-28T04:02:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Robotic Blocks Revolutionize Efficient, Green Building",
-        "description": "Robotically assembled building blocks could be a more environmentally friendly method for erecting large-scale structures than some existing",
-        "url": "https://www.miragenews.com/robotic-blocks-revolutionize-efficient-green-1663078/",
-        "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-sustain-voxels-01-press.jpg",
-        "publishedAt": "2026-04-28T04:02:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Mapping molecular markers of physical fitness",
-        "description": "The PhenoMol computational model analyzes biomarkers of cellular activity to help predict an individual’s physical fitness level. The model could advance future studies to improve fitness training and speed injury or disease recovery.",
-        "url": "https://news.mit.edu/2026/mapping-molecular-markers-of-physical-fitness-0428",
-        "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-Fitness-Markers-01.jpg",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "MIT News"
       }
     ],
     "ai": [
       {
-        "title": "‘It guessed instead of verifying’: How an AI coding agent deleted company’s entire database",
-        "description": "PocketOS founder Jer Crane reveals how a Claude Opus 4.6 AI agent deleted his production database, exposing hidden risks in AI driven development workflows",
-        "url": "https://www.cnbctv18.com/technology/it-guessed-instead-of-verifying-how-an-ai-coding-agent-deleted-companys-entire-database-ws-el-19894628.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/image-2026-04-1aaf8322bd0b1c323996988fcba1f920.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-28T04:57:53Z",
-        "source": "CNBC TV18"
-      },
-      {
-        "title": "Foundation stone laid for Google Cloud India AI Hub in Visakhapatnam under Adani-Google-Airtel data centre project",
-        "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu on Tuesday laid the foundation stone of the Google Cloud India AI Hub in Visakhapatnam, marking a major step in building large-scale digital and AI infrastructure in the state.",
-        "url": "https://www.devdiscourse.com/article/business/3888877-foundation-stone-laid-for-google-cloud-india-ai-hub-in-visakhapatnam-under-adani-google-airtel-data-centre-project",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_26_25_1627187.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-28T04:56:28Z",
+        "title": "BlueFocus CEO Fei Pan on Re-Architecting Marketing Around AI",
+        "description": "In a letter to investors released alongside the annual report, Pan wrote that BlueFocus had already moved beyond the shallow stage of using AI tools simply to cut costs and improve efficiency and had moved into the stage of using truly AI Native methods to reconstruct our business, build new models, build new organizations, and create new intelligence capable of autonomous decision-making. That claim rests on a specific operating view of AI adoption.",
+        "url": "https://www.devdiscourse.com/article/technology/3888955-bluefocus-ceo-fei-pan-on-re-architecting-marketing-around-ai",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-28T05:54:08Z",
         "source": "Devdiscourse"
       },
       {
-        "title": "Ashwini Vaishnaw arrives in Visakhapatnam for Google data centre foundation ceremony",
-        "description": "Union Minister Ashwini Vaishnaw on Tuesday arrived in Visakhapatnam to participate in the foundation stone laying ceremony of the Google AI Data Centre at Tarluvada in Anandapuram mandal.",
-        "url": "https://www.devdiscourse.com/article/headlines/3888868-ashwini-vaishnaw-arrives-in-visakhapatnam-for-google-data-centre-foundation-ceremony",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_24_21_3900662.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-28T04:54:23Z",
-        "source": "Devdiscourse"
+        "title": "Architecting Marketing Around AI",
+        "description": "BEIJING, April 27, 2026 /PRNewswire/ -- For BlueFocus, AI is no longer a layer of efficiency. It is becoming a test of what kind of company the business can become. The company's 2025 annual report, released last week, reported revenue...",
+        "url": "https://www.tribuneindia.com/news/business/bluefocus-ceo-fei-pan-on-re-architecting-marketing-around-ai/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWExOTdiZDMwLTQyYzYtMTFmMS1hN2E4LTBiYmQxYTg3OWNjMC5qcGc=",
+        "publishedAt": "2026-04-28T05:53:14Z",
+        "source": "The Tribune"
       },
       {
-        "title": "AI imagines Deepika Padukone in Russian, Mongolian, Chinese, more looks: Internet says ‘she looks cute as South Korean’",
-        "description": "AI artist Mr Hellrocker reimagined Deepika Padukone in various global looks, showcasing her in traditional attire from Brazil, Nigeria, Mongolia, and more. | Fashion Trends",
-        "url": "https://www.hindustantimes.com/lifestyle/fashion/ai-imagines-deepika-padukone-in-russian-mongolian-chinese-more-looks-internet-says-she-looks-cute-as-south-korean-101777349242709.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/28/550x309/deepika_padukone_1777349744014_1777349748659.jpg",
-        "publishedAt": "2026-04-28T04:53:59Z",
-        "source": "Hindustan Times"
+        "title": "The End of Human Content Creators: Why Big Tech Is Gearing Up for a Post",
+        "description": "The Great Demonetization: A Signal of What’s Coming The recent wave of mass demonetizations sweeping across YouTube and X isn’t random. It isn’t about enforcing quality standards or protecting advertisers. It’s a deliberate strategy to clear the playing field for what comes next: a post-human content creation system powered entirely by artificial intelligence. I have […]",
+        "url": "https://www.naturalnews.com/2026-04-28-the-end-of-human-content-creators.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/ai-content-generation-demonetization-youtube-1160-original.jpg",
+        "publishedAt": "2026-04-28T05:50:11Z",
+        "source": "Natural News"
       },
       {
-        "title": "AI data centres’ gas gamble could cost the planet more than entire countries",
-        "description": "As AI fuels an unprecedented data centre boom, tech giants are turning to gas-powered energy for speed and control. But soaring costs and alarming emissions data reveal a deeper problem: the infrastructure built to power the future could significantly worsen the climate crisis and reshape global energy priorities.",
-        "url": "https://www.firstpost.com/tech/ai-data-centres-gas-gamble-could-cost-the-planet-more-than-entire-countries-14005142.html",
-        "image": "https://images.firstpost.com/uploads/2026/01/AI-data-centre-2026-01-f39b4f69a6d554c0444bf0237efcc405-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-28T04:52:08Z",
-        "source": "Firstpost"
+        "title": "600 Google staff urge CEO to reject classified military AI contract",
+        "description": "Tech News News: More than 600 Google employees demanded Monday that the company reject a proposed Pentagon deal that would allow its artificial intelligence technolog.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/600-google-staff-urge-ceo-to-reject-classified-military-ai-contract/articleshow/130570901.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130570983,width-1280,height-720,imgsize-8770,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-28T05:50:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Andhra Pradesh Chief Minister Lays Foundation For $15 Billion Google AI Data Centre",
-        "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu lays foundation for $15B Google AI data centre near Visakhapatnam.",
-        "url": "https://www.ndtv.com/andhra-pradesh-news/andhra-pradesh-chief-minister-n-chandrababu-naidu-lays-foundation-for-15-billion-google-ai-data-centre-11418578",
-        "image": "https://c.ndtvimg.com/2026-04/59h02t48_andhra-google-data-centre_625x300_28_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-28T04:48:41Z",
-        "source": "NDTV.com"
+        "title": "OpenAI’s next bet: smartphones with AI agents that replace apps and challenge the Apple iPhone",
+        "description": "OpenAI is dreaming of building smartphones that center around the idea of AI agents that learn from users’ behavior and make decisions on their own, completely replacing applications.",
+        "url": "https://indianexpress.com/article/technology/mobile-tabs/openais-next-bet-smartphones-with-ai-agents-that-replace-apps-and-challenge-the-apple-iphone-1065954-10659543/",
+        "image": "https://images.indianexpress.com/2026/04/Gemini-OpenAI-iPhone-.jpg",
+        "publishedAt": "2026-04-28T05:48:47Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Google AI data centre Vizag: CM Naidu kickstarts $15 billion push to build AI and cloud hub",
-        "description": "Google AI data centre Vizag: Andhra Pradesh Chief Minister N. Chandrababu Naidu inaugurated the Google Cloud India AI Hub in Visakhapatnam. This marks a major development in digital and artificial intelligence infrastructure for the state. The project, part of a larger data centre initiative, signifies substantial foreign investment.",
-        "url": "https://economictimes.indiatimes.com/news/india/google-ai-data-centre-vizag-andhra-pradesh-cm-n-chandrababu-naidu-kickstarts-15-billion-push-to-build-ai-and-cloud-hub-visakhapatnam/articleshow/130569220.cms",
-        "image": "https://img.etimg.com/thumb/msid-130569536,width-1200,height-630,imgsize-103874,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-28T04:48:00Z",
+        "title": "Asian stocks retreat from record highs as tech earnings loom; peso slips to record low",
+        "description": "Asian emerging market stocks pulled back from record highs on Tuesday, as investors grew cautious ahead of a slate of U.S. tech earnings that could test the artificial intelligence-driven rally, while...",
+        "url": "https://www.marketscreener.com/news/asian-stocks-retreat-from-record-highs-as-tech-earnings-loom-peso-slips-to-record-low-ce7f59dddf8cf12d",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-04-28T05:43:31Z",
+        "source": "MarketScreener"
+      },
+      {
+        "title": "Google breaks ground on Indian AI megahub",
+        "description": "Google has begun construction on its largest artificial intelligence hub outside the United States. \"By establishing Vizag as an international subsea gateway, we will add vital diversity from the existing landings, in Mumbai and Chennai, increasing the resilience of India's digital backbone and improving economic security,\" Bikash Koley, Google's Vice President for Global Infrastructure said.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-breaks-ground-on-indian-ai-megahub/articleshow/130570752.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103874,resizemode-75,msid-130570752/tech/artificial-intelligence/google-breaks-ground-on-indian-ai-megahub.jpg",
+        "publishedAt": "2026-04-28T05:42:53Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Microsoft, OpenAI announce amended deal to simplify partnership while ending exclusivity",
-        "description": "Microsoft and OpenAI have announced a sweeping overhaul of their partnership, easing exclusivity clauses and allowing the ChatGPT maker to expand its presence across rival cloud platforms.",
-        "url": "https://www.devdiscourse.com/article/international/3888846-microsoft-openai-announce-amended-deal-to-simplify-partnership-while-ending-exclusivity",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_17_35_9942938.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-28T04:47:39Z",
-        "source": "Devdiscourse"
+        "title": "ChatGPT Maker, OpenAI, Eyes Its First Ever AI Smartphone With Qualcomm, MediaTek By 2028",
+        "description": "ChatGPT maker explores hardware leap",
+        "url": "https://in.mashable.com/tech/109031/chatgpt-maker-openai-eyes-its-first-ever-ai-smartphone-with-qualcomm-mediatek-by-2028",
+        "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2026-04-28t110402067_zdvn.jpg",
+        "publishedAt": "2026-04-28T05:42:50Z",
+        "source": "Mashable India"
       }
     ]
   }
