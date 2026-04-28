@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-28T16:02:08.677Z",
+  "fetchedAt": "2026-04-28T16:58:03.486Z",
   "sections": {
     "world": [
       {
-        "title": "Giorgia Meloni clung to her relationship with Trump - now it’s starting to look like a liability",
-        "description": "The Italian PM has walked a tightrope between Europe and the US. But the Iran war – and Trump’s attacks on her – have changed everything, says international relations expert Riccardo Alcaro",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war",
-        "image": "https://i.guim.co.uk/img/media/9bf4f60a0a7d43dd9b73bb1b299d718da2dbb21a/463_0_4611_3691/master/4611.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a2bc54a804abf57bdaf7f02a7251fcc4",
-        "publishedAt": "2026-04-28T04:02:00Z",
-        "source": "The Guardian"
+        "title": "New Zealand reports possible N. Korea sanctions breaches at sea",
+        "description": "New Zealand said its spy plane had spotted an at-sea transfer of illicit goods as part of its monitoring of N. Korean attempts to evade international sanctions.",
+        "url": "https://globalnation.inquirer.net/320260/new-zealand-reports-possible-north-korea-sanctions-breaches-at-sea",
+        "image": "https://globalnation.inquirer.net/files/2026/04/New-Zealand-reports-possible-North-Korea-sanctions-breaches-at-sea-scaled.jpg",
+        "publishedAt": "2026-04-28T04:56:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "How South Korea Uses A.I. to Check on Its Elderly",
-        "description": "In the world’s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
-        "url": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-        "image": "https://static01.nyt.com/images/2026/04/23/multimedia/00int-skorea-AI-dementia-promo-fjvz/00int-skorea-AI-dementia-promo-fjvz-facebookJumbo.jpg",
-        "publishedAt": "2026-04-28T04:01:09Z",
-        "source": "The New York Times"
+        "title": "‘I’ll be there’: Richard Neal, a key ally of Ireland, objected to the last British monarch’s address to Congress - but not this time",
+        "description": "Congressman quietly absented himself when a British monarch last addressed Congress. But times have changed – on both sides of the Atlantic",
+        "url": "https://www.irishtimes.com/world/us/2026/04/28/ill-be-there-richard-neal-key-ally-to-ireland-on-capitol-hill-will-be-present-for-king-charles-address/",
+        "image": "https://www.irishtimes.com/resizer/v2/JR7GHWSJJNPDO3OH2LID2AVLQ4.jpg?smart=true&auth=20ba2c42956694694ad033e1d7deb90350fc03a5bdd6eb0c195adbd6c93403ee&width=1200&height=630",
+        "publishedAt": "2026-04-28T04:53:58Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "Inside $500 mn Russian superyacht with a helipad, submarine that just crossed choked Strait of Hormuz",
-        "description": "The Strait of Hormuz has been at the heart of the US-Iran conflict, which is currently observing a fragile temporary ceasefire. | World News",
-        "url": "https://www.hindustantimes.com/world-news/inside-500-mn-russian-superyacht-alexey-mordashov-helipad-submarine-just-crossed-strait-of-hormuz-101777345727368.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/28/550x309/russia_superyacht_hormuz_1777348113309_1777348113498.JPG",
-        "publishedAt": "2026-04-28T04:01:09Z",
-        "source": "Hindustan Times"
+        "title": "Greek FM in Libya for talks on migration, maritime borders and economic ties",
+        "description": "The Greek Foreign Minister Giorgos Gerapetritis received a warm welcome in Tripoli on Monday as he arrived for talks with his Libyan counterpart, Taher al-Baour.",
+        "url": "https://www.africanews.com/2026/04/28/greek-fm-in-libya-for-talks-on-migration-maritime-borders-and-economic-ties/",
+        "image": "https://images.euronews.com/articles/stories/09/73/84/01/1024x538_cmsv2_945e16e0-5acc-5f5f-9ce7-561506702058-9738401.jpg",
+        "publishedAt": "2026-04-28T04:52:32Z",
+        "source": "africanews.com"
       },
       {
-        "title": "Trump pursues new import taxes to replace the tariffs the Supreme Court rejected",
-        "description": "When the Supreme Court killed his favorite tariffs in February, President Donald Trump rolled out temporary import taxes to replace them.",
-        "url": "https://apnews.com/article/trump-tariffs-supreme-court-trade-import-taxes-bf712c8ab01f99c3a92e91eb74a9d03f",
-        "image": "https://dims.apnews.com/dims4/default/5211ed6/2147483647/strip/true/crop/5400x3598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2Fc0%2Fc73b7c12eb2aa786806ded25c726%2F7a63038fc2224c2b857fc719fb7cd3d0",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "AP News"
+        "title": "Death toll after train crash near Indonesia’s Jakarta rises to 14",
+        "description": "The head of the national rescue agency says efforts continue to remove people trapped in wreckage.",
+        "url": "https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-27T201335Z_915219847_RC2VXKAF0KNY_RTRMADP_3_INDONESIA-TRAINS-1777336772.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-28T04:52:30Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Sudan paramilitary leaders acquired £17.7m property portfolio in Dubai, investigation reveals",
-        "description": "The RSF leadership, accused of committing genocide, used UAE as a ‘safe haven’ for family members and their wealth, records show",
-        "url": "https://www.theguardian.com/global-development/2026/apr/28/sudan-paramilitary-rsf-leaders-property-portfolio-dubai-uae-investigation",
-        "image": "https://i.guim.co.uk/img/media/734540cdd2ceb7b784f26f386546f7556fdfcb1e/252_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b27cfc453331c5a0d2ddde969755709",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "The Guardian"
+        "title": "Global military spending hits record high amid warnings of new arms race",
+        "description": "The world is spending more money on weapons than ever before, reaching nearly $4 trillion in 2025.",
+        "url": "https://www.abc.net.au/news/2026-04-28/global-military-spending-hits-record-high-how-countries-rank/106611800",
+        "image": "https://live-production.wcms.abc-cdn.net.au/cbc95b010b69e54739fbafb075e41aba?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-28T04:49:14Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "‘I don’t want to be part of a dictatorship’: the Americans queueing up to renounce their citizenship",
-        "description": "Severing ties with the US can take more than a year and cost thousands of dollars. But Paul, Ella, Margot and thousands of others feel they have no choice",
-        "url": "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship",
-        "image": "https://i.guim.co.uk/img/media/6d693fadfa7b6c84bd10cf6efbc382428c45621f/0_0_3541_2833/master/3541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68fb31279e62fdb23900e4f357c85424",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "The Guardian"
+        "title": "Women-only carriage bore the brunt of Jakarta train crash",
+        "description": "A Jakarta train collision saw a women-only carriage suffer severe damage, resulting in casualties and injuries in one of Indonesia's worst rail accidents. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/her-body-was-swollen-women-only-carriage-bore-the-brunt-of-jakarta-train-collision",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1e417eb88016b5c714d2fb6d8fe8d0fcedd6ce80347b9b0050e6b26cae7e9fce",
+        "publishedAt": "2026-04-28T04:48:26Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Corporal Punishment in Thai Schools",
-        "description": "Legal changes have not meaningfully changed long-standing attitudes towards the corporal punishment of school children in Thailand, even among those who teach them.",
-        "url": "https://fulcrum.sg/corporal-punishment-in-thai-schools/",
-        "image": "https://i0.wp.com/fulcrum.sg/wp-content/uploads/AFP__20250909__bkp250825n2d__v1__HighRes__ThailandChildren-e1777342369771.jpg?fit=1200%2C539&ssl=1",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "fulcrum.sg"
+        "title": "Did Kash Patel’s Hindu identity keep him off Trump dinner shooter’s hit list?",
+        "description": "Investigators are probing why Kash Patel was excluded from the WHCD gunman’s hit list, examining religion, strategy and political motives behind the manifesto.",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/did-kash-patel-s-hindu-identity-keep-him-off-trump-dinner-shooter-s-hit-list-article-13901517.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260426091851_kashpatelnew.png",
+        "publishedAt": "2026-04-28T04:45:11Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Kash Patel Not On Cole Allen's Kill List Because He's Hindu? What Report Said",
-        "description": "Investigators said the manifesto made clear that Allen intended to target top government officials attending the dinner, except for Patel. \"Administration officials (not including Patel): they are the targets,\" the 1,052-word document stated.",
-        "url": "https://www.ndtv.com/world-news/white-house-correspondents-dinner-shooting-kash-patel-not-on-cole-allens-kill-list-because-hes-hindu-what-report-said-11418490",
-        "image": "https://c.ndtvimg.com/2026-04/1dr875cc_cole-kash-patel_625x300_27_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-28T03:56:18Z",
-        "source": "NDTV"
+        "title": "Somalia Drought Crisis Displaces Over 500,000 Amid Hunger Surge",
+        "description": "Across Somalia, a worsening hunger crisis is unfolding as prolonged drought continues to devastate communities, destroy livelihoods, and force large-scale displacement. The failed September Deyr rains have further deepened the climate emergency, leading to repeated harvest failures and widespread loss of livestock, which many families depend on for survival. So far this year, more than",
+        "url": "https://news.fundsforngos.org/2026/04/28/somalia-drought-crisis-displaces-over-500000-amid-hunger-surge/",
+        "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+        "publishedAt": "2026-04-28T04:34:13Z",
+        "source": "fundsforNGOs News"
       }
     ],
     "business": [
       {
-        "title": "S. Korea probes syringe hoarding as war hits plastic makers",
-        "description": "South Korean police said on Tuesday they were investigating firms suspected of hoarding medical syringes, as the Middle East war hits supplies of an oil-derived component crucial for making many plast...",
-        "url": "https://sg.news.yahoo.com/korea-probes-syringe-hoarding-war-040206672.html",
-        "image": "https://s.yimg.com/os/en/afp.com.sg/64345a29b18ff7465cf79c43ac8cadc1",
-        "publishedAt": "2026-04-28T04:02:00Z",
-        "source": "Yahoo News Singapore"
+        "title": "Johari open to EVs for ministers, but says charging network must come first",
+        "description": "KUALA LUMPUR: Cabinet minister Datuk Seri Johari Abdul Ghani says he is open to Cabinet ministers using electric vehicles (EVs) as part of a cost-cutting measure amid the ongoing global oil crisis",
+        "url": "https://www.thestar.com.my/news/nation/2026/04/28/johari-open-to-evs-for-ministers-but-says-charging-network-must-come-first",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/28/3881224.jpg",
+        "publishedAt": "2026-04-28T04:58:00Z",
+        "source": "The Star"
       },
       {
-        "title": "How to Invest ... your questions answered",
-        "description": "Options for investing a lump sum; long-term saving for children; and whether you should pay down your mortgage before you invest",
-        "url": "https://www.irishtimes.com/your-money/2026/04/28/how-to-invest-your-questions-answered/",
-        "image": "https://www.irishtimes.com/resizer/v2/JIDX774XVZAIBNC7WB3SCCPYFU.jpg?smart=true&auth=ffb736fe76b18443a0cecb0e923acbaeaed37e84ac40954e342de0a71e782e29&width=1200&height=630",
-        "publishedAt": "2026-04-28T04:01:40Z",
-        "source": "The Irish Times"
+        "title": "PSU bank stocks fall up to 3%. How RBI’s ECL directions can impact lenders",
+        "description": "PSU bank stocks fell up to 3% on Tuesday after RBI confirmed the rollout of the Expected Credit Loss (ECL) framework from April 2027, triggering concerns over higher provisioning and capital impact. Brokerages warn of a potential 5–10% hit to net worth, though phased implementation may soften the immediate blow.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-sbi-other-psu-bank-stocks-fall-up-to-3-how-rbis-ecl-directions-can-impact-lenders/articleshow/130569800.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130569786,width-1200,height-630,imgsize-17022,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-28T04:53:33Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Macca's fans divided as cult-fave dessert returns without its better half",
-        "description": "McDonald's Crème Brûlée Pie is making its grand return on April 29, but don't get too excited just yet. Rea...",
-        "url": "https://kitchen.nine.com.au/latest/mcdonalds-australia-creme-brulee-pie-is-back-discontinued-menu-item/78028708-1c6b-4b6c-8791-338b8e5ea7c2",
-        "image": "https://imageresizer.static9.net.au/WpecZiyuiNjyjgQNDlsyILQHXjk=/0x110:1500x953/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd2dd1848-a26f-4e3f-b160-addaf7e98119",
-        "publishedAt": "2026-04-28T04:01:16Z",
-        "source": "9honey Kitchen"
+        "title": "Woman questions Prudential's head of life claims in lawsuit seeking brain surgery payout as insurer responds",
+        "description": "Ms Cai Yunhong questioned Prudential's head of life claims on the way her policy documents were drafted, alleging that they were \"convoluted\" and \"full of ambiguities\".",
+        "url": "https://www.channelnewsasia.com/singapore/woman-questions-prudential-life-claims-head-insurer-responds-6085366",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Bg_BLorZ--/c_crop,h_900,w_1600,x_0,y_143/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=zLClqFoS",
+        "publishedAt": "2026-04-28T04:50:00Z",
+        "source": "CNA"
       },
       {
-        "title": "General Motors (GM) earnings Q1 2026",
-        "description": "Aside from earnings and any change to GM's 2026 guidance, investors are monitoring impact from the Iran war, tariffs and EV write-downs.",
-        "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108251656-1768310306058-gettyimages-2255455204-GM_BARRA.jpeg?v=1776966296&w=1920&h=1080",
-        "publishedAt": "2026-04-28T04:01:01Z",
-        "source": "CNBC"
+        "title": "Stranded in mountains, Vietnamese student survives for 37 hours on Choco Pies",
+        "description": "A college student stranded in the mountains of Vietnam reportedly survived for 37 hours on just Orion Choco Pies. The Korean snack, already beloved...",
+        "url": "https://www.koreatimes.co.kr/world/20260428/stranded-in-mountains-vietnamese-student-survives-for-37-hours-on-choco-pies",
+        "image": "https://newsimg.koreatimes.co.kr/2026/04/28/0bc3f2a2-c4e8-4fe8-b371-16de23d0a1e0.jpg",
+        "publishedAt": "2026-04-28T04:49:06Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "Subway Is Making A Big Change To Its Menu After 60 Years (And You'll Want To Know About It)",
-        "description": "Subway used to be famous for its $5 Footlongs, but has never had a value menu. However, the chain's menu is about to get a big, never-before-seen change.",
-        "url": "https://www.thetakeout.com/2158751/subway-change-60-years-first-value-menu/",
-        "image": "https://www.thetakeout.com/img/gallery/subway-is-making-a-big-change-to-its-menu-after-60-years-and-youll-want-to-know-about-it/l-intro-1777329644.jpg",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "The Takeout"
+        "title": "GWM eyes V8 return to Australia with Tank 700 SUV",
+        "description": "Great Wall Motors, is eyeing the addition of V8 power in Australia, with a new flagship SUV leading the charge.",
+        "url": "https://www.news.com.au/technology/motoring/on-the-road/chinese-carmaker-hints-new-v8-engine-could-come-to-australia/news-story/df6016400ab03dd95f653baedf86b09d",
+        "image": "https://content.api.news/v3/images/bin/27f77b89c9776da6fe7557e855dc02af",
+        "publishedAt": "2026-04-28T04:40:43Z",
+        "source": "News.com.au"
       },
       {
-        "title": "DXC Introduces DXC OASIS to Reimagine Managed Services for the AI Era",
-        "description": "/PRNewswire/ - DXC Technology (NYSE: DXC), a leading enterprise technology and innovation partner, today announced DXC OASIS, an intelligent orchestration...",
-        "url": "https://www.prnewswire.com/news-releases/dxc-introduces-dxc-oasis-to-reimagine-managed-services-for-the-ai-era-302754573.html",
-        "image": "https://mma.prnewswire.com/media/2966580/DXC_Technology_Company_DXC_Introduces_DXC_OASIS_to_Reimagine_Man.mp4?p=medium",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "PR Newswire"
+        "title": "First LNG Shipment Crosses Strait Of Hormuz Since West Asia War Began",
+        "description": "The vessel had stopped transmitting its signal around March 31, only to reappear near Indian waters this week.",
+        "url": "https://www.news18.com/world/first-lng-shipment-crosses-strait-of-hormuz-in-a-first-since-west-asia-war-began-ws-l-10061116.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/03/image-2026-03-284864150d55939c43459abedab90cf6-1200x675.jpg",
+        "publishedAt": "2026-04-28T04:38:49Z",
+        "source": "News18"
       },
       {
-        "title": "Competition in Asset Management Shifts as Growth Becomes Harder and More Concentrated",
-        "description": "/PRNewswire/ --The basis of competition in asset management is undergoing a structural shift, with firms facing a more demanding growth environment and...",
-        "url": "https://www.prnewswire.com/news-releases/competition-in-asset-management-shifts-as-growth-becomes-harder-and-more-concentrated-302754962.html",
-        "image": "https://mma.prnewswire.com/media/2966684/Global_Asset_Management_Report_2026_Boston_Consulting_Group.mp4?p=medium",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "PR Newswire"
+        "title": "Hong Kong home prices rise higher in March as rents peak for a fifth month straight",
+        "description": "Prices of the city’s residential property rose by 1.4 per cent, showing strong resilience despite economic turbulence caused by the Iran war.",
+        "url": "https://www.scmp.com/business/article/3351644/hong-kong-home-prices-rise-higher-march-rents-peak-fifth-month-straight",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/28/5297402d-dd4e-4c24-b018-5aff4c2bb5a6_bd00cc0c.jpg?itok=ew1siDsM&v=1777350326",
+        "publishedAt": "2026-04-28T04:38:44Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "DXC Introduces DXC OASIS to Reimagine Managed Services for the AI Era",
-        "description": "/PRNewswire/ -- DXC Technology (NYSE: DXC), a leading enterprise technology and innovation partner, today announced DXC OASIS, an intelligent orchestration...",
-        "url": "https://www.prnewswire.com/in/news-releases/dxc-introduces-dxc-oasis-to-reimagine-managed-services-for-the-ai-era-302754622.html",
-        "image": "https://mma.prnewswire.com/media/2966612/DXC_Technology_Company_DXC_Introduces_DXC_OASIS_to_Reimagine_Man.jpg?p=facebook",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "PR Newswire"
+        "title": "'Backup buffer': Government buys 90 million more litres of diesel",
+        "description": "The fuel will be delivered to Marsden Point in Northland and stored in a refurbished tank at Channel Infrastructure's site as early as late June.",
+        "url": "https://www.1news.co.nz/2026/04/28/govt-negotiates-for-90-million-more-litres-of-diesel-to-come-to-nz/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/marsden-point-getty-IQQZRU5NHRCUVAY7CWKC2HGV4I.jpg?auth=4eaf02c8295c53212c6dc1b3003b3f8ae06d15187f711ea0ad3292a0b2bcd1dc&quality=70&width=600&height=315&focal=2505%2C1409",
+        "publishedAt": "2026-04-28T04:37:31Z",
+        "source": "1News"
       }
     ],
     "science": [
+      {
+        "title": "How to catch the Eta Aquarid meteor shower this May",
+        "description": "The Eta Aquarid meteor shower peaks in early May over Australia. Here’s how to see it, including best viewing times and conditions.",
+        "url": "https://www.russh.com/eta-aquarid-meteor-shower-how-to-see-australia-may-2026/",
+        "image": "https://www.russh.com/wp-content/uploads/2026/04/eta.jpg",
+        "publishedAt": "2026-04-28T04:32:16Z",
+        "source": "RUSSH"
+      },
+      {
+        "title": "See Halley's Comet (Well, Sort of ...)",
+        "description": "Week of May 3-9, 2026 If you're old enough, do you remember seeing Halley's Comet — the most famous of all celestial nomads — when it swung past our neck of the cosmic woods in 1986? I did, and I wasn't terribly impressed. It was arguably one of the comet's worst appearances in some 2,000 years.",
+        "url": "https://www.creators.com/read/stargazers/04/26/see-halleys-comet-well-sort-of-",
+        "image": "https://cdn.creators.com/308/414955/3fe7c9161267b02c8750a101de35ade3baf5f8bd.jpg",
+        "publishedAt": "2026-04-28T04:16:38Z",
+        "source": "Creators Syndicate"
+      },
+      {
+        "title": "Two whale groups separated by seas-but not by genes, study finds",
+        "description": "A paper in Genome Biology and Evolution discovers that the endangered Mediterranean fin whale is not completely isolated from Atlantic groups. Both Atlantic and Mediterranean populations have declined for the past 200,000 years. Considering more recent threats to the whales, this finding has important implications for conservation, particularly considering increasing anthropogenic pressures.",
+        "url": "https://phys.org/news/2026-04-whale-groups-seas-genes.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mediterranean-fin-whal.jpg",
+        "publishedAt": "2026-04-28T04:10:02Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Whale Groups Divided by Seas, United by Genes",
+        "description": "A new paper in Genome Biology and Evolution, published by Oxford University Press, discovers that the endangered Mediterranean fin whale is not",
+        "url": "https://www.miragenews.com/whale-groups-divided-by-seas-united-by-genes-1663091/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2016%2F12%2F13%2F05%2F27%2Fdna-1903318_960_720.jpg",
+        "publishedAt": "2026-04-28T04:08:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Two whale groups separated by seas-but not by genes, study finds",
+        "description": "A new paper in Genome Biology and Evolution discovers that the endangered Mediterranean fin whale is not completely isolated from Atlantic groups. Both Atlantic and Mediterranean populations have declined for the past 200,000 years. Considering more recent threats to the whales, this finding has important implications for conservation, particularly considering increasing anthropogenic pressures.",
+        "url": "https://www.eurekalert.org/news-releases/1125360",
+        "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+        "publishedAt": "2026-04-28T04:07:01Z",
+        "source": "EurekAlert!"
+      },
       {
         "title": "Mapping Molecular Markers Of Physical Fitness",
         "description": "Patterns of molecular activity in the blood may hold clues not only to how fit someone is, but also to the biological processes that support physical",
@@ -158,112 +198,72 @@
         "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-Fitness-Markers-01.jpg",
         "publishedAt": "2026-04-28T04:00:00Z",
         "source": "MIT News"
-      },
-      {
-        "title": "Robotically assembled building blocks could make construction more efficient and sustainable",
-        "description": "Constructing a simple building from interlocking subunits should be mechanically feasible and have a much smaller carbon footprint than other methods, according to new research from the MIT Center for Bits and Atoms.",
-        "url": "https://news.mit.edu/2026/robotically-assembled-building-blocks-makes-construction-more-efficient-and-sustainable-0428",
-        "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-sustain-voxels-01-press.jpg",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "MIT News"
-      },
-      {
-        "title": "Earth’s Secret Advantage: Why Most Alien Worlds May Be Too Dry for Life",
-        "description": "New research suggests that many planets previously considered promising for life may, in fact, be far less hospitable. A distant planet might sit in the perfect orbit for life, with temperatures just right for liquid water. But if that world is too dry, it could still be completely uninhabitable.",
-        "url": "https://scitechdaily.com/earths-secret-advantage-why-most-alien-worlds-may-be-too-dry-for-life/",
-        "image": "https://scitechdaily.com/images/Venus-and-Gliese-12b.jpg",
-        "publishedAt": "2026-04-28T03:51:02Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Brain Scans Reveal a Surprise About Neanderthal Intelligence",
-        "description": "In 1857, the German anatomist Hermann Schaaffhausen analyzed a human fossil with \"an extraordinary form\" that he had never seen before – not in \"existing European stocks\", he wrote, or \"even in the most barbarous races.\" The curious cranium had been unearthed the year before, just east of Düsseldorf, in Germany's Neander Valley.",
-        "url": "https://www.sciencealert.com/brain-scans-reveal-a-surprise-about-neanderthal-intelligence",
-        "image": "https://www.sciencealert.com/images/2025/11/NeanderthalSkull.jpg",
-        "publishedAt": "2026-04-28T03:40:31Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "China drills 3413 metres through Antarctic ice to reach the hidden waters of Lake Qilin",
-        "description": "Rest of World News: China has achieved a major milestone in polar exploration, successfully drilling through 3,413 meters of Antarctic ice to reach the area above the Qil.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/china-drills-3413-metres-through-antarctic-ice-to-reach-the-hidden-waters-of-lake-qilin/articleshow/130560139.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130560163,width-1280,height-720,imgsize-80250,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-28T03:30:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Two New Lunar Minerals Discovered By Chinese Scientists",
-        "description": "Two teams of Chinese scientists have led the discovery of two New lunar minerals from retrieved samples of the Moon.",
-        "url": "https://orbitaltoday.com/2026/04/28/two-new-lunar-minerals-discovered-by-chinese-scientists/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/China-Change-5-Mission-Image-Credit-CNSA.jpg",
-        "publishedAt": "2026-04-28T03:03:11Z",
-        "source": "Orbital Today"
       }
     ],
     "ai": [
       {
-        "title": "Tuesday Morning News Roundup",
-        "description": "Monday marked the first official day of the trial of Elon Musk's lawsuit against Sam Altman and the artificial intelligence developer OpenAI, the company responsible for the creation of...",
-        "url": "https://www.sfgate.com/news/bayarea/article/tuesday-morning-news-roundup-22229740.php",
-        "image": "https://s.hdnux.com/photos/01/54/16/50/28371491/6/rawImage.jpg",
-        "publishedAt": "2026-04-28T04:02:01Z",
-        "source": "SFGATE"
+        "title": "‘It guessed instead of verifying’: How an AI coding agent deleted company’s entire database",
+        "description": "PocketOS founder Jer Crane reveals how a Claude Opus 4.6 AI agent deleted his production database, exposing hidden risks in AI driven development workflows",
+        "url": "https://www.cnbctv18.com/technology/it-guessed-instead-of-verifying-how-an-ai-coding-agent-deleted-companys-entire-database-ws-el-19894628.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/04/image-2026-04-1aaf8322bd0b1c323996988fcba1f920.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-04-28T04:57:53Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "Taylor Swift files to trademark her voice and image to protect against the rise of AI scams",
-        "description": "If successful, there is potential Swift could potentially also ‘challenge imitations that are confusingly similar.’",
-        "url": "https://7news.com.au/entertainment/taylor-swift-files-to-trademark-her-voice-and-image-to-protect-against-the-rise-of-ai-scams-c-22202150",
-        "image": "https://images.7news.com.au/publication/C-22202150/d4ccdce91783ced112260236bcf7fef9855d54a7-16x9-x0y0w1280h720.png?imwidth=1200",
-        "publishedAt": "2026-04-28T04:01:14Z",
-        "source": "7NEWS Australia"
+        "title": "Foundation stone laid for Google Cloud India AI Hub in Visakhapatnam under Adani-Google-Airtel data centre project",
+        "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu on Tuesday laid the foundation stone of the Google Cloud India AI Hub in Visakhapatnam, marking a major step in building large-scale digital and AI infrastructure in the state.",
+        "url": "https://www.devdiscourse.com/article/business/3888877-foundation-stone-laid-for-google-cloud-india-ai-hub-in-visakhapatnam-under-adani-google-airtel-data-centre-project",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_26_25_1627187.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-28T04:56:28Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "How South Korea Uses A.I. to Check on Its Elderly",
-        "description": "In the world’s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
-        "url": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-        "image": "https://static01.nyt.com/images/2026/04/23/multimedia/00int-skorea-AI-dementia-promo-fjvz/00int-skorea-AI-dementia-promo-fjvz-facebookJumbo.jpg",
-        "publishedAt": "2026-04-28T04:01:08Z",
-        "source": "The New York Times"
+        "title": "Ashwini Vaishnaw arrives in Visakhapatnam for Google data centre foundation ceremony",
+        "description": "Union Minister Ashwini Vaishnaw on Tuesday arrived in Visakhapatnam to participate in the foundation stone laying ceremony of the Google AI Data Centre at Tarluvada in Anandapuram mandal.",
+        "url": "https://www.devdiscourse.com/article/headlines/3888868-ashwini-vaishnaw-arrives-in-visakhapatnam-for-google-data-centre-foundation-ceremony",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_24_21_3900662.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-28T04:54:23Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "My Five-Year-Old Learned AI Skills From Vibe Coding a Game",
-        "description": "She let her 5-year-old vibe code a game. Her son had no technical vocabulary, but he managed to prompt the AI and pick up key skills.",
-        "url": "https://www.businessinsider.com/vibe-coding-child-five-year-old-codex-non-technical-game-2026-4",
-        "image": "https://i.insider.com/69e1a85e420cfc54196880ef?width=1200&format=jpeg",
-        "publishedAt": "2026-04-28T04:01:01Z",
-        "source": "Business Insider"
+        "title": "AI imagines Deepika Padukone in Russian, Mongolian, Chinese, more looks: Internet says ‘she looks cute as South Korean’",
+        "description": "AI artist Mr Hellrocker reimagined Deepika Padukone in various global looks, showcasing her in traditional attire from Brazil, Nigeria, Mongolia, and more. | Fashion Trends",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/ai-imagines-deepika-padukone-in-russian-mongolian-chinese-more-looks-internet-says-she-looks-cute-as-south-korean-101777349242709.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/28/550x309/deepika_padukone_1777349744014_1777349748659.jpg",
+        "publishedAt": "2026-04-28T04:53:59Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Introducing IBM Bob: AI Development Partner that Takes Enterprises from AI-Assisted Coding to Production-Ready Software",
-        "description": "/PRNewswire/ -- IBM (NYSE: IBM) today announced the global availability of IBM Bob, an AI-first development partner built for enterprise teams. Bob doesn't...",
-        "url": "https://www.prnewswire.co.uk/news-releases/introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software-302755060.html",
-        "image": "https://mma.prnewswire.com/media/2319830/5940826/IBM_LOGO_1.jpg?p=facebook",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "PR Newswire UK"
+        "title": "AI data centres’ gas gamble could cost the planet more than entire countries",
+        "description": "As AI fuels an unprecedented data centre boom, tech giants are turning to gas-powered energy for speed and control. But soaring costs and alarming emissions data reveal a deeper problem: the infrastructure built to power the future could significantly worsen the climate crisis and reshape global energy priorities.",
+        "url": "https://www.firstpost.com/tech/ai-data-centres-gas-gamble-could-cost-the-planet-more-than-entire-countries-14005142.html",
+        "image": "https://images.firstpost.com/uploads/2026/01/AI-data-centre-2026-01-f39b4f69a6d554c0444bf0237efcc405-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-28T04:52:08Z",
+        "source": "Firstpost"
       },
       {
-        "title": "DXC Introduces DXC OASIS to Reimagine Managed Services for the AI Era",
-        "description": "/PRNewswire/ -- DXC Technology (NYSE: DXC), a leading enterprise technology and innovation partner, today announced DXC OASIS, an intelligent orchestration...",
-        "url": "https://www.prnewswire.co.uk/news-releases/dxc-introduces-dxc-oasis-to-reimagine-managed-services-for-the-ai-era-302754622.html",
-        "image": "https://mma.prnewswire.com/media/2966612/DXC_Technology_Company_DXC_Introduces_DXC_OASIS_to_Reimagine_Man.jpg?p=facebook",
-        "publishedAt": "2026-04-28T04:01:00Z",
-        "source": "PR Newswire UK"
+        "title": "Andhra Pradesh Chief Minister Lays Foundation For $15 Billion Google AI Data Centre",
+        "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu lays foundation for $15B Google AI data centre near Visakhapatnam.",
+        "url": "https://www.ndtv.com/andhra-pradesh-news/andhra-pradesh-chief-minister-n-chandrababu-naidu-lays-foundation-for-15-billion-google-ai-data-centre-11418578",
+        "image": "https://c.ndtvimg.com/2026-04/59h02t48_andhra-google-data-centre_625x300_28_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-28T04:48:41Z",
+        "source": "NDTV.com"
       },
       {
-        "title": "Infosys Slips Out Of Top 10 Most Valued Firms As Weak Outlook Weighs On IT Stocks",
-        "description": "Infosys's share price is under pressure as the stock falls 30% in 2026, exiting the top 10 most valued firms. Weak outlook, IT sector slowdown, and AI concerns weigh on growth.",
-        "url": "https://www.newsx.com/business/infosys-slips-out-of-top-10-most-valued-firms-as-weak-outlook-weighs-on-it-stocks-206232/",
-        "image": "https://www.newsx.com/wp-content/uploads/2025/12/live-2025-12-19t225946310.jpg",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "NewsX"
+        "title": "Google AI data centre Vizag: CM Naidu kickstarts $15 billion push to build AI and cloud hub",
+        "description": "Google AI data centre Vizag: Andhra Pradesh Chief Minister N. Chandrababu Naidu inaugurated the Google Cloud India AI Hub in Visakhapatnam. This marks a major development in digital and artificial intelligence infrastructure for the state. The project, part of a larger data centre initiative, signifies substantial foreign investment.",
+        "url": "https://economictimes.indiatimes.com/news/india/google-ai-data-centre-vizag-andhra-pradesh-cm-n-chandrababu-naidu-kickstarts-15-billion-push-to-build-ai-and-cloud-hub-visakhapatnam/articleshow/130569220.cms",
+        "image": "https://img.etimg.com/thumb/msid-130569536,width-1200,height-630,imgsize-103874,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-28T04:48:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Plans for AI data centre and solar farm north of Scunthorpe emerge",
-        "description": "The public have been invited to shape the scheme ahead of a planning application being submitted",
-        "url": "https://www.grimsbytelegraph.co.uk/news/local-news/plans-ai-data-centre-solar-10938062",
-        "image": "https://i2-prod.grimsbytelegraph.co.uk/article10938269.ece/ALTERNATES/s1200d/0_270426-ScunthorpeAIDataCentre.jpg",
-        "publishedAt": "2026-04-28T04:00:00Z",
-        "source": "Grimsby Telegraph"
+        "title": "Microsoft, OpenAI announce amended deal to simplify partnership while ending exclusivity",
+        "description": "Microsoft and OpenAI have announced a sweeping overhaul of their partnership, easing exclusivity clauses and allowing the ChatGPT maker to expand its presence across rival cloud platforms.",
+        "url": "https://www.devdiscourse.com/article/international/3888846-microsoft-openai-announce-amended-deal-to-simplify-partnership-while-ending-exclusivity",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_04_2026_10_17_35_9942938.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-28T04:47:39Z",
+        "source": "Devdiscourse"
       }
     ]
   }
