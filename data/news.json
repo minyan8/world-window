@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-28T11:56:38.730Z",
+  "fetchedAt": "2026-04-28T12:56:19.232Z",
   "sections": {
     "world": [
       {
-        "title": "Afghanistan says Pakistani strikes kill seven and wound 85 in first attack since peace talks",
-        "description": "Pakistan officials dismiss Afghan media reports and official statements about strikes on university in Kunar province as ‘blatant lie’",
-        "url": "https://www.theguardian.com/world/2026/apr/28/afghanistan-pakistan-kunar-university-attack-peace-talks",
-        "image": "https://i.guim.co.uk/img/media/bc2600987b96464071a93596fb4e94a9b6e99465/1037_78_5366_4293/master/5366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc16ae83ab7e99433b8f1ee44ca9a8d3",
-        "publishedAt": "2026-04-27T23:56:00Z",
-        "source": "The Guardian"
+        "title": "India fifth-largest military spender in 2025 at $92.1 bn; Pakistan 31st with $11.9 bn: Sipri data",
+        "description": "Sipri data shows that India's neighbours such as China, the world’s second-largest military spender, increased its spending by 7.4% to $336 billion| India News",
+        "url": "https://www.hindustantimes.com/india-news/india-fifth-largest-military-spender-in-2025-at-92-1-bn-pakistan-31st-with-11-9-bn-sipri-data-101777337128370.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/28/550x309/delhi_police_4gif_1769394811757_1777337374669.png",
+        "publishedAt": "2026-04-28T00:53:08Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Why a blockade would not halt Iran’s oil overnight",
-        "description": "Amid Iran’s closure of the Strait of Hormuz and the ensuing US blockade, an old energy fantasy has resurfaced that cutting off a country’s oil exports works like flipping a switch. But reality is less cinematic and far more uncomfortable.",
-        "url": "https://www.iranintl.com/en/202604279149",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/0e82e73c4ab8eba1b2ed90433ad58c67a33b47cf-1200x741.jpg?rect=0,56,1200,630&w=1200&h=630&fit=max&auto=format",
-        "publishedAt": "2026-04-27T23:53:03Z",
-        "source": "ایران اینترنشنال"
+        "title": "Suspect in White House Correspondents’ dinner shooting charged with attempting to assassinate Trump",
+        "description": "Man charged with attempting to assassinate US President Donald Trump at the White House Correspondents' dinner faces life in prison. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/suspect-in-washington-dinner-shooting-charged-with-attempting-to-assassinate-trump",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/faed1d79ba4b3faa2dc28c25bdae45e983f06a725cedc647624598baef63c98f",
+        "publishedAt": "2026-04-28T00:51:28Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "US, Iran clash at UN after Tehran gets nuclear non-proliferation role",
-        "description": "Iran was selected as one of dozens of vice presidents at a month-long conference to review the nuclear Non-Proliferation Treaty.",
-        "url": "https://www.channelnewsasia.com/world/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-6084961",
-        "image": "https://dam.mediacorp.sg/image/upload/s--CV9APd_8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/28/2026-04-27t220143z_921680118_rc2oxka4is83_rtrmadp_3_iran-crisis-un-nuclear.jpg?itok=ClCfHZCY",
-        "publishedAt": "2026-04-27T23:47:00Z",
+        "title": "Trump unhappy with Iranian proposal, US official says",
+        "description": "WASHINGTON, April 27 (Reuters) - A ⁠U.S. official said on Monday that President ‌Donald Trump is unhappy with an Iranian proposal because it did not address Iran's nuclear program.",
+        "url": "https://www.thestar.com.my/news/world/2026/04/28/trump-unhappy-with-iranian-proposal-us-official-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/28/3881006.jpg",
+        "publishedAt": "2026-04-28T00:46:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Southeast Asia office workers swelter in energy-saving drive amid heat wave",
+        "description": "As the prolonged shutdown of the Strait of Hormuz drains energy reserves, relief does not look to be coming anytime soon with countries set to bake in abnormally hot weather.",
+        "url": "https://www.japantimes.co.jp/news/2026/04/28/asia-pacific/southeast-asia-office-workers-heat-wave/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/28/537360.jpg?v=3.1",
+        "publishedAt": "2026-04-28T00:36:00Z",
+        "source": "The Japan Times"
+      },
+      {
+        "title": "US will not tolerate Iranian control or tolls in Strait of Hormuz: Rubio",
+        "description": "US President Donald Trump met with his top security advisors on Monday (Apr 27) to discuss an Iranian proposal that would reportedly re-open the Strait of Hormuz as broader negotiations over the war continue, the White House said.",
+        "url": "https://www.channelnewsasia.com/world/us-will-not-tolerate-iranian-control-or-tolls-in-strait-hormuz-rubio-6085011",
+        "image": "https://dam.mediacorp.sg/image/upload/s--N_GwIL4i--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/27/2026-04-27t102806z_2013234285_rc2kxkayjqjx_rtrmadp_3_iran-crisis-oman-hormuz.jpg?itok=0vfrWHdz",
+        "publishedAt": "2026-04-28T00:21:46Z",
         "source": "CNA"
       },
       {
-        "title": "Republicans Seek to Fund Trump Ballroom After Gala Shooting",
-        "description": "Key Republican senators are pushing to use federal funds for the construction of the White House ballroom President Donald Trump has planned, citing increased threats following Saturday’s shooting at the White House Correspondents’ Association dinner.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/republicans-seek-to-fund-trump-ballroom-after-dinner-shooting",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXUpPjZwDuhE/v1/1200x800.jpg",
-        "publishedAt": "2026-04-27T23:45:58Z",
+        "title": "Why the Hormuz Crisis Is Raising Concerns About the Malacca Strait",
+        "description": "Disruptions to shipping in the Strait of Hormuz have raised concerns about vulnerabilities in another critical maritime corridor half a world away. The Strait of Malacca — a narrow stretch of water between Indonesia and Malaysia that funnels trade past Singapore — carries more than a fifth of global maritime trade and is the world’s busiest chokepoint.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-28/why-the-hormuz-crisis-is-raising-concerns-about-the-malacca-strait",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGxL3HzOcP_w/v1/1200x799.jpg",
+        "publishedAt": "2026-04-28T00:21:00Z",
         "source": "Bloomberg"
       },
       {
-        "title": "Rubio rejects new Iranian proposal to reopen Strait of Hormuz, with future of talks in limbo",
-        "description": "Iran's plan is 'We’ll blow you up and you pay us,' says top US diplomat; tanker traffic muted in strait, which Iran says it controls; Germany's Merz: Iran 'humiliating' US in talks",
-        "url": "https://www.timesofisrael.com/rubio-rejects-new-iranian-proposal-to-reopen-strait-of-hormuz-which-tehran-says-it-still-controls/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260424__A8WE3VC__v1__HighRes__IranUsIsraelWar.jpg",
-        "publishedAt": "2026-04-27T23:36:50Z",
-        "source": "The Times of Israel"
+        "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+        "description": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+        "url": "https://www.bbc.co.uk/news/articles/cje4eeyq27lo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3fd/live/9b1f9760-42c7-11f1-ac78-2112837ce2aa.jpg",
+        "publishedAt": "2026-04-28T00:19:49Z",
+        "source": "BBC"
       },
       {
-        "title": "Japan jobless rate rises to 2.6% in FY 2025 as more people enter job market",
-        "description": "Japan's average unemployment rate in fiscal 2025 rose 0.1 percentage point from a year earlier to 2.6 percent, deteriorating for the first time in five years, as more people who were not previously working were counted as unemployed after starting to look for jobs, government data showed Tuesday.",
-        "url": "https://english.kyodonews.net/articles/-/75013",
-        "image": "https://english-kyodo.ismcdn.jp/mwimgs/7/2/1200x/img_727acdf405521b5840c6a46ca2e266d649734.png",
-        "publishedAt": "2026-04-27T23:33:00Z",
-        "source": "Japan Wire by Kyodo News"
-      },
-      {
-        "title": "Telecommunication Services Disrupted In Shortlands After Cyclone Maila",
-        "description": "Telecommunications services in the Shortland Islands at the  far Western Boarder  have been severely disrupted following the impact of Cyclone Maila, with most towers operated by Solomon Telekom reported out of service. Residents across the Shortland Islands claimed the outage has caused a major breakdown in communication, leaving communities cut off from families and essential services. Many villagers have been…",
-        "url": "https://www.solomonstarnews.com/telecommunication-services-disrupted-in-shortlands-after-cyclone-maila/",
-        "image": "https://www.solomonstarnews.com/wp-content/uploads/2026/04/Shortlands.png",
-        "publishedAt": "2026-04-27T23:32:04Z",
-        "source": "Solomon Star News"
-      },
-      {
-        "title": "Humanities, social sciences always relevant, says independent scholar",
-        "description": "Sharifah Munirah Alatas says it would be a grave injustice to the nation and nation-building if subjects like history and anthropology are not taught.",
-        "url": "https://www.freemalaysiatoday.com/category/nation/2026/04/28/humanities-social-sciences-always-relevant-says-independent-scholar",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/1af19e10-sharifah-munirah-resize-fmt-270426.webp",
-        "publishedAt": "2026-04-27T23:30:28Z",
-        "source": "Free Malaysia Today"
+        "title": "Political violence jolts the US again",
+        "description": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bcd6/live/49741690-428e-11f1-b55d-0f258dce1735.jpg",
+        "publishedAt": "2026-04-28T00:19:49Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "Beijing sends warning on ‘de-Chinaing’ by blocking sale of S’pore-based AI firm Manus to Meta",
-        "description": "Beijing has begun to tighten scrutiny of other tech firms in the wake of the Manus deal. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/companies-markets/beijing-sends-warning-on-de-chinaing-by-blocking-sale-of-singapore-based-ai-firm-manus-to-meta",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d9e3ee6163b975bfa7e7d383a52fd30512776a8b0b83751b4e3f96b8fbb1faf8",
-        "publishedAt": "2026-04-27T23:56:00Z",
-        "source": "The Straits Times"
+        "title": "Indigenous Fashion, Music and Business Leadership Take Center Stage at Ryan’s Roundup in Calgary on May 7",
+        "description": "CALGARY, Alberta, April 27, 2026 (GLOBE NEWSWIRE) -- This May, Ryan’s Roundup will bring together Calgary’s business community for an evening centered on Indigenous culture, business, and leadership, creating space for meaningful connection, visibility, and conversation. More than 500 people attended last year’s event, with even greater attendance expected in 2026.",
+        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/indigenous-fashion-music-and-business-leadership-take-center-stage-at-ryans-roundup-in-calgary-on-may-7/2329788",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1031680.png",
+        "publishedAt": "2026-04-28T00:52:19Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Trump administration pays wind developer to walk away from California offshore lease",
-        "description": "In the second such highly unusual move, the Trump administration is paying to make wind power go away",
-        "url": "https://www.latimes.com/environment/story/2026-04-27/trump-administration-pays-wind-developer-to-walk-away-from-california-offshore-lease",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/b010535/2147483647/strip/true/crop/6307x3311+0+446/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F76%2F169ba6fc448095f402191fffd38c%2Fap26113713448235.jpg",
-        "publishedAt": "2026-04-27T23:53:00Z",
-        "source": "Los Angeles Times"
+        "title": "GAC goes Prado hunting with Yue 7 plug",
+        "description": "The GAC Yue 7 combines rugged off-road capability with a luxurious interior and a high-tech plug-in hybrid powertrain.",
+        "url": "https://www.drive.com.au/news/gac-reveals-first-prado-style-off-road-luxury-phev-suv-in-china/",
+        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/91184550-d133-5a84-8af6-4a953b450000",
+        "publishedAt": "2026-04-28T00:50:32Z",
+        "source": "drive.com.au"
       },
       {
-        "title": "Repurchases of shares by EQT AB during week 17, 2026",
-        "description": "/PRNewswire/ -- The repurchases form part of the repurchase program of a maximum of 3,005,071 own ordinary shares for a total maximum amount of SEK...",
-        "url": "https://www.prnewswire.com/news-releases/repurchases-of-shares-by-eqt-ab-during-week-17-2026-302754915.html",
-        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-27T23:52:00Z",
-        "source": "PR Newswire"
+        "title": "GWM Tank 700 with V8 power confirmed, 'potential addition' to NZ lineup says company chairman",
+        "description": "GWM says its move to V8 power for the Tank 700 and its yet-to-be-revealed GF supercar is all about export - and not at all about its home market.",
+        "url": "https://www.drivencarguide.co.nz/news/gwm-tank-700-with-v8-power-confirmed-potential-addition-to-nz-lineup-says-company-chairman/",
+        "image": "https://www.drivencarguide.co.nz/media/lnujrnhd/gwm-tank-700-v8-announcement002.jpg?v=1dcd67dea3ca010",
+        "publishedAt": "2026-04-28T00:50:08Z",
+        "source": "Driven Car Guide"
       },
       {
-        "title": "The 13 charts that prove the lost Liberal decade",
-        "description": "Trudeau promised 'sunny ways' but delivered stormy waters. Just how much worse have things got?",
-        "url": "https://nationalpost.com/feature/lostdecade",
-        "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/04/storm-stocks-1.jpg",
-        "publishedAt": "2026-04-27T23:50:44Z",
-        "source": "National Post"
-      },
-      {
-        "title": "Rosen Law Firm Urges Regencell Bioscience Holdings Limited (NASDAQ: RGC) Stockholders with Large Losses to Contact the Firm for Information About Their Rights",
-        "description": "Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers and acquirers of Regencell Bioscience Holdings Li...",
-        "url": "https://www.businesswire.com/news/home/20260427408274/en/Rosen-Law-Firm-Urges-Regencell-Bioscience-Holdings-Limited-NASDAQ-RGC-Stockholders-with-Large-Losses-to-Contact-the-Firm-for-Information-About-Their-Rights",
-        "image": "https://mms.businesswire.com/media/20260427408274/en/1164042/22/July_30%2C_2021_-_ROSEN_LOGO.jpg",
-        "publishedAt": "2026-04-27T23:50:00Z",
+        "title": "Lost Money in POET Technologies Inc. (NASDAQ: POET)? Investors Urged to Contact Award-Winning Firm, Gibbs Mura",
+        "description": "Gibbs Mura is investigating a potential securities class action lawsuit on behalf of POET Technologies investors.",
+        "url": "https://www.businesswire.com/news/home/20260427166747/en/Lost-Money-in-POET-Technologies-Inc.-NASDAQ-POET-Investors-Urged-to-Contact-Award-Winning-Firm-Gibbs-Mura",
+        "image": "https://mms.businesswire.com/media/20260427166747/en/2787128/22/GMLG_Securities_Logo_2025-1113.jpg",
+        "publishedAt": "2026-04-28T00:47:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "Baby is born on Delta flight from Atlanta to Portland",
-        "description": "A passenger on a Delta Air Lines flight from Atlanta gave birth to a healthy 5 1/2 pound girl just before the plane landed at Portland International Airport.",
-        "url": "https://www.cnn.com/2026/04/27/us/baby-born-on-delta-flight",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260427-baby-on-board.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-27T23:49:19Z",
-        "source": "CNN"
+        "title": "CATL says sodium batteries are mainstream-ready, signs massive 60 GWh deal",
+        "description": "CATL, the world’s largest battery maker, signed a 60 GWh sodium-ion battery deal with energy storage integrator HyperStrong — the...",
+        "url": "https://electrek.co/2026/04/27/catl-sodium-ion-battery-60gwh-energy-storage-deal/",
+        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/CATL-sodium-ion-batteries-EVs.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-04-28T00:39:00Z",
+        "source": "Electrek"
       },
       {
-        "title": "Lufax Holding Ltd Securities Fraud",
-        "description": "Alert: Claims Focus on Alleged Misrepresentations About Internal Control Effectiveness...",
-        "url": "https://www.globenewswire.com/news-release/2026/04/27/3282160/0/en/lu-investor-alert-lufax-holding-ltd-securities-fraud-lawsuit-investors-with-losses-may-seek-to-lead-the-class-action-after-executives-allegedly-certified-deficient-controls-levi-ko.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/d91bd4e6-7d18-43f7-a479-4f992242a82a",
-        "publishedAt": "2026-04-27T23:47:07Z",
-        "source": "GlobeNewswire"
+        "title": "Personalized Chemotherapy for Abdominal Cancer: A Q&A with Kiran Turaga",
+        "description": "For patients with cancer metastases of the abdominal lining, a new Yale trial offers a personalized approach to chemotherapy.",
+        "url": "https://medicine.yale.edu/news-article/personalized-chemotherapy-for-abdominal-cancer/",
+        "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/ffb9828b-75fa-41ef-a05f-1365e0ca7d07",
+        "publishedAt": "2026-04-28T00:37:51Z",
+        "source": "Yale School of Medicine"
       },
       {
-        "title": "Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Nvidia, Alphabet Are Big Winners",
-        "description": "Dow Jones Futures: The Nasdaq and S&P 500 set more record highs Monday. Micron, Sandisk, Nvidia and Alphabet were big winners.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-news-nvidia-alphabet/",
-        "image": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-        "publishedAt": "2026-04-27T23:45:00Z",
-        "source": "Investor's Business Daily"
+        "title": "Stocks to watch: ST Engineering, Clar, MPACT, Yangzijiang Maritime, Sert, Addvalue Tech, GSH",
+        "description": "[SINGAPORE] The following companies saw new developments that may affect trading of their securities on Tuesday (Apr 28):",
+        "url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-st-engineering-clar-mpact-yangzijiang-maritime-sert-addvalue-tech-gsh",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/530629a350d7cfaa397d354451e9cb496a27f5f114e6acb710c1d16bb331cd72?w=1200&f=webp",
+        "publishedAt": "2026-04-28T00:36:00Z",
+        "source": "The Business Times"
+      },
+      {
+        "title": "IBRX SHAREHOLDER UPDATE: ImmunityBio (IBRX) Sued After FDA Flags Misleading Cancer Claims, Shares Plunge 21%, $2B Market Cap Lost -- Hagens Berman",
+        "description": "/PRNewswire/ -- ImmunityBio, Inc. (NASDAQ: IBRX) faces a securities class action lawsuit which seeks to represent investors who purchased or otherwise acquired...",
+        "url": "https://www.prnewswire.com/news-releases/ibrx-shareholder-update-immunitybio-ibrx-sued-after-fda-flags-misleading-cancer-claims-shares-plunge-21-2b-market-cap-lost----hagens-berman-302754913.html",
+        "image": "https://mma.prnewswire.com/media/2590203/Hagens_Berman_Sobol_Shapiro_LLP_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-28T00:33:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "JWST hunts for an 'Earth-moon' twin in a habitable zone, but the star has other plans",
+        "description": "The moon has played a huge role in the development of Earth. It stabilizes the planet, tempers dramatic climate swings, and possibly even provides the tidal heating that might have led to the first life forms. So it's natural we would want to find a similar Earth/Luna system somewhere else in the cosmos. But astronomers have been searching for one for years at this point to no avail. And a new paper, available on the arXiv preprint server, from Emily Pass and her colleagues at MIT, Harvard, and the University of Chicago describes using the James Webb Space Telescope to track some of the most promising exomoon candidates—only to be foiled by the star they were orbiting.",
+        "url": "https://phys.org/news/2026-04-jwst-earth-moon-twin-habitable.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/jwst-hunts-for-an-eart.jpg",
+        "publishedAt": "2026-04-28T00:20:36Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+        "description": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+        "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg",
+        "publishedAt": "2026-04-28T00:14:09Z",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Lunar Outpost Responds To Faster NASA Timeline With ‘Sporty’ Rover",
+        "description": "Lunar terrain vehicle developer Lunar Outpost is prioritizing the design of a “sporty” lighter weight utility rover over its larger Eagle vehicle.",
+        "url": "https://aviationweek.com/space/space-exploration/lunar-outpost-responds-faster-nasa-timeline-sporty-rover",
+        "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+        "publishedAt": "2026-04-28T00:10:29Z",
+        "source": "Aviation Week"
+      },
+      {
+        "title": "Scientists use condoms to learn more about cicada towers",
+        "description": "Study that involved condoms helped scientists discover that cicada mud towers protect against predators and regulate the air.",
+        "url": "https://www.earth.com/news/rainforest-study-using-condoms-to-learn-more-about-cicada-mud-towers/",
+        "image": "https://cff2.earth.com/uploads/2026/03/13161103/amazon-cicada-clay-tower.jpg",
+        "publishedAt": "2026-04-28T00:07:48Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Antarctica's Ice Shelves Threatened by Ocean Heat",
+        "description": "A rare dataset collected by instruments at the point where Antarctica's largest ice shelf begins to float reveals ocean processes that drive melting",
+        "url": "https://www.miragenews.com/antarcticas-ice-shelves-threatened-by-ocean-heat-1662893/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1526256262350-7da7584cf5eb%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1350%26amp%3Bq%3D80",
+        "publishedAt": "2026-04-28T00:06:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Optical gradient and translucency behavior of three multilayer monolithic zirconia systems: a spectrophotometric study",
+        "description": "This in vitro study evaluated the effects of multilayer zirconia material, anatomical region, substrate shade, and laboratory background conditions on the optical behavior of monolithic zirconia crowns. Sixty crowns fabricated from three multilayer zirconia systems were analyzed at cervical, middle, and incisal regions using standardized white, black, and neutral backgrounds. Color coordinates (L*, a*, b*), color difference (ΔE₀₀), translucency parameter (TP₀₀), and contrast ratio (CR) were measured using a dental spectrophotometer. Material type and anatomical region significantly influenced all optical parameters. Perfit STML demonstrated higher translucency (TP₀₀ ≈ 1.50) and color difference (ΔE₀₀ ≈ 3.71), whereas Dental Direkt exhibited lower translucency (TP₀₀ ≈ 0.99) and higher opacity (CR ≈ 0.98). The incisal region showed the highest translucency (TP₀₀ ≈ 2.33) and lowest contrast ratio, while the cervical region exhibited higher lightness and chromaticity. Laboratory background conditions affected color coordinates and ΔE₀₀ values, whereas intrinsic optical properties such as TP₀₀ and CR remained relatively stable across backgrounds. However, interaction analysis revealed that the influence of background conditions varied depending on the anatomical region. These findings indicate that multilayer zirconia materials are not optically interchangeable and that their optical performance is strongly influenced by both material composition and anatomical location. Clinically, highly translucent materials may be preferred for achieving a natural incisal appearance under favorable substrate conditions, whereas more opaque materials or masking strategies may be required when the underlying substrate is discolored.",
+        "url": "https://www.nature.com/articles/s41598-026-50564-5?error=cookies_not_supported&code=4ef1571c-f861-4a18-855b-8d7881ae8c7f",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-28T00:03:23Z",
+        "source": "Nature"
+      },
       {
         "title": "Why Stars Spin Down, Or Up, Before They Die",
         "description": "Kyoto, Japan -- From birth to death, stars generally slow by 100 to 1000 times their initial rotation rates; in other words, they spin down. The Sun's",
@@ -150,120 +198,72 @@
         "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/GettyImages-2230888564.jpg",
         "publishedAt": "2026-04-27T23:48:00Z",
         "source": "Interesting Engineering"
-      },
-      {
-        "title": "PreStoi allows accurate prediction of protein complex stoichiometry by integrating AlphaFold3 and template information",
-        "description": "Protein complexes carry out many essential functions in cells, but predicting their structures requires knowing their stoichiometry, meaning how many copies of each subunit are present. This information is often unavailable, making stoichiometry prediction crucial for complexes with unknown stoichiometry. Despite its importance, few computational methods address this challenge. Here we show that combining AlphaFold3 structure prediction with information from related known protein complexes enables accurate prediction of protein complex stoichiometry. Our method generates plausible subunit combinations, builds structural models for them using AlphaFold3, ranks them using AlphaFold3 scores, and further refines predictions with template-based information when available. In the 16th community-wide Critical Assessment of Techniques for Protein Structure Prediction, our method identifies the correct stoichiometry as the top prediction for 71.4% of targets and among the top three predictions for 92.9% of targets, outperforming other methods overall. This demonstrates the complementary strengths of AlphaFold3- and template-based predictions and highlights the applicability of our approach to uncharacterized protein complexes lacking stoichiometry data. Integration of AlphaFold3 and homologous template information enables accurate prediction of protein complex stoichiometry for uncharacterized multimers in the CASP16 experiment.",
-        "url": "https://www.nature.com/articles/s42003-026-10126-x?error=cookies_not_supported&code=87d3fade-cc31-4eab-8947-dfb2b202d3a8",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-27T23:43:18Z",
-        "source": "Nature"
-      },
-      {
-        "title": "An unprecedented Antarctic heat wave hit in the dead of winter-what it signals for the decades ahead",
-        "description": "In the middle of the Antarctic winter, during months of darkness when temperatures often dip below −30°C, the continent warmed dramatically. In July and August 2024, temperatures in parts of East Antarctica rose by up to 28°C above average and stayed high for more than two weeks. To put that in perspective, a similar anomaly in the UK would push January temperatures into the mid-30°Cs.",
-        "url": "https://phys.org/news/2026-04-unprecedented-antarctic-dead-winter-decades.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/how-antarctica-warmed.jpg",
-        "publishedAt": "2026-04-27T23:40:04Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Beating and bleeding dummy hearts to train surgeons for emergency trauma injuries",
-        "description": "Graphic warning: This story contains images of realistic-looking fake open-heart surgery.",
-        "url": "https://phys.org/news/2026-04-dummy-hearts-surgeons-emergency-trauma.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/beating-and-bleeding-d.jpg",
-        "publishedAt": "2026-04-27T23:40:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Atomic polarization enables new control over metal electronic behavior",
-        "description": "A new study reveals how nanometer-scale thickness and interfacial polarization can control metal electronics without changing composition.",
-        "url": "https://interestingengineering.com/innovation/atomic-polarization-mental-electronic-behavious-control",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/Untitled-design-2026-04-28T035007.035.jpg",
-        "publishedAt": "2026-04-27T23:33:00Z",
-        "source": "Interesting Engineering"
-      },
-      {
-        "title": "Retron-Powered Approach Enables Genome Editing Across Diverse Bacterial Species",
-        "description": "Retrons adapted from E. coli enable genome editing in 15 diverse bacterial species, expanding recombineering tools across major microbial phyla.",
-        "url": "https://www.genengnews.com/topics/genome-editing/retron-powered-approach-enables-genome-editing-across-diverse-bacterial-species/",
-        "image": "https://www.genengnews.com/wp-content/uploads/2025/03/Microbiome-GettyImages-183409163.jpg",
-        "publishedAt": "2026-04-27T23:28:30Z",
-        "source": "Genetic Engineering and Biotechnology News"
-      },
-      {
-        "title": "The Physics of Brain Development: How Cells Pull Together to Form the Neural Tube",
-        "description": "Georgia Tech researchers demonstrated the mechanics behind neural tube closure, which can lead to severe or fatal birth defects if unsuccessful.",
-        "url": "https://www.newswise.com/articles/the-physics-of-brain-development-how-cells-pull-together-to-form-the-neural-tube",
-        "image": "https://research.gatech.edu/sites/default/files/styles/news_first_image/public/news-images/image--2-.png?itok=Af-5_IIA",
-        "publishedAt": "2026-04-27T23:25:00Z",
-        "source": "Newswise"
       }
     ],
     "ai": [
       {
-        "title": "Beijing sends warning on ‘de-Chinaing’ by blocking sale of Singapore-based AI firm Manus to Meta",
-        "description": "The real impact of China's move may be on other tech start-ups looking to shift their bases overseas to places like Singapore. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/companies-markets/beijing-sends-warning-on-de-chinaing-by-blocking-sale-of-singapore-based-ai-firm-manus-to-meta",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d9e3ee6163b975bfa7e7d383a52fd30512776a8b0b83751b4e3f96b8fbb1faf8",
-        "publishedAt": "2026-04-27T23:56:00Z",
-        "source": "The Straits Times"
+        "title": "The AI splurge is costing big tech its workforce",
+        "description": "Layoffs might lift some efficiency measures, but there are other considerations.",
+        "url": "https://www.livemint.com/ai/the-ai-splurge-is-costing-big-tech-its-workforce-11777337546776.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/pexels-photo-9068384_1777337733317_1777337745420.jpeg",
+        "publishedAt": "2026-04-28T00:56:22Z",
+        "source": "Livemint"
       },
       {
-        "title": "Datavault AI Inc: Datavault AI Announces Execution of Binding Term Sheet for $120 Million Cash Contribution From Scilex Holding Company to Fund 100-City GPU Expansion of Quantum-Ready SanQtum Platform",
-        "description": "Combined with the anticipated sale of the BTC and Receivable collections, Datavault AI projects $200M+ infusion of cash without equity dilution.Datavault AI has previously secured and in stock of Nvidia",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68316995-datavault-ai-inc-datavault-ai-announces-execution-of-binding-term-sheet-for-dollar-120-million-cash-contribution-from-scilex-holding-company-to-fund-100-ci-200.htm",
-        "image": "https://www.finanznachrichten.de/content/g/fb.png",
-        "publishedAt": "2026-04-27T23:50:00Z",
-        "source": "FinanzNachrichten"
+        "title": "Activist Starboard Value takes major stake in AI software maker Dynatrace, WSJ reports",
+        "description": "April 27 (Reuters) - Activist investor ⁠Starboard Value has taken a major stake in AI ⁠software maker Dynatrace and is advocating for strategic changes to ‌help boost its share price, the Wall Street Journal reported on Monday, citing a draft of a letter by a senior executive.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/activist-starboard-value-takes-major-stake-in-ai-software-maker-dynatrace-wsj-reports",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/28/3881007.jpg",
+        "publishedAt": "2026-04-28T00:52:00Z",
+        "source": "The Star"
       },
       {
-        "title": "All the clues that photo of accused WHCD gunman Cole Allen in IDF shirt is AI",
-        "description": "A photo purporting to show accused White House Correspondents' Dinner gunman Cole Allen wearing an Israel Defense Forces sweatshirt is almost certainly a fake generated by AI, according to analysis from The Post and other sources.",
-        "url": "https://nypost.com/2026/04/27/us-news/all-the-clues-that-pic-of-whcd-gunman-cole-allen-in-idf-shirt-is-ai/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/126516956.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-27T23:45:45Z",
-        "source": "New York Post"
+        "title": "Box to launch Box Automate to speed up customers' business with AI, CEO says",
+        "description": "NEW YORK/SAN FRANCISCO, ⁠April 27 (Reuters) - Box is launching a service built for artificial intelligence to expedite tedious work, like processing millions of invoices and pulling data from ⁠corporate documents, CEO Aaron Levie told Reuters on Monday.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/box-to-launch-box-automate-to-speed-up-customers039-business-with-ai-ceo-says",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/28/3881008.jpg",
+        "publishedAt": "2026-04-28T00:52:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Anthropic names Australian managing director as AI giant expands",
-        "description": "The artificial intelligence developer has appointed the former local chief of New York-listed software firm Snowflake to oversee commercial agreements.",
-        "url": "https://www.afr.com/technology/anthropic-names-australian-managing-director-as-ai-giant-expands-20260428-p5zrkn",
-        "image": "https://static.ffx.io/images/$zoom_0.5316%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/662026a5a9bd736d37c03d41deba8a71280decd1",
-        "publishedAt": "2026-04-27T23:45:29Z",
-        "source": "Australian Financial Review"
+        "title": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated",
+        "description": "The bitter legal fight may come down to a few pages in one executive's personal diary.",
+        "url": "https://www.japantimes.co.jp/business/2026/04/28/tech/musk-trial-sam-altman-openai/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/28/537350.jpg?v=3.1",
+        "publishedAt": "2026-04-28T00:51:25Z",
+        "source": "The Japan Times "
       },
       {
-        "title": "Activist Starboard Value takes stake in AI software maker Dynatrace - WSJ",
-        "description": "April 27 -\nActivist Starboard Value takes stake in AI software maker Dynatrace - WSJ\n...",
-        "url": "https://www.marketscreener.com/news/activist-starboard-value-takes-stake-in-ai-software-maker-dynatrace-wsj-ce7f59dddd8af225",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-04-27T23:40:14Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "Compliance by design in the age of AI",
-        "description": "GUEST OPINION:  There’s no denying Australia is moving fast on AI. Governments are launching AI offices, businesses are building new data centres...",
-        "url": "https://itwire.com/guest-articles/guest-opinion/compliance-by-design-in-the-age-of-ai.html",
-        "image": "https://itwire.com/media/k2/items/cache/59bdef91ae5ca9ccff8e91358a78112b_XS.jpg",
-        "publishedAt": "2026-04-27T23:34:50Z",
+        "title": "TeamViewer Advances Toward Autonomous Endpoint Management: Tia Now Generates Automations From Customers' Own Proven Fixes",
+        "description": "TeamViewer today introduced AI-driven scripting for Tia (TeamViewer Intelligent Agent) at the Gartner Digital Workplace Summit 2026 in Londo...",
+        "url": "https://itwire.com/business-it-news/business-software/teamviewer-advances-toward-autonomous-endpoint-management-tia-now-generates-automations-from-customers-own-proven-fixes.html",
+        "image": "https://itwire.com/media/k2/items/cache/9213530ccfe3e36c9c6f2a9826e1ab9a_XS.jpg",
+        "publishedAt": "2026-04-28T00:46:43Z",
         "source": "iTWire"
       },
       {
-        "title": "Taylor Swift Trademarks Her Voice and Image to Counter AI",
-        "description": "Taylor Swift can't just shake it off. She's going the extra mile to make sure AI tools can't copy her.",
-        "url": "https://www.cnet.com/news/taylor-swift-trademarks-her-voice-and-image-to-counter-ai/",
-        "image": "https://www.cnet.com/a/img/resize/4f4bf6880cd4eabbfa6cb83881791eff14d90f0e/hub/2026/02/06/28a18f1c-c426-4225-96c6-02afb821f550/gettyimages-2014750026.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-04-27T23:34:04Z",
-        "source": "CNET"
+        "title": "ChatGPT’s image generator is changing the rules - and I am not entirely comfortable",
+        "description": "The latest image generator from OpenAI is undeniably powerful, and that much is hard to dispute. It interprets prompts with a level of depth that feels closer to collaboration than execution, renders clean and usable text within images, and produces outputs that look less like drafts and more like finished products. But the real shift […]",
+        "url": "https://www.digitaltrends.com/computing/chatgpts-image-generator-is-changing-the-rules-and-i-am-not-entirely-comfortable/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/04/ChatGPT-Images-2.0-Banner.jpg?resize=1200%2C630",
+        "publishedAt": "2026-04-28T00:46:30Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "Markets Price In End Of Iran Conflict, S&P 500 May Climb Higher",
-        "description": "Discover my bullish S&P 500 outlook for 2026: strong earnings, AI-driven capex, and neutral Fed policy. Read my analysis here.",
-        "url": "https://seekingalpha.com/article/4894761-markets-price-in-end-of-iran-conflict-s-and-p-500-may-climb-higher",
-        "image": "https://static.seekingalpha.com/uploads/2026/4/25/saupload_58c378d68b63c934c6fca6e3e5df1d84.png?io=w640",
-        "publishedAt": "2026-04-27T23:33:32Z",
-        "source": "Seeking Alpha"
+        "title": "Faraday Future Strategically Launches Its Embodied AI Developer Platform Purpose-Built for AI Natives, Marking 2026 as the Inaugural Year of EAI Robotics Education",
+        "description": "28.04.2026 - Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global Embodied AI (EAI) ecosystem company, today announced that it hosted the EAI Developer Ecosystem Forum and the strategic ... Seite 1",
+        "url": "https://www.wallstreet-online.de/nachricht/20788273-faraday-future-strategically-launches-its-embodied-ai-developer-platform-purpose-built-for-ai-natives-marking-2026-as-the-inaugural-year-of-eai-robotics-education",
+        "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/fahrzeugindustrie/size_645/adobestock-48191602.jpeg",
+        "publishedAt": "2026-04-28T00:45:01Z",
+        "source": "Wallstreet Online"
+      },
+      {
+        "title": "China blocks Meta’s acquisition of AI start-up Manus",
+        "description": "China's state planner has blocked tech giant Meta from acquiring Chinese agentic AI start-up Manus.",
+        "url": "https://www.marketing-interactive.com/china-blocks-meta-s-acquisition-of-ai-start-up-manus",
+        "image": "https://marketing-interactive-assets.b-cdn.net/article_images/china-blocks-meta-s-acquisition-of-ai-start-up-manus/1777344360_manus%20meta.jpg",
+        "publishedAt": "2026-04-28T00:42:59Z",
+        "source": "Marketing Interactive"
       }
     ]
   }
