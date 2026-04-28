@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-28T10:02:50.767Z",
+  "fetchedAt": "2026-04-28T11:00:21.968Z",
   "sections": {
     "world": [
       {
-        "title": "Plane erupts into flames, kills all 14 on-board",
-        "description": "At least 14 people have been killed in a horror passenger plane crash after flying into bad weather conditions.",
-        "url": "https://www.news.com.au/travel/travel-updates/incidents/fourteen-passengers-killed-in-south-sudan-after-aircraft-plunges-to-ground-and-erupts-into-flames/news-story/7702dcdcc6162300210c5fb48d101a5b",
-        "image": "https://content.api.news/v3/images/bin/6623910e3190224675a67a3b7aab246d",
-        "publishedAt": "2026-04-27T22:01:04Z",
-        "source": "News.com.au"
+        "title": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says",
+        "description": "Attack in Adamawa state continues wave of violence across the country, including armed raid on orphanage in Kogi",
+        "url": "https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says",
+        "image": "https://i.guim.co.uk/img/media/01f2eb7ca053a25d5513df0b96cb8a337dced345/125_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66a2ff6c0920142893be2e283b72e84",
+        "publishedAt": "2026-04-27T22:57:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "King Charles and Camilla arrive in US, meet Donald Trump in bid to salvage ties",
-        "description": "The King met Trump at the White House, kicking off a high-stakes state visit shadowed by transatlantic tensions and a fresh alleged attempt to assassinate the US president.",
-        "url": "https://www.rnz.co.nz/news/world/593563/king-charles-and-camilla-arrive-in-us-meet-donald-trump-in-bid-to-salvage-ties",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--2UKCo89P--/t_tohu-badge-facebook/v1777325857/4JPGZXM_AFP__20260427__A96G93X__v1__HighRes__UsBritainRoyalsPoliticsDiplomacy_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-04-27T21:59:18Z",
-        "source": "RNZ"
+        "title": "Nurse left in coma after honeymoon tragedy as family issue health update",
+        "description": "Sarah Danh, 27, was rushed back to the US in a coma after suffering acute liver failure during her honeymoon in Japan. Her family has now shared an encouraging update on her condition",
+        "url": "https://www.mirror.co.uk/news/world-news/honeymoon-tragedy-nurse-in-coma-37078683",
+        "image": "https://i2-prod.mirror.co.uk/article37078680.ece/ALTERNATES/s1200d/3_Screenshot-2026-04-27-at-165557.jpg",
+        "publishedAt": "2026-04-27T22:53:35Z",
+        "source": "The Mirror"
       },
       {
-        "title": "Commentary: China is remaking the South China Sea with a return to island-building",
-        "description": "A new Chinese outpost at Antelope Reef won’t create legal rights but will shape control over disputed waters, says a maritime law professor from Western Sydney University.",
-        "url": "https://www.channelnewsasia.com/commentary/south-china-sea-island-build-law-power-6083581",
-        "image": "https://dam.mediacorp.sg/image/upload/s--VyW3Ay0J--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-27T013834Z_1_LYNXMPEM2Q03H_RTROPTP_3_SOUTHCHINASEA-PHILIPPINES.JPG?itok=sKF0_Uop",
-        "publishedAt": "2026-04-27T21:59:00Z",
-        "source": "CNA"
+        "title": "Return of the pirates: Iran slams US tanker seizures as armed robbery",
+        "description": "Iran accused the United States of piracy after American forces seized two tankers said to be carrying Iranian oil. The move sharpens tensions in the Strait of Hormuz as sanctions, oil flows and diplomacy remain under strain.",
+        "url": "https://www.indiatoday.in/world/story/iran-oil-tanker-seizures-tehran-accuses-us-of-piracy-in-strait-of-hormuz-pirates-2902455-2026-04-28",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/tifani-us-iran-272915935-16x9_0.jpg?VersionId=fVWSkLncGpxaGES6hShaiD3jXj_yTDLx",
+        "publishedAt": "2026-04-27T22:36:47Z",
+        "source": "India Today"
       },
       {
-        "title": "Bahrain strips 69 people of citizenship over Iran support",
-        "description": "Rights groups have described the move as a ‘blatant abuse of power’.",
-        "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69efc4b6-1777321142.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-27T21:55:08Z",
-        "source": "Al Jazeera"
+        "title": "9 Of The Oldest Lakes In The World With Charming Vacation Vibes",
+        "description": "The world's oldest lakes are among the most spectacular bodies of water found on the planet. There's old, and then there's millions of years old.",
+        "url": "https://www.islands.com/2157284/oldest-lakes-world-visit-vacation-vibes-charming/",
+        "image": "https://www.islands.com/img/gallery/9-of-the-oldest-lakes-in-the-world-with-charming-vacation-vibes/l-intro-1777187184.jpg",
+        "publishedAt": "2026-04-27T22:30:00Z",
+        "source": "islands.com"
       },
       {
-        "title": "King Charles meets Trump to kick off state visit aimed at easing strained UK-US relations",
-        "description": "The trip comes amid security concerns in the wake of the weekend shooting and strained transatlantic ties over the Iran war.",
-        "url": "https://www.thejournal.ie/king-charles-us-state-visit-trump-uk-relations-special-relationship-7025672-Apr2026/",
-        "image": "https://img2.thejournal.ie/article/7025672/river/?height=400&version=7025673",
-        "publishedAt": "2026-04-27T21:53:00Z",
-        "source": "The Journal"
+        "title": "Catholic maritime ministries urge prayer for seafarers trapped amid Hormuz blockade",
+        "description": "As the U.S. and Iran face off over the Strait of Hormuz, Catholic maritime ministry leaders are calling for prayer and support for the thousands of souls trapped at sea amid the war.",
+        "url": "https://catholicreview.org/catholic-maritime-ministries-urge-prayer-for-seafarers-trapped-amid-hormuz-blockade/",
+        "image": "https://catholicreview.org/wp-content/uploads/2026/04/20260427T1407-APOSTLESHIP-SEA-HORMUZ-1819038-scaled.jpg",
+        "publishedAt": "2026-04-27T22:26:56Z",
+        "source": "Catholic Review"
       },
       {
-        "title": "Bridging the Chasm: Why Tanzania’s Safari Leaders Are Replacing the Classroom",
-        "description": "By Adonis Byemelwa",
-        "url": "https://panafricanvisions.com/2026/04/bridging-the-chasm-why-tanzanias-safari-leaders-are-replacing-the-classroom/",
-        "image": "https://panafricanvisions.com/wp-content/uploads/2026/04/geti.jpg",
-        "publishedAt": "2026-04-27T21:50:54Z",
-        "source": "pan african visions"
+        "title": "Third assassination attempt on Donald Trump highlights US history of political violence",
+        "description": "The latest attack on US President Donald Trump has once again thrust his country's long history of political violence into the spotlight.",
+        "url": "https://www.abc.net.au/news/2026-04-28/us-presidents-assassinated-american-political-violence-history/106610862",
+        "image": "https://live-production.wcms.abc-cdn.net.au/950ca894e5c3a9cdc5b76a8fa4bd83ea?impolicy=wcms_watermark_news&cropH=1242&cropW=2208&xPos=813&yPos=392&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-27T22:25:44Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Trump says ABC should fire Jimmy Kimmel over his 'expectant widow' joke",
-        "description": "U.S. President Donald Trump said on Monday that Jimmy Kimmel should be fired by ABC and parent company ‌Walt Disney, joining his wife Melania Trump in calling out the late-night talk show host for a monologue he delivered Thursday, prior to a shooting on Saturday near a gathering of journalists and politicians that the president and first lady were attending.",
-        "url": "https://www.cbc.ca/news/entertainment/trump-kimmel-melania-9.7179036",
-        "image": "https://i.cbc.ca/ais/d2ea74a7-656c-4332-a398-4bc30a4e8e0c,1777320063417/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C49%2C5000%2C2812%29%3BResize%3D620",
-        "publishedAt": "2026-04-27T21:49:21Z",
-        "source": "CBC"
+        "title": "U.S. judge orders USCIS to resume green card processing for immigrants affected by Trump's travel ban",
+        "description": "Mr Russell ruled that the indefinite hold on the immigration applications was unlawful.",
+        "url": "https://gazettengr.com/u-s-judge-orders-uscis-to-resume-green-card-processing-for-immigrants-affected-by-trumps-travel-ban/",
+        "image": "https://gazettengr.com/wp-content/uploads/IMG_3119.jpeg",
+        "publishedAt": "2026-04-27T22:24:42Z",
+        "source": "Peoples Gazette Nigeria"
       },
       {
-        "title": "Mali Rebels Strike Major Blow Against Junta and Russia’s Africa Corps",
-        "description": "Coordinated attacks signified a major escalation of insurgent violence in a region of West Africa where military leaders had seized power and warmed to Moscow in recent years.",
-        "url": "https://www.nytimes.com/2026/04/27/world/africa/mali-jnim-violence-russia.html",
-        "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-mali-wtk-1-jbpt/27int-mali-wtk-1-jbpt-facebookJumbo.jpg",
-        "publishedAt": "2026-04-27T21:35:28Z",
-        "source": "The New York Times"
+        "title": "stakes state visit with Trump amid tensions",
+        "description": "Britain’s King Charles III arrives for a high-stakes state visit aimed at repairing strained relations with US President Donald Trump. Video / AFP",
+        "url": "https://www.nzherald.co.nz/world/king-arrives-in-the-us-for-high-stakes-state-visit-with-trump-amid-tensions/ASX63AP3FCNMMLY35JMOJOY6QE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/T7MB3PBVHVCVTCLTWUB5RQR3MQ.jpg?auth=3aa03f313d2618e118277e93bdf47344f7c1479f236badc26b1d31d36b4ae331&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-04-27T22:22:00Z",
+        "source": "NZ Herald"
       }
     ],
     "business": [
       {
-        "title": "Philippines: Diesel slashed by ₱12.94/L as DOE moves to cushion Filipinos from global oil shock",
-        "description": "DoE announces sharp rollback in diesel, kerosene prices effective Tuesday, April 28, 2026",
-        "url": "https://gulfnews.com/business/energy/philippines-diesel-slashed-by-1294l-as-doe-moves-to-cushion-filipinos-from-global-oil-shock-1.500521273",
-        "image": "https://media.assettype.com/gulfnews%2Fimport%2F2024%2F05%2F21%2FAccording-to-the-Philippine-Department-of-Energy--DoE-_18f9b07c8b4_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-27T22:01:20Z",
-        "source": "Gulf News"
+        "title": "In China, companies are shipping AI hardware",
+        "description": "From cars to robots, industries across China are seeing AI expand from cloud-based systems into devices.",
+        "url": "https://www.cnbc.com/2026/04/27/china-ai-hardware-shipping-einclaw-style3d-vw-alibaba.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108297446-1777302361840-108297446-1777277730921-gettyimages-2271152266-CHINA_IROOTECH.jpg?v=1777302376&w=1920&h=1080",
+        "publishedAt": "2026-04-27T23:00:01Z",
+        "source": "CNBC"
       },
       {
-        "title": "Lombard Odier further strengthens Asia leadership team with appointment of Edwin Tan",
-        "description": "Lombard Odier announces Edwin Tan as additional Market Head for Southeast Asia.",
-        "url": "https://www.lombardodier.com/insights/2026/april/lombard-odier-further-strengthens-asia-leadership-team-with-appointment-of-edwin-tan.html",
-        "image": "https://media.lombardodier.com/image/upload/f_auto,c_fill,w_1200,ar_1200:627/v1777351083/loasia/news/2026/04/20260428/Media_Release_-_Asia_LOgreen.jpg",
-        "publishedAt": "2026-04-27T22:00:59Z",
-        "source": "Lombard Odier"
-      },
-      {
-        "title": "China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5",
-        "description": "DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic.",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/27/45f5bdcb-1e1c-459f-803c-23d326e883de_a4e5e66e.jpg?itok=fmrJg25U&v=1777288628",
-        "publishedAt": "2026-04-27T22:00:15Z",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "At 1.7m bpd, NNPC says crude oil output hit five-year high in performance report",
-        "description": "The Nigerian National Petroleum Company (NNPC) Limited says Nigeria’s crude oil production rose to 1.71 million barrels per day (bpd) between April 2025 and April 2026 — the highest level recorded in five years.",
-        "url": "https://www.thecable.ng/at-1-7m-bpd-nnpc-says-crude-oil-output-hit-five-year-high-in-performance-report/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2025/12/NNPC-Logo1.png",
-        "publishedAt": "2026-04-27T22:00:00Z",
-        "source": "TheCable"
-      },
-      {
-        "title": "Beyond the ‘iron rice bowl’: Why more young Chinese are choosing flexible work",
-        "description": "Around one in three workers in China are now in flexible jobs, led by a younger generation seeking greater autonomy despite the trade-offs. The second of this two-part series focuses on people drawn to this way of working, rather than those",
-        "url": "https://www.channelnewsasia.com/east-asia/china-gig-economy-flexible-jobs-employment-6043051",
-        "image": "https://dam.mediacorp.sg/image/upload/s--Ogm___SD--/c_crop,h_1277,w_2271,x_1,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/10/photo-output.jpeg?itok=kUD56fK8",
-        "publishedAt": "2026-04-27T22:00:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Warnings on Permanent Oil Demand Destruction Begin Pouring In",
-        "description": "Massive supply shock is already cutting demand, with up to 13 million bpd of supply disrupted and early demand destruction visible in Asia.",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Warnings-on-Permanent-Oil-Demand-Destruction-Begin-Pouring-In.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-27_3saf1erwyz.jpg",
-        "publishedAt": "2026-04-27T22:00:00Z",
-        "source": "Crude Oil Prices Today | OilPrice.com"
-      },
-      {
-        "title": "Bladex announces Net Profit of $56.4 Million for the First Quarter 2026",
-        "description": "/PRNewswire/ -- Bladex (NYSE: BLX, or \"the Bank\"), a Panama-based multinational bank originally established by the central banks of 23 Latin-American and...",
-        "url": "https://www.prnewswire.com/news-releases/bladex-announces-net-profit-of-56-4-million-for-the-first-quarter-2026--302754837.html",
-        "image": "https://mma.prnewswire.com/media/2950874/5927140/BLADEX_Logo_PMS_289_Blue_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-27T22:00:00Z",
+        "title": "ROYAL CARIBBEAN GROUP CONFIRMS ORDER WITH MEYER TURKU FOR ICON 6 AND 7",
+        "description": "/PRNewswire/ -- Royal Caribbean Group (NYSE: RCL), a global vacation leader redefining the future of vacations, today announced it has confirmed with Meyer...",
+        "url": "https://www.prnewswire.com/news-releases/royal-caribbean-group-confirms-order-with-meyer-turku-for-icon-6-and-7-302754867.html",
+        "image": "https://mma.prnewswire.com/media/2965432/Royal_Caribbean_Icon_Class.jpg?p=facebook",
+        "publishedAt": "2026-04-27T23:00:00Z",
         "source": "PR Newswire"
       },
       {
-        "title": "Rogers says it is offering voluntary buyouts in response to cost pressures",
-        "description": "Rogers Communications Inc. says it is offering buyouts to some of its employees.",
-        "url": "https://toronto.citynews.ca/2026/04/27/rogers-says-it-is-offering-voluntary-buyouts-in-response-to-cost-pressures/",
-        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/04/27/IMG_7819-scaled.jpeg",
-        "publishedAt": "2026-04-27T21:53:00Z",
-        "source": "CityNews Toronto"
+        "title": "Samsung Wins Two ‘Best of the Best’ Honors at the Red Dot Design Award",
+        "description": "OLED S95H and Bespoke AI Laundry series win Best of the Best Awards for distinctly innovative design concepts",
+        "url": "https://news.samsung.com/global/samsung-wins-two-best-of-the-best-honors-at-the-red-dot-design-award",
+        "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/04/27162526/Samsung-Corporate-OLED-S95H-and-Bespoke-AI-Laundry-series-Red-Dot-Design-Award-Best-of-the-Best-Honors_Thumb932.jpg",
+        "publishedAt": "2026-04-27T23:00:00Z",
+        "source": "samsung.com"
+      },
+      {
+        "title": "Gaps open up between bank mortgage rate offers",
+        "description": "Rising inflation pressure underpins rising wholesale interest rates and then retail mortgage rate offers. That opens up opportunities to grab a lower fixed rate while they are temporarily available",
+        "url": "https://www.interest.co.nz/personal-finance/138258/rising-inflation-pressure-underpins-rising-wholesale-interest-rates-and",
+        "image": "https://www.interest.co.nz/sites/default/files/2025-12/higher-ahead-Depositphotos_82786572.jpg",
+        "publishedAt": "2026-04-27T22:55:00Z",
+        "source": "Interest.co.nz"
+      },
+      {
+        "title": "Fuel Retailers Applaud Legislation to Extend Biodiesel Blenders' Tax Credit",
+        "description": "/PRNewswire/ -- NATSO, representing America's travel centers and truck stops, SIGMA: America's Leading Fuel Marketers, and the National Association of...",
+        "url": "https://www.prnewswire.com/news-releases/fuel-retailers-applaud-legislation-to-extend-biodiesel-blenders-tax-credit-302754885.html",
+        "image": "https://mma.prnewswire.com/media/2359362/NATSO_2024_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-27T22:54:00Z",
+        "source": "PR Newswire"
+      },
+      {
+        "title": "First Stoping Operations at Perseus Mining's CMA Underground",
+        "description": "Perth, April 28, 2026 (GLOBE NEWSWIRE) -- First Stoping Operations at CMA Underground in Côte d’Ivoire",
+        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/first-stoping-operations-at-perseus-minings-cma-underground/2329769",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1031644.jpg",
+        "publishedAt": "2026-04-27T22:51:15Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Five Star Bancorp Announces First Quarter 2026 Results",
+        "description": "RANCHO CORDOVA, Calif., April 27, 2026 (GLOBE NEWSWIRE) -- Five Star Bancorp (Nasdaq: FSBC) ('Five Star” or the 'Company”), a holding company that operates through its wholly owned banking subsidiary, Five Star Bank (the 'Bank”), today reported net income of $18.6 million for the three months ended March 31, 2026, as compared to $17.6 million for the three months ended December 31, 2025 and $13.1 million for the three months ended March 31, 2025.",
+        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/five-star-bancorp-announces-first-quarter-2026-results/2329768",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1031643.jpg",
+        "publishedAt": "2026-04-27T22:51:14Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Supreme Court heard case about labels for Bayer's Roundup : NPR",
+        "description": "How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.",
+        "url": "https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5240x2948+0+546/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F56%2Fa04b025242a5bfd88d253ab4fdf6%2Fgettyimages-957648142.jpg",
+        "publishedAt": "2026-04-27T22:48:21Z",
+        "source": "NPR"
       }
     ],
     "science": [
+      {
+        "title": "This ultracold quantum device turns electricity into something far stranger that could unlock sound-based lasers",
+        "description": "Researchers at McGill University have developed a novel device that generates sound-like particles known as phonons at extremely cold temperatures. The technology could be used to create phonon lasers, with possible applications in communications and medical diagnostics.",
+        "url": "https://phys.org/news/2026-04-ultracold-quantum-device-electricity-stranger.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/mcgill-researchers-nov.jpg",
+        "publishedAt": "2026-04-27T23:00:04Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Sewers have been hiding a climate problem in plain sight, and this new tool finally exposes its true scale",
+        "description": "Methane is the second-largest greenhouse gas after carbon dioxide. According to the Climate and Clean Air Coalition, anthropogenic methane emissions account for nearly 45% of current net warming, making it an important factor in global warming. An international research team led by a scholar from City University of Hong Kong (CityUHK) has broken through the overlooked role of sewers as a source of methane, developing the first-ever globally applicable estimation tool and offering a new perspective on mitigating climate change.",
+        "url": "https://phys.org/news/2026-04-sewers-climate-problem-plain-sight.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/sewers.jpg",
+        "publishedAt": "2026-04-27T22:40:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "ALMA Witnesses Star Birth Beyond the Milky Way",
+        "description": "Highlights Astronomers have used the Atacama Large Millimeter/submillimeter Array (ALMA) to map, for the first time, the mass distribution of the gas and dust clumps from which new stars are born—the so-called core mass function (CMF)—in a star-forming region outside the Milky Way. The study, led by the Italian National Institute for Astrophysics and published...",
+        "url": "https://www.almaobservatory.org/en/press-releases/alma-witnesses-star-birth-beyond-the-milky-way/",
+        "image": "https://www.almaobservatory.org/wp-content/uploads/2026/04/image-2.png",
+        "publishedAt": "2026-04-27T22:20:41Z",
+        "source": "ALMA Observatory"
+      },
+      {
+        "title": "Nuclease-NTPase antiphage defence systems use conserved molecular features to control bacterial immunity",
+        "description": "Bacteria encode diverse defence systems, including restriction–modification and CRISPR–Cas, that cleave nucleic acid to protect against phage infection. Bioinformatic analyses demonstrate that many recently identified antiphage defence operons comprise a nuclease and NTPase protein, suggesting that additional nucleic acid-targeting systems remain to be understood. Here we develop large-scale comparative cell biology and biochemical approaches to analyse 16 nuclease–NTPase systems and define molecular features that control antiphage defence. Purification, biochemical characterization and in vitro reconstitution of nucleic acid degradation demonstrates that protein–protein complex formation is a shared feature of multigene nuclease–NTPase systems. We show that PaAbpAB, BtHachiman and EcPD-T4-8 system nucleases use highly degenerate recognition site preferences to enable broad nucleic acid degradation, and the Azaca system exhibits specific phage targeting through the recognition of modified phage genomic DNA. Our results uncover principles of antiphage defence system function and highlight the mechanistic diversity of nuclease–NTPase systems in bacterial immunity. A large-scale, comparative cell biology and biochemical screen defines the molecular features controlling antiphage defence systems that encode nuclease effectors and accessory NTPase proteins.",
+        "url": "https://www.nature.com/articles/s41564-026-02312-8?error=cookies_not_supported&code=036a258d-e3e8-4aea-b6ed-85c515329719",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-026-02312-8/MediaObjects/41564_2026_2312_Fig1_HTML.png",
+        "publishedAt": "2026-04-27T22:07:30Z",
+        "source": "Nature"
+      },
       {
         "title": "Why cosmology is more than a theory",
         "description": "A philosophical take on the history of the Universe that is inspiring but incomplete.",
@@ -166,104 +198,72 @@
         "image": "https://s.yimg.com/ny/api/res/1.2/OPMOyjIS3fZscdavswUl.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/live_science_953/90febdc28c27b0c95b1d52e4675ab326",
         "publishedAt": "2026-04-27T21:17:33Z",
         "source": "Yahoo"
-      },
-      {
-        "title": "NASA Curiosity rover uncovers rock with 7 new organic molecules on Mars",
-        "description": "Curiosity found organic molecules on Mars that were so compelling that scientists used a rare process to analyze them.",
-        "url": "https://www.livescience.com/space/space-exploration/nasa-rover-uncovers-rock-with-7-new-organic-molecules-on-mars-the-most-diverse-collection-ever-seen",
-        "image": "https://cdn.mos.cms.futurecdn.net/yMYgMJ55fgYN2s4ehKmjQY-1920-80.jpg",
-        "publishedAt": "2026-04-27T21:17:33Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Using AI to Decode Facial Behavior and Brain Health",
-        "description": "Researchers introduce Cheese3D, an AI tool that tracks mouse facial expressions to predict brain states and anesthesia depth with EEG accuracy.",
-        "url": "https://neurosciencenews.com/cheese3d-facial-expression-brain-mapping-30619/",
-        "image": "https://neurosciencenews.com/files/2026/04/ai-facial-expression-emotion-neuroscience.jpg",
-        "publishedAt": "2026-04-27T21:09:08Z",
-        "source": "Neuroscience News"
-      },
-      {
-        "title": "Aligned cells may explain why some wounds heal faster than others",
-        "description": "Understanding how wounds heal after injury could be a step closer thanks to a new mathematical model developed by researchers at the University of Bristol. The study, published in Physical Review Letters, builds on previous work in fruit flies, where the researchers observed how skin-like epithelial cells move to cover a wound.",
-        "url": "https://phys.org/news/2026-04-aligned-cells-wounds-faster.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-mathematical-model.jpg",
-        "publishedAt": "2026-04-27T21:00:09Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Did decaying dark matter help create the universe's first supermassive black holes?",
-        "description": "With the James Webb Space Telescope now revealing more supermassive black holes in the early universe, this mechanism may help bridge the gap between theory and observation.",
-        "url": "https://www.space.com/astronomy/black-holes/did-decaying-dark-matter-help-create-the-universes-first-supermassive-black-holes",
-        "image": "https://cdn.mos.cms.futurecdn.net/fVw9FBhDcaYkFbVqjJGUq-1600-80.png",
-        "publishedAt": "2026-04-27T21:00:00Z",
-        "source": "Space"
       }
     ],
     "ai": [
       {
-        "title": "Box to launch Box Automate service to expedite enterprise business processes, CEO says",
-        "description": "Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday.\n...",
-        "url": "https://www.marketscreener.com/news/box-to-launch-box-automate-service-to-expedite-enterprise-business-processes-ceo-says-ce7f59ddda80f527",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T222849Z_1_LYNXMPEM3Q1HH_RTROPTP_4_NEXT-NEWSMAKER-BOX.JPG",
-        "publishedAt": "2026-04-27T22:02:19Z",
-        "source": "MarketScreener"
+        "title": "In China, companies are shipping AI hardware",
+        "description": "From cars to robots, industries across China are seeing AI expand from cloud-based systems into devices.",
+        "url": "https://www.cnbc.com/2026/04/27/china-ai-hardware-shipping-einclaw-style3d-vw-alibaba.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108297446-1777302361840-108297446-1777277730921-gettyimages-2271152266-CHINA_IROOTECH.jpg?v=1777302376&w=1920&h=1080",
+        "publishedAt": "2026-04-27T23:00:01Z",
+        "source": "CNBC"
       },
       {
-        "title": "Bernie Sanders set to speak alongside CCP officials at Capitol Hill AI panel",
-        "description": "Sen Bernie Sanders faces scrutiny for speaking at a Capitol Hill AI panel alongside Chinese officials tied to Beijing's Ministry of Science and Technology AI governance committees.",
-        "url": "https://www.foxnews.com/politics/bernie-sanders-plans-schmooze-with-top-beijing-ai-experts-ignites-backlash",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/bernie-sanders-artificial-intelligence-ai-2.jpg",
-        "publishedAt": "2026-04-27T22:00:45Z",
-        "source": "Fox News"
+        "title": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
+        "description": "Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred the bickering billionaires' once-shared vision for the development of artificial intelligence.",
+        "url": "https://dailyinterlake.com/news/2026/apr/27/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/",
+        "image": "https://hagadone.media.clients.ellingtoncms.com/img/photos/2026/04/27/AP26117580272019_r1200x630.jpg?b7d505e466ff31ef2a911eceee85296b69915698",
+        "publishedAt": "2026-04-27T23:00:00Z",
+        "source": "Kalispell Inter Lake"
       },
       {
-        "title": "China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5",
-        "description": "DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic.",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/27/45f5bdcb-1e1c-459f-803c-23d326e883de_a4e5e66e.jpg?itok=fmrJg25U&v=1777288628",
-        "publishedAt": "2026-04-27T22:00:15Z",
-        "source": "South China Morning Post"
+        "title": "Misguided 'doomers' celebrating assassins online need to learn how to debate, rather than encourage evil ghouls",
+        "description": "Attempts have been made on Open AI CEO Sam Altman’s life not once, but twice, just in the month of April. The response online isn’t condemnation — it’s celebration. “I kinda like it,” one Reddit user wrote.",
+        "url": "https://nypost.com/2026/04/27/opinion/misguided-doomers-celebrating-assassins-online-need-to-learn-how-to-debate-rather-than-encourage-evil-ghouls/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-pj457h0h3-1777328181928.jpg?quality=75&strip=all&1777313932&w=1200",
+        "publishedAt": "2026-04-27T22:55:04Z",
+        "source": "New York Post"
       },
       {
-        "title": "Anuma launches private AI with one memory across every",
-        "description": "Anuma launches publicly with one subscription for leading AI models and encrypted, user-owned memory across them all....",
-        "url": "https://www.globenewswire.com/news-release/2026/04/27/3282123/0/en/anuma-launches-private-ai-with-one-memory-across-every-leading-model.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/e15ae2ad-f35e-4c48-9db2-09086b8811a1",
-        "publishedAt": "2026-04-27T22:00:00Z",
-        "source": "GlobeNewswire"
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "description": "Elon Musk says he’s suing to save the company’s mission. The case could have huge consequences for OpenAI and the AI race.",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/musk-altman.jpg?resize=1200,600",
+        "publishedAt": "2026-04-27T22:52:57Z",
+        "source": "MIT Technology Review"
       },
       {
-        "title": "Top Startup and Tech Funding News - April 27 2025",
-        "description": "It’s Monday, April 27, 2026, and we’re back with today’s top startup and tech funding news. Today’s rounds highlight a surge in capital flowing into AI-native systems, robotics, quantum computing, and applied fintech. From billion-dollar bets on next-generation “self-learning” AI to heavy investment in humanoid robots and industrial automation, investors are doubling down on technologies",
-        "url": "https://techstartups.com/2026/04/27/top-startup-and-tech-funding-news-april-27-2025/",
-        "image": "https://techstartups.com/wp-content/uploads/2026/04/NeoCognition-Emerges-from-Stealth-with-40M-in-Seed-Funding-960x506.jpg",
-        "publishedAt": "2026-04-27T21:52:56Z",
-        "source": "TechStartups.com"
+        "title": "Google staff urge CEO to refuse classified military AI work",
+        "description": "(Bloomberg) -- Hundreds of AI researchers at Alphabet Inc.’s Google have signed onto a letter urging Chief Executive Officer Sundar Pichai to refuse to make the company’s artificial intelligence systems available for classified workloads for US defense missions, according to organizers of the effort.",
+        "url": "https://www.bostonglobe.com/2026/04/27/business/google-staff-urge-ceo-refuse-classified-military-ai-work/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PJUEV47FM6CDBA2OKCRYJ2QSJQ.jpg?auth=4e74b6e792fb69b4a82f90591a6e5d534afb437703070fd7e191205d34e2dcbb&width=1440",
+        "publishedAt": "2026-04-27T22:49:20Z",
+        "source": "The Boston Globe"
       },
       {
-        "title": "Celestica Earnings: Why I'm Finally Buying In (Rating Upgrade)",
-        "description": "Celestica Inc.'s networking and servers are poised for a solid run with AI data center build-outs accelerating. Read why CLS stock is upgraded to Buy.",
-        "url": "https://seekingalpha.com/article/4894747-celestica-earnings-why-im-finally-buying-in-rating-upgrade",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242695397/image_2242695397.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-04-27T21:45:47Z",
-        "source": "Seeking Alpha"
+        "title": "Cramer calls rally in chip stocks 'worrisome.' How he's positioning",
+        "description": "CNBC's Jim Cramer explained that the recent run-up in AI related stocks may be a warning sign about the broader market.",
+        "url": "https://www.cnbc.com/2026/04/27/cramer-chip-stocks-worrisome-positioning.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107318550-1697558248814-gettyimages-1665283624-porzycki-armphoto230914_nplqO.jpeg?v=1753973952&w=1920&h=1080",
+        "publishedAt": "2026-04-27T22:45:10Z",
+        "source": "CNBC"
       },
       {
-        "title": "These High-Tech 'Smart Scopes' Could Be America's Best Answer To Enemy Drones",
-        "description": "Drones have become an important part of modern warfare, and militaries are developing new ways to defend against them. This scope uses AI to do so.",
-        "url": "https://www.slashgear.com/2157866/smash-2000l-smart-scope-anti-drone-tech/",
-        "image": "https://www.slashgear.com/img/gallery/smash-2000l-smart-scope-anti-drone-tech/l-intro-1777304791.jpg",
-        "publishedAt": "2026-04-27T21:45:00Z",
-        "source": "SlashGear"
+        "title": "Taylor Swift files trademark applications for her voice, likeness",
+        "description": "Pop superstar Taylor Swift filed trademark applications for two audio clips and one image of herself in what a trademark attorney said is an attempt to protect her voice and likeness from deepfake videos and audio created by artificial intelligence.",
+        "url": "https://www.cp24.com/news/entertainment/2026/04/27/taylor-swift-files-to-trademark-her-voice-likeness-to-ward-off-ai-deepfakes/",
+        "image": "https://www.cp24.com/resizer/v2/PR6H7EX5BYGUVR75QDDGDQVFHQ.jpg?smart=true&auth=7324648721a007a068d40838694c69b8d2fc0be97c9e5c6b108a6fa30a6f3e59&width=1200&height=630",
+        "publishedAt": "2026-04-27T22:40:25Z",
+        "source": "CP24 Toronto"
       },
       {
-        "title": "Elon Musk Takes OpenAI to Court",
-        "description": "Also, Trump hosts King Charles III and Queen Camilla. Here’s the latest at the end of Monday.",
-        "url": "https://www.nytimes.com/2026/04/27/briefing/elon-musk-openai-best-books-so-far.html",
-        "image": "https://static01.nyt.com/images/2026/04/28/multimedia/27evening-nl-oakland-court/27evening-nl-oakland-court-facebookJumbo.jpg",
-        "publishedAt": "2026-04-27T21:44:52Z",
-        "source": "The New York Times"
+        "title": "Why Is the SPY ETF Up Today, 4/27/2026?",
+        "description": "The SPDR S&P 500 ETF Trust (SPY) gained 0.17% today, April 27, lifted by ongoing optimism about AI stocks, anticipation of major tech earnin...",
+        "url": "https://markets.businessinsider.com/news/stocks/why-is-the-spy-etf-up-today-4-27-2026-1036069620",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/image-2413.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-04-27T22:39:59Z",
+        "source": "Markets Insider"
       }
     ]
   }
