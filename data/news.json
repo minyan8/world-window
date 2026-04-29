@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-29T01:10:58.975Z",
+  "fetchedAt": "2026-04-29T02:00:49.937Z",
   "sections": {
     "world": [
       {
-        "title": "Kim Jong Un confirms self-destruct policy for North Korean fighters in Ukraine war",
-        "description": "North Korean dictator gives first public acknowledgement that troops were ordered to kill themselves to avoid capture by Ukrainian forces",
-        "url": "https://www.independent.co.uk/asia/east-asia/russia-north-korea-kim-jong-un-soldiers-self-destruct-ukraine-war-b2966269.html",
-        "image": "https://static.independent.co.uk/2026/04/28/08/2026-04-27T031248Z_577434372_RC2BXKA1NKYD_RTRMADP_3_NORTHKOREA-RUSSIA-MEMORIAL.jpg?width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-04-28T13:10:00Z",
+        "title": "Mouse plague threatens crops across WA, South Australia",
+        "description": "Disturbing footage shared by farmers in several parts of Australia showed swarms of the vermin scurrying around silos and across crops.",
+        "url": "https://www.1news.co.nz/2026/04/28/mouse-plague-threatens-crops-across-wa-south-australia/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/millions-of-mice-on-the-munch-across-australia-3TEPDHNNVZHO3CLD3OQSNMCF3E.png?auth=a031e32dfee9d2f9967ac2f7e05df778bc32d57cbe2304032311b9ec6d56c697&quality=70&width=600&height=315&focal=0%2C0",
+        "publishedAt": "2026-04-28T13:59:50Z",
+        "source": "1News"
+      },
+      {
+        "title": "Trump fires entire National Science Foundation board leaving agency without leadership",
+        "description": "Move leaves the nation’s largest chemistry funder without a board or director",
+        "url": "https://www.chemistryworld.com/news/trump-administration-fires-entire-board-of-uss-national-science-foundation-without-warning/4023353.article",
+        "image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/0/5/3/547053_nsblogocopy_708543.jpg",
+        "publishedAt": "2026-04-28T13:59:45Z",
+        "source": "Chemistry World"
+      },
+      {
+        "title": "Europe must be ready for Ukraine war scenarios: Estonian leader",
+        "description": "During a state visit to Finland, Estonian President Alar Karis said Europe should not be left on the sidelines of discussions about its own security a...",
+        "url": "https://news.az/news/europe-must-be-ready-for-ukraine-war-scenarios-estonian-leader",
+        "image": "https://news.az/photos/2026/04/1777383772.webp",
+        "publishedAt": "2026-04-28T13:59:10Z",
+        "source": "Latest news from Azerbaijan"
+      },
+      {
+        "title": "Police hunt 89-year-old gunman after several wounded in Athens shooting",
+        "description": "A man was seen walking calmly across the street carrying what appears to be a short-barrelled shotgun in his right hand",
+        "url": "https://www.independent.co.uk/news/world/europe/greece-shooting-athens-police-manhunt-b2966359.html",
+        "image": "https://static.independent.co.uk/2026/04/28/12/2026-04-28T105044Z_377700512_RC2AYKA6PG6Q_RTRMADP_3_GREECE-SHOOTING.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-04-28T13:57:00Z",
         "source": "The Independent"
       },
       {
-        "title": "Untouchable Putin just sailed a yacht through the strait",
-        "description": "The US is imposing strict controls on shipping as part of its stand-off with Iran",
-        "url": "https://inews.co.uk/news/untouchable-putin-yacht-strait-laughing-trump-4385013",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/04/SEI_294989941.jpg?crop=4px%2C0px%2C1912px%2C1080px&resize=1200%2C675",
-        "publishedAt": "2026-04-28T13:08:31Z",
-        "source": "The i Paper"
+        "title": "African Development Bank Group Awards $510,000 Grant to ACAPS to Boost Financial Inclusion in Insurance",
+        "description": "The independent public authority responsible for regulating and supervising the insurance and social welfare sectors in Morocco known as ACAPS, will provide a counterpart contribution of $170,000 and use ADFI’s support to promote greater inclusion of the most vulnerable populations, particularly women and young people.",
+        "url": "https://techafricanews.com/2026/04/28/african-development-bank-group-awards-510000-grant-to-acaps-to-boost-financial-inclusion-in-insurance/",
+        "image": "https://techafricanews.com/wp-content/uploads/2026/04/afdb-14.png",
+        "publishedAt": "2026-04-28T13:56:53Z",
+        "source": "TechAfrica News"
       },
       {
-        "title": "Government to tighten workplace safety enforcement as mental health becomes priority - Pelpuo",
-        "description": "Government has announced plans to strengthen enforcement of occupational safety standards across Ghana, with Labour, Jobs and Employment Minister Abdul Rashid Hassan Pelpuo declaring that worker protection must now extend beyond physical safety to include mental and psychological well-being.",
-        "url": "https://www.myjoyonline.com/government-to-tighten-workplace-safety-enforcement-as-mental-health-becomes-priority-pelpuo/",
-        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-2811-e1777379627357.png",
-        "publishedAt": "2026-04-28T13:07:36Z",
-        "source": "MyJoyOnline"
+        "title": "Iran US War News Live Updates | Trump says Iran informed it’s in ‘state of collapse’, wants US to open Strait of Hormuz",
+        "description": "Iran US Israel War Today News Live Updates: Iranian Foreign Minister Araghchi met Russian President Putin on Monday in order to seek support from Moscow as talks between US and Iran remain stalled to end the war in West Asia.",
+        "url": "https://indianexpress.com/article/world/us-news/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks-10657521/",
+        "image": "https://images.indianexpress.com/2026/04/Strait-of-Hormuz-AP-file-photo-4.jpg",
+        "publishedAt": "2026-04-28T13:55:36Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Uganda to offer new oil exploration licensing round in 2026/27 financial year",
-        "description": "Uganda will offer a new oil exploration licensing round next financial year, its minister for energy and mineral development said on Tuesday.\nThe East African country, which expects to...",
-        "url": "https://www.marketscreener.com/news/uganda-to-offer-new-oil-exploration-licensing-round-in-2026-27-financial-year-ce7f59d2db8ff72c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2016-12/2016-12-23T014556Z_1_LYNXMPECBM01G_RTROPTP_2_VIETNAM-ENERGY-PRICES.JPG",
-        "publishedAt": "2026-04-28T13:06:57Z",
-        "source": "marketscreener.com"
+        "title": "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
+        "description": "Political outsider Ali al-Zaidi is tapped as Iraq’s new PM to break a months-long political deadlock.",
+        "url": "https://www.aljazeera.com/news/2026/4/28/who-is-ali-al-zaidi-the-businessman-named-as-iraqs-pm-designate",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26117713441811-1777375917.jpg?resize=1200%2C675",
+        "publishedAt": "2026-04-28T13:55:01Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "What was on the mind of world finance leaders who met last week at the IMF/World Bank Spring Meetings in 6 key points?",
-        "description": "28/04/2026 - Discover our news on What was on the mind of world finance leaders who met last week at the IMF/World Bank Spring Meetings in 6 key points? - The bank for a changing world - BNP Paribas",
-        "url": "https://group.bnpparibas/en/news/what-was-on-the-mind-of-world-finance-leaders-who-met-last-week-at-the-imf-world-bank-spring-meetings-in-6-key-points",
-        "image": "https://cdn-group.bnpparibas.com/media/images/cache/share/uploads/image/adobestock_108853958.jpg",
-        "publishedAt": "2026-04-28T13:06:41Z",
-        "source": "group.bnpparibas"
-      },
-      {
-        "title": "'Stolen' grain shipments spark furious clash between Ukraine and Israel",
-        "description": "Ukraine has erupted with fury at Israel over its purchase of grain that Kyiv says has been “stolen” from its Russian-occupied territories.",
-        "url": "https://www.nbcnews.com/world/ukraine/stolen-grain-shipments-ukraine-israel-russia-ship-haifa-rcna342444",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260428-ukraine-wheat-rs-c40a30.jpg",
-        "publishedAt": "2026-04-28T13:02:22Z",
-        "source": "NBC News"
-      },
-      {
-        "title": "Lifting Sanctions on Eritrea Will Lead to U.S. Strategic Defeat",
-        "description": "For Trump to Push Forward with Boulos’ Proposal for Rapprochement Also Would Insult Ethiopian and Eritrean Americans",
-        "url": "https://www.meforum.org/mef-observer/lifting-sanctions-on-eritrea-will-lead-to-u-s-strategic-defeat",
-        "image": "https://cdn-mef.meforum.org/dims4/default/bb959e7/2147483647/strip/true/crop/960x540+0+50/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-mef.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2Fd0%2F26d79c74496e927808101a91804c%2F960px-p20250709dt-0343-president-donald-trump-participates-in-a-multilateral-lunch-with-african-leaders.jpg",
-        "publishedAt": "2026-04-28T13:01:19Z",
-        "source": "Middle East Forum"
-      },
-      {
-        "title": "Thai govt plans 1,000-baht exit tax on travellers to boost local tourism subsidies",
-        "description": "BANGKOK, April 28 — Thailand is planning to reintroduce a departure levy on its own citizens travelling abroad, with proceeds earmarked to support domestic tourism...",
-        "url": "https://www.malaymail.com/news/world/2026/04/28/thai-govt-plans-1000-baht-exit-tax-on-travellers-to-boost-local-tourism-subsidies/218011",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/04/28/338090.jpg",
-        "publishedAt": "2026-04-28T13:01:10Z",
-        "source": "Malay Mail"
+        "title": "Can the Baltics save the EU’s largest infrastructure project?",
+        "description": "A new railway line is critical to the region’s security and economy, but funding tensions between the EU and the Baltics risk knocking it off track...",
+        "url": "https://www.theparliamentmagazine.eu/news/article/can-the-baltics-save-the-eus-largest-infrastructure-project",
+        "image": "https://www.theparliamentmagazine.eu/siteimg/share/ugc-1/fullnews/news/25688/25678_original.jpg",
+        "publishedAt": "2026-04-28T13:54:01Z",
+        "source": "The Parliament Magazine"
       }
     ],
     "business": [
       {
-        "title": "C-Ray Therapeutics Receives FDA Acceptance of Type II Drug Master File for Copper-64 (Cu-64)",
-        "description": "/PRNewswire/ -- C-Ray Therapeutics (Chengdu) Co., Ltd., today announced that its Type II Drug Master File (DMF) for COPPER [64Cu] CHLORIDE FOR RADIOLABELLING...",
-        "url": "https://www.prnewswire.com/news-releases/c-ray-therapeutics-receives-fda-acceptance-of-type-ii-drug-master-file-for-copper-64-cu-64-302755493.html",
-        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-28T13:11:00Z",
+        "title": "US Consumer Confidence Edged Up Again in April",
+        "description": "/PRNewswire/ -- The Conference Board Consumer Confidence Index® edged up by 0.6 points to 92.8 (1985=100) in April, from 92.2 in March's upwardly revised...",
+        "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-edged-up-again-in-april-302755679.html",
+        "image": "https://mma.prnewswire.com/media/624268/The_Conference_Board_Logo.jpg?p=facebook",
+        "publishedAt": "2026-04-28T14:00:00Z",
         "source": "PR Newswire"
       },
       {
-        "title": "Japan's APPI amendment bill would open narrow lane for some AI uses, tighten rules elsewhere",
-        "description": "A bill to amend Japan's APPI would codify a new concept of \"statistical processing,\" while putting sharper boundaries around minors' data, facial feature data, opt-out sharing and enforcement.",
-        "url": "https://iapp.org/news/a/japan-s-appi-amendment-bill-would-open-narrow-lane-for-some-ai-uses-tighten-rules-elsewhere",
-        "image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltb2ae80e3dbeb6454/69ef89dfa39fc40d01ced7ff/skytree-carp-tokyo-japan-apac-0009.jpg",
-        "publishedAt": "2026-04-28T13:08:53Z",
-        "source": "IAPP"
+        "title": "Tala Adds Identity Checks as CBK Pushes for Stricter Customer Verification by Digital Lenders",
+        "description": "Tala enhances customer identification to comply with Central Bank of Kenya regulations, requiring valid ID and a live selfie to prevent fraud and protect users.",
+        "url": "https://www.tuko.co.ke/business-economy/money/624597-tala-ramp-identity-checks-curb-fraud-cbk-pushes-stricter-customer-verification/",
+        "image": "https://cdn.tuko.co.ke/images/1200x675/7faa15b7f767c988.jpeg?v=1",
+        "publishedAt": "2026-04-28T13:57:56Z",
+        "source": "Tuko News"
       },
       {
-        "title": "Snap's Evan Spiegel Warns About the Coming Backlash Against AI",
-        "description": "Snap's CEO is still confident in AI — but he warned it could lead to a \"huge amount of societal pushback.\"",
-        "url": "https://www.businessinsider.com/snaps-spiegel-coming-backlash-against-ai-2026-4",
-        "image": "https://i.insider.com/69efab0a3fecbb42897a4a43?width=1200&format=jpeg",
-        "publishedAt": "2026-04-28T13:08:31Z",
-        "source": "Business Insider"
+        "title": "Snapchat brings AI-powered conversational advertising to its app",
+        "description": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
+        "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+        "publishedAt": "2026-04-28T13:57:19Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "USD/CHF Mid",
-        "description": "Intraday bias in USD/CHF remains neutral first. On the downside, below 0.7830 will turn bias to the downside for 0.7774 support. Sustained break of 61.8% retracement of 0.7603 to 0.8041 at 0.7770 will pave the way to retest 0.7603 low. However, decisive break of 0.7933 will argue that fall from 0.8041 has completed as a corrective move. Further rise should then be seen through 0.8041 to resume the whole rebound from 0.7603.",
-        "url": "https://www.actionforex.com/technical-outlook/usdchf-outlook/638630-usd-chf-mid-day-outlook-2294/",
-        "image": "https://www.actionforex.com/wp-content/uploads/2026/04/usdchf20260428b1.png",
-        "publishedAt": "2026-04-28T13:08:27Z",
-        "source": "Action Forex"
-      },
-      {
-        "title": "Current price of Bitcoin for April 28, 2026",
-        "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.",
-        "url": "https://fortune.com/article/price-of-bitcoin-04-28-2026/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Price-of-Bitcoin-April-28.jpg?resize=1200,600",
-        "publishedAt": "2026-04-28T13:08:00Z",
-        "source": "Fortune"
-      },
-      {
-        "title": "HB Wealth Taps Arch to Streamline and Scale Private Markets Investment Operations and Reporting",
-        "description": "HB Wealth uses Arch to automate document collection and reporting across 10,000+ holdings, giving its advisors real-time visibility into portfolios.",
-        "url": "https://www.businesswire.com/news/home/20260428904700/en/HB-Wealth-Taps-Arch-to-Streamline-and-Scale-Private-Markets-Investment-Operations-and-Reporting",
-        "image": "https://mms.businesswire.com/media/20260428904700/en/2787216/22/HB-wealth_ARCH.jpg",
-        "publishedAt": "2026-04-28T13:08:00Z",
+        "title": "Dubai’s Medcare Hospital Becomes the World’s First to Treat an Adult Spinal Muscular Atrophy (SMA) Patient Outside the US",
+        "description": "Dubai’s Medcare Hospital Becomes the World’s First to Treat an Adult Spinal Muscular Atrophy (SMA) Patient Outside the US",
+        "url": "https://www.businesswire.com/news/home/20260428038416/en/Dubais-Medcare-Hospital-Becomes-the-Worlds-First-to-Treat-an-Adult-Spinal-Muscular-Atrophy-SMA-Patient-Outside-the-US",
+        "image": "https://mms.businesswire.com/media/20260428038416/en/2787527/22/Dr_Vivek_Mundada_with_Medcare_Photo_AETOSWire.jpg",
+        "publishedAt": "2026-04-28T13:57:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "Jump Collaborates With Markel and Joseph Caruso & Associates to Expand Access to AI and Insurance Solutions for Advisors",
-        "description": "Jump, a leading AI OS for financial advisors announced a strategic collaboration with Markel, a leading global specialty insurer.",
-        "url": "https://www.businesswire.com/news/home/20260428737403/en/Jump-Collaborates-With-Markel-and-Joseph-Caruso-Associates-to-Expand-Access-to-AI-and-Insurance-Solutions-for-Advisors",
-        "image": "https://mms.businesswire.com/media/20260428737403/en/2786873/22/Jump_Logo_%281%29.jpg",
-        "publishedAt": "2026-04-28T13:08:00Z",
-        "source": "Business Wire"
+        "title": "Powered Cooperative, redefining the future of SACCOs in Africa",
+        "description": "BlockCoop SACCO, has launched Kenya’s first blockchain-powered SACCO, marking a historic milestone in the evolution of cooperative finance and reinforcing the country’s position as a leader in financial innovation across Africa.",
+        "url": "https://www.tv47.digital/blockcoop-sacco-launches-first-blockchain-powered-cooperative-redefining-the-future-of-saccos-in-africa-147408/",
+        "image": "https://www.tv47.digital/wp-content/uploads/2026/04/image-48.png",
+        "publishedAt": "2026-04-28T13:55:02Z",
+        "source": "TV47 Digital"
       },
       {
-        "title": "Azra AI Acquires Thynk Health to Close the Gap Between Imaging and Cancer Care",
-        "description": "/PRNewswire/ -- Azra AI, the leading end-to-end enterprise platform for incidental findings and oncology workflow automation, today announced the acquisition...",
-        "url": "https://www.prnewswire.com/news-releases/azra-ai-acquires-thynk-health-to-close-the-gap-between-imaging-and-cancer-care-302754542.html",
-        "image": "https://mma.prnewswire.com/media/2966482/AZRAAI_Logo.jpg?p=facebook",
-        "publishedAt": "2026-04-28T13:08:00Z",
+        "title": "Petro Victory Energy Announces Successful SJ‑12 Well Results",
+        "description": "/PRNewswire/ - Petro Victory Energy Corp. (\"Petro Victory\" or the \"Company\") is pleased to announce the results of 7‑SJ‑12DA‑MA well (\"SJ‑12\") in the São João...",
+        "url": "https://www.prnewswire.com/news-releases/petro-victory-energy-announces-successful-sj12-well-results-302755804.html",
+        "image": "https://mma.prnewswire.com/media/2967925/Petro_Victory_Energy_Corp__Petro_Victory_Energy_Announces_Succes.jpg?p=facebook",
+        "publishedAt": "2026-04-28T13:55:00Z",
         "source": "PR Newswire"
+      },
+      {
+        "title": "Athlone-based objector stalls €100m rejuvenation of St Stephen's Green shopping centre",
+        "description": "One objection lodged on behalf of the Save Stephen’s Green Campaign was backed by a petition of 20,000 signatures.",
+        "url": "https://www.breakingnews.ie/ireland/athlone-based-objector-stalls-e100m-rejuvenation-of-st-stephens-green-shopping-centre-1892931.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMjMxODUxMTVcXFwvc3RlcGhlbnMtZ3JlZW4tcmV2YW1wLWUxNzc2OTY2NzA3NjY2LnBuZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiY2I3OTRhY2RiMDdjNmRiOTc4M2UzNGMxZGUyYzEzY2MzNmQ3YmFhNCJ9/athlone-based-objector-stalls-100m-rejuvenation-of-st-stephen-s-green-shopping-centre.png",
+        "publishedAt": "2026-04-28T13:53:23Z",
+        "source": "BreakingNews.ie"
+      },
+      {
+        "title": "Geopolitical jitters, weak peso dampen interest in gov't IOUs",
+        "description": "Rising uncertainties fueled by the United States-Iran conflict dampened lender demand on Tuesday, April 28, causing the Marcos administration to fall short of...",
+        "url": "https://mb.com.ph/2026/04/28/geopolitical-jitters-weak-peso-dampen-interest-in-govt-ious",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/28/97215.webp",
+        "publishedAt": "2026-04-28T13:52:30Z",
+        "source": "Manila Bulletin"
       }
     ],
     "science": [
+      {
+        "title": "BikeButler map creates personalized routes for riders based on preferences like speed limits and road conditions",
+        "description": "Even though he wanted to bike commute from his Capitol Hill home to the University of Washington, Jared Hwang often took transit because he struggled to find a good bike route. Apps like Google Maps and Strava might suggest ...",
+        "url": "https://techxplore.com/news/2026-04-bikebutler-personalized-routes-riders-based.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/bikebutler-map-creates.jpg",
+        "publishedAt": "2026-04-28T14:00:02Z",
+        "source": "Tech Xplore"
+      },
+      {
+        "title": "The GPS III Rollout Is Almost Complete, But What Is It?",
+        "description": "Considering how integral it is to our modern way of life, you could be excused for thinking that the Global Positioning System (GPS) is a product of the smartphone era. But the first satellites actual...",
+        "url": "https://hackaday.com/2026/04/28/the-gps-iii-rollout-is-almost-complete-but-what-is-it/",
+        "image": "https://hackaday.com/wp-content/uploads/2026/04/gps3_feat.jpg",
+        "publishedAt": "2026-04-28T14:00:00Z",
+        "source": "Hackaday"
+      },
+      {
+        "title": "Scientists say Dark Matter is the secret catalyst",
+        "description": "New research suggests decaying dark matter may be the \"secret ingredient\" behind the early existence of supermassive black holes discovered by the James Webb Space Telescope, challenging a billion years of cosmic theory.",
+        "url": "https://indianexpress.com/article/technology/science/what-caused-early-supermassive-black-holes-10660627/",
+        "image": "https://images.indianexpress.com/2026/04/supermassive-black-holes.jpg",
+        "publishedAt": "2026-04-28T13:55:28Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "Scientists Found 40,000-Year-Old Frozen Microbes in an Alaska Tunnel…Six Months Later, They Became Active Again",
+        "description": "These microbes spent 40,000 years trapped in ice beneath Alaska. Once thawed, their delayed reaction surprised researchers.",
+        "url": "https://dailygalaxy.com/2026/04/frozen-microbes-alaska-active-again/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/04/Scientists-Found-40000-Year-Old-Frozen-Microbes-in-an-Alaska-Tunnel.Six-Months-Later-They-Became-Active-Again-scaled.jpg",
+        "publishedAt": "2026-04-28T13:45:00Z",
+        "source": "The Daily Galaxy"
+      },
+      {
+        "title": "Probiotic candidate may hinder UTIs",
+        "description": "Researchers have identified a probiotic strain that may suppress urinary tract infections.",
+        "url": "https://www.nutraingredients.com/Article/2026/04/28/probiotic-candidate-may-hinder-utis/",
+        "image": "https://www.nutraingredients.com/resizer/v2/GDUYLZSA7JD3RAFM4EGSD2PG3M.jpg?auth=7016f6424dbfc85cd3110ccaf042877c780a5e50c1038873786cf49aa750c262&width=1200&height=630&smart=true",
+        "publishedAt": "2026-04-28T13:32:37Z",
+        "source": "NutraIngredients.com"
+      },
+      {
+        "title": "Forget the Strait of Hormuz. The Pentagon's next chokepoint problem could be on the way to the moon",
+        "description": "When Iran threatened to close the Strait of Hormuz earlier this year, energy markets twitched and global headlines lit up. A narrow stretch of water, a handful of tankers, and suddenly the world economy was holding its breath. Now imagine the same chokepoint dynamic playing out a quarter of a million miles away. That comparison […]",
+        "url": "https://spacedaily.com/g-forget-the-strait-of-hormuz-the-pentagons-next-chokepoint-problem-could-be-on-the-way-to-the-moon/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/04/newimagesize-2026-04-28T201152.839.png",
+        "publishedAt": "2026-04-28T13:13:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+        "description": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
+        "image": "https://www.sciencedaily.com/images/1920/pencil-beam.webp",
+        "publishedAt": "2026-04-28T13:11:13Z",
+        "source": "ScienceDaily"
+      },
       {
         "title": "Tapping your genome with AI and quantum computing could deliver on the promise of personalized medicine - but practical and ethical hurdles remain",
         "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
@@ -142,128 +198,72 @@
         "image": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
         "publishedAt": "2026-04-28T13:06:42Z",
         "source": "Seattle Post-Intelligencer"
-      },
-      {
-        "title": "Darkness can travel faster than light",
-        "description": "Discovery of superluminal correlations within 2D hexagonal boron nitride could advance super-resolution electron microscopy",
-        "url": "https://physicsworld.com/a/darkness-can-travel-faster-than-light/",
-        "image": "https://physicsworld.com/wp-content/uploads/2026/04/bucher.jpg",
-        "publishedAt": "2026-04-28T13:05:37Z",
-        "source": "Physics World"
-      },
-      {
-        "title": "Greece's Methana shows volcanoes can slumber a long time before reawakening",
-        "description": "April 28 : For people living in communities in the shadow of a volcano, a long silence may give the impression that the geological beast is not merely sleeping but has gone extinct. But, as research detailing the life history of one in Greece shows, a volcano can slumber for more than 100,000 years before reawakenin",
-        "url": "https://www.channelnewsasia.com/business/greeces-methana-shows-volcanoes-can-slumber-long-time-reawakening-6086641",
-        "image": "https://dam.mediacorp.sg/image/upload/s--r90vapLB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-28T130448Z_1_LYNXMPEM3R11M_RTROPTP_3_SCIENCE-VOLCANO.JPG?itok=N5E_wI4m",
-        "publishedAt": "2026-04-28T13:04:48Z",
-        "source": "CNA"
-      },
-      {
-        "title": "'He began to cry, and almost fell to the floor': The fluffy fossil that finally showed the world that birds are dinosaurs",
-        "description": "In this excerpt from The Story of Birds, author Steve Brusatte explores the moment where paleontologists realized they had critical evidence to show birds came from dinosaurs — a fluffy fossil from China.",
-        "url": "https://www.livescience.com/animals/dinosaurs/he-began-to-cry-and-almost-fell-to-the-floor-the-fluffy-fossil-that-finally-showed-the-world-that-birds-are-dinosaurs",
-        "image": "https://cdn.mos.cms.futurecdn.net/X6iomE9sZY5ANoaAJuE28S-1920-80.jpg",
-        "publishedAt": "2026-04-28T13:04:28Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Astronomers release massive set of 'virtual universes' for global research",
-        "description": "Understanding the universe as a whole requires simulations on cosmic scales. An international team of astrophysicists, with a leading role for researchers at Leiden University, Netherlands, has now released one of the largest cosmological simulation datasets ever produced. The dataset contains more than 2.5 petabytes of simulation data—roughly equivalent to half a million HD movies.",
-        "url": "https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-release-ma.jpg",
-        "publishedAt": "2026-04-28T13:00:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Scientists May Have Solved Where Earth’s Building Blocks Came From",
-        "description": "Scientists find Earth formed mainly from inner Solar System material, with little input from outer regions, based on new isotopic analysis.",
-        "url": "https://indiandefencereview.com/scientists-solved-earth-building-blocks-came-from/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/beautiful-planet-in-space-scaled.jpg",
-        "publishedAt": "2026-04-28T13:00:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "AI, Quantum Leap in Personalized Medicine Faces Hurdles",
-        "description": "Decades after researches first sequenced the human genome , scientists throughout the world are still working to understand it. Despite diligent",
-        "url": "https://www.miragenews.com/ai-quantum-leap-in-personalized-medicine-faces-1663393/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1526256262350-7da7584cf5eb%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1350%26amp%3Bq%3D80",
-        "publishedAt": "2026-04-28T12:58:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "SIRT7 links H3K36ac epigenetic regulation with genome maintenance in the mouse testis",
-        "description": "Reproductive aging is an increasing health concern that affects family planning and overall well-being. While extensively studied in females, the mechanisms driving male reproductive aging remain largely unexamined. Here, we found that mammalian Sirtuin 7 sustains spermatogenesis in an age-dependent manner. Sirtuin 7 deficiency in mice increases histone H3 lysine 36 acetylation in spermatogonia and spermatocytes, a pattern also observed during natural aging, and leads to altered chromatin accessibility and increased vulnerability to genotoxic stress. Importantly, undifferentiated spermatogonia, required for continuous sperm production, become prematurely lost in Sirtuin 7 deficient mice and show increased genome damage accumulation during aging or environmental stress. These changes are concurrent with age-dependent defects in double-strand break repair and a meiotic delay. Taken together, our results indicate that Sirtuin 7 connects histone H3 lysine 36 acetylation epigenetic regulation to long-term genome stability in male germ cells, ensuring steady-state spermatogenesis during the lengthy male reproductive lifespan. Male reproductive aging is poorly understood. Here, the authors show that Sirtuin 7 preserves spermatogenesis by regulating H3K36 acetylation, chromatin accessibility, and DNA repair, protecting germline genome stability during aging and stress.",
-        "url": "https://www.nature.com/articles/s41467-026-72540-3?error=cookies_not_supported&code=b6977704-8dae-49a9-b165-7b5e03c3050c",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-28T12:54:41Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds",
-        "description": "Financial regulators are falling behind banks in adopting artificial intelligence. This gap means they lack crucial data on new AI risks. Powerful AI models like Anthropic's Mythos pose significant challenges. Authorities need to adopt AI themselves to effectively oversee these advanced systems. This situation could impact the oversight of the financial sector.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-regulators-trail-banks-in-ai-as-mythos-raises-oversight-concerns-report-finds/articleshow/130581277.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55598,resizemode-75,msid-130581277/tech/artificial-intelligence/global-regulators-trail-banks-in-ai-as-mythos-raises-oversight-concerns-report-finds.jpg",
-        "publishedAt": "2026-04-28T13:10:49Z",
-        "source": "The Economic Times"
+        "title": "US signs energy and AI deals with Balkan countries as its influence widens",
+        "description": "The United States and U.S. companies signed deals worth billions of dollars with Balkan countries on Tuesday, boosting Washington's energy presence in the region ​and backing AI development.",
+        "url": "https://www.reuters.com/business/energy/us-signs-energy-ai-deals-with-balkan-countries-its-influence-widens-2026-04-28/",
+        "image": "https://www.reuters.com/resizer/v2/KACXDGOVJBOHXJSQQ5SVFJYEU4.jpg?auth=2089e07053800e908d7d0ad780fd9fb64fa657582400fcf352587e0723b37f84&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-04-28T14:00:06Z",
+        "source": "Reuters"
       },
       {
-        "title": "US stocks: AI fears drive US stock investors to rethink long-term growth bets, says Goldman",
-        "description": "Concerns that artificial intelligence could ​erode long-term U.S. corporate growth ​have renewed scrutiny over how heavily stock valuations rely on profits projected ​beyond the next decade, especially in software, Goldman Sachs analysts said.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-ai-fears-drive-us-stock-investors-to-rethink-long-term-growth-bets-says-goldman/articleshow/130581322.cms",
-        "image": "https://img.etimg.com/thumb/msid-130581322,width-1200,height-630,imgsize-87430,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-04-28T13:09:00Z",
-        "source": "The Economic Times"
+        "title": "Dear Super Micro Computer Stock Fans, Mark Your Calendars for May 26",
+        "description": "Super Micro is still posting explosive top‑line growth and big EPS gains, but the DOJ export‑scheme indictment, a lost Oracle order, and excess Nvidia GPU inventory for xAI have turned it from a pure AI winner into an overhang‑heavy story trading at...",
+        "url": "https://www.barchart.com/story/news/1562030/dear-super-micro-computer-stock-fans-mark-your-calendars-for-may-26",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/Super%20Micro%20Computer%20Inc%20logo%20on%20phone%20and%20stock%20data-by%20Poetra_RH%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-04-28T14:00:02Z",
+        "source": "Barchart"
       },
       {
-        "title": "Snap's Evan Spiegel Warns About the Coming Backlash Against AI",
-        "description": "Snap's CEO is still confident in AI — but he warned it could lead to a \"huge amount of societal pushback.\"",
-        "url": "https://www.businessinsider.com/snaps-spiegel-coming-backlash-against-ai-2026-4",
-        "image": "https://i.insider.com/69efab0a3fecbb42897a4a43?width=1200&format=jpeg",
-        "publishedAt": "2026-04-28T13:08:25Z",
-        "source": "Business Insider"
+        "title": "SMA Marketing Study Finds AI Search Engines Recommend Different Brands, Challenging Single AEO Strategy",
+        "description": "Orlando, USA, April 28th, 2026, FinanceWireSMA Marketing, an AI-first search marketing agency, today published original resea...",
+        "url": "https://markets.businessinsider.com/news/currencies/sma-marketing-study-finds-ai-search-engines-recommend-different-brands-challenging-single-aeo-strategy-1036072462",
+        "image": "https://app.financewire.com/storage/uploads/users/case-study-feature-image_1777056718w1BGSiOFqo.jpg",
+        "publishedAt": "2026-04-28T14:00:02Z",
+        "source": "Markets Insider"
       },
       {
-        "title": "Two-thirds (64%) of Enterprise Leaders and Engineers Rushed AI Agents Before They Were Ready-And Are Now Paying The Price",
-        "description": "Monte Carlo 'Agents in Production: The Builder's Perspective,' 2026 survey reveals a growing operational crisis in enterprise AI deployment",
-        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/two-thirds-64-of-enterprise-leaders-and-engineers-rushed-ai-agents-before-they-were-ready-and-are-now-paying-the-price/2330485",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1033194.png",
-        "publishedAt": "2026-04-28T13:08:06Z",
-        "source": "The Manila Times"
+        "title": "7 ways to future-proof your business using AI",
+        "description": "Microsoft's AI tools are perfect for boosting your productivity",
+        "url": "https://www.techradar.com/pro/7-ways-to-future-proof-your-business-using-ai",
+        "image": "https://cdn.mos.cms.futurecdn.net/5yDDEHCiHT2urCWb56Hgkm-1600-80.jpg",
+        "publishedAt": "2026-04-28T14:00:00Z",
+        "source": "TechRadar"
       },
       {
-        "title": "LSL CPAs Selects Fieldguide to Transform Financial Audit Delivery with AI-Powered Platform",
-        "description": "Forward-looking firm adopts agentic AI to enhance audit quality, improve efficiency, and deliver a more modern client experience",
-        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/lsl-cpas-selects-fieldguide-to-transform-financial-audit-delivery-with-ai-powered-platform/2330484",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1033193.jpg",
-        "publishedAt": "2026-04-28T13:08:04Z",
-        "source": "The Manila Times"
+        "title": "Zifo Accelerates Scientific Batch Release Cycles with AI-Powered Certificate of Analysis Solution",
+        "description": "/PRNewswire/ -- Zifo, a premier global provider of AI and data-driven informatics for science-focused organizations, today announced the launch of its...",
+        "url": "https://www.prnewswire.co.uk/news-releases/zifo-accelerates-scientific-batch-release-cycles-with-ai-powered-certificate-of-analysis-solution-302755688.html",
+        "image": "https://i.ytimg.com/vi/HRjM3yQQNB0/hqdefault.jpg",
+        "publishedAt": "2026-04-28T14:00:00Z",
+        "source": "PR Newswire UK"
       },
       {
-        "title": "Quickbase Introduces Pave, a Full-Stack AI App Builder for the Enterprise",
-        "description": "Built on the same secure infrastructure as the Quickbase platform, Pave is the next evolution of vibe-coding, delivering secure, governed, and production-ready apps",
-        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/quickbase-introduces-pave-a-full-stack-ai-app-builder-for-the-enterprise/2330475",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1033181.png",
-        "publishedAt": "2026-04-28T13:07:50Z",
-        "source": "The Manila Times"
+        "title": "Why Binary Thinking Falls Short In The Age Of Artificial Intelligence",
+        "description": "AI reshapes work through hybrid human machine systems, where success depends on integrated thinking, redesigned roles, and rejecting false dichotomies",
+        "url": "https://www.forbes.com/sites/michaeledmondson/2026/04/28/why-binary-thinking-falls-short-in-the-age-of-artificial-intelligence/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d8f9de6183af74e3dedcfc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-04-28T14:00:00Z",
+        "source": "Forbes"
       },
       {
-        "title": "Cequence AI Gateway Introduces Agent Personas, the Industry’s First Infrastructure-Level Privilege Scoping for Autonomous AI Agents",
-        "description": "As agentic AI rapidly becomes the backbone businesses run on, Cequence delivers the governance layer that identity alone cannot provide",
-        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/cequence-ai-gateway-introduces-agent-personas-the-industrys-first-infrastructure-level-privilege-scoping-for-autonomous-ai-agents/2330473",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1033179.png",
-        "publishedAt": "2026-04-28T13:07:48Z",
-        "source": "The Manila Times"
+        "title": "US signs energy and AI deals with Balkan countries as its influence widens",
+        "description": "The U.S. is seeking to deepen ties and counter the influence of Russian oil and gas in southern Europe, having signed ‌a long-term deal last year to export liquefied natural gas to Greece. \"President Trump is opening a new era of cooperation with southern, and central and eastern Europe,\" U.S. Energy Secretary Chris Wright told reporters at the Three Seas Initiative business ‌forum in Dubrovnik, Croatia.",
+        "url": "https://www.devdiscourse.com/article/headlines/3889612-us-signs-energy-and-ai-deals-with-balkan-countries-as-its-influence-widens",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-04-28T13:59:57Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "Global AI Security Standard Organizations Gather Under MOSAIC to Reduce Fragmentation",
-        "description": "At an invitation-only forum in Arlington, OWASP, SANS Institute, NIST, CSA, CIS, CoSAI, and BIML formed MOSAIC: Multi-Organization Secure AI Coordination, a collective collaboration to coordinate the AI security guidance the world’s defenders actually use.",
-        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/global-ai-security-standard-organizations-gather-under-mosaic-to-reduce-fragmentation/2330456",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/28/1033157.png",
-        "publishedAt": "2026-04-28T13:07:22Z",
-        "source": "The Manila Times"
+        "title": "\"Not Read By Me\": Customers Bank CEO Reveals AI Clone Delivered His Remarks During Earnings Call",
+        "description": "Sidhu said that the choice was made on purpose to show how the bank is using more and more artificial intelligence in its work,",
+        "url": "https://www.ndtv.com/feature/not-read-by-me-customers-bank-ceo-reveals-ai-clone-delivered-his-remarks-during-earnings-call-11421452",
+        "image": "https://c.ndtvimg.com/2026-04/7f907ppk_sam-sidhu_625x300_28_April_26.jpeg",
+        "publishedAt": "2026-04-28T13:59:28Z",
+        "source": "NDTV.com"
       }
     ]
   }
