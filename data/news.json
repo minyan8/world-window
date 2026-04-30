@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-30T13:58:53.907Z",
+  "fetchedAt": "2026-04-30T15:00:58.326Z",
   "sections": {
     "world": [
       {
-        "title": "Report that Trump is considering long blockade on Iran caused jump in oil price",
-        "description": "Oil prices jump about 7% following Reuters report that the US president is discussing with oil company representatives imposing a prolonged naval blockade on the Iranians; Trump: 'naval blockade is more effective than the bombings'",
-        "url": "https://www.ynetnews.com/article/sklmbegr11e",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/28/S1gItp6TZg/S1gItp6TZg_0_125_1200_675_0_large.jpg",
-        "publishedAt": "2026-04-30T01:58:13Z",
-        "source": "ynetnews"
+        "title": "EU plans ‘pre-entry’ perks for Ukraine as fast-track membership hopes dim",
+        "description": "As Kyiv inches forward on its path to joining the EU, capitals are pushing for more immediate ways to unlock political and economic advantages.",
+        "url": "https://www.politico.eu/article/eu-enlargement-ukraine-perks-offer-fast-track-membership-hopes-dim/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/29/11057465-scaled.jpg",
+        "publishedAt": "2026-04-30T03:00:00Z",
+        "source": "politico.eu"
       },
       {
-        "title": "linked hackers release personal details of over 2000 US troops",
-        "description": "Middle East News: A cyber group linked to the Iranian government has targeted thousands of American service members and other US government officials in cyberattacks ov.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/just-a-drop-in-the-ocean-iran-linked-hackers-release-personal-details-of-over-2000-us-troops/articleshow/130621023.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130621060,width-1280,height-720,imgsize-83212,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-30T01:58:00Z",
+        "title": "related killings, arbitrary arrests and torture of opposition members, supporters",
+        "description": "Ugandan security forces targeted members and supporters of the opposition party National Unity Platform (NUP) with lethal force, arbitrary arrests, torture and other ill-treatment before, during and after the 15 January general elections, Amnesty International said today. The organization received multiple reports indicating that between 15 and 18 January, the Ugandan People’s Defence Forces (UPDF) […]",
+        "url": "https://www.amnesty.org/en/latest/news/2026/04/uganda-authorities-must-investigate-election-related-killings-arbitrary-arrests-and-torture-of-opposition-members-supporters/",
+        "image": "https://www.amnesty.org/en/wp-content/uploads/2024/07/301470-1024x683.jpg",
+        "publishedAt": "2026-04-30T03:00:00Z",
+        "source": "Amnesty International"
+      },
+      {
+        "title": "How to watch Romania’s political chaos like a pro",
+        "description": "As the coalition breaks apart, can centrist President Nicușor Dan find a way to contain the far right and keep the critical NATO member on a path to stability?",
+        "url": "https://www.politico.eu/article/how-to-watch-romania-political-chaos-george-simion-ilie-bolojan/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/30/13492584-scaled.jpg",
+        "publishedAt": "2026-04-30T03:00:00Z",
+        "source": "politico.eu"
+      },
+      {
+        "title": "Oil price hits wartime high after Trump warns Iran blockade could last ‘months’",
+        "description": "Oil markets spooked as Donald Trump appears willing to maintain the US Navy blockade and Iran keeps strait of Hormuz all but shut",
+        "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+        "image": "https://i.guim.co.uk/img/media/be90c9a4670a617a75dd872b3e6b0a8a992c710e/730_0_4505_3604/master/4505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e513be803e00561f31962cb243a0ccb",
+        "publishedAt": "2026-04-30T02:55:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Vehicle workshops in Malaysia steering into scams",
+        "description": "Many such workshops are out to make a quick buck by “repairing” problems that do not exist. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/se-asia/malaysian-vehicle-workshops-steering-into-scams",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/96d128e98543dd5d2cc26d318c8ef932306ec44357332fe691146757e7faf38c",
+        "publishedAt": "2026-04-30T02:50:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Shehbaz Sharif: 'Our bill has reached $800 million': Shehbaz Sharif says US",
+        "description": "Pakistan News: The war between United States and Iran has dealt a serious blow to Pakistan's economic progress made over the past two years, but Islamabad will conti.",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/our-bill-has-reached-800-million-shehbaz-sharif-says-us-iran-war-causing-major-economic-blow-to-pakistan/articleshow/130621575.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130621637,width-1280,height-720,imgsize-49982,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-30T02:50:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "Navy intercepts 21 of 58 vessels in Gaza flotilla hundreds of miles from the Strip",
-        "description": "Tracking data shows boats near Crete as they are confronted by Israeli forces; 175 activists detained; other vessels told to turn back or proceed to Ashdod if carrying humanitarian aid",
-        "url": "https://www.timesofisrael.com/navy-begins-intercepting-gaza-flotilla-hundreds-of-miles-from-the-strip/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/97641677-8620-4661-B708-3F70DA10A868_1_201_a-e1777507044276.jpeg",
-        "publishedAt": "2026-04-30T01:57:19Z",
-        "source": "The Times of Israel"
+        "title": "USS Gerald R. Ford to leave Mideast; Why is US Navy’s most advanced carrier abandoning Iran blockade and coming home? | In Pics",
+        "description": "Why is the USS Gerald R. Ford heading home after a record 309 days at sea, right in the middle of the US blockade of Iran? Hint: It's not because the US blockade is ending. All you need to know.",
+        "url": "https://www.wionews.com/photos/309-days-at-sea-uss-gerald-r-ford-to-leave-mideast-why-is-us-navy-s-most-advanced-carrier-abandoning-iran-blockade-and-coming-home-in-pics-1777515112350",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260430/image-1777516274218.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-30T02:46:00Z",
+        "source": "WION"
       },
       {
-        "title": "Chinese AI model powering Airbnb's customer service agent that CEO Brian Chesky called 'fast and cheap' to use has landed the company in ‘trouble’",
-        "description": "Tech News News: Airbnb and Anysphere, maker of AI coding platform Cursor, may be in trouble. According to a report in Semafor, two Republican-led House committees are.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinese-ai-model-powering-airbnbs-customer-service-agent-that-ceo-brian-chesky-called-fast-and-cheap-to-use-has-landed-the-company-in-trouble/articleshow/130621045.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130621042,width-1280,height-720,imgsize-80818,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-30T01:56:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Man charged with trying to kill Trump took hotel room selfie before rushing to gala",
-        "description": "The man charged with trying to storm the White House Correspondents’ Association dinner and kill President Donald Trump took a picture of himself in his...",
-        "url": "https://mb.com.ph/2026/04/30/man-charged-with-trying-to-kill-trump-took-hotel-room-selfie-before-rushing-gala-investigators-say",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/04/30/97622.webp",
-        "publishedAt": "2026-04-30T01:53:17Z",
-        "source": "Manila Bulletin"
-      },
-      {
-        "title": "RightsCon Canceled After Zambia Requires ‘Full Alignment’ With 'National Values'",
-        "description": "Organizers canceled the event just days before thousands were set to descend on Lusaka to discuss issues at the intersection of technology and human rights.",
-        "url": "https://www.techpolicy.press/rightscon-canceled-after-zambia-requires-full-alignment-with-national-values/",
-        "image": "https://cdn.sanity.io/images/3tzzh18d/production/ae854d287ddebe6b514c4e3720072ebc80d3f1e5-1200x675.png",
-        "publishedAt": "2026-04-30T01:52:54Z",
-        "source": "Tech Policy Press"
-      },
-      {
-        "title": "Japan can help Asia learn to live without the U.S.",
-        "description": "Tokyo will have to learn salesmanship quickly — because more is at stake than a few conglomerates' profits. The entire region is learning to live with the U.S.",
-        "url": "https://www.japantimes.co.jp/commentary/2026/04/30/japan/japan-teaches-no-us/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/30/537661.jpg?v=3.1",
-        "publishedAt": "2026-04-30T01:50:00Z",
-        "source": "The Japan Times"
-      },
-      {
-        "title": "Ships stranded in Strait of Hormuz",
-        "description": "Thousands of seafarers are trapped on ships in the Strait of Hormuz with no way to be repatriated amid US-Israel war on Iran.",
-        "url": "https://www.crikey.com.au/2026/04/30/iran-war-ships-stranded-strait-of-hormuz/",
-        "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/04/hormuz.jpg?quality=70&w=1024",
-        "publishedAt": "2026-04-30T01:43:22Z",
-        "source": "Crikey"
+        "title": "US and Russia urged not to conduct nuclear tests",
+        "description": "The head of the organization overseeing a treaty banning nuclear testing is warning that if the United States, Russia or any other nation goes ahead with a test, other nations will follow.",
+        "url": "https://apnews.com/article/un-nuclear-test-ban-treaty-us-russia-36f24e3bc9e4508bb761cd3f1bbea678",
+        "image": "https://dims.apnews.com/dims4/default/42bfccc/2147483647/strip/true/crop/8520x5677+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2F5f%2Ff313ea3ef810a5479a34439619e4%2Fe6f1163347484127b43861feb1becabc",
+        "publishedAt": "2026-04-30T02:45:00Z",
+        "source": "AP News"
       }
     ],
     "business": [
       {
-        "title": "Trump will be furious as an old foe digs in his heels",
-        "description": "Fed chair Jerome Powell has long been one of Donald Trump’s favourite targets. But he might have the last laugh after a historic move that will incense the president.",
-        "url": "https://www.brisbanetimes.com.au/business/banking-and-finance/trump-will-be-furious-as-an-old-foe-digs-in-his-heels-20260430-p5zsea.html",
-        "image": "https://static.ffx.io/images/$zoom_0.7422%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_68/t_crop_custom/q_86%2Cf_auto/t_metro_brisbanetimes_opinion_no_age_social_wm/2b57e8fd78bc42cdd2a26ee589193eeb619aebdf0bf2e4bf7878dcc681069bee",
-        "publishedAt": "2026-04-30T01:57:19Z",
-        "source": "Brisbane Times"
+        "title": "Moody’s SA exit triggers 24-month transition for banks",
+        "description": "Moody’s SA to be derecognised as an eligible external credit assessment institution",
+        "url": "https://www.businessday.co.za/economy/2026-04-30-moodys-sa-exit-triggers-24-month-transition-for-banks/",
+        "image": "https://www.businessday.co.za/resizer/v2/NPLMWEE2ENJ2BHTW2547FLQFWM.jpg?smart=true&auth=728f430c9316df149e4e52c5e514a0139439091bd2af3194734a46319bddb650&width=1200&height=630",
+        "publishedAt": "2026-04-30T03:00:00Z",
+        "source": "Business Day"
       },
       {
-        "title": "Trump will be furious as an old foe digs in his heels",
-        "description": "Fed chair Jerome Powell has long been one of Donald Trump’s favourite targets. But he might have the last laugh after a historic move that will incense the president.",
-        "url": "https://www.theage.com.au/business/banking-and-finance/trump-will-be-furious-as-an-old-foe-digs-in-his-heels-20260430-p5zsea.html",
-        "image": "https://static.ffx.io/images/$zoom_0.7422%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_68/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/2b57e8fd78bc42cdd2a26ee589193eeb619aebdf0bf2e4bf7878dcc681069bee",
-        "publishedAt": "2026-04-30T01:57:19Z",
-        "source": "The Age"
+        "title": "Waaree Energies share price slips over 10% after Q4 results, dividend announcement; check key numbers",
+        "description": "Waaree Energies recorded a 71.44% increase in its consolidated net profit attributable to the owners of the company at ₹1,061.1 crore for Q4 FY26. The company had posted a post-tax profit of ₹618.91 crore in the year-ago quarter.",
+        "url": "https://upstox.com/news/market-news/stocks/waaree-energies-share-price-in-focus-as-q4-profit-rises-71-to-1-061-crore-dividend-recommended-check-key-numbers/article-192953/",
+        "image": "https://assets.upstox.com/content/assets/images/news/waaree-energies-share-price-q4-results-dividend-2026.webp",
+        "publishedAt": "2026-04-30T02:59:09Z",
+        "source": "Upstox"
       },
       {
-        "title": "ASIC drops case against Liberty Bell Bay manganese smelter as search for buyer continues",
-        "description": "It was alleged Liberty Bell Bay's former owner, British billionaire Sanjeev Gupta's GFG Alliance, had failed to lodge financial returns for numerous years. The company then went into administration, and ASIC has dropped its legal case.",
-        "url": "https://www.abc.net.au/news/2026-04-30/tas-liberty-bell-bay-asic-action/106624608",
-        "image": "https://live-production.wcms.abc-cdn.net.au/480318fde43e1b181d21e7d22663968e?impolicy=wcms_watermark_news&cropH=4566&cropW=8118&xPos=0&yPos=423&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-30T01:53:48Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Australia’s AirTrunk to invest RM12 bil on another two data centres in Johor",
+        "description": "AirTrunk said that it is investing RM12 billion to build another two new hyperscale data centres in Iskandar Puteri, Johor.",
+        "url": "https://theedgemalaysia.com/node/801908",
+        "image": "https://assets.theedgemarkets.com/AirTrunk_logo_airtrunk.com_20260407095114-APP_0.png",
+        "publishedAt": "2026-04-30T02:57:12Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "Google smashes Q1 estimates with $109.9bn revenue. Cloud surges 63% past forecasts.",
-        "description": "Google parent Alphabet beat Q1 revenue forecasts with $109.9bn, up from $90.2bn a year ago. Google Cloud surged to $20.03bn, well above the $18.41bn estimate. Operating income hit $39.7bn.",
-        "url": "https://investinglive.com/stocks/google-smashes-q1-estimates-with-1099bn-revenue-cloud-surges-63-past-forecasts-20260429/",
-        "image": "https://images.investinglive.com/images/Google%20AI%20winning_id_45a680f2-46df-4b85-9552-e78751cca515_size975.jpg",
-        "publishedAt": "2026-04-30T01:49:00Z",
-        "source": "investingLive"
+        "title": "MC Exclusive | Emirates NBD’s Shayne Nelson set to join RBL Bank’s board",
+        "description": "A reshuffle of the board is likely in the coming weeks, which is expected to result in at least 6 – 7 nominee directors including Shayne getting inducted on RBL Bank’s board.",
+        "url": "https://www.moneycontrol.com/news/business/mc-exclusive-emirates-nbd-s-shayne-nelson-set-to-join-rbl-bank-s-board-13904012.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/06/20250629132649_RBL-Bank.png",
+        "publishedAt": "2026-04-30T02:55:48Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Chinese automakers' Q1 earnings highlight impact of currency fluctuations",
-        "description": "As overseas businesses expand rapidly, fluctuations in the yuan exchange rate are significantly impacting the profits of Chinese automakers.",
-        "url": "https://cnevpost.com/2026/04/30/chinese-automakers-q1-earnings-highlight-impact-fx-fluctuations/",
-        "image": "https://cnevpost.com/wp-content/uploads/2026/04/2026043001441892.jpg",
-        "publishedAt": "2026-04-30T01:47:00Z",
-        "source": "CnEVPost"
+        "title": "Uber adds hotel booking feature, hints at flights coming next",
+        "description": "Uber has announced one of the biggest changes to its app in its 15-year history as it attempts to become the dominant “app for everything”.",
+        "url": "https://www.news.com.au/technology/online/uber-announces-plan-to-become-everything-app/news-story/58d9bd79fa2806fcddfd2b8c9b0e091e",
+        "image": "https://content.api.news/v3/images/bin/4a006afa0b11311b5afb9f9ba456ebbd",
+        "publishedAt": "2026-04-30T02:53:59Z",
+        "source": "News.com.au"
       },
       {
-        "title": "Cloud revenue is now 18% of Alphabet's business. Is Google's identity as a search company changing?",
-        "description": "Search and advertising have been central to Google's identity and business from Day One. The booming demand for AI may be changing that.",
-        "url": "https://fortune.com/2026/04/29/google-earnings-cloud-ai/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1135936138-e1777512003328.jpg?resize=1200,600",
-        "publishedAt": "2026-04-30T01:47:00Z",
-        "source": "Fortune"
+        "title": "OMODA & JAECOO Celebrates 3-Year Anniversary and Unveils New Million Strategy at Beijing Auto Show 2026",
+        "description": "KUALA LUMPUR, Malaysia and WUHU, China, April 30, 2026 /PRNewswire/ -- The 19th Beijing International Auto Show grandly opens, witnessing OMODA & JAECOO unveil a major milestone on its third brand anniversary. As of April 2026, the brand's cumulative global sales have officially exceeded 1 million units, securing the fastest million-volume breakthrough record among all young automotive brands across the global industry. Officially launched worldwide in 2023, the high-potential new-generation automotive brand has maintained explosive steady growth momentum, realizing year-on-year sales doubling for three successive years. Its single-month global sales volume easily broke 60,000 units in March 2026. Compared with traditional mainstream auto brands that generally spend more than ten years to complete the million-unit sales target, OMODA & JAECOO has rewritten the global auto industry growth speed benchmark with only three years of polished operation.",
+        "url": "https://www.manilatimes.net/2026/04/30/tmt-newswire/pr-newswire/omoda-jaecoo-celebrates-3-year-anniversary-and-unveils-new-million-strategy-at-beijing-auto-show-2026/2332233",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/30/1036003.jpg",
+        "publishedAt": "2026-04-30T02:53:20Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Monash IVF faces wrong embryo negligence claim",
-        "description": "The claim comes weeks after Monash IVF reached a multimillion-dollar settlement with families involved in embryo mix-ups in Brisbane and Melbourne.",
-        "url": "https://www.theage.com.au/national/monash-ivf-faces-wrong-embryo-negligence-claim-20260430-p5zse9.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_39/t_crop_custom/q_86%2Cf_auto/9b0fbf441846d01bedda7a13437415ec5c05b038",
-        "publishedAt": "2026-04-30T01:41:17Z",
-        "source": "The Age"
+        "title": "Stocks To Watch, April 30: Vedanta, L&T, HUL, Bajaj Finance, Brigade Enterprises, Waaree Energies",
+        "description": "Stocks to watch: Leading NBFC Bajaj Finance on Wednesday reported a 22% increase in its consolidated profit after tax (PAT) to ₹5,553 crore for the three months ended March 2026.",
+        "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-april-30-vedanta-l-and-t-hul-bajaj-finance-brigade-enterprises-waaree-energies/article-192951/",
+        "image": "https://assets.upstox.com/content/assets/images/news/stocks-in-focus-april-30-2026.webp",
+        "publishedAt": "2026-04-30T02:53:19Z",
+        "source": "Upstox"
       },
       {
-        "title": "A Look At Fair Isaac (FICO) Valuation After Recent Share Price Volatility",
-        "description": "Fair Isaac (FICO) is back on investor radars after recent trading left the shares down about 36% year to date, even as annual revenue and net income currently stand at US$2.26b and US$759.63m.\nSee our latest analysis for Fair Isaac.\nThe recent rebound, including a 1-day share price return of 3.27% and 7-day share price return of 7.57%, comes after a sharp 90-day share price decline of 30.51%. The 5-year total shareholder return of 110.24% shows how different the longer term picture looks.\nIf...",
-        "url": "https://simplywall.st/stocks/us/software/nyse-fico/fair-isaac/news/a-look-at-fair-isaac-fico-valuation-after-recent-share-price",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice2-main-header/1585186556238",
-        "publishedAt": "2026-04-30T01:41:15Z",
-        "source": "simplywall.st"
+        "title": "Global Energy Logistics Maritime Specialist",
+        "description": "Stay updated with AET's latest news, including industry collaborations, announcements, and significant milestones in our maritime operations and solutions.",
+        "url": "https://www.aet-tankers.com/media-centre/latest-news/aet-recorded-its-strongest-performance-to-date-in-the-2025-s-p-global-corporate-sustainability-asses",
+        "image": "https://www.aet-tankers.com/awcontent/Web/images/Herobanner/NEW-News-Article-Teaser-Image-654-x-419-px.png",
+        "publishedAt": "2026-04-30T02:52:42Z",
+        "source": "aet-tankers.com"
       }
     ],
     "science": [
+      {
+        "title": "How multi-omics is changing what scientists can see in the human immune system",
+        "description": "Human systems immunology is using multi-omics, single-cell tools, spatial technologies, and AI to decode immune responses across real-world human cohorts. The review highlights major opportunities for biomarker discovery and precision medicine, while stressing the need for rigorous study design, validation, and careful interpretation.",
+        "url": "https://www.news-medical.net/news/20260429/How-multi-omics-is-changing-what-scientists-can-see-in-the-human-immune-system.aspx",
+        "image": "https://www.news-medical.net/images/news/ImageForNews_836510_17775169006345743.jpg",
+        "publishedAt": "2026-04-30T02:43:00Z",
+        "source": "News-Medical"
+      },
+      {
+        "title": "As calculations catch up, muon anomaly nearly vanishes",
+        "description": "New calculations suggest the muon anomaly may be resolved, reinforcing confidence in the Standard Model of particle physics.",
+        "url": "https://www.thehindu.com/sci-tech/science/as-calculations-catch-up-muon-anomaly-nearly-vanishes/article70912384.ece",
+        "image": "https://th-i.thgim.com/public/incoming/20dcij/article67183498.ece/alternates/LANDSCAPE_1200/2023-08-10T153042Z_1062079993_RC2RF2A9YJVU_RTRMADP_3_SCIENCE-PARTICLE.JPG",
+        "publishedAt": "2026-04-30T02:30:00Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Microbes begin invading fresh lava almost as soon as it hardens",
+        "description": "Research shows how microbes quickly colonize fresh lava, revealing how life rebuilds itself and offering clues for life on other planets.",
+        "url": "https://www.earth.com/news/microbes-reclaim-land-made-from-fresh-lava-almost-immediately-after-it-hardens-iceland-volcano/",
+        "image": "https://cff2.earth.com/uploads/2025/12/19113828/Lava-microbes.jpg",
+        "publishedAt": "2026-04-30T02:15:00Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Joint India-US venture NISAR shows Mexico City sinking at alarming pace",
+        "description": "Washington, April 30 (IANS) A joint United States–India satellite mission has captured fresh evidence of rapid land subsidence in Mexico City, with parts of the metropolitan region sinking by several centimetres per month, according to new data released by NASA and ISRO.",
+        "url": "https://ianslive.in/joint-india-us-venture-nisar-shows-mexico-city-sinking-at-an-alarming-pace--20260430070904",
+        "image": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202604303770328.jpeg",
+        "publishedAt": "2026-04-30T02:05:00Z",
+        "source": "IANS LIVE"
+      },
+      {
+        "title": "Fed Magnetoplasmadynamic Thruster",
+        "description": "On 28th April, NASA reported a lithium-fed magnetoplasmadynamic thruster testing on 24th February marking a power level milestone.",
+        "url": "https://orbitaltoday.com/2026/04/30/nasa-tests-lithium-fed-magnetoplasmadynamic-thruster/",
+        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/Lithium-Thruster.jpg",
+        "publishedAt": "2026-04-30T02:01:18Z",
+        "source": "Orbital Today"
+      },
+      {
+        "title": "Researchers develop highly efficient, durable catalyst for chlor-alkali electrolysis",
+        "description": "Efficient and durable catalysts for the chlorine evolution reaction (CER) are critical for chlor-alkali and related brine electrolysis processes, but conventional anodic materials often struggle to balance catalytic activity, selectivity, cost, and stability under harsh operating conditions. Now, a research team led by Prof. Yin Huajie from the Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Academy of Sciences, has developed a high-performance chlor-alkali electrode catalyst that combines outstanding activity with long-term stability. The study is published in Nature Communications.",
+        "url": "https://phys.org/news/2026-04-highly-efficient-durable-catalyst-chlor.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-develop-hi-3.jpg",
+        "publishedAt": "2026-04-30T02:00:03Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Evidence of what may be world’s oldest cremation found in Ethiopia, new study reveals - Jerusalem Post",
         "description": "Jerusalem Post/Archaeology The burnt bone fragments were one of three Homo sapien fossils discovered in the sediment of the Faro Daba beds in the Dawaitoli Formation. Furnace of the type to be inst…",
@@ -150,120 +198,72 @@
         "image": "https://cff2.earth.com/uploads/2026/04/29115230/new-moon-craters-fading-lunar-surface-impact-rays.jpg",
         "publishedAt": "2026-04-30T01:30:00Z",
         "source": "Earth.com"
-      },
-      {
-        "title": "Antarctic fish fossil shows how animals prepared for life on land",
-        "description": "A rare Antarctic fossil reveals how early fish lived and hunted just before animals began moving onto land 380 million years ago.",
-        "url": "https://www.earth.com/news/antarctic-fish-fossil-reveals-a-key-stage-before-animals-moved-onto-land/",
-        "image": "https://cff2.earth.com/uploads/2026/04/29174047/Low-Res_painting-reconstruction-by-2.jpg",
-        "publishedAt": "2026-04-30T01:30:00Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Defect engineering lifts chalcopyrite thermoelectrics to record performance",
-        "description": "A research team led by Prof. Zhang Jian at the Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Academy of Sciences, in collaboration with Prof. Xiao Chong from the University of Science and Technology of China and Prof. Zhang Yongsheng from Qufu Normal University, achieved a peak ZT value of 2.03 at 873 K in chalcopyrite-based thermoelectric materials using a novel dual antisite defect strategy.",
-        "url": "https://phys.org/news/2026-04-defect-chalcopyrite-thermoelectrics.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/record-thermoelectric.jpg",
-        "publishedAt": "2026-04-30T01:20:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "BLUE CARBON: UNEARTHING THE OCEAN’S OWN CLIMATE FIX",
-        "description": "Marine ecosystems are doing most of the heavy lifting in the fight against climate change.",
-        "url": "https://particle.scitech.org.au/earth-water/blue-carbon-unearthing-the-oceans-own-climate-fix/",
-        "image": "https://particle.scitech.org.au/wp-content/uploads/2026/04/blue-carbon_FI-1024x768.png",
-        "publishedAt": "2026-04-30T01:04:49Z",
-        "source": "Scitech"
-      },
-      {
-        "title": "Viasat Successfully Launches ViaSat-3 F3 Satellite for Asia-Pacific Capacity Expansion",
-        "description": "Viasat Successfully Launches ViaSat-3 F3 Satellite for Asia-Pacific Capacity Expansion",
-        "url": "https://www.thefastmode.com/technology-solutions/48296-viasat-successfully-launches-viasat-3-f3-satellite-for-asia-pacific-capacity-expansion",
-        "image": "https://www.thefastmode.com/media/k2/items/src/b87a6d2cc55d12ecf508820585d56f1f.jpg?t=20260429_234236",
-        "publishedAt": "2026-04-30T00:58:11Z",
-        "source": "The Fast Mode"
-      },
-      {
-        "title": "Pope Leo XIII’s legacy reaches space with asteroid named in his honor",
-        "description": "The Vatican Observatory has named four asteroids after key figures in its history, including the pope who refounded the observatory in 1891.",
-        "url": "https://www.catholicworldreport.com/2026/04/29/pope-leo-xiiis-legacy-reaches-space-with-asteroid-named-in-his-honor/",
-        "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,w_3840,h_2160,g_auto/f_auto/q_80/v1/PopeLeoXIII042926_m01mpw.jpg?_a=BAVMn6E70",
-        "publishedAt": "2026-04-30T00:42:19Z",
-        "source": "Catholic World Report"
-      },
-      {
-        "title": "Neil deGrasse Tyson reveals the science of why he wants to be buried instead of cremated",
-        "description": "Astrophysicist Neil deGrasse Tyson shares what might happen to our atoms in death, comparing burial and cremation.",
-        "url": "https://malaysia.news.yahoo.com/neil-degrasse-tyson-reveals-science-004007224.html",
-        "image": "https://s.yimg.com/os/en/upworthy_219/7dff4dbfeb6e5aecae2e472b6c3dd0d4",
-        "publishedAt": "2026-04-30T00:40:00Z",
-        "source": "Yahoo News Malaysia"
       }
     ],
     "ai": [
       {
-        "title": "UPDATE 7-Meta shares fall on concerns over AI spending, legal scrutiny",
-        "description": "Matt Britzman, an analyst at Hargreaves Lansdown, said Meta's ⁠higher capital spending ​spooked investors but is likely overblown as it reflects ⁠more expensive memory prices rather than changes to Meta's investment plan. 'OPTIMAL SIZE' The results come weeks after Reuters first reported Meta's plans for sweeping layoffs, as CEO Mark Zuckerberg attempts to aggressively integrate AI into the company's workflows and reshape its workforce around the technology.",
-        "url": "https://www.devdiscourse.com/article/technology/3891397-meta-platform-shares-fall-on-concerns-overai-spending-legal-scrutiny",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-30T01:58:22Z",
-        "source": "Devdiscourse"
+        "title": "OpenAI Has Just the Right Person to Curb Its Wild Spending",
+        "description": "About three years ago the nonprofit board of OpenAI fired its chief executive officer, Sam Altman, because of complaints that he wasn’t “consistently candid” with its members. Effectively, he wasn’t deemed fit to fulfil the company’s noble mission of benefiting humanity, though he was reinstated after a staff revolt.",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-04-30/chatgpt-maker-openai-has-just-the-right-person-to-curb-its-crazy-spending",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3vg6qrD7pqY/v1/1200x800.jpg",
+        "publishedAt": "2026-04-30T03:00:18Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "UPDATE 7-Meta shares fall on concerns over AI spending, legal scrutiny",
-        "description": "Matt Britzman, an analyst at Hargreaves Lansdown, said Meta's ⁠higher capital spending ​spooked investors but is likely overblown as it reflects ⁠more expensive memory prices rather than changes to Meta's investment plan. 'OPTIMAL SIZE' The results come weeks after Reuters first reported Meta's plans for sweeping layoffs, as CEO Mark Zuckerberg attempts to aggressively integrate AI into the company's workflows and reshape its workforce around the technology.",
-        "url": "https://www.devdiscourse.com/article/technology/3891397-update-7-meta-shares-fall-on-concerns-overai-spending-legal-scrutiny",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-30T01:58:22Z",
-        "source": "Devdiscourse"
-      },
-      {
-        "title": "Google Photos will now let you build a digital wardrobe and try on clothes virtually",
-        "description": "Google Photos will introduce an AI-powered 'Wardrobe' feature that allows users to create a searchable digital closet. Users can filter by categories",
-        "url": "https://www.livemint.com/technology/tech-news/google-photos-will-now-let-you-build-a-digital-wardrobe-and-try-on-clothes-virtually-11777510468754.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/29081_1777514163402_1777514169525.jpg",
-        "publishedAt": "2026-04-30T01:57:16Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Chinese AI model powering Airbnb's customer service agent that CEO Brian Chesky called 'fast and cheap' to use has landed the company in ‘trouble’",
-        "description": "Tech News News: Airbnb and Anysphere, maker of AI coding platform Cursor, may be in trouble. According to a report in Semafor, two Republican-led House committees are.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/chinese-ai-model-powering-airbnbs-customer-service-agent-that-ceo-brian-chesky-called-fast-and-cheap-to-use-has-landed-the-company-in-trouble/articleshow/130621045.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130621042,width-1280,height-720,imgsize-80818,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-30T01:56:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Tech shares rise in Asia, bonds scarred by central bank hawks as oil spikes",
-        "description": "AI-related shares fared well in Asia on Thursday after a raft of generally positive earnings reports, while surging oil prices left bonds battered as central banks turned more hawkish on inflation and...",
-        "url": "https://www.marketscreener.com/news/tech-shares-rise-in-asia-bonds-scarred-by-central-bank-hawks-as-oil-spikes-ce7f58dbd988f524",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T010934Z_1_LYNXMPEM3R029_RTROPTP_4_GLOBAL-MARKETS.JPG",
-        "publishedAt": "2026-04-30T01:53:56Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "Minnesota Senate passes bipartisan AI ‘nudification’ ban, poised to become first-in-nation law",
-        "description": "Minnesota is on the verge of being the first state in the country to ban AI technology that turns images into pornography.",
-        "url": "https://www.fox9.com/news/minnesota-senate-passes-bipartisan-ai-nudification-ban-first-in-nation-law-april-29",
-        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/05/1200/630/AI-technology.jpg?ve=1&tl=1",
-        "publishedAt": "2026-04-30T01:53:27Z",
-        "source": "FOX 9"
-      },
-      {
-        "title": "FICER Empowers Asia's Digital Backbone: Scalable Connectivity for the Future of Telecommunications at Asia Tech x Singapore - CommunicAsia 2026",
-        "description": "F520 OTN DWDM System & DCO Series for high-density fiber optic solutions and scalable urban backbones.800G/400G & BiDi modules Advancing toward 5G Advanced and 6G for AI-driven data demands and resolving fiber exhaust in dense metros solutions to double existing capacity.Pluggable EDFA & OTDR empowering System Integration for intelligent, zero-footprint network management.XGS-PON & 25G-PON for streamlining residential and 5G backhaul. SINGAPORE, April 30, 2026 /PRNewswire/ -- FICER Technology, provider of Fiber Optic communication solutions, officially announces its participation in Asia Tech x Singapore 2026 (CommunicAsia). Aligning with the official theme, 'The Future of Asia's Connectivity & Digital Infrastructure', FICER will present its latest innovations 'Scalable Connectivity for the Future of Telecommunications'. From May 20-22 at the Singapore Expo, high-speed 400G/800G transceivers and OTN DWDM solutions engineered for the next era of connectivity.",
-        "url": "https://www.manilatimes.net/2026/04/30/tmt-newswire/pr-newswire/ficer-empowers-asias-digital-backbone-scalable-connectivity-for-the-future-of-telecommunications-at-asia-tech-x-singapore-communicasia-2026/2332216",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/30/1035970.jpg",
-        "publishedAt": "2026-04-30T01:52:51Z",
+        "title": "Yunji Technology 2025 Revenue Rises 23% to RMB301 Million, AI Agent Revenue Jumps 194%",
+        "description": "HONG KONG, April 30, 2026 /PRNewswire/ -- Beijing Yunji Technology Co., Ltd. (2670.HK), the fourth specialty technology company listed under Hong Kong's Chapter 18C rules, today reported its 2025 annual results.",
+        "url": "https://www.manilatimes.net/2026/04/30/tmt-newswire/pr-newswire/yunji-technology-2025-revenue-rises-23-to-rmb301-million-ai-agent-revenue-jumps-194/2332236",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/30/1036009.jpg",
+        "publishedAt": "2026-04-30T02:53:27Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Cloud revenue is now 18% of Alphabet's business. Is Google's identity as a search company changing?",
-        "description": "Search and advertising have been central to Google's identity and business from Day One. The booming demand for AI may be changing that.",
-        "url": "https://fortune.com/2026/04/29/google-earnings-cloud-ai/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1135936138-e1777512003328.jpg?resize=1200,600",
-        "publishedAt": "2026-04-30T01:47:49Z",
-        "source": "Fortune"
+        "title": "SRM-AP launches AI-integrated PG programs in Economics and Psychology",
+        "description": "Scholarships and fee concessions of up to 100% are available for eligible candidates, ensuring accessibility for high-achieving students.",
+        "url": "https://www.newindianexpress.com/cities/vijayawada/2026/Apr/30/srm-ap-launches-ai-integrated-pg-programs-in-economics-and-psychology",
+        "image": "https://media.newindianexpress.com/newindianexpress%2F2026-04-30%2Fo6ra60ag%2FPsychology.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-30T02:52:41Z",
+        "source": "The New Indian Express"
+      },
+      {
+        "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Draws More Banks",
+        "description": "Banks that recently signed a $40 billion bridge loan with SoftBank Group Corp. for its investment in US tech giant OpenAI have attracted more lenders to the deal in syndication, people familiar with the matter said.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-30/softbank-s-40-billion-loan-for-openai-stake-draws-more-banks",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZjifyHzBs2E/v1/1200x800.jpg",
+        "publishedAt": "2026-04-30T02:52:30Z",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Australian banks warned frontier AI could create larger, faster cyber attacks",
+        "description": "Australia's banking regulators, APRA, are sounding the alarm over escalating cyber threats. Advanced AI tools like Anthropic's Claude Mythos may equip hackers with unprecedented capabilities. Current cybersecurity measures within banks are trailing behind the swift evolution of AI, heightening the vulnerability of the country’s financial systems. It is crucial for board members to enhance their grasp of AI-related risks.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks/articleshow/130621679.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1953825,resizemode-75,msid-130621679/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks.jpg",
+        "publishedAt": "2026-04-30T02:51:36Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Samsung turns 'The Devil Wears Prada 2' into real-life runway moment",
+        "description": "Samsung partners with “The Devil Wears Prada 2” to launch a global campaign for the Galaxy S26 Ultra, blending fashion, film and AI through red carpet activations and social-first content.",
+        "url": "https://www.marketing-interactive.com/samsung-turns-the-devil-wears-prada-2-into-real-life-runway-moment",
+        "image": "https://marketing-interactive-assets.b-cdn.net/article_images/samsung-brings-the-devil-wears-prada-2-from-the-runway-to-real-life/1777338768_Samsung.jpg",
+        "publishedAt": "2026-04-30T02:48:21Z",
+        "source": "Marketing Interactive"
+      },
+      {
+        "title": "How multi-omics is changing what scientists can see in the human immune system",
+        "description": "Human systems immunology is using multi-omics, single-cell tools, spatial technologies, and AI to decode immune responses across real-world human cohorts. The review highlights major opportunities for biomarker discovery and precision medicine, while stressing the need for rigorous study design, validation, and careful interpretation.",
+        "url": "https://www.news-medical.net/news/20260429/How-multi-omics-is-changing-what-scientists-can-see-in-the-human-immune-system.aspx",
+        "image": "https://www.news-medical.net/images/news/ImageForNews_836510_17775169006345743.jpg",
+        "publishedAt": "2026-04-30T02:43:00Z",
+        "source": "News-Medical.net"
+      },
+      {
+        "title": "Mining critical materials is creating 'sacrifice zones' that harm water and health of world's poor",
+        "description": "There is a troubling contradiction at the heart of the global transition to a cleaner, greener, tech-driven future: Modern technologies—everything from AI to wind turbines, as well as cellphones, electric vehicles and defense systems—depend on critical minerals. But many of the communities where those minerals are mined end up with polluted water and poorer health because of the mining.",
+        "url": "https://phys.org/news/2026-04-critical-materials-sacrifice-zones-health.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/cobalt-mine.jpg",
+        "publishedAt": "2026-04-30T02:40:03Z",
+        "source": "Phys.org"
       }
     ]
   }
