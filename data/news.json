@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-04-30T18:48:37.371Z",
+  "fetchedAt": "2026-04-30T19:50:39.642Z",
   "sections": {
     "world": [
       {
-        "title": "Estonia has no plans to temporarily lower excise duty on diesel",
-        "description": "Minister of Economic Affairs and Industry Erkki Keldo (Reform) has rejected a proposal by business organizations to temporarily lower the excise duty on diesel fuel as global prices continue to rise due to the Iran war.",
-        "url": "https://news.err.ee/1610010574/estonia-has-no-plans-to-temporarily-lower-excise-duty-on-diesel",
-        "image": "https://s.err.ee/photo/crop/2026/04/08/3294141hd8e1t24.jpg",
-        "publishedAt": "2026-04-30T06:45:00Z",
-        "source": "ERR"
+        "title": "President Ruto Hosts African Leaders At State House During Connected Africa Summit",
+        "description": "The Connected Africa Summit 2026 is anchored on a comprehensive agenda aimed at accelerating Africa’s digital transformation",
+        "url": "https://cioafrica.co/president-ruto-hosts-african-leaders-at-state-house-during-connected-africa-summit/",
+        "image": "https://cioafrica.co/wp-content/uploads/2026/04/kioljtyuogf.jpg",
+        "publishedAt": "2026-04-30T07:50:29Z",
+        "source": "CIO Africa"
       },
       {
-        "title": "Eritrea: May Day Commemorations in Southern and Anseba Regions",
-        "description": "Eritrea: May Day Commemorations in Southern and Anseba Regions",
-        "url": "https://www.zawya.com/en/press-release/africa-press-releases/eritrea-may-day-commemorations-in-southern-and-anseba-regions-p5qp4cvd",
-        "image": "https://www.zawya.com/favicon.ico",
-        "publishedAt": "2026-04-30T06:44:25Z",
+        "title": "Today's Front pages: Thursday, April 30, 2026",
+        "description": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+        "url": "https://www.myjoyonline.com/todays-front-pages-thursday-april-30-2026/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-3060.png",
+        "publishedAt": "2026-04-30T07:48:15Z",
+        "source": "MyJoyOnline"
+      },
+      {
+        "title": "Africa’s climate crisis is now a security crisis",
+        "description": "These numbers illustrate the drivers of the climate security nexus",
+        "url": "https://www.zawya.com/en/economy/africa/africas-climate-crisis-is-now-a-security-crisis-k0u1he5k",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/30c3e81e-b26d-4f21-af67-37c2aec612e5/11/1011848838.jpeg?f=3%3A2",
+        "publishedAt": "2026-04-30T07:47:18Z",
         "source": "ZAWYA"
       },
       {
-        "title": "Christchurch mosque attacker's conviction appeal application declined by New Zealand court",
-        "description": "A New Zealand court declines an application by the Australian man who murdered 51 people at two mosques in 2019 to appeal his convictions.",
-        "url": "https://www.abc.net.au/news/2026-04-30/christchurch-attacker-conviction-appeal-rejected-by-nz-court/106621126",
-        "image": "https://live-production.wcms.abc-cdn.net.au/481749da4027c90f61e645d382e065d1?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=41&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-04-30T06:41:18Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "WHO Simulates Global Outbreak Response To Boost Readiness For The Next Pandemic",
+        "description": "WHO conducted a large-scale global simulation involving 26 countries to test outbreak preparedness. The exercise highlights the importance of coordination, workforce readiness, and rapid response to future pandemics.",
+        "url": "https://www.ndtv.com/health/who-simulates-global-outbreak-response-to-boost-readiness-for-the-next-pandemic-11429886",
+        "image": "https://c.ndtvimg.com/2021-02/6cefo5tg_tedros-adhanom-ghebreyesus_625x300_06_February_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-30T07:44:47Z",
+        "source": "NDTV"
       },
       {
-        "title": "Cyanide serial killer gets another life sentence",
-        "description": "The Criminal Court on Thursday handed another life sentence to serial killer Sararat “Aem Cyanide” Rangsiwuthaporn for fatally poisoning a policewoman in Khon Kaen province.",
-        "url": "https://www.bangkokpost.com/thailand/general/3247062/cyanide-serial-killer-gets-another-life-sentence",
-        "image": "https://static.bangkokpost.com/media/content/20260430/c1_3247062_700.jpg",
-        "publishedAt": "2026-04-30T06:41:00Z",
-        "source": "Bangkok Post"
+        "title": "Could China help make Africa a factory for the world?",
+        "description": "A spurt of Chinese investment suggests the chances are improving | World News",
+        "url": "https://www.hindustantimes.com/world-news/could-china-help-make-africa-a-factory-for-the-world-101777516337235.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/30/550x309/AFP_A8DV29E_1777516929852_1777516933630.jpg",
+        "publishedAt": "2026-04-30T07:44:01Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Pakistan: US journalist says deceived at Pakistan press meeting",
-        "description": "An informal media gathering in Pakistan involving foreign reporters, who were stationed for the US-Iran talks, turned into a full-blown controversy. What was supposed to be a meet-and-greet event turned into a political spectacle after two Pakistani journalists used the platform to criticise the government and the military.",
-        "url": "https://www.indiatoday.in/world/story/pakistan-press-meet-american-journalist-deceived-asim-munir-2903630-2026-04-30",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/pakistan-press-meet-controversy-302112934-16x9_0.png?VersionId=lc.xDRAudVTe4KD8RjAw2y0UVAVQxaJ3",
-        "publishedAt": "2026-04-30T06:40:04Z",
-        "source": "India Today"
+        "title": "Niger's Rights Record Faces Universal Review",
+        "description": "GENEVA - The human rights record of Niger will be examined by the United Nations Human Rights Council's Universal Periodic Review (UPR) Working Group",
+        "url": "https://www.miragenews.com/nigers-rights-record-faces-universal-review-1665116/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1454923634634-bd1614719a7b%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1350%26amp%3Bq%3D80",
+        "publishedAt": "2026-04-30T07:42:00Z",
+        "source": "Mirage News"
       },
       {
-        "title": "‘I was in the room with Charles and Trump - one line got me yanked away from King’",
-        "description": "Fox News star Jesse Watters found himself in hot water at the US state dinner.",
-        "url": "https://www.express.co.uk/showbiz/tv-radio/2200061/i-was-room-charles-trump",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/6892709.jpg",
-        "publishedAt": "2026-04-30T06:35:00Z",
-        "source": "Daily Express"
+        "title": "The Iran war shapes the geopolitical landscape",
+        "description": "Lessons from history highlight Europe’s urgent need to adapt to a transforming global order.",
+        "url": "https://www.gisreportsonline.com/r/iran-war-geopolitical-landscape/",
+        "image": "https://www.gisreportsonline.com/wp-content/uploads/2026/05/europe-1140x704.jpg",
+        "publishedAt": "2026-04-30T07:41:39Z",
+        "source": "GIS Reports"
       },
       {
-        "title": "Old tsunami video falsely linked to April 2026 earthquake in Japan",
-        "description": "Japanese authorities issued tsunami alerts after a magnitude 7.7 earthquake struck the country's north on April 20, 2026, but footage circulating online showing a neighbourhood engulfed by massive waves is not linked to the latest jolt. It dates back to March 2011, when Japan's strongest earthquake on record triggered a deadly tsunami and sparked the Fukushima nuclear disaster.",
-        "url": "https://factcheck.afp.com/doc.afp.com.A96Y3WN",
-        "image": "https://factcheck.afp.com/sites/default/files/styles/og_image/public/medias/factchecking/g2/2026-04/f5e292b981be7180b72e491a4f690b31-en.jpeg?itok=Ac4lbWZp",
-        "publishedAt": "2026-04-30T06:32:57Z",
-        "source": "AFP Fact Check"
-      },
-      {
-        "title": "Have the royals got their mojo back from US visit?",
-        "description": "After months and months of terrible headlines, King Charles is suddenly surrounded by applause",
-        "url": "https://www.the-star.co.ke/news/world/2026-04-30-have-the-royals-got-their-mojo-back-from-us-visit",
-        "image": "https://cdn.radioafrica.digital/image/2026/04/4f8ce9a6-7126-497b-abc9-ce1fa89f2c2e.png?1777572791254",
-        "publishedAt": "2026-04-30T06:30:00Z",
-        "source": "the-star.co.ke"
+        "title": "Trump Threatens Iran With Gun-Toting AI Meme As Hormuz Remains Blockaded",
+        "description": "Topline President Donald Trump early on Wednesday threatened Iran with an AI-generated meme while appearing to reiterate his claims the country was in a state of disarray and incapable of signing a peace deal as the Strait of Hormuz remains blockaded. This story was first published on Forbes.com Key Facts In a post on Truth Social, […]",
+        "url": "https://www.forbesafrica.com/current-affairs/2026/04/29/trump-threatens-iran-with-gun-toting-ai-meme-as-hormuz-remains-blockaded",
+        "image": "https://cms.forbesafrica.com/wp-content/uploads/2026/03/GettyImages-2264020227.jpg",
+        "publishedAt": "2026-04-30T07:40:51Z",
+        "source": "Forbes Africa"
       }
     ],
     "business": [
       {
-        "title": "Strategic transformation and strengthening financial resilience",
-        "description": "/PRNewswire/ -- Elkem reported an EBITDA of NOK 249 million for the first quarter 2026, which was a decrease from NOK 710 million in the corresponding quarter...",
-        "url": "https://www.prnewswire.com/news-releases/elkem-first-quarter-2026--strategic-transformation-and-strengthening-financial-resilience-302758474.html",
-        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-        "publishedAt": "2026-04-30T06:47:00Z",
-        "source": "PR Newswire"
+        "title": "DCC rejects £4.95 billion offer from US consortium",
+        "description": "Irish energy distributor DCC has today rejected a £4.95 billion takeover proposal from a consortium comprising US investment firms KKR and Energy Capital Partners, saying it undervalued the company.",
+        "url": "https://www.rte.ie/news/business/2026/0430/1571010-dcc-rejects-takeover-offer/",
+        "image": "https://www.rte.ie/images/000dddda-1600.jpg",
+        "publishedAt": "2026-04-30T07:48:49Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Federal Bank walks away from deal talks with Deutsche's India retail biz",
-        "description": "Federal Bank and Kotak Mahindra Bank were the two contenders to buy the German bank’s retail business in India",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/banks/federal-bank-looks-to-grow-wealth-business-sees-no-immediate-acquisition-targets-13904265.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260429111844_Federal-Bank.jpeg",
-        "publishedAt": "2026-04-30T06:46:40Z",
+        "title": "Stock market crash: HCL Tech and 25 other stocks hit 52-week low; 65 locked at lower circuit, including Sterlite Tech",
+        "description": "NIFTY50 and SENSEX saw a sharp decline today as a rise in Brent Crude oil prices and a record fall in the Indian rupee impacted investors' sentiment. HCL Technologies, Zensar Technologies, VIP Industries hit a 52-week low today on NSE, while Fujiyama Power Systems, Sterlite Technologies and others were at a lower circuit.",
+        "url": "https://upstox.com/news/market-news/stocks/stock-market-crash-hcl-tech-and-25-other-stocks-hit-52-week-low-65-locked-at-lower-circuit-including-sterlite-tech/article-192982/",
+        "image": "https://assets.upstox.com/content/assets/images/news/hcltechat52-weeklow.webp",
+        "publishedAt": "2026-04-30T07:47:49Z",
+        "source": "Upstox"
+      },
+      {
+        "title": "Unilever beats expectations as Dove brand boosts sales",
+        "description": "The consumer goods giant reaffirmed its full-year guidance and increased the dividend, although it warned of ‘heightened macroeconomic uncertainty’",
+        "url": "https://www.thetimes.com/business/companies-markets/article/unilever-beats-expectations-dove-brand-boosts-sales-lktdl3hd8",
+        "image": "https://www.thetimes.com/imageserver/image/39d9d706-2734-4c53-89ce-66de5463d52c.jpg?strip=all&format=webp&crop=4950px%2C2784px%2C0px%2C257px&resize=1200",
+        "publishedAt": "2026-04-30T07:44:20Z",
+        "source": "The Times"
+      },
+      {
+        "title": "IPO-bound Cars24 co-founder Mehul Agrawal quits, second such exit in two days",
+        "description": "Agrawal said he will continue on Cars24’s board, with the move coming days after co-founder Gajendra Jangid also stepped down from his executive role.",
+        "url": "https://www.moneycontrol.com/news/business/startup/ipo-bound-cars24-co-founder-mehul-agrawal-quits-second-such-exit-in-two-days-13904351.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260430072728_Mehul-Agrawal-Cars24.jpeg",
+        "publishedAt": "2026-04-30T07:41:45Z",
         "source": "Moneycontrol.com"
       },
       {
-        "title": "Federal Bank walks away from deal talks with Deutsche's India retail biz",
-        "description": "Federal Bank and Kotak Mahindra Bank were the two contenders to buy the German bank’s retail business in India",
-        "url": "https://www.moneycontrol.com/news/business/banks/federal-bank-looks-to-grow-wealth-business-sees-no-immediate-acquisition-targets-13904265.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260429111844_Federal-Bank.jpeg",
-        "publishedAt": "2026-04-30T06:46:40Z",
-        "source": "Moneycontrol.com"
+        "title": "Savers Australia denies allegations of bed bugs at Brunswick thrift store",
+        "description": "Thrift store chain Savers Australia has denied there is evidence of bed bugs at their popular Brunswick shop, as allegations of an outbreak continue to circulate online.",
+        "url": "https://www.abc.net.au/news/2026-04-30/savers-brunswick-denies-bed-bug-allegations/106627012",
+        "image": "https://live-production.wcms.abc-cdn.net.au/bcc1c69c56263b71e49b861b063385ea?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=56&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-04-30T07:40:50Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "What Foreign Businesses Need to Know",
-        "description": "The new China Cybersecurity Label takes effect July 2026. Learn what it means for foreign businesses selling IoT products in China.",
-        "url": "https://www.china-briefing.com/news/china-cybersecurity-label-guide-foreign-businesses/",
-        "image": "https://www.china-briefing.com/news/wp-content/uploads/2026/04/China-Cybersecurity-Label-Explained-Why-‘Optional-Doesnt-Mean-Irrelevant.jpg",
-        "publishedAt": "2026-04-30T06:46:30Z",
-        "source": "China Briefing"
-      },
-      {
-        "title": "MTN responds to misleading article on executive remuneration",
-        "description": "For the attention of the Editor, My Broadband MTN is dismayed to read the headline of My Broadband’s latest article, written by Hanno Labuschagne (29",
-        "url": "https://www.mtn.com/mtn-responds-to-misleading-article-on-executive-remuneration/",
-        "image": "https://www.mtn.com/wp-content/uploads/2026/04/My-broad.png",
-        "publishedAt": "2026-04-30T06:46:24Z",
-        "source": "MTN Group"
-      },
-      {
-        "title": "Updated Zeekr X launching in Malaysia in Q2 2026",
-        "description": "The facelifted Zeekr X will be coming to Malaysia this year, with Zeekr Malaysia confirming to paultan.org that the updated electric hatchback is expected to arrive here in the second quarter of 2026 as one …",
-        "url": "https://paultan.org/2026/04/30/updated-zeekr-x-launching-in-malaysia-in-q2-2026/",
-        "image": "https://paultan.org/image/2026/03/2026-BIMS-Zeekr-X-1-1200x801.jpg",
-        "publishedAt": "2026-04-30T06:45:06Z",
-        "source": "Paul Tan's Automotive News"
-      },
-      {
-        "title": "Downstream sector, pivot to more jobs in Nigeria’s oil industry - Energy expert",
-        "description": "There is urgent need for a fundamental shift in Nigeria’s energy strategy, particularly towards developing the downstream sector, as it holds the key for more opportunities in the country. Professor Yinka Omorogbe, Energy expert and former president of the Nigerian Association of Energy Economists, NAEE, stated this at a media parley to herald the 19th annual international conference of the association, scheduled for April 27 to 29, 2026.",
-        "url": "https://www.vanguardngr.com/2026/04/downstream-sector-pivot-to-more-jobs-in-nigerias-oil-industry-energy-expert/",
-        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/07/Oil-rig.png",
-        "publishedAt": "2026-04-30T06:43:12Z",
+        "title": "Trump warns Iran blockade could last months, sending oil prices soaring",
+        "description": "President Donald Trump said a US naval blockade against Iran could last months, leading oil prices to spike to their highest level in more than four years, which held into Thursday.",
+        "url": "https://www.vanguardngr.com/2026/04/trump-warns-iran-blockade-could-last-months-sending-oil-prices-soaring/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/04/AFP__20260406__A6W393G__v1__MidRes__UsPresidentDonaldTrumpHoldsPresserAmidIranWar-e1775662198217.jpg",
+        "publishedAt": "2026-04-30T07:40:32Z",
         "source": "Vanguard News"
       },
       {
-        "title": "Carmaker Stellantis swings back into profit as sales climb",
-        "description": "Global automaker Stellantis -- owner of the Jeep and Fiat brands -- said Thursday it had swung back into profit in the first quarter on rising sales as it fixed manufacturing and operational problems.",
-        "url": "https://www.france24.com/en/live-news/20260430-carmaker-stellantis-swings-back-into-profit-as-sales-climb",
-        "image": "https://s.france24.com/media/display/bfb22174-b5a5-11f0-a606-005056a90284/w:1280/p:16x9/012d3dee4ded4a485b8b5d10e2d6f0569cc9cf3a.jpg",
-        "publishedAt": "2026-04-30T06:43:10Z",
-        "source": "France 24"
+        "title": "Vedanta, HUL, Meesho among buzzing stocks as SENSEX, NIFTY50 decline nearly 1% in noon deals",
+        "description": "Shares of Bajaj Auto climbed over 3% as it announced that its board of directors will consider a buyback proposal on Wednesday, May 6, along with reporting its earnings for the fourth quarter of the 2025-26 financial year (Q4 FY26).",
+        "url": "https://upstox.com/news/market-news/stocks/vedanta-hul-meesho-among-buzzing-stocks-as-sensex-nifty-50-decline-nearly-1-in-noon-deals/article-192984/",
+        "image": "https://assets.upstox.com/content/assets/images/news/buzzing-stocks-april-3-2026.webp",
+        "publishedAt": "2026-04-30T07:38:21Z",
+        "source": "Upstox"
+      },
+      {
+        "title": "Scania introduces Longline cab for series production",
+        "description": "/PRNewswire/ -- Scania takes the next step in its premium cab offering by introducing the Longline cab into regular production flow. Building on a strong...",
+        "url": "https://www.prnewswire.com/news-releases/scania-introduces-longline-cab-for-series-production-302758529.html",
+        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+        "publishedAt": "2026-04-30T07:38:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "How a timing filter could help target cancer and fibrosis",
+        "description": "Researchers have found that cells use a \"low-pass filter\" to ignore short-term physical stress while reacting to sustained forces",
+        "url": "https://www.openaccessgovernment.org/how-a-timing-filter-could-help-target-cancer-and-fibrosis/208877/",
+        "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/04/Low-Res_Figure-1.jpg",
+        "publishedAt": "2026-04-30T07:47:41Z",
+        "source": "Open Access Government"
+      },
+      {
+        "title": "Gravity Rule Tested on Cosmic Scale, Holds Firm",
+        "description": "For more than 300 years, Isaac Newton's simple rule about gravity has held up: the farther apart two objects are, the weaker their pull on each other",
+        "url": "https://www.miragenews.com/gravity-rule-tested-on-cosmic-scale-holds-firm-1665097/",
+        "image": "https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/04/cosmic-background-in-story-a-fullwidth.jpg",
+        "publishedAt": "2026-04-30T07:13:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Intermittent fasting alleviates hyperalgesia in ovariectomized mice via gut microbiota remodeling",
+        "description": "Pain is a common symptom of menopause, yet effective therapeutic options are limited. Intermittent fasting (IF) has emerged as a promising dietary intervention; however, its effects on menopausal pain are still unclear. In this study, we established a hyperalgesia model in mice through ovariectomy (OVX) and subjected them to an alternate-day fasting regimen. IF significantly elevated the pain thresholds for mechanical, hot and cold stimuli in OVX mice and reduced the expression of pain-related molecules, including transient receptor potential vanilloid 1 (TRPV1) and calcitonin gene-related peptide (CGRP) in dorsal root ganglion (DRG). Moreover, IF remodeled the gut microbiota and metabolite profile, marked by a substantial increase in the abundance of Akkermansia muciniphila and its key metabolite, indole-3-propionic acid (IPA). Depletion of the gut microbiota via antibiotic treatment abolished the analgesic effects of IF on OVX-induced hyperalgesia. Conversely, fecal microbiota transplantation from IF-treated donors restored microbial composition and alleviated hyperalgesia in OVX recipients. Administration of A. muciniphila increased IPA levels and alleviated hyperalgesia in OVX mice. Importantly, exogenous IPA supplementation not only alleviated hyperalgesia but also reduced the excitability of DRG neurons. Together, these findings demonstrate that IF mitigates estrogen deficiency-related hyperalgesia through remodeling gut microbiota and metabolite profile, and identify IPA as a potential therapeutic target, offering new perspectives for the clinical management of menopausal pain.",
+        "url": "https://www.nature.com/articles/s41522-026-00990-0?error=cookies_not_supported&code=a7dc5fc2-8986-47b7-aee7-9b92f081cfe5",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-30T07:03:45Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Asymmetric division sustains stem cell heterogeneity in the Drosophila testicular niche",
+        "description": "The stem cell niche provides a specialized microenvironment that supports stem cell self-renewal. Spatial constraints within the niche limit the number of resident stem cells, leading to competition for niche occupancy. Such competition can result in neutral drift, where one stem cell clone gradually dominates the pool. Theoretically, a high rate of asymmetric division is expected to mitigate this competition and preserve clonal heterogeneity, but its quantitative impact on clonal dynamics within an in vivo niche has not been defined. In this study, we use the Drosophila male germline stem cell (GSC) niche as a model to investigate how division modes, symmetric versus asymmetric divisions, shape dynamics of stem cell clones. Through a combination of lineage tracing and mathematical modeling, we show that stem cells compete via neutral competition, and an increased frequency of asymmetric division markedly delays clonal expansion, thereby maintaining stem cell diversity over time. We further found that under conditions of non-neutral competition, stem cells can actively change their rate of asymmetric division in response to variations in niche occupancy. These findings highlight the essential role of asymmetric division in preserving stem cell heterogeneity. This principle may extend across diverse stem cell systems. Mathematical modeling of the Drosophila testis stem-cell niche reveals how asymmetric division of stem cells delays clonal expansion and preserves stem cell heterogeneity.",
+        "url": "https://www.nature.com/articles/s42003-026-10079-1?error=cookies_not_supported&code=2a6007bd-4f46-41ea-ba60-80495d1474bd",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-04-30T07:03:35Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Indian scientist builds mini-brain in 3D chip that could change AI, neuroscience",
+        "description": "An Indian-origin researcher has led the development of a 3D platform where living neurons interact with embedded electronics. The study offers a new way to observe learning, memory and future bio-electronic computing.",
+        "url": "https://www.indiatoday.in/science/story/indian-scientist-builds-mini-brain-in-3d-chip-that-could-change-ai-neuroscience-2903643-2026-04-30",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/3d-chip-mini-brain-305606175-16x9_0.jpg?VersionId=XuqeJXljD14RKWt8hRyYJMnKEoU.RQIp",
+        "publishedAt": "2026-04-30T06:59:27Z",
+        "source": "India Today"
+      },
       {
         "title": "US venture NISAR shows Mexico City sinking at alarming pace",
         "description": "Washington, April 30 (SocialNews.XYZ) A joint United States–India satellite mission has captured fresh evidence of rapid land subsidence in Mexico City, with parts of the metropolitan region sinking by several centimetres per month, according to... - Social News XYZ",
@@ -158,112 +198,72 @@
         "image": "https://news.ssbcrack.com/wp-content/uploads/2026/04/Researchers-Visualize-Immune-Synapse-of-Cytotoxic-T-Cells-in-Three.webp.webp",
         "publishedAt": "2026-04-30T05:57:43Z",
         "source": "SSBCrack"
-      },
-      {
-        "title": "Iron-rich rock preserved an ancient rainforest in stunning detail",
-        "description": "A fossil site in Australia shows iron can preserve soft tissues, changing how scientists search for ancient ecosystems.",
-        "url": "https://www.earth.com/news/iron-rich-rock-preserved-an-ancient-rainforest-in-stunning-detail/",
-        "image": "https://cff2.earth.com/uploads/2026/04/28150610/iron-rich-rock-fossil-preservation-australia.jpg",
-        "publishedAt": "2026-04-30T05:37:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Chandra X-rays Crack the Case of JWST's Little Red Dots",
-        "description": "An X-ray signal detected by NASA’s Chandra X-ray Observatory has lined up exactly with one of the James Webb Space Telescope’s most puzzling discoveries — the so-called ‘little red dots’ scattered across the early universe — giving astronomers their strongest evidence yet that these objects are massive gas clouds hiding growing supermassive black holes inside […]",
-        "url": "https://spacedaily.com/sd-n-chandra-x-rays-crack-the-case-of-jwsts-little-red-dots/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/04/chandra-x-rays-crack-the-case-of-jwst-s-.jpg",
-        "publishedAt": "2026-04-30T05:36:55Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Hidden Parasite Found in Popular Portuguese Lake Raises Health Concerns",
-        "description": "A newly detected parasite in Portugal hints at an emerging and little-understood risk in freshwater ecosystems.",
-        "url": "https://scitechdaily.com/hidden-parasite-found-in-popular-portuguese-lake-raises-health-concerns/",
-        "image": "https://scitechdaily.com/images/Scientist-River-Water-Sample-Stream-Research.jpg",
-        "publishedAt": "2026-04-30T05:02:57Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Did I see a meteor flying out of Chris Mason’s head?",
-        "description": "Your ‘inexplicable’ mysteries explained...",
-        "url": "https://www.telegraph.co.uk/news/2026/04/30/did-i-see-a-meteor-flying-out-of-chris-masons-head/",
-        "image": "https://www.telegraph.co.uk/content/dam/news/2026/04/29/TELEMMGLPICT000481596547_17774669896380_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-04-30T05:00:00Z",
-        "source": "The Telegraph"
-      },
-      {
-        "title": "This NASA tool is going viral for turning your name into stunning satellite art - you have to try it",
-        "description": "Trending News: There is a new online trend that people are slowly picking up, and it is getting attention for a very simple reason. It feels personal and different a.",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/this-nasa-tool-is-going-viral-for-turning-your-name-into-stunning-satellite-art-you-have-to-try-it/articleshow/130622525.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130622513,width-1280,height-720,imgsize-134784,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-30T05:00:00Z",
-        "source": "The Times of India"
       }
     ],
     "ai": [
       {
-        "title": "SRM University Launches AI-Integrated M.Sc. Economics and Psychology Programmes",
-        "description": "SRM University-AP, Amaravati, has introduced M.Sc. Economics and Psychology programmes incorporating Artificial Intelligence. The courses focus on interdisciplinary learning, hands-on training, and AI integration, preparing students to tackle real-world challenges. Scholarships up to 100% are available, ensuring access for high-achievers.",
-        "url": "https://www.devdiscourse.com/article/business/3891633-srm-university-launches-ai-integrated-msc-economics-and-psychology-programmes",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/30_04_2026_12_18_09_9365256.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-04-30T06:48:16Z",
-        "source": "Devdiscourse"
+        "title": "OpenAI says India is the biggest market for ChatGPT Images 2.0 model: Here are the top trends",
+        "description": "OpenAI has said that India has emerged as the largest market for ChatGPT's Images 2.0 model and is popular among young users for self-expression and creativity",
+        "url": "https://www.livemint.com/technology/tech-news/openai-says-india-is-the-biggest-market-for-chatgpt-images-2-0-model-here-are-the-top-trends-11777533306936.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/ChatGPT_Images_2_1777535224674_1777535224849.png",
+        "publishedAt": "2026-04-30T07:49:27Z",
+        "source": "Livemint"
       },
       {
-        "title": "Can ABB Continue to Climb?",
-        "description": "From a stockmarket purgatory in the early 2000s to the pinnacle of the AI infrastructure era: ABB is charting one of the most spectacular turnarounds in the industrial landscape. Yet, behind this...",
-        "url": "https://www.marketscreener.com/news/can-abb-continue-to-climb-ce7f58dbdb8ef626",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_3843390_800.png",
-        "publishedAt": "2026-04-30T06:46:58Z",
-        "source": "MarketScreener"
+        "title": "Is your AI companion a gold digger? 5 signs to spot romance scam bots to avoid emotional manipulation",
+        "description": "AI companionship platforms are growing in popularity and with that, so does a darker trend: scammers exploiting emotional vulnerability through fake A.",
+        "url": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/is-your-ai-companion-a-gold-digger-5-signs-to-spot-romance-scam-bots-to-avoid-emotional-manipulation/articleshow/130623155.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130627195,width-1280,height-720,imgsize-50330,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-30T07:46:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Exclusive: Prices of Nvidia's B300 server at $1 million in China on US curbs, sources say",
-        "description": "Strong demand for AI computing equipment in China has nearly doubled prices for Nvidia's B300 ​servers to about 7 million yuan ($1 million) each, industry sources said, as a crackdown on chip smuggling dries up ‌black-market supply.",
-        "url": "https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/",
-        "image": "https://www.reuters.com/resizer/v2/XBAPYI3SK5K3DMHFCYG3TDZNXQ.jpg?auth=bf132e1f6ea7b6d5117ed5a8341ee260f1c7a0a454268f09b7c570b0e373abe9&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-04-30T06:45:37Z",
-        "source": "Reuters"
+        "title": "AI reimagines Akshay Kumar in Saudi Arabian, British, Russian and more global looks; fans love his South Korean version",
+        "description": "AI artist Souvik reimagined Akshay Kumar in various global avatars, showcasing traditional attire from countries like Nepal, Mongolia, Saudi Arabia, and more. | Fashion Trends",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/ai-reimagines-akshay-kumar-in-saudi-arabian-british-nepali-and-more-global-looks-fans-love-his-south-korean-look-101777531595890.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/30/550x309/akshay_kumar_ai_video_1777533982048_1777533989719.jpg",
+        "publishedAt": "2026-04-30T07:44:44Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Integrated M.Sc. Economics and M.Sc. Psychology Programmes",
-        "description": "Amaravati (Andhra Pradesh) [India], April 30: The Easwari School of Liberal Arts (ESLA) at SRM University-AP, Amaravati, has launched its M.Sc. Economics and M.Sc. Psychology programmes, both rebuilt for the age of Artificial Intelligence (AI). Designed for a technology-driven world, these postgraduate programmes equip students with advanced analytical, research, and applied skills through a strong emphasis on interdisciplinary learning, hands-on training, and AI integration. Scholarships and fee concessions of up to 100% are available for eligible candidates, ensuring accessibility for high-achieving students.",
-        "url": "https://www.tribuneindia.com/news/business/srm-ap-introduces-ai-integrated-m-sc-economics-and-m-sc-psychology-programmes/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM2MWYwZGIwLTQ0NjAtMTFmMS1hNTZjLWQxNmZjYmFkYzdlMi5qcGc=",
-        "publishedAt": "2026-04-30T06:45:36Z",
+        "title": "Google Photos Deploys AI To Bring Iconic 'Clueless' Wardrobe To Life",
+        "description": "It will be available on Android, followed by iOS.",
+        "url": "https://www.ndtvprofit.com/technology/artificial-intelligence-google-photos-deploys-ai-to-bring-iconic-clueless-wardrobe-to-life-11429766",
+        "image": "https://c.ndtvimg.com/2026-04/e2pqm9m8_ceo_625x300_30_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-04-30T07:44:43Z",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "White House pushes back on wider rollout of Anthropic’s Mythos AI over security fears",
+        "description": "The White House has pushed back against expanding access to Mythos, citing national security and computing constraints, according to a The Wall Street Journal report. The move highlights growing tensions between innovation and safety as powerful AI tools capable of cyberattacks come under tighter scrutiny.",
+        "url": "https://www.firstpost.com/tech/white-house-pushes-back-on-wider-rollout-of-anthropics-mythos-ai-over-security-fears-14006063.html",
+        "image": "https://images.firstpost.com/uploads/2026/03/2026-03-11T223216Z_2_LYNXMPEM2A1IL_RTROPTP_4_PENTAGON-ANTHROPIC-EXEMPTION-2026-03-c2a4d1d4949480b3648ad88cadaf5f3e-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-30T07:42:22Z",
+        "source": "Firstpost"
+      },
+      {
+        "title": "OnePlus Pad 4 Launch: Snapdragon 8 Elite Gen 5, 144Hz Display, And 80W SUPERVOOC Charging-Check Specs And Price",
+        "description": "OnePlus has launched the OnePlus Pad 4 in India at a starting price of Rs 59,999. The device is powered by Snapdragon 8 Elite Gen 5 chipset and features AI features.",
+        "url": "https://www.newsx.com/tech-and-auto/oneplus-pad-4-launch-snapdragon-8-elite-gen-5-144hz-display-and-80w-supervooc-chargingcheck-specs-and-price-207682/",
+        "image": "https://www.newsx.com/wp-content/uploads/2026/04/oneplus-pad-4-1.jpg",
+        "publishedAt": "2026-04-30T07:42:09Z",
+        "source": "NewsX"
+      },
+      {
+        "title": "Samsung Electronics Posts Fivefold Jump In Q1 Profit On Strong AI Chip Demand",
+        "description": "Samsung Electronics reported a fivefold jump in Q1 net profit to 47.22 trillion won, driven by strong demand for AI-focused memory chips and rising prices. Operating profit and sales also surged sharply. The firm expects continued growth amid global AI investments but faces a potential worker strike that could disrupt production.",
+        "url": "https://www.freepressjournal.in/tech/samsung-electronics-posts-fivefold-jump-in-q1-profit-on-strong-ai-chip-demand",
+        "image": "https://media.assettype.com/freepressjournal/2026-04-30/b9svprav/Untitled-design-2026-04-30T131031.794.jpg",
+        "publishedAt": "2026-04-30T07:41:09Z",
+        "source": "Free Press Journal"
+      },
+      {
+        "title": "AI, aesthetics drive India's smartphone market, consumers willing to pay more for preferred choices: Report",
+        "description": "Personal expression is becoming a primary driver in the Indian smartphone market, as 64 per cent of consumers prefer colourful devices, and users expressed a willingness to pay an additional 5 per cent for preferred colour and material choices.",
+        "url": "https://www.tribuneindia.com/news/business/ai-aesthetics-drive-indias-smartphone-market-consumers-willing-to-pay-more-for-preferred-choices-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUxOWZjMmUwLTQ0NjctMTFmMS1hNTZjLWQxNmZjYmFkYzdlMi5qcGc=",
+        "publishedAt": "2026-04-30T07:40:30Z",
         "source": "The Tribune"
-      },
-      {
-        "title": "Musk takes stand on Day 2 of trial",
-        "description": "OAKLAND, Calif. -- Elon Musk took the stand for the second day Wednesday in the landmark trial that pits the world's richest person against Sam Altman, a fellow OpenAI co-founder he accuses of betraying promises to keep the company as a nonprofit dedicated to humanity's benefit.",
-        "url": "https://www.arkansasonline.com/news/2026/apr/30/musk-takes-stand-on-day-2-of-trial/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212760601_212759748-170f623e56e54197bfb28e06ce328476_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-        "publishedAt": "2026-04-30T06:45:00Z",
-        "source": "Arkansas Online"
-      },
-      {
-        "title": "Elon Musk vs Sam Altman: Tesla Founder Accused Of Poaching OpenAI Researchers, Withholding Funding, & Seeking Majority Control",
-        "description": "Elon Musk faced intense cross-examination in the OpenAI trial, with lawyers presenting emails showing his push for control in 2017 and efforts to recruit staff to Tesla. Musk defended his actions, saying he offered opportunities freely. The case centres on his claim that OpenAI abandoned its nonprofit mission.",
-        "url": "https://www.freepressjournal.in/tech/elon-musk-vs-sam-altman-tesla-founder-accused-of-poaching-openai-researchers-withholding-funding-seeking-majority-control",
-        "image": "https://media.assettype.com/freepressjournal/2024-12-01/bw27eflk/PE-Ratio-91.jpg",
-        "publishedAt": "2026-04-30T06:43:11Z",
-        "source": "Free Press Journal"
-      },
-      {
-        "title": "‘The Storm Is Coming, Nothing Can Stop It..’: Donald Trump Issues Cryptic Warning After Iran Fails to Sign Ceasefire Deal",
-        "description": "Amid deadlocked US-Iran talks, Donald Trump posted an AI-generated image with a warning message on Truth Social. The move follows sharp criticism of Iran’s negotiation stance. Iranian officials have also warned of a new weapon, raising tensions further as both sides remain at odds over nuclear discussions.",
-        "url": "https://www.freepressjournal.in/world/the-storm-is-coming-nothing-can-stop-it-donald-trump-issues-cryptic-warning-after-iran-fails-to-sign-ceasefire-deal",
-        "image": "https://media.assettype.com/freepressjournal/2026-04-30/881fim0h/Swarna-2026-04-30T121628.857.jpg",
-        "publishedAt": "2026-04-30T06:41:49Z",
-        "source": "Free Press Journal"
-      },
-      {
-        "title": "Leading the AI Wave: E&R Brings Next-Gen Laser and Plasma Tech to SEMICON SEA 2026",
-        "description": "/PRNewswire/ -- E&R Engineering (8027.TW) will showcase advanced laser and plasma solutions at SEMICON Southeast Asia 2026 next week. Targeting critical...",
-        "url": "https://www.prnewswire.co.uk/news-releases/leading-the-ai-wave-er-brings-next-gen-laser-and-plasma-tech-to-semicon-sea-2026-302758460.html",
-        "image": "https://mma.prnewswire.com/media/2969926/image.jpg?p=facebook",
-        "publishedAt": "2026-04-30T06:41:00Z",
-        "source": "PR Newswire UK"
       }
     ]
   }
