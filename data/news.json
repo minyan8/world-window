@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-01T12:39:21.312Z",
+  "fetchedAt": "2026-05-01T13:52:42.623Z",
   "sections": {
     "world": [
       {
-        "title": "Iranian economic collapse may come too late for Trump",
-        "description": "If U.S. President ​Donald Trump expects Iran to blink first in their game of economic chicken, he may be waiting a while.",
-        "url": "https://www.japantimes.co.jp/news/2026/05/01/world/politics/iran-economic-collapse-trump/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/01/538138.jpg?v=3.1",
-        "publishedAt": "2026-05-01T00:37:00Z",
-        "source": "The Japan Times"
+        "title": "Trump signals possible Iran escalation as tensions ripple across Middle East",
+        "description": "On May 1, as the conflict entered its third month after a ceasefire, US President Donald Trump signalled possible renewed action on Iran.",
+        "url": "https://www.siasat.com/trump-signals-possible-iran-escalation-as-tensions-ripple-across-middle-east-3463043/",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2026/04/US-Iran-war-April-22.jpg",
+        "publishedAt": "2026-05-01T01:47:00Z",
+        "source": "The Siasat Daily"
       },
       {
-        "title": "Trump administration says its war in Iran has been 'terminated' before 60-day deadline",
-        "description": "WASHINGTON (AP) — The Trump administration is arguing that the war in Iran has already ended because of the ceasefire that began in early April, an interpretation that would allow the White House to avoid the need to seek congressional approval. The statement furthers an argument laid out by Defense Secretary Pete Hegseth during testimony […]",
-        "url": "https://toronto.citynews.ca/2026/04/30/trump-administration-says-its-war-in-iran-has-been-terminated-before-60-day-deadline/",
-        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/04/a1afdb879bd3731be386eadb3bac29c470cdea27f051664b290a43c174f45025.jpg",
-        "publishedAt": "2026-05-01T00:36:00Z",
-        "source": "CityNews Toronto"
+        "title": "King says quick goodbye to Trump, heads to Appalachian mountains",
+        "description": "After popping back to the White House, Charles and Camilla headed out to small-town rural Virginia at the end of their state visit.",
+        "url": "https://www.smh.com.au/world/north-america/king-says-quick-goodbye-to-trump-heads-to-appalachian-mountains-20260501-p5zssw.html",
+        "image": "https://static.ffx.io/images/$zoom_0.36202111111111107%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_539%2C$y_395/t_crop_custom/q_86%2Cf_auto/cf57e327d9613ccfd46bd6792ce91e7f32b6327d",
+        "publishedAt": "2026-05-01T01:46:18Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Chinese envoy warns Canada against sending MPs to Taiwan or warships through Taiwan Strait",
-        "description": "Wang Di says he’s optimistic about the direction of the relationship between Beijing and Ottawa, but laid down expectations for how Canada should deal with Taiwan",
-        "url": "https://www.theglobeandmail.com/politics/article-chinese-envoy-warns-canada-mps-taiwan-warships/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/U54HXSXPYFC6XOGDUOUL2H5LLA.JPG?auth=79089b736990197b1c898e259ca7b80152580dff4de9dc5174bfdea142033c3e&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-05-01T00:34:33Z",
-        "source": "The Globe and Mail"
+        "title": "Video shows moment shooter tried to storm White House dinner, officials say",
+        "description": "Footage posted on social media by federal prosecutors includes captions claiming Cole Tomas Allen shot first",
+        "url": "https://www.theguardian.com/us-news/2026/apr/30/video-white-house-dinner-shooting",
+        "image": "https://i.guim.co.uk/img/media/e7ffa2c60f44c860a56191c47c8ccf2853700a96/0_0_2601_2082/master/2601.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90b977e8474e9e2af4070117fade18bc",
+        "publishedAt": "2026-05-01T01:46:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "NZ to join US in bid to reopen Strait of Hormuz",
-        "description": "RNZ Midday Report, Lauren Crimp of RNZ The United States has invited New Zealand to join forces with a number of other countries to reopen the...",
-        "url": "https://www.odt.co.nz/news/national/nz-join-us-bid-reopen-strait-hormuz-rnz",
-        "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/05/winston_peters_serious_getty.jpg?itok=ifOGYNP-",
-        "publishedAt": "2026-05-01T00:29:49Z",
-        "source": "Otago Daily Times"
-      },
-      {
-        "title": "Video released of correspondents' dinner shooting",
-        "description": "US Attorney for the District of Columbia Jeanine Pirro has released a new video of the suspect in...",
-        "url": "https://www.canberratimes.com.au/story/9237181/video-released-of-correspondents-dinner-shooting/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/64c1da9e-cb7a-4a22-8400-749896df9865.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-05-01T00:26:17Z",
-        "source": "The Canberra Times"
-      },
-      {
-        "title": "US Court Rejects Trump Administration's Halt On Immigration Applications",
-        "description": "A federal judge on Thursday ruled that policies that make it harder for people from countries on President Donald Trump's travel ban list to get green cards and work permits are discriminatory and unlawful.",
-        "url": "https://www.ndtv.com/world-news/us-court-rejects-trump-administrations-halt-on-immigration-applications-11433852",
-        "image": "https://c.ndtvimg.com/2026-05/f9er041_us-immigration_625x300_01_May_26.jpeg",
-        "publishedAt": "2026-05-01T00:25:04Z",
+        "title": "Trump Administration Says War 'Terminated' Before 60-day Deadline",
+        "description": "US Israel Iran War Ceasefire News LIVE Updates:",
+        "url": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935",
+        "image": "https://c.ndtvimg.com/2026-04/fqc39ob_donald-trump-iran-afp_625x300_11_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-05-01T01:44:17Z",
         "source": "NDTV"
       },
       {
-        "title": "Trump lifts UK whiskey tariffs after King Charles III White House visi",
-        "description": "Donald Trump lifts US tariffs on UK whiskey after King Charles III visit, boosting Scotland and Kentucky trade and highlighting US UK alliance ties",
-        "url": "https://www.news18.com/world/trump-removes-scotch-whisky-tariffs-after-king-charles-iiis-state-visit-ws-bl-10066961.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/05/Untitled-design-2026-05-01T054600.322-2026-05-91f18783ac095a61914f333fbff3b730-1200x675.jpg",
-        "publishedAt": "2026-05-01T00:23:28Z",
-        "source": "News18"
+        "title": "'US Not At War With Iran': Team Trump's Big Claim As 60-Day Clock Stops Today",
+        "description": "US Secretary of Defence Pete Hegseth also told lawmakers that he believes the ceasefire with Iran \"pauses\" a 60-day clock on congressional authorisation for war.",
+        "url": "https://www.ndtv.com/world-news/iran-us-war-news-us-not-at-war-with-iran-team-trumps-big-claim-as-60-day-clock-stop-today-11433947",
+        "image": "https://c.ndtvimg.com/2026-04/v96t0etk_trump_625x300_30_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-05-01T01:42:55Z",
+        "source": "NDTV"
       },
       {
-        "title": "EU Commission criticizes slow progress in fishing sustainability amid ongoing challenges for EU fishers",
-        "description": "EU and global regulatory and policy monitoring, fact-checking, legal documents, policy positions, business, finance, digital transformation, security, sustainability.",
-        "url": "https://ieu-monitoring.com/editorial/eu-commission-criticizes-slow-progress-in-fishing-sustainability-amid-ongoing-challenges-for-eu-fishers/1141892?utm_source=ieu-portal",
-        "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
-        "publishedAt": "2026-05-01T00:21:41Z",
-        "source": "INSIGHT EU MONITORING"
+        "title": "Tiong says Malaysia’s tourist arrivals continue to grow despite Middle East conflict",
+        "description": "KUALA LUMPUR, May 1 — Tourism, Arts and Culture Minister Datuk Seri Tiong King Sing said tourist arrivals in...",
+        "url": "https://malaysia.news.yahoo.com/tiong-says-malaysia-tourist-arrivals-014021498.html",
+        "image": "https://s.yimg.com/os/en/mmail.com.my/4a57618ce06777ceb361220bf092ef9b",
+        "publishedAt": "2026-05-01T01:40:00Z",
+        "source": "Yahoo News Malaysia"
+      },
+      {
+        "title": "Google celebrates Labour Day with vibrant Doodle, honours contribution of workers worldwide who ‘shape modern workplace’",
+        "description": "Google's doodle for International Labour Day highlights the importance of all workers, celebrating their contributions to society. Each letter symbolizes different professions, emphasizing diversity and collective effort.",
+        "url": "https://www.livemint.com/news/trends/google-celebrates-labour-day-with-vibrant-doodle-honours-contribution-of-workers-worldwide-who-shape-modern-workplace-11777596122774.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/lll_1777596119052_1777596119327.jpeg",
+        "publishedAt": "2026-05-01T01:31:03Z",
+        "source": "Mint"
+      },
+      {
+        "title": "Press freedom at lowest level in 25 years amid growing authoritarian pressure",
+        "description": "World Press Freedom Index, which assessed 180 countries, finds established journalism is ‘being asphyxiated’",
+        "url": "https://www.theguardian.com/media/2026/apr/30/press-freedom-world-index-lowest-level-25-years",
+        "image": "https://i.guim.co.uk/img/media/9476035622ae238a550e866b0fbf4ba876b6773c/92_0_3288_2630/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a5d3a6674d903728962f039c14d38b1",
+        "publishedAt": "2026-05-01T01:30:00Z",
+        "source": "The Guardian"
       }
     ],
     "business": [
       {
-        "title": "Roblox Corporation (RBLX) Q1 2026 Earnings Call Transcript",
-        "description": "Roblox Corporation (RBLX) Q1 2026 Earnings Call April 30, 2026 4:30 PM EDTCompany ParticipantsJaime Morris - Head of Investor RelationsDavid Baszucki -...",
-        "url": "https://seekingalpha.com/article/4897071-roblox-corporation-rblx-q1-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-01T00:31:32Z",
-        "source": "Seeking Alpha"
+        "title": "Netgear (NTGR) Q1 Loss Widens To US$13 Million Challenging Profitability Narratives",
+        "description": "NETGEAR (NTGR) has opened 2026 with Q1 revenue of US$158.8 million and a basic EPS loss of US$0.47, setting a cautious tone for investors tracking its profitability. Over the past year, the company has seen quarterly revenue move between US$162.1 million in Q1 2025 and US$184.6 million in Q3 2025, while basic EPS has ranged from a loss of US$0.02 in Q4 2025 to a loss of US$0.47 in the latest quarter. This keeps the focus squarely on whether margins can stabilize from here. With Q1 results...",
+        "url": "https://simplywall.st/stocks/us/tech/nasdaq-ntgr/netgear/news/netgear-ntgr-q1-loss-widens-to-us13-million-challenging-prof",
+        "image": "https://images.simplywall.st/asset/industry/8111000-choice2-main-header/1585186811567",
+        "publishedAt": "2026-05-01T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "How selling off Canada’s airports could build tens of billions of dollars of public transit",
-        "description": "The federal government should tap into potential investment funds by leveraging its 23 airports",
-        "url": "https://www.theglobeandmail.com/business/commentary/article-airports-privatize-public-transit-pearson/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/XF6K366AWNCUDGD3JYJFZ5XMTU.JPG?auth=6fc1cb9dad47bd8f394ba14bedc73d300cd66a5720954b3a2e6eb0f3a47cddc4&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-05-01T00:24:26Z",
-        "source": "The Globe and Mail"
+        "title": "InterDigital (IDCC) Net Margin Near 49% Reinforces Bullish Profitability Narratives",
+        "description": "InterDigital (IDCC) has put fresh numbers on the board for Q1 2026, with recent quarterly revenue figures ranging from US$128.7 million to US$300.6 million over the past year and basic EPS between US$1.67 and US$6.97 across the last four reported quarters. Over that same stretch, investors have seen quarterly net income move between US$34.2 million and US$180.6 million, setting up this latest update against a backdrop of consistently sizeable revenue and EPS prints. With net profit margins...",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-idcc/interdigital/news/interdigital-idcc-net-margin-near-49-reinforces-bullish-prof-1",
+        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
+        "publishedAt": "2026-05-01T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "4 Things You Missed From Musk V. Altman Trial This Week",
-        "description": "Elon Musk faced another day of cross-examination. Jared Birchall, Musk's wealth manager, was the next witness called in the blockbuster OpenAI trial.",
-        "url": "https://www.businessinsider.com/takeaways-elon-musk-sam-altman-openai-federal-trial-2026-4",
-        "image": "https://i.insider.com/69f3e2659a23d20d291b540e?width=1200&format=jpeg",
-        "publishedAt": "2026-05-01T00:24:18Z",
-        "source": "Business Insider"
+        "title": "Hubbell (HUBB) Margin Expansion To 15.2% Tests Valuation Concerns Ahead Of Q1 2026",
+        "description": "Hubbell (HUBB) opened Q1 2026 earnings season with Q4 2025 revenue of US$1.49b and basic EPS of US$4.21, setting the stage after a year where trailing twelve month EPS reached US$16.65 on revenue of US$5.84b and earnings grew 13.9% year over year. Over the last five reported quarters, revenue has moved from US$1.33b in Q4 2024 to US$1.49b in Q4 2025, while quarterly basic EPS ranged between US$3.04 and US$4.80. This gives investors a clearer view of how higher net profit margins have flowed...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-hubb/hubbell/news/hubbell-hubb-margin-expansion-to-152-tests-valuation-concern",
+        "image": "https://images.simplywall.st/asset/industry/3051000-choice2-main-header/1585186647175",
+        "publishedAt": "2026-05-01T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "ResMed Inc. (RMD) Q3 2026 Earnings Call Transcript",
-        "description": "ResMed Inc. (RMD) Q3 2026 Earnings Call April 30, 2026 4:30 PM EDTCompany ParticipantsSallilyn Schwartz - Chief Investor Relations OfficerMichael Farrell -...",
-        "url": "https://seekingalpha.com/article/4897087-resmed-inc-rmd-q3-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-01T00:21:35Z",
-        "source": "Seeking Alpha"
+        "title": "AeroVironment Halo_Shield Launch Tests Valuation For High Growth Expectations",
+        "description": "AeroVironment (NasdaqGS:AVAV) has introduced Halo_Shield, a modular counter unmanned aircraft system with a scalable, tile based architecture.\nThe system is designed to protect against evolving drone and missile threats across air, land, sea, and space domains.\nThe launch follows a recent demonstration of the LOCUST Laser Weapon System aboard a U.S. Navy aircraft carrier, confirming cross platform directed energy defense capabilities.\nAeroVironment focuses on unmanned systems and related...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-avav/aerovironment/news/aerovironment-haloshield-launch-tests-valuation-for-high-gro",
+        "image": "https://images.simplywall.st/asset/industry/3021000-choice2-main-header/1585186565541",
+        "publishedAt": "2026-05-01T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "ANZ NZ’s profit flat at $1.3b in half year; bank ups provisions for bad debts",
-        "description": "ANZ New Zealand (ANZ) has reported a flat profit in the six months to March, and is preparing to potentially absorb more losses from borrowers struggling to...",
-        "url": "https://www.nzherald.co.nz/business/companies/banking-finance/anz-nzs-profit-flat-at-13b-in-half-year-bank-ups-provisions-for-bad-debts/LJUV4GHBONGDDGDHGODJ6NSV3I/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/TQP52APIQG4FMAAVBY6NZL4FPA.jpg?auth=845e00044ffbe4ed00d1260df73a28a24abf0a579ca08cee1dd30f81759dbb04&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-05-01T00:20:06Z",
-        "source": "NZ Herald"
+        "title": "iShares’ AI ETF Returned 91% Last Year. Can It Do It Again in 2026?",
+        "description": "BlackRock is the unquestionable 800-lb. Gorilla of the asset management universe. At $14 trillion AUM, BlackRock’s total assets are greater than the combined GDP of Russia, Japan, UK and Germany, and roughly 67% of the entire GDP of China. As one might expect, BlackRock casts its shadow far and wide across the entire spectrum of ... iShares’ AI ETF Returned 91% Last Year. Can It Do It Again in 2026?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-ai-etf-returned-91-014710065.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/p3I3RLSa9j9vCk7O5AKbUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/24_7_wall_st__718/aaf58e08d0e46d1f3c66d7130268a846",
+        "publishedAt": "2026-05-01T01:47:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Oodie creator Davie Fogarty splashes $5m on spectacular Gold Coast mansion",
-        "description": "Davie Fogarty built a $600 million empire keeping people warm, then spent $5m to never be cold again.",
-        "url": "https://www.realestate.com.au/news/oodie-creator-davie-fogarty-splashes-5m-on-spectacular-gold-coast-mansion/",
-        "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/05/capi_e9a82dfbcad242baecc2a579883efc19_2af8e5812fab51514b810b017710d841.jpeg",
-        "publishedAt": "2026-05-01T00:19:07Z",
-        "source": "realestate.com.au"
+        "title": "AOQUN Showcases Patented Industrial Brush Solutions at 139th Canton Fair, Positioning Chinese Manufacturing in Global High-End Supply Chains",
+        "description": "GUANGZHOU, China, April 30, 2026 (GLOBE NEWSWIRE) -- **media[1038135]**",
+        "url": "https://www.manilatimes.net/2026/05/01/tmt-newswire/globenewswire/aoqun-showcases-patented-industrial-brush-solutions-at-139th-canton-fair-positioning-chinese-manufacturing-in-global-high-end-supply-chains/2333532",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/01/1038130.png",
+        "publishedAt": "2026-05-01T01:45:13Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Pokémon drop, early morning Best Buy arrest likely a 'coincidence'",
-        "description": "A man in his 40s was arrested inside a Best Buy after security guards saw him roaming the store on surveillance cameras well after midnight.",
-        "url": "https://www.usatoday.com/story/news/nation/2026/04/30/pokemon-drop-early-morning-best-buy-arrest-likely-coincidence/89881229007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/30/USAT/89882395007-20170301-t-120000-z-1371536041-rc-132-d-21-a-000-rtrmadp-3-bestbuyresults.JPG?crop=3499,1969,x0,y42&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-05-01T00:14:00Z",
+        "title": "Apparently crime in Melbourne is so bad people are fleeing to Queensland. Have fun up there",
+        "description": "Veteran entertainment reporter Peter Ford this week fled to the Gold Coast because he said crime in Melbourne has gotten so bad. I have some news for you, Pete.",
+        "url": "https://www.theage.com.au/national/maybe-i-m-both-too-old-and-too-young-to-get-queensland-but-even-the-stats-show-melbourne-is-the-place-to-be-20260501-p5zsu2.html",
+        "image": "https://static.ffx.io/images/$zoom_0.6195%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_69%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/22ff36779228bb0f87cd19976dda1401ee01e78c",
+        "publishedAt": "2026-05-01T01:45:00Z",
+        "source": "The Age"
+      },
+      {
+        "title": "Got a bookworm at home? Pizza Hut's giving out freebies",
+        "description": "Pizza Hut will once again be treating voracious readers this summer. Here's everything we know about this summer's BOOK IT! program session.",
+        "url": "https://www.usatoday.com/story/money/food/2026/04/30/pizza-hut-summer-reading-program-2026/89879434007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/07/14/USAT/85195929007-ph-25096-wdc-2-ppp-tues-bg-prvw-1.jpg?crop=2172,1221,x0,y902&width=2172&height=1221&format=pjpg&auto=webp",
+        "publishedAt": "2026-05-01T01:36:00Z",
         "source": "USA Today"
-      },
-      {
-        "title": "Centerra Gold Inc. (CG:CA) Q1 2026 Earnings Call Transcript",
-        "description": "Centerra Gold Inc. (CG:CA) Q1 2026 Earnings Call April 30, 2026 9:00 AM EDTCompany ParticipantsLisa Wilkinson - Vice President of Investor Relations &...",
-        "url": "https://seekingalpha.com/article/4897131-centerra-gold-inc-cg-ca-q1-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-01T00:11:41Z",
-        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Israeli-German CloudCT satellite to launch in June and map clouds for climate researc",
+        "description": "The 4-kilogram CloudCT satellite, built through an international project involving the Weizmann Institute, Technion and Germany’s Center for Telematics, will test AI-based cloud tomography technology ahead of a planned 10-satellite constellation",
+        "url": "https://www.ynetnews.com/environment/article/hyhy9d11azg",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/30/SyOFf00gCWe/SyOFf00gCWe_1_283_1875_1056_0_large.jpg",
+        "publishedAt": "2026-05-01T01:14:39Z",
+        "source": "ynetnews"
+      },
+      {
+        "title": "Nanoscience at the interface of medicine and materials: A special issue of ACS Applied Nano Materials marking the founding of Science Tokyo",
+        "description": "Why are medicine and materials converging now? Cancer treatment, artificial joints, regenerative medicine, and fuel cells may seem to belong to very",
+        "url": "https://www.nationaltribune.com.au/nanoscience-at-the-interface-of-medicine-and-materials-a-special-issue-of-acs-applied-nano-materials-marking-the-founding-of-science-tokyo/",
+        "image": "https://www.isct.ac.jp/cms/contents/data/1/3793/component/file/954afcbe00dcac303695d81117bd8309.webp",
+        "publishedAt": "2026-05-01T01:07:28Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "Evolvable AI: are we on the brink of the next major evolutionary transition?",
+        "description": "The future of artificial intelligence might not be as much a story about engineering as a story about evolution.",
+        "url": "https://www.unsw.edu.au/newsroom/news/2026/05/evolvable-ai-are-we-on-the-brink-of-the-next-major-evolutionary-transition",
+        "image": "https://www.unsw.edu.au/content/dam/images/unsw-wide/general/news/2026/2026-02-stock/pexels-aquintanar-2726724.cropimg.width=700.crop=landscape.jpg",
+        "publishedAt": "2026-05-01T01:07:06Z",
+        "source": "UNSW Sydney"
+      },
+      {
+        "title": "Streptomyces produce a diphtheria toxin-like exotoxin that targets insects",
+        "description": "Streptomyces and insects engage in complex interactions shaped by millions of years of evolution. While many beneficial relationships are well recognized, it remains unknown whether Streptomyces produce virulence factors targeting insects specifically. Here, through bioinformatic analysis, we identified diphtheria toxin (DT) homologues, which we named Streptomyces antiquus insecticidal proteins (SAIP), within a monophyletic lineage of Streptomyces that emerged more than 100 million years ago. SAIP is cytotoxic to insect cells and lethal to Drosophila melanogaster, suppressing neuronal activity and immune responses in vivo. Structural and functional studies validated that SAIP is homologous to DT and acts by ADP ribosylation of eukaryotic elongation factor 2. CRISPR–Cas9 screening identified the insect protein Flower as the SAIP receptor across a range of insects. Toxigenic Streptomyces can consume dead insects and produce bioactive secondary metabolites while growing on insect carcasses. These findings establish an insecticidal toxin in Streptomyces and demonstrate that Streptomyces have evolved highly specific virulence factors against insects. Bioinformatic, structural and functional analyses characterize Streptomyces antiquus insecticidal protein (SAIP) as a diphtheria toxin homologue that is lethal to insect cells and targets the Flower protein as a receptor",
+        "url": "https://www.nature.com/articles/s41564-026-02315-5?error=cookies_not_supported&code=9459f310-d384-4880-95c9-e2713f3ceeb7",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-026-02315-5/MediaObjects/41564_2026_2315_Fig1_HTML.png",
+        "publishedAt": "2026-05-01T00:56:29Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Weird olfaction: Scientists sniff out 'long lost' map for smell",
+        "description": "It has been much harder to navigate the complex landscape of the nose, with its enormous array of scent receptors.",
+        "url": "https://www.dtnext.in/edit/weird-olfaction-scientists-sniff-out-long-lost-map-for-smell",
+        "image": "https://gumlet-images.assettype.com/dt-next%2F2026-04-30%2Fngpudhfo%2FUntitled-design-12.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-01T00:45:00Z",
+        "source": "DT Next"
+      },
       {
         "title": "Jupiter Earths Bodyguard? The Truth is Complicated",
         "description": "Is Jupiter protecting Earth? Follow Bhaskar English Updates. Many scientists believe Jupiter helps protect Earth but not all the time. The real story is more surprising.",
@@ -144,126 +184,86 @@
         "source": "Bhaskar English"
       },
       {
+        "title": "Digital Health Interventions for Family Members of ICU Patients: Current Evidence and Future Directions",
+        "description": "A recent systematic review and meta-analysis of randomized trials evaluating digital health interventions for family members of intensive care unit (ICU) patients found no significant improvements in anxiety, depression, posttraumatic stress, quality of life, or communication quality. Rather than concluding that digital approaches are inherently ineffective, we argue that these null findings reflect identifiable and remediable limitations in intervention design, outcome measurement, and trial methodology. In this commentary, we examine four structural barriers that currently constrain the evidence base and outline the conditions that next-generation trials must meet to adequately address the questions raised by this review.",
+        "url": "https://www.jmir.org/2026/1/e95876",
+        "image": "https://asset.jmir.pub/assets/69a70f411dc9178f7798097c15746e32.png",
+        "publishedAt": "2026-05-01T00:23:26Z",
+        "source": "Journal of Medical Internet Research"
+      },
+      {
         "title": "Twisting water reveals hidden order across four molecular layers at air-water interface",
         "description": "Researchers from the Department of Physical Chemistry at the Fritz Haber Institute and Freie Universität Berlin have revealed the arrangement of water molecules at the interface between liquid water and air. Their findings help to better understand interfacial chemistry, which is largely determined by the specific arrangement of the water molecules. Published in Science Advances, the study shows that one parameter in particular—one that has been neglected until now—is of fundamental importance: the water twist.",
         "url": "https://phys.org/news/2026-04-reveals-hidden-molecular-layers-air.html",
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/twisting-water-study-s.jpg",
         "publishedAt": "2026-04-30T23:40:04Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "Blocking energy metabolism may help treat an aggressive pediatric brain tumor",
-        "description": "Blocking energy production pathways in an aggressive type of brain cancer in children could be a promising new therapeutic strategy, according to research in mice by Johns Hopkins Kimmel Cancer Center investigators. The paper is published in the journal Acta Neuropathologica Communications.",
-        "url": "https://medicalxpress.com/news/2026-04-blocking-energy-metabolism-aggressive-pediatric.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-cancer.jpg",
-        "publishedAt": "2026-04-30T23:40:01Z",
-        "source": "Medical Xpress"
-      },
-      {
-        "title": "Continuously graded-doped SnO2 for efficient n-i-p perovskite solar cells",
-        "description": "Conventional n–i–p architecture remains a robust platform for scalable perovskite photovoltaics1,2, yet its steady-state efficiency has stagnated at ~26% (ref.3), lagging behind p–i–n counterparts4. This performance gap arises from persistent non-radiative recombination at textured electron transport layer (ETL)/perovskite interfaces, yet the underlying physical origin remains unclear. Here, we uncover that these losses originate from the synergistic combination of band misalignment and electron accumulation at the buried interface. To address this dual challenge, we develop a continuously graded n+/n-doped SnO2 ETL through a ligand-competitive binding strategy, which enables spatially defined doping that creates a built-in electric field. This graded architecture simultaneously minimizes band offset and accelerates electron extraction, thereby effectively suppressing the cross-interface recombination. The resulting n–i–p perovskite solar cells (PSCs) achieve a certified steady-state power conversion efficiency (PCE) of 27.17% (27.50% in reverse scan), the highest for n–i–p PSCs reported to date. The scalability of this strategy is further demonstrated by achieving a PCE of 25.79% for a 1 cm2 device and 23.33% for a perovskite module with a 16.02 cm2 aperture area. This work establishes a generalized paradigm for energy-band engineering in metal-oxide transport layers, overcoming a fundamental efficiency bottleneck in conventional perovskite photovoltaics.",
-        "url": "https://www.nature.com/articles/s41586-026-10587-4?error=cookies_not_supported&code=8787e59f-a957-4896-b9c5-d19e4f016540",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-30T23:26:28Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Researchers discover a new way to control light in empty space",
-        "description": "A new study shows light can generate chirality in empty space, without special materials or tight focusing.",
-        "url": "https://www.thebrighterside.news/post/researchers-discover-a-new-way-to-control-light-in-empty-space/",
-        "image": "https://www.thebrighterside.news/uploads/2026/04/light-control.png?auto=webp",
-        "publishedAt": "2026-04-30T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "Synergistic action of peptidoglycan and teichoic acid synthesis inhibitors leads to cell death by oxidative damage",
-        "description": "Peptidoglycan (PG) is the primary structural component of the bacterial cell wall. However, many bacteria can switch into a wall-deficient “L-form” state, whereby they grow without PG synthesis and become completely resistant to cell-wall-targeting antibiotics. Teichoic acids (TAs) are major glycopolymers of Gram-positive bacteria that are attached to either the PG wall (WTA) or the lipid membrane (LTA). We show that L-form growth does not require either WTA or LTA. However, it does require the TagO protein, which initiates the synthesis of WTA. Inhibiting TagO with the antibiotic tunicamycin triggers a metabolic shift resulting in oxidative damage-mediated cell death, and this is highly synergistic with perturbations of the PG synthetic system. UDP-GlcNAc, a key precursor for both PG and TA synthesis, controls a metabolic switch leading either to balanced growth or oxidative damage. Our results demonstrate the pivotal role of UDP-GlcNAc in the mechanism of killing by cell wall inhibition. Synergistic action of tunicamycin, an inhibitor of wall teichoic acid synthesis, in cell wall-free L-form bacteria sheds light on the role of cell wall precursors in triggering metabolic perturbations, oxidative damage and lethal toxicity.",
-        "url": "https://www.nature.com/articles/s42003-026-10124-z?error=cookies_not_supported&code=a938fde3-f750-4fb5-be56-03cdef8871cb",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-04-30T23:02:39Z",
-        "source": "Nature"
-      },
-      {
-        "title": "FAU study reveals how camels ‘beat the heat’ at the cellular level",
-        "description": "Researchers have developed a new way to understand how cells survive heat stress by tracking how genes shift under changing temperatures. Studying skin fibroblasts from humans and heat-adapted one-humped camels, they created models of gene interactions using small datasets by measuring the magnitude of gene changes rather than simple on/off responses. Findings reveal that camels exhibit stronger cellular resilience than humans, offering new insight into heat adaptation and a powerful tool for studying environmental stress biology and ecological responses to environmental change.",
-        "url": "https://www.eurekalert.org/news-releases/1126401",
-        "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/2f393994-c01d-45ff-a3e9-e5edf68e3d7f/Rendition/thumbnail/Content/Public",
-        "publishedAt": "2026-04-30T22:57:06Z",
-        "source": "EurekAlert!"
-      },
-      {
-        "title": "The DAMPE Satellite Sheds Light On The Origin Of Cosmic Rays",
-        "description": "A century after their discovery, cosmic rays—particles of extreme energy originating from the far reaches of the universe—remain a mystery",
-        "url": "https://www.eurasiareview.com/01052026-the-dampe-satellite-sheds-light-on-the-origin-of-cosmic-rays/",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/05/a-1.jpg",
-        "publishedAt": "2026-04-30T22:32:37Z",
-        "source": "Eurasia Review"
       }
     ],
     "ai": [
       {
-        "title": "Best of Both Sides",
-        "description": "Regulation and oversight are of little use if they are always playing a chasing game. AI companies have turned regulation into the last line of redress when it should have been the first line of defence.",
-        "url": "https://indianexpress.com/article/opinion/columns/best-both-sides-imessage-claude-mythos-late-regulation-ai-slowing-down-10664748/",
-        "image": "https://images.indianexpress.com/2026/04/oped-illustraion-AI-tech.jpg",
-        "publishedAt": "2026-05-01T00:34:10Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Windows 11 KB5083631 update released with major explorer.exe reliability upgrades, AI agent support, Xbox mode, and more",
-        "description": "Windows 11's optional non-security preview update for April 2026 has finally been released, and includes a number of quality of life improvements and changes that are now rolling out.",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-kb5083631-update-released-with-major-explorer-exe-reliability-upgrades-ai-agent-support-and-more",
-        "image": "https://cdn.mos.cms.futurecdn.net/L7En7oPkPf85C68UrpvAGj-1376-80.jpg",
-        "publishedAt": "2026-05-01T00:31:48Z",
-        "source": "Windows Central"
-      },
-      {
-        "title": "smart entry level in new hiring playbook",
-        "description": "India's top IT companies are changing how they hire. They are bringing in more fresh graduates and giving them AI tools. Middle managers are being reduced. This move aims to control costs and improve efficiency. Companies are focusing on productivity growth. Revenue per employee is increasing. This strategy is shaping the future of the IT sector.",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/it-cuts-mid-tier-expands-ai-smart-entry-level-in-new-hiring-playbook/articleshow/130646733.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-695326,resizemode-75,msid-130646733/tech/information-tech/it-cuts-mid-tier-expands-ai-smart-entry-level-in-new-hiring-playbook.jpg",
-        "publishedAt": "2026-05-01T00:30:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Mphasis Q4 net profit rises 14% to Rs 510 crore",
-        "description": "Mphasis has taken the spotlight with stellar financial results for the fourth quarter of fiscal year 2026, celebrating a solid 14.1 percent boost in net profit year-on-year. The company’s revenue also saw a healthy climb, up 14.4 percent over the same period. This impressive growth is largely attributed to innovative contracts won through their AI-driven initiatives.",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-q4-net-profit-rises-14-to-rs-510-crore/articleshow/130646550.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-277516,resizemode-75,msid-130646550/tech/information-tech/mphasis-q4-net-profit-rises-14-to-rs-510-crore.jpg",
-        "publishedAt": "2026-05-01T00:30:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Is AI a mere cover to lay off staff?",
-        "description": "Here, the corporate ‘earnings call’ story outruns the technology. Disclosure norms need to be tightened",
-        "url": "https://www.thehindubusinessline.com/opinion/is-ai-a-mere-cover-to-lay-off-staff/article70925644.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/t47g2a/article70925675.ece/alternates/LANDSCAPE_1200/IMG_iStock-1227153726_2_1_KSEC29NA.jpg",
-        "publishedAt": "2026-05-01T00:30:00Z",
+        "title": "Coforge completes Cigniti acquisition after NCLT approval, boosts US expansion strategy",
+        "description": "Coforge completes Cigniti acquisition after NCLT approval, reports strong client revenue growth and accelerates AI-led global expansion strategy.",
+        "url": "https://www.thehindubusinessline.com/info-tech/coforge-completes-cigniti-acquisition-after-nclt-approval-integration-gains-momentum/article70927329.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/uu02nd/article69865985.ece/alternates/LANDSCAPE_1200/coforge.jpg",
+        "publishedAt": "2026-05-01T01:52:13Z",
         "source": "The Hindu Business Line"
       },
       {
-        "title": "South Korea April exports rise 48.0% y/y, as chip boom continues",
-        "description": "South Korean exports rose for\nan 11th month in April, beating forecasts, as the global\nappetite for artificial intelligence infrastructure boosted\nsemiconductor sales to offset jitters from the Middle...",
-        "url": "https://www.marketscreener.com/news/south-korea-april-exports-rise-48-0-y-y-as-chip-boom-continues-ce7f58d8d08afe21",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-05-01T00:26:17Z",
-        "source": "MarketScreener"
+        "title": "PEs Anxious over Exits from IT Services Bets Amid AI Fears, IPO Slowdown",
+        "description": "Private equity investors in India’s IT services are taking a hard look at their portfolios as IPO markets turn selective and AI disrupts the sector",
+        "url": "https://www.outlookbusiness.com/magazine/pes-anxious-over-exits-from-it-services-bets-amid-ai-fears-ipo-slowdown",
+        "image": "https://media.assettype.com/outlookbusiness/2026-04-28/d4pm2wy7/smartmpmey120260501.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-01T01:47:23Z",
+        "source": "Outlook Business"
       },
       {
-        "title": "4 Things You Missed From Musk V. Altman Trial This Week",
-        "description": "Elon Musk faced another day of cross-examination. Jared Birchall, Musk's wealth manager, was the next witness called in the blockbuster OpenAI trial.",
-        "url": "https://www.businessinsider.com/takeaways-elon-musk-sam-altman-openai-federal-trial-2026-4",
-        "image": "https://i.insider.com/69f3e2659a23d20d291b540e?width=1200&format=jpeg",
-        "publishedAt": "2026-05-01T00:23:51Z",
-        "source": "Business Insider"
+        "title": "Business group calls for cooperation to shield workers from oil crisis, AI shifts",
+        "description": "The Makati Business Club (MBC) called for urgent cooperation between the government, labor sectors and businesses on Friday to protect Filipino workers",
+        "url": "https://manilastandard.net/business/314734240/business-group-calls-for-cooperation-to-shield-workers-from-oil-crisis-ai-shifts.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/11/eton-scaled.jpg",
+        "publishedAt": "2026-05-01T01:47:09Z",
+        "source": "manilastandard.net"
       },
       {
-        "title": "Huawei's AI chip sales surge as Nvidia stalls in China - FT",
-        "description": "Huawei's AI chip sales surge as Nvidia stalls in China - FT\n...",
-        "url": "https://www.marketscreener.com/news/huawei-s-ai-chip-sales-surge-as-nvidia-stalls-in-china-ft-ce7f58d8d08af224",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-05-01T00:20:15Z",
-        "source": "MarketScreener"
+        "title": "South Africa scraps its debut AI policy after it was found written by AI",
+        "description": "South Africa withdrew its draft AI policy after fabricated AI-generated citations were found in the text. The lapse has raised fresh concerns about human oversight and the credibility of AI-assisted policymaking.",
+        "url": "https://www.indiatoday.in/world/story/south-africa-ai-policy-withdrawn-fake-ai-generated-citations-2904049-2026-05-01",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/south-africas-communications-minister-acknowledged-the-flaws-and-announced-the-withdrawal-of-the-po-014401278-16x9_0.jpg?VersionId=KlRRac4MlJK2K4uyiQ0AwUIRWAlIPiSi",
+        "publishedAt": "2026-05-01T01:45:33Z",
+        "source": "India Today"
+      },
+      {
+        "title": "MIT's Priya Donti on How AI can help Boost Renewable Energy, Monitor Environment",
+        "description": "Priya Donti, assistant professor, MIT, and co-founder and chair of the non-profit Climate Change AI, talks to Nabodita Ganguly about how AI can help fight climate change, collect data for climate-tech start-ups and more. Edited excerpts",
+        "url": "https://www.outlookbusiness.com/magazine/mits-priya-donti-on-how-ai-can-help-boost-renewable-energy-monitor-environment",
+        "image": "https://media.assettype.com/outlookbusiness/2026-04-28/lgjd0u1u/PriyaDonti120260501.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-01T01:43:12Z",
+        "source": "Outlook Business"
+      },
+      {
+        "title": "OpenAI Finance Chief Sees ‘Vertical Wall of Demand’ for Products",
+        "description": "OpenAI Chief Financial Officer Sarah Friar, rebutting concerns about missing internal targets, said the company is meeting objectives and sees “a vertical wall of demand” for its products.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-01/openai-finance-chief-sees-vertical-wall-of-demand-for-products",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifpOSElVJdAU/v1/1200x800.jpg",
+        "publishedAt": "2026-05-01T01:41:44Z",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Overcoming the algorithmic gender bias in AI‑driven personal finance",
+        "description": "Artificial intelligence is transforming our world and financial services are no exception. AI is reshaping the personal banking sector, but where does it currently stand on gender parity, transparency, and fairness?",
+        "url": "https://phys.org/news/2026-04-algorithmic-gender-bias-aidriven-personal.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/loan-application.jpg",
+        "publishedAt": "2026-05-01T01:40:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "OpenAI to Launch Codex Mobile App for iPhone as a General Productivity Tool",
+        "description": "OpenAI is reportedly bringing Codex to the iPhone. The new mobile app shifts focus from coding to a general AI productivity tool, acting as a pocket command center.",
+        "url": "https://www.gizchina.com/ai/openai-to-launch-codex-mobile-app-for-iphone-as-a-general-productivity-tool",
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-2026-04-30-223253253-69f402c852edd.png",
+        "publishedAt": "2026-05-01T01:36:00Z",
+        "source": "Gizchina.com"
       }
     ]
   }
