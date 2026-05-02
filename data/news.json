@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-02T15:33:53.496Z",
+  "fetchedAt": "2026-05-02T16:32:27.377Z",
   "sections": {
     "world": [
       {
-        "title": "Twenty stranded in mid-air after carnival ride malfunction in Sydney",
-        "description": "The attraction was operating at a school carnival when it became stuck in an elevated diagonal position four metres above ground.",
-        "url": "https://www.1news.co.nz/2026/05/02/twenty-stranded-in-mid-air-after-carnival-ride-malfunction-in-syndey/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/nash-said-all-20-riders-trapped-were-bought-down-safely-afte-ZRHJ6WHVGNGKTAB6JHINW3634Y.jpg?auth=ae36a55b1f7ab9120452a4e2467a9d8bc24b0969bebba1c9c3751a4b7f33a94e&quality=70&width=600&height=315&focal=728%2C325",
-        "publishedAt": "2026-05-02T03:32:30Z",
-        "source": "1News"
+        "title": "Suspect tried to kill friend before going on to stab two Jewish men in London, court told",
+        "description": "The alleged Golders Green attacker tried to murder his own friend before stabbing two Jewish men in the street, a court has heard.",
+        "url": "https://www.independent.ie/world-news/britain/suspect-tried-to-kill-friend-before-going-on-to-stab-two-jewish-men-in-london-court-told/a551900061.html",
+        "image": "https://focus.independent.ie/thumbor/p2eLJPh_nZeFAZsQOe8vFd6UVxs=/0x100:2952x2068/629x0/prod-mh-ireland/a22d9ee9-be78-438e-9aff-299d57d27739/812f5a0b-f4c3-4a2f-a9f9-aad1875ee5cf/a22d9ee9-be78-438e-9aff-299d57d27739.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "The Irish Independent"
       },
       {
-        "title": "14 Revolutionary Guards members killed after unexploded bombs detonate",
-        "description": "This is the largest number of IRGC members reported to be killed since the United States and Iran agreed to a ceasefire.",
-        "url": "https://www.wionews.com/world/14-revolutionary-guards-members-killed-after-unexploded-bombs-detonate-1777692358340",
-        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260502/image-1777692662270.jpg?imwidth=1200&imheight=900",
-        "publishedAt": "2026-05-02T03:31:00Z",
-        "source": "WION"
+        "title": "Riots erupt in Australia over death of five-year-old girl as locals attack and hospitalise suspect",
+        "description": "Violence broke out in a remote town in northern Australia after police arrested the main suspect in the murder of a five-year-old Indigenous girl.",
+        "url": "https://www.independent.ie/world-news/australasia/riots-erupt-in-australia-over-death-of-five-year-old-girl-as-locals-attack-and-hospitalise-suspect/a1758216521.html",
+        "image": "https://focus.independent.ie/thumbor/FSjWG0dA8NEUmdwkAN46leEDkBY=/629x460/smart/prod-mh-ireland/109a12c8-8455-4c1b-aa5b-3be01b1e5a65/f98033a2-baf6-4f42-8d11-c61d2ba5cf20/ALIA-CRIME%20%287%29.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "The Irish Independent"
       },
       {
-        "title": "Remained isolated for 180 million years: How Madagascar Island became a hotspot for Earth’s unique creatures",
-        "description": "Rest of World News: The biological narrative of Madagascar is a 180-million-year history of isolation and evolutionary divergence. Once a part of the Gondwana supercontin.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/remained-isolated-for-180-million-years-how-madagascar-island-became-a-hotspot-for-earths-unique-creatures/articleshow/130682610.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130682608,width-1280,height-720,imgsize-100352,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-02T03:30:00Z",
+        "title": "Trump expands US sanctions on Cuban government and affiliates",
+        "description": "WASHINGTON: US President Donald Trump signed an executive order on Friday broadening US sanctions against the Cuban government, two White House officials told Reuters, as he seeks to put more pressure on Havana after ousting Venezuela's...",
+        "url": "https://www.geo.tv/latest/662516-trump-expands-us-sanctions-on-cuban-government-and-affiliates",
+        "image": "https://www.geo.tv/assets/uploads/2026-05-02/662516_092645_updates.jpg",
+        "publishedAt": "2026-05-02T04:18:00Z",
+        "source": "Geo News"
+      },
+      {
+        "title": "cost drones are reshaping the battlefield as Israel scrambles to adapt",
+        "description": "International News: Cheap fibre-optic drones deployed by Hezbollah are posing new operational challenges for Israeli troops in southern Lebanon, prompting the military to.",
+        "url": "https://timesofindia.indiatimes.com/defence/international/middle-east-crisis-how-hezbollahs-low-cost-drones-are-reshaping-the-battlefield-as-israel-scrambles-to-adapt/articleshow/130709769.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130709776,width-1280,height-720,imgsize-938818,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-02T04:14:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "US to withdraw about 5,000 troops from Germany",
-        "description": "US Defense Secretary Pete Hegseth has ordered the withdrawal of about 5,000 troops from Germany within the next year, the Pentagon has said, in the latest dispute with a European leader over the Middle East war.",
-        "url": "https://www.rte.ie/news/europe/2026/0502/1571408-us-germany/",
-        "image": "https://www.rte.ie/images/00244ea3-1600.jpg",
-        "publishedAt": "2026-05-02T03:26:10Z",
-        "source": "RTE.ie"
+        "title": "Babar Ali becomes first Bangladeshi to summit Mount Makalu",
+        "description": "The summit, the world’s fifth-highest peak, is often referred to as the 'Great Black One' due to its steep, pyramid-like structure.",
+        "url": "https://www.tbsnews.net/bangladesh/babar-ali-becomes-first-bangladeshi-summit-mount-makalu-1427111",
+        "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/05/02/babar_makalu.jpg",
+        "publishedAt": "2026-05-02T04:10:00Z",
+        "source": "The Business Standard"
       },
       {
-        "title": "Can't let lunatics go nuclear: Trump slams Iran over new proposal",
-        "description": "Donald Trump said the US is at war with Iran to prevent it from acquiring nuclear weapons after rejecting Iran’s peace proposal, keeping both military action and negotiations on the table amid ongoing tensions and global economic strain.",
-        "url": "https://www.indiatoday.in/world/story/donald-trump-defends-iran-war-nuclear-weapon-proposal-lunatics-us-2904594-2026-05-02",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/us-president-donald-trump-021340536-16x9_0.jpg?VersionId=R3SPzBrwEXwAQsmVZkHB617dWS_s5.qA",
-        "publishedAt": "2026-05-02T03:15:01Z",
-        "source": "India Today"
+        "title": "Green Capitalism is for us to define",
+        "description": "Review of Extraction: The Frontiers of Green Capitalism, Thea Riofrancos, W.W. Norton & Company, 2025 The phrase “Green Dominance” appears many times in this…",
+        "url": "https://countercurrents.org/2026/05/green-capitalism-is-for-us-to-define/",
+        "image": "https://cdn.countercurrents.org/2026/05/Extraction-The-Frontiers-of-Green-Capitalism.jpg",
+        "publishedAt": "2026-05-02T04:07:30Z",
+        "source": "Countercurrents"
       },
       {
-        "title": "US approves arms sales of over $8.6 billion for Israel, Qatar, Kuwait and UAE",
-        "description": "$992.4 million okayed for Advanced Precision Kill Weapon Systems for Israel; US said to warn European allies to expect delivery delays for weapons as Iran war drains stockpiles",
-        "url": "https://www.timesofisrael.com/us-approves-arms-sales-of-over-8-6-billion-for-israel-and-other-mideast-allies/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP1660764063114793-e1777679330577.jpg",
-        "publishedAt": "2026-05-02T03:09:42Z",
-        "source": "The Times of Israel"
+        "title": "Spirit Airlines says it’s going out of business after 34 years and is ending operations immediately",
+        "description": "WEST PALM BEACH, Fla. (AP) — Spirit Airlines, an impish upstart that shook the industry with its irreverent ads and deep discount fares, announced Saturday that it has gone out of business after 34 years. The ultralow cost airline that once operated hundreds of daily flights on its bright yellow planes and employed about 17,000 people said […]",
+        "url": "https://toronto.citynews.ca/2026/05/02/spirit-airlines-says-its-going-out-of-business-after-34-years-and-is-ending-operations-immediately/",
+        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/02/spirit-airlines.jpg",
+        "publishedAt": "2026-05-02T04:07:00Z",
+        "source": "CityNews Toronto"
       },
       {
-        "title": "Russian Interference in South Africa’s",
-        "description": "Greg Mills writes on how Moscow has tried to influence South African politics.",
-        "url": "https://www.thecommonsense.co.za/editorials/devil-wears-pravda-russian-interference-south-africa-s",
-        "image": "https://cdn.sanity.io/images/7o9a8q5w/production/04fadc9bb5d2e82f084ddd35e8075ef1f2016273-5523x3682.jpg",
-        "publishedAt": "2026-05-02T03:03:41Z",
-        "source": "The Common Sense"
-      },
-      {
-        "title": "Russian Interference in South Africa’s",
-        "description": "Greg Mills writes on how Moscow has tried to influence South African politics.",
-        "url": "https://www.thecommonsense.co.za/Editorials/devil-wears-pravda-russian-interference-south-africa-s",
-        "image": "https://cdn.sanity.io/images/7o9a8q5w/production/04fadc9bb5d2e82f084ddd35e8075ef1f2016273-5523x3682.jpg",
-        "publishedAt": "2026-05-02T03:03:41Z",
-        "source": "The Common Sense"
+        "title": "Canada spy report drops double bomb: Khalistan threat flagged, India named in interference claims",
+        "description": "Canada’s CSIS report flags Khalistani extremism as a national security threat and names India in foreign interference claims.",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/canada-spy-report-drops-double-bomb-khalistan-threat-flagged-india-named-in-interference-claims-article-13905846.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2021/06/000_1JK2AJ.jpg",
+        "publishedAt": "2026-05-02T04:06:50Z",
+        "source": "Moneycontrol.com"
       }
     ],
     "business": [
       {
-        "title": "Air India to cut international flights till July amid jet fuel price surge, airspace curbs",
-        "description": "Airspace restrictions in the wake of the West Asia conflict have forced the airline to take longer routes for many international destinations, resulting in increased fuel burn",
-        "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-to-cut-international-flights-till-july-amid-jet-fuel-price-surge-airspace-curbs/article70930723.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/kdvrqu/article70916783.ece/alternates/LANDSCAPE_1200/Airlines-may-geG0KFRJQKJ.6.jpg.jpg",
-        "publishedAt": "2026-05-02T03:33:39Z",
-        "source": "BusinessLine"
+        "title": "ISM Manufacturing PMI: Expansion Continues In April",
+        "description": "The ISM manufacturing PMI came in at 52.7 in April, unchanged from March and marking the fastest expansion for the index since August 2022.",
+        "url": "https://seekingalpha.com/article/4897695-ism-manufacturing-pmi-expansion-continues-april",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1156480827/image_1156480827.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-02T04:32:00Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "AI deflation could wipe $10 Billion off Indian IT revenues",
-        "description": "According to Kotak’s estimates, AI deflationary pressure will be around 3-3.5 percent of the revenue of IT companies between FY27 to FY29.",
-        "url": "https://www.moneycontrol.com/artificial-intelligence/ai-deflation-could-wipe-10-billion-off-indian-it-revenues-article-13905820.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260502032608_NL-AI-IT.png",
-        "publishedAt": "2026-05-02T03:31:17Z",
-        "source": "Moneycontrol.com"
+        "title": "Your money questions: Is it better to buy back pension years or should I contribute to an AVC?",
+        "description": "Q I am a public servant who intends to retire at the age of 67. As I’m a late starter to my public service career, I won’t have the full years of service at retirement. Is it better for me to buy back years in a defined benefit scheme rather than make additional voluntary contributions?",
+        "url": "https://www.independent.ie/business/money/your-money-questions-is-it-better-to-buy-back-pension-years-or-should-i-contribute-to-an-avc/a1336536684.html",
+        "image": "https://focus.independent.ie/thumbor/Dp3-fQOvDiMRfTf2hmJB07kWGWY=/629x460/smart/prod-mh-ireland/393aeb52-92ea-46a9-aa9d-76e5aaf49044/64366cee-01f9-4558-992a-b88615b32a84/IB%20retirement.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "The Irish Independent"
       },
       {
-        "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 4 May 2026",
-        "description": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — Reliance, Kotak Mahindra Bank, and Sun Pharma",
-        "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-4-may-2026-11777689508861.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/02/1600x900/logo/Buy_or_sell_Stocks_to_buy_today_Stock_market_today_1777689649907_1777689650024.jpg",
-        "publishedAt": "2026-05-02T03:28:38Z",
-        "source": "Mint"
+        "title": "Derelict Guinness warehouse in Dublin has become Ireland’s biggest start-up campus",
+        "description": "An old Guinness warehouse that was once in ruins in Dublin’s Liberties is now home to 160 start-ups.",
+        "url": "https://www.independent.ie/business/irish/derelict-guinness-warehouse-in-dublin-has-become-irelands-biggest-start-up-campus/a1060566937.html",
+        "image": "https://focus.independent.ie/thumbor/AwYeBtv5XWWMobGxDwS59OhYRM4=/60x0:735x450/629x0/prod-mh-ireland/a89722d6-0a43-4a34-a18b-9a583e1a7694/17f413ca-95b2-4b9d-90e0-fb32282801ad/video/video.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "The Irish Independent"
       },
       {
-        "title": "Wema Bank marks 81st anniversary, ALAT At Nine",
-        "description": "WEMA Bank has marked its 81st anniversary alongside the ninth anniversary of ALAT, its digital banking platform, with plans",
-        "url": "https://guardian.ng/news/wema-bank-marks-81st-anniversary-alat-at-nine/",
-        "image": "https://cdn.guardian.ng/wp-content/uploads/2025/12/Wema-Banks-Hackaholics-6.0-empowers-tech-innovators-in-Akure-Zaria-Ibadan-Lagos-1.webp",
-        "publishedAt": "2026-05-02T03:27:53Z",
-        "source": "The Guardian Nigeria News"
+        "title": "Rs 40 crore retirement fund vs India salaries: Data reveals a harsh mismatch",
+        "description": "India’s Rs 40 crore retirement estimate by Sandeep Jethwani may be mathematically sound, but salary data tells a different story. With most graduates earning modest incomes and job stability still a concern, reports from PLFS, Unstop, and income surveys reveal a widening gap between what Indians earn and what they need to retire.",
+        "url": "https://www.indiatoday.in/jobs/story/rs-40-crore-retirement-fund-vs-india-salaries-harsh-mismatch-2904411-2026-05-02",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rs-40-crore-retirement-fund-vs-india-salaries-data-reveals-a-harsh-mismatch-011508148-16x9_0.png?VersionId=h2hlr3Mbj5GI.xJSpTpQeV2GtcHbfCGR",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "India Today"
       },
       {
-        "title": "Petrol, diesel prices hiked? Check latest fuel rates in Delhi, Mumbai, Bengaluru and other key cities on 2 May",
-        "description": "Crude oil, which was priced at around $70 per barrel last year, has averaged more than $114 per barrel in late April. Will this lead to a petrol price hike in India?",
-        "url": "https://www.livemint.com/news/india/petrol-diesel-prices-hiked-check-latest-fuel-rates-in-delhi-mumbai-bengaluru-and-other-key-cities-on-2-may-11777687822894.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/02/1600x900/logo/PTI03-29-2026-000250B-0_1777689773203_1777689850457.jpg",
-        "publishedAt": "2026-05-02T03:11:54Z",
-        "source": "Mint"
+        "title": "₹8 Lakh Cars You Should Wait For!",
+        "description": "In markets like India, buyers are mainly conscious about price and mileage. Here is the list of cars that you should consider before buying.",
+        "url": "https://motoroctane.com/news/312138-4-upcoming-cars-under-rs-8-lakhs-that-are-worth-thewait",
+        "image": "https://motoroctane.com/wp-content/uploads/2026/04/LOOK-OUT-FOR-THESE-3.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "MotorOctane"
       },
       {
-        "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
-        "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low...",
-        "url": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-05-02T03:06:00Z",
-        "source": "Electrek"
+        "title": "Hikes to electricity, gas and bin charges as costs due to war in Iran start to hit home",
+        "description": "The war in the Middle East is beginning to directly affect household bills in Ireland as an energy supplier and a household waste firm have both increased prices.",
+        "url": "https://www.independent.ie/business/money/hikes-to-electricity-gas-and-bin-charges-as-costs-due-to-war-in-iran-start-to-hit-home/a1890450856.html",
+        "image": "https://focus.independent.ie/thumbor/IyWEit1ZWCTJz3uRW7RKSV7xQXA=/629x460/smart/prod-mh-ireland/a0050ccd-d6e3-4f2e-99e6-b3fc05793105/17034769-a936-4867-b188-b6b82107395c/a0050ccd-d6e3-4f2e-99e6-b3fc05793105.jpg",
+        "publishedAt": "2026-05-02T04:30:00Z",
+        "source": "The Irish Independent"
       },
       {
-        "title": "BYD Atto 3 jumps up a size bracket prior to NZ introduction",
-        "description": "BYD is planning to bring the larger Atto 5 to New Zealand, but it's unsure if or when it will make its journey across the Tasman.",
-        "url": "https://www.drive.com.au/news/byd-atto-5-on-the-way-for-new-zealand-could-be-on-track-for-australia/",
-        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/7dc7c6a3-4be2-50f9-9748-7d00b5f50000",
-        "publishedAt": "2026-05-02T03:05:28Z",
-        "source": "drive.com.au"
+        "title": "Spirit to halt all flights as of early Saturday",
+        "description": "Spirit Airlines is set to announce in the coming hours that that it will halt flying as of 3 am ET Saturday, according to two sources familiar with its plans, making it the first significant US airline to halt operations in nearly 25 years.",
+        "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-04-23t174145z-481493790-rc21vka2ln86-rtrmadp-3-spirit-aviation-bankruptcy.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-02T04:27:12Z",
+        "source": "CNN"
       },
       {
-        "title": "Pentagon signs classified AI deal that Google employees objected to with seven tech companies; Here’s the full list, as War Department says: These strategic partners share…",
-        "description": "Tech News News: The Pentagon on Friday signed agreements with seven leading artificial intelligence companies to run their technology on classified military networks..",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-signs-classified-ai-deal-that-google-employees-objected-to-with-seven-tech-companies-heres-the-full-list-as-war-department-says-these-strategic-partners-share/articleshow/130708959.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130708957,width-1280,height-720,imgsize-115212,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-02T03:04:00Z",
-        "source": "The Times of India"
+        "title": "Spirit to halt all flights as of early Saturday",
+        "description": "Spirit Airlines is set to announce in the coming hours that that it will halt flying as of 3 am ET Saturday, according to two sources familiar with its plans, making it the first significant US airline to halt operations in nearly 25 years.",
+        "url": "https://edition.cnn.com/2026/05/02/business/spirit-to-halt-all-flights",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-04-23t174145z-481493790-rc21vka2ln86-rtrmadp-3-spirit-aviation-bankruptcy.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-02T04:27:12Z",
+        "source": "CNN"
       }
     ],
     "science": [
+      {
+        "title": "Explainer: Why Pluto Lost Planet Status As NASA Chief Urges Reconsideration",
+        "description": "NASA Administrator Jared Isaacman has reignited the two-decade-old debate over Pluto's classification by publicly backing its reinstatement as a full planet, while NASA prepares scientific papers to challenge the International Astronomical Union's 20",
+        "url": "https://www.ndtv.com/science/why-pluto-lost-planet-status-as-nasa-chief-urges-reconsideration-11438221",
+        "image": "https://c.ndtvimg.com/2026-05/edrn2nnc_pluto_625x300_02_May_26.jpeg",
+        "publishedAt": "2026-05-02T04:26:30Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "Moon phase today explained: What the Moon will look like on May 2, 2026",
+        "description": "See the Moon phase expected for May 2, 2026 as well as when the next Full Moon is expected.",
+        "url": "https://mashable.com/article/moon-phase-today-may-2",
+        "image": "https://helios-i.mashable.com/imagery/articles/02VjL9gmeFparkphWtYe9qH/hero-image.fill.size_1200x675.v1777294729.jpg",
+        "publishedAt": "2026-05-02T04:17:06Z",
+        "source": "Mashable"
+      },
+      {
+        "title": "Estel Blay Carreras, the scientist who will lead an Arctic expedition simulating a mission to Mars",
+        "description": "The goal is to recreate the conditions of a future colony on the red planet in the place on Earth that most closely resembles it",
+        "url": "https://english.elpais.com/eps/2026-05-02/estel-blay-carreras-the-scientist-who-will-lead-an-arctic-expedition-simulating-a-mission-to-mars.html",
+        "image": "https://imagenes.elpais.com/resizer/v2/PZQG4RJF7JB4BHDDESPR42HBMA.JPG?auth=b75da4bd299864f995efda3c2fc9378f37842a0a567f140d159fb5d7beec9112&width=1200",
+        "publishedAt": "2026-05-02T04:00:00Z",
+        "source": "EL PAÍS English"
+      },
+      {
+        "title": "Meet Chucarosaurus: The colossal dinosaur so massive its fossils cracked roads; now reshaping the story of the Titanosaurs",
+        "description": "Trending News: Patagonia, a region in southern South America has been extremely influential in revealing information about titanosaur dinosaurs to the world. It has .",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-chucarosaurus-the-colossal-dinosaur-so-massive-its-fossils-cracked-roads-now-reshaping-the-story-of-the-titanosaurs/articleshow/130709434.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130709504,width-1280,height-720,imgsize-32056,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-02T03:46:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
+        "description": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
+        "image": "https://www.sciencedaily.com/images/1920/pikelinia-floydmuraria.webp",
+        "publishedAt": "2026-05-02T03:45:07Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
+        "description": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronomers discovered that an unseen white dwarf star is siphoning material from gamma-Cas, heating it to extreme temperatures and producing powerful X-ray emissions. This breakthrough resolves a puzzle that has baffled scientists since the 1970s and sheds new light on how these unusual stellar pairs form and evolve.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
+        "image": "https://www.sciencedaily.com/images/1920/gamma-cas-and-its-hungry-white-dwarf-companion.webp",
+        "publishedAt": "2026-05-02T03:45:07Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "This laser turns metal into a star-like plasma in trillionths of a second",
+        "description": "In a striking glimpse into extreme physics, scientists have captured the split-second chaos that unfolds when powerful laser flashes blast matter into a superheated plasma. By combining two cutting-edge lasers, researchers were able to track how copper atoms lose and regain electrons in trillionths of a second, creating and dissolving highly charged ions in a rapid, almost cinematic sequence.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260501052854.htm",
+        "image": "https://www.sciencedaily.com/images/1920/xfel-photon-energy-hot-plasma.webp",
+        "publishedAt": "2026-05-02T03:45:07Z",
+        "source": "ScienceDaily"
+      },
       {
         "title": "Christina Koch Makes History as First Woman to Travel Around the Moon",
         "description": "The astronaut completed a groundbreaking out-of-this-world journey.",
@@ -142,128 +198,72 @@
         "image": "https://www.goodnet.org/photos/620x0/45555_hd.jpg",
         "publishedAt": "2026-05-02T03:31:58Z",
         "source": "Goodnet | Gateway to doing good"
-      },
-      {
-        "title": "Scientists discover a hidden brain “cleaning” effect triggered by movement",
-        "description": "Scientists have uncovered a surprising link between simple body movement and brain health: every time you tighten your abdominal muscles—even slightly—your brain may gently sway inside your skull. This subtle motion, triggered by pressure changes in connected blood vessels, appears to help circulate cerebrospinal fluid around the brain, potentially flushing out harmful waste.",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260501052832.htm",
-        "image": "https://www.sciencedaily.com/images/1920/vein-network-mechanism.webp",
-        "publishedAt": "2026-05-02T03:05:59Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "A rare comet is dazzling NZ skies - here's how Kiwis can spot it",
-        "description": "Comet C/2025 R3 PanSTARRS was currently visible from New Zealand and was expected to remain in view for around another week before fading.",
-        "url": "https://www.1news.co.nz/2026/05/02/a-rare-comet-is-dazzling-nz-skies-heres-how-kiwis-can-spot-it/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/comet-c2025-r3-seen-from-wellington-433VNJEXDVHIFH7PTWUHNO6QW4.jpg?auth=e6f48bcb13b999b6e33b3380fbf27ff020565f45d62812ab379ce8b90e3e71bd&quality=70&width=600&height=315&focal=1496%2C1028",
-        "publishedAt": "2026-05-02T02:35:46Z",
-        "source": "1News"
-      },
-      {
-        "title": "Top Comments: How Did Birds Survive the Meteor Collision that Killed the Dinosaurs?",
-        "description": "At this point, most people are familiar with how, 66 million years ago, a meteor fell to Earth in the vicinity of the Yucatan Peninsula setting off a cataclysm…",
-        "url": "https://www.dailykos.com/stories/2026/5/1/800031764/community/top-comments-how-did-birds-survive-the-meteor-colli/",
-        "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/05/download-5.jpg",
-        "publishedAt": "2026-05-02T02:15:00Z",
-        "source": "Daily Kos"
-      },
-      {
-        "title": "Universe Packed With Super-Earths",
-        "description": "Super-Earths most common planets changing planet formation ideas. Follow Bhaskar English Updates. Super-Earths are among the most common planets in our galaxy, and they are changing how scientists think about how planets form—and where life might exist beyond Earth.",
-        "url": "https://www.bhaskarenglish.in/tech-science/news/universe-super-earths-special-planet-discovery-2026-137831811.html",
-        "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/05/01/comp-11-3_1777644187.gif",
-        "publishedAt": "2026-05-02T00:36:00Z",
-        "source": "Bhaskar English"
-      },
-      {
-        "title": "New dinosaur exhibit showcases fossils, models, at The Exploration Place",
-        "description": "PRINCE GEORGE - A new travelling exhibit is on display at The Exploration Place: Dinosaurs of BC.\"It's a fanta...",
-        "url": "https://ckpgtoday.ca/2026/05/01/new-dinosaur-exhibit-showcases-fossils-models-at-the-exploration-place/",
-        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2312/files/2026/05/84129770-74ca-43c0-b823-e8c2936bf7ce-1200x675.jpg",
-        "publishedAt": "2026-05-01T23:38:00Z",
-        "source": "CKPG Today"
-      },
-      {
-        "title": "Tectonic plates 1,800 miles down are warping Earth from the inside",
-        "description": "Ancient tectonic plates continue to reshape the Earth's interior and reveal a deep connection to its global dynamics",
-        "url": "https://www.earth.com/news/tectonic-plates-buried-1800-miles-down-are-warping-earth-from-the-inside/",
-        "image": "https://cff2.earth.com/uploads/2026/04/29095835/deep-mantle-tectonic-plates-deformation-earth.jpg",
-        "publishedAt": "2026-05-01T23:15:00Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "NASA Unveils 2.5-Billion-Year-Old Structure Hidden In One Of Earth’s Largest Igneous Formations",
-        "description": "NASA imagery brings into focus a vast 2.5-billion-year-old structure in Zimbabwe, rich in rare minerals and geological history.",
-        "url": "https://indiandefencereview.com/nasa-unveils-2-5-billion-year-structure/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/05/nasa-unveils-25-billion-year-old-structure-hidden-in-one-of-earths-largest-igneous-formations-scaled.png",
-        "publishedAt": "2026-05-01T22:55:00Z",
-        "source": "Indian Defence Review"
       }
     ],
     "ai": [
       {
-        "title": "Caitlin Clark sends 3-word response mocking Indiana Fever’s PR nightmare following AI-assisted post",
-        "description": "NBA News: Caitlin Clark gives a hilarious 3-word response mocking the Indiana Fever’s PR nightmare following an AI-assisted post that turned a routine team upda.",
-        "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/caitlin-clark-sends-3-word-response-mocking-indiana-fevers-pr-nightmare-following-ai-assisted-post/articleshow/130709373.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130709379,width-1280,height-720,imgsize-27104,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-02T03:31:00Z",
-        "source": "Times of India"
+        "title": "New YouTube AI tool tackles deepfake face theft",
+        "description": "YouTube has activated its Likeness Detection Tool, a new system designed to help users identify and report AI-generated deepfake videos that misuse their faces without consent, as the platform steps up efforts to curb synthetic media abuse.",
+        "url": "https://www.bangkokpost.com/life/tech/3248350/new-youtube-ai-tool-tackles-deepfake-face-theft",
+        "image": "https://static.bangkokpost.com/media/content/20260502/c2_3248350.jpg",
+        "publishedAt": "2026-05-02T04:28:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "Japan’s Takaichi to hold talks in Vietnam on economic security, critical minerals",
-        "description": "Both sides are expected to discuss cooperation in areas such as energy and artificial intelligence.",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3352202/japans-takaichi-hold-talks-vietnam-economic-security-critical-minerals",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/02/2bf51db9-02b9-4bcc-9063-6026e6b2fbaa_d91e2b12.jpg?itok=E9X6yoJe&v=1777692242",
-        "publishedAt": "2026-05-02T03:24:10Z",
-        "source": "South China Morning Post"
+        "title": "Caitlin Clark Pushes Indiana Fever To Take Down AI-Created Social Media Blunder",
+        "description": "Caitlin Clark flags a detail in a Fever post, bringing unexpected attention to the team’s latest social media move.",
+        "url": "https://www.essentiallysports.com/wnba-basketball-news-caitlin-clark-pushes-indiana-fever-to-take-down-ai-created-social-media-blunder/",
+        "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1058537257-e1777694168270.jpg",
+        "publishedAt": "2026-05-02T04:17:28Z",
+        "source": "Essentially Sports"
       },
       {
-        "title": "Pentagon signs classified AI deal that Google employees objected to with seven tech companies; Here’s the full list, as War Department says: These strategic partners share…",
-        "description": "Tech News News: The Pentagon on Friday signed agreements with seven leading artificial intelligence companies to run their technology on classified military networks..",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-signs-classified-ai-deal-that-google-employees-objected-to-with-seven-tech-companies-heres-the-full-list-as-war-department-says-these-strategic-partners-share/articleshow/130708959.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130708957,width-1280,height-720,imgsize-115212,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-02T03:04:00Z",
-        "source": "Times of India"
+        "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
+        "description": "The US military has agreed to deals with seven big tech firms as it expands its artificial intelligence capabilities.",
+        "url": "https://www.perthnow.com.au/news/politics/pentagon-inks-ai-deals-with-tech-firms-snubs-anthropic-c-22224892",
+        "image": "https://images.perthnow.com.au/publication/C-22224892/0406df27beaf56a47d89e8d7f8d5c91a2dbbe4d1-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-05-02T04:16:45Z",
+        "source": "PerthNow"
       },
       {
-        "title": "AI capex boom strains hyperscalers' cash flow as DRAM makers gain pricing power, says Jefferies",
-        "description": "The AI infrastructure spending spree by US hyperscalers is showing signs of strain, with capital expenditure now consuming nearly all of their operating cash flow, even as Dynamic Random Access Memory (DRAM) suppliers emerge as the key beneficiaries with unprecedented pricing power, global brokerage firm, Jefferies, said in a report.",
-        "url": "https://www.tribuneindia.com/news/business/ai-capex-boom-strains-hyperscalers-cash-flow-as-dram-makers-gain-pricing-power-says-jefferies/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1MjJiYzYwLTQ1ZDItMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
-        "publishedAt": "2026-05-02T02:55:30Z",
-        "source": "The Tribune"
+        "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
+        "description": "The US military has agreed to deals with seven big tech firms as it expands its artificial intelligence...",
+        "url": "https://www.canberratimes.com.au/story/9237900/pentagon-inks-ai-deals-with-tech-firms-snubs-anthropic/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/04b52c8c-e149-48bb-90b5-0b8111262d42.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-05-02T04:15:22Z",
+        "source": "The Canberra Times"
       },
       {
-        "title": "Meta acquires robotics company Assured Robot Intelligence to help build humanoid technology",
-        "description": "Meta has acquired Assured Robot Intelligence, a startup specialising in AI models for robots, to bolster its humanoid technology initiative. The acquired team will join Meta Superintelligence Labs, contributing expertise in robot control and self-learning for whole-body humanoid applications.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-acquires-robotics-company-assured-robot-intelligence-to-help-build-humanoid-technology/articleshow/130708991.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-30086,resizemode-75,msid-130708991/tech/artificial-intelligence/meta-acquires-robotics-company-assured-robot-intelligence-to-help-build-humanoid-technology.jpg",
-        "publishedAt": "2026-05-02T02:48:01Z",
-        "source": "The Economic Times"
+        "title": "Microsoft, Amazon hand Pentagon more control over AI systems",
+        "description": "The deals provide the Pentagon with wide leeway to potentially use powerful advanced AI technologies for secret combat operations, such as assisting with targeting.",
+        "url": "https://www.bostonglobe.com/2026/05/02/nation/microsoft-amazon-hand-pentagon-control-over-ai-systems/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PS5ME4JTLZKJUZWL7ZUSR6IVXU.jpg?auth=ef4d6345c0a3a81fffe45c986dd93a20f827b518076bbeea8cf0df9d8886c564&width=1440",
+        "publishedAt": "2026-05-02T04:14:47Z",
+        "source": "The Boston Globe"
       },
       {
-        "title": "Investors are running out of time to brace for true oil shock",
-        "description": "In thrall to an AI boom ⁠that has sent stocks to record highs and harboring hopes of a short-lived Iran war, investors have yet to prepare for a doubling of physical oil prices.",
-        "url": "https://www.japantimes.co.jp/business/2026/05/02/markets/investors-oil-shock-analysis/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538400.jpg?v=3.1",
-        "publishedAt": "2026-05-02T02:38:54Z",
-        "source": "The Japan Times "
+        "title": "From layoffs to leadership shake ups: How AI reshaped tech in April 2026",
+        "description": "In the span of 30 days, the sector saw thousands of layoffs, rising concerns over powerful AI systems, leadership overhaul, and more",
+        "url": "https://www.businesstoday.in/technology/story/from-layoffs-to-leadership-shake-ups-how-ai-reshaped-tech-in-april-2026-528524-2026-05-02",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/69f5793937c08-april-2026-tech-recap-021027845-16x9.png",
+        "publishedAt": "2026-05-02T04:13:04Z",
+        "source": "Business Today"
       },
       {
-        "title": "Elon Musk grilled over his AI profits",
-        "description": "International Business News: Elon Musk sparred with lawyers for a third day Thursday at his California trial against OpenAI, struggling to explain why his own for-profit AI empire.",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musk-grilled-over-his-ai-profits/articleshow/130708837.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130708851,width-1280,height-720,imgsize-28062,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-02T02:30:00Z",
-        "source": "Times of India"
+        "title": "Building trades unions emerge as a key ally of tech giants in push for AI data centers",
+        "description": "HARRISBURG, Pa. (AP) — Building trades unions — long fashioned as the voice of the American worker — are now intertwined with the richest companies in the world…",
+        "url": "https://wtop.com/national/2026/05/building-trades-unions-emerge-as-a-key-ally-of-tech-giants-in-push-for-ai-data-centers/",
+        "image": "https://wtop.com/wp-content/uploads/2026/05/Labor_Unions_Data_Centers_753_4.jpg",
+        "publishedAt": "2026-05-02T04:11:44Z",
+        "source": "WTOP"
       },
       {
-        "title": "Who is Shivon Zilis, a Punjabi, mother to Elon Musk's four kids and key witness in OpenAI trial?",
-        "description": "In the ongoing high-stakes battle between Elon Musk and Sam Altman over OpenAI, the name of Shivon Zilis was mentioned within minutes the trial opened in a US court. But who is Zilis, who also happens to have Punjabi connection.",
-        "url": "https://www.indiatoday.in/technology/news/story/who-is-shivon-zilis-a-punjabi-mother-to-elon-musks-four-kids-and-key-witness-in-openai-trial-2904436-2026-05-02",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/shivon-zilis-and-elon-musk-014359170-16x9.jpg?VersionId=WZOfYC91zxA52z76p4_8UxP.B8F.OxFk",
-        "publishedAt": "2026-05-02T02:30:00Z",
-        "source": "India Today"
+        "title": "Building trades unions join forces with tech giants in AI data center push",
+        "description": "Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America’s artificial intelligence economy.",
+        "url": "https://apnews.com/article/artificial-intelligence-technology-labor-unions-data-centers-64b10b2f993743dc0c73d273248574cf",
+        "image": "https://dims.apnews.com/dims4/default/e9c5b36/2147483647/strip/true/crop/1913x1275+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F22%2F4f0ccc3b3590960273df725be2e5%2F8cd564f1743145afbb32884d568a384b",
+        "publishedAt": "2026-05-02T04:06:25Z",
+        "source": "The Associated Press"
       }
     ]
   }
