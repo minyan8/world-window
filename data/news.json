@@ -1,140 +1,156 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-03T11:31:54.104Z",
+  "fetchedAt": "2026-05-03T12:35:36.842Z",
   "sections": {
     "world": [
       {
-        "title": "Trump says US could restart Iran strikes 'if they misbehave'",
-        "description": "Trump also said that he could not imagine Iran's proposals would be acceptable and that Tehran had not paid a big enough price for what it had done.",
-        "url": "https://www.channelnewsasia.com/world/trump-us-strikes-iran-hormuz-restart-6096491",
-        "image": "https://dam.mediacorp.sg/image/upload/s--0uYog0ye--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-02T224107Z_2_LYNXMPEM410HF_RTROPTP_3_USA-TRUMP.JPG?itok=F8ROZcYw",
-        "publishedAt": "2026-05-02T23:21:00Z",
-        "source": "CNA"
+        "title": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+        "description": "The comments came one day after Mr. Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
+        "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-says-he-is-reviewing-irans-latest-offer-but-doubts-it-is-acceptable.html",
+        "image": "https://static01.nyt.com/images/2026/05/03/multimedia/03trump-news-iran-talks-update-fzkv/03trump-news-iran-talks-update-fzkv-facebookJumbo.jpg",
+        "publishedAt": "2026-05-03T00:33:19Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Germany's defense minister responds to US troop drawdown plan",
-        "description": "President Donald Trump said the U.S. is going to significantly reduce its troop presence in Germany, escalating a dispute with Germany’s leader Friedrich Merz as he seeks to scale back America’s commitment to European security.",
-        "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-        "image": "https://dims.apnews.com/dims4/default/ac4014d/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F9c%2F45051f35aa1e14fa98b66be3236a%2Ff471c3c114994fa4b6522737cde09356",
-        "publishedAt": "2026-05-02T23:20:00Z",
-        "source": "AP News"
+        "title": "Nigerian refugee returnees more than double in Q1 2026",
+        "description": "The number of Nigerian refugee returnees rose by 1,805 in Q1 2026, while IDPs surged by over 166,000, according to new UNHCR data on displacement.",
+        "url": "https://punchng.com/nigerian-refugee-returnees-rise-by-1800/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/08/22005429/United-Nations-UN-1200x630.jpg",
+        "publishedAt": "2026-05-03T00:28:56Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "The Iran war has strengthened Ukraine. Could a ceasefire with Russia be closer?",
-        "description": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjp7vpee03o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e40e/live/8c9eb970-4626-11f1-ac78-2112837ce2aa.jpg",
-        "publishedAt": "2026-05-02T23:19:27Z",
-        "source": "BBC"
+        "title": "The weight of words:",
+        "description": "In com­mem­o­ra­tion of World Press Free­dom Day, we hear from a vet­er­an jour­nal­ist and broad­cast­er on her ca­reer and how she’s re­mained stand­ing de­spite the many tests and pres­sures.",
+        "url": "https://www.guardian.co.tt/article/the-weight-of-words-6.2.2576277.12720db224",
+        "image": "https://www.guardian.co.tt/neo/1/icon32x32.png",
+        "publishedAt": "2026-05-03T00:27:12Z",
+        "source": "Trinidad Guardian"
       },
       {
-        "title": "Smuggling Starlink tech into Iran to beat the internet blackout",
-        "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-        "url": "https://www.bbc.co.uk/news/articles/cvgzk91leweo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
-        "publishedAt": "2026-05-02T23:17:17Z",
-        "source": "BBC"
+        "title": "Annoh-Dompreh elected Chair of PAP Health, Social Work and Labour Committee",
+        "description": "The Member of Parliament for Nsawam-Adoagyiri, Frank Annoh-Dompreh, has been elected Chairman of the Committee on Health, Social Work and Labour at the Pan-African Parliament (PAP) under the Western Caucus.",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Annoh-Dompreh-elected-Chair-of-PAP-Health-Social-Work-and-Labour-Committee-2032595",
+        "image": "https://cdn.ghanaweb.com/imagelib/pics/869/86941430.jpg",
+        "publishedAt": "2026-05-03T00:22:30Z",
+        "source": "ghanaweb.com"
       },
       {
-        "title": "Donald Trump says Iran has 'not yet paid a big enough price' as he reviews new deal",
-        "description": "In a post on Truth Social, Trump confirmed that he would be reviewing a plan sent by Iran, but added that he \"can’t imagine that it would be acceptable.\"",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-894897",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718921",
-        "publishedAt": "2026-05-02T23:16:32Z",
-        "source": "The Jerusalem Post"
+        "title": "Kenya, France Strengthen Maritime Cooperation",
+        "description": "The defense partnership between Kenya and France reached a new phase in mid-March when three French warships and more than",
+        "url": "https://www.eurasiareview.com/03052026-kenya-france-strengthen-maritime-cooperation/",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/05/a-24.jpg",
+        "publishedAt": "2026-05-03T00:21:22Z",
+        "source": "Eurasia Review"
       },
       {
-        "title": "Iran war live updates: US President Donald Trump considering a new Iranian proposal but says resuming strikes is 'a possibility'",
-        "description": "The US president told reporters he is reviewing a new peace proposal from Iranian negotiators. Follow live.",
-        "url": "https://www.abc.net.au/news/2026-05-03/iran-war-live-updates-us-may-3-donald-trump-lebanon/106634634",
-        "image": "https://live-production.wcms.abc-cdn.net.au/9bf6b0a820f898c640417105246676a3?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-02T23:16:14Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Budget Hill Stations In India: Offbeat Summer Destinations That Deliver More For Less",
+        "description": "Looking for budget-friendly summer getaways? Discover offbeat hill stations in India offering scenic beauty, fewer crowds, and great value travel experiences.",
+        "url": "https://www.news18.com/lifestyle/travel/budget-hill-stations-in-india-offbeat-summer-destinations-that-deliver-more-for-less-10070110.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/12/Tawang-Arunachal-Pradesh-7-2025-12-77bc29d511dcfe94a9461d8c2db738d9-16x9.jpg",
+        "publishedAt": "2026-05-03T00:20:04Z",
+        "source": "News18"
       },
       {
-        "title": "U.S. May Day rallies against war on Iran, immigrant crackdown draw tens of thousands nationwide",
-        "description": "International, MNA, Uncategorized | Tens of thousands of people took to the streets across the United States on Friday to join May Day rallies against the U.S.-Israeli war on Iran and defend labor and immigrant rights.",
-        "url": "https://macaubusiness.com/u-s-may-day-rallies-against-war-on-iran-immigrant-crackdown-draw-tens-of-thousands-nationwide/",
-        "image": "https://macaubusiness.com/favicon.ico",
-        "publishedAt": "2026-05-02T23:14:43Z",
-        "source": "Macau Business"
+        "title": "Trump's slump in the polls: this is what his voters think",
+        "description": "US president’s approval falls to 34%, and 61% of Americans call Iran war a mistake, polls show; surging gas prices are fueling public frustration, while Republicans still back Trump but midterm shellacking",
+        "url": "https://www.ynetnews.com/article/rjottwncwx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/02/S1eFtA7C11l/S1eFtA7C11l_27_0_2974_1674_0_large.jpg",
+        "publishedAt": "2026-05-03T00:18:04Z",
+        "source": "ynetnews"
       },
       {
-        "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
-        "description": "\"We're going to cut way down and we're cutting a lot further than 5,000,\" US President Donald Trump said in remarks to reporters in Florida on Saturday when asked about the plan.",
-        "url": "https://www.channelnewsasia.com/world/germany-says-us-troop-drawdown-should-spur-europe-top-republicans-worried-6096511",
-        "image": "https://dam.mediacorp.sg/image/upload/s--hfuvqSHi--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-02T085809Z_2_LYNXMPEM4103P_RTROPTP_3_UKRAINE-CRISIS-GERMANY-USA.JPG?itok=PkoWlz0J",
-        "publishedAt": "2026-05-02T23:10:00Z",
-        "source": "CNA"
+        "title": "Trump says he's now reviewing new Iran proposal to end war",
+        "description": "“I’ll let you know about it later,\" he said before boarding Air Force One, adding that “they’re going to give me the exact wording now.”",
+        "url": "https://www.1news.co.nz/2026/05/03/trump-says-hes-now-reviewing-new-iran-proposal-to-end-war/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/president-donald-trump-talks-to-reporters-before-he-boards-a-MGWBM7XMWBHKLJSYRLBXRV4EIM.jpg?auth=c9b4cf8463280afb5c7f1ee701b88b8a16854941fc426807e6c8d1c6ffac7f80&quality=70&width=600&height=315&focal=2328%2C1302",
+        "publishedAt": "2026-05-03T00:16:01Z",
+        "source": "1News"
       }
     ],
     "business": [
       {
-        "title": "These 6 equity mutual funds deliver over 20% return in April. Do you own any in your portfolio?",
-        "description": "Around six equity mutual funds gave over 20% returns in the month of April. There were 613 equity funds, of which 248 funds gave double-digit returns, 363 gave single-digit returns, and two gave negative returns. Here is a detailed break-up (Source: ACE MF). April scorecard",
-        "url": "https://economictimes.indiatimes.com/mf/analysis/these-6-equity-mutual-funds-deliver-over-20-return-in-april-do-you-own-any-in-your-portfolio/april-scorecard/slideshow/130711943.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130711943,width-1200,height-900,overlay-etwealthmutualfunds/slideshow.jpg",
-        "publishedAt": "2026-05-02T23:22:03Z",
-        "source": "The Economic Times"
+        "title": "Egypt announces new gas discovery in Nile Delta",
+        "description": "The discovery was made after drilling the Nidoco N-2 exploratory well in an Eni-operated concession with BP as partner.",
+        "url": "https://www.freemalaysiatoday.com/category/business/2026/05/03/egypt-announces-new-gas-discovery-in-nile-delta",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/89381300-egypt-oil-rig-03052026.webp",
+        "publishedAt": "2026-05-03T00:33:35Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Couple who started Steel City NerdCon 'grateful' for support",
-        "description": "Steel City NerdCon is wrapping up this weekend after growing from a small local show into a well-attended gathering for Sault collectors and cosplayers",
-        "url": "https://www.sootoday.com/success/couple-who-started-steel-city-nerdcon-grateful-for-support-12228135",
-        "image": "https://www.vmcdn.ca/f/files/sootoday/images/columns/success/steel-city-nerdcon-2026/20260502-mike-turcotte-dt-02.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-05-02T23:12:37Z",
-        "source": "SooToday.com"
+        "title": "Fuel prices will not stop Mongolian family travelling across Australia and the world",
+        "description": "While many Australians are thinking twice about big road trips due to fuel costs, the Sharavnyam family from Mongolia is determined to fulfil a dream to travel the world.",
+        "url": "https://www.abc.net.au/news/2026-05-03/fuel-prices-not-stopping-mongolian-family-travelling-the-world/106596256",
+        "image": "https://live-production.wcms.abc-cdn.net.au/d5de5f846a274f9ae2328da0abeab06b?impolicy=wcms_watermark_news&cropH=854&cropW=1519&xPos=0&yPos=25&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-03T00:31:35Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Syncing ADRs with Europe and Japan is unrealistic, Honda says",
-        "description": "Harmonising ADRs with leading markets is not going to happen, according to the new boss of Honda Australia, because no-one can agree whose rules are best.",
-        "url": "https://www.drive.com.au/news/honda-says-syncing-car-standards-with-europe-and-japan-is-unrealistic/",
-        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/e95d74b8-2d50-544c-9cb2-36837c050000",
-        "publishedAt": "2026-05-02T23:03:59Z",
-        "source": "drive.com.au"
+        "title": "Work in progress",
+        "description": "Established in 1955 by late businessman Tan Sri Dr Yeoh Tiong Lay, construction company YTL Corp (KL:YTL) has rapidly evolved into a full-fledged infrastructure developer with interests in industries such as cement manufacturing, utilities, hotels and resorts, and technology via its various subsidiaries.",
+        "url": "https://theedgemalaysia.com/node/801920",
+        "image": "https://assets.theedgemarkets.com/TEM_Options_Highlights_1625.jpg",
+        "publishedAt": "2026-05-03T00:30:00Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "Heatwave taking a toll on p-hailing riders",
-        "description": "PETALING JAYA: For p-hailing riders, every trip means income.",
-        "url": "https://www.thestar.com.my/news/nation/2026/05/03/heatwave-taking-a-toll-on-p-hailing-riders",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/03/3889109.jpg",
-        "publishedAt": "2026-05-02T23:02:02Z",
+        "title": "Nigeria's N5tn oil windfall amid rising fuel hardship",
+        "description": "Nigeria gains a N5.13tn oil windfall from the US-Iran conflict, boosting government revenue but leading to higher domestic fuel prices and public hardship.",
+        "url": "https://punchng.com/us-iran-war-fg-earns-n5tn-oil-windfall-amid-rising-fuel-hardship/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/08071441/AFP__20260408__2270296368__v1__MidRes__DemonstrationHeldOutsideWhiteHouseAgainstTrum-1200x630.jpg",
+        "publishedAt": "2026-05-03T00:21:59Z",
+        "source": "Punch Newspapers"
+      },
+      {
+        "title": "Seven million MyJPJ users have logged in via MyDigital ID",
+        "description": "KUALA LUMPUR: Some seven million MyJPJ users have registered and logged in using MyDigital ID, with the total number of MyDigital ID users reaching 12 million.",
+        "url": "https://www.thestar.com.my/news/nation/2026/05/03/seven-million-myjpj-users-have-logged-in-via-mydigital-id",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/03/3889232.jpeg",
+        "publishedAt": "2026-05-03T00:13:00Z",
         "source": "The Star"
       },
       {
-        "title": "Red light therapy: Can infrared help you recover after a workout?",
-        "description": "Whether it can really repair muscles and make skin look younger is up for debate.",
-        "url": "https://www.bbc.co.uk/news/articles/c2lw59jrdkxo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdb6/live/529efaf0-4009-11f1-ac78-2112837ce2aa.jpg",
-        "publishedAt": "2026-05-02T23:00:30Z",
-        "source": "BBC"
+        "title": "Pāpāmoa Plaza expansion bringing new retail options",
+        "description": "A major expansion at Pāpāmoa Plaza is taking shape, with a new large-format retail building set to strengthen the shopping centre’s role in the growing...",
+        "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/papamoa-plaza-expansion-bringing-new-retail-options/H57IGBPJSNDPVCZJKJVAG2LRAU/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/SSJZNVZWDRAHLN4BDDZRLRLX5M.jpg?auth=e815c53264f3eff14f032cae71e517be770a573c271498be016b6c50d43f0440&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-05-03T00:01:28Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "How The SR-71 Blackbird's Titanium Skin Protected Pilots From Temperatures Above 300°C",
-        "description": "Inside the fastest jet that ever flew.",
-        "url": "https://simpleflying.com/sr-71-blackbird-titanium-skin-heat-protection/",
-        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/sr-71.avif?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-05-02T23:00:18Z",
-        "source": "Simple Flying"
+        "title": "Lufthansa June 2026 European Network Adjustments",
+        "description": "Published at 1701PDT 02MAY26 / 0001GMT 03MAY26 Lufthansa this past week finalized planned European service for the month of June 2026, as the airline cancels additional routes. Following service cancelled in May 2026 remains cancelled for the remainder of summer season: Frankfurt – Bydgoszcz Fra",
+        "url": "https://www.aeroroutes.com/eng/260502-lhjun26eu",
+        "image": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w",
+        "publishedAt": "2026-05-03T00:01:17Z",
+        "source": "AeroRoutes"
       },
       {
-        "title": "Wareham pub thanks community after last-minute cancellation",
-        "description": "An independent pub in Wareham is thanking the community for their support after a table of 17 cancelled ten minutes before their booking.",
-        "url": "https://www.bournemouthecho.co.uk/news/26070297.wareham-pub-thanks-community-last-minute-cancellation/",
-        "image": "https://www.bournemouthecho.co.uk/resources/images/20867761.jpg?type=og-image",
-        "publishedAt": "2026-05-02T23:00:00Z",
-        "source": "Bournemouth Echo"
-      },
-      {
-        "title": "Can foreigners buy land to build homestays in Vietnam?",
-        "description": "An Australian wants to buy coastal land in central Vietnam to build a homestay but has been advised by a broker to \"have a Vietnamese person hold the title,\" leaving him uncertain. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/news/can-foreigners-buy-land-to-build-homestays-in-vietnam-5062287.html",
-        "image": "https://vcdn1-vnexpress.vnecdn.net/2026/04/14/teguhyudhatamarnfbexgrjsounspl-1993-1915-1776157057.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Jl4lMTZAlA1G-W1SxojXfg",
-        "publishedAt": "2026-05-02T23:00:00Z",
-        "source": "VnExpress International"
+        "title": "Inside the complex, secretive business of buying ube, the internet’s new favorite food",
+        "description": "A global hunt for ube, whose signature violet hue has taken over social media, is upending a precarious supply chain in Asia.",
+        "url": "https://edition.cnn.com/2026/05/02/business/ube-farms-philippines-intl-hnk-dst",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1249685819.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-03T00:01:00Z",
+        "source": "CNN"
       }
     ],
     "science": [
+      {
+        "title": "Student Discovers Rare New Carnivorous Dinosaur Species That Lived Long Before T. rex",
+        "description": "A shattered fossil once ignored has revealed a strange early predator that reshapes the story of dinosaur dominance.",
+        "url": "https://indiandefencereview.com/student-new-carnivorous-dinosaur-species/",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/05/student-discovers-rare-new-carnivorous-dinosaur-species-that-lived-long-before-t-rex-scaled.png",
+        "publishedAt": "2026-05-02T23:59:38Z",
+        "source": "Indian Defence Review"
+      },
+      {
+        "title": "T. Rex Blood Vessels Discovery Reveals How Dinosaurs Healed Injuries",
+        "description": "Scientists discover preserved blood vessels in a T. rex fossil, offering new clues about dinosaur healing and biology.",
+        "url": "https://colombiaone.com/2026/05/02/t-rex-blood-vessels-discovery-dinosaurs-healed-injuries/",
+        "image": "https://colombiaone.com/wp-content/uploads/2025/05/T-Rex-Credit-Terence-Faircloth-CC-BY-2.0.jpg",
+        "publishedAt": "2026-05-02T23:44:00Z",
+        "source": "ColombiaOne.com"
+      },
       {
         "title": "Solar radio bursts reveal hidden magnetic switchbacks near the sun, Parker Solar Probe data suggest",
         "description": "Solar radio bursts are intrinsically linked to the motion of their emitting source through the coronal and heliospheric plasma. Electron transport is mostly confined to magnetic field lines. These electrons move at a substantial fraction of the speed of light and often generate radio emission via the plasma emission process.",
@@ -182,25 +198,33 @@
         "image": "https://orbitaltoday.com/wp-content/uploads/2026/05/Flower-Moon-in-Bloom3-1.jpg",
         "publishedAt": "2026-05-02T22:04:55Z",
         "source": "Orbital Today"
-      },
-      {
-        "title": "Canada proposes POET mission to hunt Earth-sized planets",
-        "description": "Exoplanet science and the search for life beyond Earth continue to advance at break-neck speeds, with the number of confirmed exoplanets by NASA rapidly approaching 6,300, with 223 of those exoplanets being designated as terrestrial (rocky) exoplanets. With the promise of discovering an increasing number of Earth-sized exoplanets increasing every day, new telescopes from across the world have the opportunity to contribute to this incredible field.",
-        "url": "https://phys.org/news/2026-04-canada-poet-mission-earth-sized.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/canada-proposes-poet-m.jpg",
-        "publishedAt": "2026-05-02T22:00:55Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Scientists Debunk 100-Year-Old Belief About Brain Cells, Rewriting Textbooks",
-        "description": "New evidence suggests axons may not be uniform tubes but dynamic, pearl-like structures.",
-        "url": "https://scitechdaily.com/scientists-debunk-100-year-old-belief-about-brain-cells-rewriting-textbooks/",
-        "image": "https://scitechdaily.com/images/Neuron-Network-Synapse.jpg",
-        "publishedAt": "2026-05-02T21:53:46Z",
-        "source": "SciTechDaily"
       }
     ],
     "ai": [
+      {
+        "title": "Trump Shares Bizarre AI Image of Himself and Cabinet in Lincoln Memorial Pool",
+        "description": "The image showed Trump reclining on a floating lounger in the historic pool on the National Mall.",
+        "url": "https://indianexpress.com/article/world/us-news/donald-trump-ai-image-lincoln-memorial-cabinet-reflecting-pool-viral-10668219/",
+        "image": "https://images.indianexpress.com/2026/05/US_c7bc27.jpg",
+        "publishedAt": "2026-05-03T00:17:04Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "Working with AI means a need for human oversight",
+        "description": "People need to train themselves to both work alongside and distrust AI outputs at the same time",
+        "url": "https://www.rappler.com/technology/features/tech-thoughts-working-with-ai-need-human-oversight/",
+        "image": "https://www.rappler.com/tachyon/2026/05/AI-humans-guidance-may-1-2026.jpg",
+        "publishedAt": "2026-05-03T00:00:00Z",
+        "source": "Rappler"
+      },
+      {
+        "title": "Digital sentinels: Punjab Police use AI voice recognition to target overseas gangster networks",
+        "description": "Beyond voice identification, PAIS integrates a robust criminal database of over 3,90,000 offenders, complete with gang affiliations and phonetic search capabilities. Its advanced gang tree search tool allows investigators to visualise the hierarchy of organised crime networks, linking street-level crimes to their international masterminds.",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/digital-sentinels-punjab-police-use-ai-voice-recognition-to-target-overseas-gangster-networks-101777748738992.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/02/550x309/The-Punjab-Police-are-now-equipped-with-a-voice-re_1777748736308.jpg",
+        "publishedAt": "2026-05-02T23:50:19Z",
+        "source": "Hindustan Times"
+      },
       {
         "title": "ROSEN, A LEADING LAW FIRM, Encourages SES AI Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SES",
         "description": "03.05.2026 - New York, New York--(Newsfile Corp. - May 2, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of securities of SES AI Corporation (NYSE: SES) between January 29, ...",
@@ -240,30 +264,6 @@
         "image": "https://media.nbcchicago.com/2021/03/AP_21078628460306.jpg?quality=85&strip=all&crop=0px%2C0px%2C1452px%2C817px&resize=1200%2C675",
         "publishedAt": "2026-05-02T22:40:32Z",
         "source": "NBC 5 Chicago"
-      },
-      {
-        "title": "Oscars organization addresses AI in new rules",
-        "description": "The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards",
-        "url": "https://www.nbcboston.com/entertainment/entertainment-news/oscars-new-rules-articifical-intelligence/3943757/",
-        "image": "https://media.nbcboston.com/2021/03/AP_21078628460306.jpg?quality=85&strip=all&crop=0px%2C0px%2C1452px%2C817px&resize=1200%2C675",
-        "publishedAt": "2026-05-02T22:40:32Z",
-        "source": "NBC10 Boston"
-      },
-      {
-        "title": "Apple raises Mac Mini’s starting price to $799 after AI frenzy drains supply",
-        "description": "“These are amazing platforms for AI and agentic tools, and the customer recognition of that is happening faster than what we had predicted.”",
-        "url": "https://fortune.com/2026/05/02/apple-mac-minis-starting-price-hike-799-ai-demand-supply-shortage/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1234777203-e1777760143300.jpg?resize=1200,600",
-        "publishedAt": "2026-05-02T22:22:16Z",
-        "source": "Fortune"
-      },
-      {
-        "title": "Unionized workers form alliance with rich tech giants on AI data centers, pushing back on opposition",
-        "description": "With data center construction accelerating, unions are expanding training centers and seeing their ranks grow faster than many union leaders have ever seen.",
-        "url": "https://fortune.com/2026/05/02/unionized-workers-skilled-trades-alliance-tech-giants-ai-data-centers-construction/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26120598175304.jpg?resize=1200,600",
-        "publishedAt": "2026-05-02T22:08:42Z",
-        "source": "Fortune"
       }
     ]
   }
