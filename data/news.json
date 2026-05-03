@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-03T01:14:02.646Z",
+  "fetchedAt": "2026-05-03T02:03:30.658Z",
   "sections": {
     "world": [
       {
-        "title": "Taiwan’s William Lai lands in eSwatini on trip Beijing calls a political ‘stunt’",
-        "description": "Lai travels to island sole African ally after earlier visit cancelled because of overflight permission withdrawn.",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3352238/taiwans-william-lai-lands-eswatini-trip-beijing-calls-political-stunt",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/02/ec173696-a64e-48ee-9663-c98421c2eff9_44073314.jpg?itok=WM6w4wF3&v=1777727503",
-        "publishedAt": "2026-05-02T13:11:49Z",
-        "source": "South China Morning Post"
+        "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+        "description": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v2l2qq9qlo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64ac/live/43592a40-4624-11f1-b55d-0f258dce1735.jpg",
+        "publishedAt": "2026-05-02T13:59:32Z",
+        "source": "BBC"
       },
       {
-        "title": "GITEX Future Health Africa 2026: Rethinking Policy for a Pan-African Health System",
-        "description": "Casablanca will host the first edition of GITEX Future Health Africa 2026 from 4 to 6 May.",
-        "url": "https://www.moroccoworldnews.com/2026/05/289588/gitex-future-health-africa-2026-rethinking-policy-for-a-pan-african-health-system/",
-        "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-02-at-14.03.45.jpeg",
-        "publishedAt": "2026-05-02T13:11:27Z",
-        "source": "Morocco World News"
+        "title": "UK Conservative leader apologises for Bloody Sunday footage post, says she didn't sign off on it",
+        "description": "The video criticising the Northern Ireland Troubles Bill was posted to Badenoch’s social media channels.",
+        "url": "https://www.thejournal.ie/kemi-badenoch-bloody-sunday-video-7029837-May2026/",
+        "image": "https://img2.thejournal.ie/article/7029837/river/?height=400&version=7029843",
+        "publishedAt": "2026-05-02T13:56:00Z",
+        "source": "The Journal"
       },
       {
-        "title": "Ukrainian “Baba Yaga” Drone With Machine Gun Hunts Russian Troops Near Huliaipole, Video",
-        "description": "A Ukrainian \"Baba Yaga\" heavy drone, armed with a machine gun and bombs, was filmed attacking Russian troops near Huliaipole in Zaporizhzhia.",
-        "url": "https://united24media.com/war-in-ukraine/ukrainian-baba-yaga-drone-with-machine-gun-hunts-russian-troops-near-huliaipole-video-18420",
-        "image": "https://storage.united24media.com/og/e/c7/2a35506480f7289be73e01910f1ccc7e.jpg",
-        "publishedAt": "2026-05-02T13:07:03Z",
-        "source": "UNITED24 Media"
+        "title": "Germany reacts to withdrawal of US troops",
+        "description": "Germany says it has long anticipated the United States' withdrawal of its troops from from the country. German Defense Minister Boris Pistorius said this",
+        "url": "https://dailypost.ng/2026/05/02/germany-reacts-to-withdrawal-of-us-troops/",
+        "image": "https://dailypost.ng/wp-content/uploads/2023/10/Boris-Pistorius.jpg",
+        "publishedAt": "2026-05-02T13:55:40Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Mali probes soldiers suspected of involvement in military base attacks",
-        "description": "Five army personnel, including three active-duty soldiers, identified as suspects in last week’s coordinated attacks.",
-        "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T104522Z_866791386_RC2MXKA2HPE1_RTRMADP_3_MALI-SECURITY-1777723491.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-05-02T13:05:23Z",
-        "source": "Al Jazeera"
+        "title": "Iranian Nobel laureate Narges Mohammadi hospitalised amid deteriorating health condition",
+        "description": "Sources close to the human rights activist say they suspect she had suffered a heart attack in prison and fear her transfer to hospital may be too late.",
+        "url": "https://www.euronews.com/2026/05/02/iranian-nobel-laureate-narges-mohammadi-hospitalised-amid-deteriorating-health-condition",
+        "image": "https://images.euronews.com/articles/stories/09/74/43/33/1200x675_cmsv2_a203252b-f655-5ec4-8616-ad3711ae5db4-9744333.jpg",
+        "publishedAt": "2026-05-02T13:55:17Z",
+        "source": "Euronews.com"
       },
       {
-        "title": "US withdrawing 5,000 troops from Germany; Berlin urges stronger European defence",
-        "description": "German Defence Minister Boris Pistorius said the decision, though expected, should act as a wake-up call.",
-        "url": "https://indianexpress.com/article/world/us-troop-withdrawal-germany-friedrich-merz-donald-trump-nato-tensions-10667729/",
-        "image": "https://images.indianexpress.com/2026/05/IE-Image-2026-05-02T174924.182.jpg",
-        "publishedAt": "2026-05-02T13:04:08Z",
-        "source": "The Indian Express"
+        "title": "Spirit Airlines shuts down, blames cost of fuel due to Middle East war",
+        "description": "Bankrupt discount carrier Spirit Airlines ‌ceased operations on Saturday, the industry's first casualty linked to the Iran war, after failing to secure creditor support for a U.S. government bailout plan.",
+        "url": "https://www.cbc.ca/news/world/spirit-airlines-ceasing-operations-9.7185446",
+        "image": "https://i.cbc.ca/ais/e98d4978-2bda-4c13-b487-8b5309d7209b,1777690568246/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C357%2C5472%2C3078%29%3BResize%3D620",
+        "publishedAt": "2026-05-02T13:51:50Z",
+        "source": "CBC"
       },
       {
-        "title": "Almost UAH 2 mln raised at annual charity fair, MFA head thank ambassadors for helping Ukraine",
-        "description": "A meeting of Foreign Minister Andriy Sybiha and his wife Tetiana Sybiha with heads of foreign diplomatic missions participating in the annual diplomatic charity fair Charity Fair 2025 took place in Kyiv region on Friday.",
-        "url": "https://en.interfax.com.ua/news/general/1164325.html",
-        "image": "https://media.interfax.com.ua/media/thumbs/images/2026/05/cjekt/8xtXGM7zJZLf.jpg",
-        "publishedAt": "2026-05-02T13:02:39Z",
-        "source": "Interfax-Ukraine"
+        "title": "Iran cuts oil output as US blockade strains storage - BBG",
+        "description": "Iran has begun curbing oil production as the US naval blockade tightens around its oil trade, with exports plunging, storage filling and tankers gathering near the country’s main export hub, Bloomberg reported.",
+        "url": "https://www.iranintl.com/en/202605029994",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/71e132968adc0ae1ec2a467aeea035c2096702b2-1920x1280.jpg?rect=0,136,1920,1008&w=1200&h=630&fit=max&auto=format",
+        "publishedAt": "2026-05-02T13:51:47Z",
+        "source": "ایران اینترنشنال"
       },
       {
-        "title": "#KickCancerThon update: Saluting Row Holland and Paul Hogan, travel retail’s marathon man and woman",
-        "description": "Collectively, the Ethos Farm teams walked the equivalent of 13.5 marathons, raising an impressive £4,100 (US$5,532) for The Royal Marsden Cancer Charity, plus £823 (US$1,110) Gift Aid.",
-        "url": "https://moodiedavittreport.com/kickcancerthon-update-saluting-row-holland-and-paul-hogan-travel-retails-marathon-man-and-woman/",
-        "image": "https://moodiedavittreport.com/wp-content/uploads/2026/05/Row-Holland-KickCancerThon-02.05.26-montage.png",
-        "publishedAt": "2026-05-02T13:00:45Z",
-        "source": "Moodie Davitt Report"
+        "title": "TechReviewAfrica - News Details",
+        "description": "Your Trusted Tech News Platform",
+        "url": "https://techreviewafrica.com/news/5257/uganda-begins-stakeholder-consultations-on-ai-and-emerging-technologies-strategy",
+        "image": "https://techreviewafrica.com/assets/images/news/2026/05/02/69f600b1512041777729713.jpg",
+        "publishedAt": "2026-05-02T13:51:13Z",
+        "source": "Tech Review Africa"
       },
       {
-        "title": "Kemi Badenoch apologises for Bloody Sunday clips in social media video",
-        "description": "Kemi Badenoch has apologised for footage from Bloody Sunday being used in a social media clip to criticise a bill on legacy issues in Northern Ireland.",
-        "url": "https://www.independent.ie/world-news/britain/kemi-badenoch-apologises-for-bloody-sunday-clips-in-social-media-video/a2091862522.html",
-        "image": "https://focus.independent.ie/thumbor/xsjlAQkkWB2FKQEVzV7ylkxYzMc=/629x460/smart/prod-mh-ireland/a71efb8e-feca-4ec0-914f-074d9956b021/6799ee65-611e-4f46-9365-728fa6a92635/a71efb8e-feca-4ec0-914f-074d9956b021.jpg",
-        "publishedAt": "2026-05-02T13:00:22Z",
-        "source": "The Irish Independent"
+        "title": "Iran juggles oil cuts and storage strain to resist US blockade",
+        "description": "Iran has shown some resilience in weathering the blockade so far, drawing on a time-tested playbook to prolong the standoff and raise costs for Washington by pushing up oil prices, which reached a four-year high this week.",
+        "url": "https://www.moneycontrol.com/world/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade-article-13906141.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260502134907_Iran.jpg",
+        "publishedAt": "2026-05-02T13:50:50Z",
+        "source": "Moneycontrol.com"
       }
     ],
     "business": [
       {
-        "title": "New Canada Laws And Rules In May 2026",
-        "description": "Several federal laws, rules, and procedures are now in effect across Canada as of May 2026.",
-        "url": "https://immigrationnewscanada.ca/new-canada-laws-and-rules-in-may-2026/",
-        "image": "https://i0.wp.com/immigrationnewscanada.ca/wp-content/uploads/2026/05/New-Canada-Laws-And-Rules-In-May-2026.jpeg",
-        "publishedAt": "2026-05-02T13:11:00Z",
-        "source": "INC News"
+        "title": "MG’s new Urban EV is its most affordable electric car yet",
+        "description": "We’d have called it cheap, but since then Volkswagen has confirmed arrival of its €19,000 ID. Polo",
+        "url": "https://www.irishtimes.com/motors/2026/05/01/mgs-new-urban-ev-is-its-most-affordable-electric-car-yet/",
+        "image": "https://www.irishtimes.com/resizer/v2/K5WXZHROZJGYBCKZ2PZZEWNBJA.jpg?smart=true&auth=1dcba60d3868e199228d8979a06befceaece93f442c4e203b6e5510dc2544f92&width=1200&height=630",
+        "publishedAt": "2026-05-02T14:01:29Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "year from January to April, as its global expansion journey enters the fast lane",
-        "description": "/PRNewswire/ -- Building on strong overseas sales with 86% YoY growth in Q1, GAC has further accelerated its global expansion. From January to April, the...",
-        "url": "https://www.prnewswire.com/news-releases/gacs-overseas-export-volume-breaks-through-to-new-highs-surging-133-9-year-on-year-from-january-to-april-as-its-global-expansion-journey-enters-the-fast-lane-302760603.html",
-        "image": "https://mma.prnewswire.com/media/2971383/1.jpg?p=facebook",
-        "publishedAt": "2026-05-02T13:11:00Z",
-        "source": "PR Newswire"
+        "title": "The Boeing 787's Gust Load Alleviation System Prevents Structural Damage For Pilots In Turbulence",
+        "description": "The 787 can delivery an exceptionally smooth ride for passengers.",
+        "url": "https://simpleflying.com/boeing-787-gust-load-alleviation-prevents-structural-damage-pilots-turbulence/",
+        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/the-boeing-787-s-gust-load-alleviation-system-prevents-structural-damage-for-pilots-in-turbulence.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-05-02T14:01:19Z",
+        "source": "Simple Flying"
       },
       {
-        "title": "While Oil Prices Skyrocketed in the First Quarter, ExxonMobil's Profits Fell. Here's What Happened.",
-        "description": "Exxon faced a couple of headwinds in the first quarter.",
-        "url": "https://www.fool.com/investing/2026/05/02/while-oil-prices-skyrocketed-in-the-first-quarter/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868065%2Fxom.jpg&w=1200&op=resize",
-        "publishedAt": "2026-05-02T13:07:50Z",
-        "source": "The Motley Fool"
+        "title": "Bezos Boycott, Tom Ford Sighting, Streep's No-Show",
+        "description": "Everything to know about the Met Gala 2026: including the rumored Bezos boycott, Tom Ford's attendance and Meryl Streep not attending.",
+        "url": "https://www.hollywoodreporter.com/lifestyle/style/met-gala-2026-everything-to-know-bezos-meryl-streep-1236582246/",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2017/05/gettyimages-675578362_-_h_2017.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2026-05-02T14:00:19Z",
+        "source": "The Hollywood Reporter"
       },
       {
-        "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
-        "description": "As Wall Street moves onchain, the year's biggest crypto hack and DeFi crisis is forcing a rethink of risk, security and market structure, industry insiders told CoinDesk.",
-        "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e312b1c77b2d9056de0fb6e1c3a5776f3e42e55-1280x720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-02T13:03:07Z",
-        "source": "CoinDesk"
+        "title": "Assessing Blackstone (BX) Valuation After A Recent Share Price Rebound And Conflicting Signals",
+        "description": "Blackstone’s recent performance snapshot\nBlackstone (BX) has moved higher over the past month, with the share price closing at US$126.35. That recent gain sits alongside negative returns year to date and over the past 3 months.\nFor context, Blackstone’s 1 year total return is slightly negative. However, 3 year and 5 year total returns are well above that level, reflecting a different picture over longer holding periods.\nSee our latest analysis for Blackstone.\nThat pattern of a 10.51% 1 month...",
+        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-bx/blackstone/news/assessing-blackstone-bx-valuation-after-a-recent-share-price",
+        "image": "https://images.simplywall.st/asset/company-cover/671980-main-header/1756256042976",
+        "publishedAt": "2026-05-02T14:00:02Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "While Asia and Europe scramble for natural gas, the US glut has nowhere to go",
-        "description": "US gas prices hit 17-month low due to oversupply, low demand from mild springGlobal gas prices surge as Middle East exports disrupted, US LNG exports mostly maxed outUS LNG firms...",
-        "url": "https://www.malaymail.com/news/money/2026/05/02/while-asia-and-europe-scramble-for-natural-gas-the-us-glut-has-nowhere-to-go/218498",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/02/338825.JPG",
-        "publishedAt": "2026-05-02T13:00:46Z",
-        "source": "Malay Mail"
+        "title": "Western Digital (WDC) One Off Gain Lifts Margins And Tests Bullish Earnings Narratives",
+        "description": "Western Digital (WDC) has put up another big quarter, with Q2 2026 revenue at US$3.0b and basic EPS of US$5.27, backed by trailing twelve month revenue of US$10.7b and EPS of US$11.40 that reflect a very large year over year earnings swing. Over recent quarters, the company has seen revenue move from US$2.2b in Q1 2025 to US$3.0b in Q2 2026, while basic EPS has shifted from US$0.43 to US$5.27. This sets up a story where higher reported profitability, supported by a 36.8% trailing net margin...",
+        "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/western-digital-wdc-one-off-gain-lifts-margins-and-tests-bul",
+        "image": "https://images.simplywall.st/asset/company-cover/314057-main-header/1585186861517",
+        "publishedAt": "2026-05-02T14:00:02Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Corporate America Earnings Beat Back Wall Street’s Wall of Worry",
-        "description": "First-quarter earnings season is delivering Wall Street better-than-expected results, propelling US equities’ run from one record to the next.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-02/corporate-america-earnings-beat-back-wall-street-s-wall-of-worry",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBDgcIxD38DQ/v0/1200x800.jpg",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Bloomberg"
+        "title": "Is Revolve Group (RVLV) Fairly Priced After Its 12.5% Monthly Share Price Jump",
+        "description": "Wondering if Revolve Group at around US$24.98 is giving you value or just volatility? This article breaks down what the current price might really represent.\nThe stock has a mixed recent record, with a 12.5% gain over 30 days, a 6.9% pullback over the last week, a 27.9% return over 1 year and a 57.0% decline over 5 years.\nRecent coverage has focused on how Revolve Group fits within the broader U.S. retail space and how investors are reacting to changing consumer preferences and online...",
+        "url": "https://simplywall.st/stocks/us/retail/nyse-rvlv/revolve-group/news/is-revolve-group-rvlv-fairly-priced-after-its-125-monthly-sh",
+        "image": "https://images.simplywall.st/asset/industry/4422000-choice2-main-header/1585186866479",
+        "publishedAt": "2026-05-02T14:00:02Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Spirit Airlines shuts down after White House rescue deal falls through",
-        "description": "The airline said early Saturday it had “no choice” but to wind down operations immediately, dashing hopes of a last-minute financial lifeline.",
-        "url": "https://www.washingtonpost.com/politics/2026/05/02/spirit-airlines-flights-shutdown/",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OYIWES2DPLXEDRUTYMJDSYEOCM.JPG&w=1440",
-        "publishedAt": "2026-05-02T12:56:57Z",
-        "source": "The Washington Post"
+        "title": "A Look At Procter & Gamble (PG) Valuation As Investor Narratives Sharply Diverge",
+        "description": "What recent returns suggest about Procter & Gamble stock\nWith no single headline event setting the tone, Procter & Gamble (PG) has been moving on a mix of fundamentals and sentiment, and the share price has shown modest shifts across different time frames.\nOver the past month, the stock has returned 2.2%, while the past 3 months show a 3% decline and the past year reflects a 5.6% decline on a total return basis. Year to date, the position is a 3.9% gain.\nSee our latest analysis for Procter &...",
+        "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/a-look-at-procter-gamble-pg-valuation-as-investor-narratives",
+        "image": "https://images.simplywall.st/asset/company-cover/33328-main-header/1756194107264",
+        "publishedAt": "2026-05-02T14:00:02Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Thermos Recalls 8.2M Containers After 3 People Go Blind",
-        "description": "Thermos is asking millions of its customers to put down their lunch holders and water bottles. USA Today reports that the company is recalling about 8.2 million insulated...",
-        "url": "https://www.newser.com/story/388423/thermos-recalls-82m-containers-after-vision-injuries.html",
-        "image": "https://img1-azrcdn.newser.com/image/1682258-12-20260502091403.jpeg",
-        "publishedAt": "2026-05-02T12:50:00Z",
-        "source": "Newser"
+        "title": "Sonoco Products Trust Recognition Meets Discounted Valuation And Mixed Momentum",
+        "description": "Sonoco Products (NYSE:SON) has been named to Newsweek’s list of America’s Most Trustworthy Companies for 2026.\nThe recognition reflects external assessment of the company’s reputation, governance, and stakeholder trust.\nThis marks a fresh development for Sonoco Products, separate from recent discussions focused on financials and valuation.\nFor investors tracking Sonoco Products at a share price of $50.06, this trust focused recognition adds a different angle to the story that has recently...",
+        "url": "https://simplywall.st/stocks/us/materials/nyse-son/sonoco-products/news/sonoco-products-trust-recognition-meets-discounted-valuation",
+        "image": "https://images.simplywall.st/asset/industry/2042000-choice1-main-header/1585186562856",
+        "publishedAt": "2026-05-02T14:00:02Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Why do crabs walk sideways? Scientists trace it back 200 million years",
+        "description": "Crabs’ famous sideways walk may trace back to a single evolutionary moment 200 million years ago. Researchers found that most modern crabs inherited this trait from one ancestor—and never looked back. The movement likely gave them an edge, helping them dodge predators with quick, unpredictable bursts. It’s a rare example of a behavior evolving once and then dominating an entire group.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260501052844.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-red-crab-on-sandy-seashore.webp",
+        "publishedAt": "2026-05-02T13:57:11Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Half of All Men Lose Their Hair but Scientists Just Found a Natural Sugar That May Grow It Back at the Source",
+        "description": "A natural sugar may stimulate hair regrowth by boosting blood flow to follicles, early research in mice shows, offering a potential new treatment path.",
+        "url": "https://indiandefencereview.com/half-men-lose-hair-natural-sugar-grow-it/",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/photo-of-shaved-man-looking-up-half-head-scaled.jpg",
+        "publishedAt": "2026-05-02T13:30:00Z",
+        "source": "Indian Defence Review"
+      },
+      {
+        "title": "18th-century mechanical volcano roars to life 250 years later",
+        "description": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast Sir William Hamilton. Drawing from an 18th-century watercolor and a preserved sketch, they used modern tools like LED lighting and electronic systems to simulate the glowing flows and explosive drama of Mount Vesuvius.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+        "image": "https://www.sciencedaily.com/images/1920/mount-vesuvios-artwork-erupts.webp",
+        "publishedAt": "2026-05-02T13:29:44Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "May 2, 1601: The birth of Athanasius Kircher",
+        "description": "Today in the history of astronomy, one the last great polymaths of the Renaissance is born.",
+        "url": "http://www.astronomy.com/https:/may-2-1601-the-birth-of-athanasius-kircher/",
+        "image": "https://www.astronomy.com/wp-content/uploads/2026/05/kircher5.webp",
+        "publishedAt": "2026-05-02T13:18:35Z",
+        "source": "Astronomy Magazine"
+      },
+      {
+        "title": "May 2, 1601: The birth of Athanasius Kircher",
+        "description": "Today in the history of astronomy, one the last great polymaths of the Renaissance is born.",
+        "url": "https://www.astronomy.com/today-in-the-history-of-astronomy/may-2-1601-the-birth-of-athanasius-kircher/",
+        "image": "https://www.astronomy.com/wp-content/uploads/2026/05/kircher5.webp",
+        "publishedAt": "2026-05-02T13:18:35Z",
+        "source": "Astronomy Magazine"
+      },
+      {
+        "title": "Astronomers Discover Massive Hidden Structures Pointing Straight At Milky Way Black Hole",
+        "description": "A newly discovered network of light-year-long filaments near the Milky Way’s core reveals unexpected clues about the past activity of Sagittarius A*.",
+        "url": "https://dailygalaxy.com/2026/05/structures-pointing-milky-way-black-hole/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/05/Astronomers-Discover-Massive-Hidden-Structures-Pointing-Straight-At-Milky-Way-Black-Hole-scaled.png",
+        "publishedAt": "2026-05-02T13:15:00Z",
+        "source": "The Daily Galaxy"
+      },
       {
         "title": "The DAMPE satellite just uncovered a major cosmic ray mystery",
         "description": "Nine years of DAMPE satellite data reveal that cosmic ray spectral changes depend on electric charge, solving a long-standing astrophysics mystery.",
@@ -150,120 +198,72 @@
         "image": "https://edmonton.citynews.ca/wp-content/blogs.dir/sites/15/2026/05/b77593cdd16401ce7d423bd04b4c55039897ee9034a4b9d6e5ffe2bbd0f52daf.jpg",
         "publishedAt": "2026-05-02T13:04:45Z",
         "source": "CityNews Edmonton"
-      },
-      {
-        "title": "Saturday Citations: In spaaa-aaace!",
-        "description": "We're focusing on space news this week, but we did cover the usual amount of local news down here in Earth's gravity well: A new Tokamak reactor regime sustained stable plasma fusion for one full minute. An anomaly in global sea level rise turns out to be due to deep ocean heating. And Chinese researchers report that they found microplastics in every part of both healthy and diseased human brains.",
-        "url": "https://phys.org/news/2026-05-saturday-citations-spaaa-aaace.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/saturday-citations-in.jpg",
-        "publishedAt": "2026-05-02T13:00:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Galaxies, Artemis 2, space telescopes and stormtroopers: Here are the best photos from our staff",
-        "description": "Read on to see our favorite photos from Space.com 's staff, ranging from deep space astrophotography to storm trooper hijinks.",
-        "url": "https://www.space.com/stargazing/astrophotography/galaxies-artemis-2-space-telescopes-and-stormtroopers-here-are-the-best-photos-from-our-staff",
-        "image": "https://cdn.mos.cms.futurecdn.net/BsYiBJ4LdB7xtYEbX7kVkj-1920-80.jpg",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Space"
-      },
-      {
-        "title": "Scientists identify 10,000 'impossible' exoplanet candidates, potentially tripling the number of known alien worlds",
-        "description": "A new study has identified a potentially record-breaking haul of transiting exoplanets, thanks to a machine learning algorithm that analyzed the light curves of more than 80 million previously overlooked stars.",
-        "url": "https://www.livescience.com/space/exoplanets/scientists-identify-10-000-impossible-exoplanet-candidates-potentially-tripling-the-number-of-known-alien-worlds",
-        "image": "https://cdn.mos.cms.futurecdn.net/2ZNKmdnajRf7RmLsRsgJe9-1600-80.jpg",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "This Ancient Mars Rock Kept a Billion-Year-Old Secret, Curiosity Finally Cracked It Open",
-        "description": "NASA's Curiosity rover has uncovered 21 organic molecules hiding inside a 3.5-billion-year-old Martian rock — and seven of them have never been seen on Mars before.",
-        "url": "https://indiandefencereview.com/this-ancient-mars-rock-kept-a-secret/",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/05/this-ancient-mars-rock-kept-a-billion-year-old-secret-curiosity-finally-cracked-it-open-scaled.jpg",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Indian Defence Review"
-      },
-      {
-        "title": "NASA Fires Up Futuristic Plasma Thruster Designed to Take Us to Mars",
-        "description": "Yeah, that's really what it looks like.",
-        "url": "https://nz.news.yahoo.com/nasa-fires-futuristic-plasma-thruster-130000835.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/EiOzi4gIyNnXiAe3zgxXwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/635c11f9dc038c16ace93ee91afd8eed",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Yahoo News New Zealand"
-      },
-      {
-        "title": "NASA Fires Up Futuristic Plasma Thruster Designed to Take Us to Mars",
-        "description": "Earlier this year, NASA fired up a \"next generation\" prototype electric thruster, cranking it up to record power levels.",
-        "url": "https://futurism.com/space/nasa-fires-up-elcetric-thruster-mars",
-        "image": "https://futurism.com/wp-content/uploads/2026/04/nasa-fires-up-elcetric-thruster-mars.jpg?quality=85&w=1200",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "Futurism"
       }
     ],
     "ai": [
       {
-        "title": "Ever Monthly Tax Revenue of ₹5,542.7 Crore in April 2026 Under GST – Outlook Business",
-        "description": "Andhra Pradesh posted its highest-ever monthly tax revenue in April 2026, collecting ₹5,542.7 crore despite GST 2.0 rate cuts. Learn how AI-driven data analytics, stricter enforcement, and improved compliance boosted GST, petroleum VAT and professional tax collections for the state.",
-        "url": "https://www.outlookbusiness.com/economy-and-policy/andhra-nets-55427-cr-tax-revenue-in-april-highest-ever-monthly-collections",
-        "image": "https://media.assettype.com/outlookbusiness/2026-04-02/fwwa4853/ba154d3260532066b538c3a2f1de6d8f.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-05-02T13:12:54Z",
-        "source": "Outlook Business"
+        "title": "AI upskilling demand rises as mid-career professionals and non-tech roles enrol",
+        "description": "AI courses surge in India as mid-career and non-tech professionals enrol, driving edtech firms to redesign programmes for broader, business-focused use.",
+        "url": "https://www.thehindubusinessline.com/info-tech/mid-and-senior-level-professionals-drive-ai-learning-demand/article70932100.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/y0o54t/article70932246.ece/alternates/LANDSCAPE_1200/Indians-most-neGMTFRT5T2.4.jpg.jpg",
+        "publishedAt": "2026-05-02T14:02:30Z",
+        "source": "The Hindu Business Line"
       },
       {
-        "title": "The AI rush is hitting a bottleneck",
-        "description": "Hardware-makers are failing to invest enough to keep up with demand| Technology News",
-        "url": "https://www.hindustantimes.com/technology/the-ai-rush-is-hitting-a-bottleneck-101777727298549.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/02/550x309/20260502_WBD001_1777727376830_1777727382099.jpg",
-        "publishedAt": "2026-05-02T13:10:45Z",
-        "source": "Hindustan Times"
+        "title": "Spotify adds verification badge to distinguish human artists from AI",
+        "description": "LOS ANGELES — Spotify is adding a new level of verification to artists' profiles, in an effort to reassure subscribers worried about AI-generated music. Starting Friday, a \"Verified by Spotify\" badge will begin to appear on artist profiles across the platform. As AI avatars and music continue to break through on social media and streaming platforms, the marker is meant to be a more reliable ...",
+        "url": "https://www.courant.com/2026/05/02/spotify-adds-verification-badge-to-distinguish-human-artists-from-ai-2/",
+        "image": "https://www.courant.com/wp-content/uploads/2026/05/202605011515MCT_____PHOTO____ENTER-MUS-SPOTIFY-VERIFIED-FILEPIC-GET.jpg?w=1024&h=553",
+        "publishedAt": "2026-05-02T14:00:01Z",
+        "source": "Hartford Courant"
       },
       {
-        "title": "generated actors, writers not eligible for Oscar win—Academy",
-        "description": "Los Angeles – Actors created with artificial intelligence will not be eligible for an Oscar, the Academy of Motion Picture Arts and Sciences said as it",
-        "url": "https://manilastandard.net/news/world/314734878/ai-generated-actors-writers-not-eligible-for-oscar-win-academy.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/ai-actor-scaled.jpg",
-        "publishedAt": "2026-05-02T13:10:00Z",
-        "source": "manilastandard.net"
+        "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+        "description": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+        "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1134037713.jpg?resize=1200,800",
+        "publishedAt": "2026-05-02T14:00:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "SaintQuant Launches Free AI Crypto Trading Bot for Retail Investors Looking to Automate 24/7 Market Participation",
-        "description": "Australia-based platform gives 150,000+ traders access to institutional-grade automation - without the coding, the screen time, or the signal groups",
-        "url": "https://www.manilatimes.net/2026/05/02/tmt-newswire/globenewswire/saintquant-launches-free-ai-crypto-trading-bot-for-retail-investors-looking-to-automate-247-market-participation/2334244",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/02/1039801.jpg",
-        "publishedAt": "2026-05-02T13:05:57Z",
-        "source": "The Manila Times"
+        "title": "AiTradeBtc Launches an AI Trade Bot With a Mobile App For",
+        "description": "Crypto trading doesn’t slow down; it runs 24/7. For many traders, that means missed opportunities, emotional decisions, and long hours glued to charts. ...",
+        "url": "https://www.globenewswire.com/news-release/2026/05/02/3286313/0/en/aitradebtc-launches-an-ai-trade-bot-with-a-mobile-app-for-daily-traders-everywhere.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/e2e9a5ea-a02a-457d-b026-94644005e055",
+        "publishedAt": "2026-05-02T14:00:00Z",
+        "source": "GlobeNewswire"
       },
       {
-        "title": "OpenClaw Put Apple Back in the AI Game-And Now They Can't Build Macs Fast Enough",
-        "description": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
-        "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
-        "publishedAt": "2026-05-02T13:01:02Z",
-        "source": "Decrypt"
+        "title": "Motion Picture Academy Rules AI Actors & Writers Not Eligible for Oscars",
+        "description": "Actors created with artificial intelligence will not be eligible for an Oscar, the Academy of Motion Picture Arts and Sciences said Friday as it launched a crackdown on the use of AI. | Entertainment",
+        "url": "https://www.breitbart.com/entertainment/2026/05/02/motion-picture-academy-rules-ai-actors-writers-not-eligible-for-oscars/",
+        "image": "https://media.breitbart.com/media/2026/05/GettyImages-2263649396-1-640x335.jpg",
+        "publishedAt": "2026-05-02T13:55:21Z",
+        "source": "Breitbart News Network"
       },
       {
-        "title": "Man in India created fake AI conservative influencer using Google Gemini",
-        "description": "An AI-generated conservative female influencer was created by a 22-year-old man in India. Podcast host Emily Austin calls the trend \"frightening\" and urges more awareness.",
-        "url": "https://www.foxnews.com/media/didnt-exist-money-real-influencer-sounds-alarm-ai-deception",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/emily-austin-on-fake-influencer.gif",
-        "publishedAt": "2026-05-02T13:00:30Z",
-        "source": "Fox News"
+        "title": "We built AI to save us from email, and it somehow made email even more soul-sucking",
+        "description": "The grim future of AI is more than just job-stealing robots. It even has bots endlessly emailing other bots while humans pretend this is progress.",
+        "url": "https://www.digitaltrends.com/computing/we-built-ai-to-save-us-from-email-and-it-somehow-made-email-even-more-soul-sucking/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/04/Avec-Emails.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-02T13:51:52Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "Tucker Carlson nicotine pouches part of $4M in cargo recovered as theft ring exposed",
-        "description": "Photos from inside show branded boxes stacked floor to ceiling, including Carlson's ALP Drifter Nicotine, Foot Locker, Epson, DeepCool AI, Renkus-Heinz and Medicube.",
-        "url": "https://nypost.com/2026/05/02/us-news/tucker-carlson-nicotine-pouches-part-of-4m-in-cargo-recovered-as-theft-ring-exposed/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/tucker-carlson-nicotine.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "New York Post"
+        "title": "Donald Trump's weird flurry of late night posts",
+        "description": "Donald Trump has been branded 'not well' after a flurry of bizarre late-night social media posts, including AI-generated images of JD Vance and a photo of Melania Trump",
+        "url": "https://www.mirror.co.uk/news/us-news/donald-trump-late-night-posts-37102351",
+        "image": "https://i2-prod.mirror.co.uk/article37102460.ece/ALTERNATES/s1200d/4_Image.jpg",
+        "publishedAt": "2026-05-02T13:50:34Z",
+        "source": "The Mirror"
       },
       {
-        "title": "The Chinese spy bots behind Beijing’s AI heist in the West",
-        "description": "DeepSeek accused of using ‘distillation attacks’ to siphon information from Silicon Valley chatbots",
-        "url": "https://www.telegraph.co.uk/business/2026/05/02/the-chinese-spy-bots-behind-beijings-ai-heist-in-the-west/",
-        "image": "https://www.telegraph.co.uk/content/dam/business/2026/05/01/TELEMMGLPICT000481959172_17776644903580_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-05-02T13:00:00Z",
-        "source": "The Telegraph"
+        "title": "The AI tracker: Artists, tech giants and researchers are racing to control AI",
+        "description": "Global AI trends for 2026 highlight a shift toward legal protection and industrial application.",
+        "url": "https://www.financialexpress.com/life/technology/the-ai-tracker-artists-tech-giants-and-researchers-are-racing-to-control-ainbsp/4225393/",
+        "image": "https://images.financialexpressdigital.com/2026/05/ai_t.jpg",
+        "publishedAt": "2026-05-02T13:48:33Z",
+        "source": "The Financial Express"
       }
     ]
   }
