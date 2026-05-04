@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-04T18:53:25.870Z",
+  "fetchedAt": "2026-05-04T19:53:33.959Z",
   "sections": {
     "world": [
       {
-        "title": "South Africa's Giant Pain Problem",
-        "description": "Millions of South Africans suffer from chronic pain, and it's not being properly managed",
-        "url": "https://allafrica.com/stories/202605040109.html",
-        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-        "publishedAt": "2026-05-04T06:52:32Z",
-        "source": "allAfrica.com"
+        "title": "Africa Forward Summit to Explore New Financing Models for Continental Security, Foreign Affairs Says",
+        "description": "NAIROBI, Kenya, May 4 — The upcoming Africa Forward Summit is expected to advance high-level dialogue on institutional frameworks, financing mechanisms, - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
+        "url": "https://www.capitalfm.co.ke/news/2026/05/africa-forward-summit-to-explore-new-financing-models-for-continental-security-foreign-affairs-says/",
+        "image": "https://www.capitalfm.co.ke/news/files/2026/05/Foreign-Affairs-Principal-Secretary-Korir-Singoei.jpg",
+        "publishedAt": "2026-05-04T07:53:20Z",
+        "source": "Capitalfm.co.ke"
       },
       {
-        "title": "Israel Jobseekers Surge 2.5 Times as Iran Conflict Batters Labor Market",
-        "description": "New data shows jobseekers in Israel have surged 2.5 times as the conflict with Iran reshapes the labor market. Economic stability hangs in a delicate balance.",
-        "url": "https://streamlinefeed.co.ke/news/israel-jobseekers-surge-2-5-times-as-iran-conflict-batters-labor-market",
-        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/2ab99606-1742-4967-ae76-19d740a80467/1777880867978-bk0qpujox5j.webp",
-        "publishedAt": "2026-05-04T06:49:22Z",
-        "source": "streamlinefeed.co.ke"
+        "title": "Europe Today: Merz-Trump clash deepens over US troop pullout as European leaders meet in Armenia",
+        "description": "Tune in to Europe Today, Euronews' flagship morning programme at 8 am Brussels time. In just 20 minutes, we bring you up to speed on the biggest news of the day.",
+        "url": "https://www.euronews.com/my-europe/2026/05/04/europe-today-merztrump-clash-deepens-over-us-troop-pullout-as-european-leaders-meet-in-arm",
+        "image": "https://images.euronews.com/articles/stories/09/74/30/65/1200x675_cmsv2_1d84373c-d194-5034-bc30-06cbd2680f81-9743065.jpg",
+        "publishedAt": "2026-05-04T07:51:53Z",
+        "source": "Euronews.com"
       },
       {
-        "title": "News live: Lidia Thorpe urges Albanese to condemn Israel for interception of Gaza flotilla; Australia and Japan commit to ‘support the flow’ of energy",
-        "description": "Follow live",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
-        "image": "https://i.guim.co.uk/img/media/99f90e1ae96d16b8a1dddaf1ae012bed82be618c/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9d05dc2b144276b36dbce76b440d31d9",
-        "publishedAt": "2026-05-04T06:48:20Z",
+        "title": "Education, Human Rights & Inclusion: May 2026 Funding Opportunities (19 new opportunities!)",
+        "description": "51 active signals: Vocational and skills funding consolidates across protracted refugee contexts and emerging labor markets this month, while education research moves toward structural infrastructure.",
+        "url": "https://impactfunding.substack.com/p/education-human-rights-and-inclusion-cca",
+        "image": "https://substackcdn.com/image/fetch/$s_!qCAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6bab2af-11ba-4cac-9225-c893b597c28c_2000x1029.png",
+        "publishedAt": "2026-05-04T07:50:31Z",
+        "source": "Substack"
+      },
+      {
+        "title": "Reigniting the power of conversation among Africa’s youth",
+        "description": "DAR ES SALAAM: EZEKIEL Dembere (pictured), Tanzania’s ambassador for Imagine It Africa and strategic partner to Bright Yu Ltd, speaks to our reporter ANTONY TAMBWE on how structured dialogue is reshaping youth engagement across the continent through Imagine It Africa. Question: In brief, can you tell us about Imagine It Africa” Answer: Imagine It Africa",
+        "url": "https://dailynews.co.tz/reigniting-the-power-of-conversation-among-africas-youth/",
+        "image": "https://dailynews.co.tz/wp-content/uploads/2026/05/youth1.jpg",
+        "publishedAt": "2026-05-04T07:49:50Z",
+        "source": "dailynews.co.tz"
+      },
+      {
+        "title": "Gabon Creates Public Debt Oversight Committee Amid Rising Borrowing",
+        "description": "Gabon created a National Public Debt Committee to oversee debt policy, coordination and control.\nThe government also launched an audit to determine",
+        "url": "https://www.ecofinagency.com/news-finances/0405-55217-gabon-creates-public-debt-oversight-committee-amid-rising-borrowing",
+        "image": "https://www.ecofinagency.com/media/k2/items/cache/15b7855c1e3191180ba8caf18c34b146_S.jpg",
+        "publishedAt": "2026-05-04T07:45:50Z",
+        "source": "Ecofin Agency"
+      },
+      {
+        "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
+        "description": "Twenty-two crew members from the seized Iranian ship MV Touska have been transferred to Pakistan for repatriation.",
+        "url": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-21T014529Z_688648450_RC2DTKAV1K5B_RTRMADP_3_IRAN-CRISIS-SHIP-1777879138.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-04T07:41:15Z",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-05-04T07:41:15Z",
+        "source": "The Australian"
+      },
+      {
+        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties - UK politics live",
+        "description": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPs",
+        "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+        "image": "https://i.guim.co.uk/img/media/4013db1d5636aaab999a644f96a7c9759f1ee5e2/398_0_3969_3177/master/3969.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=840061e0278cb5a76a6ccf6d31de133e",
+        "publishedAt": "2026-05-04T07:40:00Z",
         "source": "The Guardian"
-      },
-      {
-        "title": "U.S. claims progress in reopening the Strait of Hormuz, saying two merchant ships have transited",
-        "description": "The U.S. military said Monday that two American-flagged merchant ships had successfully transited the Strait of Hormuz and that Navy guided-missile destroyers in the Persian Gulf were helping to restore shipping traffic. It separately denied Iran’s claims to have struck an American Navy vessel. The announcement came a day after U.S. President Donald Trump announced […]",
-        "url": "https://toronto.citynews.ca/2026/05/04/iran-war-united-states-strait-of-hormuz-latest/",
-        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/a526db54fbf845fdabafa30762a9173e4a5b0c69e05f32abfdc8067b6241e975-e1777904861900.jpg",
-        "publishedAt": "2026-05-04T06:42:00Z",
-        "source": "CityNews Toronto"
-      },
-      {
-        "title": "The EU Needs New Security Partners",
-        "description": "By Nicu Popescu and Fredrik Wesslau PARIS—For decades, much of Europe viewed military engagement through the lens of NATO or the European Union, since t",
-        "url": "https://www.chinausfocus.com/peace-security/the-eu-needs-new-security-partners",
-        "image": "https://www.chinausfocus.com/d/file/202605/42007a20138664fd3552619937b1bed9.jpg",
-        "publishedAt": "2026-05-04T06:41:49Z",
-        "source": "China-US Focus"
-      },
-      {
-        "title": "Asean's test in a fragmented global economy",
-        "description": "South-east Asia’s resilience will depend on greater economic integration within the region and continued strategic engagement with external partners",
-        "url": "https://www.businesstimes.com.sg/opinion-features/aseans-test-fragmented-global-economy",
-        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6f77019d4b42ff4e4d2e2a77b42f45f3bddc2fc955c4080816470e3d85f40c77?w=1200&f=webp",
-        "publishedAt": "2026-05-04T06:41:00Z",
-        "source": "The Business Times"
-      },
-      {
-        "title": "Trump says US forces to 'guide' stranded ships through Strait of Hormuz",
-        "description": "Trump made the pledge yesterday, despite Iranian warnings that US forces entering the Strait will be attacked.",
-        "url": "https://www.thejournal.ie/trump-us-strait-of-hormuz-iran-7030669-May2026/",
-        "image": "https://img2.thejournal.ie/article/7030669/river/?height=400&version=7030671",
-        "publishedAt": "2026-05-04T06:40:00Z",
-        "source": "The Journal"
-      },
-      {
-        "title": "EXPLAINER: How Hantavirus, spread by rodents, affects lungs and kidneys",
-        "description": "Three people have died and three others affected after a Netherlands-based cruise ship in the Antlantic Ocean was hit by a suspected outbreak of hantavirus. The World Health Organization, which is conducting detailed investigations including further laboratory testing and epidemiological analysis, has confirmed one case of hantavirus infection, with five additional suspected cases. A British […]",
-        "url": "https://www.kbc.co.ke/explainer-how-hantavirus-spread-by-rodents-affects-lungs-and-kidneys/",
-        "image": "https://www.kbc.co.ke/wp-content/uploads/2026/05/rodents.jpg",
-        "publishedAt": "2026-05-04T06:39:46Z",
-        "source": "KBC Digital"
       }
     ],
     "business": [
       {
-        "title": "Kampala to Host MICE Tourism Masterclass as Industry Eyes Future Growth",
-        "description": "Kampala — Tourism and events professionals in Uganda are set to converge later this month for a high-level masterclass aimed at strengthening skills and positioning the country within the fast-evolving global MICE tourism industry. The one-day training, organised by Event Academy Africa, will take place on May 23, 2026, at the Sheraton Kampala Hotel, bringing […]",
-        "url": "https://softpower.ug/kampala-to-host-mice-tourism-masterclass-as-industry-eyes-future-growth/",
-        "image": "https://softpower.ug/wp-content/uploads/2026/05/7a81c3a7-2413-4f21-8c28-b8596c666ef8-e1777877669273.jpg",
-        "publishedAt": "2026-05-04T06:53:10Z",
-        "source": "SoftPower News"
+        "title": "SEBI says RBI, IRDAI not in favour to allow commodity derivative investments; MCX shares fall up to 3.5%",
+        "description": "RBI and IRDAI are not in favor for banks and insurance companies participating in commodity derivatives, said SEBI chief Tuhin Kanta Pandey",
+        "url": "https://www.moneycontrol.com/news/business/markets/sebi-says-rbi-irdai-not-in-favour-to-allow-commodity-derivative-investments-mcx-shares-fall-up-to-3-5-13907508.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260420130755_MCX-GOOD-IMAGE-.png",
+        "publishedAt": "2026-05-04T07:51:17Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "AUD/USD secures four‑year highs ahead of critical RBA board meeting",
-        "description": "Explore the factors driving the Australian dollar as inflation pressures build.",
-        "url": "https://www.ig.com/en-ch/news-and-trade-ideas/aud-usd-secures-fouryear-highs-ahead-of-critical-rba-board-meeti-260504",
-        "image": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BB_Australian_dollor_coin_181124.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "publishedAt": "2026-05-04T06:48:43Z",
-        "source": "ig.com"
+        "title": "Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and Others, Cutting Out Anthropic",
+        "description": "The Pentagon has finalized AI agreements with eight companies including OpenAI, Google, Microsoft, and Nvidia, while Anthropic has been excluded.",
+        "url": "https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic/",
+        "image": "https://www.ghacks.net/wp-content/uploads/2026/05/gHacks-articles-2026-05-04T102344.230.png",
+        "publishedAt": "2026-05-04T07:51:06Z",
+        "source": "gHacks"
       },
       {
-        "title": "Adani Power, Ports & Enterprises: Why Jefferies just raised their target prices on 3 Adani group stocks",
-        "description": "Jefferies has raised target prices on Adani Power, Adani Ports and Adani Enterprises, maintaining ‘Buy ratings on strong operational performance, capacity expansions and improving realisations. Adani Ports saw EBITDA beat estimates, supported by higher domestic port realisations and upcoming capacity additions. The brokerage expects steady volume growth and strong EBITDA momentum across the Adani group.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-ports-enterprises-why-jefferies-just-raised-their-target-prices-on-3-adani-group-stocks/articleshow/130762556.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130762518,width-1200,height-630,imgsize-52282,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-04T06:46:19Z",
-        "source": "The Economic Times"
+        "title": "Aker Solutions, Vår Energi and KNCC Sign Memorandum of Understanding to Advance the Trudvang CCS Project in the North Sea",
+        "description": "Aker Solutions, Knutsen NYK Carbon Carriers AS (KNCC) and Vår Energi CCS AS, operator for Trudvang CCS ANS have signed a Memorandum of Understanding (MoU) to jointly advance the development of an integrated CO₂ transportation and storage value chain on the Norwegian Continental Shelf.",
+        "url": "https://www.akersolutions.com/news/news-archive/2026/aker-solutions-var-energi-and-kncc-sign-memorandum-of-understanding-to-advance-the-trudvang-ccs-project-in-the-north-sea---ak/",
+        "image": "https://www.akersolutions.com/favicon.ico",
+        "publishedAt": "2026-05-04T07:50:25Z",
+        "source": "Aker Solutions"
       },
       {
-        "title": "VinFast offers a more predictable way to commute as fuel prices climb",
-        "description": "As fuel prices climb in the Philippines, VinFast EVs are emerging as a practical option, offering more predictable costs and a simpler daily commute for",
-        "url": "https://manilastandard.net/on-the-road/314735444/vinfast-offers-a-more-predictable-way-to-commute-as-fuel-prices-climb-2.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/vinfast-1024x683.jpg",
-        "publishedAt": "2026-05-04T06:42:50Z",
+        "title": "ICTSI nets $314.69M in Q1 2026",
+        "description": "Razon-led International Container Terminal Services Inc. (ICTSI) reported double-digit growth in both its top and bottom lines for the first quarter of the year, as the company recorded higher volumes and tariff adjustments during the period.",
+        "url": "https://www.gmanetwork.com/news/money/companies/986329/ictsi-nets-314-69m-in-q1-2026/story/",
+        "image": "https://images.gmanews.tv/webpics/2025/11/ictsi_2025_11_06_18_30_11.jpg",
+        "publishedAt": "2026-05-04T07:43:52Z",
+        "source": "GMA Network"
+      },
+      {
+        "title": "Philippine manufacturing shrank for first time in 5 months as costs surge",
+        "description": "Filipino manufacturing conditions deteriorated in April for the first time since November 2025 as a sharp drop in new orders and rising costs linked to",
+        "url": "https://manilastandard.net/business/314735496/philippine-manufacturing-shrank-for-first-time-in-5-months-as-costs-surge.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/04/SP-global-office.jpg",
+        "publishedAt": "2026-05-04T07:43:08Z",
         "source": "Manila Standard"
       },
       {
-        "title": "NutriAsia Leaders Honored at 2026 Mansmith Market Masters Awards",
-        "description": "NutriAsia Inc. (NAI), makers of the Philippines’ best condiments and sauces, celebrated yet another round of recognition as two of its marketing leaders",
-        "url": "https://manilastandard.net/spotlight/314735451/nutriasia-leaders-honored-at-2026-mansmith-market-masters-awards.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/nutriasia-leaders.png",
-        "publishedAt": "2026-05-04T06:42:50Z",
-        "source": "Manila Standard"
+        "title": "New 118 Mall confirms August launch, reveals tenant list",
+        "description": "KUALA LUMPUR, May 4 — Set at the foot of  Menara 118, the world’s second-tallest skyscraper, the new 118 Mall will officially open its doors this August.Currently in its final...",
+        "url": "https://www.malaymail.com/news/life/2026/05/04/new-118-mall-confirms-august-launch-reveals-tenant-list/218705",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/04/339125.jpg",
+        "publishedAt": "2026-05-04T07:42:30Z",
+        "source": "Malay Mail"
       },
       {
-        "title": "Up to 1,020 Jobs at Risk as Oil Crunch Disrupts Plastic Industry",
-        "description": "Up to 1,020 jobs at risk as oil supply shock disrupts Indonesia’s plastic industry, with GDP losses seen up to Rp 1.4 trillion.",
-        "url": "https://jakartaglobe.id/business/up-to-1020-jobs-at-risk-as-oil-crunch-disrupts-plastic-industry",
-        "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/04/1775050827-960x720.webp",
-        "publishedAt": "2026-05-04T06:40:00Z",
-        "source": "Jakarta Globe"
+        "title": "AI cost-cutting not a legal excuse to fire workers, Chinese court says",
+        "description": "The latest court ruling comes amid fears of AI-driven job displacement, especially among young workers.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/04/7c26400d-5b97-4c6e-a205-1ebc1fe098cc_6dcb75d2.jpg?itok=fqFOZOJr&v=1777874116",
+        "publishedAt": "2026-05-04T07:42:16Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Bulls in control as PSX gains 4,000 points during intraday trade",
-        "description": "Rally comes as global oil prices eased after Trump said the US would begin an effort to free up ships stranded in the Strait of Hormuz.",
-        "url": "https://www.dawn.com/news/1997405",
-        "image": "https://i.dawn.com/large/2026/05/041133432f04bf6.webp",
-        "publishedAt": "2026-05-04T06:39:25Z",
-        "source": "Dawn"
-      },
-      {
-        "title": "VinFast offers a more predictable way to commute as fuel prices climb",
-        "description": "As fuel prices climb in the Philippines, VinFast EVs are emerging as a practical option, offering more predictable costs and a simpler daily commute for",
-        "url": "https://manilastandard.net/on-the-road/314735445/vinfast-offers-a-more-predictable-way-to-commute-as-fuel-prices-climb.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/main-kv-1024x683.jpg",
-        "publishedAt": "2026-05-04T06:37:50Z",
-        "source": "Manila Standard"
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-05-04T07:41:19Z",
+        "source": "The Australian"
       }
     ],
     "science": [
+      {
+        "title": "Subaru Telescope sheds light on Jupiter Trojans",
+        "description": "The Trojans are two swarms of asteroids trapped by Jupiter. New research helps constrain their origins and evolution.",
+        "url": "https://www.news9live.com/science/subaru-telescope-sheds-light-on-jupiter-trojans-2967980",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/05/Jupiter-Trojans.jpg",
+        "publishedAt": "2026-05-04T07:49:41Z",
+        "source": "News9live"
+      },
+      {
+        "title": "Mars will deliver a violent death to its own Moon sooner than expected",
+        "description": "Phobos, the closer of the two Martian Moons, is being pulled towards the planet and is one day expected to be completely obliterated by the tidal forces. However, this will happen much sooner and will be extremely brutal.",
+        "url": "https://www.wionews.com/science/mars-will-deliver-a-violent-death-to-its-own-moon-sooner-than-expected-1777879100784",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260504/image-1777880128046.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-05-04T07:37:00Z",
+        "source": "WION"
+      },
+      {
+        "title": "25 million year old fossils reveal how ancient Platypus was a fierce predator with a stronger bite than its modern relatives",
+        "description": "Animals & Pets News: Fossil records dating back 25 million years that show evidence of platypuses, including those classified under Obdurodon insignis, have significantly .",
+        "url": "https://timesofindia.indiatimes.com/etimes/animals/25-million-year-old-fossils-reveal-how-ancient-platypus-was-a-fierce-predator-with-a-stronger-bite-than-its-modern-relatives/articleshow/130763122.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130763837,width-1280,height-720,imgsize-780014,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-04T07:30:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Artemis II, the moon, and finding God in space",
+        "description": "The Artemis II launch ignited something deep down in the soul.",
+        "url": "https://angelusnews.com/voices/artemis-ii-god/",
+        "image": "https://angelusnews.com/wp-content/uploads/2026/05/20260406T2056-ARTEMIS-II-WONDER-AWE-1817000-e1777657962160-1024x577.jpg",
+        "publishedAt": "2026-05-04T07:01:59Z",
+        "source": "Angelus News"
+      },
+      {
+        "title": "Does the Future of Lunar Exploration Involve Hummus?",
+        "description": "Researchers recently demonstrated that the Moon's soil can support plant life and is capable of growing crops. Is hummus next?",
+        "url": "https://www.insidehook.com/science/does-future-lunar-exploration-involve-hummus",
+        "image": "https://www.insidehook.com/wp-content/uploads/2026/05/hummus.jpg?resize=1200,800",
+        "publishedAt": "2026-05-04T06:55:24Z",
+        "source": "InsideHook"
+      },
       {
         "title": "Supermassive black holes launch the most powerful cosmic jets",
         "description": "From within our own galaxy to behemoths billions of light-years away, supermassive black holes create jets like nothing else in the cosmos.",
@@ -158,112 +198,72 @@
         "image": "https://s.yimg.com/os/en/the_independent_635/e1033b9ea4234c29ba78888117389c7d",
         "publishedAt": "2026-05-04T05:54:00Z",
         "source": "Yahoo News Canada"
-      },
-      {
-        "title": "Dozens of Star Wars Tatooine-like planets with two suns discovered in new space survey",
-        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
-        "url": "https://www.independent.co.uk/space/star-wars-tatooine-planets-suns-b2969917.html",
-        "image": "https://static.independent.co.uk/2026/05/04/3/44/A-circumbinary-planet.jpeg?trim=200,0,199,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-05-04T05:54:00Z",
-        "source": "The Independent"
-      },
-      {
-        "title": "Dozens of Star Wars Tatooine-like planets discovered in new space survey",
-        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
-        "url": "https://ca.news.yahoo.com/dozens-star-wars-tatooine-planets-055427300.html",
-        "image": "https://s.yimg.com/os/en/the_independent_577/e1033b9ea4234c29ba78888117389c7d",
-        "publishedAt": "2026-05-04T05:54:00Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "Sophisticated simulations reveal how black holes eat stars",
-        "description": "Black holes can occasionally snack on stars that wander too close. New simulations have revealed tidal disruption events in unprecedented detail.",
-        "url": "https://www.news9live.com/science/sophisticated-simulations-reveal-how-black-holes-eat-stars-2967881",
-        "image": "https://images.news9live.com/wp-content/uploads/2026/05/TDE.jpg",
-        "publishedAt": "2026-05-04T05:52:34Z",
-        "source": "News9live"
-      },
-      {
-        "title": "NASA’s James Webb Space Telescope detects ‘little red dots’: New X-ray data hints at hidden supermassive black holes",
-        "description": "Science News: Something odd is hiding in the early universe, and astronomers are only just beginning to notice it. Using the James Webb Space Telescope, researchers.",
-        "url": "https://timesofindia.indiatimes.com/science/nasas-james-webb-space-telescope-detects-little-red-dots-new-x-ray-data-hints-at-hidden-supermassive-black-holes/articleshow/130748288.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130757067,width-1280,height-720,imgsize-14296,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-04T05:46:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Kangaroos Reveal 'upside-down' Evolution",
-        "description": "Stock photo courtesy Getty ImagesNew research led by Flinders University argues thick tooth enamel helped kangaroos chart an unconventional evolution",
-        "url": "https://www.miragenews.com/kangaroos-reveal-upside-down-evolution-1666699/",
-        "image": "https://news.flinders.edu.au/wp-content/uploads/2026/05/giant_kangaroo_skull-300x169.jpg",
-        "publishedAt": "2026-05-04T05:40:00Z",
-        "source": "Mirage News"
       }
     ],
     "ai": [
       {
-        "title": "SEBI to issue advisory on AI risks, investor empowerment next phase for SEBI mandate: Tuhin Kanta Pandey",
-        "description": "Speaking at the IMC Capital Markets conference, SEBI Chair Tuhin Kanta Pandey noted that a growing India needs innovation that solves real problems, reducing friction, widening access, lowering costs, and supporting capital formation",
-        "url": "https://www.moneycontrol.com/news/business/markets/sebi-to-issue-advisory-on-ai-risks-investor-empowerment-next-phase-for-sebi-mandate-tuhin-kanta-pandey-13907418.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260307040142_stocks5.jpg",
-        "publishedAt": "2026-05-04T06:52:26Z",
-        "source": "Moneycontrol"
-      },
-      {
-        "title": "Oscars: New rules announced - AI actors and scripts cannot win awards",
-        "description": "The Academy has updated its rules for how artificial intelligence is used, including one that says all screenplays must be humanly created. There are more ambiguous statements regarding acting, however...",
-        "url": "https://www.euronews.com/culture/2026/05/04/oscars-new-rules-announced-ai-actors-and-scripts-cannot-win-awards",
-        "image": "https://images.euronews.com/articles/stories/09/74/53/62/1200x675_cmsv2_49fa6045-3f04-55a2-b3b5-d857a6722b88-9745362.jpg",
-        "publishedAt": "2026-05-04T06:51:58Z",
-        "source": "Euronews"
-      },
-      {
-        "title": "Prudent Corporate launches AI platform ‘Edge+’ for mutual fund distributors",
-        "description": "Prudent Corporate launches Edge+, an AI platform for mutual fund distributors to enhance client servicing and drive business growth.",
-        "url": "https://www.thehindubusinessline.com/markets/prudent-corporate-launches-ai-platform-edge-for-mutual-fund-distributors/article70937666.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/m2owbi/article70937703.ece/alternates/LANDSCAPE_1200/IMG_bl20_corporate_loan_2_1_GQF24N0V.jpg",
-        "publishedAt": "2026-05-04T06:51:13Z",
-        "source": "The Hindu Business Line"
-      },
-      {
-        "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and an ‘embarrassment’",
-        "description": "Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia",
-        "url": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
-        "image": "https://i.guim.co.uk/img/media/7946d2a8f02eb3a4b2dd2009f98e6cab79215463/0_0_3167_2535/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91caa643dd20942a067b8a75b832eff9",
-        "publishedAt": "2026-05-04T06:49:38Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Chamath Palihapitiya Warns Power Crunch Could Cripple OpenAI And Anthropic, Says Elon Musk Holds Massive",
-        "description": "Chamath Palihapitiya says AI power shortages could hurt OpenAI and Anthropic while strengthening Elon Musk's infrastructure advantage.",
-        "url": "https://www.benzinga.com/markets/tech/26/05/52240337/chamath-palihapitiya-warns-power-crunch-could-cripple-openai-and-anthropic-says-elon-musk-holds-massive-ai-leverage",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/05/04/OpenAI-Partners-With-Government.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-05-04T06:49:10Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "OpenAI says AI now writes 80% of its code, signalling new coding era",
-        "description": "AI is rapidly transforming software development, with tools now generating up to 80 per cent of code in some workflows. Tech leaders from OpenAI and Google say engineers are becoming supervisors rather than writers, but recent failures highlight serious safety risks and the continued need for human oversight. `",
-        "url": "https://www.firstpost.com/tech/openai-says-ai-now-writes-80-of-its-code-signalling-new-coding-era-14007271.html",
-        "image": "https://images.firstpost.com/uploads/2026/01/2026-01-08T001507Z_1924435200_RC2LU7A9R3ZA_RTRMADP_3_OPENAI-STOCK-GRANT-2026-01-feaa3fd62ed5a4c2a50f5a80cd05ee34-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-04T06:48:08Z",
-        "source": "Firstpost"
-      },
-      {
-        "title": "Apple to introduce AI photo editing tools and Siri camera mode in iOS 27",
-        "description": "Mobiles & Tablets News: Apple is all set to unveil its the next version of its iOS operating system— iOS 27 at the upcoming WWDC 2026. Now a report by Bloomberg’s Mark Gurman.",
-        "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-to-introduce-ai-photo-editing-tools-and-siri-camera-mode-in-ios-27/articleshow/130763387.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130763285,width-1280,height-720,imgsize-41422,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-04T06:48:00Z",
+        "title": "Meet the lawyer who beat ‘forced’ Elon Musk for to buy Twitter in 2022 and is now defending Sam Altman’s OpenAI",
+        "description": "Tech News News: Elon Musk and Sam Altman are locked in a legal battle over OpenAI’s business strategy. Musk claims that OpenAI was founded with a non-profit motive to.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meet-the-lawyer-who-beat-forced-elon-musk-for-to-buy-twitter-in-2022-and-is-now-defending-sam-altmans-openai/articleshow/130769912.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130769811,width-1280,height-720,imgsize-44990,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-04T07:52:00Z",
         "source": "Times of India"
       },
       {
-        "title": "Ng Chee Meng to ask Parliament to affirm no ‘jobless growth’ amid AI; MPs query bullying review",
-        "description": "Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/politics/ng-chee-meng-to-ask-parliament-to-affirm-no-jobless-growth-amid-ai-mps-query-bullying-review",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2a0468032035d7d64e07281fb6c47a2f1405a0a889724a85035afcdae12c637d",
-        "publishedAt": "2026-05-04T06:45:00Z",
-        "source": "The Straits Times"
+        "title": "Rutherglen IT support firm beats 115 global rivals to land $2m AI contract",
+        "description": "Certum has been appointed to roll out artificial intelligence and automation solutions to increase productivity and service delivery.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/rutherglen-support-firm-beats-115-37096965",
+        "image": "https://i2-prod.dailyrecord.co.uk/article37096973.ece/ALTERNATES/s1200d/0_RMR_RRN_010526_Certum_01.jpg",
+        "publishedAt": "2026-05-04T07:50:00Z",
+        "source": "Daily Record"
+      },
+      {
+        "title": "RBI, Irdai not inclined to allow investments in commodity derivatives: Sebi",
+        "description": "Sebi chairman Tuhin Kanta Pandey said banking and insurance regulators have valid concerns, while the market regulator plans an advisory on risks from AI-led models like Mythos",
+        "url": "https://www.business-standard.com/markets/news/rbi-irdai-not-inclined-to-allow-investments-in-commodity-derivatives-sebi-126050400628_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/27/thumb/featurecrop/1200X628/1777269871-4112.jpg",
+        "publishedAt": "2026-05-04T07:44:53Z",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Will the real Anne Boleyn please stand up?",
+        "description": "A 200-year-old art historical assumption is overturned as AI facial recognition suggests that 81 sketches by Hans Holbein the Younger have been misidentified",
+        "url": "https://www.thetimes.com/uk/technology-uk/article/anne-boleyn-holbein-sketches-misidentified-f9vs28nh2",
+        "image": "https://www.thetimes.com/imageserver/image/3e0a3fc0-a16b-4c94-950f-88d1cbd534b0.jpg?strip=all&format=webp&crop=1500px%2C844px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-05-04T07:43:35Z",
+        "source": "The Sunday Times"
+      },
+      {
+        "title": "AI cost-cutting not a legal excuse to fire workers, Chinese court says",
+        "description": "The latest court ruling comes amid fears of AI-driven job displacement, especially among young workers.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/04/7c26400d-5b97-4c6e-a205-1ebc1fe098cc_6dcb75d2.jpg?itok=fqFOZOJr&v=1777874116",
+        "publishedAt": "2026-05-04T07:42:16Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "PIB Fact Check Flags Scheme Claiming Rs 40 Lakh Return On Rs 22,000 Investment",
+        "description": "A viral post claiming Rs 40 lakh returns on Rs 22,000 via a Quantum AI scheme has been flagged fake by PIB Fact Check, which warns users against misleading investment scams",
+        "url": "https://www.outlookmoney.com/news/pib-fact-check-flags-scheme-claiming-rs-40-lakh-return-on-rs-22000-investment",
+        "image": "https://media.assettype.com/outlookmoney/2025-11-20/cn2s6lu7/scamss.jpg?w=1200",
+        "publishedAt": "2026-05-04T07:33:36Z",
+        "source": "Outlook Money"
+      },
+      {
+        "title": "XRP Healthcare Confirms \"One Ecosystem, Two Layers\" Model as XRPHAI Rewards Go Live on XRPL Following Successful MEXC Listing",
+        "description": "/PRNewswire/ -- XRP Healthcare is the first AI healthcare platform built on the XRP Ledger (XRPL), integrating artificial intelligence, blockchain...",
+        "url": "https://www.prnewswire.co.uk/news-releases/xrp-healthcare-confirms-one-ecosystem-two-layers-model-as-xrphai-rewards-go-live-on-xrpl-following-successful-mexc-listing-302760748.html",
+        "image": "https://mma.prnewswire.com/media/2971506/One_Ecosystem_Two_Layers.jpg?p=facebook",
+        "publishedAt": "2026-05-04T07:30:00Z",
+        "source": "PR Newswire UK"
+      },
+      {
+        "title": "Walmart could be prepping a budget smart speaker with Gemini baked in",
+        "description": "This potentially marks the first third-party device to launch with Gemini since Google began its AI pivot.",
+        "url": "https://www.androidcentral.com/accessories/smart-home/walmart-could-be-prepping-a-budget-smart-speaker-with-gemini-baked-in",
+        "image": "https://cdn.mos.cms.futurecdn.net/CyHVx3dXTPNBh6LpJeKYxL-2500-80.jpg",
+        "publishedAt": "2026-05-04T07:24:42Z",
+        "source": "Android Central"
       }
     ]
   }
