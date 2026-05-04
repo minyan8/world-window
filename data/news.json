@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-04T17:51:09.458Z",
+  "fetchedAt": "2026-05-04T18:53:25.870Z",
   "sections": {
     "world": [
       {
-        "title": "WHO alert as Hantavirus infection on cruise ship leaves three dead",
-        "description": "Three people have died and one is in intensive care after a cluster of hantavirus infections linked to a cruise ship in the Atlantic Ocean, the World Health Organization has confirmed. One case has been confirmed by laboratory testing and five others are suspected. “WHO is aware of and supporting a public health event involving […]",
-        "url": "https://www.kbc.co.ke/who-alert-as-hantavirus-outbreak-on-cruise-ship-leaves-three-dead/",
-        "image": "https://www.kbc.co.ke/wp-content/uploads/2026/05/cruise.jpg",
-        "publishedAt": "2026-05-04T05:47:22Z",
-        "source": "KBC Digital"
-      },
-      {
-        "title": "Iran Warns US Over Plan to Escort Ships in Strait of Hormuz",
-        "description": "Iran warns that any US interference in the Strait of Hormuz will be considered a ceasefire violation as the US plans to escort commercial vessels.",
-        "url": "https://punchng.com/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2025/07/20212035/iran.jpg",
-        "publishedAt": "2026-05-04T05:46:51Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Brussels looks to Trump-proof Turnberry",
-        "description": "Presented by Google By GABRIEL GAVIN PRESENTED BY Send tips here | Follow us @gerardofortuna @NicholasVinocur @GabrielGavin | Listen to Playbook and view in your browser LABRĪT. I’m Gabriel G…",
-        "url": "https://www.politico.eu/newsletter/brussels-playbook/brussels-looks-to-trump-proof-turnberry/",
-        "image": "https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png",
-        "publishedAt": "2026-05-04T05:46:00Z",
-        "source": "politico.eu"
-      },
-      {
-        "title": "US readies Project Freedom in Hormuz; Iran warns 'Trump’s delusional posts' won't man",
-        "description": "CENTCOM says the operation will include guided-missile destroyers, more than 100 land- and sea-based aircraft, multidomain unmanned platforms and 15,000 service members",
-        "url": "https://www.ynetnews.com/article/bkbxg2srwl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/18/Sy1Uy3e6Wx/Sy1Uy3e6Wx_0_0_850_479_0_large.jpg",
-        "publishedAt": "2026-05-04T05:45:00Z",
-        "source": "ynetnews"
-      },
-      {
-        "title": "Nigeria: Xenophobia - Nigeria Warns Citizens Ahead of Monday Anti-Foreigner Protests in South Africa",
-        "description": "The Consulate General of Nigeria in Johannesburg has issued a security advisory to Nigerians living in South Africa ahead of planned nationwide anti-foreigner protests scheduled for May 4, 2026.",
-        "url": "https://allafrica.com/stories/202605040082.html",
-        "image": "https://cdn.allafrica.com/download/pic/main/main/csiid/00681295:173d515e4d51a3321c9a574ddbf89724:arc614x376:w1200.jpg",
-        "publishedAt": "2026-05-04T05:42:42Z",
+        "title": "South Africa's Giant Pain Problem",
+        "description": "Millions of South Africans suffer from chronic pain, and it's not being properly managed",
+        "url": "https://allafrica.com/stories/202605040109.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-05-04T06:52:32Z",
         "source": "allAfrica.com"
       },
       {
-        "title": "Climber found dead 800m from base of Johor mountain",
-        "description": "The victim had climbed the mountain with his three male friends, said police. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/climber-found-dead-800m-from-base-of-johor-mountain",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7885b8a6243f1c55cb9e7fcd5647dd46730a944343caa1d36768a74076318b2e",
-        "publishedAt": "2026-05-04T05:40:00Z",
-        "source": "The Straits Times"
+        "title": "Israel Jobseekers Surge 2.5 Times as Iran Conflict Batters Labor Market",
+        "description": "New data shows jobseekers in Israel have surged 2.5 times as the conflict with Iran reshapes the labor market. Economic stability hangs in a delicate balance.",
+        "url": "https://streamlinefeed.co.ke/news/israel-jobseekers-surge-2-5-times-as-iran-conflict-batters-labor-market",
+        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/2ab99606-1742-4967-ae76-19d740a80467/1777880867978-bk0qpujox5j.webp",
+        "publishedAt": "2026-05-04T06:49:22Z",
+        "source": "streamlinefeed.co.ke"
       },
       {
-        "title": "Drone Hits Moscow High-Rise Near Kremlin as Ukraine Intensifies Pre-Victory Day Strikes",
-        "description": "The renewed attacks come just days before Russia’s May 9 Victory Day parade – a key Kremlin showpiece. Authorities have already scaled back the event.",
-        "url": "https://www.kyivpost.com/post/75335",
-        "image": "https://static.kyivpost.com/storage/2026/05/04/4cae194a962a53ea02b22eb589138590.png?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-05-04T05:37:59Z",
-        "source": "Kyiv Post"
+        "title": "News live: Lidia Thorpe urges Albanese to condemn Israel for interception of Gaza flotilla; Australia and Japan commit to ‘support the flow’ of energy",
+        "description": "Follow live",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
+        "image": "https://i.guim.co.uk/img/media/99f90e1ae96d16b8a1dddaf1ae012bed82be618c/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9d05dc2b144276b36dbce76b440d31d9",
+        "publishedAt": "2026-05-04T06:48:20Z",
+        "source": "The Guardian"
       },
       {
-        "title": "United Nations Internship Opportunity - Environment Affairs (UNEP): Apply By 6 May 2026",
-        "description": "The United Nations is recruiting for an internship position in Environment Affairs within the United Nations Environment Programme (United Nations Environment",
-        "url": "https://www.globalsouthopportunities.com/2026/05/04/intern-21/",
-        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2024/05/UNEP_Preview_image.jpg",
-        "publishedAt": "2026-05-04T05:36:20Z",
-        "source": "Global South Opportunities"
+        "title": "U.S. claims progress in reopening the Strait of Hormuz, saying two merchant ships have transited",
+        "description": "The U.S. military said Monday that two American-flagged merchant ships had successfully transited the Strait of Hormuz and that Navy guided-missile destroyers in the Persian Gulf were helping to restore shipping traffic. It separately denied Iran’s claims to have struck an American Navy vessel. The announcement came a day after U.S. President Donald Trump announced […]",
+        "url": "https://toronto.citynews.ca/2026/05/04/iran-war-united-states-strait-of-hormuz-latest/",
+        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/a526db54fbf845fdabafa30762a9173e4a5b0c69e05f32abfdc8067b6241e975-e1777904861900.jpg",
+        "publishedAt": "2026-05-04T06:42:00Z",
+        "source": "CityNews Toronto"
+      },
+      {
+        "title": "The EU Needs New Security Partners",
+        "description": "By Nicu Popescu and Fredrik Wesslau PARIS—For decades, much of Europe viewed military engagement through the lens of NATO or the European Union, since t",
+        "url": "https://www.chinausfocus.com/peace-security/the-eu-needs-new-security-partners",
+        "image": "https://www.chinausfocus.com/d/file/202605/42007a20138664fd3552619937b1bed9.jpg",
+        "publishedAt": "2026-05-04T06:41:49Z",
+        "source": "China-US Focus"
+      },
+      {
+        "title": "Asean's test in a fragmented global economy",
+        "description": "South-east Asia’s resilience will depend on greater economic integration within the region and continued strategic engagement with external partners",
+        "url": "https://www.businesstimes.com.sg/opinion-features/aseans-test-fragmented-global-economy",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6f77019d4b42ff4e4d2e2a77b42f45f3bddc2fc955c4080816470e3d85f40c77?w=1200&f=webp",
+        "publishedAt": "2026-05-04T06:41:00Z",
+        "source": "The Business Times"
+      },
+      {
+        "title": "Trump says US forces to 'guide' stranded ships through Strait of Hormuz",
+        "description": "Trump made the pledge yesterday, despite Iranian warnings that US forces entering the Strait will be attacked.",
+        "url": "https://www.thejournal.ie/trump-us-strait-of-hormuz-iran-7030669-May2026/",
+        "image": "https://img2.thejournal.ie/article/7030669/river/?height=400&version=7030671",
+        "publishedAt": "2026-05-04T06:40:00Z",
+        "source": "The Journal"
+      },
+      {
+        "title": "EXPLAINER: How Hantavirus, spread by rodents, affects lungs and kidneys",
+        "description": "Three people have died and three others affected after a Netherlands-based cruise ship in the Antlantic Ocean was hit by a suspected outbreak of hantavirus. The World Health Organization, which is conducting detailed investigations including further laboratory testing and epidemiological analysis, has confirmed one case of hantavirus infection, with five additional suspected cases. A British […]",
+        "url": "https://www.kbc.co.ke/explainer-how-hantavirus-spread-by-rodents-affects-lungs-and-kidneys/",
+        "image": "https://www.kbc.co.ke/wp-content/uploads/2026/05/rodents.jpg",
+        "publishedAt": "2026-05-04T06:39:46Z",
+        "source": "KBC Digital"
       }
     ],
     "business": [
       {
-        "title": "Why this struggling ASX tech giant is finding buyers again",
-        "description": "Xero Ltd (ASX: XRO) shares are climbing after a pricing update, but investors are now watching for signs of follow-through in upcoming results.",
-        "url": "https://www.fool.com.au/2026/05/04/why-this-struggling-asx-tech-giant-is-finding-buyers-again/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2021/07/Man-on-computer-looking-at-graphs-1200x675.jpg",
-        "publishedAt": "2026-05-04T05:47:35Z",
-        "source": "The Motley Fool Australia"
+        "title": "Kampala to Host MICE Tourism Masterclass as Industry Eyes Future Growth",
+        "description": "Kampala — Tourism and events professionals in Uganda are set to converge later this month for a high-level masterclass aimed at strengthening skills and positioning the country within the fast-evolving global MICE tourism industry. The one-day training, organised by Event Academy Africa, will take place on May 23, 2026, at the Sheraton Kampala Hotel, bringing […]",
+        "url": "https://softpower.ug/kampala-to-host-mice-tourism-masterclass-as-industry-eyes-future-growth/",
+        "image": "https://softpower.ug/wp-content/uploads/2026/05/7a81c3a7-2413-4f21-8c28-b8596c666ef8-e1777877669273.jpg",
+        "publishedAt": "2026-05-04T06:53:10Z",
+        "source": "SoftPower News"
       },
       {
-        "title": "Milky Mist raises around ₹480 crore from Temasek in a pre-IPO round",
-        "description": "Milky Mist raises ₹480 crore from Temasek ahead of its IPO, reporting ₹3,275 crore revenue in FY26.",
-        "url": "https://www.thehindubusinessline.com/companies/milky-mist-raises-around-480-crore-from-temasek-in-a-pre-ipo-round/article70937487.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/tmsx2g/article70937504.ece/alternates/LANDSCAPE_1200/2026-04-28T124000Z_194407342_RC28YKATO5K5_RTRMADP_3_MILKYMIST-IPO.JPG",
-        "publishedAt": "2026-05-04T05:45:58Z",
-        "source": "BusinessLine"
+        "title": "AUD/USD secures four‑year highs ahead of critical RBA board meeting",
+        "description": "Explore the factors driving the Australian dollar as inflation pressures build.",
+        "url": "https://www.ig.com/en-ch/news-and-trade-ideas/aud-usd-secures-fouryear-highs-ahead-of-critical-rba-board-meeti-260504",
+        "image": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BB_Australian_dollor_coin_181124.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "publishedAt": "2026-05-04T06:48:43Z",
+        "source": "ig.com"
       },
       {
-        "title": "How to Get Real Estate Leads from Google in 2026",
-        "description": "Search behavior has shifted. Users now expect instant answers, not long lists of links. AI-powered search tools are transforming how people find services,...",
-        "url": "https://streamlinefeed.co.ke/news/how-to-get-real-estate-leads-from-google-in-2026-224a0fb3",
-        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/media/30bb0d51-a53e-46fc-bb9d-0dc1208a7454/233a6744-e8d2-44a0-ab04-a70bdfae1fcc.png",
-        "publishedAt": "2026-05-04T05:43:56Z",
-        "source": "streamlinefeed.co.ke"
+        "title": "Adani Power, Ports & Enterprises: Why Jefferies just raised their target prices on 3 Adani group stocks",
+        "description": "Jefferies has raised target prices on Adani Power, Adani Ports and Adani Enterprises, maintaining ‘Buy ratings on strong operational performance, capacity expansions and improving realisations. Adani Ports saw EBITDA beat estimates, supported by higher domestic port realisations and upcoming capacity additions. The brokerage expects steady volume growth and strong EBITDA momentum across the Adani group.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-ports-enterprises-why-jefferies-just-raised-their-target-prices-on-3-adani-group-stocks/articleshow/130762556.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130762518,width-1200,height-630,imgsize-52282,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-05-04T06:46:19Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Hutama Karya beats Q1 profit target on cost discipline, toll road strength",
-        "description": "By Romel S Gurky State-owned infrastructure firm PT Hutama Karya Persero reported stronger-than-expected earnings in the",
-        "url": "https://www.petromindo.com/news/article/hutama-karya-beats-q1-profit-target-on-cost-discipline-toll-road-strength",
-        "image": "https://img.petromindo.com/cdn-cgi/image/quality=80,format=auto/petromindogambar/Gedung-HK-1.png",
-        "publishedAt": "2026-05-04T05:38:21Z",
-        "source": "Petromindo"
+        "title": "VinFast offers a more predictable way to commute as fuel prices climb",
+        "description": "As fuel prices climb in the Philippines, VinFast EVs are emerging as a practical option, offering more predictable costs and a simpler daily commute for",
+        "url": "https://manilastandard.net/on-the-road/314735444/vinfast-offers-a-more-predictable-way-to-commute-as-fuel-prices-climb-2.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/vinfast-1024x683.jpg",
+        "publishedAt": "2026-05-04T06:42:50Z",
+        "source": "Manila Standard"
       },
       {
-        "title": "AirAsia Thailand, Qantas Cuts Flights to Fastest Growing Economy in the World",
-        "description": "Qantas, AirAsia Thailand and Air India cut India flights as jet fuel prices nearly double, reducing international capacity.",
-        "url": "https://aviationa2z.com/index.php/2026/05/04/airasia-thailand-qantas-cuts-flights-to-india/",
-        "image": "https://aviationa2z.com/wp-content/uploads/2026/04/m3ht5kpa.webp",
-        "publishedAt": "2026-05-04T05:37:00Z",
-        "source": "Aviation A2Z"
+        "title": "NutriAsia Leaders Honored at 2026 Mansmith Market Masters Awards",
+        "description": "NutriAsia Inc. (NAI), makers of the Philippines’ best condiments and sauces, celebrated yet another round of recognition as two of its marketing leaders",
+        "url": "https://manilastandard.net/spotlight/314735451/nutriasia-leaders-honored-at-2026-mansmith-market-masters-awards.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/nutriasia-leaders.png",
+        "publishedAt": "2026-05-04T06:42:50Z",
+        "source": "Manila Standard"
       },
       {
-        "title": "A2 Milk Company recalls baby formula as shares plummet",
-        "description": "The A2 Milk Company has recalled three batches of baby formula imported to the US due to the presence of a ...",
-        "url": "https://www.9news.com.au/world/usa-the-a2-milk-company-recalls-baby-formula-as-shares-plummet/c4e55c39-2868-4d0f-9400-47e548407f3d",
-        "image": "https://imageresizer.static9.net.au/Q0OfpFlsirKTQopk5NIHXDZoLCw=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Ff9bc50f7-ff55-4ad6-ba2d-a42a88f0ef10",
-        "publishedAt": "2026-05-04T05:36:33Z",
-        "source": "9News"
+        "title": "Up to 1,020 Jobs at Risk as Oil Crunch Disrupts Plastic Industry",
+        "description": "Up to 1,020 jobs at risk as oil supply shock disrupts Indonesia’s plastic industry, with GDP losses seen up to Rp 1.4 trillion.",
+        "url": "https://jakartaglobe.id/business/up-to-1020-jobs-at-risk-as-oil-crunch-disrupts-plastic-industry",
+        "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/04/1775050827-960x720.webp",
+        "publishedAt": "2026-05-04T06:40:00Z",
+        "source": "Jakarta Globe"
       },
       {
-        "title": "price American butter causing confusion among some NZ shoppers",
-        "description": "By Penny Miles of RNZ Cut-price American butter on supermarket shelves is causing confusion among some shoppers because it’s packaged like the Kiwi product....",
-        "url": "https://www.nzherald.co.nz/the-country/news/cut-price-american-butter-causing-confusion-among-some-nz-shoppers/7HKQZ4L5FFBNLAEBAH2N2MJX7E/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/WJHNSCPFXJA7VBDLNKOVNA2YDQ.jpg?auth=c8e356fb76d63f1dacb1a2284224acf3fe85ac68734cd101d27fc852f36c7076&width=1200&height=675&quality=70&focal=499%2C334&smart=false",
-        "publishedAt": "2026-05-04T05:32:47Z",
-        "source": "NZ Herald"
+        "title": "Bulls in control as PSX gains 4,000 points during intraday trade",
+        "description": "Rally comes as global oil prices eased after Trump said the US would begin an effort to free up ships stranded in the Strait of Hormuz.",
+        "url": "https://www.dawn.com/news/1997405",
+        "image": "https://i.dawn.com/large/2026/05/041133432f04bf6.webp",
+        "publishedAt": "2026-05-04T06:39:25Z",
+        "source": "Dawn"
       },
       {
-        "title": "Food Tech Womenpreneur Award at BELLA Awards 2026",
-        "description": "Corazon “Zonito” Tamase has been officially recognized as the Category Winner of the Asia  Agri-Food Tech Womenpreneur Award at the 2026 Business",
-        "url": "https://manilastandard.net/spotlight/314735390/corazon-zonito-tamase-wins-asia-agri-food-tech-womenpreneur-award-at-bella-awards-2026.html",
-        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/zonito-tamase-with-arlene-martinez.png",
-        "publishedAt": "2026-05-04T05:32:31Z",
+        "title": "VinFast offers a more predictable way to commute as fuel prices climb",
+        "description": "As fuel prices climb in the Philippines, VinFast EVs are emerging as a practical option, offering more predictable costs and a simpler daily commute for",
+        "url": "https://manilastandard.net/on-the-road/314735445/vinfast-offers-a-more-predictable-way-to-commute-as-fuel-prices-climb.html",
+        "image": "https://cdn.manilastandard.net/wp-content/uploads/2026/05/main-kv-1024x683.jpg",
+        "publishedAt": "2026-05-04T06:37:50Z",
         "source": "Manila Standard"
       }
     ],
     "science": [
+      {
+        "title": "Supermassive black holes launch the most powerful cosmic jets",
+        "description": "From within our own galaxy to behemoths billions of light-years away, supermassive black holes create jets like nothing else in the cosmos.",
+        "url": "https://bigthink.com/starts-with-a-bang/supermassive-black-holes-launch-powerful-jets/",
+        "image": "https://bigthink.com/wp-content/uploads/2025/01/48775662042_1a925615a2_o.jpg?w=832&h=468&crop=1",
+        "publishedAt": "2026-05-04T06:00:00Z",
+        "source": "Big Think"
+      },
+      {
+        "title": "Dozens of Star Wars Tatooine-like planets discovered in new space survey",
+        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
+        "url": "https://nz.news.yahoo.com/dozens-star-wars-tatooine-planets-055427300.html",
+        "image": "https://s.yimg.com/os/en/the_independent_577/e1033b9ea4234c29ba78888117389c7d",
+        "publishedAt": "2026-05-04T05:54:00Z",
+        "source": "Yahoo News New Zealand"
+      },
+      {
+        "title": "Dozens of Star Wars Tatooine-like planets discovered in new space survey",
+        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
+        "url": "https://ca.news.yahoo.com/dozens-star-wars-tatooine-planets-055427748.html",
+        "image": "https://s.yimg.com/os/en/the_independent_635/e1033b9ea4234c29ba78888117389c7d",
+        "publishedAt": "2026-05-04T05:54:00Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "Dozens of Star Wars Tatooine-like planets with two suns discovered in new space survey",
+        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
+        "url": "https://www.independent.co.uk/space/star-wars-tatooine-planets-suns-b2969917.html",
+        "image": "https://static.independent.co.uk/2026/05/04/3/44/A-circumbinary-planet.jpeg?trim=200,0,199,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-05-04T05:54:00Z",
+        "source": "The Independent"
+      },
+      {
+        "title": "Dozens of Star Wars Tatooine-like planets discovered in new space survey",
+        "description": "There could potentially be thousands of similar planets waiting to be found, researchers say",
+        "url": "https://ca.news.yahoo.com/dozens-star-wars-tatooine-planets-055427300.html",
+        "image": "https://s.yimg.com/os/en/the_independent_577/e1033b9ea4234c29ba78888117389c7d",
+        "publishedAt": "2026-05-04T05:54:00Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "Sophisticated simulations reveal how black holes eat stars",
+        "description": "Black holes can occasionally snack on stars that wander too close. New simulations have revealed tidal disruption events in unprecedented detail.",
+        "url": "https://www.news9live.com/science/sophisticated-simulations-reveal-how-black-holes-eat-stars-2967881",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/05/TDE.jpg",
+        "publishedAt": "2026-05-04T05:52:34Z",
+        "source": "News9live"
+      },
       {
         "title": "NASA’s James Webb Space Telescope detects ‘little red dots’: New X-ray data hints at hidden supermassive black holes",
         "description": "Science News: Something odd is hiding in the early universe, and astronomers are only just beginning to notice it. Using the James Webb Space Telescope, researchers.",
@@ -150,120 +198,72 @@
         "image": "https://news.flinders.edu.au/wp-content/uploads/2026/05/giant_kangaroo_skull-300x169.jpg",
         "publishedAt": "2026-05-04T05:40:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years",
-        "description": "Evolution seems to follow a script more often than expected. Researchers found that distantly related butterflies and moths have reused the same pair of genes for over 120 million years to produce strikingly similar warning colors. Rather than altering the genes themselves, evolution modifies how they’re switched on and off. This discovery hints that life may evolve in more predictable ways than previously believed.",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
-        "image": "https://www.sciencedaily.com/images/1920/chapels-lepidopterans-butterfly.webp",
-        "publishedAt": "2026-05-04T05:10:51Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Chinese scientists discover two new Moon minerals",
-        "description": "Chinese scientists have announced the discovery of two new lunar minerals. The minerals were discovered in the samples returned by the Chang'e 5 mission.",
-        "url": "https://www.news9live.com/science/chinese-scientists-discover-two-new-moon-minerals-2967837",
-        "image": "https://images.news9live.com/wp-content/uploads/2026/05/Change-5-.jpg",
-        "publishedAt": "2026-05-04T05:09:16Z",
-        "source": "News9live"
-      },
-      {
-        "title": "Celestial Ghost: Comet C/2025 R3 PanSTARRS Ignites Southern Skies",
-        "description": "A rare comet from the Oort Cloud is lighting up southern skies for the first time in 170,000 years. Learn how and when to see C/2025 R3 PanSTARRS before it...",
-        "url": "https://streamlinefeed.co.ke/news/celestial-ghost-comet-c2025-r3-panstarrs-ignites-southern-skies",
-        "image": "https://i.guim.co.uk/img/media/27648b21e915bc8073c821bc851af50111f3d1d3/0_1142_2006_1605/master/2006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dfc783b768da1e14f74a20608c2bd9e",
-        "publishedAt": "2026-05-04T05:07:05Z",
-        "source": "streamlinefeed.co.ke"
-      },
-      {
-        "title": "Starwatch: Eta Aquariid meteor shower bursts into the skies",
-        "description": "Best seen before dawn, the shower will reach its peak on the night of 5–6 May",
-        "url": "https://www.theguardian.com/science/2026/may/04/starwatch-eta-aquariid-meteor-shower-bursts-into-skies",
-        "image": "https://i.guim.co.uk/img/media/d612a75d3849da1bd33812940d53c8d0a0f2d02f/279_2_956_765/master/956.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bba4f8eaf460cca4bdc3d933d1788012",
-        "publishedAt": "2026-05-04T05:00:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Country diary 1951: Into the woods on the capital’s edge",
-        "description": "9 May 1951: Walking among fine oaks and beeches it is difficult to realise that one is so near to the sprawling mass of Greater London",
-        "url": "https://www.theguardian.com/environment/2026/may/04/country-diary-1951-into-the-woods-on-the-capitals-edge",
-        "image": "https://i.guim.co.uk/img/media/6751fb85ba7fcc834e4f592a3c574f21f82f23fa/0_0_3331_2664/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d1045923fb97c8c1be8d27e29d45592",
-        "publishedAt": "2026-05-04T05:00:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Scientists Discover 27 Potential New Planets Orbiting Two Stars",
-        "description": "Astronomers have discovered 27 new potential planets that orbit two stars, similar to the fictional planet Tatooine. This discovery is massive.",
-        "url": "https://streamlinefeed.co.ke/news/scientists-discover-27-potential-new-planets-orbiting-two-stars",
-        "image": "https://peopledaily.digital/wp-content/uploads/2026/05/HGhY8JtaIAA-pOA-1-768x528.jpg",
-        "publishedAt": "2026-05-04T04:33:31Z",
-        "source": "streamlinefeed.co.ke"
       }
     ],
     "ai": [
       {
-        "title": "Spotify introduces “Verified by Spotify” badge to tackle AI-generated music",
-        "description": "Spotify is rolling out a new “Verified by Spotify” badge in a major step aimed at restoring trust and transparency on the platform amid the rapid rise of AI-generated music.",
-        "url": "https://www.bolnews.com/technology/spotify-introduces-verified-by-spotify-badge-to-tackle-ai-generated-music/",
-        "image": "https://www.bolnews.com/wp-content/uploads/2026/05/Spotify.webp",
-        "publishedAt": "2026-05-04T05:43:39Z",
-        "source": "BOL News"
+        "title": "SEBI to issue advisory on AI risks, investor empowerment next phase for SEBI mandate: Tuhin Kanta Pandey",
+        "description": "Speaking at the IMC Capital Markets conference, SEBI Chair Tuhin Kanta Pandey noted that a growing India needs innovation that solves real problems, reducing friction, widening access, lowering costs, and supporting capital formation",
+        "url": "https://www.moneycontrol.com/news/business/markets/sebi-to-issue-advisory-on-ai-risks-investor-empowerment-next-phase-for-sebi-mandate-tuhin-kanta-pandey-13907418.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260307040142_stocks5.jpg",
+        "publishedAt": "2026-05-04T06:52:26Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "Oil Shock, Jobs Data & Global Risks: Markets brace for a volatile week",
-        "description": "Global markets enter the week facing multiple cross-currents, from surging oil prices and geopolitical tensions to critical economic data and policy decisions. Investors are balancing optimism from strong earnings and AI-driven growth with rising macro risks. (Source: Reuters) Global markets",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/oil-shock-jobs-data-global-risks-markets-brace-for-a-volatile-week/slideshow/130756611.cms",
-        "image": "https://img.etimg.com/thumb/msid-130756611,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-05-04T05:43:00Z",
-        "source": "The Economic Times"
+        "title": "Oscars: New rules announced - AI actors and scripts cannot win awards",
+        "description": "The Academy has updated its rules for how artificial intelligence is used, including one that says all screenplays must be humanly created. There are more ambiguous statements regarding acting, however...",
+        "url": "https://www.euronews.com/culture/2026/05/04/oscars-new-rules-announced-ai-actors-and-scripts-cannot-win-awards",
+        "image": "https://images.euronews.com/articles/stories/09/74/53/62/1200x675_cmsv2_49fa6045-3f04-55a2-b3b5-d857a6722b88-9745362.jpg",
+        "publishedAt": "2026-05-04T06:51:58Z",
+        "source": "Euronews"
       },
       {
-        "title": "Oil Shock, Jobs Data & Global Risks: Markets brace for a volatile week",
-        "description": "Global markets enter the week facing multiple cross-currents, from surging oil prices and geopolitical tensions to critical economic data and policy decisions. Investors are balancing optimism from strong earnings and AI-driven growth with rising macro risks. (Source: Reuters) Global markets",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-shock-jobs-data-global-risks-markets-brace-for-a-volatile-week/slideshow/130756611.cms",
-        "image": "https://img.etimg.com/thumb/msid-130756611,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-05-04T05:43:00Z",
-        "source": "The Economic Times"
+        "title": "Prudent Corporate launches AI platform ‘Edge+’ for mutual fund distributors",
+        "description": "Prudent Corporate launches Edge+, an AI platform for mutual fund distributors to enhance client servicing and drive business growth.",
+        "url": "https://www.thehindubusinessline.com/markets/prudent-corporate-launches-ai-platform-edge-for-mutual-fund-distributors/article70937666.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/m2owbi/article70937703.ece/alternates/LANDSCAPE_1200/IMG_bl20_corporate_loan_2_1_GQF24N0V.jpg",
+        "publishedAt": "2026-05-04T06:51:13Z",
+        "source": "The Hindu Business Line"
       },
       {
-        "title": "Meta may soon be able to build its flagship humanoid",
-        "description": "Meta has acquired robotics startup Assured Robot Intelligence, signalling a stronger push into humanoid machines and embodied AI. The deal brings in top robotics researchers and reflects a growing industry belief that future AI systems must learn through physical interaction, not just data, to unlock more advanced capabilities.",
-        "url": "https://www.firstpost.com/tech/meta-may-soon-be-able-to-build-its-flagship-humanoid-ws-e-14007219.html",
-        "image": "https://images.firstpost.com/uploads/2026/05/image-2026-05-1590f7aed939d19333a50fd1a602c970-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-04T05:38:27Z",
+        "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and an ‘embarrassment’",
+        "description": "Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia",
+        "url": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+        "image": "https://i.guim.co.uk/img/media/7946d2a8f02eb3a4b2dd2009f98e6cab79215463/0_0_3167_2535/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91caa643dd20942a067b8a75b832eff9",
+        "publishedAt": "2026-05-04T06:49:38Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Chamath Palihapitiya Warns Power Crunch Could Cripple OpenAI And Anthropic, Says Elon Musk Holds Massive",
+        "description": "Chamath Palihapitiya says AI power shortages could hurt OpenAI and Anthropic while strengthening Elon Musk's infrastructure advantage.",
+        "url": "https://www.benzinga.com/markets/tech/26/05/52240337/chamath-palihapitiya-warns-power-crunch-could-cripple-openai-and-anthropic-says-elon-musk-holds-massive-ai-leverage",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/04/OpenAI-Partners-With-Government.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-05-04T06:49:10Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "OpenAI says AI now writes 80% of its code, signalling new coding era",
+        "description": "AI is rapidly transforming software development, with tools now generating up to 80 per cent of code in some workflows. Tech leaders from OpenAI and Google say engineers are becoming supervisors rather than writers, but recent failures highlight serious safety risks and the continued need for human oversight. `",
+        "url": "https://www.firstpost.com/tech/openai-says-ai-now-writes-80-of-its-code-signalling-new-coding-era-14007271.html",
+        "image": "https://images.firstpost.com/uploads/2026/01/2026-01-08T001507Z_1924435200_RC2LU7A9R3ZA_RTRMADP_3_OPENAI-STOCK-GRANT-2026-01-feaa3fd62ed5a4c2a50f5a80cd05ee34-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-05-04T06:48:08Z",
         "source": "Firstpost"
       },
       {
-        "title": "MIT students build AI system that can control your body",
-        "description": "At MIT Hard Mode 2026, a six-member team built Human Operator, a wearable AI system that can briefly move a user’s hand and wrist. The hackathon-winning prototype pushes AI beyond screens by turning voice and vision inputs into guided muscle movements.",
-        "url": "https://www.indiatoday.in/technology/news/story/mit-students-build-ai-system-that-can-control-your-body-2906168-2026-05-04",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/mit-human-operator-043101722-16x9_0.png?VersionId=zEbDoS9JgoDidg_znXvDbpfZQSGpqht4",
-        "publishedAt": "2026-05-04T05:38:13Z",
-        "source": "India Today"
+        "title": "Apple to introduce AI photo editing tools and Siri camera mode in iOS 27",
+        "description": "Mobiles & Tablets News: Apple is all set to unveil its the next version of its iOS operating system— iOS 27 at the upcoming WWDC 2026. Now a report by Bloomberg’s Mark Gurman.",
+        "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-to-introduce-ai-photo-editing-tools-and-siri-camera-mode-in-ios-27/articleshow/130763387.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130763285,width-1280,height-720,imgsize-41422,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-04T06:48:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Tech regulation, newsroom collaboration keys to journalism’s ‘existential crisis’",
-        "description": "For World Press Freedom Day, we discuss how newsrooms can adapt in the age of AI in an episode of the Good As News podcast",
-        "url": "https://www.rappler.com/philippines/good-as-news-ai-regulation-news-collaboration-keys-journalism-crisis/",
-        "image": "https://www.rappler.com/tachyon/2026/05/tech-regulation-news-collab-journalism-ai-crisis-May-4-2026.jpg",
-        "publishedAt": "2026-05-04T05:37:52Z",
-        "source": "Rappler"
-      },
-      {
-        "title": "ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
-        "description": "New Delhi [India], May 4: The Indian School of Business & Finance (ISBF) has announced the launch of its BSc (Hons) Artificial Intelligence undergraduate programme, further strengthening its portfolio of globally benchmarked higher education in India. The programme is offered with academic direction from Brunel University London, a UK-based institution known for its strong focus on technology, engineering, and applied research. The degree is awarded by the University of London.",
-        "url": "https://www.tribuneindia.com/news/business/isbf-launches-bsc-hons-artificial-intelligence-with-brunel-academic-direction/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY5YTM1NGQwLTQ3N2EtMTFmMS1iM2QwLWI3YzFiZWUzMDg5MS5qcGc=",
-        "publishedAt": "2026-05-04T05:30:45Z",
-        "source": "The Tribune"
-      },
-      {
-        "title": "SEBI chief on market regulation: Why optimum balance is key",
-        "description": "SEBI's Tuhin Kanta Pandey backs optimum regulation for India’s fast evolving markets, stressing transparency, AI risk monitoring, and unified KYC reforms.",
-        "url": "https://www.cnbctv18.com/market/sebi-chief-on-market-regulation-why-optimum-balance-is-key-ws-l-19897950.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/03/tuhin-kanta-pandey-2026-03-f81853a171303a4af4c5f327d90e2eed.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-04T05:30:12Z",
-        "source": "CNBC TV18"
+        "title": "Ng Chee Meng to ask Parliament to affirm no ‘jobless growth’ amid AI; MPs query bullying review",
+        "description": "Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/politics/ng-chee-meng-to-ask-parliament-to-affirm-no-jobless-growth-amid-ai-mps-query-bullying-review",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2a0468032035d7d64e07281fb6c47a2f1405a0a889724a85035afcdae12c637d",
+        "publishedAt": "2026-05-04T06:45:00Z",
+        "source": "The Straits Times"
       }
     ]
   }
