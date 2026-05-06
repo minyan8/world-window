@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-06T12:57:44.250Z",
+  "fetchedAt": "2026-05-06T14:00:18.714Z",
   "sections": {
     "world": [
       {
-        "title": "Trump puts ‘Project Freedom’ on hold, saying he hopes to finalise a deal with Iran",
-        "description": "US president says he is pausing US effort to guide stranded vessels out of the strait of Hormuz but blockade remains",
-        "url": "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire",
-        "image": "https://i.guim.co.uk/img/media/1c9e72dc370c51631c0a2879769d48958d312ec9/763_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bfc57f7973250a4c4755ceac0e37133",
-        "publishedAt": "2026-05-06T00:55:00Z",
-        "source": "The Guardian"
+        "title": "'Operation Epic Fury concluded': Trump aide declares 'objectives achieved' in Iran action",
+        "description": "US News: “Operation Epic Fury is concluded,” US secretary of state Marco Rubio declared early Thursday, marking the end of over two months of unrest triggered .",
+        "url": "https://timesofindia.indiatimes.com/world/us/operation-epic-fury-concluded-trump-aide-declares-objectives-achieved-in-iran-action/articleshow/130842075.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130842093,width-1280,height-720,imgsize-871979,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-06T01:57:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Global Eco-Tourism Rankings 2026: India Ranks Second as Nature Travel Spending Surges",
-        "description": "India has surpassed Mexico, Argentina, and Poland to rank second in the 2026 global eco-tourism rankings, driven by the biodiversity of Kaziranga and the Sundarbans.",
-        "url": "https://www.nomadlawyer.org/india-ranks-second-global-eco-tourism-rankings-2026",
-        "image": "https://images.nomadlawyer.org/images/blog/tourism-news/2026/05/india-ranks-second-global-eco-tourism-rankings-2026.jpg",
-        "publishedAt": "2026-05-06T00:48:12Z",
-        "source": "Nomad Lawyer"
-      },
-      {
-        "title": "Malaysia retains crown as Southeast Asia's most",
-        "description": "Malaysia welcomed 10.6 million tourists in the first quarter of this year, up 5% year-on-year, reinforcing its position as the most visited country in Southeast Asia. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/travel/malaysia-retains-crown-as-southeast-asia-s-most-visited-country-5070034.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/05/05/tixung117556739761928175567549-2226-8588-1777954129.png?w=680&h=0&q=100&dpr=1&fit=crop&s=HytUe13U0HYt-WDRTmgMYQ",
-        "publishedAt": "2026-05-06T00:39:57Z",
-        "source": "VnExpress International"
-      },
-      {
-        "title": "Boat found in Kelantan village may be centuries old",
-        "description": "TANAH MERAH: The actual age of an old perahu (traditional Malay boat) discovered in Kampung Bukit Kechik in Kelantan is being assessed by the National Heritage Department to determine whether it holds significant historical value.",
-        "url": "https://www.thestar.com.my/news/nation/2026/05/06/boat-found-in-kelantan-village-may-be-centuries-old",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3893615.JPG",
-        "publishedAt": "2026-05-06T00:39:27Z",
-        "source": "The Star"
-      },
-      {
-        "title": "Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect",
-        "description": "Ukrainian authorities say Russian drone and missile strikes during the night and into daylight hours have killed at least 22 people and wounded more than 80 others.",
-        "url": "https://apnews.com/article/russia-ukraine-drone-missile-attacks-truce-8091ae98d24510be51ffd67d034d64d2",
-        "image": "https://dims.apnews.com/dims4/default/c23d81e/2147483647/strip/true/crop/2000x1333+0+84/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F81%2Fbabb4c7b692df648b82a5c0184df%2Fd735728130a04677b7de1c21d13d901f",
-        "publishedAt": "2026-05-06T00:38:00Z",
-        "source": "AP News"
-      },
-      {
-        "title": "Zelensky says Russia choosing war as ceasefires falter",
-        "description": "President Volodymyr Zelensky has said that Russia had decided to reject efforts to halt fighting and save lives by launching fresh attacks on Ukraine, which had called a unilateral ceasefire.",
-        "url": "https://www.rte.ie/news/ukraine/2026/0506/1571895-ukraine-russia/",
-        "image": "https://www.rte.ie/images/00245294-1600.jpg",
-        "publishedAt": "2026-05-06T00:33:49Z",
-        "source": "RTE.ie"
-      },
-      {
-        "title": "Oleshky the front-line city where Ukrainians are trapped",
-        "description": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-        "url": "https://www.bbc.co.uk/news/articles/c893xj41zwdo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg",
-        "publishedAt": "2026-05-06T00:33:00Z",
+        "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+        "description": "He spent much of the race criticising the state's response to the Covid-19 pandemic led by the Democrat nominee.",
+        "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b5f/live/65fea100-4891-11f1-b55d-0f258dce1735.jpg",
+        "publishedAt": "2026-05-06T01:55:26Z",
         "source": "BBC"
       },
       {
-        "title": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
-        "description": "Taiwan’s reputation for tech excellence means it is a favoured alternative source for Ukrainian drone-makers",
-        "url": "https://www.theguardian.com/world/2026/may/06/ukraine-drone-supply-chain-taiwan",
-        "image": "https://i.guim.co.uk/img/media/7b0184bb0c9c6e40e2d7ebad937ea4683fad9173/191_0_5617_4496/master/5617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d7c8d4f231af13cffde9a800c662d25",
-        "publishedAt": "2026-05-06T00:33:00Z",
+        "title": "Judge in Kim Keon Hee case found dead",
+        "description": "A judge who sentenced former South Korean first lady Kim Keon Hee to prison has been found dead, with police investigating the circumstances. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/judge-who-convicted-south-korean-ex-first-lady-kim-keon-hee-found-dead-days-after-ruling",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7cddae7e0ccfda4da7b06f2a3b405aa70f5b17402327374b90d0135ffc4df139",
+        "publishedAt": "2026-05-06T01:55:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "US military kills three people in boat strike in eastern Pacific",
+        "description": "Without offering details or evidence, US Southern Command describes the people killed as ‘narco-terrorists’",
+        "url": "https://www.theguardian.com/us-news/2026/may/05/us-military-vessel-strike",
+        "image": "https://i.guim.co.uk/img/media/1b770025cf1fd5fc23c5da1371fea580e1936665/646_0_2532_2028/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8692dc20f99f601742c769e0c2b9c0a2",
+        "publishedAt": "2026-05-06T01:55:00Z",
         "source": "The Guardian"
+      },
+      {
+        "title": "Brunei Sultan to attend 48th ASEAN Summit in Philippines",
+        "description": "The summit is expected to advance discussions across the three pillars of the ASEAN Community, focusing on strategic priorities including peace and security, economic growth and people empowerment.",
+        "url": "https://asianews.network/brunei-sultan-to-attend-48th-asean-summit-in-philippines/",
+        "image": "https://asianews.network/wp-content/uploads/2026/05/AFP__20251026__822C2P3__v1__MidRes__MalaysiaAseanDiplomacy.jpg",
+        "publishedAt": "2026-05-06T01:52:30Z",
+        "source": "Asia News Network"
+      },
+      {
+        "title": "Japan, Philippines Aim to Fast-Track Transfer of Navy Destroyers",
+        "description": "Manila—Japan's defence minister pledged to deepen military cooperation with the Philippines during a visit Tuesday to Manila, aiming for the \"...",
+        "url": "https://cambodianess.com/article/japan-philippines-aim-to-fast-track-transfer-of-navy-destroyers",
+        "image": "https://img.cambodianess.com/uploads/article/05-2026/1778031551.jpg",
+        "publishedAt": "2026-05-06T01:52:00Z",
+        "source": "Cambodianess"
+      },
+      {
+        "title": "Takeaways From Indiana Primary Elections 2026: Trump Gets Payback",
+        "description": "The president helped unseat most of the state lawmakers he targeted after they rebuffed his call to draw new House maps to help Republicans.",
+        "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
+        "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05nat-indiana-takeaways-cmwf/05nat-indiana-takeaways-cmwf-facebookJumbo.jpg",
+        "publishedAt": "2026-05-06T01:48:48Z",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8zejyyr3o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dd1/live/df595320-493a-11f1-861c-270dbba6d6ae.jpg",
+        "publishedAt": "2026-05-06T01:47:02Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "Apple agrees to pay $250m after falsely claiming AI-powered Siri was ‘available now’",
-        "description": "Settlement, which includes no admission of wrongdoing, covers roughly 36m eligible devices in class-action lawsuit",
-        "url": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
-        "image": "https://i.guim.co.uk/img/media/24c9487714799b09a2359e46a668f05ef9b34fa0/125_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09bcf6b4122843f78311b9ba212c9504",
-        "publishedAt": "2026-05-06T00:55:00Z",
-        "source": "The Guardian"
+        "title": "Donald Trump changes his mind on AI",
+        "description": "The AI alarm bells are ringing louder for Donald Trump, prompting an abrupt U-turn.",
+        "url": "https://www.watoday.com.au/technology/trump-goes-woke-with-a-sudden-change-of-mind-20260506-p5zu5s.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/bd87bda83f6d1e6d2e134aa0afaa8c2bd51342a6",
+        "publishedAt": "2026-05-06T01:58:04Z",
+        "source": "WAtoday"
       },
       {
-        "title": "Advanced Micro Devices, Inc. (AMD) Q1 2026 Earnings Call Transcript",
-        "description": "Advanced Micro Devices, Inc. (AMD) Q1 2026 Earnings Call May 5, 2026 5:00 PM EDTCompany ParticipantsMatthew Ramsay - Vice President of Financial Strategy...",
-        "url": "https://seekingalpha.com/article/4898861-advanced-micro-devices-inc-amd-q1-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-06T00:51:14Z",
-        "source": "Seeking Alpha"
+        "title": "Donald Trump changes his mind on AI",
+        "description": "The AI alarm bells are ringing louder for Donald Trump, prompting an abrupt U-turn.",
+        "url": "https://www.brisbanetimes.com.au/technology/trump-goes-woke-with-a-sudden-change-of-mind-20260506-p5zu5s.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_brisbanetimes_opinion_no_age_social_wm/bd87bda83f6d1e6d2e134aa0afaa8c2bd51342a6",
+        "publishedAt": "2026-05-06T01:58:04Z",
+        "source": "Brisbane Times"
       },
       {
-        "title": "Logitech International S.A. (LOGI) Q4 2026 Earnings Call Transcript",
-        "description": "Logitech International S.A. (LOGI) Q4 2026 Earnings Call May 5, 2026 4:30 PM EDTCompany ParticipantsNate Melihercik - Head of Global Investor...",
-        "url": "https://seekingalpha.com/article/4898923-logitech-international-s-a-logi-q4-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-06T00:51:13Z",
-        "source": "Seeking Alpha"
+        "title": "Donald Trump changes his mind on AI",
+        "description": "The AI alarm bells are ringing louder for Donald Trump, prompting an abrupt U-turn.",
+        "url": "https://www.theage.com.au/technology/trump-goes-woke-with-a-sudden-change-of-mind-20260506-p5zu5s.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/bd87bda83f6d1e6d2e134aa0afaa8c2bd51342a6",
+        "publishedAt": "2026-05-06T01:58:04Z",
+        "source": "The Age"
       },
       {
-        "title": "Trump pauses Strait of Hormuz escort effort",
-        "description": "Oil prices fell after Trump said the U.S. would pause its naval escort endeavor in the Strait of Hormuz, raising hopes of a potential deal with Iran.",
-        "url": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108299365-1777486229032-gettyimages-2273131531-AFP_A9DB6RV.jpeg?v=1777486342&w=1920&h=1080",
-        "publishedAt": "2026-05-06T00:46:00Z",
-        "source": "CNBC"
+        "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 6 May",
+        "description": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a gap-up start for the Indian benchmark index. The Gift Nifty was trading around 24,322 level, a premium of nearly 216 points from the Nifty futures’ previous close.",
+        "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-6-may-11778031595702.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/logo/2-0-1244142584-religare-trading--13-20150520RP-0_1679615762557_1778031934544.jpg",
+        "publishedAt": "2026-05-06T01:54:11Z",
+        "source": "Mint"
       },
       {
-        "title": "OpenAI Launches Self-Serve Ads Manager for ChatGPT",
-        "description": "OpenAI officially launches self-serve ChatGPT ads with CPC bidding, conversion tracking, and expanded advertiser access through its new Ads Manager platform.",
-        "url": "https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/",
-        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/05/shutterstock_2728003545-1-834.jpg",
-        "publishedAt": "2026-05-06T00:45:22Z",
-        "source": "Search Engine Journal"
+        "title": "Inflation expected to rise further in May due to high oil prices: BOK",
+        "description": "Inflation is projected to rise further this month, driven by higher oil prices amid ongoing tension in the Middle East, the central bank said Wedne...",
+        "url": "https://www.koreatimes.co.kr/economy/20260506/inflation-expected-to-rise-further-in-may-due-to-high-oil-prices-bok",
+        "image": "https://newsimg.koreatimes.co.kr/2026/05/06/daf50d69-0d02-4b71-a6b1-5296d993ec19.jpg",
+        "publishedAt": "2026-05-06T01:49:03Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "Promasidor's Donatus Ukpai Earns Industry Recognition",
-        "description": "Promasidor executive Donatus Ukpai has won multiple industry awards, including 'Purpose-Driven Marketing Personality of the Year' for his impactful work.",
-        "url": "https://punchng.com/promasidor-executive-ukpai-earns-industry-recognition/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/06082714/Goddie-Ofose.jpeg",
-        "publishedAt": "2026-05-06T00:39:50Z",
-        "source": "Punch Newspapers"
+        "title": "Oil prices ease as US pauses Project Freedom to seek Iran deal",
+        "description": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8zejyyr3o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a69/live/9a1232a0-48f4-11f1-9086-afe40fef0c44.jpg",
+        "publishedAt": "2026-05-06T01:47:02Z",
+        "source": "BBC"
       },
       {
-        "title": "Lagos Mortgage Lender Posts 43% Profit, Expands Loan Book",
-        "description": "Lagos Building Investment Company Plc reports a 43% profit surge to N1.65bn. See how the Lagos mortgage lender grew its loan portfolio and asset quality.",
-        "url": "https://punchng.com/lagos-mortgage-lender-posts-43-profit-boosts-loan-portfolio/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/06021829/LBIC.jpg",
-        "publishedAt": "2026-05-06T00:34:57Z",
-        "source": "Punch Newspapers"
+        "title": "Oil prices ease as US pauses Project Freedom to seek Iran deal",
+        "description": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation.",
+        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/10d7/live/5c654800-4824-11f1-bc74-4f7f27ea7fac.jpg",
+        "publishedAt": "2026-05-06T01:47:02Z",
+        "source": "BBC"
       },
       {
-        "title": "James Cameron Sued Over Use of Actress’ Likeness in ‘Avatar’",
-        "description": "Filmmaker James Cameron and Twentieth Century Fox Film Corp. based the likeness of an “Avatar” character on the features of indigenous actress Q’orianka Kilcher without her permission, she said in a lawsuit filed Tuesday.",
-        "url": "https://news.bloomberglaw.com/litigation/james-cameron-sued-over-use-of-actress-likeness-in-avatar",
-        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/50a92ce/2147483647/strip/false/crop/3994x1539+3+211/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F79%2F86%2F4bba77134896b26ab0d5cf5114c6%2Fgettyimages-2170593835.jpg",
-        "publishedAt": "2026-05-06T00:34:00Z",
-        "source": "Bloomberg Law News"
+        "title": "Trump Says Freedom Plan Suspended, Gold Breaks $4,600, WTI Crude Falls Below $100 Level",
+        "description": "TradingKey - On the evening of May 5, ET, Trump posted that the \"freedom plan\" to unblock the Strait of Hormuz is being temporarily suspended to create space for negotiations with Iran, though the blockade of Iranian ports will continue. Concurrently, U.S. Secretary of State Rubio told reporters that the U.S. \"Epic Fury\" operation against Iran has concluded.",
+        "url": "https://www.tradingkey.com/analysis/commodities/metal/261860172-trump-freedom-program-gold-prices-wti-tradingkey",
+        "image": "https://resource.tradingkey.com/upload/20240530/38b33796b656484b8d64dd274bd63b3boil.png",
+        "publishedAt": "2026-05-06T01:42:53Z",
+        "source": "TradingKey"
       }
     ],
     "science": [
+      {
+        "title": "Webb Telescope Unveils Mercury-Like Super-Earth",
+        "description": "Using MIRI (Mid Infrared Instrument) on board the James Webb Space Telescope (JWST), an international team led by former MPIA (Max Planck Institute",
+        "url": "https://www.miragenews.com/webb-telescope-unveils-mercury-like-super-earth-1668145/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2016%2F11%2F29%2F05%2F45%2Fastronomy-1867616_960_720.jpg",
+        "publishedAt": "2026-05-06T01:18:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "New lunar mineral found in meteorite",
+        "description": "Chinese scientists have identified a new mineral in the first lunar meteorite ever found in China, marking the 11th lunar mineral discovered worldwide. With this finding, China has now identified four lunar minerals, tying with the United States for the most lunar mineral discoveries.",
+        "url": "https://www.chinadaily.com.cn/a/202605/06/WS69fa95e7a310d6866eb4701c.html",
+        "image": "http://img2.chinadaily.com.cn/images/202605/06/69fa95e7a310d68600fcdfb9.jpeg",
+        "publishedAt": "2026-05-06T01:14:00Z",
+        "source": "China Daily"
+      },
+      {
+        "title": "Targeting the IRE1α-XBP1 signaling axis impairs tumor growth and promotes myogenic differentiation in rhabdomyosarcoma",
+        "description": "Rhabdomyosarcoma (RMS) is a pediatric soft-tissue sarcoma arising from mesenchymal progenitors with skeletal muscle features. The unfolded protein response (UPR) maintains proteostasis during endoplasmic reticulum stress, with the IRE1α-XBP1 axis representing a key signaling branch. Here, we demonstrate that components of this pathway are significantly upregulated in RMS cell lines and primary tumors. Genetic or pharmacological inhibition of IRE1α or spliced XBP1 (sXBP1) suppresses cell proliferation, promotes terminal myogenic differentiation, and enhances vincristine-induced cytotoxicity in RMS cells. Silencing of sXBP1 further reduces the cancer stem-like cell population and impairs migration and invasion. Mechanistically, IRE1α-XBP1 signaling promotes RMS progression through sXBP1-dependent upregulation of BMPR1A and subsequent activation of BMP-SMAD1 signaling. Consistently, inducible knockdown of sXBP1 or pharmacological inhibition of IRE1α endonuclease activity significantly attenuates xenograft RMS growth. Collectively, these findings identify the IRE1α-XBP1 axis as a critical regulator of RMS growth, differentiation, and chemosensitivity, and support its therapeutic targeting in RMS. The IRE1α-XBP1 arm of the UPR is upregulated in rhabdomyosarcoma and drives tumor growth, stemness, migration, and invasion, while its inhibition promotes differentiation and enhances vincristine efficacy.",
+        "url": "https://www.nature.com/articles/s42003-026-10184-1?error=cookies_not_supported&code=28e5147f-c5c9-49ac-9c42-0b09040084c0",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-06T01:13:49Z",
+        "source": "nature.com"
+      },
+      {
+        "title": "New discovery provides compelling evidence of planetary migration",
+        "description": "A steam-filled atmosphere detected on a distant ‘hot Neptune’ has provided strong new evidence that some planets form far from their host star before",
+        "url": "https://www.nationaltribune.com.au/new-discovery-provides-compelling-evidence-of-planetary-migration/",
+        "image": "https://unisq.edu.au/-/media/usq/news/2026/05/planetary-migration-news-image.ashx?rev=eb2826183fd14697b397623d77fe125e",
+        "publishedAt": "2026-05-06T01:13:31Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
+        "description": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a permanent dayside hot enough to melt metal—and discovered it’s a dark, barren rock with no atmosphere.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+        "image": "https://www.sciencedaily.com/images/1920/barren-rocky-exoplanet.webp",
+        "publishedAt": "2026-05-06T00:59:19Z",
+        "source": "ScienceDaily"
+      },
       {
         "title": "Quagga mussel protein offers new insights into bioadhesives",
         "description": "Researchers at the University of Toronto have identified a protein from the quagga mussel that can stick to surfaces underwater, even though it lacks a chemical feature long thought to be essential for this kind of adhesion.",
@@ -158,112 +198,72 @@
         "image": "https://quantumzeitgeist.com/wp-content/uploads/electron-ptychography-links-atomic-disorder-material-1200x630.jpg",
         "publishedAt": "2026-05-06T00:46:57Z",
         "source": "Quantum Zeitgeist"
-      },
-      {
-        "title": "AI lets chemists design molecules by simply describing them",
-        "description": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using simple language, while powerful algorithms generate and evaluate possible solutions. The AI doesn’t just compute—it reasons, scoring pathways and explaining which ones make the most sense.",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-        "image": "https://www.sciencedaily.com/images/1920/synthegy-development.webp",
-        "publishedAt": "2026-05-06T00:22:49Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "AI lets chemists design molecules by simply describing them",
-        "description": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using simple language, while powerful algorithms generate and evaluate possible solutions. The AI doesn’t just compute—it reasons, scoring pathways and explaining which ones make the most sense.",
-        "url": "http://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-        "image": "https://www.sciencedaily.com/images/1920/synthegy-development.webp",
-        "publishedAt": "2026-05-06T00:22:49Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Cow-gut discovery reveals a new target for cutting methane",
-        "description": "Researchers find a tiny structure in cow gut microbes that boosts methane, opening new paths to reduce livestock emissions.",
-        "url": "https://www.earth.com/news/cow-gut-discovery-reveals-a-new-target-for-cutting-methane/",
-        "image": "https://cff2.earth.com/uploads/2026/05/05150642/cow-methane-reduction.jpg",
-        "publishedAt": "2026-05-06T00:22:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Tiny spider named after Pink Floyd was found living in city walls",
-        "description": "A tiny spider discovered in Colombia, Pikelinia floydmuraria, lives on city walls and surprises observers by hunting much larger prey.",
-        "url": "https://www.earth.com/news/tiny-spider-pikelinia-floydmuraria-named-after-pink-floyd-found-living-in-city-walls/",
-        "image": "https://cff2.earth.com/uploads/2026/05/05125910/tiny-spider-pink-floyd-city-walls-hunts-ants.jpg",
-        "publishedAt": "2026-05-06T00:22:30Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "'The best is yet to come': Astronomers on when and how to view rare comet",
-        "description": "Matt Balkham from Wellington Astronomical Society said although the comet was getting fainter and further away, it may actually be a better time to photograph it.",
-        "url": "https://www.1news.co.nz/2026/05/06/the-best-is-yet-to-come-astronomers-on-when-and-how-to-view-rare-comet/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-comet-known-as-c2025-r3-panstarrs-has-swung-around-the-s-EQRWZTVKJNDEHEGKVJFXX4MPNM.jpg?auth=c93227704e45c6c9248d9322e8f69f5f4af590dd6ae9d63db9c5339abfc4f7f2&quality=70&width=600&height=315&focal=839%2C408",
-        "publishedAt": "2026-05-05T23:53:18Z",
-        "source": "1News"
       }
     ],
     "ai": [
       {
-        "title": "Musk 'was going to hit me,' OpenAI executive says at trial",
-        "description": "OpenAI President Greg Brockman told a California jury Tuesday that Elon Musk physically threatened him during a 2017 confrontation, testifying that the billionaire stormed out after he was refused absolute control of the artificial intelligence company. Brockman also testified that when Musk announced his departure from OpenAI in February 2018, he told staff he intended to pursue AI development inside Tesla without regard for safety.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/musk-was-going-to-hit-me-openai-executive-says-at-trial/articleshow/130841730.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32228,resizemode-75,msid-130841730/tech/technology/musk-was-going-to-hit-me-openai-executive-says-at-trial.jpg",
-        "publishedAt": "2026-05-06T00:57:38Z",
+        "title": "Samsung Electronics market value tops US$1 trillion on AI chip boom",
+        "description": "SEOUL: The market value of South Korea's Samsung Electronics smashed past US$1 trillion for the first time on Wednesday (May 6) as the firm rides an artificial intelligence chip boom that has sent Seoul's Kospi stock index to record highs.The company has emerged as a key player - alongside domestic rival SK H",
+        "url": "https://www.channelnewsasia.com/business/samsung-electronics-market-value-ai-chip-boom-6102711",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Yn2ast51--/c_crop,h_1125,w_2000,x_0,y_209/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/samsung_mod.jpg?itok=yEchZTef",
+        "publishedAt": "2026-05-06T02:00:00Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Big tech drives the rise of direct-to-consumer health AI assistants",
+        "description": "JMIR Publications today released a timely new feature in its News and Perspectives section, providing one of the first comprehensive overviews of the rapidly expanding consumer health AI landscape.",
+        "url": "https://www.news-medical.net/news/20260505/Big-tech-drives-the-rise-of-direct-to-consumer-health-AI-assistants.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+        "publishedAt": "2026-05-06T01:58:00Z",
+        "source": "News-Medical.net"
+      },
+      {
+        "title": "Nvidia Billionaire Mark Stevens Gives $200 Million to Alma Mater USC for AI Research",
+        "description": "For Stevens, the world of AI more than any other tech era feels like \"you're either quick or you're dead,\" he told Bloomberg News.",
+        "url": "https://www.ndtvprofit.com/technology/nvidia-billionaire-mark-stevens-gives-200-million-to-alma-mater-usc-for-ai-research-11454977",
+        "image": "https://c.ndtvimg.com/2026-05/75ukb5q4_nvidia-bbg_625x300_06_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-05-06T01:52:51Z",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "AI Innovations and Economic Shifts Dominate Today's Headlines",
+        "description": "Today's top stories from the Financial Times highlight a $250 million settlement by Apple over delayed AI features in Siri, Meta's advancement of an AI assistant, BioNTech's workforce reduction due to decreased Covid-19 vaccine production, and Macron's nomination of a former adviser to the Bank of France.",
+        "url": "https://www.devdiscourse.com/article/technology/3898045-ai-innovations-and-economic-shifts-dominate-todays-headlines",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_09_2025_02_19_47_4008.png&width=920&format=jpeg",
+        "publishedAt": "2026-05-06T01:45:15Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Indian companies announce $1.1 billion investment in US, to create 1,500 jobs",
+        "description": "Twelve Indian companies announced over USD 1.1 billion in US investments across aerospace, defense, energy, and AI sectors at the SelectUSA Investment Summit. These significant investments are projected to create 1,500 jobs in the United States, with major contributions from Abhyuday Group and Sterlite Technologies Limited.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-companies-announce-usd-1-1-bn-investment-in-us-to-create-1500-jobs/articleshow/130842036.cms",
+        "image": "https://img.etimg.com/thumb/msid-130842048,width-1200,height-630,imgsize-52226,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-06T01:45:00Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Anthropic commits to spending $200 billion on Google's cloud and chips: Report",
-        "description": "AI startup Anthropic will spend a massive $200 billion with Google Cloud over five years. This deal significantly boosts Google's revenue backlog. Anthropic also secured computing capacity from Broadcom and Amazon. Google is heavily investing in Anthropic, deepening their partnership in the AI race. Major cloud providers see substantial backlogs from AI contracts.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-report/articleshow/130841756.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1065938,resizemode-75,msid-130841756/tech/technology/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-report.jpg",
-        "publishedAt": "2026-05-06T00:54:45Z",
-        "source": "The Economic Times"
+        "title": "Asia markets hit records on AI euphoria, yen surges again",
+        "description": "Stocks leapt, oil prices sank and the dollar dropped on Wednesday ​after U.S. President Donald Trump touted \"great progress\" towards a \"final agreement\" with Tehran, while momentum in AI-driven trades accelerated.",
+        "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-05-06/",
+        "image": "https://www.reuters.com/resizer/v2/RKYAN3RSGVO2JJMHVLETKGPJV4.jpg?auth=3c751a2b95e0d7bc2b7fb8f5869877c310c28b5655ac217030f01fd062e6c028&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-05-06T01:36:48Z",
+        "source": "Reuters"
       },
       {
-        "title": "Apple agrees to $250 million settlement over AI Siri claims",
-        "description": "Apple is stepping up to the plate with a $250 million settlement after facing accusations of misleading customers about Siri's artificial intelligence functionalities. The lawsuit posited that millions of iPhone owners were unaware of the limitations of the advertised features.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/apple-agrees-to-250-million-settlement-over-ai-siri-claims/articleshow/130841745.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22222,resizemode-75,msid-130841745/tech/technology/apple-agrees-to-250-million-settlement-over-ai-siri-claims.jpg",
-        "publishedAt": "2026-05-06T00:52:00Z",
-        "source": "The Economic Times"
+        "title": "STRADVISION Observes Growing Demand for Globally Scalable and Production-Ready ADAS Solutions at Auto China 2026",
+        "description": "**media[1044337]**China OEMs shift focus from peak performance competition toward scalable and cost-efficient ADAS deploymentSEOUL, South Korea, May 6, 2026 /PRNewswire/ -- STRADVISION, a provider of AI-powered vision perception software for ADAS and autonomous driving, announced that the company observed a growing industry shift toward production-ready and cost-efficient ADAS solutions during Auto China 2026, held in Beijing from April 24 to May 3. According to STRADVISION, this year's exhibition reflected a notable change in priorities among Chinese OEMs and automotive ecosystem players, with increasing emphasis placed on global coverage, scalable deployment, hardware efficiency, and commercialization readiness rather than high-compute performance competition alone.",
+        "url": "https://www.manilatimes.net/2026/05/06/tmt-newswire/pr-newswire/stradvision-observes-growing-demand-for-globally-scalable-and-production-ready-adas-solutions-at-auto-china-2026/2336716",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/06/1044336.jpg",
+        "publishedAt": "2026-05-06T01:33:55Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Freshworks cuts 500 jobs; Q1 revenue hits $228 million",
-        "description": "Freshworks announced significant job cuts, reducing its workforce by 11% or approximately 500 employees. This move comes as the business software company navigates industry-wide disruptions driven by rapid advancements in artificial intelligence. The company cited AI's role in product development and automation of routine tasks as key factors.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million/articleshow/130841734.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million.jpg",
-        "publishedAt": "2026-05-06T00:49:23Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Freshworks lays off 500 employees; Q1 revenue grows 16% to $228 million",
-        "description": "Freshworks announced significant job cuts, reducing its workforce by 11% or approximately 500 employees. This move comes as the business software company navigates industry-wide disruptions driven by rapid advancements in artificial intelligence. The company cited AI's role in product development and automation of routine tasks as key factors.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-lays-off-500-employees-q1-revenue-grows-16-to-228-million/articleshow/130841734.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-lays-off-500-employees-q1-revenue-grows-16-to-228-million.jpg",
-        "publishedAt": "2026-05-06T00:49:23Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Freshworks to cut 11% jobs as AI reshapes software industry",
-        "description": "Freshworks announced significant job cuts, reducing its workforce by 11% or approximately 500 employees. This move comes as the business software company navigates industry-wide disruptions driven by rapid advancements in artificial intelligence. The company cited AI's role in product development and automation of routine tasks as key factors.",
-        "url": "https://economictimes.indiatimes.com/tech/technology/freshworks-to-cut-11-jobs-as-ai-reshapes-software-industry/articleshow/130841734.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-97086,resizemode-75,msid-130841734/tech/technology/freshworks-to-cut-11-jobs-as-ai-reshapes-software-industry.jpg",
-        "publishedAt": "2026-05-06T00:49:23Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Raghuram Rajan and Rohit Lamba write: How can India produce AI, instead of becoming its tenant?",
-        "description": "The deeper danger is that India’s public conversation is too quick to convert constraint into strategy. Because we cannot yet win at the frontier, we tell ourselves the frontier does not matter",
-        "url": "https://indianexpress.com/article/opinion/columns/raghuram-rajan-and-rohit-lamba-write-how-can-india-produce-ai-instead-of-becoming-its-tenant-10674728/",
-        "image": "https://images.indianexpress.com/2026/05/ai-oped-illustration.jpg",
-        "publishedAt": "2026-05-06T00:49:05Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Centre nod for 2 AI centres of excellence in Panchkula, Gurugram",
-        "description": "Ganesan said that the second meeting of the sub-group of project approval board (PAB) for AI-Centre of Excellence constituted by the central ministry was held on April 17 to examine and review Haryana’s proposals for establishment of the AI-Centres of excellence",
-        "url": "https://www.hindustantimes.com/cities/chandigarh-news/centre-nod-for-2-ai-centres-of-excellence-in-panchkula-gurugram-101778010545147.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/05/550x309/Officials-said-they-also-plan-to-scale-AI-led-solu_1778010525540.jpg",
-        "publishedAt": "2026-05-06T00:44:14Z",
-        "source": "Hindustan Times"
+        "title": "Markets Surge Amid U.S.-Iran Progress and AI Advancements",
+        "description": "Stocks soared, oil prices dropped, and the dollar weakened on news of U.S.-Iran negotiation progress. AI-driven trades fueled momentum as Middle East tensions eased. Market highlights include record highs in Asia-Pacific shares and tech stock interest in S&P 500. Samsung topped a $1 trillion valuation, steering Asian market growth.",
+        "url": "https://www.devdiscourse.com/article/headlines/3898043-markets-surge-amid-us-iran-progress-and-ai-advancements",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_05_2026_13_10_32_0997631.png&width=920&format=jpeg",
+        "publishedAt": "2026-05-06T01:33:38Z",
+        "source": "Devdiscourse"
       }
     ]
   }
