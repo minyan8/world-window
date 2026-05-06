@@ -1,269 +1,269 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-06T08:04:47.677Z",
+  "fetchedAt": "2026-05-06T09:11:23.795Z",
   "sections": {
     "world": [
       {
-        "title": "Understanding Public Perceptions of Lung Cancer in China: Infodemiology Study of Baidu Index and Weibo Posts",
-        "description": "Background: In China, lung cancer remains a major public health concern and accounts for a substantial proportion of cancer-related deaths nationwide. However, limited research has examined public perceptions of lung cancer in the digital sphere, where health-related information is increasingly disseminated and accessed.\nObjective: This study aims to systematically examine patterns of public attention and perceptions toward lung cancer in China by integrating search engine query data and social media content, thereby enhancing current understanding of web-based health information dynamics related to lung cancer.\nMethods: Data were collected from Baidu Index (BI) (2011‐2025) and Sina Weibo (2010‐2025) to represent web-based search behavior and social media discourse on lung cancer, respectively. Spatiotemporal patterns of BI, per capita Baidu Index (PBI), and Weibo posts were examined to capture temporal trends and spatial variations. Additionally, the spatial autocorrelation of PBI was assessed using global and local Moran statistics. PBI-related explanatory variables were assessed using a spatial panel Durbin model. Topic modeling and lexicon-based sentiment analysis were applied to Weibo content to uncover thematic evolution and emotional polarity across years, sex/organization groups, and user types.\nResults: Public attention toward lung cancer, as reflected by BI, increased initially, peaked in 2019, and subsequently declined, whereas Weibo discussions demonstrated a fluctuating but generally upward trend before stabilizing after 2022. Similar temporal patterns were observed across most provinces. Significant spatial heterogeneity was identified, with higher BI levels concentrated in eastern coastal regions and persistently lower levels in western and southwestern provinces. Spatial autocorrelation analysis revealed stable positive clustering over time, with low-low clusters particularly concentrated in southwestern regions such as Guangxi, and no significant high-high clusters were detected. Panel spatial regression analyses indicated that the provincial PBI was positively associated with gross domestic product (GDP) per capita and average years of education per capita, but negatively associated with the urbanization rate. Moreover, significant spatial spillover effects were observed, suggesting that socioeconomic factors were associated not only with local public attention but also with that of neighboring regions. Topic modeling revealed a clear thematic evolution over time. Although personal experiences initially dominated web-based discourse, discussions progressively shifted toward health care service–related issues, which became the most prominent theme by 2025. Sentiment analysis indicated an overall positive emotional tone throughout the study period, with “Good” and “Disgust” representing the predominant positive and negative emotions, respectively. Emotional expression varied across demographic groups and user types, with noticeable differences in both intensity and temporal trends.\nConclusions: This study offers a comprehensive overview of public attention and discourse on lung cancer in China’s digital landscape, providing valuable evidence to inform targeted health communication and policy interventions.",
-        "url": "https://www.jmir.org/2026/1/e85058",
-        "image": "https://asset.jmir.pub/assets/fdd45170d22e246c05aa9cea6c7ff7af.png",
-        "publishedAt": "2026-05-05T20:04:18Z",
-        "source": "Journal of Medical Internet Research"
+        "title": "UK plans to bring back Britons stuck on hantavirus cruise ship",
+        "description": "Seriously ill crew member among more than 20 British nationals stranded on board MV Hondius off the coast of Cape Verde",
+        "url": "https://www.thetimes.com/uk/healthcare/article/briton-evacuated-cruise-ship-hantavirus-outbreak-d57t5l790",
+        "image": "https://www.thetimes.com/imageserver/image/d18c91e1-1a17-4ce9-8588-5e1d3c3804ea.jpg?strip=all&format=webp&crop=2260px%2C1271px%2C764px%2C615px&resize=1200",
+        "publishedAt": "2026-05-05T21:10:00Z",
+        "source": "The Times"
       },
       {
-        "title": "Man charged with alleged murder of Labasa man appears in court",
-        "description": "Man charged with alleged murder of Labasa man appears in court",
-        "url": "https://www.fijivillage.com/news/man-charged-with-alleged-murder-of-labasa-man-appears-in-court-5415f0/",
-        "image": "https://www.fijivillage.com/news_images/20260506075551_media_69f974892cf136_24790982.jpg",
-        "publishedAt": "2026-05-05T20:04:17Z",
-        "source": "Fijivillage"
+        "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans",
+        "description": "Hantavirus is typically spread through contact with rodent feces, urine or saliva. But cases on the MV Hondius cruise ship point to an unusual means of transmission.",
+        "url": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5123x2882+0+350/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F66%2Fa343004a4e71baab1cf660b8f822%2Fdawit-tamu-4x3-2271908699.jpg",
+        "publishedAt": "2026-05-05T21:08:37Z",
+        "source": "NPR"
       },
       {
-        "title": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-        "description": "Iran says the country’s forces ‘have not carried out any missile or drone operations against the UAE in recent days’.",
-        "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-05T112028Z_1234497698_RC2X2LAHYGVD_RTRMADP_3_IRAN-CRISIS-FUJAIRAH-1777998260.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-05-05T20:01:44Z",
-        "source": "Al Jazeera"
+        "title": "Fuel prices rising in the US as costs stabilise in Australia",
+        "description": "Fuel prices in Australia have started to moderate just as costs have reached an almost four-year high in the United States.",
+        "url": "https://www.abc.net.au/news/2026-05-06/fuel-prices-rising-in-us-as-costs-stabilise-in-australia/106630042",
+        "image": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_watermark_news&cropH=1447&cropW=2573&xPos=0&yPos=135&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-05T21:08:32Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Calla Walsh was a rising political star. She's a mouthpiece for Iran now.",
-        "description": "She was hailed as a wunderkind of the new left. Since then, she’s gone further than anyone could have imagined – in every sense.",
-        "url": "https://www.bostonglobe.com/2026/05/05/magazine/calla-walsh-markeyverse-iran/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZC7IOWSF2VF37AAMHO6LYQXAI4.jpg?auth=a7874523c26f94cf8a6e7bc0cbf40ea663c40d6cefdb73ab20fd85cb2ba1793b&width=1440",
-        "publishedAt": "2026-05-05T20:00:24Z",
-        "source": "The Boston Globe"
+        "title": "Bombshell moment Trump's 'drooping face' caught on air 'Beyond gone'",
+        "description": "The US president appeared to take a short nap while others were speaking at the White House event.",
+        "url": "https://www.express.co.uk/showbiz/tv-radio/2202179/bombshell-moment-trumps-drooping-face",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/20/1200x630/6903413.jpg",
+        "publishedAt": "2026-05-05T21:08:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Passengers on cruise ship with deadly hantavirus will need to isolate for several weeks",
-        "description": "There is no vaccine or cure for the deadly virus, Massey University professor David Hayman says.",
-        "url": "https://www.rnz.co.nz/news/world/594366/passengers-on-cruise-ship-with-deadly-hantavirus-will-need-to-isolate-for-several-weeks",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--Hw31l5ck--/t_tohu-badge-facebook/v1777882553/4JP52DN_AFP__20260503__A9NW6QW__v5__HighRes__CapeVerdeHealthTourism_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-05-05T19:54:51Z",
-        "source": "RNZ"
+        "title": "Trump’s EEOC sues New York Times, alleging discrimination against a White male employee",
+        "description": "The Equal Employment Opportunity Commission sued The New York Times on Tuesday, escalating a months-long investigation into the newsroom and advancing a discrimination case the paper has cast as politically motivated.",
+        "url": "https://www.cnn.com/2026/05/05/media/eeoc-new-york-times-trump-white-discrimination",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2257008194.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-05T21:05:38Z",
+        "source": "CNN"
       },
       {
-        "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-        "description": "US says it will hike tariffs to 25% because the EU has not complied with trade deal last year that set tariffs at 15%.",
-        "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_69f4de3911bf-1777655353.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-05-05T19:53:58Z",
-        "source": "Al Jazeera"
+        "title": "Inside the cruise ship at the center of a rare hantavirus outbreak",
+        "description": "Footage obtained by The Associated Press of a cruise ship in a rare-virus outbreak shows deserted decks and medical teams in protective gear as the vessel and its nearly 150 passengers and crew waited another day for help off West Africa. Officials say three passengers have died, and at least four people are sick. Authorities say the outbreak involves hantavirus, which usually spreads by inhaling contaminated rodent droppings. Two cases are confirmed. Passengers are isolating in cabins. The vessel is in the Atlantic off Cape Verde. Officials say it plans to move to Spain’s Canary Islands after medical evacuations. But Spanish officials said earlier Tuesday that they haven’t made a decision.",
+        "url": "https://kstp.com/ap-top-news/ap-top-news-health/inside-the-cruise-ship-at-the-center-of-a-rare-hantavirus-outbreak/",
+        "image": "https://kstp.com/wp-content/uploads/apimg/2026/05/APTOPIX_Cape_Verde_Hantavirus_Ship_86978.jpg",
+        "publishedAt": "2026-05-05T21:03:39Z",
+        "source": "5 EYEWITNESS NEWS"
       },
       {
-        "title": "Mission is to preach peace, says Pope in response to Trump attacks",
-        "description": "Trump lashed out at the pope for condemning the conflict in the Middle East, as his secretary of state heads to the Vatican.",
-        "url": "https://www.bbc.com/news/articles/c2023gne5p1o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/47aa/live/31d20380-48ba-11f1-bd52-e755d604ece4.jpg",
-        "publishedAt": "2026-05-05T19:52:20Z",
-        "source": "BBC"
+        "title": "DPP Anguzu elected East African prosecutors' body pres",
+        "description": "Anguzu takes over from Kenyan Director of Public Prosecutions Renson Ingonga, who now serves as the secretary general of the association.",
+        "url": "https://www.newvision.co.ug/category/news/dpp-anguzu-elected-east-african-prosecutors-b-NV_233132_052026",
+        "image": "https://newvision-media.s3.amazonaws.com/cms/301c998d-2d7b-40ca-b173-a3af648f6348.jpg",
+        "publishedAt": "2026-05-05T21:00:05Z",
+        "source": "NewVision.co.ug"
       },
       {
-        "title": "Mission is to preach peace, says Pope in response to Trump attacks",
-        "description": "Trump lashed out at the pope for condemning the conflict in the Middle East, as his secretary of state heads to the Vatican.",
-        "url": "https://www.bbc.co.uk/news/articles/c2023gne5p1o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47aa/live/31d20380-48ba-11f1-bd52-e755d604ece4.jpg",
-        "publishedAt": "2026-05-05T19:52:20Z",
-        "source": "BBC"
+        "title": "Sea lanes are being disrupted. And an old Chinese frontier town is back in the spotlight",
+        "description": "Khorgos, on Chinese border with Kazakhstan, is a major node on the China-Europe Railway Express. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/sea-lanes-are-being-disrupted-and-an-old-chinese-frontier-town-is-back-in-the-spotlight",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3794c2d32563b2d63cc5c2befdc560c1304e273045c0b223c8472ade219045cd",
+        "publishedAt": "2026-05-05T21:00:00Z",
+        "source": "The Straits Times"
       }
     ],
     "business": [
       {
-        "title": "Understanding Public Perceptions of Lung Cancer in China: Infodemiology Study of Baidu Index and Weibo Posts",
-        "description": "Background: In China, lung cancer remains a major public health concern and accounts for a substantial proportion of cancer-related deaths nationwide. However, limited research has examined public perceptions of lung cancer in the digital sphere, where health-related information is increasingly disseminated and accessed.\nObjective: This study aims to systematically examine patterns of public attention and perceptions toward lung cancer in China by integrating search engine query data and social media content, thereby enhancing current understanding of web-based health information dynamics related to lung cancer.\nMethods: Data were collected from Baidu Index (BI) (2011‐2025) and Sina Weibo (2010‐2025) to represent web-based search behavior and social media discourse on lung cancer, respectively. Spatiotemporal patterns of BI, per capita Baidu Index (PBI), and Weibo posts were examined to capture temporal trends and spatial variations. Additionally, the spatial autocorrelation of PBI was assessed using global and local Moran statistics. PBI-related explanatory variables were assessed using a spatial panel Durbin model. Topic modeling and lexicon-based sentiment analysis were applied to Weibo content to uncover thematic evolution and emotional polarity across years, sex/organization groups, and user types.\nResults: Public attention toward lung cancer, as reflected by BI, increased initially, peaked in 2019, and subsequently declined, whereas Weibo discussions demonstrated a fluctuating but generally upward trend before stabilizing after 2022. Similar temporal patterns were observed across most provinces. Significant spatial heterogeneity was identified, with higher BI levels concentrated in eastern coastal regions and persistently lower levels in western and southwestern provinces. Spatial autocorrelation analysis revealed stable positive clustering over time, with low-low clusters particularly concentrated in southwestern regions such as Guangxi, and no significant high-high clusters were detected. Panel spatial regression analyses indicated that the provincial PBI was positively associated with gross domestic product (GDP) per capita and average years of education per capita, but negatively associated with the urbanization rate. Moreover, significant spatial spillover effects were observed, suggesting that socioeconomic factors were associated not only with local public attention but also with that of neighboring regions. Topic modeling revealed a clear thematic evolution over time. Although personal experiences initially dominated web-based discourse, discussions progressively shifted toward health care service–related issues, which became the most prominent theme by 2025. Sentiment analysis indicated an overall positive emotional tone throughout the study period, with “Good” and “Disgust” representing the predominant positive and negative emotions, respectively. Emotional expression varied across demographic groups and user types, with noticeable differences in both intensity and temporal trends.\nConclusions: This study offers a comprehensive overview of public attention and discourse on lung cancer in China’s digital landscape, providing valuable evidence to inform targeted health communication and policy interventions.",
-        "url": "https://www.jmir.org/2026/1/e85058",
-        "image": "https://asset.jmir.pub/assets/fdd45170d22e246c05aa9cea6c7ff7af.png",
-        "publishedAt": "2026-05-05T20:04:18Z",
-        "source": "Journal of Medical Internet Research"
-      },
-      {
-        "title": "Global Sentiment Toward Health AI at the Dawn of the ChatGPT Era: Empirical Analysis of Twitter (X) Discourse",
-        "description": "Background: Artificial intelligence (AI) is increasingly proposed for use in health and health care systems. Beyond technical performance, public perceptions and affective responses influence whether AI technologies are accepted and adopted in real-world contexts. Social media platforms such as X (formerly Twitter) provide large-scale, real-time insight into public discourse surrounding emerging technologies, yet remain underused for examining how health AI is discussed, evaluated, and emotionally framed.\nObjective: This study aimed to develop and apply large language model (LLM)–based methods for exploratory social listening on health AI. This is the first study to map large-scale sentiment, emotional expressions, and confidence-related signals in online discussions of applications of AI to health.\nMethods: We collected 786,750 English-language posts from X (Twitter) published between January 1 and December 5, 2023, using health- and AI-related keywords. We benchmarked an LLM-based annotation framework by using OpenAI’s GPT-3.5-Turbo and GPT-4, comparing model classifications with trained human researchers. Annotations included overall sentiment and 6 evaluative domains frequently referenced in the literature surrounding attitudes toward health AI—usefulness, safety, privacy, ethics, quality, and trust. After cleaning, GPT-3.5-Turbo used the best-performing prompts to label 388,009 posts. A subset (n=268,347) was further analyzed using Emollama-7b, an open-source model fine-tuned from Meta’s LLaMA2-7B, for emotion detection, and latent Dirichlet allocation for thematic analysis. Comparisons were made across World Health Organization regions.\nResults: Compared against human annotations, optimized prompts achieved weighted F1-scores above 0.60 across evaluative domains and sentiment classification. Global discourse about health AI was 65.26% (95% CI 65.11%-65.4%) positive and 83.62% (95% CI 83.48%-83.76%) emotionally optimistic, although substantial regional variation was observed in sentiment (P<.001). The Eastern Mediterranean and South-East Asia regions expressed significantly higher levels of positive sentiment and evaluative agreement in the studied features of health AI, alongside frequent discussion of the tech industry and commercial development. In comparison, the Western Pacific region expressed lower confidence and significantly more mentions of research topics (19.27%, 95% CI 18.5%-20.07%). Privacy was the most prominent global concern, with 33.31% (95% CI 32.98%-33.66%) of privacy-related posts expressing perceived risks. In the Region of the Americas, 18.19% (95% CI 17.92%-18.44%) of posts discussed algorithms and data governance, significantly higher than overall.\nConclusions: This study offers the first systematic characterization of online health AI discourse at scale, mapping stances toward key features of AI, emotional tone, and discussion topics across regions. LLM-powered social listening is demonstrated as a feasible approach for identifying dominant narratives and regionally distinct concerns, capable of surfacing opinions absent from traditional media. This can extend to studying discourse on other evolving health technologies where public surveying is limited. While methodological refinement and multilingual expansion are needed, this framework can inform timely policy development, risk communication, and responsible health AI governance.\nTrial Registration:",
-        "url": "https://www.jmir.org/2026/1/e80346",
-        "image": "https://asset.jmir.pub/assets/8c63531290b76bb28a777eecfd2795d7.png",
-        "publishedAt": "2026-05-05T20:04:18Z",
-        "source": "Journal of Medical Internet Research"
-      },
-      {
-        "title": "Families could save up to $50 a week growing their own fruit and vegetables",
-        "description": "With grocery prices continuing to bite, more Australians are discovering that home gardening isn't just good for wellbeing — it can also make real financial sense.",
-        "url": "https://www.abc.net.au/news/2026-05-06/vegetable-growing-at-home-to-save-costs-no-dig-gardening/106630998",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4b2c4007c23a9797a7678c1ec88a18ee?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-05T20:02:39Z",
+        "title": "Fuel prices rising in the US as costs stabilise in Australia",
+        "description": "Fuel prices in Australia have started to moderate just as costs have reached an almost four-year high in the United States.",
+        "url": "https://www.abc.net.au/news/2026-05-06/fuel-prices-rising-in-us-as-costs-stabilise-in-australia/106630042",
+        "image": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_watermark_news&cropH=1447&cropW=2573&xPos=0&yPos=135&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-05T21:08:32Z",
         "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Strategy Announces First Quarter Financial Results; Currently Holds 818,334 BTC",
-        "description": "Strategy Inc (Nasdaq: STRF/STRC/STRK/STRD/MSTR; LuxSE: STRE) (“Strategy” or the “Company”), the largest corporate holder of bitcoin and the world’s first Bit...",
-        "url": "https://www.businesswire.com/news/home/20260505174709/en/Strategy-Announces-First-Quarter-Financial-Results-Currently-Holds-818334-BTC",
-        "image": "https://mms.businesswire.com/media/20260505174709/en/2518957/22/Strategy_Brand_Mark_Orange_HighRes.jpg",
-        "publishedAt": "2026-05-05T20:01:00Z",
+        "title": "Australia news live: banks pass on interest rate hike to customers; Sydney ‘globalise the intifada’ forum held in park",
+        "description": "Follow updates live",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
+        "image": "https://i.guim.co.uk/img/media/26f7baa72213def2fe9f9f2b0dd6a8bf9e32dfd4/147_0_4103_3282/master/4103.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=add35b8d63c58970c77522ac2339964f",
+        "publishedAt": "2026-05-05T21:04:34Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Scammers are getting Rogers customers to mail them 'free' iPads",
+        "description": "Rogers customers are on the hook for a $2,300 iPad after scammers got them to unknowingly sign up for a two-year iPad financing plan. Rogers offered some help as a goodwill gesture, but the victims are disappointed the company won't fully reverse the charges.",
+        "url": "https://www.cbc.ca/news/canada/toronto/scammers-rogers-customers-ipads-9.7186935",
+        "image": "https://i.cbc.ca/ais/42db6b51-2cec-45c8-9c32-00aaf2b8f61d,1777919130708/full/max/0/default.jpg?im=Crop%2Crect%3D%287%2C0%2C1905%2C1071%29%3BResize%3D620",
+        "publishedAt": "2026-05-05T21:04:21Z",
+        "source": "CBC"
+      },
+      {
+        "title": "‘No waiting on semicon wafer fabs’",
+        "description": "Putrajaya is prepared to court foreign players to build semiconductor wafer fabrication facilities in Malaysia if local companies are not yet ready to make the leap.",
+        "url": "https://www.thestar.com.my/business/business-news/2026/05/06/no-waiting-on-semicon-wafer-fabs",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/06/3893843.jpeg",
+        "publishedAt": "2026-05-05T21:03:13Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Triple Flag Declares Q2 2026 Dividend",
+        "description": "Triple Flag Precious Metals Corp. (with its subsidiaries, “Triple Flag” or the “Company”) (TSX: TFPM, NYSE: TFPM) is pleased to announce that its Board of Di...",
+        "url": "https://www.businesswire.com/news/home/20260505440907/en/Triple-Flag-Declares-Q2-2026-Dividend",
+        "image": "https://mms.businesswire.com/media/20260505440907/en/2083530/22/Triple_Flag_Precious_Metals.jpg",
+        "publishedAt": "2026-05-05T21:01:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "Travere Announces Proposed Convertible Senior Notes Offering to Refinance 2029 Convertible Notes",
-        "description": "Travere Therapeutics, Inc. (Nasdaq: TVTX) today announced its intention to offer, subject to market and other conditions, $400 million aggregate principal am...",
-        "url": "https://www.businesswire.com/news/home/20260505716849/en/Travere-Announces-Proposed-Convertible-Senior-Notes-Offering-to-Refinance-2029-Convertible-Notes",
-        "image": "https://mms.businesswire.com/media/20260505716849/en/2407040/22/Travere-Tx-Inline-fullcolor.jpg",
-        "publishedAt": "2026-05-05T20:01:00Z",
-        "source": "Business Wire"
+        "title": "Norgine welcomes TGA registration in Australia of PEDMARQSI® (sodium thiosulfate anhydrous) for the prevention of cisplatin",
+        "description": "/PRNewswire/ -- Norgine, a leading European specialty pharmaceutical company is pleased to announce that PEDMARQSI® (sodium thiosulfate anhydrous) has been...",
+        "url": "https://www.prnewswire.com/news-releases/norgine-welcomes-tga-registration-in-australia-of-pedmarqsi-sodium-thiosulfate-anhydrous-for-the-prevention-of-cisplatin-induced-hearing-loss-in-children1-302762604.html",
+        "image": "https://mma.prnewswire.com/media/2846726/Norgine_Logo.jpg?p=facebook",
+        "publishedAt": "2026-05-05T21:01:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Atlantic Union Bankshares Corporation Declares Quarterly Common Stock Dividend and Preferred Stock Dividend",
-        "description": "Quarterly dividend announcement.",
-        "url": "https://www.businesswire.com/news/home/20260505569508/en/Atlantic-Union-Bankshares-Corporation-Declares-Quarterly-Common-Stock-Dividend-and-Preferred-Stock-Dividend",
-        "image": "https://mms.businesswire.com/media/20260505569508/en/1678340/22/Atlantic_Union_BanksharesFINAL.jpg",
-        "publishedAt": "2026-05-05T20:01:00Z",
-        "source": "Business Wire"
+        "title": "Norgine welcomes TGA registration in Australia of PEDMARQSI® (sodium thiosulfate anhydrous) for the prevention of cisplatin",
+        "description": "/PRNewswire/ -- Norgine, a leading European specialty pharmaceutical company is pleased to announce that PEDMARQSI® (sodium thiosulfate anhydrous) has been...",
+        "url": "https://www.prnewswire.com/news-releases/norgine-welcomes-tga-registration-in-australia-of-pedmarqsi-sodium-thiosulfate-anhydrous-for-the-prevention-of-cisplatin-induced-hearing-loss-in-children1-302762607.html",
+        "image": "https://mma.prnewswire.com/media/2846726/5953601/Norgine_Logo.jpg?p=facebook",
+        "publishedAt": "2026-05-05T21:01:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Stocks Rise to Record and Oil Falls as Truce Holds: Markets Wrap",
-        "description": "(Bloomberg) -- Relative calm returned to global markets, with stocks rising and oil falling as signs that a US-Iran ceasefire is still in place reduced fears about a full-scale war that could hamper the economic outlook.",
-        "url": "https://www.swissinfo.ch/eng/stocks-rise-to-record-and-oil-falls-as-truce-holds%3A-markets-wrap/91363063",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1768386618",
-        "publishedAt": "2026-05-05T20:01:00Z",
-        "source": "SWI swissinfo.ch"
-      },
-      {
-        "title": "Atlantic Union Bankshares Corporation Announces $250 million Share Repurchase Program",
-        "description": "Board of Directors authorizes $250 million share repurchase program",
-        "url": "https://www.businesswire.com/news/home/20260505856207/en/Atlantic-Union-Bankshares-Corporation-Announces-%24250-million-Share-Repurchase-Program",
-        "image": "https://mms.businesswire.com/media/20260505856207/en/1678340/22/Atlantic_Union_BanksharesFINAL.jpg",
-        "publishedAt": "2026-05-05T20:01:00Z",
-        "source": "Business Wire"
+        "title": "SPNEC secures P3.78B loan for Tarlac solar expansion",
+        "description": "CONCEPCION, Tarlac — SP New Energy Corp. (SPNEC) of business tycoon Manuel Pangilinan has secured a P3.78-billion loan from the Philippine National Bank (PNB), providing the expansion of its solar operations here a big lift.",
+        "url": "https://www.manilatimes.net/2026/05/06/regions/spnec-secures-p378b-loan-for-tarlac-solar-expansion/2336293",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/05/1043059.jpg",
+        "publishedAt": "2026-05-05T21:00:00Z",
+        "source": "The Manila Times"
       }
     ],
     "science": [
       {
-        "title": "Watch SpaceX Starlink train circle Earth in amazing satellite video",
-        "description": "A video captured by a newly launched SpaceX Starlink satellite shows us what it's like to zoom above our beautiful blue planet.",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video",
-        "image": "https://cdn.mos.cms.futurecdn.net/ebne3f7ukiESZxjnwj8neY-1961-80.jpg",
-        "publishedAt": "2026-05-05T20:00:00Z",
-        "source": "Space"
+        "title": "Meteor shower from Halley's Comet to peak overnight. Here's how to catch a glimpse",
+        "description": "A meteor shower stemming from Halley's Comet will peak soon. Here's when and how to catch a glimpse of a shooting star. (AP Photo)",
+        "url": "https://www.newscentermaine.com/article/news/nation-world/meteor-shower-eta-aquarids-halleys-comet-debris-how-to-watch/507-eff0b03a-dba7-45ec-8790-77d8b845f4dc",
+        "image": "https://media.newscentermaine.com/assets/CCT/images/ee2fee8a-bfd7-435b-81f3-9183c6419d85/20241120T011930/ee2fee8a-bfd7-435b-81f3-9183c6419d85_1140x641.jpg",
+        "publishedAt": "2026-05-05T21:02:00Z",
+        "source": "newscentermaine.com"
       },
       {
-        "title": "Earth Screams in Agony as Microplastics Found to Increase Global Warming",
-        "description": "\"We can say with confidence that overall they are warming agents.\"",
-        "url": "https://www.yahoo.com/news/articles/earth-screams-agony-microplastics-found-195246391.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/uxp98Hy3JCceC4RJTSW.cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/7b7fe0332b27692c55741654cb6d7545",
-        "publishedAt": "2026-05-05T19:52:46Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Earth Screams in Agony as Microplastics Found to Increase Global Warming",
-        "description": "New research that microplastics absorb more sunlight than they reflect, significantly heating the Earth's atmosphere.",
-        "url": "https://futurism.com/science-energy/microplastics-global-warming",
-        "image": "https://futurism.com/wp-content/uploads/2026/05/microplastics-global-warming.jpg?w=1200",
-        "publishedAt": "2026-05-05T19:52:46Z",
-        "source": "Futurism"
-      },
-      {
-        "title": "Inexpensive material compresses light, paving the way for photonic microcircuits in the terahertz range",
-        "description": "A two-dimensional lamellar crystal composed of atomically thin layers of lead iodide (PbI2) could be used to manufacture a new generation of circuits that use light and mechanical vibrations (rather than electrons) to transmit information in the terahertz frequency range.",
-        "url": "https://phys.org/news/2026-05-inexpensive-material-compresses-paving-photonic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/inexpensive-material-c-2.jpg",
-        "publishedAt": "2026-05-05T19:50:01Z",
+        "title": "Microplastics pass through earthworms without accumulating in body tissues, study shows",
+        "description": "As much as 40 million metric tons of microplastics are released into the environment globally every year. These tiny pieces of plastic come from larger plastic items that break down or are shed by products such as clothing, paints, and cosmetics.",
+        "url": "https://phys.org/news/2026-05-microplastics-earthworms-accumulating-body-tissues.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/microplastics-pass-thr-1.jpg",
+        "publishedAt": "2026-05-05T21:00:45Z",
         "source": "Phys.org"
       },
       {
-        "title": "Hand-held wireless probe helps surgeons identify breast cancer tumors",
-        "description": "Breast cancer impacts over 2 million women around the world each year. Following radiotherapy or chemotherapy, breast-conserving surgery is the first line of intervention for early-stage breast cancer.",
-        "url": "https://www.news-medical.net/news/20260505/Hand-held-wireless-probe-helps-surgeons-identify-breast-cancer-tumors.aspx",
-        "image": "https://www.news-medical.net/images/tags/TagImage-1039-45840826385648151818-620x480.jpg",
-        "publishedAt": "2026-05-05T19:41:00Z",
-        "source": "News-Medical"
+        "title": "Optical AI recovers distorted telecom signals at ultra-high speed, using less energy",
+        "description": "Modern communication networks must handle ever-growing volumes of data, driven by cloud services, connected devices, and real-time applications. At the same time, they face a critical constraint: keeping energy consumption ...",
+        "url": "https://techxplore.com/news/2026-05-optical-ai-recovers-distorted-telecom.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/building-the-future-of.jpg",
+        "publishedAt": "2026-05-05T21:00:07Z",
+        "source": "Tech Xplore"
       },
       {
-        "title": "Clusters of bright blue stars and glowing red gas clouds steal the show in this new Hubble image of a glittering galaxy that stopped me in my tracks",
-        "description": "NASA has published a new image captured by the Hubble Space Telescope depicting a nearby spiral galaxy “glittering” with clusters of stars",
-        "url": "https://www.digitalcameraworld.com/photography/astrophotography/clusters-of-bright-blue-stars-and-glowing-red-gas-clouds-steal-the-show-in-this-new-hubble-image-of-a-glittering-galaxy-that-stopped-me-in-my-tracks",
-        "image": "https://cdn.mos.cms.futurecdn.net/XhT6huBdMSHjCcLWdakMma-2100-80.jpg",
-        "publishedAt": "2026-05-05T19:37:11Z",
-        "source": "Digital Camera World"
+        "title": "Games people - and machines - play: Untangling strategic reasoning to advance AI",
+        "description": "MIT Assistant Professor Gabriele Farina explores his approach to untangling strategic reasoning to advance AI.",
+        "url": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
+        "image": "https://news.mit.edu/sites/default/files/images/202604/mit-eecs-lids-Gabriele-Farina.JPG",
+        "publishedAt": "2026-05-05T21:00:00Z",
+        "source": "MIT News"
       },
       {
-        "title": "New AI Model Reads DNA Sequences to Reconstruct Ancestry",
-        "description": "DNA and how AI is being used to interpret genetic codes, enhancing our knowledge of evolution and mutations.",
-        "url": "https://www.tomorrowsworldtoday.com/artificial-intelligence/new-ai-model-reads-dna-sequences-to-reconstruct-ancestry/",
-        "image": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2026/05/ai-dna-.png",
-        "publishedAt": "2026-05-05T19:30:21Z",
-        "source": "Tomorrow's World Today"
+        "title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+        "description": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientists have now managed to connect it to an external device for the first time. By linking the time crystal to a tiny mechanical oscillator, researchers showed they can actually control its behavior, opening the door to powerful new technologies.",
+        "url": "http://www.sciencedaily.com/releases/2026/05/260504154024.htm",
+        "image": "https://www.sciencedaily.com/images/1920/time-crystals-could-power-future-quantum-computers.webp",
+        "publishedAt": "2026-05-05T20:55:35Z",
+        "source": "ScienceDaily"
       },
       {
-        "title": "Methana volcano in Greece was never dead: Scientists reveal 100,000 years of hidden magma activity",
-        "description": "Science News: For years, the Methana volcano located in Greece has been categorised as a dormant volcano since it has always appeared peaceful and inactive due to i.",
-        "url": "https://timesofindia.indiatimes.com/science/methana-volcano-in-greece-was-never-dead-scientists-reveal-100000-years-of-hidden-magma-activity/articleshow/130835887.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130835969,width-1280,height-720,imgsize-92218,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-05T19:30:00Z",
+        "title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+        "description": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientists have now managed to connect it to an external device for the first time. By linking the time crystal to a tiny mechanical oscillator, researchers showed they can actually control its behavior, opening the door to powerful new technologies.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
+        "image": "https://www.sciencedaily.com/images/1920/time-crystals-could-power-future-quantum-computers.webp",
+        "publishedAt": "2026-05-05T20:55:35Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Once-in-170,000-year comet is streaking across the sky with glowing blue-green light: Spot it over Australia and New Zealand",
+        "description": "Science News: A rare long-period comet, C/2025 R3 (PanSTARRS), is currently visible in southern skies, offering a brief observing window before it fades from view. .",
+        "url": "https://timesofindia.indiatimes.com/science/once-in-170000-year-comet-is-streaking-across-the-sky-with-glowing-blue-green-light-spot-it-over-australia-and-new-zealand/articleshow/130838963.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130838972,width-1280,height-720,imgsize-354084,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-05T20:52:00Z",
         "source": "The Times of India"
+      },
+      {
+        "title": "Three billion years ago, Earth's life relied on a rare metal",
+        "description": "A collaborative team of scientists has discovered that life on Earth over three billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications, is the first to show that molybdenum was used by ancient life this far back in our planet's history.",
+        "url": "https://phys.org/news/2026-05-billion-years-earth-life-rare.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-research-shows-ea.jpg",
+        "publishedAt": "2026-05-05T20:50:01Z",
+        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "AI Drives Record Highs in S&P 500 and Nasdaq Amid Ceasefire",
-        "description": "The S&P 500 and Nasdaq reached record highs due to strong AI-related performance, bolstered by a U.S.-Iran ceasefire and positive quarterly earnings. Significant contributions came from Intel and the Philadelphia SE Semiconductor index. Investors remain optimistic about continued economic growth and strong business spending throughout the year.",
-        "url": "https://www.devdiscourse.com/article/headlines/3897970-ai-drives-record-highs-in-sp-500-and-nasdaq-amid-ceasefire",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
-        "publishedAt": "2026-05-05T20:03:22Z",
-        "source": "Devdiscourse"
+        "title": "If You Plan to Get an iPhone in the Fall, Don't Get Too Attached to ChatGPT",
+        "description": "You'll reportedly get your choice of AI companions, which means ChatGPT might be losing its shine.",
+        "url": "https://gizmodo.com/if-you-plan-to-get-an-iphone-in-the-fall-dont-get-too-attached-to-chatgpt-2000754766",
+        "image": "https://gizmodo.com/app/uploads/2025/11/siri-1200x675.jpg",
+        "publishedAt": "2026-05-05T21:10:52Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "S&P 500 and Nasdaq notch records as AI chip stocks surge",
-        "description": "The S&P 500 and Nasdaq notched record high closes on Tuesday, lifted by Intel and other AI-related stocks, as a U.S.-Iran ceasefire held firm and investors focused on strong quarterly earnings.\n...",
-        "url": "https://www.marketscreener.com/news/s-p-500-and-nasdaq-notch-records-as-ai-chip-stocks-surge-ce7f58dcd18cf720",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-30T180114Z_1_LYNXMPEM3T1LY_RTROPTP_4_GLOBAL-MARKETS.JPG",
-        "publishedAt": "2026-05-05T20:02:24Z",
-        "source": "MarketScreener"
+        "title": "How to equip girls for an increasingly AI-driven world",
+        "description": "Schools must do more to help girls master AI. That's the conclusion of a new study, which found that boys, more confident at working with AI, performed better in some classes compared to their female counterparts.",
+        "url": "https://phys.org/news/2026-05-equip-girls-ai-driven-world.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/girls-at-school.jpg",
+        "publishedAt": "2026-05-05T21:10:07Z",
+        "source": "Phys.org"
       },
       {
-        "title": "US stocks today: S&P 500 and Nasdaq notch records as AI chip stocks surge",
-        "description": "The S&P 500 and Nasdaq reached record highs, driven by AI-related stocks like Intel and strong quarterly earnings. A U.S.-Iran ceasefire held, easing geopolitical concerns. Investors focused on robust corporate profits, with S&P 500 companies on track for significant year-over-year earnings growth, bolstering market optimism.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-notch-records-as-ai-chip-stocks-surge/articleshow/130838707.cms",
-        "image": "https://img.etimg.com/thumb/msid-130838712,width-1200,height-630,imgsize-38318,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-05T20:02:00Z",
-        "source": "The Economic Times"
+        "title": "Brockman rebuts Musk's take on startup's history",
+        "description": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
+        "url": "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108301688-1777911401575-gettyimages-2273978244-MUSK_ALTMAN_TRIAL.jpeg?v=1777911431&w=1920&h=1080",
+        "publishedAt": "2026-05-05T21:10:06Z",
+        "source": "CNBC"
       },
       {
-        "title": "Giorgia Meloni Denounces AI Deepfakes After Viral Misinformation Campaign",
-        "description": "The controversy erupted when a fabricated image—placing her in a compromising, non-institutional setting—went viral, with users sharing it as if it were real and questioning her conduct.",
-        "url": "https://www.deccanchronicle.com/world/giorgia-meloni-denounces-ai-deepfakes-after-viral-misinformation-campaign-1954948",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/05/05/2037853-xxx.jpg",
-        "publishedAt": "2026-05-05T20:01:27Z",
-        "source": "Deccan Chronicle"
+        "title": "AMD beats forecasts as AI boom shows no sign of slowing down",
+        "description": "Revenues were up 38 per cent for the chip designer in the first quarter while net income rose 95 per cent",
+        "url": "https://www.thetimes.com/us/business-us/article/amd-beats-forecasts-as-ai-boom-shows-no-sign-of-slowing-down-gvnrjhpz3",
+        "image": "https://www.thetimes.com/imageserver/image/05830e84-f93e-4cfc-897c-50b9a83b68f7.jpg?strip=all&format=webp&crop=4500px%2C2531px%2C0px%2C234px&resize=1200",
+        "publishedAt": "2026-05-05T21:10:00Z",
+        "source": "The Sunday Times"
       },
       {
-        "title": "Cambridge AI unicorn Blitzy has raised $200 million",
-        "description": "Blitzy is the latest \"unicorn\" company in Massachusetts, valued at more than $1 billion by investors.",
-        "url": "https://www.bostonglobe.com/2026/05/05/business/blitzy-ai-software-cambridge-unicorn-startup/",
-        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/LE6XONZR4RGLVDTTDWBQY7VUWE.jpg?auth=fd96b3b05ba06d33014aa059c5fa2852f23060840953e9c889f0fcb125440b35&width=1440",
-        "publishedAt": "2026-05-05T20:01:15Z",
-        "source": "The Boston Globe"
-      },
-      {
-        "title": "From Devices to Daily Life: Samsung's AI Living Push",
-        "description": "Samsung Electronics America CMO Allison Stransky on ecosystem storytelling and data-driven marketing.",
-        "url": "https://www.adweek.com/brand-marketing/from-devices-to-daily-life-samsungs-ai-living-push/",
-        "image": "https://static-www.adweek.com/wp-content/uploads/2026/05/speed-of-culture-samsung-Allison-Stransky.png?w=600&h=315&crop=1",
-        "publishedAt": "2026-05-05T19:59:46Z",
+        "title": "OpenAI Opens ChatGPT Ads to Self-Service Platform",
+        "description": "The AI company also added partners, including Pacvue and Kargo.",
+        "url": "https://www.adweek.com/media/openai-opens-chatgpt-ads-to-self-service-platform/",
+        "image": "https://static-www.adweek.com/wp-content/uploads/2026/05/chatgpt-ads-self-service-2026.jpg?w=600&h=315&crop=1",
+        "publishedAt": "2026-05-05T21:09:43Z",
         "source": "Adweek"
       },
       {
-        "title": "Every time Molo makes a summary of Brockman’s testimony, Brockman objects to it.",
-        "description": "For instance, yesterday, Brockman gave a long spiel about the setup of OpenAI that only tangentially involved Musk. Altman and Sutskever were portrayed as being in the middle of things. Molo effectively said that and then pointed out that Musk’s money was key. Brockman objected both to the summary, and to the idea that Musk’s money was key. Come on, dude. We aren’t idiots.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/924587/every-time-molo-makes-a-summary-of-brockmans-testimony-brockman-objects-to-it",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-        "publishedAt": "2026-05-05T19:59:30Z",
-        "source": "The Verge"
+        "title": "Opinion: Let’s test and learn from AI medicine in Utah",
+        "description": "The potential advantages of ‘AI doctors’ in reducing costs and improving access in our overburdened medical system call for experimenting with new technologies",
+        "url": "https://www.deseret.com/opinion/2026/05/05/ai-medicine-in-utah/",
+        "image": "https://www.deseret.com/resizer/v2/SB7KHQA3R5HGVA2YJ7BQ3KIBAU.jpeg?focal=0%2C0&auth=627b46d63051fd68046419b9e960d0a5d7242c4523e0c348b67b2ac7dcc7748b&width=630&height=331",
+        "publishedAt": "2026-05-05T21:08:45Z",
+        "source": "Salt Lake City Deseret News"
       },
       {
-        "title": "Medical AI finds deadly pancreatic cancers 3 years earlier",
-        "description": "A new artificial intelligence model developed by the Mayo Clinic can help detect pancratic cancer up to three years before most diagnoses, improving survival odds.",
-        "url": "https://www.baltimoresun.com/2026/05/05/ai-pancreatic-cancer-detector/",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2024/02/GettyImages-1258734594.jpg?w=1024&h=683",
-        "publishedAt": "2026-05-05T19:57:09Z",
-        "source": "Baltimore Sun"
+        "title": "Trading Day: Rarified AIr",
+        "description": "The S&P 500 and Nasdaq sailed to new highs on Tuesday, riding the crest of yet another wave of optimism around the artificial intelligence boom. Strong earnings, lower oil prices, and relief that the...",
+        "url": "https://www.marketscreener.com/news/trading-day-rarified-air-ce7f58ddd989f321",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-05T210309Z_1_LYNXMPEM441FF_RTROPTP_4_USA-STOCKS.JPG",
+        "publishedAt": "2026-05-05T21:05:36Z",
+        "source": "MarketScreener"
+      },
+      {
+        "title": "Trading Day: Rarified AIr",
+        "description": "The S&P 500 and Nasdaq sailed to new highs on Tuesday, riding the crest of yet another wave of optimism around the artificial intelligence boom. Strong earnings, lower oil prices, and relief that the U.S.-Iran ceasefire is holding also lifted sentiment.",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-05-05/",
+        "image": "https://www.reuters.com/resizer/v2/KHPHIBHZUZL5XA6PNBZUKO7F24.jpg?auth=b23a26ac8432293d4d1c3a5956e3965f302029fa244d980df61579980d1a03c0&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-05-05T21:03:31Z",
+        "source": "Reuters"
       }
     ]
   }
