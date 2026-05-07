@@ -1,140 +1,156 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-07T10:08:07.719Z",
+  "fetchedAt": "2026-05-07T11:00:52.529Z",
   "sections": {
     "world": [
       {
-        "title": "Odds of a ‘super El Niño’ increase, adding to fears of extreme weather around the world",
-        "description": "One of the most powerful El Niño events ever recorded could form in the coming months, according to new forecasts, raising concerns about global temperatures, hurricanes, drought conditions and other extremes this year",
-        "url": "https://www.nbcnews.com/science/science-news/super-el-nino-global-weather-heat-rcna343928",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260506-heat-wave-san-francisco-ew-550p-e207dd.jpg",
-        "publishedAt": "2026-05-06T21:59:40Z",
-        "source": "NBC News"
+        "title": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+        "description": "U.S. military strikes Iranian oil tanker amid Trump’s pressure on Tehran for a deal to end ongoing war tensions.",
+        "url": "https://www.thehindu.com/news/international/us-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/article70948554.ece",
+        "image": "https://th-i.thgim.com/public/incoming/qt9m0k/article70948706.ece/alternates/LANDSCAPE_1200/2026-05-06T170241Z_1403508769_RC2S3LARQQW4_RTRMADP_3_USA-TRUMP.JPG",
+        "publishedAt": "2026-05-06T23:00:00Z",
+        "source": "The Hindu"
       },
       {
-        "title": "Italian Prime Minister Giorgia Meloni shares deepfake image to raise awareness",
-        "description": "Italian Prime Minister Giorgia Meloni has hit back after AI-generated deepfake images of her, including one of her in lingerie, were released.",
-        "url": "https://www.news.com.au/technology/online/italian-prime-minister-giorgia-meloni-shares-deepfake-image-to-raise-awareness/news-story/812830c1abde0b8a038228bbcf730f98",
-        "image": "https://content.api.news/v3/images/bin/c7c5763432bb3c2e47d3ba99331d6340",
-        "publishedAt": "2026-05-06T21:54:45Z",
+        "title": "What I Learned From Reading Apartheid Propaganda",
+        "description": "The narratives people used to defend South Africa and Rhodesia in the 20th century sound a lot like the ones that are deployed to defend Israel today.",
+        "url": "https://www.currentaffairs.org/news/what-i-learned-from-reading-apartheid-propaganda",
+        "image": "https://www.currentaffairs.org/hubfs/SAfrica-Israel-Online-Image4.jpg",
+        "publishedAt": "2026-05-06T22:48:02Z",
+        "source": "Home ❧ Current Affairs"
+      },
+      {
+        "title": "Birdwatchers' trip to Argentinian dump blamed for deadly hantavirus outbreak as nation begins hunting rats",
+        "description": "Argentinian officials have said they believe a deadly outbreak of hantavirus was brought aboard a cruise ship after a Dutch couple caught the illness during a bird-watching trip to a rubbish dump.",
+        "url": "https://www.lbc.co.uk/article/hantavirus-cruise-ship-refused-canary-islands-5HjdYkr_2/",
+        "image": "https://images.globalplayer.com/images/811348?crop=16_9&width=1200&signature=CSUJI6n4L1piTCoj0Wnihr_7paI=",
+        "publishedAt": "2026-05-06T22:41:15Z",
+        "source": "lbc.co.uk"
+      },
+      {
+        "title": "Gaza healthofficials say Israeli strikes kill six",
+        "description": "Gaza remains gripped by daily violence as Israeli strikes continue",
+        "url": "https://tribune.com.pk/story/2606775/gaza-healthofficials-say-israelistrikes-kill-six",
+        "image": "https://i.tribune.com.pk/media/images/541778106418-10/541778106418-10-640x480.webp",
+        "publishedAt": "2026-05-06T22:38:58Z",
+        "source": "The Express Tribune"
+      },
+      {
+        "title": "How a deadly hantavirus outbreak unfolded on a cruise ship",
+        "description": "A deadly outbreak of the rare hantavirus unfolded over the course of weeks on a cruise ship that sailed from Argentina toward Antarctica and then across the Atlantic Ocean.",
+        "url": "https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240",
+        "image": "https://dims.apnews.com/dims4/default/aa55461/2147483647/strip/true/crop/2835x1889+95+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2Fbe%2Fa65be8881d48cd05840a6b6601ae%2F172beabeda934407aaf24786b63244bf",
+        "publishedAt": "2026-05-06T22:37:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "Two Nigerians, Ugandan Arrested In Kampala Over Alleged Drug Ring, Forged President's Office Documents",
+        "description": "Two Nigerians, Ugandan Arrested In Kampala Over Alleged Drug Ring, Forged President's Office Documents",
+        "url": "https://saharareporters.com/2026/05/06/two-nigerians-ugandan-arrested-kampala-over-alleged-drug-ring-forged-presidents-office",
+        "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+        "publishedAt": "2026-05-06T22:35:41Z",
+        "source": "Sahara Reporters"
+      },
+      {
+        "title": "Poorly insulated heat pump installations could lose money",
+        "description": "Households could be losing money due to poorly insulated heat pump installations.",
+        "url": "https://www.southwalesargus.co.uk/news/26083935.poorly-insulated-heat-pump-installations-lose-money/",
+        "image": "https://www.southwalesargus.co.uk/resources/images/19426713.jpg?type=og-image",
+        "publishedAt": "2026-05-06T22:30:00Z",
+        "source": "South Wales Argus"
+      },
+      {
+        "title": "Bali holiday nightmare: Luca Loveday’s fight for life in ICU",
+        "description": "An Australian tourist has been left fighting for life after suffering a catastrophic accident while on a dream holiday in Bali.",
+        "url": "https://www.news.com.au/travel/travel-updates/incidents/multiple-brain-bleeds-australian-woman-fighting-for-life-in-bali-holiday-nightmare/news-story/abff1827fa8ebf375b33ce83f0e1bd1c",
+        "image": "https://content.api.news/v3/images/bin/7c0d9a1e7627f8edfc33669fdf70cd9c",
+        "publishedAt": "2026-05-06T22:27:33Z",
         "source": "News.com.au"
-      },
-      {
-        "title": "GITEX Future Health Africa 2026 Wraps Up, A New Era Begins",
-        "description": "The debut edition of GITEX Future Health Africa 2026 wrapped up today at Casablanca’s international fair with a closing ceremony that symbolized both the success of its first edition and the beginning of a longer journey for healthcare and innovation in Africa.",
-        "url": "https://www.moroccoworldnews.com/2026/05/291577/gitex-future-health-africa-2026-wraps-up-a-new-era-begins/",
-        "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/05/GITEX-Future-Health-Africa-2026-Wraps-Up-A-New-Era-Begins-1.webp",
-        "publishedAt": "2026-05-06T21:36:54Z",
-        "source": "Morocco World News"
-      },
-      {
-        "title": "Japan fires missile in joint drill with U.S., allies in Philippines, facing South China Sea",
-        "description": "Japan's Self-Defense Forces fired a Type 88 anti‑ship missile during a joint maritime exercise with U.S., Australian, and Philippine forces on ‌Wednesday, hitting a decommissioned Philippine Navy ship in waters facing the South China Sea. The drill took place as Manila and Tokyo began talks on a potential defence equipment…",
-        "url": "https://japantoday.com/category/national/japan-fires-missile-in-joint-drill-with-us-and-allies-in-northern-philippines-facing-south-china-sea1",
-        "image": "https://media.japantoday.com/img/store/e1/fe/4062dadc10e5b0af97cb02227095c6ceaeae/tag-reuters/_w1700.jpeg",
-        "publishedAt": "2026-05-06T21:34:26Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Japan says hantavirus spread risk low; urges public to stay calm",
-        "description": "The risk of person-to-person transmission of hantaviruses in Japan would remain low even if infected passengers from a cruise ship affected by the deadly virus enter the country, the health ministry said Wednesday. The Ministry of Health, Labor and Welfare has asked the public to remain calm, saying only some…",
-        "url": "https://japantoday.com/category/national/japan-says-hantavirus-spread-risk-low-urges-public-to-stay-calm",
-        "image": "https://media.japantoday.com/img/store/48/cd/48aa7132e278ae589155744f26abf649c66f/ap26126635628911/_w1700.jpeg",
-        "publishedAt": "2026-05-06T21:33:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
-        "description": "Mark Preston, of Grosvenor Group, who owns one of the UK’s leading farms, says knock-on effect of Iran war could arrive next year",
-        "url": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-        "image": "https://i.guim.co.uk/img/media/092d4ed5c9128efab0181ae7fcc8c25a3b2d2429/152_0_2293_1834/master/2293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ac21bbd1f2442953d15ebb3b034757f",
-        "publishedAt": "2026-05-06T21:30:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Venice Biennale faces backlash after including Russia",
-        "description": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgz14e1zeno",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e1/live/196c22f0-494e-11f1-bd44-e578c5bd51ff.jpg",
-        "publishedAt": "2026-05-06T21:29:18Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Venice Biennale faces backlash after including Russia",
-        "description": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
-        "url": "https://www.bbc.com/news/articles/cvgz14e1zeno",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d7e1/live/196c22f0-494e-11f1-bd44-e578c5bd51ff.jpg",
-        "publishedAt": "2026-05-06T21:29:18Z",
-        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
-        "description": "The Greylock partner and LinkedIn co-founder said autonomous agents will need crypto-based trust systems to transact across the open internet.",
-        "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b2b5ae6907fba2aaab014d67b0094f675598b65-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-06T22:05:44Z",
-        "source": "CoinDesk"
+        "title": "Ryan Cohen Is Selling Stuff On eBay To Pay For eBay Deal: Here's What You Can Buy (Including Rare Donald",
+        "description": "Ryan Cohen is auctioning off items to help pay for his eBay acquisition. Viral moment could put attention on deal.",
+        "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/05/52352028/ryan-cohen-is-selling-stuff-on-ebay-to-pay-for-ebay-deal-heres-what-you-can-buy-including-rare-donald-trump-card",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/06/Ebay-Sign_2.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-05-06T23:00:01Z",
+        "source": "Benzinga"
       },
       {
-        "title": "Stanley closing US plant that made its famed yellow tape measures - because its foreign model is more popular",
-        "description": "The factory’s closure is expected to impact about 300 jobs",
-        "url": "https://www.aol.co.uk/articles/stanley-closing-us-plant-made-220412094.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/BDB04B0EC5947296A7AD6BEF0C95C9D9EA32F9B50AB457894ED43E71BE79AE72/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_uk_the_independent_uk_182%2F23dda3699a32ceb64dbbba06eba94c99",
-        "publishedAt": "2026-05-06T22:04:12Z",
-        "source": "AOL.com"
+        "title": "Samsung Announces World-First Breakthrough in Fainting Prediction With Galaxy Watch",
+        "description": "Joint study with Chung-Ang University Gwangmyeong Hospital demonstrates potential for early fainting detection using Galaxy Watch, paving the way for real-time warning systems",
+        "url": "https://news.samsung.com/global/samsung-announces-world-first-breakthrough-in-fainting-prediction-with-galaxy-watch",
+        "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/05/06175633/Samsung-Press-Release-Fainting-Prediction-Galaxy-Watch_Thumb932.jpg",
+        "publishedAt": "2026-05-06T23:00:00Z",
+        "source": "samsung.com"
       },
       {
-        "title": "Stock Market Today: Dow, S&P Live Updates for May 7",
-        "description": "Asian equities climbed to a record, powered by a catchup rally in Japanese stocks after a holiday, as optimism grew that the US and Iran were nearing a deal to end the conflict that had rattled markets and clouded economic outlook.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-06/stocks-bonds-rally-on-hopes-iran-war-nearing-end-markets-wrap",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip1YHoX1.Lt4/v0/1200x675.png",
-        "publishedAt": "2026-05-06T22:03:31Z",
-        "source": "Bloomberg.com"
+        "title": "LandCruiser hybrid on sale in Australia, and it's not cheap",
+        "description": "At close to $170,000 drive-away, the first hybrid LandCruiser is the most expensive and most powerful ever sold in Australia.",
+        "url": "https://www.drive.com.au/news/2026-toyota-landcruiser-300-series-hybrid-price-announced/",
+        "image": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/f262496e-8455-5e23-81fa-533090f50000",
+        "publishedAt": "2026-05-06T22:59:44Z",
+        "source": "drive.com.au"
       },
       {
-        "title": "Stocks, Bonds Rally on Hopes Iran War Nearing End: Markets Wrap",
-        "description": "(Bloomberg) -- Asian equities were poised to rise Thursday, tracking record highs on Wall Street as optimism grew that the US and Iran were nearing a deal to end the conflict that has jolted markets and clouded the economic outlook.",
-        "url": "https://www.swissinfo.ch/eng/stocks%2C-bonds-rally-on-hopes-iran-war-nearing-end%3A-markets-wrap/91376479",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1768386618",
-        "publishedAt": "2026-05-06T22:03:31Z",
-        "source": "SWI swissinfo.ch"
+        "title": "Te Rahui: NZ’s largest approved solar farm underway between Taupō and Napier",
+        "description": "Construction has begun on New Zealand’s largest approved solar farm, being built between Taupō and Napier. Te Rahui solar farm is set to become a landmark...",
+        "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/te-rahui-nzs-largest-approved-solar-farm-underway-between-taupo-and-napier/24K5FLEQ2VH4FDP7GBEZPWQB5M/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/4OVAD44IMRG7TMJGLDEXZ2T3TU.jpg?auth=3fc76b7105c4f2ca4909f61de0e7289894112504ec81f44ef45e36cef5b303dd&width=1200&height=675&quality=70&focal=940%2C510&smart=false",
+        "publishedAt": "2026-05-06T22:57:10Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Shivon Zilis Clears the Air Around Her Relationship With Elon Musk",
-        "description": "Elon Musk's lawsuit against OpenAI's Sam Altman features Shivon Zilis as a key witness. Zilis discusses her ties to Musk and denies leaking info.",
-        "url": "https://www.businessinsider.com/shivon-zilis-clears-the-air-around-her-relationship-with-elon-musk-2026-5",
-        "image": "https://i.insider.com/69fb8c7ce1443b8dc48e2787?width=1200&format=jpeg",
-        "publishedAt": "2026-05-06T22:03:00Z",
-        "source": "Business Insider"
+        "title": "Molecular skeleton programming of premediators in sulfur electrochemistry",
+        "description": "Molecular mediators have demonstrated broad applicability in electrolyte chemistry of lithium–sulfur batteries, transforming sulfur conversion from traditional multiphase reactions to highly reactive pathways1–6. Despite tremendous efforts to elucidate the mechanistic roles of molecular mediators7–9, the influence of molecular skeleton regulation on their mediating effects remains barely understood. Here we propose 2-chloropyrimidine as a potential ‘premediator’ and a model material for molecular skeleton design, which can be in situ activated into a molecular mediator during sulfur reaction progression by means of aromatic nucleophilic substitution, homogeneously inducing a rapid redox loop over the electrode. Integrating quantum chemistry and machine learning, we develop a molecular skeleton programming strategy that illuminates the structure–property relationship between electronic, geometric and site features of side-chain groups and mediating performance, offering control over the activation rate and mediating activity of premediators. The strategy identifies 2-chloro-4-(trifluoromethyl)pyrimidine as a favourable premediator from 196 candidates, enabling lithium–sulfur batteries to achieve an average capacity retention of 81.7% over 800 cycles together with an energy density of 549 Wh kg−1 in a 14.2-Ah-level pouch cell. We expect that our work on molecular skeleton programming may find application in designing functional molecules in broader organic chemical spaces. A potential premediator, 2-chloropyrimidine, could be a model material for molecular skeleton design enabling lithium–sulfur batteries to achieve a strong average capacity retention and help design functional molecules in broader organic chemical spaces.",
+        "url": "https://www.nature.com/articles/s41586-026-10505-8?error=cookies_not_supported&code=c8e24ac9-268a-43bd-8ba7-069332f6d12b",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10505-8/MediaObjects/41586_2026_10505_Fig1_HTML.png",
+        "publishedAt": "2026-05-06T22:55:01Z",
+        "source": "Nature"
       },
       {
-        "title": "New Memory Health Report Examines",
-        "description": "Memora brain health supplement claims evaluated: cognitive support formula, 90-day guarantee, ingredients, pricing, and return policy reviewed....",
-        "url": "https://www.globenewswire.com/news-release/2026/05/06/3289497/0/en/memora-claims-evaluated-new-memory-health-report-examines-advanced-brain-health-supplement-for-preventing-cognitive-decline.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/652cdd2e-9fa3-445a-9bde-2978922410f8",
-        "publishedAt": "2026-05-06T22:01:15Z",
-        "source": "GlobeNewswire"
+        "title": "Stocks perched on record peak, dollar defensive on peace hopes",
+        "description": "Asian stocks soared to record highs on Thursday while the US dollar slipped and oil nursed steep losses on the prospects of a US-Iran peace deal, even as the fate of the critical Strait of Hormuz appeared unresolved.",
+        "url": "https://theedgemalaysia.com/node/802610",
+        "image": "https://assets.theedgemarkets.com/Global-Markets-1-APP_theedgemalaysia_16.png",
+        "publishedAt": "2026-05-06T22:54:01Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "International General Insurance Holdings Ltd. (IGIC) Q1 2026 Earnings Call Transcript",
-        "description": "International General Insurance Holdings Ltd. (IGIC) Q1 2026 Earnings Call May 6, 2026 9:00 AM EDTCompany ParticipantsRobin Sidders - Head of Investor...",
-        "url": "https://seekingalpha.com/article/4899725-international-general-insurance-holdings-ltd-igic-q1-2026-earnings-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-06T22:01:14Z",
-        "source": "Seeking Alpha"
+        "title": "JPMorgan Tried to Settle Harassment Accusations Against Executive",
+        "description": "The bank offered $1 million before a former employee filed a lawsuit against a woman who was an executive director on his team, two people briefed on the matter said.",
+        "url": "https://www.nytimes.com/2026/05/06/business/jpmorgan-rana-hajdini-harassment-lawsuit.html",
+        "image": "https://static01.nyt.com/images/2026/05/06/multimedia/06biz-jpm-jkhq/06biz-jpm-jkhq-facebookJumbo.jpg",
+        "publishedAt": "2026-05-06T22:53:55Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
-        "description": "Senior figures from CoinShares, Calamos, ProShares and Flow Traders flagged Coinbase-heavy custody concentration, modest advisor uptake and creation-flow inefficiency as being among the next set of problems to solve.",
-        "url": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3070ad6a1e761eb784dfa4bba5eab1898c96622a-2048x1150.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-06T22:00:13Z",
-        "source": "CoinDesk"
+        "title": "Brian Nutt of TruTrade Highlights One-Click Simplicity in AI-Driven Trading",
+        "description": "/PRNewswire/ -- Brian Nutt, a co-founder of TruTrade, is sharing his perspective on how simplicity and automation are reshaping the trading experience through...",
+        "url": "https://www.prnewswire.com/news-releases/brian-nutt-of-trutrade-highlights-one-click-simplicity-in-ai-driven-trading-302764781.html",
+        "image": "https://mmx.prnewswire.com/media/MS1755642/TruTrade-Silver-and-Green-Logo.jpg?id=OA2632776&p=facebook",
+        "publishedAt": "2026-05-06T22:53:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "SpaceX is starting to move on from the world's most successful rocket",
+        "description": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+        "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-1152x648.jpg",
+        "publishedAt": "2026-05-06T22:28:47Z",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Astronaut inspires Monash students",
+        "description": "Monash University has welcomed 2026 Australian of the Year Katherine Bennell-Pegg to its Clayton campus, where she encouraged students.",
+        "url": "https://www.manmonthly.com.au/astronaut-inspires-monash-students/",
+        "image": "https://www.manmonthly.com.au/wp-content/uploads/2026/05/260506_Monash_Visit_By_Katherine_Bennell-Pegg_649_s3yhf9.jpg",
+        "publishedAt": "2026-05-06T22:23:36Z",
+        "source": "Manufacturers' Monthly"
+      },
       {
         "title": "New aluminum compound behaves like precious metals",
         "description": "Scientists have created a new aluminum compound with three bonded atoms that mimics precious metals, could revolutionize chemical reactions.",
@@ -142,6 +158,14 @@
         "image": "https://cff2.earth.com/uploads/2026/05/06144811/new-aluminum-metal-cheap-precious-metal-alternative.jpg",
         "publishedAt": "2026-05-06T21:56:15Z",
         "source": "Earth.com"
+      },
+      {
+        "title": "How the rise of continents may have set the stage for life on Earth",
+        "description": "Earth's earliest continents may have set the chemical stage for life by regulating boron levels in ancient oceans, a new study in Terra Nova suggests.",
+        "url": "https://phys.org/news/2026-05-continents-stage-life-earth.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-the-rise-of-contin.jpg",
+        "publishedAt": "2026-05-06T21:50:02Z",
+        "source": "Phys.org"
       },
       {
         "title": "Expanding the human proteome with microproteins and peptideins",
@@ -174,96 +198,72 @@
         "image": "https://static.toiimg.com/thumb/msid-130864049,width-1280,height-720,imgsize-54364,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-05-06T21:30:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-        "description": "A bold step toward returning humans to the Moon is underway with Blue Origin’s uncrewed MK1 “Endurance” lander, designed to test the technologies that future astronauts will rely on. Built in partnership with NASA, the mission will showcase precision landing, autonomous navigation, and advanced cryogenic propulsion—key capabilities for operating on the lunar surface. It will also carry cutting-edge NASA instruments to study how rocket plumes interact with the Moon and to improve navigation accuracy from orbit.",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260505234608.htm",
-        "image": "https://www.sciencedaily.com/images/1920/blue-origin-blue-moon-mark-1-mk1-lunar-lander-environmental-testing.webp",
-        "publishedAt": "2026-05-06T21:29:45Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-        "description": "A bold step toward returning humans to the Moon is underway with Blue Origin’s uncrewed MK1 “Endurance” lander, designed to test the technologies that future astronauts will rely on. Built in partnership with NASA, the mission will showcase precision landing, autonomous navigation, and advanced cryogenic propulsion—key capabilities for operating on the lunar surface. It will also carry cutting-edge NASA instruments to study how rocket plumes interact with the Moon and to improve navigation accuracy from orbit.",
-        "url": "http://www.sciencedaily.com/releases/2026/05/260505234608.htm",
-        "image": "https://www.sciencedaily.com/images/1920/blue-origin-blue-moon-mark-1-mk1-lunar-lander-environmental-testing.webp",
-        "publishedAt": "2026-05-06T21:29:44Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Scientists Have One Big Question After Reconstructing A 3.7 Million-Year-Old Face",
-        "description": "The reconstruction of the Little Foot skull is making some scientists consider if it's not actually a new member of the Australopithecus family tree.",
-        "url": "https://www.bgr.com/2161182/scientist-reconstruct-3-million-year-old-face-little-foot/",
-        "image": "https://www.bgr.com/img/gallery/scientists-have-one-big-question-after-reconstructing-a-3-7-million-year-old-face/l-intro-1777561018.jpg",
-        "publishedAt": "2026-05-06T21:17:00Z",
-        "source": "bgr.com"
       }
     ],
     "ai": [
       {
-        "title": "'Shark Tank' mogul Kevin O'Leary's massive new data center enrages Utah residents: 'Shame!'",
-        "description": "Hundreds of furious Utahn residents packed a gym and erupted in chants of “Shame! Shame! Shame!” as county commissioners pushed through approval of “Shark Tank” star Kevin O’Leary’s colossal AI data center project.",
-        "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/127132997.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-05-06T22:07:52Z",
-        "source": "New York Post"
+        "title": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s Divine, a TikTok and Instagram Stories rival with a ferocious ambition to end AI slop",
+        "description": "Do it for the diVine!",
+        "url": "https://www.techradar.com/computing/websites-apps/vine-is-coming-back-and-its-being-relaunched-by-the-guy-who-killed-it-say-hello-to-jack-dorseys-divine-a-tiktok-and-instagram-stories-rival-with-a-ferocious-ambition-to-end-ai-slop",
+        "image": "https://cdn.mos.cms.futurecdn.net/aLuhdjmTF8wFVyGgAqzq7V-2000-80.jpg",
+        "publishedAt": "2026-05-06T23:00:00Z",
+        "source": "TechRadar"
       },
       {
-        "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
-        "description": "The Greylock partner and LinkedIn co-founder said autonomous agents will need crypto-based trust systems to transact across the open internet.",
-        "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b2b5ae6907fba2aaab014d67b0094f675598b65-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-06T22:05:26Z",
+        "title": "1 Canadian Company Set to Make a Fortune From the $725B Data Centre Buildout",
+        "description": "AI data centres are exploding with a $725B hyperscaler spend. Canadian transformer titan Hammond Power Solutions (TSX:HPS.A) hit record sales – but is it a buy after an 80% surge?",
+        "url": "https://www.fool.ca/2026/05/06/1-canadian-company-set-to-make-a-fortune-from-the-725b-data-centre-buildout/",
+        "image": "https://www.fool.ca/wp-content/uploads/2026/03/GettyImages-1200559136-1200x800.jpg",
+        "publishedAt": "2026-05-06T23:00:00Z",
+        "source": "The Motley Fool Canada"
+      },
+      {
+        "title": "Fairshake and AI PACs pour $100m into midterms",
+        "description": "Fairshake and pro-AI PAC Leading the Future have combined to spend over $100m as a new poll finds 45% of Americans call crypto too risky.",
+        "url": "https://crypto.news/fairshake-and-ai-pacs-pour-100m-into-midterms/",
+        "image": "https://crypto.news/app/uploads/2022/10/Greenland_together_with_Top_Universities_and_Concordium_Blockchain_is_investigating_the_possibilities_of_a_blockchain-based_election_system_in_the_country.jpg",
+        "publishedAt": "2026-05-06T23:00:00Z",
+        "source": "Crypto News"
+      },
+      {
+        "title": "OpenAI says Uber uses co to power AI assistants and voice features",
+        "description": "May 6 -\nOpenAI - Uber uses OpenAI to power AI assistants and voice features\n...",
+        "url": "https://www.marketscreener.com/news/openai-says-uber-uses-co-to-power-ai-assistants-and-voice-features-ce7f58d2de8bf127",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-05-06T22:43:21Z",
+        "source": "MarketScreener"
+      },
+      {
+        "title": "Yocale.AI Announces Final Approval for CSE Listing and Closing of Private Placement",
+        "description": "07.05.2026 - Vancouver, British Columbia--(Newsfile Corp. - May 6, 2026) - Yocale.ai Inc. ('Yocale.ai' or the 'Company') announces that it has received final approval to list its Class A common shares (the 'Shares') on the Canadian Securities Exchange (the ... Seite 1",
+        "url": "https://www.wallstreet-online.de/nachricht/20836673-yocale-ai-announces-final-approval-for-cse-listing-and-closing-of-private-placement",
+        "image": "https://assets.wallstreet-online.de/_media/6/newsfeeds1280/size_645/newsfile-1280x720.png",
+        "publishedAt": "2026-05-06T22:41:06Z",
+        "source": "Wallstreet Online"
+      },
+      {
+        "title": "AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson",
+        "description": "The founder and CEO of Cardano’s Input Output said Google, Amazon and Facebook are terrified because AI agents will not behave like humans when confronted with ads.",
+        "url": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/82ff02be0c6756052cbd1e8eb8926d6f017d1761-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-06T22:35:57Z",
         "source": "CoinDesk"
       },
       {
-        "title": "Shivon Zilis Clears the Air Around Her Relationship With Elon Musk",
-        "description": "Elon Musk's lawsuit against OpenAI's Sam Altman features Shivon Zilis as a key witness. Zilis discusses her ties to Musk and denies leaking info.",
-        "url": "https://www.businessinsider.com/shivon-zilis-clears-the-air-around-her-relationship-with-elon-musk-2026-5",
-        "image": "https://i.insider.com/69fb8c7ce1443b8dc48e2787?width=1200&format=jpeg",
-        "publishedAt": "2026-05-06T22:03:28Z",
-        "source": "Business Insider"
+        "title": "Google appears to have 'AI Ultra Lite' plan in the works",
+        "description": "Google is seemingly working on a new subscription tier that would bridge the gap between AI Pro and AI Ultra.",
+        "url": "https://www.androidauthority.com/google-gemini-ai-ultra-lite-3664475/",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-3.jpg",
+        "publishedAt": "2026-05-06T22:34:22Z",
+        "source": "Android Authority"
       },
       {
-        "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer-And Putting It Back If You Delete It",
-        "description": "Google Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.",
-        "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-        "publishedAt": "2026-05-06T22:01:02Z",
-        "source": "Decrypt"
-      },
-      {
-        "title": "Commentary: Anthropic’s Mythos AI marks a cybersecurity moment Singapore cannot ignore",
-        "description": "Even if Anthropic’s claims about its new AI model are overstated, the deeper challenge Mythos represents is very real, say NCS cybersecurity chief Foo Siang-tse and strategic adviser Shashi Jayakumar.",
-        "url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386",
-        "image": "https://dam.mediacorp.sg/image/upload/s--1aXse1RY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-05T204019Z_3_LYNXMPEM441EF_RTROPTP_3_EUROPE-BANKS-MYTHOS.JPG?itok=KKHondiD",
-        "publishedAt": "2026-05-06T22:00:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "The 4 Ways I've Seen Leaders Turn AI Uncertainty Into Competitive Advantage",
-        "description": "Why the most effective leaders aren't trying to reduce AI uncertainty, but are using it to move faster, make better decisions and unlock momentum while others stall in planning and hesitation.",
-        "url": "https://www.entrepreneur.com/growing-a-business/the-4-ways-ive-seen-leaders-turn-ai-uncertainty-into/504108",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/05/1778075485-turn-ai-uncertainty-into-competitive-advantage-0526-g2224880479.jpg?resize=1024,682",
-        "publishedAt": "2026-05-06T22:00:00Z",
-        "source": "Entrepreneur"
-      },
-      {
-        "title": "CNA Explains: What is frontier AI and how Anthropic's Mythos is reshaping cybersecurity",
-        "description": "Anthropic’s Mythos AI model has demonstrated advanced capabilities in coding and system analysis, raising fears over how such tools could be misused.",
-        "url": "https://www.channelnewsasia.com/world/frontier-ai-anthropic-mythos-cybersecurity-risks-cna-explains-6103406",
-        "image": "https://dam.mediacorp.sg/image/upload/s--56qVBYYk--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/istock-2197955227.jpg?itok=z5dwWkiB",
-        "publishedAt": "2026-05-06T22:00:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "10 Hacks Every DuckDuckGo User Should Know",
-        "description": "DuckDuckGo has hidden features that can make your search experience better, including privacy-first AI chatbots, a URL shortener, and much more.",
-        "url": "https://lifehacker.com/tech/10-hacks-every-duckduckgo-user-should-know",
-        "image": "https://lifehacker.com/imagery/articles/01KQSF1F6SDFDJR3Q6HANXVN6T/hero-image.fill.size_1200x675.jpg",
-        "publishedAt": "2026-05-06T22:00:00Z",
-        "source": "Lifehacker"
+        "title": "Google Search AI Mode Gets 'Expert Advice' From Reddit and Social Media",
+        "description": "Google is updating its AI search results to incorporate a \"preview of perspectives\" sourced from public online discussions and social media. The results sourced from places like Reddit and online forums are sometimes labeled as \"Expert Advice,\" per Google's screenshots. Google says that the section could have different titles like \"Community Perspectives\" depending on the query and the response, so not all responses will have the Expert Advice labeling.",
+        "url": "https://www.macrumors.com/2026/05/06/google-search-ai-mode-expert-advice/",
+        "image": "https://images.macrumors.com/t/F4F4I3mtoYMc4_O_LbW1_JUfGPc=/2500x/article-new/2022/02/Google-Logo-Feature-Slack.jpg",
+        "publishedAt": "2026-05-06T22:33:48Z",
+        "source": "MacRumors"
       }
     ]
   }
