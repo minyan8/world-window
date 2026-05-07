@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-07T14:00:19.013Z",
+  "fetchedAt": "2026-05-07T15:13:35.056Z",
   "sections": {
     "world": [
       {
-        "title": "Trump targets Europe as he eyes a new war",
-        "description": "You’d think Donald Trump had enough on his plate, trying to find an exit path from his war on Iran that isn’t humiliating. Now he has set his sights on one of America’s biggest trading partners.",
-        "url": "https://www.theage.com.au/business/the-economy/trump-targets-europe-as-he-eyes-a-new-war-20260507-p5zujx.html",
-        "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/86b13cba4ff73041faca73f7b62f67197d0d7ca6",
-        "publishedAt": "2026-05-07T01:59:46Z",
-        "source": "The Age"
+        "title": "'Operation Fauxios': Iran Parliament Speaker mocks US media reports on deal",
+        "description": "Mohammad-Bagher Ghalibaf rejected reports of a possible arrangement between Iran and the United States, accusing American media outlets of repeatedly spreading misinformation",
+        "url": "https://www.business-standard.com/world-news/operation-fauxios-iran-parliament-speaker-mocks-us-media-reports-on-deal-126050700145_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/24/thumb/fitandfill/1200X628/1774352209-2564.jpg",
+        "publishedAt": "2026-05-07T03:10:16Z",
+        "source": "Business Standard"
       },
       {
-        "title": "LA mayoral candidate Spencer Pratt reposts scathing AI-generated ad",
-        "description": "Viral video launches a day before Pratt is set to debate mayor Karen Bass and city council member Nithya Raman",
-        "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
-        "image": "https://i.guim.co.uk/img/media/c6c69b39ff86578235ff3929bacad706a9092f6d/393_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7137d993df151d485c4fa3fa8dc46da1",
-        "publishedAt": "2026-05-07T01:55:00Z",
-        "source": "The Guardian"
+        "title": "Iran Update Special Report, May 6, 2026",
+        "description": "New from ISW-CTP: Iran seeks to achieve positive strategic objectives beyond the negative objective of surviving the war.",
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-may-6-2026/",
+        "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
+        "publishedAt": "2026-05-07T03:08:48Z",
+        "source": "Institute for the Study of War"
       },
       {
-        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-        "description": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region",
-        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-        "image": "https://i.guim.co.uk/img/media/981268b3c5c96853693afeeab94c8736e38b8d2c/565_0_3998_3198/master/3998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5d651a73da1c0a6e78c532ff9f4562d",
-        "publishedAt": "2026-05-07T01:54:14Z",
-        "source": "The Guardian"
+        "title": "UN Interim Security Force for Abyei: Briefing and Consultations",
+        "description": "UN Interim Security Force for Abyei: Briefing and Consultations : What's In Blue : Security Council Report",
+        "url": "https://www.securitycouncilreport.org/whatsinblue/2026/05/un-interim-security-force-for-abyei-briefing-and-consultations-2.php",
+        "image": "https://www.securitycouncilreport.org/wp-content/themes/scr2018/_resources/img/global/SCR-logo-share-1400.png",
+        "publishedAt": "2026-05-07T03:07:21Z",
+        "source": "Security Council Report"
       },
       {
-        "title": "Saudi Arabia reportedly pressured Donald Trump to pause Project Freedom",
-        "description": "During the US’s Operation Epic Fury against Iran and before the ongoing temporary US-Iran ceasefire, Saudi Arabia allowed the US to fly aircraft from the Prince Sultan Airbase.",
-        "url": "https://www.jpost.com/middle-east/article-895397",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/693154",
-        "publishedAt": "2026-05-07T01:49:49Z",
-        "source": "The Jerusalem Post"
+        "title": "India's top factory hub hopeful, wary as film star Vijay set to take reins",
+        "description": "CHENNAI/SINGAPORE: An actor-turned-politician's stunning rise to power is being greeted with caution in India's top manufacturing state Tamil Nadu, home of factories of global manufacturers supplying Apple and Samsung.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/07/india039s-top-factory-hub-hopeful-wary-as-film-star-vijay-set-to-take-reins",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/07/3896039.JPG",
+        "publishedAt": "2026-05-07T03:06:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Iran-US talks near breakthrough? Tehran to respond to ceasefire, nuclear pause proposal today",
-        "description": "Proposed 14-point framework includes ceasefire, sanctions relief, and a 30-day window for broader US-Iran negotiations.",
-        "url": "https://www.moneycontrol.com/world/iran-us-talks-near-breakthrough-tehran-to-respond-to-ceasefire-nuclear-pause-proposal-today-article-13911148.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260506134654_US-Iran-Flags.jpg",
-        "publishedAt": "2026-05-07T01:46:44Z",
-        "source": "Moneycontrol.com"
+        "title": "JPMorgan offered $1 million to ex-staffer to settle assault claims before lawsuit",
+        "description": "A lawsuit filed in a New York court alleges senior JPMorgan executive Lorna Hajdini subjected a former colleague to sexual assault, coercion, racial harassment and workplace intimidation.",
+        "url": "https://www.indiatoday.in/world/story/jpmorgan-chase-usd-one-million-ex-staffer-chirayu-rana-settle-sexual-assault-claims-lorna-hajdini-lawsuit-2907842-2026-05-07",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jpmorgan-sex-abuse-case-073248858-16x9_0.jpg?VersionId=uvj7QKvS_0cVTmJhXpXc41uHTFDTQiCX",
+        "publishedAt": "2026-05-07T03:00:08Z",
+        "source": "India Today"
       },
       {
-        "title": "Patients evacuated to Europe from cruise ship with hantavirus outbreak",
-        "description": "Footage showed health workers in protective gear evacuating three passengers, including the ship's doctor.",
-        "url": "https://www.1news.co.nz/2026/05/07/patients-evacuated-to-europe-from-cruise-ship-with-hantavirus-outbreak/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/health-workers-in-protective-gear-arrive-to-evacuate-patient-JOITVPOK3RARNL77E4JHHC4FOA.jpg?auth=56565d38f3323c390826cc8380568664d48c7e92f94e6eb61b0a4e69ec5f0856&quality=70&width=600&height=315&focal=808%2C540",
-        "publishedAt": "2026-05-07T01:42:26Z",
-        "source": "1News"
+        "title": "How to watch Britain’s ‘midterm’ election results like a pro",
+        "description": "Prime Minister Keir Starmer is facing his biggest test yet in elections that will decide control of Scotland, Wales and large parts of England.",
+        "url": "https://www.politico.eu/article/britain-midterm-election-watch-like-a-pro/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/06/GettyImages-1487460417-scaled.jpg",
+        "publishedAt": "2026-05-07T03:00:00Z",
+        "source": "politico.eu"
       },
       {
-        "title": "Canadian officials to meet cruise ship with hantavirus outbreak when it docks at Spanish port",
-        "description": "Government officials will be on hand in Spain’s Canary Islands to meet Canadians when they disembark a cruise ship that is at the center of a deadly hantavirus outbreak. Three passengers suspected to be infected were flown to the Netherlands on Wednesday from the MV Hondius, as around 150 passengers -including four Canadians – still […]",
-        "url": "https://toronto.citynews.ca/2026/05/06/canadian-officials-cruise-ship-hantavirus-outbreak-spanish-port/",
-        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/05/9e94871d0cc31f099ed941ce139a9d8b30a4ddf29f0a587f777f1a22cb6fbe26.jpg",
-        "publishedAt": "2026-05-07T01:36:00Z",
-        "source": "CityNews Toronto"
+        "title": "France resumes genocide probe against Rwanda ex-president's widow",
+        "description": "France's judiciary on Wednesday ordered the resumption of an almost two-decade investigation into accusations that the widow of Rwanda's former president Juvenal Habyarimana was involved in the 1994 genocide.",
+        "url": "https://citizen.digital/article/france-resumes-genocide-probe-against-rwanda-ex-presidents-widow-n382195",
+        "image": "https://assets.citizen.digital/163665/conversions/AFP__20260108__89ZZ4GL__v1__MidRes__FrancePoliticsMacron-og_image.webp",
+        "publishedAt": "2026-05-07T02:58:07Z",
+        "source": "Citizen Digital"
       },
       {
-        "title": "Trump news at a glance: US fires on Iranian-flagged tanker as president fires off post threatening more bombing",
-        "description": "Trump warned Tehran to agree to deal or face attacks ‘at a much higher level and intensity’ than before – key US politics stories from 6 May 2026 at a glance",
-        "url": "https://www.theguardian.com/us-news/2026/may/06/trump-news-at-a-glance-latest-updates-today",
-        "image": "https://i.guim.co.uk/img/media/7086f1a37e2c267004eda339265236518fa93997/420_0_4338_3470/master/4338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edd3db785155945414f30c0e57b03ba1",
-        "publishedAt": "2026-05-07T01:33:00Z",
-        "source": "The Guardian"
+        "title": "Japan missile hits target in ‘Balikatan’ military drills with Philippines, US, Australia",
+        "description": "The drill highlighted interoperability among participating forces and showcased the precision strike capability of Japan’s Type 88 missile system, which is intended for coastal defence and deterrence against maritime threats, the Philippine defence department said.",
+        "url": "https://asianews.network/japan-missile-hits-target-in-balikatan-military-drills-with-philippines-us-australia/",
+        "image": "https://asianews.network/wp-content/uploads/2026/05/jp.jpg",
+        "publishedAt": "2026-05-07T02:55:07Z",
+        "source": "Asia News Network"
       }
     ],
     "business": [
       {
-        "title": "Trump’s last Japanese diehard fans lose faith as Iran war chaos spreads",
-        "description": "Concerns in Japan are also mounting over the security ties between Japan and the US as Trump seeks to withdraw more troops from Europe.",
-        "url": "https://www.scmp.com/week-asia/politics/article/3352657/trumps-last-japanese-diehard-fans-lose-faith-iran-war-chaos-spreads",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/06/57b12de6-20bb-4551-8e19-d1f5fbc34158_aeafd5ff.jpg?itok=QLoQDjPl&v=1778076181",
-        "publishedAt": "2026-05-07T02:00:15Z",
-        "source": "South China Morning Post"
+        "title": "After 11 years in corporate, Indian man ‘retires’ from work life at 35 - here's why!",
+        "description": "Trending News: A man walking out of corporate life after 11 years has struck a nerve online, and millennials everywhere seem to have the same reaction: “This hit a l.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/after-11-years-in-corporate-indian-man-retires-from-work-life-at-35/articleshow/130876950.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130876950,width-1280,height-720,imgsize-75200,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-07T03:12:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "NEXCOM Delivers Optimized Edge Security for Post",
-        "description": "/PRNewswire/ -- As quantum computing advances, it introduces cybersecurity risks capable of compromising today's encryption methods. This is accelerating the...",
-        "url": "https://www.prnewswire.com/news-releases/nexcom-delivers-optimized-edge-security-for-post-quantum-workloads-302764817.html",
-        "image": "https://mma.prnewswire.com/media/2973749/3__SD_WAN_Appliance_FTA5190_PR.jpg?p=facebook",
-        "publishedAt": "2026-05-07T02:00:00Z",
-        "source": "PR Newswire"
+        "title": "MasterChef judge reveals easy trick to stop common mince beef issue: 'Changed my life'",
+        "description": "There are two mistakes that many people make when firing up some beef mince.",
+        "url": "https://au.lifestyle.yahoo.com/masterchef-judge-reveals-easy-trick-to-stop-common-mince-beef-issue-changed-my-life-031012970.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/oeorzFb7T3Q2Tyzk94mBDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/mince-cooking-inline_4093.png",
+        "publishedAt": "2026-05-07T03:10:00Z",
+        "source": "Yahoo Lifestyle Australia"
       },
       {
-        "title": "NEXCOM Delivers Optimized Edge Security for Post",
-        "description": "/PRNewswire/ -- As quantum computing advances, it introduces cybersecurity risks capable of compromising today's encryption methods. This is accelerating the...",
-        "url": "https://www.prnewswire.com/news-releases/nexcom-delivers-optimized-edge-security-for-post-quantum-workloads-302764828.html",
-        "image": "https://mma.prnewswire.com/media/2973749/3__SD_WAN_Appliance_FTA5190_PR.jpg?p=facebook",
-        "publishedAt": "2026-05-07T02:00:00Z",
-        "source": "PR Newswire"
+        "title": "Australia Records First Trade Deficit in More Than Eight Years on Iran War",
+        "description": "Australia recorded its first trade deficit in more than eight years as the war in Iran drove up the cost of fuel imports, squeezing households and further fueling inflationary pressures that have forced the Reserve Bank to raise interest rates.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/australia-s-war-driven-fuel-import-costs-swing-trade-to-deficit",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW2JYD.E1N8U/v1/1200x800.jpg",
+        "publishedAt": "2026-05-07T03:06:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "ByteDance’s AI subscription gamble: chatbot faces reality check in China",
-        "description": "Doubao’s pay plans mark a turning point for China’s chatbot sector, but user reluctance raises doubts about their viability.",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3352661/bytedances-ai-subscription-gamble-chatbot-faces-reality-check-china",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/06/ff14c87f-e993-40b3-a5bb-8535f68bf81b_bdd21025.jpg?itok=nUg100_i&v=1778077151",
-        "publishedAt": "2026-05-07T01:59:51Z",
-        "source": "South China Morning Post"
+        "title": "Oil prices drop awaiting Mideast peace progress",
+        "description": "Oil prices fell and global stock markets traded mixed Thursday awaiting an update on a US plan to end the Middle East war and reopen the Strait of Hormuz.",
+        "url": "https://www.france24.com/en/live-news/20260507-tokyo-leads-asia-stock-surge-on-growing-mideast-peace-hopes",
+        "image": "https://s.france24.com/media/display/48ba4c6c-49c1-11f1-af3b-005056a90284/w:1280/p:16x9/a3d09e6375a1ec880374dd6dcd8a3565b6c1747c.jpg",
+        "publishedAt": "2026-05-07T03:03:13Z",
+        "source": "France 24"
       },
       {
-        "title": "2027 Omoda 4 small SUV to take on Toyota Corolla Cross, Hyundai Kona in Australia",
-        "description": "The new Omoda 4 small SUV is expected to launch in Australia, targeting young buyers with sharp pricing and bold styling.",
-        "url": "https://www.carexpert.com.au/car-news/2027-omoda-4-small-suv-to-take-on-toyota-corolla-cross-hyundai-kona-in-australia",
-        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/omoda-4-63.jpg",
-        "publishedAt": "2026-05-07T01:58:24Z",
-        "source": "CarExpert"
+        "title": "Tesla’s New Zealand revenue surges, if still well below its Clean Car Discount heyday",
+        "description": "Tesla New Zealand has reported comeback financials for the 12 months to December 31, 2025. The maker of electric vehicles, solar panels and solar batteries...",
+        "url": "https://www.nzherald.co.nz/business/teslas-new-zealand-revenue-surges-if-still-well-below-its-clean-car-discount-heyday/premium/KTJOMGIAJRFYDA5UAC6MLTUQMU/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/IY3Q75FQCZF7TNTBMLPO3YGZRE.jpg?auth=b368a39866f3167a64cedf99ea64ff8fbef92de74fa00b0e4f9903e6558d21ed&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-05-07T03:02:05Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 May",
-        "description": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a flat start for the Indian benchmark index. The Gift Nifty was trading around 24,460 level, a premium of nearly 13 points from the Nifty futures’ previous close.",
-        "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-may-11778118146155.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/07/1600x900/logo/2-0-1471349099-RTX6I2CD-0_1679922711446_1778118519761.jpg",
-        "publishedAt": "2026-05-07T01:58:21Z",
-        "source": "Mint"
+        "title": "Stocks to watch, May 7: Paytm, Britannia, Blue Star, Bajaj Auto, Shree Cement, Meesho, PB Fintech",
+        "description": "Stocks to watch: Bajaj Auto Ltd on Wednesday reported a 93.81% jump in consolidated profit after tax (PAT) to ₹3,492.21 crore in the fourth quarter ended March 31 (Q4 FY26), riding on record sales volumes and favourable foreign exchange.",
+        "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-may-7-paytm-britannia-blue-star-bajaj-auto-shree-cement-meesho-pb-fintech/article-193282/",
+        "image": "https://assets.upstox.com/content/assets/images/news/stocks-to-watch-may-7-2026.webp",
+        "publishedAt": "2026-05-07T03:00:13Z",
+        "source": "Upstox"
       },
       {
-        "title": "Fishburners enters administration in major blow to startup sector",
-        "description": "It spells an uncertain future for Fishburners, which evolved from a single hub in Sydney to a community spanning over 35,000 entrepreneurs.",
-        "url": "https://www.smartcompany.com.au/startupsmart/fishburners-administration-startup-sector-community-co-working-space/",
-        "image": "https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/05/Copy-of-SCM-ed-image-1920x1080-1-1.png?quality=70&w=1024",
-        "publishedAt": "2026-05-07T01:57:47Z",
-        "source": "SmartCompany"
+        "title": "FNB backs R1bn Cape Town luxury development project",
+        "description": "R1bn deal underscores Cape Town’s resilience in premium property market",
+        "url": "https://www.businessday.co.za/companies/2026-05-07-fnb-backs-r1bn-cape-town-luxury-development-project/",
+        "image": "https://www.businessday.co.za/resizer/v2/3H4XRO54ZJGDHM22SEPHSWFCTM.jpg?smart=true&auth=d6679a131b005303e26139a1592ddb4cc58feaaa6ad0fa097e83f001971ab1ef&width=1200&height=630",
+        "publishedAt": "2026-05-07T03:00:00Z",
+        "source": "Business Day"
       },
       {
-        "title": "Apple to invest Rs 100 crore in India renewable energy expansion",
-        "description": "Apple is investing Rs 100 crore in India to boost green energy. The company is partnering to develop over 150 MW of renewable capacity. Initiatives also focus on reducing plastic pollution through recycling and supporting green startups. This expands Apple's commitment to India's environmental future and innovation.",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/apple-to-invest-rs-100-crore-to-build-renewable-energy-capacity-in-india/articleshow/130875784.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130875829,width-1200,height-630,imgsize-54166,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-07T01:56:21Z",
-        "source": "The Economic Times"
+        "title": "How SA plans to crack down on illicit tobacco trade",
+        "description": "Authorities aim to disrupt R700bn shadow economy with digital monitoring",
+        "url": "https://www.businessday.co.za/news/2026-05-07-south-africa-to-launch-track-and-trace-system-to-stamp-out-smuggling/",
+        "image": "https://www.businessday.co.za/resizer/v2/U42SPT3HIVLLRB56QG24YXZGY4.png?smart=true&auth=21da2dfc997f194ad5c827394ecd2ed63caf9d60bf405117bcba923b5011fb83&width=1200&height=630",
+        "publishedAt": "2026-05-07T03:00:00Z",
+        "source": "Business Day"
       }
     ],
     "science": [
+      {
+        "title": "Singing Mice Exhibit Larger Motor Cortex Network for Vocalization, Nature Study Finds",
+        "description": "A new study published in *Nature* reveals neural adapta […]",
+        "url": "https://www.geneonline.com/singing-mice-exhibit-larger-motor-cortex-network-for-vocalization-nature-study-finds/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-05-07T03:11:38Z",
+        "source": "geneonline.com"
+      },
+      {
+        "title": "Great Pacific Garbage Patch Fuels Microplastics, Contributing To Climate Change",
+        "description": "As plastic tumbles against itself, it fragments, and a new study shows those fragments don't stay in the water.",
+        "url": "https://www.ndtv.com/feature/great-pacific-garbage-patch-fuels-microplastics-contributing-to-climate-change-11460018",
+        "image": "https://c.ndtvimg.com/2026-05/5etbuj58_plastics_625x300_07_May_26.jpeg",
+        "publishedAt": "2026-05-07T02:32:20Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "Largest blood protein genetics study reveals new precision medicine opportunities",
+        "description": "Involving a collaboration with 118 investigators contributing from 89 institutions, scientists from Queen Mary University of London's Precision Healthcare University Research Institute and Berlin Institute of Health (BIH) at Charité have led the world's largest study on the genetic regulation of blood proteins.",
+        "url": "https://www.news-medical.net/news/20260506/Largest-blood-protein-genetics-study-reveals-new-precision-medicine-opportunities.aspx",
+        "image": "https://www.news-medical.net/images/tags/TagImage-1211-45839011029525467877-620x480.jpg",
+        "publishedAt": "2026-05-07T02:21:00Z",
+        "source": "News-Medical"
+      },
+      {
+        "title": "An ANU researcher’s journey from the centre of Earth to Mars and beyond",
+        "description": "Professor Hrvoje Tkalčić is helping unlock clues about Earth's deep interior and other planets such as Mars and the Moon.",
+        "url": "https://reporter.anu.edu.au/all-stories/an-anu-researchers-journey-from-the-centre-of-earth-to-mars-and-beyond",
+        "image": "https://anureporter.wpenginepowered.com/wp-content/uploads/2026/05/Hrvoje-1400x1138.jpg",
+        "publishedAt": "2026-05-07T02:17:41Z",
+        "source": "ANU Reporter"
+      },
       {
         "title": "China's Tianzhou-9 cargo craft re-enters atmosphere",
         "description": "China's Tianzhou-9 cargo craft re-entered Earth's atmosphere in a controlled manner at 7:49 a.m. Beijing Time on Thursday, according to the China Manned Space Agency (CMSA).",
@@ -166,104 +198,72 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41550-026-02842-5/MediaObjects/41550_2026_2842_Fig1_HTML.png",
         "publishedAt": "2026-05-07T00:48:08Z",
         "source": "Nature"
-      },
-      {
-        "title": "The emerging timescale of young star clusters regulated by cluster stellar mass",
-        "description": "Quantifying the timescales of star cluster emergence from their natal clouds remains one of the main challenges in understanding the star formation process. These timescales are fundamental measurements of the star formation cycle within galaxies, yet are difficult to constrain due to the complex interplay between stellar feedback and star formation across multiple physical scales. Here we present Hubble Space Telescope and James Webb Space Telescope observations of thousands of young star clusters in four nearby galaxies (M51, M83, NGC 628 and NGC 4449). A substantial fraction of these clusters are still embedded within their natal gas and remain invisible at optical wavelengths. We constrain their emergence process by measuring the timescales required to disperse the surrounding material. We find a strong correlation between dispersal timescale and cluster stellar mass, with massive clusters emerging faster than their lower-mass counterparts. This is a critical constraint on star formation and stellar feedback simulations, which struggle to fully reproduce star clusters formation and emergence. Our results emphasize the central role of massive clusters in driving the escape of ionizing radiation into the galactic medium. Finally, they impose time limitations for planet formation in massive cluster environments where disks get exposed to ultraviolet irradiation and further gas infall is halted. HST and JWST observations of four nearby galaxies show that massive young star clusters disperse their natal gas faster than low-mass clusters, with key implications for star formation, stellar feedback and planet formation models.",
-        "url": "https://www.nature.com/articles/s41550-026-02857-y?error=cookies_not_supported&code=175f4ece-7406-4197-8818-afcaad4ba30a",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41550-026-02857-y/MediaObjects/41550_2026_2857_Fig1_HTML.png",
-        "publishedAt": "2026-05-07T00:48:08Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Scientists Discover New Way To Make Drug-Resistant Cancer Treatable Again",
-        "description": "A newly discovered molecule disrupts cancer cells’ ability to repair DNA by triggering the breakdown of key proteins. Cancer cells can survive by repairing damage to their DNA—even damage that would normally be fatal. A key defense mechanism is homologous recombination, a highly accurate repair p",
-        "url": "https://scitechdaily.com/scientists-discover-new-way-to-make-drug-resistant-cancer-treatable-again/",
-        "image": "https://scitechdaily.com/images/Red-Cancer-Cells-Concept-Crop.jpg",
-        "publishedAt": "2026-05-07T00:40:25Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-        "description": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
-        "image": "https://www.sciencedaily.com/images/1920/kpz-universality-in-two-dimensional-system-in-space-and-time.webp",
-        "publishedAt": "2026-05-07T00:30:03Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-        "description": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
-        "url": "http://www.sciencedaily.com/releases/2026/05/260505234622.htm",
-        "image": "https://www.sciencedaily.com/images/1920/kpz-universality-in-two-dimensional-system-in-space-and-time.webp",
-        "publishedAt": "2026-05-07T00:30:03Z",
-        "source": "ScienceDaily"
       }
     ],
     "ai": [
       {
-        "title": "B80-million Thai-language AI project launched",
-        "description": "The government is preparing to launch a new Thai large language model (LLM) project intended to secure artificial intelligence (AI) sovereignty and drive the country’s digital economy.",
-        "url": "https://www.bangkokpost.com/life/tech/3251093/b80million-thailanguage-ai-project-launched",
-        "image": "https://static.bangkokpost.com/media/content/dcx/2026/05/07/6080108_700.jpg",
-        "publishedAt": "2026-05-07T02:00:00Z",
-        "source": "Bangkok Post"
+        "title": "With connected ecosystem strategy, Samsung bets big on AI-led enterprise push in India",
+        "description": "As India accelerates its digital transformation journey, Samsung is sharpening its focus on enterprise technology with AI-powered connected ecosystems. Through immersive Business Experience Studios and sector-specific solutions, the company aims to help businesses modernise operations, improve efficiency and build secure, intelligent environments tailored for the future of work.",
+        "url": "https://www.firstpost.com/tech/with-connected-ecosystem-strategy-samsung-bets-big-on-ai-led-enterprise-push-in-india-14008394.html",
+        "image": "https://images.firstpost.com/uploads/2026/05/Samsung-BES-2026-05-319be352d0c95ecb5450e6f405d05ce5-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-05-07T03:11:24Z",
+        "source": "Firstpost"
       },
       {
-        "title": "ByteDance’s AI subscription gamble: chatbot faces reality check in China",
-        "description": "Doubao’s pay plans mark a turning point for China’s chatbot sector, but user reluctance raises doubts about their viability.",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3352661/bytedances-ai-subscription-gamble-chatbot-faces-reality-check-china",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/06/ff14c87f-e993-40b3-a5bb-8535f68bf81b_bdd21025.jpg?itok=nUg100_i&v=1778077151",
-        "publishedAt": "2026-05-07T01:59:51Z",
-        "source": "South China Morning Post"
+        "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth",
+        "description": "Corning and Nvidia are partnering to significantly boost U.S. production of optical connectivity products for AI data centers. This collaboration will tenfold Corning's optical connectivity manufacturing capacity and expand domestic fiber production by over 50%, creating thousands of jobs.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/corning-partners-with-nvidia-to-expand-us-fiber-optic-output-for-ai-growth/articleshow/130877427.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70370,resizemode-75,msid-130877427/tech/artificial-intelligence/corning-partners-with-nvidia-to-expand-us-fiber-optic-output-for-ai-growth.jpg",
+        "publishedAt": "2026-05-07T03:10:27Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Anthropic Is Making Its Claude Chatbot More Appealing to Consumers",
-        "description": "Though the company has built AI software geared toward enterprise users, it has made strides with consumers in recent months, buoyed by the viral success of two of its products for helping people streamline tasks.",
-        "url": "https://www.ndtvprofit.com/technology/anthropic-is-making-its-claude-chatbot-more-appealing-to-consumers-11459929",
-        "image": "https://c.ndtvimg.com/2026-05/jmedrlg8_anthropic_625x300_07_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
-        "publishedAt": "2026-05-07T01:58:03Z",
-        "source": "NDTV Profit"
-      },
-      {
-        "title": "LA mayoral candidate Spencer Pratt reposts scathing AI-generated ad",
-        "description": "Viral video launches a day before Pratt is set to debate mayor Karen Bass and city council member Nithya Raman",
-        "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
-        "image": "https://i.guim.co.uk/img/media/c6c69b39ff86578235ff3929bacad706a9092f6d/393_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7137d993df151d485c4fa3fa8dc46da1",
-        "publishedAt": "2026-05-07T01:55:59Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Asian Stock Markets Surge Amid Potential Middle East Peace Deal",
-        "description": "Asian stocks hit new highs as hopes rose for a Middle East peace deal, despite unresolved issues like the Strait of Hormuz. Japan's Nikkei reached 62,000 buoyed by the AI boom. Oil prices fell but remain elevated, posing inflationary risks. Yen remains volatile amidst currency market moves.",
-        "url": "https://www.devdiscourse.com/article/headlines/3899382-asian-stock-markets-surge-amid-potential-middle-east-peace-deal",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_15_12_19_0163178.png&width=920&format=jpeg",
-        "publishedAt": "2026-05-07T01:50:27Z",
-        "source": "Devdiscourse"
-      },
-      {
-        "title": "As Anthropic announces partnership with SpaceX, CEO Elon Musk shares his 'background check' of the Claude team: No one set off my evil…",
-        "description": "Tech News News: Elon Musk has decided Anthropic isn't evil after all. The SpaceX chief, who spent much of February calling the AI lab misanthropic and accusing it of .",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-anthropic-announces-partnership-with-spacex-ceo-elon-musk-shares-his-background-check-of-the-claude-team-no-one-set-off-my-evil/articleshow/130875757.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130875751,width-1280,height-720,imgsize-43062,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-07T01:50:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Google Chrome secretly installed a 4GB Gemini AI model on your computer: here's what we know",
-        "description": "Google Chrome may be consuming more space than expected due to an automatic download of a 4GB AI model called Gemini Nano. Users can disable the model through Chrome settings, but it reinstalls if certain AI features are enabled.",
-        "url": "https://www.livemint.com/technology/tech-news/google-chrome-secretly-installed-a-4gb-gemini-ai-model-on-your-computer-heres-what-we-know-11778115625396.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/07/1600x900/logo/TECH-ANTITRUST-GOOGLE-SEARCH-1_1745752491263_1778118299937.JPG",
-        "publishedAt": "2026-05-07T01:49:43Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "AI Deflation Hits Indian IT Stocks as FIIs Cut Stakes Sharply",
-        "description": "Indian IT companies face AI-driven pricing pressure and slowing demand as FIIs slash holdings in Infosys, HCL Tech and other major firms.",
-        "url": "https://indianexpress.com/article/explained/explained-economics/ai-deflation-indian-it-fii-selling-stocks-10676585/",
-        "image": "https://images.indianexpress.com/2026/05/sensex_9484de.jpg",
-        "publishedAt": "2026-05-07T01:45:15Z",
+        "title": "Indian Companies Pledge Record $20.5 Billion Investment in US",
+        "description": "Indian companies pledged a record $20.5 billion investment in the US, led by pharma firms, with projects spanning manufacturing, AI, energy, and R&D.",
+        "url": "https://indianexpress.com/article/business/indian-companies-pledge-to-invest-record-20-5-billion-in-us-pharma-in-focus-10676921/",
+        "image": "https://images.indianexpress.com/2026/05/pharma.jpg",
+        "publishedAt": "2026-05-07T03:10:11Z",
         "source": "The Indian Express"
+      },
+      {
+        "title": "AI disinformation tests South Korean laws ahead of local elections",
+        "description": "The government has hired hundreds of staff to track and counter manipulated content ahead of local ballots. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/ai-disinformation-tests-south-korean-laws-ahead-of-local-elections",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a3dc067367d260d19d25039fa69abd8052416161b0e5d043ac6d8f304f497cce",
+        "publishedAt": "2026-05-07T03:10:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Samsung's One UI 8.5 update finally rolls out with new AI features for these Galaxy oldies",
+        "description": "Samsung’s One UI 8.5 update is giving older Galaxy phones and tablets a fresh AI boost, with smarter call handling, easier photo edits, and a few handy tricks borrowed from the Galaxy S26 series.",
+        "url": "https://www.digitaltrends.com/phones/samsungs-one-ui-8-5-update-finally-rolls-out-with-new-ai-features-for-these-galaxy-oldies/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/05/Samsung-One-UI.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-07T03:04:54Z",
+        "source": "Digital Trends"
+      },
+      {
+        "title": "Anthropic turns to Elon Musk-owned SpaceX for AI compute as Claude demand surges",
+        "description": "Anthropic on Wednesday, May 6, announced a deal with Elon Musk-owned SpaceX to expand computing capacity for Claude by tapping into data centres originally built to power xAI’s Grok model. Under the agreement, SpaceX’s Colossus 1 facility in Memphis, Tennessee, which houses more than 220,000 Nvidia processors, will supply 300 megawatts of new capacity to […]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/anthropic-elon-musk-spacex-ai-compute-claude-demand-10676916/",
+        "image": "https://images.indianexpress.com/2026/02/Tech-featured-image77.jpg",
+        "publishedAt": "2026-05-07T03:04:39Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "Anthropic turns to Elon Musk-owned SpaceX for AI compute as Claude demand surges",
+        "description": "The deal could be the start of a new working relationship between Anthropic’s leadership and Elon Musk, who has been critical of the Claude-maker in the past.",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-elon-musk-spacex-ai-compute-claude-demand-10676916/",
+        "image": "https://images.indianexpress.com/2026/02/Tech-featured-image77.jpg",
+        "publishedAt": "2026-05-07T03:04:12Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "Tokyo leads Asia stock surge on growing Mideast peace hopes",
+        "description": "Tokyo's Nikkei index soared Thursday to lead another strong rally across Asia stocks, fuelled by growing optimism the Iran war is close to ending and the revival of demand for all things AI.Oil prices also held the week's steep losses due to hopes Washington and Tehran will conclude the conflict and reopen the Strait of Hormuz, which has been effectively closed since the start of March, choking off a fifth of the world's crude.",
+        "url": "https://www.al-monitor.com/originals/2026/05/tokyo-leads-asia-stock-surge-growing-mideast-peace-hopes",
+        "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-05/a3d09e6375a1ec880374dd6dcd8a3565b6c1747c.jpg?h=69f2b9d0&itok=TCSMcsKL",
+        "publishedAt": "2026-05-07T03:01:38Z",
+        "source": "Al-Monitor"
       }
     ]
   }
