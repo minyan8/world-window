@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-08T18:47:50.301Z",
+  "fetchedAt": "2026-05-08T19:48:01.690Z",
   "sections": {
     "world": [
       {
-        "title": "WHO Says Hantavirus Outbreak Unlikely To Trigger Global Health Crisis",
-        "description": "The World Health Organisation (WHO) says it does not expect a major epidemic from the hantavirus outbreak linked to a cruise ship currently heading for Spain’s Canary Islands, despite the number of infections rising to eight, including three deaths.",
-        "url": "https://www.tvcnews.tv/who-says-hantavirus-outbreak-unlikely-to-trigger-global-health-crisis/",
-        "image": "https://tvcnews.tv/wp-content/uploads/2026/05/Tedros-Adhanom-Ghebreyesus-2-700x394-1.jpg",
-        "publishedAt": "2026-05-08T06:47:00Z",
-        "source": "TVC News"
+        "title": "IATA urges Africa on aviation investment",
+        "description": "The Nation Newspaper IATA urges Africa on aviation investment",
+        "url": "https://thenationonlineng.net/iata-urges-africa-on-aviation-investment/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/08084630/iata.jpg",
+        "publishedAt": "2026-05-08T07:47:40Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "Tens of thousands of students and teachers unable to access QLearn following cybersecurity breach",
-        "description": "Hundreds of thousands of students have been unable to access schoolwork or submit assessments as access to Canvas has been paused.",
-        "url": "https://www.abc.net.au/news/2026-05-08/students-lose-access-to-canvas-receive-ransom-messages/106657440",
-        "image": "https://live-production.wcms.abc-cdn.net.au/013b6d7dd70f89c9ea21ca0b47d5759f?impolicy=wcms_watermark_news&cropH=464&cropW=824&xPos=0&yPos=77&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T06:46:12Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "WHO Highlights Indonesia’s Leadership in Preventing Zoonotic Diseases",
+        "description": "The World Health Organization (WHO) has praised Indonesia for its strong leadership in reducing the risks posed by priority zoonotic diseases through a strengthened One Health approach. Announced on World Health Day 2026, the initiative highlights Indonesia’s growing commitment to integrating human, animal, and environmental health systems to better prevent and respond to disease outbreaks.",
+        "url": "https://news.fundsforngos.org/2026/05/08/who-highlights-indonesias-leadership-in-preventing-zoonotic-diseases/",
+        "image": "https://news.fundsforngos.org/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+        "publishedAt": "2026-05-08T07:43:57Z",
+        "source": "fundsforNGOs News"
       },
       {
-        "title": "New hantavirus case suspected on remote island; plans being made for Irish citizens to self-isolate after leaving cruise ship",
-        "description": "A new suspected case of hantavirus was identified in a British national on the South Atlantic island of Tristan da Cunha on Friday, as efforts continue to trace passengers of the luxury cruise ship hit by the virus and their immediate contacts.",
-        "url": "https://www.independent.ie/world-news/europe/new-hantavirus-case-suspected-on-remote-island-plans-being-made-for-irish-citizens-to-self-isolate-after-leaving-cruise-ship/a1568442624.html",
-        "image": "https://focus.independent.ie/thumbor/ngjMl14eEBf5-3MutqogoSksLCA=/60x0:735x450/629x0/prod-mh-ireland/2c0b95ff-62b3-456d-a8b1-e8808a065828/854cceb4-849f-4200-bbd2-3243bd91ad86/video/video.jpg",
-        "publishedAt": "2026-05-08T06:45:00Z",
-        "source": "The Irish Independent"
+        "title": "ASEAN Summit stands at critical juncture of reconfiguring cooperation",
+        "description": "The 48th ASEAN Summit stands at this critical juncture. How the region responds will determine whether East Asia can continue to serve as one of the most dynamic and promising regions in the global economy.",
+        "url": "https://news.cgtn.com/news/2026-05-08/ASEAN-Summit-stands-at-critical-juncture-of-reconfiguring-cooperation-1MYFJPmV1Go/p.html",
+        "image": "https://news.cgtn.com/news/2026-05-08/ASEAN-Summit-stands-at-critical-juncture-of-reconfiguring-cooperation-1MYFJPmV1Go/img/1fccde09b13c46b7b45548bf716dde96/1fccde09b13c46b7b45548bf716dde96-750.png",
+        "publishedAt": "2026-05-08T07:43:53Z",
+        "source": "news.cgtn.com"
       },
       {
-        "title": "Three hikers dead in Indonesia's Mount Dukono eruption; Singaporeans among the missing",
-        "description": "Mount Dukono, located in North Maluku province, erupted on Friday morning, sending a smoke cloud 10km into the air.",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-eruption-hikers-trapped-6108851",
-        "image": "https://dam.mediacorp.sg/image/upload/s--eNOzcd8Q--/c_crop,h_1575,w_2800,x_0,y_110/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/08/000_344h6lx.jpg?itok=-Y99xZpi",
-        "publishedAt": "2026-05-08T06:41:09Z",
-        "source": "CNA"
+        "title": "Indonesia volcano kills three as search for 20 missing hikers under way",
+        "description": "Mount Dukono erupts on Halmahera island, trapping hikers who went to the area despite it being closed since April 17.",
+        "url": "https://www.aljazeera.com/news/2026/5/8/indonesia-volcano-kills-three-as-search-for-missing-hikers-continues",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69fd8fd0-1778225105.jpg?resize=1200%2C675",
+        "publishedAt": "2026-05-08T07:43:25Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Reform ‘admits Plaid to win in Wales’ as Labour concedes Senedd election",
-        "description": "Reform UK privately admits Plaid Cymru will win in Wales, GB News understands as Labour's Deputy First Minister concedes the Senedd election",
-        "url": "https://www.gbnews.com/politics/scotland-wales-election-results-live",
-        "image": "https://www.gbnews.com/media-library/image.png?id=66709028&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-        "publishedAt": "2026-05-08T06:38:18Z",
-        "source": "GB News"
+        "title": "In second major blow, US court rules against Trump's 10% global tariffs",
+        "description": "A United States trade court has ruled against President Donald Trump's 10 percent global tariffs, dealing a fresh setback after...",
+        "url": "https://www.thecable.ng/in-second-major-blow-us-court-rules-against-trumps-10-global-tariffs/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2026/02/Court-gavel-e1777999274629.jpg",
+        "publishedAt": "2026-05-08T07:43:00Z",
+        "source": "TheCable"
       },
       {
-        "title": "Chinese oil tanker's crew raises safety concerns after attack near Strait of Hormuz",
-        "description": "The chief engineer of a Chinese-owned oil tanker attacked near the Strait of Hormuz says it is \"still unclear\" who fired on the vessel.",
-        "url": "https://www.abc.net.au/news/2026-05-08/chinese-oil-tanker-attacked-in-strait-of-hormuz/106659160",
-        "image": "https://live-production.wcms.abc-cdn.net.au/6f98013858ba45af7c7c0d0a7ec06df9?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=624&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T06:36:48Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Trump administration slams ‘sick’ Star Wars actor Mark Hamill over president in a grave post",
+        "description": "In the wake of the recent Correspondents’ Dinner shooting, the White House claimed such rhetoric explained the multiple assassination attempts against the president",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/mark-hamill-trump-grave-white-house-star-wars-b2972859.html",
+        "image": "https://static.independent.co.uk/2026/05/07/19/2261850470.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-05-08T07:43:00Z",
+        "source": "The Independent"
       },
       {
-        "title": "African elephant genomes reveal ancient mixing - and modern pressures",
-        "description": "Environmental science and conservation news",
-        "url": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/08045904/south_africa_kruger_0877.jpg",
-        "publishedAt": "2026-05-08T06:36:31Z",
-        "source": "news - Mongabay"
+        "title": "Townsville Bulletin",
+        "description": "No Cookies | Townsville Bulletin",
+        "url": "https://www.townsvillebulletin.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.townsvillebulletin.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-townsvillebulletin-169.svg",
+        "publishedAt": "2026-05-08T07:42:41Z",
+        "source": "Townsville Bulletin"
       },
       {
-        "title": "Applications open for PhD Joint",
-        "description": "Deadline: 10-Oct-2026 The Fulbright PhD Joint Supervision Program enables Egyptian doctoral students to conduct advanced research in the United States while remaining enrolled in their home PhD programs in Egypt. Students work under a dual supervision model involving both an Egyptian academic supervisor and a U.S.-based co-supervisor. The program is designed to enhance academic research",
-        "url": "https://www2.fundsforngos.org/individuals/applications-open-for-phd-joint-supervision-grant-egypt/",
-        "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-        "publishedAt": "2026-05-08T06:36:14Z",
-        "source": "fundsforNGOs"
+        "title": "Nigeria Unveils Plan to Expand Midwifery Workforce, Cut Maternal Deaths",
+        "description": "Nigeria launches strategy to expand midwifery workforce through 2030\nPlan targets rural healthcare gaps and maternal mortality",
+        "url": "https://www.ecofinagency.com/news-services/0805-55374-nigeria-unveils-plan-to-expand-midwifery-workforce-cut-maternal-deaths",
+        "image": "https://www.ecofinagency.com/media/k2/items/cache/6365c4cdf0e9319bdb01ce216b3bd78f_S.jpg",
+        "publishedAt": "2026-05-08T07:40:21Z",
+        "source": "Ecofin Agency"
       }
     ],
     "business": [
       {
-        "title": "Norton Manx R Details Revealed in the UK",
-        "description": "It will be available in four variants with the on-road prices starting from £20,250 (approximately Rs. 25.97 lakh).",
-        "url": "https://www.bikewale.com/news/norton-manx-r-details-revealed-in-the-uk/",
-        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/221672/manx-r-right-side-view.webp?isig=0&q=80",
-        "publishedAt": "2026-05-08T06:46:14Z",
-        "source": "BikeWale"
+        "title": "Arista commits to innovation as market cap hits $217b",
+        "description": "The Nation Newspaper Arista commits to innovation as market cap hits $217b",
+        "url": "https://thenationonlineng.net/arista-commits-to-innovation-as-market-cap-hits-217b/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/05/08084311/Arista-Networks-Inc.jpg",
+        "publishedAt": "2026-05-08T07:47:40Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "Perp DEXs still don't work for institutions, consensus panelists explain why",
-        "description": "Panelists at Consensus Miami said institutional investors remain largely absent from decentralized perpetual futures exchanges due to security concerns and compliance requirements.",
-        "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f2296e78363e28f936d580473081289645e209b-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-08T06:45:42Z",
-        "source": "CoinDesk"
+        "title": "Epilepsy care and remote monitoring: UCB and Byteflies",
+        "description": "Explore how UCB and Byteflies are advancing epilepsy care through wearable technology, remote monitoring, and the TETRIS study in Dravet and LGS.",
+        "url": "https://www.ucb.com/solutions/magazine/detail/article/celebrating-a-decade-of-partnership-advancing-digital-innovation-in-epilepsy-care",
+        "image": "https://www.ucb.com/sites/default/files/styles/large/public/2021-08/446_Epilepsy_01.jpeg.webp?itok=yK0an5hQ",
+        "publishedAt": "2026-05-08T07:47:21Z",
+        "source": "UCB"
       },
       {
-        "title": "Latest Oil Market News and Analysis for May 8",
-        "description": "Oil edged higher as traders speculated on whether fresh clashes between the US and Iran would derail a fragile ceasefire, dimming hopes a peace deal may be struck soon.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-07/latest-oil-market-news-and-analysis-for-may-8",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTdga2lSwxXo/v0/1200x800.jpg",
-        "publishedAt": "2026-05-08T06:45:00Z",
-        "source": "Bloomberg.com"
+        "title": "South East Water",
+        "description": "David Hinton faced criticism after outages affected tens of thousands of people in Kent and Sussex.",
+        "url": "https://www.bbc.com/news/articles/cn7pxm13lrro",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7f97/live/a1fe8eb0-4ab0-11f1-abbe-696bdf3a3d1b.jpg",
+        "publishedAt": "2026-05-08T07:46:03Z",
+        "source": "BBC"
       },
       {
-        "title": "Sumitomo Chemical to Expand its High-Purity Alumina Portfolio to Accelerate Business Growth in the Advanced Semiconductor Market",
-        "description": "Sumitomo Chemical's news can be found here.This page is \"Sumitomo Chemical to Expand its High-Purity Alumina Portfolio to Accelerate Business Growth in the Advanced Semiconductor Market\".",
-        "url": "https://www.sumitomo-chem.co.jp/english/news/detail/20260507e.html",
-        "image": "https://www.sumitomo-chem.co.jp/assets/images/ogp_english.png",
-        "publishedAt": "2026-05-08T06:43:47Z",
-        "source": "住友化学株式会社"
+        "title": "Kenya Introduces Tiered Cost Structure for AI-Driven Medical Devices",
+        "description": "The Pharmacy and Poisons Board imposes a US$2,500 fee for high-risk AI medical software, positioning Kenya as a continental leader in digital health regulation.",
+        "url": "https://streamlinefeed.co.ke/news/kenya-s-tiered-cost-structure-for-ai-driven-medical-devices-the-kenyan-wallstreet",
+        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/4734267b-398b-4023-84ef-ab65f1baef56/1778228051649-gxnfs5oy6ft.jpg",
+        "publishedAt": "2026-05-08T07:45:57Z",
+        "source": "streamlinefeed.co.ke"
       },
       {
-        "title": "The Commodities Feed: Oil rebounds on renewed US-Iran tensions",
-        "description": "A smaller than expected inventory build for US natural gas",
-        "url": "https://think.ing.com/articles/the-commodities-feed-oil-rebounds-on-renewed-us-iran-tensions/",
-        "image": "https://think.ing.com/uploads/hero/_w800h450/Iranoil.jpg",
-        "publishedAt": "2026-05-08T06:43:40Z",
-        "source": "ING THINK economic and financial analysis | ING THINK"
+        "title": "SA Premier Peter Malinauskas 'concerned' as Whyalla steelworks' blast furnace remains shut",
+        "description": "Whyalla steelworkers are struggling to get the city's blast furnace producing iron again, with SA Premier Peter Malinauskas saying he is \"very concerned\" about the situation.",
+        "url": "https://www.abc.net.au/news/2026-05-08/sa-premier-maliauskas-whyalla-steelworks-blast-furnace-shut-down/106658540",
+        "image": "https://live-production.wcms.abc-cdn.net.au/ef5c4811d868e60dd2b5acf1deb92d2a?impolicy=wcms_watermark_news&cropH=3804&cropW=6763&xPos=0&yPos=265&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T07:44:19Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "GIFT City IFSC leases over 370 aviation assets worth $5.8 billion: Gujarat CM",
-        "description": "Gandhinagar, May 8 (SocialNews.XYZ) More than 370 aviation assets worth nearly $5.8 billion have been leased through the International Financial Services Centre (IFSC) at GIFT City, Gujarat Chief Minister Bhupendra Patel, said on Friday while... - Social News XYZ",
-        "url": "https://www.socialnews.xyz/2026/05/08/gift-city-ifsc-leases-over-370-aviation-assets-worth-5-8-billion-gujarat-cm/",
-        "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/08/202605083780115.jpg?fit=1220%2C654&quality=80&zoom=1&ssl=1",
-        "publishedAt": "2026-05-08T06:43:16Z",
-        "source": "Social News XYZ"
+        "title": "Major supermarket fined £750,000 for dirty bakery that 'put lives at risk'",
+        "description": "MORRISONS has been fined £750,000 over a dirty bakery that was slammed by health officials as putting customers lives at risk.\nThe supermarket...",
+        "url": "https://www.thesun.co.uk/money/39046208/supermarket-fined-dirty-bakery-lives-at-risk/",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/03/young-woman-shopping-supermarket-pushing-1062759317.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-05-08T07:42:00Z",
+        "source": "The Sun"
       },
       {
-        "title": "Nintendo financial results - May 2026 - Switch 2 at 19.86 million units, Switch at 155.92 million, more",
-        "description": "Nintendo just issued its May 2026 financial report, covering the end to its fiscal year. The latest information and sales data is available for Nintendo Switch 2 and Switch performance plus more. The full roundup of tidbits is as follows: – Net sales – 2,313.0 billion yen (up 98.6% year-over-year) – Operating profit this period – 2,239.5 billion yen (up...",
-        "url": "https://nintendoeverything.com/nintendo-financial-results-may-2026-switch-2-at-19-86-million-units-switch-at-155-92-million-more/",
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-financial-results-May-2026.jpg",
-        "publishedAt": "2026-05-08T06:43:02Z",
-        "source": "Nintendo Everything"
+        "title": "Eastman Kodak Company (KODK) Q1 2026 Earnings Call Prepared Remarks Transcript",
+        "description": "Eastman Kodak Company (KODK) Q1 2026 Earnings Call May 7, 2026 5:00 PM EDTCompany ParticipantsDenisse Goldbarg - Chief Marketing Officer & Head of EAMER...",
+        "url": "https://seekingalpha.com/article/4901197-eastman-kodak-company-kodk-q1-2026-earnings-call-prepared-remarks-transcript",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-05-08T07:41:16Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Aer Lingus not seeing any interruptions to fuel supply",
-        "description": "Aer Lingus has reported an operating loss of €103m for the first quarter of 2026, up from an operating loss of €55m the same time last year due to \"challenging macro-economic factors\".",
-        "url": "https://www.rte.ie/news/business/2026/0508/1572304-aer-lingus-quarterly-results/",
-        "image": "https://www.rte.ie/images/00245533-1600.jpg",
-        "publishedAt": "2026-05-08T06:38:17Z",
-        "source": "RTE.ie"
+        "title": "Savio Macchine Tessili to showcase flagship tech at ITM 2026",
+        "description": "Savio Macchine Tessili will showcase Proxima Smartconer, Lybra Smartspinner and Phoenix at ITM Istanbul 2026 under the Vandewiele Group booth, highlighting automation, AI-powered...",
+        "url": "https://www.fibre2fashion.com/news/textile-news/savio-macchine-tessili-to-showcase-flagship-tech-at-itm-2026-310186-newsdetails.htm",
+        "image": "https://static.fibre2fashion.com/Newsresource/images/310/9ed806f0-02ed-4f06-b8e2-063f9e1f35c6-f_321774.jpg",
+        "publishedAt": "2026-05-08T07:41:15Z",
+        "source": "Fibre2Fashion"
       }
     ],
     "science": [
+      {
+        "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+        "description": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow properly inside living cells. Even tiny shifts in these constants could make blood too thick, water too sticky, or cellular motion impossible, potentially wiping out life as we know it.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
+        "image": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
+        "publishedAt": "2026-05-08T07:42:05Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "“Rural molecular” structure transformation from star-like aggregates of “village atoms” to networked chains in China",
+        "description": "Understanding the spatiotemporal evolution of rural structures is critical to achieving global sustainable development. However, due to the lack of long-term, micro-scale data at the national scale, these dynamic changes remain insufficiently observed. Here, we innovatively introduce a molecular perspective that conceptualizes villages as “atoms” and village structures characterized by specific inter-village spatial connections as “rural molecular structures”. Inspired by isomer concepts in physics and chemistry, we quantify these structures using rural molecular potential energy as a topology-sensitive metric of inter-village organization. Analyzing 495,314 villages across 2465 Chinese counties during 2000–2020, we show that underdeveloped northwestern counties are dominated by star-like aggregates, where a few low- or mid-stage villages drive the growth of numerous distant secondary settlements under large urban–rural income gaps. In contrast, developed southeastern counties form modular networked chains, with mid- and high-stage villages sustaining dense, localized interactions and high systemic cohesion. Nationally, hierarchical distances expanded rapidly in 2000–2010 (≈2 km yr⁻¹ on average; ≈6 km yr⁻¹ between Stage 3 and Stage 2), but contracted in 2010–2020 (≈1 km yr⁻¹; Stage 3-Stage 2 ≈ 1 km yr⁻¹), indicating a shift from centrifugal expansion to centripetal consolidation. Furthermore, causal forest inference indicates that urban–rural integration increases rural molecular potential energy, facilitating factor circulation, weakening core monopolies, strengthening long-range complementarities over time, and steering lagging regions toward more networked configurations. By translating rural spatial organization into a scalable and topology-sensitive metric, our approach provides a quantitative basis for monitoring rural structural reconfiguration and refining adaptive governance and intervention strategies in a timely manner.",
+        "url": "https://www.nature.com/articles/s41599-026-07450-2?error=cookies_not_supported&code=61e272cd-32fd-48fa-890c-9dc9595a9774",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-08T07:06:55Z",
+        "source": "Nature"
+      },
+      {
+        "title": "ESA and JAXA team up on planetary defence, Ramses mission to asteroid Apophis",
+        "description": "The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for Space Safety (Ramses) to the near-Earth asteroid Apophis.",
+        "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis",
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/ramses_esa_s_mission_to_rendezvous_with_asteroid_apophis/26908615-3-eng-GB/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis_pillars.png",
+        "publishedAt": "2026-05-08T07:06:01Z",
+        "source": "European Space Agency"
+      },
+      {
+        "title": "Scientists Discover The Brain Starts Life 'Too Full' And Then Trims Itself Down",
+        "description": "A new study from Austrian researchers suggests the brain begins life with an overly dense and disorganised network of connections, which is then gradually pruned and refined as the animal matures, challenging the long-held idea that the brain is a blank slate at birth.",
+        "url": "https://www.ndtv.com/science/scientists-discover-the-brain-starts-life-too-full-and-then-trims-itself-down-11466112",
+        "image": "https://c.ndtvimg.com/2026-05/t0fleo1s_brain_625x300_08_May_26.jpeg",
+        "publishedAt": "2026-05-08T07:01:49Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "Scientists lower camera 260m to Arctic seafloor and film strange creatures lurking in the darkness",
+        "description": "Researchers in Greenland catch elusive deep-sea creatures and a backwards-swimming fish on camera.",
+        "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/inglefield-bredning-greenland",
+        "image": "https://c02.purpledshub.com/uploads/sites/62/2026/05/Snailfish-in-Greenland.jpeg?w=1200",
+        "publishedAt": "2026-05-08T06:59:44Z",
+        "source": "BBC Wildlife Magazine"
+      },
       {
         "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
         "description": "A mysterious comet from beyond our solar system is giving astronomers a rare glimpse into alien worlds — and it may have formed in a place far colder and stranger than anything around our Sun. The interstellar visitor, called 3I/ATLAS, contains an astonishingly high amount of “heavy water,” far exceeding anything seen in our own solar system.",
@@ -158,112 +198,72 @@
         "image": "https://www.kyoto-u.ac.jp/sites/default/files/styles/ogp_image/public/2026-05/2605_eye_murase_Ultraheavy-cosmic-rays-be7fc569a404604547f60eecb65c3ff3.jpg?itok=xF3ohimz",
         "publishedAt": "2026-05-08T05:51:55Z",
         "source": "The National Tribune"
-      },
-      {
-        "title": "Ultrasound coating method enables gentle surface protection",
-        "description": "RMIT researchers develop sound-wave coating method for fragile materials and living plant leaves.",
-        "url": "https://www.theengineer.co.uk/content/news/ultrasound-coating-method-enables-gentle-surface-protection",
-        "image": "https://www.theengineer.co.uk/media/xwzp54zt/news-rmit-plant-sunscreen-1220px.jpg?width=1002&height=564&v=1dcddfc501b3650",
-        "publishedAt": "2026-05-08T05:46:42Z",
-        "source": "The Engineer - Home"
-      },
-      {
-        "title": "SpaceX Starship Super Heavy fires 33 Raptor engines in full-thrust V3 test",
-        "description": "SpaceX fired all 33 Raptor engines on its upgraded Super Heavy V3 booster in a full-thrust static fire at Starbase. The test moves Starship closer to its 12th integrated flight as engineers assess reusability and upper-stage fixes.",
-        "url": "https://www.indiatoday.in/science/story/spacex-starship-super-heavy-v3-static-fire-33-raptor-engines-test-2908557-2026-05-08",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/starship-super-heavy-test-083511863-16x9_0.jpg?VersionId=KgB2HqGzyyCn0eJgz4PAzUHwes8mwiBe",
-        "publishedAt": "2026-05-08T05:41:00Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Venus’ Atmosphere Jumps And Waves",
-        "description": "Making waves.These images taken on Aug. 18 (left) and Aug. 27 (right), 2016, by the near-infrared camera on Japan’s Akatsuki Venus probe, show the",
-        "url": "https://www.nationaltribune.com.au/venus-atmosphere-jumps-and-waves/",
-        "image": "https://www.u-tokyo.ac.jp/content/400287359.jpg",
-        "publishedAt": "2026-05-08T05:34:33Z",
-        "source": "The National Tribune"
-      },
-      {
-        "title": "NASA Tests Plasma Engine for Faster Mars Travel",
-        "description": "NASA successfully tested a 120-kW plasma engine that could support future Mars missions and reduce travel time significantly.",
-        "url": "https://currentaffairs.adda247.com/nasa-tests-plasma-engine-for-faster-mars-travel/",
-        "image": "https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2026/05/08093821/ChatGPT-Image-May-8-2026-09_37_13-AM.webp",
-        "publishedAt": "2026-05-08T05:00:29Z",
-        "source": "Adda247"
-      },
-      {
-        "title": "Complete scholars: Four exceptional faculty members named Distinguished University Professors",
-        "description": "Four highly accomplished faculty members have been named Distinguished University Professors in recognition of their achievements in scholarship, teaching and service.Lehana Thabane, P. . .",
-        "url": "https://educationnewscanada.com/article/education/level/university/1/1199412/complete-scholars-four-exceptional-faculty-members-named-distinguished-university-professors.html",
-        "image": "https://educationnewscanada.com/images_logo/banniere_24303.png",
-        "publishedAt": "2026-05-08T04:02:09Z",
-        "source": "Education News Canada"
       }
     ],
     "ai": [
       {
-        "title": "Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First'",
-        "description": "Cloudflare cuts 1,100 jobs despite a Q1 revenue beat, pivoting to an 'agentic AI-first' model to capture massive new AI tailwinds.",
-        "url": "https://www.benzinga.com/markets/earnings/26/05/52400456/cloudflare-cuts-20-jobs-despite-strong-q1-as-it-goes-agentic-ai-first",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Cloudflare-Inc.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-05-08T06:46:02Z",
-        "source": "Benzinga"
+        "title": "Anthropic says its new AI tool can hack into Claude's brain and know what it is thinking",
+        "description": "Anthropic says it may have found a way to understand what its AI model Claude is “thinking” internally. The company’s new system translates hidden AI activation patterns into readable text, which allows it to study reasoning, planning and even safety risks happening behind the scenes of AI while the chatbot processes prompts.",
+        "url": "https://www.indiatoday.in/technology/news/story/anthropic-says-its-new-ai-tool-can-hack-into-claudes-brain-and-know-what-it-is-thinking-2908571-2026-05-08",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/anthropic-has-introduced-natural-language-autoencoders-to-turn-claudes-internal-activations-into-re-0839236-16x9_0.png?VersionId=LV.P_ZlPExMa3nJ6P8UCAvWaQZW4nYFL",
+        "publishedAt": "2026-05-08T07:45:45Z",
+        "source": "India Today"
       },
       {
-        "title": "RailTel Bags ₹24.91 Crore AI-Based Insurance Fraud Detection Order From New India Assurance",
-        "description": "RailTel Corporation of India has secured a purchase order worth Rs 24.91 crore, including taxes, from The New India Assurance Company for deploying an AI and machine learning-based solution to monitor and investigate fraud, waste, and abuse in health insurance claims. The domestic order, disclosed through a stock exchange filing on May 8, 2026, is scheduled for execution until May 6, 2029.",
-        "url": "https://www.freepressjournal.in/business/railtel-bags-2491-crore-ai-based-insurance-fraud-detection-order-from-new-india-assurance",
-        "image": "https://media.assettype.com/freepressjournal/2026-05-08/na22pywz/Rail-Tel.jpg",
-        "publishedAt": "2026-05-08T06:42:21Z",
-        "source": "Free Press Journal"
+        "title": "Google exploring investments in India across AI infra, manufacturing of servers & drones",
+        "description": "Global tech giant Google is exploring significant investments in India. The company is looking at opportunities in AI infrastructure. Google is also considering manufacturing servers and drones within the country. This comes as Google CEO Sundar Pichai announced substantial capital expenditure globally, with a focus on AI infrastructure.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/google-exploring-investments-in-india-across-ai-infra-manufacturing-of-servers-drones/articleshow/130953474.cms",
+        "image": "https://img.etimg.com/thumb/msid-130953539,width-1200,height-630,imgsize-63254,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-08T07:45:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "IMF warns AI cyberattacks could trigger global financial crisis",
-        "description": "IMF has warned that increasingly sophisticated AI-powered cyberattacks could threaten the stability of the global financial system",
-        "url": "https://www.cityam.com/imf-warns-ai-cyberattacks-could-trigger-global-financial-crisis/",
-        "image": "https://www.cityam.com/wp-content/uploads/2025/06/cyber-crime-e1749622879324.png",
-        "publishedAt": "2026-05-08T06:42:04Z",
-        "source": "City A.M."
+        "title": "NextEra Energy Stock: The Utility Built For The Data Center Power Crunch (NYSE:NEE)",
+        "description": "Strong Buy case for NextEra Energy (NEE): AI-driven power demand, 33 GW backlog, and a $150 target. Read here for a detailed analysis.",
+        "url": "https://seekingalpha.com/article/4901162-nextera-energy-the-utility-built-for-the-data-center-power-crunch",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231637197/image_2231637197.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-08T07:44:59Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Vietnam eyes influencers, AI to spruce up propaganda",
-        "description": "HANOI - Vietnam's ruling Communist Party plans to ​revamp its propaganda efforts by drafting in social media influencers and artificial ‌intelligence experts while adopting new formats such as podcasts and targeted content, internal documents seen by Reuters show.",
-        "url": "https://www.bangkokpost.com/world/3251809/vietnam-eyes-influencers-ai-to-spruce-up-propaganda",
-        "image": "https://static.bangkokpost.com/media/content/20260508/c1_3251809_700.jpg",
-        "publishedAt": "2026-05-08T06:41:00Z",
-        "source": "Bangkok Post"
+        "title": "Elon Musk faces criminal probe in France as prosecutors escalate X's AI Investigation",
+        "description": "Paris prosecutors have escalated an investigation of Elon Musk and his social network X to a criminal probe.",
+        "url": "https://www.euronews.com/next/2026/05/08/elon-musk-faces-criminal-probe-in-france-as-prosecutors-escalate-xs-ai-investigation",
+        "image": "https://images.euronews.com/articles/stories/09/75/11/40/1200x675_cmsv2_b96cae1f-c560-5314-9edd-f90eac8584bb-9751140.jpg",
+        "publishedAt": "2026-05-08T07:40:54Z",
+        "source": "Euronews"
       },
       {
-        "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-        "description": "HANOI - Vietnam's ruling Communist Party plans to ​revamp its propaganda efforts by drafting in social media influencers and artificial ‌intelligence experts while adopting new formats such as podcasts and targeted content, internal documents seen by Reuters show.",
-        "url": "https://www.bangkokpost.com/world/3251809/communistrun-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show",
-        "image": "https://static.bangkokpost.com/media/content/20260508/c1_3251809_700.jpg",
-        "publishedAt": "2026-05-08T06:41:00Z",
-        "source": "Bangkok Post"
+        "title": "time KYC could change for users and fintechs",
+        "description": "CKYC 2.0 to upgrade India's centralised KYC with real time, API driven verification, AI deduplication and consent based access, reshaping digital onboarding.",
+        "url": "https://www.cnbctv18.com/personal-finance/ckyc-2-0-july-rollout-what-real-time-may-change-for-users-fintechs-ws-el-19901838.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/05/image-2026-05-5953154f8c04c9d97344cb13cc2b0cf6.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-05-08T07:38:12Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "GPT Satya: Everything You Need to Know About AI",
-        "description": "New Delhi [India], May 8: This comprehensive, research-based book covers key aspects of AI, including AI bias, emotional dependency, productivity, health and AI, the future of human-AI interaction, and new concepts around the way society should understand and work with artificial intelligence.",
-        "url": "https://www.tribuneindia.com/news/business/the-story-of-ai-gpt-satya-everything-you-need-to-know-about-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU0YWM2MzIwLTRhYTgtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-        "publishedAt": "2026-05-08T06:40:59Z",
-        "source": "The Tribune"
+        "title": "Musk Once Slammed Anthropic As A Threat to Civilisation. Now He Powers It",
+        "description": "From calling them \"evil\" to leasing them GPUs, Musk's stunning Anthropic U-turn proves that in the AI arms race, compute is the only currency.",
+        "url": "https://www.ndtv.com/world-news/elon-musk-once-slammed-anthropic-as-a-threat-to-civilization-now-he-powers-it-claude-xai-chatgpt-artificial-intelligence-ai-11466263",
+        "image": "https://c.ndtvimg.com/2026-05/08161vmo_elon-musk_625x300_08_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-05-08T07:37:28Z",
+        "source": "NDTV.com"
       },
       {
-        "title": "IMF warns of 'inevitable' AI-powered threats to global financial system",
-        "description": "The International Monetary Fund (IMF) warned on Thursday of the risks to global financial stability posed by cyberattacks powered by advanced artificial intelligence tools",
-        "url": "https://www.thehindu.com/sci-tech/technology/imf-warns-of-inevitable-ai-powered-threats-to-global-financial-system/article70953725.ece",
-        "image": "https://th-i.thgim.com/public/incoming/43qxgx/article70953729.ece/alternates/LANDSCAPE_1200/2026-05-06T060358Z_318467028_RC263LARCP7I_RTRMADP_3_MIGRATION-USA.JPG",
-        "publishedAt": "2026-05-08T06:39:24Z",
+        "title": "Kerala filmmaker’s AI short film headed to AI Film Awards, Cannes",
+        "description": "Kerala filmmaker Sachu Mathew Kuruvila's AI short film, The Light, is heading to the AI Film Awards in Cannes.",
+        "url": "https://www.thehindu.com/incoming/kerala-filmmakers-ai-short-film-headed-to-ai-film-awards-cannes/article70938153.ece",
+        "image": "https://th-i.thgim.com/public/incoming/byzhll/article70942551.ece/alternates/LANDSCAPE_1200/kimp_AIFilm1.jpg",
+        "publishedAt": "2026-05-08T07:37:20Z",
         "source": "The Hindu"
       },
       {
-        "title": "Golden Globes 2027 AI Rules: Human Creators Stay Central as Generative AI Use Requires Full Disclosure",
-        "description": "Golden Globes 2027 AI rules keep human creators at the center while allowing generative AI as a supporting tool. Learn how mandatory AI disclosure, bans on unauthorized digital replicas, and stricter acting eligibility guidelines will shape future Hollywood awards and protect performers’ creative control.",
-        "url": "https://www.outlookindia.com/art-entertainment/hollywood/golden-globes-2027-ai-rules-human-creators-stay-central-as-generative-ai-use-requires-full-disclosure",
-        "image": "https://cf-images.assettype.com/outlookindia/2026-05-08/gznsmzlm/Screenshot-1948-02-18-at-11.54.26.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-05-08T06:34:49Z",
-        "source": "Outlook India"
+        "title": "Kerala filmmaker’s AI short film headed to AI Film Awards, Cannes",
+        "description": "Kerala filmmaker Sachu Mathew Kuruvila's AI short film, The Light, is heading to the AI Film Awards in Cannes.",
+        "url": "https://www.thehindu.com/entertainment/movies/kerala-filmmakers-ai-short-film-headed-to-ai-film-awards-cannes/article70938153.ece",
+        "image": "https://th-i.thgim.com/public/incoming/byzhll/article70942551.ece/alternates/LANDSCAPE_1200/kimp_AIFilm1.jpg",
+        "publishedAt": "2026-05-08T07:37:20Z",
+        "source": "The Hindu"
       }
     ]
   }
