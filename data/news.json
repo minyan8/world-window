@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-08T12:49:27.576Z",
+  "fetchedAt": "2026-05-08T13:58:40.404Z",
   "sections": {
     "world": [
       {
-        "title": "New Zealand students' details caught up in massive global university hack",
-        "description": "Names, email addresses, ID numbers and messages between users could all have been stolen, while students can't submit work.",
-        "url": "https://www.rnz.co.nz/news/education/594635/new-zealand-students-details-caught-up-in-massive-global-university-hack",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--flVL87He--/t_tohu-badge-facebook/v1727320323/4KJAP98_Education_AUT_Building_JPG_1?_a=BACCd2AD",
-        "publishedAt": "2026-05-08T00:45:14Z",
-        "source": "RNZ"
+        "title": "Hantavirus live updates: 2 infected patients in isolation in Dutch hospitals, officials say",
+        "description": "The MV Hondius cruise ship, on which the hantavirus infection was identified, is making its way to the Canary Islands.",
+        "url": "https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955",
+        "image": "https://i.abcnewsfe.com/a/9f9d016d-ecbd-4c65-b670-989c4b1ca035/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2026-05-08T01:58:00Z",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "title": "Buy an entire Irish village for the price of a Sydney mansion",
-        "description": "The centuries-old estate has hit the market after being restored by a billionaire.",
-        "url": "https://www.domain.com.au/news/buy-an-entire-irish-village-for-the-price-of-a-sydney-mansion-1512854/",
-        "image": "https://res.akamaized.net/domain/image/upload/c_crop,h_1012,w_1800,x_0,y_0/t_web/c_fill,w_720,h_480/v1778200080/village_tfctbf.webp",
-        "publishedAt": "2026-05-08T00:35:08Z",
-        "source": "Domain"
+        "title": "Two ISIS-linked women facing slavery charges after return to Australia",
+        "description": "Australian police said on Friday they had charged two women linked to the Islamic State extremist group with slavery offenses after they returned overnight from Syria, where they had been detained in a refugee camp for more than seven years.",
+        "url": "https://www.cnn.com/2026/05/07/australia/australia-islamic-state-women-charged-intl-hnk",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/afp-operation-kurrajong-melbourne.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-08T01:58:00Z",
+        "source": "CNN"
       },
       {
-        "title": "Pressure on Starmer as Reform gains in UK local elections",
-        "description": "British Prime Minister Keir Starmer finds himself under pressure following disastrous local election results as Nigel Farage claimed Reform UK is on course to win the next general election.",
-        "url": "https://www.rte.ie/news/uk/2026/0508/1572282-uk-election/",
-        "image": "https://www.rte.ie/images/002449b0-1600.jpg",
-        "publishedAt": "2026-05-08T00:28:21Z",
-        "source": "RTE.ie"
+        "title": "Invalid, unauthorised by law: US court strikes down Trump's 10% global tariffs",
+        "description": "A US trade court ruled that Donald Trump's temporary 10% global tariffs were unlawful. The decision deepens pressure on the administration's tariff strategy as an appeal looms.",
+        "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-global-tariffs-ruled-illegal-us-trade-court-2908443-2026-05-08",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/trump-031542515-16x9_2.jpg?VersionId=B.wYBIub3eH0wCzxmHTMs7S0Eude7hiu",
+        "publishedAt": "2026-05-08T01:55:28Z",
+        "source": "India Today"
       },
       {
-        "title": "Votes being counted in crucial election for Keir Starmer",
-        "description": "Votes are being counted in elections across Scotland, Wales and parts of England that could prove a decisive moment for British Prime Minister Keir Starmer's leadership.",
-        "url": "https://www.rte.ie/news/uk/2026/0508/1572282-uk-election-starmer/",
-        "image": "https://www.rte.ie/images/002454e3-1600.jpg",
-        "publishedAt": "2026-05-08T00:28:21Z",
-        "source": "RTE.ie"
+        "title": "Jewish teacher feared for his life marching in Sydney Mardi Gras parade, royal commission hears",
+        "description": "The man told the Royal Commission on Antisemitism and Social Cohesion he was embraced by the LGBTQIA+ community when he came out as gay as a teenager, but the experience was markedly different when he told loved ones of his religious conversion.",
+        "url": "https://www.abc.net.au/news/2026-05-08/antisemitism-social-cohesion-royal-commission-mardi-gras/106656756",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4e476a87b4ae2bddc52f13bcc3ebe25c?impolicy=wcms_watermark_news&cropH=3213&cropW=5712&xPos=0&yPos=536&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T01:52:01Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "‘Touched my butt’: Traveller’s nightmare during scuba dive",
-        "description": "A tourist has accused a scuba diving instructor of being “creepy”, claiming he repeatedly touched her inappropriately during their session underwater.",
-        "url": "https://www.news.com.au/travel/travel-updates/incidents/tourist-blasts-diving-instructor-for-allegedly-touching-her-inappropriately-during-a-dive/news-story/9e2ff0cd76079964650580a6f95d5839",
-        "image": "https://content.api.news/v3/images/bin/939411c641b0656925f6802ca8b144fb",
-        "publishedAt": "2026-05-08T00:20:17Z",
-        "source": "News.com.au"
+        "title": "Global Wheat Health Alliance launched to strengthen disease resistance in wheat",
+        "description": "CIMMYT and Cornell University are jointly leading a new international partnership within the landmark HyBread investment, supported by the Gates Foundation and the UK Foreign, Commonwealth & Development Office (FCDO), to accelerate disease resistance in wheat for vulnerable farming communities i",
+        "url": "https://www.cimmyt.org/news/global-wheat-health-alliance-launched-to-strengthen-disease-resistance-in-wheat/",
+        "image": "https://www.cimmyt.org/content/uploads/2026/05/6800735486_884ed693e1_k.jpg",
+        "publishedAt": "2026-05-08T01:51:55Z",
+        "source": "cimmyt.org"
       },
       {
-        "title": "Solomon Islands to get new leader after PM ousted in no-confidence vote",
-        "description": "Jeremiah Manele toppled after months of political upheaval in the nation seen as one of China’s closest partners in the Pacific",
-        "url": "https://www.theguardian.com/world/2026/may/08/solomon-islands-new-leader-pm-jeremiah-manele-ousted-no-confidence-vote",
-        "image": "https://i.guim.co.uk/img/media/04748741af3e9410bab8370c7a09b835ff088bda/853_413_4948_3960/master/4948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=513bce1f93599ea1cc2f94cb0efee765",
-        "publishedAt": "2026-05-08T00:16:00Z",
-        "source": "The Guardian"
+        "title": "Iran says ‘great victory’ is coming as Trump warns of harder strikes amid ceasefire tensions",
+        "description": "Iran’s First Vice President Mohammad Reza Aref said the country will soon celebrate a “great victory” in its conflict with the United States and Israel, according to Iranian state...",
+        "url": "https://www.thenews.com.pk/latest/1401808-iran-says-great-victory-is-coming-as-trump-warns-of-harder-strikes-amid-ceasefire-tensions",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-08/1401808_065815_updates.jpg",
+        "publishedAt": "2026-05-08T01:50:11Z",
+        "source": "The News International"
       },
       {
-        "title": "UBC, SFU among thousands of universities affected by Canvas software cyber breach",
-        "description": "The University of British Columbia and Simon Fraser University, B.C.'s two biggest universities by student enrolment, say a cyber breach of the Canvas learning software could affect students' personal information.",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/ubc-sfu-canvas-cyber-breach-9.7191972",
-        "image": "https://i.cbc.ca/ais/72852f14-d510-4d62-981f-df6013bd5a04,1778196592177/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C479%2C7952%2C4473%29%3BResize%3D620",
-        "publishedAt": "2026-05-08T00:08:00Z",
-        "source": "CBC"
+        "title": "Trump gives EU until July 4 to implement Turnberry deal or face tariff hike",
+        "description": "The Turnberry deal has a deadline now, and Trump has made clear what happens if Europe misses it.",
+        "url": "https://investinglive.com/news/trump-gives-eu-until-july-4-to-implement-turnberry-deal-or-face-tariff-hike-20260508/",
+        "image": "https://images.investinglive.com/images/trump%20tariff_id_05035ac5-8f34-4710-9dee-a4d32c3b21ec_size975.jpg",
+        "publishedAt": "2026-05-08T01:50:06Z",
+        "source": "investingLive"
       },
       {
-        "title": "Trump Reversed Hormuz Plan After Saudis Denied Airspace Access",
-        "description": "Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.",
-        "url": "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html",
-        "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07dc-saudi-us-photo-mkbh/07dc-saudi-us-photo-mkbh-facebookJumbo.jpg",
-        "publishedAt": "2026-05-08T00:04:40Z",
-        "source": "nytimes.com"
+        "title": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
+        "description": "Some 20,000 seafarers are stranded in the Gulf amid the closure of the Strait of Hormuz.",
+        "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260504__A9RN2PV__v2__MidRes__TopshotIranUsIsraelWarTransportHormuz-1-1778200484_81ad0d-1778200619.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2026-05-08T01:49:59Z",
+        "source": "Al Jazeera"
       }
     ],
     "business": [
       {
-        "title": "Govt to launch incentives for 200,000 EVs to boost sales",
-        "description": "The government is preparing a new round of incentives for electric vehicle (EV) purchases set to begin in June, targeting 100,000 electric cars and 100,000 electric motorcycles as part of a broader push to stimulate demand as well as reduce fuel consumption to curb energy subsidies.",
-        "url": "https://www.thestar.com.my/business/business-news/2026/05/08/govt-to-launch-incentives-for-200000-evs-to-boost-sales",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/08/3897884.jpeg",
-        "publishedAt": "2026-05-08T00:44:08Z",
-        "source": "The Star"
+        "title": "Ineos won't build any more models from the ground up, as it looks to partners for help - report",
+        "description": "There are three more off-road SUVs coming from Ineos, with Chery’s iCaur SUV brand tipped to play a helping hand.",
+        "url": "https://www.carexpert.com.au/car-news/ineos-wont-build-any-more-models-from-the-ground-up-as-it-looks-to-partners-for-help-report",
+        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2024-02-ineos-fusiliernew-colour-2-solid-1.jpg",
+        "publishedAt": "2026-05-08T01:57:08Z",
+        "source": "CarExpert"
       },
       {
-        "title": "Warehouse One Announces Commencement of Proceedings Under Companies’ Creditors Arrangement Act",
-        "description": "Warehouse One Clothing Ltd. (the “Company”) announced yesterday that it has commenced proceedings under the Companies’ Creditors Arrangement Act (“CCAA”) pur...",
-        "url": "https://www.businesswire.com/news/home/20260507582589/en/Warehouse-One-Announces-Commencement-of-Proceedings-Under-Companies-Creditors-Arrangement-Act",
-        "image": "https://mms.businesswire.com/media/20260507582589/en/2799211/22/WH1-Tagline_Lockup_Variations-2023-02.jpg",
-        "publishedAt": "2026-05-08T00:42:00Z",
-        "source": "Business Wire"
+        "title": "Shabtay Yaacoby found guilty of laundering more than $10m in landmark investment scam trial",
+        "description": "Israeli citizen Shabtay Yaacoby is found guilty of laundering more than $10 million stolen by investment scammers.",
+        "url": "https://www.abc.net.au/news/2026-05-08/shabtay-yaacoby-found-guilty-money-laundering-scams/106656936",
+        "image": "https://live-production.wcms.abc-cdn.net.au/45ac5cbee460e9c5fd4a03ac08af5726?impolicy=wcms_watermark_news&cropH=953&cropW=1694&xPos=668&yPos=88&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T01:55:41Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Insider Sale: 10% owner at $AGCO Sells 309,089 Shares",
-        "description": "& Farm Equipment Ltd Tractors, a 10% owner of $AGCO, sold 309,089 shares of the company on 05-05-202",
-        "url": "https://www.quiverquant.com/news/Insider+Sale%3A+10%25+owner+at+%24AGCO+Sells+309%2C089+Shares",
-        "image": "https://www.quiverquant.com/images/agco_rect_new.png",
-        "publishedAt": "2026-05-08T00:39:00Z",
-        "source": "Quiver Quantitative"
+        "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 May",
+        "description": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a negative start for the Indian benchmark index. The Gift Nifty was trading around 24,295 level, a discount of nearly 87 points from the Nifty futures’ previous close.",
+        "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-8-may-11778204651722.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/2-0-71270117-BSE-DC-11135602H232491-1--0_1681410792362_1778205031262.jpg",
+        "publishedAt": "2026-05-08T01:53:49Z",
+        "source": "Mint"
       },
       {
-        "title": "UPDC REIT appoints SFS Capital as new fund manager",
-        "description": "Unitholders of UPDC REIT have appointed SFS Capital as the new fund manager, aiming to unlock value and enhance the performance of its real estate portfoli",
-        "url": "https://punchng.com/updc-reit-appoints-sfs-capital-as-new-fund-manager/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/08010729/Patrick-Ilodianya-1-720x630.jpeg",
-        "publishedAt": "2026-05-08T00:34:57Z",
-        "source": "Punch Newspapers"
+        "title": "Gold on track for weekly gain; markets focus on US-Iran peace deal prospects",
+        "description": "Gold prices are climbing, set for a weekly rise. Investors are optimistic about peace between the U.S. and Iran. This is happening even as fighting has resumed. Fears of inflation and higher interest rates are easing. The U.S. Federal Reserve is expected to keep rates steady. China's central bank continues to buy gold. Markets await U.S. employment data.",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-on-track-for-weekly-gain-markets-focus-on-us-iran-peace-deal-prospects/articleshow/130940641.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-130940699,width-1200,height-630,imgsize-49032,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-05-08T01:53:18Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Delhi EV push under fire as industry opposes 2028 petrol 2-wheeler ban",
-        "description": "As per Delhi’s proposed Electric Vehicle policy 2.0, only electric two-wheelers will be permitted for new registrations in the city from April 2028",
-        "url": "https://indianexpress.com/article/cities/delhi/65-buyers-at-risk-china-dependence-industry-opposes-delhi-govts-2028-petrol-two-wheeler-ban-proposal-10678355/",
-        "image": "https://images.indianexpress.com/2026/05/newsline-biketraffic-3col.jpg",
-        "publishedAt": "2026-05-08T00:30:36Z",
-        "source": "The Indian Express"
+        "title": "Diversified Energy Q1 Loss Despite Higher Production Challenges Bullish Profitability Narratives",
+        "description": "Diversified Energy (NYSE:DEC) opened 2026 with Q1 revenue of US$575.5 million and a basic EPS loss of US$2.13, as net income excluding extra items came in at a loss of US$160.6 million. Over the past year, trailing twelve month revenue has moved from US$1.61 billion to US$1.84 billion while trailing EPS shifted from US$4.67 to US$6.53, giving you a clear view of how the top line and per share earnings have tracked into this quarter. For investors, the mix of higher production volumes,...",
+        "url": "https://simplywall.st/stocks/us/energy/nyse-dec/diversified-energy/news/diversified-energy-q1-loss-despite-higher-production-challen",
+        "image": "https://images.simplywall.st/asset/industry/1032000-choice1-main-header/1585186548616",
+        "publishedAt": "2026-05-08T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Why the world is getting NZ's best as we eat cheap imports",
-        "description": "Butter is far from the only item with a higher price when made in New Zealand",
-        "url": "https://www.1news.co.nz/2026/05/08/why-the-world-is-getting-nzs-best-as-we-eat-cheap-imports/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/the-sunny-yellow-block-left-is-new-zealand-made-product-whil-WGMJNW7XLFFCLK55NDRHO5BTNY.png?auth=9e419a3f2beefc646fa9e5b6d2e9312c2667de59c882514c49817822aa584d17&quality=70&width=600&height=315&focal=489%2C268",
-        "publishedAt": "2026-05-08T00:30:19Z",
-        "source": "1News"
+        "title": "Assessing Willis Lease Finance (WLFC) Valuation After Record Q1 Results And Dividend Increase",
+        "description": "Willis Lease Finance (WLFC) just posted its strongest quarter on record, with Q1 2026 revenue of US$194.35 million, net income of US$25.08 million, and record lease rent and maintenance services revenues supporting a higher dividend.\nSee our latest analysis for Willis Lease Finance.\nThe stock has pulled back, with a 1 day share price return of a 5.61% decline after a strong Q1 earnings beat. However, the 68.11% year to date share price return and very large 5 year total shareholder return...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-wlfc/willis-lease-finance/news/assessing-willis-lease-finance-wlfc-valuation-after-record-q",
+        "image": "https://images.simplywall.st/asset/industry/3081000-choice1-main-header/1585186648416",
+        "publishedAt": "2026-05-08T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Hong Kong’s pinball wizards and claw fans defend arcade thrills as curbs loom",
-        "description": "Citywide craze in pinball and claw machines has prompted authorities to consider tightening regulations to prevent addiction to these games.",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3352804/hong-kongs-pinball-wizards-and-claw-fans-defend-arcade-thrills-clamp-looms",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/07/cfed1eea-dd7f-43c3-873a-2b618872de17_27097526.jpg?itok=Mu_OCzee&v=1778165224",
-        "publishedAt": "2026-05-08T00:30:05Z",
-        "source": "South China Morning Post"
+        "title": "Niagen Bioscience (NAGE) Q1 Net Income Beat Reinforces Bullish Margin Narratives",
+        "description": "Niagen Bioscience (NAGE) just posted its Q1 2026 numbers, with revenue of US$31.5 million and basic EPS of US$0.08, setting the tone for how the year is starting to shape up on the top and bottom line. The company has seen quarterly revenue move from US$29.1 million in Q4 2024 to a range of roughly US$30.5 million to US$34.0 million through 2025, while basic EPS has run between US$0.05 and US$0.09 over the same stretch, giving you a clearer feel for how Q1 2026 fits into the recent trend...",
+        "url": "https://simplywall.st/stocks/us/household/nasdaq-nage/niagen-bioscience/news/niagen-bioscience-nage-q1-net-income-beat-reinforces-bullish",
+        "image": "https://images.simplywall.st/asset/industry/9551728-choice2-main-header/1585186774276",
+        "publishedAt": "2026-05-08T01:52:30Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Snack mix recall hits Target products over salmonella risk",
-        "description": "Multiple snack mix products sold at Target and under Fisher, Squirrel Brand, and Southern Style Nuts labels are being recalled over possible salmonella contamination concerns.",
-        "url": "https://www.foxbusiness.com/lifestyle/multiple-snack-mixes-recalled-including-target-product-over-risk-salmonella-contamination",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/trail-mix-pretzels-nuts.jpg?ve=1&tl=1",
-        "publishedAt": "2026-05-08T00:27:00Z",
-        "source": "Fox Business"
+        "title": "Negros Occidental eyes P1-billion savings with solar power shift",
+        "description": "Negros Occidental is projected to save at least P1 billion over the next 25 years through its transition to solar energy.",
+        "url": "https://newsinfo.inquirer.net/2225219/negros-occidental-eyes-p1-billion-savings-with-solar-power-shift",
+        "image": "https://newsinfo.inquirer.net/files/2026/04/solarpanelenergy-compositeimage-16april2026.jpg",
+        "publishedAt": "2026-05-08T01:51:00Z",
+        "source": "Inquirer.net"
       }
     ],
     "science": [
+      {
+        "title": "This Simple Movement Could Be Secretly Cleaning Your Brain",
+        "description": "A new study reveals that simple body movements may help clean the brain.",
+        "url": "https://scitechdaily.com/this-simple-movement-could-be-secretly-cleaning-your-brain/",
+        "image": "https://scitechdaily.com/images/Vein-Network-Mechanism.jpg",
+        "publishedAt": "2026-05-08T01:51:53Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "“Simplified Proteins” Reveal the Biochemical Dawn of Early Earth",
+        "description": "When researchers look up at the sky and wonder if we’re not alone, they also realize the origins of life here on Earth might hold the key to finding out. The chaotic chemical soup of our early world eventually led to the staggering complexity of modern life, but how exactly did it start? Proteins were one of the key ingredients in the early years, but we’re still only just discovering how these marvels of modern biology first managed to fold, function, and survive. A new review paper, The borderlands of foldability: lessons from simplified proteins, published recently in Trends in Chemistry, showcases how scientists are attempting to answer this question - by researching “simplified proteins”.",
+        "url": "https://www.universetoday.com/articles/simplified-proteins-reveal-the-biochemical-dawn-of-early-earth",
+        "image": "https://www.universetoday.com/article_images/2025-016_Longo1-scaled-e1776922391281_20260505_121353.jpg",
+        "publishedAt": "2026-05-08T01:17:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "Utahns spot another fireball, experts explain why",
+        "description": "If you feel like you're seeing more fireballs in the sky, you're not wrong. Another fireball was spotted Wednesday at 9:19 p.m., making its way toward Salt Lake City.",
+        "url": "https://ksltv.com/science-technology/utahns-spot-another-fireball-experts-explain-why/906559/",
+        "image": "https://ksltv.com/wp-content/uploads/2026/05/image-3.jpg",
+        "publishedAt": "2026-05-08T01:15:43Z",
+        "source": "KSL TV 5"
+      },
+      {
+        "title": "Pedal power: Why men should cycle as they enter middle-age",
+        "description": "From improving cardiovascular health and muscle strength to boosting testosterone and lowering stress, cycling is one of the best ways for men to stay healthy as they age",
+        "url": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41841057.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10142/5071299_7_seoimageog_Copy_20of_20iStock-2248338491_1_.jpg",
+        "publishedAt": "2026-05-08T01:00:00Z",
+        "source": "Irish Examiner"
+      },
       {
         "title": "Researchers Create Detailed Map of Smell Receptors in Mouse Nose",
         "description": "By mapping millions of smell-sensing neurons in mice, scientists discovered precise striped patterns inside the nose, overturning decades-old assumptions about how olfaction is wired.",
@@ -166,104 +198,72 @@
         "image": "https://www.nasa.gov/wp-content/uploads/2026/01/afrc2025-0168-030-edit.jpg?w=2048",
         "publishedAt": "2026-05-08T00:02:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "Comprehensive cross-cohort analysis reveals global gut microbiome signatures of celiac disease",
-        "description": "Celiac disease affects ~1–2% of people and remains incurable, requiring lifelong dietary restriction. The gut microbiome is thought to contribute to the development and progression of celiac disease. However, findings across previous studies are fragmented, making it difficult to understand exactly how the gut microbiome is involved. We integrate over 900 samples from global datasets spanning different disease stages (before onset, during active disease, and after treatment), body sites, and research methods. Datasets produced using both 16S rRNA gene sequencing and shotgun metagenomics profile the gut microbiome. Alpha and beta diversity analyses and differential abundance testing identify consistent changes in bacterial communities linked to celiac disease. Machine learning tests how well microbiome data predicts disease status. Here, we show that celiac disease is not marked by large changes in gut microbiome diversity. Instead, there are subtle, consistent changes in specific bacteria, including a reduction in beneficial butyrate producers (Faecalibacterium, Prevotella, Agathobacter, Gemmiger), changes in mucin-associated microbes (Akkermansia muciniphila), and an increase in potentially harmful bacteria (Helicobacter, Campylobacter, Haemophilus parainfluenzae). These changes are seen before and during active disease and persist on a gluten-free diet. Microbiome-based disease prediction is moderately accurate for active disease and weaker for prospective performance, likely constrained by training data. Our findings suggest that celiac disease is linked to specific changes in gut bacteria that are not fully resolved by diet alone. Future treatments may need to focus on restoring healthy gut bacteria, not just avoiding gluten, to better manage the disease. Celiac disease affects 1-2% of the global population, is increasing in prevalence, with many cases remaining undiagnosed, and requires a strict gluten-free diet. Researchers think the bacteria in our gut may play a role, but past results have been mixed. In this study, data from more than 900 samples worldwide were analyzed to identify patterns in the gut microbiome related to celiac disease. The findings revealed that certain beneficial bacteria are less common, while some harmful bacteria are more common in people with the disease, and these changes persist even after adhering to a gluten-free diet. This suggests that merely avoiding gluten might not be sufficient, and future treatments should also focus on restoring healthy gut bacteria. Prendergast et al. integrate global celiac disease gut microbiome datasets across multiple disease stages. They find a consistent loss of butyrate-producing bacteria, changes in mucin-associated bacteria, and increased opportunistic microbes, with these shifts persisting after treatment.",
-        "url": "https://www.nature.com/articles/s43856-026-01627-1?error=cookies_not_supported&code=82107139-422c-4cd1-a7ee-970207fd8d19",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-05-07T23:37:30Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Mobile intron RNA from a bacterial predator accumulates in dead archaeal cells",
-        "description": "Introns in prokaryotes are classified as mobile genetic elements normally located within essential genes. Their RNA transcripts are functional if spliced by the intron´s ribozyme activity. The excised intron RNA is assumed to proliferate by leaving the host cell and being integrated into foreign genomes. Here we show the presence of a bacterial intron´s RNA in archaeal cells. The predatory ultramicrobial epibiont Candidatus Velamenicoccus archaeovorus contains a group I intron in its 23 S ribosomal RNA gene. In search for predation evidence, we visualized the intron RNA by in situ hybridization and observed it in dead cells of the filamentous archaeon Methanothrix soehngenii in a slowly growing methanogenic enrichment culture on limonene. Transcriptome analysis detected a ratio of one unspliced transcript or intron molecule per 20,000 mature 23 S rRNA molecules. Our study visualized that spliced intron RNA can leave the host and enter foreign cells. Spliced intron RNA adds to extracellular RNA, so far known to function as intercellular signaling molecules and metabolic inhibitors.",
-        "url": "https://www.nature.com/articles/s41598-026-51721-6?error=cookies_not_supported&code=9b0fe666-179a-4664-aed6-0b8867743460",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-51721-6/MediaObjects/41598_2026_51721_Fig1_HTML.png",
-        "publishedAt": "2026-05-07T23:17:53Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Research breakthrough reveals the secret behind blood clotting",
-        "description": "Leeds researchers mapped how platelet myosin stays inactive, revealing mutation hotspots tied to bleeding disorders.",
-        "url": "https://www.thebrighterside.news/post/research-breakthrough-reveals-the-secret-behind-blood-clotting/",
-        "image": "https://www.thebrighterside.news/uploads/2026/05/shutterstock_1612704838-scaled.jpg?auto=webp&width=2000&height=1334",
-        "publishedAt": "2026-05-07T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "The Asteroid Hunter",
-        "description": "Somewhere out there, hurtling through space in the darkness, is an asteroid with our name on it. We just don't know which one yet. NASA's answer to that uncomfortable truth is NEO Surveyor, a purpose built infrared space telescope currently taking shape in laboratories across America, and scheduled for launch in 2027. The stakes, quite literally, could not be higher.",
-        "url": "https://www.universetoday.com/articles/the-asteroid-hunter",
-        "image": "https://www.universetoday.com/article_images/lossy-page1-1280px-NASAs_NEO_Surveyor_in_Deep_Space_Artists_Concept_PIA26388.tiff_20260507_225522.jpg",
-        "publishedAt": "2026-05-07T23:06:00Z",
-        "source": "Universe Today"
       }
     ],
     "ai": [
       {
-        "title": "Global Market Today: Asian stocks drop, oil climbs on Iran tensions",
-        "description": "Asian stocks retreated from record highs as Middle East tensions escalated, impacting crude oil prices and reviving concerns over energy supplies. US forces responded to Iranian attacks in the Strait of Hormuz, while President Trump issued a stern warning. Despite volatility, investors remain focused on de-escalation efforts and the AI trade.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-oil-climbs-on-iran-tensions/articleshow/130937230.cms",
-        "image": "https://img.etimg.com/thumb/msid-130937194,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-08T00:49:00Z",
-        "source": "The Economic Times"
+        "title": "Shivon Zilis testimony exposes hidden dynamics inside the OpenAI-Musk feud - Check what she reveals",
+        "description": "Through leaked text messages and detailed court filings, Zilis has provided a rare, behind-the-scenes look at the tech industry's most high-profile feud.",
+        "url": "https://www.livemint.com/news/world/shivon-zilis-testimony-exposes-hidden-dynamics-inside-the-openai-musk-feud-check-what-she-reveals-11778202446230.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/MUSK-OPENAI-COURT-22_1778205057637_1778205086138.JPG",
+        "publishedAt": "2026-05-08T01:58:36Z",
+        "source": "Livemint"
       },
       {
-        "title": "OpenAI's Codex Now Works in Chrome With New Extension",
-        "description": "OpenAI today launched Codex for Chrome, a Chrome extension that lets Codex work directly in the browser on Macs and PCs. With the extension, Codex can use the browser to test web apps, get context across multiple tabs, use web DevTools, and more without taking over the browser from the user. OpenAI says that after it launched Computer Use in the desktop Codex app, it saw that most common workflows happened in the browser.",
-        "url": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
-        "image": "https://images.macrumors.com/t/Cuc-BwmaVWaMP3fO3y0V0QOsgwE=/1600x/article-new/2025/12/openai-logo-word-blue.jpg",
-        "publishedAt": "2026-05-08T00:42:31Z",
-        "source": "MacRumors"
+        "title": "Trump administration invites NVIDIA, Boeing CEOs to China; Jensen Huang had said joining would be a ‘great honor’",
+        "description": "The Trump administration has invited CEOs from NVIDIA, Boeing, Apple and other US firms to join President Donald Trump’s China visit next week. Earlier, NVIDIA’s Jensen Huang said it would be a “great honor” to attend as talks are set to cover trade, AI chips, aviation and geopolitics.",
+        "url": "https://www.livemint.com/news/world/trump-administration-invites-nvidia-boeing-ceos-to-china-jensen-huang-had-said-joining-would-be-a-great-honor-11778201701462.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/TRUMP-REGENERON-32_1776999545891_1776999558840_1778202064444.jpg",
+        "publishedAt": "2026-05-08T01:58:19Z",
+        "source": "Livemint"
       },
       {
-        "title": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
-        "description": "A federal judge in New York has ruled that the Trump administration's cancellation of over $100 million in humanities grants was unconstitutional. Judge Colleen McMahon on Thursday sided with The Authors Guild and others who sued DOGE and the National Endowment for the Humanities. She permanently barred the administration from terminating the grants. The judge also criticized DOGE's use of artificial intelligence to label and target projects as \"diversity, equity and inclusion. Several groups that sued the government hailed the decision as a victory for free speech and the humanities. The White House and Department of Justice have not yet commented on the ruling or indicated whether an appeal will be filed.",
-        "url": "https://www.ajc.com/news/2026/05/judge-rules-trump-administrations-cancellation-of-humanities-grants-was-unconstitutional/",
-        "image": "https://images.ajc.com/resizer/v2/7YVPIRJHQVEG3EESPV67KJM4IU.jpg?auth=9a0cfed7c5afaf69668e2d99325dff9d4c3d6ed3903933ea06b38f2162cd385d&width=1200&height=630&smart=true",
-        "publishedAt": "2026-05-08T00:32:42Z",
-        "source": "The Atlanta Journal-Constitution"
+        "title": "Apple Developing New AirPods with Integrated Cameras for AI Integration",
+        "description": "Apple is developing new AirPods with integrated cameras for AI-powered Siri. The device is in the DVT stage and could launch as early as September.",
+        "url": "https://www.gizchina.com/apple/apple-developing-new-airpods-with-integrated-cameras-for-ai-integration",
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-2026-05-07-225445596-69fd42697e7df.png",
+        "publishedAt": "2026-05-08T01:56:00Z",
+        "source": "Gizchina.com"
       },
       {
-        "title": "Silicon Valley seeking ethics advice from religion",
-        "description": "As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how to shape the technology — a surprising about-face on Silicon Valley’s longstanding skepticism of organized religion.",
-        "url": "https://www.cp24.com/news/world/2026/05/08/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/",
-        "image": "https://www.cp24.com/resizer/v2/OGY26BSLK3G6OHFQ45GFNVDUBM.jpg?smart=true&auth=17575da686fa8afdc86c9c7d77d33a9ea8819de44e72715f1e62ca2a30a3f2ad&width=1200&height=630",
-        "publishedAt": "2026-05-08T00:30:20Z",
-        "source": "CP24 Toronto"
+        "title": "Valley new base camp for desi AI startups",
+        "description": "India Business News: BENGALURU: For Indian AI founders targeting global markets, venture capital firms are increasingly pushing a clear message: move closer to the US mark.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/valley-new-base-camp-for-desi-ai-startups/articleshow/130940797.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130940783,width-1280,height-720,imgsize-15040,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-08T01:55:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Tech services demand is changing, not weakening: Coforge CEO",
-        "description": "Coforge CEO Sudhir Singh asserts that demand for technology services is evolving, not declining, driven by new value pools. He emphasizes that firms proactively engineering business outcomes, particularly through AI-led modernization and governance, will experience sustained growth. Singh dismisses threats from AI firms entering the services space, viewing them as specialists within a larger, robust market.",
-        "url": "https://economictimes.indiatimes.com/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo/articleshow/130915873.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42812,resizemode-75,msid-130915873/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo.jpg",
-        "publishedAt": "2026-05-08T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Elon Musk 'makes it clear' to Anthropic: We will cancel the SpaceX deal, if your AI tools ...",
+        "description": "Tech News News: Elon Musk's SpaceX stunned many analysts earlier this week when the company announced partnership with Anthropic. AI giant Anthropic PBC has signed an.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-makes-it-clear-to-anthropic-we-will-cancel-the-spacex-deal-if-your-ai-tools-/articleshow/130940529.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130940485,width-1280,height-720,imgsize-15138,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-08T01:51:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Apple Agrees to Pay iPhone Users $250 Million in a Class Action Lawsuit. See if You’re Eligible",
-        "description": "Apple has agreed to pay $250 million to settle a consumer lawsuit after it delayed new artificial intelligence features for its Siri voice assistant.",
-        "url": "https://www.newsx.com/uncategorized/apple-agrees-to-pay-iphone-users-250-million-in-a-class-action-lawsuit-see-if-youre-eligible-215241/",
-        "image": "https://www.newsx.com/wp-content/uploads/2026/05/untitled-design-6_11.jpg",
-        "publishedAt": "2026-05-08T00:27:24Z",
-        "source": "NewsX"
+        "title": "AI is distorting practically everything about the economy",
+        "description": "It makes growth look better and the job market look worse. Maybe an AI investment bust wouldn’t hurt so much after all.",
+        "url": "https://www.livemint.com/ai/ai-is-distorting-practically-everything-about-the-economy-11778204919345.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/im-59561616_1778204923659_1778204943256.jpg",
+        "publishedAt": "2026-05-08T01:50:48Z",
+        "source": "Livemint"
       },
       {
-        "title": "Apple Agrees to Pay iPhone Users $250 Million in a Class Action Lawsuit. See if You’re Eligible",
-        "description": "Apple has agreed to pay $250 million to settle a consumer lawsuit after it delayed new artificial intelligence features for its Siri voice assistant.",
-        "url": "https://www.newsx.com/tech-and-auto/apple-agrees-to-pay-iphone-users-250-million-in-a-class-action-lawsuit-see-if-youre-eligible-215241/",
-        "image": "https://www.newsx.com/wp-content/uploads/2026/05/untitled-design-6_11.jpg",
-        "publishedAt": "2026-05-08T00:27:00Z",
-        "source": "NewsX"
+        "title": "South Korean shares set for best week since 2008 on AI rally",
+        "description": "Round-up of South Korean\nfinancial markets:\n** South Korean shares were poised for their biggest weekly\njump in more than 17 years, though the benchmark index cut...",
+        "url": "https://www.marketscreener.com/news/south-korean-shares-set-for-best-week-since-2008-on-ai-rally-ce7f5bdade8bf72c",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-05-08T01:48:19Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "War Dept: Pentagon Won't Rely on One AI Vendor",
-        "description": "Emil Michael, Department of War undersecretary for research and engineering, says the Pentagon is moving away from relying on a single artificial intelligence provider after previously becoming too dependent on Anthropic for classified AI work.",
-        "url": "https://www.newsmax.com/newsfront/pentagon-artificial-intelligence-department-of-war/2026/05/07/id/1255594/",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0ae955e2-2ba9-43e3-9f63-0008169b046b&SiteName=Newsmax",
-        "publishedAt": "2026-05-08T00:24:51Z",
-        "source": "Newsmax"
+        "title": "WhatsApp Launches Business AI for Small Businesses",
+        "description": "Over the coming weeks, Business AI will be available for all eligible businesses to use on the WhatsApp Business app.",
+        "url": "https://www.deccanchronicle.com/technology/whatsapp-launches-business-ai-for-small-businesses-1955357",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/05/08/2038495-whatsapp.jpg",
+        "publishedAt": "2026-05-08T01:46:55Z",
+        "source": "Deccan Chronicle"
       }
     ]
   }
