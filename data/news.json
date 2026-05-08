@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-08T17:47:45.311Z",
+  "fetchedAt": "2026-05-08T18:47:50.301Z",
   "sections": {
     "world": [
       {
-        "title": "Call for EOIs: Food for Peace Fund Capacity Development Initiatives (Colombia)",
-        "description": "Deadline: 14-May-2026 The Fondo Alimentando la Paz (Food for Peace Fund) is a WFP-led mechanism in Colombia designed to support territorial transformation and peacebuilding in conflict-affected regions. It provides financing and technical support to strengthen rural livelihoods, promote reconciliation, and improve economic inclusion under Colombia’s “Total Peace” agenda. The fund is supported by the Howard",
-        "url": "https://www2.fundsforngos.org/community-development-2/call-for-eois-food-for-peace-fund-capacity-development-initiatives-colombia/",
+        "title": "WHO Says Hantavirus Outbreak Unlikely To Trigger Global Health Crisis",
+        "description": "The World Health Organisation (WHO) says it does not expect a major epidemic from the hantavirus outbreak linked to a cruise ship currently heading for Spain’s Canary Islands, despite the number of infections rising to eight, including three deaths.",
+        "url": "https://www.tvcnews.tv/who-says-hantavirus-outbreak-unlikely-to-trigger-global-health-crisis/",
+        "image": "https://tvcnews.tv/wp-content/uploads/2026/05/Tedros-Adhanom-Ghebreyesus-2-700x394-1.jpg",
+        "publishedAt": "2026-05-08T06:47:00Z",
+        "source": "TVC News"
+      },
+      {
+        "title": "Tens of thousands of students and teachers unable to access QLearn following cybersecurity breach",
+        "description": "Hundreds of thousands of students have been unable to access schoolwork or submit assessments as access to Canvas has been paused.",
+        "url": "https://www.abc.net.au/news/2026-05-08/students-lose-access-to-canvas-receive-ransom-messages/106657440",
+        "image": "https://live-production.wcms.abc-cdn.net.au/013b6d7dd70f89c9ea21ca0b47d5759f?impolicy=wcms_watermark_news&cropH=464&cropW=824&xPos=0&yPos=77&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T06:46:12Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "New hantavirus case suspected on remote island; plans being made for Irish citizens to self-isolate after leaving cruise ship",
+        "description": "A new suspected case of hantavirus was identified in a British national on the South Atlantic island of Tristan da Cunha on Friday, as efforts continue to trace passengers of the luxury cruise ship hit by the virus and their immediate contacts.",
+        "url": "https://www.independent.ie/world-news/europe/new-hantavirus-case-suspected-on-remote-island-plans-being-made-for-irish-citizens-to-self-isolate-after-leaving-cruise-ship/a1568442624.html",
+        "image": "https://focus.independent.ie/thumbor/ngjMl14eEBf5-3MutqogoSksLCA=/60x0:735x450/629x0/prod-mh-ireland/2c0b95ff-62b3-456d-a8b1-e8808a065828/854cceb4-849f-4200-bbd2-3243bd91ad86/video/video.jpg",
+        "publishedAt": "2026-05-08T06:45:00Z",
+        "source": "The Irish Independent"
+      },
+      {
+        "title": "Three hikers dead in Indonesia's Mount Dukono eruption; Singaporeans among the missing",
+        "description": "Mount Dukono, located in North Maluku province, erupted on Friday morning, sending a smoke cloud 10km into the air.",
+        "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-eruption-hikers-trapped-6108851",
+        "image": "https://dam.mediacorp.sg/image/upload/s--eNOzcd8Q--/c_crop,h_1575,w_2800,x_0,y_110/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/08/000_344h6lx.jpg?itok=-Y99xZpi",
+        "publishedAt": "2026-05-08T06:41:09Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Reform ‘admits Plaid to win in Wales’ as Labour concedes Senedd election",
+        "description": "Reform UK privately admits Plaid Cymru will win in Wales, GB News understands as Labour's Deputy First Minister concedes the Senedd election",
+        "url": "https://www.gbnews.com/politics/scotland-wales-election-results-live",
+        "image": "https://www.gbnews.com/media-library/image.png?id=66709028&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+        "publishedAt": "2026-05-08T06:38:18Z",
+        "source": "GB News"
+      },
+      {
+        "title": "Chinese oil tanker's crew raises safety concerns after attack near Strait of Hormuz",
+        "description": "The chief engineer of a Chinese-owned oil tanker attacked near the Strait of Hormuz says it is \"still unclear\" who fired on the vessel.",
+        "url": "https://www.abc.net.au/news/2026-05-08/chinese-oil-tanker-attacked-in-strait-of-hormuz/106659160",
+        "image": "https://live-production.wcms.abc-cdn.net.au/6f98013858ba45af7c7c0d0a7ec06df9?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=624&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T06:36:48Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "African elephant genomes reveal ancient mixing - and modern pressures",
+        "description": "Environmental science and conservation news",
+        "url": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
+        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/08045904/south_africa_kruger_0877.jpg",
+        "publishedAt": "2026-05-08T06:36:31Z",
+        "source": "news - Mongabay"
+      },
+      {
+        "title": "Applications open for PhD Joint",
+        "description": "Deadline: 10-Oct-2026 The Fulbright PhD Joint Supervision Program enables Egyptian doctoral students to conduct advanced research in the United States while remaining enrolled in their home PhD programs in Egypt. Students work under a dual supervision model involving both an Egyptian academic supervisor and a U.S.-based co-supervisor. The program is designed to enhance academic research",
+        "url": "https://www2.fundsforngos.org/individuals/applications-open-for-phd-joint-supervision-grant-egypt/",
         "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-        "publishedAt": "2026-05-08T05:46:19Z",
+        "publishedAt": "2026-05-08T06:36:14Z",
         "source": "fundsforNGOs"
-      },
-      {
-        "title": "Victory Day commemorations take place across Africa (PHOTOS, VIDEO)",
-        "description": "Countries across Africa held memorial marches, tree plantings, and cultural events ahead of WWII Victory Day on May 9 Read Full Article at RT",
-        "url": "http://www.malaysiasun.com/news/279038335/victory-day-commemorations-take-place-across-africa-photos-video",
-        "image": "https://image.chitra.live/api/v1/wps/4092008/85b7650b-e1bd-47ce-aab6-27406c364fa0/0/YzE4NGM5ZWItMjc-600x315.jpg",
-        "publishedAt": "2026-05-08T05:44:00Z",
-        "source": "malaysiasun.com"
-      },
-      {
-        "title": "Uganda’s Army Chief and \"Descendant of Alexander\" Declares War on \"Devilish\" Turkey",
-        "description": "Muhoozi Kainerugaba, the head of the military of Uganda and \"descendant of Alexander the Great,\" has launched an attack against Turkey.",
-        "url": "https://greekreporter.com/2026/05/08/ugandas-army-chief-and-descendant-of-alexander-declares-war-on-devilish-turkey/",
-        "image": "https://greekreporter.com/wp-content/uploads/2026/05/Muhoozi-Kainerugaba-credit-Muhoozi-Kainerugaba-x.jpg",
-        "publishedAt": "2026-05-08T05:43:56Z",
-        "source": "GreekReporter.com"
-      },
-      {
-        "title": "Somali AG Says Female Tuk Tuk Driver Held For Incitement",
-        "description": "Prosecutors say Sadia Ali still in custody awaiting prosecution",
-        "url": "https://www.dawan.africa/news/somali-ag-says-female-tuk-tuk-driver-held-for-incitement",
-        "image": "https://utfs.io/f/v9D9ylrdiyZg6a5xiKojzVH8CTlAmZWtOKB2baGvihc5qJ1y",
-        "publishedAt": "2026-05-08T05:43:42Z",
-        "source": "Dawan Africa"
-      },
-      {
-        "title": "In memory of WW II frontline soldier Toktosun Matkalykov",
-        "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
-        "url": "https://akipress.com/news:894823:In_memory_of_WW_II_frontline_soldier_Toktosun_Matkalykov/",
-        "image": "https://cdn-1.aki.kg/cdn-st-0/qi3/8/en-894823.1778219876.b.jpg",
-        "publishedAt": "2026-05-08T05:42:00Z",
-        "source": "AKIpress News Agency"
-      },
-      {
-        "title": "Recent Diplomatic Dynamics in West Asia: Is Gulf Security Shifting from the U.S. to China’s Hands?",
-        "description": "The geopolitical landscape of West Asia is undergoing a profound transformation. For more than seven decades, the United States acted as the principal security…",
-        "url": "https://countercurrents.org/2026/05/recent-diplomatic-dynamics-in-west-asia-is-gulf-security-shifting-from-the-u-s-to-chinas-hands/",
-        "image": "https://cdn.countercurrents.org/2026/05/china-flag.jpg",
-        "publishedAt": "2026-05-08T05:40:44Z",
-        "source": "Countercurrents"
-      },
-      {
-        "title": "Officials will commemorate the day of the defeat of Nazism and honor the memory of the victims of World War II",
-        "description": "Prime Minister Evika Silina and Speaker of the Saeima Daiga Mierina will participate in a wreath-laying ceremony at the Riga Brothers' Cemetery at 10:30.",
-        "url": "https://news.inbox.eu/150823y-officials-will-commemorate-the-day-of-the-defeat-of-nazism-and-honor-the-memory-of-the-victims-of-world-war-ii?language=en",
-        "image": "https://news.inbox.eu/w/img/83/36/833632fe1c728dc69d.webp",
-        "publishedAt": "2026-05-08T05:40:02Z",
-        "source": "Inbox.eu"
-      },
-      {
-        "title": "U.K. PM Starmer says he won’t step down after Labour’s losses in early results",
-        "description": "Local elections reveal significant Labour losses and Reform U.K. gains, raising questions about Keir Starmer's leadership.",
-        "url": "https://www.thehindu.com/news/international/england-local-elections-labour-keir-starmer-reform-uk/article70954040.ece",
-        "image": "https://th-i.thgim.com/public/incoming/byd4/article70954725.ece/alternates/LANDSCAPE_1200/Britain_Elections_99_49.jpg",
-        "publishedAt": "2026-05-08T05:38:48Z",
-        "source": "The Hindu"
       }
     ],
     "business": [
       {
-        "title": "AUD/USD Daily Report",
-        "description": "Intraday bias in AUD/USD is turned neutral with current retreat, and some consolidations would be seen below 0.7277 first. Further rally is expected as long as 0.7101 support holds. ON the upside, break of 0.7277 will resume larger rise to 61.8% projection of 0.6420 to 0.7187 from 0.6832 at 0.7306.",
-        "url": "https://www.actionforex.com/technical-outlook/audusd-outlook/639858-aud-usd-daily-report-1657/",
-        "image": "https://www.actionforex.com/wp-content/uploads/2026/05/audusd20260508a1.png",
-        "publishedAt": "2026-05-08T05:41:02Z",
-        "source": "Action Forex"
+        "title": "Norton Manx R Details Revealed in the UK",
+        "description": "It will be available in four variants with the on-road prices starting from £20,250 (approximately Rs. 25.97 lakh).",
+        "url": "https://www.bikewale.com/news/norton-manx-r-details-revealed-in-the-uk/",
+        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/221672/manx-r-right-side-view.webp?isig=0&q=80",
+        "publishedAt": "2026-05-08T06:46:14Z",
+        "source": "BikeWale"
       },
       {
-        "title": "Assessing Fiserv (FISV) Valuation After Q1 2026 Earnings Beat And Softer Revenue Outlook",
-        "description": "Fiserv (FISV) has reported first quarter 2026 results, with adjusted earnings per share comfortably ahead of expectations. Revenue of about US$5b came in slightly lower than last year and below consensus.\nSee our latest analysis for Fiserv.\nThe Q1 earnings beat has not translated into share price momentum, with a 7 day share price return of 9.32% and a year to date share price return of 13.39%. At the same time, the 1 year total shareholder return of 68.68% signals pressure over a longer...",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-fisv/fiserv/news/assessing-fiserv-fisv-valuation-after-q1-2026-earnings-beat",
-        "image": "https://images.simplywall.st/asset/company-cover/128209-main-header/1756253874264",
-        "publishedAt": "2026-05-08T05:37:30Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "KPIT Technologies co-founder and chairman Ravi Pandit dies at 75",
-        "description": "Ravi Pandit, co-founder of KPIT Technologies and industry leader, passes away at 75, leaving a legacy in technology and sustainability.",
-        "url": "https://www.thehindubusinessline.com/companies/kpit-technologies-co-founder-and-chairman-ravi-pandit-dies-at-75/article70954018.ece",
-        "image": "https://bl-i.thgim.com/public/books/fr3d6e/article70954036.ece/alternates/LANDSCAPE_1200/1588138707814.jpg",
-        "publishedAt": "2026-05-08T05:31:48Z",
-        "source": "BusinessLine"
-      },
-      {
-        "title": "AI agents could solve crypto’s user problem",
-        "description": "Chappy Asel says autonomous software may be more natural users of wallets and stablecoins than humans, though agentic payments remain mostly theoretical.",
-        "url": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/73962ef7dbe236584680ace3459d33dc8d10a942-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-08T05:31:47Z",
+        "title": "Perp DEXs still don't work for institutions, consensus panelists explain why",
+        "description": "Panelists at Consensus Miami said institutional investors remain largely absent from decentralized perpetual futures exchanges due to security concerns and compliance requirements.",
+        "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f2296e78363e28f936d580473081289645e209b-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-08T06:45:42Z",
         "source": "CoinDesk"
       },
       {
-        "title": "Maersk CEO sees passing higher oil shock costs to customers",
-        "description": "A.P. Moller-Maersk CEO Vincent Clerc stated the Iran war is increasing costs by $500 million monthly. These expenses will be passed to customers. Maersk expects to maintain its financial forecasts for 2026.",
-        "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/maersk-ceo-sees-passing-higher-oil-shock-costs-to-customers/articleshow/130949471.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130949759,width-1200,height-630,imgsize-172074,overlay-etrise/articleshow.jpg",
-        "publishedAt": "2026-05-08T05:29:10Z",
-        "source": "The Economic Times"
+        "title": "Latest Oil Market News and Analysis for May 8",
+        "description": "Oil edged higher as traders speculated on whether fresh clashes between the US and Iran would derail a fragile ceasefire, dimming hopes a peace deal may be struck soon.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-07/latest-oil-market-news-and-analysis-for-may-8",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTdga2lSwxXo/v0/1200x800.jpg",
+        "publishedAt": "2026-05-08T06:45:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Are OTP claims enough? Standard Bank defends its fraud investigation process",
-        "description": "Standard Bank faces mounting criticism from customers who claim they never authorised disputed transactions, despite the bank's reliance on one-time password (OTP) authentication. This article explores the bank's defence and the growing concerns over fraud in digital banking.",
-        "url": "https://iol.co.za/news/south-africa/2026-05-08-are-otp-claims-enough-standard-bank-defends-its-fraud-investigation-process/",
-        "image": "https://iol-prod.appspot.com/image/e745bf3cfb4bb7ccab43d81470d158b8767b9973/1000/jpeg",
-        "publishedAt": "2026-05-08T05:27:41Z",
-        "source": "IOL"
+        "title": "Sumitomo Chemical to Expand its High-Purity Alumina Portfolio to Accelerate Business Growth in the Advanced Semiconductor Market",
+        "description": "Sumitomo Chemical's news can be found here.This page is \"Sumitomo Chemical to Expand its High-Purity Alumina Portfolio to Accelerate Business Growth in the Advanced Semiconductor Market\".",
+        "url": "https://www.sumitomo-chem.co.jp/english/news/detail/20260507e.html",
+        "image": "https://www.sumitomo-chem.co.jp/assets/images/ogp_english.png",
+        "publishedAt": "2026-05-08T06:43:47Z",
+        "source": "住友化学株式会社"
       },
       {
-        "title": "Bega's costs are up 10pc and customers will pay 'a large chunk' of it",
-        "description": "One of Australia's biggest dairy manufacturers, Bega, is warning about soaring food inflation, as the war in the Middle East disrupts global supply chains.",
-        "url": "https://www.abc.net.au/news/2026-05-08/bega-warns-of-higher-costs-iran-war-passed-on-to-shoppers/106657670",
-        "image": "https://live-production.wcms.abc-cdn.net.au/89401f73e92249cf85032e9ee97f6e34?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T05:23:59Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "The Commodities Feed: Oil rebounds on renewed US-Iran tensions",
+        "description": "A smaller than expected inventory build for US natural gas",
+        "url": "https://think.ing.com/articles/the-commodities-feed-oil-rebounds-on-renewed-us-iran-tensions/",
+        "image": "https://think.ing.com/uploads/hero/_w800h450/Iranoil.jpg",
+        "publishedAt": "2026-05-08T06:43:40Z",
+        "source": "ING THINK economic and financial analysis | ING THINK"
       },
       {
-        "title": "Nigerian passenger sues British Airways over alleged missing luggage",
-        "description": "The Federal High Court in Abuja has fixed July 2 for continuation of hearing in a suit filed by a passenger, Mr Amechi Michael, against British Airways⁠",
-        "url": "https://dailypost.ng/2026/05/08/nigerian-passenger-sues-british-airways-over-alleged-missing-luggage/",
-        "image": "https://dailypost.ng/wp-content/uploads/2025/09/British-Airways.jpg",
-        "publishedAt": "2026-05-08T05:23:36Z",
-        "source": "Daily Post Nigeria"
+        "title": "GIFT City IFSC leases over 370 aviation assets worth $5.8 billion: Gujarat CM",
+        "description": "Gandhinagar, May 8 (SocialNews.XYZ) More than 370 aviation assets worth nearly $5.8 billion have been leased through the International Financial Services Centre (IFSC) at GIFT City, Gujarat Chief Minister Bhupendra Patel, said on Friday while... - Social News XYZ",
+        "url": "https://www.socialnews.xyz/2026/05/08/gift-city-ifsc-leases-over-370-aviation-assets-worth-5-8-billion-gujarat-cm/",
+        "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/08/202605083780115.jpg?fit=1220%2C654&quality=80&zoom=1&ssl=1",
+        "publishedAt": "2026-05-08T06:43:16Z",
+        "source": "Social News XYZ"
+      },
+      {
+        "title": "Nintendo financial results - May 2026 - Switch 2 at 19.86 million units, Switch at 155.92 million, more",
+        "description": "Nintendo just issued its May 2026 financial report, covering the end to its fiscal year. The latest information and sales data is available for Nintendo Switch 2 and Switch performance plus more. The full roundup of tidbits is as follows: – Net sales – 2,313.0 billion yen (up 98.6% year-over-year) – Operating profit this period – 2,239.5 billion yen (up...",
+        "url": "https://nintendoeverything.com/nintendo-financial-results-may-2026-switch-2-at-19-86-million-units-switch-at-155-92-million-more/",
+        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-financial-results-May-2026.jpg",
+        "publishedAt": "2026-05-08T06:43:02Z",
+        "source": "Nintendo Everything"
+      },
+      {
+        "title": "Aer Lingus not seeing any interruptions to fuel supply",
+        "description": "Aer Lingus has reported an operating loss of €103m for the first quarter of 2026, up from an operating loss of €55m the same time last year due to \"challenging macro-economic factors\".",
+        "url": "https://www.rte.ie/news/business/2026/0508/1572304-aer-lingus-quarterly-results/",
+        "image": "https://www.rte.ie/images/00245533-1600.jpg",
+        "publishedAt": "2026-05-08T06:38:17Z",
+        "source": "RTE.ie"
       }
     ],
     "science": [
+      {
+        "title": "Interstellar comet 3I/ATLAS contains strange water never seen in our solar system",
+        "description": "A mysterious comet from beyond our solar system is giving astronomers a rare glimpse into alien worlds — and it may have formed in a place far colder and stranger than anything around our Sun. The interstellar visitor, called 3I/ATLAS, contains an astonishingly high amount of “heavy water,” far exceeding anything seen in our own solar system.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260508003117.htm",
+        "image": "https://www.sciencedaily.com/images/1920/water-on-interstellar-comet-3i-atlas.webp",
+        "publishedAt": "2026-05-08T06:27:05Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Australian of the Year brings stellar insights to inspire the next generation at RMIT",
+        "description": "Katherine Bennell-Pegg, who is the first astronaut to officially represent Australia, visited RMIT for a tour and panel discussion taking students",
+        "url": "https://www.nationaltribune.com.au/australian-of-the-year-brings-stellar-insights-to-inspire-the-next-generation-at-rmit/",
+        "image": "https://www.rmit.edu.au/assets/rmit-images/news/2026/may/aus-of-year/aus-of-year-reference.jpg",
+        "publishedAt": "2026-05-08T06:01:14Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets",
+        "description": "University Park, PA, USA — There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever",
+        "url": "https://www.nationaltribune.com.au/ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets/",
+        "image": "https://www.kyoto-u.ac.jp/sites/default/files/styles/ogp_image/public/2026-05/2605_eye_murase_Ultraheavy-cosmic-rays-be7fc569a404604547f60eecb65c3ff3.jpg?itok=xF3ohimz",
+        "publishedAt": "2026-05-08T05:51:55Z",
+        "source": "The National Tribune"
+      },
       {
         "title": "Ultrasound coating method enables gentle surface protection",
         "description": "RMIT researchers develop sound-wave coating method for fragile materials and living plant leaves.",
@@ -174,96 +198,72 @@
         "image": "https://educationnewscanada.com/images_logo/banniere_24303.png",
         "publishedAt": "2026-05-08T04:02:09Z",
         "source": "Education News Canada"
-      },
-      {
-        "title": "Moon Phase Today: What The Moon Will Look Like On May 8",
-        "description": "The Moon is losing light each night.",
-        "url": "https://in.mashable.com/space/109447/moon-phase-today-what-the-moon-will-look-like-on-may-8",
-        "image": "https://sm.mashable.com/t/mashable_in/article/m/moon-phase/moon-phase-today-what-the-moon-will-look-like-on-may-8_cvjt.1200.jpg",
-        "publishedAt": "2026-05-08T04:00:00Z",
-        "source": "Mashable India"
-      },
-      {
-        "title": "NASA, SpaceX to launch new resupply mission to space station",
-        "description": "NASA and SpaceX are targeting May 12 for the launch of a new commercial resupply mission to the International Space Station (ISS).A SpaceX Dragon spacecraft carrying about 6,500 pounds of cargo is scheduled to lift off at 7:16 p.m. Eastern Time from",
-        "url": "https://news.cgtn.com/news/2026-05-08/NASA-SpaceX-to-launch-new-resupply-mission-to-space-station-1MYkgvS0Jwc/p.html",
-        "image": "https://news.cgtn.com/news/2026-05-08/NASA-SpaceX-to-launch-new-resupply-mission-to-space-station-1MYkgvS0Jwc/img/df274e3be6b64d77bd2b5eb1539e88a2/df274e3be6b64d77bd2b5eb1539e88a2-750.png",
-        "publishedAt": "2026-05-08T03:48:15Z",
-        "source": "news.cgtn.com"
-      },
-      {
-        "title": "Scientists Just Uncovered Quantum Effects That Could Send Messages Back in Time",
-        "description": "hypothetically there is a way to send messages or travel back to the past, we just haven’t found it yet",
-        "url": "https://www.sify.com/technology/scientists-just-uncovered-quantum-effects-that-could-send-messages-back-in-time/",
-        "image": "https://www.sify.com/wp-content/uploads/2026/05/quantum-physics.webp",
-        "publishedAt": "2026-05-08T03:34:48Z",
-        "source": "sify.com"
       }
     ],
     "ai": [
       {
-        "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
-        "description": "RBC Capital Markets raised its year-end target for the S&P 500 ​to 7,900 from 7,750 on Friday, citing resilient ‌earnings growth and continued strength in artificial intelligence‑linked sectors.",
-        "url": "https://www.reuters.com/business/finance/rbc-lifts-sp-500-year-end-target-7900-ai-optimism-2026-05-08/",
-        "image": "https://www.reuters.com/resizer/v2/SMAEMXCSQFIIDDDDWMGIP4YF5E.jpg?auth=c48ee38270cdcef3704fbc26eb9c3922bf9878aa6f68988fc9716e15b5f52590&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-05-08T05:46:28Z",
-        "source": "Reuters"
+        "title": "Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First'",
+        "description": "Cloudflare cuts 1,100 jobs despite a Q1 revenue beat, pivoting to an 'agentic AI-first' model to capture massive new AI tailwinds.",
+        "url": "https://www.benzinga.com/markets/earnings/26/05/52400456/cloudflare-cuts-20-jobs-despite-strong-q1-as-it-goes-agentic-ai-first",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Cloudflare-Inc.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-05-08T06:46:02Z",
+        "source": "Benzinga"
       },
       {
-        "title": "driven cyber threats could destabilize global financial markets",
-        "description": "The International Monetary Fund (IMF) warned that extreme cyber-incident losses could trigger funding strains, raise solvency concerns, and disrupt broader markets. As artificial intelligence transforms how the financial system manages vulnerabilities, it simultaneously amplifies cyber threats that undermine financial stability whenever offensive capabilities outpace defences.",
-        "url": "https://www.tribuneindia.com/news/business/imf-warns-ai-driven-cyber-threats-could-destabilize-global-financial-markets/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlMDMwMzMwLTRhYTAtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
-        "publishedAt": "2026-05-08T05:40:25Z",
+        "title": "RailTel Bags ₹24.91 Crore AI-Based Insurance Fraud Detection Order From New India Assurance",
+        "description": "RailTel Corporation of India has secured a purchase order worth Rs 24.91 crore, including taxes, from The New India Assurance Company for deploying an AI and machine learning-based solution to monitor and investigate fraud, waste, and abuse in health insurance claims. The domestic order, disclosed through a stock exchange filing on May 8, 2026, is scheduled for execution until May 6, 2029.",
+        "url": "https://www.freepressjournal.in/business/railtel-bags-2491-crore-ai-based-insurance-fraud-detection-order-from-new-india-assurance",
+        "image": "https://media.assettype.com/freepressjournal/2026-05-08/na22pywz/Rail-Tel.jpg",
+        "publishedAt": "2026-05-08T06:42:21Z",
+        "source": "Free Press Journal"
+      },
+      {
+        "title": "IMF warns AI cyberattacks could trigger global financial crisis",
+        "description": "IMF has warned that increasingly sophisticated AI-powered cyberattacks could threaten the stability of the global financial system",
+        "url": "https://www.cityam.com/imf-warns-ai-cyberattacks-could-trigger-global-financial-crisis/",
+        "image": "https://www.cityam.com/wp-content/uploads/2025/06/cyber-crime-e1749622879324.png",
+        "publishedAt": "2026-05-08T06:42:04Z",
+        "source": "City A.M."
+      },
+      {
+        "title": "Vietnam eyes influencers, AI to spruce up propaganda",
+        "description": "HANOI - Vietnam's ruling Communist Party plans to ​revamp its propaganda efforts by drafting in social media influencers and artificial ‌intelligence experts while adopting new formats such as podcasts and targeted content, internal documents seen by Reuters show.",
+        "url": "https://www.bangkokpost.com/world/3251809/vietnam-eyes-influencers-ai-to-spruce-up-propaganda",
+        "image": "https://static.bangkokpost.com/media/content/20260508/c1_3251809_700.jpg",
+        "publishedAt": "2026-05-08T06:41:00Z",
+        "source": "Bangkok Post"
+      },
+      {
+        "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
+        "description": "HANOI - Vietnam's ruling Communist Party plans to ​revamp its propaganda efforts by drafting in social media influencers and artificial ‌intelligence experts while adopting new formats such as podcasts and targeted content, internal documents seen by Reuters show.",
+        "url": "https://www.bangkokpost.com/world/3251809/communistrun-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show",
+        "image": "https://static.bangkokpost.com/media/content/20260508/c1_3251809_700.jpg",
+        "publishedAt": "2026-05-08T06:41:00Z",
+        "source": "Bangkok Post"
+      },
+      {
+        "title": "GPT Satya: Everything You Need to Know About AI",
+        "description": "New Delhi [India], May 8: This comprehensive, research-based book covers key aspects of AI, including AI bias, emotional dependency, productivity, health and AI, the future of human-AI interaction, and new concepts around the way society should understand and work with artificial intelligence.",
+        "url": "https://www.tribuneindia.com/news/business/the-story-of-ai-gpt-satya-everything-you-need-to-know-about-ai/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU0YWM2MzIwLTRhYTgtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+        "publishedAt": "2026-05-08T06:40:59Z",
         "source": "The Tribune"
       },
       {
-        "title": "Education ministry to bring AI-based gamified maths learning for Classes 6 to 10",
-        "description": "Anuvadini AI has partnered with MathZoro to deliver gamified mathematics learning in students' preferred languages. The tie-up aims to extend mother-tongue learning from school maths to competitive exam preparation.",
-        "url": "https://www.indiatoday.in/education-today/story/anuvadini-ai-mathzoro-multilingual-gamified-maths-learning-india-2908551-2026-05-08",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/dsv-083133868-16x9_0.png?VersionId=_ycTiPkdfGPUfxaXzn38yMC3mC2MStJo",
-        "publishedAt": "2026-05-08T05:38:40Z",
-        "source": "India Today"
+        "title": "IMF warns of 'inevitable' AI-powered threats to global financial system",
+        "description": "The International Monetary Fund (IMF) warned on Thursday of the risks to global financial stability posed by cyberattacks powered by advanced artificial intelligence tools",
+        "url": "https://www.thehindu.com/sci-tech/technology/imf-warns-of-inevitable-ai-powered-threats-to-global-financial-system/article70953725.ece",
+        "image": "https://th-i.thgim.com/public/incoming/43qxgx/article70953729.ece/alternates/LANDSCAPE_1200/2026-05-06T060358Z_318467028_RC263LARCP7I_RTRMADP_3_MIGRATION-USA.JPG",
+        "publishedAt": "2026-05-08T06:39:24Z",
+        "source": "The Hindu"
       },
       {
-        "title": "TSMC’s Sales Grow Slowest in Months Even as AI Buildout Persists",
-        "description": "Taiwan Semiconductor Manufacturing Co. posted its slowest pace of monthly revenue expansion since October, highlighting the potential challenges of sustaining a torrid AI-fueled pace of growth.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-08/tsmc-sales-grow-17-5-on-extended-ai-buildout-boom",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSkW09kJJtww/v0/1200x800.jpg",
-        "publishedAt": "2026-05-08T05:37:47Z",
-        "source": "Bloomberg"
-      },
-      {
-        "title": "Cloudflare to lay off 1,100 roles amid AI automation trend: Who is affected and details of the severance pay",
-        "description": "Cloudflare is cutting more than 1,100 jobs globally as the cybersecurity company restructures around AI-driven operations and automation. The company says the layoffs are part of a long-term shift towards the “agentic AI era”, while affected employees will receive extended severance benefits, healthcare coverage and continued stock vesting support.",
-        "url": "https://www.firstpost.com/tech/cloudflare-to-lay-off-1100-roles-amid-ai-automation-trend-who-is-affected-and-details-of-the-severance-pay-14008841.html",
-        "image": "https://images.firstpost.com/uploads/2025/11/cloudfare-2025-11-12296b264961aa9395070905574df14b.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-08T05:37:36Z",
-        "source": "Firstpost"
-      },
-      {
-        "title": "AI certifications are becoming the new measure of institutional readiness",
-        "description": "As artificial intelligence reshapes hiring and workplace expectations, AI certifications are emerging as a critical marker of institutional readiness. The focus is shifting beyond intent to measurable capability, with structured frameworks such as ET AI-Ready helping colleges and universities benchmark curriculum, faculty, and infrastructure against the demands of an AI-driven economy.",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-certifications-are-becoming-the-new-measure-of-institutional-readiness/articleshow/130949699.cms",
-        "image": "https://img.etimg.com/thumb/msid-130949961,width-1200,height-630,imgsize-36126,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-08T05:37:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
-        "description": "RBC Capital Markets raised its year-end target for the S&P 500 to 7,900 from 7,750 on Friday, citing resilient earnings growth and continued strength in artificial intelligence-linked sectors.\n...\n-May 08, 2026 at 01:36 am EDT\n- MarketScreener",
-        "url": "https://www.marketscreener.com/news/rbc-lifts-s-p-500-year-end-target-to-7-900-on-ai-optimism-ce7f5bdad188f427",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-21T130958Z_1_LYNXMPEM3K0R3_RTROPTP_4_USA-FTC-AI.JPG",
-        "publishedAt": "2026-05-08T05:36:21Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "UPDATE 1-RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
-        "description": "Strategists at RBC also said the rally has continued despite a challenging macro backdrop marked by sticky inflation, ⁠uncertainty over the timing of U.S. rate cuts, and lingering geopolitical risks. Separately, among ⁠sectors, RBC ⁠downgraded U.S. healthcare stocks to \"market weight\" from \"overweight\" due to earnings revisions, fund outflows and policy uncertainty despite still-attractive valuations.",
-        "url": "https://www.devdiscourse.com/article/business/3900850-update-1-rbc-lifts-sp-500-year-end-target-to-7900-on-ai-optimism",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_17_04_3595712.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-05-08T05:34:29Z",
-        "source": "Devdiscourse"
+        "title": "Golden Globes 2027 AI Rules: Human Creators Stay Central as Generative AI Use Requires Full Disclosure",
+        "description": "Golden Globes 2027 AI rules keep human creators at the center while allowing generative AI as a supporting tool. Learn how mandatory AI disclosure, bans on unauthorized digital replicas, and stricter acting eligibility guidelines will shape future Hollywood awards and protect performers’ creative control.",
+        "url": "https://www.outlookindia.com/art-entertainment/hollywood/golden-globes-2027-ai-rules-human-creators-stay-central-as-generative-ai-use-requires-full-disclosure",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-05-08/gznsmzlm/Screenshot-1948-02-18-at-11.54.26.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-08T06:34:49Z",
+        "source": "Outlook India"
       }
     ]
   }
