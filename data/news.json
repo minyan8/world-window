@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-08T14:57:50.834Z",
+  "fetchedAt": "2026-05-08T15:51:51.226Z",
   "sections": {
     "world": [
       {
-        "title": "US to revoke passports of parents with child support debt",
-        "description": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
-        "url": "https://www.bbc.com/news/articles/c62r52l107po",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3227/live/f31e8c40-4a84-11f1-9818-3fa54dec657e.jpg",
-        "publishedAt": "2026-05-08T02:57:48Z",
+        "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+        "description": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
+        "url": "https://www.bbc.co.uk/news/articles/c8r8gxjxz10o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a264/live/ea115f80-4a8c-11f1-8cc6-3107ba12e291.jpg",
+        "publishedAt": "2026-05-08T03:45:06Z",
         "source": "BBC"
       },
       {
-        "title": "SFU, UBC among schools caught in massive hacker cyberattack",
-        "description": "Parent company of online learning platform Canvas was breached by hackers, who are demanding ransom for the stolen information",
-        "url": "https://vancouversun.com/news/sfu-ubc-among-schools-caught-in-massive-hacker-cyberattack",
-        "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-3.47.39 PM-2.png",
-        "publishedAt": "2026-05-08T02:57:29Z",
-        "source": "Vancouver Sun"
+        "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+        "description": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
+        "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a264/live/ea115f80-4a8c-11f1-8cc6-3107ba12e291.jpg",
+        "publishedAt": "2026-05-08T03:45:06Z",
+        "source": "BBC"
       },
       {
-        "title": "US official: Preparation to resume Operation Freedom to reopen the Strait are incorrect",
-        "description": "Reports of Operation Freedom resuming to reopen the Strait of Hormuz are false. The operation aims to secure oil flow through the Strait, impacting oil prices based on market perceptions of restored supply or escalated tensions.",
-        "url": "https://investinglive.com/news/us-official-preparation-to-resume-operation-freedom-to-reopen-the-strait-are-incorrect-20260507/",
-        "image": "https://images.investinglive.com/images/crude%20oil%20tanker_id_42b0709b-ea08-4b60-9b2f-7f21e4863fe4_size975.jpg",
-        "publishedAt": "2026-05-08T02:49:36Z",
-        "source": "investingLive"
+        "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
+        "description": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as a tool of economic survival.",
+        "url": "https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277",
+        "image": "https://static.dw.com/image/76272956_6.jpg",
+        "publishedAt": "2026-05-08T03:43:58Z",
+        "source": "DW.com"
       },
       {
-        "title": "Somalia's drought fallout worsened by aid cuts and ongoing conflict",
-        "description": "In the largely arid Puntland region in north-eastern Somalia, where the past three rainy seasons have failed, there is nothing to see but dry water ponds, destroyed crops, and animal carcasses.As the drought intensifies, and the malnutrition rate soars, the race is on to stop another hunger catastrophe.But several international organisations have had to stop operations in the Kismayo camp and elsewhere, in large part due to aid cuts made last year by United States President Donald Trump.World Fo",
-        "url": "https://www.genocidewatch.com/single-post/somalia-s-drought-fallout-worsened-by-aid-cuts-and-ongoing-conflict",
-        "image": "https://static.wixstatic.com/media/476ea7_0bfa7a9a70b44cc5b60b8f25168b528e~mv2.png/v1/fill/w_1000,h_574,al_c,q_90,usm_0.66_1.00_0.01/476ea7_0bfa7a9a70b44cc5b60b8f25168b528e~mv2.png",
-        "publishedAt": "2026-05-08T02:29:51Z",
-        "source": "Genocide Watch"
+        "title": "China sentences former defence ministers to death with reprieves after purge",
+        "description": "Two former defence ministers have received their sentences after a long-running corruption crackdown targeting China's military.",
+        "url": "https://www.abc.net.au/news/2026-05-08/china-former-defence-ministers-sentenced-after-purge/106657326",
+        "image": "https://live-production.wcms.abc-cdn.net.au/32927c59baff5cae6a8674c673bf7906?impolicy=wcms_watermark_news&cropH=987&cropW=1755&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T03:34:49Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Former China defence ministers convicted of corruption in latest purge of military leaders",
-        "description": "Ex-defence ministers, Li Shangfu and Wei Fenghe both sentenced to death with a two-year reprieve, among the most severe sentences in a years-long purge",
-        "url": "https://www.theguardian.com/world/2026/may/08/china-defence-ministers-corruption-military-leaders-purge",
-        "image": "https://i.guim.co.uk/img/media/d0e70f28cdb775804c0cda4f3adf8cbab64342a6/286_0_1463_1170/master/1463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9ef3b55ecba22de4874d7fc77eab86a",
-        "publishedAt": "2026-05-08T02:29:00Z",
-        "source": "The Guardian"
+        "title": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+        "description": "DUBAI, United Arab Emirates (AP) — The United Arab Emirates' Ministry of Defense announced that the country’s air defenses are “actively engaging” with...",
+        "url": "https://mb.com.ph/2026/05/08/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/08/99642.webp",
+        "publishedAt": "2026-05-08T03:29:27Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "North Korea will deploy new artillery guns targeting Seoul and commission its 1st destroyer",
-        "description": "North Korea said Friday it will deploy new long-range artillery systems this year that are capable of striking South Korea's capital region and will commission its first naval destroyer in coming week...",
-        "url": "https://www.yahoo.com/news/articles/north-korea-deploy-artillery-guns-022517168.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/isH46iAXwwzcKGvgV25Y2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/761f5e0710f62fbedac6ae39ef5684ab",
-        "publishedAt": "2026-05-08T02:25:00Z",
-        "source": "Yahoo"
+        "title": "Two Indians aboard cruise ship hit by deadly Hantavirus outbreak",
+        "description": "Rest of World News: Two Indians were among 149 people aboard a luxury expedition cruise ship stranded in the Atlantic Ocean after a deadly hantavirus outbreak left three .",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/two-indians-aboard-cruise-ship-hit-by-deadly-hantavirus-outbreak/articleshow/130946175.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130946104,width-1280,height-720,imgsize-49116,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-08T03:29:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Royal commission hears of anti-Semitic abuse",
-        "description": "A man who converted to Judaism has spoken of how he feared for his life as he took part in the Sydney Mardi Gras parade with a Jewish pride group.",
-        "url": "https://www.news.com.au/national/courts-law/man-tells-inquiry-he-faced-more-prejudice-for-converting-to-judaism-than-being-gay/news-story/1c79be647e38d30a21130cc6000b9739",
-        "image": "https://content.api.news/v3/images/bin/5f753796bbfd5c0dec47f37f4fd4d231",
-        "publishedAt": "2026-05-08T02:20:08Z",
-        "source": "News.com.au"
+        "title": "China Hands Suspended Death Sentences to 2 Former Defense Ministers",
+        "description": "Gen. Wei Fenghe and Gen. Li Shangfu are likely to spend the rest of their lives in prison after receiving suspended death sentences.",
+        "url": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
+        "image": "https://static01.nyt.com/images/2026/05/07/world/07int-china-military-promo-afbua/07int-china-military-promo-afbua-facebookJumbo.jpg",
+        "publishedAt": "2026-05-08T03:27:28Z",
+        "source": "nytimes.com"
       },
       {
-        "title": "Hackers demand ransom after breaching major Canvas learning program used by schools and colleges nationwide",
-        "description": "A hacker group called ‘ShinyHunters’ threatened to release stolen data",
-        "url": "https://www.the-independent.com/news/world/americas/crime/canvas-hacked-data-breach-ransom-schools-colleges-b2972708.html",
-        "image": "https://static.the-independent.com/2025/11/12/22/52/iStock-1497901160.jpeg?trim=0,107,0,106&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-05-08T02:16:00Z",
-        "source": "The Independent"
+        "title": "More cases of virus possible but risk is 'low', leading health body says",
+        "description": "More hentavirus cases could emerge in the coming weeks but the risk to public health is \"low\", according to...",
+        "url": "https://www.9news.com.au/world/hantavirus-updates-more-cases-of-virus-possible-but-risk-is-low-leading-health-body-says/6029ebdb-938a-457b-804c-ed057615fd57",
+        "image": "https://imageresizer.static9.net.au/0f3KAwXU9QKzfYQF3pRpsr1JYas=/0x135:3680x2205/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F87612a01-c579-44f0-a5aa-2f153a0f7af1",
+        "publishedAt": "2026-05-08T03:27:04Z",
+        "source": "9News"
       }
     ],
     "business": [
       {
-        "title": "Lenskart block deal size raised to Rs 5,650 cr; investors may sell shares at Rs 470 apiece as IPO lock-in ends",
-        "description": "The proposed block deals sale in Lenskart stock is said to involve up to 7 crore shares. Investors likely to participate in the block deal include Birdseye View Holding, TR Capital Mauritius, ABG Capital and Kariba Holdings.",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/stocks/lenskart-block-deal-size-raised-to-rs-5-650-cr-investors-may-sell-shares-at-rs-470-apiece-as-ipo-lock-in-ends-13912441.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png",
-        "publishedAt": "2026-05-08T02:54:24Z",
-        "source": "Moneycontrol.com"
+        "title": "GCash backs ASEAN 2026 summit with cashless solutions",
+        "description": "GCash supports the 48th ASEAN Summit in Lapu-Lapu City, Cebu as an official partner, powering cashless payments, MSME digitalization, and financial inclusion. Discover how Filipino fintech innovation is helping micro-entrepreneurs, delegates, and businesses embrace a more integrated, digital ASEAN economy.",
+        "url": "https://tribune.net.ph/2026/05/08/gcash-backs-asean-2026-summit-with-cashless-solutions",
+        "image": "https://media.assettype.com/tribune%2F2026-05-08%2Fbqlu3qwz%2Fviberimage2026-05-0719-01-30-875.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-08T03:51:11Z",
+        "source": "Daily Tribune"
       },
       {
-        "title": "Commerce Commission greenlights Gull NPD merger",
-        "description": "The merged fuel companies will still maintain their individual brands across 240 sites.",
-        "url": "https://www.rnz.co.nz/news/business/594664/commerce-commission-greenlights-gull-npd-merger",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--k7NsYizW--/t_tohu-badge-facebook/v1644200588/4N1MNRT_copyright_image_217157?_a=BACCd2AD",
-        "publishedAt": "2026-05-08T02:51:25Z",
-        "source": "RNZ"
+        "title": "DOE cites Negros Occidental as leader in renewable energy transition",
+        "description": "Negros Occidental is emerging as one of the country’s leading provinces in renewable energy development, with an estimated clean energy potential of 14,277.7 megawatts.",
+        "url": "https://newsinfo.inquirer.net/2225262/doe-cites-negros-occidental-as-leader-in-renewable-energy-transition",
+        "image": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
+        "publishedAt": "2026-05-08T03:49:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "LHSC plans major window overhaul tied to procurement probe",
-        "description": "More than 1,350 windows and 2,600 glass units at University Hospital must be replaced, LHSC's supervisor says",
-        "url": "https://lfpress.com/news/local-news/lhsc-plans-major-window-overhaul-tied-to-procurement-probe",
-        "image": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2025/07/Ldn20250710MH025-copy.LF_.jpg",
-        "publishedAt": "2026-05-08T02:45:56Z",
-        "source": "London Free Press"
+        "title": "Bridgestone Potenza Adrenalin RE005 launched in Malaysia",
+        "description": "Bridgestone Malaysia today launched the Potenza Adrenalin RE005, the latest generation of the Japanese brand’s sports tyre that succeeds the RE004. Aimed at drivers seeking sporty performance, confident wet handling and everyday driving comfort, the …",
+        "url": "https://paultan.org/2026/05/08/bridgestone-potenza-adrenalin-re005-launched-in-malaysia/",
+        "image": "https://paultan.org/image/2026/05/Bridgestone-Potenza-Adrenalin-RE005-Malaysia-launch-10-1200x750.jpg",
+        "publishedAt": "2026-05-08T03:46:33Z",
+        "source": "Paul Tan's Automotive News"
       },
       {
-        "title": "Top stocks to buy today: Stock recommendations for May 8, 2026",
-        "description": "India Business News: Stock market recommendations: NLC India, and Sammaan Capital have been chosen by Bajaj Broking Research as the top stocks to buy on May 8, 2026, with .",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-may-08-2026-nlc-india-sammaan-capital-stocks-to-buy-today/articleshow/130943611.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130943701,width-1280,height-720,imgsize-76140,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-08T02:42:00Z",
-        "source": "The Times of India"
+        "title": "Indonesia Foreign Reserves Fall Further to Two-Year Low in April",
+        "description": "Indonesia’s foreign-exchange reserves fell further in April to the lowest in nearly two years as the central bank stepped up intervention to defend the rupiah.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-08/idr-usd-indonesia-foreign-reserves-fall-further-to-two-year-low-in-april",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiQE4PSh8Ygc/v1/1200x800.jpg",
+        "publishedAt": "2026-05-08T03:45:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Lagos Reaffirms Support for Affordable Housing Finance",
-        "description": "The Lagos State government reaffirms its commitment to affordable housing finance, urging collaboration with the private sector to expand homeownership.",
-        "url": "https://punchng.com/lagos-reaffirms-support-for-housing-finance/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/02/24231300/Sanwo-Olu.jpg",
-        "publishedAt": "2026-05-08T02:41:21Z",
-        "source": "Punch Newspapers"
+        "title": "Fed Data Suggest Japan Sold Treasuries When Intervening in Yen",
+        "description": "The Federal Reserve’s custody holdings of Treasuries fell for the first time in a month at a time Japan was likely intervening to support its currency, with market participants debating whether the nation offloaded US securities to fund its yen purchases.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-08/markets-debate-if-japan-sold-treasuries-when-intervening-in-yen",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz9I9rpXZcnU/v0/1200x800.jpg",
+        "publishedAt": "2026-05-08T03:40:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Stocks to watch, May 8: Britannia, SBI, Pidilite, Titan, Urban Company, Waaree Energies, BSE, Lenskart",
-        "description": "Stocks to watch: Pidilite Industries Ltd on Thursday reported a 36.63% rise in consolidated net profit to ₹584.15 crore for the March quarter of FY26, helped by volume growth and healthy operating margins.",
-        "url": "https://upstox.com/news/market-news/stocks/stocks-to-watch-may-8-britannia-sbi-pidilite-titan-urban-company-waaree-energies-bse-lenskart/article-193345/",
-        "image": "https://assets.upstox.com/content/assets/images/news/stocks-in-focus-may-8-2026.webp",
-        "publishedAt": "2026-05-08T02:40:01Z",
-        "source": "Upstox"
+        "title": "LBIC targets capital base to bridge housing gap",
+        "description": "Against the backdrop of Nigeria's persistent housing deficit, Managing Director and Chief Executive Officer of Lagos Building",
+        "url": "https://guardian.ng/news/lbic-targets-capital-base-to-bridge-housing-gap/",
+        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Lagos-aerial-view.webp",
+        "publishedAt": "2026-05-08T03:38:00Z",
+        "source": "The Guardian Nigeria News"
       },
       {
-        "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 8 May 2026",
-        "description": "Chandan Taparia has recommended three stocks to buy today, 8 May 2026 - Bharat Dynamics, CG Power and Industrial Solutions and RBL Bank shares.",
-        "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-8-may-2026-11778205923722.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/Chandan_Taparia__1725590979638_1778206421623.png",
-        "publishedAt": "2026-05-08T02:39:57Z",
-        "source": "Mint"
+        "title": "Aussie grocery bills set to climb amid global oil price spike",
+        "description": "Australians will soon be paying more for their groceries, as a “perfect storm” hits the weekly shop.",
+        "url": "https://www.news.com.au/lifestyle/food/food-industry-warns-oil-crisis-will-drive-up-cost-of-australian-groceries/news-story/647b95a1f4fc978434016b7b121d3e79",
+        "image": "https://content.api.news/v3/images/bin/aa76f00750843c417d940b9f78c0cb2f",
+        "publishedAt": "2026-05-08T03:31:13Z",
+        "source": "News.com.au"
       },
       {
-        "title": "Energy Storage Enters the 100-Gigawatt Era: Three Things to Know",
-        "description": "Energy storage is having its moment. Global deployment has set new records every year since 2014 and exceeded 100 gigawatts of annual additions for the first time in 2025. BloombergNEF expects the market to continue growing, although the ongoing conflict in the Middle East could have varied implications for the industry. The chemistries used in stationary storage are also set to evolve this decade, as more non-lithium batteries gain share.",
-        "url": "https://about.bnef.com/insights/clean-energy/energy-storage-enters-the-100-gigawatt-era-three-things-to-know/",
-        "image": "https://assets.bbhub.io/professional/sites/44/443939507-1024x683.jpeg",
-        "publishedAt": "2026-05-08T02:37:40Z",
-        "source": "BloombergNEF"
+        "title": "Air India weighs furloughs, bonus delays amid mounting losses: Report",
+        "description": "Air India is weighing furloughs and bonus delays as the West Asia conflict drives projected losses to Rs 22,000 crore. CEO Campbell Wilson will address the Air India staff at a town hall today.",
+        "url": "https://indianexpress.com/article/india/air-india-furloughs-cost-cutting-west-asia-conflict-losses-campbell-wilson-10678670/",
+        "image": "https://images.indianexpress.com/2026/05/air-india-3_20260508031711.jpg",
+        "publishedAt": "2026-05-08T03:23:31Z",
+        "source": "The Indian Express"
       }
     ],
     "science": [
+      {
+        "title": "NASA, SpaceX to launch new resupply mission to space station",
+        "description": "NASA and SpaceX are targeting May 12 for the launch of a new commercial resupply mission to the International Space Station (ISS).A SpaceX Dragon spacecraft carrying about 6,500 pounds of cargo is scheduled to lift off at 7:16 p.m. Eastern Time from",
+        "url": "https://news.cgtn.com/news/2026-05-08/NASA-SpaceX-to-launch-new-resupply-mission-to-space-station-1MYkgvS0Jwc/p.html",
+        "image": "https://news.cgtn.com/news/2026-05-08/NASA-SpaceX-to-launch-new-resupply-mission-to-space-station-1MYkgvS0Jwc/img/df274e3be6b64d77bd2b5eb1539e88a2/df274e3be6b64d77bd2b5eb1539e88a2-750.png",
+        "publishedAt": "2026-05-08T03:48:15Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "Scientists Just Uncovered Quantum Effects That Could Send Messages Back in Time",
+        "description": "hypothetically there is a way to send messages or travel back to the past, we just haven’t found it yet",
+        "url": "https://www.sify.com/technology/scientists-just-uncovered-quantum-effects-that-could-send-messages-back-in-time/",
+        "image": "https://www.sify.com/wp-content/uploads/2026/05/quantum-physics.webp",
+        "publishedAt": "2026-05-08T03:34:48Z",
+        "source": "sify.com"
+      },
+      {
+        "title": "Prognostic significance of PET/CT false-positive cervical lymph nodes in head and neck cancer",
+        "description": "Cervical lymph node metastasis assessment determines treatment strategy and prognosis in head and neck squamous cell carcinoma (HNC). PET/CT is the standard staging modality but suffers from high false-positive (FP) rates with a substantial portion of imaging-suspicious nodes proving pathologically negative. A fundamental knowledge gap persists; whether imaging positivity itself, despite ultimate pathologic negativity, provides prognostic significance sufficient to justify treatment escalation. This study directly answers this critical clinical question by comparing prognostic outcomes between patients with imaging-positive-but-pathology-negative nodes (FP) and those with concordantly imaging-negative nodes (TN), determining whether the additional imaging positivity differential translates into measurable survival or recurrence disparities. A total of 176 newly diagnosed HNC patients from the ACRIN 6685 cohort undergoing PET/CT staging with complete pathologic confirmation were included. Patients were stratified into FP and TN groups. Cox and competing-risk regression analyses compared recurrence-free survival, overall survival, and HNC-specific survival between two cohorts, adjusted for potential prognostic confounders. Among 176 patients, 137 (77.8%) demonstrated FP findings on PET. Imaging positivity provided no prognostic value; FP and TN cohorts showed equivalent overall survival and HNSCC-specific mortality. Quantitative PET nodal burden (number of suspicious lymph node levels) minimal recurrence association (p = 0.013), but binary nodal presence did not. Imaging positivity alone, when pathology is negative, does not predict worse outcomes. This imaging-pathology discordance carries no prognostic penalty, allowing clinicians to base treatment decisions and prognostic counseling on surgical pathology results rather than escalating care based solely on imaging appearance. ​.",
+        "url": "https://www.nature.com/articles/s41598-026-51823-1?error=cookies_not_supported&code=7ccad058-58aa-4c53-8b54-3c6847b7965b",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-08T03:32:07Z",
+        "source": "Nature"
+      },
+      {
+        "title": "ESA and JAXA team up on planetary defence, Ramses mission to asteroid Apophis",
+        "description": "The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to expand collaboration on planetary defence, alongside a separate agreement covering the Ramses (Rapid Apophis Mission for Space Safety) mission to the near-Earth asteroid Apophis.",
+        "url": "https://spaceanddefense.io/esa-and-jaxa-team-up-on-planetary-defence-ramses-mission-to-asteroid-apophis/",
+        "image": "https://spaceanddefense.io/wp-content/smush-webp/2021/02/Space-and-Defence-Favicon.png.webp",
+        "publishedAt": "2026-05-08T03:29:17Z",
+        "source": "space & defense"
+      },
+      {
+        "title": "Harvard Scientists Reveal Secret Structure Behind How You Smell",
+        "description": "Scientists have uncovered a hidden structure in one of our most mysterious senses.",
+        "url": "https://scitechdaily.com/harvard-scientists-reveal-secret-structure-behind-how-you-smell/",
+        "image": "https://scitechdaily.com/images/Smell-Map-Cross-Section-of-Mouse-Nose-scaled.jpg",
+        "publishedAt": "2026-05-08T03:01:42Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Chromosome abnormalities may help cancer cells resist treatment and spread",
+        "description": "A new study led by NYU Langone Health researchers found that cancer cells are better able to resist treatments when they have an abnormal number of chromosomes, which are DNA strands wound up in bundles that control which genetic instructions are followed in each cell type.",
+        "url": "https://www.news-medical.net/news/20260507/Chromosome-abnormalities-may-help-cancer-cells-resist-treatment-and-spread.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/78486183-620x480.jpg",
+        "publishedAt": "2026-05-08T02:59:00Z",
+        "source": "News-Medical"
+      },
       {
         "title": "Scientists spot 27 Tatooine-like planets orbiting two suns",
         "description": "ASTANA  -  Astronomers have identified 27 potential new planets that orbit not one but two stars. The findings come from a new study based on observations from",
@@ -150,120 +198,72 @@
         "image": "https://scitechdaily.com/images/Cell-Mitochondria-Illustration.jpg",
         "publishedAt": "2026-05-08T02:26:39Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise",
-        "description": "A strange mouse study suggests that the brain isn't a 'blank slate' at birth, waiting for memories to be written onto it.",
-        "url": "https://www.sciencealert.com/is-the-brain-born-blank-or-full-new-study-reveals-a-surprise",
-        "image": "https://www.sciencealert.com/images/2026/05/Neurons-collage.png",
-        "publishedAt": "2026-05-08T02:26:02Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "This Simple Movement Could Be Secretly Cleaning Your Brain",
-        "description": "A new study reveals that simple body movements may help clean the brain.",
-        "url": "https://scitechdaily.com/this-simple-movement-could-be-secretly-cleaning-your-brain/",
-        "image": "https://scitechdaily.com/images/Vein-Network-Mechanism.jpg",
-        "publishedAt": "2026-05-08T01:51:53Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "“Simplified Proteins” Reveal the Biochemical Dawn of Early Earth",
-        "description": "When researchers look up at the sky and wonder if we’re not alone, they also realize the origins of life here on Earth might hold the key to finding out. The chaotic chemical soup of our early world eventually led to the staggering complexity of modern life, but how exactly did it start? Proteins were one of the key ingredients in the early years, but we’re still only just discovering how these marvels of modern biology first managed to fold, function, and survive. A new review paper, The borderlands of foldability: lessons from simplified proteins, published recently in Trends in Chemistry, showcases how scientists are attempting to answer this question - by researching “simplified proteins”.",
-        "url": "https://www.universetoday.com/articles/simplified-proteins-reveal-the-biochemical-dawn-of-early-earth",
-        "image": "https://www.universetoday.com/article_images/2025-016_Longo1-scaled-e1776922391281_20260505_121353.jpg",
-        "publishedAt": "2026-05-08T01:17:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Utahns spot another fireball, experts explain why",
-        "description": "If you feel like you're seeing more fireballs in the sky, you're not wrong. Another fireball was spotted Wednesday at 9:19 p.m., making its way toward Salt Lake City.",
-        "url": "https://ksltv.com/science-technology/utahns-spot-another-fireball-experts-explain-why/906559/",
-        "image": "https://ksltv.com/wp-content/uploads/2026/05/image-3.jpg",
-        "publishedAt": "2026-05-08T01:15:43Z",
-        "source": "KSL TV 5"
-      },
-      {
-        "title": "Pedal power: Why men should cycle as they enter middle-age",
-        "description": "From improving cardiovascular health and muscle strength to boosting testosterone and lowering stress, cycling is one of the best ways for men to stay healthy as they age",
-        "url": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41841057.html",
-        "image": "https://www.irishexaminer.com/cms_media/module_img/10142/5071299_7_seoimageog_Copy_20of_20iStock-2248338491_1_.jpg",
-        "publishedAt": "2026-05-08T01:00:00Z",
-        "source": "Irish Examiner"
-      },
-      {
-        "title": "Researchers Create Detailed Map of Smell Receptors in Mouse Nose",
-        "description": "By mapping millions of smell-sensing neurons in mice, scientists discovered precise striped patterns inside the nose, overturning decades-old assumptions about how olfaction is wired.",
-        "url": "https://www.sci.news/biology/map-mouse-nose-smell-receptors-14752.html",
-        "image": "https://cdn.sci.news/images/2026/05/image_14752-Mouse-Nose.jpg",
-        "publishedAt": "2026-05-08T00:29:00Z",
-        "source": "Sci.News"
       }
     ],
     "ai": [
       {
-        "title": "Cloudflare to cut 20% workforce as AI use surges, says teams are being rebuilt for ‘agentic AI era’",
-        "description": "Cloudflare said it is cutting about 20% of its workforce, adding that the move reflects a redesign of teams and workflows around AI adoption. CEO Matthew Prince and co-founder Michelle Zatlyn said the company’s use of AI tools has increased more than sixfold over the past three months.",
-        "url": "https://www.livemint.com/news/world/cloudflare-to-cut-20-workforce-as-ai-use-surges-says-teams-are-being-rebuilt-for-agentic-ai-era-11778206567816.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/Cloudflare-Outage-0_1763474755901_1763474769129_1778206964284.jpg",
-        "publishedAt": "2026-05-08T02:56:35Z",
-        "source": "Livemint"
+        "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
+        "description": "CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial intelligence models. The company secured significant deals with Meta, Jane Street, and Anthropic. This positions CoreWeave as a key player in the AI infrastructure race.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31094,resizemode-75,msid-130946848/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand.jpg",
+        "publishedAt": "2026-05-08T03:49:25Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Tech Week Shanghai positions city as global testbed for AI governance and cross-border data collaboration",
-        "description": "Launch of Shanghai's cross-border data pilot and industry-led discussions signal how global organisations can scale AI within increasingly complex regulatory environments",
-        "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/tech-week-shanghai-positions-city-as-global-testbed-for-ai-governance-and-cross-border-data-collaboration/2339203",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/08/1048378.jpg",
-        "publishedAt": "2026-05-08T02:53:19Z",
-        "source": "The Manila Times"
+        "title": "AI video featuring LA mayoral candidate Spencer Pratt sparks debate over the tech's role in politics",
+        "description": "The video portrays Los Angeles Mayor Karen Bass as a villainous Joker-like figure and Gov. Gavin Newsom as French royalty eating cake, while Pratt appears as a hero swooping in to save Los Angeles and California from chaos.",
+        "url": "https://www.cbsnews.com/sacramento/news/ai-video-spencer-pratt-debate-politics-influence/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/08/7a4b89d3-6d39-4368-a18d-a0cb64ac5b5d/thumbnail/1200x630/3e7d44b88ae9887d5a05207f307dfc67/for-web-spencer-pratt-ai-ad.jpg",
+        "publishedAt": "2026-05-08T03:49:16Z",
+        "source": "CBS News"
       },
       {
-        "title": "Acting performances using AI for 'enhancements' eligible for Golden Globes; but AI actors ineligible, say organisers",
-        "description": "Weeks after Val Kilmer was resurrected by AI for an upcoming film, the Golden Globe Awards issued new guidelines over the eligibility of AI-led performances. | Hollywood",
-        "url": "https://www.hindustantimes.com/entertainment/hollywood/acting-performances-using-ai-for-enhancements-eligible-for-golden-globes-but-ai-actors-ineligible-say-organisers-101778206406781.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/08/550x309/Val_Kilmer_AI_1778207512337_1778207518812.webp",
-        "publishedAt": "2026-05-08T02:52:11Z",
-        "source": "Hindustan Times"
+        "title": "AI video featuring LA mayoral candidate Spencer Pratt sparks debate over the tech's role in politics",
+        "description": "The video portrays Los Angeles Mayor Karen Bass as a villainous Joker-like figure and Gov. Gavin Newsom as French royalty eating cake, while Pratt appears as a hero swooping in to save Los Angeles and California from chaos.",
+        "url": "https://www.cbsnews.com/losangeles/news/ai-video-spencer-pratt-debate-politics-influence/",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/08/7a4b89d3-6d39-4368-a18d-a0cb64ac5b5d/thumbnail/1200x630/3e7d44b88ae9887d5a05207f307dfc67/for-web-spencer-pratt-ai-ad.jpg",
+        "publishedAt": "2026-05-08T03:49:16Z",
+        "source": "CBS News"
       },
       {
-        "title": "Jim Cramer Says Nvidia Is 'Tough To Beat' On Corning Deal, Points Out Google, Amazon Still Have An 'Oppon",
-        "description": "Jim Cramer said Nvidia remains hard to beat as its $500 million Corning bet strengthens AI infrastructure leadership.",
-        "url": "https://www.benzinga.com/markets/tech/26/05/52399454/jim-cramer-nvidia-corning-google-amazon-ai-race",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/05/07/Chinas-Exports-Surge-Despite-US-Shortfal.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-05-08T02:52:07Z",
-        "source": "Benzinga"
+        "title": "Nvidia Stock: The Application Layer Could Pressure AI Infrastructure Economics (NVDA)",
+        "description": "Nvidia gets a sell: valuation implies unsustainable growth, customer concentration risk, and AI cost deflation threatening margins. See more on NVDA here.",
+        "url": "https://seekingalpha.com/article/4901044-nvidia-stock-application-layer-could-pressure-ai-infrastructure-economics",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2248000478/image_2248000478.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-08T03:48:47Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Agentic AI and the Dance of Democracy",
-        "description": "By mimicking human behaviour and adapting in real-time, Agentic AI swarms can become a potent threat to democratic processes, like elections.",
-        "url": "https://www.livemint.com/newsletters/tech-talk/agentic-ai-and-the-dance-of-democracy-11778208186733.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/AI_1778208440245_1778208454217.jpg",
-        "publishedAt": "2026-05-08T02:51:47Z",
-        "source": "Livemint"
+        "title": "Nvidia CEO Huang Says He Would Join Trump's China Trip If Invited",
+        "description": "Over the past year, Huang has pressed the Trump administration for relief from US export restrictions plan to join that have blocked sales of Nvidia's top AI processors to China on national-security grounds.",
+        "url": "https://www.ndtvprofit.com/world/nvidia-ceo-says-he-would-join-trumps-china-trip-if-invited-11465343",
+        "image": "https://c.ndtvimg.com/2026-05/5b603g64_nvidia-corp-chief-executive-officer-jensen-huang-_625x300_08_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+        "publishedAt": "2026-05-08T03:47:50Z",
+        "source": "NDTV Profit"
       },
       {
-        "title": "Golden Globes Awards Rolls Out AI Guidelines For 2027 Ceremony; Follows Academy With New Eligibility Rules",
-        "description": "The Golden Globes organisation addressed the rapid integration of AI in cinema by announcing a new set of rules governing the eligibility criteria for performances. This comes days after the Academy of Motion Picture Arts and Sciences did the same., Hollywood, Times Now",
-        "url": "https://www.timesnownews.com/entertainment-news/hollywood/golden-globes-awards-rolls-out-ai-guidelines-for-2027-ceremony-follows-academy-with-new-eligibility-rules-article-154272628",
-        "image": "https://images.timesnownews.com/thumb/msid-154272628,width-1280,height-720,resizemode-75/154272628.jpg",
-        "publishedAt": "2026-05-08T02:50:59Z",
-        "source": "Times Now"
+        "title": "Australia regulator calls for urgent cybersecurity action to counter Mythos",
+        "description": "Australia's corporate regulator warns financial firms about new cyber threats from advanced AI systems. These powerful AI models can find security weaknesses quickly. Regulators stress the need for immediate action to strengthen cybersecurity. Financial institutions are adopting AI faster than supervisors, creating a growing risk gap.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos/articleshow/130946561.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34562,resizemode-75,msid-130946561/tech/technology/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos.jpg",
+        "publishedAt": "2026-05-08T03:41:35Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Oil higher on Mideast hostilities; AI drives Asian stocks to sparkling weekly gains",
-        "description": "Oil prices were higher on Friday and stocks a little bit lower as the U.S. and Iran exchanged fire in the Middle East, though many markets in Asia were still heading for stellar weekly gains as AI...",
-        "url": "https://www.marketscreener.com/news/oil-higher-on-mideast-hostilities-ai-drives-asian-stocks-to-sparkling-weekly-gains-ce7f5bdade8af22c",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-06T143259Z_1_LYNXMPEM4513O_RTROPTP_4_IRAN-CRISIS-EMIRATES-PORTS.JPG",
-        "publishedAt": "2026-05-08T02:48:31Z",
-        "source": "MarketScreener"
+        "title": "Propurti Geeks Incorporated to Officially Launch AI-Powered",
+        "description": "Edmonton-based PropTech company will introduce an end-to-end platform designed to support property discovery, leasing, rent collection, maintenance,...",
+        "url": "https://www.globenewswire.com/news-release/2026/05/08/3290798/0/en/propurti-geeks-incorporated-to-officially-launch-ai-powered-property-management-platform-at-macewan-university-on-may-9-2026.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/ca676480-fbc3-4ff9-9048-ff37d484c97a",
+        "publishedAt": "2026-05-08T03:35:18Z",
+        "source": "GlobeNewswire"
       },
       {
-        "title": "GLOBAL MARKETS-Oil higher on Mideast hostilities; AI drives Asian stocks to sparkling weekly gains",
-        "description": "But analysts expect a swift appeal and little overall impact to U.S. levies. Treasury yields had tracked crude prices higher through Thursday as traders worried about inflation, but did not move much more on Friday with the benchmark 10-year yield at 4.39%.",
-        "url": "https://www.devdiscourse.com/article/headlines/3900749-global-markets-oil-higher-on-mideast-hostilities-ai-drives-asian-stocks-to-sparkling-weekly-gains",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_10_5703828.png&width=920&format=jpeg",
-        "publishedAt": "2026-05-08T02:47:23Z",
-        "source": "Devdiscourse"
+        "title": "Cloudflare employee gets laid off and reacts with surprising honesty: 'Built something meaningful, helped protect people...'",
+        "description": "As the AI boom reshapes the tech industry, Cloudflare laid off over 1,100 employees, citing a strategic shift towards the \"agentic AI era.\" Despite strong financial results, the company is restructuring teams and workflows to integrate AI, leading to significant operational changes and employee uncertainty about future roles and routines.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/cloudflare-employee-reacts-to-getting-laid-off-with-surprising-honesty-built-something-meaningful-helped-protect-people-/articleshow/130945789.cms",
+        "image": "https://img.etimg.com/thumb/msid-130946149,width-1200,height-630,imgsize-42810,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2026-05-08T03:28:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
