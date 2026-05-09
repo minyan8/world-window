@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-09T09:47:38.180Z",
+  "fetchedAt": "2026-05-09T10:36:27.494Z",
   "sections": {
     "world": [
       {
-        "title": "Hungary's new PM to be sworn in during 'regime change' party",
-        "description": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-        "url": "https://www.bbc.co.uk/news/articles/ce3pqvvzgnko",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/891d/live/cd2bc300-4afb-11f1-b55d-0f258dce1735.jpg",
-        "publishedAt": "2026-05-08T21:47:06Z",
+        "title": "Iran’s injured supreme leader out of public view but still shaping strategy, US intel assesses",
+        "description": "US intelligence assesses that Iran’s new supreme leader is playing a critical role in shaping war strategy alongside senior Iranian officials, according to multiple sources familiar with the intelligence. The reports found that precise authority within a now-fractured regime remains unclear, but that Mojtaba Khamenei is likely helping direct how Iran is managing negotiations with the US to end the war.",
+        "url": "https://www.cnn.com/2026/05/08/politics/iran-khamenei-us-deal-intelligence",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-10t145909z-1346267152-rc26f49p3e5o-rtrmadp-3-iran-crisis-leader.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-08T22:27:07Z",
+        "source": "CNN"
+      },
+      {
+        "title": "UFO files released by US President Donald Trump as part of 'unprecedented transparency'",
+        "description": "The US government releases 160 previously classified files on alleged UFO sightings and alien life, including a photo of \"unidentified phenomena\" taken from the Moon's surface in 1969.",
+        "url": "https://www.abc.net.au/news/2026-05-09/ufo-files-released-donald-trump-pete-hegseth-alien-life-apollo/106661286",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a965f8261acd20f26ec2e28ca95e4109?impolicy=wcms_watermark_news&cropH=729&cropW=1296&xPos=0&yPos=68&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T22:24:40Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "US to lift Eritrea sanctions as Red Sea tensions reshape alliances, document says",
+        "description": "The US is set to remove sanctions against Eritrea, according to an internal US government document seen by Reuters.",
+        "url": "https://www.hiiraan.com/world4/2026/May/205082/us_to_lift_eritrea_sanctions_as_red_sea_tensions_reshape_alliances_document_says.aspx",
+        "image": "https://www.hiiraan.com/uploads/2026/05/17780519015fa495b3051219db4d1c684ab5445d22712018400f47b711fc943786e5a8694b_MAIN.jpg",
+        "publishedAt": "2026-05-08T22:21:38Z",
+        "source": "hiiraan.com"
+      },
+      {
+        "title": "Second largest tsunami in history caused by Alaskan landslide",
+        "description": "The second largest tsunami in history struck an Alaska fjord after a mountain slope suddenly collapsed in the Tracy Arm landslide.",
+        "url": "https://www.earth.com/news/alaska-mountain-collapse-tracy-arm-landslide-caused-second-largest-tsunami-in-history/",
+        "image": "https://cff2.earth.com/uploads/2026/05/08152307/alaska_tracy-arm-landslide_second-biggest-tsunami_USGS_1m.jpg",
+        "publishedAt": "2026-05-08T22:20:44Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Cameras to be allowed in courtroom in Charlie Kirk killing case, judge rules",
+        "description": "Lawyers for Tyler James Robinson, 23, fail to persuade judge that media coverage could compromise right to fair jury",
+        "url": "https://www.theguardian.com/us-news/2026/may/08/charlie-kirk-courtroom-cameras-allowed",
+        "image": "https://i.guim.co.uk/img/media/f8fa20e1964059386edc88066808df191bce54e3/411_0_4094_3277/master/4094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53e1a80c80d6ff7e828b75c8f324769d",
+        "publishedAt": "2026-05-08T22:15:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "UFO documents released by Pentagon describe floating objects and flashes of light",
+        "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+        "url": "https://www.bbc.co.uk/news/articles/c1m2epkey44o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png",
+        "publishedAt": "2026-05-08T22:04:55Z",
         "source": "BBC"
       },
       {
-        "title": "New report questions Africa’s oil and gas promise",
-        "description": "Environmental science and conservation news",
-        "url": "https://news.mongabay.com/short-article/2026/05/new-report-questions-africas-oil-and-gas-promise/",
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/06/26070204/AP24123645731606.jpeg",
-        "publishedAt": "2026-05-08T21:35:34Z",
-        "source": "Mongabay"
+        "title": "UFO documents released by Pentagon describe floating objects and flashes of light",
+        "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+        "url": "https://www.bbc.com/news/articles/c1m2epkey44o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png",
+        "publishedAt": "2026-05-08T22:04:55Z",
+        "source": "BBC"
       },
       {
-        "title": "Imagining a World Where No Mothers Die",
-        "description": "More than 700 women die each day, on average, from causes linked to pregnancy or childbirth. Almost all of these deaths are preventable. \nTo honor the world’s mothers, we asked midwives about their memories of helping women survive the journey to motherhood. And we asked how the world would be different if no woman died in the act of creating life.",
-        "url": "https://msmagazine.com/2026/05/08/midwife-mother-die-childbirth-pregnant/",
-        "image": "https://msmagazine.com/wp-content/uploads/2026/05/UP11L25.jpg",
-        "publishedAt": "2026-05-08T21:32:49Z",
-        "source": "Ms. Magazine"
-      },
-      {
-        "title": "Russia, Ukraine agree to three-day ceasefire, says Trump",
-        "description": "The ceasefire, which Donald Trump said would last May 9 to 11, coincides with Russia’s Victory Day celebrations, the US president said in a social media post.",
-        "url": "https://www.theage.com.au/world/europe/russia-ukraine-agree-to-three-day-ceasefire-says-trump-20260509-p5zv8m.html",
-        "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6e64d2a5f4ce77f274674ca99bcad3d1d27e249f",
-        "publishedAt": "2026-05-08T21:30:06Z",
-        "source": "The Age"
-      },
-      {
-        "title": "What Trump and MAGA just did in Virginia and Tennessee shows Democrats have little chance in midterms",
-        "description": "Democrats tried to lead by example, Eric Garcia writes. They would up unilaterally disarming in the redistricting wars",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-republicans-house-democrats-tennessee-virginia-b2973222.html",
-        "image": "https://static.independent.co.uk/2026/05/08/19/2251660430.jpg?width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-05-08T21:30:00Z",
-        "source": "The Independent"
-      },
-      {
-        "title": "The Church Cares for Those in Need by Giving People a Hand Up",
-        "description": "In 2025, members of The Church of Jesus Christ of Latter-day Saints spent 7.4 million hours volunteering in their communities to care for those in need. That's nearly 1 million more hours volunteered than last year.",
-        "url": "https://newsroom.churchofjesuschrist.org/article/the-church-cares-for-those-in-need-by-giving-people-a-hand-up",
-        "image": "https://newsroom.churchofjesuschrist.org/media/640x480/care-for-those-in-need-6.jpg",
-        "publishedAt": "2026-05-08T21:20:07Z",
-        "source": "newsroom.churchofjesuschrist.org"
-      },
-      {
-        "title": "Niger Junta Suspends 10 French Media Organizations",
-        "description": "Niger's ruling junta suspends 10 French media bodies, including AFP and France 24, citing threats to public order amid growing anti-French sentiment.",
-        "url": "https://punchng.com/niger-junta-suspends-10-french-media-bodies/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2024/07/27094306/AFP__20240727__36634E7__v1__Mockup__NigerArmyCoup-1200x630.jpg",
-        "publishedAt": "2026-05-08T21:13:47Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Tiny gap in the ocean could become the world's most expensive tollbooth",
-        "description": "Iran's attempts to exact a hefty toll on ships passing through the Strait of Hormuz has given other countri...",
-        "url": "https://www.9news.com.au/world/strait-of-malacca-toll-indonesia-malaysia-strait-of-hormuz-singapore-world-news/62ef665e-5fa0-42e9-8b7a-c496e55dcee9",
-        "image": "https://imageresizer.static9.net.au/tBQQBWUk4OoOp2DAQ4XFCWrG6jY=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3c77da-c61b-4c00-8425-1bd69f708067",
-        "publishedAt": "2026-05-08T21:05:38Z",
-        "source": "9News"
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-05-08T22:01:57Z",
+        "source": "The Australian"
       }
     ],
     "business": [
       {
-        "title": "Winning EuroMillions numbers LIVE: Full National Lottery results with Thunderball on May",
-        "description": "The EuroMillions winning numbers could see a lucky National Lottery player win £52m tonight.",
-        "url": "https://www.express.co.uk/news/uk/2203451/winning-euromillions-numbers-live-full-lottery-results-may-8",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6909758.jpg",
-        "publishedAt": "2026-05-08T21:40:00Z",
-        "source": "Daily Express"
+        "title": "GSE equity market records 72% return in April 2026, SIC led pack of 10 gainers",
+        "description": "The Ghana Fixed Income Market (GFIM) closed the month with a volume traded of 35.05 billion. This represented an increase of 93.45% compared to the same period last year.",
+        "url": "https://www.myjoyonline.com/gse-equity-market-records-72-return-in-april-2026-sic-led-pack-of-10-gainers/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2022/07/GSE.png",
+        "publishedAt": "2026-05-08T22:35:46Z",
+        "source": "MyJoyOnline"
       },
       {
-        "title": "Building confidence in an AI-driven legal era",
-        "description": "Discover key insights from the Wolters Kluwer Legal & Regulatory webinar on training lawyers, ethical AI use, and evolving legal business models.",
-        "url": "https://www.wolterskluwer.com/en/expert-insights/future-ready-lawyer-advancing-ai-fluency-through-training",
-        "image": "https://assets.contenthub.wolterskluwer.com/api/public/content/83a52d2fb3d0450bb725452ee919effe?v=8c4719f9",
-        "publishedAt": "2026-05-08T21:39:40Z",
-        "source": "Wolters Kluwer"
-      },
-      {
-        "title": "High Street giant begins shop closures - 190 UK stores to shut",
-        "description": "Rising costs and changing shopping habits are being blamed for the closures.",
-        "url": "https://www.express.co.uk/news/uk/2203537/cancer-research-charity-shop-closures",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6910288.jpg",
-        "publishedAt": "2026-05-08T21:32:00Z",
-        "source": "Daily Express"
-      },
-      {
-        "title": "Doman Building Materials Group Ltd. (DBM:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
-        "description": "Doman Building Materials Group Ltd. (DBM:CA) Shareholder/Analyst Call May 8, 2026 4:00 PM EDTCompany ParticipantsAmardeip Doman - Chairman & CEOIan...",
-        "url": "https://seekingalpha.com/article/4901720-doman-building-materials-group-ltd-dbm-ca-shareholder-analyst-call-prepared-remarks",
+        "title": "Reinsurance Group of America, Incorporated (RGA) Q1 2026 Earnings Call Transcript",
+        "description": "Reinsurance Group of America, Incorporated (RGA) Q1 2026 Earnings Call May 8, 2026 10:00 AM EDTCompany ParticipantsJ.",
+        "url": "https://seekingalpha.com/article/4901521-reinsurance-group-of-america-incorporated-rga-q1-2026-earnings-call-transcript",
         "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-05-08T21:31:13Z",
+        "publishedAt": "2026-05-08T22:31:19Z",
         "source": "Seeking Alpha"
       },
       {
-        "title": "RDA graft probe remains inconclusive",
-        "description": "RDA graft probe remains inconclusive",
-        "url": "https://tribune.com.pk/story/2607123/rda-graft-probe-remains-inconclusive",
-        "image": "https://i.tribune.com.pk/media/images/rda1778275647-0/rda1778275647-0-640x480.webp",
-        "publishedAt": "2026-05-08T21:29:10Z",
-        "source": "The Express Tribune"
+        "title": "Executive condo MOP extended to 10 years",
+        "description": "New rules for executive condominiums include a 10-year MOP and more units for first-time buyers to address affordability. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/housing/10-year-mop-for-executive-condos-more-ec-units-for-first-timers-to-tackle-affordability-concerns",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a0e99f03e9ba23b48c7f20af8739dc8ef04e746e1d7ab804ce7bd7c19b4bcde4",
+        "publishedAt": "2026-05-08T22:30:08Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Auckland mortgagee auctions: Bargain hunters chase cut",
-        "description": "Each property represents a story of hard luck and financial ruin. But for would-be buyers, the ramshackle homes are potential bargains. Auckland desk editor...",
-        "url": "https://www.nzherald.co.nz/nz/auckland/auckland-mortgagee-auctions-bargain-hunters-chase-cut-price-homes/premium/IAJNM3YCBRCGVAEXUU27ABTHDM/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/WUMIYF2FRBGQTHI6TTI3GP3XK4.jpg?auth=710bcf441d187cb8cade9906bac45dd410e235f81241c65ba01aa56871a5b925&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-05-08T21:27:31Z",
-        "source": "NZ Herald"
+        "title": "How Bruce Cheung built Pardoo Wagyu In Australia",
+        "description": "Bruce Cheung turned away from retirement to build Pardoo Wagyu in Western Australia’s Pilbara, creating an award-winning wagyu business with Singapore ties.",
+        "url": "https://cnaluxury.channelnewsasia.com/people/bruce-cheung-pardoo-wagyu-australia-singapore-293596",
+        "image": "https://dam.mediacorp.sg/image/upload/s--37g_JPuj--/c_crop,h_563,w_1001,x_1,y_79/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/07/h1_bruce-cheung-pardoo-wagyu-australia-singapore.jpg?itok=J8RynTCr",
+        "publishedAt": "2026-05-08T22:30:01Z",
+        "source": "CNA Luxury"
       },
       {
-        "title": "Whoop will give users on-demand video access to clinicians",
-        "description": "Live on-demand video consultations are coming to Whoop.",
-        "url": "https://mashable.com/article/fitness-wearable-whoop-live-on-demand-video-consultations-ai-features",
-        "image": "https://helios-i.mashable.com/imagery/articles/03uFj0IoZqTHZr5ThBauDTR/hero-image.fill.size_1200x675.v1778271589.jpg",
-        "publishedAt": "2026-05-08T21:27:26Z",
-        "source": "Mashable"
+        "title": "Tenaris to Acquire Artrom Steel Tubes S.A. seamless pipe manufacturing plant in Romania",
+        "description": "LUXEMBOURG, May 08, 2026 (GLOBE NEWSWIRE) -- Tenaris S.A. (NYSE and Mexico: TS; EXM Italy: TEN) announced today that it has entered into a definitive agreement to acquire from GLGH Steel, LLC, a U.S.-based company, 100% of the share capital of Artrom Steel Tubes S.A., for an aggregate purchase price of EUR 86 million, on a cash-free and debt-free basis, including a normalized level of working capital.",
+        "url": "https://www.manilatimes.net/2026/05/09/tmt-newswire/globenewswire/tenaris-to-acquire-artrom-steel-tubes-sa-seamless-pipe-manufacturing-plant-in-romania/2339842",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/09/1049509.jpg",
+        "publishedAt": "2026-05-08T22:27:32Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Delta employee dies at Orlando's airport, MCO",
-        "description": "An Orlando International Airport staff member has died, according to airport officials.",
-        "url": "https://www.wesh.com/article/worker-dies-orlando-international-airport/71251692",
-        "image": "https://kubrick.htvapps.com/vidthumb/e2f7b16d-5a5e-4e7e-9ee7-b179c33caf7d/0eacdf15-e097-4a10-8086-a424c6a38780.jpg?crop=0.469xw:0.468xh;0.261xw,0.243xh&resize=1200:*",
-        "publishedAt": "2026-05-08T21:27:00Z",
-        "source": "WESH"
+        "title": "U.S. Unemployment Flows in April",
+        "description": "An analysis breaks down how changes in people moving into and out of unemployment and the labor force helped keep the April jobless rate stable at 4.3%.",
+        "url": "https://www.stlouisfed.org/on-the-economy/2026/may/flash-report-headline-unemployment-steady-april-job-separations-rise",
+        "image": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/blog/2025/ote/mar/bloganchor-flashreport-030725.png?sc_lang=en",
+        "publishedAt": "2026-05-08T22:26:36Z",
+        "source": "Federal Reserve Bank of St. Louis"
+      },
+      {
+        "title": "DiaSorin S.p.A. (DSRLF) Q1 2026 Earnings Call Transcript",
+        "description": "DiaSorin S.p.A. (DSRLF) Q1 2026 Earnings Call May 8, 2026 12:00 PM EDTCompany ParticipantsCarlo Rosa - CEO, GM & Executive DirectorAlberto Donati -...",
+        "url": "https://seekingalpha.com/article/4901628-diasorin-s-p-a-dsrlf-q1-2026-earnings-call-transcript",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-05-08T22:21:15Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Paul Tudor Jones Says the AI Bull Market Has Further to Go. Here are 2 Stocks That Could Soar.",
+        "description": "These two stocks may offer growth and security over time.",
+        "url": "https://www.fool.com/investing/2026/05/08/paul-tudor-jones-says-the-ai-bull-market-has-furth/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869207%2Fgettyimages-data-center.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-08T22:19:18Z",
+        "source": "The Motley Fool"
       }
     ],
     "science": [
+      {
+        "title": "Antarctica Sea Ice Collapse Driven By Triple Whammy Of Climate Chaos",
+        "description": "Antarctica is being ravaged by a triple-whammy of climate chaos that has melted sea ice to record lows, a new",
+        "url": "https://www.eurasiareview.com/09052026-antarctica-sea-ice-collapse-driven-by-triple-whammy-of-climate-chaos/",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/05/a-62.jpeg",
+        "publishedAt": "2026-05-08T22:25:24Z",
+        "source": "Eurasia Review"
+      },
+      {
+        "title": "Arctic microbes wake up in waves as frozen ground thaws",
+        "description": "Frozen Arctic soil is not silent. When it thaws, microbes wake up in stages, release carbon, and even hunt each other.",
+        "url": "https://www.earth.com/news/arctic-microbes-wake-up-in-waves-as-frozen-ground-thaws/",
+        "image": "https://cff2.earth.com/uploads/2026/05/08161246/Arctic-soil-microbes.jpg",
+        "publishedAt": "2026-05-08T22:20:44Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Northern Sri Lanka's oldest confirmed settlement reshapes what archaeologists thought about early island life",
+        "description": "A study published in the Journal of Island and Coastal Archaeology has identified the earliest evidence of prehistoric occupation by island dwellers of northern Sri Lanka. Long thought to be unsuitable for human occupation due to its scarce stone resources and semi-arid landscape, the findings at Velanai Island challenge this long-held belief and offer insights into early raw-material exploitation, seafaring capabilities, and subsistence behavior.",
+        "url": "https://phys.org/news/2026-05-northern-sri-lanka-oldest-settlement.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/earliest-settlement-of.jpg",
+        "publishedAt": "2026-05-08T22:20:02Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Low-frequency vibrations may explain why old buildings feel eerie",
+        "description": "A study reveals that inaudible sounds in old buildings may cause stress, irritability, and unsettling sensations.",
+        "url": "https://www.earth.com/news/low-frequency-vibrations-may-explain-why-old-buildings-feel-eerie/",
+        "image": "https://cff2.earth.com/uploads/2026/05/08114430/hidden-infrasound-old-buildings-mood-effects.jpg",
+        "publishedAt": "2026-05-08T22:18:45Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Katalyst Readies LINK For NASA Space Telescope Servicing Boost",
+        "description": "NASA plans a June launch to boost the descending Neil Gehrels Swift Observatory.",
+        "url": "https://aviationweek.com/space/space-exploration/katalyst-readies-link-nasa-space-telescope-servicing-boost",
+        "image": "https://aviationweek.com/sites/default/files/AW_favicon_128x128.png",
+        "publishedAt": "2026-05-08T22:06:56Z",
+        "source": "Aviation Week"
+      },
       {
         "title": "The World’s Largest Waterfall Is Hidden Beneath the Arctic Ocean, and It’s Far Bigger Than Niagara Falls!",
         "description": "Earth’s largest waterfall, concealed under Arctic waters, moves millions of cubic meters of water every second, and it could be more critical to our climate than we ever realized.",
@@ -158,112 +198,72 @@
         "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
         "publishedAt": "2026-05-08T21:12:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "The space junk problem threatening future missions",
-        "description": "Of the 33,269 objects currently being tracked in orbit, nearly 47% of tracked objects are space junk, posing a challenge to future missions.",
-        "url": "https://www.rdworldonline.com/the-space-junk-problem-threatening-future-missions/",
-        "image": "https://www.rdworldonline.com/wp-content/uploads/2026/05/art002e000192medium.jpg",
-        "publishedAt": "2026-05-08T21:01:22Z",
-        "source": "R&D World"
-      },
-      {
-        "title": "Scientists Engineer Blood Clots That Stop Severe Bleeding in Seconds",
-        "description": "Blood clots are the body's built-in way of staunching blood loss.",
-        "url": "https://www.sciencealert.com/scientists-engineer-blood-clots-that-stop-severe-bleeding-in-seconds",
-        "image": "https://www.sciencealert.com/images/2026/05/blood-clot-illustration.jpg",
-        "publishedAt": "2026-05-08T21:01:09Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "Asteroid Apophis will skim past Earth in 2029, and a new joint mission plans to watch every change",
-        "description": "The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defense, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for Space Safety (Ramses) to the near-Earth asteroid Apophis.",
-        "url": "https://phys.org/news/2026-05-asteroid-apophis-skim-earth-joint.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/esa-and-jaxa-team-up-o.jpg",
-        "publishedAt": "2026-05-08T21:00:13Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos",
-        "description": "Powerful bright blue cosmic explosions called Luminous Fast Blue Optical Transients could be caused when a black hole or neutron star slams into the universe's hottest class of star.",
-        "url": "https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos",
-        "image": "https://cdn.mos.cms.futurecdn.net/B75LjmXL73yKBcwmGaDHwc-1600-80.png",
-        "publishedAt": "2026-05-08T21:00:00Z",
-        "source": "Space"
-      },
-      {
-        "title": "Dante’s Inferno may have predicted planetary impact physics centuries before modern science",
-        "description": "New research suggests Dante Alighieri’s Inferno may have done more than shape literary history — it may also have anticipated concepts in planetary impact science centuries before modern meteoritics emerged. - HeritageDaily - Archaeology News",
-        "url": "https://www.heritagedaily.com/2026/05/dantes-inferno-may-have-predicted-planetary-impact-physics-centuries-before-modern-science/158020",
-        "image": "https://www.heritagedaily.com/wp-content/uploads/2026/05/de1.jpg",
-        "publishedAt": "2026-05-08T20:55:49Z",
-        "source": "HeritageDaily"
       }
     ],
     "ai": [
       {
-        "title": "Forget Nvidia (NVDA), Focus on This “Agentic AI” Winner Instead",
-        "description": "Advanced Micro Devices (AMD) hit a new 52-week high on Friday, extending a powerful rally of 112.6% year-to-date, which has turned the company i...",
-        "url": "https://markets.businessinsider.com/news/stocks/forget-nvidia-nvda-focus-on-this-agentic-ai-winner-instead-1036132992",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-915.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-05-08T21:46:50Z",
-        "source": "Markets Insider"
+        "title": "AI Gives Cybersecurity Competitive Advantage",
+        "description": "By Satyaki Chakraborty GENEVA: Artificial intelligence is rapidly reshaping cybersecurity and is the biggest driver of change in the field, according to a new World Economic Forum report released on May 4. Some 94% of cyber leaders identify AI as a defining force and 77% of organizations already use it in their cyber operations. The AI and Cyber: Empowering Defenders report, developed in collaboration with KPMG, highlights measurable gains in cost reduction, response speed and resilience. While threat actors […]",
+        "url": "https://www.dailyexcelsior.com/ai-gives-cybersecurity-competitive-advantage/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/screen.gif",
+        "publishedAt": "2026-05-08T22:30:16Z",
+        "source": "Daily Excelsior"
       },
       {
-        "title": "Crypto Currents: IREN lands $3.4B Nvidia AI contract",
-        "description": "Crypto infrastructure spending hit a new landmark Friday as a former bitcoin miner secured the sector’s largest-ever AI cloud contract, complete...",
-        "url": "https://markets.businessinsider.com/news/stocks/crypto-currents-iren-lands-3-4b-nvidia-ai-contract-1036132994",
-        "image": "https://markets.businessinsider.com/favicon-32x32.png",
-        "publishedAt": "2026-05-08T21:45:57Z",
-        "source": "Markets Insider"
+        "title": "Jim Cramer says 'it's not to late' to own AI winners powering the market",
+        "description": "CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.",
+        "url": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+        "publishedAt": "2026-05-08T22:28:51Z",
+        "source": "CNBC"
       },
       {
-        "title": "Epic knows everyone's afraid \"AI is going to take all our jobs,\" but Fortnite dev insists the goal of AI \"is to make us more efficient\"",
-        "description": "Epic has been exploring different AI tooling that we can use to help support our games",
-        "url": "https://www.gamesradar.com/games/battle-royale/epic-knows-everyones-afraid-ai-is-going-to-take-all-our-jobs-but-fortnite-dev-insists-the-goal-of-ai-is-to-make-us-more-efficient/",
-        "image": "https://cdn.mos.cms.futurecdn.net/yK84RLTutLwtN4DZqdEemR-1920-80.jpg",
-        "publishedAt": "2026-05-08T21:44:23Z",
-        "source": "GamesRadar+"
+        "title": "LottoChamp Claims Evaluated: The Lotto AI Champ Master Key Unlocked - Investigation into the Lottery Defeater for Profits",
+        "description": "How LottoChamp's AI Lottery Number Analysis Tool Generates Personalized Number Suggestions - and What Consumers Should Verify Before Buying in 2026",
+        "url": "https://www.manilatimes.net/2026/05/09/tmt-newswire/globenewswire/lottochamp-claims-evaluated-the-lotto-ai-champ-master-key-unlocked-investigation-into-the-lottery-defeater-for-profits/2339840",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/09/1049506.png",
+        "publishedAt": "2026-05-08T22:27:27Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "OpenAI brings GPT-5-class reasoning to real-time voice - and it changes what voice agents can actually orchestrate",
-        "description": "OpenAI's Realtime-2, Realtime-Translate, and Realtime-Whisper split voice into discrete models, reducing the orchestration overhead that has made enterprise voice agents costly to deploy.",
-        "url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4fS8WkFKirUi9KqwhCb400/dba3dc0e8604c34ee39ee2e0fea8b1d8/crimedy7_illustration_of_a_robot_with_a_phone_--ar_169_--v_7_059ef1c1-2f5e-4009-ab54-acec406a8f5e_1.png?w=800&q=75",
-        "publishedAt": "2026-05-08T21:41:21Z",
-        "source": "VentureBeat"
+        "title": "The Lotto AI Champ Master Key",
+        "description": "LottoChamp scam or legit AI lottery tool? Claims evaluated: how the number analysis software works, what it costs, and refund terms....",
+        "url": "https://www.globenewswire.com/news-release/2026/05/08/3291388/0/en/lottochamp-claims-evaluated-the-lotto-ai-champ-master-key-unlocked-investigation-into-the-lottery-defeater-for-profits.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/19cbb6a6-1446-45bd-884c-62e38716b1de",
+        "publishedAt": "2026-05-08T22:15:01Z",
+        "source": "GlobeNewswire"
       },
       {
-        "title": "Qualcomm Throws Down the Gauntlet to Nvidia on Chips",
-        "description": "Qualcomm is taking aim at Nvidias leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.",
-        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/09/satet-front/qualcomm-throws-down-the-gauntlet-to-nvidia-on-chips/articleshow/130966976.cms",
-        "image": "https://img.etimg.com/thumb/msid-130966976,width-1200,height-630,imgsize-222914,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-08T21:33:00Z",
-        "source": "The Economic Times"
+        "title": "Taylor Swift & Matthew McConaughey: Can Trademarks Combat AI Misuse?",
+        "description": "Taylor Swift and Matthew McConaughey claim trademark rights in their voices and likenesses. Will this help them in a legal challenge against AI misuse?",
+        "url": "https://www.forbes.com/sites/legalentertainment/2026/05/08/taylor-swift--matthew-mcconaughey-can-trademarks-combat-ai-misuse/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69fe4fb8ec5a7ea99bad86d4/0x0.jpg?format=jpg&crop=2324,1549,x2,y535,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-08T22:14:24Z",
+        "source": "Forbes"
       },
       {
-        "title": "Qualcomm Throws Down the Gauntlet to Nvidia on Chips",
-        "description": "Qualcomm is taking aim at Nvidias leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.",
-        "url": "https://economictimes.indiatimes.com/satet-front/qualcomm-throws-down-the-gauntlet-to-nvidia-on-chips/articleshow/130966976.cms",
-        "image": "https://img.etimg.com/thumb/msid-130966976,width-1200,height-630,imgsize-222914,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-08T21:33:00Z",
-        "source": "The Economic Times"
+        "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+        "description": "The goal is to create a set of norms informed by various faiths.",
+        "url": "https://www.bostonherald.com/2026/05/08/ai-ethics-religion/",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/AI_Ethics_Religion_926_8-1.jpg?w=1024&h=682",
+        "publishedAt": "2026-05-08T22:03:13Z",
+        "source": "The Boston Herald"
       },
       {
-        "title": "The $3.4 Billion Reason Nvidia Drove IREN Stock Higher Today",
-        "description": "IREN shares soar on a $3.4 billion AI cloud infrastructure deal with Nvidia. But does that warrant buying IREN stock at current levels? Let’s find out!",
-        "url": "https://www.barchart.com/story/news/1817334/the-3-4-billion-reason-nvidia-drove-iren-stock-higher-today",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Nvidia%20logo%20by%20Konstantin%20Savusia%20via%20Shutterstock.jpg",
-        "publishedAt": "2026-05-08T21:16:53Z",
-        "source": "Barchart"
+        "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+        "description": "The goal is to create a set of norms informed by various faiths.",
+        "url": "https://www.sandiegouniontribune.com/2026/05/08/ai-ethics-religion/",
+        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/AI_Ethics_Religion_926_8-1.jpg?w=1024&h=682",
+        "publishedAt": "2026-05-08T22:03:13Z",
+        "source": "San Diego Union-Tribune"
       },
       {
-        "title": "Tech Up on AI Enthusiasm - Tech Roundup",
-        "description": "Shares of technology companies rallied as artificial-intelligence enthusiasm reached fever pitch.\nIntel shares soared to record highs after Apple reached a preliminary agreement with the chip...\n-May 08, 2026 at 05:16 pm EDT\n- MarketScreener",
-        "url": "https://www.marketscreener.com/news/tech-up-on-ai-enthusiasm-tech-roundup-ce7f5bdbd188ff24",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-05-08T21:16:20Z",
-        "source": "MarketScreener"
+        "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+        "description": "The goal is to create a set of norms informed by various faiths.",
+        "url": "https://www.baltimoresun.com/2026/05/08/ai-ethics-religion/",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/05/AI_Ethics_Religion_926_8-1.jpg?w=1024&h=682",
+        "publishedAt": "2026-05-08T22:03:13Z",
+        "source": "Baltimore Sun"
       }
     ]
   }
