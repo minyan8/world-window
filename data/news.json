@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-09T07:01:05.488Z",
+  "fetchedAt": "2026-05-09T07:58:49.110Z",
   "sections": {
     "world": [
       {
-        "title": "Military parades and promises of peace ring hollow when words lose their meaning",
-        "description": "Displays of military strength and perpetual promises of peace do little to mask the reality that major powers aren't always able to control the wars they helped create.",
-        "url": "https://www.abc.net.au/news/2026-05-09/iran-us-israel-russia-ukraine-war-military-parade-ceasefires/106657116",
-        "image": "https://live-production.wcms.abc-cdn.net.au/0a782551df7301588f556ffa8d877e29?impolicy=wcms_watermark_news&cropH=1807&cropW=3213&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Court Revives ‘Farmgate’ Case Against South African President",
+        "description": "Judges ordered Parliament to convene a committee to consider removing President Cyril Ramaphosa over a case involving money stolen at his farm six years ago.",
+        "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+        "image": "https://static01.nyt.com/images/2026/05/08/multimedia/08int-safrica-impeachment-qvhm/08int-safrica-impeachment-qvhm-facebookJumbo.jpg",
+        "publishedAt": "2026-05-08T19:49:08Z",
+        "source": "The New York Times"
       },
       {
-        "title": "The five ‘Bs’ and three ‘Ts’ at the heart of the China summit",
-        "description": "Donald Trump’s return to Beijing this week takes place in a much different world. But he remains hungry for a trade deal, and China’s military build-up and the future of Taiwan still loom large.",
-        "url": "https://www.theage.com.au/world/north-america/the-five-bs-and-three-ts-at-the-heart-of-the-trump-xi-meeting-20260507-p5zuhq.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/87cac17f662a8f865024a3f38351708d5269f3c5fe2e052adadc7bf7a48100c7",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "The Age"
-      },
-      {
-        "title": "U.S. strikes at least two locations in Iran, American official says",
-        "description": "The U.S. and Iran exchanged fire near the Strait of Hormuz, raising questions about the negotiations to end the conflict.",
-        "url": "https://www.nbcnews.com/world/iran/us-iran-strikes-rcna344144",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260507-tehran-ww-1454-1347d8.jpg",
-        "publishedAt": "2026-05-08T18:56:00Z",
-        "source": "NBC News"
-      },
-      {
-        "title": "Kenya Tops Horn of Africa Capitals in 2026 Africa Safety Ranking",
-        "description": "New continental report ranks Nairobi ahead of Djibouti, Addis Ababa, Asmara and Mogadishu on safety and stability indicators",
-        "url": "https://www.dawan.africa/news/kenya-tops-horn-of-africa-capitals-in-2026-africa-safety-ranking",
-        "image": "https://utfs.io/f/v9D9ylrdiyZgLQAkElCnljC1mk3ZFPfJOWauEDo8dbMK7UwB",
-        "publishedAt": "2026-05-08T18:55:46Z",
-        "source": "Dawan Africa"
-      },
-      {
-        "title": "Zelenskyy ‘permits’ Russia to hold its Victory Day parade",
-        "description": "Ukraine’s president signed a decree on Friday allowing the Kremlin to hold the Victory Day parade on Red Square in Moscow, but the rest of Russia is not included in the announced ceasefire deal mediated by US President Donald Trump.",
-        "url": "https://www.euronews.com/my-europe/2026/05/08/trump-announces-three-day-ceasefire-between-ukraine-and-russia",
-        "image": "https://images.euronews.com/articles/stories/09/75/22/49/1200x675_cmsv2_6a3d97ed-f85c-515d-837c-060eaf637370-9752249.jpg",
-        "publishedAt": "2026-05-08T18:52:04Z",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "'Suspension of all kinetic activity': Trump announces 3",
-        "description": "US News: US President Donald Trump on Friday announced a three-day ceasefire between Russia and Ukraine starting Saturday, expressing hope that the temporary t.",
-        "url": "https://timesofindia.indiatimes.com/world/us/suspension-of-all-kinetic-activity-trump-announces-3-day-russia-ukraine-ceasefire-1000-prisoner-swap/articleshow/130966066.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130966090,width-1280,height-720,imgsize-49716,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-08T18:51:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Several Canadian universities face security breach, student data leaked",
-        "description": "The U of T, UBC and U of A are amongst the major Canadian post-secondary institutions dealing with fallout from a cybersecurity incident involving a popular platform called Canvas.",
-        "url": "https://globalnews.ca/news/11840444/canadian-universities-data-leak/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/05/f927967d1f4168e2c78e4239ebfb3398c602f3f1ccde3f979afe9edcbe0424cd_a837e4.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-05-08T18:49:56Z",
+        "title": "U.S. wants to revoke passports for unpaid child support, officials say",
+        "description": "Although legal precedent permitting revocations has existed for 30 years, governments have typically chosen to deny renewal applications rather than revoke valid passports.",
+        "url": "https://globalnews.ca/news/11840746/unpaid-child-support-us-passports-revoked/",
+        "image": "https://globalnews.ca/wp-content/uploads/2021/07/20210730130716-6104347ce412cef803485382jpeg.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-05-08T19:48:22Z",
         "source": "Global News"
       },
       {
-        "title": "Court in Chad jails 8 opposition leaders for 8 years in insurrection case",
-        "description": "A Chadian court has sentenced eight opposition leaders to eight years in prison for charges including insurrection. The High Court of N’Djamena found members of the Political Actors Consultation...",
-        "url": "https://www.seattlepi.com/news/world/court-in-chad-jails-8-opposition-leaders-for-8-a22249480",
-        "image": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
-        "publishedAt": "2026-05-08T18:48:54Z",
-        "source": "Seattlepi.com"
+        "title": "EU, UK and Canada condemn 'violent' Israeli settlers after Irish Aid-backed West Bank school destroyed",
+        "description": "Illegal settlers bulldozed a number of the school’s buildings during an overnight raid last month.",
+        "url": "https://www.thejournal.ie/irish-aid-funded-school-west-bank-condemn-eu-canada-uk-7034801-May2026/",
+        "image": "https://img2.thejournal.ie/article/7034801/river/?height=400&version=7034808",
+        "publishedAt": "2026-05-08T19:47:00Z",
+        "source": "The Journal"
+      },
+      {
+        "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+        "description": "Truce will also include swap of 1,000 prisoners of war from each country, US president says.",
+        "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25220769577011-1-1754901225.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-08T19:41:15Z",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "New suspected hantavirus cases found as experts issue containment guidance",
+        "description": "World Health Organization officials are working on a step-by-step operational guidance for the safe disembarkation of passengers and crew once they reach land.",
+        "url": "https://globalnews.ca/news/11840706/new-suspected-hantavirus-cases-experts-working-on-guidance/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/05/hantavirus-case-update.jpg?quality=65&strip=all&crop=0px%2C22px%2C1023px%2C541px&resize=720%2C379",
+        "publishedAt": "2026-05-08T19:39:22Z",
+        "source": "Global News"
+      },
+      {
+        "title": "Somalia faces May 15 showdown as Farmaajo joins opposition call for inclusive election deal",
+        "description": "Farmaajo accused the federal leadership of steering the country toward what he called “authoritarian governance,” citing recent arrests of journalists, activists and citizens who publicly criticized government actions.",
+        "url": "https://www.kulanpost.co.ke/somalia-faces-may-15-showdown-as-farmaajo-joins-opposition-call-for-inclusive-election-deal/",
+        "image": "https://www.kulanpost.co.ke/wp-content/uploads/2026/05/Farmajo-somaliguardian-news-1.jpg",
+        "publishedAt": "2026-05-08T19:34:37Z",
+        "source": "KULAN POST"
+      },
+      {
+        "title": "‘He’d be terrible!’ UK political veterans baffled by Steve Hilton’s run for California governor",
+        "description": "Former David Cameron adviser says a vote for him will make California ‘Califordable’ – not everyone is convinced",
+        "url": "https://www.theguardian.com/us-news/2026/may/08/steve-hilton-british-strategist-frontrunner-california-governor-david-cameron",
+        "image": "https://i.guim.co.uk/img/media/a8385938bb37c6aa4351d0a3066a84e5c9d3cf0f/1001_0_7005_5604/master/7005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc243267022c5d96ef71247f08c97fd",
+        "publishedAt": "2026-05-08T19:33:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Family of ousted Myanmar leader Aung San Suu Kyi call for 'proof of life'",
+        "description": "Aung San Suu Kyi's son demands proof his mother is still alive, as Myanmar's military junta keeps tens of thousands of political prisoners behind bars.",
+        "url": "https://www.abc.net.au/news/2026-05-09/aung-san-suu-kyi-still-alive-house-arrest-myanmar/106657154",
+        "image": "https://live-production.wcms.abc-cdn.net.au/f98f2f5112759ec92e5038a0a97c410f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=52&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-08T19:31:00Z",
+        "source": "Australian Broadcasting Corporation"
       }
     ],
     "business": [
       {
-        "title": "Report: Rupert Murdoch warned President Trump that more NFL streaming could kill networks",
-        "description": "The NFL's current effort to get more from its broadcast partners prompted one of them to go straight to the White House for help.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rupert-murdoch-warned-president-trump-that-more-nfl-streaming-could-kill-networks",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8fab89e/2147483647/strip/true/crop/8256x4644+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F52%2Fd23472b2407aa64d98646025a3ad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2225706495",
-        "publishedAt": "2026-05-08T19:00:34Z",
-        "source": "NBC Sports"
+        "title": "Applied Aerospace Files for IPO, Joining Pre-SpaceX Rush",
+        "description": "Applied Aerospace & Defense Inc. filed for a US initial public offering, joining a recent rush of space and defense firms to public markets ahead of the potential listing of SpaceX later this year.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-08/applied-aerospace-files-for-ipo-joining-pre-spacex-rush",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8nmlT5c92OE/v1/1200x800.jpg",
+        "publishedAt": "2026-05-08T19:56:22Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "The type of Melbourne home that disappeared within two decades",
-        "description": "Years of ideal lending conditions and wages failing to keep up with house price growth have brought seismic change to the market.",
-        "url": "https://www.theage.com.au/property/news/the-type-of-melbourne-home-that-disappeared-within-two-decades-20260501-p5zt05.html",
-        "image": "https://static.ffx.io/images/$zoom_1.4467%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/3cb7899598b784497e96c64a58396359837b8ba0deed172d2cebc1ec4f40cf7e",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "The Age"
+        "title": "Dunkin' owner Inspire Brands confidentially files for IPO",
+        "description": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's.",
+        "url": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/107281242-1691068745295-gettyimages-843749824-DUNKIN_DONUTS.jpeg?v=1778271387&w=1920&h=1080",
+        "publishedAt": "2026-05-08T19:52:42Z",
+        "source": "CNBC"
       },
       {
-        "title": "vulnerability supercharges pragmatism",
-        "description": "The climate war is being won quietly, with nearly three in four One Nation voters eager to buy an EV.",
-        "url": "https://www.abc.net.au/news/2026-05-09/electric-vehicle-ev-fringe-benefits-tax-fuel-crisis-matt-canavan/106612434",
-        "image": "https://live-production.wcms.abc-cdn.net.au/6e51f142e969d9f90d04f2c3ba37b8a9?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "RGC Resources outlines $1.31 to $1.37 FY2026 EPS range as LNG peak shaving facility expected offline for coming winter",
+        "description": "RGC Resources (RGCO) Q2 FY2026 earnings call recap: EPS raised to $1.31–$1.37, LNG damage & demand headwinds, refinancing risk—read now.",
+        "url": "https://seekingalpha.com/news/4590147-rgc-resources-outlines-1_31-to-1_37-fy2026-eps-range-as-lng-peak-shaving-facility-expected",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-05-08T19:52:17Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Canada set to receive first batch of Chinese EVs from Lotus",
-        "description": "Geely-owned Lotus is shipping the first batch of Chinese EVs destined for Canada, as the brand is sending 18 Eletre SUVs to Canadian dealerships.",
-        "url": "https://mobilesyrup.com/2026/05/08/canada-set-to-receive-first-batch-of-chinese-evs-from-lotus/",
-        "image": "https://production-static.mobilesyrup.com/uploads/2026/05/lotus-eletre-scaled.jpg",
-        "publishedAt": "2026-05-08T18:58:00Z",
-        "source": "MobileSyrup"
+        "title": "Major emergency response after acid attack outside McDonald's in Tameside",
+        "description": "Two men have been arrested while one man is in hospital",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/major-emergency-response-after-acid-33916587",
+        "image": "https://i2-prod.manchestereveningnews.co.uk/article33916593.ece/ALTERNATES/s1200d/1_IMG_7979.jpg",
+        "publishedAt": "2026-05-08T19:52:00Z",
+        "source": "Manchester Evening News"
       },
       {
-        "title": "Rathwood: ‘domino effect’ led to disarray and thousands of dissatisfied customers",
-        "description": "Root causes of home and garden retailer’s problems readily identifiable and can be rectified, says court",
-        "url": "https://www.irishtimes.com/ireland/2026/05/08/rathwood-domino-effect-led-to-disarray-and-thousands-of-dissatisfied-customers/",
-        "image": "https://www.irishtimes.com/resizer/v2/UV3MCNRCERFLZFSB3KEBRWYWEM.jpg?smart=true&auth=2b7d98d1bb97e20c140c863181116e677688a4438bd92432a0bef44fc66f80fe&width=1200&height=630",
-        "publishedAt": "2026-05-08T18:57:39Z",
-        "source": "The Irish Times"
+        "title": "Visa Just Posted Its Strongest Revenue Growth Since 2022. Is the Stock a Buy After Earnings?",
+        "description": "The credit card giant is still an evergreen investment.",
+        "url": "https://www.fool.com/investing/2026/05/08/visa-just-posted-its-strongest-revenue-growth-sinc/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869075%2Fgettyimages-1094351294.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-08T19:49:35Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Billions in investment waiting for biofuel policy certainty, super investors say",
-        "description": "Billions of dollars worth of investment will flow if the federal government mandates a percentage of biofuels be added to the nation's fuel supply, major investors say.",
-        "url": "https://www.abc.net.au/news/2026-05-09/biofuel-investment-needs-policy-certainty-super-industry-says/106606048",
-        "image": "https://live-production.wcms.abc-cdn.net.au/7dd39661e69904515498eeeae8114000?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=471&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-08T18:56:43Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Shell's CEO Says the Oil Market Is Short 1 Billion Barrels and Getting Worse. Here's What Investors Should Do Now.",
+        "description": "The world is facing a growing oil supply shortfall.",
+        "url": "https://www.fool.com/investing/2026/05/08/shells-ceo-says-the-oil-market-is-short-1-billion/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869246%2Fa-person-holding-a-wrench-near-an-oil-pump.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-08T19:47:41Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "The Outlook for the US Consumer amid Rising Inflation",
-        "description": "Rising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumer spending.",
-        "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation",
-        "image": "https://www.goldmansachs.com/images/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation/gasoline-pumps-3x2.jpg",
-        "publishedAt": "2026-05-08T18:56:15Z",
-        "source": "Goldman Sachs"
+        "title": "Canada Post getting another $673M in federal funds to stay afloat",
+        "description": "A cabinet order gives the beleaguered Crown corporation up to $673 million so it can \"meet its operating and income\" demands through next March.",
+        "url": "https://globalnews.ca/news/11841034/canada-post-getting-more-federal-funds-to-stay-afloat/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/04/63157ca8548a7d0b4768d549c65bd4661998f6e514ba0eda4454c7c7d84f9574.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-05-08T19:46:41Z",
+        "source": "Global News"
       },
       {
-        "title": "Maersk North America Market Update - May 2026",
-        "description": "Explore Maersk’s May 2026 North America Market Update for the latest logistics insights on ocean routing, IEEPA tariff refunds, air freight demand, and customs compliance.",
-        "url": "https://www.maersk.com/news/articles/2026/05/08/north-america-market-update-may",
-        "image": "https://www.maersk.com/~/media_sc9/maersk/news/news/images/2026/05/nam-market-update/maersk-transport-truck_1024x576.jpg?h=576&w=1024&hash=B31F1932077035BDFACFAA3098761465",
-        "publishedAt": "2026-05-08T18:56:15Z",
-        "source": "Maersk"
+        "title": "Enbridge CEO says North American energy investment landscape best in at least 10 years",
+        "description": "Enbridge CEO Greg Ebel said the current investment climate for energy infrastructure in North America is the strongest in more than a decade.",
+        "url": "https://seekingalpha.com/news/4590131-enbridge-ceo-says-north-american-energy-investment-landscape-best-in-at-least-10-years",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640322960/image_640322960.jpg?io=getty-c-w630",
+        "publishedAt": "2026-05-08T19:44:49Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "NASA's Psyche Snaps Mars in Gravity Assist Flyby",
+        "description": "2 Min Read\nPIA26750\n\tCredits:\tNASA/JPL-Caltech/ASU\n\t\nPhotojournal NavigationSciencePhotojournalNASA's Psyche",
+        "url": "https://www.miragenews.com/nasas-psyche-snaps-mars-in-gravity-assist-flyby-1670402/",
+        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26750/PIA26750.jpg?w=1059&h=864&fit=clip&crop=faces%2Cfocalpoint",
+        "publishedAt": "2026-05-08T19:42:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Seoul National University Develops CRISPR Base Editing System to Inactivate Multiple Bacterial Genes",
+        "description": "Seoul National University researchers have engineered a […]",
+        "url": "https://www.geneonline.com/seoul-national-university-develops-crispr-base-editing-system-to-inactivate-multiple-bacterial-genes/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-05-08T19:36:44Z",
+        "source": "geneonline.com"
+      },
+      {
+        "title": "University of Tehran Develops CuBi₂S₄/Al₂WO₆/Ti₃C₂ Photocatalyst for Nitrate, Carbon Dioxide, and Water Reduction Using Visible Light",
+        "description": "Researchers at the University of Tehran have developed […]",
+        "url": "https://www.geneonline.com/university-of-tehran-develops-cubi%E2%82%82s%E2%82%84-al%E2%82%82wo%E2%82%86-ti%E2%82%83c%E2%82%82-photocatalyst-for-nitrate-carbon-dioxide-and-water-reduction-using-visible-light/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-05-08T19:34:41Z",
+        "source": "geneonline.com"
+      },
+      {
+        "title": "Ghoul Duel: May 8, 2026",
+        "description": "A duel between cosmic ghouls",
+        "url": "https://stardate.org/podcast/2026-05-08",
+        "image": "https://stardate.org/wp-content/uploads/2023/07/cropped-favicon-32x32.png",
+        "publishedAt": "2026-05-08T19:32:24Z",
+        "source": "StarDate Online"
+      },
+      {
+        "title": "Plant Found in Obscure Brazilian Rainforest Seems Weirdly Good at Fighting Covid-19",
+        "description": "The Brazilian tree extract‘s ‘multitarget’ attack on covid could also foil future strains of the virus.",
+        "url": "https://gizmodo.com/plant-found-in-obscure-brazilian-rainforest-seems-weirdly-good-at-killing-covid-19-2000756399",
+        "image": "https://gizmodo.com/app/uploads/2026/05/Brazil-Atlantic-Forest-Epiphytes-1200x675.jpg",
+        "publishedAt": "2026-05-08T19:25:27Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "YouTuber Drops Night Vision Camera Into the Indonesian Ocean Depths and Discovers Species Never Before Seen Alive",
+        "description": "A YouTuber dropped night vision cameras into the Indonesian Ocean and uncovered previously unseen species and strange marine behaviors, highlighting just how little we know about the deep sea.",
+        "url": "https://indiandefencereview.com/youtuber-night-vision-camera-ocean-species/",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/05/youtuber-drops-night-vision-camera-into-the-indonesian-ocean-depths-and-discovers-species-never-before-seen-alive-scaled.png",
+        "publishedAt": "2026-05-08T19:16:00Z",
+        "source": "Indian Defence Review"
+      },
+      {
+        "title": "Daily Breaking Science News & Technology Developments",
+        "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+        "url": "https://interestingengineering.com/science",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+        "publishedAt": "2026-05-08T19:13:00Z",
+        "source": "Interesting Engineering"
+      },
       {
         "title": "NASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions",
         "description": "NASA just tested a blazing-hot plasma engine that could help carry humans to Mars.",
@@ -142,128 +198,72 @@
         "image": "https://scitechdaily.com/images/JPL-Magnetoplasmadynamic-Electric-Thruster-scaled.jpg",
         "publishedAt": "2026-05-08T18:53:58Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Scientists Think the Fifth Dimension May Exist-and It’s Hiding Behind the Universe We Know",
-        "description": "On the latest episode of “The Astounding Pop Mech Show,” Shawn Gorman and John Gilpatrick discuss how reality may have been missing an entire layer all along.",
-        "url": "https://www.yahoo.com/news/articles/scientists-think-fifth-dimension-may-184349541.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/UjLK3pmrEuDXmL8DTphbBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/304249c557829930b38e68d64bbc763d",
-        "publishedAt": "2026-05-08T18:43:49Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Gemini 7 astronauts spotted 'brilliant body' with 'trillions of particles' in space more than 60 years ago",
-        "description": "An astronaut aboard the Gemini 7 space mission more than 60 years ago reported seeing a “bogey” unidentified object, according to files released by the Pentagon.",
-        "url": "https://nypost.com/2026/05/08/us-news/gemini-vii-astronauts-spotted-vehicle-in-space-more-than-60-years-ago/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/gemini-vii-mission-bogey-vehicle-space-comp.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-05-08T18:21:40Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "I Am Artemis: Anton Kiriwas",
-        "description": "3 Min Read\n\t\nListen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA's Exploration Ground",
-        "url": "https://www.miragenews.com/i-am-artemis-anton-kiriwas-1670369/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260508-ph-csh01-0032-e1778260308717.jpg?w=1536",
-        "publishedAt": "2026-05-08T18:02:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Plant Stress Sparks Unique CAMP Signaling",
-        "description": "The molecule cAMP, which plays essential roles in mammalian cells, is less well understood in plants. In a new Science Advances paper , researchers",
-        "url": "https://www.miragenews.com/plant-stress-sparks-unique-camp-signaling-1670365/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-05-08T18:02:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Antarctic sea ice defied global warming for decades - now, hidden ocean heat is breaking through",
-        "description": "In the Antarctic, things may be unfolding faster than climate models predicted – new study.",
-        "url": "https://theconversation.com/antarctic-sea-ice-defied-global-warming-for-decades-now-hidden-ocean-heat-is-breaking-through-282356",
-        "image": "https://images.theconversation.com/files/734731/original/file-20260508-63-w41ti6.jpg?ixlib=rb-4.1.0&rect=0%2C705%2C5874%2C2937&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2026-05-08T18:00:52Z",
-        "source": "The Conversation"
-      },
-      {
-        "title": "A ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover",
-        "description": "For decades, it seemed Antarctica might be insulated from rapid ice melting, but then sea ice began to decline dramatically. Scientists say they have figured out why",
-        "url": "https://www.yahoo.com/news/articles/triple-whammy-chaos-triggered-downward-180050005.html",
-        "image": "https://s.yimg.com/os/en/cnn_articles_875/3267c31b6cb6ec9e55cd67ae4043362d",
-        "publishedAt": "2026-05-08T18:00:50Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "A ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover",
-        "description": "For decades, it seemed Antarctica might be insulated from rapid ice melting, but then sea ice began to decline dramatically. Scientists say they have figured out why",
-        "url": "https://www.cnn.com/2026/05/08/climate/antarctic-sea-ice-decline-winds-warming-ocean",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-1611.jpeg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-05-08T18:00:50Z",
-        "source": "CNN"
       }
     ],
     "ai": [
       {
-        "title": "You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air",
-        "description": "Google's new Fitbit Air is a screen-free fitness tracker built for 24/7 health tracking, recovery insights, and AI coaching—without the smartwatch distractions.",
-        "url": "https://lifehacker.com/health/fitbit-air-preorder-deal-may-2026",
-        "image": "https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.fill.size_1200x675.png",
-        "publishedAt": "2026-05-08T19:00:49Z",
-        "source": "Lifehacker"
+        "title": "How Anthropic's Mythos Triggered Trump's AI Regulation U-Turn",
+        "description": "Anthropic's Mythos triggered a White House AI regulation U-turn, while Polymarket gives OpenAI just a 26% chance of completing an IPO this year.",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/05/52427784/how-anthropics-mythos-triggered-trumps-ai-regulation-u-turn",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Anthropic-Logo-Is-Displayed-On-A-Smartph.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-05-08T19:51:30Z",
+        "source": "Benzinga"
       },
       {
-        "title": "Anthropic Signs $1.8 Billion Computing Deal with Akamai Technologies",
-        "description": "Amazon-backed Anthropic has signed a $1.8 billion computing deal with Akamai Technologies , a cloud services provider, to help meet surging demand for its artificial intelligence software,...",
-        "url": "https://www.marketscreener.com/news/anthropic-signs-1-8-billion-computing-deal-with-akamai-technologies-ce7f5bdbdf81f520",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-05-08T19:00:17Z",
-        "source": "MarketScreener"
+        "title": "AfroAnimation Summit Co-Founder Keith White On Validating Creators Of Color, Loopi, And AI In Animation",
+        "description": "Keith White talks meeting the moment with creators of color, finding a middle ground with AI, and Loopi, his new tech venture for quality short form content.",
+        "url": "https://www.forbes.com/sites/sabrinareed/2026/05/08/afroanimation-summit-co-founder-keith-white-on-validating-creators-of-color-loopi-and-ai-in-animation/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69ea4c1583057679c026ac97/0x0.jpg?format=jpg&crop=3364,1576,x0,y597,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-08T19:49:01Z",
+        "source": "Forbes"
       },
       {
-        "title": "Must avoid dependencies on adversarial nations in AI: US official",
-        "description": "Must avoid dependencies on adversarial nations in AI: US official",
-        "url": "https://www.news18.com/agency-feeds/must-avoid-dependencies-on-adversarial-nations-in-ai-us-official-10081947.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_World_Section_Default_Image_1600x900-2025-07-4401653589b9d10b46b8abb07f758342-16x9.jpg",
-        "publishedAt": "2026-05-08T19:00:02Z",
-        "source": "News18"
+        "title": "Enbridge CEO says it's game on for growth amid rising demand",
+        "description": "Enbridge Inc. CEO Greg Ebel said that investors still aren’t fully appreciating a major shift in energy demand driven by AI. Find out more.",
+        "url": "https://financialpost.com/commodities/energy/oil-gas/enbridge-ceo-growth-surging-energy-demand",
+        "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/no0508enbridge.jpg",
+        "publishedAt": "2026-05-08T19:48:21Z",
+        "source": "Financial Post"
       },
       {
-        "title": "OpenAI has 3 new AI voice models that the ChatGPT maker says will ‘unlock a new class of voice apps for developers’",
-        "description": "Reasoning, translation and transcription all get a boost",
-        "url": "https://www.techradar.com/ai-platforms-assistants/openai-has-3-new-ai-voice-models-that-the-chatgpt-maker-says-will-unlock-a-new-class-of-voice-apps-for-developers",
-        "image": "https://cdn.mos.cms.futurecdn.net/9Vh7dQFb3iZmmcUPkP7Z4F-2560-80.jpg",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "TechRadar"
+        "title": "Enbridge CEO says it's 'game on' for growth amid surging energy demand",
+        "description": "Enbridge Inc. CEO Greg Ebel said that investors still aren’t fully appreciating a major shift in energy demand driven by AI. Find out more.",
+        "url": "https://calgaryherald.com/commodities/energy/oil-gas/enbridge-ceo-growth-surging-energy-demand/wcm/bdb53a32-eff5-41c5-9609-b5695f6a16b6",
+        "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/05/no0508enbridge.jpg",
+        "publishedAt": "2026-05-08T19:48:21Z",
+        "source": "Calgary Herald"
       },
       {
-        "title": "The Wayback Machine faces another threat from AI - ridiculously expensive hard drive prices",
-        "description": "AI's component black hole threatens to pull in another victim",
-        "url": "https://www.techradar.com/computing/internet/the-wayback-machine-faces-another-threat-from-ai-ridiculously-expensive-hard-drive-prices",
-        "image": "https://cdn.mos.cms.futurecdn.net/Sn8ww3vnaHqi2Y4YxKdMoZ-970-80.jpg",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "TechRadar"
+        "title": "White House rejects strict AI regulation approach",
+        "description": "Trump's AI regulation framework favors voluntary partnerships over mandates, aiming to preempt state laws with a national standard.",
+        "url": "https://crypto.news/white-house-rejects-strict-ai-regulation-approach/",
+        "image": "https://crypto.news/app/uploads/2024/11/crypto-news-White-House-option03.webp",
+        "publishedAt": "2026-05-08T19:45:00Z",
+        "source": "Crypto News"
       },
       {
-        "title": "BitsStrategy Launches Powerful Fully Automated AI Trading",
-        "description": "Participate in the round-the-clock cryptocurrency market with a powerful fully automated AI Trading Bot as BitsStrategy combines AI analysis, quantitative...",
-        "url": "https://www.globenewswire.com/news-release/2026/05/08/3291303/0/en/bitsstrategy-launches-powerful-fully-automated-ai-trading-bot-to-capture-24-7-crypto-market-opportunities.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/9a64293c-95be-4100-8479-de4e7afbf3ac",
-        "publishedAt": "2026-05-08T19:00:00Z",
-        "source": "GlobeNewswire"
+        "title": "Google will put more links to websites in AI Overviews",
+        "description": "Google's AI search will start citing its sources in several new ways.",
+        "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-1152x648.jpg",
+        "publishedAt": "2026-05-08T19:43:47Z",
+        "source": "Ars Technica"
       },
       {
-        "title": "Must avoid dependencies on adversarial nations in AI: US official",
-        "description": "But in order to fully realise the benefits of this incredible technology, we must be guided by the principles of openness, as well as focus on our security and our interoperability, and avoid any dependencies on adversarial nations, Morrison said at the event organised by the US-India Strategic Partnership Forum, ORF America and the Motwani Jadeja Foundation.",
-        "url": "https://www.devdiscourse.com/article/education/3901828-must-avoid-dependencies-on-adversarial-nations-in-ai-us-official",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_20_07_9483095.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-05-08T18:59:51Z",
-        "source": "Devdiscourse"
+        "title": "Apple CarPlay Just Got a Third AI Chatbot",
+        "description": "Grok has just joined ChatGPT and Perplexity on Apple CarPlay, giving drivers who converse with AI chatbots a third option to choose from. Developed by Elon Musk's xAI (now SpaceXAI after the two companies were recently folded into each other), Grok's Voice mode tends to offer more quirky responses compared to the other chatbots, but the app's main CarPlay interface is very similar, thanks to Apple's stringent rules.",
+        "url": "https://www.macrumors.com/2026/05/08/apple-carplay-third-ai-chatbot/",
+        "image": "https://images.macrumors.com/t/cya3pgxo1QnFDGOArHmzx22iXys=/5098x/article-new/2026/05/grok-carplay.jpg",
+        "publishedAt": "2026-05-08T19:42:00Z",
+        "source": "MacRumors"
       },
       {
-        "title": "Kevin O'Leary Says Americans Don't Understand Data Centers",
-        "description": "Kevin O'Leary has clashed with residents in Box Elder County, Utah over a new AI data center on a 40,000-acre campus.",
-        "url": "https://www.businessinsider.com/kevin-oleary-utah-data-center-stratos-opposition-water-electricity-jobs-2026-5",
-        "image": "https://i.insider.com/69fe177cba7ef34b41f36740?width=1200&format=jpeg",
-        "publishedAt": "2026-05-08T18:59:25Z",
-        "source": "Business Insider"
+        "title": "Willdan Group: A Meltdown Worth Buying - Robust AI/Utility Monetization Prospects",
+        "description": "WLDN buy thesis: accretive M&A, rising commercial mix, data center demand, strong margins and balance sheet. Click here to read my most recent analysis.",
+        "url": "https://seekingalpha.com/article/4901651-willdan-group-a-meltdown-worth-buying-robust-aiutility-monetization-prospects",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402586564/image_1402586564.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-08T19:33:17Z",
+        "source": "Seeking Alpha"
       }
     ]
   }
