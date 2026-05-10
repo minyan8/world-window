@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-10T14:38:32.781Z",
+  "fetchedAt": "2026-05-10T15:36:40.356Z",
   "sections": {
     "world": [
       {
-        "title": "Iran vows to retaliate against US if ships face further attacks during ceasefire",
-        "description": "Iran’s military warned of a “heavy assault” against US assets in the Middle East if Iranian vessels face more attacks during a ceasefire, which has yet to produce a long-term peace deal. Follow for live updates.",
-        "url": "https://edition.cnn.com/2026/05/09/world/live-news/iran-war-news",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-30t041705z-1365669286-rc23zkalp9pg-rtrmadp-3-iran-crisis-20260507010352518.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-05-10T02:38:00Z",
-        "source": "CNN"
+        "title": "Iran's IRGC warns US against strikes on its vessels in Persian Gulf, says missiles 'locked' onto targets",
+        "description": "The comments come amid heightened regional tensions following exchanges of fire involving US naval assets and Iranian forces near the Strait of Hormuz, a critical global energy transit route",
+        "url": "https://www.moneycontrol.com/world/iran-s-irgc-warns-us-assets-against-strikes-on-its-vessels-in-persian-gulf-says-missiles-locked-onto-targets-article-13914041.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260509173907_Strait-of-Hormuz-new-bloomberg.png",
+        "publishedAt": "2026-05-10T03:35:09Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Detectives revisit Dunmurry as reward offered over attack",
-        "description": "Detectives carried out road stops in Dunmurry near Belfast as Crimestoppers offered a reward of up to £20,000 for information about the car bomb attack on a police station two weeks ago.",
-        "url": "https://www.rte.ie/news/ulster/2026/0510/1572577-dunmurry-bomb/",
-        "image": "https://www.rte.ie/images/00244893-1600.jpg",
-        "publishedAt": "2026-05-10T02:35:18Z",
-        "source": "RTE.ie"
+        "title": "Twenty‑four Chinese citizens deported after immigration raids in Semporna",
+        "description": "SEMPORNA, May 10 — Twenty-four Chinese citizens were deported after they were detained during immigration operations in Semporna last month.The group, comprising 23 men and one...",
+        "url": "https://www.malaymail.com/news/malaysia/2026/05/10/twentyfour-chinese-citizens-deported-after-immigration-raids-in-semporna/219414",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/10/340198.jpg",
+        "publishedAt": "2026-05-10T03:31:06Z",
+        "source": "Malay Mail"
       },
       {
-        "title": "Rescheduling shows gains but pushes banking stress into future",
-        "description": "Bangladesh Bank data show that default loans in the country’s banking sector declined by Tk87,298 crore during the final three months of 2025",
-        "url": "https://www.tbsnews.net/economy/banking/rescheduling-shows-gains-pushes-banking-stress-future-1434596",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2020/05/15/banking_sector_0.jpg",
-        "publishedAt": "2026-05-10T02:35:00Z",
-        "source": "The Business Standard"
+        "title": "The rules of political engagement were rewritten this week, starting with Farage",
+        "description": "Two days before One Nation won Farrer, Farage’s Reform party triumphed in the UK.",
+        "url": "https://www.brisbanetimes.com.au/world/europe/the-rules-of-political-engagement-were-rewritten-this-week-starting-with-farage-20260510-p5zvdp.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_brisbanetimes_opinion_no_age_social_wm/2714bd01749a6dcf5e18763face1fd4758f789bc",
+        "publishedAt": "2026-05-10T03:30:00Z",
+        "source": "Brisbane Times"
       },
       {
-        "title": "Trump’s feuds, tensions with allies likely to outlast Iran war",
-        "description": "WASHINGTON: With his decision to pull some US troops from Germany, his threats to draw down forces elsewhere in...",
-        "url": "https://www.dawn.com/news/1999073",
-        "image": "https://www.dawn.com/_img/social-default.jpg",
-        "publishedAt": "2026-05-10T02:16:16Z",
-        "source": "Dawn"
+        "title": "The rules of political engagement were rewritten this week, starting with Farage",
+        "description": "Two days before One Nation won Farrer, Farage’s Reform party triumphed in the UK.",
+        "url": "https://www.theage.com.au/world/europe/the-rules-of-political-engagement-were-rewritten-this-week-starting-with-farage-20260510-p5zvdp.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/2714bd01749a6dcf5e18763face1fd4758f789bc",
+        "publishedAt": "2026-05-10T03:30:00Z",
+        "source": "The Age"
       },
       {
-        "title": "Experts raise the alarm over rising cases of Lupus,",
-        "description": "Medical experts and health stakeholders have raised concerns over the increasing number of lupus patients in Nigeria, warning that low public awareness and widespread misconceptions about the chronic autoimmune disease are worsening outcomes for sufferers.",
-        "url": "https://thesun.ng/experts-raise-the-alarm-over-rising-cases-of-lupus-decry-poor-awareness/",
-        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/05/World-Lupus-Day.png",
-        "publishedAt": "2026-05-10T02:09:13Z",
-        "source": "The Sun Nigeria"
+        "title": "In The Midst Of A Conflict, The UAE Pivots To Asia",
+        "description": "The UAE has demonstrated in recent weeks that it is prepared to stretch its boundaries, at least in economic terms, to make a dramatic pivot to Asia.",
+        "url": "https://www.forbes.com/sites/vasukishastry/2026/05/09/in-the-midst-of-a-conflict-the-uae-pivots-to-asia/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69fffa506e0e06359f0029be/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-10T03:29:12Z",
+        "source": "Forbes"
       },
       {
-        "title": "Xenophobic Attacks on African Nationals",
-        "description": "(Pretoria/Moscow Bureau) - The Government of the Republic of South Africa has noted the request by the Republic of Ghana for a debate at the upcoming",
-        "url": "https://www.pressenza.com/2026/05/south-africas-response-xenophobic-attacks-on-african-nationals/",
-        "image": "https://www.pressenza.com/wp-content/uploads/2026/05/46351-8thAUMid-Year_TrendingEmailer_English.png",
-        "publishedAt": "2026-05-10T02:06:29Z",
-        "source": "Pressenza - International Press Agency"
+        "title": "Miami: Suspected boat explosion injures 11",
+        "description": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
+        "url": "https://www.bbc.co.uk/news/articles/c7076k4e31do",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/060d/live/fe7cabc0-4c1a-11f1-9065-fbc107ca5dc1.jpg",
+        "publishedAt": "2026-05-10T03:24:44Z",
+        "source": "BBC"
       },
       {
-        "title": "Qaeda linked JNIM claims responsibility",
-        "description": "Rest of World News: At least 70 people have been killed in a fresh wave of jihadist attacks in central Mali over the past few days, according to local and security source.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/over-70-killed-in-attacks-in-mali-al-qaeda-linked-jnim-claims-responsibility/articleshow/130985336.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130985359,width-1280,height-720,imgsize-895163,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-10T02:05:00Z",
-        "source": "The Times of India"
+        "title": "Condom Prices in Nigeria May Rise Due to Mideast Conflict",
+        "description": "Health experts warn condom prices in Nigeria could rise due to global supply disruptions from the US-Iran conflict, impacting public health.",
+        "url": "https://punchng.com/nigeria-risks-hike-in-condom-prices-over-escalating-us-iran-war/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2017/02/13192446/Assorted-condoms.jpg",
+        "publishedAt": "2026-05-10T03:21:26Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "Ukraine war briefing: Moscow and Kyiv trade accusations of violating ceasefire",
-        "description": "Attacks continue but at a lower intensity; Putin signals preparedness to end the war. What we know on day 1,537",
-        "url": "https://www.theguardian.com/world/2026/may/10/ukraine-war-briefing-moscow-and-kyiv-trade-accusations-of-violating-ceasefire",
-        "image": "https://i.guim.co.uk/img/media/ecd5dad84a9eb209c61584beba47a1440419a97f/0_0_3911_3130/master/3911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b90c29f8e7e25a7512ab689166acf797",
-        "publishedAt": "2026-05-10T02:02:00Z",
-        "source": "The Guardian"
+        "title": "Putin says Ukraine war winding down, blasts West for backing Kyiv",
+        "description": "MOSCOW: Russian President Vladimir Putin on Saturday (May 9) said the war in Ukraine was winding down, slamming Western support for Kyiv, as the first day of a US-brokered ceasefire was marked by mutual accusations of violations.",
+        "url": "https://www.thestar.com.my/news/world/2026/05/10/putin-says-ukraine-war-winding-down-blasts-west-for-backing-kyiv",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/10/3900551.JPG",
+        "publishedAt": "2026-05-10T03:21:00Z",
+        "source": "The Star"
       }
     ],
     "business": [
       {
-        "title": "Hana Financial launches 5th startup program focused on AI entrepreneurship",
-        "description": "Hana Financial Group has begun recruiting participants for the fifth edition of “Hana Social Venture University,” its flagship entrepreneurship sup...",
-        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260510/hana-financial-launches-5th-startup-program-focused-on-ai-entrepreneurship",
-        "image": "https://newsimg.koreatimes.co.kr/2026/05/10/37b22df4-798a-4d1a-b50a-d4e105c1bbed.jpg",
-        "publishedAt": "2026-05-10T02:32:04Z",
-        "source": "The Korea Times"
-      },
-      {
-        "title": "B.C. expands direct liquor delivery rules, draws backlash from union",
-        "description": "The British Columbia government has made it easier for alcoholic drink manufacturers to directly distribute their products — but not everyone is happy about it.",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/bc-liquor-distribution-direct-delivery-rule-9.7194060",
-        "image": "https://i.cbc.ca/ais/80f948ed-0b6b-45cf-aa32-890f728abcc6,1760243218625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-        "publishedAt": "2026-05-10T02:27:00Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Does Impinj’s Q2 Profitability Guidance After Flat Q1 Results Change The Bull Case For PI?",
-        "description": "In April 2026, Impinj, Inc. reported first-quarter 2026 results showing essentially flat sales at US$74.25 million year over year, alongside a wider net loss of US$25.26 million and basic and diluted loss per share of US$0.83.\nAt the same time, the company issued second-quarter 2026 guidance that, if achieved, would represent a shift from loss to positive GAAP net income and diluted earnings per share.\nWe’ll now examine how Impinj’s move from a first-quarter loss to guided second-quarter...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-pi/impinj/news/does-impinjs-q2-profitability-guidance-after-flat-q1-results",
-        "image": "https://images.simplywall.st/asset/industry/8212000-choice1-main-header/1585186704996",
-        "publishedAt": "2026-05-10T02:26:57Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "US Senate Committee set to consider long-awaited crypto bill next week",
-        "description": "U.S. senators are set to consider long-awaited legislation that would create a regulatory framework for cryptocurrency next week, potentially ending a deadlock over the bill that pitted crypto companies against U.S. banks.",
-        "url": "https://citizen.digital/article/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week-n382376",
-        "image": "https://assets.citizen.digital/157233/conversions/cryptocurrency-bitcoin-iStock-1434149985-og_image.webp",
-        "publishedAt": "2026-05-10T02:18:39Z",
+        "title": "China energy imports drop in April amid Iran war as fuel exports hit decade low",
+        "description": "China's oil imports fell to the lowest level in almost four years in April as the closure of ​the Strait of Hormuz choked off supplies to the world's largest oil ‌importer.",
+        "url": "https://citizen.digital/article/china-energy-imports-drop-in-april-amid-iran-war-as-fuel-exports-hit-decade-low-n382375",
+        "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/167188/conversions/Hormuz-og_image.webp",
+        "publishedAt": "2026-05-10T03:35:05Z",
         "source": "Citizen Digital"
       },
       {
-        "title": "Diesel prices expected to drop next week",
-        "description": "Diesel prices in Metro Manila may decrease to between P70 and P90 per liter next week, following developments in Middle East peace talks.",
-        "url": "https://cebudailynews.inquirer.net/726446/diesel-prices-expected-to-drop-next-week",
-        "image": "https://cebudailynews.inquirer.net/files/2026/04/essential-04062026ybl.jpg",
-        "publishedAt": "2026-05-10T02:11:00Z",
-        "source": "Cebu Daily News"
+        "title": "Vietnamese workers among Southeast Asia’s least engaged despite high optimism: Gallup",
+        "description": "Vietnamese workers are among the most optimistic in Southeast Asia about their lives but also the least engaged with their workplaces, according to Gallup's State of the Global Workplace 2026 report.",
+        "url": "https://news.tuoitre.vn/vietnamese-workers-among-southeast-asia-s-least-engaged-despite-high-optimism-gallup-103260509163301835.htm",
+        "image": "https://cdn2.tuoitre.vn/zoom/600_315/471584752817336320/2026/5/9/z7807265306483cb8d1f29afb3e6272d85d8661e0efdec-1778309528012760269026-177831904342851680701-293-0-1365-2047-crop-17783190983431267561882.jpg",
+        "publishedAt": "2026-05-10T03:35:00Z",
+        "source": "Tuoi Tre News | The News Gateway to Vietnam"
       },
       {
-        "title": "What CVR Energy (CVI)'s Q1 Losses, Higher Throughput and Dividend Decision Mean For Shareholders",
-        "description": "In late April 2026, CVR Energy, Inc. reported first quarter 2026 results showing sales of US$1,980 million, a larger net loss of US$192 million, higher refining throughput, a US$0.10 per share cash dividend, and new production guidance for the second quarter.\nThis combination of stronger volumes but wider losses, alongside the decision to pay a dividend, gives investors fresh insight into the company’s balance between growth, profitability, and cash returns.\nWe’ll now examine how higher...",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-cvi/cvr-energy/news/what-cvr-energy-cvis-q1-losses-higher-throughput-and-dividen",
-        "image": "https://images.simplywall.st/asset/industry/1033000-choice1-main-header/1585186680256",
-        "publishedAt": "2026-05-10T02:02:30Z",
-        "source": "simplywall.st"
+        "title": "MITI says EVs won’t become more expensive, but can Malaysia’s CKD industry fill the gap?",
+        "description": "MITI says affordable EVs aren’t going away, but Malaysia’s current CKD EV capacity may not be enough to fill the gap left by CBU brands. Something doesn’t add up.",
+        "url": "https://soyacincau.com/2026/05/10/miti-ev-wont-be-more-expensive-malaysia-but-can-ckd-fill-the-cbu-gap/",
+        "image": "https://soyacincau.com/wp-content/uploads/2025/09/proton-ev-plant-tanjung-malim01.jpg",
+        "publishedAt": "2026-05-10T03:31:21Z",
+        "source": "SoyaCincau"
       },
       {
-        "title": "A Look At Corning (GLW) Valuation After The NVIDIA AI Infrastructure Partnership And Share Price Surge",
-        "description": "Corning (GLW) stock has been in focus after the company announced a multiyear partnership with NVIDIA that includes three new U.S. optical connectivity plants, a 10x capacity increase, and a US$500 million warrant investment.\nSee our latest analysis for Corning.\nThe NVIDIA deal has arrived on top of a run of upbeat news, including stronger Q1 2026 earnings, upgraded long term sales targets and fresh long term contracts with hyperscale customers. This helps explain Corning's 30 day share price...",
-        "url": "https://simplywall.st/stocks/us/tech/nyse-glw/corning/news/a-look-at-corning-glw-valuation-after-the-nvidia-ai-infrastr",
-        "image": "https://images.simplywall.st/asset/industry/9612017-choice1-main-header/1585186558495",
-        "publishedAt": "2026-05-10T02:02:28Z",
-        "source": "simplywall.st"
+        "title": "How China's western hinterland converts green energy into high-value digital currency",
+        "description": "In the era of generative AI, every click, prompt and answer relies on a tiny unit of data called a \"token.\" China's daily token usage skyrocketed to 100 trillion by the end of 2025, and demand for computing power has hit a fever pitch. But the heart",
+        "url": "https://news.cgtn.com/news/2026-05-10/How-China-s-western-hinterland-converts-green-energy-into-high-value-digital-currency-1N1F2ysinUA/p.html",
+        "image": "https://video.cgtn.com/news/2026-05-10/How-China-s-western-hinterland-converts-green-energy-into-high-value-digital-currency-1N1F2ysinUA/video/wu_1jo7pg37otsl166sk62s111r54a/wu_1jo7pg37otsl166sk62s111r54a-1280.jpg",
+        "publishedAt": "2026-05-10T03:20:56Z",
+        "source": "news.cgtn.com"
       },
       {
-        "title": "Assessing Butterfly Network (BFLY) Valuation After Recent Volatility And Handheld Ultrasound Momentum",
-        "description": "Recent stock move and business snapshot\nButterfly Network (BFLY) stock has recently traded around $4.24, with performance data showing mixed short term moves alongside a stronger past 3 months and 1 year. This has drawn attention to its handheld ultrasound business model.\nSee our latest analysis for Butterfly Network.\nRecent trading has been volatile, with a 1 day share price return of 6.8% decline and a 7 day share price return of 11.5% decline. However, the 90 day share price return of...",
-        "url": "https://simplywall.st/stocks/us/healthcare/nyse-bfly/butterfly-network/news/assessing-butterfly-network-bfly-valuation-after-recent-vola",
-        "image": "https://images.simplywall.st/asset/industry/6021000-choice2-main-header/1585186837163",
-        "publishedAt": "2026-05-10T02:02:24Z",
-        "source": "simplywall.st"
+        "title": "Soaring energy profits reignite calls for windfall tax",
+        "description": "European oil and gas companies who posted huge profits in the first quarter on soaring prices caused by the war in the Middle East face new calls from London to Paris to tax their outsized gains.",
+        "url": "https://www.france24.com/en/live-news/20260510-soaring-energy-profits-reignite-calls-for-windfall-tax",
+        "image": "https://s.france24.com/media/display/04ff66a0-4c1f-11f1-85a0-005056a97e36/w:1280/p:16x9/223b6e7071e1f20604e372a32aeb6039deea5221.jpg",
+        "publishedAt": "2026-05-10T03:19:14Z",
+        "source": "France 24"
+      },
+      {
+        "title": "Canadian developer takes Apple to court after iPhone maker removes app from App Store; complaint says: Apple’s actions ​denied users access to …",
+        "description": "Tech News News: Canadian app developer Rave has filed an antitrust lawsuit against Apple. According to a report by the news agency Reuters, the lawsuit alleges that t.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-developer-takes-apple-to-court-after-iphone-maker-removes-app-from-app-store-complaint-says-apples-actions-denied-users-access-to-/articleshow/130985745.cms",
+        "image": "https://static.toiimg.com/thumb/msid-130985741,width-1280,height-720,imgsize-22222,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-10T03:19:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Person dies after being hit by a plane at Denver International Airport",
+        "description": "A person who jumped a fence at a US airport has been killed after being struck by a plane during take-off.",
+        "url": "https://www.abc.net.au/news/2026-05-10/person-killed-after-being-hit-by-plane-denver-colorado/106663100",
+        "image": "https://live-production.wcms.abc-cdn.net.au/0c9b248d2d281debd021b23d772c1604?impolicy=wcms_watermark_news&cropH=546&cropW=970&xPos=0&yPos=455&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-10T03:18:53Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Traders looking for next leg in global stocks rally bet on Asia",
+        "description": "(May 10): As the focus moves away from the Iran war, investors and strategists alike are looking for the next leg up in equities. Many are turning to Asia.",
+        "url": "https://theedgemalaysia.com/node/802960",
+        "image": "https://assets.theedgemarkets.com/455748210-The_Samsung_Electronics_Co_HQ_in_Seoul,_South_Korea.-px-Jean_Chung_Bl_APP.jpg",
+        "publishedAt": "2026-05-10T03:15:44Z",
+        "source": "The Edge Malaysia"
       }
     ],
     "science": [
+      {
+        "title": "NASA And Katalyst Space Technologies Are Soon To Launch A Robotic Spacecraft, With Hopes That It Can Catch A Vital Observatory Before It Falls Back Into Our Atmosphere",
+        "description": "The best of the internet, sifted, and sorted.",
+        "url": "https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/",
+        "image": "https://twistedsifter.com/wp-content/uploads/2026/05/Copy-of-TWISTED-IMAGES-JPG-quality-75-size-180KB.jpg",
+        "publishedAt": "2026-05-10T03:36:30Z",
+        "source": "TwistedSifter"
+      },
+      {
+        "title": "Scientists Just Exposed a 300 Million-Year-Old Fossil Mistake",
+        "description": "The “world’s oldest octopus” was actually a 300-million-year-old fossil impostor hiding its secret in tiny teeth.",
+        "url": "https://scitechdaily.com/scientists-just-exposed-a-300-million-year-old-fossil-mistake/",
+        "image": "https://scitechdaily.com/images/Pohlsepia-mazonensis-Reconstruction-scaled.jpg",
+        "publishedAt": "2026-05-10T03:27:04Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "International Space Station to pass over city on May 10, 11",
+        "description": "staff reporter : in a unique event, the international space station (iss) can be sighted streaking across the sky of vidarbha on may 10 and 11. the iss is making a passover since friday evening and it will visible in vidarbha sky ti",
+        "url": "https://www.thehitavada.com/Encyc/2026/5/10/international-space-station-to-pass-over-city-on-may-10-11.html",
+        "image": "https://www.thehitavada.com/Encyc/2026/5/10/17_202605100845482499_H@@IGHT_172_W@@IDTH_526.png",
+        "publishedAt": "2026-05-10T03:19:40Z",
+        "source": "thehitavada.com"
+      },
+      {
+        "title": "From snowflakes to black holes, Professor Brian Cox examines intricacies of the universe in new show",
+        "description": "\"I don't know\" is one of the wisest things you can say and it's the foundation of science.”",
+        "url": "https://www.rnz.co.nz/life/people/from-snowflakes-to-black-holes-professor-brian-cox-examines-the-intricacies-of-the-universe-in-new",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--3jmBCSao--/t_tohu-badge-facebook/f_auto/q_auto/4LSAUHB_18_Brian_Cox_by_Dustin_Rabin_2862_1_jpg",
+        "publishedAt": "2026-05-10T03:12:34Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Ravens Don’t Follow Wolves, They Predict Them",
+        "description": "New research shows ravens use memory to locate areas where wolves are likely to make kills. Instead of trailing wolf packs, the birds rely on mental maps of productive hunting grounds.",
+        "url": "https://scitechdaily.com/ravens-dont-follow-wolves-they-predict-them/",
+        "image": "https://scitechdaily.com/images/Ravens-Flying-Over-Wolves-scaled.jpg",
+        "publishedAt": "2026-05-10T02:52:02Z",
+        "source": "SciTechDaily"
+      },
       {
         "title": "YouTuber records rare creatures with night vision camera 700 feet below sea level",
         "description": "A U.K. wildlife YouTuber just pulled off the kind of deep-sea reveal that feels like science fiction.",
@@ -158,112 +198,72 @@
         "image": "https://www.eurasiareview.com/wp-content/uploads/2026/05/a-127.jpg",
         "publishedAt": "2026-05-09T22:48:13Z",
         "source": "Eurasia Review"
-      },
-      {
-        "title": "Scientists Discover a New Way To Control Metals at the Atomic Scale",
-        "description": "The discovery could help make electronics faster and more energy efficient.",
-        "url": "https://scitechdaily.com/scientists-discover-a-new-way-to-control-metals-at-the-atomic-scale/",
-        "image": "https://scitechdaily.com/images/Strange-Metal-Technology-Concept.jpg",
-        "publishedAt": "2026-05-09T22:46:13Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Scientists discovered a hidden underground structure beneath America that could dangerously amplify future solar storms and massive power grid failures",
-        "description": "Jurassic Period lost basement raises serious solar storm concerns",
-        "url": "https://www.techradar.com/pro/geology-can-make-the-risks-of-solar-storms-1000-times-worse-below-the-us-is-a-200-kilometer-thick-lost-continent-that-could-put-data-centers-at-risk-by-making-strained-electrical-grids-even-worse",
-        "image": "https://cdn.mos.cms.futurecdn.net/jjZefSabZigDyoiYFNfs9K-2560-80.jpg",
-        "publishedAt": "2026-05-09T22:20:00Z",
-        "source": "TechRadar"
-      },
-      {
-        "title": "Saturn’s Icy Rings Likely Formed from Lost Moon \"Chrysalis\"",
-        "description": "You’re a long-necked Titanosaurs grazing the plains and chomping away on tree leaves about 100 million years ago in the Early Cretaceous in what would eventually become a future Starbucks location. You look up at the night sky and notice a bright dot that seems slightly larger and brighter than usual since you’ve seen it a bunch. You grunt at your cousin (official dinosaur language) asking if he notices it, too. Your cousin grunts back that it does seem bigger and brighter and wonders what’s up.",
-        "url": "https://www.universetoday.com/articles/saturns-icy-rings-likely-formed-from-lost-moon-chrysalis",
-        "image": "https://www.universetoday.com/article_images/moon_Chrysalis_disrupted_by_Saturns_gravity750px_20260509_221216.jpg",
-        "publishedAt": "2026-05-09T22:12:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Term Care Service Use Among Older Adults in China",
-        "description": "A recent study in *BMC Geriatrics* examined how older a […]",
-        "url": "https://www.geneonline.com/bmc-geriatrics-study-examines-medical-and-long-term-care-service-use-among-older-adults-in-china/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-05-09T21:51:43Z",
-        "source": "geneonline.com"
-      },
-      {
-        "title": "New Radar Technology Developed by Trinity and Technical University of Denmark to Track Insect Pollinators",
-        "description": "Scientists have created a new radar technology that may […]",
-        "url": "https://www.geneonline.com/new-radar-technology-developed-by-trinity-and-technical-university-of-denmark-to-track-insect-pollinators/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-05-09T21:49:45Z",
-        "source": "geneonline.com"
       }
     ],
     "ai": [
       {
-        "title": "CrowdStrike Stock (CRWD): Trimming Ahead Of Earnings Is The Right Move As AI Evolves",
-        "description": "CrowdStrike management projects FY 2027 revenue of $5.87–$5.93B, underpinned by rapid AI-native platform adoption. Read why CRWD stock is a Hold.",
-        "url": "https://seekingalpha.com/article/4902153-crowdstrike-trimming-ahead-of-earnings-is-the-right-move-as-ai-evolves-rating-downgrade",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255728449/image_1255728449.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-10T02:34:00Z",
-        "source": "Seeking Alpha"
+        "title": "South China Morning Post",
+        "description": "Readers discuss ensuring AI is but a bridge to effective mental health support, Thailand’s termination of its MOU with Cambodia, and the future of warfare.",
+        "url": "https://www.scmp.com/opinion/letters/article/3352725/its-ok-open-ai-bot-just-dont-stop-there",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/07/26233e39-db08-4202-8a87-7c1fc4944d80_ef6e58eb.jpg?itok=eUcvy-Tm&v=1778140457",
+        "publishedAt": "2026-05-10T03:30:07Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "How AI Is Causing Fear In The Workforce",
-        "description": "Top US experts on Timesnownews.com — From geopolitics to AI to lifestyle, get the views from the best in the world., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/how-ai-is-causing-fear-in-the-workforce-article-154282656",
-        "image": "https://images.timesnownews.com/thumb/msid-154282656,width-1280,height-720,resizemode-75/154282656.jpg",
-        "publishedAt": "2026-05-10T02:30:00Z",
-        "source": "Times Now"
+        "title": "Mother’s Day 2026: 5 viral AI prompts to create aesthetic photos with your mom for Instagram and Facebook",
+        "description": "Mother's Day is inspiring a new wave of social media trends, with users turning to AI tools to create creative and aesthetic photos with their mothers.",
+        "url": "https://www.financialexpress.com/life/technology-mothers-day-2026-5-viral-ai-prompts-to-create-aesthetic-photos-with-your-mom-for-instagram-and-facebook-4236750/",
+        "image": "https://images.financialexpressdigital.com/2026/05/mothersday_dbbf6e.jpg",
+        "publishedAt": "2026-05-10T03:21:28Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Science Snapshots: May 10, 2026",
-        "description": "Discover three groundbreaking research developments on insect pollinators, Arctic ecosystems, and an advanced AI tool for cell identification.",
-        "url": "https://www.thehindu.com/sci-tech/science/science-snapshots-may-10-2026/article70947231.ece",
-        "image": "https://th-i.thgim.com/public/incoming/1039sd/article69094737.ece/alternates/LANDSCAPE_1200/Pollinator_Decline.JPEG-08a47.jpg",
-        "publishedAt": "2026-05-10T02:30:00Z",
-        "source": "The Hindu"
+        "title": "Unmanned Japan lab opens with robots at work as researchers push AI, automation",
+        "description": "The robots can perform tasks such as transferring fixed amounts of reagents. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/unmanned-japan-lab-opens-with-robots-at-work-as-researchers-push-ai-automation",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/67825e8f0e996420265612f0171488e19c2bc625aaca53ea979331b29d30dd5b",
+        "publishedAt": "2026-05-10T03:12:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "On making AI inclusive and globally available",
-        "description": "Making AI inclusive and globally available",
-        "url": "https://www.thehindu.com/education/careers/on-making-ai-inclusive-and-globally-available/article70941422.ece",
-        "image": "https://th-i.thgim.com/public/education/iqupa6/article70941421.ece/alternates/LANDSCAPE_1200/Hrishikesh%20Dewan%20%20Co-Founder%20and%20CEO%20of%20%20Ziroh%20Labs.jpg",
-        "publishedAt": "2026-05-10T02:30:00Z",
-        "source": "The Hindu"
+        "title": "China scrambles to close AI security gap as Anthropic, OpenAI pull ahead with new models",
+        "description": "IDC projects that China’s AI cybersecurity industry will be valued at US$8.7 billion by 2030, a more than 37-fold increase from 2025.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3352978/china-scrambles-close-ai-security-gap-anthropic-openai-pull-ahead-new-models",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/09/dd76b259-1c04-4017-be91-18789db34c58_f25d853b.jpg?itok=wnghfuYj&v=1778306245",
+        "publishedAt": "2026-05-10T03:00:22Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "[Yeahmobi Insight] One in Six People Now Uses AI: A Turning Point for Global Advertising Strategies",
-        "description": "XI'AN, China, May 10, 2026 /PRNewswire/ -- Recent findings from Microsoft's 2025 Global AI Adoption Report show that personal AI usage worldwide has reached 16.3%, meaning approximately one in six people now incorporates AI tools into daily life or work. According to Yeahmobi, this shift signals more than growing technology adoption - it reflects a major change in consumer expectations, content behavior, and global advertising strategy.",
-        "url": "https://www.manilatimes.net/2026/05/10/tmt-newswire/pr-newswire/yeahmobi-insight-one-in-six-people-now-uses-ai-a-turning-point-for-global-advertising-strategies/2340112",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-05-10T02:24:57Z",
-        "source": "The Manila Times"
+        "title": "India is facing a data obesity epidemic-as storage in phones fails to keep up with people’s voracious appetite for visuals",
+        "description": "Indias growing use of smartphones, AI tools and social media is driving a surge in demand for digital storage, with experts warning of a “data obesity” problem as users struggle to manage ever-expanding files, photos and videos. Research firm Counterpoint estimates up to 100 million Indians could pay for cloud storage by 2030, up from around 10-15 million today.",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-is-facing-a-data-obesity-epidemicas-storage-in-phones-fails-to-keep-up-with-peoples-voracious-appetite-for-visuals/articleshow/130985481.cms",
+        "image": "https://img.etimg.com/thumb/msid-130985549,width-1200,height-630,imgsize-116918,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-10T02:45:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Trump Shares AI Image Showing 'Iranian Ships' On Ocean Floor As He Awaits Tehran's Response To Peace Prop",
-        "description": "Trump shared an AI image showing \"159 Iranian ships\" destroyed, contrasting Obama-Biden and Trump eras, as U.S. awaits Iran peace response amid tensions.",
-        "url": "https://www.benzinga.com/news/politics/26/05/52436356/trump-shares-ai-image-showing-iranian-ships-on-ocean-floor-as-he-awaits-tehrans-response-to-peace-proposal",
-        "image": "https://cdn.benzinga.com/files/images/story/2026/05/09/President-Of-The-United-States-Donald-Tr.jpeg?width=1200&height=800&fit=crop",
-        "publishedAt": "2026-05-10T02:19:38Z",
+        "title": "India is facing a data obesity epidemic-as storage in phones fails to keep up with people’s voracious appetite for visuals",
+        "description": "Indias growing use of smartphones, AI tools and social media is driving a surge in demand for digital storage, with experts warning of a “data obesity” problem as users struggle to manage ever-expanding files, photos and videos. Research firm Counterpoint estimates up to 100 million Indians could pay for cloud storage by 2030, up from around 10-15 million today.",
+        "url": "https://economictimes.indiatimes.com/news/india/india-is-facing-a-data-obesity-epidemicas-storage-in-phones-fails-to-keep-up-with-peoples-voracious-appetite-for-visuals/articleshow/130985481.cms",
+        "image": "https://img.etimg.com/thumb/msid-130985549,width-1200,height-630,imgsize-116918,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-10T02:45:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Nvidia's AI Investment Bets Top $40 Billion In 2026, Led By OpenAI Stake",
+        "description": "Nvidia reportedly committed more than $40 billion to AI investments in early 2026, including a major stake tied to OpenAI.",
+        "url": "https://www.benzinga.com/markets/tech/26/05/52436424/nvidia-ai-investor-40-billion-equity-commitments-2026",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/09/Nvidia-Investment-Growth-And-Profit-Trad.jpeg?width=1200&height=800&fit=crop",
+        "publishedAt": "2026-05-10T02:40:50Z",
         "source": "Benzinga"
       },
       {
-        "title": "Anthropic fixes its 'evil' AI problem, explains why Claude resorted to blackmail",
-        "description": "Anthropic has revealed why its Claude 4 model resorted to blackmail and how it ended up fixing the problem.",
-        "url": "https://www.livemint.com/technology/tech-news/anthropic-fixes-its-evil-ai-problem-explains-why-claude-resorted-to-blackmail-11778374151053.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/10/1600x900/logo/im-29347724_1777885427712_1778378436305.jpg",
-        "publishedAt": "2026-05-10T02:02:46Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Nvidia Jensen Huang on what excites him to most when it comes to robotics and physical AI: ‘We need a…’",
-        "description": "Tech News News: Nvidia CEO Jensen Huang has shared a bold vision for the future of artificial intelligence (AI) innovation, suggesting that the next great frontier fo.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-jensen-huang-on-what-excites-him-to-most-when-it-comes-to-robotics-and-physical-ai-we-need-a/articleshow/130982738.cms",
-        "image": "https://static.toiimg.com/thumb/msid-130982747,width-1280,height-720,imgsize-1035992,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-10T02:01:00Z",
-        "source": "Times of India"
+        "title": "India's hospital sector enters new growth cycle as AI and capacity expansion reshape care: Report",
+        "description": "The Indian hospital sector is poised for a sustained expansion over the next decade, driven by structural demand and a fresh investment cycle, according to a research report by brokerage firm Miare Asset Sharekhan. After years of balance-sheet repair and measured growth, listed chains are now accelerating capacity additions, signaling a shift from ARPOB-led profitability to volume-driven growth. With private insurance penetration rising and an acute bed shortage persisting, the industry is set to attract long-term capital even beyond FY30, the report said.",
+        "url": "https://www.tribuneindia.com/news/business/indias-hospital-sector-enters-new-growth-cycle-as-ai-and-capacity-expansion-reshape-care-report/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTljZmNjMmEwLTRjMTktMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+        "publishedAt": "2026-05-10T02:40:25Z",
+        "source": "The Tribune"
       }
     ]
   }
