@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-11T07:34:53.298Z",
+  "fetchedAt": "2026-05-11T09:30:27.902Z",
   "sections": {
     "world": [
       {
-        "title": "Hezbollah airs drone footage showing strike on Iron Dome battery in northern Israel",
-        "description": "Terror group continues to fire rockets, drones at IDF troops in south Lebanon, as Israel strikes Hezbollah infrastructure; Beirut says 2 Hezbollah-affiliated medics killed",
-        "url": "https://www.timesofisrael.com/hezbollah-airs-drone-footage-showing-strike-on-iron-dome-in-northern-israel/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260510__B2EU2L3__v1__HighRes__LebanonIsraelIranUsWar.jpg",
-        "publishedAt": "2026-05-10T19:34:00Z",
-        "source": "The Times of Israel"
+        "title": "Venezuela's Rodríguez to appear before UN court over mineral-rich Guyana region",
+        "description": "Venezuela’s acting President Delcy Rodríguez has arrived in the Netherlands to defend her country’s claim to a mineral- and oil-rich region in western Guyana before the United Nations highest court in a dispute that has spanned decades.",
+        "url": "https://apnews.com/article/venezuela-guyana-essequibo-icj-court-26b808a17924f196c103e203fd7a7833",
+        "image": "https://dims.apnews.com/dims4/default/74755d0/2147483647/strip/true/crop/4607x3070+428+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2F7d%2F6d2ed53c50311265a89b4cadb21a%2F2e51ed0430fb4eb7824dc1197d6c7d2c",
+        "publishedAt": "2026-05-10T21:29:00Z",
+        "source": "AP News"
       },
       {
-        "title": "We are at fault and we must be held accountable for that - Kalouniwai",
-        "description": "We are at fault and we must be held accountable for that - Kalouniwai",
-        "url": "https://www.fijivillage.com/news/we-are-at-fault-and-we-must-be-held-accountable-for-that-kalouniwai-a61834/",
-        "image": "https://www.fijivillage.com/news_images/20260511065050_media_6a00014a915ef0_35534281.jpg",
-        "publishedAt": "2026-05-10T19:27:15Z",
-        "source": "Fijivillage"
+        "title": "Fire crews remain at ‘massive blaze’ at Co Down waste site",
+        "description": "Smoke could be seen billowing from the Irish Waste site on the Hillsborough Road on Ballynahinch",
+        "url": "https://www.irishnews.com/news/northern-ireland/massive-blaze-breaks-out-at-co-down-waste-site-AFYPOAX34FHAXCI36EKJGBFRHE/",
+        "image": "https://www.irishnews.com/resizer/v2/2HGUVB7MLJCQVJ3AJMA2EKJAR4.jpeg?smart=true&auth=3c5d96889f089c96ede7fa1582dc9a3f984479a65e4bda8936c97ea02642e02a&width=1200&height=630",
+        "publishedAt": "2026-05-10T21:24:58Z",
+        "source": "The Irish News"
       },
       {
-        "title": "Record-breaking $161,000 bull worth every cent, owner says",
-        "description": "Wairarapa farmer Keith Higgins last year paid $161,000 for an Angus bull from a renowned stud.",
-        "url": "https://www.rnz.co.nz/news/country/594809/record-breaking-161-000-bull-worth-every-cent-owner-says",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--bPyZjNqQ--/t_tohu-badge-facebook/v1752034245/4K4J325_imagejpeg_0_3_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-05-10T19:19:33Z",
-        "source": "RNZ"
+        "title": "Canadians repatriated from hantavirus-stricken cruise ship to be flown to B.C.",
+        "description": "The four Canadian citizens who were aboard a cruise ship stricken with a rare hantavirus outbreak are being flown to British Columbia, according the federal government.",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+        "image": "https://i.cbc.ca/ais/46828816-788c-43e6-96d4-af236b68d895,1778435611209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C2556%2C1437%29%3BResize%3D620",
+        "publishedAt": "2026-05-10T21:22:23Z",
+        "source": "CBC"
       },
       {
-        "title": "Crime Destination Known As The \"Land Of A Thousand Hills\"",
-        "description": "U.S. State Department heightens travel advisory for picturesque destination known for its very low crime rate.",
-        "url": "https://www.aol.com/lifestyle/u-heightens-travel-warning-low-033138695.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/422D1798CEDD9B6E51C1C40E52F06BEED9C8B89CCBB77C82774A32148E8A00E8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_travel_articles_159%2F5cc0d3af763db83c2e82c7e62cf4e152",
-        "publishedAt": "2026-05-10T19:18:45Z",
-        "source": "AOL.com"
-      },
-      {
-        "title": "India, Iran to talk safe passage through Hormuz at BRICS meet",
-        "description": "India and Iran will discuss safe passage for Indian ships carrying energy through the Strait of Hormuz. Talks will occur during the BRICS Sherpa and foreign ministers' meetings in New Delhi. India faces challenges navigating the strait, impacting energy security. Diplomatic engagement has already facilitated the exit of eleven Indian ships. Thirteen ships remain in the Persian Gulf.",
-        "url": "https://economictimes.indiatimes.com/news/india/india-iran-to-talk-safe-passage-through-hormuz-at-brics-meet/articleshow/130998320.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130998400,width-1200,height-630,imgsize-222804,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-10T19:15:35Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
-        "description": "Israeli attacks are intensifying in southern Lebanon, with 552 killed since the ‘ceasefire’ started on April 16.",
-        "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a00c81389ae-1778436115.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-05-10T19:11:58Z",
+        "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+        "description": "US president will likely ‘apply pressure’ to China for buying Iranian oil during war.",
+        "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a00ea9e-1778444958.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-05-10T21:16:29Z",
         "source": "Al Jazeera"
       },
       {
-        "title": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
-        "description": "Some resorts enforce allocation rules from check-in to prevent people reserving loungers with towels in the \"sunbed wars\".",
-        "url": "https://www.bbc.com/news/articles/c99l17m2ep9o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/475a/live/b53ea2f0-4ca2-11f1-a52e-37ef6facf99b.jpg",
-        "publishedAt": "2026-05-10T19:04:13Z",
-        "source": "BBC"
+        "title": "level dialogue at Africa Forward Summit 2026",
+        "description": "Commenting on his participation in the summit, Mr. Koney expressed his appreciation to the French Government, Africa Forward Summit Secretariat and French Embassy in Ghana for inviting him to be part of the first of its kind Africa Forward Summit to reflect on the robust and balanced Africa - France partnerships built in support of each country’s economic developme",
+        "url": "https://www.myjoyonline.com/ghanas-chris-koney-participates-in-high-level-dialogue-at-africa-forward-summit-2026/",
+        "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-10-at-10.37.46.jpeg",
+        "publishedAt": "2026-05-10T21:16:19Z",
+        "source": "MyJoyOnline"
       },
       {
-        "title": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
-        "description": "Some resorts enforce allocation rules from check-in to prevent people reserving loungers with towels in the \"sunbed wars\".",
-        "url": "https://www.bbc.co.uk/news/articles/c99l17m2ep9o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/475a/live/b53ea2f0-4ca2-11f1-a52e-37ef6facf99b.jpg",
-        "publishedAt": "2026-05-10T19:04:13Z",
-        "source": "BBC"
+        "title": "War damage compensation, Hormuz sovereignty: Inside Iran's response to US proposal that Trump called ‘unacceptable’",
+        "description": "Trump described Iran’s latest response to his proposal aimed at ending the 10-week conflict with the US as “TOTALLY UNACCEPTABLE”. | World News",
+        "url": "https://www.hindustantimes.com/world-news/lifting-of-sanctions-30-day-negotiation-period-inside-iran-response-to-us-peace-proposal-trump-called-unacceptable-101778444106418.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/10/550x309/IRAN-US-ISRAEL-WAR-TRANSPORT-DAILYLIFE-4_1778447250737_1778447261059.jpg",
+        "publishedAt": "2026-05-10T21:14:46Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Trump set to ‘apply pressure’ on Xi over Iran",
+        "description": "The US president has repeatedly raised concerns over Chinese oil trade benefiting Iran and Russia ahead of a summit in Beijing.",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/05/11/trump-set-to-apply-pressure-on-xi-over-iran",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/fe1de0fc-trump-xi-jinping.jpg",
+        "publishedAt": "2026-05-10T21:12:47Z",
+        "source": "Free Malaysia Today"
+      },
+      {
+        "title": "TechReviewAfrica - News Details",
+        "description": "Your Trusted Tech News Platform",
+        "url": "https://techreviewafrica.com/news/5368/sansa-marks-15-years-with-launches-of-environmental-management-initiative-in-eastern-cape",
+        "image": "https://techreviewafrica.com/assets/images/news/2026/05/10/6a00f4bf1b83a1778447551.jpg",
+        "publishedAt": "2026-05-10T21:12:36Z",
+        "source": "Tech Review Africa"
       }
     ],
     "business": [
       {
-        "title": "Gardai concerned for missing man in grey Toyota who may have travelled to other county",
-        "description": "Martin Gibbons, who is 46 years old, was reported missing since Saturday, May 9 2026",
-        "url": "https://www.irishmirror.ie/news/irish-news/gardai-concerned-missing-man-grey-37136046",
-        "image": "https://i2-prod.irishmirror.ie/article37136102.ece/ALTERNATES/s1200d/696852109_122193465734387604_4674805926269818991_n.jpg",
-        "publishedAt": "2026-05-10T19:32:46Z",
-        "source": "Irish Mirror"
+        "title": "Bucks co-owner Wes Edens ID'd as victim in $1B blackmail plan: report",
+        "description": "Wes Edens, the billionaire co-owner of the Milwaukee Bucks, has been identified as the victim of an alleged $1 billion extortion scheme.",
+        "url": "https://www.jsonline.com/story/sports/nba/2026/05/10/bucks-co-owner-wes-edens-idd-as-victim-in-1b-blackmail-plan-report/90021749007/",
+        "image": "https://www.jsonline.com/gcdn/authoring/authoring-images/2025/10/23/PMJS/86846290007-bucks-22-28.jpg?crop=3499,1968,x0,y260&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-05-10T21:28:00Z",
+        "source": "Milwaukee Journal Sentinel"
       },
       {
-        "title": "Drombeg House in Glandore: 360‑year‑old Cork home fully restored and for sale at €2.5m",
-        "description": "Built in the 17th century, this home is now entering its golden age",
-        "url": "https://www.irishexaminer.com/property/residential/arid-41841513.html",
-        "image": "https://www.irishexaminer.com/cms_media/module_img/10145/5072583_9_seoimageog_5._20image_20003_20_1_.jpg",
-        "publishedAt": "2026-05-10T19:32:00Z",
-        "source": "Irish Examiner"
+        "title": "Data centres in space won’t escape conflict on Earth",
+        "description": "The trickier issue is governance – how these assets will be treated once they become part of a contested space environment.",
+        "url": "https://www.lowyinstitute.org/the-interpreter/data-centres-space-won-t-escape-conflict-earth",
+        "image": "https://www.lowyinstitute.org/sites/default/files/2026-05/44216211941_55ea7eab60_k.jpg",
+        "publishedAt": "2026-05-10T21:26:50Z",
+        "source": "Lowy Institute"
       },
       {
-        "title": "Trump Mobile promised a gold phone. Customers are still waiting",
-        "description": "Trump-branded phone launched with patriotic fanfare, but shifting timelines and limited updates fuel uncertainty",
-        "url": "https://www.salon.com/2026/05/10/trump-mobile-promised-a-gold-phone-customers-are-still-waiting/",
-        "image": "https://www.salon.com/app/uploads/2026/05/GettyImages-2220472716.jpg",
-        "publishedAt": "2026-05-10T19:30:33Z",
-        "source": "Salon.com"
-      },
-      {
-        "title": "Indian banks avoid fresh Gulf bets as Iran crisis drags on",
-        "description": "Indian banks are pausing new business in Gulf countries amid the Iran crisis. Lenders are closely watching existing ties to avoid financial trouble. State Bank of India and Punjab National Bank are among those taking a cautious approach. This move aims to manage risks and ensure stability in international operations.",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-avoid-fresh-gulf-bets-as-iran-crisis-drags-on/articleshow/130998580.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-130998589,width-1200,height-630,imgsize-121948,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-10T19:28:21Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Australia’s dying middle class - and the rise of an inherited wealth nation",
-        "description": "The wealth of Australia's middle-class has flatlined over five years but there's one group whose assets have soared.",
-        "url": "https://www.sbs.com.au/news/article/australias-dying-middle-class-and-the-rise-of-inherited-wealth/7fxfoew79",
-        "image": "https://assets.sbs.com.au/dims4/default/f0bc72e/2147483647/strip/true/crop/1913x1076+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F1c%2F47%2F09fe2f334ded88b9a23532e13c12%2Fimage-1.png",
-        "publishedAt": "2026-05-10T19:27:52Z",
-        "source": "SBS Australia"
-      },
-      {
-        "title": "Trump Unleashes in Unhinged 232-Word Rant for Mother’s Day",
-        "description": "He did not acknowledge the holiday in his opening post of the day.",
-        "url": "https://www.thedailybeast.com/trump-unleashes-in-unhinged-232-word-rant-about-iran-and-obama-for-mothers-day/",
-        "image": "https://www.thedailybeast.com/resizer/v2/UB6JR4EHAFFVHJWNPY7DEKF7TE.jpg?smart=true&auth=656caf2007a84a59e1dbf4d9a808f03860528073bbfc014672a90347c3f32cfb&width=1200&height=630",
-        "publishedAt": "2026-05-10T19:27:00Z",
-        "source": "The Daily Beast"
-      },
-      {
-        "title": "Glovo's KES 10 Billion Kenya Bet: Why Nairobi, and Why Now?",
-        "description": "Glovo's new Nairobi HQ and KES 10 billion pledge reflect Kenyan dominance, but the company's wider regulatory record matters too.",
-        "url": "https://tech-ish.com/2026/05/10/glovo-kenya-headquarters-10-billion-pledge-2030/",
-        "image": "https://tech-ish.com/wp-content/uploads/2019/08/Glovo-Kenya.jpg",
-        "publishedAt": "2026-05-10T19:26:09Z",
-        "source": "Techish Kenya"
-      },
-      {
-        "title": "HR manager, 41, says buyer’s market helped her purchase $520,000 Toronto condo",
-        "description": "Melissa’s patience paid off when lower home prices coincided with her finally feeling financially ready for home ownership",
-        "url": "https://www.theglobeandmail.com/investing/personal-finance/article-hr-manager-41-says-buyers-market-helped-her-purchase-520000-toronto/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/JOS3YNDWAJFZJKIIUTK3NW5RMA.jpg?auth=3b7927be6dd13221134afe64ed2792e175022dd0e8fd44114701fccbed979802&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-05-10T19:23:21Z",
+        "title": "Amber Kanwar’s Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing",
+        "description": "AI in focus for companies and countries",
+        "url": "https://www.theglobeandmail.com/investing/article-amber-kanwars-weekly-setup-constellation-software-and-goeasy-earnings/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/35BRVUDHB5BAJOYWE3UIMCD7VQ.JPG?auth=be7192a2ef0805f9e8e6b953296826175526b2abfaf9f177e8ecb67865a3a003&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-05-10T21:23:28Z",
         "source": "The Globe and Mail"
+      },
+      {
+        "title": "Bell Potter says this dominant blue-chip ASX 200 share is a buy",
+        "description": "This ASX 200 share has been named as a top buy by analysts at Bell Potter. Here's what you need to know...",
+        "url": "https://www.fool.com.au/2026/05/11/bell-potter-says-this-dominant-blue-chip-asx-200-share-is-a-buy/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2022/02/Three-keen-investors-16_9-1200x675.jpg",
+        "publishedAt": "2026-05-10T21:19:36Z",
+        "source": "The Motley Fool Australia"
+      },
+      {
+        "title": "Week Ahead for FX, Bonds : U.S. Inflation Data, -2-",
+        "description": "Bank Negara Malaysia is scheduled to release final first-quarter growth data on Friday. Advance estimates showed the economy grew 5.3%, a pace that appears sustainable.\nBank Negara Malaysia...\n-May 10, 2026 at 05:15 pm EDT\n- MarketScreener",
+        "url": "https://www.marketscreener.com/news/week-ahead-for-fx-bonds-u-s-inflation-data-2-ce7f5bd8dd89f320",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-05-10T21:15:31Z",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "Get ready for the whisper-filled office of the future",
+        "description": "How will work setups change if we spend more and more time talking to our computers?",
+        "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
+        "publishedAt": "2026-05-10T21:15:30Z",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Week Ahead for FX, Bonds : U.S. Inflation Data, Trump's China Visit in Focus",
+        "description": "By Dow Jones Newswires staff\nBelow are the most important global events likely to affect FX and bond markets in the week starting May 11.\nU.S. inflation will be the highlight of economic data...",
+        "url": "https://www.marketscreener.com/news/week-ahead-for-fx-bonds-u-s-inflation-data-trump-s-china-visit-in-focus-ce7f5bd8dd89f327",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-21T062028Z_1_LYNXNPEC8K0B8_RTROPTP_2_JAPAN-ECONOMY-BOJ.JPG",
+        "publishedAt": "2026-05-10T21:15:19Z",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "Fed Chair Jerome Powell’s Legacy Is Defending the Bank Against Trump",
+        "description": "Jerome Powell’s reputation as a champion for central bank independence was secured when he publicly challenged Trump’s Justice Department probe.",
+        "url": "https://www.bloomberg.com/features/2026-jerome-powell-fed-legacy/",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igcG_TAh4Uxk/v3/-1x-1.png",
+        "publishedAt": "2026-05-10T21:10:00Z",
+        "source": "Bloomberg.com"
       }
     ],
     "science": [
+      {
+        "title": "'Super shoes' boost running performance, but also injury numbers",
+        "description": "Researchers wanted to know whether the same design super shoe design that helps runners go faster also pushes their bodies toward injury.",
+        "url": "https://www.earth.com/news/super-shoes-advanced-footwear-technology-improve-running-performance-boost-injuries/",
+        "image": "https://cff2.earth.com/uploads/2026/05/10142151/advanced-footwear-technology-aft_super-shoes_carbon-plates_Springer_2m.jpg",
+        "publishedAt": "2026-05-10T21:00:00Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "New Article Explores Metacognition-Metamemory Systems Architecture",
+        "description": "The C# Corner article \"The Interplay of Metacognition and Metamemory: A Systems-Architecture Approach to Cognitive Governance\" presents a systems-architecture framing that distinguishes **metacognition** as a high-level executive layer from **metamemory** as a memory-specific subsystem. Per the article, the author maps a hierarchical **Monitor-Control loop**, surveys neurological foundations of cognitive oversight, and documents systematic failures such as the **Metamemory Expectancy Illusion**. The piece also discusses a modern shift toward **cognitive offloading** and argues for calibrating meta-level monitoring against objective memory performance. Editorial analysis: For practitioners designing cognitive architectures or human-AI interfaces, the article's framing foregrounds explicit monitoring signals, failure-mode diagnostics, and tradeoffs introduced by external memory aids.",
+        "url": "https://letsdatascience.com/news/new-article-explores-metacognition-metamemory-systems-archit-229af35f",
+        "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+        "publishedAt": "2026-05-10T20:32:07Z",
+        "source": "Let's Data Science"
+      },
+      {
+        "title": "NASA’s Webb telescope unveils stunning new view of Messier 77",
+        "description": "The James Webb Space Telescope has captured a striking new image of Messier 77, revealing glowing spiral arms, dense dust, and a bright galactic core 45 million light-years away.",
+        "url": "https://interestingengineering.com/space/nasa-webb-telescope-messier-77-view",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/image-1920x1080-2026-05-10T210404.752.png?w=1920",
+        "publishedAt": "2026-05-10T20:30:00Z",
+        "source": "Interesting Engineering"
+      },
+      {
+        "title": "Venus’ Atmosphere Jumps And Waves: Vast Atmospheric Waves On Venus Are Caused By Largest Known ‘Hydraulic Jump’",
+        "description": "The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University",
+        "url": "https://www.eurasiareview.com/10052026-venus-atmosphere-jumps-and-waves-vast-atmospheric-waves-on-venus-are-caused-by-largest-known-hydraulic-jump/",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/05/a-133.jpg",
+        "publishedAt": "2026-05-10T20:15:50Z",
+        "source": "Eurasia Review"
+      },
+      {
+        "title": "A violent volcanic eruption triggered a rare atmospheric cleanup",
+        "description": "Satellites show the violent 2022 Tonga eruption triggered unexpected methane breakdown high in the stratosphere.",
+        "url": "https://www.thebrighterside.news/post/a-violent-volcanic-eruption-triggered-a-rare-atmospheric-cleanup/",
+        "image": "https://www.thebrighterside.news/uploads/2026/05/volcano-6.jpg?auto=webp",
+        "publishedAt": "2026-05-10T20:07:00Z",
+        "source": "The Brighter Side of News"
+      },
+      {
+        "title": "Astronomers Find an X-Ray Key to the Red Dot Mystery",
+        "description": "Ever since JWST first began peering out at the early Universe a few years ago, astronomers have been spotting strange",
+        "url": "https://www.universetoday.com/articles/astronomers-find-an-x-ray-key-to-the-red-dot-mystery",
+        "image": "https://www.universetoday.com/article_images/xraydot_illus_unlabeled_20260510_195430.jpg",
+        "publishedAt": "2026-05-10T20:04:00Z",
+        "source": "Universe Today"
+      },
       {
         "title": "Hot Jupiter and mini-Neptune found in a system that shouldn’t exist",
         "description": "Scientists discovered a mini-Neptune with a heavy atmosphere, revealing new clues about how planets migrate through young solar systems.",
@@ -150,120 +198,72 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d3dc2032b5be1a912aa1a9/0x0.jpg?format=jpg&crop=4272,2401,x0,y190,safe&height=900&width=1600&fit=bounds",
         "publishedAt": "2026-05-10T18:30:00Z",
         "source": "Forbes"
-      },
-      {
-        "title": "Radio telescopes confirm 3.3-million-light-year halo in unusually quiet galaxy cluster",
-        "description": "Astronomers have employed the upgraded Giant Metrewave Radio Telescope (uGMRT) and the MeerKAT radio telescope to observe a galaxy cluster known as RXCJ0232–4420. Results of the new observations, published April 29 on the arXiv pre-print server, deliver important insights into the nature of this cluster.",
-        "url": "https://phys.org/news/2026-05-radio-telescopes-million-year-halo.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/radio-observations-pro.jpg",
-        "publishedAt": "2026-05-10T18:00:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "It's been conformed - the kraken monster really did exist, 100 million years ago....",
-        "description": "This giant cephalopod dwarfed mosasaurs and other massive marine reptiles that lived during the time of the dinosaurs…",
-        "url": "https://www.discoverwildlife.com/prehistoric-life/biggest-octopus-kraken",
-        "image": "https://c02.purpledshub.com/uploads/sites/62/2026/04/giant-octopus.png?w=1200",
-        "publishedAt": "2026-05-10T17:50:25Z",
-        "source": "BBC Wildlife Magazine"
-      },
-      {
-        "title": "Hubble Capture a Starry Spiral Cosmic Neighbor",
-        "description": "A spiral galaxy seen close up and tilted at an angle, so that its disc fills the view from corner to corner. Its disc is yellow near to the centre and pale blue farther out, showing cooler and hotter stars, respectively. Thin brown clouds of dust, glowing pink spots of star formation, and sparkling blue patches filled with star clusters swirl through the galaxy. Behind it, small orange dots are very distant galaxies.",
-        "url": "https://www.universetoday.com/articles/hubble-capture-a-starry-spiral-cosmic-neighbor",
-        "image": "https://www.universetoday.com/article_images/Starry_spiral_in_a_familiar_neighbourhood_20260510_173951.jpg",
-        "publishedAt": "2026-05-10T17:41:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "The Sky Today on Sunday, May 10: Can you catch Comet Tempel 2?",
-        "description": "Now 15th magnitude, the comet is well-positioned for observation late overnight and into the early-morning hours.",
-        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-may-10-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/04/ASY-SM0526_03.png",
-        "publishedAt": "2026-05-10T17:18:27Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "New Method Allows Repeated Genetic Data Extraction From Living Cells Without Destruction",
-        "description": "Researchers have developed a new method for repeatedly […]",
-        "url": "https://www.geneonline.com/new-method-allows-repeated-genetic-data-extraction-from-living-cells-without-destruction/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-05-10T16:45:30Z",
-        "source": "geneonline.com"
-      },
-      {
-        "title": "killing Asteroid By Duplicating Genomes",
-        "description": "Welcome to Astrobiology.com",
-        "url": "https://astrobiology.com/2026/05/plants-survived-the-dinosaur-killing-asteroid-by-duplicating-genomes.html",
-        "image": "https://astrobiology.com/wp-content/uploads/2026/05/Plants-Survived-1.png",
-        "publishedAt": "2026-05-10T16:42:38Z",
-        "source": "astrobiology.com"
       }
     ],
     "ai": [
       {
-        "title": "Why vertical AI matters",
-        "description": "India’s IT industry has a strong global position in delivering customized software solutions, with projected revenue of $300 billion by FY26. However, concerns about technological disruption and the rise of AI raise questions about the country’s role in the global technology ecosystem. | financialexpress.com",
-        "url": "https://www.financialexpress.com/shorts/technology/why-vertical-ai-matters-4237213/",
-        "image": "https://images.financialexpressdigital.com/2026/05/Uma_Ganesh_new-1_20251207183530_20260104175658_20260301174521_20260510192506.jpg",
-        "publishedAt": "2026-05-10T19:28:32Z",
-        "source": "The Financial Express"
+        "title": "Amber Kanwar’s Weekly Setup: Constellation Software and Goeasy earnings, plus Trump and Xi set to meet in Beijing",
+        "description": "AI in focus for companies and countries",
+        "url": "https://www.theglobeandmail.com/investing/article-amber-kanwars-weekly-setup-constellation-software-and-goeasy-earnings/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/35BRVUDHB5BAJOYWE3UIMCD7VQ.JPG?auth=be7192a2ef0805f9e8e6b953296826175526b2abfaf9f177e8ecb67865a3a003&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-05-10T21:23:28Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "AI-pilled graduates are not a big hit for finance jobs with their shallow ideas",
-        "description": "Finance firms are reassessing AI-native graduates as concerns grow over shallow analysis, weak critical thinking, and excessive dependence on generative AI tools.",
-        "url": "https://www.digitaltrends.com/computing/ai-pilled-graduates-are-not-a-big-hit-for-finance-jobs-with-their-shallow-ideas/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/04/DT-2026-04-20T095535.942.jpg?resize=1200%2C630",
-        "publishedAt": "2026-05-10T19:24:43Z",
-        "source": "Digital Trends"
+        "title": "Kullu students combine agriculture & AI to revolutionise apple harvesting",
+        "description": "‘Appy’, a smart apple-plucking device, wins top honours at the 53rd State-Level Children's Science Exhibition.",
+        "url": "https://www.tribuneindia.com/news/himachal/kullu-students-combine-agriculture-ai-to-revolutionise-apple-harvesting/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjYmE3ZTcwLTRjZTEtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+        "publishedAt": "2026-05-10T21:21:59Z",
+        "source": "The Tribune"
       },
       {
-        "title": "'Not Smart Enough': Trump-Backed Republican Clowned Over Alleged AI Goof-Up",
-        "description": "Rep. Thomas Massie made a mockery of his primary challenger Ed Gallrein for sharing the \"polished\" message on the campaign trail.",
-        "url": "https://www.huffpost.com/entry/trump-ed-gallrein-ai-campaign-post-thomas-massie-kentucky-gop-primary_n_6a00b993e4b0cb033e52320f",
-        "image": "https://img.huffingtonpost.com/asset/6a00bcb218000087ffd66cdc.jpeg?cache=OpOPMPbUGP&ops=1200_630",
-        "publishedAt": "2026-05-10T19:15:11Z",
-        "source": "HuffPost"
+        "title": "Unmanned lab opens with robots at work as researchers push AI, automation",
+        "description": "A Tokyo-based university has opened a laboratory where robots are carrying out medical experiments once handled by human researchers as it aims to eventually automate nearly the entire research process. The facility at the Institute of Science Tokyo's Yushima campus, known as the Robotics Innovation Center, features 10 robots, including…",
+        "url": "https://japantoday.com/category/tech/unmanned-lab-opens-with-robots-at-work-as-researchers-push-ai-automation",
+        "image": "https://media.japantoday.com/img/store/6d/a4/fc5de34c3f7d4b7bfa994f60273cd3f233f5/20260507kw___0019600010-ph-----n-ci0004/_w1700.jpeg",
+        "publishedAt": "2026-05-10T21:20:17Z",
+        "source": "Japan Today"
       },
       {
-        "title": "CMS Info Systems bags Rs 400 crore HDFC Bank ATM management mandate",
-        "description": "CMS Info Systems has won a significant Rs 400 crore contract with HDFC Bank. The deal spans five years and involves managing 6,000 ATMs. CMS will offer complete ATM services, including cash management and AI-driven optimization. This partnership follows CMS's previous work with ICICI Bank and State Bank of India.",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/cms-info-systems-bags-rs-400-crore-hdfc-bank-atm-management-mandate/articleshow/130998405.cms",
-        "image": "https://img.etimg.com/thumb/msid-130998478,width-1200,height-630,imgsize-221858,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-10T19:14:00Z",
-        "source": "The Economic Times"
+        "title": "Sony's AI Robot Took On Human Table Tennis Pros - Here's Who Came Out On Top",
+        "description": "Sony’s Ace robot beat elite table tennis players but struggled against pros, later improving enough to beat three of four new opponents.",
+        "url": "https://www.slashgear.com/2166058/sony-ai-robot-vs-human-table-tennis-pros/",
+        "image": "https://www.slashgear.com/img/gallery/sonys-ai-robot-took-on-human-table-tennis-pros-heres-who-came-out-on-top/l-intro-1778078705.jpg",
+        "publishedAt": "2026-05-10T21:15:00Z",
+        "source": "SlashGear"
       },
       {
-        "title": "AI recruited to speed up home approvals, in budget set to reshape housing market",
-        "description": "Artificial intelligence will be recruited to speed up assessments of housing and energy projects waiting for environmental approval, as the government races to build more homes and ward off a key frustration turning voters away from the major parties.",
-        "url": "https://www.abc.net.au/news/2026-05-11/housing-artificial-intelligence-epbc-assessments-federal-budget/106663464",
-        "image": "https://live-production.wcms.abc-cdn.net.au/2dd3c5340691e296ea254f08718807f3?impolicy=wcms_watermark_news&cropH=1973&cropW=3508&xPos=0&yPos=183&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-10T19:05:05Z",
-        "source": "ABC (Australian Broadcasting Corporation)"
+        "title": "S&P 500 and Nasdaq notch records, boosted by AI",
+        "description": "The S&P 500 and ‌the Nasdaq have surged to record highs this week as investors focused on strong financial reports from US companies.",
+        "url": "https://www.perthnow.com.au/news/business/markets/sp-500-and-nasdaq-notch-records-boosted-by-ai-c-22263539",
+        "image": "https://images.perthnow.com.au/publication/C-22263539/ffff7556e795e35a306150b88117ef04c8eee497-16x9-x0y0w1280h720.jpg?imwidth=1200",
+        "publishedAt": "2026-05-10T21:02:04Z",
+        "source": "PerthNow"
       },
       {
-        "title": "Who's a good boy? AI can't replace doggie actors, director says",
-        "description": "LAS VEGAS, United States — When director Robert Vince was filming 'Air Bud Returns,' he was impressed to see Roscoe, his four-legged star, improvising concern in a scene where two humans burst into tears.",
-        "url": "https://www.manilatimes.net/2026/05/11/news/world/whos-a-good-boy-ai-cant-replace-doggie-actors-director-says/2340279",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/11/1050628.jpg",
-        "publishedAt": "2026-05-10T18:53:00Z",
-        "source": "The Manila Times"
+        "title": "Palantir Stock Has a ‘High-Class Problem’: Demand for Its Software Is Far Outpacing Supply",
+        "description": "Palantir’s greatest challenge may no longer be demand, but how quickly it can deliver AI software to customers.",
+        "url": "https://www.barchart.com/story/news/1838881/palantir-stock-has-a-high-class-problem-demand-for-its-software-is-far-outpacing-supply",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/A%20Palantir%20office%20building%20in%20Tokyo_%20Image%20by%20Hiroshi-Mori-Stock%20via%20Shutterstock_.jpg",
+        "publishedAt": "2026-05-10T21:00:02Z",
+        "source": "Barchart"
       },
       {
-        "title": "Fashion designers are experimenting with AI, but not everyone is a fan",
-        "description": "As Australian Fashion Week gets underway in Sydney, local and international designers debate the merits and detractions of using AI in the industry.",
-        "url": "https://www.abc.net.au/news/2026-05-11/ai-in-fashion-australian-fashion-week/106641632",
-        "image": "https://live-production.wcms.abc-cdn.net.au/de5bbd8c257c7f52c135c9b0fca96485?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-10T18:30:00Z",
-        "source": "ABC (Australian Broadcasting Corporation)"
+        "title": "Can Singapore’s ‘protect every worker’ doctrine take on AI?",
+        "description": "It's worth asking more questions about direction, human learning and our plans for the next generation of graduates. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/opinion/can-singapores-protect-every-worker-doctrine-take-on-ai",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4f60127bf004e93aa36728c52bd8374108fcbeb8ab37f01428dc70631cb6e6e8",
+        "publishedAt": "2026-05-10T21:00:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "AI eats software: Top investor dumps Microsoft shares",
-        "description": "One of the world's largest hedge funds is almost completely divesting its long-standing Microsoft position due to AI concerns.",
-        "url": "https://www.heise.de/en/news/AI-eats-software-Top-investor-dumps-Microsoft-shares-11288679.html",
-        "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/9/7/6/0/shutterstock_370707185-235358acdf48afcb.jpg",
-        "publishedAt": "2026-05-10T18:27:00Z",
-        "source": "Heise Online"
+        "title": "SIT-designed AI, VR tools used to assess workers’ skills and address gaps",
+        "description": "SIT is working with SkillsFuture Singapore to create a national standard for testing a variety of professional skills. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/sit-designed-ai-vr-tools-used-to-assess-workers-skills-and-address-gaps",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3df3fe29d2cbb4aff8bb2305910df0a7171a63a6f08f57d8dac0a495ed812557",
+        "publishedAt": "2026-05-10T21:00:00Z",
+        "source": "The Straits Times"
       }
     ]
   }
