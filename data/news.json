@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-12T10:13:57.601Z",
+  "fetchedAt": "2026-05-12T11:06:45.360Z",
   "sections": {
     "world": [
       {
-        "title": "Election results 2026: Why welfare policies aren't winning polls in India like it used to",
-        "description": "India's welfare politics still matters, but voters increasingly want jobs, growth and dignity too.",
-        "url": "https://www.bbc.co.uk/news/articles/cn0pwy944pwo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f797/live/bdf1a730-ccf5-11f0-9fb5-5f3a3703a365.jpg",
-        "publishedAt": "2026-05-11T22:12:16Z",
-        "source": "BBC"
+        "title": "British PM is sinking slowly as his party turns on him",
+        "description": "Sir Keir Starmer is on borrowed time as senior cabinet members lose faith in him, but as the drama unfolds the entire episode piles more humiliation on the UK Labour Party",
+        "url": "https://www.theage.com.au/world/europe/the-british-prime-minister-is-sinking-slowly-as-his-party-turns-against-him-20260512-p5zvul.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2106%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_306%2C$y_77/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/4399f7989c3546cd884291f170c2ad849970b3ba",
+        "publishedAt": "2026-05-11T23:05:54Z",
+        "source": "The Age"
       },
       {
-        "title": "I led hikers up an Indonesian volcano - and then it erupted",
-        "description": "An Indonesian guide who led hikers up Mount Dukono has described the moment of Friday's eruption which killed three people.",
-        "url": "https://www.bbc.co.uk/news/articles/cz623qjqjd6o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df9d/live/e6fb82d0-4d93-11f1-82c1-3d0fc24510c8.jpg",
-        "publishedAt": "2026-05-11T22:10:48Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Mount Dukono: I led hikers up an Indonesian volcano",
-        "description": "An Indonesian guide who led hikers up Mount Dukono has described the moment of Friday's eruption which killed three people.",
-        "url": "https://www.bbc.com/news/articles/cz623qjqjd6o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3ee9/live/33305b70-4d22-11f1-83ff-c3e888f84f13.jpg",
-        "publishedAt": "2026-05-11T22:10:48Z",
-        "source": "BBC"
-      },
-      {
-        "title": "More than 70 Labour MPs and Senior cabinet ministers urge UK PM Keir Starmer to quit after crushing election losses",
-        "description": "UK News: More than 70 Labour lawmakers have reportedly urged British Prime Minister Keir Starmer to step down after the ruling party suffered major losses in l.",
-        "url": "https://timesofindia.indiatimes.com/world/uk/more-than-70-labour-mps-and-senior-cabinet-ministers-urge-uk-pm-keir-starmer-to-quit-after-crushing-election-losses/articleshow/131025099.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131025138,width-1280,height-720,imgsize-27462,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-11T22:10:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Why a slice of Edinburgh is being bought up by overseas owners",
-        "description": "More than a third of the properties in Quartermile area have been bought by people based outside the UK.",
-        "url": "https://www.bbc.co.uk/news/articles/cj0v65mj978o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5541/live/17615de0-4d77-11f1-8019-43fe7faaee2b.jpg",
-        "publishedAt": "2026-05-11T22:01:09Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Middle East conflict forces Southeast Asia’s pivot to travellers from the region, but gaps remain",
-        "description": "Countries like Malaysia, Indonesia and Thailand are recalibrating their tourism strategies, while tour operators have ramped up intra-Asia offerings as airspace restrictions and rising costs weaken long-haul demand.",
-        "url": "https://www.channelnewsasia.com/asia/southeast-asia-tourism-pivot-malaysia-thailand-indonesia-china-middle-east-conflict-short-haul-6111931",
-        "image": "https://dam.mediacorp.sg/image/upload/s--jM5XrcLh--/c_crop,h_900,w_1600,x_0,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/10/000_36ww32t.jpg?itok=q9ATt6O6",
-        "publishedAt": "2026-05-11T22:00:00Z",
+        "title": "Trump says Iran ceasefire is 'on life support' as hopes for a deal fade",
+        "description": "\"I would call it the weakest right now, after reading that piece of garbage they sent us. I didn't even finish reading it,\" US President Donald Trump said after Iran’s response to Washington’s peace proposal.",
+        "url": "https://www.channelnewsasia.com/world/iran-war-trump-peace-proposal-strait-hormuz-gas-6114256",
+        "image": "https://dam.mediacorp.sg/image/upload/s--YsamXG4q--/c_crop,h_562,w_999,x_1,y_7/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Trump__9414.jpg?itok=U-JecfXG",
+        "publishedAt": "2026-05-11T23:04:20Z",
         "source": "CNA"
       },
       {
-        "title": "Proposed US-China ‘Board of Trade’ may steady ties but expectations diverge ahead of Trump-Xi summit",
-        "description": "As trade disputes loom over this week’s meeting between US President Donald Trump and his Chinese counterpart Xi Jinping, proposals for a “Board of Trade” and a separate “Board of Investment” may be on the table.",
-        "url": "https://www.channelnewsasia.com/east-asia/us-china-board-trade-investment-trump-xi-beiijing-summit-6100896",
-        "image": "https://dam.mediacorp.sg/image/upload/s--M2tOhYjZ--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-05-12t155306z_6_lynxmpel4b06n_rtroptp_3_usa-trump-tariffs-china-talks.jpg?itok=okeO_pIN",
-        "publishedAt": "2026-05-11T22:00:00Z",
-        "source": "CNA"
+        "title": "Southeast Asia's second largest economy witnesses 3.5% tourism decline in first four months",
+        "description": "Thailand, Southeast Asia's second largest economy, welcomed 12 million foreign tourists in the first four months of this year, down 3.45% from a year earlier, as the country stepped up efforts to crack down on unruly visitors to protect its tourism image. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/travel/southeast-asia-s-second-largest-economy-witnesses-3-5-tourism-decline-in-first-four-months-5072343.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/05/11/mj3sjrdax5o2tbt6ukkycfch7m1779-3447-7863-1778466077.png?w=680&h=0&q=100&dpr=1&fit=crop&s=wZ806BHAjIswXMp56WPHEg",
+        "publishedAt": "2026-05-11T23:03:15Z",
+        "source": "VnExpress International"
       },
       {
-        "title": "'2026 ASEAN Panorama' brings Southeast Asia to Seoul",
-        "description": "The ASEAN-Korea Centre (AKC) has launched the “2026 ASEAN Panorama,” marking the start of a five-month rotating exhibition showcasing products and...",
-        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260512/2026-asean-panorama-brings-southeast-asia-to-seoul",
-        "image": "https://newsimg.koreatimes.co.kr/2026/05/11/66b578d4-d057-411f-9c0c-a057b712ae62.jpg",
-        "publishedAt": "2026-05-11T22:00:00Z",
-        "source": "The Korea Times"
+        "title": "Overseas student numbers to reach 9 million but ‘elitism remains’",
+        "description": "‘Stark’ regional inequalities persist despite massive expansion of higher education globally, finds Unesco",
+        "url": "https://www.timeshighereducation.com/news/overseas-student-numbers-reach-9-million-elitism-remains",
+        "image": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/istock-1358129924.jpg?itok=_4eulwZt",
+        "publishedAt": "2026-05-11T23:01:00Z",
+        "source": "Times Higher Education"
+      },
+      {
+        "title": "Cabinet split as Home Secretary Shabana Mahmood among ministers calling for Starmer to set out timetable for resignation",
+        "description": "Keir Starmer earlier promised to prove \"doubters wrong\". Scores of MPs have now publicly urged him either to quit immediately or set out a timetable to leave.",
+        "url": "https://www.bbc.co.uk/news/live/c1m2e4nl1z1t",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6260/live/b28dc040-4d51-11f1-ac78-2112837ce2aa.jpg",
+        "publishedAt": "2026-05-11T23:00:07Z",
+        "source": "BBC"
+      },
+      {
+        "title": "UK leader Starmer fights to save premiership as scores of Labour lawmakers urge him to resign",
+        "description": "Britain’s Prime Minister Keir Starmer is fighting to keep his job after his appeal for a “reset,” following disastrous results in last week’s local elections, was met with scores of lawmakers in his governing Labour Party calling for him to quit.",
+        "url": "https://www.cnn.com/2026/05/11/uk/uk-starmer-labour-calls-to-resign-latam-intl",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22612613-1440645-162-still.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-11T22:58:22Z",
+        "source": "CNN"
+      },
+      {
+        "title": "CMA CGM Expands Support For Kenyan Logistics",
+        "description": "The CMA CGM Group has signed a high-level framework agreement for joint cooperation with Keynan institutional authorities…",
+        "url": "https://www.marinelink.com/news/cma-cgm-expands-support-kenyan-logistics-539039",
+        "image": "https://images.marinelink.com/images/maritime/w800/source-170503.jpg",
+        "publishedAt": "2026-05-11T22:58:16Z",
+        "source": "Marine News Magazine"
+      },
+      {
+        "title": "Robert Kagan on why he believes U.S. faces likely defeat in Iran",
+        "description": "For perspective on the state of the conflict with Iran and the latest peace proposals, Amna Nawaz spoke with Robert Kagan, senior fellow at the Brookings Institution and a contributing writer for The Atlantic.",
+        "url": "https://www.pbs.org/newshour/show/robert-kagan-on-why-he-believes-u-s-faces-likely-defeat-in-iran",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/irandis-1024x683.jpg",
+        "publishedAt": "2026-05-11T22:50:58Z",
+        "source": "PBS"
       }
     ],
     "business": [
       {
-        "title": "Stock Market Today, May 11: Archer Aviation Inches Higher After Positive Q1 Earnings",
-        "description": "On May 11, 2026, investors weighed Archer's solid Q1 earnings versus the company's cash burn and rising eVTOL competition.",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/11/stock-market-today-may-11-archer-aviation-inches-higher-after-positive-q1-earnings/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F446dde0c7af61257ba43e10a3a4377ea2eab4d36-300x180.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-        "publishedAt": "2026-05-11T22:13:39Z",
-        "source": "The Motley Fool"
+        "title": "Harris rules out Irish-only windfall tax on energy giants over possible impact on 'investment'",
+        "description": "The finance minister says the government prefers an EU-wide approach; however, the European Commission insists a similar initiative in 2022 had mixed results.",
+        "url": "https://www.thejournal.ie/energy-sector-ireland-7036561-May2026/",
+        "image": "https://img2.thejournal.ie/article/7036561/river/?height=400&version=7036777",
+        "publishedAt": "2026-05-11T23:06:00Z",
+        "source": "The Journal"
       },
       {
-        "title": "Cove Capital Investments, LLC Fully Subscribes Debt-Free Cove Diversified Portfolio 88 DST",
-        "description": "Cove Capital Investments, LLC announced its Cove Diversified Portfolio 88 DST, a Regulation D Rule 506(c) offering, is fully subscribed. The total equity rai...",
-        "url": "https://www.businesswire.com/news/home/20260511666022/en/Cove-Capital-Investments-LLC-Fully-Subscribes-Debt-Free-Cove-Diversified-Portfolio-88-DST",
-        "image": "https://mms.businesswire.com/media/20260511666022/en/2802011/22/CCILogo.jpg",
-        "publishedAt": "2026-05-11T22:13:00Z",
-        "source": "Business Wire"
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800",
+        "publishedAt": "2026-05-11T23:04:10Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "U.S. Inbound Tourism Drops 14% in April, Erasing Two Months of Gains",
-        "description": "The U.S. received 2.6 million visitors last month, a 14.1% year-over-year drop, according to federal data.",
-        "url": "https://skift.com/2026/05/11/us-inbound-international-tourism-april/",
-        "image": "https://skift.com/wp-content/uploads/2026/02/Times_Square_4-e1778536857325.jpg?resize=1024,683",
-        "publishedAt": "2026-05-11T22:12:15Z",
-        "source": "Skift"
+        "title": "Spar retailers revolt, call for chair’s head",
+        "description": "Spar’s guild members say Mike Bosman’s continued presence is untenable, and emblematic of the retail group’s decline.",
+        "url": "https://currencynews.co.za/spar-retailers-revolt-call-for-chairs-head/",
+        "image": "https://currencynews.co.za/wp-content/uploads/2026/03/Mike-Bosman_Source-Spar-Group.jpg",
+        "publishedAt": "2026-05-11T23:04:09Z",
+        "source": "Currency News"
       },
       {
-        "title": "CeriBell (CBLL) Q1 2026 Earnings Transcript",
-        "description": "CeriBell (CBLL) Q1 2026 Earnings Transcript",
-        "url": "https://www.fool.com/earnings/call-transcripts/2026/05/11/ceribell-cbll-q1-2026-earnings-transcript/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-        "publishedAt": "2026-05-11T22:11:36Z",
-        "source": "The Motley Fool"
+        "title": "Lotus confirms new V8 hybrid supercar for 2028",
+        "description": "Company will channel spirit of Esprit with mid-engined follow-up to Emira, which is \"likely\" to be built in Europe",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/lotus-confirms-new-v8-hybrid-supercar-2028",
+        "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/lotus-news-2026-b_1.jpg",
+        "publishedAt": "2026-05-11T23:03:24Z",
+        "source": "Autocar"
       },
       {
-        "title": "Plan unveiled for 'sovereign AI data centre' cluster in Kamloops, Vancouver",
-        "description": "Vancouver and Kamloops will be home to a new data centre cluster under a planned partnership announced by the federal government and Telus.",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-ai-data-centre-plan-vancouver-kamloops-9.7195426",
-        "image": "https://i.cbc.ca/ais/2218f1fc-61fb-43d7-bbbf-b470f200b6e3,1778529272864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C233%2C3600%2C2025%29%3BResize%3D620",
-        "publishedAt": "2026-05-11T22:08:52Z",
-        "source": "CBC"
+        "title": "UK households cut back spending at fastest rate in 18 months, Barclays says",
+        "description": "Dip in credit card spending in April, particularly on travel, suggests Britons preparing for harder times amid Iran war fallout",
+        "url": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+        "image": "https://i.guim.co.uk/img/media/02271267fb2a63b8e2c4184eb991700714cbbcc8/1277_0_3536_2830/master/3536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92fcc2b1fa70d7edac0fcd027001b82b",
+        "publishedAt": "2026-05-11T23:03:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "34 Northvolt-sized battery factories could be lost if EU scales…",
-        "description": "As the global auto industry rapidly shifts toward EVs, new analysis warns that Europe risks forfeiting a major industrial opportunity.",
-        "url": "https://www.transportenvironment.org/articles/34-northvolt-sized-battery-factories-could-be-lost-if-eu-scales-back-ev-targets-study",
-        "image": "https://transforms.transportenvironment.org/production/images/northvolt_de_web.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1778086520&s=ee63565174b75acf997664781e8ea0b3",
-        "publishedAt": "2026-05-11T22:08:06Z",
-        "source": "transportenvironment.org"
+        "title": "Why BuzzFeed Sold to Byron Allen",
+        "description": "BuzzFeed was supposed to be the future of media. But that future wasn't supposed to be a last-ditch sale.",
+        "url": "https://www.businessinsider.com/buzzfeed-why-byron-allen-buying-peretti-vox-vice-2026-5",
+        "image": "https://i.insider.com/6a02478bba7ef34b41f37300?width=1200&format=jpeg",
+        "publishedAt": "2026-05-11T23:02:42Z",
+        "source": "Business Insider"
       },
       {
-        "title": "US Releases 53.3 Million Barrels From Oil Reserve to Ease Gasoline Prices",
-        "description": "The US Strategic Petroleum Reserve awarded 53.3 million barrels to companies including oil trader Trafigura Group and US refiner Marathon Petroleum Corp, adding to a wave of oil released to help tame surging prices stemming from the Iran war.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-unleashes-another-wave-of-emergency-oil-as-gas-prices-bite",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIfJVc0CUbEk/v1/1200x800.jpg",
-        "publishedAt": "2026-05-11T22:06:51Z",
-        "source": "Bloomberg.com"
+        "title": "Plans announced to demolish landmark south Belfast hotel and pub for student accommodation",
+        "description": "Mooney announce partnership with Graham to redevelop Wellington Park Hotel and Botanic Inn site on the Malone Road",
+        "url": "https://www.irishnews.com/news/business/plans-revealed-to-demolish-landmark-south-belfast-hotel-and-pub-for-student-accommodation-OY6F3J4QWNCL5DGTVREZZ5QLJQ/",
+        "image": "https://www.irishnews.com/resizer/v2/IJN5H6N6GZDH5NMURN2BWIGCII.jpg?smart=true&auth=55bd0ee180f341ccf5030e17eae1a05f7e6252ee7ba904e75c1609f2442fdf4b&width=1200&height=630",
+        "publishedAt": "2026-05-11T23:01:00Z",
+        "source": "The Irish News"
       },
       {
-        "title": "Gen Z Shoppers Boost Traffic and Sales at Simon Malls, CEO Says",
-        "description": "Mall owner Simon Property Group Inc. is seeing strong interest from Gen Z shoppers and the brands that target them, Chief Executive Officer Eli Simon said on a call with investors.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-11/gen-z-shoppers-driving-traffic-growth-at-simon-s-malls-ceo-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVPGdW5lwE_Y/v0/1200x800.jpg",
-        "publishedAt": "2026-05-11T22:06:09Z",
-        "source": "Bloomberg"
+        "title": "Greggs to open first EVER bakery in Spain this month",
+        "description": "GREGGS is opening its first bakery outside the UK in nearly 20 years - meaning Brits will be able to get the famous sausage roll while on...",
+        "url": "https://www.thesun.co.uk/travel/39072652/greggs-open-first-bakery-international-spain/",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/0001-tuesday-12-undated-handout-1079846250.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-05-11T23:01:00Z",
+        "source": "The Sun"
       }
     ],
     "science": [
+      {
+        "title": "New Species of Giant Long-Necked Dinosaur Identified in Argentina",
+        "description": "Fossils unearthed on a remote Argentine ranch belong to a new genus and species of macronarian sauropod dinosaur, according to an international team of paleontologists led by the Ludwig-Maximilians-Universität München.",
+        "url": "https://www.sci.news/paleontology/bicharracosaurus-dionidei-14758.html",
+        "image": "https://cdn.sci.news/images/2026/05/image_14758-Bicharracosaurus-dionidei.jpg",
+        "publishedAt": "2026-05-11T23:04:03Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "Snow and glacier ecosystems across remote Antarctic island reveal hidden microbial diversity",
+        "description": "Research led by a University of Bristol Ph.D. student has revealed a host of thriving microscopic algae communities in snow and glaciers across one of the most remote locations on Earth. The study, which appears in ISME Communications and includes Dr. Emily Broadwell's intrepid polar and alpine adventures as part of her Ph.D. in physical geography, sheds surprising new light on how glacier ecosystems respond to rising global temperatures.",
+        "url": "https://phys.org/news/2026-05-glacier-ecosystems-remote-antarctic-island.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/snow-and-glacier-ecosy.jpg",
+        "publishedAt": "2026-05-11T23:00:02Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "The world's oldest river may have crossed Pangea and still cuts through mountains in Australia as if defying time.",
+        "description": "Considered the leading candidate for the world's oldest river, the Finke River could be between 300 million and 400 million years old, traversing mountain formations, tectonic shifts, and even the time of Pangea while maintaining its active drainage corridor in central Australia. The world's oldest river could be the river […]",
+        "url": "https://en.clickpetroleoegas.com.br/the-worlds-oldest-river-may-have-crossed-pangea-and-still-cuts-through-mountains-in-australia-as-if-defying-time-flpc96/",
+        "image": "https://en.clickpetroleoegas.com.br/wp-content/uploads/2020/05/PRETO-logo-cpg-2.jpg",
+        "publishedAt": "2026-05-11T22:53:00Z",
+        "source": "CPG Click Petróleo e Gás"
+      },
+      {
+        "title": "450 navigation system for deep space and orbital missions",
+        "description": "Northrop Grumman has introduced the LR-450, a compact positioning and navigation system designed to provide continuous spacecraft tracking and orientation during missions in space.",
+        "url": "https://defence-industry.eu/northrop-grumman-introduces-lr-450-next-generation-navigation-system-for-deep-space-and-orbital-missions/",
+        "image": "https://defence-industry.eu/wp-content/uploads/2026/05/Northrop-Grumman-introduces-LR-450-next-generation-navigation-system-for-deep-space-and-orbital-missions.jpg",
+        "publishedAt": "2026-05-11T22:30:09Z",
+        "source": "Defence Industry Europe"
+      },
+      {
+        "title": "Researchers find coherent ferrons-polarization waves with potential across quantum and telecom applications",
+        "description": "In new research published in Nature Materials, a team of researchers led by Columbia University chemist Xiaoyang Zhu, in collaboration with fellow Columbians Xavier Roy, Milan Delor, Dmitri Basov, and James McIver, has observed coherent ferrons for the first time.",
+        "url": "https://phys.org/news/2026-05-coherent-ferrons-polarization-potential-quantum.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-find-coher.jpg",
+        "publishedAt": "2026-05-11T22:30:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Study Explains How Carbon Dioxide Cools The Upper Atmosphere, And Warms Earth Below",
         "description": "Even as temperatures rise on Earth’s surface and in the lower atmosphere, the planet’s upper atmosphere has cooled dramatically. This",
@@ -158,112 +198,72 @@
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/asteroid-dinosaurs.jpg",
         "publishedAt": "2026-05-11T22:00:01Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "How 'Snowball Earth' Was A Tug-Of-War",
-        "description": "A new study by planetary scientists at Harvard offers an explanation for one of Earth’s great climate puzzles: how the Sturtian glaciation, an ancient ice age when the planet was nearly entirely frozen, could have lasted 56 million years. A large igneous province in Canada helped them figure it out.",
-        "url": "https://www.universetoday.com/articles/how-snowball-earth-was-a-tug-of-war",
-        "image": "https://www.universetoday.com/article_images/1280px-Snowball_Huronian_20260511_193320.jpg",
-        "publishedAt": "2026-05-11T22:00:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Infrared Imaging Systems Enhance Space and Subsurface Detection",
-        "description": "Advanced infrared sensing and HRTR imaging techniques are revolutionizing asteroid detection and subsurface imaging for enhanced planetary defense capabilities.",
-        "url": "https://www.azooptics.com/News.aspx?newsID=30690",
-        "image": "https://www.azooptics.com/images/news/ImageForNews_30690_17785365498954096.jpg",
-        "publishedAt": "2026-05-11T21:57:00Z",
-        "source": "AZoOptics"
-      },
-      {
-        "title": "Scientists May Have Discovered 27 Star Wars-Like Planets With Two Suns",
-        "description": "Stellar eclipses may hold the key to finding new hidden worlds in binary star systems.",
-        "url": "https://www.cnet.com/science/space/scientists-may-have-discovered-27-star-wars-like-planets-with-two-suns/",
-        "image": "https://www.cnet.com/a/img/resize/75e240e69073e065b45eac714d5e674ae6ae5dd2/hub/2015/08/12/46ad14c7-b05e-4a4c-b929-46598d677003/tatooine.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-05-11T21:55:00Z",
-        "source": "CNET"
-      },
-      {
-        "title": "Six decades of the Lunar and Planetary Institute",
-        "description": "Continuing mission to advance the understanding of the solar system.",
-        "url": "https://room.eu.com/article/from-apollo-to-artemis-six-decades-of-the-lunar-and-planetary-institute",
-        "image": "https://room.eu.com/images/contents/issue38-Aerial-view-of-the-Lunar-and-Planetary-Institute.jpg",
-        "publishedAt": "2026-05-11T21:54:12Z",
-        "source": "Room The Space Journal of Asgardia"
-      },
-      {
-        "title": "Scientists Build ‘Mind-Reading’ Hearing System for Noisy Environments",
-        "description": "A team of U.S. researchers has demonstrated, for the first time in human trials, a device that reads brain signals to automatically amplify the voice a listener wants to hear -- a potential lifeline for the 430 million people worldwide with disabling hearing loss.",
-        "url": "https://www.sci.news/medicine/mind-reading-hearing-system-noisy-environments-14757.html",
-        "image": "https://cdn.sci.news/images/2026/05/image_14757-Hearing-System.jpg",
-        "publishedAt": "2026-05-11T21:48:59Z",
-        "source": "Sci.News"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities",
-        "description": "OpenAI today launched Daybreak, an answer to Anthropic's Project Glasswing initiative and Mythos AI model. Like Glasswing, Daybreak is a cyber defense effort that will help tech companies find security vulnerabilities in their platforms. OpenAI says Daybreak is aimed at building cyber defense into software from the start. It builds on OpenAI's April launch of GPT-5.4-Cyber, which the company says has contributed to fixing more than 3,000 vulnerabilities.",
-        "url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
-        "image": "https://images.macrumors.com/t/XIHqmmNINRRvRpYm2eWewikU_sI=/1600x/article-new/2026/05/openai-daybreak.jpg",
-        "publishedAt": "2026-05-11T22:08:02Z",
-        "source": "MacRumors"
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+        "publishedAt": "2026-05-11T23:04:10Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "AI takes Meta's Ray-Ban Display glasses to the next level",
-        "description": "Meta's AI powered smart-glasses aim to bring iPhone computing to the bridge of your nose.",
-        "url": "https://nypost.com/2026/05/11/business/ai-takes-metas-ray-ban-display-glasses-to-the-next-level/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39342607.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-05-11T22:06:21Z",
-        "source": "New York Post"
+        "title": "Reimagining the classroom in the age of artificial intelligence",
+        "description": "First Person: Akash Mahajan, vice-chairman of Montessori Cambridge School, Pathankot, delves into AI-powered futuristic classrooms.",
+        "url": "https://www.tribuneindia.com/news/amritsar/reimagining-the-classroom-in-the-age-of-artificial-intelligence/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYxOTQ2YTQwLTRkOGQtMTFmMS05NWQzLWFiMTg3NjE5Y2M0NS5qcGc=",
+        "publishedAt": "2026-05-11T23:01:43Z",
+        "source": "The Tribune"
       },
       {
-        "title": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman",
-        "description": "The trial has exposed even more details about OpenAI’s fractious corporate past than previously documented",
-        "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
-        "image": "https://i.guim.co.uk/img/media/1da88e3be74feeb7fcc53953a395bbdb6b8bf588/264_0_2640_2112/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3c6a9d7194d76c8a84475397baf6057",
-        "publishedAt": "2026-05-11T22:01:44Z",
-        "source": "The Guardian"
+        "title": "OpenAI sued after FSU shooting over alleged ChatGPT conversations with gunman",
+        "description": "The complaint claims ChatGPT provided detailed responses about firearms, suppressors and mass shootings without alerting authorities.",
+        "url": "https://www.deseret.com/politics/2026/05/11/florida-lawsuit-criminal-investigation-agianst-chatgpt-alleged-conversations-florida-state-university-shooter/",
+        "image": "https://www.deseret.com/resizer/v2/Z75IGXKTV5FDPA6EQSORQLBG2E.jpg?focal=0%2C0&auth=7e13dac22506b7af0ae37b83dde9acac096534e0332314d0d97372d6f2454b57&width=630&height=331",
+        "publishedAt": "2026-05-11T23:00:54Z",
+        "source": "Salt Lake City Deseret News"
       },
       {
-        "title": "Wallace Finance Expands AI Investing Platform to Android with Back-Testing and One-Tap Sharing",
-        "description": "Chicago, Illinois, May 11, 2026 (GLOBE NEWSWIRE) -- Wallace Finance Co. today announced that its AI-powered mobile investing platform is now available on the Google Play Store, expanding access to its hyper-personalized investing tools to Android users. This follows Wallace’s successful debut on the Apple App Store and continues to advance the company’s mission to democratize access to institutional investment allocation and execution power.",
-        "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/globenewswire/wallace-finance-expands-ai-investing-platform-to-android-with-back-testing-and-one-tap-sharing/2341230",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/12/1052420.jpg",
-        "publishedAt": "2026-05-11T22:01:00Z",
+        "title": "I stopped trying to replace my cloud LLMs, and local models finally made sense",
+        "description": "Local AI works best when it sticks to its lane.",
+        "url": "https://www.xda-developers.com/local-vs-cloud-llms-workflow/",
+        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/macbook-air-running-deepseekr1.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-05-11T23:00:21Z",
+        "source": "XDA Developers"
+      },
+      {
+        "title": "Trump and Xi face a test over AI control",
+        "description": "The stakes for AI security have risen sharply in the runup to the first trip to China by a sitting U.S. president in nearly a decade.",
+        "url": "https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108304109-1778210287036-gettyimages-2273795395-AFP_A9NL364.jpeg?v=1778210450&w=1920&h=1080",
+        "publishedAt": "2026-05-11T23:00:01Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "Shoplazza Launches Athena to Bring AI-Native Operations Into Global eCommerce",
+        "description": "**media[1052433]**The new operations agent helps merchants translate business intent into controlled execution across products, orders, logistics, discounts, and data.",
+        "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/pr-newswire/shoplazza-launches-athena-to-bring-ai-native-operations-into-global-ecommerce/2341238",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/12/1052432.jpg",
+        "publishedAt": "2026-05-11T22:57:05Z",
         "source": "The Manila Times"
       },
       {
-        "title": "China’s AI ascent leaves Trump a stark choice: escalate or relax chip controls?",
-        "description": "Beijing and Washington are locked in an era-defining contest – and China’s rapid technological progress raises questions about limits of containment.",
-        "url": "https://www.scmp.com/economy/global-economy/article/3353180/chinas-ai-ascent-leaves-trump-stark-choice-escalate-or-relax-chip-controls",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/11/74acc2b6-e339-4fb2-868d-a61a31211a45_dc0bb82a.jpg?itok=V05eMLNM&v=1778505402",
-        "publishedAt": "2026-05-11T22:00:12Z",
-        "source": "South China Morning Post"
+        "title": "Wall St inches to higher close, AI fervor edges out Iran impasse",
+        "description": "STORY: Wall Street closed slightly higher on Monday, with the Dow and S&P 500 adding about two-tenths of a percent, and the Nasdaq edging up one-tenth of a percent. \nThe S&P 500 and...",
+        "url": "https://www.marketscreener.com/news/wall-st-inches-to-higher-close-ai-fervor-edges-out-iran-impasse-ce7f5bd9df8bf226",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2016-11/2016-11-02T113305Z_1_LYNXMPECA10Q2_RTROPTP_2_USA-STOCKS.JPG",
+        "publishedAt": "2026-05-11T22:49:22Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Razor Labs Wins Gold Globee® Award for AI Innovation in Mining Fleet Reliability",
-        "description": "/PRNewswire/ -- Razor Labs (TASE: RZR), a global leader in AI-powered predictive maintenance solutions for the mining industry, today announced that it has...",
-        "url": "https://www.prnewswire.co.uk/news-releases/razor-labs-wins-gold-globee-award-for-ai-innovation-in-mining-fleet-reliability-302768267.html",
-        "image": "https://mma.prnewswire.com/media/2976841/Razor_Labs_Photo.jpg?p=facebook",
-        "publishedAt": "2026-05-11T22:00:00Z",
-        "source": "PR Newswire UK"
-      },
-      {
-        "title": "GitLab announces layoffs and restructuring for 'agentic era' as AI reshapes developer tools economics",
-        "description": "GitLab will flatten management, cut its country footprint by 30%, and reorganise R&D into 60 teams. CEO Bill Staples says savings will be reinvested in AI agents.",
-        "url": "https://thenextweb.com/news/gitlab-layoffs-agentic-era-devops-ai",
-        "image": "https://media.thenextweb.com/2026/05/gitlab-layoffs-agentic-era-devops-ai.avif",
-        "publishedAt": "2026-05-11T21:55:06Z",
-        "source": "TNW"
-      },
-      {
-        "title": "AGAR: When AI chatbot answers lead to deadly consequences",
-        "description": "Recent legal cases involving AI chatbots will be hugely consequential as the law tries to catch up to technology.",
-        "url": "https://torontosun.com/opinion/columnists/when-ai-chatbot-answers-lead-to-deadly-consequences",
-        "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/01/1219-lf-oped-forum.LF_-1.jpg",
-        "publishedAt": "2026-05-11T21:53:28Z",
-        "source": "Toronto Sun"
+        "title": "S&P 500, Nasdaq hit record highs and Dow Jones rises despite soaring oil prices and Trump warning Iran's ceasefire is 'on life support' - here's how US stock market performed on May 11",
+        "description": "S&P 500, Nasdaq, Dow Jones today: Despite rising oil prices and geopolitical tensions, the S&P 500 and Nasdaq hit record highs on May 11 as investors flocked to technology stocks, highlighting the strength of the AI sector and market resilience.",
+        "url": "https://economictimes.indiatimes.com/news/international/us/sp-500-nasdaq-hit-record-highs-and-dow-jones-rises-despite-soaring-oil-prices-and-trump-warning-irans-ceasefire-is-on-life-support-heres-how-us-stock-market-performed-on-may-11/articleshow/131023710.cms",
+        "image": "https://img.etimg.com/thumb/msid-131025808,width-1200,height-630,imgsize-96202,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-11T22:44:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
