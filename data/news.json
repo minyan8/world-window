@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-12T19:58:27.550Z",
+  "fetchedAt": "2026-05-12T20:50:20.855Z",
   "sections": {
     "world": [
       {
-        "title": "Trump Rejects Iran Ceasefire Offer, Oil Rises as Hormuz Standoff Drags On",
-        "description": "US President Donald Trump is showing signs of frustration at a lack of progress in negotiations to end the 10-week war with Iran, as the Strait of Hormuz remains all but closed to vital energy supplies and oil prices continue to rise.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-12/iran-war-ceasefire-fragile-as-us-rejects-tehran-s-latest-offer",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAHmTLbuLsj8/v0/1200x800.jpg",
-        "publishedAt": "2026-05-12T07:58:01Z",
-        "source": "Bloomberg.com"
+        "title": "Starmer faces calls to step down as UK prime minister",
+        "description": "U.K. Prime Minister Keir Starmer has told his Cabinet he won't resign despite growing calls from within his Labour Party.",
+        "url": "https://apnews.com/article/starmer-resign-fahnbulleh-politics-britain-1454415a831ae3af31b10dff29d04d13",
+        "image": "https://dims.apnews.com/dims4/default/5f1f653/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F54%2Fc3a303eba71fa88d7db7f2307035%2Fbe6b6a5d12b641708a024e83d0f7c12f",
+        "publishedAt": "2026-05-12T08:50:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Tech boom vs oil crisis: Asia’s new economic reality is a warning for the world",
-        "description": "In South Korea, which imports nearly all of its oil and gas, a global supply crunch has hit hard. Officials have advised energy conservation, cut growth forecasts and warned of fallout from high inflation and 17-year-lows in the value of its currency. Yet the nation’s largest companies are raking in record profits, and its stock market is hitting all-time highs.",
-        "url": "https://www.cnn.com/2026/05/12/tech/tech-boom-oil-crisis-asia-economy-warning-intl-hnk-dst",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271047170.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-05-12T07:57:32Z",
-        "source": "CNN"
+        "title": "Africa: Museveni Urges U.S. to Back Africa's Value Addition Agenda",
+        "description": "President Museveni has called on the United States and other global partners to support Africa's industrialisation and value-addition efforts in order to expand the continent's economy and create more jobs for its rapidly growing population.",
+        "url": "https://allafrica.com/stories/202605120135.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-05-12T08:49:53Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine - as it happened",
-        "description": "At least one person killed as Moscow launches drone strikes on energy facilities and apartments",
-        "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-        "image": "https://i.guim.co.uk/img/media/b05ec70e7ef6cbb805a3b714a7719d75d75e66b9/320_0_2112_1689/master/2112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0a7a943714d3d45404eca360dcde0dc8",
-        "publishedAt": "2026-05-12T07:57:00Z",
-        "source": "The Guardian"
+        "title": "DR Congo Escalates Crackdown on Activists Ahead of Elections",
+        "description": "A new Human Rights Watch investigation exposes a systematic state crackdown on journalists and civil society groups in the Democratic Republic of Congo.",
+        "url": "https://streamlinefeed.co.ke/news/dr-congo-escalates-crackdown-on-activists-ahead-of-elections",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-05-12T08:49:48Z",
+        "source": "streamlinefeed.co.ke"
       },
       {
-        "title": "INNOVATION|How INTERPOL counters criminal innovation",
-        "description": "Our Purple Notices flag new criminal modus operandi",
-        "url": "https://www.interpol.int/fr/Ressources/INTERPOL-Spotlight/Spotlight-issue-5-Notices-Diffusions/INNOVATION-How-INTERPOL-counters-criminal-innovation",
-        "image": "https://www.interpol.int/var/interpol/storage/images/8/2/1/3/423128-1-eng-GB/74bc4186c87b-Spotlight-5-Innovation-Purple-Notice-main.png",
-        "publishedAt": "2026-05-12T07:57:00Z",
-        "source": "Interpol"
+        "title": "Puntland Reports Suspected Disease Outbreak in Bari Region",
+        "description": "Authorities said 32 peopl taken to hospital after falling ill",
+        "url": "https://www.dawan.africa/news/puntland-reports-suspected-disease-outbreak-in-bari-region",
+        "image": "https://utfs.io/f/v9D9ylrdiyZgHJKrhFsgtMDvNOphflsW8539Egcd1mCPYe7L",
+        "publishedAt": "2026-05-12T08:44:10Z",
+        "source": "Dawan Africa"
       },
       {
-        "title": "Russian ship 'carrying nuclear reactors to North Korea' mysteriously sinks",
-        "description": "The ship suffered a series of explosions.",
-        "url": "https://www.express.co.uk/news/world/2204502/russian-ship-carrying-nuclear-reactors",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6915064.jpg",
-        "publishedAt": "2026-05-12T07:56:00Z",
-        "source": "Daily Express"
+        "title": "Egypt confirms oil tanker hijacked off Yemen’s coast, taken to Somalia",
+        "description": "Egypt confirmed Monday that an oil tanker carrying eight Egyptian sailors was hijacked off Yemen’s coast and taken to Somalia.",
+        "url": "https://www.hiiraan.com/security4/2026/May/205130/egypt_confirms_oil_tanker_hijacked_off_yemens_coast_taken_to_somalia.aspx",
+        "image": "https://www.hiiraan.com/uploads/2026/05/1778568392thumbs_b_c_56b1a42499aabfefa649add2b6e07452.jpg",
+        "publishedAt": "2026-05-12T08:44:05Z",
+        "source": "hiiraan.com"
       },
       {
-        "title": "2026 WASSCE for school candidates begins tomorrow with Oral English",
-        "description": "Final-year senior high school (SHS) students from Ghana officially rejoin their West African counterparts tomorrow to write the May-June West African Senior School Certificate Examination (WASSCE) for School Candidates (SC), beginning with Oral English",
-        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-wassce-sc-begins-tomorrow-with-oral-english.html",
-        "image": "https://www.graphic.com.gh/images/2026/May/12/candidates.jpg",
-        "publishedAt": "2026-05-12T07:55:32Z",
-        "source": "Graphic Online"
+        "title": "France’s Macron announces $27bn investment in Africa at Kenya summit",
+        "description": "Africa Forward summit comes amid France’s fading ties with its former African colonies, as Kenya seeks greater trade.",
+        "url": "https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a01a4c6-1778492614.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-05-12T08:43:46Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "World Press Freedom Day 2026 marked in Mongolia with call to advance",
-        "description": "Shaping a Future at Peace: Promoting Press Freedom for Human Rights, Development and Security",
-        "url": "https://www.unesco.org/en/articles/world-press-freedom-day-2026-marked-mongolia-call-advance-press-freedom-access-information-and-legal",
-        "image": "https://www.unesco.org/themes/custom/bunesco8/icon.svg",
-        "publishedAt": "2026-05-12T07:54:26Z",
-        "source": "UNESCO"
+        "title": "Children Not Soldiers: Countries",
+        "description": "The campaign Children, Not Soldiers , an initiative of Leila Zerrougui, the Special Representative of the Secretary-General for Children and Armed Conflict, and UNICEF, aims to galvanize s",
+        "url": "https://childrenandarmedconflict.un.org/en/children-not-soldiers-countries",
+        "image": "https://childrenandarmedconflict.un.org/themes/uw/un2_theme/favicon.ico",
+        "publishedAt": "2026-05-12T08:41:05Z",
+        "source": "Welcome to the United Nations"
       },
       {
-        "title": "How Levies Became the Most Dangerous Crisis Facing Sudan’s Economy",
-        "description": "Mohannad Awad Mahmoud In most countries around the world, when war strikes an economy, governments move to ease the burden on the private",
-        "url": "https://sudanhorizon.com/how-levies-became-the-most-dangerous-crisis-facing-sudans-economy/",
-        "image": "https://sudanhorizon.com/wp-content/uploads/2026/05/Mohannad-Awad-Mahmoud.jpg",
-        "publishedAt": "2026-05-12T07:53:10Z",
-        "source": "Sudan Horizon"
+        "title": "IDF uses robots to advance in Lebanon, FPV drones will continue challenging IDF",
+        "description": "The IDF said that over three days of fighting, it had killed around 15 Hezbollah fighters in the operation, which, combined with earlier operations, added up to around 70 total.",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-895888",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720582",
+        "publishedAt": "2026-05-12T08:41:04Z",
+        "source": "The Jerusalem Post"
       }
     ],
     "business": [
       {
-        "title": "ACEN profit surges 50% on higher output",
-        "description": "ACEN Corp.’s first-quarter net income surged 50% to P2.9 billion on stronger renewable energy output, recovering wind assets in Ilocos Norte, and one-off gains from its Meralco contract and India joint venture. Learn how rising generation in the Philippines and Australia, plus a growing retail electricity business, are powering ACEN’s profit and EBITDA growth.",
-        "url": "https://tribune.net.ph/2026/05/12/acen-profit-surges-50-on-higher-output",
-        "image": "https://media.assettype.com/tribune%2F2026-02-05%2Fwzq4dw63%2Facen-logo.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-05-12T07:57:19Z",
+        "title": "Jetour Nigeria Asserts Dominance With Market Share Leadership Award",
+        "description": "Jetour Nigeria captures the Market Share Leadership Award at the 2026 Global Conference, cementing its absolute control over the nation’s automotive market.",
+        "url": "https://streamlinefeed.co.ke/news/jetour-nigeria-asserts-dominance-with-market-share-leadership-award",
+        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/26789ff8-48f3-45e1-9de2-5c791954aa01/1778587352512-ysv7bhj6n3i.jpg",
+        "publishedAt": "2026-05-12T08:49:47Z",
+        "source": "streamlinefeed.co.ke"
+      },
+      {
+        "title": "From buying less gold to cashing in old reserves: How bullion industry plans to cut India’s import bill",
+        "description": "India Business News: As rupee continues to breach multiple record lows, pressure on India’s balance of payments is growing. To protect foreign exchange reserves and help s.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/from-buying-less-gold-to-cashing-in-old-reserves-how-bullion-industry-plans-to-cut-indias-import-bill/articleshow/131031311.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131033889,width-1280,height-720,imgsize-2697064,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-12T08:48:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Market, peso fall as optimism wanes",
+        "description": "Philippine stocks and the peso fell as optimism over a US-Iran peace deal faded, with the PSEi slipping below 6,000 and the currency weakening past P61 per dollar amid rising oil prices, renewed Middle East tensions, cautious foreign investors and fears of delayed US rate cuts.",
+        "url": "https://tribune.net.ph/2026/05/12/market-peso-fall-as-optimism-wanes",
+        "image": "https://media.assettype.com/tribune%2F2026-03-18%2Fhbn4p9cq%2Ftribune2026-01-3092jgszd0ARTCARDS-NIGHT-SHIFT-4.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-12T08:47:45Z",
         "source": "Daily Tribune"
       },
       {
-        "title": "ADB, Security Bank launch first Philippine supply-chain finance partnership",
-        "description": "The Asian Development Bank (ADB) has entered into a new partnership with Security Bank Corp. aimed at expanding access to supply-chain financing for small and...",
-        "url": "https://mb.com.ph/2026/05/12/adb-security-bank-launch-first-philippine-supply-chain-finance-partnership",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/12/100689.webp",
-        "publishedAt": "2026-05-12T07:57:11Z",
-        "source": "Manila Bulletin"
+        "title": "The AI share of enterprise tech budgets is set to rise sharply worldwide",
+        "description": "AI spending is set to become the primary driver of incremental enterprise tech spend growth, rising from $340 billion in 2025 to around $3 trillion by 2035.",
+        "url": "https://www.oxfordeconomics.com/resource/the-ai-share-of-enterprise-tech-budgets-is-set-to-rise-sharply-worldwide/",
+        "image": "https://www.oxfordeconomics.com/wp-content/uploads/2026/05/AI-spending-concept.jpg",
+        "publishedAt": "2026-05-12T08:47:33Z",
+        "source": "Oxford Economics"
       },
       {
-        "title": "Huawei Launches \"Advancing Smart Retail Across Europe\" Program to Accelerate Transformation",
-        "description": "Huawei held its Europe Retail Summit 2026 and Retail Technology Session during the Huawei European Retail China Tour 2026 in Shenzhen. The event, themed \"Smart Retail · Intelligent Europe,\" focused on key retail scenarios such as smart stores, intelligent warehousing and logistics, and intelligent marketing.",
-        "url": "https://e.huawei.com/en/news/2026/industries/retail/european-retail-digital-navigation-initiative",
-        "image": "https://e.huawei.com/marketingcloud/pep/asset/20000001/mediae/images/news/2024/all-pic.jpg",
-        "publishedAt": "2026-05-12T07:56:55Z",
-        "source": "Huawei Enterprise"
+        "title": "Xero boss responds to Rod Drury sexual misconduct allegations",
+        "description": "Xero’s CEO has responded to ongoing allegations swirling around the tech company’s founder, Sir Rod Drury, defending the firm’s workplace complaint and...",
+        "url": "https://www.nzherald.co.nz/nz/xero-boss-responds-to-rod-drury-sexual-misconduct-allegations/GJDCJBYH3JCM7PDM7D5A6MJUNA/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/FX3IKS2G4FHPHND7KXOTBKEZOI.jpg?auth=80d540259c7797eff26030fb15f3a3b6d7d958ecdeae6587060ef3732a139dc3&width=1200&height=675&quality=70&focal=307%2C183&smart=false",
+        "publishedAt": "2026-05-12T08:46:17Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Duch Ditto raises €7.6M for patient-side AI summaries of medical appointments",
-        "description": "Dutch health-tech Ditto has raised €7.6m led by Heal Capital to expand its patient-side AI consultation-summary app to Germany, the UK and Spain.",
-        "url": "https://thenextweb.com/news/ditto-7-6m-funding-patient-ai-summaries",
-        "image": "https://media.thenextweb.com/2026/05/Ditto.avif",
-        "publishedAt": "2026-05-12T07:56:00Z",
-        "source": "The Next Web"
+        "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
+        "description": "The AI firm says investors should assume indirect access to its private shares is invalid, and transfers of its stock or interests in its stock will not be recognized.",
+        "url": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/89341ab2157e91f10d59b009e46a0634ab10f6e7-4800x3188.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-12T08:45:47Z",
+        "source": "CoinDesk"
       },
       {
-        "title": "ZTE Hosts 2026 Broadband User Congress in São Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
-        "description": "/PRNewswire/ -- ZTE Corporation (0763.HK / 000063.SZ), a global leading provider of integrated information and communication technology solutions, successfully...",
-        "url": "https://www.prnewswire.com/news-releases/zte-hosts-2026-broadband-user-congress-in-sao-paulo-under-the-theme-monetize-your-intelligent-broadband-302769287.html",
-        "image": "https://mma.prnewswire.com/media/2977616/ZTE_Hosts_2026_Broadband_User_Congress_in_S_o_Paulo___under_the_Theme_Monetize_Your_Intelligent_Broa.jpg?p=facebook",
-        "publishedAt": "2026-05-12T07:56:00Z",
-        "source": "PR Newswire"
+        "title": "Building A PR Firm Is A Marathon, Not A Sprint, Hassan Abdul Challenges Practitioners On Business Ownership",
+        "description": "Lead Consultant/CEO of Drawbridge CM Limited and General Secretary of PRCAN, Hassan Abdul, has told communications practitioners that building a public relations (PR) firm is a marathon, not a sprint, noting that too many communications professionals are brilliant at PR but quietly failing as business owners. He made this call at the just-concluded Nigerian Institute",
+        "url": "https://brandcom.ng/2026/05/12/building-a-pr-firm-is-a-marathon-not-a-sprint-hassan-abdul-challenges-practitioners-on-business-ownership/",
+        "image": "https://brandcom.ng/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-11-at-8.39.13-PM.jpeg",
+        "publishedAt": "2026-05-12T08:44:14Z",
+        "source": "Brand Communicator"
       },
       {
-        "title": "GhIPSS begins ISO 20022 migration to align payments with global standards",
-        "description": "Ghana Interbank Payment and Settlement Systems Ltd. (GhIPSS) has begun migrating Ghana’s national payment infrastructure to the ISO 20022 global messaging standard, a move aimed at improving cross-border interoperability, accelerating settlement...",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/business/GhIPSS-begins-ISO-20022-migration-to-align-payments-with-global-standards-2034085",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/420/42010747.jpg",
-        "publishedAt": "2026-05-12T07:55:47Z",
-        "source": "GhanaWeb"
-      },
-      {
-        "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 12, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
-        "description": "Gold prices are high today, May 12, 2026. Major jewelers show rising rates for 22k gold. This follows a call to reduce gold buying for a year to help foreign exchange reserves. The India Bullion and Jewellers Association wants policy changes to use household gold better. They suggest allowing gold lending and borrowing.",
-        "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-12-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131030697.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1672867,resizemode-75,msid-131030697/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-12-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers.jpg",
-        "publishedAt": "2026-05-12T07:55:03Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Uday Kotak calls for ‘more Brahma and Mahesh, less Vishnu’ to build a powerful Indian economy",
-        "description": "According to Kotak, India must respond strategically rather than oscillating between excessive optimism and pessimism",
-        "url": "https://www.moneycontrol.com/news/india/uday-kotak-calls-for-more-brahma-and-mahesh-less-vishnu-to-build-a-powerful-indian-economy-13916296.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/11/20241114071444_Uday-Kotak-new.jpg",
-        "publishedAt": "2026-05-12T07:50:54Z",
-        "source": "Moneycontrol.com"
+        "title": "Omdia: Social media advertising to command nearly half of global online ad revenue by 2030 as market reaches $640 billion",
+        "description": "Social media advertising revenue is projected to rise at a compound annual growth rate (CAGR) of 12% over the next five years, reaching $640 billion by the e...",
+        "url": "https://www.businesswire.com/news/home/20260511495182/en/Omdia-Social-media-advertising-to-command-nearly-half-of-global-online-ad-revenue-by-2030-as-market-reaches-%24640-billion",
+        "image": "https://mms.businesswire.com/media/20260511495182/en/2802533/22/Updated_-_Global_social_and_non-social_media_advertising_revenue_and_shares.jpg",
+        "publishedAt": "2026-05-12T08:43:00Z",
+        "source": "Business Wire"
       }
     ],
     "science": [
+      {
+        "title": "SpaceX launches new batch of U.S. spy satellites from California",
+        "description": "Despite heavy fog covering California’s central coast, the launch proceeded smoothly, with the Falcon 9 climbing through low clouds shortly after liftoff.",
+        "url": "https://www.azernews.az/region/258281.html",
+        "image": "https://www.azernews.az/media/2026/05/12/hiefjrbxwaaluiq.jpg",
+        "publishedAt": "2026-05-12T08:41:00Z",
+        "source": "AzerNews"
+      },
+      {
+        "title": "Meta Data Scientist With Ph.D: Sets Me Apart but It's Not for Everyone",
+        "description": "A data scientist at Meta says doing a Ph.D made him curious, skeptical, and a good communicator.",
+        "url": "https://www.businessinsider.com/phd-big-tech-job-meta-skills-2026-5",
+        "image": "https://i.insider.com/6a01de03ba7ef34b41f36f5b?width=1200&format=jpeg",
+        "publishedAt": "2026-05-12T08:30:12Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Chandrayaan 1 discovers solar wind disturbances above lunar south pole",
+        "description": "The Chandrayaan-1 mission has revealed that solar wind is frequently disturbed at an altitude of 100 km above a magnetic anomaly close to the lunar south pole. Reflected protons create a persistent proto-magnetosheath that deflects and heats the solar wind.",
+        "url": "https://www.news9live.com/science/chandrayaan-1-discovers-solar-wind-disturbances-above-lunar-south-pole-2970559",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/05/Chandrayaan-1.jpg",
+        "publishedAt": "2026-05-12T08:28:38Z",
+        "source": "News9live"
+      },
+      {
+        "title": "SpaceX fuels biggest-ever Starship rocket ahead of May 15 launch",
+        "description": "SpaceX completed a flawless wet dress rehearsal of its largest-ever Starship-Super Heavy system, S39/B19, at Pad 2 in Texas, setting the stage for a potential May 15 launch.",
+        "url": "https://www.newsbytesapp.com/news/science/spacex-fuels-biggest-ever-starship-rocket-ahead-of-may-15-launch/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l142_12921778565319.jpg",
+        "publishedAt": "2026-05-12T08:25:01Z",
+        "source": "NewsBytes"
+      },
+      {
+        "title": "Ancient bacterial toolkit links human gut health to ocean carbon cycling",
+        "description": "Our gut is colonized by legions of bacteria, which supply us with essential nutrients and support our health. Among them are Akkermansia bacteria, which might be helpful in the management of conditions like obesity and diabetes.",
+        "url": "https://phys.org/news/2026-05-ancient-bacterial-toolkit-links-human.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-bacteria-that-shap-3.jpg",
+        "publishedAt": "2026-05-12T08:20:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Ultrasound-activated nanoparticles shine a light deep within living tissues",
+        "description": "Non-invasive technique could lead to new forms of light-based therapy for cancer and genetic conditions",
+        "url": "https://physicsworld.com/a/ultrasound-activated-nanoparticles-shine-a-light-deep-within-living-tissues/",
+        "image": "https://physicsworld.com/wp-content/uploads/2026/05/mouse.jpg",
+        "publishedAt": "2026-05-12T08:03:45Z",
+        "source": "Physics World"
+      },
+      {
+        "title": "Sun unleashes M-class solar flare, auroras could light up Earth this week. Details",
+        "description": "Solar flare released this week is expected to bring auroras to some regions on Earth. The M-class flare was unleashed on Sunday and caused radio blackouts over the Atlantic. A minor geomagnetic storm could be coming, experts say.",
+        "url": "https://www.wionews.com/science/sun-unleashes-m-class-solar-flare-auroras-could-light-up-earth-this-week-details-1778572341489",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260512/image-1778572976573.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-05-12T08:03:00Z",
+        "source": "WION"
+      },
       {
         "title": "AI Tool Predicts How Cells Choose Their Future",
         "description": "A new AI framework connects gene regulation with cell dynamics to reveal how genes drive cell fate decisions over time.",
@@ -142,128 +198,72 @@
         "image": "https://assets.technologynetworks.com/production/dynamic/images/content/412519/cells-floating-79903-640x360.jpg?cb=20260512",
         "publishedAt": "2026-05-12T07:43:04Z",
         "source": "Technology Networks"
-      },
-      {
-        "title": "AI Tool Predicts How Cells Choose Their Future",
-        "description": "A new AI framework connects gene regulation with cell dynamics to reveal how genes drive cell fate decisions over time.",
-        "url": "https://www.technologynetworks.com/cell-science/news/ai-tool-predicts-how-cells-choose-their-future-412519",
-        "image": "https://assets.technologynetworks.com/production/dynamic/images/content/412519/cells-floating-79903-640x360.jpg?cb=20260512",
-        "publishedAt": "2026-05-12T07:43:04Z",
-        "source": "Technology Networks"
-      },
-      {
-        "title": "AI Tool Predicts How Cells Choose Their Future",
-        "description": "A new AI framework connects gene regulation with cell dynamics to reveal how genes drive cell fate decisions over time.",
-        "url": "https://www.technologynetworks.com/tn/news/ai-tool-predicts-how-cells-choose-their-future-412519",
-        "image": "https://assets.technologynetworks.com/production/dynamic/images/content/412519/cells-floating-79903-640x360.jpg?cb=20260512",
-        "publishedAt": "2026-05-12T07:43:04Z",
-        "source": "Technology Networks"
-      },
-      {
-        "title": "(VIDEO) SpaceX Falcon 9 Upper Stage Set to Smash Into Moon August 5 at 5,400 MPH",
-        "description": "CAPE CANAVERAL, Fla. — A discarded upper stage from a SpaceX Falcon 9 rocket is hurtling toward a high-speed collision with the Moon on August 5, 2026, marking another chapter in the growing problem",
-        "url": "https://www.ibtimes.com.au/video-spacex-falcon-9-upper-stage-set-smash-moon-august-5-5400-mph-1868625",
-        "image": "https://d.ibtimes.com.au/en/full/1894316/spacex-falcon-9-upper-stage-set-smash-moon.jpg",
-        "publishedAt": "2026-05-12T07:40:49Z",
-        "source": "International Business Times Australia"
-      },
-      {
-        "title": "Scientists Solve 320-Million-Year Mystery of Reptile Skin Armor",
-        "description": "Skin bones evolved multiple times in lizards, with goannas showing a rare case of lost armor returning.",
-        "url": "https://scitechdaily.com/scientists-solve-320-million-year-mystery-of-reptile-skin-armor/",
-        "image": "https://scitechdaily.com/images/Gharial-Skeleton-With-Armored-Skin-Plates.jpg",
-        "publishedAt": "2026-05-12T07:36:03Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "3 planets will put on a sky show on May 13 - When, where and how to see them?",
-        "description": "On May 13–14, 2026, a rare celestial event will see the crescent Moon appear close to these three planets, creating a striking night-sky pattern. Know when, where and how to see this tomorrow!",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/3-planets-will-put-on-a-sky-show-on-may-13-when-where-and-how-to-see-them-article-13916223.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260512073420_3-Planet-sky-show.png",
-        "publishedAt": "2026-05-12T07:35:51Z",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "James Webb Space Telescope maps the cosmic web",
-        "description": "Using the James Webb Space Telescope's largest survey to date, astronomers have mapped the \"cosmic web\", the universe's network of dark matter and gas filaments",
-        "url": "https://www.openaccessgovernment.org/james-webb-space-telescope-maps-the-cosmic-web/209217/",
-        "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/05/Low-Res_Cosmic-web-map.jpg",
-        "publishedAt": "2026-05-12T07:31:34Z",
-        "source": "Open Access Government"
-      },
-      {
-        "title": "The hidden reason humans may never build a self-sufficient city on Mars",
-        "description": "Science News: Building a city on Mars has long been a symbol of human ambition, but the practical reality behind it is far more complicated than the dream suggests..",
-        "url": "https://timesofindia.indiatimes.com/science/the-hidden-reason-humans-may-never-build-a-self-sufficient-city-on-mars/articleshow/131031820.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131031895,width-1280,height-720,imgsize-2179820,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-12T07:26:00Z",
-        "source": "The Times of India"
       }
     ],
     "ai": [
       {
-        "title": "Viral IPL Broadcast Trend: Here's How To Create Your AI Video In The Stadium Using Gemini Prompt",
-        "description": "As the excitement around the Indian Premier League 2026 season reaches sky-high levels, a new AI-powered trend is taking over social media timelines. From packed stadium visuals to realistic broadcast overlays, users are now creating hyper-realistic AI videos of themselves watching IPL matches live in the stands and the internet cannot get enough of it.",
-        "url": "https://www.freepressjournal.in/lifestyle/viral-ipl-broadcast-trend-heres-how-to-create-your-ai-video-in-the-stadium-using-gemini-prompt",
-        "image": "https://media.assettype.com/freepressjournal/2026-05-12/j90zvcmx/Rutunjay-2026-05-12T131456.290.png",
-        "publishedAt": "2026-05-12T07:57:31Z",
-        "source": "Free Press Journal"
+        "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+        "description": "TeamPCP’s Mini Shai-Hulud campaign used hijacked GitHub OIDC tokens to spread a credential-stealing worm through TanStack npm packages.",
+        "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1700-e365/mistral.jpg",
+        "publishedAt": "2026-05-12T08:50:00Z",
+        "source": "The Hacker News"
       },
       {
-        "title": "Duch Ditto raises €7.6M for patient-side AI summaries of medical appointments",
-        "description": "Dutch health-tech Ditto has raised €7.6m led by Heal Capital to expand its patient-side AI consultation-summary app to Germany, the UK and Spain.",
-        "url": "https://thenextweb.com/news/ditto-7-6m-funding-patient-ai-summaries",
-        "image": "https://media.thenextweb.com/2026/05/Ditto.avif",
-        "publishedAt": "2026-05-12T07:56:52Z",
-        "source": "TNW"
+        "title": "Upbit listing puts privacy AI token VVV in Korea’s spotlight",
+        "description": "Upbit listed Venice Token with KRW, BTC and USDT pairs as VVV traded near $17.15, down 2.9% over 24 hours.",
+        "url": "https://crypto.news/upbit-listing-puts-privacy-ai-token-vvv-in-koreas-spotlight/",
+        "image": "https://crypto.news/app/uploads/2022/10/Upbit_to_replace_KakaoTalk_login_service_amid_data_center_fire_fiasco.jpg",
+        "publishedAt": "2026-05-12T08:50:00Z",
+        "source": "Crypto News"
       },
       {
-        "title": "ChatGPT 'advised school shooter to target kids to get more attention’",
-        "description": "OpenAI is being sued for allowing ChatGPT to 'advise' a school shooter on potential victims, guns and other disturbing information.",
-        "url": "https://metro.co.uk/2026/05/12/chatgpt-advised-school-shooter-target-kids-get-attention-28334135/",
-        "image": "https://metro.co.uk/wp-content/uploads/2026/05/SEI_296740277-c616_1778572582.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-        "publishedAt": "2026-05-12T07:56:18Z",
-        "source": "Metro.co.uk"
+        "title": "What is Forward Deployment Engineer, an IT job created by OpenAI and Anthropic",
+        "description": "The IT industry may have been heavily impacted by AI with widespread layoffs in major companies. But now, AI companies, OpenAI and Anthropic, have created a new IT role called Forward Deployment Engineer (FDE). Here is what this role means.",
+        "url": "https://www.indiatoday.in/jobs/story/what-is-forward-deployment-engineer-an-it-job-created-by-openai-and-anthropic-tchc-2910411-2026-05-12",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/what-is-fde-120713578-16x9_0.png?VersionId=xLNbBW4HKQUJKa4t99M7BI7D_.k7mU8U",
+        "publishedAt": "2026-05-12T08:46:44Z",
+        "source": "India Today"
       },
       {
-        "title": "Greece First in EU to Bind AI in Classrooms by Law",
-        "description": "Greece has become the first European Union member state to establish a binding legal framework governing the use of artificial intelligence in secondary schools, unveiling the rules at the EU Education Ministers' Council in Brussels alongside a ban on social media access for children under 15 from January 2027.",
-        "url": "https://www.iefimerida.gr/english/greece-first-eu-bind-ai-classrooms-law",
-        "image": "https://www.iefimerida.gr/sites/default/files/styles/facebook/public/2026-02/teen-mobile-social-media-english-999231426.jpg?itok=drf82npF",
-        "publishedAt": "2026-05-12T07:54:37Z",
-        "source": "iefimerida"
+        "title": "Mum pulls daughter, 13, out of school and replaces teachers with AI",
+        "description": "Teen Niyah has ditched the national curriculum",
+        "url": "https://www.stokesentinel.co.uk/news/uk-world-news/mum-pulls-daughter-13-out-10960793",
+        "image": "https://i2-prod.stokesentinel.co.uk/article10961324.ece/ALTERNATES/s1200d/1_bellk1JPG.jpg",
+        "publishedAt": "2026-05-12T08:44:27Z",
+        "source": "Stoke Sentinel"
       },
       {
-        "title": "OpenAI’s $4 billion AI bet could challenge TCS, Infosys and Wipro",
-        "description": "New venture backed by global investors aims to help companies build AI systems at scale, raising competition for firms such as Infosys, TCS and Wipro.",
-        "url": "https://www.moneycontrol.com/news/trends/openai-s-4-billion-ai-bet-could-challenge-tcs-infosys-and-wipro-13916359.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260512075245_nbjhgjhjhhh.jpg",
-        "publishedAt": "2026-05-12T07:53:27Z",
-        "source": "Moneycontrol"
+        "title": "OpenAI Poised for $97 Billion in Savings Through 2030 in Revised Microsoft Deal",
+        "description": "OpenAI is projected to save around $97 billion through 2030 following a revised revenue-sharing agreement with early backer Microsoft , The Information reported late Monday, citing a person with...",
+        "url": "https://www.marketscreener.com/news/openai-poised-for-97-billion-in-savings-through-2030-in-revised-microsoft-deal-ce7f5bded980f622",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2026-05-12T08:44:27Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Global Markets | Japan's Nikkei ends higher as AI-related shares rise",
-        "description": "But Tokyo Electron gave ​up early ​losses to end 0.14% higher. Advantest, which ⁠fell as much 1.5%, recovered most of its ​loss to edge 0.26% lower.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-ends-higher-as-ai-related-shares-rise/articleshow/131032706.cms",
-        "image": "https://img.etimg.com/thumb/msid-131032706,width-1200,height-630,imgsize-286826,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-12T07:53:00Z",
-        "source": "The Economic Times"
+        "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
+        "description": "The AI firm says investors should assume indirect access to its private shares is invalid, and transfers of its stock or interests in its stock will not be recognized.",
+        "url": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/89341ab2157e91f10d59b009e46a0634ab10f6e7-4800x3188.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-12T08:43:03Z",
+        "source": "CoinDesk"
       },
       {
-        "title": "OxygenOS 16.1 Starts Rolling Out - Live Space, Better AI, and Smoother Animations",
-        "description": "OxygenOS 16.1 stable rollout began for OnePlus 15 in India — Live Space lock screen capsule, redesigned Control Center, and AI processing upgrades confirmed.",
-        "url": "https://www.gizchina.com/oneplus-phones/oxygenos-161-starts-rolling-out-live-space-better-ai-and-smoother-animations",
-        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-05%2Fimage-1778572474992-6a02dcd0a5327.jpg",
-        "publishedAt": "2026-05-12T07:53:00Z",
-        "source": "Gizchina.com"
+        "title": "T-Mobile MVNO uses AI to clone your voice and handle your calls",
+        "description": "REALLY, T-Mobile MVNO is building an AI assistant that can sound like you and handle phone calls on your behalf. Here's how.",
+        "url": "https://www.androidauthority.com/t-mobile-ai-voice-clone-3665817/",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg",
+        "publishedAt": "2026-05-12T08:41:48Z",
+        "source": "Android Authority"
       },
       {
-        "title": "The consent trap: Why India’s digital citizens deserve real choice in the AI age | OPINION",
-        "description": "Rapid digital revolution seems to have normalised vast personal data collection, necessitating a focus on transparency, accountability, and genuine user agency for all",
-        "url": "https://www.theweek.in/news/sci-tech/2026/05/12/guest-opinion-india-digital-citizens-ai-real-choice-data-collection-consent.html",
-        "image": "https://www.theweek.in/content/dam/week/week/news/sci-tech/images/2026/5/12/digital-privacy-data-consent-shutterstock.jpg",
-        "publishedAt": "2026-05-12T07:49:52Z",
-        "source": "THE WEEK"
+        "title": "OpenAI CEO Sam Altman under investigation over business deals ahead of IPO",
+        "description": "Sam Altman faces Republican scrutiny over OpenAI business dealings and investments as the AI company prepares for a potential IPO and SEC review",
+        "url": "https://www.cnbctv18.com/business/openai-ceo-sam-altman-under-investigation-over-business-deals-ahead-of-ipo-report-ws-l-19903843.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/03/sam-altman-ceo-openai-2026-03-e8b75d5fb74a5b6122451dbe33edafec.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-05-12T08:41:32Z",
+        "source": "CNBC TV18"
       }
     ]
   }
