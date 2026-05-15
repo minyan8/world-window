@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-15T13:00:55.399Z",
+  "fetchedAt": "2026-05-15T13:59:46.537Z",
   "sections": {
     "world": [
       {
-        "title": "HK actress Cecilia Cheung reportedly gifts 16YO son jacuzzi-style bathtub for his birthday",
-        "description": "The 45-year-old is a mother to three sons.",
-        "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/05/15/hk-actress-cecilia-cheung-reportedly-gifts-16yo-son-jacuzzi-style-bathtub-for-his-birthday",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/13/3906406.jpg",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "The Star | Malaysia"
+        "title": "Will Keir Starmer resign? Why this Labour implosion will not save a broken Britain",
+        "description": "A challenger blessed by Paul Keating is looking to dethrone the British PM, but it may be too late to fix a broken Britain.",
+        "url": "https://www.theage.com.au/world/europe/the-bland-and-the-brazen-why-this-labour-implosion-will-not-save-a-broken-britain-20260514-p5zwxz.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_44/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/326184e9b362d1403011ab474339da208cb3f90c9ea3e33465220ce9df4019de",
+        "publishedAt": "2026-05-15T01:56:57Z",
+        "source": "The Age"
       },
       {
-        "title": "Trump and Xi to meet again after Xi says Taiwan misstep could take ties to 'dangerous place'",
-        "description": "U.S. President Donald Trump and Chinese President Xi Jinping are set to meet again Friday to wrap up a two-day state visit that has featured pomp and business deals — but also a stark warning from Xi that mishandling the Taiwan issue could ‌push U.S.-China relations to \"a very dangerous place.\"",
-        "url": "https://www.cbc.ca/news/world/trump-xi-china-summit-trade-iran-tariffs-9.7200431",
-        "image": "https://i.cbc.ca/ais/3dd28cee-85ba-417d-9331-8201a8e86f6c,1778804966761/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C195%2C3736%2C2101%29%3BResize%3D620",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "CBC"
+        "title": "Bruised Trump Finally Gives Weak Response to Xi’s Putdown",
+        "description": "Trump claimed to know what the Chinese president was really talking about.",
+        "url": "https://www.thedailybeast.com/bruised-trump-finally-gives-weak-response-to-xi-jinpings-putdown/",
+        "image": "https://www.thedailybeast.com/resizer/v2/VLLJZMP42BBFZNTXILREDVWXFU.JPG?smart=true&auth=3e279cd47afa4dc805c1cf49b474f90c7fdfc9a189ac27c29fbff7ec5b33b027&width=1200&height=630",
+        "publishedAt": "2026-05-15T01:44:00Z",
+        "source": "The Daily Beast"
       },
       {
-        "title": "Trump Xi Beijing meeting criticised after no women appear at bilateral table",
-        "description": "Donald Trump and Xi Jinping met in Beijing as images showed an all-male bilateral table. The optics triggered criticism and renewed debate over who gets represented in top-level diplomacy.",
-        "url": "https://www.indiatoday.in/world/story/trump-xi-beijing-meeting-criticised-over-no-women-at-bilateral-table-2912007-2026-05-15",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/trump-beijing-bilateral-meet-154458449-16x9_0.jpg?VersionId=YvE6XYDFy3DnK3FZIqi_DLlFiASvnVDf",
-        "publishedAt": "2026-05-15T00:57:14Z",
-        "source": "India Today"
+        "title": "MYANMAR: ‘Justice means returning to our land and restoring the rights that have been taken away’",
+        "description": "CIVICUS discusses attempts to hold the Myanmar regime accountable for atrocities against Rohingya people with Tun Khin, president of the Burmese Rohingya Organisation UK (BROUK). BROUK is a diaspora organisation that advocates for justice for the Rohingya and supports the community inside Myanmar and in exile.",
+        "url": "https://lens.civicus.org/interview/myanmar-justice-means-returning-to-our-land-and-restoring-the-rights-that-have-been-taken-away/",
+        "image": "https://lens.civicus.org/wp-content/uploads/2026/05/tun-khin2.jpg",
+        "publishedAt": "2026-05-15T01:38:32Z",
+        "source": "civicus lens"
       },
       {
-        "title": "Massive fire erupts at Russia's Ryazan oil refinery as Ukraine reportedly launches large-scale drone strikes",
-        "description": "Ukraine's military reportedly launched a large-scale drone attack overnight on May 15, striking Russian military and energy infrastructure in multiple regions of Russia, Russian Telegram media channels reported.",
-        "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-military-airfield-in-multiple-russian-regions/",
-        "image": "https://assets.kyivindependent.com/content/images/2026/05/photo_2026-05-14_20-30-57_20260515-003128.jpg",
-        "publishedAt": "2026-05-15T00:52:10Z",
-        "source": "The Kyiv Independent"
+        "title": "The mysterious death of a 'serial fabulist' and its links to London's underbelly",
+        "description": "Zac Brettlers's make-believe life and the murky details about his death are examined in Patrick Radden Keefe's latest book, London Falling.",
+        "url": "https://www.rnz.co.nz/life/books/the-mysterious-death-of-a-serial-fabulist-and-its-links-to-london-s-underbelly",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--g_yYKZia--/t_tohu-badge-facebook/f_auto/q_auto/4JOMVTQ_AFP__20210922__salame_patrickr210922_npW0A__v1__HighRes__PatrickRaddenKeefeInBarcelo_jpg",
+        "publishedAt": "2026-05-15T01:36:20Z",
+        "source": "RNZ"
       },
       {
-        "title": "Capital Hotels and IDC Commit R270m to New Gqeberha Hotel and Apartment Development",
-        "description": "The Capital Hotels Group and the Industrial Development Corporation (IDC) have announced a R270 million hotel and apartment development in Gqeberha",
-        "url": "https://atta.travel/resource/capital-hotels-and-idc-commit-r270m-to-new-gqeberha-hotel-and-apartment-development.html",
-        "image": "https://atta.travel/static/d915eed0-54f0-4e19-a86071164205743e/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_49ea84f9c2ba/The-Capital-Hotel-and-Apartments.png",
-        "publishedAt": "2026-05-15T00:42:15Z",
-        "source": "Atta Travel"
+        "title": "Thailand and Cambodia are bickering over their borders again. Can diplomacy prevent a return to war?",
+        "description": "Both countries claim overlapping parts of the Gulf of Thailand with potentially lucrative oil and gas reserves. There is a peaceful path to resolve the dispute.",
+        "url": "https://theconversation.com/thailand-and-cambodia-are-bickering-over-their-borders-again-can-diplomacy-prevent-a-return-to-war-282589",
+        "image": "https://images.theconversation.com/files/736043/original/file-20260515-69-1s4np1.jpg?ixlib=rb-4.1.0&rect=0%2C336%2C4032%2C2016&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-05-15T01:33:00Z",
+        "source": "The Conversation"
       },
       {
-        "title": "Matthew Wale voted in as new Solomon Islands prime minister after secret ballot",
-        "description": "Matthew Wale is the new prime minister of Solomon Islands after winning a vote in the Pacific island nation's parliament.",
-        "url": "https://www.abc.net.au/news/2026-05-15/solomon-islands-new-prime-minister-matthew-wale/106683120",
-        "image": "https://live-production.wcms.abc-cdn.net.au/85df258aa5698a446160d2548aaec86e?impolicy=wcms_watermark_news&cropH=540&cropW=960&xPos=0&yPos=10&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-15T00:38:57Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "The diaspora is now Kenya’s biggest export.",
-        "description": "Kenya still talks about foreign exchange in the language of tea, tourism, horticulture and exports. The national imagination remains attached to the visible economy: the tea auction, the safari circuit, the flower farm, the port container, the visiting tourist.",
-        "url": "https://www.linkedin.com/pulse/diaspora-now-kenyas-biggest-export-fintech-association-of-kenya-6pkef",
-        "image": "https://media.licdn.com/dms/image/v2/D4D12AQFE7xE2ZIQrgw/article-cover_image-shrink_720_1280/B4DZ4pBeeBJsAQ-/0/1778804718829?e=2147483647&v=beta&t=Bq3PO7vys9juoJXOTg7sWnTK_v3qnD-epxZtsaFfLRc",
-        "publishedAt": "2026-05-15T00:29:56Z",
-        "source": "LinkedIn"
-      },
-      {
-        "title": "The Guardian view on life after Orbán: Péter Magyar’s fast start bodes well for Hungary and for Europe",
-        "description": "Editorial: The new government in Budapest has already made an impact in Brussels. At home, the new prime minister is so far doing and saying the right things",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/14/the-guardian-view-on-life-after-orban-peter-magyars-fast-start-bodes-well-for-hungary-and-for-europe",
-        "image": "https://i.guim.co.uk/img/media/ba06f54c3c589c4f587af0cd66409f8cabcb147b/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=183fa0918c65766dedceb56509714b82",
-        "publishedAt": "2026-05-15T00:26:00Z",
+        "title": "Trump news at a glance: a warm welcome and a cold warning as US president visits China",
+        "description": "China keen to put Taiwan at the top of agenda that risks being overshadowed by US-Israel war on Iran and disagreements over trade – key US politics stories from Thursday, 14 May at a glance",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-news-at-a-glance-latest-updates-today",
+        "image": "https://i.guim.co.uk/img/media/148142a16668bbaa3b58ee2242283311a41a4f4f/313_0_2498_1999/master/2498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90604ed693031e83bfb2adfdafb84f5e",
+        "publishedAt": "2026-05-15T01:33:00Z",
         "source": "The Guardian"
+      },
+      {
+        "title": "Trump responds to Xi's 'Thucydides Trap' comment about America's decline",
+        "description": "Xi appeared to reference the political theory that a dominant power's fear of a rising power could lead to war.",
+        "url": "https://abcnews.com/Politics/trump-responds-xis-thucydides-trap-comment-americas-decline/story?id=132982009",
+        "image": "https://i.abcnewsfe.com/a/aa9623f1-712c-4505-b48f-26bc8f436797/trump-china-52-gty-gmh-260514__1778728945036_hpMain_2_16x9.jpg?w=1600",
+        "publishedAt": "2026-05-15T01:30:02Z",
+        "source": "ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "title": "Trump and Xi set for second day of talks after Taiwan warning",
+        "description": "BEIJING: US President Donald Trump and China's Xi Jinping are set to meet on Friday (May 15) to wrap up a two-day state visit that has featured pomp and business deals but also a warning from Xi that mishandling the Taiwan issue could send relations spiraling.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/15/trump-and-xi-set-for-second-day-of-talks-after-taiwan-warning",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909073.JPG",
+        "publishedAt": "2026-05-15T01:24:00Z",
+        "source": "The Star | Malaysia"
       }
     ],
     "business": [
       {
-        "title": "Does China’s Jiuzhang 4.0 computer herald the age of quantum supremacy?",
-        "description": "China’s new programmable photonic quantum computing prototype, Jiuzhang 4.0, completed a complex calculation in microseconds.",
-        "url": "https://www.scmp.com/news/china/science/article/3353602/does-chinas-jiuzhang-40-computer-herald-age-quantum-supremacy",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/14/e4756869-65c3-4e11-b981-c1e1d7628b38_1fc1b35c.jpg?itok=e1HJRLIg&v=1778766132",
-        "publishedAt": "2026-05-15T01:00:08Z",
-        "source": "South China Morning Post"
+        "title": "BAT Nigeria Appoints Owojaiye Regulatory Affairs Director",
+        "description": "British American Tobacco Nigeria has appointed Ruth Owojaiye as Director of Corporate and Regulatory Affairs to strengthen its governance and engagement.",
+        "url": "https://punchng.com/bat-nigeria-names-owojaiye-regulatory-affairs-director/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/15023237/Ruth-Owojaiye-of-BATN.jpg",
+        "publishedAt": "2026-05-15T01:58:33Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "Chinese man earns US$7,400 monthly selling fried rice at night market while dressed in a suit",
-        "description": "Stylish 19-year-old attracts customers by striking a variety of poses as he works with his wok, dangles unlit cigarette from his mouth as gimmick.",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3353392/chinese-man-earns-us7400-monthly-selling-fried-rice-night-market-while-dressed-suit",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/13/6debd978-f265-4a2a-899c-1bc611263f59_7b467715.jpg?itok=o7L7pRXv&v=1778653458",
-        "publishedAt": "2026-05-15T01:00:05Z",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "Vietnam Once Warned Against Gaming. Now It’s Going All In",
-        "description": "Communist officials who long viewed video games as a social risk now see them as key to a knowledge-driven economy.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-15/why-vietnam-is-betting-on-video-games-to-grow-its-economy",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixbtsi0OSSRU/v1/1200x800.jpg",
-        "publishedAt": "2026-05-15T01:00:00Z",
+        "title": "India Hikes Fuel Prices For The First Time in Four Years",
+        "description": "India’s state-run refiners have raised fuel prices for the first time in four years, as New Delhi yields to crude prices pushed higher by the war in Iran, and to the resulting financial pressures battering its processors.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/indian-state-retailers-hike-petrol-diesel-prices-by-inr3-liter",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD9_2qhZfPts/v1/1200x800.jpg",
+        "publishedAt": "2026-05-15T01:55:00Z",
         "source": "Bloomberg.com"
       },
       {
-        "title": "An unexpected windfall changed my life this week. Many Gen Xers are not so lucky",
-        "description": "There are millions of us, ordinary, work-our-whole-lives, one-modest-home people, staring at ceilings at 3am worrying about carrying mortgages into retirement.",
-        "url": "https://www.theage.com.au/national/an-unexpected-windfall-changed-my-life-this-week-many-gen-xers-are-not-so-lucky-20260514-p5zx4u.html",
-        "image": "https://static.ffx.io/images/$zoom_0.9155%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_282%2C$y_343/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/b5c00c8151f2159349844e9b21f6c3b6c3f08bf0",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "The Age"
+        "title": "Muntinlupa welcomes a new go-to spot for everyday essentials",
+        "description": "SM Markets expands its presence in Muntinlupa with the opening of Savemart at Starplaza Agro on May 7, 2026. Shoppers can expect the same affordable grocery...",
+        "url": "https://mb.com.ph/2026/05/15/muntinlupa-welcomes-a-new-go-to-spot-for-everyday-essentials",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/15/101339.webp",
+        "publishedAt": "2026-05-15T01:53:44Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Inside Hyundai Motor Group’s Renovated HQ Where Humans and Robots Work Together in Harmony",
-        "description": "Discover how three specialized robots are working with employees to turn office life at HMG headquarters into a blueprint for human-robot collaboration.",
-        "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001176",
-        "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/newsroom/news-image/2026/05/0514-1/highlight-horizontal-thumbnail-0514-1.jpg",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "Hyundai"
+        "title": "Netflix Opens 2026 Global Internship Opportunities for Emerging Talent Across Technology and Entertainment",
+        "description": "The streaming giant Netflix has announced details of its Emerging Talent Internship Programme, offering students and early-career professionals the",
+        "url": "https://www.globalsouthopportunities.com/2026/05/15/netflix-4/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/616QXs8yg0L.png",
+        "publishedAt": "2026-05-15T01:53:08Z",
+        "source": "Global South Opportunities"
       },
       {
-        "title": "Reinsurance Group of America Stock: Financial Instruments After RZB Redemption (NYSE:RGA)",
-        "description": "Reinsurance Group of America hits record Q1 2026 earnings. Explore RGA stock's investment portfolio and why RZC may be called in 2027—plus yield-to-call upside.",
-        "url": "https://seekingalpha.com/article/4904996-reinsurance-group-of-america-q1-financial-instruments-after-rzb-redemption",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/959356766/image_959356766.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-15T00:59:22Z",
-        "source": "Seeking Alpha"
+        "title": "Duke Robotics Corp. Announces Pricing of $9.2 Million Underwritten Public Offering and Uplisting to NASDAQ",
+        "description": "Fort Lauderdale, FL, May 14, 2026 (GLOBE NEWSWIRE) -- Duke Robotics Corp. (OTCQB: DUKR) ('Duke Robotics” or the 'Company”), a leader in advanced robotics and drone-based solutions for civilian and defense markets, today announced the pricing of its underwritten public offering of 1,125,000 units (the 'Units”) at a public offering price of $8.20 per Unit. Each Unit issued in the offering consists of one share of common stock, $0.0001 par value per share, and one warrant to purchase one share of common stock at an exercise price of $8.60 per share, and have a five year term. The shares of common stock and warrants compromising the Units are immediately separable and will be issued separately.  The shares of common stock and warrants are expected to begin trading on the Nasdaq Capital Market on May 15, 2026, under the symbols 'DUKR” and 'DUKRW,” respectively.",
+        "url": "https://www.manilatimes.net/2026/05/15/tmt-newswire/globenewswire/duke-robotics-corp-announces-pricing-of-92-million-underwritten-public-offering-and-uplisting-to-nasdaq/2344598",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/15/1058217.png",
+        "publishedAt": "2026-05-15T01:50:54Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "The Australian",
-        "description": "No Cookies | The Australian",
-        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-        "publishedAt": "2026-05-15T00:54:46Z",
-        "source": "The Australian"
+        "title": "Ballard Announces Resignation of Weichai’s Nominee Directors and Sale of Weichai’s Shares",
+        "description": "VANCOUVER, CANADA – Ballard Power Systems (NASDAQ: BLDP; TSX: BLDP) today announced the resignation of Weichai Power Co., Ltd. (“Weichai”) board nominees, Michael Chen and Huajie Wang, from Ballard’s Board of Directors effective May 13th.  The resignations follow the sale of approximately 6.9 million Ballard common shares by Weichai Power (the “Share Sale”) through its Continue reading \"Ballard Announces Resignation of Weichai’s Nominee Directors and Sale of Weichai’s Shares\"",
+        "url": "https://www.ballard.com/press-release/ballard-announces-resignation-of-weichais-nominee-directors-and-sale-of-weichais-shares/",
+        "image": "https://www.ballard.com/wp-content/uploads/2024/10/WeichaiLogo_2026.png",
+        "publishedAt": "2026-05-15T01:48:51Z",
+        "source": "ballard.com"
       },
       {
-        "title": "Grab engineer Mohammad Hasif Afiq becomes first Malaysian in Apple’s global developer honours programme",
-        "description": "KUALA LUMPUR, May 15 — Software engineer Mohammad Hasif Afiq has made history as the first Malaysian to be featured in Apple’s newly introduced Developer Recognition...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/05/15/grab-engineer-mohammad-hasif-afiq-becomes-first-malaysian-in-apples-global-developer-honours-programme/219906",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/14/340877.jpg",
-        "publishedAt": "2026-05-15T00:53:06Z",
-        "source": "Malay Mail"
+        "title": "Earworm Kars4Kids jingle yanked from California airwaves for false advertising",
+        "description": "Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising",
+        "image": "https://i.guim.co.uk/img/media/968a90d19f895569b6f2aae8fc0f5601e8378636/408_0_4550_3640/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7657f7a779319d41711c63201425c77",
+        "publishedAt": "2026-05-15T01:46:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Cerebras Systems Stock Soars 68% in Blockbuster IPO: What Investors Should Know",
+        "description": "The Nvidia rival's stock offering price was $185, and it closed its first trading day at just above $311, indicating investors' powerful demand for AI stocks, particularly AI chip stocks.",
+        "url": "https://www.fool.com/investing/2026/05/14/cbrs-stock-ai-chip-stocks-nvda-stock-competitor/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F870186%2Fcerebras-cbrs-stock.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-15T01:45:00Z",
+        "source": "The Motley Fool"
       }
     ],
     "science": [
+      {
+        "title": "NASA's Psyche probe nears Mars for gravity boost en route to asteroid",
+        "description": "NASA's Psyche probe was headed for a close encounter with Mars on Friday and a ​planned gravity boost to set the spacecraft on its final course to the solar system's largest known metallic asteroid, ‌thought to be the remnant core of an ancient protoplanet.",
+        "url": "https://news.cgtn.com/news/2026-05-15/NASA-s-Psyche-probe-nears-Mars-for-gravity-boost-en-route-to-asteroid-1N9SlsaC7gk/p.html",
+        "image": "https://news.cgtn.com/news/2026-05-15/NASA-s-Psyche-probe-nears-Mars-for-gravity-boost-en-route-to-asteroid-1N9SlsaC7gk/img/ac6c1476dbd348d7a4b610b35c36798b/ac6c1476dbd348d7a4b610b35c36798b-750.jpeg",
+        "publishedAt": "2026-05-15T01:52:18Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "New 'tool' to save people from danger posed by near-Earth meteors",
+        "description": "Travellers could be saved by the incredible new discovery.",
+        "url": "https://au.news.yahoo.com/new-tool-to-save-people-from-danger-posed-by-near-earth-meteors-014356964.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/n4nB5okrMUY_RTedxpvOeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/behave_5391.png",
+        "publishedAt": "2026-05-15T01:43:00Z",
+        "source": "Yahoo News Australia"
+      },
+      {
+        "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+        "description": "Scientists at UC Santa Barbara have created a remarkable new material that works like a “rechargeable solar battery,” storing sunlight inside tiny molecules and releasing it later as heat — even long after the sun goes down. Inspired by reversible changes found in DNA and photochromic sunglasses, the system captures solar energy without relying on bulky batteries or the electrical grid. The molecule can hold energy for years and packs more energy per kilogram than lithium-ion batteries.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+        "publishedAt": "2026-05-15T01:30:42Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+        "description": "Scientists at UC Santa Barbara have created a remarkable new material that works like a “rechargeable solar battery,” storing sunlight inside tiny molecules and releasing it later as heat — even long after the sun goes down. Inspired by reversible changes found in DNA and photochromic sunglasses, the system captures solar energy without relying on bulky batteries or the electrical grid. The molecule can hold energy for years and packs more energy per kilogram than lithium-ion batteries.",
+        "url": "http://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+        "publishedAt": "2026-05-15T01:30:42Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "ANU Develops Nanoscale Imaging Technique for 3D Visualization of Cell Communication",
+        "description": "Researchers at The Australian National University (ANU) […]",
+        "url": "https://www.geneonline.com/anu-develops-nanoscale-imaging-technique-for-3d-visualization-of-cell-communication/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-05-15T01:10:59Z",
+        "source": "geneonline.com"
+      },
       {
         "title": "Could sea squirts' nano-packaging delivery system help restore sea forests?",
         "description": "Professor Dong Soo Hwang’s team at POSTECH identifies the marine biological mechanism for packaging and delivering adhesive materials as nanocondensates.",
@@ -158,112 +198,72 @@
         "image": "https://timeshighereducation.com/campus/sites/default/files/2026-05/iStock-1347520881.jpg",
         "publishedAt": "2026-05-15T00:01:00Z",
         "source": "Times Higher Education"
-      },
-      {
-        "title": "UP chemists develop AI tool to help fight antimicrobial resistance",
-        "description": "Chemists from the UPD-CS have developed an AI tool designed to accelerate the discovery of new antibacterial peptides.",
-        "url": "https://newsinfo.inquirer.net/2229308/up-chemists-develop-ai-tool-to-help-fight-antimicrobial-resistance",
-        "image": "https://newsinfo.inquirer.net/files/2026/05/AI-antibiotic-compositeimage-14may2026.jpg",
-        "publishedAt": "2026-05-15T00:00:00Z",
-        "source": "Inquirer.net"
-      },
-      {
-        "title": "How Nanoparticles Could Help Immunotherapy Turn Cold Tumors Hot",
-        "description": "Engineered nanoparticles can improve cancer immunotherapy by delivering drugs, antigens, and genetic payloads with greater precision while remodeling the tumor microenvironment. The review highlights how nano-immunotherapy could boost immune activation, improve checkpoint-blockade responses, and support more personalized cancer treatment, although safety, scalability, and clinical translation challenges remain.",
-        "url": "https://www.azonano.com/news.aspx?newsID=41696",
-        "image": "https://www.azonano.com/images/news/ImageForNews_41696_17788031047685428.jpg",
-        "publishedAt": "2026-05-15T00:00:00Z",
-        "source": "AZoNano"
-      },
-      {
-        "title": "Materializing Safe, On-Demand, Living Therapeutics",
-        "description": "Generalizable framework for Implantable Living Materials composed of highly engineered hydrogels, synthetically engineered bacteria",
-        "url": "https://seas.harvard.edu/news/materializing-safe-demand-living-therapeutics",
-        "image": "https://seas.harvard.edu/sites/default/files/styles/opengraph/public/2026-05/e_coli.jpg?h=a9350a2d&itok=eCcPQzlQ",
-        "publishedAt": "2026-05-14T23:50:40Z",
-        "source": "Harvard School of Engineering and Applied Sciences"
-      },
-      {
-        "title": "Galaxy Cluster Abell 2029 Had Violent Past, Chandra Reveals",
-        "description": "Deep X-ray observations of Abell 2029 -- sometimes described as the most relaxed galaxy cluster in the Universe -- uncovered evidence of an ancient cosmic collision, including a gigantic spiral of superheated gas stretching 2 million light-years across.",
-        "url": "https://www.sci.news/astronomy/chandra-galaxy-cluster-abell-2029-14769.html",
-        "image": "https://cdn.sci.news/images/2026/05/image_14769-Abell-2029.jpg",
-        "publishedAt": "2026-05-14T23:39:35Z",
-        "source": "Sci.News"
-      },
-      {
-        "title": "Webb finds young stars escape gas clouds faster than expected",
-        "description": "The Webb telescope discovered that massive stars escape from their gas clouds much faster than scientists had expected.",
-        "url": "https://www.earth.com/news/young-stars-are-born-inside-clouds-but-webb-just-found-the-giants-escape-faster-than-expected/",
-        "image": "https://cff2.earth.com/uploads/2026/05/13062212/young-star-clusters-webb.jpg",
-        "publishedAt": "2026-05-14T23:26:15Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "Globe at glance: From Day 2 of Trump-Xi Summit to PM Modi's 5-nation tour",
-        "description": "From eyes on the day 2 of US-China bilateral summit to the grand finale of Musk vs OpenAI in courtroom. Here's all you need to know in today's edition of globe at glance",
-        "url": "https://www.firstpost.com/world/globe-at-glance-from-day-2-of-trump-xi-summit-to-pm-modis-5-nation-tour-14011371.html",
-        "image": "https://images.firstpost.com/uploads/2026/05/download-36-1-2026-05-678bfef60e97f0d45fe893fcb6c64fd3.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-15T01:00:04Z",
-        "source": "Firstpost"
+        "title": "Macquarie says these two ASX 200 companies will benefit from AI, in very different ways",
+        "description": "Macquarie has identified two companies that will benefit from artificial intelligence. See how much their shares could potentially lift.",
+        "url": "https://www.fool.com.au/2026/05/15/macquarie-says-these-two-asx-200-companies-will-benefit-from-ai-in-very-different-ways/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2024/12/robot-chart-16.9-1200x675.jpg",
+        "publishedAt": "2026-05-15T01:56:16Z",
+        "source": "The Motley Fool Australia"
       },
       {
-        "title": "Global Market Today: Asian stocks rise after AI rally spurs US gauges",
-        "description": "Asian stocks climbed, mirroring Wall Street's record highs driven by the AI trade and robust US consumer resilience. Japan, South Korea, and Australia saw gains, with the MSCI Asia Pacific Index on track for its sixth weekly rise. Nvidia's rally fueled US trading, while Brent crude edged higher and the dollar maintained its strength.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-ai-rally-spurs-us-gauges/articleshow/131105757.cms",
-        "image": "https://img.etimg.com/thumb/msid-131105762,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "The Economic Times"
+        "title": "Trump sets sights on business deals in second day of talks with China’s Xi",
+        "description": "The U.S. leader is aiming to secure deals in aviation, agriculture and AI, but has also signaled he hopes to make progress in the geopolitical arena, including on Iran.",
+        "url": "https://www.japantimes.co.jp/news/2026/05/15/asia-pacific/politics/trump-xi-business-deals/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/15/540561.JPG?v=3.1",
+        "publishedAt": "2026-05-15T01:55:18Z",
+        "source": "The Japan Times "
       },
       {
-        "title": "Bessent to CNBC: US, China discussing AI 'guardrails'",
-        "description": "The United States and China were discussing setting up \"guardrails\" for the use of artificial intelligence (AI), US Treasury Secretary Scott Bessent told CNBC on Thursday, with growing calls for regulation of the burgeoning technology.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/bessent-to-cnbc-us-china-discussing-ai-039guardrails039",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/15/3909053.JPG",
-        "publishedAt": "2026-05-15T01:00:00Z",
-        "source": "The Star"
+        "title": "Crypto News: AlphaPepe Presale Announces $1.2M Raised as XRP Price Prediction Aims For $5.00 Amid CLARITY Act",
+        "description": "MONACO, May 14, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project announced that its presale has reached $1.2 million in total capital raised while Stage 16 remains live at $0.01700 per token. The holder count has passed 8,600, the AlphaSwap AI DEX demo has surpassed 3,000 active users, and the project has completed a full 10/10 BlockSAFU security audit ahead of its planned Q2 2026 exchange debut.",
+        "url": "https://www.manilatimes.net/2026/05/15/tmt-newswire/globenewswire/crypto-news-alphapepe-presale-announces-12m-raised-as-xrp-price-prediction-aims-for-500-amid-clarity-act/2344595",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/15/1058213.jpg",
+        "publishedAt": "2026-05-15T01:50:49Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Asian shares gain post AI rally advancing US gauges",
-        "description": "Equities in Japan, South Korea and Australia gained, advancing the broader MSCI Asia Pacific Index. The gauge is set for its sixth straight weekly gain, its longest streak since late January.",
-        "url": "https://www.cnbctv18.com/market/asian-shares-gain-post-ai-rally-advancing-us-gauges-ws-l-19906369.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/01/20250303094748_sensex_nifty_sensex_market.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-15T00:55:24Z",
-        "source": "CNBC TV18"
+        "title": "The AI Power Bottleneck Makes Constellation Energy Stock A Strong Buy (NASDAQ:CEG)",
+        "description": "Constellation Energy (CEG) rated Strong Buy: AI power bottleneck, Calpine deal, Meta nuclear pact & Crane restart. See here for more details.",
+        "url": "https://seekingalpha.com/article/4905011-the-ai-power-bottleneck-makes-constellation-energy-a-strong-buy",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412449208/image_1412449208.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-15T01:49:00Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "AI stock boom pushes Seoul's Kospi index over 8,000 for the first time",
-        "description": "South Korea's benchmark Kospi index topped 8,000 points for the first time Friday (May 15), buoyed by an artificial intelligence-driven boom in the country's semiconductor industry.The index briefly jumped above the milestone during morning trade.It marked the latest high point in a meteoric rise for t",
-        "url": "https://www.channelnewsasia.com/east-asia/kospi-fresh-record-south-korea-ai-stock-boom-semiconductor-chips-6122771",
-        "image": "https://dam.mediacorp.sg/image/upload/s--u5oj2tfw--/c_crop,h_450,w_800,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-06T001611Z_1_LYNXMPEM45008_RTROPTP_3_GLOBAL-MARKETS-TARIFFS-ASIA-OPEN.JPG?itok=0iWcnpMx",
-        "publishedAt": "2026-05-15T00:53:00Z",
-        "source": "CNA"
+        "title": "Cerebras CEO now worth $4 billion after his AI chipmaker’s mega listing",
+        "description": "Company's shares soared about 68 per cent in the year’s biggest IPO. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/companies-markets/cerebras-ceo-now-worth-4-billion-after-his-ai-chipmakers-mega-listing",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/900f01c7d9ea84b4b90ce291672b39045db087acb4a44252d93be7b7139b25d2",
+        "publishedAt": "2026-05-15T01:43:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "The Real Losers of the Musk v. Altman Trial",
-        "description": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-        "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-        "image": "https://media.wired.com/photos/6a063a9b1d5880149b6572f1/191:100/w_1280,c_limit/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg",
-        "publishedAt": "2026-05-15T00:49:53Z",
-        "source": "WIRED"
+        "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end",
+        "description": "The claims were made during closing arguments of a trial in the Oakland, California, federal court",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/musk-accused-of-selective-amnesia-altman-of-lying-as-openai-trial-nears-end-article-13919945.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260428163753_Musk-Sam.jpg",
+        "publishedAt": "2026-05-15T01:40:03Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
-        "description": "The A.I. company, which is in the middle of a court fight with Elon Musk, has been unhappy with how Apple has integrated ChatGPT into its devices.",
-        "url": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
-        "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14biz-openai-apple-2-qbwz/14biz-openai-apple-2-qbwz-facebookJumbo.jpg",
-        "publishedAt": "2026-05-15T00:48:15Z",
-        "source": "The New York Times"
+        "title": "AI Layoffs Are A Substitute For A Strategy",
+        "description": "Five publications. One conclusion. AI-driven layoffs are not producing returns. The companies seeing AI pay off are doing harder, slower work.",
+        "url": "https://www.forbes.com/sites/julieaverill/2026/05/14/ai-layoffs-are-a-substitute-for-a-strategy/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a0526427774676c94fcf17a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-15T01:35:10Z",
+        "source": "Forbes"
       },
       {
-        "title": "KR1 expands AI investment with VVV token purchases, Gensyn launch",
-        "description": "KR1 PLC on Thursday announced the expansion of its investments in artificial intelligence and other decentralised technologies.\nThe Douglas, Isle of Man-based digital asset investment company...",
-        "url": "https://www.marketscreener.com/news/kr1-expands-ai-investment-with-vvv-token-purchases-gensyn-launch-ce7f5bd2db88fe2d",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-05-15T00:38:16Z",
-        "source": "MarketScreener"
+        "title": "Alibaba Stock: Earnings, Cloud Acceleration Is A Bullish Catalyst (NYSE:BABA)",
+        "description": "Alibaba Q1 earnings missed revenue, but AI cloud growth surged. AI-related revenue increased by triple digits for the 10th consecutive quarter. See more on BABA.",
+        "url": "https://seekingalpha.com/article/4905009-alibaba-earnings-cloud-acceleration-is-a-bullish-catalyst",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/813089000/image_813089000.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-15T01:34:00Z",
+        "source": "Seeking Alpha"
       }
     ]
   }
