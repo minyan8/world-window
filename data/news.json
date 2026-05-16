@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-16T22:32:20.922Z",
+  "fetchedAt": "2026-05-16T23:35:20.053Z",
   "sections": {
     "world": [
       {
-        "title": "Hamas commander who helped plan Oct. 7 attacks has been killed, Israel says",
-        "description": "Izz al-Din al-Haddad was killed in a \"precise strike in the area on the City of Gaza,\" the Israel Defense Forces said Saturday.",
-        "url": "https://www.cbsnews.com/news/izz-al-din-al-haddad-hamas-commander-killed-gaza-hamas-israel/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/16/4915cab3-d6e5-461a-9da4-14a6db2e41cd/thumbnail/1200x630/1dbfb843d72dc80db2c92effa0e9a616/screenshot-2026-05-16-at-6-41-54-am.png",
-        "publishedAt": "2026-05-16T10:32:00Z",
-        "source": "CBS News"
+        "title": "Video: 8 killed, over 20 injured as freight train crashes into bus in Bangkok",
+        "description": "Rest of World News: At least eight people were killed and more than 20 injured after a freight train collided with a public bus at a railway crossing in Thailand’s capita.",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/video-8-killed-over-20-injured-as-freight-train-crashes-into-bus-in-bangkok/articleshow/131136364.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131136498,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-16T11:35:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Ministry of Information Faces Severe Budget Cuts Amid Digital Highway Push",
-        "description": "Cabinet Secretary William Kabogo Gitau has warned Parliament that severe budget cuts threaten Kenya's digital superhighway and critical communications...",
-        "url": "https://streamlinefeed.co.ke/news/ministry-information-faces-severe-budget-cuts-amid-digital-highway-push",
-        "image": "https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/business-media/thumbnails/331e6092-86cf-4538-ae0b-6eac7573e6dd/1778931150246-0gu4g91edait.webp",
-        "publishedAt": "2026-05-16T10:27:59Z",
-        "source": "streamlinefeed.co.ke"
+        "title": "AP Swatch shuts UK stores after crowds queue for new pocket watch",
+        "description": "Hundreds of people have been queueing outside branches across the UK to get the £335 item.",
+        "url": "https://www.bbc.co.uk/news/articles/c1d2qldr0yko",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/028d/live/abaf2870-512c-11f1-a5d4-1388da3b9f7b.png",
+        "publishedAt": "2026-05-16T11:27:45Z",
+        "source": "BBC"
       },
       {
-        "title": "Putin to visit China days after Trump's Beijing trip, Kremlin says",
-        "description": "Putin and Chinese President Xi Jinping will discuss ways to deepen their countries' \"comprehensive partnership and strategic cooperation,\" the Kremlin said.",
-        "url": "https://www.euronews.com/2026/05/16/putin-to-visit-china-days-after-trumps-beijing-trip-kremlin-says",
-        "image": "https://images.euronews.com/articles/stories/09/76/07/78/1200x675_cmsv2_659ea4f3-de9c-592b-a3b7-80d9a6314586-9760778.jpg",
-        "publishedAt": "2026-05-16T10:19:16Z",
+        "title": "Russia launches nearly 300 drones at Ukraine as 528 bodies of Ukrainian soldiers are returned",
+        "description": "Russian forces launched hundreds of strikes across Ukraine overnight, with direct hits by drones recorded at 15 locationsm Ukraine's Air Force said. Meanwhile, the bodies of 528 Ukrainian soldiers were returned a day after Russia and Ukraine exchanged prisoners of war.",
+        "url": "https://www.euronews.com/my-europe/2026/05/16/russia-launches-nearly-300-drones-at-ukraine-as-528-bodies-of-ukrainian-soldiers-are-retur",
+        "image": "https://images.euronews.com/articles/stories/09/76/06/40/1200x675_cmsv2_0d334110-337b-5a8c-b74b-ec90aa0c10e7-9760640.jpg",
+        "publishedAt": "2026-05-16T11:24:33Z",
         "source": "Euronews.com"
       },
       {
-        "title": "Malaysia’s Barisan Nasional to contest all 56 seats in Johor’s next state election: Chief Minister Onn Hafiz",
-        "description": "This means BN – whose lynchpin party is the United Malays National Organisation – will not cooperate in Johor with other political pacts like Prime Minister Anwar Ibrahim’s Pakatan Harapan, as well as the Perikatan Nasional or Malaysian United Democratic Alliance in the opposition camp.",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-johor-state-election-barisan-nasional-contest-all-seats-6125591",
-        "image": "https://dam.mediacorp.sg/image/upload/s--XrinUmd4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/02/07/mb5.jpg?itok=rGBacewR",
-        "publishedAt": "2026-05-16T10:18:32Z",
-        "source": "CNA"
+        "title": "China Will Host Putin, Days After Trump’s Visit",
+        "description": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.",
+        "url": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html",
+        "image": "https://static01.nyt.com/images/2026/05/16/multimedia/16int-russia-china-lwth/16int-russia-china-lwth-facebookJumbo.jpg",
+        "publishedAt": "2026-05-16T11:23:43Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Prepare for water disruptions: Rand Water and Eskom's winter maintenance in Gauteng",
-        "description": "Residents across Gauteng are being urged to prepare for possible water shortages as Rand Water and Eskom begin coordinated maintenance work at key supply systems from late May 2026.",
-        "url": "https://iol.co.za/news/south-africa/2026-05-16-prepare-for-water-disruptions-rand-water-and-eskoms-winter-maintenance-in-gauteng/",
-        "image": "https://iol-prod.appspot.com/image/c282848d8ec9772dddf918198fa5d521c0ce3207/1000/jpeg",
-        "publishedAt": "2026-05-16T10:13:59Z",
-        "source": "IOL"
+        "title": "‎Rift deepens in ODM as Mbadi and Odinga family clash escalates",
+        "description": "‎A simmering political dispute within the Orange Democratic Movement (ODM) has escalated into a public confrontation after East African Legislative",
+        "url": "https://www.tv47.digital/rift-deepens-in-odm-as-mbadi-and-odinga-family-clash-escalates-149282/",
+        "image": "https://www.tv47.digital/wp-content/uploads/2026/05/CAPE-MEDIA-7-3-768x435-1.jpg",
+        "publishedAt": "2026-05-16T11:22:51Z",
+        "source": "TV47 Digital"
       },
       {
-        "title": "Pope Leo XIV to visit France in September this year",
-        "description": "Pope Leo XIV will make an Apostolic Journey to France on 25-28 September this year, marking the first official papal state visit to the country in 18 ...",
-        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-visit-france-september-apostolic-journey-holy-see-press.html",
-        "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/04/13/2026-04-13-viaggio-apostolico-in-algeria-camerun-angola-e-guinea/1776064566207.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-        "publishedAt": "2026-05-16T10:13:51Z",
-        "source": "Vatican News"
+        "title": "No sensitive data leaked in global Canvas learning platform breach: MOE",
+        "description": "It is in touch with the government-supported institutes affected and will “provide support where possible”. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/no-sensitive-data-leaked-in-global-canvas-learning-platform-breach-moe",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/006224f986142f9381f74757d2620e5b2732264bffb1b61b5e131874675cf392",
+        "publishedAt": "2026-05-16T11:22:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "UPSC CURRENT AFFFAIRS 16 MAY 2026",
-        "description": "INSIGHTS 16 May 2026 Daily Current Affairs for UPSC IAS preparation and daily practice. Covers India-UAE strategic pacts, Viksit Bharat 2047, semiconductor plant, Andhi storms, and UN Forum on Forests.",
-        "url": "https://www.insightsonindia.com/2026/05/16/upsc-current-afffairs-16-may-2026/",
-        "image": "https://www.insightsonindia.com/wp-content/uploads/2015/09/cropped-cropped-FullSizeRender-6-32x32.jpg",
-        "publishedAt": "2026-05-16T10:04:41Z",
-        "source": "INSIGHTS IAS"
+        "title": "Freight train and bus crash kills at least eight in Bangkok",
+        "description": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+        "url": "https://www.bbc.co.uk/news/articles/c98rez3x0nwo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4b3/live/3d19e7e0-511f-11f1-8b8c-6d33e1d5abb6.jpg",
+        "publishedAt": "2026-05-16T11:21:21Z",
+        "source": "BBC"
       },
       {
-        "title": "Elite abdication: What other elites chose (II)",
-        "description": "Stay connected via Google News The story of elite abdication is not a story without alternatives. While Nigeria’s…",
-        "url": "https://www.thecable.ng/elite-abdication-what-other-elites-chose-ii/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-11.37.56-AM-2026-05-15-444.jpeg",
-        "publishedAt": "2026-05-16T10:04:38Z",
-        "source": "TheCable"
+        "title": "Freight train and bus crash kills at least eight in Bangkok",
+        "description": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+        "url": "https://www.bbc.com/news/articles/c98rez3x0nwo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4b3/live/3d19e7e0-511f-11f1-8b8c-6d33e1d5abb6.jpg",
+        "publishedAt": "2026-05-16T11:21:21Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
-        "description": "artificial intelligence company OpenAI said on ‌Saturday it had signed a ‌deal with the government of Malta to ​give all residents access to its ChatGPT Plus service for one year after they follow a c...",
-        "url": "https://www.yahoo.com/news/articles/openai-seals-deal-malta-maltese-103120497.html",
-        "image": "https://s.yimg.com/os/en/reuters.com/72a3324d3edc0e67ddff5fc07506f19c",
-        "publishedAt": "2026-05-16T10:31:20Z",
-        "source": "Yahoo"
+        "title": "SEC’s Recent Public Company Settlement Provides Guidance for Corporate Resolutions Under the Current Administration",
+        "description": "Executive Summary What’s new: The SEC filed a settled enforcement action against a company and two executives in connection with books-and-records and internal accounting controls failures, notably imposing no corporate penalty despite a lack of self-reporting. Why it matters: The settlement underscores that while the SEC is stepping away from untested theories for charging internal controls violations, […]",
+        "url": "https://corpgov.law.harvard.edu/2026/05/16/secs-recent-public-company-settlement-provides-guidance-for-corporate-resolutions-under-the-current-administration/",
+        "image": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+        "publishedAt": "2026-05-16T11:34:55Z",
+        "source": "The Harvard Law School Forum on Corporate Governance"
       },
       {
-        "title": "Scalpers list Swatch-Audemars Piguet watches hours after launch in Hong Kong",
-        "description": "Dozens braved rain and queued for days to snap up ceramic pocket watches, with resale prices nearly seven times their retail value.",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353819/scalpers-list-swatch-audemars-piguet-watches-hours-after-launch-hong-kong",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/16/d6505226-a9f6-4e2a-8973-873476fbdb25_b757dc2c.jpg?itok=4LfudRyP&v=1778926930",
-        "publishedAt": "2026-05-16T10:31:05Z",
-        "source": "South China Morning Post"
+        "title": "AP Swatch shuts UK stores after crowds queue for new pocket watch",
+        "description": "Hundreds of people have been queueing outside branches across the UK to get the £335 item.",
+        "url": "https://www.bbc.co.uk/news/articles/c1d2qldr0yko",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9413/live/1e7bec70-511f-11f1-8108-5b7f076d1ee7.jpg",
+        "publishedAt": "2026-05-16T11:27:45Z",
+        "source": "BBC"
       },
       {
-        "title": "Fertilizer Stocks to Watch as Govt to Spend ₹15,000 Cr a Month to Keep Fertilizers Cheap",
-        "description": "India’s fertiliser sector is once again entering the spotlight as the government moves aggressively to shield farmers from surging global input costs.",
-        "url": "https://tradebrains.in/fertilizer-stocks-to-watch-as-govt-to-spend-15000-cr-a-month-to-keep-fertilizers-cheap/",
-        "image": "https://tradebrains.in/wp-content/uploads/2022/07/Fertilizer-stocks-1-Cover-Image.jpg",
-        "publishedAt": "2026-05-16T10:30:00Z",
-        "source": "Trade Brains"
+        "title": "Swatch shuts UK stores after crowds queue for new pocket watch",
+        "description": "Hundreds of people have been queueing outside branches across the UK to get the £335 item.",
+        "url": "https://www.bbc.com/news/articles/c1d2qldr0yko",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a48/live/9c492e70-5119-11f1-8108-5b7f076d1ee7.jpg",
+        "publishedAt": "2026-05-16T11:27:45Z",
+        "source": "BBC"
       },
       {
-        "title": "Got $5,000? Cameco Could Be the Nuclear Fuel Champion That Turns Today's Energy Crisis Into Long‑Term Wealth.",
-        "description": "The company is the best way to play the nuclear power resurgence.",
-        "url": "https://www.fool.com/investing/2026/05/16/got-5000-cameco-could-be-the-nuclear-fuel-champion/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865525%2Fgettyimages-613330688-1200x675-128554e.jpg&w=1200&op=resize",
-        "publishedAt": "2026-05-16T10:25:54Z",
+        "title": "Why Fairly Used Furniture Business Is Becoming A Lucrative Investment Choice",
+        "description": "The business of buying and reselling used furniture can yield quick returns, especially when investors have access to a good sales outlet and a steady customer base.",
+        "url": "https://leadership.ng/why-fairly-used-furniture-business-is-becoming-a-lucrative-investment-choice/",
+        "image": "https://leadership.ng/wp-content/uploads/2026/05/FURNITURE.jpg",
+        "publishedAt": "2026-05-16T11:23:46Z",
+        "source": "LEADERSHIP Newspapers"
+      },
+      {
+        "title": "MG Pushes Pakistan’s Auto Market Forward with New HS Hybrid Lineup",
+        "description": "There was a time when Pakistan’s automotive market treated comfort, safety, and technology as premium luxuries. Features like ADAS, 360-degree cameras,",
+        "url": "https://propakistani.pk/2026/05/16/mg-pushes-pakistans-auto-market-forward-with-new-hs-hybrid-lineup/",
+        "image": "https://propakistani.pk/wp-content/uploads/2026/05/MG-1.jpg",
+        "publishedAt": "2026-05-16T11:21:08Z",
+        "source": "ProPakistani"
+      },
+      {
+        "title": "Steve Jobs asked this one question before hiring anyone",
+        "description": "Apple founder relied on personality assessment and casual conversation rather than résumés to evaluate candidates for his teamSteve Jobs had a secret to spotting talent at Apple:...",
+        "url": "https://www.thenews.com.pk/latest/1402759-steve-jobs-asked-this-one-question-before-hiring-anyone",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-16/1402759_041923_updates.jpg",
+        "publishedAt": "2026-05-16T11:16:58Z",
+        "source": "The News International"
+      },
+      {
+        "title": "1 Top Cryptocurrency to Buy Before It Hits $1 Million Per Token by 2031, According to VanEck",
+        "description": "The crypto market has lost the spotlight this year, but that doesn't mean it's finished.",
+        "url": "https://www.fool.com/investing/2026/05/16/1-top-cryptocurrency-to-buy-before-it-hits-1-milli/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869899%2Fpeople-computer-1.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-16T11:12:30Z",
         "source": "The Motley Fool"
       },
       {
-        "title": "Man arrested following €515k seizure of cannabis at Dublin Airport",
-        "description": "The drugs were found in luggage from a flight from Toronto.",
-        "url": "https://www.thejournal.ie/cannabis-seized-dublin-airport-from-toronto-7041597-May2026/",
-        "image": "https://img2.thejournal.ie/article/7041597/river/?height=400&version=7041598",
-        "publishedAt": "2026-05-16T10:18:00Z",
-        "source": "The Journal"
-      },
-      {
-        "title": "Talks between TTC and union continue",
-        "description": "Efforts to avoid a strike by Toronto Transit Commission employees are going into overtime.",
-        "url": "https://www.cp24.com/local/toronto/2026/05/16/ttc-strike-deadline-pushed-back-as-last-minute-talks-continue/",
-        "image": "https://www.cp24.com/resizer/v2/MTVOTYHHXBBDHO5KH5YOVNIIDA.JPG?smart=true&auth=14cf8ada5d5285053f9551820e3196409b3ddfa7ca751e5c3cd5a5e9da6d4645&width=1200&height=630",
-        "publishedAt": "2026-05-16T10:16:54Z",
-        "source": "CP24"
-      },
-      {
-        "title": "Woody’s afterlife: A Calgary broker who fell from grace tries to redeem himself",
-        "description": "Adam Woodward underwent a personal and business flame-out and a mountain of legal action, some of which is still unresolved",
-        "url": "https://www.theglobeandmail.com/business/article-calgary-adam-woodward-stocks-finance-oil-business/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/CSIUYVM5KRFJBJUTXIM4JORRMM.JPG?auth=dec03082a843b74a4c9d756c1c151bd18e07fca09f18d738e4870ed9d55881cb&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-05-16T10:15:00Z",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Pope: People must always be at center of banking and financial systems",
-        "description": "Pope Leo XIV meets with employees and representatives of various Italian banks, and highlights the importance of keeping a human-centered approach, ...",
-        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-bankers-finances-people-charity-technology.html",
-        "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/16/2026-05-16-dirigenti-e-dipendenti-di-diversi-istituti-bancari-it/1778925672520.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-        "publishedAt": "2026-05-16T10:13:42Z",
-        "source": "Vatican News"
+        "title": "'I'm losing my patience' says Trump as oil prices climb more than 3% on fears of new US-Iran combat at the weekend",
+        "description": "Brent and WTI set for hefty weekly gains as more vessels have been crossing Strait of Hormuz but ship attacks and seizures remain a worry",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/16/039i039m-losing-my-patience039-says-trump-as-oil-prices-climb-more-than-3-on-fears-of-new-us-iran-combat-at-the-weekend",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/16/3911459.jpg",
+        "publishedAt": "2026-05-16T11:09:00Z",
+        "source": "thestar.com.my"
       }
     ],
     "science": [
+      {
+        "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
+        "description": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species coexisting. Scientists dated the fossils using volcanic ash deposits and are now investigating what these ancient relatives ate and whether they competed for resources.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
+        "image": "https://www.sciencedaily.com/images/1920/side-view-ancient-human-skull.webp",
+        "publishedAt": "2026-05-16T11:22:29Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Scientists unearth Southeast Asia’s largest dinosaur in Thailand",
+        "description": "Long-necked Nagatitan was almost 27 meters-long.science. environment. thailand",
+        "url": "https://www.manoramayearbook.in/current-affairs/world/2026/05/16/scientists-unearth-southeast-asia-s-largest-dinosaur.html",
+        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/current-affairs/world/images/2026/5/16/dinosaur.jpg",
+        "publishedAt": "2026-05-16T11:22:16Z",
+        "source": "Manorama Yearbook"
+      },
+      {
+        "title": "NASA Telescope Maps Nearly 6,000 Exoplanets In Most Complete View Of Starry Sky Yet",
+        "description": "NASA's Transiting Exoplanet Survey Satellite (TESS) confirmed over 6,000 exoplanets across the Milky Way galaxy, combining observations since 2018.",
+        "url": "https://www.news18.com/world/nasa-telescope-maps-nearly-6000-exoplanets-in-most-complete-view-of-starry-sky-yet-ws-l-10094987.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/05/nasa-planets-2026-05-cc1dfb8b3a1b7569336f34439358712c-1200x675.jpg",
+        "publishedAt": "2026-05-16T11:04:03Z",
+        "source": "News18"
+      },
+      {
+        "title": "New study reveals largest dinosaur discovered in Southeast Asia",
+        "description": "A recent study has revealed a new type of long-necked, plant-eating dinosaur, the largest ever found in Southeast Asia. googletag.cmd.push(function() {",
+        "url": "https://www.nation.com.pk/16-May-2026/new-study-reveals-largest-dinosaur-discovered-southeast-asia",
+        "image": "https://www.nation.com.pk/digital_images/large/2026-05-16/new-study-reveals-largest-dinosaur-discovered-southeast-asia-1778928268-7160.jpg",
+        "publishedAt": "2026-05-16T10:44:34Z",
+        "source": "The Nation (Pakistan )"
+      },
       {
         "title": "It’s Official: Earth’s Magnetic North Pole Just Changed Position, and It’s Drifting Into Uncharted Magnetic Territory",
         "description": "The magnetic north pole just crossed into unmapped territory, and every navigation system on Earth is scrambling to catch up.",
@@ -166,104 +198,72 @@
         "image": "https://cdn.mos.cms.futurecdn.net/MASCaeTc62D9j4z68tureA-1600-80.jpg",
         "publishedAt": "2026-05-16T10:00:00Z",
         "source": "Live Science"
-      },
-      {
-        "title": "Scientists Scan Gruesome Crystal Formed by Nuclear Blast, Find Something Bizarre",
-        "description": "The Trinity test may have went down in 1945, but scientists are still finding new discoveries at the blast site.",
-        "url": "https://nz.news.yahoo.com/scientists-scan-gruesome-crystal-formed-100000406.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/aMGhd7FsnBZu1UZeVjkiKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/6547661bfe71cd242adc6c6b3e8b8902",
-        "publishedAt": "2026-05-16T10:00:00Z",
-        "source": "Yahoo News New Zealand"
-      },
-      {
-        "title": "Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery",
-        "description": "Interstellar comet 3I/ATLAS was almost called 3I/Rubin, after researchers found that the giant survey telescope coincidentally spotted this visitor from the stars over a week before it was officially discovered.",
-        "url": "https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery",
-        "image": "https://cdn.mos.cms.futurecdn.net/a5drT8Sba3h7zF4aA9LAq5-1920-80.jpg",
-        "publishedAt": "2026-05-16T10:00:00Z",
-        "source": "Space"
-      },
-      {
-        "title": "Scientists Scan Gruesome Crystal Formed by Nuclear Blast, Find Something Bizarre",
-        "description": "Nuclear bombs irreversibly impact on the environment. Decades after the Trinity test, scientists are still learning about its effects.",
-        "url": "https://futurism.com/science-energy/nuclear-test-red-trinitite",
-        "image": "https://futurism.com/wp-content/uploads/2026/05/nuclear-test-gory-compound-bomb.jpg?quality=85&w=1200",
-        "publishedAt": "2026-05-16T10:00:00Z",
-        "source": "Futurism"
-      },
-      {
-        "title": "A solar radio burst that should have faded in days kept screaming for three weeks - and the structure feeding it rewrites what counts as a transient event on the Sun",
-        "description": "A solar structure that should have exhausted itself in days kept broadcasting for nearly three weeks — and the implication is that our models of how electrons survive inside coronal magnetic fields may be fundamentally incomplete. A Type IV radio burst documented by NASA in August 2025 lasted 19 days, shattering the previous record of […]",
-        "url": "https://spacedaily.com/sd-n-a-solar-radio-burst-that-should-have-faded-in-days-kept-screaming-for-three-weeks-and-the-structure-feeding-it-rewrites-what-counts-as-a-transient-event-on-the-sun/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/05/a-solar-radio-burst-that-should-have-fad.jpg",
-        "publishedAt": "2026-05-16T09:59:00Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "Anthropic's top exec Mike Krieger to parents of college students: Stop getting worried, I don't see these skills getting replaced any time soon",
-        "description": "Tech News News: AI giant Anthropic’s top executive and co-founder of Instagram Mike Keriger has delivered a reassuring message for college graduates and their parents.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-top-exec-mike-krieger-to-parents-of-college-students-stop-getting-worried-i-dont-see-these-skills-getting-replaced-any-time-soon/articleshow/131135596.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131135593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-16T10:32:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Angara pushes sustainable AI solutions to bridge education system gaps",
-        "description": "EDUCATION Secretary Sonny Angara underscored the Department of Education’s (DepEd) commitment to deploying artificial intelligence (AI) to simplify school operations and directly address the everyday challenges faced by teachers and learners.",
-        "url": "https://www.manilatimes.net/2026/05/16/tmt-newswire/angara-pushes-sustainable-ai-solutions-to-bridge-education-system-gaps/2345451",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/16/1059839.jpg",
-        "publishedAt": "2026-05-16T10:32:00Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Malta offers free ChatGPT Plus access to its citizens through a national AI program",
-        "description": "Citizens and residents registered with Malta’s online identity system can apply to get access to ChatGPT Plus after completing a free online course.",
-        "url": "https://www.euronews.com/next/2026/05/16/malta-offers-free-chatgpt-plus-access-to-its-citizens-through-a-national-ai-program",
-        "image": "https://images.euronews.com/articles/stories/09/76/03/05/1200x675_cmsv2_56e8dfd7-98ca-54d9-8481-8921513634f5-9760305.jpg",
-        "publishedAt": "2026-05-16T10:31:51Z",
-        "source": "Euronews"
-      },
-      {
-        "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
-        "description": "U.S. artificial intelligence company OpenAI said on Saturday it had signed a deal with the government of Malta to give all residents access to its ChatGPT Plus service for one year after they follow a...",
-        "url": "https://www.marketscreener.com/news/openai-seals-deal-in-malta-to-give-all-maltese-access-to-chatgpt-plus-ce7f5bd3df8cf226",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-16T103120Z_1_LYNXMPEM4F06B_RTROPTP_3_APPLE-OPENAI-LEGAL.JPG",
-        "publishedAt": "2026-05-16T10:31:23Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "Malta Leads with Nationwide AI Integration via OpenAI Deal",
-        "description": "OpenAI has partnered with Malta to offer ChatGPT Plus access for residents after an AI course. The initiative begins in May, open to locals and citizens abroad. Malta pioneers this first-of-its-kind project, aiming to integrate AI into everyday life. Financial terms remain undisclosed.",
-        "url": "https://www.devdiscourse.com/article/technology/3910802-malta-leads-with-nationwide-ai-integration-via-openai-deal",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_06_52_52_8570799.png&width=920&format=jpeg",
-        "publishedAt": "2026-05-16T10:30:23Z",
-        "source": "Devdiscourse"
-      },
-      {
-        "title": "When imagination becomes real: How AI is quietly rewriting fashion’s creative rules",
-        "description": "From AI-generated couture to viral DIY dresses, discover how artificial intelligence is blurring the line between imagination and reality in fashion.",
-        "url": "https://indianexpress.com/article/lifestyle/when-imagination-becomes-real-ai-quietly-rewriting-fashion-creative-rules-10692634/",
-        "image": "https://images.indianexpress.com/2026/05/Copy-of-Untitled-Design-6.jpg",
-        "publishedAt": "2026-05-16T10:30:05Z",
+        "title": "OpenAI launches ChatGPT finance tools with bank account integration",
+        "description": "The new tools allow ChatGPT Pro users to connect bank accounts, analyse spending habits, and plan future financial goals.",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-launches-chatgpt-finance-tools-with-bank-account-integration-10692929/",
+        "image": "https://images.indianexpress.com/2026/04/open-AI.png",
+        "publishedAt": "2026-05-16T11:30:42Z",
         "source": "The Indian Express"
       },
       {
-        "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-        "description": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-        "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-        "image": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-        "publishedAt": "2026-05-16T10:30:00Z",
-        "source": "WIRED"
+        "title": "UAE to store up to 30 million barrels in India’s Strategic Petroleum Reserve after PM Modi’s visit: FS Vikram Misri",
+        "description": "India and the UAE signed major agreements on energy, defence, AI and trade, including crude oil storage and $5 billion investments in India.",
+        "url": "https://www.thehindubusinessline.com/markets/commodities/uae-to-store-up-to-30-million-barrels-in-indias-strategic-petroleum-reserve-after-pm-modis-visit-fs-vikram-misri/article70986851.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/mielau/article70986883.ece/alternates/LANDSCAPE_1200/2022-09-08T181739Z_955451279_RC25DW9J8AAG_RTRMADP_3_USA-ENERGY-GRANHOLM.JPG",
+        "publishedAt": "2026-05-16T11:28:57Z",
+        "source": "The Hindu Business Line"
       },
       {
-        "title": "The prophet of the 'Wired Belt' says capitalism is finally eating itself",
-        "description": "Tufts' Bhaskar Chakravorti predicted AI would destroy the jobs business needs most — in the exact cities where business lives.",
-        "url": "https://fortune.com/2026/05/16/wired-belt-ai-jobs-capitalism-chakravorti/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-151758118-e1778723550598.jpg?resize=1200,600",
-        "publishedAt": "2026-05-16T10:30:00Z",
-        "source": "Fortune"
+        "title": "Cerebras Stock: Don't Buy This Post-IPO Dip Just Yet (NASDAQ:CBRS)",
+        "description": "Cerebras (CBRS) WSE-3 AI chip analysis: clients, $24.6B backlog, and 2026 margin headwinds. Read here for an investment analysis.",
+        "url": "https://seekingalpha.com/article/4905629-cerebras-do-not-buy-post-ipo-dip-just-yet",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/139665003/image_139665003.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-16T11:23:48Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Ankur Warikoo shuts down Rs 100 crore courses business; says AI impact was ‘huge’",
+        "description": "Warikoo also revealed that he would explain the decision in detail in another video set to release on May 16 at 8.30 pm.",
+        "url": "https://indianexpress.com/article/trending/trending-in-india/ankur-warikoo-shuts-down-rs-100-crore-courses-business-ai-impact-10692916/",
+        "image": "https://images.indianexpress.com/2026/05/Ankur-Warikoo-courses-business-shutdown.jpg",
+        "publishedAt": "2026-05-16T11:22:02Z",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "Assam CM Himanta Biswa Sarma inaugurates AI-powered Slice Small Finance Bank in Guwahati",
+        "description": "Guwahati witnessed the launch of India's first AI-powered 'phygital' banking branch by Slice Small Finance Bank. Chief Minister Himanta Biswa Sarma inaugurated the facility, blending physical and digital services. This innovative branch offers AI-enabled self-service kiosks and paperless transactions. It aims to enhance financial inclusion by providing accessible credit and banking solutions to all segments of society, particularly underserved communities.",
+        "url": "https://economictimes.indiatimes.com/news/india/assam-cm-himanta-biswa-sarma-inaugurates-ai-powered-slice-small-finance-bank-in-guwahati/articleshow/131136245.cms",
+        "image": "https://img.etimg.com/thumb/msid-131136320,width-1200,height-630,imgsize-183552,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-16T11:21:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Revolutionizing Corporate Events: The Tech-Driven Transformation",
+        "description": "Corporate events in India, particularly Bangalore, are evolving into tech-driven experiences with 4K visuals, hybrid formats, and interactive designs replacing traditional conferences. Zeal Integrated Marketing Solutions enhances its tech capabilities to meet rising demand for immersive events. Future growth will focus on AI, AR, and data-driven engagements.",
+        "url": "https://www.devdiscourse.com/article/entertainment/3910868-revolutionizing-corporate-events-the-tech-driven-transformation",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_26_59_8821975.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-05-16T11:19:49Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Revolutionizing Justice: Technology Takes the Stand",
+        "description": "CJI Surya Kant emphasized the judiciary's need to adopt technology and AI to address common people's needs efficiently, likening it to hospitals operating 24/7. He praised digital advancements in the Madhya Pradesh High Court and called for nationwide implementation, especially using AI for expediting justice.",
+        "url": "https://www.devdiscourse.com/article/law-order/3910860-revolutionizing-justice-technology-takes-the-stand",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_05_2026_23_25_04_8882249.png&width=920&format=jpeg",
+        "publishedAt": "2026-05-16T11:16:04Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "TCS aims to be world's largest AI tech firm; 130 top AI clients onboarded: CEO Krithivasan",
+        "description": "NEW DELHI, May 16:  The country’s largest IT firm TCS aims to become the world’s largest AI-led technology services company, with 130 of its top 139 clients already choosing it as their AI services partner, CEO and Managing Director K Krithivasan said. In his letter to shareholders in the company’s Annual Report for 2025-26, Krithivasan noted that FY26 marked an “inflection point” for enterprise AI, as customers decisively moved from experimental pilots to scaled deployments. “To realise the opportunities offered […]",
+        "url": "https://www.dailyexcelsior.com/tcs-aims-to-be-worlds-largest-ai-tech-firm-130-top-ai-clients-onboarded-ceo-krithivasan/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/TICS.jpg",
+        "publishedAt": "2026-05-16T11:15:50Z",
+        "source": "Daily Excelsior"
       }
     ]
   }
