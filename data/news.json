@@ -1,140 +1,156 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-16T09:51:15.739Z",
+  "fetchedAt": "2026-05-16T10:44:27.447Z",
   "sections": {
     "world": [
       {
-        "title": "Trump and Boeing Announce China Will Purchase 200 Planes",
-        "description": "The deal, which Beijing has not commented on, would be a major win for Boeing, which has lost ground to Airbus in one of the world’s largest aviation markets.",
-        "url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
-        "image": "https://static01.nyt.com/images/2026/05/13/multimedia/13trump-xi-aviation-jphq/13trump-xi-aviation-jphq-facebookJumbo.jpg",
-        "publishedAt": "2026-05-15T21:48:39Z",
-        "source": "The New York Times"
+        "title": "US Supreme Court tosses longshot appeal from Virginians to use new congressional map that would benefit Democrats",
+        "description": "The Supreme Court on Friday tossed out an emergency request from Virginia officials to reinstate a congressional map that would have benefited Democrats in this year’s midterm election, a widely expected decision that represented the court’s latest foray into a nationwide redistricting war.",
+        "url": "https://www.cnn.com/2026/05/15/politics/virginia-redistricting-us-supreme-court",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26111637555283.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-15T22:37:57Z",
+        "source": "CNN"
       },
       {
-        "title": "Looksmaxxing influencer Clavicular reaches deal in alligator shooting case",
-        "description": "The 20-year-old must complete firearms and wildlife safety courses, and 20 hours of community service that cannot be streamed or monetised.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g9zw9y39jo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efd0/live/55b5bbd0-50a7-11f1-a32e-831396b51926.jpg",
-        "publishedAt": "2026-05-15T21:46:36Z",
-        "source": "BBC"
+        "title": "Iran Update Special Report, May 15, 2026",
+        "description": "Senior Iranian officials continue to demand guarantees against future US-Israeli attacks as a precondition for negotiations.",
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-may-15-2026/",
+        "image": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
+        "publishedAt": "2026-05-15T22:35:28Z",
+        "source": "Institute for the Study of War"
       },
       {
-        "title": "Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds",
-        "description": "Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran",
-        "url": "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program",
-        "image": "https://i.guim.co.uk/img/media/78aff46fd1b7569dd9e0fc523f31d40a16b48f4e/281_0_3637_2908/master/3637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82e2afd734b94906e1b9694b847c6a30",
-        "publishedAt": "2026-05-15T21:34:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
-        "description": "A damning Department of War report finds that the Pentagon didn’t fully implement any required civilian harm mitigation measures.",
-        "url": "https://theintercept.com/2026/05/15/pentagon-civilian-harm-casualties-war-hegseth/",
-        "image": "https://theintercept.com/wp-content/uploads/2026/05/AP26134108104724-e1778870882992.jpg?fit=3105%2C1555&w=1200&h=800",
-        "publishedAt": "2026-05-15T21:33:25Z",
-        "source": "The Intercept"
-      },
-      {
-        "title": "Energy, defence ties get a boost as Modi meets UAE president",
-        "description": "India News: India and the UAE sought to boost their energy, defence shipping and technology ties signing 6 MoUs and announcing investments worth $ 5 billion from .",
-        "url": "https://timesofindia.indiatimes.com/india/energy-defence-ties-get-a-boost-as-modi-meets-uae-president/articleshow/131127619.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131127618,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-15T21:28:00Z",
+        "title": "US says El Nino just weeks away, earlier than expected",
+        "description": "Environment News: El Nino’s shadow over this year’s monsoon in India may have just got longer. Latest forecasts from international agencies suggest El Nino could be jus.",
+        "url": "https://timesofindia.indiatimes.com/home/environment/weather/us-says-el-nino-just-weeks-away-earlier-than-expected/articleshow/131129754.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131129755,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-15T22:33:00Z",
         "source": "The Times of India"
       },
       {
-        "title": "Trump says he is losing patience with Iran, did not ask China for favours",
-        "description": "Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/trump-says-he-is-losing-patience-with-iran-did-not-ask-china-for-favours",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/57292682cbcd63327ed77b27938b3a253687c919a16abda46b2422ce55a9d923",
-        "publishedAt": "2026-05-15T21:27:31Z",
-        "source": "The Straits Times"
+        "title": "He declared a new country governed by AI. He’s not sure it will end well",
+        "description": "Tech founder Dan Thomson claimed to have launched an AI-governed country a year ago, now he's not entirely convinced it will end well.",
+        "url": "https://www.rnz.co.nz/news/world/595412/he-declared-a-new-country-governed-by-ai-he-s-not-sure-it-will-end-well",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--KtJuEUzx--/t_tohu-badge-facebook/v1778883562/4JOJLZS_AFP__20251213__87ZP7G6__v1__HighRes__PhilippinesTourism_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-05-15T22:28:33Z",
+        "source": "RNZ"
       },
       {
-        "title": "After Trump’s China visit, Xi accepts invitation for US state visit",
-        "description": "China News: Chinese President Xi Jinping will visit the United States later this year at the invitation of US President Donald Trump. The announcement was made on.",
-        "url": "https://timesofindia.indiatimes.com/world/china/after-trumps-china-visit-xi-accepts-invitation-for-us-state-visit/articleshow/131127608.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131127606,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-15T21:25:00Z",
-        "source": "The Times of India"
+        "title": "Russia pressures university students to become wartime drone pilots",
+        "description": "Universities promise no frontline duty and perks if students enlist in military.",
+        "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg",
+        "publishedAt": "2026-05-15T22:19:12Z",
+        "source": "Ars Technica"
       },
       {
-        "title": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
-        "description": "The president left Beijing following a summit with China, during which the two countries sought to stabilize their economic and political relations.",
-        "url": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
-        "image": "https://static01.nyt.com/images/2026/05/15/multimedia/15DC-Trump-Trade-fkpb/15DC-Trump-Trade-fkpb-facebookJumbo.jpg",
-        "publishedAt": "2026-05-15T21:24:12Z",
-        "source": "The New York Times"
+        "title": "Five takeaways from Trump and Xi’s superpower summit",
+        "description": "US President Donald Trump has left Beijing after talks, a temple tour and tea with his Chinese counterpart Xi Jinping. Their discussions ranged from trade to...",
+        "url": "https://www.nzherald.co.nz/world/five-takeaways-from-trump-and-xis-superpower-summit/VKWMLFAQ2FABJOLNNGLEG3UP2I/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/XAQ32YMLLFDUDKXGRYKG4MM3EA.jpg?auth=7b8bf7eff72b40a64e19b4e8287ad76d520a51b302b69c951bb5f54691fd5391&width=1200&height=675&quality=70&focal=1250%2C208&smart=false",
+        "publishedAt": "2026-05-15T22:11:10Z",
+        "source": "NZ Herald"
+      },
+      {
+        "title": "Trump 'losing patience' with Iran amid talks deadlock",
+        "description": " Signals acceptance of 20-year halt to enrichment\n Araghchi says Pakistan's mediation process facing difficulties",
+        "url": "https://tribune.com.pk/story/2608425/trump-losing-patience-with-iran-amid-talks-deadlock",
+        "image": "https://i.tribune.com.pk/media/images/431778881858-3/431778881858-3-640x480.webp",
+        "publishedAt": "2026-05-15T22:03:08Z",
+        "source": "The Express Tribune"
+      },
+      {
+        "title": "TechReviewAfrica - News Details",
+        "description": "Your Trusted Tech News Platform",
+        "url": "https://techreviewafrica.com/news/5448/africa-healthtech-summit-dialogue-in-kigali-highlights-future-of-digital-health-systems",
+        "image": "https://techreviewafrica.com/assets/images/news/2026/05/15/6a07971d9bfc71778882333.jpg",
+        "publishedAt": "2026-05-15T22:02:39Z",
+        "source": "Tech Review Africa"
       }
     ],
     "business": [
       {
-        "title": "Dr Adutwum lauds Skysat Technologies' investment in advanced printing solutions",
-        "description": "Former Education Minister and Member of Parliament for Bosomtwe, Yaw Osei Adutwum, has commended Skysat Technologies Ghana Limited following the launch of its Konica Minolta Print Experience Centre, describing the initiative as a major boost for...",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/business/Dr-Adutwum-lauds-Skysat-Technologies-investment-in-advanced-printing-solutions-2034764",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/648/64874030.jpg",
-        "publishedAt": "2026-05-15T21:44:28Z",
-        "source": "GhanaWeb"
+        "title": "ARS Pharma (SPRY) Q4 2025 Earnings Transcript",
+        "description": "ARS Pharma (SPRY) Q4 2025 Earnings Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/05/15/ars-pharma-spry-q4-2025-earnings-transcript/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "publishedAt": "2026-05-15T22:34:37Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Ray Dalio's Bridgewater Associates exits Salesforce, cuts stake in PayPal in Q1",
-        "description": "Ray Dalio's Bridgewater Associates added to its stake in Marvell Technology (MRVL), Nvidia (NVDA), and Amazon.com (AMZN), while reducing its holdings in PayPal (PYPL) and exiting Salesforce (CRM) during Q1, according to the fund's latest 13F filing.",
-        "url": "https://seekingalpha.com/news/4594097-ray-dalios-bridgewater-associates-exits-salesforce-cuts-stake-in-paypal-in-q1",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493248224/image_493248224.jpg?io=getty-c-w630",
-        "publishedAt": "2026-05-15T21:43:22Z",
-        "source": "Seeking Alpha"
+        "title": "Robbery and forcible confinement charges laid after East Street incident",
+        "description": "Sault police say an investigation into a reported robbery uncovered allegations of a break-in, threats and the confinement of a victim inside their unit before belongings were taken",
+        "url": "https://www.sootoday.com/city-police-beat/robbery-and-forcible-confinement-charges-laid-after-east-street-incident-12281696",
+        "image": "https://www.vmcdn.ca/f/files/sootoday/images/police/city-police/2024-02-08-saultpolicepatchjh02.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-05-15T22:33:08Z",
+        "source": "SooToday.com"
       },
       {
-        "title": "State Street to Launch Tokenized Fund Servicing in Luxembourg by 2026",
-        "description": "State Street is quietly building the plumbing that could finally make tokenized funds a mainstream reality.\nWhat’s happening\n- State Street Corporation plans t",
-        "url": "https://www.kucoin.com/news/flash/state-street-to-launch-tokenized-fund-servicing-in-luxembourg-by-2026",
-        "image": "https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png",
-        "publishedAt": "2026-05-15T21:41:32Z",
-        "source": "KuCoin"
+        "title": "Widow's campaign for stronger gambling regulations after her husband's death",
+        "description": "Annie Ashton's husband took his own life after suffering from a gambling addiction. Since then, she's campaigned for stronger regulation of the gambling industry and greater awareness of gambling harm.",
+        "url": "https://www.abc.net.au/news/2026-05-16/gambling-addiction-suicide-stronger-regulation-campaign/106685538",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c869ab141680d1ce3d9cc53815c768fb?impolicy=wcms_watermark_news&cropH=2811&cropW=4997&xPos=1&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-15T22:31:01Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "GLP-1 Drug Makes Its Case for Treating Plaque Psoriasis",
-        "description": "Adding tirzepatide helped patients shed pounds, improved complete skin clearance rates",
-        "url": "https://www.medpagetoday.com/dermatology/psoriasis/121299",
-        "image": "https://assets.medpagetoday.net/media/images/121xxx/121299.jpg",
-        "publishedAt": "2026-05-15T21:39:22Z",
-        "source": "MedPage Today"
+        "title": "De Havilland Canada breaks ground on momentous new facility",
+        "description": "De Havilland Canada broke ground on its new aircraft manufacturing facility on Friday, which is expected to boost Alberta's economy.",
+        "url": "https://calgaryherald.com/news/0516-de-havilland-groundbreaking",
+        "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/05/dehavilland-ground-breaking.jpg",
+        "publishedAt": "2026-05-15T22:29:29Z",
+        "source": "Calgary Herald"
       },
       {
-        "title": "Trump’s 'Golden Age' killed another American company's factory in a red state",
-        "description": "Reason Magazine reports President Donald Trump's tariffs and his war with Iran appears to have personally played a role in killing a profitable North Carolina tire factory.“The Goodyear Rubber and Tire Co. announced this week that it would be shuttering its Fayetteville, North Carolina, plant that c...",
-        "url": "https://www.alternet.org/trump-tariffs-businesses-pain/",
-        "image": "https://www.alternet.org/media-library/image.jpg?id=66742821&width=1200&height=600&coordinates=0%2C163%2C0%2C163",
-        "publishedAt": "2026-05-15T21:36:00Z",
-        "source": "Alternet"
+        "title": "'A new chapter' - De Havilland Canada breaks ground on new facility near Calgary",
+        "description": "Manufacturing facility could bring up to 3,000 jobs to the region",
+        "url": "https://ca.news.yahoo.com/chapter-havilland-canada-breaks-ground-222634940.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/d5wmcvJm.r3qky2f7dJiQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/calgary_herald_articles_312/89f15485a7397bd1dd202362145dd455",
+        "publishedAt": "2026-05-15T22:26:34Z",
+        "source": "Yahoo News Canada"
       },
       {
-        "title": "2026 Subaru Uncharted price and specs",
-        "description": "Subaru's third electric vehicle to arrive in Australian showrooms is the Uncharted, and it's the brand's smallest and most affordable EV to date.",
-        "url": "https://www.carexpert.com.au/car-news/2026-subaru-uncharted-price-and-specs",
-        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2026-03-subaru-uncharted-1.png",
-        "publishedAt": "2026-05-15T21:30:01Z",
-        "source": "CarExpert"
+        "title": "Trump talks up trade deals with China, but experts see no big wins for U.S.",
+        "description": "President Trump's trip to China could bolster economic relations, but failed to deliver a breakthrough deal, some trade and energy experts said.",
+        "url": "https://www.cbsnews.com/news/trump-xi-jinping-china-trade-deals-boeing/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/15/039760c2-6aab-4f1a-b4ad-66f5fdbe406a/thumbnail/1200x630/7f4c43f8449a78899e51655d9198e3f8/gettyimages-2275540800.jpg",
+        "publishedAt": "2026-05-15T22:26:33Z",
+        "source": "CBS News"
       },
       {
-        "title": "Fresh tension in Nigeria’s oil sector as Dangote refinery challenges",
-        "description": "A new battle may be unfolding in Nigeria’s downstream oil sector as Dangote Refinery has reportedly dragged the Federal Government to",
-        "url": "https://guardian.ng/news/fresh-tension-in-nigerias-oil-sector-as-dangote-refinery-challenges-fuel-import-licences/",
-        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Dangote-Refinery.webp",
-        "publishedAt": "2026-05-15T21:30:00Z",
-        "source": "The Guardian Nigeria News"
+        "title": "Rising real yields crush precious metals momentum",
+        "description": "The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.",
+        "url": "https://www.kitco.com/news/article/2026-05-15/rising-real-yields-crush-precious-metals-momentum",
+        "image": "https://image-api.prod.kitco.com/image/ae04b508-a832-4f7d-83a7-20c1cc90ef54.png?top=80&left=0&width=1536&height=864&scale_width=1920&token=bde80aa3c59e7f18cfa2954c1486daa4e64b46e3a80255d7376d0177411f9c60",
+        "publishedAt": "2026-05-15T22:23:03Z",
+        "source": "KITCO"
       },
       {
-        "title": "TaTU Engineering Students develop crypto-currency rewarding ‘smart bins’",
-        "description": "Correspondence from Northern Region",
-        "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/TaTU-Engineering-Students-develop-crypto-currency-rewarding-smart-bins-2034761",
-        "image": "https://cdn.ghanaweb.com/imagelib/pics/822/82235880.jpg",
-        "publishedAt": "2026-05-15T21:28:26Z",
-        "source": "GhanaWeb"
+        "title": "Liberty Broadband Corporation Declares Quarterly Cash Dividend on Series A Cumulative Redeemable Preferred Stock",
+        "description": "Liberty Broadband Corporation Declares Quarterly Cash Dividend on Series A Cumulative Redeemable Preferred Stock",
+        "url": "https://www.businesswire.com/news/home/20260515612247/en/Liberty-Broadband-Corporation-Declares-Quarterly-Cash-Dividend-on-Series-A-Cumulative-Redeemable-Preferred-Stock",
+        "image": "https://mms.businesswire.com/media/20260515612247/en/440092/21/Logo-Broadband_4c.jpg",
+        "publishedAt": "2026-05-15T22:15:00Z",
+        "source": "Business Wire"
       }
     ],
     "science": [
+      {
+        "title": "Giant Tyrannosaur Fossil Found in New Mexico",
+        "description": "A large tyrannosaurid dinosaur may have stalked the floodplains of what is now New Mexico nearly 74 million years ago, according to a team of paleontologists from the University of Bath, Montana State University and the New Mexico Museum of Natural History and Science.",
+        "url": "https://www.sci.news/paleontology/hunter-wash-tyrannosaur-14772.html",
+        "image": "https://cdn.sci.news/images/2026/05/image_14772f-Bistahieversor-sealeyi.jpg",
+        "publishedAt": "2026-05-15T22:39:58Z",
+        "source": "Sci.News"
+      },
+      {
+        "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
+        "description": "Researchers at the International Institute of Molecular and Cell Biology in Warsaw (IIMCB), led by Prof. Gracjan Michlewski, have shown that a subtle difference at the very beginning of an RNA molecule can influence how strongly a cell activates innate immune antiviral responses.",
+        "url": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/small-change-in-rna-bi.jpg",
+        "publishedAt": "2026-05-15T22:20:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Bizarre Venus Surface Formations Puzzle Planetary Scientists",
         "description": "Enigmatic crownlike surface formations on Venus hold keys to understanding our twin planet’s deep interior. Or so says a new paper presented at the recent European Geosciences Union 2026 general assembly in Vienna.",
@@ -182,88 +198,72 @@
         "image": "https://www.sciencealert.com/images/2026/05/fossil-header.jpg",
         "publishedAt": "2026-05-15T21:02:40Z",
         "source": "ScienceAlert"
-      },
-      {
-        "title": "May 16: How dandelion seeds take flight, and more…",
-        "description": "Why old buildings feel creepy, how male octopuses find their mates, how virtual hearts improve patient treatment, what dandelions can teach us about invasive species, a look back at the discovery of Lucy and evergreen trees.",
-        "url": "https://www.cbc.ca/radio/quirks/octopus-arms-dandelions-9.7200756",
-        "image": "https://i.cbc.ca/ais/8be804ef-75d8-43b3-8a0e-b114e52d4f63,1778872200238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C126%2C2328%2C1309%29%3BResize%3D620",
-        "publishedAt": "2026-05-15T20:57:42Z",
-        "source": "CBC"
-      },
-      {
-        "title": "CO2 is cooling the upper atmosphere while warming the planet's surface, and scientists don't know how or why",
-        "description": "A new study explains why carbon dioxide is cooling the upper atmosphere, even as it is warming Earth’s surface.",
-        "url": "https://www.earth.com/news/carbon-dioxide-cos-is-cooling-stratosphere-upper-atmosphere-while-warming-planet-surface/",
-        "image": "https://cff2.earth.com/uploads/2026/05/15141426/earth-stratosphere_co2-cooling-upper-atmosphere-1m.jpg",
-        "publishedAt": "2026-05-15T20:48:45Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "B.C. company goes out on the edge to stake ground in AI race",
-        "description": "The big picture in AI is dominated by gigafactory data centres, but B.C.'s Green Edge Computing Corp. is betting on the small picture.",
-        "url": "https://theprovince.com/business/bc-company-stakes-ground-ai-race/wcm/8cd868db-24af-4b35-b606-b6ec099f2a41",
-        "image": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2026/05/jeff-macmillan-02_303133615.jpg",
-        "publishedAt": "2026-05-15T21:48:52Z",
-        "source": "The Province"
+        "title": "Administrative training, governance institutions must reinvent themselves: Minister Jitendra Singh",
+        "description": "NEW DELHI, May 15: Union minister Jitendra Singh on Friday said that administrative training and governance institutions across the country must reinvent themselves and shun stereotype models to remain relevant. Addressing the concluding session of the National Departmental Summit on “Institutionalising Capacity Building: From Training to Performance-Linked Governance” through virtual mode, he said Mission Karmayogi is steadily moving towards an AI-integrated governance framework linking capacity building, competency development, technology and public service delivery. The National Programme for Civil Services Capacity […]",
+        "url": "https://www.dailyexcelsior.com/administrative-training-governance-institutions-must-reinvent-themselves-minister-jitendra-singh/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/dr.jpg",
+        "publishedAt": "2026-05-15T22:30:36Z",
+        "source": "Daily Excelsior"
       },
       {
-        "title": "B.C. company goes out on the edge to stake ground in AI race",
-        "description": "The big picture in AI is dominated by gigafactory data centres, but B.C.'s Green Edge Computing Corp. is betting on the small picture.",
-        "url": "https://vancouversun.com/business/bc-company-stakes-ground-ai-race",
-        "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/05/jeff-macmillan-02_303133615.jpg",
-        "publishedAt": "2026-05-15T21:48:52Z",
-        "source": "Vancouver Sun"
+        "title": "Subotiz Showcases AI-Native Revenue and Payment Platform at SaaStr AI Annual 2026",
+        "description": "**media[1059533]**A live session underscored the shift from fragmented tools to unified payments infrastructure",
+        "url": "https://www.manilatimes.net/2026/05/16/tmt-newswire/pr-newswire/subotiz-showcases-ai-native-revenue-and-payment-platform-at-saastr-ai-annual-2026/2345354",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/16/1059532.jpg",
+        "publishedAt": "2026-05-15T22:30:26Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "B.C. company goes out on the edge to stake ground in AI race",
-        "description": "The big picture in AI is dominated by gigafactory data centres, but B.C.'s Green Edge Computing Corp. is betting on the small picture.",
-        "url": "https://theprovince.com/business/bc-company-stakes-ground-ai-race",
-        "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/05/jeff-macmillan-02_303133615.jpg",
-        "publishedAt": "2026-05-15T21:48:52Z",
-        "source": "The Province"
+        "title": "Micron Stock (MU) Is Up Over 700%. Let’s Look at Who Owns It",
+        "description": "Micron Technology (MU) stock surged about 700% in 2025 and is up another 159% year-to-date as rising AI demand continues to drive memory prices ...",
+        "url": "https://markets.businessinsider.com/news/stocks/micron-stock-mu-is-up-over-700-let-s-look-at-who-owns-it-1036165383",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-1645-1024x252.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-05-15T22:30:00Z",
+        "source": "Markets Insider"
       },
       {
-        "title": "The Vatican has said a lot about artificial intelligence. A primer ahead of the pope's encyclical",
-        "description": "The Vatican is preparing to release Pope Leo XIV’s first encyclical in the coming weeks The Vatican has said a lot about artificial intelligence. A",
-        "url": "https://www.breitbart.com/news/the-vatican-has-said-a-lot-about-artificial-intelligence-a-primer-ahead-of-the-popes-encyclical/",
-        "image": "https://media.breitbart.com/media/2026/05/wi/ap/vatican-pope-49297-vatican-pope-pope-leo-xiv-arrives-weekly-audience-st-peter-square-at-vatican-640x335.jpg",
-        "publishedAt": "2026-05-15T21:48:39Z",
-        "source": "Breitbart News Network"
+        "title": "Closing Arguments In High-Stakes OpenAI Trial Focus On Reputation, Character",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/ai/closing-arguments-high-stakes-openai-trial-focus-reputation-character",
+        "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-05/image_80%28584%29.jpg?itok=5RCwDquX",
+        "publishedAt": "2026-05-15T22:25:00Z",
+        "source": "ZeroHedge"
       },
       {
-        "title": "Hackers armed with AI stoke fears for $130 billion crypto sector",
-        "description": "AI in criminal hands would mark a sharp escalation of the threat facing crypto.",
-        "url": "https://www.courant.com/2026/05/15/hackers-ai-crypto-fears/",
-        "image": "https://www.courant.com/wp-content/uploads/2026/05/202605151359MCT_____PHOTO____BIZ-CPT-AI-CRYPTO-HACKERS-DMT.jpg?w=1024&h=682",
-        "publishedAt": "2026-05-15T21:44:54Z",
-        "source": "Hartford Courant"
+        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "description": "YouTube is expanding its AI deepfake detection program to all users over 18 years old. The tool scans YouTube for deepfakes and allows users to request removals.",
+        "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-05-15T22:25:00Z",
+        "source": "The Verge"
       },
       {
-        "title": "Hackers armed with AI stoke fears for $130 billion crypto sector",
-        "description": "AI in criminal hands would mark a sharp escalation of the threat facing crypto.",
-        "url": "https://www.bostonherald.com/2026/05/15/hackers-ai-crypto-fears/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/202605151359MCT_____PHOTO____BIZ-CPT-AI-CRYPTO-HACKERS-DMT.jpg?w=1024&h=682",
-        "publishedAt": "2026-05-15T21:44:54Z",
-        "source": "The Boston Herald"
+        "title": "Leave Those Laptops at Home. OpenAI Adds Codex to ChatGPT Mobile App",
+        "description": "You'll never escape your vibe coding projects as long as you have your phone with you.",
+        "url": "https://www.cnet.com/tech/services-and-software/openai-releases-codex-for-chatgpt-mobile-app/",
+        "image": "https://www.cnet.com/a/img/resize/88bf22f6a7a138db38f0564532aac9e0bee81134/hub/2026/05/15/73ec40a3-1d1c-4abf-9cea-9061a459c330/gettyimages-2213179407.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-05-15T22:18:39Z",
+        "source": "CNET"
       },
       {
-        "title": "Hackers armed with AI stoke fears for $130 billion crypto sector",
-        "description": "AI in criminal hands would mark a sharp escalation of the threat facing crypto.",
-        "url": "https://www.dailycamera.com/2026/05/15/hackers-ai-crypto-fears/",
-        "image": "https://www.dailycamera.com/wp-content/uploads/2026/05/202605151359MCT_____PHOTO____BIZ-CPT-AI-CRYPTO-HACKERS-DMT.jpg?w=1024&h=682",
-        "publishedAt": "2026-05-15T21:44:54Z",
-        "source": "Boulder Daily Camera"
+        "title": "Bills for AI, data centers, energy and gaming are circling the drain in Springfield",
+        "description": "Sometimes a spark occurs and stuff starts moving again. Sometimes, stuff is set aside until more talks can be held over the summer. Sometimes, stuff just dies.",
+        "url": "https://chicago.suntimes.com/columnists/2026/05/15/legislation-tax-breaks-ai-data-centers-bears-housing-energy-gaming-bill-rich-miller",
+        "image": "https://cst.brightspotcdn.com/dims4/default/a7da2bd/2147483647/strip/true/crop/5682x3244+0+272/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2Fce%2F4fe1d0084a27a933021e724deff4%2Fspringfield-05xx24-9.jpg",
+        "publishedAt": "2026-05-15T22:12:00Z",
+        "source": "Chicago Sun-Times"
       },
       {
-        "title": "Hackers armed with AI stoke fears for $130 billion crypto sector",
-        "description": "AI in criminal hands would mark a sharp escalation of the threat facing crypto.",
-        "url": "https://www.pilotonline.com/2026/05/15/hackers-ai-crypto-fears/",
-        "image": "https://www.pilotonline.com/wp-content/uploads/2026/05/202605151359MCT_____PHOTO____BIZ-CPT-AI-CRYPTO-HACKERS-DMT.jpg?w=1024&h=682",
-        "publishedAt": "2026-05-15T21:44:54Z",
-        "source": "Norfolk Virginian-Pilot"
+        "title": "Palantir: Riding The AI Wave, But Limited Margin Of Safety",
+        "description": "Palantir (PLTR) analysis: AI platform drives US commercial hypergrowth and steady government contracts, but valuation looks stretched. Read the article here.",
+        "url": "https://seekingalpha.com/article/4905421-palantir-riding-the-ai-wave-but-limited-margin-of-safety",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1426101020/image_1426101020.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-15T22:10:34Z",
+        "source": "Seeking Alpha"
       }
     ]
   }
