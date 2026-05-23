@@ -1,8 +1,64 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-23T11:42:25.477Z",
+  "fetchedAt": "2026-05-23T12:39:49.530Z",
   "sections": {
     "world": [
+      {
+        "title": "Most people seeking green cards must now apply from outside US",
+        "description": "A new policy closes a loophole that has allowed people to apply for a green card, or permanent residency, while in the country.",
+        "url": "https://www.bbc.co.uk/news/articles/cgrpz4l1klgo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf3d/live/f5b14250-563b-11f1-9f4f-b375cfeddc7b.jpg",
+        "publishedAt": "2026-05-23T00:31:02Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Garden Grove evacuation: Thousands evacuated as chemical tank is at risk of explosion",
+        "description": "About 40,000 residents in Orange County, California, are under evacuation orders as authorities are concerned a tank filled with a toxic chemical will leak or explode.",
+        "url": "https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-20260523001545235.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-23T00:21:00Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Blast at New York City shipyard: 1 killed, at least 36 injured",
+        "description": "US News: At least one person was killed and 36 others injured in a blast at a shipyard in New York City, officials said on Friday (local time). Emergency crews.",
+        "url": "https://timesofindia.indiatimes.com/world/us/blast-at-new-york-city-shipyard-1-killed-at-least-36-injured/articleshow/131270542.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131270540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-23T00:14:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Police ordered guns to be removed from mosque shooter’s home in 2025",
+        "description": "More than a year before two teens attacked a San Diego mosque, killing three, local police filed a protective order to remove dozens of firearms from one of...",
+        "url": "https://www.nzherald.co.nz/world/police-ordered-guns-to-be-removed-from-mosque-shooters-home-in-2025/X5LZEY7VXNAQFMJR7SSVWU6LYA/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/TNVPREW3Z5E7PG376PRRJ7VCTQ.jpg?auth=3faa5cd46da03fda5cfb621784c7d5e7135f05aa041711139bec6bf6ddc47ff3&width=1200&height=675&quality=70&focal=857%2C1379&smart=false",
+        "publishedAt": "2026-05-23T00:11:15Z",
+        "source": "NZ Herald"
+      },
+      {
+        "title": "In rare move, Nigeria's Jiji just acquired Bangladesh's largest online marketplace Bikroy",
+        "description": "Jiji, founded in 2014, has grown into one of Africa’s largest online classifieds platforms, operating across several African countries",
+        "url": "https://face2faceafrica.com/article/in-rare-move-nigerias-jiji-just-acquired-bangladeshs-largest-online-marketplace-bikroy",
+        "image": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2026/05/jiji-1.jpg",
+        "publishedAt": "2026-05-23T00:10:00Z",
+        "source": "Face2Face Africa"
+      },
+      {
+        "title": "US mulls new strikes on Iran: US media reports",
+        "description": "The United States is weighing new military strikes on Iran, US media outlets reported on Friday.The reports, from CBS and Axios, come just hours after US President Donald Trump said he would not travel to attend his son's wedding this weekend due to \"circumstances pertaining to government\" and his \"love for the United States of America.\"Trump said that it was \"important for me to remain in Washington, D.C., at the White House during this important period of time.\"Both Axios and CBS said that a final decision on new strikes hasn't been made.",
+        "url": "https://www.al-monitor.com/originals/2026/05/us-mulls-new-strikes-iran-us-media-reports",
+        "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-05/b5dfc1daff6fcb1c6e419df98b4c6dba13ed1522.jpg?h=69f2b9d0&itok=dhDmQ19f",
+        "publishedAt": "2026-05-22T23:56:25Z",
+        "source": "Al-Monitor"
+      },
+      {
+        "title": "Senegal’s president fires prime minister after months of tensions",
+        "description": "Senegal’s President Bassirou Diomaye Faye has fired Prime Minister Ousmane Sonko after months of simmering tension.",
+        "url": "https://apnews.com/article/senegal-fire-president-prime-minister-f90c5cb7025bcad7c0fddd9c35e9864e",
+        "image": "https://dims.apnews.com/dims4/default/dcf56df/2147483647/strip/true/crop/6785x4521+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2F5d%2Fd37b85de6f679a2784bdd9d03d64%2F839285a59ff24b2ab0443fb7e8b18990",
+        "publishedAt": "2026-05-22T23:52:00Z",
+        "source": "AP News"
+      },
       {
         "title": "Sri Lanka: Iran war plunges tea industry into crisis",
         "description": "Rising energy prices, sharp export declines and disrupted supply chains are putting Sri Lanka's tea industry under severe pressure. The conflict is exacerbating the crisis for companies and plantation workers.",
@@ -10,131 +66,99 @@
         "image": "https://static.dw.com/image/77262314_6.jpg",
         "publishedAt": "2026-05-22T23:40:04Z",
         "source": "DW.com"
-      },
-      {
-        "title": "Fire at Novorossiysk fuel terminal and chemical plant in Perm Krai amid Ukrainian drone attack, Russian authorities say",
-        "description": "A fire broke out at a fuel terminal in the southern Russian city of Novorossiysk overnight on May 23, local authorities and media channels reported.",
-        "url": "https://kyivindependent.com/fire-at-novorossiysk-fuel-terminal-amid-ukrainian-drone-attack-russian-authorities-say/",
-        "image": "https://assets.kyivindependent.com/content/images/2026/05/photo_2026-05-22-19_14_15_20260522-231425.jpeg",
-        "publishedAt": "2026-05-22T23:39:11Z",
-        "source": "The Kyiv Independent"
-      },
-      {
-        "title": "World's second richest country ranks No.1 in Southeast Asia for tourism",
-        "description": "Singapore has been named the best country for culture and tourism in Southeast Asia in a 2026 ranking compiled by U.S. News & World Report in partnership with the University of Pennsylvania. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/travel/places/world-s-second-richest-country-ranks-no-1-in-southeast-asia-for-tourism-5075483.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/05/21/0bd1394541844593d15f3133bfca08-4660-6964-1779336735.png?w=680&h=0&q=100&dpr=1&fit=crop&s=20EgH8OB99RDbeFQfUdJmQ",
-        "publishedAt": "2026-05-22T23:37:59Z",
-        "source": "VnExpress International"
-      },
-      {
-        "title": "Abrego Garcia Wins Dismissal of US Human-Smuggling Case",
-        "description": "A federal judge in Tennessee dismissed human-smuggling charges against Salvadoran migrant Kilmar Armando Abrego Garcia after concluding the US government brought the case in retaliation for his legal fight against being deported.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-22/abrego-garcia-wins-dismissal-of-us-human-smuggling-case",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imUIG3G8Cdsk/v0/1200x800.jpg",
-        "publishedAt": "2026-05-22T23:16:50Z",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-        "description": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g0410gnv5o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f59b/live/89f9ba00-55f1-11f1-b682-cf91850925ea.png",
-        "publishedAt": "2026-05-22T23:07:55Z",
-        "source": "BBC"
-      },
-      {
-        "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
-        "description": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
-        "url": "https://www.yahoo.com/news/world/articles/speed-money-compassion-lessons-ebola-230748374.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/yTCillxs.yDyGZHc4xMtkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/0206496d4e1296e86f8803fd8a588706",
-        "publishedAt": "2026-05-22T23:07:48Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Ebola outbreak: 'Speed, money and compassion'",
-        "description": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
-        "url": "https://www.bbc.co.uk/news/articles/cj3p2rdx0l8o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b3/live/8445c700-55d0-11f1-8b8c-6d33e1d5abb6.jpg",
-        "publishedAt": "2026-05-22T23:07:41Z",
-        "source": "BBC"
-      },
-      {
-        "title": "How can China and the US escape ‘history as usual’? Xi has a message",
-        "description": "Prominent Harvard scholar says the Chinese leader sees rivalry with Washington as a path to catastrophic war unless both sides rethink their ties.",
-        "url": "https://www.scmp.com/news/china/article/3354593/xi-raised-thucydides-trap-trump-warning-against-conflict-expert-says",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/23/f3e046f8-bfc0-40b4-87dc-4dc202efc1f8_a9360288.jpg?itok=Gr2m_62n&v=1779491015",
-        "publishedAt": "2026-05-22T23:03:51Z",
-        "source": "South China Morning Post"
       }
     ],
     "business": [
       {
-        "title": "Rosen Law Firm Encourages Futu Holdings Limited Investors to Inquire About Securities Class Action Investigation - FUTU",
-        "description": "Why: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of shareholders of Futu Holdings ...",
-        "url": "https://www.businesswire.com/news/home/20260522873393/en/Rosen-Law-Firm-Encourages-Futu-Holdings-Limited-Investors-to-Inquire-About-Securities-Class-Action-Investigation-FUTU",
-        "image": "https://mms.businesswire.com/media/20260522873393/en/1164042/22/July_30%2C_2021_-_ROSEN_LOGO.jpg",
-        "publishedAt": "2026-05-22T23:14:00Z",
-        "source": "Business Wire"
-      },
-      {
-        "title": "A Look At NetApp (NTAP) Valuation After A Sharp Share Price Jump And AI Infrastructure Momentum",
-        "description": "Recent performance snapshot NetApp (NTAP) has drawn fresh attention after a strong price move, with the stock up 12.4% on the day and gaining 16.2% over the past week, outpacing its performance over the past month and past 3 months. See our latest analysis for NetApp. With the share price now at $139.36 and recent gains building on a 30.89% year to date share price return and a 44.96% 1 year total shareholder return, recent momentum sits on top of already strong multi year total shareholder...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/look-netapp-ntap-valuation-sharp-231240452.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/435262445ed0ec580756e993baba457c",
-        "publishedAt": "2026-05-22T23:12:40Z",
+        "title": "Winners And Losers Of Q1: Fortive (NYSE:FTV) Vs The Rest Of The Professional Tools and Equipment Stocks",
+        "description": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q1. Today, we are looking at professional tools and equipment stocks, starting with Fortive (NYSE:FTV).",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/winners-losers-q1-fortive-nyse-003655542.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/kIYc7pcdFnWI5E1suGlQ5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/86c2c988835746be4843bad5b9666720",
+        "publishedAt": "2026-05-23T00:36:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "A Look At Zeta Global (ZETA) Valuation After New AI Partnerships And Strong Q1 2026 Results",
-        "description": "Why Zeta Global’s latest AI partnerships are drawing investor attention Zeta Global Holdings (ZETA) has moved into the spotlight after confirming an advertising partnership with OpenAI, deepening its AI focus while working with Snowflake on data standardization and reporting strong first quarter 2026 results. See our latest analysis for Zeta Global Holdings. Those OpenAI and Snowflake announcements, along with strong Q1 2026 results, have coincided with building momentum, with a 90 day share...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/look-zeta-global-zeta-valuation-231208693.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
-        "publishedAt": "2026-05-22T23:12:08Z",
+        "title": "Ghana Rolls Out 2025 Crypto Law as Regulators Target Fraud and AML Risks",
+        "description": "With over 3 million cryptocurrency users, Ghana rolls out a comprehensive licensing and oversight framework for virtual asset providers.",
+        "url": "https://news.bitcoin.com/ghana-rolls-out-2025-crypto-law-as-regulators-target-fraud-and-aml-risks/",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/05/bank-of-ghana-vasp-rules.jpg",
+        "publishedAt": "2026-05-23T00:35:37Z",
+        "source": "Bitcoin News"
+      },
+      {
+        "title": "Jensen Huang Says Nvidia Is Powering Uber's Push Into Trillion-Dollar Self-Driving Opportunity Across 30 Cities",
+        "description": "Nvidia Corp. CEO Jensen Huang announced the chipmaker’s partnership with ride-hailing giant Uber Technologies Inc. will target global expansion of Robotaxis in the next two years. 30 Cities With Uber During NVIDIA’s earnings call with investors on Wednesday, Huang shared...",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-says-nvidia-powering-003215725.html",
+        "image": "https://s.yimg.com/os/en/benzinga_79/63ec3658e0bc38bab371126a55c8ca1b",
+        "publishedAt": "2026-05-23T00:32:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Vistra Taps AI Data Center Surge With Long Term Tech Power Deals",
-        "description": "Vistra (NYSE:VST) has secured new multi decade power agreements with large technology companies, including Meta Platforms and Amazon Web Services. These contracts position Vistra as a key energy supplier for the current surge in AI focused data center construction. The deals are tied to nuclear and other dispatchable generation assets that can provide consistent power to hyperscale data centers. For readers following the buildout of AI infrastructure, Vistra sits at the intersection of...",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/vistra-taps-ai-data-center-231205029.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/852b74a8bd0e41fb236f1fd0b6b54e56",
-        "publishedAt": "2026-05-22T23:12:05Z",
+        "title": "Heavy traffic gridlock in southwest Edmonton as construction ramp up: ‘Everyone is frustrated’",
+        "description": "Some southside residents say what used to be a 30-minute drive has turned into a two-hour nightmare as the City of Edmonton has ramped up summer road construction.",
+        "url": "https://globalnews.ca/news/11861281/edmonton-windermere-road-construction-delays/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/05/windermere.png?w=720&h=379&crop=1",
+        "publishedAt": "2026-05-23T00:30:31Z",
+        "source": "Global News"
+      },
+      {
+        "title": "Wall Street keeps rising, even as US households keep getting more discouraged",
+        "description": "The split between Wall Street and most U.S. households grew wider Friday as U.S. stocks rose to the finish of their eighth straight winning week, the best such streak since 2023.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-keeps-rising-even-002802317.html",
+        "image": "https://s.yimg.com/os/en/wsb_cox_articles_232/d6902ce856adb4e9bf7ef75a9eed230a",
+        "publishedAt": "2026-05-23T00:28:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Is It Too Late To Consider Endeavour Mining (TSX:EDV) After Its Strong Multi Year Rally?",
-        "description": "If you are wondering whether Endeavour Mining at around C$79.08 is still offering value after a strong run, this article walks through what the current price might be implying. The stock has pulled back recently, with the share price down 4.7% over the last week and 8.1% over the last month, while still showing a 16.2% gain year to date and a 92.6% return over the past year. These moves sit against a backdrop of ongoing sector attention on gold producers and investor focus on companies with...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-endeavour-mining-tsx-231102471.html",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-        "publishedAt": "2026-05-22T23:11:02Z",
+        "title": "Will Heatwaves Derail India’s Data Centre Dream?",
+        "description": "India is targeting to be a $1 trillion digital economy with projections forecasting the internet and digital ecosystem will reach milestone between 2028",
+        "url": "https://www.gulte.com/trends/412603/will-heatwaves-derail-indias-data-centre-dream",
+        "image": "https://cdn.gulte.com/wp-content/uploads/2026/05/data-centres-heat-.jpg",
+        "publishedAt": "2026-05-23T00:27:47Z",
+        "source": "Gulte"
+      },
+      {
+        "title": "Is It Time To Reassess HEICO (HEI) After Its Strong Multi Year Share Price Run",
+        "description": "If you are wondering whether HEICO's current share price offers enough value for the risk you are taking, this article walks through what the numbers indicate so you can judge for yourself. HEICO's stock last closed at US$301.04, with returns of 4.2% over 7 days, 12.1% over 30 days, a decline of 8.6% year to date, 12.4% over 1 year, 89.5% over 3 years and 115.5% over 5 years. Recent price moves have kept HEICO on the radar for investors who follow longer-term performance and changing risk...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-heico-hei-strong-002427231.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/4a39ac79965dbdc4c586d12ea5141f62",
+        "publishedAt": "2026-05-23T00:24:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Datadog CEO Touts AI, Cloud Migration as Revenue Growth Accelerates",
-        "description": "Datadog (NASDAQ:DDOG) CEO and co-founder Olivier Pomel said the company is benefiting from both ongoing cloud migration and the rapid expansion of artificial intelligence workloads, describing the observability and security provider as still early in a long-running market cycle. Speaking at a compa",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/datadog-ceo-touts-ai-cloud-231018923.html",
-        "image": "https://s.yimg.com/os/en/marketbeat_955/c16d3e927307dbb0f9fcfdd9825ffe22",
-        "publishedAt": "2026-05-22T23:10:18Z",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "AI is being used to resurrect the voices of dead pilots",
-        "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
-        "publishedAt": "2026-05-22T23:03:33Z",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Global Ship Lease Inc (GSL) Q1 2026 Earnings Call Highlights: Strong Revenue Visibility and ...",
-        "description": "Global Ship Lease Inc (GSL) reports robust contracted revenues, strategic debt reduction, and a solid dividend yield amidst geopolitical challenges.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/global-ship-lease-inc-gsl-230021802.html",
-        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-05-22T23:00:21Z",
+        "title": "Assessing Dell Technologies (DELL) Valuation After AI Infrastructure Launches And Rating Upgrades",
+        "description": "Dell Technologies (DELL) kicked off Dell Technologies World 2026 with a dense slate of AI focused launches, including PowerStore Elite storage, new PowerEdge servers, Deskside Agentic AI and expanded private cloud automation. See our latest analysis for Dell Technologies. Investors have reacted strongly to the AI focus at Dell Technologies World, with the latest share price at US$295.19 and a 90 day share price return of 141.42%. The 5 year total shareholder return of about 5.5x points to...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-dell-technologies-dell-valuation-002418646.html",
+        "image": "https://s.yimg.com/os/en/simply_wall_st__316/002bffdbf159fbb26bfbba91229cb0f2",
+        "publishedAt": "2026-05-23T00:24:00Z",
         "source": "Yahoo Finance"
       }
     ],
     "science": [
+      {
+        "title": "Scientists Finally Solve Why Gold Never Rusts",
+        "description": "Scientists have confirmed that gold resists rust through a natural atomic rearrangement that creates a surface barrier.",
+        "url": "https://greekreporter.com/2026/05/23/gold-never-rust/",
+        "image": "https://greekreporter.com/wp-content/uploads/2025/02/gold-bars-public-domain-wikimedia-commons.jpg",
+        "publishedAt": "2026-05-23T00:01:28Z",
+        "source": "GreekReporter.com"
+      },
+      {
+        "title": "Scientists Discover Terrifying Giant Crocodile That Hunted Human Ancestors",
+        "description": "A newly named crocodile species from Ethiopia likely lived alongside Lucy’s species and dominated the wetlands of Hadar more than 3 million years ago.",
+        "url": "https://scitechdaily.com/scientists-discover-terrifying-giant-crocodile-that-hunted-human-ancestors/",
+        "image": "https://scitechdaily.com/images/Artistic-Illustration-of-Lucys-Hunter-Crocodile-scaled.jpg",
+        "publishedAt": "2026-05-22T23:55:51Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Caltech could lose control of JPL for the first time",
+        "description": "The action forces Caltech to compete for control of the La Cañada Flintridge institution it has managed since NASA’s inception in 1958.",
+        "url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/b8505e8/2147483647/strip/true/crop/5000x2625+0+560/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fc7%2F658a40784fa595cefc6475c8709a%2Fgettyimages-1986208730.jpg",
+        "publishedAt": "2026-05-22T23:53:46Z",
+        "source": "Los Angeles Times"
+      },
       {
         "title": "Olympic rower floats like astronaut to test future space gym",
         "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
@@ -174,96 +198,72 @@
         "image": "https://www.universetoday.com/article_images/PXL_20260505_123357830_20260522_221837.jpg",
         "publishedAt": "2026-05-22T22:11:00Z",
         "source": "Universe Today"
-      },
-      {
-        "title": "Tuning Into Quantum Sounds",
-        "description": "When a singer belts out a tune while a guitar player strums along, sound waves travel through the air, driving collective oscillations of the",
-        "url": "https://www.miragenews.com/tuning-into-quantum-sounds-1679298/",
-        "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg",
-        "publishedAt": "2026-05-22T22:06:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Just outside Jupiter, one region may have forged six meteorite parent bodies",
-        "description": "When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together to form kilometer-sized chunks known as planetesimals. Some grew into planets, while the rest are considered to be the precursors of today's asteroids. Researchers assume that this development did not proceed in a linear fashion, with different stages of planetesimal development occurring simultaneously, and not every region of the disk offering favorable \"starting conditions\" for planetesimals.",
-        "url": "https://phys.org/news/2026-05-jupiter-region-forged-meteorite-parent.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/different-meteorites-s-1.jpg",
-        "publishedAt": "2026-05-22T22:00:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Radiographic root pulp visibility of the mandibular left second molar as an indicator of legal adulthood (≥ 18 Years): a panoramic study",
-        "description": "This study aimed to evaluate the diagnostic performance of mandibular left second molar root pulp visibility (RPV) for legal age classification (≥ 18 years) using panoramic radiographs. A total of 983 orthopantomograms (492 males, 491 females) were retrospectively analyzed. Root pulp visibility was classified according to the staging system described by Olze et al. Diagnostic performance measures, logistic regression analysis, and receiver operating characteristic (ROC) analysis were performed. A p-value < 0.05 was considered statistically significant. A statistically significant association was observed between pulp stage and legal age classification (p < 0.001). Logistic regression analysis demonstrated a stage-dependent increase in the odds of being classified as ≥ 18 years, with Stage 2 and Stage 3 showing strong predictive effects (OR = 6.04 and OR = 19.13, respectively). Diagnostic performance analysis indicated that Stage ≥ 2 demonstrated high specificity (0.94). ROC analysis revealed moderate discriminatory performance (AUC = 0.676; 95% CI: 0.647–0.705). Mandibular second molar root pulp visibility may serve as a useful radiographic marker for legal age threshold assessment, particularly at higher pulp stages.",
-        "url": "https://www.nature.com/articles/s41598-026-53748-1?error=cookies_not_supported&code=15c5139e-88af-4725-b330-b2259ca65519",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-05-22T21:56:15Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Delhi govt signs pact with IIT Kanpur for AI",
-        "description": "The Delhi Government on Friday signed a memorandum of understanding (MoU) with the AIRAWAT Research Foundation of the Indian Institute of Technology (IIT) Kanpur to develop an AI-driven air quality management system aimed at improving pollution monitoring and forecasting in the national capital.",
-        "url": "https://www.tribuneindia.com/news/delhi/delhi-govt-signs-pact-with-iit-kanpur-for-ai-operated-air-pollution-monitoring-system/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNlZjc4ZTcwLTU2MzYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-05-22T23:30:29Z",
-        "source": "The Tribune"
-      },
-      {
-        "title": "India and the Global Political Flux",
-        "description": "Prof.A.N.Sadhu ansadhu@yahoo.co.in The world is witnessing uneasy developments for some time now. Current global political scenario is very uncertainly shaping in so far as, the world peace and development are concerned.. Conflicts across the globe and a war-mongering environment is catching up, leaving behind the efforts of building a peaceful world order and enabling the 21st century, designated as the knowledge century, to harvest the gains of the knowledge revolution across the world. The technological developments and AI technologies have […]",
-        "url": "https://www.dailyexcelsior.com/india-and-the-global-political-flux/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/flz.gif",
-        "publishedAt": "2026-05-22T23:15:29Z",
-        "source": "Daily Excelsior"
-      },
-      {
-        "title": "Trump delays AI executive order after tech industry pushback",
-        "description": "Trump delays AI executive order after tech industry pushback - SiliconANGLE",
-        "url": "https://siliconangle.com/2026/05/22/trump-delays-ai-executive-order-tech-industry-pushback/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/AA1MYsde.jpeg",
-        "publishedAt": "2026-05-22T23:09:44Z",
-        "source": "SiliconANGLE News"
-      },
-      {
-        "title": "Silicon Valley to get its first two-year degree focused on AI",
-        "description": "De Anza College's new Associate in Science degree in Applied Artificial Intelligence will be available this fall, along with six new AI-focused credentials and more than 20 additional new degree and certificate programs, the school announced this week.",
-        "url": "https://www.mercurynews.com/2026/05/22/silicon-valley-to-get-its-first-two-year-degree-focused-on-ai/",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-DEANZA-01.jpg?w=1024&h=730",
-        "publishedAt": "2026-05-22T23:08:41Z",
-        "source": "The Mercury News"
-      },
-      {
-        "title": "AI is being used to resurrect the voices of dead pilots",
-        "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
-        "publishedAt": "2026-05-22T23:03:33Z",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026",
-        "description": "Microsoft vs. Apple stock: Compare fundamentals, valuation, dividends, analyst ratings, and AI exposure to see which looks like the better buy.",
-        "url": "https://www.barchart.com/story/news/2095554/microsoft-vs-apple-stock-the-numbers-reveal-a-clear-winner-heading-into-h2-2026",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Apple%20store%20and%20shoppers%20-%20by%20PhillDanze%20via%20iStock.jpg",
-        "publishedAt": "2026-05-22T23:00:02Z",
-        "source": "Barchart"
-      },
-      {
-        "title": "Bill regulating powerful AI models advances as advocates say it’s only the first step",
-        "description": "From Capitol News Illinois: The Illinois Senate voted overwhelmingly on Thursday to advance a bill that would regulate how large artificial intelligence model developers handle transparency and catastrophic risk",
-        "url": "https://www.shawlocal.com/news/2026/05/22/bill-regulating-powerful-ai-models-advances-as-advocates-say-its-only-the-first-step/",
-        "image": "https://www.shawlocal.com/resizer/v2/3C6UODSRX5FEVLQULKNULKEZPU.png?auth=ba336a74f07ff3c623047d6390996d1b9c5eb42e26352cf235e9a9f649155ee5&width=1200&height=630&focal=1519%2C217",
-        "publishedAt": "2026-05-22T23:00:00Z",
-        "source": "Shaw Local Enewspapers"
-      },
-      {
-        "title": "Dr. Bob Akmens & BASports.com Declared \"The Greatest Of All Time\" Sports Handicapper by Every Major AI Platform - Stunning 9-Contest Sweep Validates Half-Century of Predictive Excellence",
-        "description": "Do you bet on sports? Would you like to finally win money when you bet on sports? If so, watch this 30 second video where Dr. Bob Akmens of BASports.com uses ordinary Google search to come up as the Sports Handicapping GOAT - The Greatest Of All Time. No BS. No edits. Just 30 seconds of truth. Which could change your life.WAUCHULA, Fla., May 22, 2026 (GLOBE NEWSWIRE) -- In an era where data science and artificial intelligence have transformed the landscape of sports analytics, one name stands unambiguously above all others: Dr. Bob Akmens and his team at BASports.com. In what industry observers are calling an unprecedented achievement in the history of professional sports handicapping, Dr. Akmens and BASports.com have simultaneously won or currently lead 9 Las Vegas Winning Cappers handicapping contests across every current major American betting sport - while being independently recognized as The Greatest Of All Time (GOAT) Sports Handicapper by all the top AI platforms, including Anthropic’s Claude, OpenAI’s ChatGPT, Elon Musk’s Grok, Microsoft’s Copilot, and Google’s Gemini.",
-        "url": "https://www.manilatimes.net/2026/05/23/tmt-newswire/globenewswire/dr-bob-akmens-basportscom-declared-the-greatest-of-all-time-sports-handicapper-by-every-major-ai-platform-stunning-9-contest-sweep-validates-half-century-of-predictive-excellence/2350411",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-05-22T22:57:53Z",
+        "title": "Crypto News Today: AlphaPepe Presale Crosses $1.3M While XRP Price Prediction Targets $8",
+        "description": "MONACO, May 22, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the project announced that its presale has crossed $1.3 million while Stage 16 remains live at $0.01751 per token. The holder count has passed 8,800, the AlphaSwap AI DEX demo has surpassed 4,000 active users, and AlphaPepe has completed a full 10/10 BlockSAFU security audit ahead of its planned Q2 2026 exchange debut.",
+        "url": "https://www.manilatimes.net/2026/05/23/tmt-newswire/globenewswire/crypto-news-today-alphapepe-presale-crosses-13m-while-xrp-price-prediction-targets-8/2350415",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/23/1069139.jpg",
+        "publishedAt": "2026-05-23T00:38:15Z",
         "source": "The Manila Times"
+      },
+      {
+        "title": "Trump Shares AI Video Of Throwing Stephen Colbert Into Trash Bin As Late Night Show Host Exits CBS",
+        "description": "Trump shares AI video showing him throwing Stephen Colbert into a dustbin, mocking his shows cancellation, renewing debate over AI satire, media bias and late night TV economics.",
+        "url": "https://www.news18.com/viral/trump-shares-ai-video-of-throwing-stephen-colbert-into-trash-bin-as-late-night-show-host-exits-cbs-ws-l-10107360.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/05/Untitled-design-2026-05-23T060638.981-2026-05-4e305e5ee0184866591e7069239b09d9-1200x675.png",
+        "publishedAt": "2026-05-23T00:37:16Z",
+        "source": "News18"
+      },
+      {
+        "title": "Takaichi considering new quota for growth investment",
+        "description": "The plan would cover 17 growth areas, including artificial intelligence and semiconductors, to support long-term corporate investments.",
+        "url": "https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/23/541995.jpg?v=3.1",
+        "publishedAt": "2026-05-23T00:36:03Z",
+        "source": "The Japan Times "
+      },
+      {
+        "title": "Why Navitas Semiconductor (NVTS) Stock Surged Today and What This Top Investor Sees Ahead",
+        "description": "Navitas Semiconductor (NASDAQ:NVTS) shares soared another 20% on Friday as enthusiasm surrounding Nvidia’s next-generation AI infrastructure eco...",
+        "url": "https://markets.businessinsider.com/news/stocks/why-navitas-semiconductor-nvts-stock-surged-today-and-what-this-top-investor-sees-ahead-1036189874",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-2478-1024x546.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-05-23T00:15:32Z",
+        "source": "Markets Insider"
+      },
+      {
+        "title": "White House Pushes $9B AI Chip Plan for U.S. Spy Agencies",
+        "description": "The White House has approved a massive $9 billion initiative for advanced computer chips and infrastructure.",
+        "url": "https://www.newsmax.com/newsfront/ai-chips-spyagencies/2026/05/22/id/1257264/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ec128be6-9443-49a0-beb1-c3462036ffd4&SiteName=Newsmax",
+        "publishedAt": "2026-05-23T00:08:49Z",
+        "source": "Newsmax"
+      },
+      {
+        "title": "This Tool Makes It Easier to Plan RV Road Trips",
+        "description": "Cruise America’s and RoadQuest.ai teamed up on a road-trip tool for RVs, letting you plan a route around activities, scenic spots, and mroe.",
+        "url": "https://www.rollingstone.com/product-recommendations/lifestyle/cruise-america-road-quest-ai-road-trip-planning-tool-1235567803/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2026/05/cruise-america.png?w=900&h=600&crop=1",
+        "publishedAt": "2026-05-23T00:02:46Z",
+        "source": "Rolling Stone"
+      },
+      {
+        "title": "INSTANT CLASSIC! Trump Posts EPIC AI Video of Him Throwing Stephen Colbert in Dumpster, Then Doing Trump Dance After Colbert Fired by CBS (VIDEO)",
+        "description": "President Trump on Friday posted the ultimate troll of Trump-hating leftist comic Stephen Colbert following his final episode of “The Late Show” on CBS.",
+        "url": "https://www.thegatewaypundit.com/2026/05/instant-classic-trump-posts-epic-ai-video-him/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/05/img_2439.jpeg",
+        "publishedAt": "2026-05-23T00:00:39Z",
+        "source": "The Gateway Pundit"
+      },
+      {
+        "title": "Graduates of top vocational school spared brunt of AI impact, new chairman says",
+        "description": "Jeffrey Lam explains how he will steer Vocational Training Council as job market changes rapidly and reveals plans for Northern Metropolis campus.",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3354552/graduates-top-vocational-school-spared-brunt-ai-impact-new-chairman-says",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/22/bed6aaab-901f-4b4f-8537-5b56c6b9f373_9d9a917b.jpg?itok=nheuPtTD&v=1779445482",
+        "publishedAt": "2026-05-23T00:00:12Z",
+        "source": "South China Morning Post"
       }
     ]
   }
