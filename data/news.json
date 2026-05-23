@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-23T13:56:59.815Z",
+  "fetchedAt": "2026-05-23T14:45:23.823Z",
   "sections": {
     "world": [
       {
-        "title": "Trump ‘seriously considering’ launching new strikes against Iran: report",
-        "description": "Trump is contemplating new strikes against Iran amid stalled negotiations, highlighting rising tensions and urgent diplomatic efforts.",
-        "url": "https://www.thehindu.com/news/international/trump-seriously-considering-launching-new-strikes-against-iran-report/article71013391.ece",
-        "image": "https://th-i.thgim.com/public/incoming/u54m1m/article71013404.ece/alternates/LANDSCAPE_1200/AP05_19_2026_000027B.jpg",
-        "publishedAt": "2026-05-23T01:55:02Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Iran war plunges Sri Lanka tea industry into crisis",
-        "description": "Rising energy prices, sharp export declines and disrupted supply chains are putting Sri Lanka's tea industry under severe pressure. The conflict is exacerbating the crisis for companies and plantation workers.",
-        "url": "https://www.dw.com/en/iran-war-plunges-sri-lanka-tea-industry-into-crisis/g-77268105",
-        "image": "https://static.dw.com/image/77262314_6.jpg",
-        "publishedAt": "2026-05-23T01:53:57Z",
-        "source": "DW.com"
-      },
-      {
-        "title": "President Xi makes instruction on coal mine accident in north China",
-        "description": "Chinese President Xi Jinping has made important instructions following a coal mine gas explosion on Friday in north China's Shanxi Province, urging all-out rescue of the missing and treatment of the injured.",
-        "url": "https://news.cgtn.com/news/2026-05-23/President-Xi-makes-instruction-on-coal-mine-accident-in-north-China-1Nn9fMvJP2M/p.html",
-        "image": "https://news.cgtn.com/news/2026-05-23/President-Xi-makes-instruction-on-coal-mine-accident-in-north-China-1Nn9fMvJP2M/img/a0fa0fc149a54425a7a8e96a11183d1f/a0fa0fc149a54425a7a8e96a11183d1f-1280.jpeg",
-        "publishedAt": "2026-05-23T01:50:23Z",
-        "source": "news.cgtn.com"
-      },
-      {
-        "title": "New US Immigration Policy Forces Visa Holders to Apply From Home Country",
-        "description": "Trump Green Card Rule Explained: The Trump administration has announced that temporary visa holders must leave the US to apply for green cards. Here’s who is affected and why it matters.",
-        "url": "https://indianexpress.com/article/explained/explained-global/trump-green-card-rule-temporary-visa-holders-us-10703678/",
-        "image": "https://images.indianexpress.com/2026/05/US-green-cards.jpg",
-        "publishedAt": "2026-05-23T01:44:57Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Trump 'seriously considering' fresh strikes on Iran amid faltering truce talks",
-        "description": "Trump met his senior national security team on Friday to discuss the Iran war as Pakistan Army chief Asim Munir and a Qatari delegation arrived in Tehran for last-ditch talks aimed at securing a deal.",
-        "url": "https://www.indiatoday.in/world/story/trump-iran-strikes-us-president-reviews-military-options-diplomatic-efforts-2915796-2026-05-23",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/donald-trump-165329592-16x9_0.png?VersionId=gKgN7nhaa_ojCV9cjuTQ1sgjSXBy7q8k",
-        "publishedAt": "2026-05-23T01:40:14Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Mob Burns Congo Ebola Center Amid Rare Strain Outbreak",
-        "description": "Several hundred people massed at the gates of a hospital to demand the body of a suspected Ebola victim. Violence broke out when staff refused the request.",
-        "url": "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html",
-        "image": "https://static01.nyt.com/images/2026/05/22/multimedia/22int-ebola-congo-clinic-promo-zkpw/22int-ebola-congo-clinic-promo-zkpw-facebookJumbo.jpg",
-        "publishedAt": "2026-05-23T01:35:27Z",
+        "title": "Trump Weighs His Options in Carrying Out New Strikes in Iran",
+        "description": "There is no shortage of targets if he decides to strike: Energy facilities left untouched, the deep underground nuclear storage site at Isfahan and missile sites that appear to have been dug out.",
+        "url": "https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html",
+        "image": "https://static01.nyt.com/images/2026/05/22/multimedia/22IRAN-OPTIONS-mwtp/22IRAN-OPTIONS-mwtp-facebookJumbo.jpg",
+        "publishedAt": "2026-05-23T02:44:15Z",
         "source": "The New York Times"
       },
       {
-        "title": "No flotilla participant escaped Israeli torture, says Greek activist",
-        "description": "ATHENS: Greek activists who were illegally detained by Israel on the Gaza-bound Global Sumud Flotilla arrived Friday (May 22) in Athens and recounted Israeli mistreatment and torture during their detention, Anadolu Ajansi reported.",
-        "url": "https://www.thestar.com.my/news/world/2026/05/23/no-flotilla-participant-escaped-israeli-torture-says-greek-activist",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/23/3922925.jpg",
-        "publishedAt": "2026-05-23T01:34:00Z",
-        "source": "thestar.com.my"
+        "title": "PAS likely to let PN go dormant, says analyst",
+        "description": "Wong Chin Huat says the Islamic party could align with Reset, Pejuang and Berjasa while leaving out Umno and Bersatu.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/05/23/pas-likely-to-let-pn-go-dormant-says-analyst",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/01/93df1102-bendera-perikatan-nasional-fb-resize-260125-1.webp",
+        "publishedAt": "2026-05-23T02:41:28Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Flotilla activists describe beatings, tasers, mistreatment by Israeli forces",
-        "description": "Flotilla activists report severe mistreatment, including beatings and taser use, by Israeli forces during their detention.",
-        "url": "https://www.thehindu.com/news/international/flotilla-activists-describe-beatings-tasers-mistreatment-by-israeli-forces/article71013392.ece",
-        "image": "https://th-i.thgim.com/public/incoming/cxapd8/article71013393.ece/alternates/LANDSCAPE_1200/Greece_Gaza_Flotilla_28313.jpg",
-        "publishedAt": "2026-05-23T01:31:22Z",
-        "source": "The Hindu"
+        "title": "40,000 people under evacuation orders in California amid chemical tank leak",
+        "description": "Authorities in Southern California on Friday were racing to figure out how to prevent the explosion of a storage tank that has been leaking a hazardous chemical used to make plastic parts, as some 40,000 people were under evacuation orders in the area.",
+        "url": "https://www.cbc.ca/news/world/california-chemical-tank-garden-grove-evacuation-9.7209858",
+        "image": "https://i.cbc.ca/ais/3224e8f9-d2b6-4717-b9b3-6b1253e75a90,1779501861238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C476%2C3500%2C1968%29%3BResize%3D620",
+        "publishedAt": "2026-05-23T02:37:00Z",
+        "source": "CBC"
+      },
+      {
+        "title": "Pyongyang brands Japan's security overhaul bid to become 'war state'",
+        "description": "North Korea has stepped up its criticism of Japan's push to overhaul its key security legislation, denouncing it as \"reckless militaristic acts.\" P...",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260523/pyongyang-brands-japans-security-overhaul-bid-to-become-war-state",
+        "image": "https://newsimg.koreatimes.co.kr/2026/05/23/9eaf1ae7-fcae-458c-8af3-646ae3009e7c.jpg",
+        "publishedAt": "2026-05-23T02:24:03Z",
+        "source": "The Korea Times"
+      },
+      {
+        "title": "'No one can protect you': IRGC terrorist plotted to kill Trump's daughter Ivanka to avenge death of mentor",
+        "description": "Al-Saadi, an Iraqi national, was planning to target Trump's daughter to avenge the death of his mentor and Iranian military chief Qasem Soleimani, who died in a US attack in Baghdad six years ago",
+        "url": "https://www.firstpost.com/world/no-on-can-protect-you-irgc-terrorist-plotted-to-kill-trumps-daughter-ivanka-to-avenge-death-of-mentor-14014224.html",
+        "image": "https://images.firstpost.com/uploads/2026/04/2-2026-04-ab59a57da5aa31b9f3ad32e9363e2099.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-05-23T02:17:49Z",
+        "source": "Firstpost"
+      },
+      {
+        "title": "Why cruise ships are sailing to a phantom destination that doesn't appear on any map",
+        "description": "Humans have long been drawn to invisible geographic markers, and Null Island may be the internet age's strangest version of that phenomenon.",
+        "url": "https://www.rnz.co.nz/news/world/596119/why-cruise-ships-are-sailing-to-a-phantom-destination-that-doesn-t-appear-on-any-map",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--7pv5soJf--/t_tohu-badge-facebook/v1779493490/4JO6JDA_20240417_164609_avif?_a=BACCd2AD",
+        "publishedAt": "2026-05-23T02:09:58Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Raid in Suva leads to arrest of 2 suspects linked to Wailoku attack",
+        "description": "Raid in Suva leads to arrest of 2 suspects linked to Wailoku attack",
+        "url": "https://www.fijivillage.com/f/raid-in-suva-leads-to-arrest-of-2-suspects-linked-to-wailoku-attack-08da79/",
+        "image": "https://www.fijivillage.com/news_images/20260523152352_media_6a110c14128278_28384564.jpg",
+        "publishedAt": "2026-05-23T02:09:54Z",
+        "source": "Fijivillage"
+      },
+      {
+        "title": "6 Commercial Aircraft That Made Headlines For All The Wrong Reasons",
+        "description": "A few aircraft that ran into trouble at some point.",
+        "url": "https://simpleflying.com/6-commercial-aircraft-headlines-wrong-reasons/",
+        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/commercial.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-05-23T02:01:00Z",
+        "source": "Simple Flying"
       }
     ],
     "business": [
       {
-        "title": "Elon Musk's SpaceX launches upgraded Starship",
-        "description": "Elon Musk's rocket company has launched its new Starship design to enable more frequent Starlink satellite launches and to send future NASA missions to the moon.",
-        "url": "https://www.abc.net.au/news/2026-05-23/elon-musk-spacex-starshipv3-debut-test-flight-texas/106714232",
-        "image": "https://live-production.wcms.abc-cdn.net.au/9e135598fceed81c82d844a58a16369a?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=146&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-23T01:53:18Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Trump Mobile investigating potential exposure of would-be customers’ personal information",
+        "description": "Phone company launched by Donald Trump’s family says names and contact details appear to be affected, but not credit card or banking information",
+        "url": "https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information",
+        "image": "https://i.guim.co.uk/img/media/70c74c12869e42640c3f680d891be8faf25a8ee3/6_26_580_464/master/580.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8af9d2fb4f0332b19a1e6793c718135c",
+        "publishedAt": "2026-05-23T02:36:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Why modern engines are raising the bar for fuel quality",
-        "description": "Next-gen Techron, Chevron's reformulated fuel additive, helps keep engines running their best. Learn how fuel quality affects performance and why it matters.",
-        "url": "https://www.chevron.com/newsroom/2026/q2/why-modern-engines-are-raising-the-bar-for-fuel-quality",
-        "image": "https://www.chevron.com/-/media/chevron/newsroom/2026/Q2/01-Why-modern-engines-are-raising-the-bar-for-fuel-quality.jpg?w=1200&h=630&hash=65D18ACBE7CDE2A0D66EDC4AA5B38280",
-        "publishedAt": "2026-05-23T01:52:30Z",
-        "source": "Chevron"
+        "title": "CNG Prices Hiked By Re 1 In Delhi, Third Such Hike In 10 Days",
+        "description": "CNG Prices Hiked By Re 1 In Delhi, Third Such Hike In 10 Days",
+        "url": "https://www.ndtv.com/india-news/cng-prices-hiked-by-re-1-in-delhi-third-such-hike-in-10-days-11535700",
+        "image": "https://c.ndtvimg.com/2026-05/es40qtig_delhi-auto-prices_625x300_15_May_26.jpeg",
+        "publishedAt": "2026-05-23T02:31:12Z",
+        "source": "NDTV"
       },
       {
-        "title": "Indian retailers raise fuel prices for a third time amid Iran war",
-        "description": "Indian state-owned fuel retailers raised petrol and diesel prices for the third time this month, dealers said on Saturday, as the companies look to recoup losses caused by elevated crude oil prices...",
-        "url": "https://www.marketscreener.com/news/indian-retailers-raise-fuel-prices-for-a-third-time-amid-iran-war-ce7f5adcda8cf723",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-23T005606Z_1_LYNXMPEM4M00G_RTROPTP_4_INDIA-FUEL-PRICES.JPG",
-        "publishedAt": "2026-05-23T01:48:16Z",
-        "source": "marketscreener.com"
-      },
-      {
-        "title": "27 countries seek access to World Bank funds since Iran war",
-        "description": "An analyst says countries are more willing to seek the World Bank’s help than from the IMF due to the IMF’s austerity conditions.",
-        "url": "https://www.scmp.com/news/world/article/3354599/27-countries-seek-access-world-bank-funds-iran-war",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/23/6176e91b-fbd0-46dd-94dd-7390ce9eeda8_079d7d13.jpg?itok=3Bap71v9&v=1779500087",
-        "publishedAt": "2026-05-23T01:35:01Z",
+        "title": "For China’s ailing developers, retail frenzy greets semiconductor side-hustles",
+        "description": "Unprofitable real estate firms see shares soar after buying into silicon assets, and analysts weigh whether it is a safe bet or banking on a big bailout.",
+        "url": "https://www.scmp.com/business/banking-finance/article/3354582/chinas-ailing-developers-retail-frenzy-greets-semiconductor-side-hustles",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/22/af18fa51-2bde-41df-9c08-e89777a5e8bb_c1405ca4.jpg?itok=TDpdO--g&v=1779462035",
+        "publishedAt": "2026-05-23T02:30:06Z",
         "source": "South China Morning Post"
       },
       {
-        "title": "Yatra Online, Inc. Announces Results for the Three Months and Year Ended March 31, 2026",
-        "description": "Yatra Online, Inc. today announced its unaudited financial and operating results for the three months and year ended March 31, 2026.",
-        "url": "https://www.businesswire.com/news/home/20260522355752/en/Yatra-Online-Inc.-Announces-Results-for-the-Three-Months-and-Year-Ended-March-31-2026",
-        "image": "https://mms.businesswire.com/media/20260522355752/en/2813640/22/Yatra_Logo.jpg",
-        "publishedAt": "2026-05-23T01:35:00Z",
-        "source": "Business Wire"
+        "title": "Q1 Earnings Outperformers: Novanta (NASDAQ:NOVT) And The Rest Of The Electronic Components Stocks",
+        "description": "Earnings results often indicate what direction a company will take in the months ahead. With Q1 behind us, let’s have a look at Novanta (NASDAQ:NOVT) and its peers.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-outperformers-novanta-nasdaq-022855434.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/bgl_czsPo0xxjUNPmXYmIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/317d8d6936e8c7f5a638a691ded417c6",
+        "publishedAt": "2026-05-23T02:28:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Elon Musk's SpaceX launches Starship V3 rocket after delays",
-        "description": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
-        "url": "https://www.bbc.com/news/articles/c62d65y16nno",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a4cd/live/cd3cbe60-563d-11f1-b682-cf91850925ea.jpg",
-        "publishedAt": "2026-05-23T01:32:46Z",
-        "source": "BBC"
+        "title": "Who is Donald Trump’s pick to chair the US Federal Reserve, Kevin Warsh?",
+        "description": "Kevin Warsh is a Harvard-educated lawyer and former investment banker who has served on the Federal Reserve’s board before. But with higher inflation, rising consumer anxiety and rate expectations, will he be a hawk or a hack?",
+        "url": "https://www.theage.com.au/world/north-america/let-it-boom-trump-finally-gets-his-fed-pick-with-uncharacteristic-fanfare-20260523-p5zzxv.html",
+        "image": "https://static.ffx.io/images/$zoom_0.1848%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/0d25a28b400444034facf9ff49e5e07c32ff50cd",
+        "publishedAt": "2026-05-23T02:27:26Z",
+        "source": "The Age"
       },
       {
-        "title": "Liquidity drain from SpaceX’s mega listing unlikely to ripple into Hong Kong: JPMorgan",
-        "description": "Bank sees strong demand for Chinese AI, robotics and healthcare listings despite SpaceX’s projected record-breaking IPO in the US.",
-        "url": "https://www.scmp.com/business/china-business/article/3354467/liquidity-drain-spacexs-mega-listing-unlikely-ripple-hong-kong-jpmorgan",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/22/82d44d4b-9a5f-45a0-8728-c71eef5be112_2549313f.jpg?itok=s4Cx7b0E&v=1779424934",
-        "publishedAt": "2026-05-23T01:30:09Z",
-        "source": "South China Morning Post"
+        "title": "'Future of work' on agenda as NZ govt digital leaders head to Microsoft US HQ",
+        "description": "The visit comes days after the government signalled it would intensify the use of AI to help reduce the headcount in the public service by over 10 percent.",
+        "url": "https://www.rnz.co.nz/news/top/596121/future-of-work-on-agenda-as-nz-govt-digital-leaders-head-to-microsoft-us-hq",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--EHKEAQxN--/t_tohu-badge-facebook/v1722463510/4KM4VZG_000_12131D_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-05-23T02:24:27Z",
+        "source": "RNZ"
       },
       {
-        "title": "I’ve recovered 50 stolen phones, handed",
-        "description": "From Noah Ebije, Kaduna In the bustling commercial hub around Unguwan Television Garage in Kaduna city, where traders, commuters and artisans jostle daily for space and survival, one phone repairer says his workshop has become more than a business centre; it has also turned into an unofficial checkpoint against stolen mobile phones. Ahmed Emuwahen Oscar, […]",
-        "url": "https://thesun.ng/kaduna-phone-repairer-ive-recovered-50-stolen-phones-handed-over-20-suspects-to-police/",
-        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/05/50-stolen-phones.jpg",
-        "publishedAt": "2026-05-23T01:29:32Z",
-        "source": "The Sun Nigeria"
+        "title": "'Future of work' on agenda as NZ govt digital leaders head to Microsoft US HQ",
+        "description": "The visit comes days after the government signalled it would intensify the use of AI to help reduce the headcount in the public service by over 10 percent.",
+        "url": "https://www.rnz.co.nz/news/political/596121/future-of-work-on-agenda-as-nz-govt-digital-leaders-head-to-microsoft-us-hq",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--EHKEAQxN--/t_tohu-badge-facebook/v1722463510/4KM4VZG_000_12131D_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-05-23T02:24:27Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Watch: SpaceX Starship bursts into flames during fiery Indian Ocean splashdown after test flight",
+        "description": "Science News: SpaceX on Friday successfully completed the 12th test flight of its massive Starship rocket system, with the spacecraft making a controlled splashdown.",
+        "url": "https://timesofindia.indiatimes.com/science/watch-spacex-starship-bursts-into-flames-during-fiery-indian-ocean-splashdown-after-test-flight/articleshow/131270952.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131271036,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-23T02:17:00Z",
+        "source": "The Times of India"
       }
     ],
     "science": [
+      {
+        "title": "Sea level rise is speeding up and scientists now know exactly why",
+        "description": "The world’s oceans are rising at an accelerating pace, and scientists now say they can fully explain what’s driving it. Warming seawater is the biggest factor, while melting glaciers and polar ice sheets are increasingly pouring more water into the oceans each year. Researchers also solved a puzzling mismatch in sea level measurements that had lingered for years.",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260522023116.htm",
+        "image": "https://www.sciencedaily.com/images/1920/sea-level-rise-infographic.webp",
+        "publishedAt": "2026-05-23T02:43:15Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Researchers simulated 30 million routes to the Moon and found a hidden detour through L1 that saves fuel and keeps spacecraft talking to Earth the whole way",
+        "description": "An international team of researchers has identified a new fuel-efficient route between Earth and the Moon that also avoids the kind of communications blackout the Artemis II crew experienced when their spacecraft slipped behind the lunar far side in April. The trajectory, published in the journal Astrodynamics by a group led by Allan Kardec de […]",
+        "url": "https://spacedaily.com/sd-researchers-simulated-30-million-routes-to-the-moon-and-found-a-hidden-detour-through-l1-that-saves-fuel-and-keeps-spacecraft-talking-to-earth-the-whole-way/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/05/the-communications-blackout-that-rattled.jpg",
+        "publishedAt": "2026-05-23T02:34:36Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "The Apollo astronauts left mirrors on the Moon that scientists still bounce lasers off 57 years later, and the round-trip measurement is precise enough to track the Moon drifting away from Earth at th",
+        "description": "The retroreflectors left on the Moon by Apollo 11, 14, and 15 still return laser pulses fired from Earth, and 57 years of data have measured the Moon's recession at 3.8 centimeters per year while confirming Einstein's general relativity to extraordinary precision.",
+        "url": "https://spacedaily.com/sd-the-apollo-astronauts-left-behind-reflective-panels-on-the-moon-that-scientists-still-bounce-lasers-off-today-and-the-round-trip-measurement-is-so-precise-it-has-detected-that-the-moon-is-drifting/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/05/the-apollo-astronauts-left-behind-reflec.jpg",
+        "publishedAt": "2026-05-23T02:26:36Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "NASA deliberately crashed Galileo into Jupiter in 2003 to protect Europa, after the spacecraft found signs of the ocean it could one day contaminate",
+        "description": "Galileo spent 14 years circling Jupiter through a radiation environment that delivered a cumulative dose to its electronics equivalent to roughly 25 million chest X-rays, and on September 21, 2003, NASA deliberately drove it into the planet at 48.2 km/s to protect Europa's hidden ocean from contamination.",
+        "url": "https://spacedaily.com/sd-the-galileo-spacecraft-was-deliberately-crashed-into-jupiter-in-2003-to-protect-europa-from-contamination-and-in-its-final-hours-it-transmitted-data-while-being-slowly-torn-apart-by-jupiters-radiat/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/05/the-galileo-spacecraft-was-deliberately-1-1.jpg",
+        "publishedAt": "2026-05-23T02:15:57Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Scientists visualize a key cell protein regulating inflammatory disease pathways",
+        "description": "University of Cincinnati structural biologists are the first in the world to visualize a key cell protein as part of newly published research from the College of Medicine.",
+        "url": "https://www.news-medical.net/news/20260522/Scientists-visualize-a-key-cell-protein-regulating-inflammatory-disease-pathways.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Protein-620x480.jpg",
+        "publishedAt": "2026-05-23T02:06:00Z",
+        "source": "News-Medical"
+      },
       {
         "title": "The Cassini spacecraft was deliberately flown into Saturn in 2017 because NASA refused to risk it drifting into Enceladus, whose hidden ocean might harbor life, and in its final 90 seconds Cassini's t",
         "description": "{\"content\":\"On September 15, 2017, at 11:55:46 UTC, a 22-foot-tall spacecraft the size of a school bus tore itself apart in the cloud tops of Saturn while still talking to Earth. Cassini was travel",
@@ -158,49 +198,65 @@
         "image": "https://scitechdaily.com/images/Artistic-Illustration-of-Lucys-Hunter-Crocodile-scaled.jpg",
         "publishedAt": "2026-05-22T23:55:51Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Caltech could lose control of JPL for the first time",
-        "description": "The action forces Caltech to compete for control of the La Cañada Flintridge institution it has managed since NASA’s inception in 1958.",
-        "url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/b8505e8/2147483647/strip/true/crop/5000x2625+0+560/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fc7%2F658a40784fa595cefc6475c8709a%2Fgettyimages-1986208730.jpg",
-        "publishedAt": "2026-05-22T23:53:46Z",
-        "source": "Los Angeles Times"
-      },
-      {
-        "title": "Olympic rower floats like astronaut to test future space gym",
-        "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
-        "url": "https://www.bbc.co.uk/news/articles/cg4pe6dl03ro",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cd0/live/e73aafd0-55c4-11f1-99e4-4d92e48ba181.jpg",
-        "publishedAt": "2026-05-22T23:42:07Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Scientists Finally Think They Know Why T. rex Had Tiny Arms",
-        "description": "A new study suggests T. rex and other giant predators evolved tiny arms because their massive skulls took over as the primary hunting weapon. As their bites became more powerful, their forelimbs may have gradually faded into evolutionary leftovers. Why T. Rex and Other Giant Predators Evolved Ti",
-        "url": "https://scitechdaily.com/scientists-finally-think-they-know-why-t-rex-had-tiny-arms/",
-        "image": "https://scitechdaily.com/images/Tyrannosaurus-rex-Dinosaur-Roar.jpg",
-        "publishedAt": "2026-05-22T23:20:48Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Scientists solve the 30-year mystery of 'clockwork' earthquakes",
-        "description": "Scientists found water-rich fault barriers that repeatedly stop magnitude 6 earthquakes on the Gofar transform fault.",
-        "url": "https://www.thebrighterside.news/post/scientists-solve-the-30-year-mystery-of-clockwork-earthquakes/",
-        "image": "https://www.thebrighterside.news/uploads/2026/05/clockwork-main.png?auto=webp",
-        "publishedAt": "2026-05-22T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "Imaging ellipsometry tracks MXene thin-film quality during fabrication without damage",
-        "description": "A German–Israeli research team led by Dr. Andreas Furchner has demonstrated how imaging ellipsometry enables non-destructive characterization and quality control of microstructured MXene thin films during device fabrication. The authors used two complementary ellipsometry approaches for precise, multi-scale access to key material properties. The work positions imaging ellipsometry as a powerful platform for monitoring thin-film uniformity, device integrity, and functionality throughout processing, including critical lithographic steps. The study was published in Applied Physics Letters and selected as an Editor's Pick.",
-        "url": "https://phys.org/news/2026-05-imaging-ellipsometry-tracks-mxene-thin.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/imaging-ellipsometry-f-1.jpg",
-        "publishedAt": "2026-05-22T22:40:01Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
+      {
+        "title": "Mohali: BJP manifesto promises AI surveillance, flood measures, SAD recalls past works",
+        "description": "To strengthen public safety, the BJP has proposed an AI-based surveillance network with high-resolution CCTV cameras across major roads, markets, religious and other places",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-bjp-manifesto-promises-ai-surveillance-flood-measures-sad-recalls-past-works-101779481174464.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/22/550x309/To-deal-with-traffic-congestion-in-Mohali--the-par_1779481168147.png",
+        "publishedAt": "2026-05-23T02:42:17Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Anthropic set to close over $30 billion round as soon as next week",
+        "description": "Founded in 2021 by a group of former OpenAI employees, Anthropic has since emerged as a leader in the AI sector",
+        "url": "https://www.business-standard.com/world-news/anthropic-set-to-close-over-30-billion-round-as-soon-as-next-week-126052300112_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/23/thumb/featurecrop/1200X628/1779503096-1235.jpg",
+        "publishedAt": "2026-05-23T02:30:00Z",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Trump throws Stephen Colbert in dumpster in AI video as Late Show comes to an end; watch",
+        "description": "Donald Trump has shared an AI-generated video targeting late-night host Stephen Colbert, throwing him into a dumpster celebrating his exit. | Hollywood",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/trump-throws-stephen-colbert-in-dumpster-in-ai-video-as-late-show-comes-to-an-end-watch-101779500273288.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/Untitled_design_1779500622885_1779500627985_6354125d-9249-4d8c-afc1-ac40487e30f0.png",
+        "publishedAt": "2026-05-23T02:17:59Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Trump shares AI video of throwing The Late Show host Stephen Colbert into bin",
+        "description": "Trump shares AI video of throwing The Late Show host Stephen Colbert into bin",
+        "url": "https://www.news18.com/agency-feeds/trump-shares-ai-video-of-throwing-the-late-show-host-stephen-colbert-into-bin-10107394.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+        "publishedAt": "2026-05-23T02:00:02Z",
+        "source": "News18"
+      },
+      {
+        "title": "Indian IT giants hit by AI, but GCCs are stepping in to compensate for lost jobs",
+        "description": "Data is clear: At a time when Indian IT giants are facing headwinds due to AI and IT jobs in companies like Infosys and TCS are becoming more precarious, GCCs one shining spot in India’s IT story.",
+        "url": "https://www.indiatoday.in/technology/features/story/indian-it-giants-hit-by-ai-but-gccs-are-stepping-in-to-compensate-for-lost-jobs-2915529-2026-05-23",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/gccs-are-becoming-increasingly-important-for-indias-tech-industry-photo-google-220745723-16x9_0.png?VersionId=sDLhDiR4PpE7GQn_1tA4bEHKSTD1b6om",
+        "publishedAt": "2026-05-23T02:00:00Z",
+        "source": "India Today"
+      },
+      {
+        "title": "Startup raises US$1.3bil for an AI ‘grid’",
+        "description": "As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/23/startup-raises-us13bil-for-an-ai-grid",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3919401.jpg",
+        "publishedAt": "2026-05-23T02:00:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Elon Musk and Sam Altman's tech titan rivalry moves from the courtroom to Wall Street",
+        "description": "After Sam Altman and OpenAI's recent victory in a drawn-out legal battle with billionaire Elon Musk, the bitter rivalry between the former friends is now set to move from the courtroom to Wall Street.",
+        "url": "https://www.abc.net.au/news/2026-05-23/elon-musk-sam-altman-s-rivalry-moves-to-wall-street/106701004",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a1413df1dde589ee67db01d8ddc8c9e5?impolicy=wcms_watermark_news&cropH=1800&cropW=3200&xPos=0&yPos=164&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-23T01:59:55Z",
+        "source": "ABC (Australian Broadcasting Corporation)"
+      },
       {
         "title": "AI-engineered p53 superproteins may reshape future cancer therapies",
         "description": "The Oncodarwinian Hypothesis (OdH) proposes a paradigm shift: cancer is not merely a disease but a potential macro‑immunoadaptive response – a self‑replicating algorithm that can be reprogrammed via AI‑based 3D printed p53 superproteins.",
@@ -208,62 +264,6 @@
         "image": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
         "publishedAt": "2026-05-23T01:57:00Z",
         "source": "News-Medical.net"
-      },
-      {
-        "title": "Quote of the Day by Mark Zuckerberg amid Meta layoffs: \"People don't care about what you say, they care about...\"",
-        "description": "Quote of the Day by Mark Zuckerberg: Meta CEO Mark Zuckerberg's quote, 'People don't care about what you say, they care about what you build,' gains prominence. This comes as Meta initiates significant layoffs. The company's aggressive pivot towards AI highlights the importance of tangible creation and measurable results. Employees must continuously adapt and prove their value in this evolving tech landscape.",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-mark-zuckerberg-amid-meta-layoffs-people-dont-care-about-what-you-say-they-care-about-/articleshow/131270901.cms",
-        "image": "https://img.etimg.com/thumb/msid-131270908,width-1200,height-630,imgsize-25990,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-23T01:56:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Stephen Colbert Roasts Trump One Final Time - President Hits Back with AI Video",
-        "description": "The final episode of The Late Show with Stephen Colbert aired to impressive viewership, attracting approximately 6.74 million people, significantly higher than the season average., US News, Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/stephen-colbert-the-late-show-final-episode-ratings-donald-trump-ai-video-article-154380599",
-        "image": "https://images.timesnownews.com/thumb/msid-154380599,width-1280,height-720,resizemode-75/154380599.jpg",
-        "publishedAt": "2026-05-23T01:53:16Z",
-        "source": "Times Now"
-      },
-      {
-        "title": "Did Trump buy Kura Sushi by mistake? New Jersey connection",
-        "description": "Did Trump accidentally buy a sushi chain instead of an AI stock? We break down the Kura Sushi stock frenzy and its connection to diners in New Jersey.",
-        "url": "https://www.northjersey.com/story/news/2026/05/22/trump-kura-sushi-mistake-new-new-jersey-locations/90216242007/",
-        "image": "https://www.northjersey.com/gcdn/presto/2020/09/30/PNJM/88e1bd45-d851-4041-87ac-d78436f73c13-093020FortLeeKurasyshi01.JPG?crop=2999,1687,x0,y152&width=2999&height=1687&format=pjpg&auto=webp",
-        "publishedAt": "2026-05-23T01:48:51Z",
-        "source": "Northjersey.Com"
-      },
-      {
-        "title": "What happened when people Googled ‘disregard’ on May 22?",
-        "description": "Google Search went viral after a bizarre glitch turned the word “disregard” into an AI chatbot command instead of showing standard results.",
-        "url": "https://www.hindustantimes.com/trending/us/what-happened-when-people-googled-disregard-on-may-22-101779499840611.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/Google_Disregard_May_22_Viral_Search_1779500275792_1779500276032_2bb2ee13-dc8c-46d0-9f8e-0e8c7742584a.jpg",
-        "publishedAt": "2026-05-23T01:46:09Z",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "Trump shares AI video of throwing The Late Show host Stephen Colbert into bin",
-        "description": "Washington DC [US], May 23 (ANI): US President Donald Trump on Friday (local time) shared an AI-generated video of himself throwing The Late Show host Stephen Colbert into a dustbin and dancing after that.",
-        "url": "https://www.tribuneindia.com/news/world/trump-shares-ai-video-of-throwing-the-late-show-host-stephen-colbert-into-bin/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBkZTZjZjkwLTU2NjItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-05-23T01:45:12Z",
-        "source": "The Tribune"
-      },
-      {
-        "title": "White House approves US$9 billion for spy agencies to catch up on AI",
-        "description": "The additional funding reflects how integral AI platforms have become to national security. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/united-states/white-house-approves-us9-billion-for-spy-agencies-to-catch-up-on-ai",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/51433f8b3181dd4ec1d9882a3366c7104475c7b18a22a31e002c3a5f569611c4",
-        "publishedAt": "2026-05-23T01:45:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "AI humanoid robot lands starring role on property TV show",
-        "description": "A humanoid robot equipped with AI has landed a starring role on an Australian property renovation show alongside TV personality Cherie Barber.",
-        "url": "https://www.perthnow.com.au/news/world/ai-humanoid-robot-lands-starring-role-on-property-tv-show-c-22326255",
-        "image": "https://images.perthnow.com.au/publication/C-22326255/7a851b05f49e2e98d8401acdab16b87dd5640e43-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-        "publishedAt": "2026-05-23T01:43:47Z",
-        "source": "PerthNow"
       }
     ]
   }
