@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-24T11:45:46.683Z",
+  "fetchedAt": "2026-05-24T12:42:13.379Z",
   "sections": {
     "world": [
       {
-        "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
-        "description": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
-        "url": "https://www.bbc.co.uk/news/articles/clyp15g9nk4o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d5f/live/e2904a70-542b-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-05-23T23:44:22Z",
+        "title": "Keeping fuel affordable in uncertain times",
+        "description": "Malaysia still offers one of the lowest RON95 prices compared to its neighbours. In other countries, fuel prices can shift almost weekly depending on global tre...",
+        "url": "https://www.thevibes.com/articles/news/123275/keeping-fuel-affordable-in-uncertain-times",
+        "image": "https://media.thevibes.com/images/uploads/covers/_large/24112020-KUL-Fuel_petrol_pump-SYEDA.jpg",
+        "publishedAt": "2026-05-24T00:40:00Z",
+        "source": "The Vibes"
+      },
+      {
+        "title": "Gunfire Near White House, Suspect Shot Dead, Bystander Injured",
+        "description": "Shots Fired Near White House, FBI, Secret Service \"On The Scene\": Kash Patel",
+        "url": "https://www.ndtv.com/world-news/shots-fired-near-white-house-fbi-secret-service-on-the-scene-kash-patel-11539243",
+        "image": "https://i.ndtvimg.com/i/2015-02/white-house_650x400_61424498422.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-05-24T00:38:52Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "Somali police chief, rights commission discuss detention oversight",
+        "description": "Mogadishu (HOL) — Somali Police Force chief Brig. Gen. Asad Osman Abdullahi met with leaders of the Independent National Human Rights Commission to discuss cooperation on human rights protections, accountability and oversight of detention facilities.",
+        "url": "https://www.hiiraan.com/news4/2026/May/205228/somali_police_chief_rights_commission_discuss_detention_oversight.aspx",
+        "image": "https://www.hiiraan.com/uploads/2026/05/1779539512FB_IMG_1779530835962-860x574-1.jpg",
+        "publishedAt": "2026-05-24T00:23:28Z",
+        "source": "hiiraan.com"
+      },
+      {
+        "title": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’",
+        "description": "US president says strait will be opened as part of the deal, but Iran’s influential Fars news agency reports that vital waterway would remain under Iranian control",
+        "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+        "image": "https://i.guim.co.uk/img/media/1e150bba8c860131d505d27eb4e2b34984d2320d/126_0_1066_853/master/1066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1d784947506e37ce9288822b73f78722",
+        "publishedAt": "2026-05-24T00:23:03Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "California governor declares state of emergency over looming chemical disaster",
+        "description": "Order facilitates support for 40,000 people told to evacuate Orange county as responders try to divert explosion",
+        "url": "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster",
+        "image": "https://i.guim.co.uk/img/media/c04e56794abe6c55ef54d366d91a7087e7be753f/27_0_3161_2530/master/3161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8aaeee5d0553b7f9c8ed1b58aeb61e0",
+        "publishedAt": "2026-05-24T00:07:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
+        "description": "President Trump said Iran and the United States had “largely negotiated” an agreement “pertaining to PEACE.” Three senior Iranian officials said Tehran had agreed to a memorandum of understanding, but there was no public statement from Iran’s government.",
+        "url": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
+        "image": "https://static01.nyt.com/images/2026/05/23/multimedia/00mideast-promo-8pm-mwkz/00mideast-promo-8pm-mwkz-facebookJumbo.jpg",
+        "publishedAt": "2026-05-23T23:59:24Z",
+        "source": "The New York Times"
+      },
+      {
+        "title": "East Africa wants to curb imports of used clothes. But it's not easy",
+        "description": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
+        "url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/092e/live/8bc5e2c0-55d6-11f1-8b8c-6d33e1d5abb6.jpg",
+        "publishedAt": "2026-05-23T23:55:13Z",
         "source": "BBC"
       },
       {
-        "title": "Suspect shot and killed after opening fire on White House checkpoint, Secret Service says",
-        "description": "Shooting was third incidence of gunfire in the vicinity of President Trump in past month",
-        "url": "https://www.theglobeandmail.com/world/article-white-house-shooting-may-23/",
-        "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=900",
-        "publishedAt": "2026-05-23T23:43:19Z",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-05-23T23:34:33Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgz05jyrrpo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
-        "publishedAt": "2026-05-23T23:34:33Z",
-        "source": "BBC"
-      },
-      {
-        "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-        "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8pn63q771o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png",
-        "publishedAt": "2026-05-23T23:24:03Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Gunman killed by US Secret Service after opening fire near White House",
-        "description": "President Donald Trump was at the White House at the time. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/united-states/suspect-down-after-shooting-at-officers-near-white-house-official-says",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/dd56f8d2f28a208a8b6e5737180ca4eb4b49d7a469ee460ef97c81d0010ae6af",
-        "publishedAt": "2026-05-23T23:23:37Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Man shot dead after firing shots at officers outside the White House",
-        "description": "A bystander was also shot during the exchange of fire.",
-        "url": "https://www.thejournal.ie/shots-fired-white-house-7049880-May2026/",
-        "image": "https://img2.thejournal.ie/article/7049880/river/?height=400&version=7049898",
-        "publishedAt": "2026-05-23T23:13:00Z",
-        "source": "The Journal"
-      },
-      {
-        "title": "Record Numbers Take German Passport in 2025",
-        "description": "A record number of people received a German passport in 2025, a media report says.",
-        "url": "https://en.tempo.co/read/2105119/record-numbers-take-german-passport-in-2025",
-        "image": "https://statik.tempo.co/data/2024/07/09/id_1317543/1317543_720.jpg",
-        "publishedAt": "2026-05-23T23:11:46Z",
-        "source": "Tempo.co English"
+        "title": "Brigitte is wary of women 'predators' looking to work with Macron bombshell book claims after ‘texts to actress’",
+        "description": "BRIGITTE Macron is convinced all women are predators out to steal her husband, the reporter behind the “flirty texts” bombshell claims.\nThe...",
+        "url": "https://www.thesun.ie/news/17002960/brigitte-wary-macron-predators-after-actress-texts/",
+        "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/05/newspress-collage-jdeqg10ze-1779576360718.jpg?quality=90&strip=all&1779583936&w=1920&h=1080&crop=1",
+        "publishedAt": "2026-05-23T23:54:07Z",
+        "source": "The Irish Sun"
       }
     ],
     "business": [
       {
-        "title": "Iridium, Planet Labs, and Ziff Davis Shares Skyrocket, What You Need To Know",
-        "description": "A number of stocks jumped in the afternoon session after the Dow Jones Industrial Average climbed more than 300 points and briefly touched a fresh all-time high above 50,700 as market sentiment improved amid falling yields.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iridium-planet-labs-ziff-davis-234055588.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/a9nq7yajZTcxLWuyt43b1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/f5184985ddbaeb6f420059201eebeea5",
-        "publishedAt": "2026-05-23T23:40:55Z",
-        "source": "Yahoo Finance"
+        "title": "Grayscale Names 4 Crypto Networks Poised to Gain From CLARITY Act",
+        "description": "Grayscale identified Ethereum, Solana, BNB Chain, and Canton Network as blockchain networks positioned to benefit from clearer U.S. digital-asset rules,",
+        "url": "https://news.bitcoin.com/grayscale-names-4-crypto-networks-poised-to-gain-from-clarity-act/",
+        "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/05/grayscale-clarity-act-4-blockchain-networks-to-benefit.jpg",
+        "publishedAt": "2026-05-24T00:35:38Z",
+        "source": "Bitcoin News"
       },
       {
-        "title": "CEOs Redefining Nigeria’s Luxury Hospitality Industry",
-        "description": "Discover the visionary CEOs like Uzo Oshogwe and Stanley Uzochukwu who are transforming Nigeria's hospitality industry into a hub for luxury and innovation",
-        "url": "https://punchng.com/ceos-redefining-nigerias-hospitality-industry/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/23222525/Uso-Oshogwe.webp",
-        "publishedAt": "2026-05-23T23:31:23Z",
+        "title": "Adopt Solar Power Like Aso Rock, Says Cleric Olumide Emmanue",
+        "description": "Amid high fuel costs and power challenges, Dr. Olumide Emmanuel urges Nigerians to adopt solar power, following Aso Rock's example, and discusses economic",
+        "url": "https://punchng.com/everyone-should-adopt-solar-power-like-aso-rock-cleric-olumide-emmanuel/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2024/10/12233242/OLUMIDE-EMMANUEL.jpg",
+        "publishedAt": "2026-05-24T00:34:45Z",
         "source": "Punch Newspapers"
       },
       {
-        "title": "Honda recalls nearly 60,000 vehicles over faulty camera systems",
-        "description": "The problem was linked to adhesive separating from the rearview camera case.",
-        "url": "https://autos.yahoo.com/safety-and-recalls/articles/honda-recalls-nearly-60-000-233000596.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cf7722e90963e2c45c524b00cc1a6da376d8062e07a9ad15c43ecf98bd842ee0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6055219188cc35ae6b98361824724bd2",
-        "publishedAt": "2026-05-23T23:30:00Z",
-        "source": "Yahoo Autos"
+        "title": "What might we have in front of us for the next 20 years",
+        "description": "Legendary Canterbury farm accountant and adviser Pita Alexander offers his take on what lies ahead in the next two decades and how we should assess the risks and opportunities",
+        "url": "https://www.interest.co.nz/rural-news/138653/legendary-canterbury-farm-accountant-and-adviser-pita-alexander-offers-his-take",
+        "image": "https://www.interest.co.nz/sites/default/files/2026-05/north-canterbury.jpg",
+        "publishedAt": "2026-05-24T00:32:00Z",
+        "source": "Interest.co.nz"
       },
       {
-        "title": "Wall Street Was Sleeping on the \"Bits-to-Atoms\" Trade. This Growth Stock Could Profit.",
-        "description": "This company is among those at the center of a massive shift toward AI infrastructure.",
-        "url": "https://www.fool.com/investing/2026/05/23/wall-street-was-sleeping-on-the-bits-to-atoms-trad/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F862681%2Fai-chip-glowing-on-circuit-board-gettyimages-1472518089-1201x675-c2b5ff2.png&w=1200&op=resize",
-        "publishedAt": "2026-05-23T23:28:03Z",
-        "source": "The Motley Fool"
+        "title": "Investing in equity is hard - here is how you can be good at it",
+        "description": "Each time the stock market falls, a new generation of investors learns how risky it can be, especially in the small and mid cap segments (including the",
+        "url": "https://freefincal.com/investing-in-equity-is-hard-here-is-how-you-can-be-good-at-it/",
+        "image": "https://freefincal.com/wp-content/uploads/2025/03/Why-investing-in-equity-is-hard-and-how-to-be-good-at-it.jpg",
+        "publishedAt": "2026-05-24T00:30:55Z",
+        "source": "freefincal"
       },
       {
-        "title": "Otedola, Dangote Deepen Business Ties with Refinery Investme",
-        "description": "Femi Otedola plans a $100m investment in Dangote Refinery, deepening his long-standing business and personal ties with Aliko Dangote.",
-        "url": "https://punchng.com/otedola-dangote-deepen-ties/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/23231207/Otedola-Dangote.webp",
-        "publishedAt": "2026-05-23T23:21:15Z",
-        "source": "Punch Newspapers"
+        "title": "Bank holiday next week: SBI, HDFC, others closed on these days between 25 and 31 May; check here",
+        "description": "India's banks will be closed for two days next week, including May 27 for Bakrid. The RBI has declared nine holidays this month. Online banking remains operational during these closures, allowing customers to conduct transactions anytime.",
+        "url": "https://www.livemint.com/money/personal-finance/bank-holiday-next-week-sbi-hdfc-others-closed-on-these-days-between-25-and-31-may-check-here-11779581501885.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/24/1600x900/logo/bank_1779581920767_1779581920893_3250b0e5-1244-4863-84e5-cd1128f8cb9a.jpg",
+        "publishedAt": "2026-05-24T00:26:08Z",
+        "source": "Mint"
       },
       {
-        "title": "Wall Street Was Sleeping on the \"Bits-to-Atoms\" Trade. This Growth Stock Could Profit.",
-        "description": "This company is among those at the center of a massive shift toward AI infrastructure.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sleeping-bits-atoms-232000293.html",
-        "image": "https://s.yimg.com/os/en/motleyfool.com/258d1be54f8bb2d2821448522c35501c",
-        "publishedAt": "2026-05-23T23:20:00Z",
-        "source": "Yahoo Finance"
+        "title": "Bullish Kangqiao Service Group Insiders Rewarded As Their Investment Rises To CN¥34.2m",
+        "description": "Last week, Kangqiao Service Group Limited ( HKG:2205 ) insiders, who had purchased shares in the previous 12 months...",
+        "url": "https://simplywall.st/stocks/hk/real-estate-management-and-development/hkg-2205/kangqiao-service-group-shares/news/bullish-kangqiao-service-group-insiders-rewarded-as-their-in",
+        "image": "https://images.simplywall.st/asset/industry/9612014-choice2-main-header/1585186781436",
+        "publishedAt": "2026-05-24T00:22:33Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "The Booing Will Continue Until Commencement Speeches Improve",
-        "description": "You'll never guess which technology Scott Borchetta of Big Machine Label Group wants the class of 2026 to embrace.",
-        "url": "https://gizmodo.com/the-booing-will-continue-until-commencement-speeches-improve-2000762929",
-        "image": "https://gizmodo.com/app/uploads/2026/05/scott-borchetta-1200x675.jpg",
-        "publishedAt": "2026-05-23T23:16:58Z",
-        "source": "Gizmodo"
+        "title": "Tigers Polymer's (TSE:4231) Shareholders Have More To Worry About Than Only Soft Earnings",
+        "description": "The market wasn't impressed with the soft earnings from Tigers Polymer Corporation ( TSE:4231 ) recently. We did some...",
+        "url": "https://simplywall.st/stocks/jp/automobiles/tse-4231/tigers-polymer-shares/news/tigers-polymers-tse4231-shareholders-have-more-to-worry-abou",
+        "image": "https://images.simplywall.st/asset/industry/4013000-choice2-main-header/1585188239365",
+        "publishedAt": "2026-05-24T00:22:33Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "OSI Systems, Amphenol, and Zebra Shares Skyrocket, What You Need To Know",
-        "description": "A number of stocks jumped in the afternoon session after the Dow Jones Industrial Average climbed more than 300 points and briefly touched a fresh all-time high above 50,700 as market sentiment improved amid falling yields.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-amphenol-zebra-shares-231655372.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/Qi6LwSSOycDRsBPXqFGUsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/d3302c835529cc2733960c0f500a3673",
-        "publishedAt": "2026-05-23T23:16:55Z",
-        "source": "Yahoo Finance"
+        "title": "Earnings Beat: NetEase, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+        "description": "NetEase, Inc. ( HKG:9999 ) just released its latest quarterly results and things are looking bullish. NetEase beat...",
+        "url": "https://simplywall.st/stocks/hk/media/hkg-9999/netease-shares/news/earnings-beat-netease-inc-just-beat-analyst-forecasts-and-an",
+        "image": "https://images.simplywall.st/asset/company-cover/416512-main-header/1756247269474",
+        "publishedAt": "2026-05-24T00:22:33Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "The Hubble Deep Field began as a gamble on a tiny patch of sky that had been chosen because it looked almost empty, and it ended by revealing nearly 3,000 galaxies hiding in what seemed like nothing.",
+        "description": "In December 1995, the Hubble Space Telescope spent ten days staring at a small, deliberately unremarkable patch of sky. The resulting image contained around 3,000 galaxies. The decision to do it was contested, and the astronomer who pushed it through did so over the objections of senior colleagues. What is worth adding is the part […]",
+        "url": "https://spacedaily.com/t-the-hubble-deep-field-began-as-a-gamble-on-a-tiny-patch-of-sky-that-had-been-chosen-because-it-looked-almost-empty-and-it-ended-by-revealing-nearly-3000-galaxies-hiding-in-what-seemed-like-nothing/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-23T211124.649.png",
+        "publishedAt": "2026-05-24T00:07:49Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Nagasaki Univ.-Led Team Finds Crab Walk Dates Back 200 M. Yrs",
+        "description": "Tokyo, May 24 (Jiji Press)--Crabs walking sideways originated from an ancestor that roamed the Earth some 200 …",
+        "url": "https://www.nippon.com/en/news/yjj2026052300124/",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/3009676/3009676.jpg",
+        "publishedAt": "2026-05-24T00:00:00Z",
+        "source": "nippon.com"
+      },
+      {
+        "title": "Nagasaki Univ.-Led Team Finds Crab Walk Dates Back 200 M. Yrs",
+        "description": "Tokyo, May 24 (Jiji Press)--Crabs walking sideways originated from an ancestor that roamed the Earth some 200 …",
+        "url": "https://www.nippon.com/en/news/yjj2026052300124/nagasaki-univ--led-team-finds-crab-walk-dates-back-200-m-yrs.html",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/3009676/3009676.jpg",
+        "publishedAt": "2026-05-24T00:00:00Z",
+        "source": "nippon.com"
+      },
       {
         "title": "NASA Plans Permanent Moon Base to Expand Human Presence Beyond Earth",
         "description": "NASA announces a permanent Moon base and the Artemis II mission on April 1, 2026, paving the way for sustained lunar operations.",
@@ -174,33 +198,25 @@
         "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-05-23T21:44:40Z",
         "source": "Nature"
-      },
-      {
-        "title": "Tiny fossils found in 1.7-billion‑year‑old mud yield clues to the evolution of complex life",
-        "description": "Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of meters below the surface by mineral exploration companies decades ago.",
-        "url": "https://phys.org/news/2026-05-tiny-fossils-billionyearold-mud-yield.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-fossils-found-in-2.jpg",
-        "publishedAt": "2026-05-23T21:00:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Enceladus is a tiny moon of Saturn that sprays water vapor and ice grains into space from an ocean hidden beneath its icy crust — meaning a spacecraft can sample material from an alien sea without eve",
-        "description": "This is accurate, and a spacecraft has already done it. Enceladus, a moon of Saturn only about 500 kilometres across, has a global ocean of liquid water under a shell of ice. Through fractures near its south pole, that ocean vents continuously into space as a plume of water vapour and fine ice grains. Between […]",
-        "url": "https://spacedaily.com/t-enceladus-is-a-tiny-moon-of-saturn-that-sprays-water-vapor-and-ice-grains-into-space-from-an-ocean-hidden-beneath-its-icy-crust-meaning-a-spacecraft-can-sample-material-from-an-alien-sea-wit/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-23T202851.462.png",
-        "publishedAt": "2026-05-23T20:27:57Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "New AI model reads the language of genes to detect diseases faster",
-        "description": "New AI model learns how genes work together, helping scientists predict disease pathways and drug targets faster.",
-        "url": "https://www.thebrighterside.news/post/new-ai-model-reads-the-language-of-genes-to-detect-diseases-faster/",
-        "image": "https://www.thebrighterside.news/uploads/2026/05/ge-1-scaled.jpg?auto=webp&width=2000&height=1125",
-        "publishedAt": "2026-05-23T20:07:00Z",
-        "source": "The Brighter Side of News"
       }
     ],
     "ai": [
+      {
+        "title": "SpaceX SHOCKING AI Revenue from Elon Web Services and Cursor Will be HUGE for the SPACEX IPO",
+        "description": "XAI Colossus 1 and part of 2 is leasing to Anthropic for $15 billion per year. This will mean SpaceXAI will be able to have more deals to build faster with",
+        "url": "https://www.nextbigfuture.com/2026/05/spacex-shocking-ai-revenue-from-elon-web-services-and-cursor-will-be-huge-for-the-spacex-ipo.html",
+        "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/ChatGPT-Image-May-23-2026-04_52_35-PM.jpg",
+        "publishedAt": "2026-05-24T00:00:43Z",
+        "source": "NextBigFuture.com"
+      },
+      {
+        "title": "‘I used three H-1B rejections to redirect me’: How a Madurai engineer rebuild his dreams",
+        "description": "After three H-1B lottery rejections, a Madurai engineer turned Columbia graduate rebuilt his career in London, becoming an AI leader, educator and startup founder.",
+        "url": "https://www.financialexpress.com/world-news/nri/i-used-three-h-1b-rejections-to-redirect-me-how-a-madurai-engineer-rebuild-his-dreams/4249406/",
+        "image": "https://images.financialexpressdigital.com/2026/05/Karankaranth-44.jpg",
+        "publishedAt": "2026-05-23T23:50:49Z",
+        "source": "The Financial Express"
+      },
       {
         "title": "5 Books Every Leader Should Read This Summer",
         "description": "5 leadership books for 2026: disruption, reinvention, change, uncertainty and human judgment in a world shaped by AI, volatility and continuous change.",
@@ -248,22 +264,6 @@
         "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/Representational-image--Sourced-_1779558053877.jpg",
         "publishedAt": "2026-05-23T21:38:13Z",
         "source": "Hindustan Times"
-      },
-      {
-        "title": "Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI",
-        "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
-        "url": "https://www.newsbreak.com/business-insider-562169/4668565616020-fashion-designer-jeremy-scott-gets-a-huge-cheer-after-ripping-up-his-ai-written-commencement-speech",
-        "image": "https://img.particlenews.com/img/id/0rq3k3_1Bg99MrJ00",
-        "publishedAt": "2026-05-23T21:35:56Z",
-        "source": "NewsBreak"
-      },
-      {
-        "title": "Students Cheer Jeremy Scott for Ripping up His AI Commencement Speech",
-        "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
-        "url": "https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5",
-        "image": "https://i.insider.com/6a1212687ff506e273e673c1?width=1200&format=jpeg",
-        "publishedAt": "2026-05-23T21:35:56Z",
-        "source": "Business Insider"
       }
     ]
   }
