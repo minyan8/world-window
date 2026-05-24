@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-24T09:07:59.823Z",
+  "fetchedAt": "2026-05-24T09:58:12.426Z",
   "sections": {
     "world": [
       {
-        "title": "World leaders warn against connecting Jerusalem to Ma'ale Adumim",
-        "description": "Leaders from Canada, Britain, France, Germany and other countries issued an unusual joint statement opposing Israel's policies in Judea and Samaria and expressing support for a two-state solution.",
-        "url": "https://www.israelnationalnews.com/news/427483",
-        "image": "https://2.a7.org/files/pictures/000/1089798.jpg",
-        "publishedAt": "2026-05-23T21:03:00Z",
-        "source": "Israel National News"
+        "title": "White House Approves $9B for US Spy Agencies' AI Adoption",
+        "description": "The White House authorized a classified $9 billion funding request on May 22 to equip US intelligence agencies with advanced AI chips and the infrastructure nee",
+        "url": "https://www.kucoin.com/news/flash/white-house-approves-9b-for-us-spy-agencies-ai-adoption",
+        "image": "https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png",
+        "publishedAt": "2026-05-23T21:57:14Z",
+        "source": "KuCoin"
       },
       {
-        "title": "Motorcycle safety on Malaysia's Federal Highway",
-        "description": "Millions of Malaysians risk their lives on dangerous motorcycle lanes due to poor maintenance and inadequate public transport alternatives. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/floods-dim-lights-deadly-lanes-kl-motorcyclists-still-prefer-riding-to-public-transport",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/97f92f8e22fa507f8a5da5f8bbba00caa722cd849013f0fea7c4dda0c9d81c45",
-        "publishedAt": "2026-05-23T21:02:59Z",
-        "source": "The Straits Times"
+        "title": "Trump says Iran deal, opening of Strait of Hormuz 'largely negotiated'",
+        "description": "The president said that a deal with Iran, including opening the Strait of Hormuz, has been “largely negotiated” after calls with Israel and other allies in the region.",
+        "url": "https://www.1news.co.nz/2026/05/24/iran-and-us-close-to-understanding-aimed-at-ending-the-war-officials/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/in-this-photo-released-by-the-iranian-presidency-office-pres-F7AHHHK2OFHNBDWTP4D2ZKU254.jpg?auth=33d8d3e701e3b21185b790eb26663b7e9b284ba475482c9f1dd588362e8709a8&quality=70&width=600&height=315&focal=1275%2C717",
+        "publishedAt": "2026-05-23T21:47:41Z",
+        "source": "1News"
       },
       {
-        "title": "Seychelles: President Visits Police and...",
-        "description": "Seychelles president visits police: President of the Republic of Seychelles, Dr Patrick Herminie, concluded his series of visits on La Digue with a stop",
-        "url": "https://africa.com/seychelles-president-visits-police-and-fire-services-in-final-stop-on-la-digue-tour/",
-        "image": "https://i2.wp.com/www.africa-newsroom.com/files/large/6932f83a1126d4b?ssl=1",
-        "publishedAt": "2026-05-23T21:02:16Z",
-        "source": "Africa.com"
+        "title": "U.S. seeks Iran ceasefire extension as threats of new strikes loom",
+        "description": "U.S. seeks Iran ceasefire extension as war threats loom",
+        "url": "https://www.washingtonpost.com/national-security/2026/05/23/us-seeks-iran-ceasefire-extension-war-threats-loom/",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PEZ7F56CAP7L7K3CSPFY7HYYRI.JPG&w=1440",
+        "publishedAt": "2026-05-23T21:42:26Z",
+        "source": "The Washington Post"
       },
       {
-        "title": "Economic Community of West African States...",
-        "description": "Economic community of west: The acting Head of the ECOWAS Peace Support Operations Division, Dr Sani Adamu led an Operational Readiness Inspection Team to",
-        "url": "https://africa.com/economic-community-of-west-african-states-ecowas-inspection-team-visits-ecowas-stabilisation-support-mission-in-guinea-bissau/",
-        "image": "https://i2.wp.com/www.africa-newsroom.com/files/large/c3cd4154ac2aa18?ssl=1",
-        "publishedAt": "2026-05-23T21:02:14Z",
-        "source": "Africa.com"
+        "title": "Trump says agreement to end Iran war 'largely negotiated'",
+        "description": "The US president announced on his Truth Social platform on Saturday that a deal with Tehran to end the Iran war was \"largely negotiated\" subject to approval, ending speculation over the possible resumption of strikes against Iran and broader conflict in the region.",
+        "url": "https://www.euronews.com/2026/05/23/trump-says-agreement-to-end-iran-war-largely-negotiated",
+        "image": "https://images.euronews.com/articles/stories/09/77/03/69/1200x675_cmsv2_670e25d7-4574-5ab9-a364-9567dcb65e6a-9770369.jpg",
+        "publishedAt": "2026-05-23T21:38:25Z",
+        "source": "Euronews.com"
       },
       {
-        "title": "Trump says peace deal with Iran largely reached with strait of Hormuz to open",
-        "description": "Remarks by US president potentially mark conclusion of bombing campaign led by US and Israel",
-        "url": "https://www.theguardian.com/world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz",
-        "image": "https://i.guim.co.uk/img/media/47288ceee236cc96d6fcbad4136a05149a43f3de/282_0_2125_1700/master/2125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f3998404daba68f1d3f8c8a505c4b37",
-        "publishedAt": "2026-05-23T21:00:00Z",
-        "source": "The Guardian"
+        "title": "Video shows Israeli 'double-tap strike' killed medics and a toddler in Lebanon",
+        "description": "In Lebanon, an Israeli 'double tap' killed three medics and four others including a two-year-old girl. A neighbor's video shows what happened.",
+        "url": "https://www.npr.org/2026/05/23/nx-s1-5832504/video-shows-israeli-double-tap-strike-killed-medics-and-a-toddler-in-lebanon",
+        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "publishedAt": "2026-05-23T21:24:01Z",
+        "source": "NPR"
       },
       {
-        "title": "Kenyan Newspapers, May 24: Briton Gets Life Sentence for Killing Kenyan Caregiver",
-        "description": "A UK court sentenced David Walsh to life for the brutal killing of Kenyan caregiver Irene Wanjiru Mbungua, highlighting risks faced by caregivers.",
-        "url": "https://www.tuko.co.ke/kenya/627248-kenyan-newspapers-23-briton-life-sentence-killing-kenyan-caregiver/",
-        "image": "https://cdn.tuko.co.ke/images/1200x675/65c24859ddd4d909.jpeg?v=1",
-        "publishedAt": "2026-05-23T20:59:27Z",
-        "source": "Tuko News"
+        "title": "What is methyl methacrylate, the chemical that's caused a state of emergency in southern California?",
+        "description": "A growing crisis at an aerospace plant in southern California involving a storage tank at risk of exploding has many wondering what exactly the hazardous chemical inside the tank is.",
+        "url": "https://www.cbc.ca/news/world/methyl-methacrylate-chemical-faq-9.7210127",
+        "image": "https://i.cbc.ca/ais/4660dd24-df32-47bb-a8ce-93e61d2d8077,1779568903158/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C71%2C5000%2C2812%29%3BResize%3D620",
+        "publishedAt": "2026-05-23T21:18:35Z",
+        "source": "CBC"
       },
       {
-        "title": "Eighteen suspected Ebola patients escape after treatment tent is set on fire for a second time in Congo",
-        "description": "Angry residents of a town at the epicenter of the Ebola outbreak in eastern Congo attacked and burned a tent that was part of a health center where people are being treated for the virus, the staff there said Saturday.",
-        "url": "https://www.pbs.org/newshour/world/eighteen-suspected-ebola-patients-escape-after-treatment-tent-is-set-on-fire-for-a-second-time-in-congo",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-22T121434Z_332073173_RC2QDLAL84WE_RTRMADP_3_HEALTH-EBOLA-IFRC-1024x674.jpg",
-        "publishedAt": "2026-05-23T20:58:51Z",
-        "source": "PBS"
+        "title": "My Melania Legal Battle Has Only Just Begun: Wolff",
+        "description": "The longtime Trump biographer has vowed to continue challenging the first lady in court.",
+        "url": "https://www.thedailybeast.com/my-melania-legal-battle-has-only-just-begun-michael-wolff/",
+        "image": "https://www.thedailybeast.com/resizer/v2/TJIRUGOPYZE55B26STWJDWFMHQ.jpg?smart=true&auth=75d2db0115e0972c019460b636c3e4379a5930da747b606d3979c47f9139a23b&width=1200&height=630",
+        "publishedAt": "2026-05-23T21:10:00Z",
+        "source": "The Daily Beast"
       },
       {
-        "title": "Iran Deal Largely Negotiated, Subject to Finalisation",
-        "description": "US President Donald Trump announced a largely negotiated deal with Iran, including opening the Strait of Hormuz, though the Trump Iran deal awaits finalisa",
-        "url": "https://punchng.com/trump-says-agreement-with-iran-subject-to-finalisation/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/13202839/AFP__20260413__A7NB7DD__v1__MidRes__UsPoliticsTrump-1200x630.jpg",
-        "publishedAt": "2026-05-23T20:56:56Z",
-        "source": "Punch Newspapers"
+        "title": "Spanish police beat and detain Gaza flotilla activists amid clashes at airport",
+        "description": "Cops filmed hitting activists with batons and dragging them on floor after global outcry, including from Madrid, over Ben Gvir's taunting of bound detainees as they were forced on ground",
+        "url": "https://www.timesofisrael.com/spanish-police-beat-and-detain-gaza-flotilla-activists-amid-clashes-at-airport/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260523__B3UU9KE__v1__HighRes__SpainIsraelPalestinianConflictAidPolice.jpg",
+        "publishedAt": "2026-05-23T21:09:00Z",
+        "source": "The Times of Israel"
       }
     ],
     "business": [
       {
-        "title": "Jet2 flight from Tenerife in mid-air 'chaos' as pilot suffers medical emergency",
-        "description": "A Jet2 flight from Tenerife to Birmingham was forced to divert to Porto after the pilot suffered a suspected heart attack mid-air",
-        "url": "https://www.manchestereveningnews.co.uk/news/uk-news/jet2-flight-tenerife-mid-air-34002653",
-        "image": "https://i2-prod.manchestereveningnews.co.uk/article34002651.ece/ALTERNATES/s1200d/0_EESjpeg.jpg",
-        "publishedAt": "2026-05-23T21:06:00Z",
-        "source": "Manchester Evening News"
+        "title": "AI Automation Creates More Expert Work Not Less",
+        "description": "AI doesn't replace expert knowledge workers - it multiplies demand for them. The self-reinforcing cycle behind the paradox: AI trains on recorded human competence, making rare skills cheap and widely available. That floods the market with same-looking output, which drives demand for the human judgment needed to frame, review, and differentiate. Experts then set new task frames that AI climbs, and the cycle resets.",
+        "url": "https://www.forbes.com/sites/josipamajic/2026/05/23/ai-automation-creates-more-expert-work-not-less/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a121eb8e810c71d589133db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-23T21:53:06Z",
+        "source": "Forbes"
       },
       {
-        "title": "Despite Its Recent Partnership with Apple, MP Materials Stock Is Down. Here's Why.",
-        "description": "MP Materials is trading flat on the year. With major partnerships backing it, why isn't this rare-earth stock soaring?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/despite-recent-partnership-apple-mp-210500701.html",
-        "image": "https://s.yimg.com/os/en/motleyfool.com/5b2b76ca0b1fb1ea09b004b17e04d63a",
-        "publishedAt": "2026-05-23T21:05:00Z",
+        "title": "CPRT Q1 Deep Dive: International Expansion and Diversified Seller Base Offset U.S. Insurance Pressures",
+        "description": "Online vehicle auction company Copart (NASDAQ:CPRT) announced better-than-expected revenue in Q1 CY2026, with sales up 2.1% year on year to $1.24 billion. Its non-GAAP profit of $0.43 per share was 5.7% above analysts’ consensus estimates.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cprt-q1-deep-dive-international-214855876.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/0AXVM6rvv6HVQjo.9QRXCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/a18571e87dd2975d84baf11bea21dbbd",
+        "publishedAt": "2026-05-23T21:48:55Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Identity thief forged NRIC and tried to get $2.9m loan using victim’s landed property as collateral",
-        "description": "Discover how an identity thief forged an NRIC and attempted to secure a $2.9 million loan using a victim's landed property as leverage. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/identity-thief-forged-nric-and-tried-to-secure-2-9m-loan-using-victims-landed-property-as-leverage",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/493cde5ee28c488678a37776382df134b68c13117fbf35b882ea1a152e12dfc6",
-        "publishedAt": "2026-05-23T21:04:38Z",
-        "source": "The Straits Times"
+        "title": "Boldly Flavored Frozen Dumplings",
+        "description": "Ajinomoto dumpling lineup - The Ajinomoto dumpling lineup has been expanded by Ajinomoto Foods North America in response to changing consumer habits surrounding flavor and int...",
+        "url": "https://www.trendhunter.com/trends/ajinomoto-dumpling-lineup",
+        "image": "https://cdn.trendhunterstatic.com/thumbs/614/ajinomoto-dumpling-lineup.jpeg",
+        "publishedAt": "2026-05-23T21:48:40Z",
+        "source": "Trend Hunter"
       },
       {
-        "title": "Why we keeping paying more, for less",
-        "description": "We’ve been hyper-focused in recent years on inflation – with good reason – amid the seemingly inexorable rise in the price of everything. Then we started...",
-        "url": "https://www.nzherald.co.nz/business/personal-finance/why-we-keeping-paying-more-for-less-nadine-higgins/premium/J2KVSCZEKNG6HJVR67TSW4D6KM/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/IBMM4QUADBHEJNTREF36GM5MXI.jpg?auth=697b86198196d7ce08b38d72f946a9ac49e5cc6d5f7514d4d512b9b3662551bb&width=1200&height=675&quality=70&focal=958%2C701&smart=false",
-        "publishedAt": "2026-05-23T21:03:13Z",
-        "source": "NZ Herald"
+        "title": "A billionaire crypto bro will lead humanity to Mars atop Musk's Starship",
+        "description": "SpaceX’s first human trip toward Mars could be led by Chun Wang, a crypto billionaire with one private astronaut mission already behind him.",
+        "url": "https://www.digitaltrends.com/space/a-billionaire-crypto-bro-will-lead-humanity-to-mars-atop-musks-starship/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/05/Chun-Wang.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-23T21:46:26Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "Chinese manufacturer reaches big milestone with solid-state battery that could dramatically extend EV range",
-        "description": "Solid-state batteries are often described as the \"holy grail\" of batteries.",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/chinese-manufacturer-reaches-big-milestone-210000210.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/71023823de4d2ebd7d017d47709696dcfd3b0a74916a16211635806fd13f7caf/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F3df32c2c96df9f8a7d1e7638ee409a78",
-        "publishedAt": "2026-05-23T21:00:00Z",
-        "source": "Yahoo Autos"
+        "title": "Man Shares What He Observed after Installing N2.2 Million Solar System",
+        "description": "A Nigerian man who purchased solar system for about N2.2 million has gone viral on social media after sharing his experience with netizens. People reacted.",
+        "url": "https://www.legit.ng/people/1711417-man-shares-what-observed-installing-n22-million-solar-system/",
+        "image": "https://cdn.legit.ng/images/1200x675/6fde39777f8473bd.jpeg?v=1",
+        "publishedAt": "2026-05-23T21:40:26Z",
+        "source": "Legit.ng"
       },
       {
-        "title": "BTC heads back to $77,000 on Middle East peace deal",
-        "description": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Saturday afternoon.",
-        "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-23T20:53:30Z",
-        "source": "CoinDesk"
+        "title": "1 Spectacular Growth Stock to Buy Before It Soars by as Much as 124%, According to Wall Street",
+        "description": "This stock looks so attractively valued that I recently bought some myself.",
+        "url": "https://www.fool.com/investing/2026/05/23/growth-stock-buy-before-soars-sea-limited/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871130%2Fa-person-sitting-on-the-floor-while-online-shopping-through-their-smartphone.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-23T21:38:28Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Uber Proposes Delivery Hero Takeover at €10 Billion Valuation",
-        "description": "Uber Technologies Inc. has offered to take over Delivery Hero SE in a deal that would value the German delivery company at about €10 billion ($11.6 billion) as it seeks to ramp up competition with DoorDash Inc. outside the US.",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-23/uber-doordash-in-talks-to-buy-delivery-hero-stakes-ft-says",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK0WeP_BKnMY/v0/1200x800.jpg",
-        "publishedAt": "2026-05-23T20:48:55Z",
-        "source": "Bloomberg"
+        "title": "Brent Crude Is Up 85% Since January. OXY, XOM, and CVX Are Playing It Very Differently.",
+        "description": "Why didn't Occidental Petroleum, ExxonMobil, and Chevron do better in the first quarter?",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/brent-crude-85-since-january-213500414.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/RERhjiYSw5F2drC3MW8S3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mjc-/https://media.zenfs.com/en/motleyfool.com/523ef68083afb044de7042f59d58d89f",
+        "publishedAt": "2026-05-23T21:35:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Lottery results and numbers: Lotto and Thunderball draw tonight, May 23, 2026",
-        "description": "THE NATIONAL Lottery results are in and it's time to find out who has won a life-changing amount of money tonight (May 23, 2026).\nCould...",
-        "url": "https://www.thesun.co.uk/news/39193944/lotto-thunderball-draw-results-tonight-may-23/",
-        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/newspress-collage-hp04vg10u-1778883763411.jpg?quality=90&strip=all&1778887518&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-05-23T20:46:00Z",
-        "source": "The Sun"
+        "title": "Six costly inheritance tax mistakes to avoid",
+        "description": "Here’s how to pass on your wealth without landing your family with an unexpected bill",
+        "url": "https://www.thetimes.com/money/tax/article/inheritance-tax-mistakes-to-avoid-t0wbxx5ts",
+        "image": "https://www.thetimes.com/imageserver/image/5222d2e5-9296-4dd9-a67e-ab63cb0f9921.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-05-23T21:30:00Z",
+        "source": "The Times"
       }
     ],
     "science": [
+      {
+        "title": "Towards a mitogenomic phylogeny of mud dragons (Kinorhyncha): two new mitogenomes from the Pycnophyidae family",
+        "description": "Mud dragons (Kinorhyncha) are an understudied phylum of microscopic marine invertebrates inhabiting a wide range of marine sediments, from shallow coastal habitats to abyssal depths, and occurring from tropical to polar regions. Despite their broad distribution, their minute size often makes them difficult to study. Consequently, molecular resources for the group remain extremely limited and only three complete mitogenomes have been published from this phylum to date. To help fill this substantial gap in genetic data, we sequenced and annotated two new complete mitogenomes from the family Pycnophyidae, Pycnophyes greenlandicus Higgins & Kristensen, 1988 and Cristaphyes cryopygus (Higgins & Kristensen, 1988). Obtained mtDNA sequences were compared with available transcriptomic data from other Kinorhyncha species, providing a more comprehensive basis for the phylogenetic analysis of the phylum. The results showcased unexpected rearrangements in the gene order across all examined taxa, an unusual cox1–tRNA-Glu genes overlap and an unstable phylogenetic position within the Pycnophyidae family. These new sequences not only significantly expand the mitogenomic data available for Kinorhyncha, but also provide an important step toward a better understanding of phylogenetic relationships within the phylum.",
+        "url": "https://www.nature.com/articles/s41598-026-54168-x?error=cookies_not_supported&code=85520bd5-ecb4-4ba3-bad5-acd184dbb7f1",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-23T21:44:40Z",
+        "source": "Nature"
+      },
       {
         "title": "Tiny fossils found in 1.7-billion‑year‑old mud yield clues to the evolution of complex life",
         "description": "Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of meters below the surface by mineral exploration companies decades ago.",
@@ -190,17 +198,65 @@
         "image": "https://live-production.wcms.abc-cdn.net.au/e7396ff214986c6353f3702d92863b41?impolicy=wcms_watermark_news&cropH=1728&cropW=3072&xPos=0&yPos=887&width=862&height=485&imformat=generic",
         "publishedAt": "2026-05-23T19:00:00Z",
         "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "Axial Seamount volcano rewrites theory of earth crust formation- Earth.com",
-        "description": "An underwater volcano in the Pacific, Axial Seamount, reveals a process that could challenge current theories about the Earth's crust.",
-        "url": "https://www.earth.com/news/axial-seamount-volcano-under-pacific-ocean-is-rewriting-theories-earth-crust-formation/",
-        "image": "https://cff2.earth.com/uploads/2026/05/22190406/axial-seamount-volcano_radar_NOAA_1m.jpg",
-        "publishedAt": "2026-05-23T18:45:09Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
+      {
+        "title": "Leadership | With Kintsugi, reimagining value in the age of AI 2.0",
+        "description": "The future is not humans versus AI, but humans enhanced by AI; best leaders use technology responsibly, combine AI efficiency with human wisdom and build cultures of empathy and trust",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/leadership-with-kintsugi-reimagining-value-in-the-age-of-ai-20-101779559137218.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/AI-can-help-us-work-faster-and-smarter--but-compas_1779559134440.jpg",
+        "publishedAt": "2026-05-23T21:56:13Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
+        "description": "Apple is readying the subdomain genai.apple.com, according to MacRumors contributor Aaron Perris, but it does not yet lead to a live web page. The genai.apple.com subdomain has been added to Apple's domain name servers a few weeks ahead of Apple's annual developers conference WWDC, where the company has promised to announce \"AI advancements\" across its software platforms.",
+        "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
+        "image": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+        "publishedAt": "2026-05-23T21:41:31Z",
+        "source": "MacRumors"
+      },
+      {
+        "title": "AI, robotics labs coming to govt schools across UP",
+        "description": "The Uttar Pradesh government on Saturday signed an MoU with Nelco Limited and other industrial groups to establish the advanced labs in 600 government secondary and higher secondary schools across the state.",
+        "url": "https://www.hindustantimes.com/cities/lucknow-news/ai-robotics-labs-coming-to-govt-schools-across-up-101779558056249.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/23/550x309/Representational-image--Sourced-_1779558053877.jpg",
+        "publishedAt": "2026-05-23T21:38:13Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI",
+        "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
+        "url": "https://www.newsbreak.com/business-insider-562169/4668565616020-fashion-designer-jeremy-scott-gets-a-huge-cheer-after-ripping-up-his-ai-written-commencement-speech",
+        "image": "https://img.particlenews.com/img/id/0rq3k3_1Bg99MrJ00",
+        "publishedAt": "2026-05-23T21:35:56Z",
+        "source": "NewsBreak"
+      },
+      {
+        "title": "Students Cheer Jeremy Scott for Ripping up His AI Commencement Speech",
+        "description": "Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.",
+        "url": "https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5",
+        "image": "https://i.insider.com/6a1212687ff506e273e673c1?width=1200&format=jpeg",
+        "publishedAt": "2026-05-23T21:35:56Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "TIAA CEO Thasunda Brown Duckett gives Gen Z 3 rules for building a career in the AI era",
+        "description": "International Business News: TIAA CEO Thasunda Brown Duckett offers Gen Z vital advice on building successful careers amidst automation and evolving job markets, emphasizing lifelong learning, confidence, and collaborative growth.",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/tiaa-ceo-thasunda-brown-duckett-has-3-rules-for-gen-z-your-competitive-advantage-isnt-what-you-know-today/articleshow/131273457.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131277233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-23T21:30:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Could this ASX ETF be the easiest way to invest in AI?",
+        "description": "AI is moving quickly, and picking individual winners is not easy. This ASX ETF offers another way to approach the theme.",
+        "url": "https://www.fool.com.au/2026/05/24/could-this-asx-etf-be-the-easiest-way-to-invest-in-ai/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2024/12/robot-chart-16.9-1200x675.jpg",
+        "publishedAt": "2026-05-23T21:30:00Z",
+        "source": "The Motley Fool Australia"
+      },
       {
         "title": "Delta CEO Ed Bastian asked AI to write his speech and then threw it away",
         "description": "International Business News: Explore Ed Bastian's advice to graduates on the importance of preserving authenticity in a world increasingly reliant on AI, emphasizing the balance between automation and personal expression in the workplace.",
@@ -208,62 +264,6 @@
         "image": "https://static.toiimg.com/thumb/msid-131276470,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-05-23T21:01:00Z",
         "source": "Times of India"
-      },
-      {
-        "title": "Japan voice actor demands TikTok operator remove AI-generated imitation",
-        "description": "Japanese voice actor Kenjiro Tsuda is demanding in a lawsuit filed with a Japanese court that the operator of the TikTok app remove videos narrated by an AI imitation of his voice generated without consent, his lawyer said Saturday. According to the lawsuit, a total of 188 videos on urban…",
-        "url": "https://japantoday.com/category/national/japan-voice-actor-demands-tiktok-operator-remove-ai-generated-imitation",
-        "image": "https://japantoday.com/images/japan-today-social.jpg",
-        "publishedAt": "2026-05-23T21:00:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Can you trademark identity? The new legal strategy celebrities are using against AI",
-        "description": "In recent months, celebrities such as Taylor Swift, Matthew McConaughey and Jeremy Clarkson have turned to trademark law to protect aspects of their identity associated with their brands. It’s a relatively new legal tactic and not yet tested in court. But celebrities are using it in an attempt to fill…",
-        "url": "https://japantoday.com/category/tech/Can-you-trademark-identity-The-new-legal-strategy-celebrities-are-using-against-AI",
-        "image": "https://media.japantoday.com/img/store/1d/b0/cfe195f07b27bf43184ab2ae38de5065883e/ap24255863776216/_w1700.jpeg",
-        "publishedAt": "2026-05-23T21:00:00Z",
-        "source": "Japan Today"
-      },
-      {
-        "title": "Volvo EX60 review - can it really do 503 miles on one charge?",
-        "description": "‘The car’s AI assistant can hold a rudimentary conversation but it professed not to know who Keir Starmer is’",
-        "url": "https://www.thetimes.com/life-style/driving/article/volvo-ex60-review-can-it-really-do-503-miles-on-one-charge-ls7lsjl57",
-        "image": "https://www.thetimes.com/imageserver/image/00231250-8e4a-474b-8b50-a1a3b362307e.jpg?strip=all&format=webp&crop=3200px%2C1800px%2C0px%2C0px&resize=1200",
-        "publishedAt": "2026-05-23T21:00:00Z",
-        "source": "The Sunday Times"
-      },
-      {
-        "title": "N.J. man charged with publishing AI-generated porn of female celebrities and politicians, feds say",
-        "description": "The Hasbrouck Heights man published deepfake pornographic material depicting 90 different female victims, according to federal authorities.",
-        "url": "https://www.nj.com/news/2026/05/nj-man-charged-with-publishing-ai-generated-porn-of-female-celebrities-and-politicians-feds-say.html",
-        "image": "https://www.nj.com/resizer/v2/ISRCAE73SJFWNB6FUWMAZKOX5A.jpg?auth=3272230a7768f51abc496c8994431898f55f783562424f42eb55104fd5121030&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-05-23T20:35:38Z",
-        "source": "NJ.com"
-      },
-      {
-        "title": "Goldman Sachs CEO says AI will change jobs but mass unemployment fears are overblown",
-        "description": "International Business News: Goldman Sachs CEO David Solomon believes fears of mass job losses due to AI are exaggerated, advocating for a future where automation enhances human creativity and efficiency in the workforce.",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/goldman-sachs-ceo-says-fears-of-mass-unemployment-from-ai-are-overblown/articleshow/131273985.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131276838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-23T20:30:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Colorized Version Of His Work Was Exhibited Without Permission",
-        "description": "The AI-generated version of ‘Moonrise, Hernandez, New Mexico’ was on display at AIPAD’s The Photography show.",
-        "url": "https://www.engadget.com/2180105/ansel-adams-trust-says-ai-colorized-version-moonrise-was-exhibited-without-permission/",
-        "image": "https://www.engadget.com/img/gallery/ansel-adams-trust-says-ai-colorized-version-of-his-work-was-exhibited-without-permission/l-intro-1779567408.jpg",
-        "publishedAt": "2026-05-23T20:22:19Z",
-        "source": "Engadget"
-      },
-      {
-        "title": "Some Data Centers Are Doing A Lot More Than Just Processing & Storing Data",
-        "description": "Some of Europe’s AI data centers are turning waste heat into usable energy, helping heat thousands of homes while reducing fossil fuel dependence.",
-        "url": "https://www.slashgear.com/2177716/data-centers-warming-homes-using-waste-heat/",
-        "image": "https://www.slashgear.com/img/gallery/some-data-centers-are-doing-a-lot-more-than-just-processing-storing-data/l-intro-1779289589.jpg",
-        "publishedAt": "2026-05-23T20:15:00Z",
-        "source": "SlashGear"
       }
     ]
   }
