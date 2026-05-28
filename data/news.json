@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-28T15:31:10.606Z",
+  "fetchedAt": "2026-05-28T17:31:01.605Z",
   "sections": {
     "world": [
       {
-        "title": "Kuwait air defenses activated; U.S. carries out new strikes in Iran",
-        "description": "This comes as tensions in the Middle East escalated once again, with the U.S. military carrying out new strikes overnight in Iran.",
-        "url": "https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108312923-1779937980867-gettyimages-1238748615-AFP_323X23C.jpeg?v=1779937992&w=1920&h=1080",
-        "publishedAt": "2026-05-28T03:25:00Z",
-        "source": "CNBC"
+        "title": "Luxury cars, cash and land: The wedding gifts that shocked Zimbabwe",
+        "description": "The South African The lavish wedding of Zimbabwean businessman Kudakwashe Tagwirei’s son has sparked outrage across Zimbabwe. This came after politically connected elites reportedly showered the newlyweds with gifts worth more than US$20 million at a time when many citizens are battling deepening poverty and economic hardship. Over the weekend, the wedding of Taonanyasha John Tagwirei […]",
+        "url": "https://www.newzimbabwe.com/luxury-cars-cash-and-land-the-wedding-gifts-that-shocked-zimbabwe/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/05/28062955/tagwirei-wedding.webp",
+        "publishedAt": "2026-05-28T05:30:10Z",
+        "source": "NewZimbabwe.com"
       },
       {
-        "title": "Kuwait faces attack as Iran ceasefire remains shaky",
-        "description": "Kuwait says it faced a missile and drone attack as the shaky ceasefire in the Iran war was again challenged.",
-        "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29",
-        "image": "https://dims.apnews.com/dims4/default/ab25a62/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2Ff2%2Fff2f23bdb777c03a9debb384aee8%2F3f54babfbdf04c7f803715488dd5228e",
-        "publishedAt": "2026-05-28T03:22:00Z",
-        "source": "AP News"
+        "title": "From the poorest neighborhood in the world the Patriarch of Alexandria brings the light of hope",
+        "description": "Pope and Patriarch Theodore II of Alexandria and All Africa visited the Turkana region in northern Kenya, one of the poorest and most afflicted regions in the world, with deep emotion and scenes that are difficult to describe in words. He brought the message of Christ’s love, hope, and paternal…",
+        "url": "https://orthodoxtimes.com/from-the-poorest-neighborhood-in-the-world-the-patriarch-of-alexandria-brings-the-light-of-hope/",
+        "image": "https://orthodoxtimes.com/wp-content/uploads/2026/05/front-28.jpg",
+        "publishedAt": "2026-05-28T05:30:00Z",
+        "source": "Orthodox Times"
       },
       {
-        "title": "Hormuz standoff: Trump's 'will blow them up' warning to Oman amid fragile Iran-US peace talks",
-        "description": "Middle East News: US President Donald Trump has warned Oman against attempting to influence control over the Strait of Hormuz as delicate negotiations with Iran continu.",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/hormuz-standoff-trumps-will-blow-them-up-warning-to-oman-amid-fragile-iran-us-peace-talks/articleshow/131361921.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131362177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-28T03:17:00Z",
+        "title": "Countries Bordering The Highest Number Of Other Countries",
+        "description": "Read on to discover the countries that have the highest numbers of international borders and surprising facts about their boundaries in the article below.",
+        "url": "https://www.worldatlas.com/geography/countries-bordering-the-highest-number-of-other-countries-55526.html",
+        "image": "https://www.worldatlas.com/r/w1200-q80/upload/57/a4/bf/356/countries-bordering-most-other-countries-2.png",
+        "publishedAt": "2026-05-28T05:30:00Z",
+        "source": "WorldAtlas"
+      },
+      {
+        "title": "Iran war has complicated plans for an international force in Gaza that has yet to materialize",
+        "description": "An international stabilization force promised for Gaza has yet to materialize three months after it was announced at an event hosted by U.S. President Donald Trump",
+        "url": "https://www.washingtonpost.com/world/2026/05/28/israel-hamas-gaza-trump-indonesia-stabilization-force/be070cdc-5a4a-11f1-8a9d-afb1148204e1_story.html",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUDBEYC2JII7DCU5V6YRJAQE4E_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-05-28T05:29:52Z",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "China's military says drove away Dutch warship in South China Sea",
+        "description": "China's military said on Wednesday it drove away a Dutch navy vessel it accused of \"illegally intruding\" into the area around the Paracel Islands in the contested South China Sea.",
+        "url": "https://www.france24.com/en/live-news/20260528-china-s-military-says-drove-away-dutch-warship-in-south-china-sea",
+        "image": "https://s.france24.com/media/display/256da192-92fa-11f0-b34e-005056bfb2b6/w:1280/p:16x9/da1340ba6f56083efa91e5934fe21d52d466ddbe.jpg",
+        "publishedAt": "2026-05-28T05:25:16Z",
+        "source": "France 24"
+      },
+      {
+        "title": "owned firm nabs millions in dodgy transport tender",
+        "description": "The Citizen The South African department of transport has allegedly paid more than R10 million to a Zimbabwean-owned private company for livestreaming services, without going out to tender and despite claims that the work could have been done internally at no additional cost. The allegations are contained in a disclosure submitted under the Protected Disclosures […]",
+        "url": "https://www.newzimbabwe.com/sa-zimbabwean-owned-firm-nabs-millions-in-dodgy-transport-tender/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/05/28062501/Zimbabwean-owned-firm-nabs-millions-in-dodgy-transport-tender.webp",
+        "publishedAt": "2026-05-28T05:25:12Z",
+        "source": "NewZimbabwe.com"
+      },
+      {
+        "title": "Mbeki speaks on Constitutional Amendments",
+        "description": "FORMER South African President Thabo Mbeki has revealed how State leaders in the SADC region once conspired to stop late Zambian President Frederick Chiluba from forcing through a Constitutional Amendment that would have kept him in power beyond his mandated two terms. Speaking at an African Union Development Agency event held in South Africa recently, […]",
+        "url": "https://www.newzimbabwe.com/mbeki-speaks-on-constitutional-amendments-says-region-once-stopped-move-similar-to-mnangagwas/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/05/26071237/mbeki.webp",
+        "publishedAt": "2026-05-28T05:18:53Z",
+        "source": "NewZimbabwe.com"
+      },
+      {
+        "title": "Us Iran Conflict: Kuwait Under Missile and Drone Attack Amid US-Iran Tensions",
+        "description": "Middle East News: Kuwait's air defense systems intercepted missile and drone threats as tensions escalate following US strikes on Iran. This article covers the latest developments in the ongoing US-Iran conflict, including attacks from Iran and US military responses.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-under-missile-drone-attack-after-us-strikes-iran-what-happened-at-bandar-abbas/articleshow/131363232.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131363492,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-28T05:18:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "What India’s ‘unsinkable aircraft carrier’ project near Malacca means for its China ties",
-        "description": "Uncertainty over Strait of Hormuz amid US-Iran conflict has New Delhi moving on US$10 billion plan to transform Great Nicobar Island.",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3355108/what-indias-unsinkable-aircraft-carrier-project-near-malacca-means-its-china-ties",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/28/058e34fd-6876-47f2-ad1a-687d149a8a34_3f9d3b25.jpg?itok=0C7yb6aq&v=1779937598",
-        "publishedAt": "2026-05-28T03:10:50Z",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "DoJ launches criminal probe into Trump accuser E. Jean Carroll, source says",
-        "description": "Since last year, Donald Trump’s Justice Department has pursued a slew of investigations against the president’s antagonists.",
-        "url": "https://www.smh.com.au/world/north-america/doj-launches-criminal-probe-into-trump-accuser-e-jean-carroll-source-says-20260528-p601l0.html",
-        "image": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/q_86%2Cf_auto/ab431910362e27d92a6f1b6ca3448f83068b132fdc44b1385d52b1cd1515ce4c",
-        "publishedAt": "2026-05-28T03:07:07Z",
-        "source": "SMH.com.au"
-      },
-      {
-        "title": "Taipei logs hottest May temperature on record at 38.3°C",
-        "description": "Temperatures at the Taipei weather station hit 38.3 degrees Celsius on Wednesday afternoon, the hottest May temperature recorded by the station since it was established in 1896, according to Taiwan's Central Weather Administration (CWA).",
-        "url": "https://focustaiwan.tw/society/202605280006",
-        "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2026/20260528/1024x727_910819593122.jpg",
-        "publishedAt": "2026-05-28T03:04:00Z",
-        "source": "Focus Taiwan"
-      },
-      {
-        "title": "US and Iran exchange strikes as Israel intensifies attacks on southern Lebanon",
-        "description": "US forces down drones near strait of Hormuz, sparking attack on American airbase in Kuwait",
-        "url": "https://www.theguardian.com/world/2026/may/28/us-new-strikes-iran-israel-intensifies-attacks-southern-lebanon",
-        "image": "https://i.guim.co.uk/img/media/50bf4f5938edc54657cce2aecf8574dd5c5e8648/562_5_3926_3141/master/3926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b36dc92e010ae29a1ac0d5d9e53aa94b",
-        "publishedAt": "2026-05-28T03:03:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "New species of ghost pipefish named after Sesame Street character found in Australia",
-        "description": "Environmental science and conservation news",
-        "url": "https://news.mongabay.com/short-article/2026/05/new-species-of-ghost-pipefish-named-after-sesame-street-character-found-in-australia/",
-        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/28025902/pipefish-2.jpg",
-        "publishedAt": "2026-05-28T03:02:13Z",
-        "source": "Mongabay"
       }
     ],
     "business": [
       {
-        "title": "Pag-IBIG Fund raises housing loan limit to ₱10M to serve more Filipino workers",
-        "description": "To further widen the reach of President Ferdinand R. Marcos Jr.’s flagship Expanded Pambansang Pabahay para sa Pilipino (Expanded 4PH) Program and help...",
-        "url": "https://mb.com.ph/2026/05/28/pag-ibig-fund-raises-housing-loan-limit-to-10m-to-serve-more-filipino-workers",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/28/104440.webp",
-        "publishedAt": "2026-05-28T03:30:17Z",
-        "source": "Manila Bulletin"
+        "title": "Seoul Metropolitan Government Announces ‘Try Everything 2026: Seoul Unicorn Challenge’",
+        "description": "The Seoul Metropolitan Government and Seoul Business Agency open applications for the Seoul Unicorn Challenge 2026 to drive global startup expansion.",
+        "url": "https://www.businesswire.com/news/home/20260527551255/en/Seoul-Metropolitan-Government-Announces-Try-Everything-2026-Seoul-Unicorn-Challenge",
+        "image": "https://mms.businesswire.com/media/20260527551255/en/2817163/22/seoul_unicorn_challange_image.jpg",
+        "publishedAt": "2026-05-28T05:31:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "Maserati For The Price Of A Tata Safari!",
-        "description": "Get this Maserati for the price of a Tata Safari. Here are all the details you should know about this once in a lifetime deal.",
-        "url": "https://motoroctane.com/news/314150-maserati-for-the-price-of-a-tata-safari",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/05/Untitled-design-39.jpg",
-        "publishedAt": "2026-05-28T03:30:05Z",
+        "title": "Degree Camera Under Rs 10 Lakh! » MotorOctane",
+        "description": "Want a car with a 360-degree camera and that too within a limited budget? Here are some cars priced under Rs 10 lakh that have a 360-degree camera",
+        "url": "https://motoroctane.com/news/314183-5-cars-with-360-degree-camera-under-rs-10-lakh",
+        "image": "https://motoroctane.com/wp-content/uploads/2026/05/Untitled-design-9.jpg",
+        "publishedAt": "2026-05-28T05:30:00Z",
         "source": "MotorOctane"
       },
       {
-        "title": "The AI Spending Boom Just Got Bigger: Goldman Sees $800 Billion Flowing In This Year",
-        "description": "The artificial intelligence infrastructure boom is no longer just lifting a handful of semiconductor stocks like Nvidia Corp., Micron Technology Inc. and Intel Corp.. Goldman Sachs says it is now reshaping the entire U.S. business investment cycle. In a research...",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-spending-boom-just-got-033031884.html",
-        "image": "https://s.yimg.com/os/en/benzinga_79/1144e7d81787cf55d2f3ef0b3b818935",
-        "publishedAt": "2026-05-28T03:30:00Z",
-        "source": "Yahoo Finance"
+        "title": "China barbecue chain willingly refunds diners US$162,000 for serving ‘not properly grilled’ food",
+        "description": "BEIJING: A refund initiative launched by a famous barbecue restaurant chain in China has drawn significant attention on mainland social media, triggering a debate about a culture of valuing the feelings of customers.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/28/china-barbecue-chain-willingly-refunds-diners-us162000-for-serving-not-properly-grilled-food",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/28/3930821.jpg",
+        "publishedAt": "2026-05-28T05:30:00Z",
+        "source": "thestar.com.my"
       },
       {
-        "title": "Microsoft (MSFT): Despite Margin Pressure, Case For Further Capex Investments Strengthens",
-        "description": "Microsoft's Azure is now uniquely positioned as the only cloud hosting both OpenAI and Anthropic frontier models. Read why MSFT stock is a Strong Buy.",
-        "url": "https://seekingalpha.com/article/4909436-microsoft-stock-despite-margin-pressure-case-for-further-capex-investments-strengthens",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2184758316/image_2184758316.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-28T03:29:55Z",
-        "source": "Seeking Alpha"
+        "title": "Japan Police Ink Pact with Banks to Swiftly Track Scam Proceeds",
+        "description": "Tokyo, May 28 (Jiji Press)--Japan's National Police Agency on Thursday concluded an agreement with nine major …",
+        "url": "https://www.nippon.com/en/news/yjj2026052800280/japan-police-ink-pact-with-banks-to-swiftly-track-scam-proceeds.html",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/3012453/3012453.jpg",
+        "publishedAt": "2026-05-28T05:24:13Z",
+        "source": "nippon.com"
       },
       {
-        "title": "Australia's consumer inflation eases to 4.2% in April 2026",
-        "description": "Australia's CPI inflation eased to 4.2 per cent YoY in April 2026 from 4.6 per cent in March, mainly due to slower growth in goods prices and lower automotive fuel inflation,...",
-        "url": "https://www.fibre2fashion.com/news/textile-news/australia-s-consumer-inflation-eases-to-4-2-in-april-2026-310575-newsdetails.htm",
-        "image": "https://static.fibre2fashion.com/Newsresource/images/310/shutterstock-2536395067_322163.jpg",
-        "publishedAt": "2026-05-28T03:29:10Z",
-        "source": "Fibre2Fashion"
-      },
-      {
-        "title": "SunSirs: Declining Crude Oil Prices Weighed on Commodities; the Maleic Anhydride Market Weakened in Tandem",
-        "description": "Price trend\nAccording to data from SunSirs' data, domestic maleic anhydride prices have continued their downward trend recently. As of May",
-        "url": "https://www.sunsirs.com/commodity-news/petail-33227.html",
-        "image": "https://img.100ppi.com/sunsirs_news/2026/05/28/29b52de3e621e9eef5e16c2b60337af7.jpeg",
-        "publishedAt": "2026-05-28T03:28:19Z",
-        "source": "Sunsirs"
-      },
-      {
-        "title": "From Hit Identification to Lead Optimization: Building Scientific Continuity in Early Drug Discovery",
-        "description": "**media[1074812]**SHANGHAI, May 28, 2026 /PRNewswire/ -- On May 20, 2026, Viva Biotech hosted a V-Experts in Conversation webinar, 'Managing Complexity in Modern Drug Discovery: A Practical Approach to Integrated Screening & Chemistry.' Moderated by Victoria Ouroutzoglou, the roundtable featured Dr. Bing Xia, Vice President & Head of Early Discovery Platforms, and Dr. Tim Dwight, Senior Director of Medicinal Chemistry & Business Development. The discussion focused on how teams can make informed decisions when target biology, assay readiness, chemical tractability, and development requirements evolve in parallel. The speakers discussed how an integrated screening and medicinal chemistry workflow can support decision-making from hit identification through lead optimization.",
-        "url": "https://www.manilatimes.net/2026/05/28/tmt-newswire/pr-newswire/from-hit-identification-to-lead-optimization-building-scientific-continuity-in-early-drug-discovery/2353270",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/28/1074811.jpg",
-        "publishedAt": "2026-05-28T03:27:49Z",
+        "title": "VERAXA Biotech Strengthens Financial Position with $27.5 Million Principal Amount Senior Secured Note Financing and $50 Million Share Purchase Agreement",
+        "description": "Transactions Provide Financial Flexibility to Advance Pipeline of Next Generation Cancer Therapies Comprised of Novel Bispecific T-cell Engagers (TCEs) and Antibody-Drug Conjugates (ADCs)Support Closing of Business Combination with Voyager Acquisition Corp.",
+        "url": "https://www.manilatimes.net/2026/05/28/tmt-newswire/globenewswire/veraxa-biotech-strengthens-financial-position-with-275-million-principal-amount-senior-secured-note-financing-and-50-million-share-purchase-agreement/2353294",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/28/1074855.png",
+        "publishedAt": "2026-05-28T05:24:11Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Oil climbs, stocks drop on fresh US-Iran strikes",
-        "description": "Oil prices bounced higher and global stock markets fell Thursday after the United States and Iran exchanged new strikes despite their purported ceasefire, rekindling uncertainty about an end to the Middle…",
-        "url": "https://www.france24.com/en/live-news/20260528-oil-prices-bounce-higher-after-new-us-strikes-on-iran",
-        "image": "https://s.france24.com/media/display/d8faae46-5a44-11f1-8254-005056a97e36/w:1280/p:16x9/acb46cf0d07d26c7ac9da90d373d7e01dc92ecfe.jpg",
-        "publishedAt": "2026-05-28T03:25:17Z",
-        "source": "France 24"
+        "title": "Streets near Everton stadium get new 'smart lights'",
+        "description": "The project is expected to deliver up to 30% energy savings over the next 10 years.",
+        "url": "https://www.bbc.com/news/articles/c202ynlnx59o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d72d/live/8b6b1540-59cb-11f1-94f3-bd26b0dff349.jpg",
+        "publishedAt": "2026-05-28T05:21:16Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Gold Holds Losses as US-Iran Impasse Keeps Inflation Risk High",
+        "description": "Gold fell to a two-month low as clashes between the US and Iran risked derailing peace talks and kept inflation risks high, while a stronger dollar also weighed on the precious metal.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/gold-holds-losses-as-us-iran-impasse-keeps-inflation-risk-high",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4lBgRhuAQGc/v0/1200x800.jpg",
+        "publishedAt": "2026-05-28T05:21:00Z",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "STAAR Surgical Company (STAA) Discusses Differentiation of EVO ICL Technology and Market Trends in Refractive Surgery Transcript",
+        "description": "STAAR Surgical Company (STAA) Discusses Differentiation of EVO ICL Technology and Market Trends in Refractive Surgery May 27, 2026 2:30 PM EDTCompany...",
+        "url": "https://seekingalpha.com/article/4909466-staar-surgical-company-staa-discusses-differentiation-of-evo-icl-technology-and-market-trends",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-05-28T05:20:15Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Chandrayaan-2 detects possible presence of subsurface ice near south pole of moon",
+        "description": "Scientists focused on doubly shadowed craters, which are special craters located inside permanently shadowed regions of the moon.",
+        "url": "https://www.thehindu.com/sci-tech/science/chandrayaan-2-detects-possible-presence-of-subsurface-ice-near-south-pole-of-moon/article71031903.ece",
+        "image": "https://th-i.thgim.com/public/incoming/7yedak/article71031960.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UAA6LK1EU_R1572690423_5_cf09708a-b996-44cc-bc93-7f7346ae9a9f.jpg",
+        "publishedAt": "2026-05-28T04:40:07Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "7 scientists win Shaw Prize in 2026",
+        "description": "The Shaw Prize consists of four annual prizes -- Astronomy, Life Science and Medicine, and Mathematical Sciences, awarded since 2004, together with the newly introduced Computer Science Prize, to be awarded from 2027.",
+        "url": "https://www.chinadailyasia.com/hk/article/634057",
+        "image": "https://www.chinadailyhk.com/upload/main/image/2026/05/28/4313df0b153af21070b0332a801cb4fc.png",
+        "publishedAt": "2026-05-28T04:32:28Z",
+        "source": "chinadailyasia.com"
+      },
+      {
+        "title": "Scientists Create Tiny Chip That Uses Light Instead of Electricity To Process Information",
+        "description": "Researchers have created a compact chip that manipulates light-based quantum information with remarkable precision, advancing the development of next-generation photonic and quantum technologies.",
+        "url": "https://scitechdaily.com/scientists-create-tiny-chip-that-uses-light-instead-of-electricity-to-process-information/",
+        "image": "https://scitechdaily.com/images/Photonic-Valleytronic-Chip.jpg",
+        "publishedAt": "2026-05-28T04:31:14Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Zoe Petropoulos hopeful following breakthrough in neurofibromatosis research",
+        "description": "Zoe Petropoulos and her family's years of fundraising into neurofibromatosis research seems to be bearing fruit with a promising breakthrough unearthed that could lead to simple, low-cost treatments.",
+        "url": "https://neoskosmos.com/en/2026/05/28/news/australia/zoe-petropoulos-hopeful-following-breakthrough-in-neurofibromatosis-research/",
+        "image": "https://cdn1.neoskosmos.com/uploads/sites/2/2026/05/zoe-face-of-NF-flick_80551.jpg",
+        "publishedAt": "2026-05-28T04:02:57Z",
+        "source": "Neos Kosmos"
+      },
+      {
+        "title": "Quantum Randomness Amplification Achieved, Enhancing Bitstream Unpredictability for Cryptographic Use",
+        "description": "Researchers have successfully demonstrated experimental […]",
+        "url": "https://www.geneonline.com/quantum-randomness-amplification-achieved-enhancing-bitstream-unpredictability-for-cryptographic-use/",
+        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
+        "publishedAt": "2026-05-28T03:42:20Z",
+        "source": "geneonline.com"
+      },
       {
         "title": "100,000-Year-Old Bones in Ethiopia May Point to the Earliest Human Cremation",
         "description": "Burned fossils reveal a vivid snapshot of early Homo sapiens life. byTudor Tarita  May 27, 2026 in Anthropology, Archaeology, News, Paleontology A A  Edited and r…",
@@ -158,111 +198,71 @@
         "image": "https://scitechdaily.com/images/Cancer-Tumor-Cells-Immune-Response.jpg",
         "publishedAt": "2026-05-28T03:21:49Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Bizarre beaked reptile from New Mexico turns out to be a toothless cousin of crocodiles",
-        "description": "\"It's sort of a side branch.\"",
-        "url": "https://www.yahoo.com/news/science/articles/bizarre-beaked-reptile-mexico-turns-032000482.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/s8iO_BJTeDQN.oJRoMgOXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/6703cbd77479073d69f69b5346f78cc8",
-        "publishedAt": "2026-05-28T03:20:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Tandem Catalysis Converts Polyethylene, CO₂ to Aromatics",
-        "description": "A new study published in Engineering demonstrates a tandem catalytic approach that converts waste polyethylene and carbon dioxide into separable",
-        "url": "https://www.miragenews.com/tandem-catalysis-converts-polyethylene-co-to-1681701/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1517245386807-bb43f82c33c4%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-05-28T02:52:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Osmania University researchers observes extreme cosmic winds near distant galaxy’s supermassive black hole",
-        "description": "The study has been accepted for publication in The Astrophysical Journal.",
-        "url": "https://www.newindianexpress.com/states/telangana/2026/May/28/osmania-university-researchers-observes-extreme-cosmic-winds-near-distant-galaxys-supermassive-black-hole",
-        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-28%2Fwju1x7gx%2FScreenshot-2026-05-28-081109.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-05-28T02:20:16Z",
-        "source": "The New Indian Express"
-      },
-      {
-        "title": "Tuning the electronic and photovoltaic properties of naphthalene diamine through molecular engineering with efficient acceptors: a quantum chemical study",
-        "description": "Non-fullerene-based organic solar cells (NF-OSCs) have emerged as promising photovoltaic systems owing to their tunable optoelectronic properties and enhanced power conversion efficiencies. Currently, three series of naphthalene-1,5-diamine (NDA)-based compounds(NBT1–NBT4, NBT5–NBT8, and NBT9–NBT12) featuring an A1–π1–A2–π2–A2–π1–A1 configuration were rationally designed through terminal modifications with thiophene linkers, malononitrile (MN)-based and benzothiophene (BT) based acceptor units. Quantum chemical calculations were performed at the MPW1PW91/6-311G(d, p) level to investigate their electronic, optical, and photovoltaic characteristics. Comprehensive analyses, including frontier molecular orbitals (FMOs), global reactivity parameters (GRPs), density of states (DOS), UV–Vis absorption spectra, transition density matrix (TDM), electron–hole distribution, and open-circuit voltage (Voc), were conducted to evaluate their performance. The incorporation of different electron-withdrawing terminal acceptors effectively reduced the energy gap (2.641–2.323 eV) and broadened the absorption spectra across the visible region (534.484–638.238 nm). Comparable Voc values were obtained through HOMOPTB7–LUMOacceptor estimation, indicating favorable energy-level alignment for charge transfer. Among the designed chromophores, NBT12 exhibited the smallest energy gap (2.323 eV), the highest absorption maximum (λmax = 638.238 nm), and the most efficient intramolecular charge transfer, leading to efficient optoelectronic characteristics. These findings highlight the potential of NDA-based chromophores, particularly NBT12, as efficient non-fullerene acceptor materials for high-performance organic solar cells.",
-        "url": "https://www.nature.com/articles/s41598-026-48264-1?error=cookies_not_supported&code=94357877-ad38-4a27-bc80-e448af09ae82",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-05-28T02:13:22Z",
-        "source": "Nature"
-      },
-      {
-        "title": "7 scientists win Shaw Prize in 2026",
-        "description": "​Seven scientists won the Shaw Prize this year for their outstanding work in the prize's three categories, the Shaw Prize Foundation announced on Wednesday.",
-        "url": "http://www.china.org.cn/2026-05/28/content_118517947.shtml",
-        "image": "https://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
-        "publishedAt": "2026-05-28T01:47:45Z",
-        "source": "China.org.cn"
       }
     ],
     "ai": [
       {
-        "title": "ETMarkets PMS Talk| A 'private equity approach' to public markets has driven our investing success for 15 years: Sameer Shah",
-        "description": "ValueQuest's Sameer Shah champions a private equity approach to public markets. He focuses on deep research and conviction in identifying transformative business trends early. Shah highlights manufacturing, defence, AI, aerospace, and energy transition as key themes for the next decade. He believes these sectors offer significant alpha opportunities, often remaining under-owned and under-appreciated by the broader market.",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-a-private-equity-approach-to-public-markets-has-driven-our-investing-success-for-15-years-sameer-shah/articleshow/131344810.cms",
-        "image": "https://img.etimg.com/thumb/msid-131344792,width-1200,height-630,imgsize-222723,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-28T03:31:00Z",
+        "title": "Urvashi Rautela reacts as viral AI pic shows her touching Deepika, Aishwarya's feet",
+        "description": "Urvashi Rautela slammed a viral fan-made AI image that compared her with leading Bollywood actresses and showed her kneeling before them. The actor called out toxic fan wars on social media and urged people to celebrate every woman’s journey instead of creating negativity.",
+        "url": "https://www.indiatoday.in/movies/celebrities/story/urvashi-rautela-reacts-as-viral-ai-pic-shows-her-touching-deepika-padukone-aishwarya-rais-feet-2918357-2026-05-28",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/urvashi-rautela-142907921-16x9.jpg?VersionId=6_TYHyX29GvCTWVu_W0M1_ZAIEHBamzd",
+        "publishedAt": "2026-05-28T05:26:42Z",
+        "source": "India Today"
+      },
+      {
+        "title": "Mitsubishi Chemical Corporation and Accenture Establish Joint Venture to Drive AI-Enabled Business Reinvention and Operational Transformation",
+        "description": "Mitsubishi Chemical Corporation announced that it has established a joint venture with Accenture to support the chemical firm?s AI-enabled reinvention, with the aim of optimizing corporate operations...",
+        "url": "https://www.marketscreener.com/news/mitsubishi-chemical-corporation-and-accenture-establish-joint-venture-to-drive-ai-enabled-business-r-ce7f5ad3d189f02d",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-05-28T05:20:35Z",
+        "source": "MarketScreener"
+      },
+      {
+        "title": "AI boom powers Snowflake’s massive rally after strong quarterly results",
+        "description": "Snowflake delivered a blockbuster quarter that reignited investor optimism. Strong earnings, accelerating AI demand, and a massive AWS partnership helped the stock surge sharply after results. The quarter strengthened the company’s position as a major enterprise AI infrastructure player. (Sources: TradingView, CNBC, MarketWatch) ​Snowflake Surges After AI-Fueled Earnings Beat",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-powers-snowflakes-massive-rally-after-strong-quarterly-results/slideshow/131363472.cms",
+        "image": "https://img.etimg.com/thumb/msid-131363472,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-05-28T05:17:00Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Paris Hilton slams AI deepfake porn images on the internet: 'What's happening to me and millions of other girls...'",
-        "description": "In her post on Instagram, Hilton said, \"What's happening to me and millions of other girls and women online is wrong And it should be illegal.\"",
-        "url": "https://www.firstpost.com/entertainment/paris-hilton-slams-ai-deepfake-porn-images-on-the-internet-whats-happening-to-me-and-millions-of-other-girls-14016102.html",
-        "image": "https://images.firstpost.com/uploads/2026/05/parisg-1-2026-05-c117bf47619ea92e81555a34d280dd47.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-28T03:30:01Z",
-        "source": "Firstpost"
+        "title": "Stan Lee lives on in AI Form as ElevenLabs brings back Marvel legend",
+        "description": "The AI audio company has partnered with Stan Lee Universe to add the late Marvel creator’s voice and likeness to its commercial licensing platform",
+        "url": "https://www.telegraphindia.com/entertainment/stan-lee-lives-on-in-ai-form-as-elevenlabs-brings-back-marvel-legend/cid/2162797",
+        "image": "https://assets.telegraphindia.com/telegraph/2023/Dec/1703836349_stan-lee.jpg",
+        "publishedAt": "2026-05-28T05:16:52Z",
+        "source": "Telegraph India"
       },
       {
-        "title": "Microsoft (MSFT): Despite Margin Pressure, Case For Further Capex Investments Strengthens",
-        "description": "Microsoft's Azure is now uniquely positioned as the only cloud hosting both OpenAI and Anthropic frontier models. Read why MSFT stock is a Strong Buy.",
-        "url": "https://seekingalpha.com/article/4909436-microsoft-stock-despite-margin-pressure-case-for-further-capex-investments-strengthens",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2184758316/image_2184758316.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-28T03:29:55Z",
+        "title": "Ireland’s inflation outlook darkens and can dating apps survive AI-driven scams",
+        "description": "Business Today: The best news, analysis and comment from The Irish Times business desk",
+        "url": "https://www.irishtimes.com/business/2026/05/28/irelands-inflation-outlook-darkens-and-can-dating-apps-survive-ai-driven-scams/",
+        "image": "https://www.irishtimes.com/resizer/v2/LOLQKPTDVRZYY2SDP3JNAY72ZE.JPG?smart=true&auth=ff335f0ab60cd15cda96d7c09b0f4bd98c032f38de7647877630ed0aebb0ac7f&width=1200&height=630",
+        "publishedAt": "2026-05-28T05:16:00Z",
+        "source": "The Irish Times"
+      },
+      {
+        "title": "Broadcom Stock: The Dual Moat Is Still Undervalued (NASDAQ:AVGO)",
+        "description": "Broadcom is compounding earnings at scale, driven by custom AI chips and VMware-based enterprise software. Read why AVGO stock is a Buy.",
+        "url": "https://seekingalpha.com/article/4909454-broadcom-the-dual-moat-is-still-undervalued",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212860332/image_2212860332.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-28T05:14:51Z",
         "source": "Seeking Alpha"
       },
       {
-        "title": "Reddit Down? Here's why you may be getting a blank feed",
-        "description": "Reddit Down: Reddit Reddit users faced widespread disruptions on Thursday. The platform's website and mobile app experienced issues, with users reporting empty feeds and slow loading times. This affected users in India and the United States. The problem appeared to be intermittent for some. Reddit has seen similar technical issues recently. The company is also preparing measures against AI-generated content.",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/reddit-down-heres-why-you-may-be-getting-a-blank-feed/articleshow/131362331.cms",
-        "image": "https://img.etimg.com/thumb/msid-131362359,width-1200,height-630,imgsize-742798,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-05-28T03:29:00Z",
-        "source": "The Economic Times"
+        "title": "How Multi-Model AI Image Platforms Are Changing Creative Workflows",
+        "description": "The AI image generation landscape is moving beyond single-model experimentation toward more flexible, workflow-oriented platforms.",
+        "url": "https://techbullion.com/how-multi-model-ai-image-platforms-are-changing-creative-workflows/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/05/magai-featured-photo-on-grenerative-ai-in-creative-work-scaled-1-1000x600.jpg",
+        "publishedAt": "2026-05-28T05:12:37Z",
+        "source": "TechBullion"
       },
       {
-        "title": "India’s cybersecurity agency sounds alarm on AI-powered attacks, urges firms to patch flaws within hours",
-        "description": "India’s cybersecurity agency CERT-In has released an urgent new framework warning that AI-powered cyber attacks are accelerating faster than traditional defences can handle. The blueprint urges organisations to patch critical vulnerabilities within hours, adopt zero-trust security models and prepare for increasingly automated, AI-assisted attacks targeting digital infrastructure, cloud systems and software supply chains.",
-        "url": "https://www.firstpost.com/tech/indias-cybersecurity-agency-sounds-alarm-on-ai-powered-attacks-urges-firms-to-patch-flaws-within-12-hours-14016099.html",
-        "image": "https://images.firstpost.com/uploads/2026/03/image-2026-03-193f25d387673df3d5aa3317998862cb-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-28T03:25:28Z",
-        "source": "Firstpost"
-      },
-      {
-        "title": "Proofpoint Introduces Active Exploits Protection to Help Organisations Prioritise Vulnerability Patching for Real-World Attacks in the AI Era",
-        "description": "New solution reduces exposure to actively exploited vulnerabilities in minutes by turning intelligence into immediate protection across primary attack paths. - Disrupts...",
-        "url": "https://itwire.com/business-it-news/security/proofpoint-introduces-active-exploits-protection-to-help-organisations-prioritise-vulnerability-patching-for-real-world-attacks-in-the-ai-era",
-        "image": "https://media.itwire.com/2026/05/28/proofpoint-introduces-active-exploits-protection-to-help-organisations-prioritise-vulnerability-patching-for-real-world-attacks-in-the-ai-era-beddd23e6d77.webp",
-        "publishedAt": "2026-05-28T03:21:20Z",
-        "source": "iTWire"
-      },
-      {
-        "title": "Micron (MU) and SanDisk (SNDK): Mizuho Joins the AI Memory Bull Parade, Here’s Why It Lifts Price Targets",
-        "description": "Memory stocks just got another big vote of confidence from Wall Street. After Barclays turned more bullish on the sector yesterday, top Mizuho a...",
-        "url": "https://markets.businessinsider.com/news/stocks/micron-mu-and-sandisk-sndk-mizuho-joins-the-ai-memory-bull-parade-here-s-why-it-lifts-price-targets-1036202171",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/image-2953.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-05-28T03:18:10Z",
-        "source": "Markets Insider"
-      },
-      {
-        "title": "generated shows for children",
-        "description": "Amazon MGM Studios announced Wednesday it has greenlit the first three children's shows that were created under a new initiative to use artificial intelligence (AI) in content development. AI Studios chief at Amazon MGM Albert Cheng told the conference that the technology won't eliminate jobs, it will actually reduce costs and timelines to make it possible to increase the number of productions.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-greenlights-ai-generated-shows-for-children/articleshow/131361817.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-69438,resizemode-75,msid-131361817/tech/artificial-intelligence/amazon-greenlights-ai-generated-shows-for-children.jpg",
-        "publishedAt": "2026-05-28T03:16:06Z",
+        "title": "Commodity upcycle: Why copper and aluminium could explode in coming quarters. Should Indians invest?",
+        "description": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transition demand, geopolitical disruptions and low inventories could drive a multi-year commodity upcycle, with MCX metals increasingly emerging as a key opportunity for Indian investors.",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-upcycle-why-copper-and-aluminium-could-explode-in-coming-quarters-should-indians-invest/articleshow/131363396.cms",
+        "image": "https://img.etimg.com/thumb/msid-131363387,width-1200,height-630,imgsize-153605,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-05-28T05:11:00Z",
         "source": "The Economic Times"
       }
     ]
