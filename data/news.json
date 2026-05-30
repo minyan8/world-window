@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-30T15:44:39.179Z",
+  "fetchedAt": "2026-05-30T16:38:55.698Z",
   "sections": {
     "world": [
       {
-        "title": "Do AI-generated images have any place in politics?",
-        "description": "The image of a humpback was posted on a social media page for Australian state politician Roma Britnell to mark the arrival of the first southern right whales of the whale-watching season.",
-        "url": "https://www.rnz.co.nz/news/world/596822/do-ai-generated-images-have-any-place-in-politics",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--tUf3d_H3--/t_tohu-badge-facebook/v1780095108/4JNTN5N_AI_whale_jpeg?_a=BACCd2AD",
-        "publishedAt": "2026-05-30T03:41:16Z",
-        "source": "RNZ"
-      },
-      {
-        "title": "Spending sprees and political paranoia: A recipe for",
-        "description": "Dear Editor,Last Tuesday, the Minister of Finance, Mulipola Anarosa Ale – Molio’o, tabled the Faatuatua i le Atua Samoa ua Tasi Government’s Budget Estimates totalling $1.2 billion, with estimated expenditures expected to exceed targeted revenues by $215 million, to be mysteriously financed by ne...",
-        "url": "https://www.samoaobserver.ws/category/letters/120208",
-        "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/dcd6c3dcc44bece028067fe7be2f5f4d.jpg",
-        "publishedAt": "2026-05-30T03:34:12Z",
-        "source": "Samoa Observer"
-      },
-      {
-        "title": "One in six Indian Schengen visa applications were rejected in 2025 - these countries denied the most",
-        "description": "In 2025, over 181,000 Schengen visa applications from India were rejected, resulting in a 15.8% non-issuance rate. While India was a major source market, visa outcomes varied significantly by destination. Slovenia had the highest rejection rate at 46.1%, while Germany and Switzerland remained more accessible with lower rates.",
-        "url": "https://economictimes.indiatimes.com/nri/visit/one-in-six-indian-schengen-visa-applications-were-rejected-in-2025-these-countries-denied-the-most/articleshow/131403370.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-181698,resizemode-75,msid-131403370/nri/visit/one-in-six-indian-schengen-visa-applications-were-rejected-in-2025-these-countries-denied-the-most.jpg",
-        "publishedAt": "2026-05-30T03:28:08Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "The radical power of African oral tradition",
-        "description": "THERE’S an old African proverb that says: “Until the lions have their own historians the history of the hunt will always glorify the hunter.”This came to mind last weekend when I watched a one woman performance of America, Who Hurt You? in Oxford by Sarah Jones.The Tony Award-winning comedian used multi-character monologues to explore the trauma that has beset the United States since, if we are to be honest, way before the far-right leadership the country has twice elected in the shape of Donald Trump.",
-        "url": "https://dev.morningstaronline.co.uk/article/radical-power-african-oral-tradition",
-        "image": "https://dev.morningstaronline.co.uk/sites/default/files/styles/wide/public/2026-05/RMcK%20piece%20webpic.jpg.webp?itok=ST2OEDlY",
-        "publishedAt": "2026-05-30T03:21:25Z",
-        "source": "Morning Star | The People’s Daily"
-      },
-      {
-        "title": "Trump’s doctor recommends he lose weight and exercise more but says he is in ‘excellent health’",
-        "description": "The White House released the results of President Donald Trump’s May physical late Friday evening, sharing a memo from his physician recommending he lose weight and exercise more while noting he is in excellent health.",
-        "url": "https://www.cnn.com/2026/05/29/politics/trumps-doctor-recommends-lose-weight-exercise-health",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-26t163252z-1428127509-rc24hlatv0j1-rtrmadp-3-usa-trump-health.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-05-30T03:21:00Z",
-        "source": "CNN"
-      },
-      {
-        "title": "The Greek minister who promoted an antisemitic book and became Europe’s loudest Zioni",
-        "description": "Adonis Georgiadis, Greece’s health minister, once apologized to the Jewish community for promoting an antisemitic book; today, the former TV bookseller and nationalist politician has become one of Europe’s fiercest voices against antisemitism and in support of Israel",
-        "url": "https://www.ynetnews.com/magazine/article/syx8ecpggl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/28/HJg3X9BxGx/HJg3X9BxGx_0_0_1280_720_0_large.jpg",
-        "publishedAt": "2026-05-30T03:12:56Z",
-        "source": "ynetnews"
-      },
-      {
-        "title": "Trump defers 'final determination' on draft deal with Iran",
-        "description": "US President Donald Trump on Friday deferred his \"final determination\" on a draft deal with Iran after meeting for about two hours with his national security team at the White House Situation Room.",
-        "url": "https://www.chinadailyasia.com/hk/article/634154",
-        "image": "https://www.chinadailyhk.com/upload/main/image/2026/05/30/ae94dcae48f13a534e17be860d642393.png",
-        "publishedAt": "2026-05-30T03:11:25Z",
-        "source": "chinadailyasia.com"
-      },
-      {
-        "title": "The deep, dark roots of unending US",
-        "description": "Washington’s relationship with Russia appears likely to continue its decades-long decline, with US Secretary of State Marco Rubio saying on May 22 that",
-        "url": "https://asiatimes.com/2026/05/the-deep-dark-roots-of-unending-us-russia-rivalry/",
-        "image": "https://asiatimes.com/wp-content/uploads/2026/05/Donald-Trump-Vladimir-Putin-US-Russia.jpg",
-        "publishedAt": "2026-05-30T03:10:53Z",
+        "title": "UN Security Council race turns Indo",
+        "description": "A quiet diplomatic battle is taking shape between the Philippines and Kyrgyzstan over the United Nations Security Council’s sole Asia-Pacific",
+        "url": "https://asiatimes.com/2026/05/un-security-council-race-turns-indo-pacific-vs-eurasia-clash/",
+        "image": "https://asiatimes.com/wp-content/uploads/2026/05/UN-Security-Council-Logo-.jpg",
+        "publishedAt": "2026-05-30T04:29:57Z",
         "source": "Asia Times"
+      },
+      {
+        "title": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
+        "description": "Pentagon chief also tells Singapore defence summit of ‘alarm’ at China’s military buildup but says US does not seek ‘needless confrontation’",
+        "url": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
+        "image": "https://i.guim.co.uk/img/media/8beb7786369353686089a37c7502d402c1506cde/478_358_6433_5146/master/6433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d28563b04fc5b2dcd122b02452bb1645",
+        "publishedAt": "2026-05-30T04:23:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "La Dialogue that US won't allow China to dominate Asia",
+        "description": "The US Defense Secretary addressed Asia's most important defence summit, but did not mention Taiwan as questions remain over a stalled weapons package.",
+        "url": "https://www.abc.net.au/news/2026-05-30/pete-hegseth-us-will-prevent-china-hegemony-shangri-la-dialogue/106740596",
+        "image": "https://live-production.wcms.abc-cdn.net.au/820419ccc95d29bd4f59c06b6510ddbb?impolicy=wcms_watermark_news&cropH=982&cropW=1746&xPos=120&yPos=346&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-30T04:22:34Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "77 children killed or injured in Lebanon in a week as violence continues despite ceasefire",
+        "description": "The figures, based on data from Lebanon’s Ministry of Public Health, were cited by spokesperson Ricardo Pires when he addressed journalists on Friday. He.",
+        "url": "https://eastleighvoice.co.ke/middle-east/359289/77-children-killed-or-injured-in-lebanon-in-a-week-as-violence-continues-despite-ceasefire",
+        "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/04/image1170x530cropped-62-1.jpg",
+        "publishedAt": "2026-05-30T04:22:02Z",
+        "source": "The Eastleigh Voice"
+      },
+      {
+        "title": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait",
+        "description": "'Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions,' Trump says",
+        "url": "https://www.rappler.com/world/middle-east/usa-iran-war-updates-may-30-2026/",
+        "image": "https://www.rappler.com/tachyon/2026/01/2026-01-07T223444Z_627251180_RC2SBEA20ART_RTRMADP_3_USA-TRUMP-UN-scaled.jpg",
+        "publishedAt": "2026-05-30T04:18:43Z",
+        "source": "Rappler"
+      },
+      {
+        "title": "Pakistan's largest city Karachi battles water crisis: Is the Indus Treaty freeze adding to the strain?",
+        "description": "As Pakistan grapples with growing water security concerns, nearly 70% of Karachi's population is facing supply disruptions, exposing the city's long-standing infrastructure and governance challenges.",
+        "url": "https://www.moneycontrol.com/world/pakistan-s-largest-city-karachi-battles-water-crisis-is-the-indus-treaty-freeze-adding-to-the-strain-article-13936230.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260423114410_Hindu-Pakistan.jpg",
+        "publishedAt": "2026-05-30T04:18:19Z",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "As Ebola scourges Congo, experts warn of link to eating wild animals",
+        "description": "For many in Congo and elsewhere in Central and West Africa, there is no shame in craving wild meat, a key part of the culture.",
+        "url": "https://apnews.com/article/ebola-congo-wild-meat-3ef8a5555bce331d1c0f9af50940e028",
+        "image": "https://dims.apnews.com/dims4/default/9f26d57/2147483647/strip/true/crop/5396x3595+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fcc%2F28d5fd4bf59c926b5e8c6e440dd3%2F20c135814cdc45a985a13979e9b69699",
+        "publishedAt": "2026-05-30T04:14:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "Russia Accused Over Drone That Hit Romanian Apartment Block, Putin Hits Back",
+        "description": "A drone that smashed into a Romanian apartment building set off furious condemnation of Russia by Romania and its NATO allies on Friday but President Vladimir Putin insisted there was no evidence to blame his country.",
+        "url": "https://thedefensepost.com/2026/05/30/romania-accused-russia-drone-strike/",
+        "image": "https://thedefensepost.com/wp-content/uploads/2026/05/AFP__20260529__B4ED69E__v1__JPEG__RomaniaReelsAfterResidentialBuildingHitByRussianDr.jpg",
+        "publishedAt": "2026-05-30T04:12:47Z",
+        "source": "The Defense Post"
       }
     ],
     "business": [
       {
-        "title": "Vertiv Holdings Stock: The AI Data Center Cooling Leader Still Has Momentum (NYSE:VRT)",
-        "description": "Vertiv (VRT) Q1 2026 earnings: 30% revenue growth, AI data center demand, and margin leverage. Read here for a detailed investment analysis.",
-        "url": "https://seekingalpha.com/article/4910216-vertiv-holdings-the-ai-data-center-cooling-leader-still-has-momentum",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220588451/image_2220588451.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-30T03:37:25Z",
+        "title": "MultiChoice strengthens dealer partnerships at engagement forum",
+        "description": "The Nation Newspaper MultiChoice strengthens dealer partnerships at engagement forum",
+        "url": "https://thenationonlineng.net/multichoice-strengthens-dealer-partnerships-at-engagement-forum/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2024/11/30093824/MultiChoice.jpg",
+        "publishedAt": "2026-05-30T04:32:20Z",
+        "source": "The Nation Newspaper"
+      },
+      {
+        "title": "Why I authored a coding book in Hausa - Hajara Yasmin",
+        "description": "Hajara-Yasmin Isa is a 27-year-old Hausa student researcher (PhD) in Computer Science at the University of Illinois, Urbana-Champaign under the advisory of Dr...",
+        "url": "https://dailytrust.com/why-i-authored-a-coding-book-in-hausa-hajara-yasmin/",
+        "image": "https://dailytrust.com/wp-content/uploads/2026/05/hajara.jpg",
+        "publishedAt": "2026-05-30T04:30:00Z",
+        "source": "Daily Trust"
+      },
+      {
+        "title": "Fuel, parking, cost of living: why Aucklanders are choosing the bus",
+        "description": "Patronage has returned to pre-pandemic levels, with cost-of-living pressures, rising fuel costs and a 35% surge in student travel driving Aucklanders back onto public transport.",
+        "url": "https://www.1news.co.nz/2026/05/30/fuel-parking-cost-of-living-why-aucklanders-are-choosing-the-bus/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/bus-fares-rose-from-february-1-drawing-mixed-responses-sourc-HX5Y4NIBMBBLXPZW35XDOYUQWY.jpg?auth=06114d4a0ecc8a46a919a43d71cbe5cbe732ef3176f6c579b91620162d79c937&quality=70&width=600&height=315&focal=649%2C317",
+        "publishedAt": "2026-05-30T04:25:56Z",
+        "source": "1News"
+      },
+      {
+        "title": "Excess Spending Keeps Inflation Above Target In April",
+        "description": "The conflict in the Middle East has pushed prices higher this year. The latest data from the Bureau of Economic Analysis suggests the worst of the price hikes may be in the rearview mirror.",
+        "url": "https://seekingalpha.com/article/4910228-excess-spending-keeps-inflation-above-target-in-april",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257930603/image_2257930603.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-30T04:25:00Z",
         "source": "Seeking Alpha"
       },
       {
-        "title": "Chasing billions: Indonesia’s commodity export crackdown sows confusion",
-        "description": "New export rules promise billions in recovered revenue, but analysts warn the ensuing chaos could cost more than the gains.",
-        "url": "https://www.scmp.com/week-asia/economics/article/3355346/chasing-billions-indonesias-commodity-export-crackdown-sows-confusion",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/29/1f889168-b735-4421-af3c-add8803c0200_4129e57d.jpg?itok=EuK7dzJN&v=1780056403",
-        "publishedAt": "2026-05-30T03:30:09Z",
-        "source": "South China Morning Post"
+        "title": "Lam Research Corporation (LRCX) Presents at Bernstein 42nd Annual Strategic Decisions Conference Transcript",
+        "description": "Lam Research Corporation (LRCX) Bernstein 42nd Annual Strategic Decisions Conference May 27, 2026 10:00 AM EDTCompany ParticipantsTimothy Archer -...",
+        "url": "https://seekingalpha.com/article/4909265-lam-research-corporation-lrcx-presents-at-bernstein-42nd-annual-strategic-decisions",
+        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "publishedAt": "2026-05-30T04:24:05Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Cronulla and Strathfield properties up for sale",
-        "description": "Three bidders registered, but only one raised a paddle at auction as buyers take a “wait and see” approach to property prices.",
-        "url": "https://www.smh.com.au/property/news/sole-bidder-wins-keys-to-1-1m-beachside-apartment-as-market-softens-20260529-p601wf.html",
-        "image": "https://static.ffx.io/images/$zoom_0.6533%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/5e6ead7ab3809ca945fb080f161b003db2fc746f",
-        "publishedAt": "2026-05-30T03:30:00Z",
-        "source": "SMH.com.au"
+        "title": "Barito Group Rally Helps Limit JCI Losses",
+        "description": "The Jakarta Composite Index fell 0.56% in a holiday-shortened week as foreign investors sold Rp 8.52 trillion worth of stocks.",
+        "url": "https://jakartaglobe.id/business/barito-group-rally-helps-limit-jci-losses",
+        "image": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2026/04/1775093306-5000x3333.webp",
+        "publishedAt": "2026-05-30T04:20:00Z",
+        "source": "Jakarta Globe"
       },
       {
-        "title": "Get Hummer At The Price Of Fortuner!",
-        "description": "Always dreamt of owning a Hummer? Well, this dream can finally come true as we have a found a Hummer at just Rs 55 Lakh!",
-        "url": "https://motoroctane.com/news/314287-get-hummer-at-the-price-of-fortuner",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/05/Untitled-design-91.jpg",
-        "publishedAt": "2026-05-30T03:30:00Z",
-        "source": "MotorOctane"
+        "title": "BSP projects May inflation at 7.1% to 7.9% amid food, forex pressures",
+        "description": "The Bangko Sentral ng Pilipinas said that headline inflation in May could range from 7.1% to 7.9% as higher food prices and peso depreciation continue to weigh on consumer costs.",
+        "url": "https://www.philstar.com/business/2026/05/30/2531635/bsp-projects-may-inflation-71-79-amid-food-forex-pressures",
+        "image": "https://media.philstar.com/photos/2026/05/30/market-quezon-city_2026-05-30_12-04-33.jpg",
+        "publishedAt": "2026-05-30T04:07:00Z",
+        "source": "Philstar.com"
       },
       {
-        "title": "Nigerian Breweries appoints Runsewe as Human Resources Director",
-        "description": "Nigerian Breweries Plc has announced the appointment of Nkechi Runsewe as the new Human Resources Director of the company effective August 1, 2026.",
-        "url": "https://guardian.ng/news/nigeria/metro/nigerian-breweries-appoints-runsewe-as-human-resources-director/",
-        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/fast2296.webp",
-        "publishedAt": "2026-05-30T03:29:22Z",
-        "source": "The Guardian Nigeria News"
-      },
-      {
-        "title": "MTN Empowers Nigerian Youth-led Startups With N45m",
-        "description": "MTN Nigeria has awarded N45 million to selected youth-led startups operating in sectors such as health technology, fintech, education,",
-        "url": "https://guardian.ng/news/mtn-empowers-nigerian-youth-led-startups-with-n45m/",
-        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/IMG_7691.jpg",
-        "publishedAt": "2026-05-30T03:29:21Z",
-        "source": "The Guardian Nigeria News"
-      },
-      {
-        "title": "PH insurance market among Asia’s fastest-growing, Allianz says",
-        "description": "The Philippine insurance industry emerged as one of the fastest-growing markets in Asia in 2024, posting double-digit expansion as demand for protection products accelerated and life insurance staged a strong recovery, according to Allianz Research’s latest Global Insurance Report.",
-        "url": "https://insiderph.com/ph-insurance-market-among-asias-fastest-growing-allianz-says",
-        "image": "https://insiderph.com/uploads/articles/thumb_1780110801153_6f9ml8hgq0yizpdskcjv-800x600.webp?v=1",
-        "publishedAt": "2026-05-30T03:26:36Z",
-        "source": "InsiderPH"
-      },
-      {
-        "title": "PAL welcomes arrival of second Airbus A350-1000 aircraft",
-        "description": "MANILA, Philippines — Flag carrier Philippine Airlines (PAL) received its second Airbus A350-1000 as part of the Lucio Tan-led airline 's continuing fleet modernization program.",
-        "url": "https://www.manilatimes.net/2026/05/30/business/pal-welcomes-arrival-of-second-airbus-a350-1000-aircraft/2354909",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-05-30T03:13:00Z",
-        "source": "The Manila Times"
+        "title": "Big-time pump price rollback seen next week",
+        "description": "Motorists should expect a sigh of relief as heftier cuts in pump prices are expected to be implemented by fuel retailers in the first week of June.",
+        "url": "https://www.gmanetwork.com/news/money/economy/989555/diesel-gasoline-rollback/story/",
+        "image": "https://images.gmanews.tv/webpics/2026/03/fuel_2026_03_23_14_16_22.jpg",
+        "publishedAt": "2026-05-30T04:04:56Z",
+        "source": "GMA Network"
       }
     ],
     "science": [
+      {
+        "title": "PKM2-driven glycolysis mediates rotenone neurotoxicity via MG-Hs in Parkinson’s disease",
+        "description": "Parkinson’s disease (PD) is a progressive neurodegenerative disorder lacking disease-modifying therapies. Rotenone (Rot) is widely used to model PD, but its neurotoxicity is not fully understood beyond mitochondrial complex I inhibition. Here, we identify a glycolytic mechanism that contributes to Rot-induced neuronal damage downstream of complex I inhibition. Our in vitro data demonstrate that Rot enhances glycolytic flux, leading to accumulation of methylglyoxal-derived hydroimidazolones (MG-Hs), which drive irreversible cellular damage. Shikonin effectively attenuates Rot-induced apoptosis by inhibiting PKM2, thereby suppressing glycolysis and reducing MG-Hs formation. In a rat model, shikonin robustly improves motor function and preserves nigrostriatal dopaminergic neurons. Collectively, our findings reveal a previously unrecognized glycolytic-mediated pathway involving PKM2-driven glycolysis and MG-Hs accumulation that contributes to rotenone neurotoxicity alongside mitochondrial dysfunction, and highlight shikonin as a promising neuroprotective agent for Parkinson’s disease intervention.",
+        "url": "https://www.nature.com/articles/s41598-026-54865-7?error=cookies_not_supported&code=b69f7b60-cb22-40b1-b5f4-614fe9d0ae07",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-30T04:36:53Z",
+        "source": "Nature"
+      },
+      {
+        "title": "A day on Earth is described as 24 hours, but the planet has been slowing down for billions of years — and growth rings in ancient coral fossils show that 380 million years ago, hundreds of millions of",
+        "description": "The length of a day on Earth is not constant. The planet’s rotation has been slowing for billions of years, primarily because tidal friction transfers rotational energy from Earth to the Moon, which slowly moves outward to a higher orbit. The current rate of slowdown is small but measurable. According to the Wikipedia summary of […]",
+        "url": "https://spacedaily.com/d-a-day-on-earth-is-described-as-24-hours-but-the-planet-has-been-slowing-down-for-billions-of-years-and-growth-rings-in-ancient-coral-fossils-show-that-380-million-years-ago-hundreds-of-mil/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-30T095546.978.png",
+        "publishedAt": "2026-05-30T04:15:05Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Don’t Miss May’s ‘Blue Moon’ Rise Tonight - Exact Times For Saturday",
+        "description": "The second full moon of May rises this weekend — here’s exactly when and where to see the so-called Blue Moon at its best.",
+        "url": "https://ca.news.yahoo.com/don-t-miss-may-blue-041500823.html",
+        "image": "https://s.yimg.com/os/en/forbes_contributor_845/dbe0522e15f969957349f39804dad388",
+        "publishedAt": "2026-05-30T04:15:00Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "Don’t Miss May’s ‘Blue Moon’ Rise Tonight - Exact Times For Saturday",
+        "description": "The second full moon of May rises this weekend — here’s exactly when and where to see the so-called Blue Moon at its best.",
+        "url": "https://www.forbes.com/sites/jamiecartereurope/2026/05/30/dont-miss-mays-blue-moon-rise-tonight---exact-times-for-saturday/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/616f3c836f4812d3b3c774b5/0x0.jpg?format=jpg&crop=5531,3109,x0,y197,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-30T04:15:00Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "Biochemistry of Stress, Sexual Issues in Model Organisms",
+        "description": "Tokyo, Japan – Scientists from Tokyo Metropolitan University have revealed key parts of the biochemical pathways connecting stress to sexual",
+        "url": "https://www.miragenews.com/biochemistry-of-stress-sexual-issues-in-model-1683333/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1583912372325-0c5be28e3590%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D753%26amp%3Bq%3D80",
+        "publishedAt": "2026-05-30T04:08:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Moon phase today explained: What the Moon will look like on May 30, 2026",
+        "description": "See the Moon phase expected for May 30, 2026 as well as when the next Full Moon is expected.",
+        "url": "https://mashable.com/science/moon-phase-today-may-30",
+        "image": "https://helios-i.mashable.com/imagery/articles/07lOULXo4Gw0JUH8YhJhkdX/hero-image.fill.size_1200x675.v1779881369.jpg",
+        "publishedAt": "2026-05-30T04:02:43Z",
+        "source": "Mashable"
+      },
       {
         "title": "Ocean Acidification",
         "description": "Ocean acidification is the lowering of the pH level in the ocean. The increased acidity in the ocean is mainly due to higher levels of carbon dioxide.",
@@ -150,120 +198,72 @@
         "image": "https://en.clickpetroleoegas.com.br/wp-content/uploads/2026/05/microscopic-fossils-17-billion-years-old-found-in.jpeg",
         "publishedAt": "2026-05-30T02:53:00Z",
         "source": "CPG Click Petróleo e Gás"
-      },
-      {
-        "title": "There is a region of space called the Boötes void, around 330 million light years wide and almost completely empty, and if our galaxy sat at its centre, we might not have discovered that other galaxie",
-        "description": "In the direction of the constellation Boötes there is a roughly spherical region of space, around 330 million light-years across, in which almost nothing is found. It is called the Boötes Void, sometimes the Great Void, and it is one of the largest known empty regions in the observable universe. Its centre lies about 700 […]",
-        "url": "https://spacedaily.com/t-there-is-a-region-of-space-called-the-bootes-void-around-330-million-light-years-wide-and-almost-completely-empty-and-if-our-galaxy-sat-at-its-centre-we-might-not-have-discovered-that-other-galaxie/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-29T204305.962.png",
-        "publishedAt": "2026-05-30T02:40:01Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "National-scale acoustic monitoring of avian biodiversity and migration",
-        "description": "Billions of birds migrate annually, triggered by endogenous behaviors but also by ecoclimatic drivers which are shifting with climate change. These dynamics play out over huge spatiotemporal scales, making monitoring of phenology challenging with traditional biodiversity survey approaches. In this study, over a complete spring migration season (April through June), we collected 37,429 hours of audio from 28 networked sensors in forests across Norway using a nationwide passive acoustic monitoring (PAM) system. We applied an open-source detection algorithm to automatically classify bird vocalizations; through expert validation we found the algorithm classified 57 species (14 full migrants) with at least 80% precision. Using these automated detections, we developed regional arrival curves for three common migratory passerines: Willow Warbler, Common Chiffchaff, and Spotted Flycatcher. We then demonstrate that PAM detections can be used to train audio species distribution models that map how species vocalization probability changes across Norway during spring migration. Lastly, we discuss how PAM can complement existing manual surveys to support the design and implementation of effective policy and conservation measures. National-scale acoustic monitoring of avian species in Norway reveals migratory species arrival patterns, demonstrating how networked sensors and machine learning can complement traditional surveys to track phenology at a nationwide scale.",
-        "url": "https://www.nature.com/articles/s42003-026-10389-4?error=cookies_not_supported&code=6528e175-e76b-4c03-a2fc-492926903492",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-05-30T01:59:42Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Neanderthals used rhinoceros teeth as ancient tools, study suggests",
-        "description": "Dental microwear analysis, which allows for the microscopic study of surface textures, confirmed that the marks were made after the animals' deaths, ruling out chewing or dietary wear and tear.",
-        "url": "https://www.jpost.com/archaeology/article-897761",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723325",
-        "publishedAt": "2026-05-30T01:51:00Z",
-        "source": "The Jerusalem Post"
-      },
-      {
-        "title": "Li, Hu, Zou et al. 2026 Study Examines Rainfall Erosion Process on Soil Slopes",
-        "description": "A recent study by researchers Li, Hu, Zou, and colleagu […]",
-        "url": "https://www.geneonline.com/li-hu-zou-et-al-2026-study-examines-rainfall-erosion-process-on-soil-slopes/",
-        "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
-        "publishedAt": "2026-05-30T01:42:15Z",
-        "source": "geneonline.com"
-      },
-      {
-        "title": "The Sun Just Let Out The Longest Radio Burst We've Ever Seen",
-        "description": "The Sun is not known for being quiet.",
-        "url": "https://www.sciencealert.com/the-sun-just-let-out-the-longest-radio-burst-weve-ever-seen",
-        "image": "https://www.sciencealert.com/images/2026/05/the-sun-nasa.jpg",
-        "publishedAt": "2026-05-30T01:03:56Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "Recent analysis shows Neanderthals may have been first dentists in recorded history",
-        "description": "60,000-year-old dental procedure blurs line between humans and Neanderthals.",
-        "url": "https://www.scmp.com/news/people-culture/environment/article/3355288/recent-analysis-shows-neanderthals-may-have-been-first-dentists-recorded-history",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/29/527ebfa6-349d-4f60-8711-9bf8e461da4e_7bca9065.jpg?itok=NMsMeph0&v=1780038676",
-        "publishedAt": "2026-05-30T01:00:10Z",
-        "source": "South China Morning Post"
       }
     ],
     "ai": [
       {
-        "title": "5 world market themes for the week ahead",
-        "description": "Global markets are keenly watching U.S.-Iran ceasefire talks and the Strait of Hormuz, alongside crucial U.S. jobs data and euro zone inflation figures. India's rupee faces pressure, while Colombia heads to the polls. Meanwhile, the AI-driven tech sector continues its impressive growth, adding new trillion-dollar companies.",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/131403517.cms",
-        "image": "https://img.etimg.com/thumb/msid-131403527,width-1200,height-630,imgsize-77562,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-05-30T03:43:00Z",
-        "source": "The Economic Times"
+        "title": "Nvidia chief executive Jensen Huang expected to visit South Korea",
+        "description": "Huang's visit comes as a global artificial intelligence boom drives strong demand for Samsung Electronics and SK hynix memory chips, helping support South Korea's economic growth and stock market rally.",
+        "url": "https://www.channelnewsasia.com/east-asia/nvidia-chief-executive-jensen-huang-expected-visit-south-korea-6151131",
+        "image": "https://dam.mediacorp.sg/image/upload/s---zl4I_oU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/30/000_b44u7bc.jpg?itok=JxfdSrpu",
+        "publishedAt": "2026-05-30T04:39:00Z",
+        "source": "CNA"
       },
       {
-        "title": "Vertiv Holdings Stock: The AI Data Center Cooling Leader Still Has Momentum (NYSE:VRT)",
-        "description": "Vertiv (VRT) Q1 2026 earnings: 30% revenue growth, AI data center demand, and margin leverage. Read here for a detailed investment analysis.",
-        "url": "https://seekingalpha.com/article/4910216-vertiv-holdings-the-ai-data-center-cooling-leader-still-has-momentum",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220588451/image_2220588451.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-30T03:37:25Z",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "American billionaire Mark Cuban sees ‘deep trouble’ for Sam Altman’s OpenAI; says: Numbers they are talking about are not going to come as …",
-        "description": "Tech News News: American billionaire and for Shark Tank investor Mark Cuban has sounded an alarm on OpenAI’s massive fundraising spree, saying the company may be in ‘.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-sees-deep-trouble-for-sam-altmans-openai-says-numbers-they-are-talking-about-are-not-going-to-come-as-/articleshow/131403395.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131403389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-30T03:30:00Z",
+        "title": "'The Book of Life' director Jorge Gutierrez \"drops out\" from directing AI series",
+        "description": "Filmmaker Jorge Gutierrez decided to \\\"drop out\\\" from making an 'AI' series at Amazon.'The Book of Life' director wrote on social media on Friday that .",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-book-of-life-director-jorge-gutierrez-drops-out-from-directing-ai-series/articleshow/131403944.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131403958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-30T04:39:00Z",
         "source": "Times of India"
       },
       {
-        "title": "‘AI is like a child’ narrative dangerously obscures technology’s real-world implications",
-        "description": "Such framing depoliticises AI and displaces attention from profit-focused decisions and corporate accountability for the environment and labour.",
-        "url": "https://scroll.in/article/1092844/ai-is-like-a-child-narrative-dangerously-obscures-technologys-real-world-implications",
-        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/213602-pidufavyqi-1779722353.jpg",
-        "publishedAt": "2026-05-30T03:30:00Z",
-        "source": "Scroll.in"
+        "title": "Free app 'gives parents peace of mind' about their kids online safety",
+        "description": "Mumsnet and UK tech brand SafetyMode have teamed up to launch a new AI-powered child safety app to protect kids without feeling overbearing or restrictive",
+        "url": "https://www.dailystar.co.uk/real-life/free-app-created-mumsnet-gives-37218047",
+        "image": "https://i2-prod.dailystar.co.uk/article37218046.ece/ALTERNATES/s1200d/0_Close-up-of-a-teenage-boy-using-technology.jpg",
+        "publishedAt": "2026-05-30T04:33:00Z",
+        "source": "The daily Star"
       },
       {
-        "title": "Unlimited curiosity, uncertain outcomes: The risks of AI-augmented mass inquiry",
-        "description": "Whether this era becomes a renaissance, a period of disorder, or the familiar mixture of both that follows every information revolution will depend less on AI itself than on decisions being made now, often by people who have not yet grasped the scale of the shift",
-        "url": "https://www.firstpost.com/opinion/how-ai-is-transforming-human-curiosity-and-society-14016887.html",
-        "image": "https://images.firstpost.com/uploads/2026/05/MC-BC-2026-05-a16675d438534bcd2b8747308acc8aa3-1200x675.jpeg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-05-30T03:06:24Z",
-        "source": "Firstpost"
+        "title": "Bank Of Italy Reaches Out To AI Giants As Claude Mythos Poses Cybersecurity Risks",
+        "description": "Claude Mythos is viewed as a significant risk by financial institutions and regulatory bodies, prompting the Bank of Italy to initiate urgent discussions with AI firms before advanced models enter the financial sector., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/bank-of-italy-reaches-out-to-ai-giants-as-claude-mythos-poses-cybersecurity-risks-article-154430745",
+        "image": "https://images.timesnownews.com/thumb/msid-154430745,width-1280,height-720,resizemode-75/154430745.jpg",
+        "publishedAt": "2026-05-30T04:31:06Z",
+        "source": "Times Now"
       },
       {
-        "title": "If coding becomes automated, then why are we needed at all: Infosys chairman Nandan Nilekani answers",
-        "description": "Nilekani's comments come on the back of new rollouts by AI-native firms including Anthropic and OpenAI almost on a bi-weekly basis",
-        "url": "https://www.livemint.com/companies/if-coding-becomes-automated-then-why-are-we-needed-at-all-infosys-chairman-nandan-nilekani-answers-11780107973704.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/US-ECONOMY-BUSINESS-FINANCE-FORUM-SUMMIT-3_1719751480174_1780110201188_1ffab529-89be-4efb-88fe-999ba90356cc.jpg",
-        "publishedAt": "2026-05-30T03:03:52Z",
-        "source": "Livemint"
+        "title": "Meta plans AI pendant, 'wearables for work' in hardware boost: Report",
+        "description": "Meta Platforms plans ​to start testing an AI pendant in ‌the next year, as it ​charts a roadmap for ⁠wearable devices in an effort to reverse losses in its hardware division, The ‌Information reported",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/article71040133.ece",
+        "image": "https://th-i.thgim.com/public/incoming/c6m57t/article71040135.ece/alternates/LANDSCAPE_1200/2026-05-20T194323Z_1921733605_RC27DLA84ZUI_RTRMADP_3_TECH-AI-META-LAYOFFS.JPG",
+        "publishedAt": "2026-05-30T04:27:35Z",
+        "source": "The Hindu"
       },
       {
-        "title": "AI giants make aggressive India pitches",
-        "description": "India News: MUMBAI: The India heads of AI world's arch-rivals Anthropic and OpenAI took to the stage at the annual Tech Week here, pitching their suite of product.",
-        "url": "https://timesofindia.indiatimes.com/india/ai-giants-make-aggressive-india-pitches/articleshow/131403152.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131403162,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-30T03:03:00Z",
-        "source": "Times of India"
+        "title": "Dell shocks Wall Street with booming AI server sales. Where analysts see it headed next",
+        "description": "Dell reported blowout fiscal first quarter results on Thursday thanks to booming AI server demand, leading many analysts to raise their price targets.",
+        "url": "https://www.cnbctv18.com/market/stocks/dell-shocks-wall-street-with-booming-ai-server-sales-where-analysts-see-it-headed-next-19916105.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/05/images_1780114978-scaled.jpeg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-05-30T04:26:02Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "AI will be used to estimate age of asylum seekers from next year",
-        "description": "LONDON  -  An Artificial Intelligence (AI) age estimation tool that aims to detect adult migrants posing as children will be deployed at the UK’s borders",
-        "url": "https://www.nation.com.pk/30-May-2026/ai-will-used-estimate-age-asylum-seekers-next-year",
-        "image": "https://www.nation.com.pk/print_images/large/2026-05-30/ai-will-used-estimate-age-asylum-seekers-next-year-1780110203-1278.jpg",
-        "publishedAt": "2026-05-30T03:03:00Z",
-        "source": "The Nation"
+        "title": "OpenAI's Thomas Jeng amid rising AI cost",
+        "description": "India is among OpenAI Codex’s top five markets globally in terms of adoption --  growing 27X since the beginning of 2026.",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/companies-don-t-need-frontier-intelligence-for-every-aspect-of-workflow-openai-s-thomas-jeng-amid-rising-ai-cost-article-13936237.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530042114_Thomas-Jeng.jpg",
+        "publishedAt": "2026-05-30T04:22:13Z",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "Creality Charts Next Decade as AI-Powered Consumer 3D Creative Platform, Hong Kong listing anchors the company's full-stack ecosystem shift",
+        "description": "HONG KONG, May 30, 2026 /PRNewswire/ -- As an emerging segment at the intersection of intelligent manufacturing and creative consumption, the global consumer 3D printing industry has become one of the fastest-growing markets in consumer technology. According to China Insights Industry Consultancy Limited ('CIC'), the global consumer 3D printing market reached US$6.0 billion in GMV in 2025 and is projected to grow to US$27.2 billion by 2030, a compound annual growth rate of 33.2%. With its product innovation, global channel network and AI-powered creative ecosystem, Creality has secured a defining position in the global consumer 3D printing value chain, and reached a new capital markets milestone.",
+        "url": "https://www.manilatimes.net/2026/05/30/tmt-newswire/pr-newswire/creality-charts-next-decade-as-ai-powered-consumer-3d-creative-platform-hong-kong-listing-anchors-the-companys-full-stack-ecosystem-shift/2354912",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/30/1077994.jpg",
+        "publishedAt": "2026-05-30T04:20:26Z",
+        "source": "The Manila Times"
       }
     ]
   }
