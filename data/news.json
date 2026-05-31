@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-31T07:34:57.805Z",
+  "fetchedAt": "2026-05-31T09:22:32.081Z",
   "sections": {
     "world": [
       {
-        "title": "‘It’s really scary’: Trump administration green card messaging prompts confusion and anxiety",
-        "description": "A Trump administration directive announced last week threatened to require most applicants for permanent residency to wait out the process in their home country.",
-        "url": "https://www.cnn.com/2026/05/30/politics/trump-green-card-messaging",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-904259804.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-05-30T19:34:56Z",
-        "source": "CNN"
+        "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
+        "description": "President Trump has not yet decided whether he'll extend a ceasefire with Iran, and Israel continues to attack targets in Lebanon, in spite of a ceasefire there.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5839359",
+        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "publishedAt": "2026-05-30T21:08:43Z",
+        "source": "NPR"
       },
       {
-        "title": "Hegseth outlines bigger US role for New Delhi in Indo-Pacific",
-        "description": "Hegseth also credited Trump with helping bring about the cessation of hostilities between India and Pakistan after their four-day confrontation in May 2025.",
-        "url": "https://indianexpress.com/article/world/india-is-powerful-modernising-its-military-hegseth-at-shangri-la-even-as-us-sounds-alarm-on-china-10715452/",
-        "image": "https://images.indianexpress.com/2026/05/pete-hegseth-1.jpg",
-        "publishedAt": "2026-05-30T19:32:00Z",
-        "source": "The Indian Express"
+        "title": "Dozens arrested in Paris clashes on PSG victory night: police",
+        "description": "Police on Saturday arrested dozens of people in clashes that erupted in the French capial as thousands poured onto the streets during Paris Saint-Germain's Champions League final victory.",
+        "url": "https://www.france24.com/en/live-news/20260530-dozens-arrested-in-paris-clashes-on-psg-victory-night-police",
+        "image": "https://s.france24.com/media/display/86c680f4-5c6b-11f1-8c22-005056bf30b7/w:1280/p:16x9/6afe8e09ac7522e3b76a379dfd8603abf77dacc8.jpg",
+        "publishedAt": "2026-05-30T21:07:12Z",
+        "source": "France 24"
       },
       {
-        "title": "Mark Kenny: Pope Leo XIV's encyclical on AI reflects humanity's future",
-        "description": "Pope Leo XIV's Magnifica Humanitas addresses AI's threat to humanity. Discover his call for common cause against technology's 'messianic dreams'.",
-        "url": "https://www.canberratimes.com.au/story/9258970/mark-kenny-pope-leo-xivs-encyclical-on-ai-reflects-humanitys-future/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/pMXRnDj3SUU44AkPpn97sC/2b9141e9-4e86-4407-bfce-d85f7e0d8e08.jpg/r0_20_1920_1028_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-05-30T19:30:43Z",
-        "source": "The Canberra Times"
+        "title": "Somalia: Laftagaren forces briefly seize Baidoa after gunfight with army",
+        "description": "Somalia security crisis worsens as forces loyal to ousted leader Abdiasis Laftagaren briefly seize Baidoa, challenging Mogadishu’s federal control.",
+        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-fighting/",
+        "image": "https://www.somaliguardian.com/wp-content/uploads/2025/02/7-1-1024x577.jpg",
+        "publishedAt": "2026-05-30T20:58:47Z",
+        "source": "Somali Guardian"
       },
       {
-        "title": "Rosaries made by cloistered nuns to accompany Pope in Spain",
-        "description": "Ten contemplative monasteries are preparing thousands of rosaries for Pope Leo XIV’s apostolic visit to Spain. The small hand-crafted objects are born ...",
-        "url": "https://www.vaticannews.va/en/church/news/2026-05/spain-apostolic-visit-pope-leo-rosaries-cloistered-communities.html",
-        "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/28/Monasteri-1AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-        "publishedAt": "2026-05-30T19:26:05Z",
-        "source": "Vatican News"
+        "title": "'It's like a decaying body': Australia farmers battle mouse plague",
+        "description": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
+        "url": "https://www.bbc.co.uk/news/articles/c794g80lw74o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e112/live/4565aa80-5b09-11f1-8f67-b1eb7a0ac68a.jpg",
+        "publishedAt": "2026-05-30T20:58:05Z",
+        "source": "BBC"
       },
       {
-        "title": "Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department",
-        "description": "Investigation to establish whether ‘anti-weaponization’ fund is ‘product of collusion and itself a fraud’",
-        "url": "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened",
-        "image": "https://i.guim.co.uk/img/media/d5d032160108a36e9651a0374e1e9b3da65c90d5/663_0_3745_2997/master/3745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73e0d82caae9fa09a3edb0620140c709",
-        "publishedAt": "2026-05-30T19:25:00Z",
-        "source": "The Guardian"
+        "title": "Typhoon fighter replacement faces years of delay",
+        "description": "RAF could be waiting until 2040s for £12bn fleet of ‘next-generation’ Tempest jets",
+        "url": "https://www.telegraph.co.uk/news/2026/05/30/typhoon-fighter-replacement-years-delay/",
+        "image": "https://www.telegraph.co.uk/content/dam/news/2026/05/30/TELEMMGLPICT000464616492_17801709795050_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2026-05-30T20:51:00Z",
+        "source": "The Telegraph"
       },
       {
-        "title": "Minhas' record-breaking debut sets up handsome Pakistan victory",
-        "description": "PAK vs AUS 2026, Pakistan vs Australia Match Report: Renshaw and Short scored half-centuries but Australia could only post 200 against the home side's spinners",
-        "url": "https://www.espncricinfo.com/series/australia-in-pakistan-2026-1535643/pakistan-vs-australia-1st-odi-1535645/match-report",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/417600/417628.6.jpg",
-        "publishedAt": "2026-05-30T19:23:28Z",
-        "source": "ESPNcricinfo"
+        "title": "US says it struck ship trying to breach blockade and reach Iran",
+        "description": "US forces have yet to board vessel, which remains adrift in Gulf of Oman; six ships halted, one allowed to pass, and another 116 ships have been redirected since start of blockade",
+        "url": "https://www.timesofisrael.com/us-says-it-struck-ship-trying-to-breach-blockade-and-reach-iran/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260518__B3732WF__v2__HighRes__OmanIranUsIsraelWarHormuz.jpg",
+        "publishedAt": "2026-05-30T20:51:00Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "WMO: Predicted El Niño increases chance of 2027 being next record",
-        "description": "The Climate Centre supports the Red Cross and Red Crescent Movement and its partners in reducing the impacts of climate change and extreme weather events on vulnerable people.",
-        "url": "https://www.climatecentre.org/17301/wmo-predicted-el-nino-increases-chance-of-2027-being-next-record-breaking-warm-year/",
-        "image": "https://www.climatecentre.org/wp-content/uploads/55098972998_157db2d760_o.jpg",
-        "publishedAt": "2026-05-30T19:18:49Z",
-        "source": "Red Cross Red Crescent Climate Centre"
+        "title": "Pope Leo XIV: Our world is more divided, but shared humanity unites us",
+        "description": "The pontiff addressed members of the Centesimus Annus Pro Pontifice Foundation on May 30.",
+        "url": "https://www.catholicworldreport.com/2026/05/30/pope-leo-xiv-our-world-is-more-divided-but-shared-humanity-unites-us/",
+        "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,w_3840,h_2160,g_auto/f_auto/q_80/v1/ewtn-news/en/_MAT7780_ejj6xw.jpg?_a=BAVMn6E70",
+        "publishedAt": "2026-05-30T20:44:23Z",
+        "source": "Catholic World Report"
       },
       {
-        "title": "Minhas’ five-wicket haul on ODI debut earns Pakistan five-wicket win over Australia",
-        "description": "Australia struggled to live with the 21-year-old debutant’s canny line and flight as he became the first Pakistan player to bank a five-for on his ODI debut.",
-        "url": "https://www.smh.com.au/sport/cricket/minhas-five-wicket-haul-on-odi-debut-earns-pakistan-five-wicket-win-over-australia-20260531-p602c2.html",
-        "image": "https://static.ffx.io/images/$zoom_0.26199901039089557%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/45f503803050ff0203ec941e652b47c326f20ecc",
-        "publishedAt": "2026-05-30T19:18:36Z",
-        "source": "SMH.com.au"
+        "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+        "description": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
+        "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/eb63/live/ba67e470-5c61-11f1-aeb2-75cc9209ef5d.jpg",
+        "publishedAt": "2026-05-30T20:40:07Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "These are the names of BC Ferries' future four largest ships, built in China",
-        "description": "BC Ferries' future New Major Vessels built by a China shipyard will be called the Summit class, with each ship carrying a tree-inspired name.",
-        "url": "https://dailyhive.com/vancouver/bc-ferries-new-major-vessels-summit-class-ship-names",
-        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/05/bc-ferries-summit-arbutus-f1.jpg?format=auto",
-        "publishedAt": "2026-05-30T19:27:00Z",
-        "source": "Daily Hive"
+        "title": "Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17%",
+        "description": "UiPath delivers automation software and AI-driven solutions to streamline enterprise workflows across major global industries.",
+        "url": "https://www.fool.com/coverage/filings/2026/05/30/why-this-fund-dumped-usd35-million-of-uipath-even-as-revenue-grew-17/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6f699693a3501babe6eb40aac5d3061bf74bda96-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "publishedAt": "2026-05-30T21:19:22Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Communities in eastern Ontario, western Quebec lose power following strong winds Friday night",
-        "description": "Crews have been working throughout Saturday to restore power to communities across eastern Ontario and western Quebec following strong winds the night before.",
-        "url": "https://www.cbc.ca/news/canada/ottawa/power-outages-strong-winds-9.7218020",
-        "image": "https://i.cbc.ca/ais/5a9f8e47-30a7-4aa4-98e9-5652abf4ff2d,1780166975972/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C48%2C512%2C288%29%3BResize%3D620",
-        "publishedAt": "2026-05-30T19:24:45Z",
-        "source": "CBC"
+        "title": "AST SpaceMobile (ASTS) Is Up 7.1% After Blue Origin Launch Setback Spurs Execution-Risk Downgrade",
+        "description": "Earlier this month, AST SpaceMobile was hit by the fallout from a Blue Origin New Glenn rocket explosion, which damaged the launch pad and raised fresh questions about the timing of future BlueBird satellite launches, prompting a downgrade from Deutsche Bank on execution risk grounds.\nThe incident highlights how AST SpaceMobile’s ambitious plan to scale a direct-to-phone satellite network depends not only on technology and demand, but also on reliable access to multiple launch...",
+        "url": "https://simplywall.st/stocks/us/telecom/nasdaq-asts/ast-spacemobile/news/ast-spacemobile-asts-is-up-71-after-blue-origin-launch-setba",
+        "image": "https://images.simplywall.st/asset/industry/9031000-choice2-main-header/1585186861487",
+        "publishedAt": "2026-05-30T21:17:40Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Lotto results LIVE: Winning National Lottery numbers for Saturday, May 30",
-        "description": "The winning National Lottery numbers for tonight's Lotto and Thunderball draws",
-        "url": "https://www.chroniclelive.co.uk/news/uk-news/lotto-results-live-winning-national-34038977",
-        "image": "https://i2-prod.chroniclelive.co.uk/article33185348.ece/ALTERNATES/s1200d/2_National-Lottery-report.jpg",
-        "publishedAt": "2026-05-30T19:23:09Z",
-        "source": "Chronicle Live"
+        "title": "Green Cross Health (NZSE:GXH) Margin Reset Challenges Bullish Earnings Rebound Narrative",
+        "description": "Green Cross Health (NZSE:GXH) has kicked off FY 2026 with first half revenue of NZ$264.4 million and basic EPS of NZ$0.05, set against trailing 12 month revenue of NZ$546.0 million and EPS of NZ$0.1419 that reflects 27.7% year on year earnings growth and a net profit margin of 3.7%. Over the past two reported half years, revenue has moved from NZ$259.9 million in 1H FY 2025 to NZ$263.9 million in 2H FY 2025 and now NZ$264.4 million in 1H FY 2026, while basic EPS has shifted from NZ$0.0393 to...",
+        "url": "https://simplywall.st/stocks/nz/consumer-retailing/nzx-gxh/green-cross-health-shares/news/green-cross-health-nzsegxh-margin-reset-challenges-bullish-e",
+        "image": "https://images.simplywall.st/asset/industry/5021000-choice2-main-header/1585187320441",
+        "publishedAt": "2026-05-30T21:17:35Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "With all the new tax changes, is it time to start an SMSF?",
-        "description": "The CGT and trust changes might make self-managed super more appealing, but there are still plenty of potential pitfalls to be aware of.",
-        "url": "https://www.theage.com.au/money/planning-and-budgeting/with-all-the-new-tax-changes-is-it-time-to-start-an-smsf-20260529-p601vg.html",
-        "image": "https://static.ffx.io/images/$zoom_0.6622222222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/7ed4f8fc96b3804122d86a4a7cf6fad8cf02a990",
-        "publishedAt": "2026-05-30T19:08:00Z",
-        "source": "The Age"
+        "title": "SentinelOne (S) Q1 Loss Narrows Yet Ongoing Red Ink Tests Growth Optimism",
+        "description": "SentinelOne (S) just posted its Q1 2027 numbers, reporting revenue of US$276.7 million, a loss of US$76.2 million on a net income basis, and basic EPS of US$0.23 loss, with trailing twelve month revenue at about US$1.0 billion and a TTM net loss of US$318.7 million or EPS of US$0.96 loss. Over recent quarters the company has seen revenue move from US$229.0 million in Q1 2026 through US$271.2 million in Q4 2026 to US$276.7 million in Q1 2027. Quarterly basic EPS has ranged from a loss of...",
+        "url": "https://simplywall.st/stocks/us/software/nyse-s/sentinelone/news/sentinelone-s-q1-loss-narrows-yet-ongoing-red-ink-tests-grow",
+        "image": "https://images.simplywall.st/asset/industry/8042000-choice1-main-header/1585186669041",
+        "publishedAt": "2026-05-30T21:16:47Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Tasmanian pie maker banking on continued national expansion",
-        "description": "National Pies has landed a unique creation in supermarkets nationwide…",
-        "url": "https://pulsetasmania.com.au/news/tasmanian-pie-maker-banking-on-continued-national-expansion/",
-        "image": "https://cdn.pulsetasmania.com.au/images/pmg/805c9116-bi6aenaqcbj0vnr_dnhyi_qutl0.jpg",
-        "publishedAt": "2026-05-30T19:03:55Z",
-        "source": "Pulse Tasmania"
+        "title": "A Look At Marriott Vacations Worldwide (VAC) Valuation After Recent Share Price Momentum",
+        "description": "Stock performance context for Marriott Vacations Worldwide\nMarriott Vacations Worldwide (VAC) has drawn investor attention recently as the stock moved over the past month and past 3 months, with year to date and 1 year returns also in focus.\nSee our latest analysis for Marriott Vacations Worldwide.\nThe recent move in Marriott Vacations Worldwide’s share price, with a 7 day share price return of 12.89% and a 90 day share price return of 30.56%, contrasts with a weaker 3 year total shareholder...",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nyse-vac/marriott-vacations-worldwide/news/a-look-at-marriott-vacations-worldwide-vac-valuation-after-r-3",
+        "image": "https://images.simplywall.st/asset/industry/4212000-choice1-main-header/1585186649420",
+        "publishedAt": "2026-05-30T21:16:47Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Tiny tax change could drive major electric vehicle uptake",
-        "description": "This unexciting-sounding change to fringe-benefit tax may make second-hand electric vehicles more accessible to the average buyer.",
-        "url": "https://www.rnz.co.nz/news/business/596846/tiny-tax-change-could-drive-major-electric-vehicle-uptake",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--doNemUa1--/t_tohu-badge-facebook/v1690665957/4L52F4V_043_dpa_pa_230620_99_116398_dpai_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-05-30T19:01:22Z",
-        "source": "RNZ"
+        "title": "How Investors Are Reacting To Colgate-Palmolive (CL) Shifting Toward Volume-Led Growth Amid Inflation Pressures",
+        "description": "Colgate-Palmolive recently highlighted that its past performance has been driven by a closer balance between volume growth and pricing, with especially strong gains in emerging markets such as Asia Pacific supported by innovation and a focus on value.\nThis renewed emphasis on volume, rather than relying mainly on price increases, underscores how Colgate-Palmolive is positioning its brands to appeal to cost-conscious consumers amid inflation pressures.\nNext, we’ll explore how...",
+        "url": "https://simplywall.st/stocks/us/household/nyse-cl/colgate-palmolive/news/how-investors-are-reacting-to-colgate-palmolive-cl-shifting",
+        "image": "https://images.simplywall.st/asset/company-cover/262247-main-header/1756254649154",
+        "publishedAt": "2026-05-30T21:16:47Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "We’re nearing a financial burnout crisis. And it’s only getting worse",
-        "description": "It feels like every time you try to so much as blink or draw breath right now, something new – and potentially stress-inducing – is happening in the economy.",
-        "url": "https://www.smh.com.au/money/planning-and-budgeting/we-re-nearing-a-financial-burnout-crisis-and-it-s-only-getting-worse-20260529-p6020a.html",
-        "image": "https://static.ffx.io/images/$zoom_1.1819196428571428%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/b486808c86fab78771ac1bd8a84d15468a17b9f8",
-        "publishedAt": "2026-05-30T19:01:00Z",
-        "source": "SMH.com.au"
+        "title": "Anthropic Is Now Worth More Than OpenAI",
+        "description": "\"The Claude one\" has overtaken \"the ChatGPT one.\"",
+        "url": "https://gizmodo.com/anthropic-is-now-worth-more-than-openai-2000765392",
+        "image": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
+        "publishedAt": "2026-05-30T21:11:25Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "Silver Price Weekly Outlook: Will Channel Breakdowns Sink Silver Price Levels Under $72?",
-        "description": "Silver spot (XAG/USD) faces technical pressure as multi-trendline resistance caps upside. Read our weekly price forecast, key industrial...",
-        "url": "https://www.fxleaders.com/news/2026/05/30/silver-price-weekly-outlook-will-channel-breakdowns-sink-silver-price-levels-under-72/",
-        "image": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/05/30175852/KERww-scaled.jpg",
-        "publishedAt": "2026-05-30T19:00:23Z",
-        "source": "FXLeaders"
+        "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+        "description": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+        "url": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
+        "image": "https://spacenews.com/wp-content/uploads/2026/05/HJhyho4XcAAKy5F.jpeg",
+        "publishedAt": "2026-05-30T21:06:37Z",
+        "source": "SpaceNews"
       }
     ],
     "science": [
+      {
+        "title": "59 For First Supersonic Flight",
+        "description": "NASA's experimental quiet-boom supersonic aircraft, the X-59, will have its first supersonic flight in the coming month.",
+        "url": "https://orbitaltoday.com/2026/05/30/nasa-readies-x-59-for-first-supersonic-flight/",
+        "image": "https://orbitaltoday.com/wp-content/uploads/2026/05/X-59-.jpg",
+        "publishedAt": "2026-05-30T21:19:24Z",
+        "source": "Orbital Today"
+      },
+      {
+        "title": "NASA to start building first 'City on the Moon' by end of 2026",
+        "description": "The National Aeronautics and Space Administration has unveiled an ambitious plan to build a city on the lunar surface in next six year. The plan was announced just weeks after SpaceX governing board tied Elon Musk's compensation to...",
+        "url": "https://www.geo.tv/latest/666667-nasa-to-start-building-first-city-on-the-moon-by-end-of-2026",
+        "image": "https://www.geo.tv/assets/uploads/2026-05-31/666667_021319_updates.jpg",
+        "publishedAt": "2026-05-30T21:13:00Z",
+        "source": "Geo News"
+      },
+      {
+        "title": "Meteor over Massachusetts causes explosion reports, sightings from Delaware to Montreal",
+        "description": "Reports of an explosion from people across New England on Saturday afternoon sent police agencies and others scrambling to understand what caused a double boom that shook buildings in Massachusetts and Rhode Island.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/05/30/meteor-over-massachusetts-causes-explosion-reports-sightings-from-delaware-to-montreal",
+        "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2022/11/fb-og-image.png",
+        "publishedAt": "2026-05-30T20:40:18Z",
+        "source": "Winnipeg Free Press"
+      },
+      {
+        "title": "East Coast rocked by sonic boom as meteorologist reveals cause",
+        "description": "Some residents in Massachusetts said the boom even shook their homes",
+        "url": "https://nz.news.yahoo.com/east-coast-rocked-sonic-boom-201307829.html",
+        "image": "https://s.yimg.com/os/en/the_independent_577/ec6fccf09fbd573ef2aaf44da5e2a048",
+        "publishedAt": "2026-05-30T20:13:07Z",
+        "source": "Yahoo News New Zealand"
+      },
+      {
+        "title": "Scientists find hundreds of inherited DNA patterns that defy classic Mendelian genetics",
+        "description": "Mouse study finds hundreds of inherited DNA methylation patterns that do not follow classic Mendelian genetics.",
+        "url": "https://www.thebrighterside.news/post/scientists-find-hundreds-of-inherited-dna-patterns-that-defy-classic-mendelian-genetics/",
+        "image": "https://www.thebrighterside.news/uploads/2026/05/mendel-1.jpg?auto=webp",
+        "publishedAt": "2026-05-30T20:07:00Z",
+        "source": "The Brighter Side of News"
+      },
+      {
+        "title": "Venus and Jupiter set to pair up in the western sky on June 6 and 7",
+        "description": "Skywatchers looking west after sunset will have an easy target in early June as Venus and Jupiter draw close together in an eye-catching pairing. The two brightest planets will appear side by side on June 6 and 7, creating what some observers call “spooky eyes” in the twilight sky",
+        "url": "https://www.baytoday.ca/local-news/venus-and-jupiter-set-to-pair-up-in-the-western-sky-on-june-6-and-7-12330265",
+        "image": "https://www.vmcdn.ca/f/files/baytoday/images/weather/2026-venus-jupiter-boyle.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-05-30T20:04:46Z",
+        "source": "BayToday.ca"
+      },
+      {
+        "title": "Lasers at the Lunar Poles Could Help Astronauts Navigate",
+        "description": "A team of scientists is exploring ways to use dark craters at the lunar poles as sites for ultrastable lasers to aid in surface and near-lunar navigation. The group, led by Physicist Jun Ye, an expert on lasers and precision measurements, were discussing the types of instruments that Artemis astronauts could install and use during their time on the Moon.",
+        "url": "https://www.universetoday.com/articles/lasers-at-the-lunar-poles-could-help-astronauts-navigate",
+        "image": "https://www.universetoday.com/article_images/art002e009283large_20260530_194622.jpg",
+        "publishedAt": "2026-05-30T19:50:00Z",
+        "source": "Universe Today"
+      },
       {
         "title": "Microblue moon to be visible in Goa today",
         "description": "Goa to witness rare micro blue moon on May 31; moon will appear slightly smaller than usual full moon. Visibility may be affected by monsoon clouds.",
@@ -142,128 +198,72 @@
         "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
         "publishedAt": "2026-05-30T19:24:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "'Equivalent to 300 tons of TNT': Meteor 'explosion' over northeast US rattles residents",
-        "description": "US News: Residents across parts of Massachusetts and neighbouring New England states reported hearing a loud boom and feeling buildings shake on Saturday after.",
-        "url": "https://timesofindia.indiatimes.com/world/us/mystery-explosion-heard-in-parts-of-massachusetts-cause-unclear-report/articleshow/131415138.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131415493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-30T19:16:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Q&A: Ancient bird species found in China's Liaoning had extra-long tail feathers for elaborate courtship",
-        "description": "A recently discovered extinct bird from the early Cretaceous Period (approximately 121 million years ago) may have waggled its long tail feathers to attract mates, according to a study published May 27, 2026 in the open-access journal PLOS One by Alexander Clark of the University of Chicago and colleagues. Clark shares more details about his team's findings in the following Q&A.",
-        "url": "https://phys.org/news/2026-05-qa-ancient-bird-species-china.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/ancient-bird-species-f-6.jpg",
-        "publishedAt": "2026-05-30T18:10:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Plants can smell fast-growing neighbors and change their strategy",
-        "description": "A new study suggests plants can detect chemical signals released by their neighbors and change how they grow in response.",
-        "url": "https://www.earth.com/news/plants-can-smell-fast-growing-neighbors-and-change-their-strategy/",
-        "image": "https://cff2.earth.com/uploads/2026/05/30064408/Plant-signals.jpg",
-        "publishedAt": "2026-05-30T18:08:35Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "A deep ocean change near Antarctica may follow Atlantic slowdowns, and it could reshape climate patterns",
-        "description": "Scientists found evidence that a profound change in the Antarctic Ocean followed the weakening of the Atlantic.",
-        "url": "https://www.earth.com/news/a-deep-ocean-change-near-antarctica-may-follow-atlantic-slowdowns-and-it-could-reshape-climate-patterns/",
-        "image": "https://cff2.earth.com/uploads/2026/05/27214121/antarctic-ocean-change-atlantic-slowdown.jpg",
-        "publishedAt": "2026-05-30T18:08:35Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Induced Sexual Dysfunction",
-        "description": "Dopamine in the mushroom body of fruit flies controls the persistence of stress-induced courtship suppression.",
-        "url": "https://neurosciencenews.com/dopamine-stress-sexual-dysfunction-30788/",
-        "image": "https://neurosciencenews.com/files/2026/05/stress-sexual-dysfunction-neuroscience-dopamine.jpg",
-        "publishedAt": "2026-05-30T18:07:53Z",
-        "source": "Neuroscience News"
-      },
-      {
-        "title": "The mystery of Saturn’s spin is finally solved",
-        "description": "The findings reveal for the first time the complex patterns of heat and electrically charged particles in Saturn's aurora.",
-        "url": "https://www.techexplorist.com/mystery-saturns-spin-finally-solved/103161/",
-        "image": "https://www.techexplorist.com/wp-content/uploads/2026/05/saturn-ring.webp",
-        "publishedAt": "2026-05-30T18:07:31Z",
-        "source": "Tech Explorist"
-      },
-      {
-        "title": "Reported ancient mammoth bones found deep in Alaska were actually whales from 250 miles away",
-        "description": "Once scientists inspected the bones more thoroughly, they realized what they actually were.",
-        "url": "https://www.yahoo.com/news/science/articles/reported-ancient-mammoth-bones-found-172000152.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/tcLrXmrzQoHtywIiVZiOCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/6c7990616531f66d0c937044fe79a8bb",
-        "publishedAt": "2026-05-30T17:20:00Z",
-        "source": "Yahoo"
       }
     ],
     "ai": [
       {
-        "title": "AI Company Strikes Deal to Resurrect Marvel Comics Icon Stan Lee",
-        "description": "The AI company ElevenLabs has reportedly struck a deal to license the late Marvel Comics mogul Stan Lee's voice and likeness.",
-        "url": "https://www.breitbart.com/entertainment/2026/05/30/ai-company-strikes-deal-to-resurrect-marvel-comics-icon-stan-lee/",
-        "image": "https://media.breitbart.com/media/2026/05/GettyImages-51086990-640x335.jpg",
-        "publishedAt": "2026-05-30T19:30:19Z",
-        "source": "Breitbart News Network"
+        "title": "Anthropic Is Now Worth More Than OpenAI",
+        "description": "\"The Claude one\" has overtaken \"the ChatGPT one.\"",
+        "url": "https://gizmodo.com/anthropic-is-now-worth-more-than-openai-2000765392",
+        "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "publishedAt": "2026-05-30T21:11:25Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "IIIT-A to launch online MTech course in AI, Data Science",
-        "description": "IIIT Allahabad signs MoU with TeamLease EdTech to launch a 2-year online Executive MTech in AI & Data Science for working professionals; admissions soon.",
-        "url": "https://timesofindia.indiatimes.com/city/allahabad/iiit-a-to-launch-online-mtech-course-in-ai-data-science/articleshow/131415298.cms",
-        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-        "publishedAt": "2026-05-30T19:30:00Z",
-        "source": "Times of India"
+        "title": "SoftBank to spend $87.5 bil on AI centers in France: Son",
+        "description": "Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview released Saturday. \"This will be the largest investment in Europe in infrastructure related to artificial intelligence: 75 billion euros in total,\" Son…",
+        "url": "https://japantoday.com/category/tech/softbank-to-spend-87.5bn-on-ai-centres-in-france-son",
+        "image": "https://media.japantoday.com/img/store/f3/49/bd6004c483cb5fd1c58d100bd8c7b7858fc2/5999a3e80fdaa1e8f6e618f9fb120c63439b05ae/_w1700.jpeg",
+        "publishedAt": "2026-05-30T21:09:41Z",
+        "source": "Japan Today"
       },
       {
-        "title": "Mark Kenny: Pope Leo XIV's encyclical on AI reflects humanity's future",
-        "description": "Pope Leo XIV's Magnifica Humanitas addresses AI's threat to humanity. Discover his call for common cause against technology's 'messianic dreams'.",
-        "url": "https://www.canberratimes.com.au/story/9258970/mark-kenny-pope-leo-xivs-encyclical-on-ai-reflects-humanitys-future/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/pMXRnDj3SUU44AkPpn97sC/2b9141e9-4e86-4407-bfce-d85f7e0d8e08.jpg/r0_20_1920_1028_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-05-30T19:30:00Z",
-        "source": "The Canberra Times"
+        "title": "Why AI Search Is Changing How People Discover Personal Development Knowledge",
+        "description": "The next stage of personal development content will not be won by adding more noise to the system. Why AI Search Is Changing How People Discover Personal Development Knowledge",
+        "url": "https://techbullion.com/why-ai-search-is-changing-how-people-discover-personal-development-knowledge/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/05/Picture1-38-1000x600.png",
+        "publishedAt": "2026-05-30T21:03:34Z",
+        "source": "TechBullion"
       },
       {
-        "title": "SoftBank to Invest Some €75 Billion in AI in France, Reports Say",
-        "description": "SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build artificial intelligence data centers in France, La Tribune and the Financial Times reported.",
-        "url": "https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html",
-        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-        "publishedAt": "2026-05-30T19:15:11Z",
+        "title": "SoftBank plans up to €75 billion investment in French AI centers",
+        "description": "SoftBank’s initial investment plans to deliver data centers in Dunkirk, Bosquel and Bouchain.",
+        "url": "https://fortune.com/2026/05/30/softbank-75-billion-investment-french-ai-data-centers-masayoshi-son-emmanuel-macron/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2197366150-e1780174500603.jpg?resize=1200,600",
+        "publishedAt": "2026-05-30T21:02:10Z",
+        "source": "Fortune"
+      },
+      {
+        "title": "Researchers Put Grok AI In Charge Of A World Simulation And It Ended With '183 Crimes Committed' And Humanity's Total 'Extinction'",
+        "description": "According to the experiment's data, Grok just loves committing arson and \"inspiring voter fraud\"",
+        "url": "https://kotaku.com/researchers-put-grok-ai-in-charge-of-a-world-simulation-and-it-ended-with-183-crimes-committed-and-humanitys-total-extinction-2000700821",
+        "image": "https://kotaku.com/app/uploads/2026/05/Emergence-World-image-from-Grok-playthrough.jpg",
+        "publishedAt": "2026-05-30T21:00:42Z",
+        "source": "Kotaku"
+      },
+      {
+        "title": "AI repurposes routine chest X-rays to catch silent bone loss before fracture",
+        "description": "Osteoporosis is a silent disease where bone loss develops gradually before fractures occur. Current clinical screening recommendations mainly focus on older women and selected high-risk groups, leaving some men, younger adults, and individuals with normal body weight completely outside routine screening pathways.",
+        "url": "https://medicalxpress.com/news/2026-05-ai-repurposes-routine-chest-rays.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-repurposes-routine.jpg",
+        "publishedAt": "2026-05-30T21:00:02Z",
+        "source": "Medical Xpress"
+      },
+      {
+        "title": "Utah Tightens Rules for Kevin O'Leary's AI Data Center After Backlash",
+        "description": "Tensions have been high in Utah after a local commission, despite opposition, approved a hyperscale data center campus spanning 40,000 acres.",
+        "url": "https://www.businessinsider.com/utah-data-center-kevin-oleary-stratos-backlash-new-rules-governor-2026-5",
+        "image": "https://i.insider.com/6a1b2446b4fb977f359826d7?width=1200&format=jpeg",
+        "publishedAt": "2026-05-30T20:37:36Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Entertainment News Today LIVE Updates on May 31, 2026: Emily Blunt says she didn't use AI in Steven Spielberg’s Disclosure Day: ‘I’m terrified of it'",
+        "description": "Entertainment News Today Live Updates on May 31, 2026: Stay updated with the latest entertainment news, OTT releases, movie releases, box office collection, celebrity buzz & global trends. Check Real-time coverage with Mint's live blog.",
+        "url": "https://www.livemint.com/entertainment/todays-entertainment-latest-news-on-may-31-2026-live-updates-11780173115040.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/emily_blunt_disclosure_day_1780172186231_1780172186411_0da0ff26-fa51-4bda-8116-6e5844596712.png",
+        "publishedAt": "2026-05-30T20:31:54Z",
         "source": "Livemint"
-      },
-      {
-        "title": "‘Doom-and-gloom framing that AI is destroying jobs misunderstands what AI actually does well’",
-        "description": "Tech News News: Vijay Vijayasankar is the Global Agentic AI Officer at Genpact. He is responsible for driving Genpact’s agentic AI vision and accelerating innovation .",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/doom-and-gloom-framing-that-ai-is-destroying-jobs-misunderstands-what-ai-actually-does-well/articleshow/131415159.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131415158,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-30T19:14:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "The schools in Asia embracing artificial intelligence in classrooms",
-        "description": "Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.",
-        "url": "https://www.abc.net.au/news/2026-05-31/schools-in-asia-embracing-ai/106703054",
-        "image": "https://live-production.wcms.abc-cdn.net.au/f06d74f6c8370524872cec38839fcc6c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-30T19:12:22Z",
-        "source": "ABC (Australian Broadcasting Corporation)"
-      },
-      {
-        "title": "SoftBank to build up AI data centres in France with major investment",
-        "description": "Japan's SoftBank Group will invest EUR45 billion over the next five years in a push to build up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune...",
-        "url": "https://www.marketscreener.com/news/softbank-to-build-up-ai-data-centres-in-france-with-major-investment-ce7f5dd8da8ef425",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-12T030932Z_1_LYNXMPEM4B056_RTROPTP_4_SOFTBANK-GROUP-RESULTS.JPG",
-        "publishedAt": "2026-05-30T19:03:20Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "SoftBank to build up AI data centres in France with major investment",
-        "description": "Japan's SoftBank Group will invest €45 billion over the next five years in a push ​to build up artificial intelligence infrastructure in France, ‌founder Masayoshi Son told the paper La Tribune Dimanche in an interview published on Saturday.",
-        "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/",
-        "image": "https://www.reuters.com/resizer/v2/IAKMTHIIPZOBLKINXWZYVJHH7I.jpg?auth=b69c66a36463077b0117fb0b1748d4f76001a51d65d622c181307259a2362547&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-05-30T19:02:10Z",
-        "source": "Reuters"
       }
     ]
   }
