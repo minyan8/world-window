@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-31T01:25:58.602Z",
+  "fetchedAt": "2026-05-31T03:29:29.265Z",
   "sections": {
     "world": [
       {
-        "title": "Pentagon Promises US Will ‘Find a Way’ to Sustain Help for Ukraine’s Defense",
-        "description": "US Defense Secretary clarified that while the US is pushing Europe to take on more financial responsibility, Washington remains fully committed to ensuring Ukraine retains its defensive capabilities.",
-        "url": "https://www.kyivpost.com/post/77193",
-        "image": "https://static.kyivpost.com/storage/2026/05/30/f73efcfe9160db6f45b1b2ab125f1e2a.jpg?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-05-30T13:25:58Z",
-        "source": "Kyiv Post"
+        "title": "US says it struck a commercial ship trying to breach blockade and reach Iran",
+        "description": "The U.S. military stopped a merchant vessel trying to break through its blockade of Iranian ports by firing a missile into its engine room, the U.S. Central Command said on Saturday. The ship remaine...",
+        "url": "https://www.yahoo.com/news/politics/articles/us-says-disables-another-commercial-152902186.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/xy.LbiZ1.MFIIsE8x767Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ac033b1d5c06de29dfdc6a9ed208ce03",
+        "publishedAt": "2026-05-30T15:29:02Z",
+        "source": "Yahoo"
       },
       {
-        "title": "French Philosopher Edgar Morin Dies at 104",
-        "description": "French intellectual and Resistance member Edgar Morin, known for critical thinking and \"cinema verite,\" has died at 104. Learn about his life and legacy.",
-        "url": "https://punchng.com/french-philosopher-edgar-morin-dies-at-104/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/30142231/AFP__20260530__B4GJ49F__v2__MidRes__TopshotFilesFranceSociologyPhilosophyMorinObit-1200x630.webp",
-        "publishedAt": "2026-05-30T13:24:12Z",
-        "source": "Punch Newspapers"
+        "title": "What Do the Gulf States Really Want?",
+        "description": "Editorials – There is a question Washington should ask more directly: what do the Gulf states really want? The official language is familiar: de-escalation,",
+        "url": "https://jstribune.com/what-do-the-gulf-states-really-want/",
+        "image": "https://jstribune.com/wp-content/uploads/2026/05/EditoPhoto-Article-JST.jpg",
+        "publishedAt": "2026-05-30T15:28:48Z",
+        "source": "The Jerusalem Strategic Tribune"
       },
       {
-        "title": "White House releases memo describing results of Trump’s health checkup",
-        "description": "President in ‘excellent’ health, despite ‘lower leg swelling’ and hand bruising after fourth hospital visit in second term",
-        "url": "https://www.theguardian.com/us-news/2026/may/30/trump-health-memo-released",
-        "image": "https://i.guim.co.uk/img/media/5e2d06a872795f0b9a408a3519b303bfbaa71ade/0_0_3206_2565/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ee66d99108ef17952856249f130dd19",
-        "publishedAt": "2026-05-30T13:24:00Z",
-        "source": "The Guardian"
+        "title": "Medical miracle or MAGA marvel? Trump's doc says he has heart of someone 14 years younger",
+        "description": "US News: TOI correspondent from Washington: The White House late Friday released a three-page medical memo declaring that US President Donald Trump, who turns .",
+        "url": "https://timesofindia.indiatimes.com/world/us/medical-miracle-or-maga-marvel-trumps-doc-says-he-has-heart-of-someone-14-years-younger/articleshow/131411648.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131411809,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-30T15:24:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Duke-NUS graduates biggest class yet, with new doctors drawn from business, engineering and the humanities",
-        "description": "At his first graduation as Dean, Patrick Tan presides over a record class of 135 graduates, with Guest of Honour Mdm Rahayu Mahzam and keynote speaker Dr Robert Califf",
-        "url": "https://www.manilatimes.net/2026/05/30/tmt-newswire/pr-newswire/duke-nus-graduates-biggest-class-yet-with-new-doctors-drawn-from-business-engineering-and-the-humanities/2354972",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/30/1078447.jpg",
-        "publishedAt": "2026-05-30T13:22:11Z",
-        "source": "The Manila Times"
+        "title": "BrahMos deal with Vietnam signed, Indonesia pact 'in final stages', says Defence Secy in Singapore",
+        "description": "Speaking at the Shangri-La Dialogue in Singapore, Singh said the growing interest in the BrahMos missile system reflects India's expanding defence ties with Southeast Asian nations.",
+        "url": "https://www.firstpost.com/world/brahmos-deal-with-vietnam-signed-indonesia-pact-in-final-stages-says-defence-secy-in-singapore-14017030.html",
+        "image": "https://images.firstpost.com/uploads/2025/12/blobhttpsweb.whatsapp.comb4bdd32e-b2c6-44aa-998b-ebdae9810f7e-2025-12-23T111727.135-2025-12-91368384c4b7ceb7e65171eb0d86c4f9.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-05-30T15:20:05Z",
+        "source": "Firstpost"
       },
       {
-        "title": "India seals mega deal to sell BrahMos to Vietnam, talks with Indonesia in 'final stages'",
-        "description": "Speaking at the Shangri-La Dialogue security summit in Singapore on Saturday, Rajesh Kumar Singh said the agreement with Vietnam had already been signed, though it had not yet been publicly announced.",
-        "url": "https://www.moneycontrol.com/defence/india-finalises-brahmos-missile-deal-with-vietnam-article-13936441.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2020/11/RTR4ML66.jpg",
-        "publishedAt": "2026-05-30T13:19:43Z",
-        "source": "Moneycontrol.com"
+        "title": "Estonia installed first stationery systems for detecting drones on Russian border",
+        "description": "The first anti-drone devices were deployed along three sections of the border in southeastern Estonia, between the Estonia-Latvia-Russia tripoint and Luhamaa, a border crossing point between Estonia and Russia, ERR said, citing a press release from the Estonian Ministry of the Interior.",
+        "url": "https://kyivindependent.com/estonia-installed-first-stationery-systems-for-detecting-drones-on-russian-border/",
+        "image": "https://assets.kyivindependent.com/content/images/2026/05/710059428_1390946316397718_3818388735916553990_n_20260530-144547.jpg",
+        "publishedAt": "2026-05-30T15:15:09Z",
+        "source": "The Kyiv Independent"
       },
       {
-        "title": "181,000+ Indian Schengen Visa Applications Failed In 2025: List Of Countries With Highest Rejection Rates",
-        "description": "Schengen Visa: Slovenia emerged as the toughest Schengen destination for Indian applicants, with a non-issuance rate of 46.1%.",
-        "url": "https://www.news18.com/world/181000-indian-schengen-visa-applications-failed-in-2025-list-of-countries-with-highest-rejection-rates-ws-l-10121652.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/03/Greece-4-2026-03-2e4f4d55557a63a53e3061f2ff67db58-1200x675.jpg",
-        "publishedAt": "2026-05-30T13:17:58Z",
-        "source": "News18"
+        "title": "Wisher Disappointed after Man Spotted Loitering on Streets after Loss Refuses Help",
+        "description": "Sammy Kioko's heartfelt attempt to help his childhood friend Alex, now living on the streets, faces setbacks as Alex declines assistance, sparking mixed reactions.",
+        "url": "https://www.tuko.co.ke/people/628014-nairobi-wisher-disappointed-man-spotted-loitering-streets-loss-refuses-help/",
+        "image": "https://cdn.tuko.co.ke/images/1200x675/b37b32f97ed8b76f.jpeg?v=1",
+        "publishedAt": "2026-05-30T15:14:31Z",
+        "source": "Tuko News"
       },
       {
-        "title": "UAE reviews Ebola developments, reinforces health preparedness measures",
-        "description": "UAE reviews Ebola developments, confirms stable public health, and reinforces preparedness, travel advisories and monitoring to protect citizens at home and abroad.",
-        "url": "https://gulfnews.com/uae/health/uae-reviews-ebola-developments-reinforces-health-preparedness-measures-1.500558025",
-        "image": "https://gumlet-images.assettype.com/gulfnews%2F2026-05-19%2Fe8cxtnwb%2Fnews-1.PNG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-05-30T13:17:05Z",
-        "source": "Gulf News"
+        "title": "Medical or a PR exercise? Why presidents get annual check",
+        "description": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0864/live/b7d802e0-5c42-11f1-aa7a-8946e5cbf1e0.jpg",
+        "publishedAt": "2026-05-30T15:06:01Z",
+        "source": "BBC"
       },
       {
-        "title": "South Korea, Japan stress Korean Peninsula security, resume maritime drills",
-        "description": "Defense Minister Ahn Gyu-back and Japanese Defense Minister Shinjiro Koizumi agreed Saturday that bilateral and trilateral cooperation with the United States remains essential for peace and stability on the Korean Peninsula and across the region, according to South Korea’s Defense Ministry. The meeting on the sidelines of the Shangri-La Dialogue in Singapore came about an […]",
-        "url": "https://www.nknews.org/2026/05/south-korea-japan-stress-korean-peninsula-security-resume-maritime-drills/",
-        "image": "https://assets.korearisk.com/uploads/2026/05/IMG_4132.jpg",
-        "publishedAt": "2026-05-30T13:09:17Z",
-        "source": "NK News"
+        "title": "Medical or a PR exercise? Why presidents get annual check-ups",
+        "description": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q39dx778zo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0864/live/b7d802e0-5c42-11f1-aa7a-8946e5cbf1e0.jpg",
+        "publishedAt": "2026-05-30T15:06:01Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "Charming Scots town named one of the cheapest seaside property spots in UK",
-        "description": "A CHARMING Scottish town has been named among the cheapest seaside property spots in the UK.\nProperty firm RightMove provided a list of the...",
-        "url": "https://www.thescottishsun.co.uk/money/16324054/scots-town-cheapest-seaside-property-uk/",
-        "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/05/NINTCHDBPICT000675143872.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-05-30T13:26:00Z",
-        "source": "The Scottish Sun"
+        "title": "TALZENNA Plus XTANDI Improves Radiographic Progression-Free Survival by More Than 50% in Metastatic Prostate Cancer",
+        "description": "First PARP inhibitor + ARPI combination to show consistent rPFS improvement in HRR gene‑altered metastatic hormone‑sensitive prostate cancer, including both BRCA and non‑BRCA alterations There was an estimated 77% probability of remaining progression-free at three years with TALZENNA plus XTANDI Detailed results from pivotal TALAPRO-3 study presented at ASCO 2026 and published in The New England Journal of Medicine Pfizer Inc. (NYSE: PFE) today announced detailed results from the pivotal Phase 3 TALAPRO-3 study of TALZENNA ® (talazoparib), an oral poly ADP-ribose polymerase (PARP) inhibitor, in combination with XTANDI ® (enzalutamide), an androgen receptor pathway inhibitor (ARPI), in men with homologous recombination repair (HRR) gene-mutated metastatic castration-sensitive prostate cancer (mCSPC), also known as metastatic hormone-sensitive prostate cancer (mHSPC). These results will be presented today in a late-breaking oral presentation (Abstract LBA5007) at the 2026 American",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/talzenna-plus-xtandi-improves-radiographic-progression-free",
+        "image": "https://www.pfizer.com/profiles/pfecpfizercomus_profile/themes/pfecpfizercomus/favicons/favicon-32x32.png",
+        "publishedAt": "2026-05-30T15:18:47Z",
+        "source": "Pfizer"
       },
       {
-        "title": "ASCO 2026: Skipping axillary lymph node dissection safe for some breast cancer patients",
-        "description": "Omitting axillary lymph node dissection is safe for people with breast cancer that has spread to 1 or 1 sentinel lymph nodes and helps avoid arm-related side effects.",
-        "url": "https://www.oncology-central.com/asco-2026-skipping-axillary-lymph-node-dissection-safe-for-some-breast-cancer-patients/",
-        "image": "https://www.oncology-central.com/wp-content/uploads/2026/05/Feature-image-1-35.png",
-        "publishedAt": "2026-05-30T13:23:40Z",
-        "source": "Oncology Central"
+        "title": "Jensen Huang on Huawei's 'Tau (τ) Scaling Law': 'No threat to TSMC'",
+        "description": "Nvidia CEO Jensen Huang has offered his first public comments on Huawei's newly proposed \"Tau (τ) Scaling Law,\" calling it \"a breakthrough for Huawei\" while adding that it poses \"no threat to TSMC.\"Speaking to reporters in Taipei, China's Taiwan region,",
+        "url": "https://news.cgtn.com/news/2026-05-30/Jensen-Huang-on-Huawei-s-Tau-Scaling-Law-No-threat-to-TSMC--1NzomLReBK8/p.html",
+        "image": "https://news.cgtn.com/news/2026-05-30/Jensen-Huang-on-Huawei-s-Tau-Scaling-Law-No-threat-to-TSMC--1NzomLReBK8/img/17d14cbf72ba481a818531e02c477851/17d14cbf72ba481a818531e02c477851-750.png",
+        "publishedAt": "2026-05-30T15:07:08Z",
+        "source": "news.cgtn.com"
       },
       {
-        "title": "Forest residents fear holiday park water impact",
-        "description": "People living in Hamsterley Forest are opposing Forestry England plans for a new holiday park.",
-        "url": "https://www.bbc.co.uk/news/articles/clypprndp7do",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/986f/live/151327c0-b0ed-11f0-b2a1-6f537f66f9aa.jpg",
-        "publishedAt": "2026-05-30T13:21:34Z",
-        "source": "BBC"
+        "title": "ProLogium: $3.8 Billion SPAC Deal To Take Solid-State Battery Developer Public On Nasdaq",
+        "description": "ProLogium, a next-generation solid-state battery developer, has entered into a definitive business combination agreement with special purpose acquisition company (SPAC) Translational Development Acquisition Corp. that will take the company public on Nasdaq. Upon closing, the combined company will be renamed ProLogium Technology and is expected to trade under the ticker symbol “PRLG.”",
+        "url": "https://pulse2.com/prologium-3-8-billion-spac-deal-to-take-solid-state-battery-developer-public-on-nasdaq/",
+        "image": "https://cdn.pulse2.com/cdn/2026/05/ProLogium-Logo.jpeg",
+        "publishedAt": "2026-05-30T15:07:03Z",
+        "source": "Pulse 2.0"
       },
       {
-        "title": "Going down by the day - Oil falls big at the weekend on hopes for a US-Iran ceasefire agreement",
-        "description": "Brent and WTI register steepest weekly losses since April; US crude, gasoline, and distillate stockpiles fell last week, says EIA",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/30/going-down-by-the-day---oil-falls-big-at-the-weekend-on-hopes-for-a-us-iran-ceasefire-agreement",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/30/3934673.jpg",
-        "publishedAt": "2026-05-30T13:20:00Z",
-        "source": "The Star | Malaysia"
+        "title": "RedCloud: $30 Million Saudi Joint Venture Launches Operations To Deploy AI Infrastructure Across FMCG Market",
+        "description": "RedCloud Holdings announced the operational launch of its previously announced $30 million joint venture with Kayanat in Saudi Arabia, establishing RedCloud Arabia as the company’s operational foothold in the Kingdom. The initiative is designed to deploy RedAI infrastructure and related products across Saudi Arabia’s estimated $68 billion fast-moving consumer goods (FMCG) market while supporting the country's broader digital transformation objectives under Vision 2030.",
+        "url": "https://pulse2.com/redcloud-30-million-saudi-joint-venture-launches-operations-to-deploy-ai-infrastructure-across-fmcg-market/",
+        "image": "https://cdn.pulse2.com/cdn/2026/05/RedCloud-Holdings-Logo.jpeg",
+        "publishedAt": "2026-05-30T15:07:01Z",
+        "source": "Pulse 2.0"
       },
       {
-        "title": "BMO Beats Quarterly Earnings Again, And Remains A Strong Dividend Idea Among Banks",
-        "description": "Bank of Montreal (BMO) stock analysis: strong Q2 growth, dividend strength and bullish trends despite valuation.",
-        "url": "https://seekingalpha.com/article/4910290-bmo-beats-quarterly-earnings-again-and-remains-a-strong-dividend-idea-among-banks",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150969678/image_1150969678.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-30T13:18:32Z",
-        "source": "Seeking Alpha"
+        "title": "Japanese Tofu Donburi With Sweet Savory Glaze",
+        "description": "Learn how to make Teriyaki Tofu Donburi, a quick vegan Japanese rice bowl with crispy tofu, warm short-grain rice, green bell pepper, Japanese leek, sesame seeds, green onions, and a glossy homemade t...",
+        "url": "https://www.yahoo.com/lifestyle/videos/japanese-tofu-donburi-sweet-savory-150109542.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/5c26a8effb53301be1b978b75f566f250222cfd107f41ef62755f19222965666/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsudachi_706%2Fc9c1b8e41b01c63fbe9b49377a034ef2",
+        "publishedAt": "2026-05-30T15:01:09Z",
+        "source": "Yahoo"
       },
       {
-        "title": "Alphabet Weighs AI Growth Opportunities Against Rising Legal Risks",
-        "description": "Google parent Alphabet (NasdaqGS:GOOGL) has formed an AI cloud partnership with private equity firm EQT to support AI adoption across EQT’s portfolio companies.\nAlphabet is also participating in a new Data Center Innovation Initiative alongside Amazon, Microsoft, and Meta to fund and deploy next generation energy and materials solutions.\nThe Delhi High Court in India issued a ruling against Google in a trademark infringement case tied to its advertising platform, raising legal and commercial...",
-        "url": "https://simplywall.st/stocks/us/media/nasdaq-googl/alphabet/news/alphabet-weighs-ai-growth-opportunities-against-rising-legal",
-        "image": "https://images.simplywall.st/asset/company-cover/29096-main-header/1756205897375",
-        "publishedAt": "2026-05-30T13:16:53Z",
-        "source": "simplywall.st"
+        "title": "After more than 66 years in the air, the industry’s longest-serving flight attendant prepares to retire",
+        "description": "Being a stewardess always had a certain glamour for Joan Prince Crandall.",
+        "url": "https://www.cnn.com/2026/05/30/us/longest-serving-flight-attendant-delta",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-05-29-at-9-29-58-am.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-30T15:00:07Z",
+        "source": "CNN"
       },
       {
-        "title": "Broadcom (AVGO) Is Up 7.9% After Expanding AI Network Chips And Financing For Google TPUs",
-        "description": "In late May 2026, Broadcom and its partners unveiled new Wi‑Fi 8 and 50G PON chipsets, advanced AI accelerator collaborations, and major AI infrastructure roles, including backstopping a very large chip-financing deal tied to Google’s TPUs for Anthropic.\nTogether, these moves show Broadcom pushing deeper into the plumbing of AI-era networks, from home broadband gateways to hyperscale inference clusters and large, chip-backed credit structures.\nWe’ll now examine how Broadcom’s deeper role in...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom/news/broadcom-avgo-is-up-79-after-expanding-ai-network-chips-and",
-        "image": "https://images.simplywall.st/asset/company-cover/25016048-main-header/1756256218222",
-        "publishedAt": "2026-05-30T13:16:53Z",
-        "source": "simplywall.st"
+        "title": "CVLT INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that Commvault Systems, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+        "description": "The case alleges Commvault and certain of Commvault’s executive officers made false and/or misleading statements to investors.",
+        "url": "https://www.businesswire.com/news/home/20260530141381/en/CVLT-INVESTOR-DEADLINE-Robbins-Geller-Rudman-Dowd-LLP-Announces-that-Commvault-Systems-Inc.-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit",
+        "image": "https://mms.businesswire.com/media/20260530141381/en/2313484/22/RGRD_Logo_2v2.jpg",
+        "publishedAt": "2026-05-30T15:00:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "Irrational Exuberance 2.0 Has Arrived on Wall Street",
-        "description": "The stock market appears destined to repeat the same mistakes of the dot-com era.",
-        "url": "https://www.fool.com/investing/2026/05/30/irrational-exuberance-2-has-arrived-on-wall-street/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871956%2Falan-greenspan-federal-reserve-chair-fomc.jpg&w=1200&op=resize",
-        "publishedAt": "2026-05-30T13:14:02Z",
-        "source": "The Motley Fool"
+        "title": "Hydro asks people in Winnipeg's Westwood area to use less A/C, delay using appliances amid weekend upgrades",
+        "description": "Manitoba Hydro is asking people in Winnipeg's Westwood neighbourhood to reduce their electrical use during peak times over the coming days, as the utility works on capacity and reliability upgrades at the area's Cavalier substation.",
+        "url": "https://www.cbc.ca/news/canada/manitoba/hydro-westwood-electrical-use-upgrades-9.7217912",
+        "image": "https://i.cbc.ca/ais/1.5378572,1706908913000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4236%2C2382%29%3BResize%3D620",
+        "publishedAt": "2026-05-30T14:58:14Z",
+        "source": "CBC"
       }
     ],
     "science": [
+      {
+        "title": "Which came first-the black hole or the galaxy? Webb discovery questions a key theory of galaxy formation",
+        "description": "Researchers say the object could represent one of the clearest examples yet of a supermassive black hole forming without first emerging from a stellar collapse process.",
+        "url": "https://www.wionews.com/science/which-came-first-the-black-hole-or-the-galaxy-webb-discovery-questions-a-key-theory-of-galaxy-formation-1780150896705",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260530/image-1780153907573.jpg?imwidth=1200&imheight=900",
+        "publishedAt": "2026-05-30T15:15:00Z",
+        "source": "WION"
+      },
+      {
+        "title": "year ban from driving",
+        "description": "A Ferrybank man has received a six-year disqualification for driving without insurance or a licence",
+        "url": "https://www.waterford-news.ie/news/man-gets-six-year-ban-from-driving_arid-99826.html",
+        "image": "https://www.waterford-news.ie/cms_media/module_img/7703/3851564_5_articledetail_IMG_8478.jpg",
+        "publishedAt": "2026-05-30T15:05:00Z",
+        "source": "waterford-news.ie"
+      },
+      {
+        "title": "Mapping the role of artificial intelligence in health-related stigma: a scoping review",
+        "description": "Stigma remains a major barrier to equitable health and well-being, while artificial intelligence (AI) is increasingly recognized as a tool with both potential and risk in addressing this challenge. However, research on AI and stigma is fragmented across disciplines, hindering a unified understanding of their intersection. To consolidate existing evidence, we conducted a scoping review of 11,769 records published between 2016 and 2025 and identified 70 studies examining the relationship between AI and health-related stigma. Four research themes emerged: AI measuring stigma (n = 42, 60%), stigma influencing AI use (n = 15, 21%), AI increasing stigma (n = 9, 13%), and AI reducing stigma (n = 4, 6%). Most studies focused on mental health disorders, revealing an imbalance in attention to other health conditions. Across studies, we observed inconsistent definitions of stigma, limited cross-cultural perspectives, and few evaluations of real-world AI applications. Addressing these gaps will be critical for developing responsible and equitable AI systems that mitigate rather than reinforce health stigma across broader societal and health contexts.",
+        "url": "https://www.nature.com/articles/s41746-026-02832-x?error=cookies_not_supported&code=f51f4162-f827-4acc-8976-7d3be7f75746",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-05-30T15:03:11Z",
+        "source": "Nature"
+      },
+      {
+        "title": "How to watch rare blue moon as it illuminates Irish skies this weekend",
+        "description": "This weekend will offer a rare treat for stargazers with a special lunar event which last took place almost three years ago",
+        "url": "https://www.irishmirror.ie/news/irish-news/how-watch-rare-blue-moon-37226264",
+        "image": "https://i2-prod.irishmirror.ie/article37226285.ece/ALTERNATES/s1200d/0_GettyImages-1335692628.jpg",
+        "publishedAt": "2026-05-30T15:00:00Z",
+        "source": "Irish Mirror"
+      },
+      {
+        "title": "Why is the idea of a Blue Moon so enchanting? Over 100 years of pop culture fascination",
+        "description": "What is it about the Blue Moon that inspires us to write songs and name beers after it?",
+        "url": "https://www.space.com/stargazing/why-is-the-idea-of-a-blue-moon-so-enchanting-over-100-years-of-pop-culture-fascination",
+        "image": "https://cdn.mos.cms.futurecdn.net/hv3rM2kLgiVfqbJcwb2rRj-1920-80.jpg",
+        "publishedAt": "2026-05-30T15:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "A violent volcanic eruption may have revealed a new weapon to tackle a potent planet-heating gas",
+        "description": "By Laura Paddison, CNN (CNN) — When an underwater volcano erupted in the South Pacific in January 2022, it sent a plume of ash, steam and gas nearly",
+        "url": "https://krdo.com/news/2026/05/30/a-violent-volcanic-eruption-may-have-revealed-a-new-weapon-to-tackle-a-potent-planet-heating-gas/",
+        "image": "https://krdo.b-cdn.net/2026/05/Untitled-design-21.png",
+        "publishedAt": "2026-05-30T14:54:32Z",
+        "source": "KRDO"
+      },
+      {
+        "title": "Pulsar wind nebula inside supernova remnant explored with Chandra",
+        "description": "Astronomers from the George Washington University (GWU) in Washington, DC, and elsewhere have employed NASA's Chandra X-ray spacecraft to observe a pulsar wind nebula inside a supernova remnant known as CTA 1. Results of the observational campaign, presented in a research paper published May 20 on the arXiv preprint server, shed more light on the morphology and properties of this nebula.",
+        "url": "https://phys.org/news/2026-05-pulsar-nebula-supernova-remnant-explored.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/pulsar-wind-nebula-ins.jpg",
+        "publishedAt": "2026-05-30T14:40:02Z",
+        "source": "Phys.org"
+      },
       {
         "title": "era programming language that almost nobody on Earth fully understands anymore, and the handful of engineers who do are now in their 80s.",
         "description": "The popular version of the story sounds almost too perfect: NASA is still flying the Voyager spacecraft with code written in a 1970s-era programming",
@@ -142,128 +198,72 @@
         "image": "https://maketecheasier.com/wp-content/uploads/2026/05/newimagesize-2026-05-30T201150.015.png",
         "publishedAt": "2026-05-30T13:19:20Z",
         "source": "Make Tech Easier"
-      },
-      {
-        "title": "Antarctica study finds close quarters hurt teams",
-        "description": "People get frustrated when they’re stuck together for long periods of time, a new study confirmed.",
-        "url": "https://www.cp24.com/news/world/2026/05/30/does-working-too-closely-affect-team-productivity-heres-what-one-study-found/",
-        "image": "https://www.cp24.com/resizer/v2/F6OZFBD4PKBAHHRVUKBOUBDCQA.jpg?smart=true&auth=de8f53858b7ce84e5a946bb893f3144011f01181bdf1469cb6d93c46487a08b4&width=1200&height=630",
-        "publishedAt": "2026-05-30T13:17:45Z",
-        "source": "CP24"
-      },
-      {
-        "title": "Rare blue moon to grace Guangzhou's night sky on May 31",
-        "description": "On May 31, skywatchers will be treated to a rare cosmic event, and Guangzhou residents and skywatchers around the world will have a chance to observe a \"blue moon,\" which is also expected to be the smallest full moon in 2026.",
-        "url": "https://www.newsgd.com/node_99363c4f3b/b4238c3da8.shtml",
-        "image": "https://nfassetoss-eo.southcn.com/__asset/55446036ac/3c3d9ac433.jpg",
-        "publishedAt": "2026-05-30T13:10:22Z",
-        "source": "Guangdong News"
-      },
-      {
-        "title": "Scientists just proved plants can survive in the harshest place imaginable-and it changes everything for space exploration",
-        "description": "A moss sent to the outer reaches of the International Space Station just proved that life on Earth can survive in one of the cosmos’s most brutal environments—and the findings could revolutionize how we explore and colonize space. We’ve long known that tardigrades, those nearly indestructible microscopic creatures, can withstand the vacuum of space. But…",
-        "url": "https://artthreat.net/39528-scientists-just-proved-plants-can-survive-in-the-harshest-place-imaginable-and-it-changes-everything-for-space-exploration/",
-        "image": "https://artthreat.net/wp-content/uploads/2026/05/scientists-just-proved-plants-can-survive-in-the-harshest-place-imaginable-and-it-changes-everything-for-space-exploration-scaled.webp",
-        "publishedAt": "2026-05-30T13:02:27Z",
-        "source": "artthreat.net"
-      },
-      {
-        "title": "Watch the smallest full moon of 2026 tonight in this rare 'Blue Moon' livestream",
-        "description": "Watch the smallest full moon of the year live tonight during a rare 'Blue Moon' livestream from Italy with the Virtual Telescope Project.",
-        "url": "https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream",
-        "image": "https://cdn.mos.cms.futurecdn.net/tmXpHJvALF9deT2AWRTbn8-1920-80.jpg",
-        "publishedAt": "2026-05-30T13:00:00Z",
-        "source": "Space"
-      },
-      {
-        "title": "New study targets liver as magnetic sensor behind pigeon’s long-range navigation",
-        "description": "Study suggests homing pigeons use iron-rich immune cells in their livers to sense Earth's magnetic field and navigate.",
-        "url": "https://www.yahoo.com/news/science/articles/study-targets-liver-magnetic-sensor-125413505.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/0a8dc0c47f9305a73bc8f5948d0e8ad49275a7f3e03aa1b4a1cc177c6b63adf3/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2F501e9f9569643b94858091dabb951a57",
-        "publishedAt": "2026-05-30T12:54:13Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Fruit fly study links dopamine to stress-induced sexual dysfunction",
-        "description": "Scientists from Tokyo Metropolitan University have revealed key parts of the biochemical pathways connecting stress to sexual dysfunction.",
-        "url": "https://www.news-medical.net/news/20260530/Fruit-fly-study-links-dopamine-to-stress-induced-sexual-dysfunction.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Sexual_Dysfunction-620x480.jpg",
-        "publishedAt": "2026-05-30T12:42:00Z",
-        "source": "News-Medical"
-      },
-      {
-        "title": "Mauna Loa Observatory Survives Lava, Budget Cuts And Politics",
-        "description": "After a volcanic eruption and funding threats, NOAA says Mauna Loa's world-famous CO₂ record is secure, accessible again, and undergoing major upgrades.",
-        "url": "https://www.forbes.com/sites/we-dont-have-time/2026/05/30/mauna-loa-observatory-survives-lava-budget-cuts-and-politics/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ad94493e53af5e334ad8d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-05-30T12:41:50Z",
-        "source": "Forbes"
       }
     ],
     "ai": [
       {
-        "title": "Banks have AI. Their bigger problem is knowing how to use it",
-        "description": "AI can help banks cut costs, improve decisions and boost productivity, but experts say readiness, governance and execution matter more than technology itself.",
-        "url": "https://www.cnbctv18.com/technology/banks-have-ai-their-bigger-problem-is-knowing-how-to-use-it-19916269.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/05/picture-13-2026-05-25dff5cb715644968188dfdeeb49af38.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-30T13:24:21Z",
-        "source": "CNBC TV18"
+        "title": "AI chipmaker Nvidia set to enter PC market with first Windows computer in collaboration with Microsoft: Details",
+        "description": "AI chipmaker Nvidia is set to make its official entry into the PC market and unveiling its first Windows PCs powered by its own processors in collaboration with Microsoft. The launch is expected next week and could bolster Microsoft's AI PC ambitions with more local, on-device AI capabilities",
+        "url": "https://www.livemint.com/technology/tech-news/ai-chipmaker-nvidia-set-to-enter-pc-market-with-first-windows-computer-in-collaboration-with-microsoft-details-11780154268740.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/ISRAEL-TECH-FUNDRAISING-0_1766837773858_1766837781379_1780154670870_c2510fbb-45eb-402c-9bfd-9edd59dcbd00.JPG",
+        "publishedAt": "2026-05-30T15:28:23Z",
+        "source": "Livemint"
       },
       {
-        "title": "How the middle-class should adjust to AI economy",
-        "description": "One experienced engineer working alongside AI tools can increasingly perform work that once required teams beneath him | India News",
-        "url": "https://www.hindustantimes.com/india-news/how-the-middle-class-should-adjust-to-ai-economy-101780146422110.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/INDIA-AI--0_1766978614958_1766978631891_1780146907020_aac3cdf2-e0d6-4f1d-8b6a-f43110ca2bdc.JPG",
-        "publishedAt": "2026-05-30T13:22:47Z",
-        "source": "Hindustan Times"
+        "title": "Shimla fest gets intellectual twist",
+        "description": "Inter-school declamation competition to focus on AI and doomscrolling.",
+        "url": "https://www.tribuneindia.com/news/himachal/shimla-fest-gets-intellectual-twist/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMxNWI5MzAwLTVjOWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-05-30T15:22:01Z",
+        "source": "The Tribune"
       },
       {
-        "title": "No AI play: Declining trend of India’s MSCI weight continues",
-        "description": "At 14.21%, Taiwanese chip giant TSMC on its own has a greater weight than India on MSCI’s EM index.",
-        "url": "https://indianexpress.com/article/business/msci-rebalancing-india-weight-drop-fpi-outflow-taiwan-ai-boom-tsmc-10715959/",
-        "image": "https://images.indianexpress.com/2026/05/Indias-MSCI-weight-continues.jpg",
-        "publishedAt": "2026-05-30T13:15:07Z",
-        "source": "The Indian Express"
+        "title": "Dell: Count Your Blessings And Sell The FOMO Rally",
+        "description": "Dell (DELL) surged 33% post-Q1'27 earnings, driven by explosive demand for AI-optimized servers and record Infrastructure Solutions Group performance.",
+        "url": "https://seekingalpha.com/article/4910302-dell-count-your-blessings-and-sell-the-fomo-rally",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213899495/image_2213899495.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-30T15:20:57Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "India’s chip designers are getting a powerful new teammate: AI",
-        "description": "As chip design becomes more complex, AI is helping engineers work faster, reduce repetitive tasks and potentially strengthen India’s position in the global semiconductor industry.",
-        "url": "https://www.cnbctv18.com/technology/indias-chip-designers-are-getting-a-powerful-new-teammate-ai-19916252.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/05/456881756-2026-05-869bf3bee6dd30bdd50458c30ceaef7a.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-30T13:12:20Z",
-        "source": "CNBC TV18"
-      },
-      {
-        "title": "NTU launches AI and finance research institute",
-        "description": "Singapore's Nanyang Technological University launches the Global Institute of Finance, Technology, and Society (GIFTS) to research AI's impact on finance and society. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/singapore/new-ntu-institute-to-deepen-research-at-the-intersection-of-ai-finance-and-society",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d0e0335a8fdd5bda2d28d645a16fbdd673213d11bd15282c60771d2de6e880fc",
-        "publishedAt": "2026-05-30T13:10:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "AI champions rewrite global stockmarket rankings",
-        "description": "For a long time, the global stockmarket hierarchy primarily reflected the size of economies and their ability to attract international savings. Today, it also reflects their exposure to critical AI...\n-May 30, 2026 at 09:05 am EDT\n- MarketScreener",
-        "url": "https://www.marketscreener.com/news/ai-champions-rewrite-global-stockmarket-rankings-ce7f5dd8db8af52d",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-02-13T143108Z_1_LYNXMPEL1C0OZ_RTROPTP_3_SAMSUNG-ELEC-INDIA-STRIKE.JPG",
-        "publishedAt": "2026-05-30T13:05:32Z",
-        "source": "MarketScreener"
-      },
-      {
-        "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
-        "description": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
-        "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_4-pID_5.png",
-        "publishedAt": "2026-05-30T13:01:03Z",
-        "source": "Decrypt"
-      },
-      {
-        "title": "Starbucks’ AI Disaster and Sam Altman’s U-Turn Prove That AI Still Needs Humans",
-        "description": "The company’s inventory management AI failed at simple tasks, reiterating the need for human involvement in all processes.",
-        "url": "https://www.barchart.com/story/news/2216034/starbucks-ai-disaster-and-sam-altmans-u-turn-prove-that-ai-still-needs-humans",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/Food%2C%20Bev%20%26%20Cannabis/Starbucks%20coffee%20shop%20sign%20by%20Sergio%20Delle%20Vedove%20via%20iStock.jpg",
-        "publishedAt": "2026-05-30T13:00:02Z",
+        "title": "Wedbush Just Set a New Street-High Price Target of $325 on Palo Alto Networks. What This Means for PANW Stock.",
+        "description": "Wedbush cited accelerating AI-driven cybersecurity demand and solid platform momentum after Palo Alto posted fiscal Q2 revenue of $2.6 billion.",
+        "url": "https://www.barchart.com/story/news/2217377/wedbush-just-set-a-new-street-high-price-target-of-325-on-palo-alto-networks-what-this-means-for-panw-stock",
+        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/Palo%20Alto%20Networks%20Inc%20logo%20and%20site-by%20T_Schneider%20via%20Shutterstock.jpg",
+        "publishedAt": "2026-05-30T15:15:01Z",
         "source": "Barchart"
+      },
+      {
+        "title": "Out of the blue, Acer just dropped two smart glasses that look pretty stylish",
+        "description": "There’s a $499.99 wired AR headset with dual micro OLED displays and a $299.99 wireless AI glasses running Google Gemini.",
+        "url": "https://www.digitaltrends.com/wearables/out-of-the-blue-acer-just-dropped-two-smart-glasses-that-look-pretty-stylish/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/05/Acer-smart-wired-AR-headset-in-action.jpg?resize=1200%2C630",
+        "publishedAt": "2026-05-30T15:14:25Z",
+        "source": "Digital Trends"
+      },
+      {
+        "title": "Super Micro's Next Act Could Be Bigger Than AI Servers",
+        "description": "Super Micro Computer (SMCI) is transitioning from a low-margin hardware assembler to a full-stack AI data center infrastructure provider, offering...",
+        "url": "https://seekingalpha.com/article/4910301-super-micros-next-act-could-be-bigger-than-ai-servers",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204451389/image_2204451389.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-30T15:06:08Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "RIL to invest in sovereign AI infrastructure with Rs 10 lakh crore commitment to multi",
+        "description": "The RIL Chairman had initially made the announcement about the major investment in AI infrastructure in his remarks at the AI Impact Summit held in the national capital in February this year.",
+        "url": "https://www.tribuneindia.com/news/business/ril-to-invest-in-sovereign-ai-infrastructure-with-rs-10-lakh-crore-commitment-to-multi-gigawatt-scale-ai-ready-data-centres/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjMzhkYjIwLTVjMzktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-05-30T15:05:45Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Emily Blunt snubs AI for alien scene in 'Disclosure Day'",
+        "description": "As AI is attempting to encroach its way into Hollywood, there is resistance within the industry.\nEmily Blunt is an example.\nIn her upcoming movie, Disclosure Day, the actress' character was required...",
+        "url": "https://www.thenews.com.pk/latest/1404204-emily-blunt-refuses-to-use-ai-in-disclosure-day",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-30/1404204_080555_updates.jpg",
+        "publishedAt": "2026-05-30T15:05:00Z",
+        "source": "The News International"
       }
     ]
   }
