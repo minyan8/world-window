@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-31T19:45:56.862Z",
+  "fetchedAt": "2026-05-31T20:39:17.211Z",
   "sections": {
     "world": [
       {
-        "title": "American allies warn division weakens deterrence in calls for global unity to meet new threats",
-        "description": "SINGAPORE — American allies stressed the need for unity at a top defense conference Sunday, saying that as threats increasingly transcend regions, cooperation is more important than ever, even as Washington has become more critical of its traditional friends.",
-        "url": "https://www.manilatimes.net/2026/05/31/news/american-allies-warn-division-weakens-deterrence-in-calls-for-global-unity-to-meet-new-threats/2355140",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/31/1078748.jpg",
-        "publishedAt": "2026-05-31T07:44:00Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Malaysia slams 'deafening silence' over scrapped Norway missile deal",
-        "description": "Malaysia and Norway have fallen into a diplomatic dispute this month since the latter revoked export approvals for certain technologies.",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-slams-deafening-silence-scrapped-norway-naval-missile-system-deal-shangri-la-dialogue-6152096",
-        "image": "https://dam.mediacorp.sg/image/upload/s--MaKEdtPa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/31/img_9724.jpg?itok=GO74ZSLy",
-        "publishedAt": "2026-05-31T07:43:20Z",
-        "source": "CNA"
-      },
-      {
-        "title": "French police detain hundreds in Paris after violent celebrations of PSG’s Champions League title",
-        "description": "The French interior ministry said that some 780 persons were questioned nationally, including 283 in Paris alone.",
-        "url": "https://www.euronews.com/2026/05/31/french-police-detain-dozens-in-paris-after-violent-celebrations-of-psgs-champions-league-t",
-        "image": "https://images.euronews.com/articles/stories/09/77/89/02/1200x675_cmsv2_d596ab2a-d374-5ffe-98da-8cdea1a46ca3-9778902.jpg",
-        "publishedAt": "2026-05-31T07:36:07Z",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Just across the river, a world away for families split by Kashmir unrest",
-        "description": "Raja Basharat can see his brother's grave on the opposite bank of a river that divides the disputed region, but visiting it -- a holiday tradition for Muslims on Eid al-Adha -- is impossible.",
-        "url": "https://www.standardmedia.co.ke/world/article/2001549131/just-across-the-river-a-world-away-for-families-split-by-kashmir-unrest",
-        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/uEF6jc2zBTdVSBDmSN8lMMsmqgu4P7qY9sv0Et1g.jpg",
-        "publishedAt": "2026-05-31T07:33:38Z",
-        "source": "standardmedia.co.ke"
-      },
-      {
-        "title": "Cycling Bolivia’s Death Road: What to expect on the world’s most dangerous ride",
-        "description": "Ever wondered what it’s like to cycle Bolivia’s ominously named Death Road? Tamara Hinson jumps on the saddle so you don’t have to. I’m 3500m above sea level...",
-        "url": "https://www.nzherald.co.nz/travel/cycling-bolivias-death-road-what-to-expect-on-the-worlds-most-dangerous-ride/K6UEMBEBMVC2NFML7UVSDZF52U/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/QJ5B67N5GJEK5CWNCI5ML5DFNM.jpg?auth=362e367c21b1948abf2a39d4649a8257f45669a1d30900828318e4877367fd1a&width=1200&height=675&quality=70&focal=1184%2C667&smart=false",
-        "publishedAt": "2026-05-31T07:19:10Z",
-        "source": "NZ Herald"
-      },
-      {
-        "title": "forget' $500 Yolka drone hunter that fits in soldier's hand",
-        "description": "International News: New footage circulating online appears to show Russian forces deploying the handheld \\\"Yolka\\\" interceptor drone system in combat, signalling a wider op.",
-        "url": "https://timesofindia.indiatimes.com/defence/international/watch-russias-fire-and-forget-500-yolka-drone-hunter-that-fits-in-soldiers-hand/articleshow/131419863.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131420023,width-1280,height-720,imgsize-32804,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-31T07:15:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "At the bottom of sea? Iran Navy has a safe haven where US power hits a wall",
-        "description": "Iranian Navy in Caspian Sea: Donald Trump has mocked Iran's navy, saying US and Israeli strikes sent it to the bottom. But Iran has another navy that the US can't touch. It's stationed on Iran's northern coast, on the Caspian Sea. It continues to operate under a protected geopolitical shield. Here's everything you need to know about it.",
-        "url": "https://www.indiatoday.in/world/story/iran-caspian-sea-northern-fleet-remains-beyond-us-reach-israel-russia-china-influence-2919675-2026-05-31",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/iran-northern-fleet-caspian-sea-tarik-countries-china-russia-influence-why-america-washington-cannot-300611199-16x9_0.jpg?VersionId=mFa.uV704jK12OyI3ZvGXVdp2ks.FoOr",
-        "publishedAt": "2026-05-31T07:10:05Z",
+        "title": "Sexting, half-naked photos on hookup app shake US Democrat's Senate campaign",
+        "description": "Graham Platner's Maine Senate campaign was confronted with allegations of sexual messages to other women after Amy Gertner spoke to a senior aide. The disclosures and fresh scrutiny over a Kik image and his past controversies have intensified questions around his candidacy.",
+        "url": "https://www.indiatoday.in/world/us-news/story/half-nude-photos-democrat-graham-platner-maine-senate-race-sexting-claims-amy-gertner-2919857-2026-05-31",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/fresh-reports-allege-maine-democratic-senate-candidate-graham-platner-maintained-an-active-kik-accou-312554649-16x9_0.png?VersionId=.vBXOIQ702qtYbTVu8.XGWu4X5imyk1Q",
+        "publishedAt": "2026-05-31T08:37:14Z",
         "source": "India Today"
       },
       {
-        "title": "Iran war news LIVE: Israel captures medieval castle in Lebanon, Tehran issues fresh warning to ‘enemies’",
-        "description": "Iran war news LIVE: The capture of Beaufort Castle near the city of Nabatiyeh came after days of intense fighting and airstrikes in nearby villages, where Israeli troops fought Hezbollah members in the rugged area. | World News",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-ceasefire-peace-deal-donald-trump-strikes-strait-of-hormuz-netanyahu-israel-lebanon-latest-101780187912874.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/31/550x309/logo/LEBANON-ISRAEL-IRAN-US-WAR-0_1780211200773_1780211228948_72ea0863-884f-4ab5-8922-cdbb491dc22d.jpg",
-        "publishedAt": "2026-05-31T07:08:13Z",
-        "source": "Hindustan Times"
+        "title": "Identity verification required for social media advertisers under new online safety regime",
+        "description": "The nation intensifies efforts to combat online scams, illegal gambling promotions and the misuse of public figures’ identities under the Online Safety Act 2025",
+        "url": "https://www.thevibes.com/articles/news/123496/govt-mandates-identity-verification-for-social-media-advertisers-under-new-online-safety-regime",
+        "image": "https://media.thevibes.com/images/uploads/covers/_large/Teo_Nie_Ching_sacm.jpg",
+        "publishedAt": "2026-05-31T08:37:00Z",
+        "source": "The Vibes"
+      },
+      {
+        "title": "Full List of 10 African Countries With Lowest IMF Debt in 2026",
+        "description": "Explore how several African nations maintain low IMF debt, enhancing economic flexibility and investment in vital sectors for long-term growth opportunities.",
+        "url": "https://www.legit.ng/business-economy/economy/1712341-full-list-10-african-countries-lowest-imf-debt-2026/",
+        "image": "https://cdn.legit.ng/images/1200x675/133878f2d0cc57ff.jpeg?v=1",
+        "publishedAt": "2026-05-31T08:35:09Z",
+        "source": "Legit.ng"
+      },
+      {
+        "title": "English Green party leader Zack Polanski tells Australian colleagues to ‘connect with anger’ to counter rightwing populism",
+        "description": "Australian Greens should ‘take on’ Pauline Hanson’s One Nation, Polanski tells Victorian party conference, just as he took on Nigel Farage’s Reform UK",
+        "url": "https://www.theguardian.com/australia-news/2026/may/31/australian-greens-zack-polanski-england-wales-leader-connect-with-anger-to-counter-rightwing-populism-one-nation",
+        "image": "https://i.guim.co.uk/img/media/91d1534b27954978d5b9866f80b853b28a345d72/943_130_5041_4034/master/5041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=808d9cdc887011cd4c217b8d237009e8",
+        "publishedAt": "2026-05-31T08:31:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Taoiseach digs in on Occupied Territories Bill, but concerns grow among government TDs",
+        "description": "Some government TDs say at the very least, the government must include a ban on the advertisement of services.",
+        "url": "https://www.thejournal.ie/taoiseach-occupied-territories-bill-7055781-May2026/",
+        "image": "https://img2.thejournal.ie/article/7055781/river/?height=400&version=7055886",
+        "publishedAt": "2026-05-31T08:31:00Z",
+        "source": "The Journal"
+      },
+      {
+        "title": "Israel captures strategic Crusader-built castle as incursion into southern Lebanon deepens",
+        "description": "The Israeli military has captured the Crasader-era Beaufort Castle in southern Lebanon, a site it hasn’t held for 26 years, as it expands its incursion deeper into its neighbor’s territory.",
+        "url": "https://www.cnn.com/2026/05/31/middleeast/israel-captures-beaufort-castle-lebanon-intl-hnk",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/78166524-f9f8-4bab-a8ac-947.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-05-31T08:30:49Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Wild celebrations after PSG’s Champions League win lead to ‘more than 400 arrests’ in the French capital & injuries to police officers",
+        "description": "More than 400 people were arrested in France after PSG's Champions League final victory over Arsenal led to violent clashes in Paris.",
+        "url": "https://www.goal.com/en-ke/lists/celebrations-psg-champions-league-french-injuries-police/blt42a6e0fbd003ebe4",
+        "image": "https://assets.goal.com/images/v3/getty-2278335565/crop/MM5DINRXGI5DENRSHA5G433XMU5DAORTHEZQ====/GettyImages-2278335565.jpg",
+        "publishedAt": "2026-05-31T08:26:05Z",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Jason's Amazing Journey on Four Wheels",
+        "description": "Jason's adventure shows that even the biggest journeys begin with a single push. Most people use a skateboard...",
+        "url": "https://www.goodthingsguy.com/jasons-amazing-journey-on-four-wheels/",
+        "image": "https://www.goodthingsguy.com/wp-content/uploads/2026/05/jason-v-skaet-001.jpg",
+        "publishedAt": "2026-05-31T08:25:10Z",
+        "source": "Good Things Guy"
       }
     ],
     "business": [
       {
-        "title": "Thai Lion Air cutting flights on 15 routes, including Phuket-Singapore, as jet fuel costs surge",
-        "description": "Flights between Singapore and Phuket will be suspended from June 3 to Aug 1. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/thai-lion-air-cutting-flights-on-15-routes-including-phuket-singapore-as-jet-fuel-costs-surge",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/86148408b6ec05ab95266a68a35f4daa03dabcb3a1ebda6b1a4664f49d83db8c",
-        "publishedAt": "2026-05-31T07:38:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Government takes control of Thameslink, Southern and Gatwick Express operator",
-        "description": "Govia Thameslink Railway, which runs one in six rail journeys in Britain, has transferred into public ownership as part of the government's plans to create Great British Railways.",
-        "url": "https://www.ianvisits.co.uk/articles/government-takes-control-of-thameslink-southern-and-gatwick-express-operator-90117/",
-        "image": "https://www.ianvisits.co.uk/wp-content/uploads/sites/2/social-cards/90117/facebook.jpg",
-        "publishedAt": "2026-05-31T07:35:38Z",
-        "source": "ianVisits"
-      },
-      {
-        "title": "FPI outflows reach Rs 2.25 lakh crore in 2026 after Rs 32,963 crore withdrawal in May",
-        "description": "Foreign investors withdrew Rs 32,963 crore from Indian equities in May, taking total FPI outflows in 2026 to Rs 2.25 lakh crore amid weak earnings growth, rupee depreciation and global market uncertainties.",
-        "url": "https://www.moneycontrol.com/news/business/fpi-outflows-reach-rs-2-25-lakh-crore-in-2026-after-rs-32-963-crore-withdrawal-in-may-13936631.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260423015622_dollar-bills.jpg",
-        "publishedAt": "2026-05-31T07:34:36Z",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "GSIS expands mall-based service hubs across Metro Manila, nearby areas",
-        "description": "THE Government Service Insurance System (GSIS) continues to bring its services closer to members and pensioners through the expansion of its mall-based Ginhawa Service Hubs in key commercial centers in Metro Manila and nearby provinces.",
-        "url": "https://www.manilatimes.net/2026/05/31/tmt-newswire/gsis-expands-mall-based-service-hubs-across-metro-manila-nearby-areas/2355138",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-05-31T07:33:00Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Energy crunch fuels car pool growth in India",
-        "description": "The trend has been pronounced in countries where fuel price increases driven by the war have been sudden and significant.",
-        "url": "https://www.dawn.com/news/2004123",
-        "image": "https://i.dawn.com/large/2026/05/31123027d49ebaf.webp",
-        "publishedAt": "2026-05-31T07:32:39Z",
-        "source": "Dawn"
-      },
-      {
-        "title": "Mahindra Designer Posts Story, Then Deletes It - Is It Vision S 7 Seater SUV",
-        "description": "Mahindra Scorpio Sport has been teased in a now-deleted Instagram story, suggesting that it could be a 7-seater vehicle in sub 4m space.",
-        "url": "https://www.rushlane.com/mahindra-designer-posts-story-then-deletes-it-is-it-vision-s-7-seater-suv-12547960.html",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/05/mahindra-scorpio-sport-teased-by-pratap-bose-cover.jpg",
-        "publishedAt": "2026-05-31T07:31:33Z",
+        "title": "VinFast MPV 7 Taxi At Rs 8 Per Km - Drivers Could Earn Rs 35k to Rs 40k",
+        "description": "Backed by professional management and trained drivers, VinFast's taxi services can greatly enhance the daily commute experience",
+        "url": "https://www.rushlane.com/vinfast-mpv-7-taxi-at-rs-8-per-km-drivers-could-earn-rs-35k-to-rs-40k-12547958.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/05/vinfast-mpv-7-electric-taxi-price-3.jpeg",
+        "publishedAt": "2026-05-31T08:36:37Z",
         "source": "RushLane"
       },
       {
-        "title": "Stock market fever fuels biggest jump in personal borrowing in 5 years",
-        "description": "With the benchmark KOSPI shattering one record after another, surpassing the 8,400 mark for the first time on Friday, more and more retail investor...",
-        "url": "https://www.koreatimes.co.kr/economy/20260531/stock-market-fever-fuels-biggest-jump-in-personal-borrowing-in-5-years",
-        "image": "https://newsimg.koreatimes.co.kr/2026/05/31/7d3f8cc3-821b-4313-bbfe-28a27541e8b3.jpg",
-        "publishedAt": "2026-05-31T07:29:06Z",
-        "source": "The Korea Times"
+        "title": "Jack Miller reveals Yamaha’s biggest MotoGP weakness",
+        "description": "Jack Miller says Yamaha’s performance in MotoGP is heavily limited by the V4 engine.",
+        "url": "https://www.crash.net/motogp/news/1096498/1/jack-miller-reveals-yamahas-biggest-motogp-weakness",
+        "image": "https://www.crash.net/sites/default/files/2026-05/gng_1319037_hires.jpg?width=1600&aspect_ratio=16:9",
+        "publishedAt": "2026-05-31T08:35:36Z",
+        "source": "Crash.net"
       },
       {
-        "title": "Soaring prices during the Iran war jeopardize travel to tourism-dependent countries in Asia",
-        "description": "The war in Iran threatens to disrupt international travel to Asia, where the tourism industry has yet to fully recover from the the COVID‑19 pandemic. Airspace closures, the rerouting of flights...",
-        "url": "https://www.sfchronicle.com/news/world/article/soaring-prices-during-the-iran-war-jeopardize-22284376.php",
-        "image": "https://s.hdnux.com/photos/01/66/33/46/31046051/3/rawImage.jpg",
-        "publishedAt": "2026-05-31T07:28:17Z",
-        "source": "San Francisco Chronicle"
+        "title": "Former Fed Chair Jerome Powell Did Something That's Only Been Done Once Before in 30 Years, and It May Continue to Send Shockwaves Through the Stock Market.",
+        "description": "This one thing may determine what the stock market does next.",
+        "url": "https://www.fool.com/investing/2026/05/31/former-fed-chair-jerome-powell-did-something-thats/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871795%2Fgettyimages-1318178022.jpg&w=1200&op=resize",
+        "publishedAt": "2026-05-31T08:34:08Z",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "FPI profile: Foreign investors continue selling spree in May, pull out Rs 32,000 crore",
+        "description": "India Business News: Foreign Portfolio Investors (FPIs) continued to exit Indian equities in May, pulling out Rs 32,963 crore amid concerns over earnings growth, weakening.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-profile-foreign-investors-continue-selling-spree-in-may-pull-out-rs-32000-crore/articleshow/131420620.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131420694,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-31T08:32:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "I moved from Ethiopia to Shetland - and I've brought the coffee with me",
+        "description": "Netsanet Sori is bringing a flavour of the farm where she grew up to her new home 4,000 miles away.",
+        "url": "https://www.yahoo.com/lifestyle/articles/moved-ethiopia-shetland-ive-brought-082933398.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/uWhARJq1kiTZ6YqxMd1owg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/0f8fb91f88e7534ff0f6dd695af92ded",
+        "publishedAt": "2026-05-31T08:29:33Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "I've moved from Ethiopia to Shetland",
+        "description": "Netsanet Sori is bringing a flavour of the farm where she grew up to her new home 4,000 miles away.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgz46znz0vo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e37/live/fe2b8f30-5b68-11f1-8ea9-9775e47f19f8.jpg",
+        "publishedAt": "2026-05-31T08:29:29Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Iran war pushes up prices, threatens Asia tourism demand",
+        "description": "Soaring prices and other complications from the war with Iran are straining the tourism-dependent economies of countries in Southeast Asia",
+        "url": "https://cebudailynews.inquirer.net/733064/iran-war-pushes-up-prices-threatens-asia-tourism-demand",
+        "image": "https://cebudailynews.inquirer.net/files/2026/05/angkorwat-scaled.jpeg",
+        "publishedAt": "2026-05-31T08:29:00Z",
+        "source": "Cebu Daily News"
+      },
+      {
+        "title": "Dangote cuts petrol and diesel prices as Africa’s largest refinery expands market influence",
+        "description": "Dangote Refinery has reduced petrol and diesel prices as easing Middle East tensions cool oil markets. The move strengthens the refinery’s growing role in Nigeria’s fuel market and could ease business costs. | Business Insider Africa",
+        "url": "https://africa.businessinsider.com/local/markets/dangote-cuts-petrol-and-diesel-prices-as-africas-largest-refinery-expands-market/82jrbng",
+        "image": "https://ocdn.eu/pulscms-transforms/1/DMIktkpTURBXy9hMzNjMzdjZGZiZTI2ZjYxYmI3NDU1ZWZkNjg3YzlhNy5wbmeSlQMAAs0CvM0BipMFzQSwzQJ2",
+        "publishedAt": "2026-05-31T08:28:15Z",
+        "source": "Business Insider Africa"
       }
     ],
     "science": [
+      {
+        "title": "How The James Webb Space Telescope Works Using Less Power Than Your Microwave",
+        "description": "One of the most impressive aspects of the design of the James Webb Space Telescope is how little energy it needs to function.",
+        "url": "https://www.slashgear.com/2183401/what-powers-james-webb-telescope-how-much-energy/",
+        "image": "https://www.slashgear.com/img/gallery/how-the-james-webb-space-telescope-works-using-less-power-than-your-microwave/l-intro-1780012340.jpg",
+        "publishedAt": "2026-05-31T08:30:00Z",
+        "source": "SlashGear"
+      },
+      {
+        "title": "Meteor Activity Outlook for 30 May-5 June 2026",
+        "description": "During this period the moon will reach its full phase on Sunday May 31st. At that time the moon will lie above the horizon all night long. As the week progresses, there will be a limited amount of time between dusk and moonrise when the sky will be dark enough for meteor observing...",
+        "url": "https://www.imo.net/meteor-activity-outlook-for-30-may-5-june-2026/",
+        "image": "http://www.amsmeteors.org/wp-content/uploads/2026/05/8518q.jpg",
+        "publishedAt": "2026-05-31T08:29:44Z",
+        "source": "International Meteor Organization"
+      },
+      {
+        "title": "In conversation with Serena Margadonna",
+        "description": "Insights from a career shaped by discovery, collaboration and real-world impact.",
+        "url": "https://www.rsc.org/news/in-conversation-with-serena-margadonna",
+        "image": "https://www.rsc.org/getContentAsset/13543419-5f5c-4aa9-81c2-53674f17cef7/97c19dfb-06fc-4638-b657-b9d8300eab48/RSC-fallback-Image.jpg?language=en",
+        "publishedAt": "2026-05-31T08:03:18Z",
+        "source": "The Royal Society of Chemistry"
+      },
+      {
+        "title": "The Sky Today on Sunday, May 31: Blue Moon, red star",
+        "description": "May’s Blue Moon passes close to the bright red star in the constellation Scorpius early this morning; catch them before they set.",
+        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-may-31-2026/",
+        "image": "https://www.astronomy.com/wp-content/uploads/2026/05/Moon-Antares05312026.png?resize=1200,630",
+        "publishedAt": "2026-05-31T08:00:48Z",
+        "source": "Astronomy Magazine"
+      },
+      {
+        "title": "How to watch Jupiter and Venus as they join in the sky this week",
+        "description": "You may have noticed two bright \"stars\" in the west after sunset. Those aren't stars but rather two planets: Jupiter and Venus. And they're on their way for a beautiful meet-up in the days ahead.",
+        "url": "https://www.cbc.ca/news/science/jupiter-venus-conjunction-9.7215393",
+        "image": "https://i.cbc.ca/ais/dfee3d4b-c549-406a-8b67-75979e41617b,1779989842064/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C204%2C4000%2C2250%29%3BResize%3D620",
+        "publishedAt": "2026-05-31T08:00:00Z",
+        "source": "CBC"
+      },
       {
         "title": "PAGASA: Longest day expected on June 21, meteor shower to occur from June 22-July 2",
         "description": "By Dean Aubrey Caratiquet Ever wonder why days seem to last longer recently? Your senses are not deceiving you, as June sets the precedent for the beginning of summer in the Northern Hemisphere and winter in the Southern Hemisphere. In PAGASA’s Astronomical Diary for June 2026 uploaded on Sunday, the June Solstice is featured as […]",
@@ -158,112 +198,72 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a1bdcb32bc3a91992466870/0x0.jpg?format=jpg&crop=3344,1880,x0,y0,safe&height=900&width=1600&fit=bounds",
         "publishedAt": "2026-05-31T07:03:37Z",
         "source": "Forbes"
-      },
-      {
-        "title": "The bootprints left by the Apollo astronauts will still be sitting on the Moon a million years from now, because there is no wind and no rain to wear them away.",
-        "description": "The claim is true, and a million years is plausible, though not guaranteed for every individual print. The Apollo tracks, first pressed into the lunar surface in 1969, will almost certainly still be visible in some form a million years from now. There is no wind on the Moon and no rain, so the forces […]",
-        "url": "https://spacedaily.com/t-the-bootprints-left-by-the-apollo-astronauts-will-still-be-sitting-on-the-moon-a-million-years-from-now-because-there-is-no-wind-and-no-rain-to-wear-them-away/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-31T134559.681.png",
-        "publishedAt": "2026-05-31T06:51:45Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
-        "description": "A newly discovered species raises hope that some native British habitats could be restored.",
-        "url": "https://www.aol.com/articles/killer-fungus-could-good-news-230318000.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/9E50EA14526864F8EC907A35C66E0352530614E17F8572F67E0A79B22A58452F/subgraphmysterio/resizefill_w803_h451;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_bbc_articles_618%2F8dec82808886f8735f140ff8e27ccc8b",
-        "publishedAt": "2026-05-31T06:41:03Z",
-        "source": "AOL.com"
-      },
-      {
-        "title": "Sunday a ‘once in a blue moon’ moment",
-        "description": "Catch a rare micro blue moon this Sunday, 31 May. Discover why it occurs and explore popular moon expressions here.",
-        "url": "https://www.citizen.co.za/zululand-observer/news-headlines/local-news/2026/05/31/sunday-a-once-in-a-blue-moon-moment/",
-        "image": "https://images.caxton.co.za/wp-content/uploads/sites/56/2026/05/super-moon-17-Oct-scaled.jpg",
-        "publishedAt": "2026-05-31T06:07:14Z",
-        "source": "The Citizen"
-      },
-      {
-        "title": "Meteor explodes over United States, triggering sonic boom",
-        "description": "A meteor broke apart over the US state of Massachusetts. Several people reported that the buildings they were in shook during the incident.",
-        "url": "https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548",
-        "image": "https://static.dw.com/image/77361509_6.jpg",
-        "publishedAt": "2026-05-31T06:00:55Z",
-        "source": "DW.com"
-      },
-      {
-        "title": "Meteor fireball triggered loud boom across New England, NASA confirms",
-        "description": "May 31 - A bright fireball streaked across parts of New England in the U.S. on Saturday afternoon, accompanied by a loud boom, after a meteor broke apart high in the atmosphere, NASA said citing satellite imagery. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c412ac9e70990554966027382c2121af66be4d0970fc489c8b9776ec9038262a",
-        "publishedAt": "2026-05-31T05:39:56Z",
-        "source": "The Straits Times"
       }
     ],
     "ai": [
       {
-        "title": "Adani says US legal issues behind it, bets on AI-driven infrastructure boom",
-        "description": "NEW DELHI, May 31:  Billionaire Gautam Adani said the Adani Group has moved beyond its US legal challenges and is accelerating investments across energy, transport, logistics and digital infrastructure, positioning itself to benefit from rising demand for artificial intelligence-led growth. In his annual letter to shareholders, Adani said the conglomerate remained committed to expansion despite heightened scrutiny over the past year, adding that matters related to the group’s US legal proceedings were now “behind us”, allowing it to focus on […]",
-        "url": "https://www.dailyexcelsior.com/adani-says-us-legal-issues-behind-it-bets-on-ai-driven-infrastructure-boom/",
-        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/adani-8.jpg",
-        "publishedAt": "2026-05-31T07:44:26Z",
-        "source": "Daily Excelsior"
+        "title": "ET Alpha Wealth Summit: Will AI disrupt India’s growth story or accelerate it?",
+        "description": "Indian market is at a key inflection point as strong macroeconomic fundamentals support long-term growth, while rapid advances in artificial intelligence raise fresh questions on jobs, industries and investment opportunities. The ET Alpha Wealth Summit in Mumbai will host a major debate on whether Indias next decade will be defined by Amritkaal-led growth or AI-led disruption.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-will-ai-disrupt-indias-growth-story-or-accelerate-it/articleshow/131420194.cms",
+        "image": "https://img.etimg.com/thumb/msid-131420207,width-1200,height-630,imgsize-3642374,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-05-31T08:39:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Letters to the editor",
-        "description": "Herald readers sound off about charter schools, and artificial intelligence",
-        "url": "https://www.bostonherald.com/2026/05/31/letters-to-the-editor-783/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/03/BHR-L-LETTERS-01.jpg?w=1024&h=683",
-        "publishedAt": "2026-05-31T07:39:26Z",
-        "source": "The Boston Herald"
+        "title": "Bill Gurley Says Anthropic Is 'Midwifing A Deity'",
+        "description": "Benchmark Capital's Bill Gurley criticized Anthropic, claiming it treats AI development as more than software and fuels risk narratives.",
+        "url": "https://www.benzinga.com/markets/tech/26/05/52893824/bill-gurley-says-anthropic-isnt-building-software-its-midwifing-a-deity",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/31/Anthropic-Logo-Is-Displayed-On-A-Smartph.jpeg",
+        "publishedAt": "2026-05-31T08:34:00Z",
+        "source": "Benzinga"
       },
       {
-        "title": "Adani says US legal issues behind it, bets on AI",
-        "description": "Group bets on renewable energy, transmission and data centres to drive next growth cycle.",
-        "url": "https://www.tribuneindia.com/news/business/adani-says-us-legal-issues-behind-it-bets-on-ai-driven-infrastructure-boom/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZjYjcyZDcwLTVjYzItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-05-31T07:33:12Z",
+        "title": "‘Goodbye, Copilot’: Microsoft faces backlash as Github Copilot ends flat-rate AI pricing from June 1",
+        "description": "Microsoft is changing GitHub Copilot's pricing from flat rate to a usage-based system starting from June 1st.",
+        "url": "https://www.livemint.com/technology/tech-news/goodbye-copilot-microsoft-faces-backlash-as-github-copilot-ends-flat-rate-ai-pricing-from-june-1-11780213914806.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/GitHub_1780215922176_1780215922343_09347c47-d816-45be-b688-d7e8f816a795.png",
+        "publishedAt": "2026-05-31T08:31:55Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Infrastructure and AI: The twin engines of India's growth story",
+        "description": "Infrastructure and AI: The twin engines of India's growth story",
+        "url": "https://www.news18.com/agency-feeds/infrastructure-and-ai-the-twin-engines-of-indias-growth-story-10122412.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+        "publishedAt": "2026-05-31T08:30:05Z",
+        "source": "News18"
+      },
+      {
+        "title": "Infrastructure and AI: The twin engines of India's growth story",
+        "description": "As India positions itself for the next phase of economic growth, two forces are emerging as critical drivers of its future--world-class infrastructure and artificial intelligence (AI).",
+        "url": "https://www.tribuneindia.com/news/business/infrastructure-and-ai-the-twin-engines-of-indias-growth-story/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVjNjA4ODgwLTVjYzgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-05-31T08:15:40Z",
         "source": "The Tribune"
       },
       {
-        "title": "Can AI cure loneliness? New research says no",
-        "description": "One in five Americans have used an AI specifically designed to simulate a romantic partner, and 72% of teenagers have tried an AI companion at least once, according to a 2024 Common Sense Media...",
-        "url": "https://www.thenews.com.pk/latest/1404251-can-ai-cure-loneliness-new-research-says-no",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-05-31/1404251_122940_updates.jpg",
-        "publishedAt": "2026-05-31T07:25:38Z",
-        "source": "The News International"
+        "title": "AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong",
+        "description": "Chinese AI model company hires Citic Securities to prepare a mainland share sale, with the listing venue yet to be confirmed.",
+        "url": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/30/234f81d2-b1a8-4c48-a426-58d1e492aead_e71b6ce4.jpg?itok=tMqX3e02&v=1780139801",
+        "publishedAt": "2026-05-31T08:15:23Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "After Smart Glasses, Meta bets big on AI wearables with new pendant device",
-        "description": "Meta is developing an AI-powered pendant as part of its growing wearable technology strategy. The move comes despite the company's Reality Labs division posting losses of over USD 4 billion in the latest quarter.",
-        "url": "https://www.indiatvnews.com/technology/news/after-smart-glasses-meta-bets-big-on-ai-wearables-with-new-pendant-device-2026-05-31-1043100",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/05/meta-1780209985.jpg",
-        "publishedAt": "2026-05-31T07:24:39Z",
-        "source": "India TV News"
+        "title": "From live translation to call summaries: 12 AI features hidden in your smartphone that you should start using",
+        "description": "Modern smartphones come packed with AI tools that many users overlook. From live translation and call summaries to smart photo editing and writing assistance, here are 12 built-in AI features that can save time and boost productivity.",
+        "url": "https://www.livemint.com/technology/from-live-translation-to-call-summaries-12-ai-features-hidden-in-your-smartphone-that-you-should-start-using-11780206495942.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/mobile_1767628303930_1767628304092_1780214610623_0cc10b01-c956-43c5-94e6-6bbacbd8ab37.jpg",
+        "publishedAt": "2026-05-31T08:15:07Z",
+        "source": "Livemint"
       },
       {
-        "title": "Businesses are handing over important jobs to AI. Should they?",
-        "description": "As companies give AI agents more responsibility, experts warn that weak security could expose businesses to fraud, data theft and costly mistakes.",
-        "url": "https://www.cnbctv18.com/technology/businesses-are-handing-over-important-jobs-to-ai-should-they-19916373.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/05/modified-gen-img-0-2026-05-31t07-19-39956872-2026-05-3d3c7b434dfcd343b2e321fdcface156.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-05-31T07:22:22Z",
-        "source": "CNBC TV18"
-      },
-      {
-        "title": "How AI is Transforming the Medical Scribe Role (And Why Humans Are Essential)",
-        "description": "The integration of automation into healthcare is not an ending, but a new beginning for clinical support staff. Aspiring healthcare providers should view these ongoing changes",
-        "url": "https://techbullion.com/how-ai-is-transforming-the-medical-scribe-role-and-why-humans-are-essential/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/04/Ai-In-Healthcare-3.png",
-        "publishedAt": "2026-05-31T07:15:45Z",
-        "source": "TechBullion"
-      },
-      {
-        "title": "Emerging Research Reveals Psychosocial Twists About AI Chatbots And Human Minds",
-        "description": "We need more empirical studies about the impact of generative AI on our mental health. I dissect one recent study to show counterintuitive results. An AI Insider scoop.",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/05/31/emerging-research-reveals-psychosocial-twists-about-ai-chatbots-and-human-minds/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69483dd1ae0ce813716acc38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-05-31T07:15:00Z",
-        "source": "Forbes"
+        "title": "'Insane bubble and bigger than 1999': Zoho founder Sridhar Vembu has a scary warning about the future of AI",
+        "description": "Zoho founder Sridhar Vembu warns of a potential market bubble driven by AI enthusiasm, citing high price-to-sales ratios for tech giants like Nvidia, Apple, and Microsoft. He argues these valuations are disconnected from fundamentals, drawing parallels to the dot-com era and suggesting the current bubble could be even larger.",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/insane-bubble-and-bigger-than-1999-zoho-founder-sridhar-vembu-has-a-scary-warning-about-the-future-of-ai/articleshow/131420474.cms",
+        "image": "https://img.etimg.com/thumb/msid-131420496,width-1200,height-630,imgsize-42642,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-31T08:14:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
