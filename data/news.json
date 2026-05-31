@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-05-31T13:57:48.444Z",
+  "fetchedAt": "2026-05-31T14:53:59.597Z",
   "sections": {
     "world": [
       {
-        "title": "Pope Leo: Shared humanity is antidote to war and polarization",
-        "description": "Meeting with the Centesimus Annus Pro Pontifice Foundation, Pope Leo XIV highlights the importance of the Church’s Social Doctrine in a divided world, ...",
-        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-audience-centesimus-annus-foundation.html",
-        "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/30/2026-05-30-membri-della-fondazione-centesimus-annus-pro-pontific/1780130169076.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-        "publishedAt": "2026-05-31T01:52:42Z",
-        "source": "Vatican News"
+        "title": "Israel pursuing ‘scorched earth’ policy, says Lebanon PM, as more airstrikes hit country’s south",
+        "description": "Nawaf Salam says Israel collectively punishing southern Lebanon and forcing people ‘into exile’ but defends security talks with Tel Aviv",
+        "url": "https://www.theguardian.com/world/2026/may/31/israel-pursuing-scorced-earth-policy-says-lebanon-pm-as-more-airstrikes-hit-countrys-south",
+        "image": "https://i.guim.co.uk/img/media/26d56db45eef256a3734836716cc9e48095c4d22/432_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c86b53dd8758471a16078471cd5968e0",
+        "publishedAt": "2026-05-31T02:49:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Paris police arrest dozens in riots after PSG's Champions League final win over Arsenal",
-        "description": "Celebrations of Paris Saint-Germain's Champions League victory have turned violent, as fans clashed with police on the streets of the French capital.",
-        "url": "https://www.abc.net.au/news/2026-05-31/psg-fans-arrested-after-champions-league-final/106742174",
-        "image": "https://live-production.wcms.abc-cdn.net.au/dfad2f7b459a57ad6d865567b76fce74?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=207&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-31T01:51:58Z",
+        "title": "Former Indonesian Diplomat Urges Prabowo to Reduce Overseas Visits",
+        "description": "Former Indonesian diplomat Dino Patti Djalal offers five suggestions to President Prabowo, who has been criticized for frequent overseas trips.",
+        "url": "https://en.tempo.co/read/2106080/former-indonesian-diplomat-urges-prabowo-to-reduce-overseas-visits",
+        "image": "https://statik.tempo.co/data/2026/04/15/id_1468885/1468885_720.jpg",
+        "publishedAt": "2026-05-31T02:47:37Z",
+        "source": "Tempo.co English"
+      },
+      {
+        "title": "After one term in Skudai, DAP’s Marina Ibrahim says political chapter has ended",
+        "description": "KUALA LUMPUR, May 31 — Skudai assemblyman Marina Ibrahim today announced her retirement from politics, saying she...",
+        "url": "https://malaysia.news.yahoo.com/one-term-skudai-dap-marina-024507183.html",
+        "image": "https://s.yimg.com/os/en/mmail.com.my/19ddc43f363e2f908c6df6b8487f657d",
+        "publishedAt": "2026-05-31T02:45:00Z",
+        "source": "Yahoo News Malaysia"
+      },
+      {
+        "title": "Iran says it destroyed US MQ-1 drone after airspace incursion: Report",
+        "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed that its air defence units shot down a US MQ-1 drone after it allegedly entered Iranian territorial airspace in the early hours of Sunday, according to Iranian semi-official news agency Tasnim.",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-says-it-destroyed-us-mq-1-drone-after-airspace-incursion-report/articleshow/131417961.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-131417974,width-1200,height-630,imgsize-52400,overlay-etdefence/articleshow.jpg",
+        "publishedAt": "2026-05-31T02:43:52Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Thailand pivot to 'value tourism' tested by global economic storms",
+        "description": "BANGKOK: The Thai government's overhaul of its visa framework—approved by the Cabinet on 19 May 2026—marks a decisive shift towards tightening immigration controls and safeguarding domestic security.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/31/thailand-pivot-to-039value-tourism039-tested-by-global-economic-storms",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/05/31/3935188.jpg",
+        "publishedAt": "2026-05-31T02:43:00Z",
+        "source": "thestar.com.my"
+      },
+      {
+        "title": "The heat ahead",
+        "description": "Planning for hotter conditions is increasingly becoming a question of public health, economic resilience and public safety.",
+        "url": "https://www.dawn.com/news/2004071",
+        "image": "https://i.dawn.com/large/2026/05/31085008cc16d15.webp",
+        "publishedAt": "2026-05-31T02:39:12Z",
+        "source": "Dawn"
+      },
+      {
+        "title": "US fires missile into commercial ship trying to reach Iran, Central Command says",
+        "description": "The US military fires a missile into the engine room of the merchant vessel trying to break through its blockade of Iranian ports, the Central Command says.",
+        "url": "https://www.abc.net.au/news/2026-05-31/us-strucks-commercial-ship-trying-to-breach-blockade/106742250",
+        "image": "https://live-production.wcms.abc-cdn.net.au/1fbef851f52ba2d27bcea55f5edfb589?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=44&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-05-31T02:37:54Z",
         "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
-        "description": "Tedros said the rare Bundibugyo strain has no approved ⁠vaccines or treatments, making early palliative care — including isolation, rehydration and pain management — critical.",
-        "url": "https://www.japantimes.co.jp/news/2026/05/31/world/science-health/who-chief-ebola-outbreak/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/31/543413.JPG?v=3.1",
-        "publishedAt": "2026-05-31T01:48:00Z",
-        "source": "The Japan Times"
-      },
-      {
-        "title": "WHO chief visits eastern Congo as outbreak begins to outmatch response",
-        "description": "The head of the World Health Organisation visited eastern Congo's Bunia, a city at the heart of an outbreak...",
-        "url": "https://www.9news.com.au/world/ebola-virus-outbreak-who-chief-visits-eastern-congo/0389823a-c0dc-4d4a-9eaa-872de44c9d7c",
-        "image": "https://imageresizer.static9.net.au/xCisSyJIdQW3ettjXYDnXk3x-Go=/0x430:8256x5074/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F5e8ece43-78ee-48b8-b663-4ed330f13c05",
-        "publishedAt": "2026-05-31T01:47:25Z",
-        "source": "9News"
-      },
-      {
-        "title": "Are human soldiers being replaced? How Ukraine's 'silent death' robots are fighting Russia",
-        "description": "Defence News: As the Russia-Ukraine war enters its fourth year, the battlefield is undergoing a dramatic transformation. What began in 2022 as a conventional confli.",
-        "url": "https://timesofindia.indiatimes.com/defence/are-human-soldiers-being-replaced-how-ukraines-silent-death-robots-are-fighting-russia/articleshow/131417714.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131417745,width-1280,height-720,imgsize-71714,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-31T01:46:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Flotilla activists take evidence of alleged abuse to International Criminal Court",
-        "description": "Eleven Australians detained by Israeli forces while attempting to deliver aid to Gaza have submitted evidence to the International Criminal Court alleging abuse, torture and other violations during their detention.",
-        "url": "https://www.abc.net.au/news/2026-05-31/flotilla-activists-take-evidence-of-alleged-abuse-to-icc/106741964",
-        "image": "https://live-production.wcms.abc-cdn.net.au/fe249a37af466414ed03c9bb2fb61a6a?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=192&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-05-31T01:38:49Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "PSG Champions League celebrations in France spark clashes; 416 detained, 7 police officers injured",
-        "description": "Europe News: More than 400 people were arrested and seven police officers were injured across France after celebrations following Paris Saint-Germain's Champions L.",
-        "url": "https://timesofindia.indiatimes.com/world/europe/psg-champions-league-celebrations-in-france-spark-clashes-416-detained-7-police-officers-injured/articleshow/131417580.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131417670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-31T01:26:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Trump Lashes Out at Pope Leo for Meeting With His Foe",
-        "description": "The president wasn’t happy to see who was on the pope’s agenda.",
-        "url": "https://www.thedailybeast.com/donald-trump-lashes-out-at-pope-leo-for-meeting-with-chicago-mayor-brandon-johnson/",
-        "image": "https://www.thedailybeast.com/resizer/v2/35PBHESN3BE7RNMMYVHP27DDCY.jpg?smart=true&auth=d969768144c6859491d30251c16053cdc1d84c96816301f8c5b5b9186a4b2b2d&width=1200&height=630",
-        "publishedAt": "2026-05-31T01:10:00Z",
-        "source": "The Daily Beast"
+        "title": "Talks productive, but ‘war not off the table’: US",
+        "description": "Pentagon chief says Trump is \"patient\", wants to make a \"great deal\" to ensure Iran doesn’t have nukes.",
+        "url": "https://www.dawn.com/news/2004068",
+        "image": "https://i.dawn.com/large/2026/05/31073519b493de8.webp",
+        "publishedAt": "2026-05-31T02:30:04Z",
+        "source": "Dawn"
       }
     ],
     "business": [
       {
-        "title": "NIMR commissions N300m 100 KVA Solar power system",
-        "description": "The Nigerian Institute of Medical Research (NIMR) has taken a major step towards addressing its long-standing power supply challenges with the commissioning of a 100 KVA Solar Power System to support critical research and diagnostic facilities at the institute.",
-        "url": "https://thesun.ng/nimr-commissions-n300m-100-kva-solar-power-system-donated-by-ecews/",
-        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/05/•NIMR-DG-Prof-Oladapo-Obafunwa-cutting-the-tape-to-open-the-new-solar-system.jpg",
-        "publishedAt": "2026-05-31T01:55:49Z",
-        "source": "The Sun Nigeria"
+        "title": "One of Denmark's biggest pension fund blacklists IPO of Elon Musk's Spacex, says: Is grossly ...",
+        "description": "Tech News News: A prominent Danish pension fund that previously made waves by dumping US Treasuries has reportedly announced that it will boycott the upcoming Initial.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/one-of-denmarks-biggest-pension-fund-blacklists-ipo-of-elon-musks-spacex-says-is-grossly-/articleshow/131418022.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131418012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-05-31T02:51:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Move Over, Nvidia: 1 AI Stock Just Posted Its Best Day Since 2011 -- and Wall Street Says It's Still Cheap.",
-        "description": "The memory chipmaker just joined the ranks of America's most valuable companies, yet its stock may be cheaper than it looks.",
-        "url": "https://www.fool.com/investing/2026/05/30/move-over-nvidia-1-ai-stock-just-posted-its-best-d/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872487%2Fmicron-stock-could-soar.jpg&w=1200&op=resize",
-        "publishedAt": "2026-05-31T01:53:54Z",
-        "source": "The Motley Fool"
+        "title": "Time to swap borrowing for equity",
+        "description": "For decades, the playbook for corporate success in Pakistan hasn’t changed.",
+        "url": "https://www.dawn.com/news/2004074",
+        "image": "https://i.dawn.com/large/2026/05/310745325913201.webp",
+        "publishedAt": "2026-05-31T02:45:42Z",
+        "source": "Dawn"
       },
       {
-        "title": "After the AI binge, companies balk at soaring bills",
-        "description": "Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology.",
-        "url": "https://www.france24.com/en/live-news/20260531-after-the-ai-binge-companies-balk-at-soaring-bills",
-        "image": "https://s.france24.com/media/display/eb8d21f6-5c92-11f1-b014-005056a90284/w:1280/p:16x9/Part-GTY-2261974003-1-1-1.jpg",
-        "publishedAt": "2026-05-31T01:49:12Z",
-        "source": "France 24"
+        "title": "FDI drops 80% as investors favour bonds",
+        "description": "Foreign direct investment (FDI) into Nigeria plunged by 80% in January 2026 as investors increasingly favoured bonds over long-term ventures. Get the detai",
+        "url": "https://punchng.com/fdi-drops-80-as-investors-favour-bonds/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/03/08220917/CBN-Building-Abuja-1200x630.jpg",
+        "publishedAt": "2026-05-31T02:35:09Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "The Carlyle Group Stock: Undervalued Given Limited Private Credit Exposure (NASDAQ:CG)",
-        "description": "Carlyle Group (CG) looks undervalued as private credit fears fade. Read now.",
-        "url": "https://seekingalpha.com/article/4910371-the-carlyle-group-undervalued-given-limited-private-credit-exposure",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1688772631/image_1688772631.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-05-31T01:47:00Z",
-        "source": "Seeking Alpha"
+        "title": "Personal loans hit N1.96tn as consumer credit grows",
+        "description": "Personal loans in Nigeria surged to N1.96tn in January 2026, driving consumer credit growth. Discover the latest CBN report on lending trends.",
+        "url": "https://punchng.com/personal-loans-hit-n1-96tn-as-consumer-credit-grows/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/05/20142248/n.jpeg",
+        "publishedAt": "2026-05-31T02:35:07Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "Tech stars from the 90s reborn: Nokia, Dell and Cisco surge on AI",
-        "description": "A rush to build out AI infrastructure has led to soaring demand for everything from computer servers to storage components, networking gear and even legacy chips.",
-        "url": "https://www.japantimes.co.jp/business/2026/05/31/companies/ai-tech-legacy-firms/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/31/543414.jpg?v=3.1",
-        "publishedAt": "2026-05-31T01:43:00Z",
-        "source": "The Japan Times"
+        "title": "SoftBank to Develop 5-Gigawatt AI Data Center Capacity in France",
+        "description": "Tokyo, May 31 (Jiji Press)--SoftBank Group Corp. said Sunday that it will develop 5-gigawatt artificial intell…",
+        "url": "https://www.nippon.com/en/news/yjj2026053100131/softbank-to-develop-5-gigawatt-ai-data-center-capacity-in-france.html",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/3014052/3014052.jpg",
+        "publishedAt": "2026-05-31T02:34:02Z",
+        "source": "nippon.com"
       },
       {
-        "title": "India cuts export duties on petrol, diesel and aviation turbine fuel",
-        "description": "The duty on exports of petrol has been set at Rs 1.5 per litre while that on diesel has been set at Rs 13.5 per litre",
-        "url": "https://www.moneycontrol.com/news/india/india-cuts-export-duties-on-petrol-diesel-and-aviation-turbine-fuel-13936498.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260513033410_Petrol-pump-in-Ahmedabad-AFP.jpg",
-        "publishedAt": "2026-05-31T01:31:52Z",
+        "title": "SoftBank to Develop 5-Gigawatt AI Data Center Capacity in France",
+        "description": "Tokyo, May 31 (Jiji Press)--SoftBank Group Corp. said Sunday that it will develop 5-gigawatt artificial intell…",
+        "url": "https://www.nippon.com/en/news/yjj2026053100131/",
+        "image": "https://www.nippon.com/en/ncommon/contents/news/3014040/3014040.jpg",
+        "publishedAt": "2026-05-31T02:34:02Z",
+        "source": "nippon.com"
+      },
+      {
+        "title": "Google techie bet $2.7 million on Polymarket with company secrets, won $1.2 million, then FBI caught him",
+        "description": "Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-searched people to place $2.7 million in bets on Polymarket and pocket more than a million dollars in winnings",
+        "url": "https://www.livemint.com/companies/people/google-techie-bet-2-7-million-on-polymarket-with-company-secrets-won-1-2-million-then-fbi-caught-him-11780192078694.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/Screenshot_2026-05-31_074642_1780194403807_1780194408095_d0965a9b-1b8b-4cb2-8e08-510e2b8131b6.jpg",
+        "publishedAt": "2026-05-31T02:33:03Z",
+        "source": "Mint"
+      },
+      {
+        "title": "SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners",
+        "description": "Adani Group’s push into green-powered data centers is driving gains in its energy units, providing India with one of its few AI bets.",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners-article-13936508.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260224053713_Artificial-Intelligence-AP-photo.jpg",
+        "publishedAt": "2026-05-31T02:30:58Z",
         "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Delhi High Court’s pathbreaking ruling on Google keyword advertising | Explained",
-        "description": "Delhi High Court's ruling on Google keyword advertising could redefine trademark use in digital marketing and online advertising practices.",
-        "url": "https://www.thehindu.com/sci-tech/technology/delhi-high-court-pathbreaking-ruling-on-google-keyword-advertising/article71043694.ece",
-        "image": "https://th-i.thgim.com/public/incoming/5i4gfq/article71043696.ece/alternates/LANDSCAPE_1200/iStock-1346058768.jpg",
-        "publishedAt": "2026-05-31T01:25:04Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Assessing Alaska Air Group’s Valuation As Investors Position For Potential Earnings Surprise",
-        "description": "Alaska Air Group (ALK) is drawing attention ahead of its next earnings release, with forecasts pointing to an earnings per share loss of $0.87 and revenue of $4.1 billion.\nSee our latest analysis for Alaska Air Group.\nInvestors appear to be positioning ahead of earnings, with Alaska Air Group’s share price up 19.38% over the past month and 11.32% over the past week, even though the year to date share price return is down 10.68% and the 1 year total shareholder return is down 9.64%. This...",
-        "url": "https://simplywall.st/stocks/us/transportation/nyse-alk/alaska-air-group/news/assessing-alaska-air-groups-valuation-as-investors-position",
-        "image": "https://images.simplywall.st/asset/company-cover/248501-main-header/1585187070881",
-        "publishedAt": "2026-05-31T01:19:09Z",
-        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Saturday’s micromoon will be the farthest, smallest and dimmest of the year : NASA",
+        "description": "Once in the blue moon happens Saturday night.",
+        "url": "https://komonews.com/news/local/rare-blue-micromoon-in-the-sky-this-weekend-western-washington-pacific-northwest-seattle-will-see-the-micromoon-nasa-orbit",
+        "image": "https://komonews.com/resources/media2/16x9/2047/1320/0x57/90/b88d2f01-177d-49c4-9f9b-11a68320d97a-BobbiCantellay.jpg",
+        "publishedAt": "2026-05-31T02:48:45Z",
+        "source": "KOMO"
+      },
+      {
+        "title": "Meteor explodes over New England with blast power of 300 tons of TNT",
+        "description": "NASA says a meteor traveling at 75,000 mph exploded over New England with the force of 300 tons of TNT.",
+        "url": "https://www.israelnationalnews.com/news/427851",
+        "image": "https://2.a7.org/files/pictures/000/1066983.jpg",
+        "publishedAt": "2026-05-31T02:45:00Z",
+        "source": "Israel National News"
+      },
+      {
+        "title": "Australian researchers teach brain cells to play ‘Doom’",
+        "description": "MELBOURNE: Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter “Doom” and say they are just scratching the surface of what the neurons could be capable of doing. It’s the science-fiction work of biotech boffins at Cortical Labs, who researched and developed the technology that harnesses the workings of the brain’s",
+        "url": "https://www.arabnews.com/node/2645512/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/05/31/4717460-2115099451.jpg?itok=40Er5Pyb",
+        "publishedAt": "2026-05-31T02:38:15Z",
+        "source": "Arab News"
+      },
+      {
+        "title": "Australian researchers teach brain cells to play ‘Doom’",
+        "description": "MELBOURNE: Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter “Doom” and say they are just scratching the surface of what the neurons could be capable of doing. It’s the science-fiction work of biotech boffins at Cortical Labs, who researched and developed the technology that harnesses the workings of the brain’s",
+        "url": "https://www.arabnews.pk/node/2645512/world",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/05/31/4717460-2115099451.jpg?itok=fAg8I3Pi",
+        "publishedAt": "2026-05-31T02:38:15Z",
+        "source": "Arab News PK"
+      },
+      {
+        "title": "A meteor fell on the USA",
+        "description": "EADaily, May 31st, 2026. A strong rumble in the US state of Massachusetts was caused by the entry of a meteor into the Earth's atmosphere, the Associated Press reports, citing experts from the American Meteor Society.",
+        "url": "https://www.eadaily.com/en/news/2026/05/31/a-meteor-fell-on-the-usa",
+        "image": "https://img4.eadaily.com/r650x400/o/b87/cd743da9cb407670f70519faff4af.jpeg",
+        "publishedAt": "2026-05-31T02:15:00Z",
+        "source": "EADaily"
+      },
+      {
+        "title": "Meteor explodes over U.S. with blast equivalent to 300 tonnes of TNT",
+        "description": "A meteor exploded over northeastern Massachusetts and southeastern New Hampshire, with booms that alarmed residents creating shockwaves to 300 tonnes of TNT.",
+        "url": "https://www.thehindu.com/sci-tech/science/meteor-explodes-over-us-with-blast-in-massachusetts/article71043699.ece",
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "publishedAt": "2026-05-31T02:11:22Z",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Meteor explodes over US with blast equivalent to 300 tons of TNT",
+        "description": "International, MNA | A meteor crashing toward Earth exploded over the northeastern United States on Saturday, NASA said, setting off booms that echoed over the region with a",
+        "url": "https://macaubusiness.com/meteor-explodes-over-us-with-blast-equivalent-to-300-tons-of-tnt/",
+        "image": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2025/12/opengraph-image.webp",
+        "publishedAt": "2026-05-31T02:07:11Z",
+        "source": "Macau Business"
+      },
       {
         "title": "Approved Drug Precisely Controls Gene Expression by Modulating RNA Splicing, Study Finds",
         "description": "Researchers have developed a new method for precisely c […]",
@@ -142,128 +198,72 @@
         "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
         "publishedAt": "2026-05-31T01:45:11Z",
         "source": "geneonline.com"
-      },
-      {
-        "title": "Unexpected cosmic boom: Nasa confirms meteor explodes over US northeast, residents report houses trembling",
-        "description": "WASHINGTON, May 31 — A meteor crashing toward Earth exploded over the northeastern United States on Saturday, Nasa said, setting off booms that echoed over the region with a...",
-        "url": "https://www.malaymail.com/news/world/2026/05/31/unexpected-cosmic-boom-nasa-confirms-meteor-explodes-over-us-northeast-residents-report-houses-trembling/221995",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/31/343934.jpg",
-        "publishedAt": "2026-05-31T01:30:00Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "Meteor explodes over US with blast equivalent to 300 tonnes of TNT",
-        "description": "A meteor crashing toward Earth exploded over the northeastern United States on Saturday, Nasa said, setting off booms that echoed over the region with a blast equivalent to 300 tonnes of TNT.",
-        "url": "https://theedgemalaysia.com/node/805493",
-        "image": "https://assets.theedgemarkets.com/meteor_20260531092550_Reuters.jpg",
-        "publishedAt": "2026-05-31T01:27:01Z",
-        "source": "The Edge Malaysia"
-      },
-      {
-        "title": "Loud noise heard throughout Southern New England",
-        "description": "A loud noise caused by a meteor was heard throughout Rhode Island and Massachusetts at around 2:10 on Saturday afternoon.",
-        "url": "https://turnto10.com/news/local/loud-noise-heard-throughout-southern-new-england",
-        "image": "https://turnto10.com/resources/media2/16x9/1902/1320/73x0/90/307724b1-2d12-4d97-a6e0-be4d615edf8f-sonicboom.jpg",
-        "publishedAt": "2026-05-31T00:56:17Z",
-        "source": "WJAR"
-      },
-      {
-        "title": "Meteor explodes over US with blast equivalent to 300 tonnes of TNT",
-        "description": "WASHINGTON: A meteor crashing toward Earth exploded over the northeastern United States on Saturday, NASA said, setting off booms that echoed over the region with a blast equivalent to 300 tonnes of TNT. NASA spokesperson Allard Beutel said the meteor was traveling at about 75,000 mph (120,700 kph) and likely fragmented about 40 miles (60 kilometers) above the ground. The",
-        "url": "https://www.arabnews.pk/node/2645502/world",
-        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/05/31/4717439-142827484.jpg?itok=CR8ZD8kp",
-        "publishedAt": "2026-05-31T00:44:14Z",
-        "source": "Arab News PK"
-      },
-      {
-        "title": "Meteor explodes over US with blast equivalent to 300 tonnes of TNT",
-        "description": "Social media users reported the booms were so powerful that houses were shaking. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/united-states/meteor-explodes-over-us-with-blast-equivalent-to-300-tons-of-tnt",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c412ac9e70990554966027382c2121af66be4d0970fc489c8b9776ec9038262a",
-        "publishedAt": "2026-05-31T00:34:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Is extracting oxygen from lunar soil the future of space exploration?",
-        "description": "A new race to the moon is emerging between the United States and China. Unlike fifty years ago, the goal is no longer just about landing and leaving, but establishing a base that allows for a sustainable presence and extended stays on the surface of our natural satellite. The objective is now to use the moon as a testing ground for technologies that will enable us to travel further, particularly to Mars.",
-        "url": "https://phys.org/news/2026-05-oxygen-lunar-soil-future-space.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2022/moon-dust.jpg",
-        "publishedAt": "2026-05-31T00:30:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Meteor explodes over US with blast equivalent to 300 tons of TNT",
-        "description": "The meteor was traveling at 75,000 mph (more than 120,000 kph) at an altitude of 40 miles when it broke apart.",
-        "url": "https://witness.co.za/news/2026/05/31/meteor-explodes-over-us-with-blast-equivalent-to-300-tons-of-tnt/",
-        "image": "https://witness.co.za/wp-content/uploads/sites/144/2026/05/METEOR.jpg",
-        "publishedAt": "2026-05-31T00:27:40Z",
-        "source": "The Witness | Your compass in the community"
       }
     ],
     "ai": [
       {
-        "title": "At summit, AI dangers dwarf nuclear concerns",
-        "description": "Rest of World News: The dangers of AI eclipsed those of nuclear weapons at a defence forum discussion on strategic stability in Singapore, as panelists warned it could re.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-summit-ai-dangers-dwarf-nuclear-concerns/articleshow/131417770.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131417771,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-05-31T01:55:00Z",
-        "source": "Times of India"
+        "title": "First fully AI-translated Kannada book released",
+        "description": "The biography chronicles the life and legacy of Gauhar Jaan, the celebrated Hindustani classical musician who became the first woman in the Indian subcontinent",
+        "url": "https://www.newindianexpress.com/states/karnataka/2026/May/31/first-fully-ai-translated-kannada-book-released",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-31%2Fcj2rwysk%2F30mp064759.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-05-31T02:51:42Z",
+        "source": "The New Indian Express"
       },
       {
-        "title": "Rivian thinks Apple CarPlay is already obsolete and AI is the reason why",
-        "description": "Rivian says AI-powered vehicle assistants could eventually replace Apple CarPlay by offering deeper integration and more natural interaction inside future cars.",
-        "url": "https://www.digitaltrends.com/cars/rivian-thinks-apple-carplay-is-already-obsolete-and-ai-is-the-reason-why/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/03/R2_CatalinaBlueExterior5-scaled.jpg?resize=1200%2C630",
-        "publishedAt": "2026-05-31T01:53:44Z",
-        "source": "Digital Trends"
+        "title": "In era of AI, deepfake, credibility crisis looms largest: Jyotiraditya Scindia on challenges for journalism",
+        "description": "Union minister Jyotiraditya Scindia highlighted journalism's evolution. He noted past struggles with censorship and limited resources. Today, challenges include AI and deepfakes, leading to a credibility crisis. Scindia emphasized journalism's role in preserving human conscience, not just data. His family has a historical connection to Hindi journalism.",
+        "url": "https://economictimes.indiatimes.com/news/india/in-era-of-ai-deepfake-credibility-crisis-looms-largest-scindia-on-challenges-for-journalism/articleshow/131417981.cms",
+        "image": "https://img.etimg.com/thumb/msid-131418047,width-1200,height-630,imgsize-54154,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-31T02:47:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "AI as your Doctor? Dos and Don’ts for Using AI as Healthcare",
-        "description": "Understand the significance of artificial intelligence in healthcare decision-making and its influence on patient care and interactions.",
-        "url": "https://www.activistpost.com/ai-as-your-doctor-dos-and-donts-for-using-ai-as-healthcare/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2026/05/AI-and-healthcare.webp",
-        "publishedAt": "2026-05-31T01:53:00Z",
-        "source": "Activist Post"
+        "title": "AI and Deepfake Technology Challenge Journalism’s Credibility, Says Scindia",
+        "description": "Union minister Jyotiraditya Scindia highlighted the modern challenges of journalism, including credibility issues posed by AI and deepfake technology. At an event celebrating 200 years of Hindi journalism, he stressed the importance of preserving human conscience in reporting, amidst growing misinformation and manipulation of media content.",
+        "url": "https://www.devdiscourse.com/article/science-environment/3927294-ai-and-deepfake-technology-challenge-journalisms-credibility-says-scindia",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_25_34_3607277.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-05-31T02:45:38Z",
+        "source": "Devdiscourse"
       },
       {
         "title": "SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners",
-        "description": "The fresh round of tech spending could be a boon for makers of server parts, specialised materials. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/23d1cb3eac85a5aab4b537a396ca6af6e9562dc574728c01563b34d8cff8b964",
-        "publishedAt": "2026-05-31T01:50:00Z",
-        "source": "The Straits Times"
+        "description": "Adani Group’s push into green-powered data centers is driving gains in its energy units, providing India with one of its few AI bets.",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners-article-13936508.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260224053713_Artificial-Intelligence-AP-photo.jpg",
+        "publishedAt": "2026-05-31T02:30:58Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "AI affordability wakeup call, Anthropic’s $65bn mega round, and India’s first 12nm AI chip - Weekly AI roundup",
-        "description": "This week's AI roundup: AI affordability wakeup call, Anthropic’s $65bn mega round, and India’s first 12nm AI chip. Read on.",
-        "url": "https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/",
-        "image": "https://images.financialexpressdigital.com/2026/05/weekly-ai-roundup.jpg",
-        "publishedAt": "2026-05-31T01:44:19Z",
+        "title": "AI helped me build a business 48 hours after being laid off, US attorney shares his turnaround story | Exclusive",
+        "description": "A US immigration lawyer lost his job after openly using AI tools like ChatGPT and Claude. Within 48 hours, Kevin Andrews launched his own law firm with the help of AI-generated workflows and now runs a fast-growing solo practice handling EB-1A and H-1B cases.",
+        "url": "https://www.financialexpress.com/business/ai-helped-me-build-a-business-48-hours-after-being-laid-off-us-attorney-shares-his-turnaround-story-exclusive-4255364/",
+        "image": "https://images.financialexpressdigital.com/2026/05/Kevin_Andrews.jpg",
+        "publishedAt": "2026-05-31T02:26:14Z",
         "source": "The Financial Express"
       },
       {
-        "title": "The End of Nine-to-Five",
-        "description": "For the well qualified, if AI hogs all the boring job options humanity relies on for a paycheck, dare we hope that after the initial shake up, people will pivot back and pursue whatever genuinely brings them joy? It’s a widespread reality that most people hate their jobs.",
-        "url": "https://indianexpress.com/article/opinion/columns/the-end-of-nine-to-five-10716243/",
-        "image": "https://images.indianexpress.com/2026/05/intersection-humanity-artificial-intelligence-dna-connection_20260523130618_20260530201620.jpg",
-        "publishedAt": "2026-05-31T01:34:41Z",
-        "source": "The Indian Express"
+        "title": "‘India’s digital payments, mobile economy poised for strong expansion as AI fuels growth’: Paytm CEO Vijay Sharma",
+        "description": "Vijay Sharma made a case for artificial intelligence as a transformational enabler across businesses, saying it can increase scale, improve operational efficiency and deepen customer engagement.",
+        "url": "https://www.financialexpress.com/business/news-india-digital-payments-mobile-economy-poised-for-strong-expansion-artificial-intelligence-ai-fuels-growth-smartphones-to-power-next-wave-paytm-ceo-founder-vijay-sharma-4255347/",
+        "image": "https://images.financialexpressdigital.com/2026/05/paytm.jpg",
+        "publishedAt": "2026-05-31T02:12:31Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Big Tech's AI Agent Dream Could Come At The Expense Of Millions Of Jobs",
-        "description": "Artificial intelligence has evolved beyond simple interactions, focusing now on AI agents—autonomous software capable of decision-making and executing complex tasks without constant human oversight. , Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/big-techs-ai-agent-dream-could-come-at-the-expense-of-millions-of-jobs-article-154432517",
-        "image": "https://images.timesnownews.com/thumb/msid-154432517,width-1280,height-720,resizemode-75/154432517.jpg",
-        "publishedAt": "2026-05-31T01:29:00Z",
-        "source": "Times Now"
+        "title": "‘India’s digital payments poised for strong expansion as AI fuels growth’: Paytm CEO",
+        "description": "Paytm’s Vijay Sharma is optimistic about the growth potential of India’s digital payments and mobile economy, driven by technology and consumer adoption. He sees AI as a powerful tool for businesses to increase scale, efficiency, and customer engagement, while also building trust and relationships. Sharma is not worried about a slowdown in transaction growth, citing […] | financialexpress.com",
+        "url": "https://www.financialexpress.com/shorts/business/news/india-digital-payments-mobile-economy-poised-for-strong-expansion-artificial-intelligence-ai-fuels-growth-smartphones-to-power-next-wave-paytm-ceo-founder-vijay-sharma-4255347/",
+        "image": "https://images.financialexpressdigital.com/2026/05/paytm.jpg",
+        "publishedAt": "2026-05-31T02:07:16Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Trump Shares AI War Image Amid Warnings US Could Restart War: ‘You’re Getting Discombobulated’",
-        "description": "Donald Trump shared an AI-generated war-themed image on Truth Social, sparking attention as tensions with Iran persist. , US News, Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/trump-shares-ai-war-image-amid-warnings-us-could-restart-war-youre-getting-discombobulated-article-154434852",
-        "image": "https://images.timesnownews.com/thumb/msid-154434852,width-1280,height-720,resizemode-75/154434852.jpg",
-        "publishedAt": "2026-05-31T01:20:40Z",
-        "source": "Times Now"
+        "title": "'This is an insane bubble': Zoho's Sridhar Vembu sounds alarm on AI driven tech valuations",
+        "description": "Sridhar Vembu cited price-to-sales ratios for major tech firms, including Nvidia at 20x, Apple at 10x, Alphabet at 11x, Microsoft at 10x, Meta at 7.5x, and Micron at 19x.",
+        "url": "https://www.businesstoday.in/technology/story/this-is-an-insane-bubble-zohos-sridhar-vembu-sounds-alarm-on-ai-driven-tech-valuations-534114-2026-05-31",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a1b96fa24f2a-even-bigger-than-1999-sridhar-vembu-reignites-ai-bubble-debate-with-big-tech-warning-310332438-16x9.jpg",
+        "publishedAt": "2026-05-31T02:03:58Z",
+        "source": "Business Today"
       }
     ]
   }
