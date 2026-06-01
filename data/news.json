@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-01T10:06:54.446Z",
+  "fetchedAt": "2026-06-01T12:15:00.642Z",
   "sections": {
     "world": [
       {
-        "title": "New York: Mayor Mamdani skips annual Israel Day Parade",
-        "description": "In a break from decades of political tradition, New York City Mayor Zohran Mamdani did not attend the annual parade celebrating Israel.",
-        "url": "https://www.dw.com/en/new-york-mayor-mamdani-skips-annual-israel-day-parade/a-77368652",
-        "image": "https://static.dw.com/image/77368616_6.jpg",
-        "publishedAt": "2026-05-31T22:03:34Z",
-        "source": "dw.com"
-      },
-      {
-        "title": "Netanyahu: Israel’s Beaufort castle capture marks ‘dramatic shift’ in Lebanon offensive",
-        "description": "QLAYAA, Lebanon: Israeli Prime Minister Benjamin Netanyahu vowed to push deeper into Lebanon after his military took over the medieval castle of Beaufort on Sunday, calling it a “dramatic shift” in the campaign against Hezbollah. The Iran-backed militant group, meanwhile, said it targeted Israeli forces near the fortress as well as army positions and infrastructure in Shlomi",
-        "url": "https://www.arabnews.com/node/2645521/middle-east",
-        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/05/31/4717614-128654474.jpg?itok=NrE0vADK",
-        "publishedAt": "2026-05-31T22:03:09Z",
-        "source": "Arab News"
-      },
-      {
-        "title": "(Yonhap Interview) Tunisian FM urges S. Korean firms to expand into Africa amid supply chain disruptions",
-        "description": "By Chang Dong-woo SEOUL, June 1 (Yonhap) -- Investments in Africa will offer new and evo...",
-        "url": "https://en.yna.co.kr/view/AEN20260528011300315",
-        "image": "https://img4.yna.co.kr/etc/inner/EN/2026/05/28/AEN20260528011300315_01_i_P4.jpg",
-        "publishedAt": "2026-05-31T22:01:10Z",
-        "source": "Yonhap News Agency"
-      },
-      {
-        "title": "Leaked documents link Chinese firms to IRGC missile fuel network",
-        "description": "Iran International has obtained documents indicating that a Chinese company, working with firms in Turkey and the United Arab Emirates, helped Iran’s Islamic Revolutionary Guard Corps (IRGC) acquire chemicals used in the production of ballistic missiles.",
-        "url": "https://www.iranintl.com/en/202605317175",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/4bd392d637ecdf6b1401f213eebfd4d7ab0936f5-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&fit=max&auto=format",
-        "publishedAt": "2026-05-31T22:01:00Z",
-        "source": "ایران اینترنشنال"
-      },
-      {
-        "title": "Ugandan diplomat who carried hi",
-        "description": "Kyazze began his education in Nateete before transferring to Aggrey Memorial School, an institution founded by African educators who had resigned from King’s College Budo after disagreements with colonial administrators.",
-        "url": "https://www.newvision.co.ug/category/business/jones-yosiya-kyazze-ugandan-diplomat-who-carr-NV_234565_062026",
-        "image": "https://newvision-media.s3.amazonaws.com/cms/2ebb2cf1-9e4b-4ec9-989d-611e202899f3.png",
-        "publishedAt": "2026-05-31T22:00:05Z",
-        "source": "newvision.co.ug"
-      },
-      {
-        "title": "Cambodia’s crackdown on scam centres leaves trail of stranded victims as criminal groups switch tactics",
-        "description": "Cambodia says it is carrying out its toughest crackdown yet on online scam centres, with hundreds of facilities targeted. In the first of a two-part series, CNA goes on the ground to find victims stranded and signs of operations shifting into smaller urban sites, while experts warn that the criminal networks behind the",
-        "url": "https://www.channelnewsasia.com/asia/cambodia-scamming-crackdown-victims-crime-6149341",
-        "image": "https://dam.mediacorp.sg/image/upload/s--jqHCXVAd--/c_crop,h_900,w_1600,x_0,y_164/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/29/fdz_8466.jpg?itok=meaLP9rc",
-        "publishedAt": "2026-05-31T22:00:00Z",
+        "title": "Israeli army captures strategic castle in Lebanon in deepest incursion into country in 26 years",
+        "description": "Israeli troops previously captured Beaufort Castle in 1982 and held it until they withdrew from Lebanon in 2000.",
+        "url": "https://www.channelnewsasia.com/world/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-country-in-26-years-6153081",
+        "image": "https://dam.mediacorp.sg/image/upload/s--cPZ7G10I--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-31T080526Z_1_LYNXMPEM4U03I_RTROPTP_3_IRAN-CRISIS-LEBANON-ISRAEL.JPG?itok=Oyc9wodX",
+        "publishedAt": "2026-06-01T00:13:23Z",
         "source": "CNA"
       },
       {
-        "title": "Sixteen arrests at Arsenal parade confirmed as police condemn behaviour",
-        "description": "The police have delivered an update following Arsenal's open-top bus parade to celebrate the Premier League title",
-        "url": "https://www.football.london/arsenal-fc/news/arsenal-parade-arrests-police-statement-34042302",
-        "image": "https://i2-prod.football.london/article34042304.ece/ALTERNATES/s1200d/0_Arsenal-Trophy-Parade.jpg",
-        "publishedAt": "2026-05-31T21:58:17Z",
-        "source": "Football London"
+        "title": "NY leaders join over 50,000 marchers at Israel Day parade boycotted by Mamdani",
+        "description": "New York City's annual march has one of its highest turnouts ever, in a show of force and solidarity for a community feeling increasingly besieged",
+        "url": "https://www.timesofisrael.com/ny-leaders-join-over-50000-marchers-at-israel-day-parade-boycotted-by-mamdani/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/20260531_untitled_06136.jpg",
+        "publishedAt": "2026-06-01T00:05:35Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Heavy rains threaten to delay search for 2 still missing in Laos cave",
-        "description": "Heavy rains have threatened the search for two people still missing in a flooded cave in Laos. Five other people who were trapped underground have been rescued.",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-31/heavy-rains-threaten-to-delay-search-for-2-still-missing-in-laos-cave",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/2da0703/2147483647/strip/true/crop/1533x805+0+109/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F36%2F5f7a8f0d47158aa8edf5b7c3c7f0%2Fb9b81967cdc14d258871ff078b023ab8.jpg",
-        "publishedAt": "2026-05-31T21:57:25Z",
-        "source": "Los Angeles Times"
+        "title": "Denying the Undeniable: Ethiopia’s Achievements Speak for Themselves",
+        "description": "By Yordanos D.\nAddis Ababa, June 1, 2026 —The past eight years in Ethiopia have been defined by a complex reality marked by sweeping institutional reforms, major infrastructure achievements, and far-reaching national transformation, alongside significant challenges. Yet much of the international and domestic discourse surrounding the country has often focused disproportionately on its vulnerabilities while overlooking substantial progress made across multiple sectors.\nIn recent weeks, some international media outlets, including CNN, The Economist, and Al Jazeera, have published reports that many Ethiopians and observers view as incomplete and unbalanced portrayals of the country's current trajectory. Critics argue that such narratives fail to adequately reflect the broader context of Ethiopia's ongoing transformation, despite visible developments that have been witnessed by international partners, investors, diplomats, and visitors.\nThe timing of these reports has also raised questions among political commentators, particularly as Ethiopia prepares to conduct its seventh national election. Many analysts have asked why negative narratives have gained prominence at a moment when the country is seeking to consolidate democratic processes and showcase years of economic, social, and infrastructural progress. These narratives not only misrepresent the entirety of the country but also are totally distorted.\nAn objective evaluation must also acknowledge the country's significant achievements in economic reform, infrastructure expansion, digital transformation, agricultural modernization, environmental conservation, energy development, tourism promotion, and regional diplomacy. Ignoring these gains presents an incomplete account of Ethiopia's trajectory and undermines a balanced understanding of its development journey.\nAny credible assessment requires viewing the full ledger, recognizing both the obstacles Ethiopia continues to face and the progress it has achieved. Only through such a balanced approach can the country's recent experience be understood with accuracy, fairness, and intellectual honesty. However, these media have altogether put aside all the gains rather focus on fabricated stories.\nHowever, Ethiopia's national story has been defined not merely by the challenges it has faced, but by its remarkable resilience, accelerated modernization, and firm commitment to self-reliance under the leadership of Prime Minister Abiy Ahmed since 2018. From the historic peace agreement with Eritrea, which ended two decades of hostility and transformed the geopolitical landscape of the Horn of Africa, to the commissioning of the Grand Ethiopian Renaissance Dam (GERD), Africa's largest hydroelectric project, Ethiopia has demonstrated a determination to shape its own future. At the same time, the Green Legacy Initiative (GLI) has mobilized millions of citizens in an unprecedented environmental restoration campaign, reversing land degradation and contributing to climate resilience. Parallel to these efforts, a rapidly expanding digital economy is transforming public services, financial transactions, and everyday commerce, ushering the nation into a new era of technological advancement.\nThe comprehensive review that follows examines this multifaceted transformation across twelve key sectors that have played a central role in reshaping Ethiopia over the past eight years. While acknowledging the challenges that remain, it highlights the tangible and measurable achievements that have altered the country's political, economic, social, environmental, and physical landscape. These developments are not merely statistical milestones; they represent structural changes that are laying the foundation for future growth and prosperity.\nUltimately, this assessment poses an important question to media organizations, policymakers, citizens, and international observers alike: Should temporary crises and ongoing challenges obscure the significance of historic achievements that are transforming the nation? Or should these accomplishments be recognized as the foundation upon which Ethiopia can continue addressing its remaining obstacles and advancing toward its long-term aspirations?\nPolitical Reforms\nWhen Prime Minister Abiy Ahmed assumed office in April 2018, he introduced early political and institutional changes aimed at opening civic space and easing national tensions. Among the first steps taken was the release of thousands of political prisoners and the return of several opposition figures from exile. Legal and regulatory reforms followed, including amendments to the Charities and Societies Proclamation and the Media Proclamation, which eased long standing restrictions on civil society organizations and media institutions. In October 2018, a landmark cabinet reshuffle brought women into 50 percent of ministerial positions, including senior leadership portfolios, marking one of the most visible institutional shifts of the period.\nA central pillar of the broader political transformation has been the restructuring of the National Electoral Board of Ethiopia (NEBE). The reconstituted board was designed to function with greater independence and credibility, reshaping the institutional framework governing the country’s electoral process. This reform was first tested during the 6th national general election held in June 2021. Conducted under challenging conditions, including the COVID-19 pandemic, the election marked a departure from previous eras which were dominated by a single political coalition. Domestic and international observers witnessed improvements in procedural openness and voter participation, while also recognizing the complexity of managing a large-scale election in a transitional environment.\nBuilding on that experience, Ethiopia has moved into preparations for its 7th national general election. This electoral cycle has been characterized by expanded logistical capacity and institutional modernization. The NEBE registered more than 54 million voters, representing a significant increase compared to the previous cycle, and introduced digital registration systems to improve accessibility.\nThese developments reflect an evolving electoral and political landscape in which institutional frameworks have been adjusted to expand participation and strengthen procedural organization. Hence, while challenges remain, the direction of reform points to a political space that is more structured, more competitive, and more open than in earlier phases of the country’s recent history.\nPeace Agreement with Eritrea\nOne of the most consequential diplomatic developments in Ethiopia's modern history was the peace agreement signed between Ethiopia and Eritrea in July 2018. The accord formally ended nearly two decades of hostility and diplomatic deadlock that had persisted since the 1998–2000 border war, a conflict that claimed tens of thousands of lives and left relations between the two neighboring countries frozen for years.\nThe breakthrough triggered a series of historic developments. Diplomatic relations were restored, commercial flights resumed between Addis Ababa and Asmara, telecommunications links were re-established, border crossings were reopened, and families separated for decades by one of Africa's most heavily militarized frontiers were finally reunited. The agreement also reduced tensions across the Horn of Africa and generated optimism about the prospects for greater regional cooperation, economic integration, and stability.\nThe significance of the initiative extended beyond the two countries. It demonstrated that even deeply entrenched conflicts could be resolved through political courage and diplomatic engagement. In recognition of his efforts to end the prolonged stalemate and advance reconciliation, Prime Minister Abiy Ahmed was awarded the 2019 Nobel Peace Prize. The Nobel Committee cited his decisive role in achieving peace and fostering international cooperation in a region long affected by instability.\nWhile the implementation and sustainability of the peace process have faced significant challenges in subsequent years, including changing regional dynamics and renewed political tensions, the historic importance of the 2018 agreement remains undisputed. The accord represented a decisive departure from decades of confrontation and opened a new chapter in relations between the two countries.\nViewed within a broader historical context, the Ethiopia-Eritrea peace agreement stands as one of the most important diplomatic achievements of the past decade in Africa. It demonstrated Ethiopia's willingness to pursue dialogue over confrontation and underscored the country's growing role in shaping peace and stability in the Horn of Africa. Regardless of later challenges, the agreement remains a landmark achievement that altered regional geopolitics and showcased the transformative potential of diplomatic leadership.\nEconomic Reform\nThe Homegrown Economic Reform Agenda (HGER), launched in 2019 and later expanded through a second phase, represents the most ambitious economic restructuring program undertaken in Ethiopia in decades. Designed to transition the country from a predominantly state-led development model toward a more competitive and market-oriented economy, the reform package seeks to address long-standing macroeconomic imbalances while laying the foundation for sustainable private sector-led growth.\nThe reform agenda is built around several key pillars, including strengthening fiscal discipline, controlling inflationary pressures, expanding private sector participation, improving the performance of state-owned enterprises, enhancing export competitiveness, and creating a more attractive investment environment. Among its most significant milestones was the government's decision to move toward a market-based foreign exchange system, a major policy shift intended to improve foreign currency availability and boost investor confidence. The reform process also introduced an interest rate-based monetary policy framework through the National Bank of Ethiopia and reduced direct central bank financing of government expenditure, measures aimed at strengthening macroeconomic stability and improving policy credibility.\nDespite facing global economic shocks, the COVID-19 pandemic, climate-related challenges, and domestic security pressures, Ethiopia has continued to register strong economic growth. According to assessments by the World Bank and the International Monetary Fund, the country remains among Africa's fastest-growing economies. Economic growth was estimated at approximately 8.1 percent in the 2023/24 fiscal year, while projections for 2024/25 indicate growth exceeding 8 percent. Forecasts suggest that Ethiopia will continue to maintain one of the highest growth rates on the continent in the coming years.\nExternal sector performance has shown notable improvement as well. Export earnings have reached record levels, driven by strong performances in coffee, gold, horticulture, livestock products, and other key commodities. Foreign exchange inflows have also benefited from growing remittances, tourism recovery, and increased investment activity. These developments have helped improve foreign currency availability and strengthen the country's external position.\nEqually important is the growing role of the private sector. Reforms in telecommunications, banking, logistics, and investment regulations have begun opening previously restricted sectors to competition and private participation. The government's broader objective is to create an economic environment in which entrepreneurship, innovation, and investment serve as primary drivers of growth and job creation. The homegrown Economic Reform Agenda has fundamentally altered the trajectory of the Ethiopian economy. It has introduced structural reforms that seek not merely to sustain growth but to improve its quality, resilience, and inclusiveness.\nGrowth of FDI\nForeign Direct Investment (FDI) has emerged as one of the key drivers of Ethiopia's economic transformation, providing critical capital inflows, technology transfer, employment opportunities, and access to international markets. As the country pursues ambitious industrialization and economic reform programs, attracting foreign investment has become a central component of its long-term development strategy.\nAccording to the United Nations Conference on Trade and Development (UNCTAD), Ethiopia has consistently ranked among Africa's leading destinations for foreign direct investment and remains one of the largest recipients of FDI in East Africa. Between 2018 and 2024, the country attracted billions of dollars in investment commitments across a wide range of sectors, including manufacturing, commercial agriculture, mining, renewable energy, infrastructure, telecommunications, and services. These investments have played an important role in expanding productive capacity, creating jobs, increasing exports, and strengthening the country's integration into global value chains.\nBesides, the country's network of industrial parks and the introduction of Special Economic Zones (SEZs) have created dedicated investment platforms offering improved infrastructure, streamlined administrative services, and enhanced incentives for domestic and international investors. These initiatives have strengthened Ethiopia's position as a regional manufacturing hub, particularly in textiles, apparel, agro-processing, pharmaceuticals, and light manufacturing.\nAnother notable development was the decision to open Ethiopia's financial sector to foreign participation. Through new regulatory frameworks issued by the National Bank of Ethiopia, international financial institutions have been provided pathways to enter the market through subsidiaries, branches, strategic partnerships, and minority shareholdings in domestic banks. The move is expected to increase capital availability, strengthen competition, enhance financial innovation, and improve access to global financial expertise.\nThe mining sector has also emerged as an increasingly attractive destination for foreign capital. Rising investments in gold, potash, natural gas, and critical minerals have expanded the sector's contribution to export earnings and foreign exchange generation. Similarly, growing investment in renewable energy projects reflects Ethiopia's ambition to become a regional leader in clean energy production and export.\nBy gradually transitioning from a relatively closed economic structure toward a more open and competitive investment environment, Ethiopia has positioned itself as one of Africa's most promising emerging markets. The sustained flow of foreign investment over recent years reflects growing international confidence in the country's long-term economic potential and its vision of becoming a leading manufacturing, services, and investment hub on the continent.\nTechnological Revolution\nPerhaps no sector better illustrates Ethiopia’s recent transformation than digital technology. Guided by the Digital Ethiopia 2025 Strategy, the country has accelerated its shift from a predominantly cash based and paper driven economy toward a more connected and technology enabled digital ecosystem. The strategy has prioritized the expansion of digital infrastructure, the development of a nationwide digital identity system, and the promotion of digital public services, laying the groundwork for greater financial inclusion, improved healthcare management, enhanced educational access, and more transparent public service delivery.\nAt the center of this transformation is the Fayda Digital ID program, Ethiopia’s national digital identification initiative. The program has registered more than 15 million citizens and continues to expand rapidly toward its long-term goal of providing secure digital identification to 90 million residents by 2030. The initiative is expected to play a critical role in simplifying access to financial services, government programs, healthcare, and social protection schemes while reducing administrative inefficiencies.\nInfrastructure Expansion\nInfrastructure development has remained a cornerstone of Ethiopia’s growth strategy, providing the foundation for economic integration, trade expansion, and improved public services. Over the past eight years, the country has significantly expanded its transport network through the Road Sector Development Program. Ethiopia’s all weather road network increased from about 126,000 kilometers in 2018 to more than 171,000 kilometers, improving connectivity between major economic centers and previously underserved rural areas.\nUrban Development\nUrban renewal has become one of the most visible aspects of Ethiopia’s recent transformation. The Addis Ababa Corridor Development Project has reshaped large sections of the capital through road expansion, modern drainage systems, pedestrian walkways, cycling lanes, green spaces, and upgraded public facilities. Designed to improve mobility and urban livability, the project seeks to create a more efficient and interconnected city environment.\nThe initiative has since expanded beyond Addis Ababa to more than 125 cities nationwide. Major urban centers such as Bahir Dar, Dessie, Kombolcha, and Debre Berhan have undertaken infrastructure upgrades and public space improvements, while Oromia Region has launched a long-term corridor development plan linking metropolitan areas with the growing Sheger City. Public attractions such as Unity Park, Friendship Park, and Entoto Park have further enhanced urban aesthetics and strengthened the tourism and hospitality sectors. Hence, urban transformation has become a defining feature of Ethiopia’s development agenda.\nEnvironmental Restoration\nThe Green Legacy Initiative (GLI) has emerged as one of the largest environmental restoration programs in the world. Launched in 2019 to address deforestation, land degradation, and climate change, the campaign has mobilized millions of citizens each year in nationwide tree planting efforts. Ethiopia achieved international recognition by planting more than 714 million seedlings in a single day, while cumulative planting has surpassed 40 billion trees since the program began.\nThe initiative is increasingly focused on improving seedling survival rates, restoring degraded ecosystems, and promoting climate resilient species. Alongside indigenous trees, farmers are encouraged to plant fruit trees and agroforestry crops that generate economic benefits while enhancing environmental sustainability. The initiative has become a central pillar of Ethiopia’s Climate Resilient Green Economy strategy. By expanding forest cover, protecting biodiversity, and improving watershed management, the program contributes to both environmental protection and agricultural sustainability.\nAgricultural Modernization\nAgriculture continues to play a central role in Ethiopia’s economy, supporting millions of livelihoods and contributing substantially to national output. One of the most significant achievements in recent years has been the expansion of domestic wheat production. Through large scale irrigation, improved seed varieties, mechanization, and cluster farming programs, annual wheat production increased from about 7 million metric tons in 2018 to more than 23 million metric tons. This progress has sharply reduced dependence on imported wheat and enabled Ethiopia to export surplus production to neighboring markets, saving valuable foreign exchange.\nThe coffee sector has also achieved record performance. During the 2024/25 fiscal year, Ethiopia generated approximately 2.65 billion USD from coffee exports, the highest earnings in the country’s history. Export volumes reached nearly 470,000 metric tons, driven by strong demand from major markets including Saudi Arabia, Germany, the United States, and South Korea. Policy reforms that expanded market access and encouraged direct participation by producers have strengthened export competitiveness and increased returns for farmers. These gains support Ethiopia’s ambition of raising annual coffee export revenues to 4 billion USD in the coming years.\nManufacturing Development\nIndustrialization remains central to Ethiopia’s vision of building a diversified and export-oriented economy. Over the past decade, substantial investments have been made in industrial parks and Special Economic Zones designed to attract manufacturing investment and create employment opportunities. The Industrial Parks Development Corporation oversees major industrial hubs in Hawassa, Dire Dawa, Bole Lemi, Kilinto, Kombolcha, Adama, Jimma, and Bahir Dar, among others.\nThese industrial zones have attracted investors from Asia, Europe, the Middle East, and the Americas, supporting industries ranging from textiles and apparel to pharmaceuticals, agro processing, leather products, and light manufacturing. They have created tens of thousands of jobs while contributing to export growth and technology transfer.\nBy combining foreign investment, local entrepreneurship, renewable energy resources, and expanding industrial infrastructure, Ethiopia is laying the foundation for a more diversified economy capable of generating employment, increasing exports, and supporting long term economic transformation.\nDiplomacy and Continental Leadership\nAs the host of the African Union (AU) headquarters, Ethiopia continues to occupy a central place in African diplomacy. Its strategic location, long history of statehood, and growing economic significance have enabled the country to play an active role in regional peace, security, and integration efforts. Over the years, Ethiopia has contributed to conflict mediation initiatives in the Horn of Africa, supported regional cooperation mechanisms, and promoted the principle of African solutions to African challenges through multilateral institutions.\nEthiopia's diplomatic engagement is particularly evident within the AU that the country has consistently advocated for greater continental integration, infrastructure connectivity, and sustainable development under the framework of the AU's Agenda 2063. It has also positioned major national projects, including GERD, as contributions to Africa's broader development objectives by emphasizing renewable energy generation, regional power interconnection, and equitable utilization of shared resources.\nBeyond diplomacy, Ethiopia remains a significant contributor to regional peace and security. Ethiopian personnel have participated in various AU and United Nations (UN) peace support operations, reflecting the country's longstanding commitment to stability across the continent. These contributions have reinforced Ethiopia's reputation as an important stakeholder in efforts to address conflict, terrorism, and humanitarian crises in Africa.\nEthiopia's international profile expanded further with its accession to the BRICS grouping in 2024. Membership provides access to new avenues of economic cooperation, investment opportunities, development financing, and trade partnerships with some of the world's largest emerging economies. The move also reflects the country's efforts to diversify its international partnerships while strengthening its voice within evolving global governance structures.\nAlthough Ethiopia continues to navigate complex regional dynamics and global geopolitical competition, its growing engagement in continental and international institutions has enhanced its diplomatic influence. Through its leadership within the AU, participation in peace and security initiatives, and expanding partnerships with emerging global powers, Ethiopia has strengthened its position as a key factor in shaping Africa's future and advancing its own long term development interests.\nConclusion\nIn conclusion, despite various media blackmailing and campaign against Ethiopia, the past eight years have been among the most consequential in Ethiopia’s modern history, marked by significant achievements and ambitious reforms. The country has undertaken wide ranging reforms and development initiatives that have reshaped key sectors of the economy and society. Major investments in infrastructure have expanded transportation networks and improved national connectivity. The Digital Ethiopia agenda has accelerated financial inclusion and digital transformation. Besides, the country has recorded substantial progress across infrastructure, agriculture, energy, technology, environmental protection, industrial development, and diplomacy.\nTherefore, it is crucial to recognize these achievements as it could provide a more complete understanding of a nation that continues to evolve, adapt, and strive toward a more prosperous and stable future. Ethiopia's story over the past eight years is therefore not solely one of challenges as those media have been disseminating but that of grave achievements, transformation, resilience, and the ongoing pursuit of national progress. Hence, we should not deny the undeniable gains on the ground and shouldn't allow minor challenges to overshadow the historic achievements that are transforming Ethiopia.",
+        "url": "https://www.ena.et/web/eng/w/eng_8952489",
+        "image": "https://www.ena.et/documents/42142/0/PM+Abiy1+%286%29.jpg/fc70b0c8-d1de-3193-3cc0-f4da6732072b?version=1.0&t=1780264012306&download=true",
+        "publishedAt": "2026-05-31T23:57:32Z",
+        "source": "ENA English"
+      },
+      {
+        "title": "The notorious UN blacklist that now includes I",
+        "description": "Alongside Hamas, the UN's sexual violence blacklist also includes Russia's forces in Ukraine, accused of raping POWs, the Houthis' Al-Zainabiyat women's unit, accused of torture, and Congo, where more than 90,000 sexual violence cases were reported in just nine months",
+        "url": "https://www.ynetnews.com/article/hj6z8hclml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/01/BysfnMxPA/BysfnMxPA_0_244_3000_1689_0_large.jpg",
+        "publishedAt": "2026-05-31T23:55:09Z",
+        "source": "ynetnews"
+      },
+      {
+        "title": "Colombia leftist faces pro-Trump rival in presidential election runoff",
+        "description": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+        "url": "https://www.bbc.co.uk/news/articles/c1w2xvwq8g9o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg",
+        "publishedAt": "2026-05-31T23:53:00Z",
+        "source": "BBC"
+      },
+      {
+        "title": "UK Standard Visitor Visa: How to Apply, Costs, Eligibility Requirements Explained",
+        "description": "The UK outlined eligibility rules, permitted activities, application steps and visa fees for travellers seeking entry under the Standard Visitor route.",
+        "url": "https://www.legit.ng/nigeria/1712417-uk-standard-visitor-visa-how-apply-costs-eligibility-requirements-explained/",
+        "image": "https://cdn.legit.ng/images/1200x675/8291527b6de4f961.jpeg?v=1",
+        "publishedAt": "2026-05-31T23:49:44Z",
+        "source": "Legit.ng"
+      },
+      {
+        "title": "Trees and greenery can cool cities by as much as 18°C - but only if they’re the right type",
+        "description": "A new study has shown that more vegetation is not automatically better.",
+        "url": "https://theconversation.com/trees-and-greenery-can-cool-cities-by-as-much-as-18-c-but-only-if-theyre-the-right-type-283071",
+        "image": "https://images.theconversation.com/files/738004/original/file-20260526-71-b5weln.jpg?ixlib=rb-4.1.0&rect=0%2C1002%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-05-31T23:46:15Z",
+        "source": "The Conversation"
+      },
+      {
+        "title": "'They're hunting buses': The Ukrainian drivers risking death on the routes of Kherson",
+        "description": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+        "url": "https://www.bbc.co.uk/news/articles/c87q2eq8r1yo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c413/live/5d22e690-5b47-11f1-a62b-2f41c7c3a318.jpg",
+        "publishedAt": "2026-05-31T23:40:57Z",
+        "source": "BBC"
       }
     ],
     "business": [
       {
-        "title": "Thanks to AI, Folks Don't Think They Need Lawyers Anymore",
-        "description": "A Minnesota man's quest to sue his way back into his former home is giving federal judges a preview of what an AI-fueled future looks like in court. The New York Times...",
-        "url": "https://www.newser.com/story/389819/thanks-to-ai-folks-dont-think-they-need-lawyers-anymore.html",
-        "image": "https://img1-azrcdn.newser.com/image/1688268-12-20260531173002.jpeg",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "Newser"
+        "title": "Watch The NVIDIA GTC Taipei 2026 Keynote Ft. Jensen Huang Live Here - The Next Chapter of AI Computing",
+        "description": "NVIDIA GTC Taipei 2026 keynote is today, and CEO Jensen Huang will be presenting the latest, including a brand new platform for PCs.",
+        "url": "https://wccftech.com/watch-nvidia-gtc-taipei-2026-keynote-ft-jensen-huang-live-here/",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-GTC-Taipei-2026.jpg",
+        "publishedAt": "2026-06-01T00:15:00Z",
+        "source": "Wccftech"
       },
       {
-        "title": "2026 EOFY deals: The biggest discounts on new cars in Australia",
-        "description": "With a month to go before the end of the financial year, now is the best time for a great deal on a new car. Here's what's on offer from every brand.",
-        "url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia",
-        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2024-04-happy-woman-new-car-dealer-1.jpg",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "CarExpert"
-      },
-      {
-        "title": "The end of a regulatory grey zone: Why China is cracking down on offshore brokerages",
-        "description": "China’s toughest crackdown yet on offshore brokerages is closing a popular route to overseas markets for mainland investors. Analysts say the move is about more than investor protection.",
-        "url": "https://www.channelnewsasia.com/east-asia/china-overseas-brokerage-investors-trading-crackdown-6149496",
-        "image": "https://dam.mediacorp.sg/image/upload/s--u2jJJOHW--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-15T095437Z_1_LYNXMPEM4E0PB_RTROPTP_3_SCHRODERS-CHINA.JPG?itok=Wh_8zTA2",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Web3 Has No Safe AI. DMind AI Just Quantified the Gap -- and KDD 2026 Made It Official.",
-        "description": "/PRNewswire/ -- Medical AI has MedQA. Financial AI has FinBen. Legal AI has LegalBench. Web3 — one of the most adversarial, financially consequential software...",
-        "url": "https://www.prnewswire.com/news-releases/web3-has-no-safe-ai-dmind-ai-just-quantified-the-gap--and-kdd-2026-made-it-official-302786392.html",
-        "image": "https://mma.prnewswire.com/media/2991390/1779722212199.jpg?p=facebook",
-        "publishedAt": "2026-05-31T22:00:00Z",
+        "title": "ASCO 2026 | CStone Presents Updated Clinical Data for CS2009 (PD-1/VEGF/CTLA-4 Trispecific Antibody), Reinforcing Triple-Target Synergy and Delivering Strong Proof-of-Concept",
+        "description": "First-line NSCLC – Compelling Activity Across All PD-L1 Subgroups In first-line non-small cell lung cancer (NSCLC) patients with high PD-L1 expression (TPS...",
+        "url": "https://www.prnewswire.com/news-releases/asco-2026--cstone-presents-updated-clinical-data-for-cs2009-pd-1vegfctla-4-trispecific-antibody-reinforcing-triple-target-synergy-and-delivering-strong-proof-of-concept-302786438.html",
+        "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+        "publishedAt": "2026-06-01T00:15:00Z",
         "source": "PR Newswire"
       },
       {
-        "title": "Cango Inc. Reports First Quarter 2026 Unaudited Financial Results",
-        "description": "/PRNewswire/ -- Cango Inc. (NYSE: CANG) (\"Cango\" or the \"Company\"), a leading Bitcoin miner leveraging its global operations to develop an integrated energy...",
-        "url": "https://www.prnewswire.com/news-releases/cango-inc-reports-first-quarter-2026-unaudited-financial-results-302786436.html",
-        "image": "https://mma.prnewswire.com/media/2933411/Logo.jpg?p=facebook",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "PR Newswire"
+        "title": "China Investors Turn Sellers of HK Stocks in Rare Reversal",
+        "description": "Chinese mainland investors turned net sellers of Hong Kong stocks for the first time in nearly three years in May, after a surge in tech shares trading onshore eroded the appeal of the city’s market.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-01/china-investors-turn-sellers-of-hk-stocks-in-rare-reversal",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX5JHZgO9T8k/v0/1200x800.jpg",
+        "publishedAt": "2026-06-01T00:12:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "AI threatens $3b outsourcing pillar",
-        "description": "AI threatens $3b outsourcing pillar",
-        "url": "https://tribune.com.pk/story/2610762/ai-threatens-3b-outsourcing-pillar",
-        "image": "https://i.tribune.com.pk/media/images/81780263849-0/81780263849-0-640x480.webp",
-        "publishedAt": "2026-05-31T21:51:16Z",
-        "source": "The Express Tribune"
+        "title": "UAAGI partners with Pacific Autoworld to bring Radar EV Trucks to Cebu",
+        "description": "UAAGI continues its aggressive nationwide expansion by tapping the automotive expertise of Pacific Autoworld to establish Radar’s presence in the southern provinces",
+        "url": "https://www.autoindustriya.com/auto-industry-news/uaagi-partners-with-pacific-autoworld-to-bring-radar-ev-trucks-to-cebu.html",
+        "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/05/c4142bf2-9009-4fe4-9979-6bc6cbeee486-radarcebu.jpg",
+        "publishedAt": "2026-06-01T00:11:46Z",
+        "source": "AutoIndustriya"
       },
       {
-        "title": "Inox Wind Q4 FY26 Profit Falls 51% Amid Geopolitical Disruptions, Payment Delays",
-        "description": "Inox Wind reported a 51 percent decline in Q4 FY26 profit due to geopolitical disruptions and payment delays, while maintaining a strong 3.1 GW order book.",
-        "url": "https://www.saurenergy.com/solar-energy-news/inox-wind-q4-fy26-profit-falls-51-amid-geopolitical-disruptions-payment-delays-11894351",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/saur-energy/media/media_files/2026/06/01/inox-wind-q4-fy26-profit-falls-51-percent-amid-geopolitical-disruptions-and-payment-delays-2026-06-01-03-20-50.jpg",
-        "publishedAt": "2026-05-31T21:51:03Z",
-        "source": "Saur Energy"
+        "title": "From money market funds to stablecoins: lessons for central banks",
+        "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html",
+        "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+        "publishedAt": "2026-06-01T00:10:32Z",
+        "source": "European Central Bank"
       },
       {
-        "title": "DOE sets timeline for delayed fifth green energy auction",
-        "description": "The Department of Energy (DOE) opened the application window for its delayed offshore wind auction, kickstarting a multi-gigawatt procurement process intended...",
-        "url": "https://mb.com.ph/2026/06/01/doe-sets-timeline-for-delayed-fifth-green-energy-auction",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/05/31/105351.webp",
-        "publishedAt": "2026-05-31T21:47:47Z",
-        "source": "Manila Bulletin"
+        "title": "TOR to refine Ghanaian crude oil from June 2026 - President Mahama",
+        "description": "President John Dramani Mahama has announced that the Tema Oil Refinery (TOR) will begin processing Ghanaian crude oil in June 2026 as part of efforts to increase local value addition and reduce the country's dependence on imported refined petroleum products.",
+        "url": "https://www.graphic.com.gh/news/general-news/tor-to-process-first-ghanaian-crude-oil-in-june.html",
+        "image": "https://www.graphic.com.gh/images/2026/May/31/Mahama_in_london5.jpg",
+        "publishedAt": "2026-06-01T00:09:18Z",
+        "source": "Graphic Online"
+      },
+      {
+        "title": "Berkshire Hathaway makes $6.8 billion housing bet with Taylor Morrison deal",
+        "description": "The acquisition marks one of the first major strategic deals under Warren Buffett's successor Greg Abel, who took over as CEO in the beginning of 2026.",
+        "url": "https://www.cnbc.com/2026/06/01/berkshire-hathaway-taylor-morrison-home-acquisition-housing-market.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108301073-1777732003016-Abel7.jpg?v=1777732056&w=1920&h=1080",
+        "publishedAt": "2026-06-01T00:08:00Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "Batteries on wheels: V2G could be twice the capacity of Snowy 2.0, but it needs more than BYD Atto 3",
+        "description": "Australia is funding a vehicle to grid pilot scheme with 1,000 vehicles. But can it attract any electric models apart from the BYD Atto 3?",
+        "url": "https://thedriven.io/2026/06/01/batteries-on-wheels-v2g-could-be-twice-the-capacity-of-snowy-2-0-but-it-needs-more-than-byd-atto-3/",
+        "image": "https://thedriven.io/wp-content/uploads/2026/06/Untitled-design-1.jpg",
+        "publishedAt": "2026-06-01T00:04:45Z",
+        "source": "The Driven"
       }
     ],
     "science": [
+      {
+        "title": "SpaceX Says It’s Sparking One Of Galaxy’s Most Advanced Civilizations",
+        "description": "One of the most fantastical claims SpaceX is making during the countdown to its IPO is that it is helping create one of the most advanced civilizations in the Milky Way.",
+        "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-says-its-sparking-one-of-galaxys-most-advanced-civilizations/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68f94e65dd358adcf64ab95f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-01T00:07:24Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "Focused Dish For Bouncing Radio Signals Off The Moon",
+        "description": "Italian prime Telespazio repurposed its 32-meter dish at Como to test its capacity for EME, or moon bounce radio transmissions.",
+        "url": "https://orbitaltoday.com/2026/06/01/telespazio-repurpose-geostationary-focused-dish-for-bouncing-radio-signals-off-the-moon/",
+        "image": "https://orbitaltoday.com/wp-content/uploads/2026/06/Telespazio.jpg",
+        "publishedAt": "2026-05-31T23:36:05Z",
+        "source": "Orbital Today"
+      },
+      {
+        "title": "Parasitic Fly Sacrifices Sight for Host, Study Reveals",
+        "description": "A blood-feeding parasitic fly loses visual sensitivity after finding a host and permanently giving up flight, new research shows.Deer keds—biting",
+        "url": "https://www.miragenews.com/parasitic-fly-sacrifices-sight-for-host-study-1683593/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1615309661755-816dcd80bcd3%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+        "publishedAt": "2026-05-31T23:07:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Parasitic fly 'sacrifices sight' after finding host, study shows",
+        "description": "Deer keds—biting flies found across Europe, Asia, Africa and the Americas—use their eyes and flight to locate a host, typically deer, but occasionally humans or other mammals. Once they land, however, they shed their wings permanently and spend the rest of their lives crawling through fur and feeding on blood.",
+        "url": "https://phys.org/news/2026-05-parasitic-fly-sacrifices-sight-host.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/parasitic-fly-sacrific.jpg",
+        "publishedAt": "2026-05-31T23:00:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Aurora Drives Self-Sustaining Heat Engine",
+        "description": "Saturn rotation mystery solved: JWST’s NIRSpec aurora maps, 10 times sharper than Cassini-era data, exposed a planetary heat engine of aurora, winds, and electrical currents that made Saturn’s spin",
+        "url": "https://www.techtimes.com/articles/317472/20260531/jwst-solves-saturns-40-year-spin-mystery-aurora-drives-self-sustaining-heat-engine.htm",
+        "image": "https://d.techtimes.com/en/full/465708/picture-shows-saturn-infrared-light-aurora.jpg",
+        "publishedAt": "2026-05-31T22:43:48Z",
+        "source": "Tech Times"
+      },
+      {
+        "title": "A natural chemistry laboratory in protostar shock waves",
+        "description": "Life exists because elements combine to form complex organic molecules. Astrochemistry studies this process, trying to understand how nature creates carbon-based molecules critical for life. One source for these types of molecules is the outflows emitted by protostars.",
+        "url": "https://phys.org/news/2026-05-natural-chemistry-laboratory-protostar.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/a-natural-chemistry-la.jpg",
+        "publishedAt": "2026-05-31T22:30:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "500-million-year-old fossil rewrites a missing chapter of Earth’s history",
+        "description": "New fossil from Canada suggests late Cambrian ecosystems were far more diverse than scientists once believed.",
+        "url": "https://www.thebrighterside.news/post/500-million-year-old-fossil-rewrites-a-missing-chapter-of-earths-history/",
+        "image": "https://www.thebrighterside.news/uploads/2026/05/fo-1.jpg?auto=webp",
+        "publishedAt": "2026-05-31T22:07:00Z",
+        "source": "The Brighter Side of News"
+      },
       {
         "title": "The Sun is not standing still. It is carrying the entire Solar System around the centre of the Milky Way, and one lap takes roughly 230 million years. The last time we were this far around the galaxy,",
         "description": "The Sun is not fixed in space. It carries the entire Solar System around the centre of the Milky Way, completing one lap in roughly 230 million years. One galactic year ago, Earth was in the Late Triassic, and the first dinosaurs were only just beginning to appear in the fossil record. The image is […]",
@@ -142,128 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-31T205125.451.png",
         "publishedAt": "2026-05-31T21:30:47Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Meteor over Massachusetts causes explosion reports, sightings from Delaware to Montreal",
-        "description": "Reports of an explosion from people across New England on Saturday afternoon sent police agencies and others scrambling to understand what caused a double boom that shook buildings in Massachusetts and Rhode Island. The American Meteor Society said that the booms people heard were actually caused by a meteor about 3 feet (nearly 1 metre) wide entering the atmosphere […]",
-        "url": "https://montreal.citynews.ca/2026/05/31/meteor-sightings-montreal/",
-        "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2024/07/28/iStock-931037172-878x494-1.jpg",
-        "publishedAt": "2026-05-31T21:22:57Z",
-        "source": "CityNews Montreal"
-      },
-      {
-        "title": "Researchers teach brain cells to play ‘Doom’",
-        "description": "Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter game “Doom” and say they are just scratching the surface of what the neurons could be capable of doing.",
-        "url": "https://www.thedailystar.net/news/world/news/researchers-teach-brain-cells-play-doom-4187736",
-        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/Softbrain_cells.jpg",
-        "publishedAt": "2026-05-31T21:11:15Z",
-        "source": "The Daily Star"
-      },
-      {
-        "title": "Stanford's Revolutionary New Microscope Reveals Living Cells in Stunning Detail",
-        "description": "Stanford researchers have developed a microscope that can show how nanostructures interact inside living cells at the highest resolution achieved so far. The view into living cells just got better. Stanford researchers have merged two microscopy methods to build a unique instrument that can ca",
-        "url": "https://scitechdaily.com/stanfords-revolutionary-new-microscope-reveals-living-cells-in-stunning-detail/",
-        "image": "https://scitechdaily.com/images/Interferometric-Microscopy-Laser-Array.jpg",
-        "publishedAt": "2026-05-31T20:31:29Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "NASA study reveals ancient Mars may have stayed warm and wet longer",
-        "description": "NASA said the crystals' shape and structure reflect the climate's conditions, including temperature and water pressure.",
-        "url": "https://www.yahoo.com/news/science/articles/nasa-study-reveals-ancient-mars-202503658.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAIHUd_--f7xJs6flZPyQnluspYNMtnWp9aUncmwi2sBzPH3HyGj9CPiMZc1kDnEoZ_bLw1XrfuaIrMFVA_cqLMh47yBMVb2RsWI8piogtsfrb4zxlQo2Uw8kaaUGEsqS4oQCYpN4gScAkxf5A6OAXyTygFrWEL6SAaNvYCFXhSW4",
-        "image": "https://s.yimg.com/os/en/newsnation_articles_600/aeb1577987055109f8ad795b39fb8013",
-        "publishedAt": "2026-05-31T20:25:03Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Molecular Movie Tech Unveils New Pollution Defense",
-        "description": "The latest production from the \"molecular movie\" imaging technology developed at Oregon State University is a new, inexpensive way of dealing with a",
-        "url": "https://www.miragenews.com/molecular-movie-tech-unveils-new-pollution-1683535/",
-        "image": "https://news.oregonstate.edu/sites/news.oregonstate.edu/files/2026-05/thumb_1.jpg",
-        "publishedAt": "2026-05-31T20:08:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "The Galaxy That Forgot to Spin",
-        "description": "Every galaxy we know of spins. It's one of those rules of the universe so fundamental that astronomers barely think about it anymore. So when the James Webb Space Telescope pointed at one of the most massive galaxies in the early universe and found…well nothing. No spin, just stillness. They had to look twice.",
-        "url": "https://www.universetoday.com/articles/the-galaxy-that-forgot-to-spin",
-        "image": "https://www.universetoday.com/article_images/1280px-M101_hires_STScI-PRC2006-10a_20260531_193311.jpg",
-        "publishedAt": "2026-05-31T19:35:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It’s Real.",
-        "description": "Back in 1985, an electrical engineer at Polaroid named Bill Freeman had an idea for a three-sided zipper. Not a novelty item, not a quirky art piece, but a genuinely functional fastener capable of switching objects between soft, floppy states and rigid, load-bearing structures. He submitted it to a design competition. They rejected it. He",
-        "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
-        "image": "https://www.yankodesign.com/images/design_news/2026/05/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/y-zipper-01.jpg",
-        "publishedAt": "2026-05-31T19:15:13Z",
-        "source": "Yanko Design"
       }
     ],
     "ai": [
       {
-        "title": "How Bryson DeChambeau used AI to fix his swing",
-        "description": "Following Sunday's final round, Bryson DeChambeau revealed he used AI to diagnose and correct flaws in his swing mechanics.",
-        "url": "https://golf.com/instruction/bryson-dechambeau-used-ai-fix-swing/",
-        "image": "https://golf.com/wp-content/uploads/2026/05/GettyImages-2278387188.jpg?_t=1780265003",
-        "publishedAt": "2026-05-31T22:03:20Z",
-        "source": "GOLF.com"
-      },
-      {
-        "title": "XRP Maintains Its Position Among Crypto Leaders as Ruvi AI Introduces Revenue-Driven Token Utility",
-        "description": "Ruvi at $0.020 with 3,000+ holders, 20+ AI models live, a fixed 5 billion supply, and contributor payouts in $RUVI is not waiting on anyone. Make a move before Phase 3 closes and today's entry becomes the floor.",
-        "url": "https://techbullion.com/xrp-maintains-its-position-among-crypto-leaders-as-ruvi-ai-introduces-revenue-driven-token-utility/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/05/Ripple-XRP-Maintains-Its-Position-Among-Crypto-Leaders-as-Ruvi-AI-RUVI-Introduces-Revenue-Driven-Token-Utility-3-1000x600.png",
-        "publishedAt": "2026-05-31T22:00:06Z",
-        "source": "TechBullion"
-      },
-      {
-        "title": "Commentary: The pitfalls of seeking legal advice from AI chatbots",
-        "description": "Why engage and pay a lawyer if a chatbot can do the same work in seconds and for a fraction of the cost? Lawyer Mark Yeo weighs in.",
-        "url": "https://www.channelnewsasia.com/commentary/ai-impact-lawyer-profession-legal-advice-6148846",
-        "image": "https://dam.mediacorp.sg/image/upload/s--3PFq3QjV--/c_crop,h_705,w_1254,x_0,y_66/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/29/robot_assisting_person_in_court_istock.jpg?itok=_TSWMMZY",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "As the Pentagon pushes for battlefield AI, some military leaders urge caution",
-        "description": "Defense Secretary Pete Hegseth, is pushing to rapidly evolve the military through AI.",
-        "url": "https://www.oregonlive.com/nation/2026/05/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution.html",
-        "image": "https://www.oregonlive.com/resizer/v2/MFZPZSVZFZHRNJAQLGXBWGCKSM.jpg?auth=fcfc75b8178a4c34d773ae3f9149d6496b876ee2966886dfcc3e0b7f29770e5c&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-05-31T22:00:00Z",
-        "source": "The Oregonian"
-      },
-      {
-        "title": "Silicon Valley giant slashes more jobs in AI boom bloodbath",
-        "description": "Meta has cut thousands of jobs in the Bay Area. Artificial intelligence continues to reshape the tech industry that has lost more than 140,000 jobs so far this year.",
-        "url": "https://nypost.com/2026/05/31/tech/silicon-valley-giant-slashes-more-jobs-in-ai-boom-bloodbath/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/129333275.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-05-31T21:52:58Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "AWS Thailand promotes AI as economic engine",
-        "description": "Amazon Web Services (AWS) Thailand has positioned artificial intelligence (AI) as a defensive economic infrastructure that can help organisations automate, cut costs and improve productivity.",
-        "url": "https://www.bangkokpost.com/business/general/3264009/aws-thailand-promotes-ai-as-economic-engine",
-        "image": "https://static.bangkokpost.com/media/content/dcx/2026/06/01/6107399_700.jpeg",
-        "publishedAt": "2026-05-31T21:48:00Z",
-        "source": "Bangkok Post"
-      },
-      {
-        "title": "AI Might Finally Have A Real Use By Extending Your EV's Battery Life",
-        "description": "Researchers say AI-powered charging systems could extend EV battery life by up to 23% while reducing long-term degradation risks and replacement costs.",
-        "url": "https://www.bgr.com/2178359/ai-solution-extend-ev-battery-life/",
-        "image": "https://www.bgr.com/img/gallery/ai-might-finally-have-a-real-use-by-extending-your-evs-battery-life/l-intro-1779357104.jpg",
-        "publishedAt": "2026-05-31T21:47:00Z",
-        "source": "BGR"
-      },
-      {
         "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-        "description": "Surprise move suggests US chips may have been making their way to the subsidiaries of Chinese firms based in places such as Malaysia.",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3355492/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/01/15c27023-9b28-44ab-abb8-cc66f027af82_9976176c.jpg?itok=-pULEEFR&v=1780263703",
-        "publishedAt": "2026-05-31T21:46:33Z",
-        "source": "South China Morning Post"
+        "description": "A new guidance was posted on the Commerce Department’s website on May 31. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/2c8968f7b469a2d473c796a1196ec63ef65604792e5b9f2e65da4861eb0d6570",
+        "publishedAt": "2026-06-01T00:14:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "In a likely sign of the times, RIL's new hires down by 90k in FY26",
+        "description": "Reliance Industries' hiring in FY26 is likely to have been 90,000 lower, signalling a broader shift at large companies towards AI-led productivity, upskilling and leaner teams. While the overall headcount continues to grow, recruiters expect hiring across corporate India to become more selective.",
+        "url": "https://www.livemint.com/companies/ril-hiring-hr-attrition-recruitment-ai-11780210285270.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/INDIA-GUJARAT-SUMMIT-9_1705051231945_1780241350332_d8c36089-fee7-468c-a8ce-3aa74ff70e67.jpg",
+        "publishedAt": "2026-06-01T00:05:30Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Cover Story: How AI Took Over China’s Micro",
+        "description": "Cover Story: How AI Took Over China’s Micro-Drama Industry in 90 Days-Video-generation tools turned a labor-intensive entertainment industry into a high-speed content machine, leaving actors, crews and production hubs on the outs",
+        "url": "https://www.caixinglobal.com/2026-06-01/cover-story-how-ai-took-over-chinas-micro-drama-industry-in-90-days-102449814.html",
+        "image": "https://img.caixin.com/2026-06-01/178029251485894_560_373.jpg",
+        "publishedAt": "2026-06-01T00:00:00Z",
+        "source": "Caixin"
+      },
+      {
+        "title": "Angine de Poitrine: the alien rock band playing for Team Human",
+        "description": "In the war between artists and AI, weirdness may be humanity’s greatest asset",
+        "url": "https://www.prospectmagazine.co.uk/ideas/technology/73691/angine-de-poitrine-ai-vs-humans",
+        "image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/8029fc542d15-zuckerman-adp-header-via-youtube.jpg",
+        "publishedAt": "2026-06-01T00:00:00Z",
+        "source": "Prospect"
+      },
+      {
+        "title": "Business Brief (June 1): China’s Commerce Ministry Warns EU Over Trade Measures",
+        "description": "Business Brief (June 1): China’s Commerce Ministry Warns EU Over Trade Measures - AI and EV growth squeezes copper supply, securities industry group issues draft guidelines on cross-border data flows",
+        "url": "https://www.caixinglobal.com/2026-06-01/business-brief-june-1-chinas-commerce-ministry-warns-eu-over-trade-measures-102449790.html",
+        "image": "https://img.caixin.com/2025-08-26/175617644614715_560_373.jpg",
+        "publishedAt": "2026-06-01T00:00:00Z",
+        "source": "Caixin"
+      },
+      {
+        "title": "MICROIP to Debut \"AI Vehicle System Business Group\" and Edge AI Innovations at COMPUTEX 2026",
+        "description": "/PRNewswire/ -- MICROIP (TPEx: 7796), specializing in AI software and ASIC design services, will unveil its \"AI Vehicle System Business Group\" at COMPUTEX 2026...",
+        "url": "https://www.prnewswire.co.uk/news-releases/microip-to-debut-ai-vehicle-system-business-group-and-edge-ai-innovations-at-computex-2026-302785958.html",
+        "image": "https://mma.prnewswire.com/media/2990862/COMPUTEX_2026.jpg?p=facebook",
+        "publishedAt": "2026-06-01T00:00:00Z",
+        "source": "PR Newswire UK"
+      },
+      {
+        "title": "TSMC’s Local Investors Narrow Valuation Gap With Wall Street",
+        "description": "Local investors are driving the premium on Taiwan Semiconductor Manufacturing Co.’s US-listed shares to a two-year low as they pile into the chipmaker’s stock in Taipei on bets the AI boom has further to run.",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-31/tsmc-s-local-investors-narrow-valuation-gap-with-wall-street",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA2MgHOoqWn8/v0/1200x800.jpg",
+        "publishedAt": "2026-05-31T23:53:02Z",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Apple Smart Glasses likely to launch in late 2027, will follow Watch playbook",
+        "description": "Apple's first smart glasses are now tipped for a late 2027 launch, with the company reportedly prioritising design, AI and everyday usability over flashy AR features.",
+        "url": "https://www.indiatoday.in/technology/news/story/apple-smart-glasses-likely-to-launch-in-late-2027-will-follow-watch-playbook-2920032-2026-06-01",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/apple-smart-glasses-314649557-16x9_0.png?VersionId=i26STGI12WxqCkGtfhSNS8wgx81hRhZ.",
+        "publishedAt": "2026-05-31T23:50:20Z",
+        "source": "India Today"
       }
     ]
   }
