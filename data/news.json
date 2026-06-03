@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-03T17:59:36.837Z",
+  "fetchedAt": "2026-06-03T19:36:27.300Z",
   "sections": {
     "world": [
       {
-        "title": "Israel backs Philippines' bid for UN Security Council seat",
-        "description": "MANILA — Israeli Ambassador to the Philippines Dana Kursh on Wednesday confirmed Israel's support for the Philippines' bid for a non-permanent seat on the Unite",
-        "url": "https://tribune.net.ph/2026/06/03/israel-backs-philippines-bid-for-un-security-council-seat",
-        "image": "https://media.assettype.com/tribune%2F2026-06-03%2Fhkleyemd%2F0-02-06-ea1f29c9ad438712d8314a6246eaf9ba0b47ebb9e95757e25fca5c42e487ce5c226df20c970.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-06-03T05:58:41Z",
-        "source": "Daily Tribune"
+        "title": "BBC's Chris Mason Utterly Demolishes Reform's Makerfield Candidate Over His Social Media History",
+        "description": "Robert Kenyon was forced to try and explain away his controversial comments online in a toe-curling exchange.",
+        "url": "https://uk.news.yahoo.com/bbcs-chris-mason-utterly-demolishes-072741773.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/c56b78fde115b70d663644a3031111799aa5217487eca415b1c6dc4c7e22d99a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhuffpost_uk_744%2Ffdfc00232b848d5a8af41c2173928c22",
+        "publishedAt": "2026-06-03T07:27:41Z",
+        "source": "Yahoo News UK"
       },
       {
-        "title": "Emergency river flooding warning briefly issued for Wakayama due to Typhoon",
-        "description": "TOKYO, June 3 (Jiji Press) -- Typhoon Jangmi made landfall on the southern part of Wakayama Prefecture around 4:30 a.m. Wednesday, leading to the issuance of a...",
-        "url": "https://mb.com.ph/2026/06/03/emergency-river-flooding-warning-issued-for-wakayama-prefecture-due-to-typhoon",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/03/106014.webp",
-        "publishedAt": "2026-06-03T05:58:21Z",
-        "source": "Manila Bulletin"
+        "title": "Motor insurance fraud: motorcyclist fakes collision",
+        "description": "Dashcam footage captures a motorcyclist allegedly faking a collision on Towner Road to claim insurance, raising concerns about motor insurance fraud.",
+        "url": "https://www.stomp.sg/singapore-seen/motorcyclist-suddenly-brakes-front-car-and-causes-collision-allegedly-straightaway-say-claim",
+        "image": "https://cassette.sphdigital.com.sg/image/stomp/68eed3dda9845dee1ce7343a233a08b6db0de1ded1bda83b32066074ef7074b6",
+        "publishedAt": "2026-06-03T07:24:32Z",
+        "source": "stomp.sg"
       },
       {
-        "title": "New US tariff plan targets EU and dozens of economies over forced labour imports",
-        "description": "The EU and UK are among the economies targeted by a new US tariff proposal linked to forced labour imports, potentially reopening trade tensions just weeks after Brussels reached a deal with Washington.",
-        "url": "https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports",
-        "image": "https://images.euronews.com/articles/stories/09/78/11/79/1200x675_cmsv2_fe906cf9-a29d-598d-af39-886faf7f54f4-9781179.jpg",
-        "publishedAt": "2026-06-03T05:58:02Z",
+        "title": "Ethiopia goes electric following gas car ban",
+        "description": "Electric vehicles have taken off in Ethiopia. Key to the shift: a world-first ban on importing fossil fuel-powered vehicles.",
+        "url": "https://www.dw.com/en/ethiopia-electric-vehicles-green-tech-renewable-energy-diesel-gasoline/a-77350158",
+        "image": "https://static.dw.com/image/77350213_6.jpg",
+        "publishedAt": "2026-06-03T07:22:59Z",
+        "source": "DW"
+      },
+      {
+        "title": "Call for unity at core of Africa Day celebration",
+        "description": "The event will bring together government leaders, cultural groups, youth formations, members of the diplomatic community, artists, and various stakeholders in recognition of Africa’s rich history, diversity, and collective future.",
+        "url": "https://risingsunnewspapers.co.za/325772/call-for-unity-at-core-of-africa-day-celebration/",
+        "image": "https://risingsunnewspapers.co.za/wp-content/uploads/sites/107/2026/06/Call-for-unity-at-core-of-Africa-Day-celebration.jpg",
+        "publishedAt": "2026-06-03T07:20:46Z",
+        "source": "Rising Sun Newspapers"
+      },
+      {
+        "title": "Ukraine targets St Petersburg as flagship economic forum opens in Russia",
+        "description": "The incident comes a day after Russia launched a massive drone and missile barrage at Ukraine, killing at least 23 people.",
+        "url": "https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia",
+        "image": "https://images.euronews.com/articles/stories/09/78/25/54/1200x675_cmsv2_a481a98d-cb91-597f-b451-e7232f84d756-9782554.jpg",
+        "publishedAt": "2026-06-03T07:19:45Z",
         "source": "Euronews.com"
       },
       {
-        "title": "Bayelsa Coordinator Of Tinubu Torch Bearers, Julie Donli, Hails President, Wife, Others",
-        "description": "Dame Julie E. Donli, the Bayelsa State coordinator of the Tinubu Torch Bearers, has hailed the leadership of President Bola Ahmed Tinubu and the first lady, Senator Oluremi Tinubu. This is as she has continued to demonstrate exceptional commitment to the ideals and vision of the All Progressives Congress (APC). Through her efforts in mobilising...",
-        "url": "https://independent.ng/bayelsa-coordinator-of-tinubu-torch-bearers-julie-donli-hails-president-wife-others/",
-        "image": "https://independent.ng/wp-content/uploads/2026/06/IMG_20260603_065401.jpg",
-        "publishedAt": "2026-06-03T05:57:51Z",
-        "source": "Independent Newspaper Nigeria"
+        "title": "Appeal for calm after Henry Nowak case triggers violent clashes in England",
+        "description": "Policing minister Sarah Jones said she understood the anger the case had caused but urged people not to ‘over-react’.",
+        "url": "https://www.breakingnews.ie/world/appeal-for-calm-after-henry-nowak-case-triggers-violent-clashes-1908494.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDMwODEzMjVcXFwvMi44NDgyNDQzOC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjFiYjViNDg2MWYwOThmODA1YTcxY2RjODQzMTY0YWI2NTI1MzJkZDcifQ==/appeal-for-calm-after-henry-nowak-case-triggers-violent-clashes-in-england.jpg",
+        "publishedAt": "2026-06-03T07:17:01Z",
+        "source": "BreakingNews.ie"
       },
       {
-        "title": "Wednesday briefing: ​As the Mandelson revelations continue with no respite, can the public ever trust UK politicians again?",
-        "description": "In today’s newsletter: A fresh tranche of leaked messages has reignited doubts in a country weary from years of scandal about how power is exercised in Westminster",
-        "url": "https://www.theguardian.com/world/2026/jun/03/wednesday-briefing-as-the-mandelson-revelations-continue-with-no-respite-can-the-public-ever-trust-uk-politicians-again",
-        "image": "https://i.guim.co.uk/img/media/11f69939839c0941b28f087a7d63543f7bc997f0/0_72_2384_1905/master/2384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d8bbf7341de4e49ca8cdf3aacc49de3",
-        "publishedAt": "2026-06-03T05:56:31Z",
-        "source": "The Guardian"
+        "title": "TUT a finalist in four categories for SA’s Science Oscars",
+        "description": "Three TUT academics and researchers have been named finalists in four categories in this year’s prestigious National Science and Technology Forum-South32 (NSTF-South32) Awards scheduled for 16 July 2026.",
+        "url": "https://www.tut.ac.za/newsroom/all-news/2026/tut-a-finalist-in-four-categories-for-sas-science-oscars.php",
+        "image": "https://www.tut.ac.za/media/tshwane-interim/site-content/images/newsaug/2026/Ray-Jansen_profile_pic.jpg",
+        "publishedAt": "2026-06-03T07:14:55Z",
+        "source": "Tshwane University of Technology"
       },
       {
-        "title": "Guterres congratulates UN General Assembly President",
-        "description": "UN Secretary General Antonio Guterres has congratulated Bangladeshi Foreign Minister, Dr Khalilur Rahman on his election as President of the 81st session of the United Nations General Assembly (UNGA). Rahman, secured the highest votes, in an election, which was conducted at the UN headquarters in New York on Tuesday. The results were announced following the",
-        "url": "https://realnewsmagazine.net/guterres-congratulates-un-general-assembly-president-elect-rahman/",
-        "image": "https://realnewsmagazine.net/wp-content/uploads/2026/06/image-131.png",
-        "publishedAt": "2026-06-03T05:56:09Z",
-        "source": "Realnews Magazine"
-      },
-      {
-        "title": "Poland moves to ban smartphones in primary schools",
-        "description": "POLAND plans to ban mobile phones in all primary schools from next academic year under draft legislation approved by the government on Tuesday. The proposal, which will now be submitted to parliament, would take effect on September 1, 2026. In Poland, primary school education runs through the eighth grade. The planned law would prohibit the",
-        "url": "https://realnewsmagazine.net/poland-moves-to-ban-smartphones-in-primary-schools/",
-        "image": "https://realnewsmagazine.net/wp-content/uploads/2026/06/image-132.png",
-        "publishedAt": "2026-06-03T05:56:09Z",
-        "source": "Realnews Magazine"
-      },
-      {
-        "title": "“We cannot remain indifferent to the suffering of others”: Nigerian Archbishop Urges Christians to Model Trinity’s Love",
-        "description": "Archbishop Ignatius Ayau Kaigama of the Catholic Archdiocese of Abuja has called on Christians to embrace compassion, solidarity, and unity, saying that all people belong to one human family under God and therefore share responsibility for one another.",
-        "url": "https://www.aciafrica.org/news/22117/we-cannot-remain-indifferent-to-the-suffering-of-others-nigerian-archbishop-urges-christians-to-model-trinitys-love",
-        "image": "https://www.aciafrica.org/images/aci-africa-news-photos-2026-06-03t065435_1780466097.jpg?w=1200&format=jpeg",
-        "publishedAt": "2026-06-03T05:56:02Z",
-        "source": "aciafrica.org"
+        "title": "GOF foils bid to smuggle exotic birds from Thailand, seizes parrots worth RM100,000",
+        "description": "KOTA BHARU, June 3 — Four exotic birds worth approximately RM100,000, believed to have been smuggled from Thailand, were seized by the General Operations Force (GOF) in an...",
+        "url": "https://www.malaymail.com/news/malaysia/2026/06/03/gof-foils-bid-to-smuggle-exotic-birds-from-thailand-seizes-parrots-worth-rm100000/222397",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/03/344486.JPG",
+        "publishedAt": "2026-06-03T07:14:51Z",
+        "source": "Malay Mail"
       }
     ],
     "business": [
       {
-        "title": "Nigeria’s Techno-Driven Economy: 3 Years Of NASENI’s Impacts",
-        "description": "Across the world, economic power is increasingly concentrated in countries that have successfully transitioned from resource-dependent systems to",
-        "url": "https://leadership.ng/nigerias-techno-driven-economy-3-years-of-nasenis-impacts/",
-        "image": "https://leadership.ng/wp-content/uploads/2026/06/naseni-3-years.jpg",
-        "publishedAt": "2026-06-03T05:59:01Z",
-        "source": "LEADERSHIP Newspapers"
+        "title": "TCS expands partnership with Euroclear to modernize Sweden’s central securities depository",
+        "description": "TCS BaNCS™ and Quartz™ to power Euroclear Sweden’s transition to a harmonized Nordic securities ecosystem for the Finnish and Swedish financial markets.",
+        "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-expands-partnership-euroclear-modernize-sweden-central-securities-depository",
+        "image": "https://www.tcs.com/content/dam/global-tcs/en/in-line/insights/global-studies/unlocking-cmo-cio-partnership-card.jpg",
+        "publishedAt": "2026-06-03T07:35:41Z",
+        "source": "Tata Consultancy Services"
       },
       {
-        "title": "Cork businessman: 'I wanted a Marbella beach vibe at my café by the sea'",
-        "description": "Cork businessman Bill Pedder tells CHRIS DUNNE about his latest venture - a café, bakery, and wine bar that also comes with a sauna, situated in the ...",
-        "url": "https://www.echolive.ie/corklives/arid-41855334.html",
-        "image": "https://www.echolive.ie/cms_media/module_img/10205/5102985_3_seoimageog_4ed7bc03-3ced-4fcb-bf62-a0300ca94a76.jpeg",
-        "publishedAt": "2026-06-03T05:57:00Z",
-        "source": "echo live"
+        "title": "India's fuel demand outlook hit by price hikes, slowing industrial activity",
+        "description": "By Nidhi Verma and Mohi Narayan NEW DELHI, June 3 (Reuters) - India is expected to see less growth in gasoline and diesel demand this year after a series of price hikes last month that reflect higher",
+        "url": "https://sg.news.yahoo.com/indias-fuel-demand-outlook-hit-073421784.html",
+        "image": "https://s.yimg.com/os/en/reuters.com/8b8af1d00e6828ded23280ef200557c8",
+        "publishedAt": "2026-06-03T07:34:21Z",
+        "source": "Yahoo News Singapore"
       },
       {
-        "title": "Tata taps China's Chery for premium EV push, sources say",
-        "description": "Tata Motors is set to license an automaking platform from China's Chery. This collaboration aims to accelerate the launch of Tata's premium electric vehicles under the Avinya brand. The company plans to build at least two new electric cars locally. The first Avinya model is expected to hit the market in 2027, marking a significant step in Tata's EV expansion.",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/tata-taps-chinas-chery-for-premium-ev-push-sources-say/articleshow/131477072.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-131477123,width-1200,height-630,imgsize-73102,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-06-03T05:56:54Z",
-        "source": "The Economic Times"
+        "title": "Structural Risks to Watch For NVDA Stock Over the Next 6 Months",
+        "description": "A serious investment in NVIDIA (NVDA) requires more than just accepting the bull narrative - Blackwell/Rubin architecture adoption driving AI factory build-out. It requires rigorous downside tracking.",
+        "url": "https://www.trefis.com/stock/nvda/articles/601218/structural-risks-to-watch-for-nvda-stock-over-the-next-6-months-3/2026-06-03",
+        "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/10/27050422/emerging_threats-300x300.png",
+        "publishedAt": "2026-06-03T07:34:17Z",
+        "source": "Trefis"
       },
       {
-        "title": "IndusInd Bank shares fall 3% after fresh whistleblower complaint reaches PMO, RBI",
-        "description": "IndusInd Bank shares fell on Wednesday after a fresh whistleblower complaint was sent to the Prime Ministers Office, RBI, and other regulatory agencies, seeking an investigation into alleged insider trading, governance lapses, and deficiencies in audit and forensic reviews.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-drop-3-after-pmo-rbi-receive-fresh-whistleblower-complaint-on-insider-trading/articleshow/131477112.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-131477116,width-1200,height-630,imgsize-135968,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-06-03T05:56:50Z",
-        "source": "The Economic Times"
+        "title": "Oil climbs as Middle East tensions escalate, Iran talks stall",
+        "description": "Brent crude futures increased by $1.56, or 1.6%, reaching $97.56 per barrel at 0640 GMT, while U.S. West Texas Intermediate (WTI) crude rose by $1.61,...",
+        "url": "https://news.az/news/oil-climbs-as-middle-east-tensions-escalate-iran-talks-stall",
+        "image": "https://news.az/photos/2026/06/1780471741.webp",
+        "publishedAt": "2026-06-03T07:31:08Z",
+        "source": "Latest news from Azerbaijan"
       },
       {
-        "title": "Azelis: Transparency Notifications From UBS Group AG",
-        "description": "REGULATED INFORMATION In accordance with Article 14 of the Belgian Transparency law of 2 May 2007, Azelis Group NV (Brussels:AZE) announces that on 29 May 20...",
-        "url": "https://www.businesswire.com/news/home/20260602594614/en/Azelis-Transparency-Notifications-From-UBS-Group-AG",
-        "image": "https://www.businesswire.com/bw-logo.png",
-        "publishedAt": "2026-06-03T05:45:00Z",
+        "title": "Vonage Launches Industry-Specific AI Agents for Healthcare, Financial Services and Retail Contact Centers",
+        "description": "Vonage, part of Ericsson (NASDAQ: ERIC), today announced the launch of vertical-specific AI intelligence in the contact center. Through strategic partnership...",
+        "url": "https://www.businesswire.com/news/home/20260603735995/en/Vonage-Launches-Industry-Specific-AI-Agents-for-Healthcare-Financial-Services-and-Retail-Contact-Centers",
+        "image": "https://mms.businesswire.com/media/20260603735995/en/1881516/22/Vonage.jpg",
+        "publishedAt": "2026-06-03T07:31:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "Iran Negotiations Progress Unclear; Crude Oil Prices Find Support",
-        "description": "According to a report by Xinhua News Agency, U.S. Secretary of State Rubio stated during a hearing held by the",
-        "url": "https://www.sunsirs.com/commodity-news/petail-33375.html",
-        "image": "https://img.100ppi.com/sunsirs_news/2026/06/03/57027e0cf49e59601cad36929e1d369a.jpg",
-        "publishedAt": "2026-06-03T05:42:16Z",
-        "source": "SunSirs"
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-06-03T07:31:00Z",
+        "source": "The Australian"
       },
       {
-        "title": "Bengaluru leads India's bus travel boom as more women, Gen Z hit the road",
-        "description": "India's road travel story is getting stronger. Bus passenger volumes are up 24%, with young travellers dominating bookings",
-        "url": "https://www.moneycontrol.com/travel/bengaluru-leads-india-s-bus-travel-boom-as-more-women-gen-z-hit-the-road-article-13939327.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260312111636_bus-travel-in-india.jpg",
-        "publishedAt": "2026-06-03T05:41:54Z",
-        "source": "Moneycontrol.com"
+        "title": "China Picks State Firm to Help Coordinate Mining Deals Abroad",
+        "description": "China has chosen a new state investment company to help coordinate its overseas metals and mining deals, and counter mounting geopolitical risks that threaten its ability to secure resources, according to people familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-03/china-picks-state-firm-to-help-coordinate-mining-deals-abroad",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEw6TVD7n8P8/v1/1200x800.jpg",
+        "publishedAt": "2026-06-03T07:30:03Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Morse Micro sampling long-range, low-power Wi-Fi HaLow",
-        "description": "Morse Micro, the Wi-Fi HaLow silicon specialist, is sampling a Wi-Fi HaLow module designed to help bring long-range, low-power Wi-Fi HaLowvdevices to",
-        "url": "https://www.electronicsweekly.com/news/business/morse-micro-sampling-2026-06/",
-        "image": "https://www.electronicsweekly.com/wp-content/themes/ew/favicons/favicon-32x32.png",
-        "publishedAt": "2026-06-03T05:38:37Z",
-        "source": "Electronics Weekly"
+        "title": "Australian LNG Strike Begins to Disrupt Cargo Loadings at Ichthys",
+        "description": "Industrial action at Australia's Ichthys LNG project has begun affecting cargo loadings, raising the risk of broader supply disruptions in an already tight global LNG market.",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Australian-LNG-Strike-Begins-to-Disrupt-Cargo-Loadings-at-Ichthys.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-03_73f2e0zruj.jpg",
+        "publishedAt": "2026-06-03T07:30:00Z",
+        "source": "Crude Oil Prices Today | OilPrice.com"
       }
     ],
     "science": [
+      {
+        "title": "Plant breeding trials should include the belowground microbiome",
+        "description": "Plant breeding has advanced through genomics and predictive models, yet the plant-associated microbiome remains largely excluded from plant breeding trials. Microbial communities strongly influence nutrient acquisition, stress tolerance, and disease resistance, shaping key agronomic traits. We argue that neglecting microbiome variation biases heritability and G×E estimates, constraining genetic gains. Integrating microbiome information into breeding trials offers a feasible, scalable path toward more predictive, resilient, and sustainable crop improvement.",
+        "url": "https://www.nature.com/articles/s44383-026-00027-7?error=cookies_not_supported&code=01020b6a-2dce-4eee-8463-ad65ff553d00",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44383-026-00027-7/MediaObjects/44383_2026_27_Fig1_HTML.png",
+        "publishedAt": "2026-06-03T07:30:00Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Can meteorites be recovered from Cape Cod Bay? Harvard professor compares search to a ‘fishing expedition’",
+        "description": "A surprising discovery showed that the sonic boom off the coast of Massachusetts has triggered a viral sensation online. A meteor mainly exploded over Cape Cod Bay after breaking the sound barrier,...",
+        "url": "https://www.thenews.com.pk/latest/1404607-can-meteorites-be-recovered-from-cape-cod-bay-harvard-professor-compares-search-to-a-fishing-expedition",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-06-03/1404607_121224_updates.jpg",
+        "publishedAt": "2026-06-03T07:12:00Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Insights from the Gravitational-Wave Transient Catalogue-4.0",
+        "description": "Viola Sordini, researcher at IP2I Lyon (CNRS), discusses the recently released Gravitational-Wave Transient Catalogue-4.0",
+        "url": "https://www.innovationnewsnetwork.com/insights-from-the-gravitational-wave-transient-catalogue-4-0/70355/",
+        "image": "https://www.innovationnewsnetwork.com/wp-content/uploads/2026/06/shutterstock_sakkmesterke_2048393315.jpg",
+        "publishedAt": "2026-06-03T06:59:22Z",
+        "source": "Innovation News Network"
+      },
+      {
+        "title": "Resveratrol offers therapeutic potential in obesity-related osteoarthritis by targeting ferroptosis via G3BP1-SGs/mTOR modulation",
+        "description": "The increased ferroptosis by obesity contributes to the progression of osteoarthritis (OA). Resveratrol has protective effects against obesity-related OA. However, the underlying mechanisms remain unclear. Here, we investigated the mechanism of resveratrol against obesity-related OA using male C57BL/6 mice and chondrocyte models. The results demonstrated that high-fat diet (HFD) and IL-1β exacerbated cartilage damage in mice and chondrocytes, accompanied by worsening indicators of ferroptosis and upregulation of Ras-GTPase-activating protein binding protein 1 (G3BP1) expression and stress granules (SGs) assembly, which responds to environmental stressors such as obesity. Resveratrol alleviated these effects. After G3BP1 was silenced, resveratrol no longer had the effect of inhibiting ferroptosis and reducing cartilage degradation; while mTOR inhibition rescued ferroptosis-related protective proteins. This study suggests that resveratrol exerts protective effects against obesity-related OA, at least in part, by modulating ferroptosis-related changes in chondrocytes through the G3BP1-SGs/mTOR pathway. These findings provide new insights into OA pathogenesis and highlight resveratrol as a promising therapeutic strategy for obesity-related OA. Resveratrol alleviates obesity-related osteoarthritis by suppressing chondrocyte ferroptosis through G3BP1 stress granule-dependent modulation of mTOR signaling, supporting a potential therapeutic strategy for metabolic osteoarthritis.",
+        "url": "https://www.nature.com/articles/s42003-026-10360-3?error=cookies_not_supported&code=07f0c566-14fe-4eea-a053-60ce4adcbe57",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-026-10360-3/MediaObjects/42003_2026_10360_Figa_HTML.png",
+        "publishedAt": "2026-06-03T06:31:41Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Scientists Craft Heart Cells Using Conductive Plastic",
+        "description": "For the first time, scientists have succeeded in artificially mimicking the ion signalling of heart muscle cells. To succeed, researchers at LiU have",
+        "url": "https://www.miragenews.com/scientists-craft-heart-cells-using-conductive-1685496/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1512314889357-e157c22f938d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
+        "publishedAt": "2026-06-03T06:08:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Woman ordered to vacate home after ‘attack’ on pregnant tenant led to emergency C-section",
+        "description": "Residential Tenancies Board tribunal deemed Ciara Butler to be the ‘aggressor’ after seeing video footage of incident at Djouce Hall in Bray",
+        "url": "https://www.irishtimes.com/ireland/housing-planning/2026/06/03/woman-ordered-to-vacate-home-after-attack-on-pregnant-tenant-led-to-emergency-c-section/",
+        "image": "https://www.irishtimes.com/resizer/v2/KQ3ENUVTYJA6NEBKF6VREJTENM.jpg?smart=true&auth=3fa6f6f42296f2631f1dee64d7321695ea0a124c8a15d4baf2986d8fdcd85c46&width=1200&height=630",
+        "publishedAt": "2026-06-03T06:03:42Z",
+        "source": "The Irish Times"
+      },
       {
         "title": "How Two Ancient Rivers Gave Birth To Euphrates",
         "description": "Geoscientists have shed light on the enduring mystery of how the modern Euphrates River – central to the origins of human civilisation – came to",
@@ -150,120 +198,72 @@
         "image": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/ancient-rivers_card.jpg",
         "publishedAt": "2026-06-03T05:46:18Z",
         "source": "UWA"
-      },
-      {
-        "title": "Scientists confirm a deep earthquake that shouldn't exist",
-        "description": "Scientists have confirmed that a mysterious Utah earthquake first detected in 1979 really did occur nearly 90 kilometers underground—far deeper than anyone thought earthquakes could happen beneath a continent. By reanalyzing decades of seismic data, researchers identified a rare class of \"continental mantle earthquakes\" occurring deep in Earth’s upper mantle, where rock is expected to slowly flow rather than suddenly break.",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260602021636.htm",
-        "image": "https://www.sciencedaily.com/images/1920/deep-earthquake-magma-fissures.webp",
-        "publishedAt": "2026-06-03T05:34:20Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Scientists confirm a deep earthquake that shouldn't exist",
-        "description": "Scientists have confirmed that a mysterious Utah earthquake first detected in 1979 really did occur nearly 90 kilometers underground—far deeper than anyone thought earthquakes could happen beneath a continent. By reanalyzing decades of seismic data, researchers identified a rare class of \"continental mantle earthquakes\" occurring deep in Earth’s upper mantle, where rock is expected to slowly flow rather than suddenly break.",
-        "url": "http://www.sciencedaily.com/releases/2026/06/260602021636.htm",
-        "image": "https://www.sciencedaily.com/images/1920/deep-earthquake-magma-fissures.webp",
-        "publishedAt": "2026-06-03T05:34:20Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "NASA plans to use drones and artificial intelligence to build a base on the moon",
-        "description": "Washington – NASA has announced plans to use drones and artificial intelligence in building its future lunar base. This is part of the agency’s efforts to advan",
-        "url": "https://libyaupdate.com/nasa-plans-to-use-drones-and-artificial-intelligence-to-build-a-base-on-the-moon/",
-        "image": "https://libyaupdate.com/wp-content/uploads/2026/06/358556.jpg",
-        "publishedAt": "2026-06-03T05:25:57Z",
-        "source": "libyaupdate.com"
-      },
-      {
-        "title": "Gene linked to early growth may shape new approaches to cancer research",
-        "description": "Hebrew University researchers identify mechanism connecting youth and disease.",
-        "url": "https://www.jns.org/news/israel-news/gene-linked-to-early-growth-may-shape-new-approaches-to-cancer-research",
-        "image": "https://static.jns.org/dims4/default/0efce3d/2147483647/strip/true/crop/1024x576+0+54/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F39%2Ff8f7697b42c791f6417eba61649a%2Fhebrew-university-1.jpg",
-        "publishedAt": "2026-06-03T05:13:14Z",
-        "source": "JNS.org"
-      },
-      {
-        "title": "Almost all the gold on Earth — every wedding ring, every coin, every gram in every bank vault — was forged in the collision of dead stars billions of years ago, in events so violent that a single one",
-        "description": "On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision lasting fractions of a second. The gravitational waves from that collision reached Earth and were detected by the LIGO and […]",
-        "url": "https://spacedaily.com/d-almost-all-the-gold-on-earth-every-wedding-ring-every-coin-every-gram-in-every-bank-vault-was-forged-in-the-collision-of-dead-stars-billions-of-years-ago-in-events-so-violent-that/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-03T112832.427.png",
-        "publishedAt": "2026-06-03T04:45:20Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Moon Phase Today: What The Moon Will Look Like On June 3",
-        "description": "The Moon isn't full, but most of it is still illuminated.",
-        "url": "https://in.mashable.com/space/110404/moon-phase-today-what-the-moon-will-look-like-on-june-3",
-        "image": "https://sm.mashable.com/t/mashable_in/article/m/moon-phase/moon-phase-today-what-the-moon-will-look-like-on-june-3_8cw1.1200.jpg",
-        "publishedAt": "2026-06-03T04:00:00Z",
-        "source": "Mashable India"
       }
     ],
     "ai": [
       {
-        "title": "Anthropic expands Claude Mythos access to India; Adds 15 other countries and 150 organisations",
-        "description": "The partners will use the AI model to test their software code and identify potential security weaknesses, bugs, and vulnerabilities before attackers could find them.",
-        "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-expands-claude-mythos-access-to-india-adds-15-other-countries-and-150-organisations-534632-2026-06-03",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a1fc15cce2e3-claude-mythos-03532784-16x9.jpg",
-        "publishedAt": "2026-06-03T05:58:50Z",
+        "title": "TCS, Infosys, Coforge, TechM, LTM, KPIT shares: Opportunity or value trap? Target prices",
+        "description": "YES Securities said valuations across the IT sector have corrected sharply following recent AI/tooling developments and rising concerns around traditional revenue deflation.",
+        "url": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-coforge-techm-ltm-kpit-shares-opportunity-or-value-trap-target-prices-534663-2026-06-03",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a1fd8758a366-it-stocks-the-current-discount-reflects-fears-of-delayed-technology-budgets--economic-uncertainty-i-033159153-16x9.png",
+        "publishedAt": "2026-06-03T07:36:09Z",
         "source": "Business Today"
       },
       {
-        "title": "Japan’s stock market hits new record as AI boom gathers steam",
-        "description": "Benchmark Nikkei 225 tops 68,000 for first time as AI-driven buying frenzy shows no signs of slowing down.",
-        "url": "https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26153040385199-1780463912_0f71a2-1780464561.jpg?resize=1200%2C630&quality=80",
-        "publishedAt": "2026-06-03T05:56:30Z",
-        "source": "Al Jazeera"
+        "title": "Why hundreds of mathematicians have signed a declaration against unchecked AI use",
+        "description": "As AI models become more capable at cracking high-level math problems, mathematicians have warned that the growing use of AI in the field poses several challenges, including unreliable mathematical proofs, lack of citation, improper disclosure of information, and research bias. These concerns have been outlined in a first-of-its-kind declaration drafted by a working group of […]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/why-mathematicians-signed-leiden-declaration-ai-10721732/",
+        "image": "https://images.indianexpress.com/2026/06/Tech-featured-image255.jpg",
+        "publishedAt": "2026-06-03T07:36:09Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Microsoft Unveils Seven In-House AI Models At Build 2026, Led By Its First Reasoning Model",
-        "description": "Microsoft unveiled seven AI models under its MAI brand at Build 2026, marking its biggest in-house AI push. The lineup includes reasoning, coding, voice and image models, all trained from scratch. Led by MAI-Thinking-1, the move signals Microsoft’s growing independence from OpenAI and its ambition to compete at the AI frontier.",
-        "url": "https://www.freepressjournal.in/tech/microsoft-unveils-seven-in-house-ai-models-at-build-2026-led-by-its-first-reasoning-model",
-        "image": "https://media.assettype.com/freepressjournal/2025-07-02/43e4kjlm/microsoft-layoff.jpg",
-        "publishedAt": "2026-06-03T05:54:14Z",
-        "source": "Free Press Journal"
+        "title": "Why hundreds of mathematicians have backed a declaration against unchecked AI use",
+        "description": "The declaration comes weeks after tech giants such as OpenAI and Google DeepMind made claims about their respective AI models solving decades-old mathematical problems.",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-mathematicians-signed-leiden-declaration-ai-10721732/",
+        "image": "https://images.indianexpress.com/2026/06/Tech-featured-image255.jpg",
+        "publishedAt": "2026-06-03T07:34:23Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "AI-generated product development: How a hair fall shampoo formula was created using Artificial Intelligence",
-        "description": "A recent experiment involving an AI-generated shampoo formulation is offering insights into how artificial intelligence could reshape product development. By creating a formula based on specific business and performance requirements, AI demonstrated its potential as a tool for accelerating research and development rather than replacing human expertise.",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-generated-product-development-how-a-hair-fall-shampoo-formula-was-created-using-artificial-intelligence/articleshow/131475989.cms",
-        "image": "https://img.etimg.com/thumb/msid-131476021,width-1200,height-630,imgsize-85953,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-06-03T05:54:00Z",
+        "title": "Is SaaSpocalypse real? CLSA says maybe not and here’s why",
+        "description": "Initial fears of an \"SaaSpocalypse\" following Anthropic's AI plug-in release have subsided. Brokerages now suggest AI is driving a shift to consumption-based models, with IT firms partnering with SaaS providers poised to benefit from implementation demand. Systems of Record are seen as less vulnerable, while AI is expected to enhance rather than replace them.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-saaspocalypse-real-clsa-says-maybe-not-and-heres-why/articleshow/131478832.cms",
+        "image": "https://img.etimg.com/thumb/msid-131478882,width-1200,height-630,imgsize-64148,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-06-03T07:34:00Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Waterlogged roads, SUV ride: BJP targets Shivakumar in AI-generated video ahead of swearing-in | Watch",
-        "description": "It is the hallmark of this Congress government to come to power by securing Dalit votes, only to push the very same Dalit community into the most pitiable condition, says Karnataka BJP",
-        "url": "https://www.moneycontrol.com/news/india/waterlogged-roads-suv-ride-bjp-targets-shivakumar-in-ai-generated-video-ahead-of-swearing-in-13939560.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/03/20250324081621_DK-Shivakumar-clarification.jpg",
-        "publishedAt": "2026-06-03T05:51:58Z",
-        "source": "Moneycontrol"
+        "title": "AI Rally Loses Steam: Nifty IT Slides 6% Amid Global Tech Correction",
+        "description": "Indian IT stocks tumbled as the Nifty IT index slid nearly 6%, tracking a global tech and software correction after an AI-fuelled rally. Learn how TCS, Infosys, Tech Mahindra and mid-cap IT names were hit, and what broker downgrades and stretched valuations mean for markets ahead.",
+        "url": "https://www.outlookbusiness.com/markets/ai-rally-loses-steam-nifty-it-slides-6-amid-global-tech-correction",
+        "image": "https://media.assettype.com/outlookbusiness/2026-06-03/4nw8jd36/abf92f677b4e23723fef45229671f47c.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-06-03T07:33:37Z",
+        "source": "Outlook Business"
       },
       {
-        "title": "The AI Bubble: A Financial House of Cards That’s About to Collapse",
-        "description": "Why Analysts are Freaking Out About the AI Investment Numbers I have been building AI systems and using them daily for years, so I understand the genuine technological potential of this breakthrough technology. AI tech is very real and very capable, but what I am seeing in the financial markets is not rooted in higher […]",
-        "url": "https://www.naturalnews.com/2026-06-03-the-ai-bubble-financial-house-of-cards.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/ai-bubble-openai-softbank-1857-original.jpg",
-        "publishedAt": "2026-06-03T05:50:15Z",
-        "source": "Natural News"
+        "title": "European Union launches tech sovereignty initiative to boost chips, cloud and AI at home",
+        "description": "European Union leaders are pushing back against reliance on American and Asian tech companies European Union launches tech sovereignty initiative to boost",
+        "url": "https://www.breitbart.com/news/european-union-launches-tech-sovereignty-initiative-to-boost-chips-cloud-and-ai-at-home/",
+        "image": "https://media.breitbart.com/media/2026/06/wi/ap/belgium-european-commission-652-belgium-european-commission-european-union-flags-flap-wind-eu-640x335.jpg",
+        "publishedAt": "2026-06-03T07:33:27Z",
+        "source": "Breitbart News Network"
       },
       {
-        "title": "Gigabyte showcases AI ecosystem and gaming innovation at Computex 2026",
-        "description": "Gaming News: On the occassion of its 40th anniversary Gigabyte unveiled its Computex 2026 showcase under the theme “Enter Infinity”, highlighting a complete consum.",
-        "url": "https://timesofindia.indiatimes.com/technology/gaming/gigabyte-showcases-ai-ecosystem-and-gaming-innovation-at-computex-2026/articleshow/131477040.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131477039,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-03T05:50:00Z",
-        "source": "Times of India"
+        "title": "Meta scales back plan for internal mouse",
+        "description": "Meta is dialling back elements of its plan to collect employee mouse movements, keystrokes and other actions for use as AI training data, it said in an internal memo, following weeks of angry pushback from staffers.",
+        "url": "https://www.rte.ie/news/business/2026/0603/1576504-meta-scales-back-plan-for-internal-mouse-tracking-tech/",
+        "image": "https://www.rte.ie/images/00241ced-1600.jpg",
+        "publishedAt": "2026-06-03T07:33:12Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "FIFA Is Redefining Football With AI And Next Week's World Cup Might Just Be The Beginning",
-        "description": "Next week's FIFA World Cup will be the first of many tech-powered global sporting tournaments. , Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/fifa-is-redefining-football-with-ai-and-next-weeks-world-cup-might-just-be-the-beginning-article-154451639",
-        "image": "https://images.timesnownews.com/thumb/msid-154451639,width-1280,height-720,resizemode-75/154451639.jpg",
-        "publishedAt": "2026-06-03T05:48:45Z",
-        "source": "Times Now"
+        "title": "JioHotstar is building AI team, starts hiring for more than 75 roles",
+        "description": "JioHotstar is hiring more than 75 AI specialists in India to build a dedicated division. The move signals a deeper push to merge storytelling, production and platform intelligence in-house.",
+        "url": "https://www.indiatoday.in/technology/news/story/jiohotstar-is-building-ai-team-starts-hiring-for-more-than-75-roles-2921288-2026-06-03",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/jiohotstar-151507684-16x9.jpeg?VersionId=.UEPOpknK1PqQsNNqNK2kQ4KqJzYAy_t",
+        "publishedAt": "2026-06-03T07:32:45Z",
+        "source": "India Today"
       }
     ]
   }
