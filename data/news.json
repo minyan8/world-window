@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-03T23:00:21.081Z",
+  "fetchedAt": "2026-06-03T23:55:47.906Z",
   "sections": {
     "world": [
       {
-        "title": "Can autonomous AI-powered killer drones take morality onboard?",
-        "description": "While the technology is set to play a growing role in modern warfare, there remains an unresolved ethical challenge",
-        "url": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
-        "image": "https://i.guim.co.uk/img/media/bd81c6d5daae91aac020868af5474879e6cd54dc/289_0_2890_2312/master/2890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb60ce0125a4cb4536810caa655641d",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "The Guardian"
+        "title": "Indian Air Force's C-17 Globemaster III Delivers Critical Medical Aid For Ebola Treatment To Uganda",
+        "description": "India has extended urgent medical assistance to the Africa Centres for Disease Control and Prevention (Africa CDC) to support their Ebola response efforts in response to a request received from the African Union Commission.",
+        "url": "https://www.ndtv.com/health/indian-air-forces-c-17-globemaster-iii-delivers-critical-medical-aid-for-ebola-treatment-to-uganda-11586108",
+        "image": "https://c.ndtvimg.com/2026-04/v9i9nro_c17-globemaster-iii_625x300_10_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+        "publishedAt": "2026-06-03T11:55:15Z",
+        "source": "NDTV"
       },
       {
-        "title": "Trump wants to keep UFC White House setup: ‘We’ll never, ever take it down!’",
-        "description": "Trump is comparing the UFC ‘claw’ to the Eiffel Tower and says he’s considering ‘never, ever taking it down.’",
-        "url": "https://www.mmamania.com/ufc-white-house-2026-fight-card-start-time-full-results-dana-white-conor-mcgregor-cbs-mma/447865/donald-trump-wants-to-keep-ufc-white-house-setup-well-never-ever-take-it-down",
-        "image": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2278289791.jpg?quality=90&strip=all&crop=0%2C10.728013155618%2C100%2C78.543973688763&w=1200",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "MMA Mania"
+        "title": "Southern Africa: SADC Sounds Alarm Over Looming Region-Wide Hunger",
+        "description": "The Southern African Development Community (SADC) has called for urgent and coordinated regional action to strengthen food security, climate resilience and agricultural systems.",
+        "url": "https://allafrica.com/stories/202606030414.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-06-03T11:53:21Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "EXPLAINER: What you need to know about El Niño",
-        "description": "The World Met says the warming of ocean waters is already underway and could drive more extreme weather globally",
-        "url": "https://www.the-star.co.ke/news/2026-06-03-explainer-what-you-need-to-know-about-el-nino",
-        "image": "https://cdn.radioafrica.digital/image/2026/06/46face03-5dab-4f58-afe6-e892ff2be9d0.jpeg?1780490897095",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "the-star.co.ke"
+        "title": "U.K. government condemns violence at protest over teen’s stabbing death",
+        "description": "The U.K. government condemend protesters after police were attacked at a demonstration over the death of a teenager who lay dying while his killer stood nearby.",
+        "url": "https://www.nbcnews.com/world/united-kingdom/uk-violence-protest-teenager-stabbing-death-henry-nowak-southampton-rcna348224",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260603-southampton-4-rs-bb4f35.jpg",
+        "publishedAt": "2026-06-03T11:52:49Z",
+        "source": "NBC News"
       },
       {
-        "title": "Future AI weapons such as drones should have moral code, says former UK spy chief",
-        "description": "Software could make ethically superior decisions to humans in high-pressure moments, claims ex-GCHQ head David Omand",
-        "url": "https://www.theguardian.com/science/2026/jun/03/ai-weapons-drones-moral-code-former-uk-gchq-chief-david-omand",
-        "image": "https://i.guim.co.uk/img/media/7ea88c241d810722c2017d45605b8564efe72b3e/2211_986_2519_2015/master/2519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54199d9b7576a25c5995674c15a8c6bd",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "The Guardian"
+        "title": "Southern Africa Moves to Keep More of Its Critical Minerals Value Chain at Home",
+        "description": "ECA has launched a €15.03 million programme to support critical-mineral value chains in six Southern African countries.\nThe initiative aims",
+        "url": "https://www.ecofinagency.com/news-industry/0306-56127-southern-africa-moves-to-keep-more-of-its-critical-minerals-value-chain-at-home",
+        "image": "https://www.ecofinagency.com/media/k2/items/cache/c9b52c802a9f7761626e2a6147e79eda_S.jpg",
+        "publishedAt": "2026-06-03T11:47:09Z",
+        "source": "Ecofin Agency"
       },
       {
-        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-        "description": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0502/live/047b4620-5f31-11f1-9b94-1bf27e494d9e.jpg",
-        "publishedAt": "2026-06-03T10:59:30Z",
-        "source": "BBC"
+        "title": "3 displaced after South Side house fire",
+        "description": "A house fire on the South Side left at least three people without a home Wednesday morning.",
+        "url": "https://abc7chicago.com/post/3-displaced-south-side-house-fire-emerald-avenue/19226026/",
+        "image": "https://cdn.abcotvs.com/dip/images/19226227_060326-wks-jasmine-emerald-fire630a-vid.jpg?w=1600",
+        "publishedAt": "2026-06-03T11:44:46Z",
+        "source": "ABC7 Chicago"
       },
       {
-        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-        "description": "Several long-range drones struck oil storage facilities near in the city, days before Vladimir Putin is due to address the event.",
-        "url": "https://www.bbc.co.uk/news/articles/c0e2vqd3j1vo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0502/live/047b4620-5f31-11f1-9b94-1bf27e494d9e.jpg",
-        "publishedAt": "2026-06-03T10:59:30Z",
-        "source": "BBC"
+        "title": "Malaysia's social media ban for minors sparks privacy debate",
+        "description": "Malaysia’s ban on social media for people younger than16 has been framed as a child-safety measure, but critics warn that it could prove difficult to enforce and may come at the cost of online privacy.",
+        "url": "https://www.dw.com/en/malaysias-social-media-ban-for-minors-sparks-privacy-debate/a-77403526",
+        "image": "https://static.dw.com/image/76575617_6.jpg",
+        "publishedAt": "2026-06-03T11:44:25Z",
+        "source": "DW.com"
       },
       {
-        "title": "Ukraine strikes oil terminal in St. Petersburg ahead of Putin’s ‘Davos’",
-        "description": "Russian city hosts annual international economic forum that is banner event for the President",
-        "url": "https://www.theglobeandmail.com/world/article-russia-ukraine-strikes-putin-economic-forum/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/7BSB4ZOREZFM5JANHS43MH7K3Y.jpg?auth=4f2de5c56bf331e9cf83542021f75128f3691a046c6add35b6563cc0f71c7bd2&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-06-03T10:55:56Z",
+        "title": "Trump confirms he called Netanyahu 'crazy,' as he says Israel is complicating peace talks with Iran",
+        "description": "President Donald Trump in an interview released Wednesday confirmed an earlier report that he criticized Israeli Prime Minister Benjamin Netanyahu as “crazy” in a Monday phone call",
+        "url": "https://www.washingtonpost.com/world/2026/06/03/lebanon-hezbollah-israel-tyre-khaldeh-beirut/d194e53e-5f32-11f1-9c46-d6211372eede_story.html",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YN6SODS7GII7DHCG2YQRG4XO3Y_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-06-03T11:43:55Z",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "At least 18 foreign nationals among 21 killed in New Delhi hotel fire",
+        "description": "Incident broke out in South Delhi’s Malviya Nagar and may have started in a restaurant",
+        "url": "https://www.theglobeandmail.com/world/article-india-new-delhi-hotel-fire/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/EXFMCZHAQVEILKBDVXKYTZY2KU.jpg?auth=9d5e6ecf9448f8b0dc5d8e160b81ac31ff568f00411f09c14368f19730a12b8f&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-06-03T11:42:14Z",
         "source": "The Globe and Mail"
-      },
-      {
-        "title": "Romania wants to boost air defence after drone strike blamed on Russia",
-        "description": "Romania's foreign minister said Wednesday her country needed to bolster its air defences with the help of its allies, days after two people were wounded in a drone strike on an apartment block close…",
-        "url": "https://www.france24.com/en/live-news/20260603-romania-wants-to-boost-air-defence-after-drone-strike-blamed-on-russia",
-        "image": "https://s.france24.com/media/display/eadb1a1c-5b37-11f1-bb98-005056bfb2b6/w:1280/p:16x9/115d29bc379ab8ac06336bc49a1c2c220659ab60.jpg",
-        "publishedAt": "2026-06-03T10:53:12Z",
-        "source": "France 24"
       }
     ],
     "business": [
       {
-        "title": "Perion Launches New Advanced Features for Programmatic Digital Out of Home at WOO London 2026",
-        "description": "Perion (NASDAQ & TASE: PERI), an advanced technology leader solving for the complexities of digital advertising through AI-native execution infrastructure, i...",
-        "url": "https://www.businesswire.com/news/home/20260603227955/en/Perion-Launches-New-Advanced-Features-for-Programmatic-Digital-Out-of-Home-at-WOO-London-2026",
-        "image": "https://mms.businesswire.com/media/20260603227955/en/2822265/22/perion-BW-1.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Google Search Console AI Performance Report & AI Blocking Controls",
+        "description": "Google has announced the new Search Console Search Generative AI performance reports and a toggle to block your site from showing in AI responses. This is available currently only for a small subset of UK site owners, but it will expand globally at some point. Oh, and no, the reporting does not show click data - not that any of you expected that.",
+        "url": "https://www.seroundtable.com/google-ai-performance-report-blocking-controls-41443.html",
+        "image": "https://images.seroundtable.com/google-controls-reporting-xvozcTDw.jpg",
+        "publishedAt": "2026-06-03T11:51:00Z",
+        "source": "Search Engine Roundtable"
       },
       {
-        "title": "How Triomics Uses AI To Help Doctors Treat Cancer More Quickly",
-        "description": "Triomics has raised $22 million of additional funding as it continues to expand its oncology-focused AI platform for physicians",
-        "url": "https://www.forbes.com/sites/davidprosser/2026/06/03/how-triomics-uses-ai-to-help-doctors-treat-cancer-more-quickly/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1f055f5bf3286bc2485603/0x0.jpg?format=jpg&crop=1139,640,x0,y138,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Forbes"
+        "title": "How methane policy will make or break the climate crisis",
+        "description": "The Climate Policy Monitor report found a trend of backsliding by one country in particular, but there are signs of hope at the global level.",
+        "url": "https://theconversation.com/how-methane-policy-will-make-or-break-the-climate-crisis-281920",
+        "image": "https://images.theconversation.com/files/739715/original/file-20260603-57-5h2af9.jpg?ixlib=rb-4.1.0&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-06-03T11:49:38Z",
+        "source": "The Conversation"
       },
       {
-        "title": "Medable Launches Agentic Accelerator Program to Help Life Sciences Companies Deploy Agentic AI Across Clinical Lifecycle",
-        "description": "Medable Inc., the leading technology platform for agentic AI-powered clinical development, today announced its Agentic Accelerator Program to help life scien...",
-        "url": "https://www.businesswire.com/news/home/20260603463647/en/Medable-Launches-Agentic-Accelerator-Program-to-Help-Life-Sciences-Companies-Deploy-Agentic-AI-Across-Clinical-Lifecycle",
-        "image": "https://mms.businesswire.com/media/20260603463647/en/2300927/22/Medable_Logo-Color.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Coinbase said to be looking into participating new stablecoin platform backed by Stripe, Visa, Mastercard",
+        "description": "U.S. crypto exchange Coinbase is also said to be looking into the possibility of participating in the new stablecoin platform.",
+        "url": "https://www.coindesk.com/business/2026/06/03/payment-giants-stripe-visa-mastercard-said-to-be-among-backers-of-soon-to-debut-stablecoin-platform",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed9a893d410e4e6b606002cea0613a7cb74a1ad2-1500x997.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-03T11:49:13Z",
+        "source": "CoinDesk"
       },
       {
-        "title": "Wellington Management to Acquire Hartford Funds from The Hartford",
-        "description": "Wellington Management (“Wellington”), one of the world’s leading independent investment managers, and The Hartford (NYSE: HIG), today announced they have ent...",
-        "url": "https://www.businesswire.com/news/home/20260602945920/en/Wellington-Management-to-Acquire-Hartford-Funds-from-The-Hartford",
-        "image": "https://mms.businesswire.com/media/20260602945920/en/2822760/22/Wellington_logo_navy.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Oil prices climb back toward $100, but US stocks hang near their records",
+        "description": "Oil prices are rising back toward $100 per barrel, but U.S. stocks are nevertheless hanging near their records",
+        "url": "https://www.barchart.com/story/news/2271975/early-trading-on-wall-street-mixed-as-oil-prices-tick-higher-with-iran-cease-fire-under-strain",
+        "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ec0b3e8f2b80407c8f27162f748dae5c/ec0b3e8f2b80407c8f27162f748dae5c_main_financial_markets_wall_street_931_7.jpg",
+        "publishedAt": "2026-06-03T11:48:50Z",
+        "source": "Barchart.com"
       },
       {
-        "title": "Perk Secures $300 Million Credit Facility to Accelerate Global Growth of Its AI-Native Platform",
-        "description": "Perk, the AI-native travel and spend management platform, today announced the close of a $300 million private credit facility",
-        "url": "https://www.businesswire.com/news/home/20260528862831/en/Perk-Secures-%24300-Million-Credit-Facility-to-Accelerate-Global-Growth-of-Its-AI-Native-Platform",
-        "image": "https://mms.businesswire.com/media/20260528862831/en/2817552/22/Perk_OffBlack_RGB-1.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Tom Kerridge: I’d back Burnham to save Britain’s pubs",
+        "description": "Michelin-star chef praises Manchester Mayor’s pro-hospitality policies as ruinous rates crush the sector",
+        "url": "https://www.telegraph.co.uk/business/2026/06/03/tom-kerridge-back-andy-burnham-save-britains-pubs/",
+        "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/06/03/TELEMMGLPICT000456812627_17804800610230_trans_NvBQzQNjv4BqbZctDZYYM-Oafr7XTsuVVRIBfwsASrGA5dG3UOw5b9E.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2026-06-03T11:47:00Z",
+        "source": "The Telegraph"
       },
       {
-        "title": "NatureSweet® Celebrates America’s 250th with Limited",
-        "description": "NatureSweet® is honoring America’s 250th anniversary with the launch of its limited-time-only NatureSweet® America’s 250 pack, a festive cherry tomato on the...",
-        "url": "https://www.businesswire.com/news/home/20260603090991/en/NatureSweet-Celebrates-Americas-250th-with-Limited-Edition-Cherry-Tomato-on-the-Vine-Pack",
-        "image": "https://mms.businesswire.com/media/20260603090991/en/2822467/22/America_250_4_%281%29.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Disposable income 13% higher in Ireland than NI",
+        "description": "Workers who buy a house in Dublin pay 13 times their incomes compared to employees in Northern Ireland who pay six times their incomes in Belfast, according to new figures from the Central Statistics Office.",
+        "url": "https://www.rte.ie/news/business/2026/0603/1576563-cso-ireland-and-northern-ireland-comparison/",
+        "image": "https://www.rte.ie/images/00242f3b-1600.jpg",
+        "publishedAt": "2026-06-03T11:44:20Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Agilent, OpenAI, BCG Collaborate to Accelerate Customer-Focused, AI-Driven Scientific Innovation",
-        "description": "Agilent Technologies Inc. (NYSE: A) today announced a collaboration with OpenAI and Boston Consulting Group (BCG) to accelerate the deployment of artificial ...",
-        "url": "https://www.businesswire.com/news/home/20260603436177/en/Agilent-OpenAI-BCG-Collaborate-to-Accelerate-Customer-Focused-AI-Driven-Scientific-Innovation",
-        "image": "https://mms.businesswire.com/media/20260603436177/en/738858/22/Logo-Agilent.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "Have your say: should students with dyslexia get extra points in exams?",
+        "description": "Mother of student with dyslexia says extra 10 minutes is ‘insulting’",
+        "url": "https://www.irishtimes.com/ireland/education/2026/06/03/have-your-say-should-students-with-dyslexia-get-extra-points-in-exams/",
+        "image": "https://www.irishtimes.com/resizer/v2/EZFTHBBGVBCP5LJSSM6KDT3IUA.jpg?smart=true&auth=6bbb2dfe5585d9690a808395e5d767e3c148358c7e4b386dd7d08827616a58c8&width=1200&height=630",
+        "publishedAt": "2026-06-03T11:43:47Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "Suralink Unveils Industry's Most Comprehensive Agentic AI Platform, Launches Microsoft Copilot & Claude Integrations",
-        "description": "Suralink, the agentic automation platform for accounting firms and their clients, today announced multiple major additions to its agentic AI capabilities, as...",
-        "url": "https://www.businesswire.com/news/home/20260603354048/en/Suralink-Unveils-Industrys-Most-Comprehensive-Agentic-AI-Platform-Launches-Microsoft-Copilot-Claude-Integrations",
-        "image": "https://mms.businesswire.com/media/20260603354048/en/2822122/22/2-SuralinkUnveilsIndustrysMostComprehensiveAgenticAIPlatformLaunchesMicrosoftCopilot%26ClaudeIntegrations_%281%29.jpg",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Business Wire"
+        "title": "How Nigeria’s Igbo Apprenticeship System Is Raising Entrepreneurs Beyond The Classroom",
+        "description": "Across major commercial cities in Nigeria, thousands of young boys wake before sunrise daily to sweep shops, arrange goods, follow their masters through crowded markets, and gradually learn the culture of trade, discipline, and business survival through daily experience. Now, Nigerian Breweries through its Life Lager brand is bringing that culture of mentorship and enterprise...",
+        "url": "https://independent.ng/how-nigerias-igbo-apprenticeship-system-is-raising-entrepreneurs-beyond-the-classroom/",
+        "image": "https://independent.ng/wp-content/uploads/2026/06/Okorie-2.jpg",
+        "publishedAt": "2026-06-03T11:43:31Z",
+        "source": "Independent Newspaper Nigeria"
       }
     ],
     "science": [
+      {
+        "title": "121-million-year-old bird fossil stuns scientists with tail feathers twice the length of its body",
+        "description": "Science News: A bird preserved in a museum drawer for years has begun to draw attention after closer inspection revealed an unusual tail structure. The fossil belon.",
+        "url": "https://timesofindia.indiatimes.com/science/121-million-year-old-bird-fossil-stuns-scientists-with-tail-feathers-twice-the-length-of-its-body/articleshow/131483645.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131483647,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-03T11:52:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "New discovery upends an 80-year-old theory of turbulence",
+        "description": "Researchers discovered a way to reverse the direction of energy flow in turbulence, challenging a theory that has stood for more than 80 years. The finding could open new possibilities for controlling ocean currents, improving medical technologies, and enhancing climate forecasting.",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp",
+        "publishedAt": "2026-06-03T11:42:25Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "New discovery upends an 80-year-old theory of turbulence",
+        "description": "Researchers discovered a way to reverse the direction of energy flow in turbulence, challenging a theory that has stood for more than 80 years. The finding could open new possibilities for controlling ocean currents, improving medical technologies, and enhancing climate forecasting.",
+        "url": "http://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp",
+        "publishedAt": "2026-06-03T11:42:25Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "James Webb Space Telescope detects methane on interstellar comet 3I/ATLAS",
+        "description": "The comet remains unusually rich in carbon dioxide.James Webb Telescope. methane. comet. space",
+        "url": "https://www.manoramayearbook.in/current-affairs/world/2026/06/03/james-webb-space-telescope-detects-methane-on-interstellar-comet-3i-atlas.html",
+        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/current-affairs/world/images/2026/6/3/comet.jpg",
+        "publishedAt": "2026-06-03T11:29:34Z",
+        "source": "Manorama Yearbook"
+      },
+      {
+        "title": "Understanding Ras inhibitor resistance",
+        "description": "Discover the world’s best science and medicine | Nature.com",
+        "url": "https://www.nature.com/articles/d41573-026-00091-9?error=cookies_not_supported&code=132933d5-b576-4b3a-9c98-42281a1857bd",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-06-03T11:29:20Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Molecular propeller modification helps Dead Sea microbes swim",
+        "description": "The microbe Haloarcula marismortui swims by growing a unique, reinforced outer sheath around its tail, providing essential propeller rigidity",
+        "url": "https://www.openaccessgovernment.org/molecular-propeller-modification-helps-dead-sea-microbes-swim/210124/",
+        "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/06/Low-Res_H.-marismortui-cell-image-from-Pyatibratov-et-al.-Can.-J.-Microbiol.-2008-54-10-pp835-844.-DOI-10.1139W08-076-Copyright-to-Canadian-Science-Publishing-or-its-licensors-1.webp",
+        "publishedAt": "2026-06-03T11:09:49Z",
+        "source": "Open Access Government"
+      },
+      {
+        "title": "Hubble Captures a Stunning Spiral Galaxy Slowly Being Stripped of Its Future",
+        "description": "A spectacular spiral galaxy known as M88 is traveling toward the crowded heart of the Virgo Cluster, where powerful forces are already beginning to reshape its future.",
+        "url": "https://scitechdaily.com/hubble-captures-a-stunning-spiral-galaxy-slowly-being-stripped-of-its-future/",
+        "image": "https://scitechdaily.com/images/Spiral-Galaxy-Messier-88-M88-scaled.jpg",
+        "publishedAt": "2026-06-03T11:04:04Z",
+        "source": "SciTechDaily"
+      },
       {
         "title": "Violating the 3rd law of black hole mechanics in vacuum gravity",
         "description": "Black holes, regions in space where gravity is so strong that nothing can escape, have been widely studied over the past decades, due to their unique and intriguing properties. Einstein's theory of general relativity predicts that black holes obey a set of rules, known as the laws of black hole mechanics. These rules somewhat resemble the laws of thermodynamics, which delineate how energy, heat, and entropy behave in our universe.",
@@ -142,128 +198,72 @@
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-demonstrates-the.jpg",
         "publishedAt": "2026-06-03T11:00:04Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
-        "description": "One of the most powerful typhoons ever recorded this early in the Pacific season did more than unleash flooding and extreme winds—it sent enormous ripples all the way into the upper atmosphere. As Super Typhoon Sinlaku rapidly exploded into a category 5-equivalent storm, satellites captured rare gravity waves spreading outward like rings on a pond, visible high above Earth through a faint glow in the atmosphere.",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm",
-        "image": "https://www.sciencedaily.com/images/1920/super-typhoon-sinlaku-atmospheric-gravity-waves.webp",
-        "publishedAt": "2026-06-03T10:55:55Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
-        "description": "One of the most powerful typhoons ever recorded this early in the Pacific season did more than unleash flooding and extreme winds—it sent enormous ripples all the way into the upper atmosphere. As Super Typhoon Sinlaku rapidly exploded into a category 5-equivalent storm, satellites captured rare gravity waves spreading outward like rings on a pond, visible high above Earth through a faint glow in the atmosphere.",
-        "url": "http://www.sciencedaily.com/releases/2026/06/260603023113.htm",
-        "image": "https://www.sciencedaily.com/images/1920/super-typhoon-sinlaku-atmospheric-gravity-waves.webp",
-        "publishedAt": "2026-06-03T10:55:55Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
-        "description": "Labs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.",
-        "url": "https://www.nature.com/articles/d41586-026-01727-x?error=cookies_not_supported&code=47f642f4-4f22-470f-92b6-1d9a9ea44e1d",
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01727-x/d41586-026-01727-x_52496234.jpg",
-        "publishedAt": "2026-06-03T10:47:00Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Why a synthetic human genome is still worth building",
-        "description": "A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.",
-        "url": "https://www.nature.com/articles/d41586-026-01725-z?error=cookies_not_supported&code=c433c03f-e4a8-445c-b779-c5cd6b1277b5",
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01725-z/d41586-026-01725-z_52473162.jpg",
-        "publishedAt": "2026-06-03T10:32:33Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Astronomers Detect a Close Pair of Supermassive Black Holes for the First Time",
-        "description": "Researchers discovered a closely orbiting pair of supermassive black holes in Markarian 501 by tracking two jets of particles. The binary system could merge within 100 years and may produce detectable gravitational waves.",
-        "url": "https://scitechdaily.com/astronomers-detect-a-close-pair-of-supermassive-black-holes-for-the-first-time/",
-        "image": "https://scitechdaily.com/images/Center-of-the-Galaxy-Markarian-501.jpg",
-        "publishedAt": "2026-06-03T10:29:10Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "A comprehensive investigation of energy consumption and carbon emissions for a new type of cold mix asphalt technology",
-        "description": "Cold mix asphalt (CMA) offers promising potential for reducing the energy consumption and greenhouse gas (GHG) emissions associated with traditional hot mix asphalt (HMA). This study presents a comprehensive investigation of the energy consumption and carbon emissions associated with a newly developed CMA technology (New-CMA) incorporating a hydroxylated cycloalkane-based polymer additive, which improves workability at ambient temperatures. Energy consumption and carbon emissions were quantified across the whole production stages, using energy consumption method and emission factor method recommended by the Intergovernmental Panel on Climate Change (IPCC). The results demonstrate that the New-CMA achieves a 48% reduction in total energy consumption and a 40% reduction in carbon emissions compared to conventional HMA. Significant reductions were observed particularly in the mixture production stage, where energy use and carbon emissions decreased by 97.6% and 93.6%, respectively, due to the elimination of aggregate heating. Compared to traditional CMA, the New-CMA shows reductions of 9% in energy use and 10% in carbon emissions. These improvements are primarily attributed to the elimination of aggregate heating, lower mixing temperatures, and enhanced mixing efficiency. The technology is particularly suitable for preventive maintenance and structural layers in low-to-medium traffic roads. This study provides a comprehensive environmental evaluation and offers guidance for promoting sustainable pavement practices in urban construction.",
-        "url": "https://www.nature.com/articles/s41598-026-55418-8?error=cookies_not_supported&code=93a6748b-e221-4cb9-b37b-2b3916469134",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-06-03T10:00:14Z",
-        "source": "Nature"
-      },
-      {
-        "title": "This star system creates a rare triple eclipse. Here's what that would look like",
-        "description": "A triple star system in which the stars all eclipse one another from our vantage point is standing out as one of the best studied stellar trios.",
-        "url": "https://www.space.com/astronomy/stars/this-star-system-creates-a-rare-triple-eclipse-heres-what-that-would-look-like",
-        "image": "https://cdn.mos.cms.futurecdn.net/TUyefSFeSxRTpYXP6Yp4Tf-1920-80.jpg",
-        "publishedAt": "2026-06-03T10:00:00Z",
-        "source": "Space"
       }
     ],
     "ai": [
       {
-        "title": "How to convert XRP, BTC into $1200 daily passive income during a crypto market downturn",
-        "description": "XRPPower combines AI analytics and automated management tools to deliver a more transparent digital asset experience.",
-        "url": "https://crypto.news/how-to-convert-xrp-btc-into-1200-daily-passive-income-during-a-crypto-market-downturn/",
-        "image": "https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-loans-turned-a-crash-into-a-controlled-exit-option03.webp",
-        "publishedAt": "2026-06-03T11:00:14Z",
-        "source": "Crypto News"
+        "title": "Grok AI Predicts Chainlink Price in 2 Months",
+        "description": "Grok AI predicts Chainlink price could rally toward $18 as derivatives volume rises and bulls eye a breakout above $9.00.",
+        "url": "https://coingape.com/markets/grok-ai-predicts-chainlink-price-in-2-months/",
+        "image": "https://coingape.com/wp-content/uploads/2026/06/Grok-AI-Predicts-Chainlink.webp",
+        "publishedAt": "2026-06-03T11:54:52Z",
+        "source": "CoinGape"
       },
       {
-        "title": "Can autonomous AI-powered killer drones take morality onboard?",
-        "description": "While the technology is set to play a growing role in modern warfare, there remains an unresolved ethical challenge",
-        "url": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
-        "image": "https://i.guim.co.uk/img/media/bd81c6d5daae91aac020868af5474879e6cd54dc/289_0_2890_2312/master/2890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb60ce0125a4cb4536810caa655641d",
-        "publishedAt": "2026-06-03T11:00:05Z",
-        "source": "The Guardian"
+        "title": "DeepSeek set to raise $7.4 billion in first funding round, targeting valuation as high as $59 billion",
+        "description": "China's AI champion DeepSeek is preparing to raise about $7.4 billion in its first-ever funding round, a deal that could value the startup at up to $59 billion and rank among the largest private technology financings in China. The fundraising marks a dramatic shift for the company behind the V3 and R1 models, which rose",
+        "url": "https://techstartups.com/2026/06/03/deepseek-set-to-raise-7-4-billion-in-first-funding-round-targeting-valuation-as-high-as-59-billion/",
+        "image": "https://techstartups.com/wp-content/uploads/2025/09/Deepseek-outperforms-other-AI.jpg",
+        "publishedAt": "2026-06-03T11:52:53Z",
+        "source": "TechStartups.com"
       },
       {
-        "title": "Future AI weapons such as drones should have moral code, says former UK spy chief",
-        "description": "Software could make ethically superior decisions to humans in high-pressure moments, claims ex-GCHQ head David Omand",
-        "url": "https://www.theguardian.com/science/2026/jun/03/ai-weapons-drones-moral-code-former-uk-gchq-chief-david-omand",
-        "image": "https://i.guim.co.uk/img/media/7ea88c241d810722c2017d45605b8564efe72b3e/2211_986_2519_2015/master/2519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54199d9b7576a25c5995674c15a8c6bd",
-        "publishedAt": "2026-06-03T11:00:04Z",
-        "source": "The Guardian"
+        "title": "AI solution to make neighbourhoods safe for seniors among projects at new urban planning exhibition",
+        "description": "Singapore-ETH Centre's BE-FIT study uses AI, sensors, and robots to analyse neighbourhood design's effect on older adults' fall risks for safer urban planning, and is one project on display at URA's \"AI for Cities\" exhibition. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/ai-solution-to-make-neighbourhoods-safe-for-seniors-among-projects-at-new-urban-planning-exhibition",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5616fb3c6ba6ad27d67b788bd39e213da4e19d14113b10075a2624676ef7b20d",
+        "publishedAt": "2026-06-03T11:52:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Keeping Up With AI: The Hidden Cost For Data Center Operators",
-        "description": "The race to keep up with AI is creating a cycle of constant replacement.",
-        "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/06/03/keeping-up-with-ai-the-hidden-cost-for-data-center-operators/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68e9155aa9e900c51e983eef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-06-03T11:00:00Z",
+        "title": "Nvidia's Vera Rubin boosts demand for AI server capacitors, creates opportunity for Samsung Electro",
+        "description": "Nvidia's next-generation Vera Rubin AI platform is driving a sharp increase in demand for multilayer ceramic capacitors (MLCCs), creating new opportunities for suppliers such as Samsung Electro-Mechanics as artificial intelligence infrastructure becomes more complex and power intensive, according to a report by The Korea Herald.",
+        "url": "https://www.tribuneindia.com/news/business/nvidias-vera-rubin-boosts-demand-for-ai-server-capacitors-creates-opportunity-for-samsung-electro-mechanics/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlNmNhNDUwLTVmNDItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-06-03T11:50:27Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "AI Search Strategies Hampered by Corporate Silos: Semrush Study",
+        "description": "A new study shines a light on how corporate silos can lead to issues with how brands show up in AI search",
+        "url": "https://www.businessinsider.com/ai-search-strategies-hampered-by-corporate-silos-semrush-study-2026-5",
+        "image": "https://i.insider.com/6a1f20f42ab5f9757add8228?width=1200&format=jpeg",
+        "publishedAt": "2026-06-03T11:50:02Z",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Andreessen Horowitz and Forerunner are betting $55 million on Town's deeply personal AI assistants",
+        "description": "The startup, founded by former Plaid and Google executives, is building personalized AI agents that evolve from helpful copilots into autonomous collaborators.",
+        "url": "https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/founders-portrait.jpg?resize=1200,600",
+        "publishedAt": "2026-06-03T11:49:43Z",
+        "source": "Fortune"
+      },
+      {
+        "title": "Cognitive Offloading And De-Risking Your AI Approach",
+        "description": "AI collaboration enhances performance but undermines intrinsic motivation in the task itself. That's a problem.",
+        "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/06/03/cognitive-offloading-and-de-risking-your-ai-approach/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1d9bf600c5747743d32baa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-03T11:45:00Z",
         "source": "Forbes"
       },
       {
-        "title": "Is AI-generated art really art? Here’s what the history says.",
-        "description": "We can learn a lot from what the camera did to painting.",
-        "url": "https://www.vox.com/culture/490627/ai-art-vs-human-art-camera-painting",
-        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/GettyImages-2275474118.jpg?quality=90&strip=all&crop=0%2C10.738872284753%2C100%2C78.522255430495&w=1200",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Vox.com"
-      },
-      {
-        "title": "Iren plans $10 billion South Australian AI data centre",
-        "description": "The site is expected to house an 800 megawatt facility – more than twice the size of any data centre in Australia.",
-        "url": "https://www.afr.com/companies/financial-services/iren-plans-10-billion-south-australian-ai-data-centre-20260603-p603o9",
-        "image": "https://static.ffx.io/images/$zoom_0.1656%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1152af170b4832d4b1b1ba83a65dfd5bfd74c410",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Australian Financial Review"
-      },
-      {
-        "title": "How Much Should You Trust GenAI Chatbots With Your Finance Decisions?",
-        "description": "This is worth taking seriously because consumers are taking these AI tools seriously.",
-        "url": "https://www.forbes.com/councils/forbesfinancecouncil/2026/06/03/same-question-different-answer-how-much-should-you-trust-genai-chatbots-with-your-finance-decisions/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/64efb176fc38d613e2f393c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-06-03T11:00:00Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Indian stars push to end use of elephants in Bollywood",
-        "description": "Bollywood stars are campaigning to end the use of elephants in Indian films, saying that life-size robot replicas and AI-generated images do the job without cruelty.",
-        "url": "https://www.rte.ie/entertainment/2026/0603/1576550-indian-stars-push-to-end-use-of-elephants-in-bollywood/",
-        "image": "https://www.rte.ie/images/00247757-1600.jpg",
-        "publishedAt": "2026-06-03T10:56:09Z",
-        "source": "RTE.ie"
+        "title": "Legendary filmmaker teams up with AI company: ‘We have to be open to how it can evolve’",
+        "description": "He said he is using the tech to help with storyboarding.",
+        "url": "https://www.al.com/life/2026/06/legendary-filmmaker-teams-up-with-ai-company-we-have-to-be-open-to-how-it-can-evolve.html",
+        "image": "https://www.al.com/resizer/v2/FKPP73K2HNHAXBM7DN4IBVNNDQ.jpg?auth=58de41ceb11ce45dc3cd90471671c6889165c07d680831b99161ec0ca5627743&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-06-03T11:43:48Z",
+        "source": "AL.com"
       }
     ]
   }
