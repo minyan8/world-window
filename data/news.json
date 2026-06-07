@@ -1,140 +1,156 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-07T12:50:50.674Z",
+  "fetchedAt": "2026-06-07T13:58:34.289Z",
   "sections": {
     "world": [
       {
-        "title": "Pope calls for end to polarisation on Spain visit",
-        "description": "MADRID, Spain — Pope Leo XIV on Saturday called for an end to 'polarising narratives' and 'sterile simplifications' on a week-long visit to Spain expected to focus on the divisive issue of immigration.",
-        "url": "https://www.manilatimes.net/2026/06/07/world/pope-calls-for-end-to-polarisation-on-spain-visit/2360115",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/07/1088501.jpg",
-        "publishedAt": "2026-06-07T00:41:00Z",
-        "source": "The Manila Times"
+        "title": "North Korea calls the US push for its denuclearization ‘anachronistic dream’",
+        "description": "SEOUL, South Korea: The powerful sister of North Korean leader Kim Jong Un called a US push for the denuclearization of North Korea an “anachronistic dream,” saying Sunday the North will steadily expand its nuclear arsenal in the face of US-led threats. The statement came a day before Chinese President Xi Jinping visits North Korea for talks with Kim Jong Un, in his first",
+        "url": "https://www.arabnews.com/node/2646229/world",
+        "image": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/07/4719302-668382155.jpg?itok=_wfXUELG",
+        "publishedAt": "2026-06-07T01:58:34Z",
+        "source": "Arab News"
       },
       {
-        "title": "After 100 days, Iran war becomes a political test for Trump",
-        "description": "One hundred days after the US and Israel launched a military campaign against Iran, a conflict initially presented by US President Donald Trump as a show of strength has become a growing political liability at home, fueling public unease, exposing Republican",
-        "url": "https://news.cgtn.com/news/2026-06-07/After-100-days-Iran-war-becomes-a-political-test-for-Trump-1NLldp0CiqY/p.html",
-        "image": "https://news.cgtn.com/news/2026-06-07/After-100-days-Iran-war-becomes-a-political-test-for-Trump-1NLldp0CiqY/img/f3c911bcd8904ebd86bd43d8b904bc46/f3c911bcd8904ebd86bd43d8b904bc46-1920.png",
-        "publishedAt": "2026-06-07T00:10:05Z",
-        "source": "news.cgtn.com"
+        "title": "Malaysian hiker missing for 2 weeks miraculously survives on forest berries",
+        "description": "Jaslinda Saludin, who sustained minor injuries after descending Gunung Batu Putih, was found near a village in Tapah.",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356233/malaysian-hiker-missing-2-weeks-miraculously-survives-forest-berries-river-water",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/07/c98bb9e9-bfe0-493c-b8b1-da9cb32b79c1_05cd6465.jpg?itok=5KJnGtYA&v=1780797375",
+        "publishedAt": "2026-06-07T01:56:20Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Kanlaon Volcano emitted ash 4 times, had 9 volcanic earthquakes -PHIVOLCS",
-        "description": "Kanlaon Volcano on Negros Island had four ash emission events and nine volcanic earthquakes on Saturday, the Philippine Institute of Volcanology and Seismology said Sunday.",
-        "url": "https://www.gmanetwork.com/news/topstories/regions/990490/kanlaon-volcano-emitted-ash-4-times-had-9-volcanic-earthquakes-phivolcs/story/",
-        "image": "https://images.gmanews.tv/webpics/2026/06/kanlaon_2026_06_06_13_43_46.jpg",
-        "publishedAt": "2026-06-07T00:04:55Z",
-        "source": "GMA Network"
+        "title": "ASEAN moves to formalize first coast guard forum, boost maritime cooperation",
+        "description": "Member states of the Association of Southeast Asian Nations (ASEAN) have taken a major step toward creating the region's first formal platform dedicated to...",
+        "url": "https://mb.com.ph/2026/06/07/asean-moves-to-formalize-first-coast-guard-forum-boost-maritime-cooperation",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/07/107037.webp",
+        "publishedAt": "2026-06-07T01:54:41Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Trump pardons former US Congress member accused of insider trading",
-        "description": "Republican Stephen Buyer was convicted and sentenced to 22 months in prison, though he has maintained his innocence.",
-        "url": "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a24b3d6-1780790230.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-06-07T00:03:04Z",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "Live Updates: Latest from Israel, Iran, and Middle East",
-        "description": "Trump says Iran military 'totally destroyed' • Two IDF officers severely wounded in Lebanon • Missiles launched towards Kuwait, Bahrain",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-06-06/live-updates-898514",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724359",
-        "publishedAt": "2026-06-07T00:00:05Z",
-        "source": "The Jerusalem Post"
-      },
-      {
-        "title": "Putin Publicly Glazes Trump With Bizarre ‘Rambo’ Fantasy",
-        "description": "The aging leader wants his fellow aging leader to put the young guy in his place.",
-        "url": "https://www.thedailybeast.com/putin-publicly-glazes-trump-with-bizarre-rambo-fantasy/",
-        "image": "https://www.thedailybeast.com/resizer/v2/PQJ5423ZZ5BY3LBFEOZBE7GBBI.JPG?smart=true&auth=8c8523cec628298318a0ebf74cd43641f2e555876284dd3b3c106623b8b1cc1b&width=1200&height=630",
-        "publishedAt": "2026-06-06T23:57:00Z",
-        "source": "The Daily Beast"
-      },
-      {
-        "title": "In rare critique, senior PA official says Abbas's exclusion of political rivals is mistaken",
-        "description": "Jibril Rajoub tells ToI that those backing exiled ex-security chief Dahlan shouldn't be forced to sign 'humiliating' individual amnesty requests, as demanded by ruling Fatah party",
-        "url": "https://www.timesofisrael.com/in-rare-critique-senior-pa-official-says-abbass-exclusion-of-political-rivals-is-mistaken/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2025/03/MYTACK.jpg",
-        "publishedAt": "2026-06-06T23:50:02Z",
+        "title": "France, allies eye coordinated sanctions to pressure Israel over West Bank, diplomats say",
+        "description": "EU deadlock on Israel measures pushes some countries toward national measures, expected to be imposed within days; France to host civil society, ministerial meeting on June 12",
+        "url": "https://www.timesofisrael.com/france-allies-eye-coordinated-sanctions-to-pressure-israel-over-west-bank-diplomats-say/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26152316469496-e1780328930619.jpg",
+        "publishedAt": "2026-06-07T01:50:05Z",
         "source": "The Times of Israel"
       },
       {
-        "title": "US eyes Iranian assets for Gulf allies' reconstruction amid ceasefire strain",
-        "description": "The move, which comes a day after a wave of Iranian attacks on Kuwait and Bahrain, could add a new layer of tension to already fragile diplomatic efforts, particularly as Tehran has repeatedly demanded access to billions of dollars in Iranian funds held abroad as part of any broader settlement with Washington.",
-        "url": "https://www.indiatoday.in/world/story/us-eyes-iranian-assets-to-fund-gulf-allies-reconstruction-amid-ceasefire-strain-2923069-2026-06-07",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/us-president-donald-trump-and-irans-new-supreme-leader--ayatollah-mojtaba-khamenei-135959324-16x9.jpg?VersionId=CpIxQZaLuHMHEFRjHCuMAbfu_k.qtYy6",
-        "publishedAt": "2026-06-06T23:49:03Z",
-        "source": "India Today"
+        "title": "North Korea calls US denuclearization push 'anachronistic dream'",
+        "description": "The powerful sister of North Korean leader Kim Jong Un has called a U.S. push for denuclearization of North Korea “anachronistic dream.\"",
+        "url": "https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74",
+        "image": "https://dims.apnews.com/dims4/default/f867479/2147483647/strip/true/crop/2227x1484+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Ff0%2F1efab1cc3f9f2fb517fa558b3bfc%2Fbd76a73224e541b4bd339eb4e037a91a",
+        "publishedAt": "2026-06-07T01:32:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "old baby in West Bank, Palestinian officials say",
+        "description": "Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old baby and wounding his parents, the Palestinian health ministry says.",
+        "url": "https://www.abc.net.au/news/2026-06-07/israeli-troops-kill-7-month-old-baby-in-west-bank/106769440",
+        "image": "https://live-production.wcms.abc-cdn.net.au/57f58adead2b329f389263c402e3db44?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=32&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-07T01:16:15Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
+        "description": "Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr Zelenskyy and EU leaders for talks. What we know on day 1,565",
+        "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
+        "image": "https://i.guim.co.uk/img/media/28010ee1e6b52ed8d974ea679d434bc11d911029/0_0_2785_2229/master/2785.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76e496652d6db7181673baaf578045c3",
+        "publishedAt": "2026-06-07T01:14:29Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Johor polls: Rafizi rules out alliances, says Bersama ready to go solo",
+        "description": "JOHOR BAHRU, June 7 — Parti Bersama Malaysia (Bersama) will not enter into negotiations with other political parties and will instead remain an independent contender in the...",
+        "url": "https://www.malaymail.com/news/malaysia/2026/06/07/johor-polls-rafizi-rules-out-alliances-says-bersama-ready-to-go-solo/222790",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/07/345047.jpeg",
+        "publishedAt": "2026-06-07T01:14:24Z",
+        "source": "Malay Mail"
       }
     ],
     "business": [
       {
-        "title": "UK high street store owner plots 400 shop closures - closing sale launched",
-        "description": "Fashion chain Phase Eight could be set to close hundreds of stores as part of a major restructuring programme by its owner, TFG, which has already confirmed the closure of more than 100 underperforming stores.",
-        "url": "https://www.express.co.uk/news/uk/2214303/uk-high-street-giants-owner",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6965027.jpg",
-        "publishedAt": "2026-06-07T00:37:00Z",
-        "source": "Daily Express"
+        "title": "The Endless National Grid Collapse",
+        "description": "The recent spate of national grid collapses in Nigeria has precipitated widespread frustration, particularly among residents in areas categorized as \"Band A\" by electricity distribution companies. These individuals bear the double burden of exorbitant electricity tariffs and intermittent access to electricity. This phenomenon necessitates an in-depth examination of its underlying causes, operational dynamics, attendant risks...",
+        "url": "https://independent.ng/the-endless-national-grid-collapse-2/",
+        "image": "https://independent.ng/wp-content/uploads/2026/06/National-Grid.jpg",
+        "publishedAt": "2026-06-07T01:53:41Z",
+        "source": "Independent Newspaper Nigeria"
       },
       {
-        "title": "Through CBN, banks expand naira card limit abroad",
-        "description": "Deposit Money Banks (DMBs) are raising the limit naira cardholders can spend abroad following rising dollar liquidity in the financial system. Following financial sector reforms and $7 billion backlog clearance by the Olayemi Cardoso-led Central Bank of Nigeria (CBN), FX inflows into the economy continues to rise, closing 2025 at $112 billion. The surge in autonomous FX inflows, foreign portfolio investment and non-oil export proceeds, is enabling local banks to expand naira card spending limits abroad and supporting Foreign Direct Investment (FDIs) into the domestic economy.",
-        "url": "https://thesun.ng/through-cbn-banks-expand-naira-card-limit-abroad/",
-        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/02/699db63ed1c55.jpg",
-        "publishedAt": "2026-06-07T00:36:27Z",
-        "source": "The Sun Nigeria"
+        "title": "Quarter of women in Japan news industry see workplace as gender equal: poll",
+        "description": "Just 26 percent of female employees in the Japanese news media industry say that their workplace is gender equal, compared to 40.7 of male respondents saying the same, results from a recent survey showed.",
+        "url": "https://english.kyodonews.net/articles/-/77438",
+        "image": "https://english-kyodo.ismcdn.jp/mwimgs/b/e/1200x/img_be12251cdfeb2358c56953345dd56a601872171.jpg",
+        "publishedAt": "2026-06-07T01:51:00Z",
+        "source": "Japan Wire by Kyodo News"
       },
       {
-        "title": "World’s largest car manufacturer closes factory with 1,500 employees in Brazil: Toyota shuts down unit that produced over 1 million vehicles and prepares investment of R$ 11 billion",
-        "description": "Toyota closes factory in Indaiatuba, transfers Corolla production to Sorocaba, and maintains an investment of R$ 11 billion in Brazil until 2030.",
-        "url": "https://en.clickpetroleoegas.com.br/worlds-largest-car-manufacturer-closes-factory-with-1500-employees-in-brazil-toyota-shuts-down-unit-that-produced-over-1-million-vehicles-an-afch/",
-        "image": "https://en.clickpetroleoegas.com.br/wp-content/uploads/2026/06/worlds-largest-car-manufacturer-closes-factory-wit.jpeg",
-        "publishedAt": "2026-06-07T00:35:00Z",
-        "source": "CPG Click Petróleo e Gás"
+        "title": "Market Recap: Tech-Led Selloff Drags Kospi Down For The Week",
+        "description": "Despite the weekly setback, South Korea remains one of Asia’s strongest-performing equity markets in 2026, supported by robust demand for AI infrastructure and semiconductors.",
+        "url": "https://www.businesstoday.com.my/2026/06/07/market-recap-tech-led-selloff-drags-kospi-down-for-the-week/",
+        "image": "https://www.businesstoday.com.my/wp-content/uploads/2026/03/kospi-down.jpg",
+        "publishedAt": "2026-06-07T01:42:03Z",
+        "source": "BusinessToday Malaysia"
       },
       {
-        "title": "Oil Sector Attracts $460,000 in Q1 2026, NBS Reports",
-        "description": "Nigeria's oil sector saw a 283.3% increase in foreign capital to $460,000 in Q1 2026, but remains a tiny fraction of total investment, NBS data reveals.",
-        "url": "https://punchng.com/oil-sector-attracts-460000-in-three-months-nbs/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/07012335/Untitled.webp",
-        "publishedAt": "2026-06-07T00:26:15Z",
+        "title": "Inclusive Wealth Creation Key to Nigeria's Market Growth",
+        "description": "NGX Group CEO, Temi Popoola, highlights inclusive wealth creation as vital for Nigeria's capital market growth and long-term economic strength. Discover ho",
+        "url": "https://punchng.com/inclusive-wealth-creation-key-to-market-growth-says-ngx/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/04/29015705/NGX.jpg",
+        "publishedAt": "2026-06-07T01:38:15Z",
         "source": "Punch Newspapers"
       },
       {
-        "title": "Air New Zealand Restart Flights to This City With Nearly 2,900 Extra Seats",
-        "description": "Air New Zealand restarted Sunshine Coast flights three weeks earlier than last year, adding 2,890 seats and increasing capacity by 16.8%...",
-        "url": "https://aviationa2z.com/index.php/2026/06/07/air-new-zealand-restart-flights-to-this-city-with-nearly-2900-extra-seats/",
-        "image": "https://aviationa2z.com/wp-content/uploads/2025/12/1920_airnewzealanda320aircraft_cropped_processed_by_imagy.webp",
-        "publishedAt": "2026-06-07T00:04:00Z",
+        "title": "Singapore Airlines Cabin Crew Salary in 2026",
+        "description": "In 2026, Singapore Airlines continues to offer a salary structure built around base pay, flying allowances, sector payments, and inter...",
+        "url": "https://aviationa2z.com/index.php/2026/06/07/singapore-airlines-cabin-crew-salary-2026/",
+        "image": "https://aviationa2z.com/wp-content/uploads/2026/05/Singapore-Airlines-Cabin-Crew-2.webp",
+        "publishedAt": "2026-06-07T01:37:00Z",
         "source": "Aviation A2Z"
       },
       {
-        "title": "Rotorua baker’s pie innovation remembered in the 50",
-        "description": "A Rotorua pastry-maker who once worked around the clock to meet demand has been remembered as part of McDonald’s 50-year anniversary in New Zealand. As the...",
-        "url": "https://www.nzherald.co.nz/rotorua-daily-post/news/rotorua-bakers-pie-innovation-remembered-in-mcdonalds-50-year-story/SCDYPDYASVF5JLIM5O6OJEG4BQ/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/TB6SUWEW6NAD3DFHRWEFRRFG5M.jpg?auth=293e25027212d2818b83e25315e04d00a25fcb23ad662e0313d41ba1424ffdf6&width=1200&height=675&quality=70&focal=712%2C856&smart=false",
-        "publishedAt": "2026-06-07T00:03:55Z",
-        "source": "NZ Herald"
+        "title": "Daily Voice: 6 investment themes that could shape market returns, according to Phanisekhar Ponangi",
+        "description": "Consumers, infrastructure and capital goods may provide better entry levels over the next 2 quarters, said Phanisekhar Ponangi.",
+        "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-6-investment-themes-that-could-shape-market-returns-according-to-phanisekhar-ponangi-13942858.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260319145657_Phanisekhar_Ponangi.jpg",
+        "publishedAt": "2026-06-07T01:27:50Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Baby Boomers face property reality check as values drop and tax risks rise - Darcy Ungaro",
-        "description": "After five painful years of watching property values decline, some investors are looking for the exit, says Darcy Ungaro. Baby Boomers make up roughly 20% of...",
-        "url": "https://www.nzherald.co.nz/business/personal-finance/investment/baby-boomers-face-property-reality-check-as-values-drop-and-tax-risks-rise-darcy-ungaro/premium/IABSL4QZ7JH77EGLFDSLBIPHNQ/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/BJOBCCIMKRCOVOV3P4ZFWNJEZI.JPG?auth=ca1fc6b523fe039e351328809149def59581adbbc6a8e3e5a6ff3879b2c72843&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-06-07T00:01:00Z",
-        "source": "NZ Herald"
+        "title": "Azerbaijan moves into Israel's energy business",
+        "description": "Backup supplies from SOCAR are giving Egypt and Jordan alternatives when Israeli gas exports are disrupted, while keeping Israel linked to regional customers that may avoid direct purchases.",
+        "url": "https://www.jpost.com/israel-news/article-898544",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724521",
+        "publishedAt": "2026-06-07T01:27:35Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "3 Cryptocurrencies to Buy Before They Explode",
-        "description": "The crypto market is quickly shifting, and a trio of rising stars is emerging right now.",
-        "url": "https://www.fool.com/investing/2026/06/06/3-cryptocurrencies-to-buy-before-they-explode/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872839%2Finvestor-cheers-at-phone.jpg&w=1200&op=resize",
-        "publishedAt": "2026-06-07T00:00:45Z",
-        "source": "The Motley Fool"
+        "title": "Chartist Talk: Nifty 50 breakdown below 23,050 could trigger fresh selling; Sudeep Shah bets on 6 stocks",
+        "description": "While Nifty 50 price action appears subdued on the surface, the underlying technical setup continues to present a mixed picture, said Sudeep Shah.",
+        "url": "https://www.moneycontrol.com/news/business/markets/chartist-talk-nifty-50-breakdown-below-23-050-could-trigger-fresh-selling-sudeep-shah-bets-on-6-stocks-13942856.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251025213936_Sudeep_ShahSBI.jpg",
+        "publishedAt": "2026-06-07T01:26:59Z",
+        "source": "Moneycontrol.com"
       }
     ],
     "science": [
+      {
+        "title": "7 Hopping Robot Will Drill Moon's Shadowed Craters",
+        "description": "China is in the final stretch toward launching Chang’e-7, the most complex robotic Moon mission it has ever attempted, built to do something no spacecraft has done: drill directly into the",
+        "url": "https://www.techtimes.com/articles/317931/20260606/lunar-water-ice-hunt-china-change-7-hopping-robot-will-drill-moons-shadowed-craters.htm",
+        "image": "https://d.techtimes.com/en/full/466193/chinas-lunar-exploration.jpg",
+        "publishedAt": "2026-06-07T01:58:31Z",
+        "source": "Tech Times"
+      },
+      {
+        "title": "The International Space Station circles the planet so fast that the crew watch the sun rise and set sixteen times in a single day, a new dawn roughly every ninety minutes",
+        "description": "The International Space Station travels fast enough that its crew pass through sixteen sunrises and sixteen sunsets in the course of a single day. At an altitude of roughly 400 kilometres it moves at about 28,000 kilometres an hour, which works out to one full lap of Earth roughly every ninety minutes. NASA puts it […]",
+        "url": "https://spacedaily.com/t-the-international-space-station-circles-the-planet-so-fast-that-the-crew-watch-the-sun-rise-and-set-sixteen-times-in-a-single-day-a-new-dawn-roughly-every-ninety-minutes/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-06T213139.559.png",
+        "publishedAt": "2026-06-07T01:00:42Z",
+        "source": "Space Daily"
+      },
       {
         "title": "The saree that made space history: Nandini Harinath’s Mars mission look reaches a US museum",
         "description": "When India successfully etched its name into space exploration history with the Mars Orbiter Mission, the world celebrated the brilliance of the scien.",
@@ -182,88 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/06/objects-in-our-own-solar-system.png",
         "publishedAt": "2026-06-06T21:00:58Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Venus and Jupiter set to pair up in the western sky on June 6 and 7",
-        "description": "Skywatchers looking west after sunset will have an easy target in early June as Venus and Jupiter draw close together in an eye-catching pairing. The two brightest planets will appear side by side on June 6 and 7, creating what some observers call 'spooky eyes' in the twilight sky",
-        "url": "https://www.sudbury.com/around-the-north/venus-and-jupiter-set-to-pair-up-in-the-western-sky-on-june-6-and-7-12385491",
-        "image": "https://www.vmcdn.ca/f/files/baytoday/images/weather/2026-venus-jupiter-boyle.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-06-06T21:00:00Z",
-        "source": "Sudbury News"
-      },
-      {
-        "title": "Wonderful World | A once-in-a-century celestial event: The 6-minute solar eclipse that will turn day into night",
-        "description": "The longest total solar eclipse visible from land in the 21st century will occur on August 2, 2027, when the Moon will completely obscure the Sun for up to 6 minutes and 23 seconds.",
-        "url": "https://www.wionews.com/world/wonderful-world-a-once-in-a-century-celestial-event-the-6-minute-solar-eclipse-that-will-turn-day-into-night-1780776951200",
-        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260607/image-1780777646367.jpg?imwidth=1200&imheight=900",
-        "publishedAt": "2026-06-06T20:28:00Z",
-        "source": "WION"
       }
     ],
     "ai": [
       {
-        "title": "American AI adviser Sriram Krishnan to leave White House",
-        "description": "Indian-American AI adviser Sriram Krishnan to leave White House - Washington, June 7 Sriram Krishnan, one of the highest-profile Indian-American technology advisers in the Trump administration, announced that ... Get Latest News on International only on lokmattimes.com",
-        "url": "https://www.lokmattimes.com/international/indian-american-ai-adviser-sriram-krishnan-to-leave-white-house/",
-        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816505_202606.jpg",
-        "publishedAt": "2026-06-07T00:50:33Z",
-        "source": "Lokmat Times"
+        "title": "Trump AI policy adviser Sriram Krishnan is giving up White House role",
+        "description": "In May, Krishnan was part of the team that helped Alphabet Inc.’s Google, Microsoft Corp. and xAI agree to give the US government early access to their AI models to assess the systems’ capabilities and improve their security before public release.",
+        "url": "https://www.moneycontrol.com/world/trump-ai-policy-adviser-sriram-krishnan-is-giving-up-white-house-role-article-13942876.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260607013614_SK.jpg",
+        "publishedAt": "2026-06-07T01:56:14Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "BRICS Culture Delegates Visit Kashi Vishwanath Temple During Varanasi Meeting On Creative Economy And AI",
-        "description": "BRICS delegates at the 2nd Culture Working Group Meeting in Varanasi visited Kashi Vishwanath Temple and discussed creative economy, people-to-people cooperation, copyright and ethical AI, with cultural performances showcasing India’s heritage.",
-        "url": "https://www.republicworld.com/india/brics-culture-delegates-visit-kashi-vishwanath-temple-during-varanasi-meeting-on-creative-economy-and-ai-2026-06-06-127220",
-        "image": "https://img.republicworld.com/all_images/2026/03/kashi-vishwanath-temple-celebrates-international-womens-day-gives-special-access-check-what-is-it-1772878687998-1280x720.webp",
-        "publishedAt": "2026-06-07T00:36:48Z",
-        "source": "Republic World"
+        "title": "Who Is Sriram Krishnan? Trump’s AI Adviser To Exit White House. Here's Why",
+        "description": "Announcing on Saturday, Krishnan said he plans to take a break before focusing on “large challenges facing America on AI.”",
+        "url": "https://www.news18.com/world/who-is-sriram-krishnan-trumps-ai-adviser-to-exit-white-house-at-end-of-june-ws-l-10134532.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/06/Untitiled-2026-06-07T071525.447-2026-06-060566c674049536559e2b9a1be6798b-1200x675.jpg",
+        "publishedAt": "2026-06-07T01:53:37Z",
+        "source": "News18"
       },
       {
-        "title": "India-Nepal ties: S Jaishankar signals push beyond border dispute tensions - Telegraph India",
-        "description": "India and Nepal explore cooperation in AI, energy and start-ups as both sides back stronger legal and border coordination",
-        "url": "https://www.telegraphindia.com/india/india-nepal-ties-s-jaishankar-signals-push-beyond-border-dispute-tensions-prnt/cid/2164348",
-        "image": "https://assets.telegraphindia.com/telegraph/2025/Nov/1764496133_jaishankar.jpg",
-        "publishedAt": "2026-06-07T00:29:49Z",
-        "source": "Telegraph India"
+        "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+        "description": "US News: It was perhaps a surprising private overture from OpenAI CEO Sam Altman to Sen. Bernie Sanders.The meeting between the two had come just after the Ver.",
+        "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai/articleshow/131561148.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131561151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-07T01:53:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Architect of US AI Action Plan Sriram Krishnan Leaves White House Role After 18 Months, Praises Trump For Leading AI Race",
-        "description": "White House AI adviser Sriram Krishnan will leave at the end of June after 18 months, citing the privilege of serving under Trump, having architected the AI Action Plan and planning to build institutions that tackle AI challenges in energy, data centres and US competitiveness.",
-        "url": "https://www.republicworld.com/world-news/architect-of-us-ai-action-plan-sriram-krishnan-leaves-white-house-role-after-18-months-praises-trump-for-leading-ai-race-2026-06-06-127218",
-        "image": "https://img.republicworld.com/all_images/india-can-leverage-us-innovation-to-build-ai-tools-chennai-born-white-house-ai-policy-advisor-sriram-krishnan-1771415406120-16_9.webp",
-        "publishedAt": "2026-06-07T00:19:32Z",
-        "source": "Republic World"
+        "title": "Sriram Krishnan to step down as White House AI adviser, says he'll tackle America's AI challenges next",
+        "description": "Sriram Krishnan exits his White House AI role, reflects on work under Donald Trump, and plans new institutions to tackle Americas next wave of AI challenges.",
+        "url": "https://www.cnbctv18.com/world/sriram-krishnan-to-step-down-as-white-house-ai-adviser-says-hell-tackle-americas-ai-challenges-next-ws-l-19920888.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/06/sriram-krishnan-white-house-2026-06-69b5201f4280db354cc57ff956705f36.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-06-07T01:51:08Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "Google’s new AI reply system could make texting feel easier",
-        "description": "Google Messages is reportedly testing a new “tap to draft” feature that uses AI to generate longer, more contextual text replies inside conversations.",
-        "url": "https://www.digitaltrends.com/phones/googles-new-ai-reply-system-could-make-texting-feel-easier/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/05/google-pixel-showing-phone-app.jpg?resize=1200%2C630",
-        "publishedAt": "2026-06-07T00:18:50Z",
-        "source": "Digital Trends"
+        "title": "Who is Sriram Krishnan? Trump's Indian-origin AI policy advisor to step down end of June",
+        "description": "Krishnan praised US President Donald Trump, saying, Without his leadership, we would not be leading in the AI race.",
+        "url": "https://zeenews.india.com/world/who-is-sriram-krishnan-trumps-indian-origin-ai-policy-advisor-to-step-down-end-of-june-3053472.html",
+        "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/07/1952267-blurred-frame.jpg?im=FitAndFill=(1200,900)",
+        "publishedAt": "2026-06-07T01:44:51Z",
+        "source": "Zee News"
       },
       {
-        "title": "Anthropic Mythos AI expands to India: Which entities gained access? What we know",
-        "description": "Indian entities have secured access to Anthropic's Mythos AI model as part of Project Glasswing expansion. Single-digit number of organisations granted permission to detect software vulnerabilities.",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-mythos-ai-expands-to-india-which-entities-gained-access-and-what-it-means-for-the-countrys-ai-landscape-11780789991601.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/Claude_AI_1774610087542_1774610087719_1780790331748_9b7071a5-74f2-4e9b-a068-11b5ff6b65eb.jpg",
-        "publishedAt": "2026-06-07T00:02:36Z",
+        "title": "From internet adoption to AI embracement: India's next efficiency story",
+        "description": "Global markets are likely to capture disproportionate gains from AI infrastructure, semiconductors, and cloud capital expenditure, said Jimeet Modi.",
+        "url": "https://www.moneycontrol.com/news/business/markets/from-internet-adoption-to-ai-embracement-india-s-next-efficiency-story-13942859.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260226071705_artificial-intelligence-it.jpg",
+        "publishedAt": "2026-06-07T01:31:38Z",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "Why the market isn't buying Salesforce's AI story",
+        "description": "Salesforce is betting heavily on AI across its products, operations and acquisitions. The company is already seeing productivity gains, but investors are still waiting for proof that AI can drive durable growth.",
+        "url": "https://www.livemint.com/companies/news/salesforce-ai-strategy-investors-remain-unconvinced-11780657093855.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/SALESFORCE-RESULTS--0_1780729532470_1780729539422_bb23b95c-a13d-4aef-93d1-5c27dfd605d1.JPG",
+        "publishedAt": "2026-06-07T01:30:18Z",
         "source": "Livemint"
       },
       {
-        "title": "Inside India’s Rs 10,372-crore sovereign AI race: 2 infrastructure stocks powering the 38,000-GPU boom",
-        "description": "A ₹10,372 crore AI mission. Over 38,000 GPUs already deployed. As India races to build its own AI ecosystem, a handful of companies are quietly building the infrastructure powering this transformation.",
-        "url": "https://www.financialexpress.com/market/stock-insights/inside-indias-rs-10372-crore-sovereign-ai-race-2-infrastructure-stocks-powering-the-38000-gpu-boom/4260920/",
-        "image": "https://images.financialexpressdigital.com/2026/06/aistocl.jpg",
-        "publishedAt": "2026-06-07T00:00:00Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "When chatbots crashed the classroom... Is AI replacing our ability to think and create?",
-        "description": "Educators said the distinction between machine-generated and human intelligence has begun to blur with the rapid adoption of AI in schools",
-        "url": "https://www.telegraphindia.com/west-bengal/kolkata/when-chatbots-crashed-the-classroom-is-ai-replacing-our-ability-to-think-and-create-prnt/cid/2164330",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1780789668_new-ai-classroom.jpg",
-        "publishedAt": "2026-06-06T23:51:42Z",
-        "source": "Telegraph India"
+        "title": "What Are AI Bioweapon Risks That Big Tech Is Suddenly Worried About?",
+        "description": "Leaders from major AI companies like OpenAI and Google’s DeepMind are urging U.S. lawmakers to address these risks, emphasising that future AI systems could assist individuals in creating dangerous biological agents. , Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/what-are-ai-bioweapon-risks-that-big-tech-is-suddenly-worried-about-article-154479270",
+        "image": "https://images.timesnownews.com/thumb/msid-154479270,width-1280,height-720,resizemode-75/154479270.jpg",
+        "publishedAt": "2026-06-07T01:30:00Z",
+        "source": "Times Now"
       }
     ]
   }
