@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-07T21:43:39.756Z",
+  "fetchedAt": "2026-06-07T22:40:31.659Z",
   "sections": {
     "world": [
       {
-        "title": "100 days of the US-Israel war on Iran",
-        "description": "One hundred days in, the US–Israel–Iran conflict remains a bloody stalemate with mounting loss of civilian lives.",
-        "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26059240652017-1780818061.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-06-07T09:40:58Z",
-        "source": "Al Jazeera"
+        "title": "Political tensions in Somalia raise fears for investor confidence after hotel raid",
+        "description": "The incident has reignited debate over whether political disputes are beginning to affect the country’s business environment.",
+        "url": "https://www.the-star.co.ke/news/2026-06-07-political-tensions-in-somalia-raise-fears-for-investor-confidence-after-hotel-raid",
+        "image": "https://cdn.radioafrica.digital/image/2026/06/3c426e57-664f-4e26-bbac-2f183116438a.png?1780843787199",
+        "publishedAt": "2026-06-07T10:40:00Z",
+        "source": "the-star.co.ke"
       },
       {
-        "title": "1 million turn out for pope's Mass in Spain and iconic procession along flower-carpeted route",
-        "description": "MADRID (AP) — Pope Leo XIV honored Spain's centuries-old tradition of religious devotion on Sunday as a",
-        "url": "https://mb.com.ph/2026/06/07/1-million-turn-out-for-popes-mass-in-spain-and-iconic-procession-along-flower-carpeted-route",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/07/107117.webp",
-        "publishedAt": "2026-06-07T09:38:06Z",
-        "source": "Manila Bulletin"
+        "title": "Pakistan’s interior minister is in Tehran as the US downs more Iranian drones over Hormuz",
+        "description": "Pakistan’s interior minister is in Tehran to restart negotiations between Iran and the U.S. The visit comes as the American military reported shooting down two more Iranian drones over the Strait of Hormuz.",
+        "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
+        "image": "https://dims.apnews.com/dims4/default/c741a9b/2147483647/strip/true/crop/8015x5341+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F9a%2F51a0f7354312af3ac194edb3c600%2F9d10ebd120064553bfe60d592c74eb8b",
+        "publishedAt": "2026-06-07T10:40:00Z",
+        "source": "AP News"
       },
       {
-        "title": "West Midlands Police",
-        "description": "Louise Stokes, who with her family has raised police dogs for around 15 years, is given an award.",
-        "url": "https://www.bbc.com/news/articles/ckg451wn7kpo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1f81/live/d529b870-6246-11f1-9088-3da3a0e1bdf9.jpg",
-        "publishedAt": "2026-06-07T09:36:39Z",
-        "source": "BBC"
+        "title": "Woman in M’sia barred from boarding flight after her child scribbles on passport pages",
+        "description": "A woman shared a story about being barred from boarding her flight on Saturday (6 June) night after her child scribbled all over her passport pages with a blue ballpoint pen.",
+        "url": "https://mustsharenews.com/woman-scribbles-passport/",
+        "image": "https://mustsharenews.com/wp-content/uploads/2026/06/woman-passport-scribbles.jpg",
+        "publishedAt": "2026-06-07T10:36:28Z",
+        "source": "mustsharenews.com"
       },
       {
-        "title": "UAE convoys carrying 740 tonnes of aid enter Gaza",
-        "description": "Relief sent as part of Operation Gallant Knight 3",
-        "url": "https://www.thenationalnews.com/news/uae/2026/06/07/uae-convoys-carrying-740-tonnes-of-aid-enter-gaza/",
-        "image": "https://www.thenationalnews.com/resizer/v2/AJ76DFSGQVGDLJYLVKXYQSO4HI.jpg?smart=true&auth=b5b3d1fc6dc399005f1d820bc843c9739c64b519cb0ff6787881d5b77d02801c&width=1200&height=630",
-        "publishedAt": "2026-06-07T09:35:18Z",
-        "source": "The National"
+        "title": "The Nigerian army frees 360 abducted people in northeastern Borno state",
+        "description": "The Nigerian army said Sunday it freed 360 people abducted by Boko Haram in southern Borno, in the northeastern part of the country.",
+        "url": "https://apnews.com/article/nigeria-abducted-freed-army-borno-e5a331602145ff15c22ec486f43726bf",
+        "image": "https://dims.apnews.com/dims4/default/d3622a3/2147483647/strip/true/crop/4898x3264+15+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2Fdf%2F76a00297b353903cac7bd0303bdd%2Fcc5e7d8592c84e089e8eabc45429902b",
+        "publishedAt": "2026-06-07T10:35:00Z",
+        "source": "AP News"
       },
       {
-        "title": "At least 12 injured in exchange of gunfire near Ohio festival, police say",
-        "description": "Two in critical condition as police search for suspects, appeal for cell phone footage",
-        "url": "https://tribune.com.pk/story/2611877/at-least-12-injured-in-exchange-of-gunfire-near-ohio-festival-police-say",
-        "image": "https://i.tribune.com.pk/media/images/us-shooting1780824100-0/us-shooting1780824100-0-640x480.webp",
-        "publishedAt": "2026-06-07T09:35:15Z",
-        "source": "The Express Tribune"
+        "title": "6 in family killed in collision between SUV and lorry",
+        "description": "A three-year-old girl survived the crash with injuries and has been admitted to hospital.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/06/07/6-in-family-killed-in-collision-between-suv-and-lorry",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/60c1690f-6-ahli-keluarga-maut-sungai-petani-jbpm-070626.webp",
+        "publishedAt": "2026-06-07T10:34:49Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Nigeria: Rescued orphaned elephant highlights conservation fight",
-        "description": "As dawn breaks over Nigeria's Okomu National Park, an exhausted wildlife caretaker prepares milk formula for Agbaibor, a months-old orphaned forest elephant rescued after wandering out of the rainforest alone.\n\"The baby elephant has to take two litres of this per meal,\" said Joshua Aribasoye, one of",
-        "url": "https://www.africanews.com/2026/06/07/nigeria-rescued-orphaned-elephant-highlights-conservation-fight/",
-        "image": "https://images.euronews.com/articles/stories/09/78/79/71/1024x538_cmsv2_e3b6543e-e858-5dd8-ba27-35c26efae793-9787971.jpg",
-        "publishedAt": "2026-06-07T09:31:18Z",
-        "source": "africanews.com"
+        "title": "Keiko Fujimori was a first lady at 19. Now she’s making her fourth attempt to win Peru’s presidency",
+        "description": "This Sunday, at the age of 51, the eldest daughter of Peru’s late former president will make her fourth attempt at winning the presidency in a runoff election",
+        "url": "https://www.cnn.com/2026/06/07/americas/peru-president-election-keiko-fujimori-intl-latam",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2270045642.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-06-07T10:30:08Z",
+        "source": "CNN"
       },
       {
-        "title": "Labor as a tariff pretext? Global criticism over US move",
-        "description": "The USTR has proposed tariffs on 60 economies over so-called \"forced labor\" claims, drawing sharp criticism from the EU, Vietnam, Australia and experts who call the move baseless and a threat to global trade rules.",
-        "url": "https://news.cgtn.com/news/2026-06-07/Labor-as-a-tariff-pretext-Global-criticism-over-US-move-1NMr1ibWw1y/p.html",
-        "image": "https://news.cgtn.com/news/2026-06-07/Labor-as-a-tariff-pretext-Global-criticism-over-US-move-1NMr1ibWw1y/img/905a0ed1ef6e4fc7b8cad23ca5517791/905a0ed1ef6e4fc7b8cad23ca5517791-750.png",
-        "publishedAt": "2026-06-07T09:31:15Z",
-        "source": "news.cgtn.com"
+        "title": "Rock Island firefighters extinguish restaurant fire",
+        "description": "The cause of a small fire at Flip’s Pancake House remains under investigation.",
+        "url": "https://qctimes.com/news/local/article_d5b9bb76-3401-4081-97af-dcd2a6a34f77.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/5b/d5b9bb76-3401-4081-97af-dcd2a6a34f77/6a252fbd61225.preview.jpg?crop=629%2C330%2C1340%2C424",
+        "publishedAt": "2026-06-07T10:30:00Z",
+        "source": "The Quad-City Times"
       },
       {
-        "title": "Hong Kong Food Expo, Int'l Tea Fair 2026 set",
-        "description": "The twin food and tea fair are all set for August.",
-        "url": "https://www.philstar.com/lifestyle/food-and-leisure/2026/06/07/2533461/hong-kong-food-expo-intl-tea-fair-2026-set",
-        "image": "https://media.philstar.com/photos/2026/06/06/food-expo_2026-06-06_23-46-54.jpg",
-        "publishedAt": "2026-06-07T09:30:00Z",
-        "source": "Philstar.com"
+        "title": "Xi’s war on the Uyghurs: The battle for identity in China's far West",
+        "description": "China News: China's latest ethnic unity law has brought renewed attention to the Uyghur question. The legislation, adopted by Beijing and due to take effect next .",
+        "url": "https://timesofindia.indiatimes.com/world/china/xis-war-on-the-uyghurs-the-battle-for-identity-in-chinas-far-west/articleshow/131564509.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131564746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-07T10:29:00Z",
+        "source": "The Times of India"
       }
     ],
     "business": [
       {
-        "title": "SpaceX IPO Puts Elon Musk on Course to Become World's First Trillionaire",
-        "description": "A $1.77 trillion stock market debut, the largest in history, would push Musk's combined net worth past one trillion dollars, a threshold no individual has ever crossed",
-        "url": "https://www.kurdistan24.net/en/story/918462/spacex-ipo-puts-elon-musk-on-course-to-become-worlds-first-trillionaire",
-        "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1780828481_kurdistan24.jpg",
-        "publishedAt": "2026-06-07T09:43:09Z",
-        "source": "Kurdistan24"
+        "title": "Quiet financial stress is gnawing at 216 million Americans, Edward Jones data shows",
+        "description": "Just 16% of U.S. adults say they feel financially fulfilled, and experts say the anxiety gripping everyone else often has little to do with what's actually in their bank accounts.",
+        "url": "https://fortune.com/2026/06/07/financial-stress-anxiety-affecting-216-million-americans-edward-jones-money-dysmorphia/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2236674234-e1780677348926.jpg?resize=1200,600",
+        "publishedAt": "2026-06-07T10:39:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "You can literally save the planet by being less polite to AI bots like ChatGPT and Gemini",
-        "description": "A new UN report reveals that keeping your AI prompts short and concise could save enough electricity to power millions of homes. Here's why your words literally matter.",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/literally-save-planet-being-less-094035371.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/30b795e63de35ff467c1b31003d71b452859b1c1e984c34a3ed27387aaba967a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2F32b8ceb3da4bd49943c1ceae6b7c9721",
-        "publishedAt": "2026-06-07T09:40:35Z",
-        "source": "Yahoo Tech"
+        "title": "Hong Kong to open first convenience store operated by humanoid robot in AI push",
+        "description": "Store in Hung Hom will feature robot able to serve customers in different languages in latest example of city’s AI adoption, finance chief says.",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356255/hong-kong-open-first-convenience-store-operated-humanoid-robot-ai-push",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/07/0a54ce7e-131b-40ee-a027-d68765ab15bf_bceeec0b.jpg?itok=u9b2KfBV&v=1780828625",
+        "publishedAt": "2026-06-07T10:37:07Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Can Biometric SIM Registration Reduce Cybercrime in Indonesia?",
-        "description": "Indonesia will introduce biometric registration for new SIM cards on July 1, in a bid to curb digital fraud. Will it be enough to reduce cybercrime?",
-        "url": "https://en.tempo.co/read/2107283/can-biometric-sim-registration-reduce-cybercrime-in-indonesia",
-        "image": "https://statik.tempo.co/data/2026/02/21/id_1460016/1460016_720.jpg",
-        "publishedAt": "2026-06-07T09:36:45Z",
-        "source": "Tempo.co English"
+        "title": "ChatGPT Is No Longer OpenAI's Endgame. This Is Why.",
+        "description": "ChatGPT may no longer be OpenAI's most important product as the company chases stickier, higher-margin businesses.",
+        "url": "https://www.businessinsider.com/openai-merging-codex-into-chatgpt-lock-in-code-2026-6",
+        "image": "https://i.insider.com/6a230a77b4fb977f35984e8d?width=1200&format=jpeg",
+        "publishedAt": "2026-06-07T10:32:33Z",
+        "source": "Business Insider"
       },
       {
-        "title": "OPEC+ set for fourth oil quota hike since Hormuz closure",
-        "description": "The seven of 21 OPEC+ members due to meet on Sunday are Saudi Arabia, Iraq, Kuwait, Algeria, Kazakhstan, Russia, and Oman",
-        "url": "https://www.newarab.com/news/opec-set-fourth-oil-quota-hike-hormuz-closure",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2218834626.jpeg?itok=3EUlIh4Y",
-        "publishedAt": "2026-06-07T09:35:10Z",
-        "source": "The New Arab"
+        "title": "Stoney Creek residents suing GFL over odour at local landfill",
+        "description": "People living near landfill in Hamilton can no longer stand its “persistent and noxious” stench and have filed lawsuits in an attempt to make it go away.",
+        "url": "https://www.cp24.com/local/hamilton/2026/06/07/persistent-and-noxious-stoney-creek-residents-file-dozens-of-lawsuits-due-to-stench-at-gfl-landfill/",
+        "image": "https://www.cp24.com/resizer/v2/CNVMETDBCBD6HHRHELLP4X7OLQ.jpg?smart=true&auth=aa77e6d77d0c70360381d84d72d8609375f15c9bed70e5c13df98c7678e1075f&width=1200&height=630",
+        "publishedAt": "2026-06-07T10:32:23Z",
+        "source": "CP24"
       },
       {
-        "title": "Market Trading Guide: Adani Green among 2 stock recommendations for Monday",
-        "description": "Domestic equities ended largely flat on Friday as the monetary policy outcome matched market expectations, while supportive measures announced by the RBI Governor helped strengthen the rupee. However, the downward revision in growth forecasts and a calibrated inflation outlook triggered profit booking as investors reassessed near-term demand and earnings prospects.Here are two stock recommendations for Monday: Stock Ideas",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-2-stock-recommendations-for-monday/stock-ideas/slideshow/131564462.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-131564462,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-06-07T09:27:44Z",
-        "source": "The Economic Times"
+        "title": "Bitcoin’s Shine Fades As Investors Turn To Other Market Opportunities",
+        "description": "Bitcoin has fallen sharply in 2026 so far as investors rotate capital into AI-driven equities and upcoming high-profile listings",
+        "url": "https://www.outlookmoney.com/invest/bitcoins-shine-fades-as-investors-turn-to-other-market-opportunities",
+        "image": "https://media.assettype.com/outlookmoney/2026-02-06/mhzbg5nz/Bitcoin.png?w=1200",
+        "publishedAt": "2026-06-07T10:32:20Z",
+        "source": "Outlook Money"
       },
       {
-        "title": "Huddersfield chippie owner's cut-price idea to help struggling families",
-        "description": "Owner Yvonne Whiteley has issued a rallying cry to encourage people to call in and try a new flavour.",
-        "url": "https://www.examinerlive.co.uk/whats-on/food-drink-news/huddersfield-chippie-owners-cut-price-34079241",
-        "image": "https://i2-prod.examinerlive.co.uk/article34079237.ece/ALTERNATES/s1200d/717377045_2231014164381470_4841394678775529511_n.jpg",
-        "publishedAt": "2026-06-07T09:25:00Z",
-        "source": "Yorkshire Live"
+        "title": "AI Weather Forecasting Coming This Summer",
+        "description": "Environment Canada says it plans to integrate AI into its long-range forecasts. Stphane Gaudreault with the we...",
+        "url": "https://vocm.com/2026/06/07/ai-weather-forecasting-coming-this-summer/",
+        "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/Canada-Radar-Map-2.jpg",
+        "publishedAt": "2026-06-07T10:32:00Z",
+        "source": "VOCM"
       },
       {
-        "title": "FSS issues warning over products from Inarah's Frozen Foods",
-        "description": "CONSUMERS are being urged not to eat certain products from Inarah’s Frozen Foods Ltd",
-        "url": "https://www.thenational.scot/news/26172779.fss-issues-warning-products-inarahs-frozen-foods/",
-        "image": "https://www.thenational.scot/resources/images/20852052.jpg?type=og-image",
-        "publishedAt": "2026-06-07T09:23:54Z",
-        "source": "The National Scot"
+        "title": "Trek-Segafredo’s new unreleased Bontrager RSL climbing wheels feature carbon spokes",
+        "description": "New wheels spotted on team bikes ahead of the opening stage of the Tour Auvergne-Rhône-Alpes",
+        "url": "https://www.bikeradar.com/news/unreleased-bontrager-rsl-climbing-wheels",
+        "image": "https://c02.purpledshub.com/uploads/sites/39/2026/06/070626_AshleyQuinlan_016-scaled.jpg?w=1200",
+        "publishedAt": "2026-06-07T10:30:17Z",
+        "source": "BikeRadar"
       },
       {
-        "title": "A Look At Under Armour’s (NYSE:UAA) Valuation As Kevin Plank Returns And Restructuring Plan Unfolds",
-        "description": "Under Armour (UAA) has put founder Kevin Plank back in the CEO seat and rolled out a broad brand restructuring plan, a leadership and business reset that is drawing fresh attention to the stock.\nSee our latest analysis for Under Armour.\nThe leadership reset has arrived in a tougher share price environment, with the stock down 13.5% on a 30-day share price basis and the 1-year total shareholder return declining 17.5%. This points to fading momentum despite a modest 5.1% year-to-date share...",
-        "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-uaa/under-armour/news/a-look-at-under-armours-nyseuaa-valuation-as-kevin-plank-ret",
-        "image": "https://images.simplywall.st/asset/company-cover/8740684-main-header/1590544834336",
-        "publishedAt": "2026-06-07T09:19:35Z",
-        "source": "simplywall.st"
+        "title": "Firms' Views On The Current Oil Price Shock: Stable For Now, Risky For Tomorrow",
+        "description": "Although gasoline and diesel prices domestically and abroad have risen sharply, the question before us now is how much will this run-up in energy prices affect overall economic growth?",
+        "url": "https://seekingalpha.com/article/4912655-firms-views-on-current-oil-price-shock-stable-for-now-risky-for-tomorrow",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/983223870/image_983223870.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-06-07T10:30:00Z",
+        "source": "Seeking Alpha"
       }
     ],
     "science": [
+      {
+        "title": "Milky Way's giant black hole blows surprisingly gentle breeze",
+        "description": "After five decades of trying, astronomers have finally discovered the wind emanating from the supermassive black hole at the center of our Milky Way...",
+        "url": "https://www.dailysabah.com/life/science/milky-ways-giant-black-hole-blows-surprisingly-gentle-breeze",
+        "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/06/07/thumbs/1200x675/444724.jpg",
+        "publishedAt": "2026-06-07T10:10:54Z",
+        "source": "Daily Sabah"
+      },
+      {
+        "title": "Storing Items Under Your Bed Is Making Your Bedroom Hotter",
+        "description": "Experts warn that this common storage mistake is blocking airflow and making you feel hotter at night: The fix is quick, simple, and effective, HVAC pros say",
+        "url": "https://www.homesandgardens.com/solved/common-storage-mistake-making-bedroom-hotter",
+        "image": "https://cdn.mos.cms.futurecdn.net/q4rbxqzvdZWAhVrbECRTHC-1600-80.jpg",
+        "publishedAt": "2026-06-07T10:00:00Z",
+        "source": "Homes and Gardens"
+      },
+      {
+        "title": "Could meteor storms harm NASA's future moon missions?",
+        "description": "How do meteor showers affect NASA's Artemis missions to the moon, and how does it keep astronauts safe from micrometeoroid impacts?",
+        "url": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
+        "image": "https://cdn.mos.cms.futurecdn.net/Wbpwmd52hamKFkhV2QLWye-1920-80.jpg",
+        "publishedAt": "2026-06-07T10:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system - Space photo of the week",
+        "description": "A rare meteorite found in the Sahara Desert may be evidence of a long-lost \"protoplanet\" that formed in the early solar system before being destroyed in a colossal collision, a new study suggests",
+        "url": "https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week",
+        "image": "https://cdn.mos.cms.futurecdn.net/5DSrtheVBN2GVKAz98mRxK-1920-80.jpg",
+        "publishedAt": "2026-06-07T10:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "Inside Australia’s Project Building Shark-Repellent Surfboard Fins For Surfers",
+        "description": "Researchers in Australia are developing smart surfboard fins embedded with sensors, lights and electromagnetic systems designed to reduce shark encounters without affecting surf performance.",
+        "url": "https://www.forbes.com/sites/melissacristinamarquez/2026/06/07/inside-australias-project-building-shark-repellent-surfboard-fins-for-surfers/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69f83687d73dbdc4f5855e02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-07T10:00:00Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "Hidden protein switch controls photosynthesis as light conditions change",
+        "description": "Scientists have discovered a previously unknown regulatory mechanism in plant photosynthesis in the unicellular green alga Chlamydomonas reinhardtii. It helps plants adapt to changes in light conditions. The results, published in the journal Nature Plants, show how a crucial protein interaction at the interface between photosystems I and II controls the photosynthetic machinery.",
+        "url": "https://phys.org/news/2026-06-hidden-protein-photosynthesis-conditions.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/chlamydomonas-reinhard.jpg",
+        "publishedAt": "2026-06-07T09:50:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Curt Nason: Red light, green light; sky games at night",
+        "description": "Curt Nason: Red light, green light; sky games at night",
+        "url": "https://tj.news/new-brunswick/curt-nason-red-light-green-light-sky-games-at-night",
+        "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/06/0606-tj-nason.png",
+        "publishedAt": "2026-06-07T09:48:43Z",
+        "source": "Telegraph-Journal"
+      },
       {
         "title": "Hot Water and Salicylic Acid Treatment Extends Mango Shelf Life and Preserves Nutritional Quality",
         "description": "A recent study published in *Scientific Reports* indica […]",
@@ -142,128 +198,72 @@
         "image": "https://www.geneonline.com/wp-content/uploads/EN_NEWSFLASH_5-1.png",
         "publishedAt": "2026-06-07T09:20:53Z",
         "source": "geneonline.com"
-      },
-      {
-        "title": "NASA Astronaut Shares Aurora Show From Space Station; Says \"A Lot Going On Right Now\"",
-        "description": "Auroras, also called the Northern or Southern Lights, are often more vivid from space, where astronauts can see them at eye level.",
-        "url": "https://www.ndtv.com/science/nasa-astronaut-shares-aurora-show-from-space-station-says-a-lot-going-on-right-now-11602798",
-        "image": "https://c.ndtvimg.com/2026-06/vkpnvk8s_aurora_625x300_07_June_26.jpeg",
-        "publishedAt": "2026-06-07T09:10:51Z",
-        "source": "NDTV"
-      },
-      {
-        "title": "2 Starshield Sats Fly on Rare Public Mission | KeepTrack X Report",
-        "description": "SpaceX publicly confirmed 2 Starshield government satellites launched from Vandenberg on June 6, a rare disclosure for the classified Starlink variant.",
-        "url": "https://keeptrack.space/x-report/spacex-brief-2026-06-07",
-        "image": "https://keeptrack.space/cdn-cgi/image/onerror=redirect,width=3000,height=2000,format=webp/_astro/35.BZKifg0z.jpg",
-        "publishedAt": "2026-06-07T09:06:09Z",
-        "source": "KeepTrack"
-      },
-      {
-        "title": "Metre-long scorpion discovered in Britain",
-        "description": "Researchers were able to piece together a metre-long scorpion from ancient fossils that used to roam what is now western England and Whales.",
-        "url": "https://www.cp24.com/news/world/2026/06/06/apex-predator-scorpion-crawled-the-earth-hundreds-of-millions-of-years-ago/",
-        "image": "https://www.cp24.com/resizer/v2/QKY6T7U3TVC6RLKDZK6D2NQKXA.jpg?smart=true&auth=febbe08077a64b5ac38d2e8aef48b69b0ef58777adc615d2a26f24a7594b9274&width=1200&height=630",
-        "publishedAt": "2026-06-07T09:00:00Z",
-        "source": "CP24"
-      },
-      {
-        "title": "Bumblebees have tiny brains but they can solve problems like chimps and elephants",
-        "description": "New research suggests the fuzzy insects may be capable of spontaneously solving problems the way animals with much larger brains do.",
-        "url": "https://www.btpm.org/2026-06-07/bumblebees-have-tiny-brains-but-they-can-solve-problems-like-chimps-and-elephants",
-        "image": "https://npr.brightspotcdn.com/dims4/default/a324143/2147483647/strip/true/crop/6240x3276+0+117/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F6240x3510%200%2024%2Fresize%2F6240x3510%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F51%2F36fe9e884ef1981ef1597fe19c48%2Fa-bumble-bee-reaching-to-a-reward.jpg",
-        "publishedAt": "2026-06-07T09:00:00Z",
-        "source": "Buffalo Toronto Public Media"
-      },
-      {
-        "title": "Bumblebees have tiny brains but they can solve problems like chimps and elephants",
-        "description": "New research suggests the fuzzy insects may be capable of spontaneously solving problems the way animals with much larger brains do.",
-        "url": "https://news.prairiepublic.org/news-from-npr/2026-06-07/bumblebees-have-tiny-brains-but-they-can-solve-problems-like-chimps-and-elephants",
-        "image": "https://npr.brightspotcdn.com/dims4/default/a324143/2147483647/strip/true/crop/6240x3276+0+117/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F6240x3510%200%2024%2Fresize%2F6240x3510%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F51%2F36fe9e884ef1981ef1597fe19c48%2Fa-bumble-bee-reaching-to-a-reward.jpg",
-        "publishedAt": "2026-06-07T09:00:00Z",
-        "source": "Prairie Public Broadcasting"
-      },
-      {
-        "title": "Bumblebees prove to be smart problem-solvers in a new study : NPR",
-        "description": "New research suggests the fuzzy insects may be capable of spontaneously solving problems the way animals with much larger brains do.",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5846947/bumblebees-problem-solving-research",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+24/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F51%2F36fe9e884ef1981ef1597fe19c48%2Fa-bumble-bee-reaching-to-a-reward.jpg",
-        "publishedAt": "2026-06-07T09:00:00Z",
-        "source": "NPR"
-      },
-      {
-        "title": "Effects of nitrogen top-dressing treatments and development stages on morphological, colorimetric and biochemical characteristics of fresh bean pods (Phaseolus vulgaris L.)",
-        "description": "Nitrogen management and harvest timing are critical determinants of fresh bean (Phaseolus vulgaris L.) pod quality; however, their combined effects on morphological, colorimetric and biochemical characteristics during pod development remain insufficiently characterized. This study evaluated the effects of four nitrogen top-dressing fertilizers (ammonium sulfate [AS], slow-release fertilizer [SRF], nitropower [NP], and urea) and five pod development stages (BBCH 72–81) on pod morphology, color parameters, antioxidant capacity, phenolic compounds, flavonoids, and protein content under field conditions. Nitrogen top-dressing significantly prolonged days to 50% flowering and pod setting times, with the latest flowering observed under urea treatment compared to basal fertilization. Pod length and width increased with advancing development stages, while pod water content declined from early stages to physiological maturity. Colorimetric analysis revealed a marked increase in lightness (L*), yellowness (b*) and chroma values with maturation, accompanied by a decrease in hue angle, indicating reduction in greenness and increase in yellowness. Antioxidant capacity exhibited a stage-dependent pattern, with lower values at intermediate stages and higher values at late development stages, particularly under urea treatment. Total phenolic, flavonoid and protein content increased significantly at the final development stage. Strong positive correlations were detected between antioxidant capacity, phenolic, flavonoid and protein content, whereas pod water content showed significant negative correlations with these quality traits. Overall, the results demonstrate that development stage plays a key role in determining pod quality, while nitrogen source influences the magnitude of these responses. Late harvest stages (BBCH 79–81), together with stable nitrogen sources such as SRF and AS, could be employed to improve nutritional and antioxidant properties of fresh bean pods.",
-        "url": "https://www.nature.com/articles/s41598-026-57239-1?error=cookies_not_supported&code=ae194924-a64f-423e-8423-51201770454c",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-06-07T08:54:11Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Singtel Group partners Digital Industry Singapore to accelerate AI transformation and boost industry innovation",
-        "description": "The Singtel Group today announced a strategic partnership with Digital Industry Singapore DISG to accelerate a multi-year AI transformation programme across its businesses and...",
-        "url": "https://itwire.com/it-industry-news/resellers/singtel-group-partners-digital-industry-singapore-to-accelerate-ai-transformation-and-boost-industry-innovation",
-        "image": "https://media.itwire.com/2026/06/07/singtel-group-partners-digital-industry-singapore-to-accelerate-ai-transformation-and-boost-industry-innovation-26431f30aeb3.jpg",
-        "publishedAt": "2026-06-07T09:34:29Z",
-        "source": "iTWire"
+        "title": "Trump shares AI video of himself riding camel and holding face pizza",
+        "description": "Donald Trump shared an AI-generated music video on Truth Social featuring himself being celebrated around the world set to the song “Trump,” created by New York congressional candidate Anthony Constantino, who he recently endorsed. The video shows Trump holding a pizza topped with his own face, dining with Mexican President Claudia Sheinbaum, parachuting through the sky, and riding a camel across a desert while dressed in a dark blue suit and red tie. Throughout the video, the song repeats the lyric: “Everywhere I go, they love Donald Donald Trump.” In a separate post, Trump shared an AI-generated image depicting the Obama Presidential Library deteriorating, surrounded by homeless encampments and topped with a large pile of garbage.",
+        "url": "https://www.independent.co.uk/tv/news/trump-video-ai-camel-face-pizza-b2991258.html",
+        "image": "https://cdn.jwplayer.com/v2/media/gB2G9qTf/poster.jpg?width=720",
+        "publishedAt": "2026-06-07T10:38:44Z",
+        "source": "The Independent"
       },
       {
-        "title": "Canadian billionaire Kevin O'Leary on AI taking jobs: 'Everybody's hysteria about losing jobs' is probably true, but …",
-        "description": "Tech News News: AI is increasingly being blamed for job cuts across industries, raising concerns about what work will remain for humans in the future. However, invest.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-on-ai-taking-jobs-everybodys-hysteria-about-losing-jobs-is-probably-true-but-/articleshow/131564539.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131564524,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-07T09:34:00Z",
-        "source": "Times of India"
+        "title": "Apple WWDC 2026 begins tomorrow, how to watch livestream and what to expect",
+        "description": "Apple is expected to use WWDC 2026 to unveil a redesigned Siri and broader AI features across its platforms. The keynote could show how the company plans to narrow the gap with rival AI assistants.",
+        "url": "https://www.indiatoday.in/technology/news/story/apple-wwdc-2026-begins-tomorrow-how-to-watch-livestream-and-what-to-expect-2923221-2026-06-07",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/apple-wwdc-2026-02411771-16x9.png?VersionId=84R33.I1hqXzuL2TyhhaylAeVYWYEzIw",
+        "publishedAt": "2026-06-07T10:38:02Z",
+        "source": "India Today"
       },
       {
-        "title": "'SC Rapidly Embracing Technology But Emphasis On Swadeshi Jurisprudence': CJI At Oxford Lecture",
-        "description": "The CJI said SC is presently engaged in the process of developing a regulatory framework for the use of AI within the judicial system., India News, Times Now",
-        "url": "https://www.timesnownews.com/india/sc-rapidly-embracing-technology-but-emphasis-on-swadeshi-jurisprudence-cji-at-oxford-lecture-article-154495349",
-        "image": "https://images.timesnownews.com/thumb/msid-154495349,width-1280,height-720,resizemode-75/154495349.jpg",
-        "publishedAt": "2026-06-07T09:30:05Z",
-        "source": "Times Now"
+        "title": "Hong Kong to open first convenience store operated by humanoid robot in AI push",
+        "description": "Store in Hung Hom will feature robot able to serve customers in different languages in latest example of city’s AI adoption, finance chief says.",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356255/hong-kong-open-first-convenience-store-operated-humanoid-robot-ai-push",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/07/0a54ce7e-131b-40ee-a027-d68765ab15bf_bceeec0b.jpg?itok=u9b2KfBV&v=1780828625",
+        "publishedAt": "2026-06-07T10:37:07Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Donald Trump Shares AI Video Chanting ‘Everybody Loves Trump’, Internet Reacts",
-        "description": "Donald Trump shares AI-generated music video praising himself, triggering widespread online reactions.",
-        "url": "https://in.mashable.com/tech/110598/donald-trump-shares-ai-video-chanting-everybody-loves-trump-internet-reacts",
-        "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2026-06-07t135753868_dq6s.jpg",
-        "publishedAt": "2026-06-07T09:29:07Z",
-        "source": "Mashable India"
+        "title": "Trump signs memo putting 'most advanced AI' into military hands and banning vendors from pulling the plug",
+        "description": "Trump's new security memo accelerates military AI adoption, orders an autonomous weapons directive update, and bars companies from disabling deployed models.",
+        "url": "https://thenextweb.com/news/trump-ai-military-memo-autonomous-weapons",
+        "image": "https://media.thenextweb.com/2026/06/trump-ai-military-memo-autonomous-weapons.avif",
+        "publishedAt": "2026-06-07T10:34:13Z",
+        "source": "TNW"
       },
       {
-        "title": "Trump posts bizarre video claiming 'Mexicans love him' and showing him parachuting",
-        "description": "Donald Trump has shared yet another AI video - this time, of him parachuting around the world as people sing of how they love Trump;",
-        "url": "https://metro.co.uk/2026/06/07/trump-posts-bizarre-video-claiming-mexicans-love-him-showing-parachuting-28680271/",
-        "image": "https://metro.co.uk/wp-content/uploads/2026/06/SEI_300456246-e419_1780824548.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-        "publishedAt": "2026-06-07T09:29:04Z",
-        "source": "Metro.co.uk"
+        "title": "AI becomes top cause of US job cuts in 2026 as layoffs surge: Report",
+        "description": "AI becomes top cause of US job cuts in 2026 as layoffs surge: Report - New Delhi, June 7 Artificial intelligence has emerged as the leading reason behind job cuts in the United ... Get Latest News on Technology only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/technology/ai-becomes-top-cause-of-us-job-cuts-in-2026-as-layoffs-surge-report-1/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816958_202606.jpg",
+        "publishedAt": "2026-06-07T10:33:47Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "Cyber crime police issue warning over surge in deepfake and voice‑cloning scams",
-        "description": "'Criminals are now using AI technology to clone voices and create realistic fake videos of people you trust'",
-        "url": "https://www.dailypost.co.uk/news/north-wales-news/cyber-crime-police-issue-warning-34079559",
-        "image": "https://i2-prod.dailypost.co.uk/article34067879.ece/ALTERNATES/s1200d/0_Cyber-attack-report.jpg",
-        "publishedAt": "2026-06-07T09:28:31Z",
-        "source": "Daily Post"
+        "title": "AI becomes top cause of US job cuts in 2026 as layoffs surge: Report",
+        "description": "AI becomes top cause of US job cuts in 2026 as layoffs surge: Report - New Delhi, June 7 Artificial intelligence has emerged as the leading reason behind job cuts in the United ... Get Latest News on Business only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/business/ai-becomes-top-cause-of-us-job-cuts-in-2026-as-layoffs-surge-report/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606073816958_202606.jpg",
+        "publishedAt": "2026-06-07T10:33:47Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "Kundi urges greater use of AI to transform healthcare, medical education",
-        "description": "Peshawar  -  Governor Khyber Pakhtunkhwa Faisal Karim Kundi on Saturday underscored the transformative potential of Artificial Intelligence (AI) in healthcare",
-        "url": "https://www.nation.com.pk/07-Jun-2026/kundi-urges-greater-use-ai-transform-healthcare-medical-education",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "publishedAt": "2026-06-07T09:27:00Z",
-        "source": "The Nation"
+        "title": "Bitcoin’s Shine Fades As Investors Turn To Other Market Opportunities",
+        "description": "Bitcoin has fallen sharply in 2026 so far as investors rotate capital into AI-driven equities and upcoming high-profile listings",
+        "url": "https://www.outlookmoney.com/invest/bitcoins-shine-fades-as-investors-turn-to-other-market-opportunities",
+        "image": "https://media.assettype.com/outlookmoney/2026-02-06/mhzbg5nz/Bitcoin.png?w=1200",
+        "publishedAt": "2026-06-07T10:32:20Z",
+        "source": "Outlook Money"
       },
       {
-        "title": "Pope Leo XIV’s AI beacon in the machine age",
-        "description": "The Pope argued that industrial workers were not mere commodities for profit and the working class should be protected.",
-        "url": "https://www.livemint.com/opinion/pope-leo-xiv-ai-warning-humanity-vs-artificial-intelligence-11780804449758.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/07/1600x900/logo/POPE-SPAIN-VIGIL-34_1780813059829_1780813083491_ef7fdcde-91b5-4560-a556-b420c1aff111.JPG",
-        "publishedAt": "2026-06-07T09:26:33Z",
-        "source": "Livemint"
+        "title": "ChatGPT Is No Longer OpenAI's Endgame. This Is Why.",
+        "description": "ChatGPT may no longer be OpenAI's most important product as the company chases stickier, higher-margin businesses.",
+        "url": "https://www.businessinsider.com/openai-merging-codex-into-chatgpt-lock-in-code-2026-6",
+        "image": "https://i.insider.com/6a230a77b4fb977f35984e8d?width=1200&format=jpeg",
+        "publishedAt": "2026-06-07T10:32:17Z",
+        "source": "Business Insider"
       }
     ]
   }
