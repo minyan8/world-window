@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-08T08:06:53.197Z",
+  "fetchedAt": "2026-06-08T09:53:52.843Z",
   "sections": {
     "world": [
       {
-        "title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
-        "description": "The attack comes after Hezbollah struck Israel's military with fighter drones, according to Prime Minister Benjamin Netanyahu's office.",
-        "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2700x1519+0+141/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2Fd4%2Ff5e2b24142a8b8319cc693507ff7%2Fgettyimages-2279499016.jpg",
-        "publishedAt": "2026-06-07T20:06:33Z",
-        "source": "NPR"
+        "title": "Iran admits extraordinary new detail in Khamenei strike, Trump offered 'way out': expert",
+        "description": "Iran's foreign minister reveals new details about the strike that killed Supreme Leader Khamenei, confirming U.S.-Israeli precision targeting.",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-admits-extraordinary-detail-khamenei-215111543.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAJ44HSKl6KUUZjZxGmxbLwNfVhBkGVl5MNpZuVmpgTJXmDv7m5_XmrxvB0cdIXE-A_cXd50IM92W6KSXGTtspJ6prN8-tb0mc7zamxWR8eGdUZcGgO3J9ctSn0NJ6lWKBTzsYLlnE4ddkn58iH17CmPv_wFSrKj5THRe0u2WOP0R&_guc_consent_skip=1780905177",
+        "image": "https://s.yimg.com/ny/api/res/1.2/zeE8Civ0Fvg0k2FKcks35A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/fox_news_text_979/6772d897ba4af356850639144dc6609e",
+        "publishedAt": "2026-06-07T21:51:11Z",
+        "source": "Yahoo"
       },
       {
-        "title": "Trump: US 'very close' to deal with Iran, but demanding stricter nuclear terms",
-        "description": "US president says he won't let up on Islamic Republic for even a 1% chance they'd obtain a nuclear weapon, as Washington seeks IAEA resolution demanding information on uranium",
-        "url": "https://www.timesofisrael.com/trump-us-very-close-to-deal-with-iran-but-demanding-stricter-nuclear-terms/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/225020.jpg",
-        "publishedAt": "2026-06-07T20:05:50Z",
-        "source": "The Times of Israel"
+        "title": "Ukraine's Zelenskiy says Russian magnate Abramovich came to Kyiv with offer of help",
+        "description": "June 7 (Reuters) - Ukraine's President Volodymyr Zelenskiy on Sunday said Russian magnate Roman Abramovich had met him in Kyiv and offered to take a message to the Kremlin on peace prospects, but the",
+        "url": "https://www.yahoo.com/news/world/articles/ukraines-zelenskiy-says-russian-magnate-215042724.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/69532dfea67ab41c6a23c989682b15def6b0eec0030e95a563b31ed3471563a7/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F569c28fa7911022f059a92cbff1538f1",
+        "publishedAt": "2026-06-07T21:50:42Z",
+        "source": "Yahoo"
       },
       {
-        "title": "Egypt’s economy grows 5.2% in first 9 months",
-        "description": "RIYADH: Egypt’s economy grew 5.2 percent ‌in ‌the period between ‌July and March of the financial year ‌2025-26, according ‌to the ‌Planning Ministry. The ‌financial year ‌in Egypt ends June 30. Egypt’s struggling economy has been boosted in recent years by major real estate investments and an $8 ‌billion IMF loan, though the Iran war is piling pressure on its precarious",
-        "url": "https://www.arabnews.pk/node/2646315/business-economy",
-        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/06/07/4719566-770350963.jpg?itok=TTsJ4bUv",
-        "publishedAt": "2026-06-07T20:03:11Z",
-        "source": "Arab News PK"
+        "title": "Major Madeleine McCann update as cops handed bombshell files",
+        "description": "The disappearance remains one of the world's most high-profile unsolved missing-person cases.",
+        "url": "https://www.express.co.uk/news/uk/2214515/major-madeleine-mccann-update-cops",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6966095.jpg",
+        "publishedAt": "2026-06-07T21:50:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Russia strikes Chernobyl nuclear plant as Zelensky meets European leaders",
-        "description": "A drone blasted a fuel storage facility at the decommissioned nuclear power plant in Ukraine on the eve of talks in London about the need for stronger air defence.",
-        "url": "https://www.theage.com.au/world/europe/extremely-vile-russia-strikes-chernobyl-nuclear-plant-as-zelensky-meets-european-leaders-20260608-p604oc.html",
-        "image": "https://static.ffx.io/images/$zoom_0.7764%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_322%2C$y_189/t_crop_custom/q_86%2Cf_auto/7d9d10c3ce63fb64d903b127d8d7ebd352158df6",
-        "publishedAt": "2026-06-07T20:02:31Z",
-        "source": "The Age"
+        "title": "South Africa's president unveils crackdown on illegal migration",
+        "description": "He made the announcements in a national address as tensions rise over anti-foreigner marches.",
+        "url": "https://ca.news.yahoo.com/south-africas-president-unveils-crackdown-214409189.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/2c85a1c4262f034498f28ca01bfaff3da44b3f8ead9e9e9baf1ce5a6d4a78f13/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1912ab917bb477753f8cf75da4b7be62",
+        "publishedAt": "2026-06-07T21:44:09Z",
+        "source": "Yahoo News Canada"
       },
       {
-        "title": "Russia strikes Chernobyl nuclear plant as Zelensky meets European leaders",
-        "description": "A drone blasted a fuel storage facility at the decommissioned nuclear power plant in Ukraine on the eve of talks in London about the need for stronger air defence.",
-        "url": "https://www.smh.com.au/world/europe/extremely-vile-russia-strikes-chernobyl-nuclear-plant-as-zelensky-meets-european-leaders-20260608-p604oc.html",
-        "image": "https://static.ffx.io/images/$zoom_0.7764%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_322%2C$y_189/t_crop_custom/q_86%2Cf_auto/7d9d10c3ce63fb64d903b127d8d7ebd352158df6",
-        "publishedAt": "2026-06-07T20:02:31Z",
-        "source": "SMH.com.au"
+        "title": "Antisemitic content disguised as 'gym humor' on social media",
+        "description": "The “Promised 3,000 Years Ago” trend involves the antisemitic assertion that Jews falsely claim property belonging to others as their own, and in this specific case, gym equipment.",
+        "url": "https://www.jpost.com/diaspora/antisemitism/article-898643",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719910",
+        "publishedAt": "2026-06-07T21:41:23Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Vietnam is back buying South African maize in a big way",
-        "description": "It remains encouraging to see Vietnam buying so much of South Africa’s maize in the new 2026-27 year.",
-        "url": "https://wandile.substack.com/p/vietnam-is-back-buying-south-african",
-        "image": "https://substackcdn.com/image/fetch/$s_!0i5H!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F283cd1c0-1192-4b74-a5c5-8d8e809ce085_750x520.jpeg",
-        "publishedAt": "2026-06-07T19:58:15Z",
-        "source": "Wandile Sihlobo | Substack"
+        "title": "New book claims there were opportunities to detect terrorist ahead of March 15 attacks",
+        "description": "A new book out today says warning signs were missed ahead of the March 15 terror attacks.",
+        "url": "https://www.rnz.co.nz/news/crime-and-justice/597535/new-book-claims-there-were-opportunities-to-detect-terrorist-ahead-of-march-15-attacks",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--JE1lqFkb--/t_tohu-badge-facebook/v1780601588/4JNISCT_He_told_us_jpg?_a=BACCd2AD",
+        "publishedAt": "2026-06-07T21:34:52Z",
+        "source": "RNZ"
       },
       {
-        "title": "Trump storms out of TV interview over election claims",
-        "description": "Donald Trump abruptly ended a TV interview after clashing with the moderator over his election rigging claims, January 6 cases, and government \"weaponisati",
-        "url": "https://punchng.com/trump-storms-out-of-tv-interview-after-clash-over-election-rigging-claims/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/07204813/IMG_3762-1200x630.webp",
-        "publishedAt": "2026-06-07T19:57:32Z",
-        "source": "Punch Newspapers"
+        "title": "Want UK papers, not mediation, on border issue, clarifies Nepal",
+        "description": "South Asia News: NEW DELHI: Nepal has ruled out third-party mediation in the border dispute with India, saying the issue will be resolved through existing diplomatic m.",
+        "url": "https://timesofindia.indiatimes.com/world/south-asia/want-uk-papers-not-mediation-on-border-issue-clarifies-nepal/articleshow/131573856.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131573860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-07T21:33:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Andrew Hastie labels Pauline Hanson “MAGA first” over Donald Trump support",
-        "description": "Coalition strategists believe that linking the rising populist leader to the US president is one of the best ways to diminish her standing among voters.",
-        "url": "https://www.smh.com.au/politics/federal/andrew-hastie-slams-hanson-s-maga-first-mindset-as-one-nation-leader-backs-trump-20260605-p604eh.html",
-        "image": "https://static.ffx.io/images/$zoom_0.5883%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/340667a64153a5202de2decaec50aa4dd47864a150d748ef40cc64598d12bce5",
-        "publishedAt": "2026-06-07T19:56:00Z",
-        "source": "SMH.com.au"
+        "title": "Kennedy Center staff start removing all references to Donald Trump",
+        "description": "Staff at the Kennedy Center in Washington D.C. have started to remove all references to Donald Trump.",
+        "url": "https://www.nme.com/news/music/kennedy-center-staff-start-removing-all-references-to-donald-trump-3949560",
+        "image": "https://www.nme.com/wp-content/uploads/2026/06/trump_kennedy_center.jpg",
+        "publishedAt": "2026-06-07T21:30:37Z",
+        "source": "NME"
       }
     ],
     "business": [
       {
-        "title": "Canadian Employers Invited to Create 10,000 New Opportunities Through National Inclusive Hiring Campaign",
-        "description": "Enabled Talent Canada Launches 'One Company. One Talent.”",
-        "url": "https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/canadian-employers-invited-to-create-10000-new-opportunities-through-national-inclusive-hiring-campaign/2360294",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/08/1088924.jpg",
-        "publishedAt": "2026-06-07T20:05:24Z",
-        "source": "The Manila Times"
+        "title": "Kia's hit PV5 electric van just got a 3-row upgrade with room for 7",
+        "description": "\"It's modular so you can set it up the way you like.\"",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/kias-hit-pv5-electric-van-215000395.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/e8b7026b3d8bb9c96c5dc32ecfb13278311b8cd38e5ac0e58fd1e284eb115048/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6ad7f896dc29165bcd9e7fe5f22cf9e3",
+        "publishedAt": "2026-06-07T21:50:00Z",
+        "source": "Yahoo Autos"
       },
       {
-        "title": "NZ company results solid but fog of Iran war affects earnings outlooks",
-        "description": "The May reporting season showed reasonable growth in New Zealand corporate earnings, but many companies tempered their outlooks because of the Iran War....",
-        "url": "https://www.nzherald.co.nz/business/markets/shares/nz-company-results-solid-but-fog-of-iran-war-affects-earnings-outlooks/premium/KKEZRKIA2BBJBPOMX3NBFIIY4I/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/R3SDHRATNBBFFFHIBRY6DZMQH4.jpg?auth=87c40e1d52f5fc22f0b27fcf422e0391c13fa099d44c1038de130253a271f6a7&width=1200&height=675&quality=70&focal=5063%2C1646&smart=false",
-        "publishedAt": "2026-06-07T20:02:34Z",
-        "source": "NZ Herald"
+        "title": "Nvidia’s CEO says new Vera chip will use SK Hynix’s memory chips",
+        "description": "“We had a very big year this year with SK Hynix, and we are preparing for a very, very large second half of the year and next year.”",
+        "url": "https://fortune.com/2026/06/07/nvidia-ceo-jensen-huang-vera-chip-sk-hynix-memory-processor-korea-stocks/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2279361705-e1780868105630.jpg?resize=1200,600",
+        "publishedAt": "2026-06-07T21:38:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "Will OPEC's Sunday meeting bring good news for fuel prices?",
-        "description": "OPEC+ ministers are set to meet amid soaring oil prices driven by geopolitical tensions. Will their decisions affect fuel prices for consumers worldwide?",
-        "url": "https://iol.co.za/business/economy/2026-06-07-will-opecs-sunday-meeting-bring-good-news-for-fuel-prices/",
-        "image": "https://iol-prod.appspot.com/image/7d8b8eb30635e2541a52377138bad328d4c05d81/1000/jpeg",
-        "publishedAt": "2026-06-07T20:01:39Z",
-        "source": "IOL"
+        "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
+        "description": "Investors interested in buying this newly minted stock at its IPO have much to consider.",
+        "url": "https://www.fool.com/investing/2026/06/07/reasons-to-buy-spacex-stock-ipo-reason-wait/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872956%2Fthinking-investor-using-a-laptop-computer.jpg&w=1200&op=resize",
+        "publishedAt": "2026-06-07T21:37:03Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Less for more: shrinkflation is coming for health insurance",
-        "description": "It’s bad news for anyone who allows their plan to renew automatically each year, according to one market analyst.",
-        "url": "https://www.thejournal.ie/health-insurance-ireland-benefits-coverage-price-shrinkflation-7060604-Jun2026/",
-        "image": "https://img2.thejournal.ie/article/7060604/river/?height=400&version=7061536",
-        "publishedAt": "2026-06-07T20:01:00Z",
-        "source": "The Journal"
+        "title": "'Bariatric Surgery-Level' Weight Loss With Novel Triple-Agonist",
+        "description": "Primary endpoints met in knee osteoarthritis and obstructive sleep apnea, too",
+        "url": "https://www.medpagetoday.com/meetingcoverage/ada/121638",
+        "image": "https://assets.medpagetoday.net/media/images/121xxx/121638.jpg",
+        "publishedAt": "2026-06-07T21:36:27Z",
+        "source": "MedPage Today"
       },
       {
-        "title": "Stocks Face Rising Risk With Mega AI Deals Ready to Flood Market",
-        "description": "A flood of new shares from companies looking to fund their artificial intelligence ambitions is raising questions on Wall Street about whether there will be enough buyers to soak them all up and what this pile of fresh equity will mean for stock prices more broadly.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_MAcvTmEB.s/v1/1200x800.jpg",
-        "publishedAt": "2026-06-07T20:00:07Z",
-        "source": "Bloomberg.com"
+        "title": "Aurigny plane to Manchester makes emergency landing in Southampton after windscreen cracks",
+        "description": "The Aurigny flight from Guernsey to Manchester was diverted to Southampton Airport following the incident, with the airline stating safety is its priority. | ITV News Channel",
+        "url": "https://www.itv.com/news/channel/2026-06-07/passenger-plane-makes-emergency-landing-after-windscreen-cracks",
+        "image": "https://images.ctfassets.net/pjshm78m9jt4/2UvoPULP37DCcOGFSpv9n3/eecf74df9bd03db7e47890f48073aff1/B-AURIGNY_RANT_GSY_ULAY.Consolidated.01.transfer.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
+        "publishedAt": "2026-06-07T21:32:57Z",
+        "source": "ITVX"
       },
       {
-        "title": "WWE Shareholder Trial Cancelled",
-        "description": "Vince McMahon and other WWE executives no longer have to take the stand.",
-        "url": "https://www.wrestlinginc.com/2189074/wwe-shareholder-trial-cancelled/",
-        "image": "https://www.wrestlinginc.com/img/gallery/wwe-shareholder-trial-cancelled/l-intro-1780862021.jpg",
-        "publishedAt": "2026-06-07T19:55:00Z",
-        "source": "wrestlinginc.com"
+        "title": "China’s LNG strategy signals new era in global gas trade",
+        "description": "China is moving away from its role as a steady liquefied natural gas (LNG) demand sink and is instead becoming a market balancer.",
+        "url": "https://asian-power.com/power-utility/in-focus/chinas-lng-strategy-signals-new-era-in-global-gas-trade",
+        "image": "https://www.cmgassets.com/s3fs-public/styles/opengraph/public/2026-06/sou-jest-q4suh4oqfyo-unsplash.jpg?h=9ff89921&itok=zsV53ELn",
+        "publishedAt": "2026-06-07T21:30:00Z",
+        "source": "Asian Power"
       },
       {
-        "title": "UBA wins 2026 Banker Technology Award for AI innovation, launches upgraded mobile app",
-        "description": "UBA’s recognition centres on integrating Leo, its AI-powered chatbot, with the Pan-African Payment and Settlement System (PAPSS).",
-        "url": "https://theeagleonline.com.ng/uba-wins-2026-banker-technology-award-for-ai-innovation-launches-upgraded-mobile-app/",
-        "image": "https://theeagleonline.com.ng/wp-content/uploads/2026/06/IMG-20260607-WA0049.jpg",
-        "publishedAt": "2026-06-07T19:52:07Z",
-        "source": "theeagleonline.com.ng"
+        "title": "Novo Nordisk's CagriSema 2.4 mg / 2.4 mg demonstrated significant reduction in HbA1c and weight across multiple studies in the REIMAGINE program presented at ADA 2026",
+        "description": "CagriSema, a once-weekly investigational treatment that combines a novel amylin analog with a GLP-1 receptor agonist (RA), achieved significant reductions in...",
+        "url": "https://www.prnewswire.com/news-releases/novo-nordisks-cagrisema-2-4-mg--2-4-mg-demonstrated-significant-reduction-in-hba1c-and-weight-across-multiple-studies-in-the-reimagine-program-presented-at-ada-2026--302793443.html",
+        "image": "https://mmx.prnewswire.com/media/MS428726/NY80976LOGO.jpg?id=OA2689847&p=facebook",
+        "publishedAt": "2026-06-07T21:30:00Z",
+        "source": "PR Newswire"
       },
       {
-        "title": "Wall Street Brunch: SpaceX IPO, WWDC And CPI",
-        "description": "SpaceX begins trading on the Nasdaq on Friday. Is valuation too much? May CPI expected to show renewed pressures. Oracle earnings spotlight AI cloud growth.",
-        "url": "https://seekingalpha.com/article/4912706-wall-street-brunch-spacex-ipo-wwdc-and-cpi",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2181539697/image_2181539697.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-06-07T19:51:17Z",
-        "source": "Seeking Alpha"
+        "title": "Once-Weekly CagriSema (Amylin-Semaglutide) Combination Injection More Effective than Standalone Medications",
+        "description": "/PRNewswire/ -- New international study findings demonstrated positive results of the first injectable glucagon-like peptide-1 receptor agonist (GLP-1 RA) and...",
+        "url": "https://www.prnewswire.com/news-releases/once-weekly-cagrisema-amylin-semaglutide-combination-injection-more-effective-than-standalone-medications-302793308.html",
+        "image": "https://mmx.prnewswire.com/media/MS1849609/AMERICAN_DIABETES_ASSOCIATION_SciSessions_2026logo.jpg?id=OA2689952&p=facebook",
+        "publishedAt": "2026-06-07T21:30:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "Could the Milky Way's missing mass be hiding in a swarm of interstellar comets?",
+        "description": "3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as well as our own. However, this third interstellar visitor may have an unexpected impact on our understanding of dark matter. A new paper, available on the arXiv preprint server from researchers at the University of Hamburg, attempts to calculate the impact that the presence of large amounts of interstellar objects, or ISOs, would have on our calculation of dark matter in our galaxy.",
+        "url": "https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/could-the-milky-ways-m.jpg",
+        "publishedAt": "2026-06-07T21:00:04Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Potentially Hazardous Asteroid (152637) 1997 NC1 close encounter: a new image",
+        "description": "A image of Potentially Hazardous Asteroid (152637) 1997 NC1 taken on 7 June 2026 by Gianluca Masi,, Virtual Telescope Project.",
+        "url": "https://www.virtualtelescope.eu/2026/06/07/potentially-hazardous-asteroid-152637-1997-nc1-close-encounter-a-new-image-7-june-2026/",
+        "image": "https://www.virtualtelescope.eu/wordpress/wp-content/uploads/2026/06/1997NC1_7june2026_masi_pw17.jpg",
+        "publishedAt": "2026-06-07T20:33:32Z",
+        "source": "The Virtual Telescope Project 2.0"
+      },
+      {
+        "title": "Venus and Jupiter to make 'double planet' visible in Irish skies",
+        "description": "'It will be an incredible sight to the naked eye, the highlight of the year, and indeed for many years.'",
+        "url": "https://www.roscommonherald.ie/venus-and-jupiter-to-make-double-planet-visible-in-irish-skies_arid-100826.html",
+        "image": "https://www.roscommonherald.ie/cms_media/module_img/7706/3853062_1_articledetail_gettyimages-1227714984-e1780863693473.jpg",
+        "publishedAt": "2026-06-07T20:23:00Z",
+        "source": "roscommonherald.ie"
+      },
+      {
+        "title": "How gene swapping helped build the planet's decomposers",
+        "description": "Decomposers are crucial for keeping Earth habitable, breaking down dead biomass and returning key nutrients, such as carbon, nitrogen and phosphorus, to the ecosystem. Most decomposers, including fungi, survive through osmotrophy—a means of feeding by absorbing dissolved nutrients rather than engulfing prey. But how this method of feeding repeatedly arose across the eukaryotic tree of life remains unclear.",
+        "url": "https://phys.org/news/2026-06-gene-swapping-planet-decomposers.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/wood-fungus.jpg",
+        "publishedAt": "2026-06-07T20:20:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Study reveals hidden role of permafrost in ancient climate change",
+        "description": "New research suggests thawing permafrost caused nearly half of Earth’s post-Ice Age carbon dioxide increase.",
+        "url": "https://www.thebrighterside.news/post/study-reveals-hidden-role-of-permafrost-in-ancient-climate-change/",
+        "image": "https://www.thebrighterside.news/uploads/2026/06/pe-1-scaled.jpg?auto=webp&width=2000&height=1334",
+        "publishedAt": "2026-06-07T20:07:00Z",
+        "source": "The Brighter Side of News"
+      },
       {
         "title": "Meteor Activity Outlook for 6-12 June 2026",
         "description": "As seen from the Northern Hemisphere, June is another slow month for meteor activity. There are no major showers active in June and only the Anthelion source can be counted on for continuous activity. Sporadic rates continue to remain low as seen from the mid-northern hemisphere (45 N) with only hal",
@@ -158,112 +198,72 @@
         "image": "https://scx2.b-cdn.net/gfx/news/2026/x-ray-telescopes-on-a.jpg",
         "publishedAt": "2026-06-07T19:48:23Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "Continuous stirring made early life-like RNA systems more extinction-prone, experiment shows",
-        "description": "Recent research showed that an artificially constructed self-replicating RNA system modeling primitive life at the origin of life evolved to become more prone to extinction under certain experimental conditions.",
-        "url": "https://phys.org/news/2026-06-early-life-rna-extinction-prone.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/evolution-toward-extin.jpg",
-        "publishedAt": "2026-06-07T19:40:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Dynamic terahertz wavefront control using stretchable single-walled carbon nanotube-based metasurfaces",
-        "description": "The terahertz (THz) frequency regime, sitting between microwaves and infrared light, has long promised revolutionary advances in wireless communication, security imaging and nondestructive sensing. A key roadblock, however, has been the lack of compact, dynamically tunable components capable of manipulating THz beams on demand.",
-        "url": "https://phys.org/news/2026-06-dynamic-terahertz-wavefront-stretchable-walled.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/dynamic-terahertz-wave.jpg",
-        "publishedAt": "2026-06-07T19:40:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Some Australian Aboriginal stories may remember coastlines that vanished beneath the sea over 10,000 years ago. Researchers think they could be among humanity’s oldest surviving true stories.",
-        "description": "Around almost the entire Australian coast, Aboriginal communities have told stories of a time when the sea came inland and swallowed country that people had walked on, hunted across and named. Two researchers have argued that some of these stories may be accurate memories of real events, the drowning of the old coastline as the […]",
-        "url": "https://spacedaily.com/t-some-australian-aboriginal-stories-may-remember-coastlines-that-vanished-beneath-the-sea-over-10000-years-ago-researchers-think-they-could-be-among-humanitys-oldest-surviving-true-stories/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-07T213029.308.png",
-        "publishedAt": "2026-06-07T19:33:30Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "NASA Orders Emergency Drill as Air Leaks Force ISS Standoff",
-        "description": "National Aeronautics and Space Administration Orders Emergency Safe Haven Drill as Persistent Air Leaks Force a Tense ISS Standoff",
-        "url": "https://www.themarysue.com/nasa-orders-emergency-safe-haven-drill-as-persistent-air-leaks-force-a-tense-iss-standoff/",
-        "image": "https://www.themarysue.com/wp-content/uploads/2026/06/The-International-Space-Station-is-featured-in-this-image-photographed-by-an-STS-132-crew-member-on-board-the-Space-Shuttle-Atlantis-after-the-station-and-shuttle-began-their-post-undocking-relative-separation.jpg",
-        "publishedAt": "2026-06-07T19:21:00Z",
-        "source": "The Mary Sue"
-      },
-      {
-        "title": "Scientists Are Using 3D Printing To Try And Bring Back Extinct Animals",
-        "description": "Researchers are using an innovative 3D-printing technique that could revolutionize the quest to resurrect extinct animals from the near and far past.",
-        "url": "https://tech.yahoo.com/science/articles/scientists-using-3d-printing-try-191700442.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/b177b92cfd6cf8272f84e7bc0644a10dda4675ccabc82815fe0fe30393e716d3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbgr_ecomm_183%2Fa22511289dd10c7439734204213d2b56",
-        "publishedAt": "2026-06-07T19:17:00Z",
-        "source": "Yahoo Tech"
       }
     ],
     "ai": [
       {
-        "title": "Opinion: Bill Walton, AI films debut at Cannes, here's the case for the human stage",
-        "description": "Stratford’s reputation for staging was on full display this trip, from period costuming that snaps Wilde into focus to scene changes that drew applause on their own. Then came Beckett’s stark reversal: one tree on a sandy waste — almost nothing — and yet it was enough",
-        "url": "https://www.baytoday.ca/columns/perspectives/opinion-bill-walton-ai-films-debut-at-cannes-heres-the-case-for-the-human-stage-12352222",
-        "image": "https://www.vmcdn.ca/f/files/baytoday/images/editorials/20260601-godot-walton.jpg;w=800;h=1200;mode=crop",
-        "publishedAt": "2026-06-07T20:00:00Z",
-        "source": "BayToday"
+        "title": "Tony Awards 2026: “Schmigadoon!” wins best musical in a season saved by revivals",
+        "description": "It was a strange year on Broadway, but then it’s been strange everywhere. Our world at times seems downright unrecognizable, with politicians acting like mob bosses, AI transforming not just the internet but potentially the entire economy, the cost of living leaving only the super rich able to keep up, and I won’t even mention the climate crisis, but the forecast calls for more doom and gloom.",
+        "url": "https://www.spokesman.com/stories/2026/jun/07/tony-awards-2026-schmigadoon-wins-best-musical-in-/",
+        "image": "https://thumb.spokesman.com/P9SIoTB7ONp2hOndEpf8l1gHEZo=/1200x630/smart/media.spokesman.com/photos/2026/06/07/6a26421a9977d.hires.jpg",
+        "publishedAt": "2026-06-07T21:13:00Z",
+        "source": "Spokane Spokesman-Review"
       },
       {
-        "title": "Wall Street Brunch: SpaceX IPO, WWDC And CPI",
-        "description": "SpaceX begins trading on the Nasdaq on Friday. Is valuation too much? May CPI expected to show renewed pressures. Oracle earnings spotlight AI cloud growth.",
-        "url": "https://seekingalpha.com/article/4912706-wall-street-brunch-spacex-ipo-wwdc-and-cpi",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2181539697/image_2181539697.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-06-07T19:51:17Z",
-        "source": "Seeking Alpha"
+        "title": "More retrenched PMEs seek union help; NTUC flags concerns about offshoring and AI job cuts",
+        "description": "NTUC has also seen more retrenchments due to business restructuring recently, said assistant sec-gen Patrick Tay. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/more-retrenched-pmes-seek-union-help-ntuc-flags-concerns-about-offshoring-and-ai-job-cuts",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/16a2716ae949aae71797095a7ed12a215fe772dccdfc6fd46b14d5a7a73a243a",
+        "publishedAt": "2026-06-07T21:00:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "White House AI adviser Sriram Krishnan quits",
-        "description": "Sriram Krishnan, an Indian-origin AI policy adviser, is departing the White House after an 18-month tenure. He announced his exit on X, stating he will focus on addressing major AI challenges facing America. Krishnan described his time as a privilege, working at the core of US government AI policy development.",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-ai-adviser-sriram-krishnan-quits/articleshow/131573663.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28536,resizemode-75,msid-131573663/tech/artificial-intelligence/white-house-ai-adviser-sriram-krishnan-quits.jpg",
-        "publishedAt": "2026-06-07T19:37:25Z",
+        "title": "Over 60% of Japanese firms with more than 1,000 workers use generative AI",
+        "description": "More than 60 percent of Japanese firms with over 1,000 employees use generative artificial intelligence, a survey has found, with overall adoption at 34.5 percent and many companies reporting efficiency gains while citing accuracy concerns. The survey conducted by a private research firm in March, which received valid responses from…",
+        "url": "https://japantoday.com/category/tech/over-60-of-japanese-firms-with-more-than-1-000-workers-use-generative-ai",
+        "image": "https://japantoday.com/images/japan-today-social.jpg",
+        "publishedAt": "2026-06-07T20:50:00Z",
+        "source": "Japan Today"
+      },
+      {
+        "title": "As cos fast-track AI adoption, data & infra readiness come under spotlight",
+        "description": "Indian companies are rapidly adopting artificial intelligence. While some have fully integrated AI, many are still in pilot phases. Challenges like data management and infrastructure modernization hinder widespread adoption. Organizations are prioritising data quality and governance for successful AI deployment. Scaling AI reliably remains a key focus for businesses.",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/as-cos-fast-track-ai-adoption-data-infra-readiness-come-under-spotlight/articleshow/131573799.cms",
+        "image": "https://img.etimg.com/thumb/msid-131573799,width-1200,height-630,imgsize-118250,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-07T20:48:00Z",
         "source": "The Economic Times"
       },
       {
-        "title": "Fast Takes: John Bolton’s real ‘crime,’ AI’s dark take on US history and more",
-        "description": "“President Trump may hate being the target of lawfare, but he sure knows how to wield it against anyone who crosses him,” snipe The Wall Street Journal’s editors.",
-        "url": "https://nypost.com/2026/06/07/opinion/fast-takes-john-boltons-real-crime-ais-dark-take-on-us-history-and-more/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/former-national-security-advisor-john-127545023-e1780860057170.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-06-07T19:33:53Z",
-        "source": "New York Post"
+        "title": "AURORA earn sixth shutout victory",
+        "description": "Ai Kitagawa scored seventh goal of season as Minnesota remains undefeated.",
+        "url": "https://www.twincities.com/2026/06/07/aurora-earn-sixth-shutout-victory/",
+        "image": "https://www.twincities.com/wp-content/uploads/2015/10/wpid-20130930__131001_soccerball_generic_skybox.jpg?w=505&h=295",
+        "publishedAt": "2026-06-07T20:29:11Z",
+        "source": "St. Paul Pioneer Press"
       },
       {
-        "title": "'Strategic distraction?' Trump ramps up AI memes ahead of midterms",
-        "description": "From handcuffed extra-terrestrials to an orbital missile command center -- US President Donald Trump is unleashing a relentless stream of AI-generated",
-        "url": "https://www.breitbart.com/news/strategic-distraction-trump-ramps-up-ai-memes-ahead-of-midterms/",
-        "image": "https://media.breitbart.com/media/2026/01/wi/afp/deploying-ai-political-messaging-appeal-us-voters-deploying-ai-political-messaging-appeal-640x335.jpg",
-        "publishedAt": "2026-06-07T19:33:05Z",
-        "source": "Breitbart News Network"
+        "title": "Is this the dawn of the Tokenpocalypse?",
+        "description": "We're likely to see more price increases as the big AI companies plan to go public.",
+        "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800",
+        "publishedAt": "2026-06-07T20:26:13Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Why Most Companies Don't Want AI Talking to Their Clients",
-        "description": "AI can handle operational work, but most companies, mainly professional services, draw a sharp line at client communication. Here's why.",
-        "url": "https://www.entrepreneur.com/business-news/tech/companies-dont-want-ai-for-client-emails-heres-why",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/06/ai-talking-with-clients-0626_g2270785027.jpg?resize=1024,683",
-        "publishedAt": "2026-06-07T19:30:00Z",
-        "source": "Entrepreneur"
+        "title": "CLARITY Act Odds Decline As Senate Banking Committee's Focus Shifts To AI",
+        "description": "CLARITY Act prediction odds decline on Kalshi and Polymarket as Senate Banking Committee shifts focus toward AI policy hearings.",
+        "url": "https://coingape.com/clarity-act-odds-decline-as-senate-banking-committee-focus-shifts-to-ai/",
+        "image": "https://coingape.com/wp-content/uploads/2026/05/CLARITY-Act-Advances-as-Senate.webp",
+        "publishedAt": "2026-06-07T20:21:29Z",
+        "source": "CoinGape"
       },
       {
-        "title": "The CFO’s search for AI value",
-        "description": "According to the EY 2025 C-suite GenAI Survey, only 8% of organizations can fully measure and allocate AI-related costs.",
-        "url": "https://www.financialexpress.com/life/technology/the-cfos-search-for-ai-value/4261680/",
-        "image": "https://images.financialexpressdigital.com/2026/06/Uma_Ganesh_new-1_20251221174248_20260607191838.jpg",
-        "publishedAt": "2026-06-07T19:22:23Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "AI-designed universal vaccine clears first human trial, targets future coronavirus threats with needle-free delivery",
-        "description": "The first human clinical trial of a universal Sarbeco coronavirus vaccine, developed by the University of Cambridge and spin-out DIOSynVax (DVX) Ltd, has shown that the vaccine is safe and has no significant side effects.",
-        "url": "https://medicalxpress.com/news/2026-06-ai-universal-vaccine-human-trial.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-universal-vaccine.jpg",
-        "publishedAt": "2026-06-07T19:20:01Z",
-        "source": "Medical Xpress"
+        "title": "Former Musk Adviser Sriram Krishnan Leaving White House AI Role",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/political/former-musk-adviser-sriram-krishnan-leaving-white-house-ai-role",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/image_80%28682%29.jpg?h=a9edb586&itok=H3XBqSdG",
+        "publishedAt": "2026-06-07T20:20:00Z",
+        "source": "ZeroHedge"
       }
     ]
   }
