@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-09T19:03:09.601Z",
+  "fetchedAt": "2026-06-09T20:00:07.185Z",
   "sections": {
     "world": [
       {
-        "title": "Middle East crisis live: Israel issues forced evacuation order for residents of Lebanese city of Tyre",
-        "description": "Israeli army issues urgent warning telling people to leave Lebanon’s fifth biggest city saying ahead of strikes",
-        "url": "https://www.theguardian.com/world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates",
-        "image": "https://i.guim.co.uk/img/media/d0855c28fe5955bb3fe7116b711f54ed03eb1266/2_0_3087_2469/master/3087.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=be53294076684d78c504228181459ba0",
-        "publishedAt": "2026-06-09T07:02:00Z",
-        "source": "The Guardian"
+        "title": "The Strait of Hormuz is ‘leaking’ oil",
+        "description": "One of the biggest mysteries of the global economy is why the oil market has remained so calm during one of the greatest supply shocks in history.",
+        "url": "https://www.cnn.com/2026/06/09/business/oil-strait-of-hormuz-iran-gas-prices",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-03t070047z-700232583-rc25mlabad4t-rtrmadp-3-iran-crisis-oman-hormuz.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-06-09T08:00:07Z",
+        "source": "CNN"
       },
       {
-        "title": "'Heads must roll': France demands judicial overhaul after murder of 11-year-old girl",
-        "description": "The main suspect, Jérôme Barella, had faced multiple complaints for sexual violence against minors but was never investigated or questioned - until now.",
-        "url": "https://www.euronews.com/my-europe/2026/06/09/heads-must-roll-france-demands-judicial-overhaul-after-murder-of-11-year-old-girl",
-        "image": "https://images.euronews.com/articles/stories/09/78/94/27/1200x675_cmsv2_422904b7-6379-52ec-98e1-62b38a6a66b5-9789427.jpg",
-        "publishedAt": "2026-06-09T07:01:53Z",
-        "source": "Euronews.com"
+        "title": "Contemplative Drama: How Gaudí Shaped Light and Color at Sagrada Família",
+        "description": "Experience the transformative light of Sagrada Família, where Gaudí’s vision merges architecture and spirituality in vibrant color.",
+        "url": "https://www.archdaily.com/1042229/contemplative-drama-how-gaudi-shaped-light-and-color-at-sagrada-familia",
+        "image": "https://images.adsttc.com/media/images/6a23/1654/325f/9301/8750/ffb9/large_jpg/contemplative-drama-how-gaudi-shaped-light-and-color-at-sagrada-familia_7.jpg?1780684418",
+        "publishedAt": "2026-06-09T08:00:00Z",
+        "source": "ArchDaily"
       },
       {
-        "title": "'Heads must roll': France demands judicial overhaul after murder of 11-year-old girl",
-        "description": "The main suspect, Jérôme Barella, had faced multiple complaints for sexual violence against minors but was never investigated or questioned - until now.",
-        "url": "https://www.yahoo.com/news/world/articles/heads-must-roll-france-demands-070153573.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/df38b65fa1b0a5c3263ca9b52381d5cf06970928fb964437ce1c4187727ea782/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F7df1203646517737b6fc3571707647dc",
-        "publishedAt": "2026-06-09T07:01:53Z",
-        "source": "Yahoo"
+        "title": "Screwworms won't wipe out Canadian cattle, but extra precautions urged",
+        "description": "Screwworm won't kneecap Canada's beef industry, but an advocate says the parasite's incursion into the U.S. is a good reminder for farmers and ranchers here to take extra precautions.",
+        "url": "https://www.cbc.ca/news/canada/canada-screwworm-precautions-9.7227461",
+        "image": "https://i.cbc.ca/ais/6c877d6a-baf3-4a44-ae6f-3c3a47105909,1780963842804/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D620",
+        "publishedAt": "2026-06-09T08:00:00Z",
+        "source": "CBC"
       },
       {
-        "title": "BMA repatriates another 168 Mozambican nationals",
-        "description": "The repatriation operation was facilitated by the Embassy of the Republic of Mozambique in South Africa, which transported the individuals.",
-        "url": "https://witness.co.za/news/2026/06/09/bma-repatriates-another-168-mozambican-nationals/",
-        "image": "https://witness.co.za/wp-content/uploads/sites/144/2026/06/HKTuGlbXMAAKVGM.jpg",
-        "publishedAt": "2026-06-09T07:00:43Z",
-        "source": "The Witness | Your compass in the community"
+        "title": "Drones Strike Chonhar Bridge Linking Crimea and Kherson Region for Second Time in Days",
+        "description": "Ukrainian drones hit the Chonhar Bridge, a key Russian logistics corridor, for the second time in days, suspending traffic and forcing reroutes.",
+        "url": "https://united24media.com/war-in-ukraine/drones-strike-chonhar-bridge-linking-crimea-and-kherson-region-for-second-time-in-days-19637",
+        "image": "https://storage.united24media.com/og/b/a4/a4517e7813a7345e90524084b1012a4b.jpg",
+        "publishedAt": "2026-06-09T07:54:29Z",
+        "source": "UNITED24 Media"
       },
       {
-        "title": "Conflicts on rise globally, highest level since WWII, data shows",
-        "description": "Global conflicts surged to the highest number tallied by Sweden's Uppsala security research group.",
-        "url": "https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1327x746+184+195/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fe5%2F2991966c404c9ef063f30a6cad7c%2Fglobal-conflict-report-promo.png",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "NPR"
+        "title": "ICC chief prosecutor Karim Khan suspended amid inquiry into sexual misconduct allegations",
+        "description": "ICC has referred Khan to a special session of all 125 member states, who will vote on his future.",
+        "url": "https://www.the-star.co.ke/news/2026-06-09-iccs-karim-khan-suspended-over-sexual-misconduct-claims",
+        "image": "https://cdn.radioafrica.digital/image/2026/06/63f8d00d-4e4e-44ea-a5ef-0510af049c32.png?1781003205089",
+        "publishedAt": "2026-06-09T07:54:28Z",
+        "source": "the-star.co.ke"
       },
       {
-        "title": "Renowned Urologist Dr. (Col) Rajeev Sood joins Manipal Hospital Gurugram to strengthen Comprehensive Urology and Kidney Transplant services",
-        "description": "**media[1090893]**GURUGRAM, India, June 9, 2026 /PRNewswire/ -- Manipal Hospital Gurugram, one of India's leading multi-specialty healthcare institutions, has further strengthened its Department of Urology, Robotics & Renal Transplant with the onboarding of Dr. (Col) Rajeev Sood, Chairman - Urology, Robotics & Renal Transplant.**media[1090894]**",
-        "url": "https://www.manilatimes.net/2026/06/09/tmt-newswire/pr-newswire/renowned-urologist-dr-col-rajeev-sood-joins-manipal-hospital-gurugram-to-strengthen-comprehensive-urology-and-kidney-transplant-services/2361322",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/09/1090891.jpg",
-        "publishedAt": "2026-06-09T06:59:55Z",
-        "source": "The Manila Times"
+        "title": "Middle East Peace Deal in 'Final Throes,' Says Trump",
+        "description": "Donald Trump announces Middle East peace deal is in its \"final throes\" after Iran and Israel halt hostilities. Read more on the imminent agreement.",
+        "url": "https://punchng.com/middle-east-peace-deal-in-final-throes-says-trump/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/26041442/AFP__20260426__A8Z33KK__v1__Mockup__WhiteHouseCorrespondentsAssociationDinner-1200x630.jpg",
+        "publishedAt": "2026-06-09T07:54:18Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "IRGC hardliner Ahmad Vahidi 'eliminated' in Tehran strike — unconfirmed reports fuel debate over Iran’s military leadership",
-        "description": "Reports of IRGC chief Ahmad Vahidi’s alleged killing in a Tehran strike spark debate over Iran’s military leadership, regional power balance and wartime information.",
-        "url": "https://gulfnews.com/world/mena/irgc-hardliner-ahmad-vahidi-reportedly-eliminated-in-tehran-strike-unconfirmed-reports-fuel-debate-over-irans-military-leadership-1.500568160",
-        "image": "https://media.assettype.com/gulfnews%2F2026-06-09%2F6cfdtiec%2FAhmad-Vahidi.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-06-09T06:59:15Z",
-        "source": "Gulf News"
+        "title": "Year 12 students at Melbourne's Mazenod College found cheating using AI",
+        "description": "An all-boys school in Melbourne's outer east has taken action after several students were caught cheating on a Year 12 exam using AI.",
+        "url": "https://www.abc.net.au/news/2026-06-09/year-12-students-in-melbourne-caught-cheating-using-ai/106777700",
+        "image": "https://live-production.wcms.abc-cdn.net.au/1f71f47077c2ab301ea745694494d7d6?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-09T07:53:31Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "'Conflict Trends': Civil wars, international fights hit high",
-        "description": "There were more state conflicts in 2025 than at any other time since World War II, a new study has found. Last year was also the third-deadliest since the end of the Cold War.",
-        "url": "https://www.dw.com/en/conflict-trends-civil-wars-international-fights-hit-high/a-77467842",
-        "image": "https://static.dw.com/image/77387442_6.jpg",
-        "publishedAt": "2026-06-09T06:58:34Z",
-        "source": "dw.com"
+        "title": "Nana declares “No forgiveness” after home intruder who threatened her and her mother is sentenced to 7 years",
+        "description": "Singer and actress Nana expressed her anger and frustration following the sentencing of a man who broke into her home and attempted to rob h…",
+        "url": "https://www.allkpop.com/article/2026/06/nana-declares-no-forgiveness-after-home-intruder-who-threatened-her-and-her-mother-is-sentenced-to-7-years",
+        "image": "https://www.allkpop.com/upload/2026/06/content/090306/web_data/allkpop_1780988810_-2026-06-09-8.jpg",
+        "publishedAt": "2026-06-09T07:49:39Z",
+        "source": "Allkpop"
       }
     ],
     "business": [
       {
-        "title": "Consumer forum orders AirAsia to pay ₹90k compensation for damage to a rare plant due to flight delay",
-        "description": "The Palakkad Consumer Commission held the airline guilty of deficiency in service after a delayed flight caused a passenger to miss his connection and suffer loss.",
-        "url": "https://www.barandbench.com/news/litigation/consumer-forum-orders-airasia-to-pay-90k-compensation-for-damage-to-a-rare-plant-due-to-flight-delay",
-        "image": "https://cf-images.assettype.com/barandbench%2Fimport%2F2019%2F02%2Fair-asia-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-06-09T07:03:04Z",
-        "source": "Bar and Bench"
-      },
-      {
-        "title": "Indonesia races to plant rice early against risk of El Nino",
-        "description": "There has been no rain ⁠for more than 10 days in many parts of Java and some other islands. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/indonesia-races-to-plant-rice-early-against-risk-of-el-nino",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d814398618a851149fb045f640bed25588bb91b899bcd981b972e9d5f04b83a6",
-        "publishedAt": "2026-06-09T07:02:55Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "China’s exports jump 19.4% in May from a year earlier, despite Iran war",
-        "description": "China has reported its exports picked up pace in May, rising 19.4% from a year earlier",
-        "url": "https://abcnews.com/Business/wireStory/chinas-exports-jump-194-year-earlier-despite-iran-133701036",
-        "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-        "publishedAt": "2026-06-09T07:01:14Z",
-        "source": "ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "title": "Iron ore miner Nathan River Resources enters administration owing at least $300 million",
-        "description": "Iron ore mining company Nathan River Resources has gone into voluntary administration owing at least $300 million in debt, unpaid wages and royalties.",
-        "url": "https://www.abc.net.au/news/2026-06-09/nathan-river-resources-enters-administration/106776158",
-        "image": "https://live-production.wcms.abc-cdn.net.au/da5cde4e19de44c460d4b9882c7bf5ff?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-06-09T07:00:12Z",
-        "source": "Australian Broadcasting Corporation"
-      },
-      {
-        "title": "IQM Announces Novel Quantum Error Correction Approach Toward Fault-Tolerant Quantum Computing",
-        "description": "IQM Quantum Computers, the global leader in superconducting quantum computers, has developed a novel quantum error-correcting code that achieves up to three ...",
-        "url": "https://www.businesswire.com/news/home/20260609533201/en/IQM-Announces-Novel-Quantum-Error-Correction-Approach-Toward-Fault-Tolerant-Quantum-Computing",
-        "image": "https://mms.businesswire.com/media/20260609533201/en/2827176/22/Image.jpg",
-        "publishedAt": "2026-06-09T07:00:00Z",
+        "title": "CI&T Joins Claude Partner Network to Scale Claude Across the World's Largest Enterprises, with 1,000+ Certified AI Engineers",
+        "description": "CI&T (NYSE: CINT), a global AI Deployment partner for tech-integrated business solutions, today announced it has joined the Claude Partner Network, Anthropic...",
+        "url": "https://www.businesswire.com/news/home/20260609351666/en/CIT-Joins-Claude-Partner-Network-to-Scale-Claude-Across-the-Worlds-Largest-Enterprises-with-1000-Certified-AI-Engineers",
+        "image": "https://mms.businesswire.com/media/20260609351666/en/2826117/22/LOGO-CI%26T.jpg",
+        "publishedAt": "2026-06-09T08:00:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "Labour urged to let young workers access state pension early",
-        "description": "Taxpayers should be allowed to claim one-off sum in return for later retirement, think tank says",
-        "url": "https://www.telegraph.co.uk/money/pensions/state-pensions/young-workers-state-pension-40-years-early-labour-told/",
-        "image": "https://www.telegraph.co.uk/content/dam/money/2026/06/08/TELEMMGLPICT000384853888_17809263324040_trans_NvBQzQNjv4Bq2sju9Z0FFrr9VBdg-nKp6OgAuDJyuexOPwjtiNYk448.jpeg?impolicy=OG-Standard",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "The Telegraph"
-      },
-      {
-        "title": "Estonia Raises the Bar for Secure Digital Identity in Europe With New eID Cards Developed With Thales",
-        "description": "With increasing cyber risks and the rapid evolution of digital public services, Estonia is reinforcing the security, durability and adaptability of the docum...",
-        "url": "https://www.businesswire.com/news/home/20260608624209/en/Estonia-Raises-the-Bar-for-Secure-Digital-Identity-in-Europe-With-New-eID-Cards-Developed-With-Thales",
-        "image": "https://mms.businesswire.com/media/20260608624209/en/2826720/22/eID_card_ESTONIA.jpg",
-        "publishedAt": "2026-06-09T07:00:00Z",
+        "title": "Convatec and Lilly Foundation Commit $5m to Partners In Health to Improve Care for Non‑communicable Disease and Chronic Conditions",
+        "description": "Convatec (LSE:CTEC), a leading medical products and technologies company focused on solutions for the management of chronic conditions; The Eli Lilly and Com...",
+        "url": "https://www.businesswire.com/news/home/20260609166786/en/Convatec-and-Lilly-Foundation-Commit-%245m-to-Partners-In-Health-to-Improve-Care-for-Noncommunicable-Disease-and-Chronic-Conditions",
+        "image": "https://mms.businesswire.com/media/20260609166786/en/2826756/22/Convatec_Logo.jpg",
+        "publishedAt": "2026-06-09T08:00:00Z",
         "source": "Business Wire"
       },
       {
-        "title": "3D Investment Partners: Leading Proxy Advisory Firm Glass Lewis Recommends Toho Holdings Shareholders Vote “AGAINST” the Proposed Poison Pill",
-        "description": "3D Investment Partners Pte. Ltd., who provides discretionary investment management services to an investment fund which is a shareholder of Toho Holdings Co....",
-        "url": "https://www.businesswire.com/news/home/20260607198618/en/3D-Investment-Partners-Leading-Proxy-Advisory-Firm-Glass-Lewis-Recommends-Toho-Holdings-Shareholders-Vote-AGAINST-the-Proposed-Poison-Pill",
-        "image": "https://mms.businesswire.com/media/20260607198618/en/2825785/22/LOGO.jpg",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "Business Wire"
+        "title": "Philips Future Health Index 2026 Global Report",
+        "description": "Philips Future Health Index 2026: AI is already saving clinicians time and delivering measurable impact in healthcare.",
+        "url": "https://www.philips.com/a-w/about/news/archive/standard/news/press/2026/philips-future-health-index-2026-ai-is-already-saving-clinicians-time-and-delivering-measurable-impact-in-healthcare.html",
+        "image": "https://www.philips.com/c-dam/corporate/newscenter/global/standard/resources/healthcare/2026/future-health-index-2026/teaser-fyi-2026.jpg",
+        "publishedAt": "2026-06-09T08:00:00Z",
+        "source": "Philips"
+      },
+      {
+        "title": "Levi’s sues Australian clothing brand Globe over ‘blatant copying’ of tabs on pockets",
+        "description": "Denim giant claims trademarked design has been copied by S-Double, which was founded in 2008 by Shawn Stussy and is owned by the Melbourne-based clothing company",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/09/levis-sues-shawn-stussy-s-double-clothing-brand-globe-over-tabs-on-pockets",
+        "image": "https://i.guim.co.uk/img/media/d9e095134ba30d22553a0a15eba0d21f05b60882/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b480e4d71d3b931d913943fb3115564",
+        "publishedAt": "2026-06-09T07:59:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Grab Outlines Commitments to Support Delivery and Merchant Partner Livelihoods in Taiwan",
+        "description": "Grab commits to sustainable, safe earnings opportunities for Taiwan delivery- and merchant-partners, ahead of its proposed acquisition of foodpanda Taiwan.",
+        "url": "https://www.grab.com/sg/press/others/grab-outlines-commitments-to-support-delivery-and-merchant-partner-livelihoods-in-taiwan/",
+        "image": "https://assets.grab.com/wp-content/uploads/sites/4/2021/04/15151634/Grab_Logo_2021.jpg",
+        "publishedAt": "2026-06-09T07:58:56Z",
+        "source": "Grab"
+      },
+      {
+        "title": "US Dollar Price Forecast: Dollar Strengthens as Truce Enters Week 10 - GBP/USD and EUR/USD Outlook?",
+        "description": "With the stable Middle East truce reducing geopolitical risk premium, the Dollar gained ground amid shifting risk sentiment. DXY advanced to $99.94 with bullish continuation, EUR/USD defended blue trendline support, and GBP/USD held $1.3366. Full technical analysis inside.",
+        "url": "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dollar-strengthens-as-truce-enters-week-10-gbp-usd-and-eur-usd-outlook-1603295",
+        "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/Main-Images-5.jpg?func=cover&q=70&width=700",
+        "publishedAt": "2026-06-09T07:55:00Z",
+        "source": "FXEmpire"
+      },
+      {
+        "title": "Indonesia hikes rates in surprise move to arrest rupiah weakness",
+        "description": "In a statement, the central bank said this was also a \"pre-emptive measure\" to maintain inflation within the government's target range of 1.5% to 3.5%.",
+        "url": "https://www.cnbc.com/2026/06/09/indonesia-hikes-rates-rupiah-weakness-inflation-iran-war.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108318633-1780990314416-gettyimages-2280058408-INDONESIA_ECONOMY.jpeg?v=1780990341&w=1920&h=1080",
+        "publishedAt": "2026-06-09T07:54:44Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "Rectification campaign boosts HK's financial hub status",
+        "description": "The mainland's latest campaign against illegal cross-border securities activities is expected to help strengthen rather than weaken Hong Kong's position as an international financial center, according to Eddie Yue Wai-man, chief executive of the Hong Kong Monetary Authority.",
+        "url": "https://www.chinadailyasia.com/hk/article/634692",
+        "image": "https://www.chinadailyhk.com/upload/main/image/2025/11/25/eed635acc4cbf9fce7372efdc484e18a.png",
+        "publishedAt": "2026-06-09T07:53:08Z",
+        "source": "chinadailyasia.com"
       }
     ],
     "science": [
+      {
+        "title": "dated by Danish researchers in 2016 was estimated to be at least 272 years old, meaning it was already swimming the North Atlantic when Mozart was composing symphonies.",
+        "description": "When marine biologist Julius Nielsen pulled the lens from the eye of a five-metre Greenland shark in his Copenhagen lab, he was holding tissue that had",
+        "url": "https://maketecheasier.com/mte-x-the-greenland-shark-grows-about-one-centimetre-a-year-does-not-reach-sexual-matu/",
+        "image": "https://maketecheasier.com/wp-content/uploads/2026/06/pexels-31745220.jpg",
+        "publishedAt": "2026-06-09T07:33:23Z",
+        "source": "Make Tech Easier"
+      },
+      {
+        "title": "NASA’s Webb Detects Methane on Interstellar Comet 3I/ATLAS",
+        "description": "NASA’s James Webb Space Telescope has collected its first mid-infrared chemical fingerprint of an interstellar object during a",
+        "url": "https://www.technology.org/2026/06/09/nasas-webb-detects-methane-on-interstellar-comet-3i-atlas/",
+        "image": "https://www.technology.org/texorgwp/wp-content/uploads/2026/06/NASA-Webb-Detects-Methane-3I-ATLAS.png",
+        "publishedAt": "2026-06-09T07:30:00Z",
+        "source": "Technology Org"
+      },
+      {
+        "title": "Preparing for Bloodshed in Space, With Pigs",
+        "description": "“Be Prepared!” cries the motto of several organizations. It could also be the motto of everyone connected with this study: “Extraterrestrial regolith is hemostatic and potentially suitable fo…",
+        "url": "https://improbable.com/2026/06/09/preparing-for-bloodshed-in-space-with-pigs/",
+        "image": "https://improbable.com/wp-content/uploads/2026/02/extraterrestrial-regolith-STUDY.jpg",
+        "publishedAt": "2026-06-09T07:28:21Z",
+        "source": "Improbable Research"
+      },
+      {
+        "title": "New image of the Crystal Ball Nebula offers a stunning look at a dying star",
+        "description": "A newly released image of the Crystal Ball Nebula reveals the intricate beauty of a dying star\nand the unusual role its stellar companion plays in shaping the glowing cloud around it",
+        "url": "https://www.moneycontrol.com/world/new-image-of-the-crystal-ball-nebula-offers-a-stunning-look-at-a-dying-star-article-13944810.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260127103600_Helix-nebula.jpg",
+        "publishedAt": "2026-06-09T07:22:24Z",
+        "source": "Moneycontrol.com"
+      },
       {
         "title": "Nasa to name Artemis III crew in next step towards Moon landing",
         "description": "The US space agency is set to announce the four astronauts who will crew the Artemis III mission next year, the next step towards a lunar landing.",
@@ -160,110 +192,78 @@
         "source": "BBC"
       },
       {
-        "title": "Astronomers propose space ‘airbags’ to shield Earth from massive solar storms",
-        "description": "Shield could deflect destructive solar flares away from our planet",
-        "url": "https://ca.news.yahoo.com/astronomers-propose-space-airbags-shield-054313731.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/7832db3db2679881ca4fb8e0fab3172609bcb6f4bc97e7c3152bbd39978e444a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Ff605998fc881cf01e92105655088b33e",
-        "publishedAt": "2026-06-09T05:43:00Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "Astronomers propose space ‘airbags’ to shield Earth from massive solar storms",
-        "description": "Shield could deflect destructive solar flares away from our planet",
-        "url": "https://ca.news.yahoo.com/astronomers-propose-space-airbags-shield-054313948.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/8ef9e42ea2866d06469c91c93c25ca8337d11479fba3a996282953cfabea0ba6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2Ff605998fc881cf01e92105655088b33e",
-        "publishedAt": "2026-06-09T05:43:00Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "For more than half a century, theorists insisted that the Milky Way's central black hole had to be exhaling a wind, but the galactic center stubbornly hid the evidence — until a Northwestern team trai",
-        "description": "After half a century of waiting, astronomers have caught the Milky Way’s central black hole exhaling. A team led by Northwestern astrophysicists Mark D. Gorski and Lena Murchikova reports evidence of a wind blowing from Sagittarius A* — the four-million-solar-mass object at the galactic center — through a cone-shaped cavity carved into the cold gas […]",
-        "url": "https://spacedaily.com/sd-for-more-than-half-a-century-theorists-insisted-that-the-milky-ways-central-black-hole-had-to-be-exhaling-a-wind-but-the-galactic-center-stubbornly-hid-the-evidence-until-a-northweste/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/astronomers-spent-50-years-looking-for-w.jpg",
-        "publishedAt": "2026-06-09T05:42:30Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "My brother’s suicide: ‘The almost unbearable guilt of having had a row last time I saw him’",
-        "description": "I know this doesn’t make any sense... where you envisage things you can change, long after the disaster has happened",
-        "url": "https://www.irishtimes.com/health/your-wellness/2026/06/09/suicide-the-almost-unbearable-guilt-of-having-had-a-row-with-him-the-last-time-i-saw-him/",
-        "image": "https://www.irishtimes.com/resizer/v2/OBNJNLWZL5A7POQQRK6WCGQTEI.jpg?smart=true&auth=108e8a8a7a3e525f7ddf75b246dda5a9974b66240a82f079fc437d4f28550bd8&width=1200&height=630",
-        "publishedAt": "2026-06-09T05:08:00Z",
-        "source": "The Irish Times"
-      },
-      {
-        "title": "'Birdwatching saved me from gaming addition' says Sheffield student",
-        "description": "At his lowest ebb Edward Bartlett was playing video games 20 hours a day. Now he goes birdwatching.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy09r507jo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6056/live/502f8810-6328-11f1-b31a-bb3d090df46a.jpg",
-        "publishedAt": "2026-06-09T04:55:50Z",
-        "source": "BBC"
+        "title": "Two airplane-sized asteroids are closely approaching Earth on June 9 - Do they pose a threat?",
+        "description": "Two airplane-sized asteroids, 2026 LD and 2026 KM3, will make close approaches to Earth on June 9, drawing the attention of astronomers worldwide. Do they pose a threat to our planet?",
+        "url": "https://www.wionews.com/trending/two-airplane-sized-asteroids-closely-approaching-earth-on-june-9-do-they-pose-a-threat-1780983501746",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260609/image-1780983941326.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-06-09T05:49:00Z",
+        "source": "WION"
       }
     ],
     "ai": [
       {
-        "title": "Nvidia’s Isaac GR00T humanoid reference robot targets factory jobs",
-        "description": "Nvidia unveiled the Isaac GR00T Reference Humanoid Robot at Computex in Taipei, a 1.8-meter, 68-kg Unitree-based platform with 31 degrees of freedom and Sharpa-built five-finger tactile hands. Powered by a Jetson AGX Thor T5000 and Nvidia’s Isaac GR00T software, it can lift 15 kg and will be available to researchers by year-end, with early adopters including the Allen Institute for AI, ETH Zurich, and Stanford.",
-        "url": "https://techbullion.com/nvidia-s-isaac-gr00t-humanoid-reference-robot-targets-factory-jobs/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/06/Nvidias-Isaac-GR00T-humanoid-reference-robot-targets-factory-jobs-1000x600.jpg",
-        "publishedAt": "2026-06-09T07:02:39Z",
-        "source": "TechBullion"
+        "title": "Artificial Intelligence of Things, Physical AI dominate COMPUTEX 2026",
+        "description": "Artificial Intelligence of Things, Physical AI dominate COMPUTEX 2026",
+        "url": "https://www.news18.com/agency-feeds/artificial-intelligence-of-things-physical-ai-dominate-computex-2026-10138295.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_World_Section_Default_Image_1600x900-2025-07-4401653589b9d10b46b8abb07f758342-16x9.jpg",
+        "publishedAt": "2026-06-09T08:00:04Z",
+        "source": "News18"
       },
       {
-        "title": "Vivo X Fold 6 Officially Teased: OriginOS 6 Fold, AI-Powered Multitasking Tools, And Dimensity 9500 Chipset - Check All Specs And Leaks",
-        "description": "Vivo has teased the upcoming X Fold 6 ahead of its expected China launch this month. The foldable phone is expected to feature OriginOS 6 Fold, AI-powered multitasking tools, a Dimensity 9500 chipset, a 200MP camera, and a 6,900mAh battery.",
-        "url": "https://www.newsx.com/tech-and-auto/vivo-x-fold-6-officially-teased-originos-6-fold-ai-powered-multitasking-tools-and-dimensity-9500-chipset-check-all-specs-and-leaks-232162/",
-        "image": "https://www.newsx.com/wp-content/uploads/2026/06/vivo-x-fold6.jpg",
-        "publishedAt": "2026-06-09T07:01:17Z",
-        "source": "NewsX"
+        "title": "AI, Insurance, And Smarter Budgets: How Indians Are Planning Travel In 2026",
+        "description": "AI tools are helping Indians plan holidays, but rising travel risks are making insurance and careful budgeting just as important in 2026",
+        "url": "https://www.outlookmoney.com/personal-finance/ai-insurance-and-smarter-budgets-how-indians-are-planning-travel-in-2026",
+        "image": "https://media.assettype.com/outlookmoney/2026-06-09/0styv4l2/Travel-Family-Adventure.png?w=1200",
+        "publishedAt": "2026-06-09T07:55:25Z",
+        "source": "Outlook Money"
       },
       {
-        "title": "Plum launches AI-powered money guidance, delivering tailored plans in minutes to the general public",
-        "description": "/PRNewswire/ -- Smart money app Plum has launched a new financial guidance service called Plum Plan, transforming the way people build, manage and grow their...",
-        "url": "https://www.prnewswire.co.uk/news-releases/plum-launches-ai-powered-money-guidance-delivering-tailored-plans-in-minutes-to-the-general-public-302794314.html",
-        "image": "https://mmx.prnewswire.com/media/MS1859435/PR-Release-Plum-Plan-1-ID-c24d98fac7dc.jpg?id=OA2691456&p=facebook",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "PR Newswire UK"
+        "title": "Year 12 students at Melbourne's Mazenod College found cheating using AI",
+        "description": "An all-boys school in Melbourne's outer east has taken action after several students were caught cheating on a Year 12 exam using AI.",
+        "url": "https://www.abc.net.au/news/2026-06-09/year-12-students-in-melbourne-caught-cheating-using-ai/106777700",
+        "image": "https://live-production.wcms.abc-cdn.net.au/de1e6d23af3e429db476d4a331124504?impolicy=wcms_watermark_news&cropH=584&cropW=1039&xPos=0&yPos=23&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-09T07:53:31Z",
+        "source": "ABC (Australian Broadcasting Corporation)"
       },
       {
-        "title": "Deliverance AI emerges from stealth with £6m ARR to build the operating system for sovereign enterprise AI",
-        "description": "/PRNewswire/ -- Deliverance AI, the UK-founded Agentic Operating System (OS) for the enterprise, today announced its emergence from stealth with £6m ARR, more...",
-        "url": "https://www.prnewswire.co.uk/news-releases/deliverance-ai-emerges-from-stealth-with-6m-arr-to-build-the-operating-system-for-sovereign-enterprise-ai-302794324.html",
-        "image": "https://mmx.prnewswire.com/media/MS1859392/Deliverance_AI_emerges_from_stealth_with_-6m_ARR_to_build_the_operating_system_for_sovereign_enterpr.jpg?id=OA2691362&p=facebook",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "PR Newswire UK"
+        "title": "OpenAI files confidentially for IPO as AI rivals race to list",
+        "description": "OpenAI filed confidentially for an IPO with Goldman and Morgan Stanley. Anthropic filed last week at $965bn. SpaceX lists Thursday. Three AI mega-listings in months.",
+        "url": "https://thenextweb.com/news/openai-confidential-ipo-filing-rivals-race",
+        "image": "https://media.thenextweb.com/2026/05/Sam-Altman.avif",
+        "publishedAt": "2026-06-09T07:51:07Z",
+        "source": "TNW"
       },
       {
-        "title": "Palo Alto Networks and Deutsche Telekom Bring AI-Driven Security with Advanced Sovereignty Controls for European Regulated Industries",
-        "description": "/PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW) and Deutsche Telekom (XETRA: DTE) today announced Sovereign Cortex with T Security. This solution brings the...",
-        "url": "https://www.prnewswire.co.uk/news-releases/palo-alto-networks-and-deutsche-telekom-bring-ai-driven-security-with-advanced-sovereignty-controls-for-european-regulated-industries-302794736.html",
-        "image": "https://mmx.prnewswire.com/media/MS381466/Palo_Alto_Networks_Logo_2025.jpg?id=OA2692937&p=facebook",
-        "publishedAt": "2026-06-09T07:00:00Z",
-        "source": "PR Newswire UK"
+        "title": "David Sacks Says AI Is Driving Demand For Blue-Collar Workers",
+        "description": "David Sacks says AI data center boom is driving shortage of electricians and fiber techs as Meta launches a $115M workforce training program.",
+        "url": "https://www.benzinga.com/markets/tech/26/06/53078725/forget-coding-david-sacks-says-ai-infrastructure-boom-is-driving-demand-for-blue-collar-workers",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/09/Creative-Ai-Background-With-Forex-Chart-.jpeg",
+        "publishedAt": "2026-06-09T07:51:02Z",
+        "source": "Benzinga"
       },
       {
-        "title": "Paytm To Layoff 1% Staff, Hire 4000 New Employees In AI Pivot",
-        "description": "Paytm plans to hire approximately 4,000 employees over the next nine months, representing a 10% increase in its workforce., Companies, Times Now",
-        "url": "https://www.timesnownews.com/business-economy/companies/paytm-to-layoff-1-staff-hire-4000-new-employees-in-ai-pivot-article-154528896",
-        "image": "https://images.timesnownews.com/thumb/msid-154528896,width-1280,height-720,resizemode-75/154528896.jpg",
-        "publishedAt": "2026-06-09T06:58:35Z",
-        "source": "Times Now"
+        "title": "How Apple developed new ‘Siri AI’ to be more ‘personal’ and ‘private’",
+        "description": "While Apple has overhauled Siri AI, making it smarter and more contextually aware, the company is not yet calling the digital assistant a chatbot.",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/how-apple-developed-new-siri-ai-to-be-more-personal-and-private-10731083/",
+        "image": "https://images.indianexpress.com/2026/06/Apple-17.jpg",
+        "publishedAt": "2026-06-09T07:50:54Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
-        "description": "'We were planning for something in 2028, so that still remains the case,' Perplexity CEO Aravind Srinivas tells CNBC in an interview",
-        "url": "https://www.rappler.com/technology/perplexity-plans-2028-initial-public-offering/",
-        "image": "https://www.rappler.com/tachyon/2025/01/perplexity-ai-may-20-2024-reuters.jpg",
-        "publishedAt": "2026-06-09T06:54:00Z",
-        "source": "Rappler"
+        "title": "AI 171 Crash Aftermath: Families Grapple with Fear of Flying and Ongoing Anxiety",
+        "description": "Diu resident Rafik Arab has not boarded a flight since losing his 25‑year‑old son Faizan, one of the passengers on the London-bound plane on June 12 last year, and still lives with a deep fear of air travel.",
+        "url": "https://www.deccanchronicle.com/nation/ai-171-crash-aftermath-families-grapple-with-fear-of-flying-and-ongoing-anxiety-1962363",
+        "image": "https://www.deccanchronicle.com/h-upload/2025/06/22/1930705-air-india-plane-crash.jpg",
+        "publishedAt": "2026-06-09T07:50:53Z",
+        "source": "Deccan Chronicle"
       },
       {
-        "title": "Delhi Cyber Police Arrest Man For AI-Based Blackmail Of Young Women on Social Media; Posed As Recruiter, Trapped Victims & Extorted ₹40,000+",
-        "description": "Cyber Police in New Delhi arrested Sourav from Bhalaswa Dairy for using AI-generated morphed images to blackmail young women via social media. He posed as recruiter, trapped victims, and extorted ₹40,000+ via threats. Case filed via NCRP; investigation revealed repeat offences and digital evidence leading to his arrest.",
-        "url": "https://www.freepressjournal.in/tech/delhi-cyber-police-arrest-man-for-ai-based-blackmail-of-young-women-on-social-media-posed-as-recruiter-trapped-victims-extorted-40000",
-        "image": "https://media.assettype.com/freepressjournal/2026-06-09/wnahorog/Untitled-design-2026-06-09T121640.860.jpg",
-        "publishedAt": "2026-06-09T06:52:35Z",
-        "source": "Free Press Journal"
+        "title": "Google’s AI shift is causing a collective freak-out",
+        "description": "The new dark art of search engine optimization is known as GEO (generative is now the first word) and it paradoxically has a more human flavor than the era of backlinks.",
+        "url": "https://www.japantimes.co.jp/commentary/2026/06/09/world/googles-ai-shift/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/09/544774.JPG?v=3.1",
+        "publishedAt": "2026-06-09T07:50:46Z",
+        "source": "The Japan Times "
       }
     ]
   }
