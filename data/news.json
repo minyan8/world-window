@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-12T15:28:04.186Z",
+  "fetchedAt": "2026-06-12T17:17:53.310Z",
   "sections": {
     "world": [
       {
-        "title": "Jailed South Korea ex-president gets 30 more years for sending drones into North",
-        "description": "Prosecutors argued that Yoon ordered the operation to provoke Pyongyang and create a pretext for martial law.",
-        "url": "https://www.bbc.co.uk/news/articles/c17ydny8zyro",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fa9/live/309bd800-6607-11f1-8093-4f4aaa7c83d2.jpg",
-        "publishedAt": "2026-06-12T03:28:03Z",
+        "title": "Has Donald Trump ruled out a strike on Iran's Kharg Island?",
+        "description": "US News: US President Donald Trump said on Thursday (local time) that a possible operation to seize Iran’s key Kharg Island would be “off the table” if both si.",
+        "url": "https://timesofindia.indiatimes.com/world/us/has-donald-trump-ruled-out-a-strike-on-irans-kharg-island/articleshow/131674102.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131674199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-12T05:17:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Kenya: Government Allocates Sh177.2 Billion to Health Sector in Push for Universal Health Coverage",
+        "description": "The government has proposed a Sh177.2 billion allocation to the health sector in the 2026/27 financial year, with Treasury Cabinet Secretary John Mbadi saying the funding will accelerate the rollout of Universal Health Coverage (UHC) and strengthen access to essential healthcare services across the country.",
+        "url": "https://allafrica.com/stories/202606120030.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-06-12T05:16:53Z",
+        "source": "allAfrica.com"
+      },
+      {
+        "title": "Teaming up for poverty fight",
+        "description": "Sister village pact with a model Chinese rural area helps a remote hamlet in Laos improve lives.",
+        "url": "https://www.chinadailyasia.com/hk/article/634876",
+        "image": "https://www.chinadailyhk.com/upload/main/image/2026/06/11/d13a7f3342d756ad2d8e18f16b8a4088.png",
+        "publishedAt": "2026-06-12T05:15:56Z",
+        "source": "chinadailyasia.com"
+      },
+      {
+        "title": "Africa Clean Cooking Summit in Nairobi Postponed Amid Travel and Participation Uncertainties",
+        "description": "The 2026 Summit on Clean Cooking in Africa, which was expected to bring together African heads of state, financiers, development partners and energy stakeholders in Nairobi in July has been postponed.",
+        "url": "https://allafrica.com/stories/202606120037.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-06-12T05:15:00Z",
+        "source": "allAfrica.com"
+      },
+      {
+        "title": "EU lifts ban on Kyrgyz carriers, adds Air Express Algeria",
+        "description": "The European Commission has lifted a twenty-year, nationwide ban on air carriers from Kyrgyzstan in the newest update of the EU Aviation Safety List published on June 9, 2026. Kyrgyz...",
+        "url": "https://www.ch-aviation.com/news/168281-eu-lifts-ban-on-kyrgyz-carriers-adds-air-express-algeria",
+        "image": "https://www.ch-aviation.com/images/stockPhotos/7565/38ae63e6ebe0371aba3c628b870811bd15ff17e3.jpg",
+        "publishedAt": "2026-06-12T05:08:49Z",
+        "source": "ch-aviation"
+      },
+      {
+        "title": "Mother recalls overnight ordeal at sea after boat engine fails near Vatulele.",
+        "description": "Mother recalls overnight ordeal at sea after boat engine fails near Vatulele.",
+        "url": "https://www.fijivillage.com/t/mother-recalls-overnight-ordeal-at-sea-after-boat-engine-fails-near-vatulele-7033d6/",
+        "image": "https://www.fijivillage.com/news_images/20260612170839_media_6a2b720ea1c544_05990522.jpg",
+        "publishedAt": "2026-06-12T05:07:44Z",
+        "source": "Fijivillage"
+      },
+      {
+        "title": "The Iran War: A War with or against the AI Sector?",
+        "description": "The 2026 Iran War marks the dawn of hyperwar, accelerating military AI integration while disrupting critical upstream supply chains like Qatari liquid helium. This dual physical and financial pressure creates a shared strategic crisis for both the U.S. and Chinese AI sectors.",
+        "url": "https://www.irregularwarfare.org/the-iran-war-a-war-with-or-against-the-ai-sector/",
+        "image": "https://www.irregularwarfare.org/content/images/size/w1200/2026/06/Geopolitical-tension-over-Persian-Gulf-skies.png",
+        "publishedAt": "2026-06-12T05:07:29Z",
+        "source": "Irregular Warfare Initiative"
+      },
+      {
+        "title": "Highland woman who has had three cancers climbs all the Donalds",
+        "description": "Lorraine McCall has climbed all the Donalds after completing all the Munros, Corbetts and Grahams.",
+        "url": "https://www.bbc.com/news/articles/cly0n40j2pwo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5999/live/aa8f70a0-65b1-11f1-9fd1-0b44a7e33c3f.jpg",
+        "publishedAt": "2026-06-12T05:07:20Z",
         "source": "BBC"
-      },
-      {
-        "title": "Over half of civilian deaths from explosive weapons attributed to Israeli military in 2025 - report",
-        "description": "More than half of civilian deaths caused by explosive weapons in 2025 were attributed to the Israeli military, according to a new Explosive Weapons Monitor report, which warned of a growing \"normalisation\" of civilian harm in global conflicts.",
-        "url": "https://citizen.digital/article/over-half-of-civilian-deaths-from-explosive-weapons-attributed-to-israeli-military-in-2025-report-n384453",
-        "image": "https://assets.citizen.digital/169779/conversions/ab97d4b3-263a-4f53-aaa8-de84a23a707a_AFP__20260601__B4LD8G3__v2__HighRes__TopshotLebanonIsraelUsIranWar-og_image.webp",
-        "publishedAt": "2026-06-12T03:25:38Z",
-        "source": "Citizen Digital"
-      },
-      {
-        "title": "UAE delegation discusses ways to transform global climate commitments into concrete action, ahead of COP31",
-        "description": "The UAE’s participation highlights its commitment to promoting global sustainable development and coordinating international efforts",
-        "url": "https://www.zawya.com/en/world/middle-east/uae-delegation-discusses-ways-to-transform-global-climate-commitments-into-concrete-action-ahead-of-cop31-ffm0qfdh",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/10261cf1-ad8a-4486-88b8-ace2dd3d1c69/1/climate-change-el-nino.jpeg?f=3%3A2",
-        "publishedAt": "2026-06-12T03:24:35Z",
-        "source": "ZAWYA"
-      },
-      {
-        "title": "Ex-South Korean President Yoon Suk Yeol sentenced to 30 years in jail over Pyongyang drone plot",
-        "description": "A South Korean court sentenced former President Yoon Suk Yeol to 30 years in prison on Friday over charges linked to military drones sent over Pyongyang to help create a pretext for his failed December 2024 martial law declaration, Yonhap reported.",
-        "url": "https://www.cnn.com/2026/06/11/asia/south-korean-yoon-suk-yeol-drone-case-jail-intl-hnk",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211194900.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-06-12T03:22:00Z",
-        "source": "CNN"
-      },
-      {
-        "title": "Shanghai Tonight opens with nearly 200 nighttime events",
-        "description": "SHANGHAI, June 12, 2026 /PRNewswire/ -- A news report from english.shanghai.gov.cn",
-        "url": "https://www.manilatimes.net/2026/06/12/tmt-newswire/pr-newswire/shanghai-tonight-opens-with-nearly-200-nighttime-events/2364179",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/12/1096251.jpg",
-        "publishedAt": "2026-06-12T03:17:35Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Jakarta to deploy thousands of police officers as students protest against Prabowo",
-        "description": "Traffic diversions and road closures may be imposed depending on the crowd size and conditions. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/jakarta-to-deploy-thousands-of-police-officers-as-students-protest-against-prabowo",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/32b3d98cb6f7d519036759afe27e2cb793cf8925c70583956920d85ec769fd97",
-        "publishedAt": "2026-06-12T03:16:54Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "European Commission Updates Air Safety List, 89 African Airlines Remain Listed",
-        "description": "Eighty-nine African airlines remain barred from EU airspace\nAfrica's aviation accident risk remains nearly eight times higher\nOn June 9, the",
-        "url": "https://www.ecofinagency.com/news/1206-56391-european-commission-updates-air-safety-list-89-african-airlines-remain-listed",
-        "image": "https://www.ecofinagency.com/media/k2/items/cache/d9c8279b2a0b7c2f18298c43cf91eccb_S.jpg",
-        "publishedAt": "2026-06-12T03:16:44Z",
-        "source": "Ecofin Agency"
-      },
-      {
-        "title": "The Friday Debrief: Redefining Healthcare Horizons",
-        "description": "In March 2026, Singapore's Ministry of Health and Health Sciences Authority released the revised Artificial Intelligence in Healthcare Guidelines (AIHGle 2.0), providing updated regulatory and governance frameworks for AI-enabled medical technologies.",
-        "url": "https://www.legalbusinessonline.com/other-news/friday-debrief-redefining-healthcare-horizons",
-        "image": "http://www.legalbusinessonline.com/sites/default/files/news/tn%20TFD%20ERIC%20LAI%20WEBSITE.png",
-        "publishedAt": "2026-06-12T03:13:11Z",
-        "source": "| Asian Legal Business"
       }
     ],
     "business": [
       {
-        "title": "Depleted batteries and very expensive gas: How a two-day heatwave led to a near doubling of quarterly prices",
-        "description": "Batteries have been protecting consumers from price spikes in most states over summer. But they ran out of puff in one state in January, and let gas rule the roost.",
-        "url": "https://reneweconomy.com.au/depleted-batteries-and-very-expensive-gas-how-a-two-day-heatwave-caused-near-doubling-of-quarterly-prices/",
-        "image": "https://reneweconomy.com.au/wp-content/uploads/2024/08/20181205001374799638-original-scaled.jpeg",
-        "publishedAt": "2026-06-12T03:26:10Z",
-        "source": "Renew Economy"
+        "title": "Garanti BBVA Shares 20 Years of Experience Supporting Women Entrepreneurs at the Global Summit of Women",
+        "description": "The Global Summit of Women 2026, supported by Garanti BBVA, brought together ministers, business leaders, investors, entrepreneurs, and opinion leaders from around the world in Istanbul",
+        "url": "https://www.bbva.com/en/tr/sustainability/garanti-bbva-shares-20-years-of-experience-supporting-women-entrepreneurs-at-the-global-summit-of-women/",
+        "image": "https://www.bbva.com/wp-content/uploads/2020/01/garanti-1920x1180.jpg",
+        "publishedAt": "2026-06-12T05:15:39Z",
+        "source": "BBVA"
       },
       {
-        "title": "NDIS labour hire provider United Foundation enters administration citing registration changes and rising costs",
-        "description": "NDIS labour hire provider United Foundation has entered voluntary administration blaming regulatory changes, delayed payments and rising costs.",
-        "url": "https://www.abc.net.au/news/2026-06-12/ndis-labour-hire-provider-united-foundation-administration/106789556",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4ccd2918910b1d66ec5c5df96d4b3f55?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=134&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-06-12T03:26:05Z",
+        "title": "Bitcoin pops as Trump signals an end to the Iran war",
+        "description": "A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.",
+        "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-climbs-back-into-the-green-as-trump-signals-an-end-to-the-iran-war",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff371ab9765f78e75b1f20ec18d05af8cc0fb85-4000x2250.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-12T05:15:26Z",
+        "source": "CoinDesk"
+      },
+      {
+        "title": "How Purbaya Views the Consumer Shift to Pertalite",
+        "description": "Finance Minister Purbaya commented on the possibility that consumers will shift to purchasing subsidized-fuel Pertalite following Pertamax price hike.",
+        "url": "https://en.tempo.co/read/2108174/how-purbaya-views-the-consumer-shift-to-pertalite",
+        "image": "https://statik.tempo.co/data/2025/10/06/id_1433121/1433121_720.jpg",
+        "publishedAt": "2026-06-12T05:15:15Z",
+        "source": "Tempo.co English"
+      },
+      {
+        "title": "Trip.com Group (NasdaqGS:TCOM) Stock Valuation Check After Recent Weak Share Performance",
+        "description": "Trip.com Group stock performance snapshot\nTrip.com Group (NasdaqGS:TCOM) has recently drawn investor attention after a period of weaker share performance, with the stock down about 9% over the past month and roughly 8% over the past 3 months.\nSee our latest analysis for Trip.com Group.\nAt a share price of US$47.39, Trip.com Group has seen momentum fade recently, with the share price return down over the past month and year to date, while the 3 and 5 year total shareholder returns remain...",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-tcom/tripcom-group/news/tripcom-group-nasdaqgstcom-stock-valuation-check-after-recen",
+        "image": "https://images.simplywall.st/asset/industry/4422000-choice1-main-header/1585186589176",
+        "publishedAt": "2026-06-12T05:15:00Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Expert Advocates Gas Payment System to Revive Nigeria's Powe",
+        "description": "An energy expert proposes a commercially sustainable gas payment system, not bailouts, to address Nigeria's power sector challenges and ensure reliable gas",
+        "url": "https://punchng.com/expert-advocates-gas-payment-market-to-revive-power-sector/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/07/31062652/3d78b57e-13f7-49ec-85ea-fb1ccc207d8c.jpeg",
+        "publishedAt": "2026-06-12T05:13:42Z",
+        "source": "Punch Newspapers"
+      },
+      {
+        "title": "Fashion designer Katharina Mildren embraces social media to build thriving brand",
+        "description": "Katharina Mildren's clothes have attracted legions of fans online and she ships items around the world, but there is one place you will not find her garments: in a shop.",
+        "url": "https://www.abc.net.au/news/2026-06-12/katharina-mildren-fashion-designer-social-media-sales/106787116",
+        "image": "https://live-production.wcms.abc-cdn.net.au/5b4f9eb28a7f9f66fe8a6d541dce81c7?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=881&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-12T05:06:20Z",
         "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "B.C. court to allow Rossland magnesium mine to proceed without environmental assessment",
-        "description": "The Record Ridge mine near Rossland, B.C., is set to go ahead without an environmental assessment certificate, with a B.C. Supreme Court judge rejecting a lawsuit calling for more scrutiny filed by local residents.",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/record-ridge-mine-environmental-assessment-9.7232594",
-        "image": "https://i.cbc.ca/ais/1.7616308,1755925282000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C1013%2C569%29%3BResize%3D620",
-        "publishedAt": "2026-06-12T03:25:00Z",
-        "source": "CBC"
+        "title": "Residents to have their say on Beverley solar farm plans",
+        "description": "Developers are hosting a series of information events in June for the proposed farm near Beverley.",
+        "url": "https://www.bbc.com/news/articles/c1lygze18n2o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/233e/live/36418770-37f7-11f1-9d5c-8ba507d7dbde.jpg",
+        "publishedAt": "2026-06-12T05:06:09Z",
+        "source": "BBC"
       },
       {
-        "title": "‘Battery on wheels’: Sweden powers homes with EVs",
-        "description": "A vehicle battery can cover a household’s needs for between five and seven days before running down. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/europe/battery-on-wheels-sweden-powers-homes-with-evs",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/895435716931d506af4bffff4c1b31d2471365598630677d57199eb1067f7506",
-        "publishedAt": "2026-06-12T03:20:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Mining billionaire’s firm pleads guilty over takeover breach",
-        "description": "Australian billionaire Clive Palmer’s firm has pleaded guilty to breaching laws more than 14 years after a promise to hundreds of Aussies was broken.",
-        "url": "https://www.realcommercial.com.au/news/palmer-company-pleads-guilty-over-timeshare-takeover-breach",
-        "image": "https://www.realcommercial.com.au/news/wp-content/uploads/2026/06/capi_0fd53e3f27d6c7b7ef1b8548cf272c6f_deb0e09456870adfad6b13c96603917b-768x575.jpeg",
-        "publishedAt": "2026-06-12T03:19:46Z",
-        "source": "realcommercial.com.au"
-      },
-      {
-        "title": "Shanghai Tonight opens with nearly 200 nighttime events",
-        "description": "SHANGHAI, June 12, 2026 /PRNewswire/ -- A news report from english.shanghai.gov.cn",
-        "url": "https://www.manilatimes.net/2026/06/12/tmt-newswire/pr-newswire/shanghai-tonight-opens-with-nearly-200-nighttime-events/2364179",
-        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/12/1096251.jpg",
-        "publishedAt": "2026-06-12T03:17:35Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Amazon's Dual Threat: E-Commerce Efficiency Meets AWS AI Dominance",
-        "description": "Amazon (AMZN) strong buy: AWS & e-commerce growth plus AI catalysts ahead. Q1 revenue grew 17% YoY to $181.5B. See more details here.",
-        "url": "https://seekingalpha.com/article/4914404-amazons-dual-threat-e-commerce-efficiency-meets-aws-ai-dominance",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206141196/image_2206141196.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-06-12T03:15:26Z",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "Tribest Slowstar AI Juicer Review: An Exceptional Machine",
-        "description": "The Tribest Slowstar AI Vertical Hopper Juicer promises to take much of the work out of juicing. We tested it across nearly a dozen produce types to see if it delivers.",
-        "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/06/11/tribest-slowstar-ai-juicer-review/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a29c78101e63320bcbfaa33/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-06-12T03:13:38Z",
-        "source": "Forbes"
+        "title": "Govt Denies LPG Exports Amid Soaring Domestic Prices",
+        "description": "A Nigerian official denies LPG exports despite rising domestic cooking gas prices and supply concerns, insisting a ban remains in force. Find out more.",
+        "url": "https://punchng.com/govt-official-denies-lpg-exports-amid-soaring-domestic-prices/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2025/08/21002531/EKPO-1200x630.jpg",
+        "publishedAt": "2026-06-12T05:04:42Z",
+        "source": "Punch Newspapers"
       }
     ],
     "science": [
+      {
+        "title": "Ancient DNA shared with Neanderthals may explain human language",
+        "description": "A tiny set of ancient genetic “switches” may have played a surprisingly large role in making human language possible. Researchers found that these DNA regions, which act like volume controls for genes involved in brain development, have an outsized influence on language ability despite making up less than 0.1% of the genome.",
+        "url": "http://www.sciencedaily.com/releases/2026/06/260611024612.htm",
+        "image": "https://www.sciencedaily.com/images/1920/dna-cave-painting.webp",
+        "publishedAt": "2026-06-12T05:15:06Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Ancient DNA shared with Neanderthals may explain human language",
+        "description": "A tiny set of ancient genetic “switches” may have played a surprisingly large role in making human language possible. Researchers found that these DNA regions, which act like volume controls for genes involved in brain development, have an outsized influence on language ability despite making up less than 0.1% of the genome.",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260611024612.htm",
+        "image": "https://www.sciencedaily.com/images/1920/dna-cave-painting.webp",
+        "publishedAt": "2026-06-12T05:15:06Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Tracing Medieval Rewilding Through Italy's Ancient Oaks",
+        "description": "A study of ancient oak trees reveals how changes in human land use allowed forests to expand across parts of Italy during the medieval period.",
+        "url": "https://www.geographyrealm.com/medieval-rewilding-italys-ancient-oaks/",
+        "image": "https://www.geographyrealm.com/wp-content/uploads/2026/06/ancient-oaks-italy-piovesan-2026.jpg",
+        "publishedAt": "2026-06-12T03:52:53Z",
+        "source": "Geography Realm"
+      },
+      {
+        "title": "Just 12.5 light years away, around a star so faint it was only discovered in 2003, sits one of the most Earth-like rocky worlds ever found in a habitable zone — and yet we still cannot answer the sing",
+        "description": "Teegarden’s Star b is a planet of at least about 1.16 Earth masses, orbiting a red dwarf about 12.5 light-years away in the constellation Aries. It lies inside its star’s habitable zone and is, by one common measure, among the most Earth-like worlds yet catalogued. Astronomers have known it exists since 2019. They still cannot […]",
+        "url": "https://spacedaily.com/t-just-12-5-light-years-away-around-a-star-so-faint-it-was-only-discovered-in-2003-sits-one-of-the-most-earth-sized-rocky-worlds-ever-found-in-a-habitable-zone-and-yet-we-still-cannot-answer/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-12T102820.930.png",
+        "publishedAt": "2026-06-12T03:34:25Z",
+        "source": "Space Daily"
+      },
       {
         "title": "Giant Underground Detector Releases First Major Findings on Ghost Particles",
         "description": "NEW YORK (AP) – A massive underground detector aimed at understanding the mysterious ghost particles in our universe released its first major results on Wednesday.",
@@ -166,104 +198,72 @@
         "image": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/goblin-shark-card.jpg",
         "publishedAt": "2026-06-12T02:32:19Z",
         "source": "UWA"
-      },
-      {
-        "title": "Jiangmen Neutrino Observatory Reveals First Physics Result",
-        "description": "JUNO's first physics result was published as a cover article in Nature on June 10. Through the analysis of valid data collected over 59 days from",
-        "url": "https://www.miragenews.com/jiangmen-neutrino-observatory-reveals-first-1691204/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154392128-bf8c7ebee541%3Fixlib%3Drb-1.2.1%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-06-12T01:58:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Laser‑Driven Phase Contrast Enhances Cryo‑EM Resolution of Small Proteins",
-        "description": "Installed in a custom Titan Krios, the laser phase plate enhances motion correction, early‑frame recovery, and 3D classification and alignment.",
-        "url": "https://www.genengnews.com/topics/drug-discovery/laser%E2%80%91driven-phase-contrast-enhances-cryo%E2%80%91em-resolution-of-small-proteins/",
-        "image": "https://www.genengnews.com/wp-content/uploads/2024/10/Getty_1402266493_Proteins_LRG-RESIZE22222-3860-scaled.jpg",
-        "publishedAt": "2026-06-12T01:55:52Z",
-        "source": "Genetic Engineering and Biotechnology News"
-      },
-      {
-        "title": "AI breakthrough accelerates molecular simulations for drug discovery",
-        "description": "A new AI model has become so good at predicting how molecules evolve over time that, in the future, it could speed up the costly and time-consuming process of testing new drugs.",
-        "url": "https://www.news-medical.net/news/20260611/AI-breakthrough-accelerates-molecular-simulations-for-drug-discovery.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2016/5/3d_rendered_illustration_-_molecules-Sebastian_Kaulitzki-2000_12b7886e43a74db8bd94fd774ce58a26-620x480.jpg",
-        "publishedAt": "2026-06-12T01:44:00Z",
-        "source": "News-Medical"
-      },
-      {
-        "title": "Laser phase plate dramatically expands cryo-EM imaging capabilities",
-        "description": "In a landmark achievement in biological imaging, researchers at the University of California, Berkeley and Biohub today announced the successful demonstration of the laser phase plate, a novel device that dramatically improves the contrast of images produced by cryo-electron microscopes, opening up an entirely new view of human biology.",
-        "url": "https://www.news-medical.net/news/20260611/Laser-phase-plate-dramatically-expands-cryo-EM-imaging-capabilities.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Hemoglobin-620x480.jpg",
-        "publishedAt": "2026-06-12T01:37:00Z",
-        "source": "News-Medical"
       }
     ],
     "ai": [
       {
-        "title": "Mark Zuckerberg's $115 Million Workforce Push Gets A Sunder Pichai Follow Up Act, Alphabet CEO Says Will",
-        "description": "Google committed $50 million to train 300,000 skilled U.S. workers for AI-era jobs, following Meta's $115 million workforce initiative.",
-        "url": "https://www.benzinga.com/markets/tech/26/06/53159095/mark-zuckerbergs-workforce-push-gets-follow-up-from-sundar-pichai-train-300000-tradespeople",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/11/Close-Up-Of-The-Google-Logo-Sign-On-The-.jpeg",
-        "publishedAt": "2026-06-12T03:22:34Z",
-        "source": "Benzinga"
+        "title": "KPMG report on AI found riddled with AI hallucinations",
+        "description": "A new probe into Big Four KPMG's report on agentic AI found that a large portion of its references were flawed, amid the latest news of AI-hallucinated reports published by professional services firms.",
+        "url": "https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/",
+        "image": "https://www.cityam.com/wp-content/uploads/2024/08/KPMG-Offices-In-Berlin-1297929084-1-1.webp",
+        "publishedAt": "2026-06-12T05:17:52Z",
+        "source": "City A.M."
       },
       {
-        "title": "Canadian Mother Sues OpenAI After Daughter's Death, Says ChatGPT Failed To Intervene",
-        "description": "A Canadian mother has filed a lawsuit against OpenAI, claiming that its ChatGPT failed to protect her daughter, Alice, during her mental health crisis. , Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/canadian-mother-sues-openai-after-daughters-death-says-chatgpt-failed-to-intervene-article-154579566",
-        "image": "https://images.timesnownews.com/thumb/msid-154579566,width-1280,height-720,resizemode-75/154579566.jpg",
-        "publishedAt": "2026-06-12T03:17:39Z",
-        "source": "Times Now"
+        "title": "‘We are helping US government to ...’, says CEO Sam Altman as OpenAI bans hundreds of ChatGPT accounts",
+        "description": "Tech News News: OpenAI says it is working to protect what it calls \\\"democratic AI\\\" after uncovering and disrupting two influence operations that allegedly used ChatGP.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-are-helping-us-government-to-says-ceo-sam-altman-as-openai-bans-hundreds-of-chatgpt-accounts/articleshow/131674830.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131674822,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-12T05:16:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Adobe's CFO Departs While Company Also Searches For New CEO",
-        "description": "Sales from AI-first products have exceeded $500 million, Narayen said Thursday on a conference call with analysts. In September, the company said those tools had generated more than $250 million in revenue.",
-        "url": "https://www.ndtvprofit.com/technology/adobes-cfo-departs-while-company-also-searches-for-new-ceo-11625630",
-        "image": "https://c.ndtvimg.com/2026-06/970l8ki8_adobe_625x300_12_June_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-06-12T03:16:08Z",
-        "source": "NDTV Profit"
+        "title": "The voice taking your McDonald's order may not be human anymore",
+        "description": "McDonald's is testing a new Google-backed AI drive-thru ordering system capable of handling customer conversations, processing orders, and supporting restaurant operations. While the technology is still in its early stages, the experiment highlights a broader shift taking place across the fast-food industry as companies increasingly look to artificial intelligence to improve speed, efficiency, and customer experience.",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/what-happens-when-ai-takes-your-fast-food-order/articleshow/131674685.cms",
+        "image": "https://img.etimg.com/thumb/msid-131674757,width-1200,height-630,imgsize-2008480,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-12T05:11:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Amazon's Dual Threat: E-Commerce Efficiency Meets AWS AI Dominance",
-        "description": "Amazon (AMZN) strong buy: AWS & e-commerce growth plus AI catalysts ahead. Q1 revenue grew 17% YoY to $181.5B. See more details here.",
-        "url": "https://seekingalpha.com/article/4914404-amazons-dual-threat-e-commerce-efficiency-meets-aws-ai-dominance",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206141196/image_2206141196.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-06-12T03:15:26Z",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "Forget coding tests, Anthropic's Claude Code architect says these three traits get you hired",
-        "description": "Boris Cherny, the engineer behind Anthropic's Claude Code, has revealed the three qualities the AI giant actually looks for when hiring — and technical skill is not at the top of the list.",
-        "url": "https://www.livemint.com/companies/news/forget-coding-tests-anthropics-claude-code-architect-says-these-three-traits-get-you-hired-11781231955200.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/USA-CONGRESS-ANTHROPIC-0_1781232330626_1781232419166_dc23dbfa-895d-4ae0-bc67-443d59c711b3.JPG",
-        "publishedAt": "2026-06-12T03:12:49Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "Want Siri AI to be your girlfriend? Apple says it is not into that",
-        "description": "Apple just revealed a revamped Siri that can now act like an AI chatbot similar to ChatGPT or Gemini. But does this mean you can have romantic conversations with the virtual assistant? Apple’s software chief Craig Federighi says that Siri is not interested.",
-        "url": "https://www.indiatoday.in/technology/news/story/want-siri-ai-to-be-your-girlfriend-apple-says-it-is-not-into-that-2925447-2026-06-12",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/siri-ai-girlfriend-no-120628868-16x9_0.png?VersionId=PoOJo7D4M6h8g_StSrxDMQd0FmYS1WsY",
-        "publishedAt": "2026-06-12T03:08:55Z",
+        "title": "A tiffin box, a broken sandal: The details I cannot forget from the A1 171 crash",
+        "description": "India Today's Preeti Choudhry recalls covering the Air India AI 171 crash through two vivid objects left behind. The memory captures both the personal cost of the disaster and the unease of documenting grief.",
+        "url": "https://www.indiatoday.in/india/story/air-india-ai-171-crash-india-todays-preeti-choudhry-remembers-june-2025-ahmedabad-tragedy-2925483-2026-06-12",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/air-india-ai-171-crash-investigation-283200242-original-sixteen-to-nine.jpg?VersionId=sFtq2lQF6H9FU0Egee5i068I1765fS4y",
+        "publishedAt": "2026-06-12T05:10:57Z",
         "source": "India Today"
       },
       {
-        "title": "SpaceX IPO makes Elon Musk the world's first trillionaire",
-        "description": "SpaceX, the sprawling rocket, satellite and AI company that together with electric-car maker Tesla form the centre of Musk's empire, raised a record $75 billion in its initial public offering on Thursday, highlighting investor enthusiasm for his business ventures.",
-        "url": "https://www.livemint.com/news/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire-11781233409595.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/SPACEX-IPO--0_1781233466860_1781233477052_7238d626-1056-4f8b-92d4-009674a0bea7.JPG",
-        "publishedAt": "2026-06-12T03:05:32Z",
-        "source": "Livemint"
+        "title": "One Year On: India Remembers AI-171 Tragedy",
+        "description": "On the first anniversary of the Air India AI-171 crash, British High Commissioner Lindy Cameron paid homage to the victims. The tragedy claimed 260 lives after the plane crashed shortly after takeoff. Compensation efforts continue as families await the final investigation report into the disaster.",
+        "url": "https://www.devdiscourse.com/article/international/3934071-one-year-on-india-remembers-ai-171-tragedy",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/12_06_2026_10_38_43_7849256.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-06-12T05:08:51Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "GenXAI Analytics shares set for listing. Here's what GMP suggests ahead of debut",
-        "description": "GenXAI Analytics is set for its NSE SME debut with a subdued grey market premium, indicating a likely listing price near its issue price. The company's Rs 54.8 crore IPO, fully subscribed, aims to fund product development and working capital. GenXAI offers AI-driven enterprise performance and analytics solutions across various sectors.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/genxai-analytics-shares-set-for-listing-heres-what-gmp-suggests-ahead-of-debut/articleshow/131672659.cms",
-        "image": "https://img.etimg.com/thumb/msid-131672651,width-1200,height-630,imgsize-49886,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-06-12T03:04:00Z",
-        "source": "The Economic Times"
+        "title": "It's not just you - nearly half of us wish we could just click our fingers and make generative AI disappear",
+        "description": "Nearly half of British adults would eliminate generative AI entirely",
+        "url": "https://www.techradar.com/pro/its-not-just-you-nearly-half-of-us-wish-we-could-just-click-our-fingers-and-make-generative-ai-disappear",
+        "image": "https://cdn.mos.cms.futurecdn.net/C6s3YMNmsqvdALBFAQCsLf-1920-80.jpg",
+        "publishedAt": "2026-06-12T05:05:00Z",
+        "source": "TechRadar"
+      },
+      {
+        "title": "Japanese parents turn to AI for clues hidden in babies’ cries",
+        "description": "Some tools apply previous research suggesting babies make distinct vocalisations in response to needs. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/japanese-parents-turn-to-ai-for-clues-hidden-in-babies-cries",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c8cfdc862065c8730be2b6225df9d7ff621f56a752820d6ac1c0daf66a36f368",
+        "publishedAt": "2026-06-12T05:05:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "Full List Of Countries Taking On Big Tech To Protect Children Online",
+        "description": "Canada has introduced a Digital Safety Bill aimed at protecting children under 16 from the potential harms of social media and AI platforms. , Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/full-list-of-countries-taking-on-big-tech-to-protect-children-online-article-154579982",
+        "image": "https://images.timesnownews.com/thumb/msid-154579982,width-1280,height-720,resizemode-75/154579982.jpg",
+        "publishedAt": "2026-06-12T05:04:54Z",
+        "source": "Times Now"
       }
     ]
   }
