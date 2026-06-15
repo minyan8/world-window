@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-15T06:07:30.016Z",
+  "fetchedAt": "2026-06-15T08:30:08.885Z",
   "sections": {
     "world": [
       {
-        "title": "Iran proved it can close the Strait of Hormuz, but the U.S. is showing it can punch open a hole",
-        "description": "Hegseth said the U.S. naval blockage in Iran is \"impenetrable\" and 125 million barrels of oil have now exited the Gulf, \"showing that we control the strait.\"",
-        "url": "https://fortune.com/2026/06/14/iran-war-strait-of-hormuz-us-military-blockade-gulf-opening-alternate-route/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/9715616-e1781376248663.jpg?resize=1200,600",
-        "publishedAt": "2026-06-14T18:04:00Z",
-        "source": "Fortune"
+        "title": "Twelve killed in plane crash on a skydiving flight in Missouri",
+        "description": "The private plane had just taken off and made a turn before it crashed and caught fire, authorities said.",
+        "url": "https://www.abc.net.au/news/2026-06-15/12-dead-in-skydiving-plane-crash-in-missouri/106797418",
+        "image": "https://live-production.wcms.abc-cdn.net.au/69638e67bbc6552c8871bc0fe1bed4ed?impolicy=wcms_watermark_news&cropH=1238&cropW=2200&xPos=0&yPos=115&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-14T20:30:04Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
-        "description": "Russia’s Vladimir Putin and Ukraine’s Volodomyr Zelensky on Sunday held separate calls with US President Donald Trump as the latter prepared to celebrate his 80th birthday. The leaders discussed the…",
-        "url": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
-        "image": "https://s.france24.com/media/display/aead82b8-78a3-11f0-b7e7-005056a90284/w:1280/p:16x9/AP25225769069524.jpg",
-        "publishedAt": "2026-06-14T18:03:46Z",
-        "source": "France 24"
+        "title": "Iran weekly briefing: On the edge of a US-Iran breakthrough, Israel throws an explosive spanner",
+        "description": "Donald Trump is reported to unleash another expletive-laden outburst at Benjamin Netanyahu over Israeli strikes as the US and Iran are said to be on the verge of a deal.",
+        "url": "https://www.abc.net.au/news/2026-06-15/iran-israel-war-news-briefing/106797420",
+        "image": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_watermark_news&cropH=2350&cropW=4177&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-14T20:29:10Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
-        "description": "Iran earlier said Israel's attack on Beirut showed the US lacked the will or ability to fulfil its commitments.",
-        "url": "https://www.rnz.co.nz/news/world/598172/trump-says-israeli-strike-on-lebanon-should-not-have-happened-but-iran-deal-close",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--qGIaihbT--/t_tohu-badge-facebook/v1781379057/4JN24GR_AFP__20260611__B6TM8NV__v1__HighRes__UsPoliticsTrump_jpg?_a=BACCd2AD",
-        "publishedAt": "2026-06-14T18:01:57Z",
-        "source": "RNZ"
+        "title": "US warned tanker nearly 60 times before strike killed 3 Indian sailors off Oman coast: Report",
+        "description": "Gulf of Oman tanker strike saw US forces issue multiple warnings before disabling the Palau-flagged M/T Settebello, killing three Indian crew members.",
+        "url": "https://indianexpress.com/article/world/mt-settebello-gulf-of-oman-us-military-blockade-indian-sailors-killed-10739479/",
+        "image": "https://images.indianexpress.com/2026/06/Ship-Jalveer-image-1.jpg",
+        "publishedAt": "2026-06-14T20:28:56Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Filipino community celebrate Independence Day at City Hall",
-        "description": "North Bay recognized Philippines Independence Day with an official proclamation and flag raising at City Hall, drawing about 40 residents to Léger Square to celebrate Filipino culture and history",
-        "url": "https://www.baytoday.ca/local-news/filipino-community-celebrate-independence-day-at-city-hall-12413924",
-        "image": "https://www.vmcdn.ca/f/files/baytoday/philippine-independence-dayjune-12-2026-4.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-06-14T18:00:00Z",
-        "source": "BayToday.ca"
+        "title": "UK may ban social media for children under 16",
+        "description": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+        "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+        "publishedAt": "2026-06-14T20:17:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Namibians stranded after bus hijacking in SA, Govt response questioned",
-        "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The Independent Patriots for Change has accused the government of failing to protect Namibians in South Africa after a Namibian passenger bus was allegedly hijacked in Johannesburg on 9 June.",
-        "url": "https://www.namibian.com.na/namibians-stranded-after-bus-hijacking-in-sa-govt-response-questioned/",
-        "image": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/06/Rodney-Cloete.jpg",
-        "publishedAt": "2026-06-14T18:00:00Z",
-        "source": "The Namibian -"
+        "title": "Ebola Alert: Lagos Tightens Border Surveillance Under ‘Operation BioShield’ As Outbreak Looms Across Africa",
+        "description": "... Says No Confirmed Case In Nigeria ... Urges Residents To Stay Vigilant, Avoid Panic Lagos - The Lagos State Government has launched a statewide Ebola Virus Disease (EVD) awareness campaign, codenamed “Operation Lagos BioShield”, in a major preventive move aimed at shielding residents from the deadly virus amid fresh outbreaks in parts of East...",
+        "url": "https://independent.ng/ebola-alert-lagos-tightens-border-surveillance-under-operation-bioshield-as-outbreak-looms-across-africa/",
+        "image": "https://independent.ng/wp-content/uploads/2026/05/Ebola-Crisis.jpg",
+        "publishedAt": "2026-06-14T20:15:19Z",
+        "source": "Independent Newspaper Nigeria"
       },
       {
-        "title": "12 dead in crash of plane on skydiving outing in Missouri, authorities say",
-        "description": "The crash happened shortly after the plane took off from a local airport around 11:30 a.m., and some of the occupants' family members witnessed the crash, said Bates County Sheriff Chad Anderson. A h...",
-        "url": "https://www.yahoo.com/news/us/articles/us--missouri-plane-crash-175939877.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAKTnI7Mrc6q9cMg-II_kpX2vWew-aza-fptZCBFAh-3nWazNYAcsV43aqOxT86qGu5vMBbQ7i5I3HSiC7mA975vUEiEWudW0IK4xnFjU9mCijl9seUhUf2Ha1d95OtRzdkrKZaG7MtgQ0kiNKbPED0aZaJ0SqZZLuAwuH_Tzx_Tv&_guc_consent_skip=1781501221",
-        "image": "https://s.yimg.com/ny/api/res/1.2/jblOKVN0m_Qqkov6jgramQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-06/4dc750f0-6826-11f1-8fd2-549c73ee5f9b",
-        "publishedAt": "2026-06-14T17:59:39Z",
-        "source": "Yahoo"
+        "title": "From a World Heritage-listed city to sacred shrines, Lebanon’s historic sites are being destroyed",
+        "description": "Israel’s airstrikes in the south of the country have damaged ancient Roman ruins, mosques, schools and churches.",
+        "url": "https://theconversation.com/from-a-world-heritage-listed-city-to-sacred-shrines-lebanons-historic-sites-are-being-destroyed-284441",
+        "image": "https://images.theconversation.com/files/741452/original/file-20260612-57-a0je9f.jpg?ixlib=rb-4.1.0&rect=0%2C718%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-06-14T20:14:13Z",
+        "source": "The Conversation"
       },
       {
-        "title": "WILAN convenes women leaders to strengthen collaboration in Nigeria",
-        "description": "The Women in Leadership Advancement Network (WILAN Global), in partnership with Women in Management, Business and Pu...",
-        "url": "https://businessday.ng/news/article/wilan-convenes-women-leaders-to-strengthen-collaboration-in-nigeria/",
-        "image": "https://cdn.businessday.ng/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-14-at-12.05.57.jpeg",
-        "publishedAt": "2026-06-14T17:58:28Z",
-        "source": "Business News Nigeria"
+        "title": "75% of foreign peddlers absconding; only five convicted in T since 2010",
+        "description": "Hyderabad: Conviction rates of foreigners in narcotics cases remain abysmally low in Telangana, with more than three-fourths of those arrested now abs.",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/75-of-foreign-peddlers-absconding-only-five-convicted-in-t-since-2010/articleshow/131728675.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117518057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-14T20:13:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "South Africa repatriates 2,745 foreigners in one week",
-        "description": "South Africa has repatriated over 2,740 foreigners in one week amid rising anti-immigrant sentiment and government crackdown on illegal immigration.",
-        "url": "https://punchng.com/south-africa-repatriates-2745-foreigners-in-one-week/",
-        "image": "https://punchng.com/wp-content/uploads/2026/06/AFP__20260613__B6YN7ZH__v1__MidRes__SAfricaEconomyMigration-1200x630.webp",
-        "publishedAt": "2026-06-14T17:57:38Z",
-        "source": "Punch Newspapers"
+        "title": "Community Leaders Convene Cross-Border Peace Meeting Following Clashes in Elwak",
+        "description": "The meeting, held in Elwak, Somalia, was spearheaded by the BORESHA-NABAD Programme funded by the European Union with co-funding from Danida.",
+        "url": "https://www.dawan.africa/news/community-leaders-convene-cross-border-peace-meeting-following-clashes-in-elwak",
+        "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgEX5anKOBqNjo6fbuJ3FpcGhst5wk24lKOSTW",
+        "publishedAt": "2026-06-14T20:11:44Z",
+        "source": "Dawan Africa"
       }
     ],
     "business": [
       {
-        "title": "Viatris Euro Debt Raise Reshapes Capital Structure And Valuation Story",
-        "description": "Viatris (NasdaqGS:VTRS) has completed a significant euro denominated fixed income offering through the issuance of senior unsecured notes. The transaction raises new capital for the company and introduces additional euro currency debt into its balance sheet. The offering follows a period of insider selling and debate around the company’s growth potential. Viatris, a global pharmaceutical company, operates across branded, generic, and biosimilar medicines, as well as over the counter...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/viatris-euro-debt-raise-reshapes-180524022.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAEuTqTu8rSLrq5V48foaARgXLy1WhyM45ttKdu53x1zF4a_bU4S3q9-lTri3_bd8uwwH4sx2FNZhr2rZaF2hofX7ybtxi1kcorVWNxBlKmq8lSmCobdxn6izvKb_8NmGdHoQKt2_smAgcxvTq_7Y7SBH4GghkU_uTjRgiM8dwvLk",
-        "image": "https://s.yimg.com/os/en/simply_wall_st__316/8b2f1fb8ed1ddbd9c7702732b1ea0316",
-        "publishedAt": "2026-06-14T18:05:24Z",
-        "source": "Yahoo Finance"
+        "title": "BYD's off-roader brand has its first sports sedan and wagon leaked",
+        "description": "BYD's Fangchengbao brand will begin sales of the Formula S liftback and wagon, its first non-SUV models, later this year.",
+        "url": "https://www.carexpert.com.au/car-news/byds-off-roader-brand-has-its-first-sports-sedan-and-wagon-leaked",
+        "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/byd-fangcheng-bao-formula-s-gt-1.jpg",
+        "publishedAt": "2026-06-14T20:30:00Z",
+        "source": "CarExpert"
       },
       {
-        "title": "Polaris Parks expands into residential market with launch of Polaris Homes in Sheikh Zayed",
-        "description": "Polaris Parks, a developer of integrated industrial parks in Egypt, has launched Polaris Homes, its new residential development arm, marking a strategic expansion into the real estate sector. The company unveiled its first residential projects, Özel Villas and Özel Residences, in Sheikh Zayed City. The move broadens Polaris Parks’ portfolio beyond industrial infrastructure and reflects",
-        "url": "https://www.dailynewsegypt.com/2026/06/14/polaris-parks-expands-into-residential-market-with-launch-of-polaris-homes-in-sheikh-zayed/",
-        "image": "https://images.dailynewsegypt.com/2026/06/Bassel-Shoirah.jpeg",
-        "publishedAt": "2026-06-14T18:02:32Z",
-        "source": "Dailynewsegypt"
+        "title": "Global Funds Retreat From Japan’s Long Bonds as BOJ Goes Slow",
+        "description": "Little more than a year since Japan finally offered yields high enough to lure global bond managers back to its debt market, many are starting to retreat.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-14/global-funds-retreat-from-japan-s-long-bonds-as-boj-goes-slow",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i64bisw.J5Lo/v1/1200x800.jpg",
+        "publishedAt": "2026-06-14T20:30:00Z",
+        "source": "Bloomberg.com"
       },
       {
-        "title": "Bay of Plenty rent growth slows as supply and costs reshape market",
-        "description": "Rental price growth across the Bay of Plenty has slowed as rising supply and shifting tenant expectations reshape the market. Property managers say tenants...",
-        "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/bay-of-plenty-rent-growth-slows-as-supply-and-costs-reshape-market/4WP2GYGGHNH6LP3LUQAQQNUHMI/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/R7BJH3QMENFF5ACCUGFQWJTEFA.jpg?auth=0f79eab9e1e73089ed37f44ad99c09c32319b3e1f18f0e1015adb7a7db175e99&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-06-14T18:02:26Z",
-        "source": "NZ Herald"
+        "title": "Zimbabwe moves to regulate cryptocurrency sector",
+        "description": "Businesses involved in buying, selling, transferring or safeguarding virtual assets must register each year",
+        "url": "https://www.zimlive.com/57560-2/",
+        "image": "https://www.zimlive.com/wp-content/uploads/2026/06/IMG_6840.jpeg",
+        "publishedAt": "2026-06-14T20:27:40Z",
+        "source": "zimlive.com"
       },
       {
-        "title": "Kiwi consumers may be open to gene-edited cows' milk",
-        "description": "As temperatures rise, New Zealand’s dairy farmers face a growing challenge: keeping cows cool enough to remain productive.",
-        "url": "https://www.1news.co.nz/2026/06/15/kiwi-consumers-may-be-open-to-gene-edited-cows-milk/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cow-ZDFYWHNXONBG5IBC47WICMQ54Q.jpg?auth=6da55b2d91482d014bc4998cd52b549261c086f03404560228ec422278f84fc3&quality=70&width=600&height=315&focal=430%2C340",
-        "publishedAt": "2026-06-14T18:02:05Z",
-        "source": "1News"
+        "title": "Why Spire Global (SPIR) Is Up 6.2% After New Missile Early-Warning Satellite Partnership Announcement",
+        "description": "Earlier this month, Diehl Defence announced it had signed a Memorandum of Understanding with Spire Global at the ILA Berlin Airshow 2026 to explore collaboration on satellite-based intelligence and early warning against ballistic and hypersonic missiles, drawing on Spire’s RF detection and analytics capabilities.\nThis collaboration framework, paired with Spire’s new Munich facility capable of producing up to 100 satellites per year, highlights how the company is positioning itself as a...",
+        "url": "https://simplywall.st/stocks/us/commercial-services/nyse-spir/spire-global/news/why-spire-global-spir-is-up-62-after-new-missile-early-warni",
+        "image": "https://images.simplywall.st/asset/industry/9612012-choice1-main-header/1585186781062",
+        "publishedAt": "2026-06-14T20:26:15Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "UK electric car sales target set to be weakened",
-        "description": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2dmwmj4dmo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76a4/live/9d333710-6814-11f1-a177-65e13786d3a5.jpg",
-        "publishedAt": "2026-06-14T17:56:07Z",
-        "source": "BBC"
+        "title": "How Dollar Tree’s Upgraded EPS Outlook and Customer Shift Could Impact Dollar Tree (DLTR) Investors",
+        "description": "Dollar Tree recently reported past Q1 2026 results showing net sales growth, higher comparable-store sales, a large adjusted EPS increase, and nearly US$600 million in share repurchases, alongside raising its full-year adjusted EPS guidance.\nBeneath the strong headline figures, Dollar Tree’s expanding multiprice assortment and growing appeal to higher-income beauty shoppers highlight a meaningful shift in its customer mix and profit drivers.\nWe’ll now examine how Dollar Tree’s upgraded...",
+        "url": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-dltr/dollar-tree/news/how-dollar-trees-upgraded-eps-outlook-and-customer-shift-cou",
+        "image": "https://images.simplywall.st/asset/industry/4432000-choice2-main-header/1585186661401",
+        "publishedAt": "2026-06-14T20:26:15Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "UK electric vehicle sale target set to be weakened",
-        "description": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
-        "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76a4/live/9d333710-6814-11f1-a177-65e13786d3a5.jpg",
-        "publishedAt": "2026-06-14T17:56:07Z",
-        "source": "BBC"
+        "title": "Hertz (HTZ) Stock Valuation After Revenue Pressure And Rising Short Interest",
+        "description": "Hertz Global Holdings (HTZ) is back in focus after weakening revenue trends, a sharp decline in return on invested capital, and short interest at 43.49% of float intensified investor caution around the stock.\nSee our latest analysis for Hertz Global Holdings.\nAt a share price of $5.13, Hertz’s recent 29.22% 3 month share price return contrasts with a year to date share price return that is down 1.72% and a 1 year total shareholder return that is down 12.61%. This suggests near term momentum...",
+        "url": "https://simplywall.st/stocks/us/transportation/nasdaq-htz/hertz-global-holdings/news/hertz-htz-stock-valuation-after-revenue-pressure-and-rising",
+        "image": "https://images.simplywall.st/asset/industry/3242000-choice1-main-header/1585186612362",
+        "publishedAt": "2026-06-14T20:25:36Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Olivia Rodrigo on course for second Number 1 single of the year as stupid song begins the week at the top",
-        "description": "It’s Olivia’s world, and we’re just living in it!   stupid song, a fresh hit from Olivia Rodrigo’s new album you seem pretty sad for a girl in so love, is this week’s frontrunner for Number 1.",
-        "url": "https://www.officialcharts.com/chart-news/olivia-rodrigo-stupid-song-number-1-single/",
-        "image": "https://backstage.officialcharts.com/sites/default/files/2026-06/olivia%20rodrigo%20stupid%20song%20number%201%20single%20.jpg",
-        "publishedAt": "2026-06-14T17:55:50Z",
-        "source": "Official Charts"
+        "title": "Fortive (FTV) Stock Valuation Check After Recent Choppy Trading And Growth Outlook",
+        "description": "Fortive stock snapshot\nFortive (FTV) has drawn investor attention after recent trading, with the stock last closing at US$60.14. Price moves sit against multi-year total returns and ongoing revenue and net income growth for the company.\nSee our latest analysis for Fortive.\nRecent trading has been choppy, with a 1-day share price return of 0.5% and a 7-day decline of 1.9%. However, the 90-day share price return of 11.9% and 1-year total shareholder return of 15.4% point to momentum that has...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ftv/fortive/news/fortive-ftv-stock-valuation-check-after-recent-choppy-tradin",
+        "image": "https://images.simplywall.st/asset/industry/3072000-choice1-main-header/1585186775716",
+        "publishedAt": "2026-06-14T20:25:36Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Energy efficiency emerges as key driver of real estate value, developers say",
-        "description": "Egypt’s real estate developers have highlighted energy efficiency as no longer an optional feature but a fundamental component of successful real estate projects. They noted that rising utility costs and evolving buyer preferences are driving the market towards developments that offer lower operating expenses and stronger long-term returns. During Invest-Gate’s 28th roundtable, titled “Powering Real",
-        "url": "https://www.dailynewsegypt.com/2026/06/14/energy-efficiency-emerges-as-key-driver-of-real-estate-value-developers-say/",
-        "image": "https://images.dailynewsegypt.com/2026/06/energy1.jpg",
-        "publishedAt": "2026-06-14T17:55:37Z",
-        "source": "Dailynewsegypt"
+        "title": "StockWatch: Parabilis Medicines Makes Wall Street History with $770.5M IPO",
+        "description": "In what’s shaping up to be a historic year for biotech initial public offerings, Parabilis Medicines made its mark on Wall Street this past week by pricing the largest-ever IPO by a drug developer. This upsized offering raised an eye-popping $770.5 million in gross proceeds.",
+        "url": "https://www.genengnews.com/topics/cancer/stockwatch-parabilis-medicines-makes-wall-street-history-with-770-5m-ipo/",
+        "image": "https://www.genengnews.com/wp-content/uploads/2026/06/Parabilis-Nasdaq-061126-RESIZE3596-scaled.jpg",
+        "publishedAt": "2026-06-14T20:24:34Z",
+        "source": "Genetic Engineering and Biotechnology News"
       }
     ],
     "science": [
+      {
+        "title": "NASA's proposed Early eVolution Explorer mission aims to solve the radius valley mystery",
+        "description": "A debate has been raging among planetary scientists for more than a decade—why are there so few exoplanets with a radius of about 1.8 times that of Earth? Exoplanets are currently largely grouped into two distinct categories—\"super-Earths\" are below that size and have rocky interiors, whereas \"sub-Neptunes\" are above that size limit and appear puffier. But researchers don't really understand why the path of planetary evolution forces this bifurcation. A new mission proposal, called the Early eVolution Explorer (EVE), wants to find out, and a draft of its concept can be found in preprint form on arXiv.",
+        "url": "https://phys.org/news/2026-06-nasa-early-evolution-explorer-mission.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/nasas-proposed-eve-mis.jpg",
+        "publishedAt": "2026-06-14T19:30:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "AI Learned the Rules of the Universe and That Became a Problem",
+        "description": "AI could accelerate the hunt for new physics, but sometimes it knows too much to see what’s right in front of it.",
+        "url": "https://scitechdaily.com/ai-learned-the-rules-of-the-universe-and-that-became-a-problem/",
+        "image": "https://scitechdaily.com/images/Quijote-Simulations.jpg",
+        "publishedAt": "2026-06-14T19:21:04Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Manakins' dazzling dances may owe their origins to an ancient diet shift",
+        "description": "Few animals put on a show quite like manakins. In the rainforests of Central and South America, males of these small tropical birds, with strikingly bright plumage, often gather at communal display sites (leks), where they clear their own dance courts and spend much of their lives performing high-speed backflips, snapping their wings like firecrackers, and running through choreographed routines with other males, all to attract a mate.",
+        "url": "https://phys.org/news/2026-06-manakins-dazzling-owe-ancient-diet.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/evolutionary-origins-o.jpg",
+        "publishedAt": "2026-06-14T19:00:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Deep learning co-design helps scientists project 28-layer 3D images without crosstalk",
+        "description": "UCLA researchers have built a hybrid digital-optical system that uses AI to project 28 distinct 3D image layers in a single snapshot.",
+        "url": "https://tech.yahoo.com/science/articles/deep-learning-co-design-helps-184734002.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/171d61ed3237deebdc98927e7a712b045a0966af723c68c2ce819cb16ae795f4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2F7b338f49c0f2232be9faaf817c957cf6",
+        "publishedAt": "2026-06-14T18:47:34Z",
+        "source": "Yahoo Tech"
+      },
+      {
+        "title": "Plant diversity may explain why some caterpillars are fussy about their food",
+        "description": "Many insects will eat almost anything in their sight, such as certain beetles, grasshoppers and locusts, while others are remarkably picky eaters. For example, numerous insect herbivores will feed only on a single plant family or a specific type of tree. But why is this so?",
+        "url": "https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/butterfly-caterpillar.jpg",
+        "publishedAt": "2026-06-14T18:30:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Moon meteorite reveals three ancient impacts in a single rock",
+        "description": "A lunar meteorite preserves records of three ancient impacts, linking collision histories across Earth, the Moon, and Vesta.",
+        "url": "https://www.earth.com/news/moon-meteorite-reveals-three-ancient-impacts-in-a-single-rock/",
+        "image": "https://cff2.earth.com/uploads/2026/06/14095935/Moon-meteorite.jpg",
+        "publishedAt": "2026-06-14T18:11:15Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "The hidden physics complicating interstellar lightsails",
+        "description": "If we're to reach another star, chemical propulsion will not get us there in any reasonable time frame. We're going to need a different propulsion technology, and one of the most promising seems to be a solar sail. These giant reflective surfaces form the basis of many interstellar mission concepts. Combined with giant lasers pushing them, they can be accelerated to speeds unreachable by any other current technologies.",
+        "url": "https://phys.org/news/2026-06-hidden-physics-complicating-interstellar-lightsails.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-hidden-physics-com.jpg",
+        "publishedAt": "2026-06-14T18:00:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Astronomers find evidence of a wind from Milky Way's black hole",
         "description": "Maps of the region around Sagittarius A*, the Milky Way's supermassive black hole, may reveal what happened to its missing wind.",
@@ -142,128 +198,72 @@
         "image": "https://helios-i.mashable.com/imagery/articles/03wkGqaHar8mFWsnejatk7f/hero-image.fill.size_1200x675.v1780678599.jpg",
         "publishedAt": "2026-06-14T17:52:07Z",
         "source": "Mashable"
-      },
-      {
-        "title": "A dying star can create a new universe instead of a black hole: Study",
-        "description": "A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon, but rather the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
-        "url": "https://www.aninews.in/news/tech/science/a-dying-star-can-create-a-new-universe-instead-of-a-black-hole-study20260614231043/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260614173808-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-06-14T17:40:00Z",
-        "source": "ANI News"
-      },
-      {
-        "title": "The Moon Occults Venus",
-        "description": "On Wednesday morning, June 17, you can watch the dark edge of the slim waxing crescent Moon pass in front of brilliant Venus from Santa Barbara's point of view.",
-        "url": "https://www.edhat.com/news/the-moon-occults-venus/",
-        "image": "https://www.edhat.com/wp-content/uploads/2026/05/Blue-moon-canva_6820036_1779728425758.jpg",
-        "publishedAt": "2026-06-14T17:39:28Z",
-        "source": "edhat"
-      },
-      {
-        "title": "Scientists Mapped Every Neuron in a Fruit Fly and the Brain Wasn't Running the Show",
-        "description": "Scientists have created the first complete brain-to-body wiring map of a fruit fly, revealing that complex behavior may arise from distributed neural teamwork rather than a central controller. A large international research team led by labs at Harvard Medical School and Princeton University has r",
-        "url": "https://scitechdaily.com/scientists-mapped-every-neuron-in-a-fruit-fly-and-the-brain-wasnt-running-the-show/",
-        "image": "https://scitechdaily.com/images/Fruit-Fly-Brain-Connectome.jpg",
-        "publishedAt": "2026-06-14T16:45:24Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "NASA names Artemis III crew for a 'complex' 2027 test flight, including the first European astronaut",
-        "description": "\"My brain, it is going a mile a minute right now.\"",
-        "url": "https://www.yahoo.com/news/science/articles/nasa-names-artemis-iii-crew-163400403.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/8d175e896fb4fc36c0746534cb0b24df599afb64c50b3f59115253c843c1b641/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fd6d70fcbf79adb2e7fd32a23c439f494",
-        "publishedAt": "2026-06-14T16:34:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Genetics of Cocaine Addiction Point to the Liver",
-        "description": "To learn more about the biology underlying cocaine addiction, researchers analyzed almost 900 rats to map the genetic basis of behaviors associated ... | Genetics And Genomics",
-        "url": "https://www.labroots.com/trending/genetics-and-genomics/30662/genetics-cocaine-addiction-liver",
-        "image": "https://images.labroots.com/content_article_profile_image_be477b7502d28e1ec4bb23a3fb819e8082167aa3_6375.png",
-        "publishedAt": "2026-06-14T16:28:00Z",
-        "source": "Labroots"
-      },
-      {
-        "title": "574 million-year-old fossils reveal a lack of sex delayed evolution for millions of years",
-        "description": "Fern-like bodies once covered the seafloor, some stretching as tall as a person. Yet for millions of years, the animal world barely seemed to budge.",
-        "url": "https://www.yahoo.com/news/science/articles/574-million-old-fossils-reveal-160700728.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6de0beee46b05415eec63a9fc917261cc556409cd8631c3c26feaf2df1ca60b7/lightyear_networkapi/resizefill_w800_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_brighter_side_of_news_articles_781%2Fe5c0b7e2fd0ffb1456f2fa934afd2b3b",
-        "publishedAt": "2026-06-14T16:07:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "574 million-year-old fossils reveal a lack of sex delayed evolution for millions of years",
-        "description": "Study suggests clone-based reproduction kept early animals stable until sexual reproduction boosted diversity.",
-        "url": "https://www.thebrighterside.news/post/574-million-year-old-fossils-reveal-a-lack-of-sex-delayed-evolution-for-millions-of-years/",
-        "image": "https://www.thebrighterside.news/uploads/2026/06/life-diversity-3-scaled.jpg?auto=webp&width=2000&height=1500",
-        "publishedAt": "2026-06-14T16:07:00Z",
-        "source": "The Brighter Side of News"
       }
     ],
     "ai": [
       {
-        "title": "US govt's curbs on Anthropic models reignite calls for sovereign AI",
-        "description": "The US move to restrict access to Anthropic's latest AI models has intensified concerns over AI sovereignty and technology dependence in India",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/us-govt-s-curbs-on-anthropic-models-reignite-calls-for-sovereign-ai-126061400904_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/13/thumb/fitandfill/1200X628/1778651877-338.JPG",
-        "publishedAt": "2026-06-14T18:02:51Z",
-        "source": "Business Standard"
+        "title": "5 ways data centers endanger their local communities",
+        "description": "Every internet search, streamed video and AI-generated response depends on a data center somewhere. Driven by rapid growth in artificial intelligence, cloud computing and cryptocurrency, data centers have become the backbone of the modern digital economy. But though their key role is in enabling virtual and remote experiences, data centers…",
+        "url": "https://japantoday.com/category/features/environment/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole",
+        "image": "https://media.japantoday.com/img/store/9c/86/f014ba092614df853314f151a1376e62965f/ap26153861480417/_w1700.jpeg",
+        "publishedAt": "2026-06-14T20:10:00Z",
+        "source": "Japan Today"
       },
       {
-        "title": "Two held for Rs 67 lakh online trade fraud",
-        "description": "Kochi police arrested two Kannur men for allegedly cheating a Kumbalam doctor of Rs 67 lakh via an online trade scam using an AI-generated Facebook ad.",
-        "url": "https://timesofindia.indiatimes.com/city/kochi/two-held-for-rs-67-lakh-online-trade-fraud/articleshow/131727069.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131727068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-14T18:01:00Z",
-        "source": "Times of India"
+        "title": "Best laptops coming in 2026 after Computex",
+        "description": "From RTX Spark powerhouses to affordable AI PCs, these are the most exciting laptops announced at Computex 2026 that are worth waiting for in 2026.",
+        "url": "https://www.digitaltrends.com/computing/best-laptops-coming-in-2026-after-computex/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/06/ASUS-ROG-Strix-Scar-18-Computex-2026-Other.jpg?resize=1200%2C630",
+        "publishedAt": "2026-06-14T20:08:37Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "Space: The Now Frontier And The AI Revolution",
-        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-        "url": "https://www.zerohedge.com/markets/space-now-frontier-and-ai-revolution",
-        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/data%20center%20stormed.jpg?h=0506d2ad&itok=unhbNTCZ",
-        "publishedAt": "2026-06-14T18:00:00Z",
-        "source": "ZeroHedge"
+        "title": "Many new AI data centers will be built on US drought-hit areas - raising questions over water and power supply",
+        "description": "Data centers are popping up in areas where water and power remain ongoing concerns",
+        "url": "https://www.techradar.com/pro/many-new-ai-data-centers-will-be-built-on-us-drought-hit-areas-raising-questions-over-water-and-power-supply",
+        "image": "https://cdn.mos.cms.futurecdn.net/X9iRuyockJHnZi56EVNNDf-970-80.jpg",
+        "publishedAt": "2026-06-14T20:05:00Z",
+        "source": "TechRadar"
       },
       {
-        "title": "AI-171 Crash: Pilots' Body Demands Simulator Tests On Boeing 787, Raising Concern Over Discrepancy In RAT Deployment",
-        "description": "The Federation of Indian Pilots has written to the Aircraft Accident Investigation Bureau seeking fresh simulator testing in the Air India AI-171 crash probe, citing inconsistencies in RAM Air Turbine deployment timing between preliminary reports and independent tests, officials said.",
-        "url": "https://www.freepressjournal.in/india/ai-171-crash-pilots-body-demands-simulator-tests-on-boeing-787-raising-concern-over-discrepancy-in-rat-deployment",
-        "image": "https://media.assettype.com/freepressjournal/2026-02-03/eqkq5v1r/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-37.jpg",
-        "publishedAt": "2026-06-14T17:59:28Z",
-        "source": "Free Press Journal"
+        "title": "AI push fuels modernisation deals for IT firms",
+        "description": "Legacy systems emerge as AI bottleneck",
+        "url": "https://www.financialexpress.com/business/news/ai-push-fuels-modernisation-deals-for-it-firms/4267354/",
+        "image": "https://images.financialexpressdigital.com/2026/06/AI-neocloud_20260614193519.jpg",
+        "publishedAt": "2026-06-14T19:38:36Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Anthropic's model shutdown just handed India's sovereign AI movement its strongest argument yet",
-        "description": "India debates building its own AI after the US forced Anthropic to kill Fable 5, with proposals for a $5B annual fund and calls to embrace open-source models.",
-        "url": "https://thenextweb.com/news/india-sovereign-ai-anthropic-fable-suspension-debate",
-        "image": "https://media.thenextweb.com/2026/06/india-sovereign-ai-anthropic-fable-suspension-debate.avif",
-        "publishedAt": "2026-06-14T17:57:50Z",
+        "title": "Jio enters global top 20 list in WIPO patent rankings",
+        "description": "Jio Platforms has surged into the global top 20 of WIPO's PCT rankings, a remarkable leap of 320 positions. This achievement highlights Jio's rapid innovation in cutting-edge technologies like 5G, 6G, and AI. The company's extensive patent filings underscore its transformation into a deep-tech powerhouse, aligning with India's self-reliance vision.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/jio-enters-global-top-20-list-in-wipo-patent-rankings/articleshow/131728491.cms",
+        "image": "https://img.etimg.com/thumb/msid-131728495,width-1200,height-630,imgsize-62042,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-14T19:32:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Stressors and wellbeing tips from Canberra college students",
+        "description": "Canberra college student Brianna Rose reveals why year 12s feel pressure, fearing AI's impact on job security and university pathways.",
+        "url": "https://www.canberratimes.com.au/story/9288674/stressors-and-wellbeing-tips-from-canberra-college-students/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/pMXRnDj3SUU44AkPpn97sC/37beb42a-587e-4138-b73c-e826d813be74.png/r0_40_1600_880_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-06-14T19:30:00Z",
+        "source": "The Canberra Times"
+      },
+      {
+        "title": "Australian Public Service faces quantum, AI cyber threat wave",
+        "description": "Old government computer networks leave Australia's public services open to rapidly accelerating quantum and AI hacker threats. Discover why urgent action is needed.",
+        "url": "https://www.canberratimes.com.au/story/9251146/australian-public-service-faces-quantum-ai-cyber-threat-wave/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/232169359/53b6e754-471a-40bf-8969-9dadbd7f59bc.png/r0_30_1600_870_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-06-14T19:30:00Z",
+        "source": "The Canberra Times"
+      },
+      {
+        "title": "Chinese AI models are learning to detect safety tests and adjust their behaviour accordingly",
+        "description": "Neo Research found that Chinese AI models including Kimi K2.6 and DeepSeek V4 Pro can tell when they are being evaluated, raising questions about test validity.",
+        "url": "https://thenextweb.com/news/chinese-ai-models-gaming-safety-tests-evaluation-awareness",
+        "image": "https://media.thenextweb.com/2026/06/chinese-ai-models-gaming-safety-tests-evaluation-awareness.avif",
+        "publishedAt": "2026-06-14T19:28:29Z",
         "source": "TNW"
-      },
-      {
-        "title": "U.S. Anthropic ban shows risk of relying on big AI models: Carney",
-        "description": "Mark Carney said the U.S. decision to block all foreign access to Anthropic PBC’s latest AI models underscores the risk of relying on just a handful of players.",
-        "url": "https://nationalpost.com/news/canada/u-s-ban-on-anthropic-ai-models-shows-world-needs-to-build-out-and-diversify",
-        "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/hcp_politics05132026_016_303122988.jpg",
-        "publishedAt": "2026-06-14T17:45:30Z",
-        "source": "National Post"
-      },
-      {
-        "title": "U.S. ban on Anthropic AI models shows world needs to 'build out and diversify': Carney",
-        "description": "Mark Carney said the U.S. decision to block all foreign access to Anthropic PBC’s latest AI models underscores the risk of relying on just a handful of players.",
-        "url": "https://calgaryherald.com/news/canada/u-s-ban-on-anthropic-ai-models-shows-world-needs-to-build-out-and-diversify/wcm/32eb3142-eb3d-4ec9-a77f-18e46eb9ef86",
-        "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/06/hcp_politics05132026_016_303122988.jpg",
-        "publishedAt": "2026-06-14T17:45:30Z",
-        "source": "Calgary Herald"
-      },
-      {
-        "title": "The upskilling imperative: TCS' plan on AI agents must spur a new approach",
-        "description": "IT majors, including TCS, recently experienced erosion in stock-market valuation mainly due to investor anxiety over AI threats as well as geopolitical factors",
-        "url": "https://www.business-standard.com/opinion/editorial/the-upskilling-imperative-tcs-plan-on-ai-agents-must-spur-a-new-approach-126061400883_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/10/thumb/fitandfill/1200X628/1775815432-6744.JPG",
-        "publishedAt": "2026-06-14T17:44:48Z",
-        "source": "Business Standard"
       }
     ]
   }
