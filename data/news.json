@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-19T17:04:41.485Z",
+  "fetchedAt": "2026-06-19T17:58:42.222Z",
   "sections": {
     "world": [
       {
-        "title": "Sinn Féin’s US fundraising and lobbying arm sent €41,000 to party in Belfast",
-        "description": "Latest filing by Friends of Sinn Féin shows it raised almost €100,000 in the US in six months",
-        "url": "https://www.irishtimes.com/politics/2026/06/19/sinn-feins-us-fundraising-and-lobbying-arm-sent-41000-back-to-party-in-belfast/",
-        "image": "https://www.irishtimes.com/resizer/v2/KFFHOLZE54QRYOCIKDGI3LFMHQ.jpg?smart=true&auth=a86ebcadbe8229e87f46ae30b2d8d7f9eff038fd946d90468c2ff21eac7ee5f9&width=1200&height=630",
-        "publishedAt": "2026-06-19T05:01:48Z",
-        "source": "The Irish Times"
+        "title": "U.S.-Iran talks postponed after Israel intensifies strikes in Lebanon",
+        "description": "Iranian officials didn’t travel as planned to Switzerland, insisting that fighting in Lebanon must stop before talks can take place, officials say",
+        "url": "https://www.theglobeandmail.com/world/article-israel-strikes-southern-lebanon-as-us-iran-talks-postponed/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/44CR4OOQRZHJ3II4G56QSQN6FA.jpg?auth=8f3c925e91745a6d30a7572737052762fd8323d4ba417544ecdc3de4debcbe6a&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-06-19T05:56:54Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "EU leaders to hold talks on common budget at Brussels summit as battle for cash begins",
-        "description": "EU governments will hold substantial negotiations on how to allocate €2 trillion of the European common budget over the next seven years, pitting frugals calling for cuts against member states defending money for agriculture to be preserved in tough talks ahead.",
-        "url": "https://www.euronews.com/my-europe/2026/06/19/eu-leaders-to-hold-talks-on-common-budget-at-brussels-summit-as-battle-for-cash-begins",
-        "image": "https://images.euronews.com/articles/stories/09/80/39/13/1200x675_cmsv2_8d88b676-45e2-5aa7-b4f9-e027097dd97d-9803913.jpg",
-        "publishedAt": "2026-06-19T05:00:18Z",
-        "source": "Euronews.com"
+        "title": "US-Iran Peace Deal Drops Netanyahu Into A Box As Election Deadline Nears",
+        "description": "Benjamin Netanyahu is constrained by Donald Trump's peace push on Iran and Lebanon. Here's what Israel can do now - and how it plays out domestically as elections loom.",
+        "url": "https://www.ndtv.com/world-news/us-iran-peace-deal-impact-on-israel-war-on-lebanon-hezbollah-benjamin-netanyahu-election-pressure-11658100",
+        "image": "https://c.ndtvimg.com/2026-06/lti2t32k_us-iran-peace-deal-impact-on-benjamin-netanyahu-israel-story-ai-image_625x300_19_June_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-06-19T05:53:37Z",
+        "source": "NDTV"
       },
       {
-        "title": "African Health Leaders and Partners Launch New Framework to Strengthen Sickle Cell Disease Care Across the Continent",
-        "description": "/PRNewswire/ -- African health leaders and partners today launched the Imara Sickle Cell Framework, a new regional initiative designed to help countries...",
-        "url": "https://www.prnewswire.com/news-releases/african-health-leaders-and-partners-launch-new-framework-to-strengthen-sickle-cell-disease-care-across-the-continent-302804716.html",
-        "image": "https://mmx.prnewswire.com/media/MS1869140/8721fe93c84e4e8ba07f530319e50c94.jpg?id=OA2725342&p=facebook",
-        "publishedAt": "2026-06-19T05:00:00Z",
-        "source": "PR Newswire"
+        "title": "The G7 summit and the death of Western cohesion",
+        "description": "The G7 is not dying; it is becoming irrelevant.",
+        "url": "https://news.cgtn.com/news/2026-06-19/The-G7-summit-and-the-death-of-Western-cohesion-1O69bbPbSI8/p.html",
+        "image": "https://news.cgtn.com/news/2026-06-19/The-G7-summit-and-the-death-of-Western-cohesion-1O69bbPbSI8/img/879623000254456fa0677e73ae355ba8/879623000254456fa0677e73ae355ba8-750.png",
+        "publishedAt": "2026-06-19T05:52:32Z",
+        "source": "news.cgtn.com"
       },
       {
-        "title": "EU leaders to hold talks on common budget at Brussels summit as battle for cash begins",
-        "description": "EU governments will hold substantial negotiations on how to allocate €2 trillion of the European common budget over the next seven years, pitting frugals calling for cuts against member states defendi...",
-        "url": "https://sg.news.yahoo.com/eu-leaders-hold-talks-common-050019902.html",
-        "image": "https://s.yimg.com/os/en/euronews_sg_articles_551/7bdf43999aa91f0825c878a54558b8f8",
-        "publishedAt": "2026-06-19T05:00:00Z",
-        "source": "Yahoo News Singapore"
+        "title": "US lifts blockade on Iranian ports after initial peace deal",
+        "description": "The United States has announced the lifting of its blockade on Iranian ports around the Strait of Hormuz following the signing of an initial peace",
+        "url": "https://dailypost.ng/2026/06/19/us-lifts-blockade-on-iranian-ports-after-initial-peace-deal/",
+        "image": "https://dailypost.ng/wp-content/uploads/2026/06/000-B2984AP.jpg",
+        "publishedAt": "2026-06-19T05:52:16Z",
+        "source": "Daily Post Nigeria"
       },
       {
-        "title": "Burnham's emphatic win leaves Starmer and Labour MPs with big decision",
-        "description": "The PM will see the stonking scale of Andy Burnham's victory - will it shift his outlook, his defiance, so frequently recently expressed?",
-        "url": "https://www.bbc.com/news/articles/cqx1eq5e71zo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/312b/live/eb032fb0-6ba0-11f1-b1db-af71d47507d6.jpg",
-        "publishedAt": "2026-06-19T04:58:52Z",
-        "source": "BBC"
+        "title": "Pope Leo XIV: Failure to Understand Eastern Christianity Impoverishes the Church",
+        "description": "The pope addressed members of the Reunion of Aid Agencies for the Oriental Churches at the Vatican on June 18.",
+        "url": "https://www.aciafrica.org/news/22465/pope-leo-xiv-failure-to-understand-eastern-christianity-impoverishes-the-church",
+        "image": "https://www.aciafrica.org/images/_tom4595_1_f5zgst.jpg?w=1200&format=jpeg",
+        "publishedAt": "2026-06-19T05:50:21Z",
+        "source": "aciafrica.org"
       },
       {
-        "title": "Leaving corporate life in Manchester for Khagrachhari forests, Mahfuz Russel now set to receive national award",
-        "description": "His 75-acre natural mixed evergreen forest, named “Pitachhara,” in Purba Khedachhara of Matiranga upazila in Khagrachhari, is now regarded as an important refuge for endangered wildlife.",
-        "url": "https://www.tbsnews.net/features/leaving-corporate-life-manchester-khagrachhari-forests-mahfuz-russell-now-set-receive",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/19/p5_mahfuz_russell.jpeg",
-        "publishedAt": "2026-06-19T04:55:01Z",
-        "source": "The Business Standard"
+        "title": "18 Dead In Israeli Strikes On Lebanon As US-Iran Talks Pushed Back",
+        "description": "Lebanon's state-run National News Agency reported at least 16 people were killed in Israeli airstrikes, which the Israeli military said were ongoing.",
+        "url": "https://www.ndtv.com/world-news/us-iran-war-16-dead-in-israeli-strikes-on-lebanon-as-us-iran-talks-pushed-back-11658114",
+        "image": "https://c.ndtvimg.com/2026-06/1pa412bs_lebanon_625x300_19_June_26.jpeg",
+        "publishedAt": "2026-06-19T05:50:00Z",
+        "source": "NDTV"
       },
       {
-        "title": "US accused of trying to 'edit out' climate change in Antarctic report",
-        "description": "The US has been criticised over its reluctance to refer to \"climate change\" at a major Antarctic meeting, with France describing it as a \"dangerous precedent\" that risks undermining science.",
-        "url": "https://www.abc.net.au/news/2026-06-19/united-states-accused-of-climate-change-edit-antarctic-report/106818680",
-        "image": "https://live-production.wcms.abc-cdn.net.au/b797a2d32ba702838f7ca7364e731ee2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=81&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-06-19T04:54:59Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Suspected detection of H5 strain of bird flu in WA, which would mark first detection in Australia",
+        "description": "The first suspected case of a deadly strain of bird flu that has killed millions of birds and mammals worldwide has been found in Western Australia, the federal government has confirmed.",
+        "url": "https://www.rnz.co.nz/news/world/602245/suspected-detection-of-h5-strain-of-bird-flu-in-wa-which-would-mark-first-detection-in-australia",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--TB6fM6fI--/t_tohu-badge-facebook/f_auto/q_auto/4JMS2KU_34f0fc3dc84c6a6c177008ed72aa71b4_avif",
+        "publishedAt": "2026-06-19T05:49:12Z",
+        "source": "RNZ"
       },
       {
-        "title": "Shoe garland hung on MP Archuna’s portrait in Jaffna",
-        "description": "A shoe garland has been placed on a portrait of Member of Parliament Archuna Ramanathan in Jaffna.",
-        "url": "https://www.dailymirror.lk/breaking-news/Shoe-garland-hung-on-MP-Archunas-portrait-in-Jaffna/108-343377",
-        "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_330f4da31f.jpg",
-        "publishedAt": "2026-06-19T04:53:00Z",
-        "source": "Daily Mirror - Sri Lanka"
+        "title": "Right To Have Footpath A Fundamental Right; Motorists Can't Negate Pedestrians' Rights : Supreme Court",
+        "description": "The Court held that authorities have the corresponding duty to construct and safeguard demarcated footpaths for walking.",
+        "url": "https://www.livelaw.in/supreme-court/pedestrians-have-fundamental-right-to-have-footpath-motorists-cant-negate-right-to-walk-supreme-court-538327",
+        "image": "https://www.livelaw.in/h-upload/2025/07/15/610008-justice-ps-narasimha-justice-chandurkar-sc.jpg",
+        "publishedAt": "2026-06-19T05:48:09Z",
+        "source": "Live Law"
       }
     ],
     "business": [
       {
-        "title": "Bitcoin has traded below its mining cost for five months, squeezing miners",
-        "description": "About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
-        "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7719760d84b5542b3a47e5e93368d3875db010-1024x759.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-19T05:04:24Z",
-        "source": "CoinDesk"
+        "title": "Humanoid Robots: 18 Companies Racing To Build The Next Big Thing In AI",
+        "description": "From Tesla and Boston Dynamics to Figure AI, Unitree, UBTech and 1X, these are the companies shaping one of the most exciting new frontiers in robotics.",
+        "url": "https://www.forbes.com/sites/bernardmarr/2026/06/19/humanoid-robots-18-companies-racing-to-build-the-next-big-thing-in-ai/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a34d9b086fc27e09a0bb042/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-19T05:56:50Z",
+        "source": "Forbes"
       },
       {
-        "title": "How Holcim is expanding in high-value Building Solutions",
-        "description": "By acquiring Xella, a European leader in sustainable and innovative walling systems, Holcim is expanding its portfolio with premium brands for the new build and energy-efficient repair and refurbishment markets.",
-        "url": "https://www.holcim.com/who-we-are/our-stories/expanding-in-high-value-building-solutions",
-        "image": "https://www.holcim.com/sites/holcim/files/styles/large/public/img/dji_20260521162344_0148_d_12.jpg.webp?itok=0qBmrwrA",
-        "publishedAt": "2026-06-19T05:03:40Z",
-        "source": "Holcim"
+        "title": "2026 Nissan Kicks launched in Japan – all",
+        "description": "The second-generation Nissan Kicks has finally been launched in its home market of Japan, some two years after it was revealed in the US. Unlike its predecessor, the new P16 model is built at the …",
+        "url": "https://paultan.org/2026/06/19/2026-nissan-kicks-launched-in-japan-all-new-2nd-gen-based-on-us-model-with-e-power-awd-hybrid/",
+        "image": "https://paultan.org/image/2026/06/2026-Nissan-Kicks-Japan-31-e1781847060400-1200x752.jpg",
+        "publishedAt": "2026-06-19T05:52:06Z",
+        "source": "Paul Tan"
       },
       {
-        "title": "Holcim completes acquisition of Xella",
-        "description": "A European leader in the highly attractive walling market with projected 2026 net sales of EUR 1 billion Complementary building solutions offering to Holcim...",
-        "url": "https://www.holcim.com/media/media-releases/holcim-completes-acquisition-xella",
-        "image": "https://www.holcim.com/themes/custom/corporate/images/favicon/favicon.ico",
-        "publishedAt": "2026-06-19T05:03:21Z",
-        "source": "Holcim"
+        "title": "Brokers name 3 ASX shares to buy right now",
+        "description": "Brokers have named Santos Ltd (ASX: STO) and two other ASX shares as buys this week. Here's why they are bullish on them...",
+        "url": "https://www.fool.com.au/2026/06/19/brokers-name-3-asx-shares-to-buy-right-now-19-june-2026/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2022/05/lightbulbs-1200x675.jpg",
+        "publishedAt": "2026-06-19T05:50:07Z",
+        "source": "The Motley Fool Australia"
       },
       {
-        "title": "Atto 2 DM-i PHEV previewed at BYD Tech Tour in Clark",
-        "description": "BYD Atto 2 DM-i plug-in hybrid B-SUV previewed ahead of PH launch",
-        "url": "https://www.autoindustriya.com/auto-industry-news/atto-2-dm-i-phev-previewed-at-byd-tech-tour-in-clark.html",
-        "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/06/8ddb68e6-876a-45e1-a83f-5a415d35debe-atto21-1.jpg",
-        "publishedAt": "2026-06-19T05:03:07Z",
-        "source": "AutoIndustriya"
+        "title": "Big-time oil price drop locked in as global markets cool down",
+        "description": "Motorists are on track for major relief at the pumps next week, with diesel prices poised to plunge by up to ₱9.5 per liter and gasoline by up to ₱5.00 per...",
+        "url": "https://mb.com.ph/2026/06/19/big-time-oil-price-drop-locked-in-as-global-markets-cool-down",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/19/109959.webp",
+        "publishedAt": "2026-06-19T05:44:17Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "SBCI finds one in 20 home energy upgrade loans in breach of terms",
-        "description": "Two-year-old scheme has had 1,135 loans to a combined value of more than €56bn drawn down",
-        "url": "https://www.irishtimes.com/business/2026/06/19/sbci-finds-one-in-20-home-energy-upgrade-loans-in-breach-of-terms/",
-        "image": "https://www.irishtimes.com/resizer/v2/KZWCSUJQVVA3TFX3VIOJ2VU7KE.JPG?smart=true&auth=e36953507ac9e90421938897004c84d5b15c7eb326c144634946c5885b450ad7&width=1200&height=630",
-        "publishedAt": "2026-06-19T05:02:49Z",
-        "source": "The Irish Times"
+        "title": "VS Industry flags challenging outlook after slipping into the red in 3Q",
+        "description": "KUALA LUMPUR (June 19): VS Industry Bhd (KL:VS) said on Friday that its operating environment will remain challenging for the rest of the financial year, after slipping into the red in its latest results.",
+        "url": "https://theedgemalaysia.com/node/807521",
+        "image": "https://assets.theedgemarkets.com/logo-building-Mon24062024-press-rel-APP-20250605130116_VS-Industry-Bhd_4_1_1.jpg",
+        "publishedAt": "2026-06-19T05:43:25Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "Tenant forced to ‘walk the streets’ after illegal eviction awarded €8,000 in damages",
-        "description": "Residential Tenancies Board tribunal describes steps required to recover belongings as ‘intimidatory’",
-        "url": "https://www.irishtimes.com/ireland/2026/06/19/tenant-forced-to-walk-the-streets-after-illegal-eviction-awarded-8000-in-damages/",
-        "image": "https://www.irishtimes.com/resizer/v2/KQ3ENUVTYJA6NEBKF6VREJTENM.jpg?smart=true&auth=3fa6f6f42296f2631f1dee64d7321695ea0a124c8a15d4baf2986d8fdcd85c46&width=1200&height=630",
-        "publishedAt": "2026-06-19T05:01:48Z",
-        "source": "The Irish Times"
+        "title": "Lexus ES BEV 2026 PH debut teased",
+        "description": "Lexus Philippines teases an all-new offering in what could be the Lexus ES BEV 2026. Read more here.",
+        "url": "https://www.topgear.com.ph/news/car-news/lexus-es-bev-2026-ph-teaser-a6888-20260619?ref=home_feed_1",
+        "image": "http://images.topgear.com.ph/topgear/images/2025/04/23/lexus-es-2026-13-1745379454.webp",
+        "publishedAt": "2026-06-19T05:40:00Z",
+        "source": "Top Gear Philippines"
       },
       {
-        "title": "Porter Privé takes over former Grafter offices used by OpenAI",
-        "description": "Emma Kennedy’s new venture now manages three Dublin city centre locations once controlled by Paddy McKillen jnr’s office business",
-        "url": "https://www.irishtimes.com/business/2026/06/19/porter-prive-takes-over-former-grafter-offices-used-by-openai/",
-        "image": "https://www.irishtimes.com/resizer/v2/U7JO6372QJEZLJ3DJ5E4YSMH2Y.JPG?smart=true&auth=79326a9e6c00698e96f844d3478ff2dbc6ffa876228a2bc2246cf5fd3741e954&width=1200&height=630",
-        "publishedAt": "2026-06-19T05:01:11Z",
-        "source": "The Irish Times"
+        "title": "Apple to work with Intel on US chip design and production, Trump says",
+        "description": "Apple has agreed to work with Intel on designing and producing chips in the U.S., President Donald Trump announced on Thursday.",
+        "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/donald-trump-tim-cook-wh.jpg?ve=1&tl=1",
+        "publishedAt": "2026-06-19T05:37:00Z",
+        "source": "Fox Business"
       },
       {
-        "title": "Look under the hood. There are ‘echoes of 2006’ in the Irish economy",
-        "description": "Trump says Iran peace deal has averted ‘worldwide depression’ but closer to home experts worry prices will continue to rise regardless",
-        "url": "https://www.irishtimes.com/business/2026/06/19/look-under-the-hood-and-there-are-echoes-of-2006-about-true-health-of-irish-economy/",
-        "image": "https://www.irishtimes.com/resizer/v2/UMGMKIDGN4M5D27WCATBYTWXB4.jpg?smart=true&auth=87866729d80e1a6c96dc2736787989c1bb96366f338afff2c6ad6d18fa96fc1f&width=1200&height=630",
-        "publishedAt": "2026-06-19T05:01:11Z",
-        "source": "The Irish Times"
+        "title": "How one Irish mortgage broker is hiring even more people during the age of AI",
+        "description": "With AI taking care of the admin, the human resource at Finance Solutions helped 4,000 people to buy a home last year.",
+        "url": "https://www.thejournal.ie/ai-technology-helping-first-time-buyers-7068908-Jun2026/",
+        "image": "https://img2.thejournal.ie/article/7068908/river/?height=400&version=7068964",
+        "publishedAt": "2026-06-19T05:35:41Z",
+        "source": "The Journal"
       }
     ],
     "science": [
+      {
+        "title": "A mother-daughter divers made a record-breaking discovery in the Great Barrier Reef",
+        "description": "A mother-daughter diving team discovered a coral colony half the size of a soccer field while monitoring the Great Barrier Reef.",
+        "url": "https://www.womensweekly.com.au/news/real-life/great-barrier-reef-coral-colony-discovery/",
+        "image": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/3/2026/06/aww_2606_divers_image-04-6a3380fe34b19.png?resize=1200%2C630",
+        "publishedAt": "2026-06-19T05:33:31Z",
+        "source": "The Australian Women's Weekly"
+      },
+      {
+        "title": "Sungkyunkwan University researchers develop technology for brain",
+        "description": "A Sungkyunkwan University research team has developed a technology that can strengthen or weaken the memory of an artificial intelligence (AI) semi...",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20260619/sungkyunkwan-university-researchers-develop-technology-for-brain-like-balanced-learning",
+        "image": "https://newsimg.koreatimes.co.kr/2026/06/19/663da64c-41c8-445d-8878-65aa1f39b2fb.jpg",
+        "publishedAt": "2026-06-19T05:30:04Z",
+        "source": "The Korea Times"
+      },
+      {
+        "title": "Underwater gliders set off on major Mediterranean research mission",
+        "description": "Ten underwater gliders have been launched from Villefranche-sur-Mer to study marine life, ocean currents and climate change in the Mediterranean between the French Riviera and Corsica.",
+        "url": "https://www.rivieraradio.mc/article/underwater-gliders-set-off-on-major-mediterranean-research-mission-5Hjdbp4_2/",
+        "image": "https://images.globalplayer.com/images/821906?crop=16_9&width=1200&signature=lnnZ38YaCGkgEZGwONraPhE0Wjg=",
+        "publishedAt": "2026-06-19T05:30:00Z",
+        "source": "Riviera Radio"
+      },
+      {
+        "title": "DNA time stamps reveal the strawberry’s surprising origins",
+        "description": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were assembled through multiple ancient genome-merging events, shedding new light on how major crop species evolved.",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
+        "image": "https://www.sciencedaily.com/images/1920/juicy-red-strawberries.webp",
+        "publishedAt": "2026-06-19T05:29:32Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "DNA time stamps reveal the strawberry’s surprising origins",
+        "description": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were assembled through multiple ancient genome-merging events, shedding new light on how major crop species evolved.",
+        "url": "http://www.sciencedaily.com/releases/2026/06/260618041515.htm",
+        "image": "https://www.sciencedaily.com/images/1920/juicy-red-strawberries.webp",
+        "publishedAt": "2026-06-19T05:29:32Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Mercury was once expected to be far too hot for ice, sitting closest to the Sun — but radar observations revealed bright patches near its poles, and NASA’s MESSENGER spacecraft later confirmed that ma",
+        "description": "Arecibo radar found bright polar patches on Mercury in 1991; MESSENGER confirmed water ice in 2012 through three converging measurements. The reason ice survives on the hottest planet is geometry: a near-zero axial tilt leaves crater floors in permanent shadow at about minus 170C.",
+        "url": "https://spacedaily.com/t-mercury-was-once-expected-to-be-far-too-hot-for-ice-sitting-closest-to-the-sun-but-radar-observations-revealed-bright-patches-near-its-poles-and-nasas-messenger-spacecraft-later-c/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/mercury-polar-ice-craters.jpg",
+        "publishedAt": "2026-06-19T05:27:01Z",
+        "source": "Space Daily"
+      },
       {
         "title": "Fossils challenge assumptions on how animals adapted to land",
         "description": "NEW YORK — Scientists have long posited the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.",
@@ -150,120 +198,72 @@
         "image": "https://www.sciencedaily.com/images/1920/supermassive-black-hole-in-ngc-4151.webp",
         "publishedAt": "2026-06-19T04:28:32Z",
         "source": "ScienceDaily"
-      },
-      {
-        "title": "Fossils challenge assumptions on how animals adapted to land",
-        "description": "Scientists have long posited the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.",
-        "url": "https://www.news.com.au/breaking-news/fossils-challenge-assumptions-on-how-animals-adapted-to-land/news-story/25c1871bcb2ac7b0bd58a08d7727bba5",
-        "image": "https://content.api.news/v3/images/bin/29f99328977201322f89b0fe2abf9be7",
-        "publishedAt": "2026-06-19T04:26:05Z",
-        "source": "News.com.au"
-      },
-      {
-        "title": "Fossils challenge assumptions on how animals adapted to land",
-        "description": "Scientists have long posited the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.",
-        "url": "https://www.france24.com/en/live-news/20260619-fossils-challenge-assumptions-on-how-animals-adapted-to-land",
-        "image": "https://s.france24.com/media/display/14425e6c-6b94-11f1-a8a9-005056a90284/w:1280/p:16x9/d96a031eb61d9c3bd6b17e8bea26f0914460fe92.jpg",
-        "publishedAt": "2026-06-19T04:05:18Z",
-        "source": "France 24"
-      },
-      {
-        "title": "Fossils challenge assumptions on how animals adapted to land",
-        "description": "Scientists have long posited the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.That's not what we would expe...",
-        "url": "https://sg.news.yahoo.com/fossils-challenge-assumptions-animals-adapted-040314821.html",
-        "image": "https://s.yimg.com/os/en/afp.com.sg/60e558ab557cb336c9b57650eff46481",
-        "publishedAt": "2026-06-19T04:03:00Z",
-        "source": "Yahoo News Singapore"
-      },
-      {
-        "title": "Best Astronomy Photos of the Week: Planetary Conjunctions, Deep",
-        "description": "The best astronomy photos of the week collection features stunning planetary conjunctions, deep-sky nebulae, and rare auroral phenomena.",
-        "url": "https://orbitaltoday.com/2026/06/19/best-astronomy-photos-of-the-week-planetary-conjunctions-deep-sky-nebulae-steve-and-more/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/06/Luna–Venus-Conjunction-UK-2.jpg",
-        "publishedAt": "2026-06-19T04:02:51Z",
-        "source": "Orbital Today"
-      },
-      {
-        "title": "Dennis Hope has been selling acres of the moon for about $20 each since 1980, reportedly moving over 2.5 million parcels - every deed voided by a treaty he claims says nothing about private citizens",
-        "description": "Since 1980, Dennis Hope has sold more than 2.5 million lunar acres at around $20 each, building a 46-year novelty empire on a single loophole in the 1967 Outer Space Treaty — one that international lawyers say does not exist.",
-        "url": "https://spacedaily.com/j-v-dennis-hope-has-been-selling-acres-of-the-moon-for-about-20-each-since-1980-reportedly-moving-over-25-million-parcels-every-deed-voided-by-a-treaty-he-claims-says-nothing-about-private-citizens/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/j-dennis-hope-has-been-selling-acres-of-the-moon-for-about-2.jpg",
-        "publishedAt": "2026-06-19T03:55:28Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "NASA partners with Relativity Space on Aeolus Mars Mission",
-        "description": "SatellitePro ME is a leading publication covering satellite, space, broadcast, OTT and telecom industries across the Middle East and Africa, featuring news, insights, analysis and industry events.",
-        "url": "https://satelliteprome.com/news/nasa-partners-with-relativity-space-on-aeolus-mars-mission/",
-        "image": "https://satelliteprome.com/wp-content/uploads/2026/06/Mars-Science.jpg",
-        "publishedAt": "2026-06-19T03:52:00Z",
-        "source": "SatellitePro ME"
       }
     ],
     "ai": [
       {
-        "title": "Galbraith’s bezzle lurks beneath the AI frenzy",
-        "description": "The economist ⁠argued the ​stock of ‘undiscovered embezzlement’ ​expands during good times. Circular financing, ​exaggerated profits, ​understated costs and hidden ‌liabilities ⁠are recurring themes. The AI boom offers ​many ​warning ⁠signs that such behaviour ​is back.",
-        "url": "https://www.reuters.com/commentary/breakingviews/galbraiths-bezzle-lurks-beneath-ai-frenzy-2026-06-19/",
-        "image": "https://www.reuters.com/resizer/v2/NT74REUA6BLKZFC4OR6IUVKS6Y.jpg?auth=d9cbd1d040e459574e98ef7dd1850ae5ae6c6e38b81359cf64e5f432bad0258c&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-06-19T05:01:07Z",
-        "source": "Reuters"
+        "title": "Amazon employees who called out its data centre expansion are under investigation, here is why",
+        "description": "Amazon is allegedly investigating employees who criticised the company's rapid expansion of artificial intelligence data centres and supported tighter regulation of such projects in Seattle.",
+        "url": "https://www.indiatoday.in/technology/news/story/amazon-employees-who-called-out-its-data-centre-expansion-are-under-investigation-here-is-why-2929639-2026-06-19",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/amazon-q1-2026-results-303200386-16x9.jpg?VersionId=D7ZKpqj7oEMK68I1e_sK2wRvtNweKPMa",
+        "publishedAt": "2026-06-19T05:52:37Z",
+        "source": "India Today"
       },
       {
-        "title": "Meredith Whittaker",
-        "description": "The president of the encrypted messaging app says autonomous AI agents, device scanning and digital advertising are converging into a new architecture of surveillance.",
-        "url": "https://www.bloomberg.com/features/2026-meredith-whittaker-weekend-interview/",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is_Xw4eDNgxk/v0/-1x-1.png",
-        "publishedAt": "2026-06-19T05:00:22Z",
-        "source": "Bloomberg"
+        "title": "SIFF Launches \"AI BACKLOT\": A New Frontier in AI-Film Collaboration",
+        "description": "/PRNewswire/ -- The 28th Shanghai International Film Festival (SIFF) has unveiled \"AI BACKLOT\", a pioneering initiative exploring the integration of artificial...",
+        "url": "https://www.prnewswire.co.uk/news-releases/siff-launches-ai-backlot-a-new-frontier-in-ai-film-collaboration-302805212.html",
+        "image": "https://mmx.prnewswire.com/media/MS1869399/50350b6d57ee43dd94adec589094bf04.jpg?id=OA2725907&p=facebook",
+        "publishedAt": "2026-06-19T05:51:00Z",
+        "source": "PR Newswire UK"
       },
       {
-        "title": "NSE IPO, Bata revival and Nykaa growth: Gaurang Shah's market playbook",
-        "description": "Geojit Investments' Gaurang Shah sees selective opportunities in India's equity markets despite global uncertainties. He highlights potential for Bata India under new leadership, Nykaa's AI-driven growth, and favors defence, asset management, and power sectors. The upcoming NSE IPO is also viewed as a significant positive for the capital market ecosystem.",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/nse-ipo-bata-revival-and-nykaa-growth-gaurang-shahs-market-playbook/articleshow/131847329.cms",
-        "image": "https://img.etimg.com/thumb/msid-131847331,width-1200,height-630,imgsize-30168,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-06-19T05:00:00Z",
-        "source": "The Economic Times"
+        "title": "Fair Work says stopping AI dismissal claims is an exercise in futility",
+        "description": "Fair Work’s general manager has conceded that it would be “an exercise in futility” to try to stop artificial intelligence affecting the operations of the workplace umpire.",
+        "url": "https://www.afr.com/work-and-careers/workplace/from-cut-and-paste-to-days-of-work-how-ai-is-used-on-dismissal-claims-20260619-p608as",
+        "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/74f97dc76b689a9876f20477f892998c031af9fa0de0e221376997047731daf4",
+        "publishedAt": "2026-06-19T05:50:49Z",
+        "source": "Australian Financial Review"
       },
       {
-        "title": "Affinidi and CardInfoLink Put the Missing Trust Layer for AI Agents into Production",
-        "description": "Singapore, June 19: CardInfoLink has deployed Agent Gateway on Agenzo, its agentic commerce platform for travel and hospitality merchants, making it what is believed to be the first commercial deployment in Asia to operate AI agents under an independent trust and governance layer. Every AI agent connecting to CardInfoLink's merchants does so through a governed, auditable channel, on open standards, without disrupting the payment infrastructure beneath it. CardInfoLink operates live merchant-acquiring infrastructure across Asia, with more than 15 years in payment processing. Affinidi is an active contributor to the Linux Foundation and the standards bodies shaping the next wave of digital trust infrastructure.",
-        "url": "https://www.tribuneindia.com/news/business/affinidi-and-cardinfolink-put-the-missing-trust-layer-for-ai-agents-into-production/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgwZDg1NDgwLTZiOWItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-19T04:58:18Z",
-        "source": "The Tribune"
+        "title": "Congress, BJP Spar Over Anthropic CEO’s ‘Disorganised’ India AI Summit Remark",
+        "description": "Amodei described the India AI Summit as “extremely disorganised” while explaining an awkward on-stage moment involving Sam Altman and himself during a group photo session.",
+        "url": "https://www.news18.com/india/congress-bjp-spar-over-anthropic-ceos-disorganised-india-ai-summit-remark-ws-l-10160128.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/06/Untitled-design-2026-06-19T111429.657-2026-06-b52caff23a0371894c6eb798fb4b7a88-1200x675.jpg",
+        "publishedAt": "2026-06-19T05:50:41Z",
+        "source": "News18"
       },
       {
-        "title": "Foxconn Chief Warns of Rising Power, Capital Strain Due to AI Data Center Boom",
-        "description": "Hon Hai Precision Industry or Foxconn's chairman, Liu Yang-wei, warned that the rapid expansion of artificial intelligence data centers is causing significant electricity and capital constraints,...",
-        "url": "https://www.marketscreener.com/news/foxconn-chief-warns-of-rising-power-capital-strain-due-to-ai-data-center-boom-ce7f5cd2db8ff022",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-        "publishedAt": "2026-06-19T04:57:17Z",
-        "source": "MarketScreener"
+        "title": "How Elon Musk’s Grok AI Helped Donald Trump And Co. Fire 2,000 Missiles At Iran",
+        "description": "Elon Musk's AI chatbot, Grok, has ignited controversy after a senior Pentagon official disclosed its involvement in military operations that launched over 2,000 missiles in 96 hours., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/how-elon-musks-grok-ai-helped-donald-trump-and-co-fire-2000-missiles-at-iran-article-154681729",
+        "image": "https://images.timesnownews.com/thumb/msid-154681729,width-1280,height-720,resizemode-75/154681729.jpg",
+        "publishedAt": "2026-06-19T05:48:48Z",
+        "source": "Times Now"
       },
       {
-        "title": "Reliance AGM 2026 LIVE: Jio IPO, Reliance Retail listing to AI strategy - what to expect from Mukesh Ambani’s speech",
-        "description": "Reliance AGM 2026 LIVE: Mukesh Ambani will address shareholders at Reliance Industries’ 49th AGM today at 2 PM. Investors will track announcements on Jio IPO, Reliance Retail listing timeline, AI and data centre investments, new energy projects, among others and Reliance share price movement.",
-        "url": "https://www.livemint.com/market/stock-market-news/reliance-agm-2026-live-updates-mukesh-ambani-speech-jio-ipo-reliance-retail-ai-new-energy-ril-share-price-19-june-2026-11781844327221.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/19/1600x900/logo/3664e1a8-4556-11ed-b45c-96b88fd91a1d_1672219055584_1672219055584_1781844985672_bd900815-b9a4-48a4-90fb-4952728fe780.jpg",
-        "publishedAt": "2026-06-19T04:57:03Z",
-        "source": "Livemint"
+        "title": "PRESS DIGEST-Financial Times - June 19",
+        "description": "The Financial Times reports that German electricity grid equipment maker SGB-SMIT is in early talks for an initial public offering, amid surging demand for AI-linked assets.",
+        "url": "https://www.devdiscourse.com/article/business/3937304-press-digest-financial-times---june-19",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_24_6979208.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-06-19T05:47:30Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "The human brain is not a machine",
-        "description": "This common comparison invites us to see ourselves as sub-optimal alternatives to AI agents",
-        "url": "https://www.irishtimes.com/business/2026/06/19/the-human-brain-is-not-a-machine/",
-        "image": "https://www.irishtimes.com/resizer/v2/BDYRJ4VK55DCLARSVKC55XIAR4.jpg?smart=true&auth=d57905eaa815e2ab30d92f60f40f561242d95d276fe23ed0c8a75129d8b30cb3&width=1200&height=630",
-        "publishedAt": "2026-06-19T04:54:00Z",
-        "source": "The Irish Times"
+        "title": "AI museum brings sights, sounds and smells of the rainforest",
+        "description": "LOS ANGELES (UNITED STATES) - The squawks of macaws, the smell of wet earth after rain and a swirl of colours will transport visitors from a Los Angeles museum to the heart of the Amazon rainforest -- or rather, an AI version of it.",
+        "url": "https://www.bangkokpost.com/world/3273320/ai-museum-brings-sights-sounds-and-smells-of-the-rainforest",
+        "image": "https://static.bangkokpost.com/media/content/20260619/c1_6127295_700.jpg",
+        "publishedAt": "2026-06-19T05:45:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "‘Extremely disorganised’: Anthropic CEO clears the air over viral hand-holding moment at India’s AI Summit",
-        "description": "Dario Amodei was careful to frame his comments as a critique of the logistics typical of high-profile international summits rather than a rebuke of the host nation. “I am not saying anything bad about India in particular, but like all of these kinds of international summits that have heads of state are super disorganised,” he said.",
-        "url": "https://www.financialexpress.com/trending/extremely-disorganised-anthropic-ceo-clears-the-air-over-viral-hand-holding-moment-at-indias-ai-summit/4271225/",
-        "image": "https://images.financialexpressdigital.com/2026/06/ANTHROPIC-DarioAmodei.webp",
-        "publishedAt": "2026-06-19T04:53:57Z",
-        "source": "The Financial Express"
+        "title": "Accenture Warning Triggers ₹2 Lakh Crore Selloff In Indian IT Stocks",
+        "description": "Indian IT stocks plunged sharply after Accenture cut its revenue guidance and flagged weak client spending despite AI optimism. Major IT firms like TCS, Infosys, and Wipro fell up to 6%, wiping out nearly ₹2 lakh crore in market value. Investors fear prolonged global demand weakness in tech services",
+        "url": "https://www.freepressjournal.in/business/accenture-warning-triggers-2-lakh-crore-selloff-in-indian-it-stocks",
+        "image": "https://media.assettype.com/freepressjournal/2025-12-09/u7il3unb/share-market.jpg",
+        "publishedAt": "2026-06-19T05:44:17Z",
+        "source": "Free Press Journal"
       }
     ]
   }
