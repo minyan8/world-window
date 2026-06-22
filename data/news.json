@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-22T11:13:36.031Z",
+  "fetchedAt": "2026-06-22T13:13:00.772Z",
   "sections": {
     "world": [
       {
-        "title": "At least seven people killed in Chicago shootings as Trump renews military call",
-        "description": "Mayor says ‘violence has no place in our city’ as president criticizes governor for not accepting national guard troops",
-        "url": "https://www.theguardian.com/us-news/2026/jun/21/chicago-shootings-trump",
-        "image": "https://i.guim.co.uk/img/media/75e76417c131cdf00ca865beaabf5227bda09885/974_723_3589_2873/master/3589.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e71d024d43f908df92a81a18ba753a7b",
-        "publishedAt": "2026-06-21T23:08:00Z",
-        "source": "The Guardian"
+        "title": "Talks on the brink: Iranian delegation walks out after Trump continues threats amid peace negotiations",
+        "description": "BUERGENSTOCK, June 22 — Iran-US peace talks in Switzerland stretched ​into their second day on Monday, after a tense opening marked by Tehran’s announcement it had again...",
+        "url": "https://www.malaymail.com/news/world/2026/06/22/talks-on-the-brink-iranian-delegation-walks-out-after-trump-continues-threats-amid-peace-negotiations/224675",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/22/347888.JPG",
+        "publishedAt": "2026-06-22T01:12:32Z",
+        "source": "Malay Mail"
       },
       {
-        "title": "Iran warns of heavy, regretful response to any violation of US MoU",
-        "description": "General Ebnolreza emphasized that despite the signing of the MoU, Iran’s armed forces have not lowered their guard.",
-        "url": "https://www.presstv.ir/Detail/2026/06/21/770875/Iran-warns-of-heavy-regretful-response-to-any-violation-of-US-MoU",
-        "image": "https://cdn.presstv.ir/Photo/2026/6/21/9b9c1aed-6225-45e8-9fa2-117855fa5afd.jpg",
-        "publishedAt": "2026-06-21T23:05:00Z",
-        "source": "PressTV"
+        "title": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda",
+        "description": "Health officials defend the restrictions, but traders say the measures have disrupted the flow of goods and income.",
+        "url": "https://www.aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-27T081921Z_1380382059_RC2A6JA17GY2_RTRMADP_3_CONGO-SECURITY-M23-ANNIVERSARY-1769610707.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-06-22T01:09:37Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Oliver’s mum was a narcissist and his dad avoidant. His own breakup forced him to address his dysfunctional childhood",
-        "description": "Not every adult escapes their difficult childhood. And learning what a healthy relationship feels like takes time",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/22/childhood-trauma-learnt-behaviours-narcissist-mother-avoidant-father-dysfunctional-adulthood",
-        "image": "https://i.guim.co.uk/img/media/7b724b441f28c36a510800f6b02814e1b5d8be3e/240_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=660522e38cba9322326bf5f401916ab0",
-        "publishedAt": "2026-06-21T23:05:00Z",
-        "source": "The Guardian"
+        "title": "Schreiber announces cancellation of 2,000 fraudulent study visas in migration crackdown",
+        "description": "Home Affairs is preparing to cancel more than 2,000 fraudulently obtained study visas after an SIU investigation uncovered widespread irregularities, with officials describing the clean-up of immigration records as an ongoing process.",
+        "url": "https://iol.co.za/news/south-africa/2026-06-15-schreiber-announces-cancellation-of-2000-fraudulent-study-visas-in-migration-crackdown/",
+        "image": "https://iol-prod.appspot.com/image/461d1fa07aaca267c5e68a4f9d9e4608ed1e0b78/1000/jpeg",
+        "publishedAt": "2026-06-22T01:07:05Z",
+        "source": "IOL"
       },
       {
-        "title": "President Herminie Pays Tribute to...",
-        "description": "President herminie pays tribute: The President of the Republic, Dr Patrick Herminie, joins the nation in celebrating Father's Day and pays tribute to all",
-        "url": "https://africa.com/president-herminie-pays-tribute-to-fathers-across-seychelles-on-fathers-day/",
-        "image": "https://i2.wp.com/www.africa-newsroom.com/files/large/6932f83a1126d4b?ssl=1",
-        "publishedAt": "2026-06-21T23:02:09Z",
-        "source": "Africa.com"
+        "title": "Australian police seize record-breaking 2.7 tonnes of cocaine",
+        "description": "A record 2.7 tonnes of cocaine worth an estimated street value of A$816 million (NZ$996m) has been seized at a semi-rural property in Greater Western Sydney.",
+        "url": "https://www.rnz.co.nz/news/world/615187/australian-police-seize-record-breaking-2-point-7-tonnes-of-cocaine",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--wa-QDrtZ--/t_tohu-badge-facebook/f_auto/q_auto/4JMMW5P_The_multi_agency_operation_into_the_alleged_scheme_started_in_Queensland_last_month_AFP_avif",
+        "publishedAt": "2026-06-22T01:05:12Z",
+        "source": "RNZ"
       },
       {
-        "title": "Arab Coordination Group (ACG) and Côte...",
-        "description": "Arab coordination group acg: The Government of Côte d’Ivoire, in partnership with the Arab Coordination Group (ACG) (https://TheACG.org), successfully",
-        "url": "https://africa.com/arab-coordination-group-acg-and-cote-divoire-advance-investment-opportunities-under-the-national-development-plan-2026-2030-at-islamic-development-bank-isdb-annual-meetings-in-bak/",
-        "image": "https://i3.wp.com/www.africa-newsroom.com/files/thumb/3d9396ad7bd0e05/600/418?ssl=1",
-        "publishedAt": "2026-06-21T23:02:08Z",
-        "source": "Africa.com"
+        "title": "Puppets, songs, games set to teach young children in the DRC about Ebola to tackle misinformation and protect families",
+        "description": "Using puppets, songs, and musical statues, children as young as four in the Democratic Republic of Congo (DRC) are to be taught about Ebola in a new programme aiming to tackle misinformation, Ebola denial, and protect families.",
+        "url": "https://www.savethechildren.net/news/puppets-songs-games-set-teach-young-children-drc-about-ebola-tackle-misinformation-and-protect",
+        "image": "https://i.stci.uk/dam/alice-13-washes-her-hands-to-prevent-the-spread-of-ebola-ch11606575.jpg/vi35n5ic57640556d6i7xl0xvor12ky1.jpg",
+        "publishedAt": "2026-06-22T01:04:39Z",
+        "source": "Save the Children"
       },
       {
-        "title": "Islamic Corporation for the Insurance of...",
-        "description": "The Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) (http://ICIEC.IsDB.org), a Shariah-based multilateral credit and",
-        "url": "https://africa.com/islamic-corporation-for-the-insurance-of-investment-and-export-credit-iciec-supports-akii-bua-olympic-stadium-project-in-uganda-with-usd-65-million-cover/",
-        "image": "https://i3.wp.com/www.africa-newsroom.com/files/thumb/2f96a4070ef1d2c/600/418?ssl=1",
-        "publishedAt": "2026-06-21T23:02:07Z",
-        "source": "Africa.com"
+        "title": "Foreign Minister highlights Vietnam’s role in advancing ASEAN-Russia strategic partnership",
+        "description": "The country has played an important role in repositioning ASEAN–Russia relations to become more strategic, resilient, substantive, and better aligned with the interests of both sides.",
+        "url": "https://asianews.network/foreign-minister-highlights-vietnams-role-in-advancing-asean-russia-strategic-partnership/",
+        "image": "https://asianews.network/wp-content/uploads/2026/06/vt1.jpg",
+        "publishedAt": "2026-06-22T01:00:38Z",
+        "source": "Asia News Network"
       },
       {
-        "title": "Is it a SINS? More than $1tr of GDP in Europe, China, and US at risk from deforestation, study warns",
-        "description": "New report illustrates how Systemically Important Natural Systems are critical for sustaining economic activity and supply chains",
-        "url": "https://www.businessgreen.com/news/4531426/sins-usd1-trillion-gdp-europe-china-us-risk-deforestation",
-        "image": "https://image.chitra.live/api/v1/wps/fb0db7c/68aa075e-28cc-4cbb-9609-80b14c6d348b/8/iStock-1045035862-370x229.jpg",
-        "publishedAt": "2026-06-21T23:01:05Z",
-        "source": "BusinessGreen"
+        "title": "How China builds Africa through infrastructure aid",
+        "description": "Nearly half of Chinese aid is in the form of grants, not loans, mostly for public facilities",
+        "url": "https://www.the-star.co.ke/sasa/2026-06-22-how-china-builds-africa-through-infrastructure-aid",
+        "image": "https://cdn.radioafrica.digital/image/2026/06/6be08382-5ef9-4ec3-a248-22c55d93d645.jpg?1782097057276",
+        "publishedAt": "2026-06-22T01:00:00Z",
+        "source": "the-star.co.ke"
       },
       {
-        "title": "As Vance meets top Iranian officials, Trump threatens Tehran from afar",
-        "description": "Even as Vance called on Tehran to build on the moment, Trump threatened to restart strikes on Iran for its support of Hezbollah militants in Lebanon or if it moved to close the strategic Strait of Hormuz.",
-        "url": "https://www.1news.co.nz/2026/06/22/as-vance-meets-top-iranian-officials-trump-threatens-tehran-from-afar/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/us-vice-president-jd-vance-waits-to-meet-with-pakistans-prim-QQNIJ2CNEFEBZPXJMLYDD44ATU.jpg?auth=a2d90d68986a043139daeb757d175eca20335fb752a1f5b62c899a5ed09c12d6&quality=70&width=600&height=315&focal=1626%2C229",
-        "publishedAt": "2026-06-21T23:01:04Z",
-        "source": "1News"
+        "title": "Azerconnect secures US$20m from ICD for infrastructure expansion",
+        "description": "ICT company Azerconnect Group has landed a US$20 million Shariah-compliant facility from the Islamic Corporation for the Development of the Private Sector (ICD) to help finance telecom infrastructure development in Azerbaijan.",
+        "url": "https://developingtelecoms.com/telecom-business/operator-news/20415-azerconnect-secures-us-20m-from-icd-for-infrastructure-expansion.html",
+        "image": "https://developingtelecoms.com/favicon.ico",
+        "publishedAt": "2026-06-22T00:58:57Z",
+        "source": "Developing Telecoms"
       }
     ],
     "business": [
       {
-        "title": "Three common scams and how to protect yourself from them",
-        "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg",
-        "publishedAt": "2026-06-21T23:10:16Z",
-        "source": "BBC"
+        "title": "Philippines' LTFRB adds Maya as digital channel for fuel subsidy payouts",
+        "description": "LTFRB has partnered with Maya to support digital fuel subsidy disbursements for eligible PUV drivers and operators in the Philippines.",
+        "url": "https://technode.global/2026/06/22/philippines-ltfrb-adds-maya-as-digital-channel-for-fuel-subsidy-payouts/",
+        "image": "https://technode.global/wp-content/uploads/2026/06/04a0f9a2-b766-4134-a0ec-7c0487e0a99e.jpg",
+        "publishedAt": "2026-06-22T01:11:34Z",
+        "source": "TNGlobal"
       },
       {
-        "title": "Three common scams and how to protect yourself from them",
-        "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg",
-        "publishedAt": "2026-06-21T23:10:16Z",
-        "source": "BBC"
+        "title": "Dana Motors reaffirms commitment to driving Nigeria’s",
+        "description": "Dana Motors Limited, one of Nigeria’s leading automotive companies and a pioneer in sustainable mobility solutions, has reaffirmed its commitment to accelerating the country’s transition to cleaner transportation through significant investments across the electric vehicle (EV) ecosystem.",
+        "url": "https://thesun.ng/dana-motors-reaffirms-commitment-to-driving-nigerias-electric-vehicle-ecosystem/",
+        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/Pixz-1015x1024.png",
+        "publishedAt": "2026-06-22T01:09:17Z",
+        "source": "The Sun Nigeria"
       },
       {
-        "title": "Lloyds targets more than 1,000 new AI roles",
-        "description": "Lloyds Banking Group is accelerating its use of AI, investing in new tools, talent and training to embed the technology across the business and support more convenient services for customers.",
-        "url": "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds-banking-group/1000-new-ai-roles.html",
-        "image": "https://www.lloydsbankinggroup.com/assets/images/site-wide/logos/lbg-2025/cancara-central-square-200x200.jpg",
-        "publishedAt": "2026-06-21T23:09:14Z",
-        "source": "lloydsbankinggroup.com"
+        "title": "Fiat SA reveals Fiat TRIS at Transport Evolution Summit 2026",
+        "description": "By Moses Akaigwe FIAT South Africa has revealed the first micro-mobility vehicle, FIAT TRIS, for South Africa and selected sub-Saharan African markets during the Transport Evolution Summit 2026.  FIAT continues to reinforce its leadership in micromobility by positioning itself as a necessary answer to urban congestion, affordability and accessibility challenges in modern cities. And now […]",
+        "url": "https://thesun.ng/fiat-sa-reveals-fiat-tris-at-transport-evolution-summit-2026/",
+        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/FIAT-TRIS.jpg",
+        "publishedAt": "2026-06-22T01:09:17Z",
+        "source": "The Sun Nigeria"
       },
       {
-        "title": "Hungry Jacks' major cost-of-living move for first time in 55-year history: 'Unprecedented'",
-        "description": "The special promotion is available nationwide from today.",
-        "url": "https://au.lifestyle.yahoo.com/hungry-jacks-major-cost-of-living-move-for-first-time-in-50-years-unprecedented-230821144.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/arpV9fIkqkdQTRyyj9G26Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/hungry-jacks-1_9896.png",
-        "publishedAt": "2026-06-21T23:08:21Z",
-        "source": "Yahoo Lifestyle Australia"
+        "title": "Young couple looking for their ‘forever home’ win $2.35m Fitzroy auction",
+        "description": "The local couple beat two others for the double-fronted Victorian home in a rapid-fire auction amid a market slowdown elsewhere.",
+        "url": "https://www.smh.com.au/property/news/young-couple-looking-for-their-forever-home-win-2-35m-fitzroy-auction-20260622-p608v3.html",
+        "image": "https://static.ffx.io/images/$zoom_0.948605787037037%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_238%2C$y_264/t_crop_custom/q_86%2Cf_auto/477a7bc20a6d4eae2832348dfba72a247d517e01",
+        "publishedAt": "2026-06-22T01:09:10Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "We've turned into the HMO capital of Liverpool because people are ignoring the rules",
-        "description": "Complaints have been made about 'exploitative landlords' in Tuebrook, prioritising profits over people",
-        "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/weve-turned-hmo-capital-liverpool-34142570",
-        "image": "https://i2-prod.liverpoolecho.co.uk/article34142668.ece/ALTERNATES/s1200d/0_Cllr-Joe-Dunne-on-Clifton-Road-Tuebrook-Photo-by-Colin-Lane.jpg",
-        "publishedAt": "2026-06-21T23:07:19Z",
-        "source": "Liverpool Echo"
+        "title": "NGCP weighs next steps on new ERC transmission rules",
+        "description": "NGCP said it would take appropriate steps to protect the grid framework after regulators opened some transmission projects to third parties.",
+        "url": "https://business.inquirer.net/596509/ngcp-weighs-next-steps-on-new-erc-transmission-rules",
+        "image": "https://business.inquirer.net/files/2026/01/NGCP-transmission-14Jan2026-scaled.jpeg",
+        "publishedAt": "2026-06-22T01:08:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "Metso launches new primary crushers for unmatched safety and availability in mining",
-        "description": "Metso is strengthening its prominent position as a crushing solutions supplier with the launch of three new primary crushers – Metso Primarok™, Metso Optirok™ and Metso Durarok&t...",
-        "url": "https://hub-4.com/news/metso-launches-new-primary-crushers-for-unmatched-safety-and-availability-in-mining",
-        "image": "https://hub-4.com/favicon.ico?1780917217",
-        "publishedAt": "2026-06-21T23:04:26Z",
-        "source": "HUB-4.COM"
+        "title": "How does an 11.8% dividend yield sound?",
+        "description": "Atlas Arteria Ltd (ASX: ALX) has announced a 50% boost to its full-year dividend as it moves to fend off a takeover bid from Diamond Infraco.",
+        "url": "https://www.fool.com.au/2026/06/22/how-does-an-11-8-dividend-yield-sound/",
+        "image": "https://www.fool.com.au/wp-content/uploads/2021/08/Transport-on-the-road-again-16_9-1200x675.jpg",
+        "publishedAt": "2026-06-22T01:07:15Z",
+        "source": "The Motley Fool Australia"
       },
       {
-        "title": "Consumers warned over scam EU customs charge messages",
-        "description": "Consumers are being warned to be vigilant of scam messages seeking customs payments ahead of new charges from next month for smaller items bought online from outside the European Union.",
-        "url": "https://www.rte.ie/news/2026/0622/1579604-customs-scams/",
-        "image": "https://www.rte.ie/images/00241b66-1600.jpg",
-        "publishedAt": "2026-06-21T23:04:02Z",
-        "source": "RTE.ie"
+        "title": "Antengene Announces Exclusive License Agreement with MPM BioImpact",
+        "description": "ATG-106 is a first-in-class CDH6 x CD3 bispecific T cell engager (TCE) in preclinical development for the treatment of solid tumors   K2 Therapeutics, established by MPM BioImpact, obtains exclusive global rights to develop and commercialize ATG-106 outside Greater China   Antengene receives upfront and near-term considerations of approximately USD 20 million for ATG-106;…",
+        "url": "https://www.thailand-business-news.com/pr-news/antengene-announces-exclusive-license-agreement-with-mpm-bioimpact-established-k2-therapeutics-for-atg-106-and-option-for-undisclosed-bispecific-tce",
+        "image": "https://i0.wp.com/r2.thailand-business-news.com/wp-content/uploads/2026/03/image.jpg?fit=32%2C32&ssl=1",
+        "publishedAt": "2026-06-22T01:07:10Z",
+        "source": "Thailand Business News"
       },
       {
-        "title": "Aus resident sparks national debate after ‘bizarre’ government fire pit notice",
-        "description": "A resident’s backyard snapper cook-up has done what politicians couldn’t – united Australians in furious agreement over the nation’s confusing fire pit laws.",
-        "url": "https://www.realestate.com.au/news/aus-resident-sparks-national-debate-after-bizarre-government-fire-pit-notice/",
-        "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/06/capi_b4a79726f1c2918155c70979a6ff150d_4606c80b0591b3345891129d45308a58.jpeg",
-        "publishedAt": "2026-06-21T23:03:45Z",
-        "source": "realestate.com.au"
+        "title": "New York Times: China set to keep shaping oil prices as it holds back on imports",
+        "description": "China's quiet pullback from the oil market, more than any single policy move, may be the real reason prices never hit $200.",
+        "url": "https://investinglive.com/commodities/new-york-times-china-set-to-keep-shaping-oil-prices-as-it-holds-back-on-imports-20260621/",
+        "image": "https://images.investinglive.com/images/oil%20china%20hormuz%2022%20June%202026_id_a415693a-1bb6-4d68-9d83-d3f3a336db25_size975.jpg",
+        "publishedAt": "2026-06-22T01:07:02Z",
+        "source": "investingLive"
       }
     ],
     "science": [
+      {
+        "title": "Hypermetabolism linked to early-life adversity can be harmful in long term: Study",
+        "description": "Researchers said that early childhood adversity is linked with poorer physical and mental health across a person's lifespan, but the biological processes translating the lived effects of poverty and trauma into physical functions are starting to come to light.",
+        "url": "https://health.economictimes.indiatimes.com/news/industry/hypermetabolism-linked-to-early-life-adversity-can-be-harmful-in-long-term-study/131899434",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131899434,imgsize-65768,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hypermetabolism-linked-to-early-life-adversity-can-be-harmful-in-long-term-study.jpg",
+        "publishedAt": "2026-06-22T01:02:26Z",
+        "source": "ET HealthWorld"
+      },
+      {
+        "title": "No spacecraft has ever landed in the outer solar system — except one: the Huygens probe, which parachuted through Titan's orange haze in 2005 and touched down more than a billion kilometres from Earth",
+        "description": "Two decades on, the European Huygens probe is still the only spacecraft ever to land in the outer solar system, after parachuting onto Saturn's moon Titan in 2005.",
+        "url": "https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/huygens-titan-saturn.jpg",
+        "publishedAt": "2026-06-22T00:41:07Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Signs of hope for Ningaloo Reef with baby coral following bleaching and cyclones",
+        "description": "After suffering its worst bleaching event on record, only to be battered by Cyclone Narelle six months later, the World Heritage-listed reef is showing its first signs of recovery thanks to the efforts of marine scientists.",
+        "url": "https://www.abc.net.au/news/2026-06-22/ningaloo-reef-restoration-baby-coral/106792302",
+        "image": "https://live-production.wcms.abc-cdn.net.au/607234d974058784f9e728314a9873ba?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=0&yPos=469&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-22T00:33:45Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "The giant viruses that orchestrate life in the polar regions",
+        "description": "Viruses play a major role in the functioning of ecosystems. They profoundly influence the dynamics of microbial communities, the flow of matter and global biogeochemical cycles. Yet despite their abundance and ecological importance, many of them have long remained invisible to science.",
+        "url": "https://phys.org/news/2026-06-giant-viruses-orchestrate-life-polar.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/arctic.jpg",
+        "publishedAt": "2026-06-22T00:30:04Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Researchers create a mathematical tool to measure the Sun's atmosphere using spacecraft radio signals",
+        "description": "A newly developed mathematical framework allows scientists to use any spacecraft's radio signal to consistently measure the speed and density of the solar wind, paving the way for better space weather predictions. | IIT indore,Vikram Sarabhai Space Centre,ISRO Telemetry Tracking and Command Network,The University of Tokyo,Kyoto Sangyo University,Mars Orbiter Mission,Kolmogorov turbulence model,GPS networks,Earth's atmosphere,solar corona,Sun's coronal plasma,mathematical modelling",
+        "url": "https://researchmatters.in/news/researchers-create-mathematical-tool-measure-suns-atmosphere-using-spacecraft-radio-signals",
+        "image": "https://researchmatters.in/sites/researchmatters/files/styles/discover_large_1200/public/atmosphere.jpg?itok=cwtta48U",
+        "publishedAt": "2026-06-22T00:30:00Z",
+        "source": "researchmatters.in"
+      },
+      {
+        "title": "America's only landing on Venus was an accident",
+        "description": "The United States never built a Venus lander — every American probe was meant to die on impact. But in December 1978 one throwaway probe hit the surface and kept transmitting for 67 minutes and 37 seconds, making America's only Venus landing an accident.",
+        "url": "https://www.19fortyfive.com/2026/06/americas-only-landing-on-venus-was-an-accident-in-1978-nasa-dropped-four-cone-shaped-probes-into-the-venusian-atmosphere-none-built-to-survive-hitting-the-ground-and-one-of-them-struck-t/",
+        "image": "https://www.19fortyfive.com/wp-content/uploads/2026/06/NASA-Lander-on-Venus-Artist-Rendition.jpg",
+        "publishedAt": "2026-06-22T00:16:50Z",
+        "source": "19FortyFive"
+      },
       {
         "title": "An unusual strategy helps some tropical butterflies live 25 times longer than their relatives",
         "description": "Since most butterflies live a short time, a few rare exceptions have stumped scientists. Now, some long-lived tropical butterfly species are shedding light on the secrets of longevity.",
@@ -150,120 +198,72 @@
         "image": "https://scitechdaily.com/images/Glowing-Green-DNA-Longevity.jpg",
         "publishedAt": "2026-06-21T22:09:28Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Engineered bacterial spores reveal new protein targets for enzymes and vaccines",
-        "description": "A remarkable quality of bioengineering is that scientists can take biological processes honed by millions of years of evolution and use them to efficiently create drugs, chemicals and other products to improve our lives. Now Tufts researchers have found new ways to expand the potential for using bacterial spores as catalysts for chemical reactions, biofuel production or breaking down pollutants.",
-        "url": "https://phys.org/news/2026-06-bacterial-spores-reveal-protein-enzymes.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/expanding-uses-for-bio.jpg",
-        "publishedAt": "2026-06-21T21:00:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Scientists expected a black hole, but found a giant stellar neutrino factory instead",
-        "description": "Science News: For decades, astronomers have looked to black holes as the likely birthplace of the Universe's most energetic neutrinos. These elusive particles, ofte.",
-        "url": "https://timesofindia.indiatimes.com/science/scientists-expected-a-black-hole-but-found-a-giant-stellar-neutrino-factory-instead/articleshow/131896220.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131896341,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-21T20:30:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Mars-like conditions fail to kill some Earth pathogens, experiments suggest",
-        "description": "Microorganisms from our planet could survive on celestial bodies where water is present, such as Mars. That is the conclusion of Ph.D. candidate Tommaso Zaccaria after experiments with simulated space conditions. Our immune system reacts less effectively to pathogens that have undergone such a simulated space journey. According to his supervisors, his dissertation provides extraterrestrial insights that are also useful on Earth.",
-        "url": "https://phys.org/news/2026-06-mars-conditions-earth-pathogens.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/pathogens.jpg",
-        "publishedAt": "2026-06-21T20:00:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Shifting Seasons: How Climate Change is Rewriting the Rules of the Winter Solstice",
-        "description": "Shifting Seasons: How Climate Change is Rewriting the Rules of the Winter Solstice",
-        "url": "https://thetimes.com.au/world/50990-shifting-seasons-how-climate-change-is-rewriting-the-rules-of-the-winter-solstice",
-        "image": "https://thetimes.com.au/images/banners/favicon.ico",
-        "publishedAt": "2026-06-21T19:47:44Z",
-        "source": "The Times Australia"
-      },
-      {
-        "title": "Dragonfly Migration Rivals Seabirds: 100 Species Confirmed in First Global Count",
-        "description": "Dragonfly migration across the Indian Ocean is now confirmed in 100 species, a global review reveals. Globe skimmer dragonflies cross more than 2,500 km of open ocean on monsoon winds — second only",
-        "url": "https://www.techtimes.com/articles/318791/20260621/dragonfly-migration-rivals-seabirds-100-species-confirmed-first-global-count.htm",
-        "image": "https://d.techtimes.com/en/full/467138/american-emperor-dragonfly-accelerates-streaks-smoke-down-when.png",
-        "publishedAt": "2026-06-21T19:31:14Z",
-        "source": "Tech Times"
-      },
-      {
-        "title": "Nanoscale CoAl design delivers 6 GPa strength with 15% plastic strain at room temperature",
-        "description": "Materials engineers have developed the ability to manipulate structure and matter at the nanoscale for solid-state alloys called intermetallics, making it possible to alter their properties for improved performance.",
-        "url": "https://phys.org/news/2026-06-nanoscale-coal-gpa-strength-plastic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/purdue-engineers-unloc.jpg",
-        "publishedAt": "2026-06-21T19:00:02Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "Node-Based 3D Workflows That",
-        "description": "A visual canvas that chains AI generation, mesh cleanup, texturing, and export into reusable 3D pipelines, built by an AI agent from a text prompt....",
-        "url": "https://www.globenewswire.com/news-release/2026/06/21/3315001/0/en/3d-ai-studio-launches-flow-node-based-3d-workflows-that-run-in-the-browser-with-no-gpu-or-setup.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/d4ce79f2-c0da-4bdd-b3a3-5d8cbd4e9443/clevio-osmo-4.png",
-        "publishedAt": "2026-06-21T23:07:02Z",
-        "source": "GlobeNewswire"
+        "title": "Ex-OpenAI researcher explains why he chose India over Silicon Valley: ‘Moving back felt counterintuitive’",
+        "description": "Shyamal Anadkat has revealed that earlier this year, he quit his job at OpenAI and moved back to India.",
+        "url": "https://www.hindustantimes.com/trending/us/exopenai-researcher-explains-why-he-chose-india-over-silicon-valley-moving-back-felt-counterintuitive-101782090560630.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/22/550x309/1700117014960_1782090743867_1782090753900_b2b7c4c0-9272-436f-a6a2-a6461e730015.jpg",
+        "publishedAt": "2026-06-22T01:13:05Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Santander UK owner reveals plans to cut costs by over £430m under AI strategy",
-        "description": "Banco Santander is targeting more than one billion euros (£860 billion) in extra revenues and cost savings from AI between 2026 and 2028",
-        "url": "https://www.lbc.co.uk/article/fda583c6f0b544d68d2c4fc54e7777f5-5Hjdbss_2/",
-        "image": "https://images.globalplayer.com/images/822509?crop=16_9&width=1200&signature=ZyreVjuu8WThUe7BEB9wybxN1HQ=",
-        "publishedAt": "2026-06-21T23:04:11Z",
-        "source": "LBC"
+        "title": "Microsoft’s Satya Nadella: we can’t let AI giants eat the economy",
+        "description": "Microsoft’s CEO offers a blistering critique of the AI power balance and calls for earning society’s permission.",
+        "url": "https://www.livemint.com/ai/microsofts-satya-nadella-we-can-t-let-ai-giants-eat-the-economy-11782090572286.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/im-51475869_1782090575779_1782090600979_e4a78327-722c-4e8e-ba90-f50dd22e7580.jpg",
+        "publishedAt": "2026-06-22T01:12:09Z",
+        "source": "Livemint"
       },
       {
-        "title": "Yotta scales up AI bet with $6bn expansion plan",
-        "description": "India Business News: BENGALURU: Data centre and AI infrastructure provider Yotta Data Services plans to invest an additional $6 billion to expand its artificial intelligen.",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/yotta-scales-up-ai-bet-with-6bn-expansion-plan/articleshow/131899242.cms",
-        "image": "https://static.toiimg.com/thumb/msid-131899245,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-21T23:02:00Z",
-        "source": "Times of India"
+        "title": "Circles, Greyskies, and HCLTech Collaborate in TM Forum Catalyst Program to Accelerate AI-led Autonomous Network Operations",
+        "description": "Singapore, June 22, 2026 /MarketersMEDIA/ -- Circles, GreySkies, and HCLTech today announced their participation in the TM Forum Catalyst Program, a collaborative innovation initiative that brings together Communication Service Providers (CSPs) and technology partners to co-create and showcase next-generation solutions for the telecommunications industry.",
+        "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/plentisoft/circles-greyskies-and-hcltech-collaborate-in-tm-forum-catalyst-program-to-accelerate-ai-led-autonomous-network-operations/2369715",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/22/1107529.jpg",
+        "publishedAt": "2026-06-22T01:11:08Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Santander UK owner reveals plans to cut costs by over £430m under AI strategy",
-        "description": "Banco Santander is targeting more than one billion euros (£860 billion) in extra revenues and cost savings from AI between 2026 and 2028 | ITV National News",
-        "url": "https://www.itv.com/news/2026-06-21/santander-uk-owner-reveals-plans-to-cut-costs-by-over-430m-under-ai-strategy",
-        "image": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-fda583c6-f0b5-44d6-8d2c-4fc54e7777f5/97d2cbf7f86e60da10b3d274a64b6161/headerImage-fda583c6-f0b5-44d6-8d2c-4fc54e7777f5?fm=jpg&fit=fill&w=1600&h=1143&q=80",
-        "publishedAt": "2026-06-21T23:01:00Z",
-        "source": "ITV News"
+        "title": "South Korea’s early exports jump again as AI boom fuels chip demand",
+        "description": "Chip exports again led gains, soaring 188.4 per cent from a year earlier. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/economy/south-koreas-early-exports-jump-again-as-ai-boom-fuels-chip-demand",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/767cf0db7c5f99f2a6cb9f7fc90ca886dcad866d69507afdc63a4805ba62f58f",
+        "publishedAt": "2026-06-22T01:10:21Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Santander UK owner reveals plans to cut costs by over £430m under AI strategy",
-        "description": "Banco Santander is targeting more than one billion euros (£860 billion) in extra revenues and cost savings from AI between 2026 and 2028",
-        "url": "https://www.standard.co.uk/news/uk/spanish-santander-banks-british-lloyds-banking-group-b1287026.html",
-        "image": "https://static.standard.co.uk/2026/06/22/00/19153928-e2ba7d92-394c-408e-b6a6-ea6d6bb8256a.jpg?width=1200&auto=webp&quality=75",
-        "publishedAt": "2026-06-21T23:01:00Z",
-        "source": "Evening Standard"
+        "title": "‘Don’t Go Bargain Hunting,’ Says Top Investor as Microsoft Stock Struggles to Gain Traction",
+        "description": "Microsoft (NASDAQ:MSFT) was widely expected to be one of the biggest beneficiaries of the AI boom. Instead, the stock has struggled to gain trac...",
+        "url": "https://markets.businessinsider.com/news/stocks/don-t-go-bargain-hunting-says-top-investor-as-microsoft-stock-struggles-to-gain-traction-1036264197",
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2074-1024x543.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+        "publishedAt": "2026-06-22T01:09:54Z",
+        "source": "Markets Insider"
       },
       {
-        "title": "Digital twins, quantum computing and 40 years of HPC: What to watch at ISC High Performance 2026",
-        "description": "Celebrating its 40th anniversary, the event combines a technical programme with a renewed focus on artificial intelligence, quantum computing, digital twins and the future of post-Moore computing.",
-        "url": "https://www.scientific-computing.com/article/digital-twins-quantum-computing-40-years-hpc-what-watch-isc-high-performance-2026",
-        "image": "https://www.scientific-computing.com/themes/custom/bootstrap_sass_lse/images/faviconSCW.ico",
-        "publishedAt": "2026-06-21T22:33:38Z",
-        "source": "Scientific Computing World"
+        "title": "Paris AI action summit to Bharat Innovates: Reading India's digital diplomacy in France",
+        "description": "When governments choose where to spend the scarce capital of a leaders’ summit, the choice states a priority. India is allocating it to innovation, not hardware",
+        "url": "https://www.hindustantimes.com/opinion/paris-ai-action-summit-to-bharat-innovates-reading-indias-digital-diplomacy-in-france-pm-modi-g7-macron-101782061132162.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/21/550x309/PTI06-21-2026-000594B-0_1782061552517_1782061577563_d312b385-0bdd-45c6-93e0-0d392838849f.jpg",
+        "publishedAt": "2026-06-22T01:01:39Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "AI shines light on untapped potential",
-        "description": "LatentView Analytics says generative AI is boosting data analytics demand, with focus shifting to governance, token costs, ROI, and outcome-based pricing.",
-        "url": "https://timesofindia.indiatimes.com/city/chennai/ai-shines-light-on-untapped-potential/articleshow/131895522.cms",
-        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-        "publishedAt": "2026-06-21T22:30:00Z",
-        "source": "Times of India"
+        "title": "SailPoint Announces Intent to Acquire Entro to Accelerate and Enhance Agentic Fabric and Secure the Future of AI-Driven Enterprises",
+        "description": "Entro to add complementary deep secrets discovery and non-human identity scanning, solidifying SailPoint’s leadership across all identity types—human, machine, and agent",
+        "url": "https://itwire.com/it-industry-news/deals/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises",
+        "image": "https://media.itwire.com/2026/06/22/sailpoint-announces-intent-to-acquire-entro-to-accelerate-and-enhance-agentic-fabric-and-secure-the-future-of-ai-driven-enterprises-f7b0f56bb71e.webp",
+        "publishedAt": "2026-06-22T01:01:25Z",
+        "source": "iTWire"
       },
       {
-        "title": "Feds’ AI bill good ‘first step’ but safety advocates say more work needed",
-        "description": "The bill includes measures to lower the risk of chatbots communicating harmful content and crisis intervention protocols for cases involving self-harm, suicide or violence.",
-        "url": "https://globalnews.ca/news/11915470/canada-ai-bill-needs-more-work/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/06/80c5032bd7e0d3ab5260eabe5d03fe4ef48093479098e375c9a8f34d78fc2d31.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-06-21T22:29:47Z",
-        "source": "Global News"
+        "title": "South Korean investors leverage Hong Kong to cash in on the AI and chips boom",
+        "description": "Some South Korean retail investors are turning to Hong Kong’s leveraged semiconductor ETFs for higher AI-driven returns.",
+        "url": "https://www.scmp.com/business/banking-finance/article/3357851/south-korean-investors-leverage-hong-kong-cash-ai-and-chips-boom",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/27c34e2e-d1d3-4bab-8877-ff884113e153_caba88b6.jpg?itok=jStAISuj&v=1782088864",
+        "publishedAt": "2026-06-22T01:00:17Z",
+        "source": "South China Morning Post"
       }
     ]
   }
