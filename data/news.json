@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-22T21:59:38.488Z",
+  "fetchedAt": "2026-06-22T22:53:15.387Z",
   "sections": {
     "world": [
       {
-        "title": "DEVELOPMENTAL DISCOURSE with Amos SAFO: South Africa could be counting more losses than gains",
-        "description": "A lot of water has passed under the bridge since May 2026, when reports of xenophobic attacks on other African’s some irate South Africans. Thanks to the power of social media and eyewitness reporters, vivid photos and videos of beating of fellow Africans and the looting of shops belonging to migrants from other Africans are […]",
-        "url": "https://thebftonline.com/2026/06/22/developmental-discourse-with-amos-safo-south-africa-could-be-counting-more-losses-than-gains/",
-        "image": "https://thebftonline.com/wp-content/uploads/2026/01/amos-safo.webp",
-        "publishedAt": "2026-06-22T09:59:03Z",
+        "title": "Nyéléni Newsletter | Pastoralism at the crossroads: between struggles and recognition",
+        "description": "Pastoral ecosystems are found in areas with the most extreme agroecological conditions on the planet. There, since ancient times, pastoralist communities have adapted livestock husbandry to the cycles of nature, producing food, stewarding biodiversity, and sustaining life where others cannot.",
+        "url": "https://viacampesina.org/en/2026/06/pastoralism-at-the-crossroads-between-struggles-and-recognition/",
+        "image": "https://viacampesina.org/en/wp-content/uploads/sites/2/2026/06/tableroSMALLportrait-rotated-1-e1782125371909.jpg",
+        "publishedAt": "2026-06-22T10:52:48Z",
+        "source": "La Via Campesina"
+      },
+      {
+        "title": "Smoke rises above Voronezh as Ukraine strikes key Russian military parts factory",
+        "description": "The Voronezh Semiconductor Plant, allegedly a producer of electronics for Russian Iskander and Kh-101 missiles, was the main target of the strike, the General Staff wrote on Facebook.",
+        "url": "https://kyivindependent.com/smoke-rises-above-voronezh-as-ukraine-strikes-key-russian-military-parts-factory/",
+        "image": "https://assets.kyivindependent.com/content/images/2026/06/Screenshot-2026-06-22-at-14_34_17_20260622-113505.png",
+        "publishedAt": "2026-06-22T10:50:33Z",
+        "source": "The Kyiv Independent"
+      },
+      {
+        "title": "Record stash of cocaine found buried underground in Australia",
+        "description": "Police discovered 3 tons of cocaine in plastic tubs buried in underground bunkers that were concealed by false floors.",
+        "url": "https://www.cbsnews.com/news/cocaine-buried-underground-australia-record-amount/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/22/b237a94b-5642-48b7-9af6-d5d51798727e/thumbnail/1200x630/f6acb0ff72bb62b741d35fa900d9a92a/ap26173108049502.jpg",
+        "publishedAt": "2026-06-22T10:47:00Z",
+        "source": "CBS News"
+      },
+      {
+        "title": "Trump’s Surrender Humiliation Deepens With Brutal Poll",
+        "description": "Most Americans do not think the Iran war was worth it.",
+        "url": "https://www.thedailybeast.com/trumps-surrender-humiliation-deepens-with-brutal-poll/",
+        "image": "https://www.thedailybeast.com/resizer/v2/HCYT5X6RYVETXBXDS2OGTLV244.JPG?smart=true&auth=d4a82cc07021fb9c8693c2c93debaf560573389da6b2ab858bba86bc8cb4155d&width=1200&height=630",
+        "publishedAt": "2026-06-22T10:47:00Z",
+        "source": "The Daily Beast"
+      },
+      {
+        "title": "Mozambique: Cuchamano gains momentum as SMEs boost border logistics along the Beira Corridor",
+        "description": "The Cuchamano border post (Nyamapanda/Cochemane), in Changara district, Tete Province, is gaining new economic momentum thanks to grants from the Conecta Negóci",
+        "url": "https://clubofmozambique.com/news/mozambique-cuchamano-gains-momentum-as-smes-boost-border-logistics-along-the-beira-corridor/",
+        "image": "https://clubofmozambique.com/wp-content/uploads/2026/06/imanidev.border.jpg",
+        "publishedAt": "2026-06-22T10:46:13Z",
+        "source": "CLUB OF MOZAMBIQUE"
+      },
+      {
+        "title": "StrikeMaster: Profiling the coastal defence system",
+        "description": "Coastal defence missiles have proven they can shape naval operations. The StrikeMaster from Thales and Kongsberg is entering that field.",
+        "url": "https://www.calibredefence.co.uk/strikemaster-profiling-the-thales-kongsberg-australia-coastal-defence-system/",
+        "image": "https://www.calibredefence.co.uk/wp-content/uploads/2026/06/strikemaster_missile_launch_vehicle-scaled.jpg",
+        "publishedAt": "2026-06-22T10:44:50Z",
+        "source": "Calibre Defence"
+      },
+      {
+        "title": "Marrakech to Receive Desalinated Water From Safi by End of July",
+        "description": "Greater Marrakech is set to begin receiving desalinated seawater from the coastal city of Safi by the end of July, marking one of Morocco’s most ambitious water infrastructure projects to date.",
+        "url": "https://www.moroccoworldnews.com/2026/06/323338/marrakech-to-receive-desalinated-water-from-safi-by-end-of-july/",
+        "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/06/Marrakech-to-Receive-Desalinated-Water-From-Safi-by-End-of-July.webp",
+        "publishedAt": "2026-06-22T10:43:04Z",
+        "source": "Morocco World News"
+      },
+      {
+        "title": "RE-IMAGINE GHANA with Hene Aku Kwapong, PhD: The Gender Mirror - An Addendum",
+        "description": "…What Morocco shows Ghana about development coherence I looked at Morocco vs Ghana last week, and why Morocco’s impressive transformation is compounding faster than Ghana’s in expanding incomes. There is a way to do the comparison that can quickly become sterile, too high-level and often useless. One can line up GDP per capita, port capacity, […]",
+        "url": "https://thebftonline.com/2026/06/22/re-imagine-ghana-with-hene-aku-kwapong-phd-the-gender-mirror-an-addendum/",
+        "image": "https://thebftonline.com/wp-content/uploads/2026/06/Dr-Hene-Aku-Kwapong.webp",
+        "publishedAt": "2026-06-22T10:42:05Z",
         "source": "The Business & Financial Times"
-      },
-      {
-        "title": "African Leaders trade African Family values for American family values - Here we go again!",
-        "description": "At the moment, some religious and political leaders in Africa are pushing for a charter on family values, lobbying lawmakers, African State institutions, and the African Union to formally adopt it. In the past number of years, they have been holding conferences across Africa with the support and funding of Western religious donors who, in their own countries, are definitely perceived as racist",
-        "url": "https://www.modernghana.com/news/1504535/african-leaders-trade-african-family-values-for.html",
-        "image": "https://cdn.modernghana.com/images/content/6222026113649-h41o266fey-daniel-digashu.jpg",
-        "publishedAt": "2026-06-22T09:57:34Z",
-        "source": "Modern Ghana"
-      },
-      {
-        "title": "Daily Current Affairs 22 June 2026",
-        "description": "Read Daily Current Affairs 22 June 2026 covering Ashtalakshmi Growth Model, India’s Space Architecture, Project Nimbus, Biochar, APEDA and Western Ghats.",
-        "url": "https://www.insightsonindia.com/2026/06/22/upsc-current-affairs-22-june-2026/",
-        "image": "https://www.insightsonindia.com/wp-content/uploads/2015/09/cropped-cropped-FullSizeRender-6-32x32.jpg",
-        "publishedAt": "2026-06-22T09:57:33Z",
-        "source": "INSIGHTS IAS"
-      },
-      {
-        "title": "West Asia war LIVE: Mediators hail 'progress' in U.S.-Iran talks after lengthy opening session",
-        "description": "Follow The Hindu LIVE for the latest updates on the West Asia conflict, as the U.S. and Iran hold talks in Switzerland on the Tehran-Washington peace deal.",
-        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-22-2026/article71131544.ece",
-        "image": "https://th-i.thgim.com/public/incoming/xhk8xe/article71132563.ece/alternates/LANDSCAPE_1200/2026-06-22T080248Z_955633958_RC2VYLAIDU5Z_RTRMADP_3_IRAN-CRISIS-SWISS-MEETING.JPG",
-        "publishedAt": "2026-06-22T09:57:05Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Keir Starmer resigns as British PM",
-        "description": "British Prime Minister Keir Starmer announces his resignation, with a new leader expected by September. Andy Burnham is the front runner. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/europe/uks-starmer-could-set-out-exit-timetable-on-monday-as-burnham-waits-in-the-wings",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/278993d2321183c319c4d3be84ff2c819556cf958a3f688622db9f9bd91401d9",
-        "publishedAt": "2026-06-22T09:55:47Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Mozambique: Staff working on TotalEnergies’ LNG project allegedly coerced women into sex; unpublished report reveals; incl…Co comments",
-        "description": "Check out this page via the Business and Human Rights Centre",
-        "url": "https://www.business-humanrights.org/en/latest-news/mozambique-staff-working-on-totalenergies-lng-project-allegedly-coerced-women-into-sex-unpublished-report-reveals-inclco-comments/",
-        "image": "https://media.business-humanrights.org/media/images/7172384444_8068b10945_b.ebc9171e.fill-788x488.jpg",
-        "publishedAt": "2026-06-22T09:55:36Z",
-        "source": "Business and Human Rights Centre"
-      },
-      {
-        "title": "Malaysia to cut price of diesel nationwide from July",
-        "description": "KUALA LUMPUR: Malaysia will lower the price of diesel to RM2.10 (US$0.51) per litre nationwide for its citizens from July after the current difference in prices between subsidised and unsubsidised diesel led to smuggling and revenue losses.Diesel is currently sold at a subsidised price of RM2.15 per litre in",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-cut-diesel-prices-nationwide-peninsular-6199221",
-        "image": "https://dam.mediacorp.sg/image/upload/s--wFvuIgLK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/08/dsc_2940_copy.jpg?itok=_2mSiX5J",
-        "publishedAt": "2026-06-22T09:55:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Somalia: Intense clashes in Baidoa as political tensions peak",
-        "description": "Violent clashes erupt in Baidoa amid peak political tensions. Follow the latest developments regarding the security crisis in Southwest State, Somalia.",
-        "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-political-tensions/",
-        "image": "https://www.somaliguardian.com/wp-content/uploads/2025/10/8-1.jpg",
-        "publishedAt": "2026-06-22T09:54:40Z",
-        "source": "Somali Guardian"
       }
     ],
     "business": [
       {
-        "title": "Gold maintains the bearish bias following the hawkish Fed decision; focus shifts to data",
-        "description": "Gold stays on the backfoot amid rising real yields and stronger US dollar. What's next?",
-        "url": "https://investinglive.com/commodities/gold-maintains-the-bearish-bias-following-the-hawkish-fed-decision-focus-shifts-to-data-20260622/",
-        "image": "https://images.investinglive.com/images/gold%20bar_id_54633dae-05eb-4fb5-85a5-ab82a7e527eb_size975.jpeg",
-        "publishedAt": "2026-06-22T09:59:24Z",
-        "source": "investingLive"
+        "title": "Man suffers 'life-altering' injury in Sheffield pub attack",
+        "description": "Police say the man suffered a \"potentially life-altering injury\" in the attack at The Bankers Draft.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy6qq6l72o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1f7/live/c2098d80-6e24-11f1-9fdc-51e252bb92b4.png",
+        "publishedAt": "2026-06-22T10:50:15Z",
+        "source": "BBC"
       },
       {
-        "title": "Vaseline is turning 2008 beauty hacks into TikTok Shop sellouts",
-        "description": "After selling out its Vaseline Originals debut in Thailand, the Unilever-owned brand is expanding the limited-edition collection to Singapore and the Philippines in the coming days, where a limited number of its Face Primer product will be sold exclusively on TikTok Shop. Plans for a larger U.S. launch remain in development, according to the brand.",
-        "url": "https://www.glossy.co/beauty/vaseline-is-turning-2008-beauty-hacks-into-tiktok-shop-sellouts/",
-        "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/06/WORK-3_10.jpg",
-        "publishedAt": "2026-06-22T09:58:32Z",
-        "source": "glossy.co"
+        "title": "Renault’s electric Megane has had a facelift and a growth spurt",
+        "description": "A new battery means the Megane is 20mm taller than before, but goes further on a charge too",
+        "url": "https://www.topgear.com/car-news/electric/renaults-electric-megane-has-had-a-facelift-and-a-growth-spurt",
+        "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/06/08d1cd5dac70038b5f06c56786e9f432/23664-megane-studiothomascortesi-4.jpg?w=1280&h=720",
+        "publishedAt": "2026-06-22T10:50:00Z",
+        "source": "Top Gear"
       },
       {
-        "title": "Absa Bank Kenya partners with Google Hustle Academy to train 3,000 SMEs",
-        "description": "SMEs across Kenya are set to benefit from enhanced business training and financial support following a strategic partnership between Absa Bank Kenya PLC and Google Hustle Academy.",
-        "url": "https://biznakenya.com/absa-bank-google-hustle-academy-to-train-3000-smes/",
-        "image": "https://biznakenya.com/wp-content/uploads/2026/06/absa-scaled.jpg",
-        "publishedAt": "2026-06-22T09:58:24Z",
-        "source": "Bizna Kenya"
+        "title": "DHT Holdings, Inc. announces the results of the 2026 annual meeting of shareholders",
+        "description": "HAMILTON, BERMUDA, June 22, 2026 - DHT Holdings, Inc. (NYSE:DHT) ('DHT”) announces the results of its 2026 Annual Meeting of Shareholders (the 'Annual Meeting”), held on Thursday, June 18, 2026. Shareholders holding an aggregate of 101,497,532 common shares of DHT were present or represented by proxy at the Annual Meeting, representing approximately 63.03% of the issued and outstanding common shares of DHT as of the close of business on April 23, 2026, the record date for the meeting.",
+        "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/globenewswire/dht-holdings-inc-announces-the-results-of-the-2026-annual-meeting-of-shareholders/2369946",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/22/1108101.jpg",
+        "publishedAt": "2026-06-22T10:47:40Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Weekly Markets Monitor - Jail break or head fake?",
-        "description": "A data light shortened week in the US put the spotlight on Fed Chairman Warsh’s first meeting and a perceived ‘hawkish pause’. Sentiment was however aided by signing of a Memorandum of Understanding between the US and Iran. Post by Weekly Markets Monitor",
-        "url": "https://www.gold.org/goldhub/gold-focus/2026/06/weekly-markets-monitor-jail-break-or-head-fake",
-        "image": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-        "publishedAt": "2026-06-22T09:57:59Z",
-        "source": "World Gold Council"
-      },
-      {
-        "title": "Historic Microfinance Reforms: All Rural Banks Transition to Community Banks in Radical Sector Overhaul",
-        "description": "In a decisive move to fortify Ghana rsquo;s tier-1 to tier-4 financial ecosystems, the Bank of Ghana (BoG) has announced the complete transition of all Rural and Community Banks (RCBs) into a unified Community Banking Sector, effective 31st March, 2024 with a deadline to meet all statutory and rebranding by December 31st 2026. This historic policy shift marks the end of the traditional rural banking model originally established in 1976an d replaces it with a modernized,",
-        "url": "https://www.modernghana.com/news/1504508/historic-microfinance-reforms-all-rural-banks.html",
-        "image": "https://cdn.modernghana.com/images/content/3242026100226-sxnaredq5k-ghanas-financial-and-market-roundup--t-bill-undersubscription-gse-records-and-microfinance-reforms.jpg",
-        "publishedAt": "2026-06-22T09:57:34Z",
+        "title": "June 22: Cedi sells at GHS12.35 on forex market, GHS11.22 on BoG interbank",
+        "description": "The Ghanaian Cedi has appreciated in value against the US dollar on Monday, June 22, 2026, compared to the rates on Friday .",
+        "url": "https://www.modernghana.com/news/1504545/june-22-cedi-sells-at-ghs1235-on-forex-market.html",
+        "image": "https://cdn.modernghana.com/images/content/6222026122639-0g830n4ayt-cedi-and-dollar.jpg",
+        "publishedAt": "2026-06-22T10:46:39Z",
         "source": "Modern Ghana"
       },
       {
-        "title": "Private Sector Participation (PSP) In Power Distribution",
-        "description": "In recent months, a phrase has been at the center of the Ghanaian debate regarding energy policy: private sector participation in electricity distribution (PSP) .",
-        "url": "https://www.modernghana.com/news/1504526/private-sector-participation-psp-in-power-distri.html",
-        "image": "https://cdn.modernghana.com/images/content/6222026113010-uypcsferrm-image001.jpg",
-        "publishedAt": "2026-06-22T09:57:34Z",
-        "source": "Modern Ghana"
+        "title": "Merck’s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC)",
+        "description": "Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced positive topline results from the Phase 3 ATLAS-UC induction-only st...",
+        "url": "https://www.businesswire.com/news/home/20260622057174/en/Mercks-Tulisokibart-Met-Primary-and-Key-Secondary-Endpoints-in-the-Phase-3-ATLAS-UC-Induction-only-Study-in-Patients-With-Moderately-to-Severely-Active-Ulcerative-Colitis-UC",
+        "image": "https://mms.businesswire.com/media/20260622057174/en/1106824/22/Merck_Logo_Horizontal_Teal-Grey_RGB.jpg",
+        "publishedAt": "2026-06-22T10:45:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "PSEi falls on cracks in US-Iran truce, lower Philippine growth estimates",
-        "description": "The Philippine Stock Exchange index (PSEi) fell on Monday, June 22, after Iran walked out of peace talks and closed the Strait of Hormuz again, while the...",
-        "url": "https://mb.com.ph/2026/06/22/psei-falls-on-cracks-in-us-iran-truce-lower-philippine-growth-estimates",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/22/110692.webp",
-        "publishedAt": "2026-06-22T09:56:41Z",
-        "source": "Manila Bulletin"
+        "title": "Merck’s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS",
+        "description": "Tulisokibart is the first anti-TL1A monoclonal antibody to demonstrate clinical remission at 12 weeks in moderately to severely active UC in a Phase 3 trial Tulisokibart was designed to help address immuno-fibrosis, a key driver of disease progression in inflammatory bowel disease (IBD) and other immune-mediated inflammatory conditions Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced positive topline results from the Phase 3 ATLAS-UC induction-only study (Study 2) evaluating tulisokibart (MK-7240), an investigational humanized monoclonal antibody targeting tumor necrosis factor-like cytokine 1A (TL1A), in patients with moderately to severely active UC. The study successfully met its primary endpoint of clinical remission according to the Modified Mayo Score (MMS) at week 12, as well as key secondary endpoints. Consistent with previously reported Phase 2 studies, no safety concerns were identified. “These positive Phase 3 induction results for",
+        "url": "https://www.merck.com/news/mercks-tulisokibart-met-primary-and-key-secondary-endpoints-in-the-phase-3-atlas-uc-induction-only-study-in-patients-with-moderately-to-severely-active-ulcerative-colitis-uc/",
+        "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260622057174r1&sid=q4-prod&distro=nx&lang=en",
+        "publishedAt": "2026-06-22T10:45:00Z",
+        "source": "Merck.com"
       },
       {
-        "title": "Peso weakens to P61:$1 as US dollar strengthens on hawkish Fed signals",
-        "description": "The Philippine peso depreciated for the fourth straight trading day to return to the P61:$1 level on Monday, as the US dollar strengthened after Federal Reserve officials hinted that interest rates could stay elevated.",
-        "url": "https://www.gmanetwork.com/news/money/economy/992324/peso-p61-us-dollar-fed-signals/story/",
-        "image": "https://images.gmanews.tv/webpics/2019/08/peso-dollar01_2019_08_19_17_25_33.jpg",
-        "publishedAt": "2026-06-22T09:56:29Z",
-        "source": "GMA Network"
+        "title": "FDA to reconsider Regenxbio Hunter syndrome gene therapy",
+        "description": "The FDA has reversed course on an experimental gene therapy for a deadly and rare childhood brain disorder it rejected just four months ago.",
+        "url": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/02/AP25036674396489-1024x576.jpg",
+        "publishedAt": "2026-06-22T10:44:32Z",
+        "source": "statnews.com"
+      },
+      {
+        "title": "Monday’s analyst upgrades and downgrades",
+        "description": "Inside the Market’s roundup of some of today’s key analyst actions",
+        "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-mondays-analyst-upgrades-and-downgrades-276/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/SPI5H2UFA5NKFAHVXYR3ZLEEUE.JPG?auth=a48127c6c636192ad3f7c9956668bb27089a8c149662285e7327d76eb09c2bb3&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-06-22T10:43:26Z",
+        "source": "The Globe and Mail"
       }
     ],
     "science": [
+      {
+        "title": "Humanity trashed Earth orbit - next stop the Moon",
+        "description": "Neuraspace CEO floats lunar scrapyards as a cleaner way to handle hardware left behind",
+        "url": "https://www.theregister.com/science/2026/06/22/humanity-trashed-earth-orbit-next-stop-the-moon/5259067",
+        "image": "https://image.theregister.com/5228580.jpg?imageId=5228580&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-06-22T10:45:00Z",
+        "source": "The Register"
+      },
+      {
+        "title": "Butterfly that barely ages could help unlock longevity secrets",
+        "description": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+        "image": "https://www.sciencedaily.com/images/1920/red-postman-butterfly-heliconius-erato.webp",
+        "publishedAt": "2026-06-22T10:31:59Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Butterfly that barely ages could help unlock longevity secrets",
+        "description": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
+        "url": "http://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+        "image": "https://www.sciencedaily.com/images/1920/red-postman-butterfly-heliconius-erato.webp",
+        "publishedAt": "2026-06-22T10:31:59Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "When is June's full moon? Strawberry Moon to light up night sky",
+        "description": "The Strawberry Moon gets its nickname from the fruit we love, but it won't actually look red. Here's when it's set to take place.",
+        "url": "https://www.usatoday.com/story/news/world/2026/06/22/june-full-moon-strawberry-moon-2026/90574305007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/17/USAT/90589873007-getty-images-2158809641.jpg?crop=5584,3141,x0,y188&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-06-22T10:07:30Z",
+        "source": "USA Today"
+      },
+      {
+        "title": "Could we actually terraform Mars? Scientists are trying to find out",
+        "description": "Scientists have drawn up a research blueprint for assessing the viability of warming the Red Planet, outlining what it might take to make Mars a place in space where Earth life can thrive.",
+        "url": "https://www.space.com/astronomy/mars/could-we-actually-terraform-mars-scientists-are-trying-to-find-out",
+        "image": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6-720-80.jpg",
+        "publishedAt": "2026-06-22T10:00:00Z",
+        "source": "Space"
+      },
+      {
+        "title": "James Webb telescope detects 'galaxy-killing wind' near the dawn of time",
+        "description": "New observations from the James Webb Space Telescope show that ancient galaxies lived fast and died young because of intense, collision-driven winds.",
+        "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-detects-galaxy-killing-wind-near-the-dawn-of-time-and-it-could-foretell-the-death-of-the-milky-way",
+        "image": "https://cdn.mos.cms.futurecdn.net/AeUBdQW7zp6bw8Q4iEcxth-2560-80.jpg",
+        "publishedAt": "2026-06-22T10:00:00Z",
+        "source": "Live Science"
+      },
       {
         "title": "During the 1859 solar storm, telegraph operators disconnected their batteries entirely — yet messages kept flowing on the storm's own current as sparks showered from the machines and the paper caught",
         "description": "On September 2, 1859, telegraph operators George Wood in Boston and Frederick Royce in Portland unplugged their batteries during the Carrington Event and kept sending messages on the geomagnetic current induced by the storm itself — while elsewhere on the network, sparks jumped from keys and paper tape caught fire.",
@@ -150,119 +198,71 @@
         "image": "https://image.highnorthnews.com/108417.jpg?imageId=108417&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "publishedAt": "2026-06-22T09:45:28Z",
         "source": "High North News"
-      },
-      {
-        "title": "Boron nitride nanotubes move lithium ions 31 times faster than expected",
-        "description": "Researchers at Rutgers University, the University of Illinois Chicago, and Argonne National Laboratory have found that boron nitride nanotube membranes transport lithium ions far faster than expected, pointing to potential applications in lithium recovery from spent batteries and blue energy generation.",
-        "url": "https://www.pv-magazine-india.com/2026/06/22/boron-nitride-nanotubes-move-lithium-ions-31-times-faster-than-expected/",
-        "image": "https://www.pv-magazine-india.com/wp-content/uploads/2023/02/lithium-1.jpg",
-        "publishedAt": "2026-06-22T09:38:48Z",
-        "source": "pv magazine India"
-      },
-      {
-        "title": "On March 13, 1989, a geomagnetic storm collapsed Quebec's entire power grid in just 90 seconds - leaving 6 million people in the cold and dark before most of them had even woken up",
-        "description": "In the early hours of March 13, 1989, a coronal mass ejection from the Sun induced currents that collapsed Hydro-Québec's grid in 90 seconds, plunging six million people into a sub-zero blackout and rewriting how engineers think about space weather.",
-        "url": "https://spacedaily.com/j-v-on-march-13-1989-a-geomagnetic-storm-collapsed-quebecs-entire-power-grid-in-just-90-seconds-leaving-6-million-people-in-the-cold-and-dark-before-most-of-them-had-even-woken-up/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/j-on-march-13-1989-a-geomagnetic-storm-collapsed-quebecs-ent.jpg",
-        "publishedAt": "2026-06-22T09:34:33Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "AI and robotics will deepen human",
-        "description": "AI and robotics will deepen human-machine understanding: Experts",
-        "url": "https://www.investmentguruindia.com/newsdetail/ai-and-robotics-will-deepen-human-machine-understanding-experts229683",
-        "image": "https://investmentguruindia.com/icon.ico",
-        "publishedAt": "2026-06-22T09:14:55Z",
-        "source": "Investment Guru"
-      },
-      {
-        "title": "Webb Telescope Finds Giant Galaxy, Black Hole Birth",
-        "description": "Astronomers have used the James Webb Space Telescope to catch an extraordinary glimpse of a massive galaxy taking shape in the early universe. They",
-        "url": "https://www.miragenews.com/webb-telescope-finds-giant-galaxy-black-hole-1696468/",
-        "image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/nieuws/2026/6/nova-james-web-reuzensterrenstelsel.png/nova-james-web-reuzensterrenstelsel.png/d700xvar",
-        "publishedAt": "2026-06-22T09:14:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Potentially Hazardous Asteroid 1997 NC1 To Pass Earth Dangerously Close After 400 Years On June 27",
-        "description": "The asteroid was last seen closest to Earth in the 17th century",
-        "url": "https://in.mashable.com/science/111201/potentially-hazardous-asteroid-1997-nc1-to-pass-earth-dangerously-close-after-400-years-on-june-27",
-        "image": "https://sm.mashable.com/mashable_in/seo/1/106378/106378_gdqf.jpg",
-        "publishedAt": "2026-06-22T09:09:54Z",
-        "source": "Mashable India"
-      },
-      {
-        "title": "AI and robotics will deepen human",
-        "description": "New Delhi, June 22 (IANS) Artificial intelligence and robotics are opening new possibilities for understanding human emotions and strengthening interactions between people and machines, technology experts said on Monday ahead of the Annual New Champions Meeting, or Summer Davos, in Dalian, where innovations ranging from emotion-sensing AI systems to interactive robots are being showcased. Experts […]",
-        "url": "https://tennews.in/ai-and-robotics-will-deepen-human-machine-understanding-experts/",
-        "image": "https://tennews.in/wp-content/uploads/2023/09/GU-NAAC-Logo_page-0001.jpg",
-        "publishedAt": "2026-06-22T09:09:29Z",
-        "source": "tennews.in"
       }
     ],
     "ai": [
       {
-        "title": "How new World Cup tech innovations can take football into a new dimension: From Ref Cams to AI analysts",
-        "description": "What advancements have made it to the current World Cup in North America – and which others are likely to be introduced at future tournaments?",
-        "url": "https://www.independent.co.uk/sport/football/world-cup-2026-ref-cam-ai-technology-b3000317.html",
-        "image": "https://static.independent.co.uk/2026/06/22/10/2026-06-21T180258Z_796613903_UP1EM6L1E4XSF_RTRMADP_3_SOCCER-WORLDCUP-ESP-SAU.JPG?trim=160,360,162,79&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-06-22T09:57:19Z",
-        "source": "The Independent"
-      },
-      {
-        "title": "Baden Bower tracks 12,040 AI citations across six engines to rank top publications for AI visibility",
-        "description": "A new index scoring 12,040 citations across ChatGPT, Perplexity, Claude, Gemini, Google AI Overviews and Copilot finds that editorial outlets dominate AI answers, with Forbes first and press release wires near the bottom.",
-        "url": "https://thenextweb.com/news/baden-bower-ai-visibility-index-citations-publications",
-        "image": "https://media.thenextweb.com/2026/06/baden-bower-ai-visibility-index-citations-publications.avif",
-        "publishedAt": "2026-06-22T09:57:16Z",
+        "title": "Getty Images soars after striking a deal with the kind of company it sued",
+        "description": "Getty Images shares jumped around 200% after it agreed to supply licensed pictures to ChatGPT, years after suing AI image generators for scraping its library.",
+        "url": "https://thenextweb.com/news/getty-images-openai-chatgpt-deal-shares-soar",
+        "image": "https://media.thenextweb.com/2026/06/Getty-Images.avif",
+        "publishedAt": "2026-06-22T10:49:01Z",
         "source": "TNW"
       },
       {
-        "title": "Samsung is no longer South Korea’s most valuable company.",
-        "description": "Chipmaker SK Hynix, which supplies high-bandwidth memory (HBM) chips to Nvidia and Google, has overtaken Samsung, with Reuters reporting that its market capitalization has now hit $1.35 trillion. Samsung had held the top spot since 2000, prior to the AI boom.\n[Image: That’s one heck of a comeback for SK Hynix, after it almost collapsed under debt two decades ago. https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-22-104108.jpg?quality=90&strip=all]",
-        "url": "https://www.theverge.com/tech/953384/samsung-is-no-longer-south-koreas-most-valuable-company",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-22-104108.jpg?quality=90&strip=all&crop=0,5.6493081525804,100,88.701383694839",
-        "publishedAt": "2026-06-22T09:57:12Z",
-        "source": "The Verge"
-      },
-      {
-        "title": "Why Is Getty Images Stock Gaining Monday?",
-        "description": "Getty Images partners with OpenAI to power ChatGPT search. GETY stock jumps premarket. Read the full analysis.",
-        "url": "https://www.benzinga.com/markets/small-cap/26/06/60008123/why-is-getty-images-stock-gaining-monday",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/22/Getty-ImagesSeattle--Washington--Usa---J.jpg",
-        "publishedAt": "2026-06-22T09:56:55Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "India's economy is booming. So why are foreign investors looking away?",
-        "description": "India's strong growth story is running up against a global investor shift towards AI, chips and advanced manufacturing. The gap between record gross FDI and weak net inflows shows that growth alone is not enough to secure a larger share of global capital.",
-        "url": "https://www.indiatoday.in/business/story/india-foreign-investment-why-net-fdi-lags-despite-fastest-growing-economy-2931562-2026-06-22",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/stock-market-crash-08464970-16x9.jpg?VersionId=541Qdde0voJKJVwFrKVw7HGnwBfwp2IG",
-        "publishedAt": "2026-06-22T09:56:12Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Safran, SatSure partner to develop geospatial intelligence solutions for India",
-        "description": "French aerospace giant Safran Electronics & Defense and Indian firm SatSure are joining forces to create advanced geospatial intelligence solutions for India. This collaboration, announced during the France-India Year of Innovation, will merge Safran's AI expertise with SatSure's satellite data analysis capabilities. The aim is to deliver integrated solutions for defence, environmental monitoring, and other vital sectors, boosting situational awareness and decision-making.",
-        "url": "https://economictimes.indiatimes.com/news/defence/safran-and-satsure-join-forces-for-revolutionary-geospatial-intelligence-solutions-in-india/articleshow/131905747.cms",
-        "image": "https://img.etimg.com/thumb/msid-131905795,width-1200,height-630,imgsize-71822,overlay-etdefence/articleshow.jpg",
-        "publishedAt": "2026-06-22T09:51:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "I asked ChatGPT whether a middle-class couple should spend ₹1.4 lakh on Sri Lanka or Singapore. The answer was one-sided",
-        "description": "I asked ChatGPT whether a middle-class Indian couple should spend ₹1.4 lakh on a trip to Sri Lanka or Singapore. After comparing flights, hotels, food, transport and attractions, the AI delivered a surprisingly one-sided verdict—and it wasn't in favour of the more expensive destination.",
-        "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-whether-a-middle-class-couple-should-spend-1-4-lakh-on-sri-lanka-or-singapore-the-answer-was-onesided-11782121211945.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/pexels-photo-13722258_1782121641053_1782121650552_427ceb20-a519-4a12-a8d1-65e15c134ece.jpeg",
-        "publishedAt": "2026-06-22T09:49:05Z",
+        "title": "Too much sunlight in your living room? 5 brightest smart TVs under ₹40,000 that don't turn into a mirror",
+        "description": "These smart TVs come with an AI voice remote, a premium design, and a 4K resolution. These TVs are available at a discount of up to 35% in India.",
+        "url": "https://www.livemint.com/gadgets-and-appliances/too-much-sunlight-in-your-living-room-5-brightest-smart-tvs-under-rs-40-000-that-dont-turn-into-a-mirror-11782108764051.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/Best_Smart_TVs_under_Rs_40000_1782110525322_1782110549358_1eab292a-fe16-4902-a3c9-94c13c08b2f4.png",
+        "publishedAt": "2026-06-22T10:48:11Z",
         "source": "Livemint"
       },
       {
-        "title": "OrcaRouter Launches Routing DSL to Help Developers Build AI Workflows Across Multiple Models",
-        "description": "Singapore, June 22: AI infrastructure company OrcaRouter has announced the launch of Routing DSL, a programmable routing framework designed to help developers orchestrate and optimize AI workloads across more than 200 large language models through a single interface.",
-        "url": "https://www.tribuneindia.com/news/business/orcarouter-launches-routing-dsl-to-help-developers-build-ai-workflows-across-multiple-models/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg1ZDkyYzgwLTZlMWYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-22T09:48:22Z",
+        "title": "Epic Games Loses Level Design Legend Sjoerd de Jong After 12 Years As Unreal Engine 6 Embraces AI",
+        "description": "Epic legend Sjoerd de Jong departs as Unreal Engine 6's AI shift is set to disrupt AAA level design forever.",
+        "url": "https://wccftech.com/epic-games-loses-level-design-legend-sjoerd-de-jong-unreal-engine-6-ai/",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Sjoerd-de-Jong-Leaves-Epic-Unreal-Engine-6-AI-1920x1081.jpg",
+        "publishedAt": "2026-06-22T10:47:16Z",
+        "source": "Wccftech"
+      },
+      {
+        "title": "For New Zealand's Meridian Energy, The Investment Case Is Built Around Electricity",
+        "description": "Every major economic transformation requires one thing before anything else can happen: power. Factories need it. Data centers depend on it. Electric vehicles consume it. Artificial intelligence infrastructure cannot",
+        "url": "https://www.benzinga.com/Opinion/26/06/60009020/for-new-zealands-meridian-energy-the-investment-case-is-built-around-electricity",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/22/The-national-flag-of-New-Zealand.jpg",
+        "publishedAt": "2026-06-22T10:45:36Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "powered platform to resolve subscriber complaints faster",
+        "description": "Pension regulator PFRDA has launched an AI-powered grievance platform called PFRDA Pension Sahayak, allowing NPS and Atal Pension Yojana subscribers to file and track complaints through a website, mobile phone or WhatsApp. The new system supports 22 Indian languages, voice-based complaint filing, real-time status tracking and automatic escalation of unresolved issues, making it easier for subscribers—especially senior citizens and rural users—to get their pension-related problems resolved.",
+        "url": "https://www.cnbctv18.com/personal-finance/pfrda-launches-ai-powered-platform-to-resolve-subscriber-complaints-faster-19929892.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-65b600262be3fb06834d5487ee35e52d.jpg?im=FitAndFill,width=500,height=300",
+        "publishedAt": "2026-06-22T10:45:25Z",
+        "source": "CNBC TV18"
+      },
+      {
+        "title": "AI’s expertise paradox mustn’t get lost in India’s enthusiasm for AI diffusion across the country",
+        "description": "This technology is useful for experts but is being aimed at rookies who can’t tell true proficiency apart from an illusion of it. Prior expertise is crucial to make best use of these new tools. If we’re not careful at this stage, we could end up with mass misadoption of AI.",
+        "url": "https://www.livemint.com/opinion/online-views/ai-expertise-paradox-india-diffusion-artificial-intelligence-technology-vibe-coding-engineering-11782115930929.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/22/1600x900/logo/USA-CORPBONDS-QUALTRICS-0_1772959625905_1772959635373_1782124525496_abdb72c8-7e92-4a82-a9f9-800ea31dae74.JPG",
+        "publishedAt": "2026-06-22T10:45:19Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Tencent tests AI assistant in WeChat in China to catch up with rivals",
+        "description": "WeChat is an indispensable part of daily life in China and Tencent is trying to tap into its huge user base to expand use of its AI services.",
+        "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108061333-1731404829007-gettyimages-2183307280-img_7386_t9elrrqe.jpeg?v=1750149418&w=1920&h=1080",
+        "publishedAt": "2026-06-22T10:43:06Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "ixigo Launches Free Delhi Metro Ticket Campaign: Beat the Heat, Save on Fuel, Travel for Free",
+        "description": "Gurugram, 22nd June 2026: ixigo Trains, India’s leading AI-based train ticketing platform, has announced a special offer for Delhi Metro commuters, allowing users to claim two free Delhi Metro tickets every month through the ixigo Trains app. The offer went...",
+        "url": "https://www.tribuneindia.com/news/business/ixigo-launches-free-delhi-metro-ticket-campaign-beat-the-heat-save-on-fuel-travel-for-free/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYxMzQxYmUwLTZlMjctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-06-22T10:43:02Z",
         "source": "The Tribune"
       }
     ]
