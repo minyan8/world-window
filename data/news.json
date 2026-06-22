@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-22T16:59:08.398Z",
+  "fetchedAt": "2026-06-22T18:35:37.615Z",
   "sections": {
     "world": [
       {
-        "title": "Dozens injured, 18 missing after blast during restart at giant Qatar LNG site",
-        "description": "Authorities said a 'technical accident' occurred at the Barzan local gas supply facility on Sunday evening and that there was no threat to public safety.",
-        "url": "https://www.cnbc.com/2026/06/22/dozens-injured-and-18-missing-after-explosion-at-qatar-lng-site.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108324607-1782103305102-gettyimages-2264602913-375a9021.jpeg?v=1782103317&w=1920&h=1080",
-        "publishedAt": "2026-06-22T04:54:19Z",
-        "source": "CNBC"
+        "title": "Explosion at Qatar gas export terminal leaves dozens injured and 18 missing",
+        "description": "State-run QatarEnergy says blast occurred during work to restart production at Ras Laffan LNG plant that was bombed during Iran war; incident could further shake global energy markets",
+        "url": "https://www.timesofisrael.com/explosion-at-qatar-gas-export-terminal-leaves-dozens-injured-and-18-missing/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260302__99KZ2CC__v3__HighRes__QatarIranIsraelUsWar-1-e1781290962610.jpg",
+        "publishedAt": "2026-06-22T06:32:33Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Wego Partners with Saudi Ministry of Hajj and Umrah to Transform the Digital Umrah Experience",
-        "description": "Wego continues to advance digital innovation in Umrah services and is among the first platforms to enable electronic Umrah visa issuance, helping simplify the",
-        "url": "https://aijourn.com/wego-partners-with-saudi-ministry-of-hajj-and-umrah-to-transform-the-digital-umrah-experience/",
-        "image": "https://mmx.prnewswire.com/media/MS1868299/Wego_Partners_with_Saudi_Ministry_of_Hajj_and_Umrah.jpg",
-        "publishedAt": "2026-06-22T04:51:07Z",
-        "source": "The AI Journal"
+        "title": "European countries close schools and cancel trains as 40-degree heatwave to intensify",
+        "description": "Some parts of France recorded temperatures past 40 degrees, an extreme for this time of year.",
+        "url": "https://www.thejournal.ie/heatwave-europe-france-7077771-Jun2026/",
+        "image": "https://img2.thejournal.ie/article/7077771/river/?height=400&version=7077788",
+        "publishedAt": "2026-06-22T06:32:00Z",
+        "source": "The Journal"
       },
       {
-        "title": "Norwegian Embassy joins calls for Aung San Suu Kyi’s release on 81st birthday",
-        "description": "The Norwegian Embassy in Myanmar joined a growing international call for the release of detained Myanmar democracy leader Aung San Suu Kyi by marking her 81st birthday on 19 June. …",
-        "url": "https://scandasia.com/norwegian-embassy-joins-calls-for-aung-san-suu-kyis-release-on-81st-birthday/",
-        "image": "https://scandasia.com/wp-content/uploads/2026/06/Rose-for-Suu-Kyi.jpg",
-        "publishedAt": "2026-06-22T04:48:24Z",
-        "source": "Scandasia"
+        "title": "South Korea ex-minister gets 25 years for role in martial law disaster: Yonhap",
+        "description": "A court sentenced a former South Korean justice minister on Monday to 25 years in prison for his role in ex-president Yoon Suk Yeol's brief and disastrous declaration of martial law in 2024.",
+        "url": "https://www.standardmedia.co.ke/world/article/2001550958/south-korea-ex-minister-gets-25-years-for-role-in-martial-law-disaster-yonhap",
+        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/bXt6hUwxGZ5DeT4KIwZNssF8kp4PmegFkODHlGPm.jpg",
+        "publishedAt": "2026-06-22T06:31:23Z",
+        "source": "standardmedia.co.ke"
       },
       {
-        "title": "FG approves N21.2m per state for Ebola preparedness, responses nationwide",
-        "description": "The federal government weekend approved the release of N21.2 million per state to State Outbreak Investigation and Response Funds (S-OIRF) to support outbreak",
-        "url": "https://blueprint.ng/fg-approves-n21-2m-per-state-for-ebola-preparedness-responses-nationwide/",
-        "image": "https://blueprint.ng/wp-content/uploads/2024/10/cropped-blueprint-icon-32x32.png",
-        "publishedAt": "2026-06-22T04:45:10Z",
-        "source": "Blueprint Newspapers"
+        "title": "Villagers support Kodingamali bauxite mine expansion, seek better infrastructure and jobs",
+        "description": "Residents of villages around the Kodingamali Bauxite Mine backed a proposal to increase production capacity while urging authorities to address local development needs.",
+        "url": "https://www.alcircle.com/news/villagers-support-kodingamali-bauxite-mine-expansion-seek-better-infrastructure-and-jobs-119996",
+        "image": "https://www.alcircle.com/api/media/1782089496.79451_gangani-ravines-gangani-india-2026-01-08-00-30-04-utc_(1)_0_0.jpg",
+        "publishedAt": "2026-06-22T06:30:18Z",
+        "source": "AL Circle"
       },
       {
-        "title": "Africa Is Now Its Own Third-Largest Trading Partner - and the Real Figure Is Higher",
-        "description": "Afreximbank's African Trade Heatmaps 2026 ranks Africa as its own third-biggest trading partner in 2025, behind Asia and the European Union\nIt dents",
-        "url": "https://www.ecofinagency.com/news/2206-56658-africa-is-now-its-own-third-largest-trading-partner-and-the-real-figure-is-higher",
-        "image": "https://www.ecofinagency.com/media/k2/items/cache/c66d4e3a457424a1556820a7d250bc27_S.jpg",
-        "publishedAt": "2026-06-22T04:41:23Z",
-        "source": "Ecofin Agency"
+        "title": "Why a Chinese renewables giant is pondering a majority localisation in Europe",
+        "description": "Europe has prohibited Chinese renewable power inverters from being used in EU-funded projects, citing cybersecurity and dependency risks.",
+        "url": "https://www.scmp.com/business/china-business/article/3357855/why-chinese-renewables-giant-wants-put-over-50-operations-europe",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/22/755ef9b0-8aeb-4b15-ac7b-b50c912b8166_fd5ea262.jpg?itok=w9A9cZFE&v=1782092120",
+        "publishedAt": "2026-06-22T06:30:00Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Average rents across European capitals: Eurostat reveals the most expensive countries",
-        "description": "Housing accounts for the largest share of household spending, but rents vary dramatically across Europe. Eurostat's latest data show which cities are the most expensive for tenants and where renting remains relatively affordable.",
-        "url": "https://www.euronews.com/business/2026/06/22/average-rents-across-european-capitals-eurostat-reveals-the-most-expensive-countries",
-        "image": "https://images.euronews.com/articles/stories/09/80/50/13/1200x675_cmsv2_4e4c7a31-5488-5b58-b0b7-237486f44d36-9805013.jpg",
-        "publishedAt": "2026-06-22T04:41:00Z",
-        "source": "Euronews"
+        "title": "Social Innovation Is The Catalyst For Improving SA Healthcare",
+        "description": "South Africa's social innovators are driving innovation to tackle our most deeply entrenched healthcare challenges.",
+        "url": "https://health-e.org.za/2026/06/22/social-innovation-is-the-catalyst-for-improving-sa-healthcare/",
+        "image": "https://health-e.org.za/wp-content/uploads/2026/06/Zacharia.jpg",
+        "publishedAt": "2026-06-22T06:29:32Z",
+        "source": "Health-e News"
       },
       {
-        "title": "Nata says key figures behind 2000 coup yet to face Commission",
-        "description": "Nata says key figures behind 2000 coup yet to face Commission",
-        "url": "https://www.fijivillage.com/f/nata-says-key-figures-behind-2000-coup-yet-to-face-commission-764cdb/",
-        "image": "https://www.fijivillage.com/news_images/20260622200333_media_6a38b0824f7037_69678751.png",
-        "publishedAt": "2026-06-22T04:38:31Z",
-        "source": "Fijivillage"
+        "title": "China’s policing plans should be sidelined, says top Solomons minister",
+        "description": "Anthony Albanese will conduct a Pacific diplomacy blitz in July, including visiting the Solomons to drive forward negotiations on a new comprehensive treaty.",
+        "url": "https://www.theage.com.au/politics/federal/china-s-policing-plans-should-be-sidelined-says-top-solomons-minister-20260622-p608w0.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2435%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/dfa332e7d3f24db44cd3e72804432070c40d7542",
+        "publishedAt": "2026-06-22T06:26:47Z",
+        "source": "The Age"
       },
       {
-        "title": "Video: Massive Fireball And Smoke After Explosion At Qatar Gas Facility",
-        "description": "The Ras Laffan complex had also been hit earlier in March, when an Iranian missile struck the area, sparking a fire that caused \"extensive\" damage before it was put out",
-        "url": "https://www.ndtv.com/world-news/qatar-gas-facility-blast-video-massive-fireball-and-smoke-after-explosion-at-qatar-gas-facility-barzan-gas-supply-facility-in-ras-laffan-us-iran-war-11669265",
-        "image": "https://c.ndtvimg.com/2026-06/6b1k3ifo_qatar-gas-explosion_625x300_22_June_26.jpeg",
-        "publishedAt": "2026-06-22T04:38:09Z",
-        "source": "NDTV"
+        "title": "Ukraine-Russia war live: Fuel sales halted after Kyiv strikes both sides of Crimean bridge",
+        "description": "Fuel supplies in occupied Crimea have been restricted to essential government agencies",
+        "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-crimea-bridge-attack-b3000129.html",
+        "image": "https://static.independent.co.uk/2026/06/22/04/2026-06-21T170050Z_1500114558_RC27YLA07MRQ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RUSSIA.JPG?trim=0,87,0,87&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-06-22T06:26:09Z",
+        "source": "The Independent"
       }
     ],
     "business": [
       {
-        "title": "NZ Muscle apologises, admits to ‘packing and labelling issues'",
-        "description": "The brand is the subject of a bombshell YouTube investigation.",
-        "url": "https://www.rova.nz/articles/nz-muscle-apologises-admits-to-packing-and-labelling-issues",
-        "image": "https://images.ctfassets.net/r65x6q43xsmv/3wmp1fOOXJqsPT6NUs94E5/de641ca7b999b41208b3aff67e88adef/NZMuscleapolog-HERO.jpg?fm=jpg&w=1200&q=75&f=center&h=630&fit=fill",
-        "publishedAt": "2026-06-22T04:59:00Z",
-        "source": "rova"
+        "title": "Sterling Hits Key Support",
+        "description": "The GBP/USD pair remained under pressure after some major events last week. Get our daily Forex signal for June 22, 2026 here.",
+        "url": "https://www.dailyforex.com/forex-technical-analysis/2026/06/gbpusd-signal-22-june-2026/246676",
+        "image": "https://www.dailyforex.com/https://assets.dailyforex.com/files/stockphotos1/currencies/gbpusd/1200x675_en_gbpusd4_signal-.jpeg",
+        "publishedAt": "2026-06-22T06:35:34Z",
+        "source": "DailyForex"
       },
       {
-        "title": "Oil falls after US-Iran talks signal easing supply risks",
-        "description": "BENGALURU/LONDON, June 22 : Oil prices dropped on Monday after U.S. Vice President JD Vance said progress has been made in talks with Iran and that the Strait of Hormuz was open. High-ranking U.S. and Iranian officials wrapped up their first round of talks in Switzerland on Monday, mediators said. The discus",
-        "url": "https://www.channelnewsasia.com/business/oil-falls-after-us-iran-talks-signal-easing-supply-risks-6198926",
-        "image": "https://dam.mediacorp.sg/image/upload/s--9f8iCms7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-21T221722Z_1_LYNXMPEM5K0N4_RTROPTP_3_IRAN-CRISIS.JPG?itok=hkoBjW6M",
-        "publishedAt": "2026-06-22T04:56:39Z",
-        "source": "CNA"
+        "title": "More incentives, more problems? Senate bill filed to broaden EV perks",
+        "description": "A new Senate bill is filed to extend and expand EV incentives. Is it really the solution to accelerate EV adoption?",
+        "url": "https://www.autoindustriya.com/auto-industry-news/more-incentives-more-problems-senate-bill-filed-to-broaden-ev-perks.html",
+        "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/06/3defed28-da9e-44f6-812e-0c90be84834b-gemini-generated-image-8gi2zs8gi2zs8gi2.jpg",
+        "publishedAt": "2026-06-22T06:34:42Z",
+        "source": "AutoIndustriya"
       },
       {
-        "title": "Hospitals write off millions as health insurers decline to pay invoices",
-        "description": "Politicians on Dáil PAC express strong concern as revenue foregone at a time of financial strain for the health sector",
-        "url": "https://www.irishtimes.com/business/2026/06/22/hospitals-write-off-millions-as-health-insurers-decline-to-pay-invoices/",
-        "image": "https://www.irishtimes.com/resizer/v2/KIL5BV7PIWGWDBB2UZ3G24UV34.jpg?smart=true&auth=4c656ec426f3e097c11d29d80c8a6072e734c8c3d9843fb7794b8aed1b0660d0&width=1200&height=630",
-        "publishedAt": "2026-06-22T04:55:38Z",
-        "source": "The Irish Times"
+        "title": "RLC debuts largest Western Visayas flexible office hub in Iloilo",
+        "description": "Robinsons Land Corp. (RLC) has inaugurated its largest flexible workspace facility in Western Visayas, positioning the company to capture expanding corporate...",
+        "url": "https://mb.com.ph/2026/06/22/rlc-debuts-largest-western-visayas-flexible-office-hub-in-iloilo",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/22/110604.webp",
+        "publishedAt": "2026-06-22T06:33:57Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "David Jones: 'all marketing is going to be done using Gen AI'",
-        "description": "David Jones, Founder & CEO, The Brandtech Group",
-        "url": "https://creative.salon/articles/features/david-jones-the-brandtech-group-cannes-lions-2026",
-        "image": "https://img2.storyblok.com/560x300/f/102932/1240x697/68440c8cdd/david-jones-founder-ceo-the-brandtech-group.jpg",
-        "publishedAt": "2026-06-22T04:54:57Z",
-        "source": "Creative Salon"
+        "title": "resolution spatial awareness to compact edge AI systems with industry",
+        "description": "STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced the...",
+        "url": "https://newsroom.st.com/media-center/press-item.html/p4783.html",
+        "image": "https://newsroom.st.com/wp-content/uploads/2026/06/P4783D-Jun-22-2026-VL53L9-ToF-3D-LiDAR-module_NEWSROOM-TILE.jpg",
+        "publishedAt": "2026-06-22T06:33:45Z",
+        "source": "STMicroelectronics"
       },
       {
-        "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new energy",
-        "description": "Brokerages remained bullish on Reliance Industries shares following the AGM, highlighting multiple growth drivers across telecom, retail, energy and emerging businesses.",
-        "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-stock-jumps-2-after-agm-brokerages-see-up-to-34-percent-upside-on-ai-jio-ipo-new-energy-13955348.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2021/10/reliance-industries.jpg",
-        "publishedAt": "2026-06-22T04:54:49Z",
-        "source": "Moneycontrol.com"
+        "title": "India's new class war is on display in airport lounges",
+        "description": "What was once an elite travel perk is now a middle-class aspiration, creating new hierarchies inside India's busiest airports.",
+        "url": "https://theprint.in/ground-reports/indias-new-class-war-is-on-display-in-airport-lounges/2966366/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/06/hooch-tragedies-india-1-2.jpg",
+        "publishedAt": "2026-06-22T06:32:48Z",
+        "source": "ThePrint"
       },
       {
-        "title": "High oil prices drive a surge in Chinese electric vehicle sales, but charging networks lag behind",
-        "description": "The war in Iran has helped reshape the global electric vehicle market, giving Chinese automakers an opening across the developing world as fuel prices surge. It's unclear, though, whether those...",
-        "url": "https://www.bigrapidsnews.com/news/world/article/high-oil-prices-drive-a-surge-in-chinese-electric-22314509.php",
-        "image": "https://s.hdnux.com/photos/01/66/50/44/31099185/3/rawImage.jpg",
-        "publishedAt": "2026-06-22T04:52:48Z",
-        "source": "Big Rapids Pioneer"
+        "title": "EPRA Increases Electricity Cost for All Kenyan Households",
+        "description": "Welcome to the Money News Roundup. Today, we break down the new electricity tariffs that will see Kenyans pay more for power. We also look at the extra PAYE deductions that have sparked concern among teachers.",
+        "url": "https://www.money254.co.ke/post/epra-increases-electricity-cost-for-all-kenyan-households-news",
+        "image": "https://cdn.prod.website-files.com/6038c1030be2580db46ccf46/6a38d616995880ec28f0ec18_top%20image%20%2B%20Templates%20%20-%202026-06-22T092809.824.jpg",
+        "publishedAt": "2026-06-22T06:31:22Z",
+        "source": "Money254"
       },
       {
-        "title": "Envision Energy Expands African Presence with Inauguration of South Africa Office",
-        "description": "/PRNewswire/ -- Envision Energy, a global leader in green technology, officially inaugurated its South Africa office in Cape Town, marking a significant...",
-        "url": "https://www.prnewswire.com/news-releases/envision-energy-expands-african-presence-with-inauguration-of-south-africa-office-302806082.html",
-        "image": "https://mmx.prnewswire.com/media/MS1869901/photo.jpg?id=OA2727029&p=facebook",
-        "publishedAt": "2026-06-22T04:51:00Z",
-        "source": "PR Newswire"
+        "title": "TCS Dividends: Stock Is Down 53% From Its Record High. Could FY27 Payouts Offer Relief?",
+        "description": "Bloomberg estimates suggest Tata Consultancy Services could pay Rs 127.98 per share in FY27, implying a dividend yield of about 6% at current prices. Here's how analysts' projections stack up against historical payouts.",
+        "url": "https://www.ndtvprofit.com/markets/tcs-dividends-stock-is-down-53-from-its-record-high-could-fy27-payouts-offer-relief-11669626",
+        "image": "https://c.ndtvimg.com/2026-06/sejuc5r4_tcs-dividend_625x300_22_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-06-22T06:30:09Z",
+        "source": "NDTV Profit"
       },
       {
-        "title": "GE Aerospace Stock Rockets 12% With 6-Day Winning Streak",
-        "description": "GE Aerospace (GE) - a designer and servicer of jet engines and aircraft systems - hit a 6-day winning streak, with cumulative gains over this period amounting to 12%. The company's market cap has surged by about $41 Bil over the last 6 days and currently stands at $374 Bil.",
-        "url": "https://www.trefis.com/stock/ge/articles/603790/ge-aerospace-stock-rockets-12-with-6-day-winning-streak/2026-06-22",
-        "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/04/16081133/airplane-8084612_1920-1.jpg",
-        "publishedAt": "2026-06-22T04:50:48Z",
-        "source": "Trefis"
+        "title": "After retreating from its peak, is SunMed a bargain?",
+        "description": "FEW newly listed companies have captured the imagination of investors quite like Sunway Healthcare Holdings Bhd (KL:SUNMED). The private healthcare operator debuted on Bursa Malaysia on March 18 with a market capitalisation of RM16.7 billion, large enough to secure immediate entry into the FBM KL...",
+        "url": "https://theedgemalaysia.com/node/807130",
+        "image": "https://assets.theedgemarkets.com/After_retreating_from_its_peak_is_SunMed_a_bargain_img_thumb_20260619183118_theedgemalaysia.jpg",
+        "publishedAt": "2026-06-22T06:30:00Z",
+        "source": "The Edge Malaysia"
       }
     ],
     "science": [
+      {
+        "title": "95% Of Universe Remains A Mystery, Quantum Sensors May Help",
+        "description": "Researchers are working to build large-scale quantum sensors that may help solve the mystery of dark matter and dark energy, which together constitute approximately 95% of the Universe. These sensors aim to detect subtle effects these phenomena have on atoms, requiring extremely precise measurements to overcome background noise.",
+        "url": "https://quantumzeitgeist.com/quantum-sensors-help-aion-universe/",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/aion-95-universe-remains-mystery-quantum-1024x630.jpg",
+        "publishedAt": "2026-06-22T06:12:10Z",
+        "source": "Quantum Zeitgeist"
+      },
+      {
+        "title": "NbSe2 Exhibits First-Order Phase Transition To Pairing State",
+        "description": "MPI researchers observed a first-order phase transition in NbSe2, potentially leading to a finite momentum pairing state.",
+        "url": "https://quantumzeitgeist.com/mpi-solid-state-research-nbse2-phase/",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/mpi-solid-state-research-nbse2-exhibits-1024x630.jpg",
+        "publishedAt": "2026-06-22T06:11:15Z",
+        "source": "Quantum Zeitgeist"
+      },
+      {
+        "title": "Supermassive black holes seen 'burping' years after devouring unlucky stars",
+        "description": "Expelled stellar debris slams into gas, triggering the radio flares we see as 'burps.'",
+        "url": "https://starlust.org/supermassive-black-holes-seen-burping-years-after-devouring-unlucky-stars/",
+        "image": "https://d3hedi16gruj5j.cloudfront.net/807549/uploads/4550c160-6bbc-11f1-947c-b34bec809473_1200_630.jpeg",
+        "publishedAt": "2026-06-22T06:01:21Z",
+        "source": "starlust.org"
+      },
+      {
+        "title": "For a decade the Pink Planet was too faint for any ground telescope to study - and when James Webb finally caught its spectrum, the best fit to the light was an atmosphere hazed with salt clouds",
+        "description": "GJ 504 b, the rosy world that defeated the world's biggest ground telescopes for years, gave up its first spectrum to JWST in a few hours of telescope time. The model that matched the light needed clouds made of salt.",
+        "url": "https://spacedaily.com/s-for-a-decade-the-pink-planet-was-too-faint-for-any-ground-telescope-to-study-and-when-james-webb-finally-caught-its-spectrum-the-best-fit-to-the-light-was-an-atmosphere-hazed-with-salt-clou/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/gj504b-pink-planet-salt-clouds.jpg",
+        "publishedAt": "2026-06-22T06:00:53Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Elusive goblin shark filmed in deep sea habitat for the first time",
+        "description": "Footage has been captured of a living goblin shark in its natural deep-sea habitat for the first time ever, thanks to UWA researchers.",
+        "url": "https://perthisok.com/news/goblin-shark-tonga-trench-uwa/",
+        "image": "https://perthisok.com/thumbnails/cG9zdDoyMTQ3NzI=.jpg",
+        "publishedAt": "2026-06-22T06:00:50Z",
+        "source": "Perth is OK!"
+      },
+      {
+        "title": "A space telescope that has spent 22 years detecting the most powerful explosions in the universe is now falling toward Earth, and a startup in Arizona built its rescue craft in seven months flat — a s",
+        "description": "NASA’s Neil Gehrels Swift Observatory has spent more than two decades watching for gamma-ray bursts, the most powerful explosions in the universe. It is now sinking towards the atmosphere, and the plan to save it is about to leave the ground. The agency has hired Katalyst Space Technologies, a startup in Flagstaff, Arizona, to fly […]",
+        "url": "https://spacedaily.com/t-a-space-telescope-that-has-spent-22-years-detecting-the-most-powerful-explosions-in-the-universe-is-now-falling-toward-earth-and-a-startup-in-arizona-built-its-rescue-craft-in-seven-months-flat/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/satellite-low-earth-orbit.jpg",
+        "publishedAt": "2026-06-22T05:51:23Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "California's Faults Are Under the Biggest Stress in 100 years. Is a \"Big One\" on the Way?",
+        "description": "For earthquakes it always pays to be prepared",
+        "url": "https://www.zmescience.com/science/geology/californias-faults-are-under-the-biggest-stress-in-100-years-is-a-big-one-on-the-way/",
+        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/06/290482f8-59de-4626-88e6-fc5804596944.jpg",
+        "publishedAt": "2026-06-22T05:45:38Z",
+        "source": "ZME Science"
+      },
       {
         "title": "Tessera AI model takes on the Earth observation world",
         "description": "The Tessera AI-powered foundation model takes Sentinel satellite optical and radar data and produces detailed trained data ‘embeddings’.",
@@ -142,128 +198,72 @@
         "image": "https://www.spatialsource.com.au/wp-content/uploads/2026/06/Examples_of_Tessera_embedding_625x442.jpg",
         "publishedAt": "2026-06-22T04:52:24Z",
         "source": "Spatial Source"
-      },
-      {
-        "title": "T. rex took 40 years to reach full size, scientists find",
-        "description": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
-        "image": "https://www.sciencedaily.com/images/1920/3d-tyrannosaurus-rex-scene.webp",
-        "publishedAt": "2026-06-22T04:33:35Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "NASA should build a biocontainment facility on the moon to protect Earth, researchers advise",
-        "description": "A biocontainment facility designed to protect Earth from potentially hazardous biotic contaminants from space should be part of a planned NASA base on the moon, a policy paper maintains.",
-        "url": "https://educationnewscanada.com/article/education/level/university/1/1207910/nasa-should-build-a-biocontainment-facility-on-the-moon-to-protect-earth-researchers-advise-.html",
-        "image": "https://educationnewscanada.com/images_logo/banniere_24390.png?v=20260618",
-        "publishedAt": "2026-06-22T04:04:38Z",
-        "source": "Education News Canada"
-      },
-      {
-        "title": "Moon phase today: What the Moon will look like on June 22",
-        "description": "We're now heading towards the Full Moon.",
-        "url": "https://sea.mashable.com/space/51211/moon-phase-today-what-the-moon-will-look-like-on-june-22",
-        "image": "https://sm.mashable.com/t/mashable_sea/article/m/moon-phase/moon-phase-today-what-the-moon-will-look-like-on-june-22_5pvf.1200.jpg",
-        "publishedAt": "2026-06-22T04:00:00Z",
-        "source": "Mashable SEA"
-      },
-      {
-        "title": "Vietnamese scientist wins prestigious US grant for vaccine preservation research",
-        "description": "A chance observation while having a chilled drink helped Dao Minh Huy develop a new method to preserve vaccines through repeated freeze-thaw cycles, earning him a U.S. science grant rarely awarded to pharmacy researchers. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/tech/personalities/vietnamese-scientist-wins-prestigious-us-grant-for-vaccine-preservation-research-5088380.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/06/22/huydaoulm178160762067631781608-3938-3725-1782096711.png?w=680&h=0&q=100&dpr=1&fit=crop&s=ZnVZgiDnp-w0K2aUWlqA3w",
-        "publishedAt": "2026-06-22T03:18:16Z",
-        "source": "VnExpress International"
-      },
-      {
-        "title": "World of Sleep",
-        "description": "Inside the emerging field of dream engineering",
-        "url": "https://chicagohealthonline.com/sleep-science-dream-engineering/",
-        "image": "https://chicagohealthonline.com/wp-content/uploads/2026/06/Screenshot-2026-06-21-at-10.47.34-PM.png",
-        "publishedAt": "2026-06-22T02:55:18Z",
-        "source": "Chicago Health Magazine"
-      },
-      {
-        "title": "The June Bootids have flared to dozens of meteors an hour in rare years like 1998, but most years the shower is so weak it shows almost nothing - and no outburst is forecast for 2026",
-        "description": "One of the year's most erratic meteor showers is active now. A handful of times it has stunned observers. Most years it barely registers, and the official 2026 calendar predicts nothing unusual.",
-        "url": "https://spacedaily.com/s-the-june-bootids-have-flared-to-dozens-of-meteors-an-hour-in-rare-years-like-1998-but-most-years-the-shower-is-so-weak-it-shows-almost-nothing-and-no-outburst-is-forecast-for-2026/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/06/june-bootids-meteor-night-sky.jpg",
-        "publishedAt": "2026-06-22T02:36:54Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "NASA Perseverance Rover Completes Marathon Distance in Its Mars Mission Expeditions",
-        "description": "NASA is celebrating the recent milestone of the Perseverance rover as it recently completed a marathon distance in its Martian expedition.",
-        "url": "https://www.itechpost.com/articles/236402/20260621/nasa-perseverance-rover-completes-marathon-distance-its-mars-mission-expeditions.htm",
-        "image": "https://d.itechpost.com/en/full/222103/nasa-perseverance-rover-selfie.jpg",
-        "publishedAt": "2026-06-22T02:30:31Z",
-        "source": "ITECH POST"
       }
     ],
     "ai": [
       {
-        "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new energy",
-        "description": "Brokerages remained bullish on Reliance Industries shares following the AGM, highlighting multiple growth drivers across telecom, retail, energy and emerging businesses.",
-        "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-stock-jumps-2-after-agm-brokerages-see-up-to-34-percent-upside-on-ai-jio-ipo-new-energy-13955348.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2021/10/reliance-industries.jpg",
-        "publishedAt": "2026-06-22T04:54:49Z",
-        "source": "Moneycontrol"
+        "title": "Albert Serra and Bi Gan on Adaptation and Why AI Lacks Innocence",
+        "description": "Spanish auteur Albert Serra and Chinese director Bi Gan meet at Shanghai's film market to debate literature and why bad books make better films.",
+        "url": "https://variety.com/2026/film/global/albert-serra-bi-gan-literary-adaptation-shanghai-1236786879/",
+        "image": "https://variety.com/wp-content/uploads/2026/06/Albert-Serra-Bi-Gan.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-06-22T06:35:21Z",
+        "source": "Variety"
       },
       {
-        "title": "Markets on edge as US-Iran ceasefire deal leaves investors rattled by uncertainty: Seth R. Freeman",
-        "description": "Despite a US-Iran ceasefire framework, markets remain volatile due to unresolved issues like Iran's nuclear program and the Strait of Hormuz. While oil prices are sensitive, China's markets struggle with property woes. India, however, shows promise, potentially emerging as a long-term AI powerhouse. Investors are advised caution until a concrete, enforceable deal is reached.",
-        "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-as-us-iran-ceasefire-deal-leaves-investors-rattled-by-uncertainty-seth-r-freeman/articleshow/131901340.cms",
-        "image": "https://img.etimg.com/thumb/msid-131901351,width-1200,height-630,imgsize-80575,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-06-22T04:54:00Z",
-        "source": "The Economic Times"
+        "title": "Albert Serra and Bi Gan on Adaptation and Why AI Lacks Innocence",
+        "description": "Spanish auteur Albert Serra and Chinese director Bi Gan meet at Shanghai's film market to debate literature and why bad books make better films.",
+        "url": "https://variety.com/2026/film/news/albert-serra-bi-gan-literary-adaptation-shanghai-1236786879/",
+        "image": "https://variety.com/wp-content/uploads/2026/06/Albert-Serra-Bi-Gan.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-06-22T06:35:21Z",
+        "source": "Variety"
       },
       {
-        "title": "Insilico Medicine And SK Biopharmaceuticals Achieved AI-powered Drug Discovery Collaboration Worth Up to 2.5 Billion for Neuroimmune Disorders",
-        "description": "CAMBRIDGE, Mass., June 22, 2026 /PRNewswire/ -- Insilico Medicine ('Insilico', 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven drug discovery company, and SK Biopharmaceuticals, a Korean-based company leads the way in biotech innovation with groundbreaking drug research, development, and commercialization worldwide, announced a research and development collaboration at the BIO 2026 International Convention to discover AI-enabled innovative drug candidates in the neuroimmune area of the central nervous system (CNS).",
-        "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/insilico-medicine-and-sk-biopharmaceuticals-achieved-ai-powered-drug-discovery-collaboration-worth-up-to-25-billion-for-neuroimmune-disorders/2369761",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-06-22T04:53:36Z",
-        "source": "The Manila Times"
+        "title": "Albert Serra and Bi Gan on Adaptation and Why AI Lacks Innocence",
+        "description": "Spanish auteur Albert Serra and Chinese director Bi Gan meet at Shanghai's film market to debate literature and why bad books make better films.",
+        "url": "https://variety.com/2026/film/festivals/albert-serra-bi-gan-literary-adaptation-shanghai-1236786879/",
+        "image": "https://variety.com/wp-content/uploads/2026/06/Albert-Serra-Bi-Gan.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-06-22T06:35:21Z",
+        "source": "Variety"
       },
       {
-        "title": "Why speed, scale and reliability will define the next infrastructure boom",
-        "description": "As Indias digital infrastructure boom accelerates, data centres are emerging as the backbone of the AI and cloud-driven economy.",
-        "url": "https://economictimes.indiatimes.com/small-biz/sme-sector/why-speed-scale-and-reliability-will-define-the-next-infrastructure-boom/articleshow/131901309.cms",
-        "image": "https://img.etimg.com/thumb/msid-131901353,width-1200,height-630,imgsize-418456,overlay-etrise/articleshow.jpg",
-        "publishedAt": "2026-06-22T04:53:00Z",
-        "source": "The Economic Times"
+        "title": "Albert Serra and Bi Gan on Adaptation and Why AI Lacks Innocence",
+        "description": "Spanish auteur Albert Serra and Chinese director Bi Gan meet at Shanghai's film market to debate literature and why bad books make better films.",
+        "url": "https://variety.com/2026/film/asia/albert-serra-bi-gan-literary-adaptation-shanghai-1236786879/",
+        "image": "https://variety.com/wp-content/uploads/2026/06/Albert-Serra-Bi-Gan.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-06-22T06:35:21Z",
+        "source": "Variety"
       },
       {
-        "title": "Unprofitable Companies Are 'Outperforming The Market,' Says Market Commentator: Investors 'Rewarding' AI",
-        "description": "AI exposure is beating profitability in the Russell 2000, according to data shared by The Kobeissi Letter.",
-        "url": "https://www.benzinga.com/markets/small-cap/26/06/60006529/unprofitable-companies-are-outperforming-as-investors-reward-ai-exposure-over-profitability",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/22/Trade-And-Finance-Concept--Dark-Forex-Ch.jpg",
-        "publishedAt": "2026-06-22T04:52:49Z",
-        "source": "Benzinga"
+        "title": "Tesla Bull Ross Gerber says Elon Musk’s Starlink can make ‘real AI phone’ to challenge iPhone, users ‘correct’ him saying Google Pixel can already ‘do all’ that ...",
+        "description": "Tech News News: Tesla bull and CEO of Gerber Kawasaki, Ross Gerber has suggested that Elon Musk’s Starlink could one day launch a device which will be capable of chal.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-bull-ross-gerber-says-elon-musks-starlink-can-make-real-ai-phone-to-challenge-iphone-users-correct-him-saying-google-pixel-can-already-do-all-that-/articleshow/131902737.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131902736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-22T06:31:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "IT stocks snap two-day fall as Anthropic CEO lists risks for AI companies; Coforge, TechM lead gains",
-        "description": "The IT index, which tumbled 3.7% on June 19 after Accenture's weak demand forecast, rose 1.2% on June 22",
-        "url": "https://www.moneycontrol.com/news/business/markets/it-stocks-snap-two-day-fall-as-anthropic-ceo-lists-risks-for-ai-companies-coforge-techm-lead-gains-13955388.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260620043453_marketup_sensexup-Niftyup.jpg",
-        "publishedAt": "2026-06-22T04:49:14Z",
-        "source": "Moneycontrol"
+        "title": "Karnataka’s Rs 20,000 cr Bidadi AI Township: Lakhs of jobs incoming, green spaces and major connectivity push",
+        "description": "Karnataka govt officials say the township will be developed in phases over the next three years, targeting a complete “work-live-play” ecosystem that draws talent and capital while reducing pressure on Bengaluru’s congested core.",
+        "url": "https://www.financialexpress.com/india-news/karnataka-rs-20000-crore-investment-bidadi-ai-township-project-lakhs-of-jobs-incoming-green-spaces-major-connectivity-push-cm-dk-shivakumar/4273261/",
+        "image": "https://images.financialexpressdigital.com/2026/06/bidadi.jpg",
+        "publishedAt": "2026-06-22T06:29:54Z",
+        "source": "The Financial Express"
       },
       {
-        "title": "Straive Acquires NextGen Invent to Boost Data & AI Operationalization Capabilities",
-        "description": "Mumbai (Maharashtra) [India], June 22: Straive, a global leader in Data & AI operationalization, today announced its acquisition of NextGen Invent, an AI engineering and enterprise services provider.",
-        "url": "https://www.tribuneindia.com/news/business/straive-acquires-nextgen-invent-to-boost-data-ai-operationalization-capabilities/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTlhYTAwNzMwLTZkZjUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-        "publishedAt": "2026-06-22T04:48:18Z",
-        "source": "The Tribune"
+        "title": "Reliance Shares Up By Over 2% Driven By AI, Energy Announcements",
+        "description": "Reliance shared uptick also helped the Nifty Oil & Gas index to gain up 1.2 percent., Companies, Times Now",
+        "url": "https://www.timesnownews.com/business-economy/companies/reliance-shares-up-by-over-2-driven-by-ai-energy-announcements-article-154720500",
+        "image": "https://images.timesnownews.com/thumb/msid-154720500,width-1280,height-720,resizemode-75/154720500.jpg",
+        "publishedAt": "2026-06-22T06:26:38Z",
+        "source": "Times Now"
       },
       {
-        "title": "Kirloskar Oil Engines shares zoom 20% to hit record high on HyperNext order",
-        "description": "Kirloskar Oil Engines has announced a significant order from HyperNext, a next-generation digital infrastructure company focused on delivering hyperscale-ready, AI-enabled data centre solutions.",
-        "url": "https://www.business-standard.com/markets/news/kirloskar-oil-engines-share-price-zoom-20-to-hit-record-high-on-hypernext-order-126062200117_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/25/thumb/fitandfill/1200X628/1779703035-0318.jpeg",
-        "publishedAt": "2026-06-22T04:45:52Z",
-        "source": "Business Standard"
+        "title": "RAMMP founder unpacks the technical architecture behind AI discoverability",
+        "description": "Twenty days after Dr Anna Harrison rebuilt her website for AI engines, a cold email arrived using phrases that existed nowhere except the technical pages she'd written for...",
+        "url": "https://itwire.com/guest-articles/guest-opinion/rammp-founder-unpacks-the-technical-architecture-behind-ai-discoverability",
+        "image": "https://media.itwire.com/2026/06/22/rammp-founder-unpacks-the-technical-architecture-behind-ai-discoverability-3043206708b3.webp",
+        "publishedAt": "2026-06-22T06:26:00Z",
+        "source": "iTWire"
       }
     ]
   }
