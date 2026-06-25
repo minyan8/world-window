@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-25T14:00:56.368Z",
+  "fetchedAt": "2026-06-25T15:18:41.341Z",
   "sections": {
     "world": [
       {
-        "title": "UAE, Kuwait assured of US commitment to Gulf states’ security",
-        "description": "Marco Rubio says no country will be allowed to impose tolls on Strait of Hormuz.",
-        "url": "https://www.dawn.com/news/2010623",
-        "image": "https://i.dawn.com/large/2026/06/250757150373bb8.webp",
-        "publishedAt": "2026-06-25T01:59:29Z",
-        "source": "Dawn"
+        "title": "Venezuela struck by back-to-back earthquakes, many casualties feared",
+        "description": "US Geological Survey says casualties could range from 10,000 to 100,000 people.",
+        "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26176029041720-1782355652.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-06-25T03:15:36Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Pakistan links Iran trade prospects to sanctions relief",
-        "description": "FO expects US-Iran technical talks to resume on Tuesday; hopes Hormuz tensions will ease with diplomatic progress.",
-        "url": "https://www.dawn.com/news/2010661",
-        "image": "https://i.dawn.com/large/2026/06/25074628eb14807.webp",
-        "publishedAt": "2026-06-25T01:59:09Z",
-        "source": "Dawn"
+        "title": "War powers resolution: Senate votes to walk back rebuke of Trump over Iran",
+        "description": "One day after adopting a resolution aimed at removing US military forces from the conflict with Iran, the Senate walked back its rebuke of President Donald Trump’s handling of the war, rejecting an attempt to advance a similar war powers measure.",
+        "url": "https://www.cnn.com/2026/06/24/politics/senate-walks-back-iran-war-powers-vote",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26175689106013.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-06-25T03:13:00Z",
+        "source": "CNN"
       },
       {
-        "title": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings",
-        "description": "The 7.2 and 7.5 magnitude earthquakes roiled the region, with buildings evacuated in cities as far away as Brazil’s Amazon about 1,700 kilometers away.",
-        "url": "https://globalnews.ca/news/11937689/earthquakes-caracas-venezuela/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/06/e03a1a6727e5f6ffd2912cf9b31887e9863da507c9fe9802178918d9d140db64.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-06-25T01:56:14Z",
-        "source": "Global News"
+        "title": "At least 32 killed, 700 injured in 2 major earthquakes in Venezuela, says acting president",
+        "description": "A 7.2-magnitude earthquake and a 7.5-magnitude were less than a minute apart, said the U.S. Geological Survey. The second earthquake was the largest to hit the country since 1900.",
+        "url": "https://www.cfpublic.org/2026-06-24/at-least-32-killed-700-injured-in-2-major-earthquakes-in-venezuela-says-acting-president",
+        "image": "https://npr.brightspotcdn.com/dims4/default/eadd336/2147483647/strip/true/crop/6192x3251+0+116/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F6192x3483%200%20323%2Fresize%2F6192x3483%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F8d%2F7906be5a4eea98509c77644c562b%2Fgettyimages-2282641657.jpg",
+        "publishedAt": "2026-06-25T03:11:00Z",
+        "source": "Central Florida Public Media"
       },
       {
-        "title": "Forensic audits clear Battersea project of overvaluation claims, says Anwar",
-        "description": "KUALA LUMPUR: Independent forensic reviews into the Battersea Power Station project in London found that allegations of overvaluation were unfounded, says Prime Minister Datuk Seri Anwar Ibrahim.",
-        "url": "https://www.thestar.com.my/news/nation/2026/06/25/forensic-audits-clear-battersea-project-of-overvaluation-claims-says-anwar",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3975980.jpeg",
-        "publishedAt": "2026-06-25T01:56:00Z",
-        "source": "The Star"
+        "title": "St Cuthbert’s College principal Charlotte Avery resigns",
+        "description": "St Cuthbert’s College principal Charlotte Avery has resigned after less than two years in the role. Leigh Melville, board chairwoman at the prestigious...",
+        "url": "https://www.nzherald.co.nz/nz/auckland/st-cuthberts-college-principal-charlotte-avery-resigns/HV65W6KONFCCDFUCTVXOMZJYFY/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/36JLMHNKCZC37DM5C57FUREBXA.jpg?auth=cc9c24caeb5f4a3d22200012c106f8dfbde4a593fea279eecef03797468c2c95&width=1200&height=675&quality=70&focal=936%2C350&smart=false",
+        "publishedAt": "2026-06-25T03:08:45Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Australia’s used to heatwaves. What makes Europe’s ‘heat dome’ different?",
-        "description": "Authorities fear the heatwaves could rival the deadly 2003 heatwaves, which caused an estimated 80,000 “excess deaths” across Europe.",
-        "url": "https://www.smh.com.au/environment/climate-change/australia-s-used-to-heatwaves-what-makes-europe-s-heat-dome-different-20260624-p609jn.html",
-        "image": "https://static.ffx.io/images/$zoom_0.1992%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/q_86%2Cf_auto/f2a3907d7d8fd9cff69ed7faf66730e2b5e0feb0",
-        "publishedAt": "2026-06-25T01:55:58Z",
-        "source": "SMH.com.au"
+        "title": "'Lunatic': Donald Trump enters shouting match with fellow Republican over Iran",
+        "description": "US News: US President Donald Trump and Republican Senator Bill Cassidy engaged in a heated shouting match during a closed-door meeting with Senate Republicans .",
+        "url": "https://timesofindia.indiatimes.com/world/us/lunatic-donald-trump-enters-shouting-match-with-fellow-republican-over-iran/articleshow/131980909.cms",
+        "image": "https://static.toiimg.com/thumb/msid-131981039,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-25T03:04:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Why the Arctic route could leave the Suez in the cold - Ahmad Ibrahim",
-        "description": "JUNE 25 — For centuries, global trade has followed a simple logic: take the shortest path over water. That’s why the Suez Canal and the Strait of Malacca became the world’s...",
-        "url": "https://www.malaymail.com/news/what-you-think/2026/06/25/why-the-arctic-route-could-leave-the-suez-in-the-cold-ahmad-ibrahim/225084",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/25/348447.JPG",
-        "publishedAt": "2026-06-25T01:55:45Z",
-        "source": "Malay Mail"
+        "title": "South Africa beat South Korea to reach World Cup knockout stage for first time",
+        "description": "South Korea can still qualify as one of the best third-placed teams. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/sport/football/south-africa-beat-south-korea-to-reach-world-cup-knockout-stage-for-first-time",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f7bbb4df7ae71bb72c91a51c838e6a4480bbdf957a867e39da811b314ee1a1b6",
+        "publishedAt": "2026-06-25T03:01:32Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Drone Attack Hits Occupied Crimea as Explosions Reported Across Peninsula",
-        "description": "Explosions were reported across occupied Crimea overnight as monitoring channels said Russian air defenses were active during a drone attack.",
-        "url": "https://www.kyivpost.com/post/78910",
-        "image": "https://static.kyivpost.com/storage/2026/06/25/8b565b5cc73125d7528e69555abb4011.jpg?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-06-25T01:48:19Z",
-        "source": "Kyiv Post"
+        "title": "Addis Ababa to host Africa summit on diplomacy, innovation and development",
+        "description": "More than 600 leaders, policymakers, innovators, academics and civil society representatives from across Africa and beyond are expected to gather in Addis Ababa on July 29 and 30, 2026, for the...",
+        "url": "https://www.thecitizen.co.tz/tanzania/news/africa/addis-ababa-to-host-africa-summit-on-diplomacy-innovation-and-development-5508846",
+        "image": "https://www.thecitizen.co.tz/resource/image/5508850/landscape_ratio3x2/1200/800/e0c8381b1ab69ad484f73a5c3d3977fe/kR/addis-pic.jpg",
+        "publishedAt": "2026-06-25T03:00:00Z",
+        "source": "thecitizen.co.tz"
       },
       {
-        "title": "Russia's Central Bank to Subsidize Digital Ruble Wage Payments Starting in 2027",
-        "description": "According to bits.media, the Central Bank of Russia has announced economic incentives for commercial banks to pay salaries to corporate clients via the Digital",
-        "url": "https://www.kucoin.com/news/flash/russia-s-central-bank-to-subsidize-digital-ruble-wage-payments-from-2027",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-06-25T01:47:13Z",
-        "source": "KuCoin"
+        "title": "M6.9 quake hits northeastern Japan; no tsunami warning",
+        "description": "A powerful earthquake struck off Japan’s northern coast on Thursday, but the country’s meteorological agency said there was no danger of a tsunami. The quake had a magnitude of 7.2 and occurred off the eastern coast of Iwate Prefecture, upgraded from an initial reading of 6.9, the Japan Meteorological Agency…",
+        "url": "https://japantoday.com/category/national/urgent-m6.9-quake-hits-northeastern-japan-no-tsunami-warning",
+        "image": "https://media.japantoday.com/img/store/cf/d6/3522e9b571ad7097499e94c1f4ae6c9cd5b4/screenshot-2026-06-25-at-8-02-31/_w1700.png",
+        "publishedAt": "2026-06-25T03:00:00Z",
+        "source": "Japan Today"
       }
     ],
     "business": [
       {
-        "title": "Headline unemployment rate eases but trend unemployment highest in four years",
-        "description": "Australia's unemployment rate slipped to 4.4 per cent in May, down from 4.5 per cent in April, in seasonally adjusted terms.",
-        "url": "https://www.abc.net.au/news/2026-06-25/unemployment-rate-australia-may-2026/106839900",
-        "image": "https://live-production.wcms.abc-cdn.net.au/f059ed1de8c139990e2dce556f8a8325?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=247&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-06-25T02:00:23Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "Woolworths opens $25m Flaxmere store, 80 jobs filled by locals",
+        "description": "Hundreds of people gathered in Flaxmere to open a multimillion-dollar supermarket that has given 80 locals new jobs. The ribbon was cut on the new $25...",
+        "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/woolworths-opens-25m-flaxmere-store-80-jobs-filled-by-locals/WISA2ZL6PFCCFA5GSHNCPJA66E/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/WVM56NY24NBVPLI6QC2MA44LBI.jpg?auth=17d532be11684a5771608e2492b3b09ec5805444cbbcf7780210e200df966014&width=1200&height=675&quality=70&focal=646%2C761&smart=false",
+        "publishedAt": "2026-06-25T03:18:38Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Southbound Stock Connect flows surge to record US$152b driven by Hong Kong’s IPO revival",
-        "description": "Average daily southbound turnover soared 84 per cent year on year to HK$124.1 billion, equal to 24 per cent of city’s total market turnover.",
-        "url": "https://www.scmp.com/business/banking-finance/article/3358201/southbound-stock-connect-flows-surge-record-us152b-driven-hong-kongs-ipo-revival",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/24/ee6205da-0050-4353-b0bd-d8662e15843b_12dd46d9.jpg?itok=q6YdKOVH&v=1782291471",
-        "publishedAt": "2026-06-25T02:00:08Z",
-        "source": "South China Morning Post"
+        "title": "New Honda Vario Evo 160 Launch Price IDR 28.5 M (Rs 1.49 L) - Aerox Rival",
+        "description": "Rising consumer interest in entry-level maxi-style scooters is expected to pave the way for multiple new launches in India soon",
+        "url": "https://www.rushlane.com/new-honda-vario-evo-160-launch-price-idr-28-5-m-rs-1-49-l-aerox-rival-12549786.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/06/new-honda-vario-160-evo-launch-indonesia-2.jpg",
+        "publishedAt": "2026-06-25T03:18:12Z",
+        "source": "RushLane"
       },
       {
-        "title": "Murata Expands Product Information Management API Service to Cover All 73 Product Categories",
-        "description": "Murata now covers all 73 product categories in its Product Information Management (PIM) API Service.",
-        "url": "https://www.businesswire.com/news/home/20260624146819/en/Murata-Expands-Product-Information-Management-API-Service-to-Cover-All-73-Product-Categories",
-        "image": "https://mms.businesswire.com/media/20260624146819/en/2834725/22/API_Light_Grey_3000x2000_ver.2.0_with_note.jpg",
-        "publishedAt": "2026-06-25T02:00:00Z",
-        "source": "Business Wire"
+        "title": "McDonald’s to push ahead with Crows Nest plans despite local backlash",
+        "description": "Residents thought they’d killed off the fast food giant - now they can’t stop it.",
+        "url": "https://www.domain.com.au/news/mcdonalds-to-push-ahead-with-crows-nest-plans-despite-local-backlash-1528524/",
+        "image": "https://res.akamaized.net/domain/image/upload/t_web/c_fill,w_720,h_480/v1782357121/Screenshot_2026-06-25_130813_ioizag.png",
+        "publishedAt": "2026-06-25T03:15:42Z",
+        "source": "Domain"
       },
       {
-        "title": "FPT Expands Strategic Collaboration with Microsoft to Advance AI Frontier Innovation Across Asia",
-        "description": "FPT Corporation today announced an expanded strategic collaboration with Microsoft aimed at accelerating enterprise AI adoption and co‑innovation across Asia...",
-        "url": "https://www.businesswire.com/news/home/20260624200416/en/FPT-Expands-Strategic-Collaboration-with-Microsoft-to-Advance-AI-Frontier-Innovation-Across-Asia",
-        "image": "https://mms.businesswire.com/media/20260624200416/en/2838753/22/MOU-1.jpg",
-        "publishedAt": "2026-06-25T02:00:00Z",
-        "source": "Business Wire"
+        "title": "Australian Hiring Rebounds in May, Pushing Down Unemployment",
+        "description": "Australian hiring rebounded in May, reversing the previous month’s losses, while the jobless rate edged lower in a validation of the Reserve Bank’s view the labor market still remains tight.",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/australian-hiring-rebounded-in-may-as-unemployment-edged-lower",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqX5b4yZgkXs/v0/1200x800.jpg",
+        "publishedAt": "2026-06-25T03:15:00Z",
+        "source": "Bloomberg"
       },
       {
-        "title": "Why Trump just gave America’s banks the answers before a crucial test",
-        "description": "We shouldn’t be surprised that 32 of America’s biggest banks just passed their annual exam with flying colours. They already knew the answers.",
-        "url": "https://www.smh.com.au/business/banking-and-finance/why-trump-just-gave-america-s-banks-the-answers-to-a-crucial-test-20260625-p609x1.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2012%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/61f778f8e63e1a7669d6dae60f9c5c65881560ba",
-        "publishedAt": "2026-06-25T01:58:44Z",
-        "source": "SMH.com.au"
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
+        "publishedAt": "2026-06-25T03:12:17Z",
+        "source": "BBC"
       },
       {
-        "title": "Why Trump just gave America’s banks the answers to a crucial test",
-        "description": "The Trump administration is weakening the rules introduced after the global financial crisis that were designed to make banks safer. That has implications for the rest of the world.",
-        "url": "https://www.theage.com.au/business/banking-and-finance/why-trump-just-gave-america-s-banks-the-answers-to-a-crucial-test-20260625-p609x1.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2012%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/61f778f8e63e1a7669d6dae60f9c5c65881560ba",
-        "publishedAt": "2026-06-25T01:58:44Z",
-        "source": "The Age"
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+        "url": "https://www.bbc.com/news/articles/cwyklykn5dwo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
+        "publishedAt": "2026-06-25T03:12:17Z",
+        "source": "BBC"
       },
       {
-        "title": "Stocks Rally as Micron Revives AI Trade, Oil Drops: Markets Wrap",
-        "description": "(Bloomberg) -- Stocks in Asia climbed alongside US equity futures after Micron Technology Inc.’s blowout sales outlook reignited confidence in the artificial-intelligence trade, with a slide in oil prices further boosting sentiment.",
-        "url": "https://www.swissinfo.ch/eng/stocks-rally-as-micron-revives-ai-trade%2C-oil-drops%3A-markets-wrap/91645434",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764775641",
-        "publishedAt": "2026-06-25T01:58:07Z",
-        "source": "SWI swissinfo.ch"
+        "title": "‘Africa can turn global tensions into growth opportunity’",
+        "description": "Africa can transform rising geopolitical tensions and global supply chain disruptions into long-term economic growth if governments",
+        "url": "https://guardian.ng/news/africa-can-turn-global-tensions-into-growth-opportunity/",
+        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/Africa-Union.jpg",
+        "publishedAt": "2026-06-25T03:07:34Z",
+        "source": "The Guardian Nigeria News"
       },
       {
-        "title": "Mussel company fined after dozens of foul odour complaints",
-        "description": "Complainants had described last year's odour as \"relentless\", and \"unbearable and nauseating\".",
-        "url": "https://www.1news.co.nz/2026/06/25/mussel-company-fined-after-dozens-of-foul-odour-complaints/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/cloudy-water-with-floating-solids-in-a-constructed-wetland-o-RTOVLLGW35EHHOTUYVZSIMVZMM.jpg?auth=6e9e337b1abe8742ae457303ce3864ee36388058dd184ab18842104399c95221&quality=70&width=600&height=315&focal=748%2C421",
-        "publishedAt": "2026-06-25T01:57:04Z",
-        "source": "1News"
+        "title": "FG, EU, Germany power five communities with solar mini-grids in Lagos",
+        "description": "The Federal Government, in partnership with the European Union (EU), the German Government and the Rural Electrification Agency",
+        "url": "https://guardian.ng/news/fg-eu-germany-power-five-communities-with-solar-mini-grids-in-lagos/",
+        "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/Solar-Energy-Products.webp",
+        "publishedAt": "2026-06-25T03:07:33Z",
+        "source": "The Guardian Nigeria News"
       }
     ],
     "science": [
+      {
+        "title": "Four-winged Velociraptor ancestor reveals new history about ancient predators",
+        "description": "Researchers reported the new animal after discovering an upper arm bone from China’s Changma Basin that did not belong to any previously unknown microraptor species.",
+        "url": "https://www.thecooldown.com/green-tech/microraptor-dinosaur-changma-basin-discovery/",
+        "image": "https://www.thecooldown.com/wp-content/uploads/2026/06/fossils.jpg",
+        "publishedAt": "2026-06-25T03:04:00Z",
+        "source": "The Cool Down"
+      },
+      {
+        "title": "Automated machine-learning framework for predicting drug solubility in supercritical CO2 for sustainable process development",
+        "description": "Reliable prediction of drug solubility in supercritical carbon dioxide (SC-CO2) is central to designing environmentally conscious pharmaceutical processes, yet experimental solubility measurements remain slow, resource-intensive, and often restricted to limited operating ranges. These constraints restrict the development of green technologies such as particle formation, controlled micronization, and solvent-free formulation strategies. This study introduces an automated computational framework that couples modern regression algorithms with bio-inspired optimization to deliver scalable solubility prediction across varying conditions. The approach employs Adaptive Boosting Regression and Light Gradient Boosting Regression as core learners, which are combined through hybrid ensemble schemes and tuned using two recent metaheuristic algorithms the Osprey Optimization Algorithm and the Artificial Protozoa Optimizer. Model behavior was assessed using repeated cross-validation, a suite of accuracy metrics (RMSE, R2, MDAPE, SI, NSE), non-parametric statistical comparison, and ANOVA-based sensitivity evaluation. A multi-criteria ranking using the TOPSIS method identified the APO-driven ensemble (ALAP) as the most reliable configuration, achieving RMSE = 0.191, R2 = 0.982, and MDAPE = 15.6% on the test set. Beyond its algorithmic design, the framework offers a practical computational alternative to extensive laboratory experimentation, providing a transferable, data-driven tool for efficient and eco-friendly pharmaceutical process design.",
+        "url": "https://www.nature.com/articles/s41598-026-59449-z?error=cookies_not_supported&code=96845110-fd61-44b4-a331-bc14255cd1a3",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-06-25T02:51:32Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Designer proteins unlock near-infrared and SWIR glow for deeper tissue imaging",
+        "description": "Researchers at the National Center for Tumor Diseases (NCT/UCC) in Dresden, including Oliver Bruns and Dr. Bernardo Arús, are participating in an international study that has, for the first time, developed novel proteins for near-infrared (NIR) and short-wave infrared imaging (SWIR). The research was conducted in collaboration with an international team that included chemistry Nobel laureate David Baker, who was honored in 2024 for his work on computational protein design. The study, with shared first authorship, was recently published in the Journal of the American Chemical Society.",
+        "url": "https://phys.org/news/2026-06-proteins-infrared-swir-deeper-tissue.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/designer-proteins-fluo.jpg",
+        "publishedAt": "2026-06-25T02:40:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Donna McKeon: Princes Hwy crash orphans horses on South Coast",
+        "description": "A tragic Princes Highway crash claimed local horsewoman Donna McKeon and her partner. The South Coast's swift Bale of Hay appeal helped care for her horses.",
+        "url": "https://www.canberratimes.com.au/story/9298758/donna-mckeon-princes-hwy-crash-orphans-horses-on-south-coast/",
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/182096266/10efe4d3-1d91-47e8-9d14-278cb00677f0.png/r0_30_1600_870_w1200_h630_fmax.jpg",
+        "publishedAt": "2026-06-25T02:03:40Z",
+        "source": "The Canberra Times"
+      },
       {
         "title": "Dr. Brown: The big science behind these lab",
         "description": "Mini-brains, writes Dr. William Brown, \"replicate in amazing detail the earliest development of the six-layer cortex of human neocortex, typical of human embryos at equivalent stages of embryonic development.\"",
@@ -166,104 +198,72 @@
         "image": "https://static.toiimg.com/thumb/msid-131977340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-06-25T01:30:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals",
-        "description": "Genetic deterioration may not have been the major cause of Neanderthal extinction, new evidence suggests.",
-        "url": "https://www.sciencealert.com/ancient-dna-reveals-a-genetic-surprise-in-the-last-neanderthals",
-        "image": "https://www.sciencealert.com/images/2026/06/neanderthal-skull.jpg",
-        "publishedAt": "2026-06-25T01:24:41Z",
-        "source": "ScienceAlert"
-      },
-      {
-        "title": "'Fingerprints' of black hole's event horizon detected for first time",
-        "description": "Scientists have detected the \"fingerprints\" of a black hole's event horizon—the boundary from which nothing can escape—for the first time, according to research published Wednesday.",
-        "url": "https://phys.org/news/2026-06-fingerprints-black-hole-event-horizon.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-first-image-of-a-s.jpg",
-        "publishedAt": "2026-06-25T01:20:15Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "'Super-puff' planets lighter than candy floss discovered by international team",
-        "description": "An international collaboration has discovered two of the lowest-density giant planets ever detected: rare \"super-puff\" planets with densities lower than candy floss. The study—led by the University of Oxford, in collaboration with Université Côte d'Azur/Observatoire de la Côte d'Azur and the University of Birmingham—has been published in Monthly Notices of the Royal Astronomical Society.",
-        "url": "https://phys.org/news/2026-06-super-puff-planets-lighter-candy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/super-puff-planets-lig.jpg",
-        "publishedAt": "2026-06-25T01:10:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Astronomers find giant planets that are lighter than cotton candy",
-        "description": "Astronomers have uncovered a pair of giant planets that are lighter than cotton candy. The two so-called super-puffs are the size of Jupiter — the biggest worlds found so far to have less density than cotton candy.",
-        "url": "https://apnews.com/article/super-puffs-cotton-candy-giant-light-planets-db1ebf1cb946e1c0bba67a5040bfc8a9",
-        "image": "https://dims.apnews.com/dims4/default/19a0c4a/2147483647/strip/true/crop/3840x2559+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fee%2F7d0531f3465b1b6e1938a8d559a5%2F3ea99237fed043acbcba3c8f536ee58e",
-        "publishedAt": "2026-06-25T01:02:00Z",
-        "source": "AP News"
       }
     ],
     "ai": [
       {
-        "title": "Video of Zaldy Co claiming Marcos gov't is harassing critics is AI-generated",
-        "description": "Artificial intelligence detection tools flag the video as 99% likely to be a deepfake",
-        "url": "https://www.rappler.com/newsbreak/fact-check/zaldy-co-video-marcos-admin-harassing-critics-ai-generated/",
-        "image": "https://www.rappler.com/tachyon/2026/06/2025-fact-check-carousel-ai-zaldy-co.jpg",
-        "publishedAt": "2026-06-25T02:00:00Z",
-        "source": "Rappler"
+        "title": "SK Hynix, Samsung Shares Rally as AI Optimism Returns",
+        "description": "By P.R. Venkat\nSouth Korean chip makers' shares rallied as investors returned to artificial intelligence-linked names after Micron's blockbuster earnings, adding to optimism over SK Hynix's...",
+        "url": "https://www.marketscreener.com/news/sk-hynix-samsung-shares-rally-as-ai-optimism-returns-ce7f5fd8db89ff23",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-06-25T03:13:16Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "ByteDance rolls out paid subscriptions for China's largest AI chatbot",
-        "description": "Chinese tech giant and TikTok creator ByteDance introduced paid subscriptions for the country's most popular AI chatbot on Wednesday, as it seeks to monetise its enormous user base.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/25/bytedance-rolls-out-paid-subscriptions-for-china039s-largest-ai-chatbot",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3975932.jpg",
-        "publishedAt": "2026-06-25T02:00:00Z",
-        "source": "The Star"
+        "title": "Anthropic accuses Alibaba of illicitly extracting AI capabilities",
+        "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+        "url": "https://www.bbc.com/news/articles/cwyklykn5dwo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
+        "publishedAt": "2026-06-25T03:12:17Z",
+        "source": "BBC News"
       },
       {
-        "title": "Top-tier law firms mint record partner class to exploit uncertainty",
-        "description": "Global chaos has been good for the sector – litigation is up, regulatory pressure is growing, and clients want all kinds of AI advice. It’s all-round growth.",
-        "url": "https://www.afr.com/companies/professional-services/elite-law-firms-mint-record-partner-class-to-exploit-uncertainty-20260617-p607rs",
-        "image": "https://static.ffx.io/images/$zoom_0.773%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_210%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/aa8ff66ec0b4b69a100466438279350c4fd2bcad9938c97fb7c8b145ea6f56a9",
-        "publishedAt": "2026-06-25T01:58:36Z",
-        "source": "Australian Financial Review"
+        "title": "JSW Ventures eyes ₹400-500 crore third fund, plans larger startup bets",
+        "description": "The early-stage investor is looking to back 14-16 companies while increasing cheque sizes and expanding its focus on fintech, AI and sustainability.",
+        "url": "https://www.livemint.com/companies/news/jsw-ventures-third-fund-rs-400-500-crore-startup-investments-11782353300318.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/Sachin_JSW_1782353430879_1782353443406_4712246f-0783-420f-a848-7c5051c5af9f.jpeg",
+        "publishedAt": "2026-06-25T03:12:11Z",
+        "source": "Livemint"
       },
       {
-        "title": "New Relic Launches New Relic for Startups to Empower the Next Generation of AI Innovators with Enterprise-Grade Observability",
-        "description": "Free platform and AI capability access, paired with hands-on engineering support, help fast-growing startups launch, scale, and stay reliable",
-        "url": "https://itwire.com/business-it-news/data/new-relic-launches-new-relic-for-startups-to-empower-the-next-generation-of-ai-innovators-with-enterprise-grade-observability",
-        "image": "https://media.itwire.com/2026/06/25/new-relic-launches-new-relic-for-startups-to-empower-the-next-generation-of-ai-innovators-with-enterprise-grade-observability-0186dcfb7ec3.webp",
-        "publishedAt": "2026-06-25T01:57:05Z",
-        "source": "iTWire"
+        "title": "Micron Says AI Customers Are Paying Billions Today For Memory They Won't Get Until Years Later, Sanjay Me",
+        "description": "Micron Technology said Wednesday that customers are committing billions of dollars years in advance to secure future memory supply.",
+        "url": "https://www.benzinga.com/markets/tech/26/06/60088504/micron-says-ai-customers-are-paying-billions-today-for-memory-they-wont-get-until-years-later-sanjay-mehrotra-expects-tight-conditions-beyond-2027",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/25/Micron-Logo-Displayed-On-A-Smartphone-Sc.jpg",
+        "publishedAt": "2026-06-25T03:11:37Z",
+        "source": "Benzinga"
       },
       {
-        "title": "Anthropic accuses Alibaba of largest-known AI model theft attempt, cites 28.8 million Claude queries",
-        "description": "Anthropic has accused Alibaba and its Qwen AI unit of using nearly 25,000 fake accounts to generate 28.8 million Claude interactions in what it calls the largest-known AI distillation campaign aimed at replicating its technology",
-        "url": "https://www.firstpost.com/business/anthropic-alibaba-ai-distillation-attack-claude-queries-14025937.html",
-        "image": "https://images.firstpost.com/uploads/2026/06/AFP__20260610__B6KY964__v2__MidRes__BelgiumTechnologyIa-1-2026-06-2529b6c37bf04af1c717235d4c84aecf.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-06-25T01:57:00Z",
-        "source": "Firstpost"
+        "title": "China Takes On Anthropic With Two Mythos-Like AI Models That Hunt Hidden Software Flaws",
+        "description": "China's 360 Security unveils AI tools rivaling Anthropic's Mythos, intensifying the US-China AI race as nations compete to build powerful cyber defence and vulnerability-hunting systems., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/china-takes-on-anthropic-with-two-mythos-like-ai-models-that-hunt-hidden-software-flaws-article-154752280",
+        "image": "https://images.timesnownews.com/thumb/msid-154752280,width-1280,height-720,resizemode-75/154752280.jpg",
+        "publishedAt": "2026-06-25T03:10:53Z",
+        "source": "Times Now"
       },
       {
-        "title": "AI jobs in India",
-        "description": "Companies reduce routine recruitment while demand rises for AI cloud and data experts widening the gap between entry level and specialised careers",
-        "url": "https://www.telegraphindia.com/business/ai-jobs-in-india-automation-reshapes-hiring-as-entry-level-roles-face-growing-pressure-prnt/cid/2167121",
-        "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1782352568_new-project-2026-06-25t064744-189.jpg",
-        "publishedAt": "2026-06-25T01:56:59Z",
-        "source": "Telegraph India"
+        "title": "Vishal Sikka announces Hang Ten Systems, new AI services startup with $32 million in funding",
+        "description": "Former Infosys CEO Vishal Sikka has announced a new startup – Hang Ten Systems. Sikka says that the new startup is focused on providing AI services to clients. Hang Ten Systems has already raised $32 million in funding.",
+        "url": "https://www.indiatoday.in/technology/news/story/vishal-sikka-announces-hang-ten-systems-new-ai-services-startup-with-32-million-in-funding-2933674-2026-06-25",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/former-infosys-ceo-dr-vishal-sikka-15094752-16x9.jpeg?VersionId=6BEQiejZ7S5vlfw3Z_pMDpXAQ6_HDF1B",
+        "publishedAt": "2026-06-25T03:10:13Z",
+        "source": "India Today"
       },
       {
-        "title": "‘Here it Comes,’ Says Investor About AMD Stock",
-        "description": "In AI infrastructure investing over recent years, the focus has largely been on the GPU narrative. Investors were heavily focused on accelerator...",
-        "url": "https://markets.businessinsider.com/news/stocks/here-it-comes-says-investor-about-amd-stock-1036275009",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2468-1024x543.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-06-25T01:54:28Z",
-        "source": "Markets Insider"
+        "title": "Singapore Video Startup Founded By Tencent’s Former AI Head Bets Big On World Models",
+        "description": "Fresh off an $80 million round from investors including AMD and Hyundai Motor, Video Rebirth is competing shoulder-to-shoulder with tech giants atop a major AI video leaderboard. Now it’s building a world model that can create real-time interactive 3D environments on the fly.",
+        "url": "https://www.forbes.com/sites/zinnialee/2026/06/24/singapore-video-startup-founded-by-tencents-former-ai-head-bets-big-on-world-models/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3b8934826cda992ef5d27d/0x0.jpg?format=jpg&crop=1507,848,x0,y193,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-25T03:00:13Z",
+        "source": "Forbes"
       },
       {
-        "title": "Dragos Introduces EmberAI: OT-Native AI Built on a Decade of Real-World Operational Technology Expertise",
-        "description": "EmberAI puts operational context and real adversary intelligence into every analyst workflow, enabling faster, more confident decisions and keeping the analyst in control",
-        "url": "https://itwire.com/business-it-news/data/dragos-introduces-emberai-ot-native-ai-built-on-a-decade-of-real-world-operational-technology-expertise",
-        "image": "https://media.itwire.com/2026/06/25/dragos-introduces-emberai-ot-native-ai-built-on-a-decade-of-real-world-operational-technology-expertise-a49d2fb71cc0.jpg",
-        "publishedAt": "2026-06-25T01:49:00Z",
-        "source": "iTWire"
+        "title": "Asian stocks surge as Micron earnings ease AI fears",
+        "description": "Tech-heavy markets rose sharply after Micron said its customers had committed US$22 billion for its memory chips. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/asian-stocks-surge-as-micron-earnings-ease-ai-fears",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0d64030bb1c1005b30bf28d6c48b3f6ccac51a652cb235a1b0bdd3e4a373babe",
+        "publishedAt": "2026-06-25T02:59:00Z",
+        "source": "The Straits Times"
       }
     ]
   }
