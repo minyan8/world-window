@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-27T12:46:48.231Z",
+  "fetchedAt": "2026-06-27T13:57:24.946Z",
   "sections": {
     "world": [
       {
-        "title": "Polygamous sect leader guilty of abuse after girls found in trailer on highway",
-        "description": "Self-proclaimed prophet Samuel Bateman already serving 50-year prison sentence over child sexual abuse",
-        "url": "https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted",
-        "image": "https://i.guim.co.uk/img/media/6cdec0b0f67d3dfa299b68402d510d968ef14e7d/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2e9feb6cf95e2b9c5fe30fa4824792e",
-        "publishedAt": "2026-06-27T00:33:00Z",
-        "source": "The Guardian"
+        "title": "Reports of damage after strong quake west of Tokyo",
+        "description": "A strong earthquake has struck west of Tokyo. Japan's government says at least six people have been taken to hospital.",
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260626_99/",
+        "image": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20260626_99_1665734_L.jpg",
+        "publishedAt": "2026-06-27T01:50:40Z",
+        "source": "nhk.or.jp"
       },
       {
-        "title": "Bible stories become required reading for Texas schools",
-        "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-        "url": "https://www.bbc.com/news/articles/ckg8m2xkg84o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
-        "publishedAt": "2026-06-27T00:31:42Z",
-        "source": "BBC"
+        "title": "2 killed after car skids, bursts into flames on DUKE highway",
+        "description": "The Kuala Lumpur fire and rescue department says a third victim in the car was rescued and sent to hospital.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/06/27/2-killed-after-car-skids-bursts-into-flames-on-duke-highway",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/9a7b3816-2-rentung-nahas-di-duke-jbpm-pic-270626.webp",
+        "publishedAt": "2026-06-27T01:50:03Z",
+        "source": "Free Malaysia Today"
       },
       {
-        "title": "Pope Leo XIV Meets With Synod on Synodality Teams Ahead of 2028 Assembly",
-        "description": "The pontiff met with the synod members to conclude a conference at the Vatican June 23-25.",
-        "url": "https://www.aciafrica.org/news/22613/pope-leo-xiv-meets-with-synod-on-synodality-teams-ahead-of-2028-assembly",
-        "image": "https://www.aciafrica.org/images/ris7885.jpg?w=1200&format=jpeg",
-        "publishedAt": "2026-06-27T00:31:35Z",
-        "source": "aciafrica.org"
+        "title": "US strikes Iran after Strait of Hormuz cargo ship attack as ceasefire tensions escalate",
+        "description": "U.S. forces launched strikes against Iranian targets Friday after Tehran attacked a commercial vessel in the Strait of Hormuz. The retaliation comes as Washington, Tehran, Israel and Lebanon navigate a fragile ceasefire framework.",
+        "url": "https://www.foxnews.com/live-news/iran-drone-strait-of-hormuz-israel-lebanon-conflict-june-26-2026",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/06/b9c4240324afc1098f607cfb9a4cfaa0.jpg",
+        "publishedAt": "2026-06-27T01:47:39Z",
+        "source": "Fox News"
       },
       {
-        "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
-        "description": "Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.",
-        "url": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BSRENPIOUME6YXYLTJ7MLFYGB4.JPG&w=1440",
-        "publishedAt": "2026-06-27T00:28:39Z",
-        "source": "The Washington Post"
+        "title": "West Asia war LIVE: Lebanon, Israel and U.S. sign trilateral framework pact",
+        "description": "Follow The Hindu LIVE for the latest updates on the West Asia war, as the United States and Iran traded military strikes after Washington accused Tehran of attacking a cargo ship, jeopardising a fragile ceasefire.",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+        "image": "https://th-i.thgim.com/public/incoming/m7wyn2/article71153279.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Lebanon_88494.jpg",
+        "publishedAt": "2026-06-27T01:45:58Z",
+        "source": "The Hindu"
       },
       {
-        "title": "US strikes Iran after cargo ship attack in Strait of Hormuz",
-        "description": "The US military attacked Iran in response to an Iranian drone strike on a cargo ship in the Strait of Hormuz, straining a fragile peace deal. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/middle-east/us-strikes-iran-in-response-to-attack-on-cargo-ship-in-strait-of-hormuz",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/56226e275d49260c84b15e4876f57698ca176947c6fa62dc24146caa11302297",
-        "publishedAt": "2026-06-27T00:14:29Z",
-        "source": "The Straits Times"
+        "title": "Two killed after car skids, bursts into flames on Duke",
+        "description": "KUALA LUMPUR: Two individuals were burnt to death after a car they were travelling in is believed to have skidded before catching fire at the Jalan Kuching exit ramp on the Duta-Ulu Kelang Expressway (Duke) here early on Saturday (June 27) morning.",
+        "url": "https://www.thestar.com.my/news/nation/2026/06/27/two-killed-after-car-skids-bursts-into-flames-on-duke",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/27/3980017.jpg",
+        "publishedAt": "2026-06-27T01:37:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Confidence in Trump sinks among Indians as unfavourable views of US hit record high",
-        "description": "According to the 2026 data, Indians largely disapprove of Trump’s use of global tariffs, his handling of conflicts, and US' restrictive immigration policies. | World News",
-        "url": "https://www.hindustantimes.com/world-news/confidence-in-trump-sinks-among-indians-as-unfavourable-views-of-us-hit-record-high-101782518189274.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/27/550x309/US-POLITICS-TRUMP-62_1782518601412_1782518610873_c74332fa-9387-4a6a-8999-9fa9783a3516.jpg",
-        "publishedAt": "2026-06-27T00:04:53Z",
-        "source": "Hindustan Times"
+        "title": "4 Days On, 50,000 Still Missing After Venezuela Earthquakes, Deaths At 920",
+        "description": "The coastal area of La Guaira, near the capital Caracas, was the worst hit, with one building after another crumpled by the magnitude 7.2 and 7.5 quakes.",
+        "url": "https://www.ndtv.com/world-news/4-days-on-50-000-still-missing-after-venezuela-earthquakes-deaths-at-920-11693518",
+        "image": "https://c.ndtvimg.com/2026-06/9f86kqio_venezuela_625x300_25_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-06-27T01:31:27Z",
+        "source": "NDTV"
       },
       {
-        "title": "SSPX consecrations a schismatic act, but Latin Mass remains valid",
-        "description": "Cardinal Gerhard Müller called the SSPX's July 1 plan to consecrate bishops without papal mandate a schismatic act, while affirming the Latin Mass remains valid.",
-        "url": "https://www.ewtnnews.com/vatican/cardinal-mueller-calls-sspx-consecrations-schismatic-defends-the-latin-mass",
-        "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1782481429/ewtn-news/en/Bildschirmfoto_2026-06-26_um_15.34.57_bynlez.png",
-        "publishedAt": "2026-06-27T00:01:00Z",
-        "source": "EWTN News"
+        "title": "Iran Guards say they have attacked US sites in response to American strikes",
+        "description": "The United States and Iran traded military strikes after Washington accused Tehran of attacking a cargo ship, jeopardising a fragile ceasefire as diplomats...",
+        "url": "https://www.nzherald.co.nz/world/iran-guards-say-theyve-attacked-us-sites-in-response-to-american-strikes/FAOA5ZYU3FCFPKCSV3WOMJWE3M/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/4AINV3IKGRDBNDLZ4LM2CGYUNM.jpg?auth=b57944977cbe0cb2fa25a6d90a86a953a6eabb74adf5dfc723eb9a16fd58139b&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-06-27T01:18:22Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Malaysia has never had so many Chinese tourists. It wants more",
-        "description": "As Thailand loses its allure, Malaysia turns to viral algorithms to entice millions of independent Chinese travellers.",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3358515/malaysia-has-never-had-so-many-chinese-tourists-it-wants-more",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/26/b0dfa1a1-f0a8-41a8-9a19-76639963ec9e_a5e3e6d2.jpg?itok=9Y-Gn4tr&v=1782467867",
-        "publishedAt": "2026-06-27T00:00:11Z",
-        "source": "South China Morning Post"
+        "title": "40 injured as SLTB bus plunges into precipice near Diyatalawa",
+        "description": "At least 40 passengers sustained injuries when a Sri Lanka Transport Board (SLTB) bus veered off the road and plunged into a 20-foot precipice near the Diyatalawa railway station. The bus was en route from Colombo to Badulla when the accident occurred.",
+        "url": "https://www.dailymirror.lk/breaking-news/40-injured-as-SLTB-bus-plunges-into-precipice-near-Diyatalawa/108-344054",
+        "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_a0e6a0260b.jpg",
+        "publishedAt": "2026-06-27T01:18:00Z",
+        "source": "Daily Mirror - Sri Lanka"
       }
     ],
     "business": [
       {
-        "title": "Wild story behind viral $52 caps",
-        "description": "To any random passer-by, they probably just look like your everyday cap sporting a witty slogan, but anyone who owns one likely understands the brand’s deeper significance.",
-        "url": "https://www.news.com.au/lifestyle/parenting/can-often-feel-overwhelming-inspiring-story-behind-viral-52-caps/news-story/13eb04992bcdef8d0d3afdfa256c31c6",
-        "image": "https://content.api.news/v3/images/bin/216bdf14deebe46bd88f7931c229fd9c",
-        "publishedAt": "2026-06-27T00:38:04Z",
-        "source": "News.com.au"
+        "title": "The people fueling America",
+        "description": "Southern Louisiana workers help keep energy moving across the country and help fuel America with energy produced in the Bayou Region and Gulf.",
+        "url": "https://www.chevron.com/newsroom/2026/q2/the-people-fueling-america",
+        "image": "https://www.chevron.com/-/media/chevron/newsroom/2026/Q2/0626-01-The-people-fueling-America.jpg?w=1200&h=630&hash=D19288652132FF6D1D9649F469552903",
+        "publishedAt": "2026-06-27T01:30:00Z",
+        "source": "Chevron"
       },
       {
-        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-        "description": "WASHINGTON: The US government on Friday (Jun 26) allowed Anthropic to release its powerful Claude Mythos 5 AI model to some \"trusted partners\", according to a Commerce Department letter seen by Reuters.The action comes two weeks after the government",
-        "url": "https://www.channelnewsasia.com/world/us-allows-anthropic-release-mythos-trusted-partners-6214461",
-        "image": "https://dam.mediacorp.sg/image/upload/s--IlrZyTkp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T230218Z_3_LYNXMPEM5P1IZ_RTROPTP_3_ANTHROPIC-AI-ALIBABA.JPG?itok=2FM3bq7v",
-        "publishedAt": "2026-06-27T00:34:47Z",
-        "source": "CNA"
+        "title": "Two houses on fire after being 'struck by lightning' amid thunderstorm warning",
+        "description": "Fire crews are battling the blazes tonight in East Sussex as big thunderstorms batter the UK after record-breaking high temperatures across the country this week",
+        "url": "https://www.mirror.co.uk/news/uk-news/lightning-thunderstorms-sussex-house-fire-37355211",
+        "image": "https://i2-prod.mirror.co.uk/article37354110.ece/ALTERNATES/s1200d/3_Autumn-weather-Sept-22nd-2024.jpg",
+        "publishedAt": "2026-06-27T01:25:00Z",
+        "source": "The Mirror"
       },
       {
-        "title": "Small Businesses, Big Impact: Five Ways the UN is Helping MSMEs Drive Sustainable Development",
-        "description": "By combining access to finance, skills development, market opportunities and fair policy frameworks, the UN and partners are helping create environments where micro-, small and medium-sized enterprises across the world can flourish.",
-        "url": "https://unsdg.un.org/latest/stories/small-businesses-big-impact-five-ways-un-helping-msmes-drive-sustainable-development",
-        "image": "https://unsdg.un.org/sites/default/files/2026-06/54423126746_351b5b568b_o.jpg",
-        "publishedAt": "2026-06-27T00:29:37Z",
-        "source": "United Nations Sustainable Development Group"
+        "title": "Payward Services to Unlock Pre-IPO Access to Bending Spoons Through xStocks",
+        "description": "Payward Services, the B2B infrastructure platform from Payward, the company behind global crypto platform Kraken, today opened pre-IPO access to Bending Spoo...",
+        "url": "https://www.businesswire.com/news/home/20260626142107/en/Payward-Services-to-Unlock-Pre-IPO-Access-to-Bending-Spoons-Through-xStocks",
+        "image": "https://mms.businesswire.com/media/20260626142107/en/2840867/22/xStocks-x-BendingSpoons-banner.jpg",
+        "publishedAt": "2026-06-27T01:23:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "OpenAI launches limited release of new AI model in US only",
-        "description": "OpenAI on Friday launched a US-only preview of its latest powerful AI model series to a limited group of partners at the request of the US government, the company said.",
-        "url": "https://www.rnz.co.nz/news/science-and-technology/628271/openai-launches-limited-release-of-new-ai-model-in-us-only",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--fT5JzH3i--/t_tohu-badge-facebook/f_auto/q_auto/4KJE9OY_080_HL_JMBARRERE_2377358_jpg",
-        "publishedAt": "2026-06-27T00:26:21Z",
+        "title": "Shares dip as Apple price hikes hit tech sentiment",
+        "description": "RECAP: Asian shares pulled ‌back yesterday after a stellar quarter, as hefty price hikes by Apple revealed the downside of booming chip demand and depressed tech shares, while the threat of Japanese intervention kept the yen from hitting 40-year lows.",
+        "url": "https://www.bangkokpost.com/business/general/3277225/shares-dip-as-apple-price-hikes-hit-tech-sentiment",
+        "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+        "publishedAt": "2026-06-27T01:16:34Z",
+        "source": "Bangkok Post"
+      },
+      {
+        "title": "'We are in a bubble': Experts warn of historic AI bust risk",
+        "description": "Recent swings in tech stocks are reviving fears of an AI bubble - and some experts warn that if it pops, the fallout could be bigger than anything Wall Street has ever seen.",
+        "url": "https://www.rnz.co.nz/news/business/628337/we-are-in-a-bubble-experts-warn-of-historic-ai-bust-risk",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--BROECDid--/t_tohu-badge-facebook/f_auto/q_auto/4TCHM6W_GettyImages_84182342_jpg",
+        "publishedAt": "2026-06-27T01:12:17Z",
         "source": "RNZ"
       },
       {
-        "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-        "description": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-        "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-        "image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/191:100/w_1280,c_limit/Anthropic-Restores-Fable-Access-Business.jpg",
-        "publishedAt": "2026-06-27T00:26:00Z",
-        "source": "WIRED"
+        "title": "Private Jet Operator AirSprint To Be Acquired By Private Equity Firms",
+        "description": "Onex Partners, TriWest Capital Partners, and co-investors have agreed to acquire AirSprint, Canada's largest fractional private jet operator.",
+        "url": "https://www.forbes.com/sites/douggollan/2026/06/26/private-jet-operator-airsprint-to-be-acquired-by-private-equity-firms/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3f14dcb742f73250f83ce1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-06-27T01:10:04Z",
+        "source": "Forbes"
       },
       {
-        "title": "Brampton man charged in alleged $1.4 million Ponzi-style investment scheme",
-        "description": "A 62-year-old Brampton man is facing half a dozen charges in what police say was a Ponzi-style investment scheme that defrauded elderly victims of $1.4 million. Police in Peel Region allege that in 2017, several victims invested money with a man and his company, BLM Canada Corporation, under the belief that he was a successful […]",
-        "url": "https://toronto.citynews.ca/2026/06/26/brampton-man-charged-in-alleged-1-4-million-ponzi-style-investment-scheme/",
-        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/06/26/Navdeep-Boparai.jpg",
-        "publishedAt": "2026-06-27T00:25:00Z",
-        "source": "toronto.citynews.ca"
+        "title": "New Exemplar Luxury Group Plans Life After Saks Bankruptcy",
+        "description": "CEO Geoffroy van Raemdonck discusses the future of Exemplar and what's different from the past.",
+        "url": "https://wwd.com/business-news/retail/saks-global-renamed-exemplar-luxury-group-exits-bankruptcy-1239037467/",
+        "image": "https://wwd.com/wp-content/uploads/2026/01/saks.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-06-27T01:09:31Z",
+        "source": "WWD"
       },
       {
-        "title": "House leaders visit Unilab manufacturing facility in Laguna",
-        "description": "House Committee on Trade and Industry Chair Rep. Maximo Dalog Jr. and House Committee on Health Chair Rep. Ciriaco B. Gato Jr. recently visited Amherst...",
-        "url": "https://mb.com.ph/2026/06/25/house-leaders-visit-unilab-manufacturing-facility-in-laguna",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/26/111439.webp",
-        "publishedAt": "2026-06-27T00:22:30Z",
-        "source": "Manila Bulletin"
-      },
-      {
-        "title": "SkyFlakes maker bets ₱5 billion on new Central Luzon mega-factory",
-        "description": "Monde MY San Corp. (MMYSC), a subsidiary of food and beverage giant Monde Nissin Corp., is spending more than ₱5 billion to build a new manufacturing facility...",
-        "url": "https://mb.com.ph/2026/06/26/skyflakes-maker-bets-5-billion-on-new-central-luzon-mega-factory",
-        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/26/111830.webp",
-        "publishedAt": "2026-06-27T00:22:30Z",
-        "source": "Manila Bulletin"
+        "title": "Persistent and Nagarro sign Business Combination Agreement to form the Persistent - Nagarro Group, a global leader in AI-led digital engineering",
+        "description": "Persistent announces the intention to launch a voluntary public takeover offer for all outstanding Nagarro shares at EUR 81 per share All-cash offer represents...",
+        "url": "https://www.prnewswire.com/news-releases/persistent-and-nagarro-sign-business-combination-agreement-to-form-the-persistent---nagarro-group-a-global-leader-in-ai-led-digital-engineering-302812476.html",
+        "image": "https://mma.prnewswire.com/media/1022385/4851381/Persistent_Systems_Logo.jpg?p=facebook",
+        "publishedAt": "2026-06-27T01:08:00Z",
+        "source": "PR Newswire"
       }
     ],
     "science": [
+      {
+        "title": "A bowhead whale can live for more than 200 years, yet it appears unusually resistant to cancer — and its genome carries genetic changes that may help explain why. Researchers have found signs of enhan",
+        "description": "Bowhead whales can live beyond 200 years, and genome and cell studies point to DNA repair as one possible clue to their unusual cancer resistance.",
+        "url": "https://spacedaily.com/t-a-bowhead-whale-can-live-for-more-than-200-years-yet-it-appears-unusually-resistant-to-cancer-and-its-genome-carries-genetic-changes-that-may-help-explain-why-researchers-have-found-signs/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/spacedaily_noaa_bowhead_whale.jpg",
+        "publishedAt": "2026-06-27T01:30:30Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Researchers Demonstrate Stable Quantum Entanglement With Dissipation Control",
+        "description": "A Bell-state fidelity of 0. 89 ±0. 02 now defines the threshold for entanglement preservation in a novel quantum system, exceeding previous methods reliant on precise calibration.",
+        "url": "https://quantumzeitgeist.com/quantum-entanglement-dissipation-control-stable-interconnects/",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-demonstrate-stable-quantum-entanglement-with-dissipation-control-1024x630.jpg",
+        "publishedAt": "2026-06-27T01:17:07Z",
+        "source": "Quantum Zeitgeist"
+      },
+      {
+        "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+        "description": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+        "image": "https://www.sciencedaily.com/images/1920/super-puff-planets.webp",
+        "publishedAt": "2026-06-27T01:11:07Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+        "description": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+        "url": "http://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+        "image": "https://www.sciencedaily.com/images/1920/super-puff-planets.webp",
+        "publishedAt": "2026-06-27T01:11:07Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Antarctica’s ‘Doomsday Glacier’ is to ‘disintegrate’: Scientists warn the ice shelf could break apart - What does that mean for the future?",
+        "description": "Trending News: Go to the frozen edge of West Antarctica (or just Google it), and you’ll find Thwaites Glacier — a giant wall of ice, cracking and creaking where it m.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/antarcticas-doomsday-glacier-is-to-disintegrate-scientists-warn-the-ice-shelf-could-break-apart-what-does-that-mean-for-the-future/articleshow/132027034.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132027045,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-27T00:48:00Z",
+        "source": "The Times of India"
+      },
       {
         "title": "Texas Tech Researchers Probe Interstellar Explosions, Unlock Knowledge",
         "description": "Physics & Astronomy professor and student take data from deep-space novae and use sound to expand details around their evolution.",
@@ -158,112 +198,72 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41431-026-02159-x/MediaObjects/41431_2026_2159_Fig1_HTML.png",
         "publishedAt": "2026-06-26T23:15:00Z",
         "source": "Nature"
-      },
-      {
-        "title": "A large, harmless asteroid will zip past Earth tonight",
-        "description": "The space rock — 1997 NC1 — makes its closest approach Saturday evening, coming within 2.6 million kilometres according to the European Space Agency.",
-        "url": "https://www.1news.co.nz/2026/06/27/a-large-harmless-asteroid-will-zip-past-earth-tonight/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/people-look-up-to-the-sky-from-an-observatory-near-the-villa-SQHVKTEQ3RETLBBXZ53OD3DQOY.jpg?auth=cb50c20e34571a85329e6a39e63d4ba9afff665f0aeef9943db61c2fe86b1d17&quality=70&width=600&height=315&focal=1353%2C902",
-        "publishedAt": "2026-06-26T22:48:09Z",
-        "source": "1News"
-      },
-      {
-        "title": "Europe’s First TES Spectrometer Makes Previously Impossible X-Ray Experiments Possible",
-        "description": "Europe's first TES spectrometer is transforming X-ray research with up to 1,000 times greater sensitivity, making once impossible experiments finally possible. Europe’s first and only TES spectrometer at a synchrotron light source is now operating at BESSY II, marking a major advance for X-ray re",
-        "url": "https://scitechdaily.com/europes-first-tes-spectrometer-makes-previously-impossible-x-ray-experiments-possible/",
-        "image": "https://scitechdaily.com/images/Superconducting-TES-Array-X-ray-Spectrometer-BESSY-II-scaled.jpg",
-        "publishedAt": "2026-06-26T22:28:15Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Glass Cells of Atoms Offer a New Path to Smarter, Cheaper Sensors",
-        "description": "More accurate navigation systems and improved wireless communications may not come from traditional electronics, but rather from atoms. Researchers at Penn State and the National Institute of Standards and Technology (NIST) have developed a new way to build tinier, smarter glass sensors filled with highly precise and stable atoms.",
-        "url": "https://www.newswise.com/articles/glass-cells-of-atoms-offer-a-new-path-to-smarter-cheaper-sensors",
-        "image": "https://www.newswise.com/images/uploads/2026/06/26/6a3edba5b3b4a_RydbergAtoms-Chips-jmm96Gem.png",
-        "publishedAt": "2026-06-26T22:15:00Z",
-        "source": "Newswise"
-      },
-      {
-        "title": "Why Ho Chi Minh City's pollution sources may have been misread for years",
-        "description": "Biomass burning, including the combustion of wood, charcoal and agricultural residues, is a major source of PM2.5, a fine particulate matter that degrades air quality and poses risks to human health. Much of this pollution is tracked by looking at levels of levoglucosan, a chemical that is formed when cellulose in plants is burned, from biomass combustion such as residential fuel use, cooking and open burning.",
-        "url": "https://phys.org/news/2026-06-ho-chi-minh-city-pollution.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/substantial-atmospheri-2.jpg",
-        "publishedAt": "2026-06-26T21:40:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Ancient lavas reveal Earth was recycling its surface 3.6 billion years ago",
-        "description": "Heavy potassium isotopes trace early Earth subduction, which folded surface water into the deep mantle 3.6 billion years ago.",
-        "url": "https://www.earth.com/news/ancient-lavas-reveal-earth-was-recycling-its-surface-3-6-billion-years-ago/",
-        "image": "https://cff2.earth.com/uploads/2026/06/26150811/komatiite-lava-eruption-early-earth-subduction-e1782508369739.jpg",
-        "publishedAt": "2026-06-26T21:38:53Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "Amita Madhvani on $300 million micro-drama market, AI story, and why India's next boom is vertical format | Interview",
-        "description": "Amita Madhvani's studio recently launched Mohini, a musical, culturally rooted micro-drama created in collaboration with Google Cloud.",
-        "url": "https://www.hindustantimes.com/entertainment/others/amita-madhvani-on-300-million-micro-drama-market-and-why-indias-next-entertainment-boom-is-vertical-format-101782470845585.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/26/550x309/Amita_1782471316942_1782471322819_610b01de-8bf2-46fc-bd78-9182c6a87455.jpg",
-        "publishedAt": "2026-06-27T00:38:19Z",
-        "source": "Hindustan Times"
+        "title": "Unleashing AI: U.S. Eases Restrictions on Anthropic's Mythos 5 Model",
+        "description": "Anthropic has received U.S. government approval to release its AI model, Claude Mythos 5, to select U.S. organizations. The decision comes after national security concerns prompted a temporary suspension. While the move grants access to over 100 entities, criticism arises over the government's selection process for eligible companies.",
+        "url": "https://www.devdiscourse.com/article/technology/3941620-unleashing-ai-us-eases-restrictions-on-anthropics-mythos-5-model",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_12_09_54_6310527.png&width=920&format=jpeg",
+        "publishedAt": "2026-06-27T01:57:02Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "'Real Housewives' alum accused of Photoshopping her face onto model's body",
-        "description": "\"Real Housewives of Potomac\" alum Mia Thornton was accused of using AI to superimpose her face onto an influencer's body in an Instagram post.",
-        "url": "https://pagesix.com/2026/06/26/celebrity-news/real-housewives-alum-accused-of-photoshopping-her-face-onto-models-body/",
-        "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/132408706.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-06-27T00:36:16Z",
-        "source": "Page Six"
+        "title": "Newsom, California Legislature reach $351.7-billion budget deal",
+        "description": "The agreement ends weeks of lobbying by outside interests and negotiations among Democrats in the California Legislature and Gov. Gavin Newsom about how to handle a surge of income tax collected on stock market gains related to artificial intelligence.",
+        "url": "https://www.latimes.com/california/story/2026-06-26/newsom-california-legislature-reach-351-7-billion-budget-deal",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/f9b4b79/2147483647/strip/true/crop/3092x1623+0+219/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F59%2F6278e28c4fada52cbb0bbcd25a8d%2Fcalifornia-governor-state-of-the-state-33416.jpg",
+        "publishedAt": "2026-06-27T01:55:53Z",
+        "source": "Los Angeles Times"
       },
       {
-        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-        "description": "WASHINGTON: The US government on Friday (Jun 26) allowed Anthropic to release its powerful Claude Mythos 5 AI model to some \"trusted partners\", according to a Commerce Department letter seen by Reuters.The action comes two weeks after the government",
-        "url": "https://www.channelnewsasia.com/world/us-allows-anthropic-release-mythos-trusted-partners-6214461",
-        "image": "https://dam.mediacorp.sg/image/upload/s--IlrZyTkp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T230218Z_3_LYNXMPEM5P1IZ_RTROPTP_3_ANTHROPIC-AI-ALIBABA.JPG?itok=2FM3bq7v",
-        "publishedAt": "2026-06-27T00:34:47Z",
-        "source": "CNA"
+        "title": "Anthropic Gets US Government's Permission To Redeploy Its Mythos Cybersecurity AI Model",
+        "description": "Anthropic is restoring select organizations’ access to Mythos after getting permission from the US government.",
+        "url": "https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/",
+        "image": "https://www.engadget.com/img/gallery/anthropic-gets-permission-to-redeploy-its-mythos-cybersecurity-ai-model/l-intro-1782525151.jpg",
+        "publishedAt": "2026-06-27T01:54:56Z",
+        "source": "Engadget"
       },
       {
-        "title": "AI Tool of the Week: a smart assistant that automates your weekly workflows",
-        "description": "Set recurring tasks in plain language and let ChatGPT monitor the web, check connected apps, and deliver AI-generated updates automatically.",
-        "url": "https://www.livemint.com/ai/ai-tool-of-the-week-a-smart-assistant-that-automates-your-weekly-workflows-11782352360657.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/pexels-photo-30869075_1782352809502_1782352815697_6b0b20f1-2964-406c-a93a-8f969ec4deb4.jpeg",
-        "publishedAt": "2026-06-27T00:31:10Z",
+        "title": "Uber’s Prabhjeet Singh to be OpenAI’s MD in India",
+        "description": "India Business News: OpenAI has appointed Prabhjeet Singh, Uber’s president for India and South Asia, as its managing director for India, marking one of the company’s most.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/ubers-prabhjeet-singh-to-be-openais-md-in-india/articleshow/132027302.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132027316,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-27T01:47:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Trump administration clears Anthropic to roll out Claude Mythos 5 to over 100 organisations: Report",
+        "description": "The US government has permitted Anthropic to release its Claude Mythos 5 AI model to trusted partners.",
+        "url": "https://www.livemint.com/companies/news/trump-administration-clears-anthropic-to-roll-out-claude-mythos-5-to-over-100-organisations-report-11782521730751.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/logo/mythos_1782524659473_1782524659614_a4225dff-7d03-415d-a760-b6035b838dfe.jpg",
+        "publishedAt": "2026-06-27T01:45:11Z",
         "source": "Livemint"
       },
       {
-        "title": "The twin devils that continue to plague AI",
-        "description": "There are architectural flaws in chatbot interactions that refuse to go away and make it difficult to trust them.",
-        "url": "https://www.livemint.com/opinion/columns/the-twin-devils-that-continue-to-plague-ai-11782349806230.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/pexels-photo-18069696_1782350281618_1782350292257_0e8a27b7-c49c-4a8b-8fa4-899d6d21456e.png",
-        "publishedAt": "2026-06-27T00:30:50Z",
-        "source": "Livemint"
+        "title": "OpenAI defers public roll-out of GPT‑5.6 as US seeks early access to frontier AI models",
+        "description": "OpenAI had presented its plans and the models’ capabilities to the US government prior to the launch. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/openai-defers-public-roll-out-of-gpt-5-6-as-us-seeks-early-access-to-frontier-ai-models",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d9f0983c5ad973fffe840f3ab612c8a0ed975e0aca62b3d5247715dc7929cd86",
+        "publishedAt": "2026-06-27T01:43:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Eros Music Worlds announces AI-powered music platform, partnership with Mohammed Rafi family: Details inside",
-        "description": "Each launches first through original singles and performance videos, then expands into albums, Character-led Musical Storytelling Universes, microdrama and live experiences",
-        "url": "https://www.firstpost.com/entertainment/eros-music-worlds-announces-ai-powered-music-platform-partnership-with-mohammed-rafi-family-details-inside-14026538.html",
-        "image": "https://images.firstpost.com/uploads/2026/06/ANI-20260624071553-1-2026-06-ae715925772950bcbb323747637113ca.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-06-27T00:30:35Z",
-        "source": "Firstpost"
+        "title": "OpenAI defers public roll-out of GPT‑5.6 as US seeks early access to frontier AI models",
+        "description": "OpenAI had presented its plans and the models’ capabilities to the US government prior to the launch. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/united-states/openai-defers-public-roll-out-of-gpt-5-6-as-us-seeks-early-access-to-frontier-ai-models",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d9f0983c5ad973fffe840f3ab612c8a0ed975e0aca62b3d5247715dc7929cd86",
+        "publishedAt": "2026-06-27T01:43:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Startup seed rounds double as VCs turn more selective",
-        "description": "Indian startups are securing significantly larger seed and early-stage funding rounds, nearly doubling their average cheque size. This trend is driven by venture firms frontloading capital for more mature products, especially in AI, deeptech, and healthtech. While overall funding has seen a modest rise, the number of deals has dropped, indicating a more concentrated investment approach for startups demonstrating strong performance and clear commercial paths.",
-        "url": "https://economictimes.indiatimes.com/tech/funding/startup-seed-rounds-double-as-vcs-turn-more-selective/articleshow/132024178.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1057290,resizemode-75,msid-132024178/tech/funding/startup-seed-rounds-double-as-vcs-turn-more-selective.jpg",
-        "publishedAt": "2026-06-27T00:30:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Startup seed rounds double as VCs turn more selective",
-        "description": "Indian startups are securing significantly larger seed and early-stage funding rounds, nearly doubling their average cheque size. This trend is driven by venture firms frontloading capital for more mature products, especially in AI, deeptech, and healthtech. While overall funding has seen a modest rise, the number of deals has dropped, indicating a more concentrated investment approach for startups demonstrating strong performance and clear commercial paths.",
-        "url": "https://economictimes.indiatimes.com/tech/startups/startup-seed-rounds-double-as-vcs-turn-more-selective/articleshow/132023936.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1057290,resizemode-75,msid-132023936/tech/startups/startup-seed-rounds-double-as-vcs-turn-more-selective.jpg",
-        "publishedAt": "2026-06-27T00:30:00Z",
-        "source": "The Economic Times"
+        "title": "Can AI replace human connection? The explosive rise of chatbots that feel like friends, therapists and even romantic partners",
+        "description": "Millions now talk to AI chatbots for comfort, advice and even companionship. But why are these conversations starting to feel so real? Here's the science behind our growing emotional connection with AI and what it reveals about modern loneliness.",
+        "url": "https://www.indiatimes.com/trending/can-ai-replace-human-connection-the-explosive-rise-of-chatbots-that-feel-like-friends-therapists-and-even-romantic-partners/articleshow/132008527.html",
+        "image": "https://staticimg.publishstory.co/thumb/132008580.cms?imgsize=66260&width=1280&height=720&resizemode=8",
+        "publishedAt": "2026-06-27T01:40:15Z",
+        "source": "Indiatimes"
       }
     ]
   }
