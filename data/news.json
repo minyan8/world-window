@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-27T11:48:00.918Z",
+  "fetchedAt": "2026-06-27T12:46:48.231Z",
   "sections": {
     "world": [
       {
-        "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
-        "description": "Judge says comments to the media by prosecutors about defendant violate rules of what can be said outside of court.",
-        "url": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26163585794816-1782511601.jpg?resize=1200%2C675",
-        "publishedAt": "2026-06-26T23:16:37Z",
-        "source": "Al Jazeera"
+        "title": "Polygamous sect leader guilty of abuse after girls found in trailer on highway",
+        "description": "Self-proclaimed prophet Samuel Bateman already serving 50-year prison sentence over child sexual abuse",
+        "url": "https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted",
+        "image": "https://i.guim.co.uk/img/media/6cdec0b0f67d3dfa299b68402d510d968ef14e7d/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2e9feb6cf95e2b9c5fe30fa4824792e",
+        "publishedAt": "2026-06-27T00:33:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Full text of Lebanon-Israel framework agreement",
-        "description": "Naharnet is the leading Lebanese news destination, breaking the news as it happens!",
-        "url": "https://www.naharnet.com/stories/en/320949-full-text-of-lebanon-israel-framework-agreement",
-        "image": "http://images0.naharnet.com/images/275084/w140.jpg?1782515751",
-        "publishedAt": "2026-06-26T23:15:00Z",
-        "source": "Naharnet"
+        "title": "Bible stories become required reading for Texas schools",
+        "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+        "url": "https://www.bbc.com/news/articles/ckg8m2xkg84o",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
+        "publishedAt": "2026-06-27T00:31:42Z",
+        "source": "BBC"
       },
       {
-        "title": "Early Nutrition Screening Reduces Child Deaths In Nigeria",
-        "description": "Download logo",
-        "url": "https://newstrends.co.ke/early-nutrition-screening-reduces-child-deaths-in-nigeria/",
-        "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-        "publishedAt": "2026-06-26T23:13:00Z",
-        "source": "NewsTrendsKE"
+        "title": "Pope Leo XIV Meets With Synod on Synodality Teams Ahead of 2028 Assembly",
+        "description": "The pontiff met with the synod members to conclude a conference at the Vatican June 23-25.",
+        "url": "https://www.aciafrica.org/news/22613/pope-leo-xiv-meets-with-synod-on-synodality-teams-ahead-of-2028-assembly",
+        "image": "https://www.aciafrica.org/images/ris7885.jpg?w=1200&format=jpeg",
+        "publishedAt": "2026-06-27T00:31:35Z",
+        "source": "aciafrica.org"
       },
       {
-        "title": "Eritrea: Ministry Of Education Conducts Activity Assessment Meeting",
-        "description": "Download logo",
-        "url": "https://newstrends.co.ke/eritrea-ministry-of-education-conducts-activity-assessment-meeting/",
-        "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-        "publishedAt": "2026-06-26T23:12:58Z",
-        "source": "NewsTrendsKE"
+        "title": "Ukrainian drones drive Russia to declare emergency in occupied Crimea",
+        "description": "Weeks of punishing strikes have disrupted water, fuel and electricity supplies across the peninsula, which Ukraine’s president has vowed to reclaim.",
+        "url": "https://www.washingtonpost.com/world/2026/06/26/ukrainian-drones-drive-russia-declare-emergency-occupied-crimea/",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BSRENPIOUME6YXYLTJ7MLFYGB4.JPG&w=1440",
+        "publishedAt": "2026-06-27T00:28:39Z",
+        "source": "The Washington Post"
       },
       {
-        "title": "Liberia: President Boakai Issues Executive Order Banning Export Of Unprocessed Natural Rubber To Boost Local Manufacturing",
-        "description": "Download logo",
-        "url": "https://newstrends.co.ke/liberia-president-boakai-issues-executive-order-banning-export-of-unprocessed-natural-rubber-to-boost-local-manufacturing/",
-        "image": "https://newstrends.co.ke/wp-content/uploads/2026/05/NewsTrendsKE-with-APO-News-Updates.webp",
-        "publishedAt": "2026-06-26T23:12:57Z",
-        "source": "NewsTrendsKE"
+        "title": "US strikes Iran after cargo ship attack in Strait of Hormuz",
+        "description": "The US military attacked Iran in response to an Iranian drone strike on a cargo ship in the Strait of Hormuz, straining a fragile peace deal. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/middle-east/us-strikes-iran-in-response-to-attack-on-cargo-ship-in-strait-of-hormuz",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/56226e275d49260c84b15e4876f57698ca176947c6fa62dc24146caa11302297",
+        "publishedAt": "2026-06-27T00:14:29Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Search for love takes singles off the apps and into the bush",
-        "description": "An Australian publican and her husband are gearing up to help lonely hearts find love away from phone screens.",
-        "url": "https://www.rnz.co.nz/life/relationships/love-and-sex/search-for-love-takes-singles-off-the-apps-and-into-the-bush",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--YN51bYWF--/t_tohu-badge-facebook/f_auto/q_auto/4JMDSS0_ac3232ebc955399f9e0756dcdec15aa5_avif",
-        "publishedAt": "2026-06-26T23:12:20Z",
-        "source": "RNZ"
+        "title": "Confidence in Trump sinks among Indians as unfavourable views of US hit record high",
+        "description": "According to the 2026 data, Indians largely disapprove of Trump’s use of global tariffs, his handling of conflicts, and US' restrictive immigration policies. | World News",
+        "url": "https://www.hindustantimes.com/world-news/confidence-in-trump-sinks-among-indians-as-unfavourable-views-of-us-hit-record-high-101782518189274.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/27/550x309/US-POLITICS-TRUMP-62_1782518601412_1782518610873_c74332fa-9387-4a6a-8999-9fa9783a3516.jpg",
+        "publishedAt": "2026-06-27T00:04:53Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Death toll rises",
-        "description": "The toll from the back-to-back earthquakes that devastated Venezuela this week climbed Friday to at least 920 dead and 3,360 injured, authorities said.",
-        "url": "https://www.cp24.com/news/world/2026/06/26/death-toll-in-venezuela-earthquakes-rises-to-589-with-almost-3000-injured/",
-        "image": "https://www.cp24.com/resizer/v2/YRLQHC6HST7BFFJRLSWCURJ2BE.jpg?smart=true&auth=fe08092032b3bc68113a6f544861f1a1fa2d449b53be0b3d3e1e30822307a2b3&width=1200&height=630",
-        "publishedAt": "2026-06-26T23:06:17Z",
-        "source": "CP24"
+        "title": "SSPX consecrations a schismatic act, but Latin Mass remains valid",
+        "description": "Cardinal Gerhard Müller called the SSPX's July 1 plan to consecrate bishops without papal mandate a schismatic act, while affirming the Latin Mass remains valid.",
+        "url": "https://www.ewtnnews.com/vatican/cardinal-mueller-calls-sspx-consecrations-schismatic-defends-the-latin-mass",
+        "image": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1782481429/ewtn-news/en/Bildschirmfoto_2026-06-26_um_15.34.57_bynlez.png",
+        "publishedAt": "2026-06-27T00:01:00Z",
+        "source": "EWTN News"
       },
       {
-        "title": "Venezuela quake toll tops 900, search intensifies for hundreds trapped",
-        "description": "Desperate Venezuelans and rescue teams raced to find survivors on Friday as the death toll from twin earthquakes rose above 900, with foreign rescue teams and aid only beginning to reach devastated areas nearly two days after the quakes. The government said 172 people remained trapped, 920 were dead and 3360 injured, while a website listed more than 50,000 people reported missing.",
-        "url": "https://www.rnz.co.nz/news/world/628077/venezuela-quake-toll-tops-900-search-intensifies-for-hundreds-trapped",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--qe0LXXWp--/t_tohu-badge-facebook/f_auto/q_auto/4JMDSKQ_AFP__20260626__B8GL3W9__v2__HighRes__TopshotVenezuelaEarthquake_jpg",
-        "publishedAt": "2026-06-26T23:04:50Z",
-        "source": "RNZ"
+        "title": "Malaysia has never had so many Chinese tourists. It wants more",
+        "description": "As Thailand loses its allure, Malaysia turns to viral algorithms to entice millions of independent Chinese travellers.",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3358515/malaysia-has-never-had-so-many-chinese-tourists-it-wants-more",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/26/b0dfa1a1-f0a8-41a8-9a19-76639963ec9e_a5e3e6d2.jpg?itok=9Y-Gn4tr&v=1782467867",
+        "publishedAt": "2026-06-27T00:00:11Z",
+        "source": "South China Morning Post"
       }
     ],
     "business": [
       {
-        "title": "Ontario rejects Ottawa's offer to let rural employers hire more temporary foreign workers",
-        "description": "Ontario rejected Ottawa's offer to let rural employers in the province hire more temporary foreign workers to fill labour needs, citing youth unemployment and a focus on its domestic workforce in its decision.",
-        "url": "https://www.cbc.ca/news/canada/toronto/ontario-rejects-ottawa-temporary-foreign-worker-cap-increase-9.7250679",
-        "image": "https://i.cbc.ca/ais/6dd1bb26-83dd-4fb0-b6a9-97b85d020768,1782510091068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3BResize%3D620",
-        "publishedAt": "2026-06-26T23:47:15Z",
-        "source": "CBC"
+        "title": "Wild story behind viral $52 caps",
+        "description": "To any random passer-by, they probably just look like your everyday cap sporting a witty slogan, but anyone who owns one likely understands the brand’s deeper significance.",
+        "url": "https://www.news.com.au/lifestyle/parenting/can-often-feel-overwhelming-inspiring-story-behind-viral-52-caps/news-story/13eb04992bcdef8d0d3afdfa256c31c6",
+        "image": "https://content.api.news/v3/images/bin/216bdf14deebe46bd88f7931c229fd9c",
+        "publishedAt": "2026-06-27T00:38:04Z",
+        "source": "News.com.au"
       },
       {
-        "title": "Investor Notice: Robbins LLP Informs Investors of the Futu Holdings Limited Class Action Lawsuit",
-        "description": "Robbins LLP informs stockholders that a class action was filed on behalf of all investors who purchased or otherwise acquired Futu Holdings Limited (NASDAQ: ...",
-        "url": "https://www.businesswire.com/news/home/20260626405324/en/Investor-Notice-Robbins-LLP-Informs-Investors-of-the-Futu-Holdings-Limited-Class-Action-Lawsuit",
-        "image": "https://mms.businesswire.com/media/20260626405324/en/805853/22/Robbins_LLP.jpg",
-        "publishedAt": "2026-06-26T23:45:00Z",
-        "source": "Business Wire"
+        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+        "description": "WASHINGTON: The US government on Friday (Jun 26) allowed Anthropic to release its powerful Claude Mythos 5 AI model to some \"trusted partners\", according to a Commerce Department letter seen by Reuters.The action comes two weeks after the government",
+        "url": "https://www.channelnewsasia.com/world/us-allows-anthropic-release-mythos-trusted-partners-6214461",
+        "image": "https://dam.mediacorp.sg/image/upload/s--IlrZyTkp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T230218Z_3_LYNXMPEM5P1IZ_RTROPTP_3_ANTHROPIC-AI-ALIBABA.JPG?itok=2FM3bq7v",
+        "publishedAt": "2026-06-27T00:34:47Z",
+        "source": "CNA"
       },
       {
-        "title": "FAA investigating low-flying plane nearly hitting runway at private Texas airport",
-        "description": "The FAA is investigating after a Boeing 777 cargo aircraft flew dangerously low, with one of its wings just a few feet from hitting the ground on Wednesday.",
-        "url": "https://abcnews.com/US/faa-investigating-low-flying-plane-hitting-runway-private/story?id=134254841",
-        "image": "https://i.abcnewsfe.com/a/ca505215-bdd4-4e09-bd16-63871418094e/low-plane-texas-02-ht-jt-260626_1782508531222_hpMain_16x9.jpg?w=1600",
-        "publishedAt": "2026-06-26T23:44:41Z",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "Small Businesses, Big Impact: Five Ways the UN is Helping MSMEs Drive Sustainable Development",
+        "description": "By combining access to finance, skills development, market opportunities and fair policy frameworks, the UN and partners are helping create environments where micro-, small and medium-sized enterprises across the world can flourish.",
+        "url": "https://unsdg.un.org/latest/stories/small-businesses-big-impact-five-ways-un-helping-msmes-drive-sustainable-development",
+        "image": "https://unsdg.un.org/sites/default/files/2026-06/54423126746_351b5b568b_o.jpg",
+        "publishedAt": "2026-06-27T00:29:37Z",
+        "source": "United Nations Sustainable Development Group"
       },
       {
-        "title": "Saks Global rebrands as Exemplar Luxury Group after bankruptcy exit",
-        "description": "Saks Global, the parent company of Neiman Marcus, Saks Fifth Avenue and Bergdorf Goodman, officially emerged from Chapter 11 bankruptcy Friday with fewer stores, less debt, a more focused strategy to pamper the affluent — and a new name.",
-        "url": "https://apnews.com/article/saks-neiman-marcus-bergdorf-goodman-bankruptcy-67ba3bf1caa3c2c5a3bf8f16e61c43c7",
-        "image": "https://dims.apnews.com/dims4/default/5aac44b/2147483647/strip/true/crop/3567x2377+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F98%2Fb45f623a2f92adffa18ee8cda5c5%2Fa15ea67873224c24a51af01fa156bc5e",
-        "publishedAt": "2026-06-26T23:44:38Z",
-        "source": "AP News"
+        "title": "OpenAI launches limited release of new AI model in US only",
+        "description": "OpenAI on Friday launched a US-only preview of its latest powerful AI model series to a limited group of partners at the request of the US government, the company said.",
+        "url": "https://www.rnz.co.nz/news/science-and-technology/628271/openai-launches-limited-release-of-new-ai-model-in-us-only",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--fT5JzH3i--/t_tohu-badge-facebook/f_auto/q_auto/4KJE9OY_080_HL_JMBARRERE_2377358_jpg",
+        "publishedAt": "2026-06-27T00:26:21Z",
+        "source": "RNZ"
       },
       {
-        "title": "Orion Digital Receives Nasdaq Notification Regarding Minimum Bid Price Deficiency",
-        "description": "Orion Digital Corp. (NASDAQ:ORIO) (TSX:ORIO) (“Orion Digital” or the “Company”), today announced that on June 25, 2026, it received a written notification (t...",
-        "url": "https://www.businesswire.com/news/home/20260626787195/en/Orion-Digital-Receives-Nasdaq-Notification-Regarding-Minimum-Bid-Price-Deficiency",
-        "image": "https://www.businesswire.com/bw-logo.png",
-        "publishedAt": "2026-06-26T23:39:00Z",
-        "source": "Business Wire"
+        "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+        "description": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+        "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+        "image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/191:100/w_1280,c_limit/Anthropic-Restores-Fable-Access-Business.jpg",
+        "publishedAt": "2026-06-27T00:26:00Z",
+        "source": "WIRED"
       },
       {
-        "title": "How Investors Are Reacting To Capital Clean Energy Carriers (CCEC) LNG Bunkering Joint Venture Entry",
-        "description": "Earlier in June 2026, CMA CGM S.A. and Capital Clean Energy Carriers Corp. formed a 50/50 joint venture to build, charter, and operate a 20,000 cbm dual-fuel LNG bunkering vessel, ordered from Nantong CIMC Sinopacific Offshore & Engineering for US$82.8 million with delivery targeted for the third quarter of 2028.\nThis move marks Capital Clean Energy Carriers’ entry into the LNG bunkering market, backed by an expected 12-year time charter with a CMA CGM–TotalEnergies venture that could...",
-        "url": "https://simplywall.st/stocks/us/transportation/nasdaq-ccec/capital-clean-energy-carriers/news/how-investors-are-reacting-to-capital-clean-energy-carriers-1",
-        "image": "https://images.simplywall.st/asset/industry/3231000-choice2-main-header/1585186839892",
-        "publishedAt": "2026-06-26T23:33:41Z",
-        "source": "simplywall.st"
+        "title": "Brampton man charged in alleged $1.4 million Ponzi-style investment scheme",
+        "description": "A 62-year-old Brampton man is facing half a dozen charges in what police say was a Ponzi-style investment scheme that defrauded elderly victims of $1.4 million. Police in Peel Region allege that in 2017, several victims invested money with a man and his company, BLM Canada Corporation, under the belief that he was a successful […]",
+        "url": "https://toronto.citynews.ca/2026/06/26/brampton-man-charged-in-alleged-1-4-million-ponzi-style-investment-scheme/",
+        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/06/26/Navdeep-Boparai.jpg",
+        "publishedAt": "2026-06-27T00:25:00Z",
+        "source": "toronto.citynews.ca"
       },
       {
-        "title": "Some S’poreans risk it all to move abroad with no job",
-        "description": "Discover the compelling stories of Singaporeans who've risked it all to move abroad without a job, seeking new lifestyles and career paths. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/life/giving-up-a-90k-salary-to-job-hunt-in-australia-why-young-singaporeans-are-risking-it-all-to-move",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bc6d53c79c61b96b7e6ec429735c4001415aeca6665a9018382404a281d0663c",
-        "publishedAt": "2026-06-26T23:32:08Z",
-        "source": "The Straits Times"
+        "title": "House leaders visit Unilab manufacturing facility in Laguna",
+        "description": "House Committee on Trade and Industry Chair Rep. Maximo Dalog Jr. and House Committee on Health Chair Rep. Ciriaco B. Gato Jr. recently visited Amherst...",
+        "url": "https://mb.com.ph/2026/06/25/house-leaders-visit-unilab-manufacturing-facility-in-laguna",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/26/111439.webp",
+        "publishedAt": "2026-06-27T00:22:30Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Tata Sons back on track in FY26 with ₹32,000 crore net profit",
-        "description": "Tata Sons, the holding company of the Tata Group, reported strong performance in FY26 despite global geopolitical uncertainty, according to an executive cited in the report. On a standalone basis, the company posted about ₹42,000 crore in operating income and an estimated net profit of around ₹32,000 crore. It also more than doubled its dividend payout to Tata Trusts to over ₹3,000 crore.",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-back-on-track-in-fy26-with-32000-net-profit/articleshow/132024144.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-132024128,width-1200,height-630,imgsize-116456,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-06-26T23:31:00Z",
-        "source": "The Economic Times"
+        "title": "SkyFlakes maker bets ₱5 billion on new Central Luzon mega-factory",
+        "description": "Monde MY San Corp. (MMYSC), a subsidiary of food and beverage giant Monde Nissin Corp., is spending more than ₱5 billion to build a new manufacturing facility...",
+        "url": "https://mb.com.ph/2026/06/26/skyflakes-maker-bets-5-billion-on-new-central-luzon-mega-factory",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/26/111830.webp",
+        "publishedAt": "2026-06-27T00:22:30Z",
+        "source": "Manila Bulletin"
       }
     ],
     "science": [
+      {
+        "title": "Texas Tech Researchers Probe Interstellar Explosions, Unlock Knowledge",
+        "description": "Physics & Astronomy professor and student take data from deep-space novae and use sound to expand details around their evolution.",
+        "url": "https://www.newswise.com/articles/texas-tech-researchers-probe-interstellar-explosions-unlock-knowledge",
+        "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
+        "publishedAt": "2026-06-26T23:50:00Z",
+        "source": "Newswise"
+      },
       {
         "title": "In 1977, Ann Druyan recorded an hour of her brainwaves and heartbeat just two days after she and Carl Sagan agreed to marry, and NASA pressed that compressed minute onto Voyager's Golden Record as a p",
         "description": "Ann Druyan's compressed life-signs recording on Voyager's Golden Record remains one of the mission's most intimate human details.",
@@ -190,80 +198,72 @@
         "image": "https://cff2.earth.com/uploads/2026/06/26150811/komatiite-lava-eruption-early-earth-subduction-e1782508369739.jpg",
         "publishedAt": "2026-06-26T21:38:53Z",
         "source": "Earth.com"
-      },
-      {
-        "title": "Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard",
-        "description": "The loudest crash of gravitational waves ever heard provides an intriguing way of studying event horizons, the boundaries at which nothing can escape the grip of these cosmic titans.",
-        "url": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard",
-        "image": "https://cdn.mos.cms.futurecdn.net/JpCvY8s8SzErpcX8zqHPE4-1600-80.png",
-        "publishedAt": "2026-06-26T21:00:00Z",
-        "source": "Space"
       }
     ],
     "ai": [
       {
-        "title": "Nutanix Healthcare ECI Report Finds AI Urgency Outpacing Infrastructure Readiness as Shadow AI Risks Mount",
-        "description": "Nutanix NASDAQ: NTNX, a leader in hybrid multicloud computing, today published findings from the healthcare vertical edition of its eighth annual Enterprise Cloud Index ECI...",
-        "url": "https://itwire.com/guest-articles/guest-research/nutanix-healthcare-eci-report-finds-ai-urgency-outpacing-infrastructure-readiness-as-shadow-ai-risks-mount",
-        "image": "https://media.itwire.com/2026/06/26/nutanix-healthcare-eci-report-finds-ai-urgency-outpacing-infrastructure-readiness-as-shadow-ai-risks-mount-266f2dabc3c8.webp",
-        "publishedAt": "2026-06-26T23:46:00Z",
-        "source": "iTWire"
+        "title": "Amita Madhvani on $300 million micro-drama market, AI story, and why India's next boom is vertical format | Interview",
+        "description": "Amita Madhvani's studio recently launched Mohini, a musical, culturally rooted micro-drama created in collaboration with Google Cloud.",
+        "url": "https://www.hindustantimes.com/entertainment/others/amita-madhvani-on-300-million-micro-drama-market-and-why-indias-next-entertainment-boom-is-vertical-format-101782470845585.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/06/26/550x309/Amita_1782471316942_1782471322819_610b01de-8bf2-46fc-bd78-9182c6a87455.jpg",
+        "publishedAt": "2026-06-27T00:38:19Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Trump administration partially lifts Anthropic’s AI export ban",
-        "description": "The release clears the way for a select group of companies and agencies to gain access to the company's Mythos 5 model. But a second advanced Anthropic model remains blocked.",
-        "url": "https://www.politico.com/news/2026/06/26/white-house-makes-peace-with-anthropic-for-now-00965675",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F47%2Fc9%2F51f6efc0446995fd79117f9f4a6e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281424236",
-        "publishedAt": "2026-06-26T23:43:00Z",
-        "source": "POLITICO"
+        "title": "'Real Housewives' alum accused of Photoshopping her face onto model's body",
+        "description": "\"Real Housewives of Potomac\" alum Mia Thornton was accused of using AI to superimpose her face onto an influencer's body in an Instagram post.",
+        "url": "https://pagesix.com/2026/06/26/celebrity-news/real-housewives-alum-accused-of-photoshopping-her-face-onto-models-body/",
+        "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/132408706.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-06-27T00:36:16Z",
+        "source": "Page Six"
       },
       {
-        "title": "U.S. Government Greenlights Limited Release of Anthropic's Claude Mythos 5 AI",
-        "description": "The U.S. government has permitted Anthropic to distribute its Claude Mythos 5 AI model to select partners, following a prior suspension over security concerns. More than 100 entities, including major corporations, will now gain access. This development highlights ongoing negotiations and security considerations regarding AI technology.",
-        "url": "https://www.devdiscourse.com/article/technology/3941607-us-government-greenlights-limited-release-of-anthropics-claude-mythos-5-ai",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-06-26T23:38:22Z",
-        "source": "Devdiscourse"
+        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+        "description": "WASHINGTON: The US government on Friday (Jun 26) allowed Anthropic to release its powerful Claude Mythos 5 AI model to some \"trusted partners\", according to a Commerce Department letter seen by Reuters.The action comes two weeks after the government",
+        "url": "https://www.channelnewsasia.com/world/us-allows-anthropic-release-mythos-trusted-partners-6214461",
+        "image": "https://dam.mediacorp.sg/image/upload/s--IlrZyTkp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-26T230218Z_3_LYNXMPEM5P1IZ_RTROPTP_3_ANTHROPIC-AI-ALIBABA.JPG?itok=2FM3bq7v",
+        "publishedAt": "2026-06-27T00:34:47Z",
+        "source": "CNA"
       },
       {
-        "title": "5.6 but restricts rollout after US request",
-        "description": "OpenAI unveils GPT-5.6 Sol, Terra and Luna with stronger safeguards and a limited preview rollout on U.S. government's request.",
-        "url": "https://interestingengineering.com/culture/openai-gpt-5-6-sol-terra-luna-limited-preview",
-        "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/07/Untitled-design-99.jpg",
-        "publishedAt": "2026-06-26T23:35:20Z",
-        "source": "Interesting Engineering"
+        "title": "AI Tool of the Week: a smart assistant that automates your weekly workflows",
+        "description": "Set recurring tasks in plain language and let ChatGPT monitor the web, check connected apps, and deliver AI-generated updates automatically.",
+        "url": "https://www.livemint.com/ai/ai-tool-of-the-week-a-smart-assistant-that-automates-your-weekly-workflows-11782352360657.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/pexels-photo-30869075_1782352809502_1782352815697_6b0b20f1-2964-406c-a93a-8f969ec4deb4.jpeg",
+        "publishedAt": "2026-06-27T00:31:10Z",
+        "source": "Livemint"
       },
       {
-        "title": "GMKtec Prime Day deal hits lowest ever price for AI mini PC",
-        "description": "Our tests showed this mini PC was perfect for AI devs, content creation, and getting down to business. And now, it's just $540",
-        "url": "https://www.techradar.com/pro/gmktecs-k13-mini-pc-is-a-thoughtfully-engineered-slice-of-modern-computing-that-just-hit-its-lowest-ever-price-with-43-percent-off-for-prime-day",
-        "image": "https://cdn.mos.cms.futurecdn.net/PQMijs5TJkD9ShEUMVriPm-1920-80.jpg",
-        "publishedAt": "2026-06-26T23:34:18Z",
-        "source": "TechRadar"
+        "title": "The twin devils that continue to plague AI",
+        "description": "There are architectural flaws in chatbot interactions that refuse to go away and make it difficult to trust them.",
+        "url": "https://www.livemint.com/opinion/columns/the-twin-devils-that-continue-to-plague-ai-11782349806230.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/pexels-photo-18069696_1782350281618_1782350292257_0e8a27b7-c49c-4a8b-8fa4-899d6d21456e.png",
+        "publishedAt": "2026-06-27T00:30:50Z",
+        "source": "Livemint"
       },
       {
-        "title": "5.6 to challenge Claude Mythos 5",
-        "description": "OpenAI introduces GPT-5.6 to challenge Claude Mythos 5 - SiliconANGLE",
-        "url": "https://siliconangle.com/2026/06/26/openai-introduces-gpt-5-6-challenge-claude-mythos-5/",
-        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/52660764045_a9fd79f194_c-1-1.jpg",
-        "publishedAt": "2026-06-26T23:32:56Z",
-        "source": "SiliconANGLE News"
+        "title": "Eros Music Worlds announces AI-powered music platform, partnership with Mohammed Rafi family: Details inside",
+        "description": "Each launches first through original singles and performance videos, then expands into albums, Character-led Musical Storytelling Universes, microdrama and live experiences",
+        "url": "https://www.firstpost.com/entertainment/eros-music-worlds-announces-ai-powered-music-platform-partnership-with-mohammed-rafi-family-details-inside-14026538.html",
+        "image": "https://images.firstpost.com/uploads/2026/06/ANI-20260624071553-1-2026-06-ae715925772950bcbb323747637113ca.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-06-27T00:30:35Z",
+        "source": "Firstpost"
       },
       {
-        "title": "Why AI SEO Services in India Are Shaping the Future of Digital Marketing",
-        "description": "In order to understand the impacts of climate change on the Earth's ecosystems, it is important to consider the role of field research. Field",
-        "url": "https://techbullion.com/why-ai-seo-services-in-india-are-shaping-the-future-of-digital-marketing/",
-        "image": "https://techbullion.com/wp-content/uploads/2023/12/Screenshot_2023-12-20-19-18-48-535_com.google.android.apps_.docs_.editors.docs_.png",
-        "publishedAt": "2026-06-26T23:19:36Z",
-        "source": "TechBullion"
+        "title": "Startup seed rounds double as VCs turn more selective",
+        "description": "Indian startups are securing significantly larger seed and early-stage funding rounds, nearly doubling their average cheque size. This trend is driven by venture firms frontloading capital for more mature products, especially in AI, deeptech, and healthtech. While overall funding has seen a modest rise, the number of deals has dropped, indicating a more concentrated investment approach for startups demonstrating strong performance and clear commercial paths.",
+        "url": "https://economictimes.indiatimes.com/tech/funding/startup-seed-rounds-double-as-vcs-turn-more-selective/articleshow/132024178.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1057290,resizemode-75,msid-132024178/tech/funding/startup-seed-rounds-double-as-vcs-turn-more-selective.jpg",
+        "publishedAt": "2026-06-27T00:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "XMax Announces Up to Approximately US$25 million in AI API-Related Service Contracts and Expansion into GPU-as-a-Service",
-        "description": "LOS ANGELES, June 26, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (Nasdaq: XMAX) ('XMax' or the 'Company') today announced a significant commercial milestone in its artificial intelligence business, reporting that since launching its AI platform initiative, the Company has executed multiple AI model API service agreements with an aggregate contractual value of up to approximately US$25 million, subject to actual service usage and consumption levels.",
-        "url": "https://www.manilatimes.net/2026/06/27/tmt-newswire/globenewswire/xmax-announces-up-to-approximately-us25-million-in-ai-api-related-service-contracts-and-expansion-into-gpu-as-a-service/2374017",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/27/1115744.jpg",
-        "publishedAt": "2026-06-26T23:12:36Z",
-        "source": "The Manila Times"
+        "title": "Startup seed rounds double as VCs turn more selective",
+        "description": "Indian startups are securing significantly larger seed and early-stage funding rounds, nearly doubling their average cheque size. This trend is driven by venture firms frontloading capital for more mature products, especially in AI, deeptech, and healthtech. While overall funding has seen a modest rise, the number of deals has dropped, indicating a more concentrated investment approach for startups demonstrating strong performance and clear commercial paths.",
+        "url": "https://economictimes.indiatimes.com/tech/startups/startup-seed-rounds-double-as-vcs-turn-more-selective/articleshow/132023936.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1057290,resizemode-75,msid-132023936/tech/startups/startup-seed-rounds-double-as-vcs-turn-more-selective.jpg",
+        "publishedAt": "2026-06-27T00:30:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
