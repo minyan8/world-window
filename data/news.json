@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-28T17:43:24.501Z",
+  "fetchedAt": "2026-06-28T18:43:43.893Z",
   "sections": {
     "world": [
       {
-        "title": "US and Iran trade strikes amid claims of ceasefire violations",
-        "description": "The US also carried out strikes on Iran on Friday after a drone attack on the M/V Ever Lovely ship. US aircraft targeted Iranian missile and drone storage locations as well as coastal radar sites, CENTCOM said.",
-        "url": "https://www.euronews.com/2026/06/28/us-and-iran-trade-strikes-amid-claims-of-ceasefire-violations",
-        "image": "https://images.euronews.com/articles/stories/09/79/81/36/1200x675_cmsv2_481be2f0-1c94-5df8-80ee-883bb7703ae6-9798136.jpg",
-        "publishedAt": "2026-06-28T05:41:01Z",
-        "source": "Euronews"
+        "title": "Baby and mother pulled alive from Venezuela quake rubble",
+        "description": "US search and rescue teams working alongside local firefighters pulled a baby and his mother from the rubble days after devastating earthquakes in Venezuela.",
+        "url": "https://www.rte.ie/news/world/2026/0628/1580718-venezuela-feature/",
+        "image": "https://www.rte.ie/images/00249982-1600.jpg",
+        "publishedAt": "2026-06-28T06:41:45Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Estonia's Baltic Defense Line section taking shape in Setomaa's forests",
-        "description": "Twenty-eight bunkers and more than 10 kilometers of anti-tank ditches have been dug in southeastern Estonia as work on the Baltic Defense Line progresses.",
-        "url": "https://news.err.ee/1610064976/estonia-s-baltic-defense-line-section-taking-shape-in-setomaa-s-forests",
-        "image": "https://s.err.ee/photo/crop/2026/06/27/3671596hc146t24.jpg",
-        "publishedAt": "2026-06-28T05:40:00Z",
-        "source": "news.err.ee"
+        "title": "Fact Check: Is Iran Preparing for War in Viral Military Parade?",
+        "description": "Fact check - The circulating video is purely a visual product of artificial intelligence (AI) and does not represent real military movements.",
+        "url": "https://en.tempo.co/read/2110788/fact-check-is-iran-preparing-for-war-in-viral-military-parade",
+        "image": "https://statik.tempo.co/data/2026/06/23/id_1478950/1478950_720.jpg",
+        "publishedAt": "2026-06-28T06:32:38Z",
+        "source": "Tempo.co English"
       },
       {
-        "title": "‘Missiles flying overhead’: Life in Israel’s most unlikely town under Hezbollah’s shadow",
-        "description": "On a warm June afternoon in northern Israel, children chase each other across a playground while their parents sit nearby drinking coffee.",
-        "url": "https://www.news.com.au/world/middle-east/missiles-flying-overhead-life-in-israels-most-unlikely-town-under-hezbollahs-shadow/news-story/9590b353dab35121db7e7e59f7b7c5f5",
-        "image": "https://content.api.news/v3/images/bin/dacf3d233b92e0f4c90e8a772d60fbcd",
-        "publishedAt": "2026-06-28T05:38:27Z",
-        "source": "News.com.au"
+        "title": "Pakistan's military says 3 soldiers were killed in militant attack",
+        "description": "Pakistan’s military says three paramilitary soldiers were killed and four others wounded in fighting after militants launched an overnight attack on a Rangers regional headquarters in the southern port city of Karachi.",
+        "url": "https://apnews.com/article/pakistan-rangers-karachi-attack-108071417b3684efe0dfbeee1e38c4be",
+        "image": "https://dims.apnews.com/dims4/default/51857ff/2147483647/strip/true/crop/3526x2349+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2Fa2%2F3a543c52e531e1c2d43843c61098%2Fb9bf89841fdc4ad589221268db768765",
+        "publishedAt": "2026-06-28T06:31:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Has Ireland lost a friend with the departure of Starmer from No 10?",
-        "description": "Sir Keir Starmer announced his resignation earlier this week, what was his relationship like with the Republic of Ireland?",
-        "url": "https://www.bbc.com/news/articles/c8724d99xp1o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a545/live/36e080c0-7085-11f1-9faa-8582fd118574.jpg",
-        "publishedAt": "2026-06-28T05:33:04Z",
-        "source": "BBC"
+        "title": "15 Largest Peninsulas In The World",
+        "description": "Bigger than Greenland, the Arabian Peninsula tops the list. Discover the 15 largest peninsulas in the world and the giant landmasses ranked by sheer area.",
+        "url": "https://www.worldatlas.com/peninsulas/15-largest-peninsulas-in-the-world-56857.html",
+        "image": "https://www.worldatlas.com/r/w1200-q80/upload/f1/0a/49/300/shutterstock-601870673.jpg",
+        "publishedAt": "2026-06-28T06:30:00Z",
+        "source": "WorldAtlas"
       },
       {
-        "title": "Between English and mother tongue: Kenya’s education language dilemma",
-        "description": "Students in Kenya say mother tongue improves learning, but English still dominates education and work.",
-        "url": "https://www.aljazeera.com/news/2026/6/28/between-english-and-mother-tongue-kenyas-education-language-dilemma",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2013/07/2013712138149734_20.jpeg?resize=1200%2C675",
-        "publishedAt": "2026-06-28T05:32:32Z",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "IMANI: Debt and dissent: How economic policies and civic crackdowns are shaping the path to 2027 election",
-        "description": "The great awakening seems to have arrived, and with it, the administration stands at a precipice",
-        "url": "https://www.the-star.co.ke/siasa/2026-06-25-siasa-imani-how-economic-policies-civic-crackdowns-are-shaping-the-path-to-2027-polls-1",
-        "image": "https://cdn.radioafrica.digital/image/2026/06/6dbda891-085d-4f51-9cdf-8c6730467b7e.jpg?1782626369308",
-        "publishedAt": "2026-06-28T05:30:00Z",
+        "title": "SARUNI: Lessons for African states from resignation of British PM Starmer",
+        "description": "Gaps in planning for transition don't merely inconvenience the political class — they weaken the resilience of entire governing systems",
+        "url": "https://www.the-star.co.ke/siasa/2026-06-28-saruni-what-african-states-can-learn-from-britain",
+        "image": "https://cdn.radioafrica.digital/image/2026/06/c69f3e0d-6d7d-4e0c-987b-52c05568601e.jpg?1782645185322",
+        "publishedAt": "2026-06-28T06:30:00Z",
         "source": "the-star.co.ke"
       },
       {
-        "title": "Donald Trump warns US might ‘militarily complete the job’",
-        "description": "The Islamic Revolutionary Guard Corps said US bases in the region “will experience hell in the coming days”.",
-        "url": "https://www.smh.com.au/world/middle-east/trump-warns-us-might-militarily-complete-the-job-in-iran-20260628-p60apu.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4024%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/069a16bd4e3c79bf65f4219855914ed49098bffa",
-        "publishedAt": "2026-06-28T05:26:43Z",
-        "source": "SMH.com.au"
+        "title": "Gender budget expands, yet women's economic participation continues to lag",
+        "description": "According to the finance ministry, the proposed gender budget marks another increase from the revised allocation of Tk2,63,588 crore in FY2025-26",
+        "url": "https://www.tbsnews.net/economy/budget/gender-budget-expands-yet-womens-economic-participation-continues-lag-1473881",
+        "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bkash_payment_jun26/public/images/2023/11/21/thoughts-illustration.jpg",
+        "publishedAt": "2026-06-28T06:30:00Z",
+        "source": "The Business Standard"
       },
       {
-        "title": "Thailand tourism yet to recover despite 15 million foreign visitors",
-        "description": "Thailand tourism recovery remains incomplete as foreign arrivals fall 2.78% below last year's level despite exceeding 15 million visitors.",
-        "url": "https://thethaiger.com/hot-news/tourism/thailand-tourism-yet-to-recover-despite-15-million-foreign-visitors",
-        "image": "https://thethaiger.com/wp-content/uploads/2026/06/สำเนาของ-23-34-7-2.jpg",
-        "publishedAt": "2026-06-28T05:26:16Z",
-        "source": "Thaiger"
+        "title": "Harry Kane makes more history with England by breaking Gary Lineker’s World Cup goal record & now has Brazilian GOAT Pele in his sights",
+        "description": "Harry Kane has surpassed Gary Lineker as England's leading World Cup scorer and is now chasing legendary Brazil forward Pele at the 2026 World Cup.",
+        "url": "https://www.goal.com/en-ng/lists/harry-kane-history-england-breaking-gary-lineker-world-cup-goal-record-brazil-pele/blt65bba03e72e7f77a",
+        "image": "https://assets.goal.com/images/v3/getty-2283112437/crop/MM5DGNZXGY5DEMJSGQ5G433XMU5DAORVHA======/GettyImages-2283112437.jpg",
+        "publishedAt": "2026-06-28T06:29:02Z",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Harry Kane makes more history with England by breaking Gary Lineker’s World Cup goal record & now has Brazilian GOAT Pele in his sights",
+        "description": "Harry Kane has surpassed Gary Lineker as England's leading World Cup scorer and is now chasing legendary Brazil forward Pele at the 2026 World Cup.",
+        "url": "https://www.goal.com/en-ke/lists/harry-kane-history-england-breaking-gary-lineker-world-cup-goal-record-brazil-pele/blt65bba03e72e7f77a",
+        "image": "https://assets.goal.com/images/v3/getty-2283112437/crop/MM5DGNZXGY5DEMJSGQ5G433XMU5DAORVHA======/GettyImages-2283112437.jpg",
+        "publishedAt": "2026-06-28T06:29:02Z",
+        "source": "Goal.com"
       }
     ],
     "business": [
       {
-        "title": "Buying a big screen TV? Here’s the Next Big Thing technology you’ll encounter",
-        "description": "The winter nesting season is always a good excuse to upgrade your telly. This year, there’s the added incentive of the Fifa World Cup, too. New technologies...",
-        "url": "https://www.nzherald.co.nz/business/buying-a-big-screen-tv-heres-the-next-big-thing-technology-youll-encounter/premium/46EWB6SRZFGY5K4CJDPY3NRPN4/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/IEWCGGODHFF6TCKOKEQXAIQ56U.jpg?auth=4800fba3b8de9c042b297c18f415e54e60c0f892548a8fd6c8fd07bbd0f8fe17&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-06-28T05:41:23Z",
-        "source": "NZ Herald"
+        "title": "9 midcap stocks poised for up to 75% gains. Do you own any?",
+        "description": "Analyst forecasts are more than just numbers, they provide a forward-looking perspective on market potential. For investors looking for the next breakout opportunities, a fresh analysis of Nifty Midcap 100 stocks reveals several compelling prospects.Based on market analysts' consensus estimates, Trendlyne data indicates that several midcap stocks are expected to deliver strong returns over the next 12 months. This projected upside reflects the average anticipated gain during this period, offering a data-driven roadmap for investors exploring high-potential midcap opportunities. We highlight 9 standout midcap stocks with an estimated upside potential ranging between 25% and 75% in the coming year. Midcap Picks",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/9-midcap-stocks-poised-for-up-to-75-gains-do-you-own-any/midcap-picks/slideshow/132046349.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-132046349,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2026-06-28T06:39:27Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "FSSAI issues notice to famous biscuit brand for misleading \"100% Atta\" claim: How to make preservative-free atta biscuit at home",
-        "description": "When it comes to munching, biscuits and cookies are often considered an easy snack. And if you prefer less or zero-sugar and pure atta cookies, many brands are available to satiate the craving guilt-free. But, what if you learn that your favorite biscuit brand has been selling you a lie for years? But, what if you learn that your favourite biscuit brand has been selling you a lie for years? Yes, something similar happened with a popular biscuit brand and later the Food Safety and Standards Authority of India (FSSAI) issued the brand a notice for misleading consumers with a false claim. Scroll down to read the details.",
-        "url": "https://timesofindia.indiatimes.com/life-style/food-news/fssai-issues-notice-to-famous-biscuit-brand-for-misleading-100-atta-claim-how-to-make-preservative-free-atta-biscuit-at-home/photostory/132046112.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132046121,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-28T05:41:15Z",
-        "source": "The Times of India"
+        "title": "Unionized workers of Samsung Biologics vote to leave Samsung Group United Union",
+        "description": "Unionized workers of Samsung Biologics on Sunday voted in favor of a motion to leave a group-wide labor coalition representing workers across Samsu...",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260628/unionized-workers-of-samsung-biologics-vote-to-leave-samsung-group-united-union",
+        "image": "https://newsimg.koreatimes.co.kr/2026/06/28/6324f4ca-6c86-434c-9812-804426790b18.jpg",
+        "publishedAt": "2026-06-28T06:37:03Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "Week ahead: US-Iran tensions, crude oil prices, auto sales number, US jobs data among key market triggers to watch",
-        "description": "NIFTY50 ended the week above 24,000 but remains range-bound, with 24,200 acting as a key resistance and 23,650 as immediate support. The week ahead will be guided by June auto sales, U.S. labour-market data, crude oil prices and developments around US-Iran tensions, while FII flows and market breadth will remain important for assessing the strength of the recovery.",
-        "url": "https://upstox.com/news/market-news/trading/week-ahead-us-iran-tensions-crude-oil-prices-auto-sales-number-us-jobs-data-among-key-market-triggers-to-watch/article-196004/",
-        "image": "https://assets.upstox.com/content/assets/images/news/niftynextweek.webp",
-        "publishedAt": "2026-06-28T05:37:39Z",
-        "source": "Upstox"
+        "title": "Sydney and Melbourne record worst property auction clearance results in years",
+        "description": "Sydney and Melbourne record their weakest auction results in years, with fewer than half of all homes going under the hammer finding a buyer.",
+        "url": "https://www.abc.net.au/news/2026-06-28/worst-property-auction-rates-in-years-for-sydney-melbourne/106852602",
+        "image": "https://live-production.wcms.abc-cdn.net.au/f1a92c4d503ecfc501959cd895c23248?impolicy=wcms_watermark_news&cropH=1359&cropW=2415&xPos=0&yPos=371&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-28T06:36:54Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Ubi kayu reimagined: Turning backyard harvests into healthier, future‑proof food products",
-        "description": "KUCHING, June 28 — For many families, finding food that is both nutritious and suitable for specific dietary needs can be a daily challenge.As awareness of gluten intolerance and...",
-        "url": "https://www.malaymail.com/news/life/2026/06/28/ubi-kayu-reimagined-turning-backyard-harvests-into-healthier-futureproof-food-products/225512",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/28/349060.jpg",
-        "publishedAt": "2026-06-28T05:37:01Z",
-        "source": "Malay Mail"
+        "title": "Enova International Stock Rockets 22% With 8-Day Winning Streak",
+        "description": "Enova International (ENVA) - a provider of online installment loans and credit services - hit a 8-day winning streak, with cumulative gains over this period amounting to 22%. The company's market cap has surged by about $1.0 Bil over the last 8 days and currently stands at $5.7 Bil.",
+        "url": "https://www.trefis.com/stock/enva/articles/604926/enova-international-stock-rockets-22-with-8-day-winning-streak/2026-06-28",
+        "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/09/08072649/banknotes-946395_1920.jpg",
+        "publishedAt": "2026-06-28T06:36:53Z",
+        "source": "Trefis"
       },
       {
-        "title": "Tata Sierra EV Interior Teased: Hints at Possible Claimed Range",
-        "description": "The prices of the 2026 Sierra Electric will be revealed on 30 June.",
-        "url": "https://www.carwale.com/news/tata-sierra-ev-interior-teased-hints-at-possible-claimed-range/",
-        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/223710/sierra-ev-exterior-left-front-three-quarter.jpeg?isig=0&art=1&q=80",
-        "publishedAt": "2026-06-28T05:34:03Z",
-        "source": "CarWale"
+        "title": "Major update on new UK Aldi stores as plans submitted",
+        "description": "Aldi has revealed plans to build new stores in various locations across the UK and confirmed 16 new openings in the coming months.",
+        "url": "https://www.express.co.uk/news/uk/2220682/new-aldi-stores-plans-submitted",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6998118.jpg",
+        "publishedAt": "2026-06-28T06:33:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Tencent Trials TenPayGo Pay App as Foreign Visits to China Rise",
-        "description": "Tencent Holdings Ltd. is testing an app aimed at helping overseas visitors navigate daily life in China, Jiemian News reported on Sunday.",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-28/tencent-trials-tenpaygo-pay-app-as-foreign-visits-to-china-rise",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijXXHpI_EHWU/v0/1200x800.jpg",
-        "publishedAt": "2026-06-28T05:30:00Z",
-        "source": "Bloomberg"
+        "title": "GST at 10: Focus shifts from rollout to smarter, AI-powered tax administration",
+        "description": "The Centre is increasingly using technology to reduce compliance costs, speed up refunds and strengthen enforcement through integration of GST, income tax and customs databases.",
+        "url": "https://www.moneycontrol.com/news/business/gst-at-10-focus-shifts-from-rollout-to-smarter-ai-powered-tax-administration-13960351.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2024/08/20240827103435_GST-shutterstock-new.jpg",
+        "publishedAt": "2026-06-28T06:30:36Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Asia's vendors grapple with rising costs of ever-present plastics",
-        "description": "TAIPEI — Food vendors across Asia who rely on plastics for everything from bags to cups and containers are grappling with their rising costs, the result of the energy crisis sparked by the Middle East war.",
-        "url": "https://www.manilatimes.net/2026/06/28/world/asias-vendors-grapple-with-rising-costs-of-ever-present-plastics/2374284",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/28/1116457.jpg",
-        "publishedAt": "2026-06-28T05:19:00Z",
-        "source": "The Manila Times"
+        "title": "Seater Coming To Rival The Mahindra XUV7XO » MotorOctane",
+        "description": "Nissan will launch a new 7-seater based on the Tekton SUV soon in India. What all things will this new 7-seater have? Let's have a look",
+        "url": "https://motoroctane.com/news/316353-new-japanese-7-seater-coming-to-rival-the-mahindra-xuv7xo",
+        "image": "https://motoroctane.com/wp-content/uploads/2026/06/New-Nissan-7-Seater-5.jpg",
+        "publishedAt": "2026-06-28T06:30:10Z",
+        "source": "MotorOctane"
       },
       {
-        "title": "Grayscale Research Suggests Selling Over $3 Billion in Bitcoin to Improve Capital Structure",
-        "description": "According to ChainCatcher, Zach Pandl, Head of Research at Grayscale Research, suggested that instead of raising the dividend rate on STRC preferred shares by 5",
-        "url": "https://www.kucoin.com/news/flash/grayscale-research-suggests-strategy-sell-over-3-billion-in-bitcoin-to-improve-capital-structure",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-06-28T05:11:54Z",
-        "source": "KuCoin"
+        "title": "EPFO update: Want to check status, passbook? Official portal, Umang app to be available this week - Check dates, details",
+        "description": "The EPFO is conducting a system upgrade, rendering its portal and Umang app inaccessible from June 26. This upgrade intends to improve reliability and service speed for subscribers. Check here for when services are set to resume…",
+        "url": "https://www.livemint.com/money/personal-finance/epfo-check-account-status-savings-passbook-official-portal-umang-app-services-available-week-date-1-july-software-update-11782626369444.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/28/1600x900/logo/epfo_1758886786541_1758886794727_1782627783500_56d63383-a71a-40a9-9396-bfb6c5f38e18.png",
+        "publishedAt": "2026-06-28T06:23:50Z",
+        "source": "Mint"
       }
     ],
     "science": [
+      {
+        "title": "In an ancient Martian river channel, Perseverance drilled into a mudstone called Cheyava Falls and found tiny “leopard spot” minerals tangled with organic carbon — patterns that, on Earth, can be left",
+        "description": "A drilled rock core from an ancient Martian river channel has given Perseverance scientists one of the mission’s most interesting and difficult findings: a mudstone sample where organic carbon sits alongside small mineral patterns that, on Earth, can be associated with microbial activity. The sample came from a rock called Cheyava Falls in the Bright […]",
+        "url": "https://spacedaily.com/t-in-an-ancient-martian-river-channel-perseverance-drilled-into-a-mudstone-called-cheyava-falls-and-found-tiny-leopard-spot-minerals-tangled-with-organic-carbon-patterns-tha/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/spacedaily_cheyava_falls_nasa.jpg",
+        "publishedAt": "2026-06-28T06:30:19Z",
+        "source": "Space Daily"
+      },
       {
         "title": "Listening to the One Place That Swallows Everything",
         "description": "The event horizon of a black hole should be impossible to study. It’s the point of no return, the boundary where gravity grows so strong that not even light can escape, so by definition nothing can carry word of it back to us. Yet a team of scientists have found a way to reach it and found a hidden signal, a faint trace, never read before, carrying information from the very edge of the horizon in the instant before it formed. From it they measured the new black hole's spin and surface gravity, and opened a fresh way to test whether Einstein's theory survives in the most extreme gravity there is.",
@@ -190,80 +198,72 @@
         "image": "https://satelliteprome.com/wp-content/uploads/2018/12/contract-signing.jpg",
         "publishedAt": "2026-06-28T01:53:02Z",
         "source": "SatellitePro ME"
-      },
-      {
-        "title": "A rare supernova peeled back a star’s layers and revealed a hidden secret",
-        "description": "Astronomers studying the rare supernova SN 2021yfj discovered material from one of the deepest layers of a dying star, providing a rare look at its hidden interior. The finding confirms key theories about how massive stars forge the elements that help build planets, worlds, and life.",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260616103133.htm",
-        "image": "https://www.sciencedaily.com/images/1920/supernova-2021yfj.webp",
-        "publishedAt": "2026-06-28T01:16:26Z",
-        "source": "ScienceDaily"
       }
     ],
     "ai": [
       {
-        "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-        "description": "Several other Google clients have also been affected, though to a lesser extent. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/google-limits-metas-use-of-its-gemini-ai-models-ft-reports",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/744cc8bac1abdfebca45131b9f5d836a6934ead866f84ddf16d23efe517e9385",
-        "publishedAt": "2026-06-28T05:43:00Z",
-        "source": "The Straits Times"
+        "title": "Google limits Meta's access to Gemini AI models amid computing capacity crunch: Reports",
+        "description": "Google has reportedly restricted Meta's access to its Gemini AI models after the social media company sought more computing capacity than the tech giant could provide, delaying some of Meta's AI projects",
+        "url": "https://www.firstpost.com/tech/google-limits-metas-access-to-gemini-ai-models-amid-computing-capacity-crunch-reports-ws-e-14027007.html",
+        "image": "https://images.firstpost.com/uploads/2026/06/image-2026-06-b5aa48bc78a00cd6556acb5ad22102b2-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-06-28T06:43:30Z",
+        "source": "Firstpost"
+      },
+      {
+        "title": "Palantir: Recreating My Reverse DCF Model After A Year Since Turning Bearish",
+        "description": "With the expansion into the commercial sector, Palantir has emerged as an enterprise AI name to reckon with. Read why I maintain my bearish view on PLTR stock.",
+        "url": "https://seekingalpha.com/article/4918300-palantir-recreating-my-reverse-dcf-model-after-a-year-since-turning-bearish",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1426101020/image_1426101020.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-06-28T06:41:53Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "led compliance, faster refunds, simpler tax processes",
+        "description": "NEW DELHI, June 28:  As India enters the tenth year of rollout of the Goods and Services Tax, the focus is shifting from implementation to efficiency through use of artificial intelligence, data sharing and process simplification to reduce compliance costs,...",
+        "url": "https://www.dailyexcelsior.com/as-gst-turns-10-focus-shifts-to-ai-led-compliance-faster-refunds-simpler-tax-processes/",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTZhOGQ5ZGMwLTcyYmMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+        "publishedAt": "2026-06-28T06:41:38Z",
+        "source": "Daily Excelsior"
+      },
+      {
+        "title": "AI-generated blasphemy spark protests in Chhattisgarh: Jesus depicted as 'Father of Hindu Deities’",
+        "description": "Representatives from various Hindu outfits—including the Vishwa Hindu Parishad (VHP), Bajrang Dal, and Dharmasena—staged massive protests in Raipur.",
+        "url": "https://www.newindianexpress.com/india/2026/Jun/28/ai-generated-blasphemy-spark-protests-in-chhattisgarh-jesus-depicted-as-father-of-hindu-deities-2",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2025-02-13%2Fp8ce8suo%2FAI-risk.jpg?rect=0%2C19%2C751%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-06-28T06:41:22Z",
+        "source": "The New Indian Express"
+      },
+      {
+        "title": "AI-generated videos depicting Jesus as 'father of Hindu deities' spark protests in Chhattisgarh",
+        "description": "Representatives from various Hindu outfits—including the Vishwa Hindu Parishad (VHP), Bajrang Dal, and Dharmasena—staged massive protests in Raipur.",
+        "url": "https://www.newindianexpress.com/india/2026/Jun/28/ai-generated-videos-depicting-jesus-as-father-of-hindu-deities-spark-protests-in-chhattisgarh",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2025-02-13%2Fp8ce8suo%2FAI-risk.jpg?rect=0%2C19%2C751%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-06-28T06:41:22Z",
+        "source": "The New Indian Express"
+      },
+      {
+        "title": "Ketan Siya horror is turning from grief into spectacle with AI edits",
+        "description": "Indian society is no stranger to violence. But every time a woman turns out to be the perpetrator, our world descends into mayhem.",
+        "url": "https://theprint.in/opinion/pov/ketan-siya-murder-case-ai-edits/2971767/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/06/ketan-agarwal-death-ai-edit.jpg",
+        "publishedAt": "2026-06-28T06:38:51Z",
+        "source": "ThePrint"
+      },
+      {
+        "title": "Employers across globe continue to have confidence in MBA graduates despite AI boom: GMAC report",
+        "description": "Global employers maintain strong faith in MBA graduates, with over half believing business degrees are more crucial than ever as technology advances. While AI's impact is acknowledged, human skills like communication and adaptability are highly valued. However, a growing concern among recruiters is a perceived decline in professionalism among recent graduates, impacting perceptions across various industries.",
+        "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/employers-across-globe-continue-to-have-confidence-in-mba-graduates-despite-ai-boom-gmac-report/articleshow/132046604.cms",
+        "image": "https://img.etimg.com/thumb/msid-132046634,width-1200,height-630,imgsize-13484,overlay-etcareers/articleshow.jpg",
+        "publishedAt": "2026-06-28T06:35:00Z",
+        "source": "The Economic Times"
       },
       {
         "title": "Google limits Meta’s use of its Gemini AI models: Report",
-        "description": "Google has limited Meta's access to its Gemini AI models due to high demand. This has disrupted Meta's internal AI projects and affected other Google clients. Despite growing Google Cloud revenue, computing power constraints hindered further growth in the sector.",
-        "url": "https://www.livemint.com/technology/tech-news/google-limits-meta-s-use-of-its-gemini-ai-models-11782624880463.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/28/1600x900/logo/Gemini_1779223705562_1779223705828_9e98d843-2b29-49aa-8b26-6ae0670c2123_1782624930090_81c252d4-31bd-419e-821e-a05713692ff9.png",
-        "publishedAt": "2026-06-28T05:41:08Z",
-        "source": "Livemint"
-      },
-      {
-        "title": "He grew up without internet or a smartphone: The Karnataka village boy who built Pixxel and won a NASA contract",
-        "description": "News News: Long before high-speed internet and AI tools became part of students' daily lives, learning often depended on whatever books were available. For one b.",
-        "url": "https://timesofindia.indiatimes.com/education/news/he-grew-up-without-internet-or-a-smartphone-the-karnataka-village-boy-who-built-pixxel-and-won-a-nasa-contract/articleshow/132046103.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132046092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-06-28T05:41:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Google limits Meta’s use of its Gemini AI models",
-        "description": "Google restricts Meta's access to Gemini AI models, impacting Meta's projects and prompting efficiency measures for AI token usage.",
-        "url": "https://www.thehindubusinessline.com/info-tech/google-limits-metas-use-of-its-gemini-ai-models/article71157131.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/vqt5wp/article71157136.ece/alternates/LANDSCAPE_1200/2026-06-05T185333Z_797432892_RC2UNLAT6PLE_RTRMADP_3_MICROSOFT-AI.JPG",
-        "publishedAt": "2026-06-28T05:29:37Z",
-        "source": "The Hindu Business Line"
-      },
-      {
-        "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-        "description": "Google has put limits on Meta’s use of its Gemini AI ​models after the social media company sought more ‌computing capacity than the rival tech group could provide, the Financial Times reported on Sunday.",
-        "url": "https://www.reuters.com/business/google-limits-metas-use-its-gemini-ai-models-ft-reports-2026-06-28/",
-        "image": "https://www.reuters.com/resizer/v2/OCDHM7FT2VLV3D27AN5OOCLC24.jpg?auth=9d2122fd50172316dac6ab3fd0c79ccbe1f957bc59e821c8dd212c30e0b01051&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-06-28T05:23:27Z",
-        "source": "Reuters"
-      },
-      {
-        "title": "NSW to give $34 million boost to shark-spotting drones with hope of eventual AI automation",
-        "description": "Under the expanded monitoring program, 72 beaches will now have a fleet of drones watching over them 365 days a year.",
-        "url": "https://www.sbs.com.au/news/article/nsw-to-give-34-million-boost-to-shark-spotting-drones-with-hope-of-eventual-ai-automation/0tkspb2my",
-        "image": "https://assets.sbs.com.au/dims4/default/3e6c17e/2147483647/strip/true/crop/8192x4608+0+627/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3c%2F8e%2F43b00d264562acfc3099a6591c7f%2F20260615190914903798-original.jpg",
-        "publishedAt": "2026-06-28T05:18:50Z",
-        "source": "SBS Australia"
-      },
-      {
-        "title": "AI Titans Clash: Google's Computing Limitations Impact Meta's Ambitious Plans",
-        "description": "Google has imposed limits on Meta's use of its Gemini AI models due to high demand. This has disrupted Meta's AI projects. Google Cloud faced similar constraints, affecting its growth. Both companies are struggling to secure sufficient computing power for expanding AI needs.",
-        "url": "https://www.devdiscourse.com/article/technology/3941819-ai-titans-clash-googles-computing-limitations-impact-metas-ambitious-plans",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png&width=920&format=jpeg",
-        "publishedAt": "2026-06-28T05:18:14Z",
-        "source": "Devdiscourse"
-      },
-      {
-        "title": "Anthropic's Mythos 5 Is Back For Some Users: What It Means For The Rest Of The World",
-        "description": "The US has restored limited access to Anthropic's Mythos 5 AI after security concerns. Here's what changed and why it matters for the rest of the world., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/anthropics-mythos-5-is-back-for-some-users-what-it-means-for-the-rest-of-the-world-article-154783108",
-        "image": "https://images.timesnownews.com/thumb/msid-154783108,width-1280,height-720,resizemode-75/154783108.jpg",
-        "publishedAt": "2026-06-28T05:17:21Z",
-        "source": "Times Now"
+        "description": "Google, owned by Alphabet, told Meta around March it could not meet the full Gemini capacity the company had sought to purchase, the newspaper said, adding that the shortfall disrupted and delayed some of Meta’s internal AI projects.",
+        "url": "https://www.cnbctv18.com/technology/google-limits-meta-use-of-its-gemini-ai-models-ft-reports-19933587.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-8c8e303934a8f89f371bc8ed2166beec.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-06-28T06:34:20Z",
+        "source": "CNBC TV18"
       }
     ]
   }
