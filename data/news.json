@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-29T11:58:39.685Z",
+  "fetchedAt": "2026-06-29T13:47:32.747Z",
   "sections": {
     "world": [
       {
-        "title": "Environmental law reforms: implications of upcoming changes",
-        "description": "The environmental compliance landscape changes on 1 July 2026, with the next stage of reforms to the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act) set to commence.",
-        "url": "https://www.corrs.com.au/insights/environmental-law-reforms-implications-of-upcoming-changes",
-        "image": "https://d2fi7dc9mgt8bm.cloudfront.net/images/banners/_1200x630_crop_center-center_none/Article-Environmental-law-reforms-implications-of-upcoming-changes.jpg",
-        "publishedAt": "2026-06-28T23:56:40Z",
-        "source": "Corrs Chambers Westgarth"
+        "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
+        "description": "Pakistan conducts ground operation along Afghan border, killing 29 militants in strikes against terrorist hideouts.",
+        "url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece",
+        "image": "https://th-i.thgim.com/public/incoming/qoeudr/article71159897.ece/alternates/LANDSCAPE_1200/2026-02-26T174628Z_2041115548_RC29CHA1B9AW_RTRMADP_3_AFGHANISTAN-PAKISTAN.JPG",
+        "publishedAt": "2026-06-29T01:44:01Z",
+        "source": "The Hindu"
       },
       {
-        "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
-        "description": "Russian president says he expects to host US representatives once Middle East crisis eases; Siberian region of Irkutsk sets 50-litre limit at state-run outlets. What we know on day 1,586",
-        "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia",
-        "image": "https://i.guim.co.uk/img/media/c4824dc008abedc3b516c9f09eec3626dda0c5a1/353_121_2997_2398/master/2997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd7b247b3a872429f278fc38855d6bba",
-        "publishedAt": "2026-06-28T23:55:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Sweet tooth stick up: Premium-grade durian carted away by machete-wielding robbers in Melaka",
-        "description": "Police arrested four men and seized three mobile phones and the getaway car. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/sweet-tooth-stick-up-premium-grade-durian-carted-away-by-machete-wielding-robbers-in-melaka",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4356264cccf070df8ba401f2b4b1fb08a15e8d2aa0d06aece07fb16bc55be55c",
-        "publishedAt": "2026-06-28T23:45:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Can the so-called nanobubbler save the Reflecting Pool?",
-        "description": "The $1.7 million “ozone nanobubbler” being used in an effort to make the Lincoln Memorial Reflecting Pool water crystal clear has a unique ability to shoot 500 million microscopic bubbles into every teaspoon of water. The injected oxygen is supposed to oxidize — or, unscientifically speaking, smash through — algae, bacteria and other chemicals.",
-        "url": "https://www.cnn.com/2026/06/28/politics/reflecting-pool-nanobubbler",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2283055279.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-06-28T23:42:31Z",
-        "source": "CNN"
-      },
-      {
-        "title": "Putin says Russia will press on with front-line campaign regardless of Ukraine proposals",
-        "description": "June 28 (Reuters) - President Vladimir Putin said on Sunday that Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting what he said was a new proposal b...",
-        "url": "https://uk.news.yahoo.com/putin-says-russia-press-front-233016868.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/63ba54e7db028769cab145e528e30a160e173ab732523c4bb6b79be48ece202a/lightyear_networkapi/resizefill_w800_h550;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F36933e9edde8d721d12dba4652b17dc8",
-        "publishedAt": "2026-06-28T23:30:16Z",
-        "source": "Yahoo News UK"
-      },
-      {
-        "title": "Iran and US agree to halt attacks and renew talks, US official says",
-        "description": "A return to diplomacy would follow several days of strikes and counterstrikes since an Iranian projectile hit a Singapore-flagged cargo vessel in the Strait of Hormuz last week.",
-        "url": "https://www.channelnewsasia.com/world/iran-and-us-agree-halt-attacks-and-renew-talks-us-official-says-6216976",
-        "image": "https://dam.mediacorp.sg/image/upload/s--YRABROVM--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/28/iran_war_us_strike.jpg?itok=Yu3GHZvz",
-        "publishedAt": "2026-06-28T23:28:00Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Nigeria, Tanzania, Ethiopia Lead Africa Electrification Surg",
-        "description": "Nigeria, Tanzania, and Ethiopia are at the forefront of Africa's electrification surge, connecting over 50 million people to power, a new World Bank report",
-        "url": "https://punchng.com/nigeria-tanzania-ethiopia-lead-africa-electrification-surge-report/",
-        "image": "https://punchng.com/wp-content/uploads/2026/06/electricity_1782688894.webp",
-        "publishedAt": "2026-06-28T23:25:24Z",
+        "title": "Nigerian faces trial in Canada for child sexual assault",
+        "description": "A Canada-based Nigerian, Idris Olajide Oladejo, faces trial in Toronto for suspected child sexual assault. Get details on the charges and ongoing investiga",
+        "url": "https://punchng.com/canada-based-nigerian-faces-trial-for-suspected-child-sexual-assault/",
+        "image": "https://punchng.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-01.23.03_1782692668-1057x630.webp",
+        "publishedAt": "2026-06-29T01:43:18Z",
         "source": "Punch Newspapers"
       },
       {
-        "title": "Hedging against America, ordering in a time of disorder",
-        "description": "Strategic Analysis Australia",
-        "url": "https://strategicanalysis.org/hedging-against-america-ordering-in-a-time-of-disorder/",
-        "image": "https://strategicanalysis.org/wp-content/uploads/2026/06/Hedging-against-US-power-small.jpg",
-        "publishedAt": "2026-06-28T23:21:44Z",
-        "source": "Strategic Analysis Australia"
+        "title": "Iranian Strikes Caused Greater Damage To US Bases Than Disclosed, Rebuilding Could Cost Millions",
+        "description": "Iranian strikes caused wider damage to US bases than disclosed, prompting a Pentagon review of its Middle East footprint amid continuing regional tensions.",
+        "url": "https://www.news18.com/world/iran-us-military-bases-damage-investigation-iran-missile-drone-attacks-bahrain-us-middle-east-footprint-pentagon-ws-l-10178865.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/06/MixCollage-29-Jun-2026-08-40-AM-9735-2026-06-dc3daa689aa4d65d1207dab5e1e656a2-1200x675.jpg",
+        "publishedAt": "2026-06-29T01:42:29Z",
+        "source": "News18"
+      },
+      {
+        "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
+        "description": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival",
+        "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+        "image": "https://i.guim.co.uk/img/media/0ad9444932cbdc7b734e1aa78743948490f618a8/204_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acb4fceade3058c21711edbea79054f1",
+        "publishedAt": "2026-06-29T01:42:00Z",
+        "source": "The Guardian"
+      },
+      {
+        "title": "\"Look Inwards\": India Slams Pak Over \"Baseless\" Karachi Attack Claims",
+        "description": "Pakistan has carried out airstrikes on eastern Afghanistan overnight, targeting terrorists in response to the deadly attack, the Pakistani information minister said.",
+        "url": "https://www.ndtv.com/world-news/look-inwards-india-rejects-pakistans-baseless-claims-over-karachi-attack-11700271",
+        "image": "https://c.ndtvimg.com/2026-04/q9jvm9o_-randhir-jaiswal_625x300_23_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-06-29T01:41:57Z",
+        "source": "NDTV"
+      },
+      {
+        "title": "For sale on Facebook: monkeys, rhino horn and dead pangolins",
+        "description": "The ghostly white creature curled up on a weighing scale is almost unrecognisable in the Facebook post offering it for sale. Only closer inspection reveals it to be a dead pangolin.",
+        "url": "https://www.france24.com/en/live-news/20260629-for-sale-on-facebook-monkeys-rhino-horn-and-dead-pangolins",
+        "image": "https://s.france24.com/media/display/9aa8d26e-735b-11f1-bc04-005056a90284/w:1280/p:16x9/6608051883d8034a691762de6cbfa94bac567c22.jpg",
+        "publishedAt": "2026-06-29T01:41:11Z",
+        "source": "France 24"
+      },
+      {
+        "title": "For sale on Facebook: monkeys, rhino horn and dead pangolins",
+        "description": "The ghostly white creature curled up on a weighing scale is almost unrecognisable in the Facebook post offering it for sale.Some of the content is oblique -- vendors often post images of animals or pa...",
+        "url": "https://www.yahoo.com/news/world/articles/sale-facebook-monkeys-rhino-horn-013951220.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/962330d55f09c749cfaf7af1303c20515dea9921a251452fe1ab41d85a307a77/lightyear_networkapi/resizefill_w768_h512;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa9dd571ea5469c90e0ff330c102ed0aa",
+        "publishedAt": "2026-06-29T01:39:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "SL academic re-elected to UN CEDAW",
+        "description": "Professor Rangita De Silva De Alwis has been re-elected to the United Nations Committee on the Elimination of All Forms of Discrimination Against Women (CEDAW) for the 2027–2030 term, securing the highest number of votes in the election held in New York.",
+        "url": "https://www.themorning.lk/articles/HPyEgZg96WOb8PjIiYJi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/the-morning-39270.appspot.com/o/articles%2FHPyEgZg96WOb8PjIiYJi?alt=media&token=73891c7b-150c-4d3a-9131-25180ff34852",
+        "publishedAt": "2026-06-29T01:37:47Z",
+        "source": "The Morning"
       }
     ],
     "business": [
       {
-        "title": "American Water (AWK) Lands 2026 Sustainability Honor As Water Quality Efforts Stand Out",
-        "description": "American Water Works Company (NYSE:AWK) has been recognized among the World's Most Sustainable Companies in 2026.\nThe company is highlighting community engagement programs and recent water quality achievements alongside this recognition.\nThe stock most recently closed at $132.68.\nAmerican Water Works Company, trading under NYSE:AWK, is drawing fresh attention after being named one of the World's Most Sustainable Companies in 2026. This recognition comes alongside recent community engagement...",
-        "url": "https://simplywall.st/stocks/us/utilities/nyse-awk/american-water-works/news/american-water-awk-lands-2026-sustainability-honor-as-water",
-        "image": "https://images.simplywall.st/asset/industry/9551000-choice1-main-header/1585186812028",
-        "publishedAt": "2026-06-28T23:54:12Z",
-        "source": "simplywall.st"
+        "title": "Harbour BioMed Appoints Dr. Lloyd Klickstein as Scientific Advisor for Immunology",
+        "description": "**media[1116851]**CAMBRIDGE, Mass., ROTTERDAM, Netherlands and SHANGHAI, June 29, 2026 /PRNewswire/ -- Harbour BioMed (the 'Company'; HKEX: 02142), a global biopharmaceutical company committed to the discovery and development of novel antibody therapeutics in immunology, oncology and other disease areas, today announced the appointment of Dr. Lloyd Klickstein as Scientific Advisor for Immunology. Dr. Klickstein brings more than two decades of leadership experience spanning biopharmaceutical innovation, translational research, and clinical medicine. He is a globally recognized rheumatologist and immunologist and currently serves as Chief Executive Officer of Koslapp Therapeutics. He co-founded Versanis Bio, where he held multiple executive leadership positions before the company was acquired by Eli Lilly and Company. Before that, he served as Chief Innovation Officer at Adicet Bio and Chief Scientific Officer of resTORbio (Adicet's predecessor company), and was an independent board member of Blade Therapeutics. Prior to that, he spent more than a decade at Novartis, where he led the New Indications Discovery Unit within the Novartis Institutes for BioMedical Research, focused on identifying and evaluating novel therapeutic targets. Before transitioning to industry, Dr. Klickstein was a physician-scientist at Harvard Medical School's Brigham and Women's Hospital, where he led an NIH-funded basic science laboratory while maintaining a clinical practice.",
+        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/pr-newswire/harbour-biomed-appoints-dr-lloyd-klickstein-as-scientific-advisor-for-immunology/2374459",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1116850.jpg",
+        "publishedAt": "2026-06-29T01:47:29Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Honda Motor (TSE:7267) Backed CEO Mibe Following Annual Loss as Undervalued Narrative Holds",
-        "description": "Why Honda Motor stock is in focus after shareholder backing for CEO Mibe\nHonda Motor (TSE:7267) is back in the spotlight after shareholders strongly backed CEO Toshihiro Mibe, even as the company reported its first annual loss since listing, driven by a sizeable electric vehicle restructuring charge.\nThis shareholder vote matters for investors because it signals support for Honda Motor’s current leadership and revised electric vehicle direction, despite the impact of weaker U.S. demand and...",
-        "url": "https://simplywall.st/stocks/jp/automobiles/tse-7267/honda-motor-shares/news/honda-motor-tse7267-backed-ceo-mibe-following-annual-loss-as",
-        "image": "https://images.simplywall.st/asset/industry/4021000-choice2-main-header/1585186704391",
-        "publishedAt": "2026-06-28T23:53:59Z",
-        "source": "simplywall.st"
+        "title": "JCB and PNB Launch New Platinum Credit Card, Empowering Consumers with Greater Value and Lifestyle Benefits",
+        "description": "The new PNB and JCB platinum credit card features flexible payment options and enhanced rewards for everyday transactions.",
+        "url": "https://fintechnews.ph/71998/lending/pnb-jcb-platinum-credit-card-launch/",
+        "image": "https://fintechnews.ph/wp-content/uploads/2026/06/PNB-JCB-Platinum-Credit-Card.webp",
+        "publishedAt": "2026-06-29T01:47:26Z",
+        "source": "Fintech News Philippines"
       },
       {
-        "title": "Nokia (HLSE:NOKIA) Partners With Nvidia, AWS And Databricks On Telecom AI",
-        "description": "Nokia Oyj (HLSE:NOKIA) has announced an AI RAN partnership with Nvidia focused on 6G era cellular networks, with rollout targeted from 2027.\nThe company also expanded collaborations with Amazon Web Services and Databricks to develop telecom focused agentic AI frameworks and cloud native automation tools.\nNew AI agents and data platforms are being positioned for real time analytics, multi domain network intelligence, and productivity use cases for operators.\nNokia is a global telecom...",
-        "url": "https://simplywall.st/stocks/fi/tech/hel-nokia/nokia-oyj-shares/news/nokia-hlsenokia-partners-with-nvidia-aws-and-databricks-on-t",
-        "image": "https://images.simplywall.st/asset/industry/8111000-choice1-main-header/1585186745276",
-        "publishedAt": "2026-06-28T23:53:59Z",
-        "source": "simplywall.st"
+        "title": "BPI MS deepens support for Philippines' freelance economy",
+        "description": "The rapid rise of freelancing in the Philippines is creating new opportunities for independent workers, but it is also exposing them to financial and personal risks that traditional employees often do not face.",
+        "url": "https://insiderph.com/bpi-ms-deepens-support-for-philippines-freelance-economy",
+        "image": "https://insiderph.com/uploads/articles/thumb_1782696802787_4a75lcx8i1se9jvytnkm-800x600.webp?v=1",
+        "publishedAt": "2026-06-29T01:46:35Z",
+        "source": "InsiderPH"
       },
       {
-        "title": "Anthropic Gets Greenlight From US to Restore Mythos Access",
-        "description": "Anthropic has received government approval to restore some access to its Mythos 5 AI model after resolving White House concerns.",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-gets-greenlight-from-us-to-restore-mythos-access/",
-        "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Anthropic-Mythos-OKd-1.jpg",
-        "publishedAt": "2026-06-28T23:53:58Z",
-        "source": "PYMNTS.com"
+        "title": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million",
+        "description": "Chinese self-driving technology firm Momenta Global launched its Hong Kong initial public offering on Monday, seeking to raise up to HK$5.89 billion , according to its prospectus.\nThe...",
+        "url": "https://www.marketscreener.com/news/china-s-momenta-kicks-off-hong-kong-ipo-targets-up-to-751-million-ce7f5fded88fff25",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-15T024928Z_1_LYNXMPEL6E02K_RTROPTP_4_MOMENTA-AUTONOMOUS-FUNDRAISING.JPG",
+        "publishedAt": "2026-06-29T01:46:18Z",
+        "source": "marketscreener.com"
       },
       {
-        "title": "Everest Medicines' LEROCHOL® BLA Accepted in China for Third",
-        "description": "Everest Medicines' LEROCHOL® BLA Accepted in China for Third-Generation PCSK9 Inhibitor",
-        "url": "https://biopharmaapac.com/news/31/8107/everest-medicines-lerochol-bla-accepted-in-china-for-third-generation-pcsk9-inhibitor.html",
-        "image": "https://biopharmaapac.com/uploads/articles/images_1-8107.jpg",
-        "publishedAt": "2026-06-28T23:52:13Z",
-        "source": "BioPharma APAC"
+        "title": "Is it still worth collecting Hilton points on stays?",
+        "description": "A reader asked if it's still worth collecting Hilton points when staying with them, or if you should book through other avenues.",
+        "url": "https://frequentmiler.com/is-it-still-worth-collecting-hilton-points-on-stays/",
+        "image": "https://frequentmiler.com/wp-content/uploads/2026/06/Hilton-points-vs-Rove-Miles.jpg",
+        "publishedAt": "2026-06-29T01:45:15Z",
+        "source": "Frequent Miler"
       },
       {
-        "title": "Australia news LIVE: One Nation support stalls in new poll, Australian man suspected of murdering teenager in Thailand",
-        "description": "We bring you the latest national news live.",
-        "url": "https://www.theage.com.au/national/australia-news-live-australian-man-charged-with-murder-in-thailand-state-and-territory-debt-interest-balloons-20260629-p60as8.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2794%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_479/t_crop_custom/q_86%2Cf_auto/aea91618edd046b2e06322f3c5713c3d9530b0b6",
-        "publishedAt": "2026-06-28T23:49:17Z",
-        "source": "The Age"
+        "title": "BlueBay sees near-term risk in Japan AI stocks followed by rally",
+        "description": "AI-related shares are likely to correct over the next two months but the sector may rebound next year on the prospect of favorable U.S. policy measures, says one portfolio manager.",
+        "url": "https://www.japantimes.co.jp/business/2026/06/29/companies/bluebay-asset-japan-ai-shares-bullish/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548703.jpg?v=3.1",
+        "publishedAt": "2026-06-29T01:45:00Z",
+        "source": "The Japan Times"
       },
       {
-        "title": "TeraWulf (WULF) Is Buying Kentucky’s Muskie Data Campus For AI And HPC",
-        "description": "TeraWulf (NasdaqCM:WULF) has agreed to acquire the Muskie Data Campus in Kentucky.\nThe site is intended to support high-performance computing and artificial intelligence focused infrastructure.\nThe transaction reflects TeraWulf's move into hyperscale digital infrastructure beyond its existing operations.\nTeraWulf, known for its digital infrastructure and computing focused business, is adding the Muskie Data Campus in Kentucky to its portfolio. For investors watching how high-power...",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-wulf/terawulf/news/terawulf-wulf-is-buying-kentuckys-muskie-data-campus-for-ai",
-        "image": "https://images.simplywall.st/asset/industry/8041000-choice1-main-header/1585186668959",
-        "publishedAt": "2026-06-28T23:48:45Z",
-        "source": "simplywall.st"
+        "title": "track Chinese Refinery deal to slash",
+        "description": "The Independent Petroleum Marketers Association of Nigeria (IPMAN) has blamed the prolonged delay in concluding a technical equity partnership between the Nigerian National Petroleum Company Limited (NNPC) Limited and two Chinese firms for denying Nigerians the benefits of lower petrol prices and improved fuel supply.",
+        "url": "https://thesun.ng/marketers-to-nnpc-fast-track-chinese-refinery-deal-to-slash-petrol-prices/",
+        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/NNPCL.jpg",
+        "publishedAt": "2026-06-29T01:39:56Z",
+        "source": "The Sun Nigeria"
       },
       {
-        "title": "Amazon (AMZN) Settles $2.5 Billion FTC Case As Prime Day Draws Focus",
-        "description": "Amazon.com (NasdaqGS:AMZN) agreed to a US$2.5b antitrust settlement with the US Federal Trade Commission related to alleged misconduct around Prime subscription practices.\nThe company reported that its India operations have reached a water positive status one year ahead of schedule.\nAmazon announced a partnership with ThunderSoft to bring intelligent voice AI to automotive original equipment manufacturers.\nThese developments coincide with a key Prime Day event that is drawing attention to...",
-        "url": "https://simplywall.st/stocks/us/retail/nasdaq-amzn/amazoncom/news/amazon-amzn-settles-25-billion-ftc-case-as-prime-day-draws-f",
-        "image": "https://images.simplywall.st/asset/company-cover/18749-main-header/1756215553666",
-        "publishedAt": "2026-06-28T23:48:45Z",
-        "source": "simplywall.st"
+        "title": "Ikeja Electric names Onyelucheya acting CEO",
+        "description": "Ikeja Electric has announced the appointment of Mrs Ogochukwu Onyelucheya, as its Acting Chief Executive Officer, effective 1 July 2026. The company described the appointment as a strategic move to strengthen its leadership to accelerate growth, innovation, and service excellence across the power sector value chain.",
+        "url": "https://thesun.ng/ikeja-electric-names-onyelucheya-acting-ceo/",
+        "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/pix3.jpg",
+        "publishedAt": "2026-06-29T01:39:56Z",
+        "source": "The Sun Nigeria"
       }
     ],
     "science": [
+      {
+        "title": "NASA Swift rescue mission spacecraft will bump telescope back into orbit",
+        "description": "US space agency NASA is racing to save an aging telescope, used to observe cosmic explosions, from falling back to Earth with a daring rescue mission.",
+        "url": "https://www.abc.net.au/news/2026-06-29/nasa-swift-telescope-rescue-mission-set-to-launch/106854708",
+        "image": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-29T01:43:46Z",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Cosmic Vortex: Direct wave from black hole collision confirms Einstein",
+        "description": "The loudest black hole merger event on record was detected last year. Known as GW250114, this collision has now provided an exceptionally clear view of a newly formed black hole",
+        "url": "https://www.dtnext.in/edit/cosmic-vortex-direct-wave-from-black-hole-collision-confirms-einstein",
+        "image": "https://media.assettype.com/dt-next%2F2026-06-28%2F8xm6i9ga%2Fblack-hole-edit.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-06-29T01:15:00Z",
+        "source": "DT Next"
+      },
+      {
+        "title": "Two faces of water",
+        "description": "Discover how AI helped uncover the dual nature of water, revealing its extraordinary behaviors and settling a long-standing scientific debate.",
+        "url": "https://www.thehindubusinessline.com/business-tech/two-faces-of-water/article71158871.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/92lpii/article71158872.ece/alternates/LANDSCAPE_1200/BL2906_Quantum_Wow.jpg",
+        "publishedAt": "2026-06-29T00:49:00Z",
+        "source": "BusinessLine"
+      },
+      {
+        "title": "July is the height of summer stargazing and the last chance for Manhattanhenge",
+        "description": "Fireworks won't be the only thing lighting up the night sky.",
+        "url": "https://gothamist.com/news/july-is-the-height-of-summer-stargazing-and-the-last-chance-for-manhattanhenge",
+        "image": "https://api-prod.gothamist.com/images/357851/fill-1200x650|format-webp|webpquality-85/",
+        "publishedAt": "2026-06-29T00:29:00Z",
+        "source": "Gothamist"
+      },
+      {
+        "title": "Solar storm stunned scientists by swelling far faster than expected",
+        "description": "Scientists observed a solar storm behaving in unexpected ways, forcing researchers to rethink how these eruptions evolve in space.",
+        "url": "https://www.earth.com/news/solar-storm-stunned-scientists-by-swelling-far-faster-than-expected/",
+        "image": "https://cff2.earth.com/uploads/2026/06/28173304/Solar-storm.jpg",
+        "publishedAt": "2026-06-29T00:22:30Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Researchers optimize AWJM parameters for Al6061 hybrid composites",
+        "description": "Editorial analysis: For ML practitioners applying supervised models to manufacturing processes, this paper demonstrates a compact workflow that pairs regression models with multi-criteria optimization to predict and tune abrasive water jet machining outcomes. According to a Scientific Reports preprint published 29 June 2026, the study evaluates **AWJM** performance of an **Al6061-0.5 wt.% B4C-1 wt.% ZrO2 hybrid composite** fabricated using ultrasonic-assisted stir casting. The article reports experimental ranges of material removal rate (MRR) **7.86 to 15.24 mm^3/min**, surface roughness (Ra) **3.220 to 3.980 um**, and kerf taper angle (KTA) **0.142 degrees to 0.309 degrees**. ANOVA results reported that abrasive flow rate (AFR) dominated MRR while abrasive jet cutting speed (AJCS) governed Ra and KTA. The paper applies a hybrid Grey Relational Analysis-Analytic Hierarchy Process (GRA-AHP) to optimize multiple objectives and develops `SVR`, `RF`, and `MLP` models to predict MRR, Ra, and KTA; the reported optimal AWJM setting was AFR **430 g/min**, WJP **280 MPa**, AJCS **80 mm/min**, SOD **1.5 mm**, and grit size **120 mesh**.",
+        "url": "https://letsdatascience.com/news/researchers-optimize-awjm-parameters-for-al6061-hybrid-compo-169dd902",
+        "image": "https://letsdatascience.com/lds_news_fallback_image.webp",
+        "publishedAt": "2026-06-29T00:00:00Z",
+        "source": "Let's Data Science"
+      },
+      {
+        "title": "NASA races to save Swift telescope from falling back to Earth with daring rescue mission",
+        "description": "NASA is racing to save an aging telescope from falling back to Earth with a daring rescue mission.",
+        "url": "https://www.newsnationnow.com/space/ap-nasa-races-to-save-swift-telescope-from-falling-back-to-earth-with-daring-rescue-mission/",
+        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/6a411b7b9962d6.84529079.jpeg?w=1280",
+        "publishedAt": "2026-06-28T23:59:56Z",
+        "source": "NewsNation"
+      },
       {
         "title": "In February 2023, a detector 3.5 kilometres beneath the Mediterranean caught the aftermath of the most energetic neutrino ever seen — a 220-petaelectronvolt ghost particle, roughly 16,000 times beyond",
         "description": "In February 2023, a single particle crossed a detector resting on the floor of the Mediterranean, and it carried more energy than any neutrino ever recorded. Two years of careful analysis later, the team behind the detector put a number on it: around 220 petaelectronvolts, roughly 16,000 times the energy of the most violent collisions […]",
@@ -142,128 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/06/deep-sea-light.jpg",
         "publishedAt": "2026-06-28T23:30:38Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Earthquake damage reaches much farther than scientists realized",
-        "description": "Scientists found that earthquake damage extends up to 60 miles from major faults, weakening rock and accelerating erosion.",
-        "url": "https://www.earth.com/news/earthquake-damage-reaches-much-farther-than-scientists-realized/",
-        "image": "https://cff2.earth.com/uploads/2026/06/28171234/Earthquake-damage-1000x750.jpg",
-        "publishedAt": "2026-06-28T23:24:34Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "New Research Traces Origins of Human Laughter",
-        "description": "New research by the University of Warwick and the University of Portsmouth shows that all great apes, from orangutans to gorillas to chimpanzees, share the same fundamental timing structure in their laughter.",
-        "url": "https://www.sci.news/biology/human-laughter-origins-14876.html",
-        "image": "https://cdn.sci.news/images/2026/06/image_14876-Laughter.jpg",
-        "publishedAt": "2026-06-28T23:03:45Z",
-        "source": "Sci.News"
-      },
-      {
-        "title": "Human Activity Fuels Retreat of Fastest Melting Glacier",
-        "description": "Human-driven climate change significantly intensified the retreat of one the most important glaciers in the Antarctica during the twentieth",
-        "url": "https://www.miragenews.com/human-activity-fuels-retreat-of-fastest-melting-1700602/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1587955415524-bb264e518428%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-06-28T23:02:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Professor Robert Thomson FREng Wins Royal Academy of Engineering Award",
-        "description": "Professor Robert Thomson FREng has won the Royal Academy of Engineering's The Princess Royal Silver Medal forhis photonic lantern.",
-        "url": "https://orbitaltoday.com/2026/06/29/professor-robert-thomson-freng-wins-royal-academy-of-engineering-award/",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/06/Total-Academy-of-ENg.jpg",
-        "publishedAt": "2026-06-28T23:00:21Z",
-        "source": "Orbital Today"
-      },
-      {
-        "title": "Human activity has driven retreat of Antarctica's fastest melting glacier",
-        "description": "Human-driven climate change significantly intensified the retreat of one of the most important glaciers in Antarctica during the 20th century. The Pine Island Glacier, which drains a large part of the West Antarctic Ice Sheet into the Amundsen Sea, is one of the biggest contributors to global sea level rise.",
-        "url": "https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/human-activity-has-dri.jpg",
-        "publishedAt": "2026-06-28T23:00:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Hubble Spots Two Galaxy Clusters in the Process of Merging",
-        "description": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight.",
-        "url": "https://www.universetoday.com/articles/hubble-spots-two-galaxy-clusters-in-the-process-of-merging",
-        "image": "https://www.universetoday.com/article_images/Hubble_CLG-001616_1_flat_V2_FINAL_20260628_225317.jpg",
-        "publishedAt": "2026-06-28T22:53:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "A cave in South America preserved a hidden warning from the last Ice Age",
-        "description": "A cave in Brazil warns that current global warming is progressing twice as fast as it did at the end of the Ice Age.",
-        "url": "https://www.earth.com/news/a-cave-in-south-america-preserved-a-hidden-warning-from-the-last-ice-age/",
-        "image": "https://cff2.earth.com/uploads/2026/06/26183155/cave-south-america-warning-last-ice-age.jpg",
-        "publishedAt": "2026-06-28T22:18:45Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
       {
-        "title": "GOKO M6 Successfully Debut at Spoga+gafa 2026, Showcasing the Next Step in AI-Powered Robotic Lawn Care",
-        "description": "Cologne, Germany, June 28, 2026 (GLOBE NEWSWIRE) -- GOKO announced that its AI-powered 4WD robotic lawn mower, the GOKO M6, made a successful appearance at Spoga+gafa 2026, where it drew strong attention from industry visitors, partners, and lawn care professionals. Showcasing advanced terrain adaptability, AI-powered Quad Vision, RTK + VSLAM navigation, and large-area mowing capability, the GOKO M6 highlighted a growing shift in the robotic lawn care market: homeowners are no longer looking for basic mower automation alone, but for intelligent robotic solutions capable of handling the real conditions of modern residential lawns.",
-        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/globenewswire/goko-m6-successfully-debut-at-spogagafa-2026-showcasing-the-next-step-in-ai-powered-robotic-lawn-care/2374439",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1116810.png",
-        "publishedAt": "2026-06-28T23:58:11Z",
+        "title": "BlueBay sees near-term risk in Japan AI stocks followed by rally",
+        "description": "AI-related shares are likely to correct over the next two months but the sector may rebound next year on the prospect of favorable U.S. policy measures, says one portfolio manager.",
+        "url": "https://www.japantimes.co.jp/business/2026/06/29/companies/bluebay-asset-japan-ai-shares-bullish/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548703.jpg?v=3.1",
+        "publishedAt": "2026-06-29T01:45:12Z",
+        "source": "The Japan Times "
+      },
+      {
+        "title": "Turbulence in Asian Markets Amid Middle East Ceasefire Doubts",
+        "description": "Asian stocks experienced volatility as hostilities between Iran and the U.S. paused, affecting interim peace. Oil prices rose due to uncertainty, while the dollar neared a one-year high. The market's lack of direction and fears over AI-related company valuations added to the choppiness in trading.",
+        "url": "https://www.devdiscourse.com/article/business/3941983-turbulence-in-asian-markets-amid-middle-east-ceasefire-doubts",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_10_2025_01_19_36_8785275.png&width=920&format=jpeg",
+        "publishedAt": "2026-06-29T01:39:19Z",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Cloudflare and beehiiv Introduce AI Crawl Controls to Help Independent Publishers Navigate the AI Era",
+        "description": "New integration embeds Cloudflare’s AI Crawl Control technology into beehiiv, allowing newsletter operators to seamlessly manage bot traffic, optimise for AI search discovery...",
+        "url": "https://itwire.com/business-it-news/cloud/cloudflare-and-beehiiv-introduce-ai-crawl-controls-to-help-independent-publishers-navigate-the-ai-era",
+        "image": "https://itwire.com/favicon.png",
+        "publishedAt": "2026-06-29T01:35:29Z",
+        "source": "iTWire"
+      },
+      {
+        "title": "Top US Professor Warns Drowning is Often Silent - Here's How to Protect Your Child",
+        "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Health, Times Now",
+        "url": "https://www.timesnownews.com/health/top-us-professor-warns-drowning-is-often-silent-heres-how-to-protect-your-child-article-154764299",
+        "image": "https://images.timesnownews.com/thumb/msid-154764299,width-1280,height-720,resizemode-75/154764299.jpg",
+        "publishedAt": "2026-06-29T01:30:00Z",
+        "source": "Times Now"
+      },
+      {
+        "title": "Invisible AI Tax: Is An Algorithm Secretly Deciding How Much You Pay?",
+        "description": "For decades, businesses have relied on dynamic pricing. They routinely raise prices when demand spikes. But AI has taken this a step further.",
+        "url": "https://www.ndtv.com/business-news/artificial-intelligence-product-pricing-online-shopping-consumer-profile-behaviour-tech-11700240",
+        "image": "https://c.ndtvimg.com/2025-05/o8has5ig_online-shopping_625x300_05_May_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-06-29T01:27:45Z",
+        "source": "NDTV.com"
+      },
+      {
+        "title": "AI Data Centers Become Political Flashpoint",
+        "description": "Opposition to massive AI data centers is emerging as an increasingly potent political issue, with residents in Florida joining a growing national backlash that recently helped topple one of Utah's most powerful Republican lawmakers.",
+        "url": "https://www.newsmax.com/us/artificial-intelligence-data-centers-political-issue/2026/06/28/id/1261150/",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6db30191-0d4c-4b5c-b94f-038127902fae&SiteName=Newsmax",
+        "publishedAt": "2026-06-29T01:27:22Z",
+        "source": "Newsmax"
+      },
+      {
+        "title": "Breaking High Friction Barriers: Wall Street Quant-Backed GigaMoney Introduces \"Brokerage 3.0\" Paradigm",
+        "description": "HONG KONG, June 29, 2026 /PRNewswire/ -- In June 2026, the Hong Kong Securities and Futures Commission (SFC) issued its latest circular to licensed financial institutions, urging the industry to accelerate its intelligent transformation while fully mitigating cybersecurity risks in the AI era. This milestone underscores that the application of fintech in the local market has officially entered a phase of stringent regulation focused on 'High-Quality Business Operations'.",
+        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/pr-newswire/breaking-high-friction-barriers-wall-street-quant-backed-gigamoney-introduces-brokerage-30-paradigm/2374455",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-06-29T01:27:22Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Google tells Meta it is going to limit Gemini access, not enough capacity available to serve AI",
-        "description": "Google has reportedly told Meta it cannot provide all the Gemini AI capacity it wants. The restrictions are now forcing the Facebook parent to rethink how it uses AI and has even limited its employees' AI usage.",
-        "url": "https://www.indiatoday.in/technology/news/story/google-tells-meta-it-is-going-to-limit-gemini-access-not-enough-capacity-available-to-serve-ai-2936282-2026-06-29",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/social-media-verdict-255157508-16x9.jpg?VersionId=RJPWdwRFZubFNOf6x5G5OEIJ7CZLaaf5",
-        "publishedAt": "2026-06-28T23:55:31Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Failure to Accept and React to a CHANGED AI WORLD Will Destroy Your Portfolio",
-        "description": "You may not be able to predict the changes but at least accept that change has already happened. It will help save your investments.",
-        "url": "https://www.nextbigfuture.com/2026/06/failure-to-accept-and-react-to-a-changed-ai-world-will-destroy-your-portfolio.html",
-        "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/06/Screenshot-2026-06-27-at-5.10.29-PM.jpg",
-        "publishedAt": "2026-06-28T23:50:40Z",
-        "source": "NextBigFuture.com"
-      },
-      {
-        "title": "AI Demand, War, & Climate Pressure Push World Back To Nuclear",
-        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-        "url": "https://www.zerohedge.com/energy/ai-demand-war-climate-pressure-push-world-back-nuclear",
-        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/2026-06-26_emcfuu83iz.jpg?itok=r9uRm7WE",
-        "publishedAt": "2026-06-28T23:50:00Z",
-        "source": "ZeroHedge"
-      },
-      {
-        "title": "GOKO M6 Successfully Debut at Spoga+gafa 2026, Showcasing",
-        "description": "After Germany Exhibition, GOKO M6 Highlights the Next Step in AI-Powered Robotic Lawn Care...",
-        "url": "https://www.globenewswire.com/news-release/2026/06/28/3318622/0/en/goko-m6-successfully-debut-at-spoga-gafa-2026-showcasing-the-next-step-in-ai-powered-robotic-lawn-care.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/69c830c8-9a04-4130-acff-eaf45bb5d7f9",
-        "publishedAt": "2026-06-28T23:45:53Z",
-        "source": "GlobeNewswire"
-      },
-      {
-        "title": "AI start-up Firmus to build data centre in Batam with Nvidia",
-        "description": "Firmus and Singapore-based DayOne will develop the data centre in Batam as part of an eight-year partnership with Nvidia. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/companies-markets/ai-start-up-firmus-to-build-data-centre-in-batam-with-nvidia",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b7d258836747eef18efcee16d82b2427b3763a4c444d68f057b61d5147929860",
-        "publishedAt": "2026-06-28T23:35:03Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "‘AI hoops’: NBA superstar at centre of trade storm sounds off after stunning claim",
-        "description": "‘AI hoops’: NBA superstar at centre of trade storm sounds off after stunning claim",
-        "url": "https://www.foxsports.com.au/basketball/nba/nba-jaylen-brown-hits-back-at-analytics-criticism-as-celtics-face-growing-trade-speculation-and-seventeam-interest-news-highlights/news-story/be09086a260aa5ff999e13a9fd11643d",
-        "image": "https://content.api.news/v3/images/bin/6eb371dd3ddcf79abac9cecd768b1768",
-        "publishedAt": "2026-06-28T23:30:39Z",
-        "source": "FOX SPORTS"
-      },
-      {
-        "title": "Fibocom and Digital Matter Accelerate Asset Tracking Deployments Across Global Markets",
-        "description": "PERTH, Australia, June 29, 2026 /PRNewswire/ -- Fibocom, a global leader in wireless communication modules and AI solutions, and Digital Matter, global leaders in low-power IoT hardware solutions, recently announced an expanded collaboration. Multiple Digital Matter asset tracking devices have embedded Fibocom's LE271-GL module, bringing reliable cellular connectivity to ANZ and global markets and supporting mobile asset visibility, remote status monitoring, and scalable IoT deployments.",
-        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/pr-newswire/fibocom-and-digital-matter-accelerate-asset-tracking-deployments-across-global-markets/2374437",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1116807.jpg",
-        "publishedAt": "2026-06-28T23:26:58Z",
-        "source": "The Manila Times"
+        "title": "OpenAI limits rollout of advanced models. Blame the Feds.",
+        "description": "‘We don’t believe this kind of government access process should become the long-term default,’ OpenAI said on Friday.",
+        "url": "https://www.livemint.com/global/openai-limits-rollout-of-advanced-models-blame-the-feds-11782696109488.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/im-16871617_1782696112905_1782696125386_5050b7b3-f034-4c8c-9119-176719ab1395.jpg",
+        "publishedAt": "2026-06-29T01:22:29Z",
+        "source": "Livemint"
       }
     ]
   }
