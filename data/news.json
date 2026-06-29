@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-06-29T20:54:26.436Z",
+  "fetchedAt": "2026-06-29T21:47:05.264Z",
   "sections": {
     "world": [
       {
-        "title": "Iran says $6B in assets in Qatar to be released",
-        "description": "Iran’s president says $6 billion in frozen Iranian assets would be released by Qatar, as negotiations with the United States are challenged by attacks at the weekend across the Persian Gulf.",
-        "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
-        "image": "https://dims.apnews.com/dims4/default/725cafb/2147483647/strip/true/crop/7301x4865+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F38%2F1ecd74a2f21b5c092782c009eda0%2F25d4421ae8c3471ab867abbd060153b6",
-        "publishedAt": "2026-06-29T08:54:00Z",
+        "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
+        "description": "The Taliban said that airstrikes left 36 civilians dead, while Pakistan claimed that its assault killed 32 militants, in the latest in a monthslong conflict.",
+        "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+        "image": "https://static01.nyt.com/images/2026/06/29/multimedia/2929int-afghanistan-strikes-01-zfvc/2929int-afghanistan-strikes-01-zfvc-facebookJumbo.jpg",
+        "publishedAt": "2026-06-29T09:43:48Z",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Hour Wait For HIV Medication In Soweto",
+        "description": "Mphonyana Mtamane, a GBV survivor, endured a lengthy delay for vital HIV treatment at Zola Clinic on 27 May 2026.",
+        "url": "https://health-e.org.za/2026/06/29/gbv-survivors-five-hour-wait-for-hiv-medication-in-soweto/",
+        "image": "https://health-e.org.za/wp-content/uploads/2026/06/229005.jpg",
+        "publishedAt": "2026-06-29T09:43:00Z",
+        "source": "Health-e News"
+      },
+      {
+        "title": "Balkans brace for bushfires as European heat wave moves east",
+        "description": "The Balkans remained on alert for extreme temperatures Monday, triggering health warnings and sparking wildfires, as a record-breaking heat wave sweeping...",
+        "url": "https://www.dailysabah.com/world/mid-east/balkans-brace-for-bushfires-as-european-heat-wave-moves-east",
+        "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/06/29/thumbs/1200x675/448283.jpg",
+        "publishedAt": "2026-06-29T09:43:00Z",
+        "source": "Daily Sabah"
+      },
+      {
+        "title": "Lessons from Africa on the costs of South Africa’s migration approaches",
+        "description": "Precedents show that crackdowns and tighter regulations often have negative domestic and diplomatic consequences, sometimes lasting decades.",
+        "url": "https://issafrica.org/iss-today/lessons-from-africa-on-the-costs-of-south-africa-s-migration-approaches",
+        "image": "https://issafrica.s3.amazonaws.com/site/images/banners/1782726052389-2026-06-29-iss-today-banner.jpg",
+        "publishedAt": "2026-06-29T09:42:34Z",
+        "source": "ISS Africa"
+      },
+      {
+        "title": "China imposes export controls on 40 Japanese companies",
+        "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
+        "url": "https://apnews.com/article/china-japan-watch-list-military-export-1c9241dcd05560f1076a58b5953d99b5",
+        "image": "https://dims.apnews.com/dims4/default/df27fd8/2147483647/strip/true/crop/7528x5016+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fb6%2Fce6101c4039f960719ccc80ebbfb%2Ff7c4f7338766406f836702100605c079",
+        "publishedAt": "2026-06-29T09:39:00Z",
         "source": "AP News"
       },
       {
-        "title": "Sudan: An imminent RSF offensive is pushing North Kordofan toward humanitarian catastrophe, warns IRC",
-        "description": "Sudan: An imminent RSF offensive is pushing North Kordofan toward humanitarian catastrophe, warns IRC",
-        "url": "https://www.rescue.org/press-release/sudan-imminent-rsf-offensive-pushing-north-kordofan-toward-humanitarian-catastrophe",
-        "image": "https://www.rescue.org/sites/default/files/styles/widescreen_16x9_1280px_wide/public/2026-02/20250508_Sudan_MAbdulmajid_Nutrition_AlAzaza-Wael_58-1200x800-5b2df79.jpg?h=6cf2fa99&itok=oxtqytJ9",
-        "publishedAt": "2026-06-29T08:53:35Z",
-        "source": "International Rescue Committee"
+        "title": "Vladimir Putin says Russia will press on with frontline campaign despite fuel shortages",
+        "description": "President Vladimir Putin has said Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting diplomatic overtures from Ukraine.",
+        "url": "https://www.abc.net.au/news/2026-06-29/russia-putin-acknowledges-fuel-shortages-war-to-continue/106858084",
+        "image": "https://live-production.wcms.abc-cdn.net.au/6327e3713929a151ed6f6570f8bbdf82?impolicy=wcms_watermark_news&cropH=629&cropW=1119&xPos=43&yPos=559&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-06-29T09:38:44Z",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Nominations Open: AI for Climate Action Award",
-        "description": "Deadline: 03-Jul-2026 The UNFCCC Technology Mechanism AI for Climate Action (AICA) Award recognizes open-source, AI-powered solutions that support climate adaptation and mitigation in least developed countries (LDCs) and small island developing States (SIDS). The award is open to individuals aged 18 and above, with the winner receiving travel and accommodation support to present their solution",
-        "url": "https://www2.fundsforngos.org/innovation/nominations-open-ai-for-climate-action-award/",
+        "title": "Apply Now: Climate and Health Innovation Proof of Concept Program",
+        "description": "Deadline: 22-Jul-2026 The Nexa Climate and Health Innovation funding opportunity supports early-stage innovations that address climate-driven health risks through real-world pilots. Proof of Concept funding provides up to USD 200,000 per innovation for 18–24 months, supporting eligible organizations incorporated in Africa or Brazil. Overview The funding supports solutions that help health systems anticipate, monitor, and",
+        "url": "https://www2.fundsforngos.org/innovation/apply-now-climate-and-health-innovation-proof-of-concept-program/",
         "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-        "publishedAt": "2026-06-29T08:52:33Z",
+        "publishedAt": "2026-06-29T09:37:42Z",
         "source": "fundsforNGOs"
       },
       {
-        "title": "Tree Ratio for Food Security, Export, and Climate Change",
-        "description": "Human Evolution on knowledge increasingly reveals the importance of trees, but human efforts on multiplying enough edible trees seem lacking in all or most countries .",
-        "url": "https://www.modernghana.com/news/1506273/tree-ratio-for-food-security-export-and-climate.html",
-        "image": "https://cdn.modernghana.com/images/content/328202535239-otkvn0y442-jarga-kebba-gigo.jpg",
-        "publishedAt": "2026-06-29T08:50:06Z",
-        "source": "Modern Ghana"
-      },
-      {
-        "title": "SA March March: The Grand Betrayal of Africa",
-        "description": "ldquo;The most serious blow suffered by the colonized is being removed from history and from the community .",
-        "url": "https://www.modernghana.com/news/1506270/sa-march-march-the-grand-betrayal-of-africa.html",
-        "image": "https://cdn.modernghana.com/images/content/422202622559-i41p266ffa-femi-akomolafe.jpg",
-        "publishedAt": "2026-06-29T08:50:05Z",
-        "source": "Modern Ghana"
-      },
-      {
-        "title": "Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive",
-        "description": "Unsourced report claims terror group is recruiting new fighters, has resumed training its elite Nukhba force as US peace plan fails to progress; IDF says Oct. 7 terrorist killed in strike",
-        "url": "https://www.timesofisrael.com/report-idf-warns-hamas-is-readying-to-return-to-war-us-opposes-new-israeli-offensive/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/02/AP25238746730513.jpg",
-        "publishedAt": "2026-06-29T08:50:03Z",
-        "source": "The Times of Israel"
-      },
-      {
-        "title": "Generated Misinformation Targeting Officials Ahead of 2026 Elections",
-        "description": "The Zambia Police Service has warned the public against the creation and circulation of misleading AI-generated content depicting violence and other offensive",
-        "url": "https://iafrica.com/zambia-police-warn-against-ai-generated-misinformation-targeting-officials-ahead-of-2026-elections/",
-        "image": "https://iafrica.com/wp-content/uploads/2026/06/zambia-police.jpg",
-        "publishedAt": "2026-06-29T08:49:22Z",
-        "source": "iAfrica.com"
-      },
-      {
-        "title": "WB approves $160 expand electricity access, job creation in Gambia & Togo",
-        "description": "“This project tackles the core barriers to electricity access, i. e. affordability, limited infrastructure, and weak sector capacity, by combining network expansion with reforms and private sector mobilization,” said Franz Drees-Gross, World Bank Regional Director for Infrastructure.",
-        "url": "https://thepoint.gm/africa/gambia/headlines/wb-approves-160-expand-electricity-access-job-creation-in-gambia-and-togo",
-        "image": "https://thepoint.gm/favicon-32x32.png",
-        "publishedAt": "2026-06-29T08:48:45Z",
-        "source": "The Point.gm"
+        "title": "Vocational Training Workshops Established for Women Struggling with Addiction in Tunisia",
+        "description": "Vocational Training Workshops Established for Women Struggling with Addiction in Tunisia",
+        "url": "https://www.zawya.com/en/press-release/africa-press-releases/vocational-training-workshops-established-for-women-struggling-with-addiction-in-tunisia-k5qa1ose",
+        "image": "https://www.zawya.com/favicon.ico",
+        "publishedAt": "2026-06-29T09:37:40Z",
+        "source": "ZAWYA"
       }
     ],
     "business": [
       {
-        "title": "BIS says stablecoins are more like ETFs than actual money",
-        "description": "BIS's latest annual report dives into stablecoins and AI trends.",
-        "url": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/45be8c1665aeace14419fe95abe7cdc559e36572-1500x1054.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-29T08:54:23Z",
+        "title": "New retirement age law means employees can stay on until 66",
+        "description": "It will allow staff to delay retirement and work until the qualifying age for the state pension, which is 66.",
+        "url": "https://www.breakingnews.ie/ireland/new-retirement-age-law-means-employees-can-stay-on-until-66-1919918.html",
+        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDhcXFwvMDQxODUwMDdcXFwvMi43MTA2NDAzMy1lMTY5MTE3MTU1MTczNy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjU4NzBhYjllMGVlNjBkNDQxOGRlMGU4ZmZmYjdiMDA4OTEyZDFjOGEifQ==/new-retirement-age-law-means-employees-can-stay-on-until-66.jpg",
+        "publishedAt": "2026-06-29T09:47:07Z",
+        "source": "BreakingNews.ie"
+      },
+      {
+        "title": "Triumph Bonneville 400 Spied - Classic 350 Rival Launch Nears",
+        "description": "Triumph Bonneville 400 has been spied, looking production-ready ahead of its launch, which is expected to happen in second half of 2026.",
+        "url": "https://www.rushlane.com/triumph-bonneville-400-spied-classic-350-rival-launch-nears-12550097.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/06/triumph-bonneville-400-spied-4.jpg",
+        "publishedAt": "2026-06-29T09:46:45Z",
+        "source": "RushLane"
+      },
+      {
+        "title": "Namibia: Eco (Atlantic) Oil & Gas Receives Ministerial Approval For Namibia Pel 98 Farm",
+        "description": "Stay updated with the latest global construction and infrastructure news from top publishers.",
+        "url": "https://megaproject.com/news/oilandgas/namibia-eco-atlantic-oil-gas-receives-ministerial-approval-for-namibia-pel-98-farm-out",
+        "image": "https://ik.imagekit.io/megaproject/oilandgas/oilandgas-8.png?tr=w-600,f-auto",
+        "publishedAt": "2026-06-29T09:44:12Z",
+        "source": "megaproject.com"
+      },
+      {
+        "title": "South Korea unveils $880bn chip and AI investment plan",
+        "description": "South Korea has unveiled plans for at least $880bn (£666bn) of investments to build out the country's chip manufacturing and artificial intelligence (AI) capabilities in the coming years.",
+        "url": "https://www.graphic.com.gh/tech-news/south-korea-unveils-880bn-chip-and-ai-investment-plan-2.html",
+        "image": "https://www.graphic.com.gh/images/2026/June/29/SK.jpg",
+        "publishedAt": "2026-06-29T09:43:52Z",
+        "source": "Graphic Online"
+      },
+      {
+        "title": "AirTrunk near confidential filing for biggest Singapore IPO in years",
+        "description": "Blackstone Inc-backed data centre operator AirTrunk is close to filing confidentially for an initial public offering of a real estate investment trust in Singapore, according to people with knowledge of the matter.",
+        "url": "https://theedgemalaysia.com/node/808697",
+        "image": "https://assets.theedgemarkets.com/AirTrunk_logo_airtrunk.com_20260407095114-APP_1_0.png",
+        "publishedAt": "2026-06-29T09:42:34Z",
+        "source": "The Edge Malaysia"
+      },
+      {
+        "title": "Bitcoin remains below key onchain and technical levels, leaving it in no man's land",
+        "description": "Bitcoin is trading below key technical and onchain valuation levels, with historical bear market patterns suggesting a potential bottom closer to $45,000.",
+        "url": "https://www.coindesk.com/markets/2026/06/29/bitcoin-falls-into-a-technical-no-man-s-land-as-major-support-levels-sit-miles-away",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/613487e98a862cb3af5755cf7bbcad4085311b79-1512x862.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-29T09:41:17Z",
         "source": "CoinDesk"
       },
       {
-        "title": "Instacart Driver Left Groceries in the Sun, Then Rang the Doorbell Asking for a Bigger Tip",
-        "description": "The customer had already set a $12 gratuity, and Instacart allows tip adjustments for up to 24 hours after delivery.",
-        "url": "https://www.yahoo.com/lifestyle/articles/instacart-driver-left-groceries-sun-085407467.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cc9e7ee0dcef7c11fee69d867e4c0193a75d7b615494d28927a85016dbf12537/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F194e9be7b6176baa1716559f26663100",
-        "publishedAt": "2026-06-29T08:54:07Z",
-        "source": "Yahoo"
+        "title": "Japanese Automakers' Global Sales Drop 2.6 Pct in May",
+        "description": "Tokyo, June 29 (Jiji Press)--Global vehicle sales by eight major Japanese automakers fell 2.6 pct from a year …",
+        "url": "https://www.nippon.com/en/news/yjj2026062900810/japanese-automakers'-global-sales-drop-2-6-pct-in-may.html",
+        "image": "https://www.nippon.com/en/ncommon/contents/category_thumbnails/21/1448659/1448659.jpg",
+        "publishedAt": "2026-06-29T09:40:06Z",
+        "source": "nippon.com"
       },
       {
-        "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
-        "description": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investment.",
-        "url": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
-        "image": "https://spacenews.com/wp-content/uploads/2025/11/Kinetica1-Y8-chutian-2-0102-JSLC-9nov2025-OS.jpg",
-        "publishedAt": "2026-06-29T08:53:12Z",
-        "source": "SpaceNews"
-      },
-      {
-        "title": "Stocks Climb as Buyers Snap Up Bargains; Oil Rises: Markets Wrap",
-        "description": "(Bloomberg) -- Bargain hunters are pushing stocks higher at the start of a week in which leaders of the biggest central banks and a busy data calendar will set the tone. Oil rose after a weekend of tensions in the Middle East.",
-        "url": "https://www.swissinfo.ch/eng/stocks-climb-as-buyers-snap-up-bargains%3B-oil-rises%3A-markets-wrap/91665056",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764775641",
-        "publishedAt": "2026-06-29T08:52:13Z",
-        "source": "SWI swissinfo.ch"
-      },
-      {
-        "title": "Sanctuary’s horror after wounded donkeys saved from ordeal",
-        "description": "Warning: This video contains distressing footage of injuries:Two donkeys have been rescued from a farm in south Donegal in what Donegal Donkey Sanctuary has des...",
-        "url": "https://www.donegaldaily.com/lead-stories/sanctuarys-horror-after-wounded-donkeys-saved-from-ordeal-639684",
-        "image": "https://img.resized.co/donegaldaily/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3N0b3JhZ2UuZG9uZWdhbGRhaWx5LmNvbVxcXC9wcm9kXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8wNlxcXC9kb25rZXlzLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9zdG9yYWdlLmRvbmVnYWxkYWlseS5jb21cXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijg3M2YxYTlkMmEyMmVhNTcwNzkxMGI4MGNiYTA2NzY5NWYyYzc3MWQifQ==/sanctuary-s-horror-after-wounded-donkeys-saved-from-ordeal.jpg",
-        "publishedAt": "2026-06-29T08:51:22Z",
-        "source": "Donegal Daily"
-      },
-      {
-        "title": "Models Of Private Participation In Electricity Distribution",
-        "description": "In Ghana, the terms privatization, private sector participation, and public-private partnership have often been interchanged in public discourse .",
-        "url": "https://www.modernghana.com/news/1506272/models-of-private-participation-in-electricity.html",
-        "image": "https://cdn.modernghana.com/images/content/6292026102732-1h830o4bau-image001.jpg",
-        "publishedAt": "2026-06-29T08:50:06Z",
-        "source": "Modern Ghana"
-      },
-      {
-        "title": "The Australian",
-        "description": "No Cookies | The Australian",
-        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-        "publishedAt": "2026-06-29T08:48:55Z",
-        "source": "The Australian"
-      },
-      {
-        "title": "A half-floor over Tel Aviv: Prestigious Akirov Towers apartment goes up for sale at $",
-        "description": "The 400-square-meter residence of G City’s Chaim Katzman enters market as the real estate veteran explores asset sales.",
-        "url": "https://www.calcalistech.com/ctechnews/article/x1j1ffjk4",
-        "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/28/Skxh5aAzfe/Skxh5aAzfe_0_0_2000_1126_0_large.jpg",
-        "publishedAt": "2026-06-29T08:48:00Z",
-        "source": "CTech"
+        "title": "Delhi EV policy gets Cabinet nod, govt to invest Rs 15,000 crore to boost green mobility",
+        "description": "Delhi's Cabinet has greenlit an electric vehicle policy, set to launch by July 1, with a substantial Rs 15,000 crore investment planned over four years. The policy may offer a 50% road tax waiver on hybrid vehicles up to Rs 30 lakh, aiming to accelerate electric mobility adoption despite some internal debate. This move signals a significant push towards greener transportation in the capital.",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/delhi-ev-policy-gets-cabinet-nod-govt-to-invest-rs-15000-crore/articleshow/132068559.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-132068671,width-1200,height-630,imgsize-104552,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-29T09:36:12Z",
+        "source": "The Economic Times"
       }
     ],
     "science": [
+      {
+        "title": "First ever dinosaur fossil discovered on Antarctica identified as a titanosaur",
+        "description": "Antarctica was once a thriving, forested ecosystem filled with a diversity of dinosaur life.",
+        "url": "https://www.nhm.ac.uk/discover/news/2026/june/first-ever-dinosaur-fossil-discovered-on-antarctica-a-titanosaur.html",
+        "image": "https://www.nhm.ac.uk/content/dam/nhm-www/discover/antarctica-dinosaur-sauropod/antarctic-titanosaur-dinosaur-forest-reconstruction-full-width-andrew-mcafee-carnegie-museum-of-natural-history.jpg",
+        "publishedAt": "2026-06-29T09:38:19Z",
+        "source": "Natural History Museum"
+      },
+      {
+        "title": "Strawberry moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year",
+        "description": "June's full Strawberry moon will be the lowest-hanging and one of the smallest full moons of 2026. It will be at its fullest on Monday night, June 29.",
+        "url": "https://www.livescience.com/space/astronomy/strawberry-moon-2026-tonights-full-moon-is-the-lowest-and-one-of-the-smallest-micromoons-all-year",
+        "image": "https://cdn.mos.cms.futurecdn.net/cWMC6emLavJurr4sM3Vunm-2000-80.jpg",
+        "publishedAt": "2026-06-29T09:30:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "ISTA Researchers Boost AlphaFold with Experiments",
+        "description": "The AI-based program AlphaFold predicts a protein's 3D structure with remarkable accuracy. However, it tends to reduce heterogeneous structures to a",
+        "url": "https://www.miragenews.com/ista-researchers-boost-alphafold-with-1700941/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1484069560501-87d72b0c3669%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+        "publishedAt": "2026-06-29T09:14:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Sword Attack Leaves Ice-Cream Truck Driver Injured in Ahmedabad, 4 Booked",
+        "description": "Ahmedabad's Bapunagar witnessed a violent neighborhood dispute where an ice-cream truck driver suffered a fractured wrist from a sword attack. Three relatives intervening were also assaulted. Police booked four accused—Love, Ramkishore, Sandeep, and Montu—following the argument that escalated outside the victim's home. The injured are recovering, and investigations are ongoing into the shocking incident.",
+        "url": "https://english.gujaratsamachar.com/news/ahmedabad/sword-attack-leaves-ice-cream-truck-driver-injured-in-ahmedabad-4-booked-69763924653",
+        "image": "https://cdn.gujaratsamachar.com/media/post/2026/06/d95cb328907c31e6f2c5a31068fe7fc4.png?w=1200&h=630&q=80",
+        "publishedAt": "2026-06-29T09:09:58Z",
+        "source": "GujaratSamachar English"
+      },
+      {
+        "title": "Humanity has spent well over a billion dollars bringing asteroid pieces back to Earth — and all the material returned by Hayabusa, Hayabusa2, and OSIRIS-REx combined weighs about 127 grams, less than",
+        "description": "Hayabusa, Hayabusa2 and OSIRIS-REx have returned roughly 127 grams of asteroid material, showing why sample return is about context and cleanliness, not bulk mass.",
+        "url": "https://spacedaily.com/humanity-has-spent-well-over-a-billion-dollars-bringing-asteroid-pieces-back-to-earth-and-all-the-material-returned-by-hayabusa-hayabusa2-and-osiris-rex-combined-weighs-about-127-grams-le/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/Humanity-has-spent-well-over-a-billion-dollars-bringing-asteroid-pieces-back-to-Earth.png",
+        "publishedAt": "2026-06-29T09:03:11Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
+        "description": "The AI-based program AlphaFold predicts a protein's 3D structure with remarkable accuracy. However, it tends to reduce heterogeneous structures to a single dominant conformation, or shape, and overlooks experimental conditions that can alter local structure. Researchers at the Institute of Science and Technology Austria (ISTA) and international collaborators have now developed a way to guide AlphaFold with experimental data. Their approach, published in Nature Biotechnology, paves the way for improved future predictive models.",
+        "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/toward-experiment-guid-3.jpg",
+        "publishedAt": "2026-06-29T09:00:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
         "description": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investment.",
@@ -150,120 +198,72 @@
         "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1117110.jpg",
         "publishedAt": "2026-06-29T08:12:00Z",
         "source": "The Manila Times"
-      },
-      {
-        "title": "Plant biodiversity in Europe: Study shows why an increase in plant species isn’t good news",
-        "description": "The number of plant species in many ecosystems in Europe has grown rather than shrunk over the last 100 years. However, this is not necessarily cause for celebration as this local increase is primarily due to generalists and non-native species, which compete with the original native species. Moreover, the overall number of species has not increased across Europe.",
-        "url": "https://www.newswise.com/articles/plant-biodiversity-in-europe-study-shows-why-an-increase-in-plant-species-isn-t-good-news",
-        "image": "https://www.newswise.com/images/uploads/2026/06/29/6a42296ef0d25_MilanChytr-P8142668BjelasicaTroglava.JPG",
-        "publishedAt": "2026-06-29T08:10:00Z",
-        "source": "Newswise"
-      },
-      {
-        "title": "Identifying Proteins, Molecule By Molecule",
-        "description": "Published on Using nanopore technology and AI, a UNIGE team has developed a rapid and reliable method for identifying proteins, paving the way for",
-        "url": "https://www.miragenews.com/identifying-proteins-molecule-by-molecule-1700916/",
-        "image": "https://www.unige.ch/medias/application/files/8817/8247/5032/WEB_fig_1140px_X_500px.jpg",
-        "publishedAt": "2026-06-29T08:08:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "SpaceX Launches SiriusXM Satellite, Falcon 9 Reusable Booster Completes 17th Flight",
-        "description": "The mission featured the 17th flight of booster B1085, which also landed successfully after launch. The satellite will replace two aging SiriusXM spacecraft in",
-        "url": "https://www.kucoin.com/news/flash/spacex-launches-siriusxm-satellite-falcon-9-reusable-booster-completes-17th-flight",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-06-29T08:06:44Z",
-        "source": "KuCoin"
-      },
-      {
-        "title": "The Sky Today on Monday, June 29: June’s Strawberry Moon shines",
-        "description": "A Full Strawberry Moon closes out the month of June on its second-to-last day, casting a bright, unmissable glow across the sky.",
-        "url": "https://www.astronomy.com/observing/the-sky-today-monday-june-29-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/06/moon.4321.jpg?resize=1200,630",
-        "publishedAt": "2026-06-29T08:00:09Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "Physicists Set Sail on a Strange Quantum State Called a Fractional Fermi Sea",
-        "description": "Researchers reported that a driven one-dimensional gas of ultracold cesium atoms can be engineered into a highly ordered quantum state.",
-        "url": "https://thequantuminsider.com/2026/06/29/physicists-set-sail-on-a-strange-quantum-state-called-a-fractional-fermi-sea/",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/06/illustration_ffs.jpg__2640x1584_q85_crop_subsampling-2_upscale.jpg-scaled.webp",
-        "publishedAt": "2026-06-29T07:55:15Z",
-        "source": "The Quantum Insider"
-      },
-      {
-        "title": "Scientists find endangered sea stars using groundbreaking DNA detection method",
-        "description": "A juvenile sea star roughly the size of a teacup.",
-        "url": "https://www.yahoo.com/news/science/articles/scientists-endangered-sea-stars-using-073500979.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/78905fb9bce05b12072234e55017041a24e980a56bdab6080983b0817023d562/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa2df53f49f8b4afd7a2ada68a2fc2ef1",
-        "publishedAt": "2026-06-29T07:35:00Z",
-        "source": "Yahoo"
       }
     ],
     "ai": [
       {
-        "title": "British American Tobacco to slash 9,000 jobs as it turns to AI",
-        "description": "Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’",
-        "url": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
-        "image": "https://i.guim.co.uk/img/media/556e1ae055c3c7116659801bbdcad6f69dbc9531/324_0_2077_1661/master/2077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b5c8009775064616c2404f7db5f4205",
-        "publishedAt": "2026-06-29T08:53:22Z",
-        "source": "The Guardian"
+        "title": "Following The Smart Money: Where Institutional Investors Increased Exposure In Q1 2026",
+        "description": "Recent filings show institutional investors favoring energy, finance, and AI infrastructure over Big Tech amidst market uncertainty.",
+        "url": "https://www.livemint.com/focus/following-the-smart-money-where-institutional-investors-increased-exposure-in-q1-2026-11782726086772.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/stockmm_1782726307851_1782726312563_3aeb0ccd-7a3d-42e1-a58c-ca2099810458.jpg",
+        "publishedAt": "2026-06-29T09:46:54Z",
+        "source": "Livemint"
       },
       {
-        "title": "Hannah Pingree should take up Maine’s anti-data center fight | Opinion",
-        "description": "The Democratic nominee for governor should oppose the ills and weaknesses of generative AI, crafting policies that instead support our creativity and our humanity.",
-        "url": "https://www.pressherald.com/2026/06/29/hannah-pingree-should-take-up-maines-anti-data-center-fight-opinion/",
-        "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/06/20260619_Pingree0421.jpg?w=780",
-        "publishedAt": "2026-06-29T08:53:00Z",
-        "source": "Portland Press Herald"
+        "title": "Hexaware Technologies stock gains 9% after expanding AI partnership with Anthropic",
+        "description": "Hexaware Technologies shares rose 9% to ₹539 after becoming an Anthropic Authorized Reseller for Amazon Bedrock, allowing direct integration of Claude models for enterprise use, enhancing its AI-first strategy and offering clients customized AI solutions.",
+        "url": "https://www.livemint.com/market/stock-market-news/hexaware-technologies-stock-gains-9-after-expanding-ai-partnership-with-anthropic-11782722964191.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/g19c52acd2320b3fe639c3f507e4430bdc2e5af8b788a4393b_1739949609805_1782723111776_0486c287-b521-4356-8dda-53f71d7ade60.jpg",
+        "publishedAt": "2026-06-29T09:46:47Z",
+        "source": "Livemint"
       },
       {
-        "title": "Enforce AI Guardrails Before It’s Too Late",
-        "description": "Gabriela Ramos & Emilija Stojmenova Duh take aim at inadequate governance efforts focused on voluntary frameworks and industry self-assessments.",
-        "url": "https://www.project-syndicate.org/commentary/government-response-to-ai-sputnik-moments-mythos-has-fallen-short-by-gabriela-ramos-and-emilija-stojmenova-duh-2026-06",
-        "image": "https://webapi.project-syndicate.org/library/e59206b395c7c158979e069788b1e796.2-1-super.1.jpg",
-        "publishedAt": "2026-06-29T08:52:00Z",
-        "source": "Project Syndicate"
+        "title": "93 pc of AI conversations produce tangible outcomes: Report",
+        "description": "93 pc of AI conversations produce tangible outcomes: Report - New Delhi, June 29 Individuals are increasingly adopting AI in daily life and 93 per cent of conversations ... Get Latest News on Business only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/business/93-pc-of-ai-conversations-produce-tangible-outcomes-report/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606293844434_202606.jpg",
+        "publishedAt": "2026-06-29T09:46:18Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "BIS says stablecoins are more like ETFs than actual money",
-        "description": "BIS's latest annual report dives into stablecoins and AI trends.",
-        "url": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/45be8c1665aeace14419fe95abe7cdc559e36572-1500x1054.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-29T08:51:57Z",
-        "source": "CoinDesk"
+        "title": "93 pc of AI conversations produce tangible outcomes: Report",
+        "description": "93 pc of AI conversations produce tangible outcomes: Report - New Delhi, June 29 Individuals are increasingly adopting AI in daily life and 93 per cent of conversations ... Get Latest News on Technology only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/technology/93-pc-of-ai-conversations-produce-tangible-outcomes-report-1/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606293844434_202606.jpg",
+        "publishedAt": "2026-06-29T09:46:18Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "Mirendil raises $200M to build AI that improves AI",
-        "description": "Mirendil, founded by two ex-Anthropic researchers, raised $200M at a $1bn valuation to sell self-improving AI research to everyone.",
-        "url": "https://thenextweb.com/news/mirendil-200m-seed-ai-research",
-        "image": "https://media.thenextweb.com/2026/06/Mirendil-a16z.avif",
-        "publishedAt": "2026-06-29T08:51:36Z",
-        "source": "TNW"
+        "title": "4 Of The Best AI-Free Android Phones",
+        "description": "AI being bundled with most types of tech we buy today has become almost unavoidable, but there are a few practically AI-free Android devices left.",
+        "url": "https://www.slashgear.com/2201324/best-ai-free-android-phones/",
+        "image": "https://www.slashgear.com/img/gallery/4-of-the-best-ai-free-android-phones/l-intro-1782382125.jpg",
+        "publishedAt": "2026-06-29T09:45:00Z",
+        "source": "SlashGear"
       },
       {
-        "title": "UK to invest £580 million in defence technology lab",
-        "description": "The UK government is set to invest a noteworthy £580 million into its Defence Science and Technology Laboratory, aligning with its Defence Investment Plan. This funding will enhance crucial sectors such as biological threats, artificial intelligence, and underwater systems. A cutting-edge laboratory at Porton Down will be constructed, significantly strengthening the country's national security measures.",
-        "url": "https://economictimes.indiatimes.com/tech/funding/uk-to-invest-580-million-in-defence-technology-lab/articleshow/132067704.cms",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40326,resizemode-75,msid-132067704/tech/funding/uk-to-invest-580-million-in-defence-technology-lab.jpg",
-        "publishedAt": "2026-06-29T08:51:36Z",
-        "source": "The Economic Times"
+        "title": "​15-minute stagger, carpooling revival, AI cameras: How Hyderabad's plan to fix IT corridor gridlock",
+        "description": "The government has encouraged IT companies to adopt measures to reduce severe traffic congestion in Hyderabad’s IT hubs, especially during monsoon when heavy rains worsen waterlogging and gridlock across major office zones like Hitech City and Financial District.(PHOTO CREDIT: Ram Moorthy/TNN, File photo)",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/15-minute-stagger-carpooling-revival-ai-cameras-how-hyderabads-plan-to-fix-it-corridor-gridlock/photostory/132068778.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132068792,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-06-29T09:43:57Z",
+        "source": "Times of India"
       },
       {
-        "title": "Samsung, SK Hynix To Build a $518 Billion Chipmaking Hub To Serve Soaring AI Demand",
-        "description": "Samsung and SK Hynix, which together produce about two-thirds of the world’s memory chips, said they will each build two fabrication plants in the southwest, expanding beyond their existing manufacturing complexes in Gyeonggi Province, south of Seoul.",
-        "url": "https://www.republicworld.com/tech/samsung-sk-hynix-to-build-a-518-billion-chipmaking-hub-to-serve-soaring-ai-demand-2026-06-29-130425",
-        "image": "https://img.republicworld.com/all_images/2026/06/samsung-1782722973579-1280x720.webp",
-        "publishedAt": "2026-06-29T08:50:14Z",
-        "source": "Republic World"
+        "title": "Amazon AIF-C01 Updates in 2026 You Must Know Before Preparing",
+        "description": "AIF-C01 exam updated in 2026! Discover what changed in Version 1.1 — new objectives, services & topics like agentic AI, MCP & hallucination detection. Prep with the right material and pass with confidence.",
+        "url": "https://techbullion.com/amazon-aif-c01-updates-in-2026-you-must-know-before-preparing/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/06/AIF-C01-Exam-1000x600.png",
+        "publishedAt": "2026-06-29T09:43:22Z",
+        "source": "TechBullion"
       },
       {
-        "title": "Healthcare, Consumer, and Chip Stocks Boost China-Hong Kong Markets",
-        "description": "China and Hong Kong markets experienced a rise on Monday, driven by interest in healthcare, consumer, and chip stocks. Investors are diversifying their portfolios beyond artificial intelligence supply chains, seeking more varied opportunities in these promising sectors.",
-        "url": "https://www.devdiscourse.com/article/business/3942143-healthcare-consumer-and-chip-stocks-boost-china-hong-kong-markets",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
-        "publishedAt": "2026-06-29T08:48:59Z",
-        "source": "Devdiscourse"
+        "title": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic",
+        "description": "The new CFD instruments give traders early exposure to two of the world's most prominent artificial intelligence companies ahead of anticipated public listings.",
+        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/globenewswire/startrader-launches-pre-ipo-trading-products-for-openai-and-anthropic/2374666",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/29/1117259.jpg",
+        "publishedAt": "2026-06-29T09:42:22Z",
+        "source": "The Manila Times"
       }
     ]
   }
