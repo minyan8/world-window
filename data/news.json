@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-01T13:14:53.924Z",
+  "fetchedAt": "2026-07-01T14:04:48.618Z",
   "sections": {
     "world": [
       {
-        "title": "US deports first migrant to Pacific nation Palau",
-        "description": "The United States has started deporting migrants to a sparsely populated archipelago in the tropical Pacific, the island nation of Palau told AFP on Wednesday.",
-        "url": "https://www.france24.com/en/live-news/20260701-us-deports-first-migrant-to-pacific-nation-palau",
-        "image": "https://s.france24.com/media/display/befad8da-74e9-11f1-bf55-005056bf30b7/w:1280/p:16x9/ecd4691eeba4ae4499e391da4e67e550ab77afc5.jpg",
-        "publishedAt": "2026-07-01T01:11:11Z",
-        "source": "France 24"
+        "title": "Donald Trump’s cryptocurrency companies make $1.7 billion financial report shows",
+        "description": "US President Donald Trump has made a lot of money from his cryptocurrency companies.",
+        "url": "https://www.nine.com.au/world-news/usa/donald-trump-rakes-in-1-7-billion-from-crypto-companies-20260701-p60bl7.html",
+        "image": "https://static.ffx.io/images/$zoom_0.981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0cf755623cae0ed2d897b0a4382ae8c51f12a2be56b7038b4a182fc99ff61e6d",
+        "publishedAt": "2026-07-01T02:02:39Z",
+        "source": "Nine.com.au"
       },
       {
-        "title": "Iran president, IRGC clash over priorities, threatening US-Iran negotiations",
-        "description": "According to a WSJ report, Pezeshkian’s priority is revitalizing the Iranian economy, while the IRGC is more focused on keeping control over the Strait of Hormuz.",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-901020",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726177",
-        "publishedAt": "2026-07-01T01:05:18Z",
-        "source": "The Jerusalem Post"
+        "title": "Trump reports at least $1.4 billion in 2025 crypto earnings",
+        "description": "Trump reported making more than $594 million from sales by World Liberty Financial, the crypto firm whose co-founders include Trump, his sons, and Steven Witkoff. CIC Digital LLC, Trump’s memecoin business, generated $636 million in income.",
+        "url": "https://www.moneycontrol.com/world/trump-reports-at-least-1-4-billion-in-2025-crypto-earnings-article-13962800.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260618144316_trumpg7new.png",
+        "publishedAt": "2026-07-01T02:02:10Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "UN relief chief sounds alarm over escalation in Sudan's North Kordofan",
-        "description": "UN Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher on Tuesday warned of escalation in Sudan's North Kordofan.",
-        "url": "https://news.cgtn.com/news/2026-07-01/UN-relief-chief-sounds-alarm-over-escalation-in-Sudan-s-North-Kordofan-1OpOK8M1uSY/p.html",
-        "image": "https://news.cgtn.com/news/2026-07-01/UN-relief-chief-sounds-alarm-over-escalation-in-Sudan-s-North-Kordofan-1OpOK8M1uSY/img/815da109e9b94e28a031d88d465375ce/815da109e9b94e28a031d88d465375ce-1920.png",
-        "publishedAt": "2026-07-01T01:00:46Z",
-        "source": "news.cgtn.com"
+        "title": "Days after Pakistan's airstrikes, Afghanistan launches strikes on ISIS targets in Balochistan",
+        "description": "Pakistan News: Afghanistan's Taliban forces on Wednesday carried out fresh strikes on targets along the border with Pakistan, injuring several people in southwestern.",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/days-after-pakistans-airstrikes-afghanistan-launches-strikes-on-isis-targets-in-balochistan/articleshow/132103964.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132103982,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-01T02:02:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Party of five! Few turn up for band at Trump’s state fair Tuesday as ghost town continues to plague celebration",
-        "description": "The fair appears to have drawn lackluster crowds, though the Trump administration insists thousands have been in attendance",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-fair-beyonce-band-crowd-empty-b3006309.html",
-        "image": "https://static.independent.co.uk/2026/07/01/01/2283521275..?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-07-01T00:52:00Z",
-        "source": "The Independent"
+        "title": "Ocean surface temperatures hit a record high for June",
+        "description": "European scientists warn of consequences for weather patterns, the global climate and marine life",
+        "url": "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june",
+        "image": "https://i.guim.co.uk/img/media/c83e208382022705471cc91c42d39724e42b1f45/417_0_4167_3334/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa4c58f585746e0d6f411f6da64d4f1a",
+        "publishedAt": "2026-07-01T02:02:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Call for Applications: University of Toronto Prestigious Richard Rooney Postdoctoral Fellowship in African Studies for 2026",
-        "description": "The African Studies Centre at the University of Toronto has announced applications for the inaugural Richard Rooney Postdoctoral Fellowship in African",
-        "url": "https://www.globalsouthopportunities.com/2026/07/01/toronto/",
-        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/05/ChatGPT-Image-May-31-2026-02_22_52-PM.png",
-        "publishedAt": "2026-07-01T00:45:00Z",
+        "title": "Routledge/Round Table Commonwealth Studentship Awards 2026-2027 Open for PhD Researchers Across the Commonwealth",
+        "description": "PhD students conducting research on Commonwealth-related issues now have an opportunity to secure funding through the Routledge/Round Table Commonwealth",
+        "url": "https://www.globalsouthopportunities.com/2026/07/01/student-3/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-07_00_51-AM.png",
+        "publishedAt": "2026-07-01T02:00:00Z",
         "source": "Global South Opportunities"
       },
       {
-        "title": "Late rail engineer's legacy lives on as son helps bring LRT3 to life",
-        "description": "PETALING JAYA: Nearly three decades after his late father helped prepare Malaysia's first driverless urban rail system for service, maintenance engineer Emir Irfan Mohd Zufri found himself following the same path, this time helping bring the newly opened LRT3 to life.",
-        "url": "https://www.thestar.com.my/news/nation/2026/07/01/late-rail-engineer039s-legacy-lives-on-as-son-helps-bring-lrt3-to-life",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/01/3985975.jpg",
-        "publishedAt": "2026-07-01T00:45:00Z",
-        "source": "The Star"
+        "title": "The Australian",
+        "description": "No Cookies | The Australian",
+        "url": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
+        "publishedAt": "2026-07-01T01:59:54Z",
+        "source": "The Australian"
       },
       {
-        "title": "Report: Trump weighing return to full-scale war with Iran to 'complete the job'",
-        "description": "Trump has discussed renewed large-scale strikes with top defense officials, but is allowing nuclear talks to continue past the August 18 deadline while reserving the option of limited attacks if Iran violates the memorandum of understanding",
-        "url": "https://www.ynetnews.com/article/byucbkzxze",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/24/Sy8CBOuzfl/Sy8CBOuzfl_0_0_1535_1024_0_large.jpg",
-        "publishedAt": "2026-07-01T00:43:58Z",
-        "source": "Ynetnews"
+        "title": "25-Year-Old Hindu Priest 'Kidnapped', 'Tortured' For Ransom In Bangladesh",
+        "description": "Deuri -- a first-year student at Central Law College in Old Dhaka, who also occasionally serves as an assistant priest at the central temple of Jagannath University -- was targeted by unidentified persons late on Monday.",
+        "url": "https://www.ndtv.com/world-news/25-year-old-hindu-priest-kidnapped-tortured-for-ransom-in-bangladesh-11710319",
+        "image": "https://c.ndtvimg.com/2026-07/nqt5v26k_bangladesh-hindu-man-_625x300_01_July_26.jpeg",
+        "publishedAt": "2026-07-01T01:58:26Z",
+        "source": "NDTV"
       },
       {
-        "title": "China's civilizational vision in an age of uncertainty",
-        "description": "In left-leaning circles across the globe, a quiet crisis persists. Despite relentless pressure, marginalization, and even demonization, many who still carry the torch of emancipatory politics grapple with historical disappointments while clinging to hope for a more just world. As the founder of the Italian Communist Party, Antonio Gramsci, once noted, the struggle between pessimism of the intellect and optimism of the will demands moments of reflection.",
-        "url": "https://www.chinadaily.com.cn/a/202607/01/WS6a446204a310986e2b462cdc.html",
-        "image": "http://img2.chinadaily.com.cn/images/202607/01/6a446416a310986e1018ab74.png",
-        "publishedAt": "2026-07-01T00:40:34Z",
-        "source": "China Daily"
+        "title": "Trump’s war has made the market a mystery",
+        "description": "The greatest oil shock in history seems to have passed with only fleeting effects as prices plunge. It doesn’t really add up.",
+        "url": "https://www.theage.com.au/business/markets/trump-has-made-one-of-the-world-s-most-important-markets-a-mystery-20260701-p60bix.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5742%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_73%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d6e39fab1787fd96c175632f9320c147f1764f74",
+        "publishedAt": "2026-07-01T01:56:35Z",
+        "source": "The Age"
       }
     ],
     "business": [
       {
-        "title": "Yen’s slide puts market on lookout for Japan’s next red line",
-        "description": "Strategists have increasingly pointed to ¥163 and beyond as the next levels to watch.",
-        "url": "https://www.japantimes.co.jp/business/2026/07/01/markets/yen-slide-japan-red-lines/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/01/549181.jpg?v=3.1",
-        "publishedAt": "2026-07-01T01:14:00Z",
-        "source": "The Japan Times"
+        "title": "Fintechs Rely on Foreign Banks Amid System Gaps",
+        "description": "Nigerian fintechs heavily rely on foreign banks due to structural gaps in Africa's financial system, impacting foreign exchange and settlement infrastructu",
+        "url": "https://punchng.com/fintechs-rely-on-foreign-banks-amid-system-gaps-operator/",
+        "image": "https://punchng.com/wp-content/uploads/2026/07/Chukwujioke_1782870515.webp",
+        "publishedAt": "2026-07-01T02:02:53Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "Anthropic says US lifts export ban on its advanced AI tools",
-        "description": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-        "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
-        "publishedAt": "2026-07-01T01:13:36Z",
-        "source": "BBC"
+        "title": "Donald Trump’s cryptocurrency companies make $1.7 billion financial report shows",
+        "description": "US President Donald Trump has made a lot of money from his cryptocurrency companies.",
+        "url": "https://www.nine.com.au/world-news/usa/donald-trump-rakes-in-1-7-billion-from-crypto-companies-20260701-p60bl7.html",
+        "image": "https://static.ffx.io/images/$zoom_0.981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0cf755623cae0ed2d897b0a4382ae8c51f12a2be56b7038b4a182fc99ff61e6d",
+        "publishedAt": "2026-07-01T02:02:39Z",
+        "source": "Nine.com.au"
       },
       {
-        "title": "Ex-Amazon employee wins unfair dismissal case",
-        "description": "An Amazon employee has been described as a “smart-arse” during a Fair Work hearing that found he was unfairly dismissed from a Western Sydney warehousing job over a series of interactions with one of his superiors.",
-        "url": "https://www.news.com.au/finance/work/at-work/smartarse-examazon-employees-dismissal-unfair-fair-work-commission-rules/news-story/f50bdfca7a3c791d7ee7f736da847cd1",
-        "image": "https://content.api.news/v3/images/bin/b1a391bc5d782b0463f3677d2a1d87ae",
-        "publishedAt": "2026-07-01T01:13:18Z",
-        "source": "News.com.au"
+        "title": "Asia's 'most beautiful island' welcomes 5.7 million tourists in first 6 months",
+        "description": "Phu Quoc, voted Asia's most beautiful island by readers of Condé Nast Traveler, received 5.7 million tourists in the first six months this year, up 30% year-on-year and meeting 68% of this year's target. - VnExpress International",
+        "url": "https://e.vnexpress.net/news/travel/places/asia-s-most-beautiful-island-welcomes-5-7-million-tourists-in-first-6-months-5089230.html",
+        "image": "https://vcdn1-english.vnecdn.net/2026/06/24/baikem178097178418361780971925-4472-2075-1782265741.png?w=680&h=0&q=100&dpr=1&fit=crop&s=U2qWV-ADZPYyfLcKyK1pNg",
+        "publishedAt": "2026-07-01T02:02:15Z",
+        "source": "VnExpress International"
       },
       {
-        "title": "Amazon sued for introducing ads in Prime Video, for charging extra for ad-free streaming",
-        "description": "Amazon is facing legal trouble in Australia after introducing ads to Prime Video and asking subscribers to pay extra for an ad-free experience.",
-        "url": "https://www.indiatoday.in/technology/news/story/amazon-sued-for-introducing-ads-in-prime-video-for-charging-extra-for-ad-free-streaming-2937948-2026-07-01",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/prime-members-will-be-able-to-access-a-broader-library-of-content-with-the-option-to-watch-with-ads-072649528-16x9.jpg?VersionId=HwFYqm_1UYB_rY9AKRcRp2perV5AnA2N",
-        "publishedAt": "2026-07-01T01:10:15Z",
-        "source": "India Today"
+        "title": "Consultants will fight change ‘tooth and nail,’ warns senator who blew the whistle on KPMG, PwC",
+        "description": "Senator Deborah O’Neill, a key figure in the PwC tax scandal and KPMG whistleblower scandal, says the culture inside global consulting giants “needs to be disrupted”.",
+        "url": "https://www.smh.com.au/business/companies/consultants-will-fight-change-tooth-and-nail-warns-senator-who-blew-the-whistle-on-kpmg-pwc-20260701-p60bjz.html",
+        "image": "https://static.ffx.io/images/$zoom_0.23834037037037034%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_188%2C$y_83/t_crop_custom/q_86%2Cf_auto/1d198e9e1d44b277d958b541fdf5476c8617aa09",
+        "publishedAt": "2026-07-01T02:02:06Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Alcoa to buy South32's alumina and bauxite assets for $8b",
-        "description": "American mining giant Alcoa is set to buy $8 billion worth of assets from Australia's South32.",
-        "url": "https://www.abc.net.au/news/2026-07-01/wa-south-32-assets-sold-to-alcoa/106864452",
-        "image": "https://live-production.wcms.abc-cdn.net.au/62acc138d9101bd7b77e17a49bcb3baa?impolicy=wcms_watermark_news&cropH=2484&cropW=4416&xPos=0&yPos=460&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-07-01T01:09:30Z",
-        "source": "Australian Broadcasting Corporation"
+        "title": "UBTech’s lifelike humanoid robots built for companionship arriving in homes across China",
+        "description": "The unveiling of model U1, which has silicone skin and emotional AI, reflects tech firms’ drive to expand robotics beyond industrial use.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/30/22f8ea83-895c-4eb9-8276-3321952c4612_afe550b7.jpg?itok=bTTYFNvz&v=1782818762",
+        "publishedAt": "2026-07-01T02:00:08Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Manila Electric Company (MAEOY) Shareholder/Analyst Call Transcript",
-        "description": "Manila Electric Company (MAEOY) Shareholder/Analyst Call June 29, 2026 10:00 PM EDTCompany ParticipantsJeffrey Tarayao - VP & Chief Corporate Social...",
-        "url": "https://seekingalpha.com/article/4918926-manila-electric-company-maeoy-shareholder-analyst-call-transcript",
-        "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-        "publishedAt": "2026-07-01T01:02:09Z",
-        "source": "Seeking Alpha"
+        "title": "Where to celebrate Canada Day 2026 across the Lower Mainland",
+        "description": "The Lower Mainland is going to celebrate Canada Day on Wednesday, the country’s 159th birthday.",
+        "url": "https://vancouver.citynews.ca/2026/06/30/where-celebrate-canada-day-2026-across-lower-mainland/",
+        "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2025/06/0c14f1abd745197ab85461ae8a75e37a1e709ccd9252460ee53fe8c60090e56d.jpg",
+        "publishedAt": "2026-07-01T01:58:31Z",
+        "source": "CityNews Vancouver"
       },
       {
-        "title": "Why New Graduates Should Choose In",
-        "description": "In-office jobs for new graduates offer a competitive edge in 2026. Here's why showing up beats working remotely.",
-        "url": "https://www.forbes.com/sites/colleenbatchelder/2026/06/30/new-graduates-who-choose-in-office-jobs-get-hired-faster/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d9a17d55ac3cc74f3f8d81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-01T01:01:46Z",
-        "source": "Forbes"
+        "title": "Tech Leaders Push for Rules to Unlock Opportu",
+        "description": "Tech leaders advocate for stronger AI governance, digital skills investment, and collaboration to unlock economic growth and opportunities as AI reshapes b",
+        "url": "https://punchng.com/tech-leaders-push-ai-rules-to-unlock-opportunities/",
+        "image": "https://punchng.com/wp-content/uploads/2026/07/tech-leaders1_1782870220.webp",
+        "publishedAt": "2026-07-01T01:58:29Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "Five arrested, 1.3m illegal cigarettes seized in North Island tobacco raids",
-        "description": "Five people have been arrested and more than 1.3 million illegal cigarettes seized following a six-month operation into an illicit tobacco network spanning...",
-        "url": "https://www.nzherald.co.nz/nz/five-arrested-13m-illegal-cigarettes-seized-in-north-island-tobacco-raids/PS3RVCCO4ZHWDMLP2LGDEFXWQM/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/F2JLSVBTZVE3RPSNKRQE4K5WUY.jpg?auth=9cbaa06cabad903f8862dfe250aa5f34d165eab0db1925b808b7f56cc254d3ac&width=1200&height=675&quality=70&focal=2146%2C976&smart=false",
-        "publishedAt": "2026-07-01T01:01:29Z",
-        "source": "NZ Herald"
+        "title": "Trump’s war has made the market a mystery",
+        "description": "The greatest oil shock in history seems to have passed with only fleeting effects as prices plunge. It doesn’t really add up.",
+        "url": "https://www.theage.com.au/business/markets/trump-has-made-one-of-the-world-s-most-important-markets-a-mystery-20260701-p60bix.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5742%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_73%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d6e39fab1787fd96c175632f9320c147f1764f74",
+        "publishedAt": "2026-07-01T01:56:35Z",
+        "source": "The Age"
       }
     ],
     "science": [
+      {
+        "title": "There's a Waterfall in Antarctica That Bleeds Red - Here's What's Hiding Inside It",
+        "description": "Antarctica's Blood Falls are even weirder than they look.",
+        "url": "https://www.yahoo.com/news/science/articles/theres-waterfall-antarctica-bleeds-red-020333102.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/3b15e40a23ff9bfab1207ba81021c9133db225dcd02cbf70480aa20268e63c87/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F0cbd3e408276c448835582da45ccbe23",
+        "publishedAt": "2026-07-01T02:03:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Before astronauts arrive, these hopping drones will scout the Moon",
+        "description": "For decades, lunar exploration was defined by astronauts, rovers, and orbiters. But as NASA pushes deeper into the Artemis era,...",
+        "url": "https://spaceexplored.com/2026/06/30/before-astronauts-arrive-these-hopping-drones-will-scout-the-moon/",
+        "image": "https://i0.wp.com/spaceexplored.com/wp-content/uploads/sites/10/2026/06/moonfall-9-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-07-01T01:45:00Z",
+        "source": "Space Explored"
+      },
+      {
+        "title": "Synthetic Human Chromosomes Explained",
+        "description": "Synthetic human chromosomes and genome engineering combine advances in DNA synthesis, genome assembly, chromosome design, and large-scale genetic modification to create synthetic genomes, artificial chromosomes, and engineered organisms for research, medicine, and biotechnology. These technologies are transforming fields ranging from gene therapy and pathogen reconstruction to xenotransplantation and minimal-cell biology, while raising important biosecurity and ethical considerations.",
+        "url": "https://www.news-medical.net/health/Synthetic-Human-Chromosomes-Explained.aspx",
+        "image": "https://www.news-medical.net/images/Article_Images/ImageForArticle_27628_17804379214897141.jpg",
+        "publishedAt": "2026-07-01T01:41:00Z",
+        "source": "News-Medical"
+      },
+      {
+        "title": "The unsettling possibility raised by quantum gravity is that time may not be a basic ingredient of reality. It may be something that emerges only inside the universe, from entanglement, entropy, and r",
+        "description": "The unsettling possibility in quantum gravity is not just that our clocks might be inaccurate. It is that the clock may not belong in the deepest description at all. In ordinary life, time feels like the background condition for everything else. Events happen in it. Clocks measure it. Causes seem to move through it. Even […]",
+        "url": "https://spacedaily.com/t-the-unsettling-possibility-raised-by-quantum-gravity-is-that-time-may-not-be-a-basic-ingredient-of-reality-it-may-be-something-that-emerges-only-inside-the-universe-from-entanglement-entropy-and-r/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/06/spacedaily_quantum_time_cmb_nasa-1024x512.jpg",
+        "publishedAt": "2026-07-01T01:30:16Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Space-ground asteroid monitoring network mulled",
+        "description": "Chinese scientists and engineers are conducting feasibility studies on developing a space-ground integrated monitoring and early-warning network to address risks posed by near-Earth asteroids, according to a project leader.",
+        "url": "https://www.chinadaily.com.cn/a/202607/01/WS6a446b5fa310986e2b462d9b.html",
+        "image": "http://img2.chinadaily.com.cn/images/202607/01/6a446b5fa310986e1018ad7e.jpeg",
+        "publishedAt": "2026-07-01T01:20:30Z",
+        "source": "China Daily"
+      },
       {
         "title": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer",
         "description": "NEW YORK (AP) — Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.The bone comes from the tail of a...",
@@ -158,112 +198,72 @@
         "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/01/112799.webp",
         "publishedAt": "2026-07-01T00:47:20Z",
         "source": "Manila Bulletin"
-      },
-      {
-        "title": "NASA to Launch Robotic Mission to Save Falling Space Telescope",
-        "description": "NASA is preparing to launch a daring robotic rescue mission in a high-stakes attempt to save one of its aging space telescopes from burning up in Earth’s atmosphere.",
-        "url": "https://www.tvcnews.tv/nasa-to-launch-robotic-mission-to-save-falling-space-telescope/",
-        "image": "https://www.tvcnews.tv/wp-content/uploads/2026/06/Screenshot-2026-06-30-214435.png",
-        "publishedAt": "2026-07-01T00:42:00Z",
-        "source": "TVC News"
-      },
-      {
-        "title": "The largest digital camera ever built begins decade-long survey of the universe",
-        "description": "The largest digital camera ever built is starting to capture images of unseen corners of the universe.",
-        "url": "https://www.ksl.com/article/51582497/the-largest-digital-camera-ever-built-begins-decade-long-survey-of-the-universe",
-        "image": "https://img.ksl.com/slc/3179/317996/31799659.jpg?filter=kslv2/responsive_story_lg",
-        "publishedAt": "2026-07-01T00:39:48Z",
-        "source": "KSL News"
-      },
-      {
-        "title": "Novel AI Tool Unveiled for Analyzing Complex Bio Data",
-        "description": "LOGAN, UTAH, USA -- As humans, our eyes take in two-dimensional images our brains convert to three-dimensional experiences. This ability enables us to",
-        "url": "https://www.miragenews.com/novel-ai-tool-unveiled-for-analyzing-complex-1702406/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1587955415524-bb264e518428%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-07-01T00:26:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Lived Experience: Recognize It as Valuable Expertise",
-        "description": "Timon Studler/Unsplash , CC BY-SA Institutions increasingly invite people to contribute their lived experience. Government agencies appoint patients",
-        "url": "https://www.miragenews.com/lived-experience-recognize-it-as-valuable-1702408/",
-        "image": "https://images.theconversation.com/files/742359/original/file-20260617-71-s82qv9.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C5184%2C3456&q=45&auto=format&w=1050&h=700&fit=crop",
-        "publishedAt": "2026-07-01T00:26:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection",
-        "description": "A research team in Korea has developed a vaccine technology that delivers long-lasting immune protection from a single dose by applying the powerful underwater adhesion mechanism of mussels. The work is drawing attention not only for reducing the burden of repeat vaccination, but also for its potential to reach people in countries where vaccine access is difficult.",
-        "url": "https://medicalxpress.com/news/2026-06-mussel-vaccine-aims-immunization-gap.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/no-need-for-repeat-sho.jpg",
-        "publishedAt": "2026-07-01T00:20:02Z",
-        "source": "Medical Xpress"
       }
     ],
     "ai": [
       {
-        "title": "‘Brace for Another Rally,’ Says Investor About Micron Stock",
-        "description": "Micron (NASDAQ:MU) has been one of the stock market’s biggest AI winners over the past year, with shares rocketing 855% as surging demand for AI...",
-        "url": "https://markets.businessinsider.com/news/stocks/brace-for-another-rally-says-investor-about-micron-stock-1036289322",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/06/image-2987-1024x543.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-07-01T01:14:00Z",
-        "source": "Markets Insider"
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
+        "publishedAt": "2026-07-01T02:04:40Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "U.S. government lifts export ban on Anthropic models",
-        "description": "The Trump administration has lifted export restrictions on AI company Anthropic's Fable 5 and Mythos 5 models, the company said Tuesday evening.",
-        "url": "https://www.upi.com/Top_News/US/2026/06/30/government-lifts-anthropic-export-ban/6301782867510/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/6301782867510/2026/1/48e68a89325c5a05898f0bc3137afad9/v1.5/US-government-lifts-export-ban-on-Anthropic-models.jpg",
-        "publishedAt": "2026-07-01T01:08:12Z",
-        "source": "UPI News"
+        "title": "UBTech’s lifelike humanoid robots built for companionship arriving in homes across China",
+        "description": "The unveiling of model U1, which has silicone skin and emotional AI, reflects tech firms’ drive to expand robotics beyond industrial use.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/30/22f8ea83-895c-4eb9-8276-3321952c4612_afe550b7.jpg?itok=bTTYFNvz&v=1782818762",
+        "publishedAt": "2026-07-01T02:00:08Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Microsoft's Strategic Workforce Resizing Amid AI Revolution",
-        "description": "Microsoft plans to reduce its workforce by under 2.5%, as reported by Business Insider. The layoffs are part of a trend where U.S. companies, particularly in technology, media, and finance sectors, are reducing headcount while focusing on cost management and AI infrastructure investment.",
-        "url": "https://www.devdiscourse.com/article/technology/3943349-microsofts-strategic-workforce-resizing-amid-ai-revolution",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_06_49_00_5739368.png&width=920&format=jpeg",
-        "publishedAt": "2026-07-01T01:07:53Z",
-        "source": "Devdiscourse"
+        "title": "AI-driven hormone tracker to help women recognise something is wrong",
+        "description": "With symptoms such as missed periods, fatigue and severe acne often overlooked, AI could help women recognise potential hormonal disorders earlier.",
+        "url": "https://www.thestar.com.my/lifestyle/health/2026/07/01/ai-driven-hormone-tracker-to-help-women-recognise-something-is-wrong",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/06/26/3979219.jpg",
+        "publishedAt": "2026-07-01T02:00:00Z",
+        "source": "The Star"
       },
       {
-        "title": "UST Named Among World's Most Ethical Companies in 2026 by Ethisphere",
-        "description": "/PRNewswire/ -- UST, a leading AI and technology transformation solutions company, has been recognized as one of the World's Most Ethical Companies® by...",
-        "url": "https://www.prnewswire.co.uk/news-releases/ust-named-among-worlds-most-ethical-companies-in-2026-by-ethisphere-302814718.html",
-        "image": "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg?p=facebook",
-        "publishedAt": "2026-07-01T01:00:00Z",
-        "source": "PR Newswire UK"
+        "title": "US Government Allows Anthropic To Redeploy Its Mythos And Fable AI Models",
+        "description": "Anthropic will start its users’ access to Mythos and Fable tomorrow, July 1.",
+        "url": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+        "image": "https://www.engadget.com/img/gallery/us-government-allows-anthropic-to-redeploy-its-mythos-and-fable-ai-models/l-intro-1782871024.jpg",
+        "publishedAt": "2026-07-01T01:59:26Z",
+        "source": "Engadget"
       },
       {
-        "title": "Chinese AI models close the gap with Anthropic and OpenAI",
-        "description": "Z.ai and DeepSeek, both Chinese AI models, land in the top 10 most popular models on OpenRouter. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/chinese-ai-models-close-the-gap-with-anthropic-and-openai",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/411a06247c9500c6f1c2341940528be7a1bdad021ee0e5e6d5d060d5c4dc9487",
-        "publishedAt": "2026-07-01T01:00:00Z",
-        "source": "The Straits Times"
+        "title": "How Will TCS, Infosys, Coforge, LTIMindtree and Other IT Peers Perform Amid AI, Geopolitical Risks",
+        "description": "Motilal Oswal expects tepid growth in Q1 FY27, with large-cap IT firms likely to post CC revenue growth in the range of -1.5% to 2% sequentially, reflecting weak discretionary spending and slower deal decision cycles.",
+        "url": "https://www.ndtvprofit.com/markets/it-sector-q1fy27-earnings-preview-how-will-tcs-infosys-coforge-ltimindtree-and-other-it-peers-perform-amid-ai-geopolitical-risks-11710270",
+        "image": "https://c.ndtvimg.com/2026-07/rlke9f9s_it-sector-q1-fy27-results-preview_625x300_01_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-07-01T01:55:33Z",
+        "source": "NDTV Profit"
       },
       {
-        "title": "US Lifts Restrictions On Anthropic's Fable 5, Mythos 5 AI Models",
-        "description": "Anthropic will soon begin restoring access globally to its most powerful AI models, Fable 5 and Mythos 5, after the US government lifted a restriction on where they could be released, the company said Tuesday.",
-        "url": "https://www.ndtv.com/world-news/us-lifts-restrictions-on-anthropics-fable-5-mythos-5-ai-models-11710187",
-        "image": "https://c.ndtvimg.com/2026-07/5tk8v7ic_anthropic-ai_625x300_01_July_26.jpeg",
-        "publishedAt": "2026-07-01T00:56:52Z",
-        "source": "NDTV.com"
+        "title": "South Korea exports post strongest growth since 1978 on AI chip boom",
+        "description": "South Korea's exports expanded at the strongest pace in nearly half a century last month, smashing forecasts, on a surge in chip sales propelled by the global boom in AI investment. \n...",
+        "url": "https://www.marketscreener.com/news/south-korea-exports-post-strongest-growth-since-1978-on-ai-chip-boom-ce7f5fdddd8bf624",
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T000210Z_1_LYNXMPEL3K000_RTROPTP_4_USA-TRUMP-TARIFFS-SOUTHKOREA.JPG",
+        "publishedAt": "2026-07-01T01:54:34Z",
+        "source": "MarketScreener"
       },
       {
-        "title": "Anthropic's advanced AI cleared for export as White House ends regulatory freeze",
-        "description": "Federal officials greenlight global access to Fable 5 following intense negotiations over national security loopholes and international backlash",
-        "url": "https://www.firstpost.com/world/anthropics-advanced-ai-cleared-for-export-as-white-house-ends-regulatory-freeze-14027865.html",
-        "image": "https://images.firstpost.com/uploads/2026/06/Anthropic-2-2026-06-de7e6463322ae4b78e21baa318cb1171.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-07-01T00:55:26Z",
-        "source": "Firstpost"
+        "title": "Jane Street, TSMC-Linked AI Startup Etched Raises $800 M",
+        "description": "AI chip challenger Etched has secured a massive $800 million in funding, with backing from industry heavyweights like Jane Street and a firm linked to TSMC. The startup, aiming to rival Nvidia, is set to begin shipping its AI chips this summer. Etched has already inked $1 billion in sales contracts and boasts an impressive roster of investors, including AI pioneer Geoffrey Hinton.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-tsmc-linked-ai-startup-etched-raises-800-m/articleshow/132103929.cms",
+        "image": "https://img.etimg.com/thumb/msid-132103921,width-1200,height-630,imgsize-18803,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-07-01T01:52:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Commerce Department gives green light for Anthropic to bring back Fable 5",
-        "description": "The public will once again be able to access Anthropic’s powerful Fable 5 model, the AI giant said Tuesday, weeks after the Commerce Department required the company to disable the model over potential security risks.",
-        "url": "https://www.nbcnews.com/business/business-news/commerce-department-gives-green-light-anthropic-bring-back-fable-5-rcna352501",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260630-Howard-Lutnick-vsb-2039-3a9b8c.jpg",
-        "publishedAt": "2026-07-01T00:55:16Z",
-        "source": "NBC News"
+        "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
+        "description": "The AI company was forced earlier this month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals",
+        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+        "image": "https://i.guim.co.uk/img/media/7ae711d1a1d3ebe6c39b48cdfa4c708f5f2daad3/568_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71dfa5c8c0ecee83997ab59bc60f4e69",
+        "publishedAt": "2026-07-01T01:51:08Z",
+        "source": "The Guardian"
       }
     ]
   }
