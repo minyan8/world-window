@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-11T23:12:32.734Z",
+  "fetchedAt": "2026-07-12T00:13:05.951Z",
   "sections": {
     "world": [
       {
-        "title": "No Gas, No Lights, No Comms, No Tourists: Ukraine’s Crimea Blockade Starts To Bite",
-        "description": "With bridges cut and a drone blitz on shipping, Russian-occupied Crimea is reeling from a relentless Ukrainian campaign of targeted drone strikes. Vladimir Putin has said the peninsula he seized in 2014 has a “sacred meaning” – but life there is becoming increasingly intolerable.",
-        "url": "https://www.rferl.org/a/no-gas-no-lights-no-comms-no-tourists-ukraine-s-crimea-blockade-starts-to-bite/33801579.html",
-        "image": "https://gdb.rferl.org/359c2285-d372-419c-403b-08decacf94d0_cx0_cy13_cw0_w1200_h630.jpg",
-        "publishedAt": "2026-07-11T11:11:11Z",
-        "source": "Radio Free Europe/Radio Liberty"
+        "title": "Indian-origin tech leader killed by husband in Georgia over domestic dispute, wounded son runs to neighbors for help",
+        "description": "US News: A scary scene unfolded at a Laurel Creek Trail neighborhood in Georgia earlier this week when a 23-year-old man ran from one neighbor to another to se.",
+        "url": "https://timesofindia.indiatimes.com/world/us/indian-origin-tech-leader-killed-by-husband-in-georgia-over-domestic-dispute-wounded-son-runs-to-neighbors-for-help/articleshow/132330293.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132331431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-11T12:11:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Speedboat capsizes in Vietnam, killing 15 Indian tourists",
-        "description": "A tourist boat has capsized in southern Vietnam, killing 15 Indian visitors. The speedboat was carrying 32 Indian tourists and four crew members when it overturned Saturday near Hon May Rut Ngoai Island.",
-        "url": "https://apnews.com/article/vietnam-indian-tourists-boat-966811c42ef3038ba4084391e2d83d37",
-        "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "publishedAt": "2026-07-11T11:11:00Z",
-        "source": "AP News"
+        "title": "NYT reporters issued subpoenas over Air Force One security concerns reporting",
+        "description": "The Trump administration has issued subpoenas to several New York Times journalists after its report this week on security concerns involving the new Air Force One, according to the paper.",
+        "url": "https://www.abc.net.au/news/2026-07-11/nyt-journalists-issued-subpoenas-over-air-force-one-reporting/106905722",
+        "image": "https://live-production.wcms.abc-cdn.net.au/ffd62f25639aec29957267353f4cbb25?impolicy=wcms_watermark_news&cropH=2476&cropW=4402&xPos=513&yPos=749&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-07-11T12:10:37Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
-        "title": "10 countries with animals on their national flags",
-        "description": "Discover 10 countries whose national flags feature animals, from Mexico's eagle to Bhutan's dragon, and learn the history and symbolism behind each. Read more.",
-        "url": "https://www.pulse.com.gh/story/10-countries-with-animals-on-their-national-flags-2026071111030413934",
-        "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/11072026/fd85cfe8-631e-4978-a8c7-864e2faf8eb8.jpg?operations=autocrop(1200:630)",
-        "publishedAt": "2026-07-11T11:09:30Z",
-        "source": "Pulse Ghana"
+        "title": "China’s Historic Poverty Eradication Strategy Offers Blueprint for Global South",
+        "description": "“A developing country can shake off poverty through their own efforts,” Lin told the journalists, urging them to return to their home countries with the confidence that change is possible.",
+        "url": "https://africabrief.substack.com/p/chinas-historic-poverty-eradication",
+        "image": "https://substackcdn.com/image/fetch/$s_!4hDp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fada26bc7-f49a-4f15-a763-bee788aa1cee_3104x3104.jpeg",
+        "publishedAt": "2026-07-11T12:07:43Z",
+        "source": "AfricaBrief"
       },
       {
-        "title": "Inside Ukraine's energy war: Is the strategy against Putin working?",
-        "description": "Ukrainian drone strikes on oil refineries are forcing Russia to ban diesel exports and seek gasoline imports from Kazakhstan amid growing fuel shortages across the country.",
-        "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Moscow-oil-refinery-in-Kapotnya-attacked-1-east2west-news.jpeg",
-        "publishedAt": "2026-07-11T11:08:00Z",
-        "source": "Fox News"
+        "title": "China braced for second major storm in a week",
+        "description": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "url": "https://www.bbc.com/news/articles/cdxd3wkp2rzo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
+        "publishedAt": "2026-07-11T12:06:47Z",
+        "source": "BBC"
       },
       {
-        "title": "How Cock-And-Bull Stories About Snake, Gorilla And Phantom Agency Keep Nigeria's Treasury Bleeding",
-        "description": "Few countries have produced official explanations for missing public funds as astonishing as Nigeria 39;s .",
-        "url": "https://www.modernghana.com/news/1509708/how-cock-and-bull-stories-about-snake-gorilla.html",
-        "image": "https://cdn.modernghana.com/images/content/7112026121652-txobrfeq5l-642026102407screenshot20260604at92047am.png",
-        "publishedAt": "2026-07-11T11:06:25Z",
-        "source": "Modern Ghana"
+        "title": "Typhoon Bavi: China braced for second major storm in a week",
+        "description": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
+        "publishedAt": "2026-07-11T12:06:47Z",
+        "source": "BBC"
       },
       {
-        "title": "How hyper-hot weather is changing Asia’s travel map",
-        "description": "With Asia warming twice as fast as the rest of the globe, extreme summer heat is scrambling traditional vacations, driving travelers toward high-altitude escapes and after-dark sightseeing.",
-        "url": "https://www.cnn.com/2026/07/11/travel/hyper-hot-weather-asia-travel-hk",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213370138.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-07-11T11:04:58Z",
-        "source": "CNN"
+        "title": "Kremlin Suddenly Started Calling Russia’s Invasion of Ukraine a “War.” Here’s What It Means",
+        "description": "Kremlin spokesperson Dmitry Peskov now calls the Ukraine invasion a \"full-scale war,\" a shift from \"special military operation.\"",
+        "url": "https://united24media.com/war-in-ukraine/kremlin-suddenly-started-calling-russias-invasion-of-ukraine-a-war-heres-what-it-means-20679",
+        "image": "https://storage.united24media.com/og/6/35/4aeab1bb2e62fb797041aa0ecc9b2356.jpg",
+        "publishedAt": "2026-07-11T12:06:29Z",
+        "source": "UNITED24 Media"
       },
       {
-        "title": "Diplomats Hail Ethiopia’s Green Legacy Initiative as Global Model for Climate Action",
-        "description": "Addis Ababa, July 11, 2026 (ENA) —Ambassadors and diplomatic representatives from various countries have praised Ethiopia’s Green Legacy Initiative as an exemplary model for addressing climate change and advancing sustainable development.\nThey also described the initiative as a significant contribution to global climate solutions.\nAs climate change continues to pose one of the most pressing challenges facing the world, Ethiopia has embarked on an ambitious environmental restoration effort through the Green Legacy Initiative, launched by Prime Minister Abiy Ahmed in 2019.\nNow entering its eighth year, the initiative has delivered notable results through nationwide tree-planting campaigns aimed at restoring degraded landscapes, expanding forest coverage, improving environmental sustainability and strengthening climate resilience.\nStakeholders have highlighted that the initiative’s impact extends beyond environmental protection, it was learned.\nReport show that the Green Legacy Initiative is contributing to agricultural productivity, ecosystem restoration and the creation of healthier and more sustainable communities.\nHaving planted more than 48 billion tree seedlings in recent years, Ethiopia has launched this year’s campaign under the theme “Let Us Plant Our Hope,” with a target of planting an additional 8 billion seedlings during the 2026 rainy season.\nSpeaking to ENA, diplomats commended Ethiopia’s commitment to green development, describing the Green Legacy Initiative as an inspiring example for countries seeking practical solutions to the global climate crisis.\nThe Israeli Ambassador to Ethiopia, Avraham Neguise, said Ethiopia’s Green Legacy Initiative and its large-scale tree-planting efforts are highly significant, particularly as climate change affects countries across the globe.\nHe noted that Ethiopia is demonstrating leadership by advancing climate action from Africa, emphasizing that environmental challenges require collective global responses.\n“Climate change is a global phenomenon affecting the entire world, and Ethiopia is taking a leading role, particularly from the African continent,” he said.\nSimilarly, Pakistan’s Trade and Investment Representative in Ethiopia, Basit Saleem Shah, highlighted the initiative’s contribution to creating a cleaner environment.\nHe further revealed that the Green Legacy works are enhancing Ethiopia’s natural beauty and development prospects.\nShah added that the Initiative has strengthened Ethiopia’s efforts to promote a pollution-free environment, improve urban greenery and create a more attractive destination for visitors, investors and businesses.\n“The Green Legacy has added a beautiful charm to Ethiopia by developing a green environment and promoting a pollution-free atmosphere,” he said, appreciating the efforts of the Ethiopian people and government in achieving remarkable progress within a short period.\nSri Lanka’s Ambassador to Ethiopia, Nirmala Paranavitana, described Ethiopia’s green development approach as a visionary initiative, noting its role in supporting economic growth alongside environmental sustainability.\nShe said Sri Lanka is exploring opportunities to collaborate with Ethiopia in green development, recognizing that environmental initiatives can go hand in hand with trade and economic expansion.\n“Green Legacy works in parallel with trade and economic expansion in a country. It is very important that Ethiopia adopted this initiative, and Sri Lanka would be willing to join hands in this sector,” she said.\nThe ambassador further emphasized that Ethiopia’s Green Legacy Initiative contributes to global climate strategies and supports international efforts to achieve climate action goals.\nLaunched to combat climate change, restore ecosystems and enhance sustainable development, Ethiopia’s Green Legacy Initiative has become one of the world’s largest national tree-planting and environmental restoration programs, drawing growing international recognition for its scale and ambition.",
-        "url": "https://www.ena.et/web/eng/w/eng_9199160",
-        "image": "https://www.ena.et/documents/42142/0/aMBAASSSADORS2026.jpg/8d9607ff-5da4-ac9b-df84-877a8a26c063?version=1.0&t=1783767649875&download=true",
-        "publishedAt": "2026-07-11T11:04:04Z",
-        "source": "ENA English"
+        "title": "Josh Duggar Transferred Again To Ohio Prison, Family Visits Will be Hard To Come By",
+        "description": "Josh Duggar has been transferred yet again to a federal prison in Ohio -- which is going to make it super hard for his wife and kids to visit him from all the way in Arkansas, TMZ has learned.",
+        "url": "https://www.tmz.com/2026/07/11/josh-duggar-family-will-struggle-to-visit-ohio-prison/",
+        "image": "https://imagez.tmz.com/image/80/16by9/2026/07/11/80d312986d674b1bbd7df9e7e1e404a0_xl.jpg",
+        "publishedAt": "2026-07-11T12:06:19Z",
+        "source": "TMZ"
       },
       {
-        "title": "Iran denies seeking talks with US, rejects Trump's claim as US President warns of '1,000 missiles' if threatened",
-        "description": "Iranian Foreign Ministry spokesperson Esmaeel Baqaee said Tehran had not initiated any request for negotiations with the US, contradicting Trump's assertion.",
-        "url": "https://www.moneycontrol.com/world/iran-denies-seeking-talks-with-us-rejects-trump-s-claim-as-us-president-warns-of-1-000-missiles-if-threatened-article-13971521.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711110206_Trump-Baqeui.jpg",
-        "publishedAt": "2026-07-11T11:02:22Z",
-        "source": "Moneycontrol.com"
+        "title": "US lawmaker Ro Khanna says Israeli settlers armed with US-made rifles detained him in West Bank",
+        "description": "US News: A US Democratic lawmaker has alleged that he was briefly detained by Israeli settlers armed with US-made rifles during a visit to the occupied West Ba.",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-lawmaker-ro-khanna-says-israeli-settlers-armed-with-us-made-rifles-detained-him-in-west-bank/articleshow/132329915.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132330154,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-11T12:02:00Z",
+        "source": "The Times of India"
       }
     ],
     "business": [
       {
-        "title": "Pfizer Stock: The AI Hedge That Pays You To Stay Defensive (NYSE:PFE)",
-        "description": "Pfizer remains an undervalued diversification play, underperforming the benchmark but increasing 2% since prior coverage. Learn why PFE stock is a strong buy.",
-        "url": "https://seekingalpha.com/article/4921356-pfizer-the-ai-hedge-that-pays-you-to-stay-defensive",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1292440985/image_1292440985.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-07-11T11:09:31Z",
-        "source": "Seeking Alpha"
+        "title": "Fed Governor Christopher Waller Just Drove a Dagger Through President Donald Trump's Demand for Lower Interest Rates",
+        "description": "Members of the Federal Open Market Committee (FOMC), including Fed Board Governor Waller, have begun indirectly jabbing back at the president's frequent calls for lower rates.",
+        "url": "https://www.fool.com/investing/2026/07/11/fed-waller-dagger-trump-demand-low-interest-rates/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878212%2F49750148681_73e99680b4_k.jpg&w=1200&op=resize",
+        "publishedAt": "2026-07-11T12:09:53Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Cornish version of Manchester buses 'would need extra funding'",
-        "description": "Cornwall Council has been exploring whether Manchester-style bus franchising could also work there.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e41k14yo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ef2/live/2fd6dd30-7af6-11f1-94d8-c95634a95d3e.jpg",
-        "publishedAt": "2026-07-11T11:09:03Z",
-        "source": "BBC"
+        "title": "Joule Pro Launches National Insurance Program Built Exclusively for Electrical Contractors",
+        "description": "Fusco Orsini & Associates debuts a specialty program called Joule Pro, pairing purpose-built coverage with in-house claims advocacy and field-grade risk engineering for the electrical trade.",
+        "url": "https://www.manilatimes.net/2026/07/11/tmt-newswire/globenewswire/joule-pro-launches-national-insurance-program-built-exclusively-for-electrical-contractors/2382754",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/11/1133519.png",
+        "publishedAt": "2026-07-11T12:06:59Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Cornish version of Manchester buses 'would need extra funding'",
-        "description": "Cornwall Council has been exploring whether Manchester-style bus franchising could also work there.",
-        "url": "https://www.bbc.com/news/articles/ckg4e41k14yo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4ef2/live/2fd6dd30-7af6-11f1-94d8-c95634a95d3e.jpg",
-        "publishedAt": "2026-07-11T11:09:03Z",
-        "source": "BBC"
+        "title": "Watch: Moment Cork woman wins life-changing €310,000 cash machine prize",
+        "description": "It's the biggest win in the competition's history",
+        "url": "https://www.corkbeo.ie/incoming/watch-moment-cork-woman-wins-34275388",
+        "image": "https://i2-prod.corkbeo.ie/article34275665.ece/ALTERNATES/s1200d/0_Screenshot-2026-07-11-at-130010pngSio.png",
+        "publishedAt": "2026-07-11T12:06:48Z",
+        "source": "Cork Beo"
       },
       {
-        "title": "From Suspended Licence To Billion-Naira Profit, How Kurfi Turned N2m Into Billion-Naira Investment",
-        "description": "Kasimu Kurfi’s entrepreneurial journey is a story of resilience, strategic thinking and persistence, transforming a modest N2 million personal savings into a",
-        "url": "https://leadership.ng/from-suspended-licence-to-billion-naira-profit-how-kurfi-turned-n2m-into-billion-naira-investment/",
-        "image": "https://leadership.ng/wp-content/uploads/2026/07/kasimu.jpg",
-        "publishedAt": "2026-07-11T11:05:13Z",
-        "source": "LEADERSHIP Newspapers"
+        "title": "Aleph Hospitality To Manage A’Ibom Hotels As State Moves To Global Tourism Standards",
+        "description": "Akwa Ibom State Government has signed a Memorandum of Understanding (MoU) with international hotel management company, Aleph Hospitality, to take over the management of its key hospitality assets. The decision is said to have been made to reposition the state as Nigeria’s leading tourism and conference destination. The move, which signals a new phase in...",
+        "url": "https://independent.ng/aleph-hospitality-to-manage-aibom-hotels-as-state-moves-to-global-tourism-standards/",
+        "image": "https://independent.ng/wp-content/uploads/2026/07/idon-33.jpg",
+        "publishedAt": "2026-07-11T12:02:13Z",
+        "source": "Independent Newspaper Nigeria"
       },
       {
-        "title": "Netflix reportedly exploring always-on live TV channels",
-        "description": "Netflix is reportedly considering launching always-on live television channels as the streaming company explores new ways to increase viewer engagement and expand its advertising business.",
-        "url": "https://www.thedailystar.net/news/tech-startup/news/netflix-reportedly-exploring-always-live-tv-channels-4221261",
-        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-07/brett-jordan-oM02bxdWiI8-unsplash.jpg",
-        "publishedAt": "2026-07-11T11:04:50Z",
-        "source": "The Daily Star"
+        "title": "A Niche MacBook Idea. Five Minutes. One Codex App.",
+        "description": "Business Insider's Stephen Council used OpenAI Codex to build a custom Mac clipboard app in minutes—no coding required.",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "image": "https://i.insider.com/6a5135e4daf4d560957bf1df?width=1200&format=jpeg",
+        "publishedAt": "2026-07-11T12:02:09Z",
+        "source": "Business Insider"
       },
       {
-        "title": "Datacentres drive up carbon emissions of Microsoft, Amazon and Google to a third of those of France",
-        "description": "All three companies say they still aim to achieve net zero carbon output despite construction boom",
-        "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-        "image": "https://i.guim.co.uk/img/media/759518978daf02dee0d450e98f9f76de047cf552/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5378afed81a42b8da30c8e1561edeb6f",
-        "publishedAt": "2026-07-11T11:02:00Z",
+        "title": "Ikea to open 7 new stores through 2027. See where",
+        "description": "Furniture giant Ikea is opening seven new stores through the winter of 2027. Here's where and when the stores are scheduled to open.",
+        "url": "https://www.usatoday.com/story/money/2026/07/11/ikea-opening-new-stores-locations/90878057007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90878514007-20240426-t-120359-z-368735238-rc-28-e-7-aiwjiu-rtrmadp-3-ikearesults-1.JPG?crop=5218,2935,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-07-11T12:01:00Z",
+        "source": "USA Today"
+      },
+      {
+        "title": "Slew of lawsuits over disability access frustrates US cafe and shop owners",
+        "description": "Business owners say they’re being unfairly targeted – but disability advocates say violations must be dealt with",
+        "url": "https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses",
+        "image": "https://i.guim.co.uk/img/media/31be4bc06d203a0b8f834e469cd9233cfbedb81b/375_0_3747_3000/master/3747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9afd27db92109c0e56ed2948ebe6f444",
+        "publishedAt": "2026-07-11T12:01:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "The Best AI Degrees And How To Choose The Right Major",
-        "description": "From AI majors to traditional STEM degrees, here's what you should study if you want to work in artificial intelligence and set yourself up for a future-proof career.",
-        "url": "https://www.forbes.com/sites/sarahhernholm/article/best-ai-degrees/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a5010c5551dd74d962bffa6/0x0.jpg?format=jpg&crop=2551,1701,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-11T11:00:00Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Safe from AI: which jobs will help you thrive in the future?",
-        "description": "Experts say there will still be opportunities ahead in everything from teaching to hotels and the law",
-        "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-        "image": "https://i.guim.co.uk/img/media/5a3983d88fce9aed3b93c1f0042fe0ca573df746/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=017d0390fab61f85708fa157a1e7e76f",
-        "publishedAt": "2026-07-11T11:00:00Z",
+        "title": "‘Greasy, flavourless and bland’: the best (and worst) supermarket party cakes, tasted and rated",
+        "description": "There’s no getting away from it: these are all ultra-processed, but which sponges are the life of the party and which are too sweet for comfort?",
+        "url": "https://www.theguardian.com/thefilter/2026/jul/11/best-supermarket-party-cakes-tasted-rated",
+        "image": "https://i.guim.co.uk/img/media/1aff2522525af30992dab370d4f136596abe03b7/1112_0_6674_5342/master/6674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=e42643d0e341e78db79a8181d5c7632c",
+        "publishedAt": "2026-07-11T12:00:50Z",
         "source": "The Guardian"
       }
     ],
     "science": [
+      {
+        "title": "A Jupiter-size planet that escaped its star's death",
+        "description": "It's unclear how the planet avoided its star's bloated red giant stage.",
+        "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.jpeg",
+        "publishedAt": "2026-07-11T12:00:58Z",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Bacterial responses to plasma may forecast mild vs severe COVID-19",
+        "description": "Information processing using living organisms is an important area of biotechnology that has already been explored in previous studies.",
+        "url": "https://medicalxpress.com/news/2026-07-bacterial-responses-plasma-mild-severe.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/a-bacterium-capable-of.jpg",
+        "publishedAt": "2026-07-11T12:00:01Z",
+        "source": "Medical Xpress"
+      },
+      {
+        "title": "The 10 Largest Underground Lakes in the World",
+        "description": "Beneath glaciers, caves, and mountains lie the world's 10 largest underground lakes, each revealing remarkable geology and hidden life.",
+        "url": "https://www.worldatlas.com/lakes/the-10-largest-underground-lakes-in-the-world.html",
+        "image": "https://www.worldatlas.com/r/w1200-q80/upload/88/c3/56/shutterstock-2689276103-s3cdn.jpg",
+        "publishedAt": "2026-07-11T12:00:00Z",
+        "source": "WorldAtlas"
+      },
+      {
+        "title": "Scientists Say They've Identified an Earth-Like Planet Right Next Door",
+        "description": "Astronomers have discovered that an exoplanet only 25 light years away is a lot more like Earth than once thought.",
+        "url": "https://futurism.com/space/scientists-discover-earth-like-planet-right-next-door",
+        "image": "https://futurism.com/wp-content/uploads/2026/07/scientists-discover-earth-like-planet-right-next-door.jpg?quality=85&w=1200",
+        "publishedAt": "2026-07-11T12:00:00Z",
+        "source": "Futurism"
+      },
+      {
+        "title": "Artemis II Shows How Off-the-Shelf Cameras Are Becoming Scientific Tools in Space",
+        "description": "Stunning images captured by astronauts aboard Artemis II using a Nikon Z9 have now been used to help researchers learn more about astronomy.",
+        "url": "https://www.cnet.com/science/space/nasa-nikon-z9-artemis-ii-solar-eclipse-camera-tech-space-exploration/",
+        "image": "https://www.cnet.com/a/img/resize/9e48c4a162be6ca994b2b40fbc39087281909e2a/hub/2026/07/10/acf1f67b-b41e-419f-befb-619d3dfddcc8/artemis-ii-in-eclipse.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-11T12:00:00Z",
+        "source": "CNET"
+      },
+      {
+        "title": "Radio observations reveal once hidden structures around the Orion Nebula",
+        "description": "Orion is about as familiar as a patch of sky gets. Visible without a telescope, studied by nearly every major instrument ever pointed at the heavens, mapped and catalogued across centuries of astronom...",
+        "url": "https://www.yahoo.com/news/science/articles/radio-observations-reveal-once-hidden-115100237.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/0320584ef110c08d39950f0a790316d9a9c2ee4af9ee125b47534e0d5b265754/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_brighter_side_of_news_articles_781%2F0a39165184895bba95f1793179b52008",
+        "publishedAt": "2026-07-11T11:51:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Radio observations reveal once hidden structures around the Orion Nebula",
+        "description": "Radio maps of the Orion Nebula reveal expanding shells and cavities, while cutting the estimated mass of its surrounding shell nearly tenfold",
+        "url": "https://www.thebrighterside.news/post/radio-observations-reveal-once-hidden-structures-around-the-orion-nebula/",
+        "image": "https://www.thebrighterside.news/uploads/2026/07/orion-1.jpg?auto=webp",
+        "publishedAt": "2026-07-11T11:51:00Z",
+        "source": "The Brighter Side of News"
+      },
       {
         "title": "AI Detects Hidden Warning Signs Before Major Earthquakes",
         "description": "A new analysis of seismic “families” reveals that some large earthquakes may be preceded by hidden patterns in clustering, localization, and strain release. The warning signs before a major earthquake, if they exist at all, are often buried in thousands of smaller tremors that seem ordinary at fi",
@@ -142,128 +198,72 @@
         "image": "https://scitechdaily.com/images/Red-Concentric-Circles-Earthquake-Seismograph.jpg",
         "publishedAt": "2026-07-11T11:11:02Z",
         "source": "SciTechDaily"
-      },
-      {
-        "title": "Science news this week: Time emerges inside a mini-universe, scientists thicken Arctic ice, and one of the oldest graves of a free Black person in the US found",
-        "description": "July 11, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-        "url": "https://www.livescience.com/physics-mathematics/science-news-this-week-time-emerges-inside-a-mini-universe-scientists-thicken-arctic-ice-and-one-of-the-oldest-graves-of-a-free-black-person-in-the-us-found",
-        "image": "https://cdn.mos.cms.futurecdn.net/HKdmkJbD3zyvp6akYGDjTH-1600-80.jpg",
-        "publishedAt": "2026-07-11T11:00:00Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "China's Tianwen-2 Probe Reaches Earth's Quasi-Moon Kamo'oalewa, Sends Back First Close-Up Images Ever",
-        "description": "China's Tianwen-2 spacecraft successfully rendezvoused with asteroid Kamo'oalewa, capturing first-ever close-up images. The mission aims to collect samples, offering insights into the solar system's",
-        "url": "https://www.ibtimes.com.au/china-tianwen-2-rendezvous-asteroid-kamooalewa-1872117",
-        "image": "https://d.ibtimes.com.au/en/full/1895060/chinas-tianwen-2-probe-reaches-earths-quasi-moon-kamooalewa-sends-back-first.jpg",
-        "publishedAt": "2026-07-11T10:10:44Z",
-        "source": "International Business Times Australia"
-      },
-      {
-        "title": "Asteroid Apophis' 2029 flyby of Earth will be visible to billions of people",
-        "description": "During this completely safe pass, asteroid Apophis will appear to the naked eye as a small white dot, slowly crossing the night sky.",
-        "url": "https://ca.news.yahoo.com/asteroid-apophis-2029-flyby-earth-100009229.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5813a285f3d18c11ec1ea8e80013a3fc0e13b7caa0e6759887499e9d4a3cbe4e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_network_616%2Ffceea7ea3948b8bef577aca0a461a33c",
-        "publishedAt": "2026-07-11T10:00:09Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "Meet Biomni: the free powerful biomed AI agent turning data into hypotheses",
-        "description": "Stanford team that includes two Chinese among its main developers says system can turn a plain-language request into an entire research workflow",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/meet-biomni-the-free-powerful-biomed-ai-agent-turning-data-into-hypotheses",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004537.jpg",
-        "publishedAt": "2026-07-11T09:48:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "BOHR Satellite: World's First Commercial Nuclear-Powered Satellite Launched by SpaceX",
-        "description": "The world's first commercially built nuclear-powered satellite, BOHR (Betavoltaic Orbital High-Reliability), has successfully entered orbit aboard a SpaceX Falcon 9 rocket during the Transporter-17 rideshare mission.Developed by City Labs, a Florida-based",
-        "url": "https://www.sanskritiias.com/current-affairs/bohr-satellite-worlds-first-commercial-nuclear-powered-satellite-launched-by-spacex",
-        "image": "https://www.sanskritiias.com/frontview/assets/images/sanskriti-logo.png",
-        "publishedAt": "2026-07-11T09:47:57Z",
-        "source": "Sanskriti IAS"
-      },
-      {
-        "title": "Euclid finds 31 ancient quasars, including 2 that set a record for earliest ever seen",
-        "description": "The oldest two were emitting light comparable to that of about a trillion suns.",
-        "url": "https://www.yahoo.com/news/science/articles/euclid-finds-31-ancient-quasars-093700021.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/59e79b95bc5832f12b83d0814934f147225608b3e72ce63d38a6ad9a6b6246c4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F180deeda9682c92091f966ecd660453a",
-        "publishedAt": "2026-07-11T09:37:00Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "The rocks at the very summit of Mount Everest are limestone formed on an ancient ocean floor, and fossils of trilobites, sea lilies, and tiny crustaceans have been found in samples collected just six",
-        "description": "The summit of Everest is usually imagined as the opposite of an ocean floor. It is the highest point on Earth above sea level, a wind-scoured place where the",
-        "url": "https://spacedaily.com/t-the-rocks-at-the-very-summit-of-mount-everest-are-limestone-formed-on-an-ancient-ocean-floor-and-fossils-of-trilobites-sea-lilies-and-tiny-crustaceans-have-been-found-in-samples-collected-just-six/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_everest_limestone_fossils_pexels.jpg",
-        "publishedAt": "2026-07-11T09:30:28Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI folds safety into research as head of safety exits",
-        "description": "Johannes Heidecke is leaving OpenAI as the company merges safety and research under a new VP role. It's the latest in a long line of safety exits and team disbandments.",
-        "url": "https://thenextweb.com/news/openai-heidecke-safety-head-leaving-research-merger",
-        "image": "https://media.thenextweb.com/2026/04/openai-chatgpt-pro-100-codex-claude-max.avif",
-        "publishedAt": "2026-07-11T11:10:24Z",
-        "source": "TNW"
+        "title": "HyperTexting Makes the Entire Web a Social Feed for Your Doomscrolling Pleasure",
+        "description": "The endless web, no advertisements, algorithms, or AI slop.",
+        "url": "https://gizmodo.com/hypertexting-makes-the-entire-web-a-social-feed-for-your-doomscrolling-pleasure-2000784272",
+        "image": "https://gizmodo.com/app/uploads/2026/07/ht-profiles-copy-1200x675.png",
+        "publishedAt": "2026-07-11T12:10:40Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "SK Hynix Shares Jump 13% In Nasdaq Debut After $26.5 Billion Share Sale",
-        "description": "South Korean chipmaker SK Hynix’s US-listed shares surged 13% in their Nasdaq debut after raising $26.5 billion through an offering. The listing highlights continued investor enthusiasm for AI-linked semiconductor companies, with funds expected to support new factories and expand access to global investors amid strong demand for advanced memory chips",
-        "url": "https://www.freepressjournal.in/business/sk-hynix-shares-jump-13-in-nasdaq-debut-after-265-billion-share-sale",
-        "image": "https://media.assettype.com/freepressjournal/2026-07-11/fvsgc8x7/SK-hynix.jpg",
-        "publishedAt": "2026-07-11T11:09:42Z",
-        "source": "Free Press Journal"
+        "title": "AI has already fallen into the wrong hands and they're using it to make bombs",
+        "description": "Researchers say popular AI tools have reportedly been misused by terrorist groups despite built-in safeguards, highlighting the darker side of generative AI.",
+        "url": "https://www.digitaltrends.com/cool-tech/ai-has-already-fallen-into-the-wrong-hands-and-theyre-using-it-to-make-bombs/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/07/AI-chatbots.jpg?resize=1200%2C630",
+        "publishedAt": "2026-07-11T12:09:44Z",
+        "source": "Digital Trends"
       },
       {
-        "title": "Pfizer Stock: The AI Hedge That Pays You To Stay Defensive (NYSE:PFE)",
-        "description": "Pfizer remains an undervalued diversification play, underperforming the benchmark but increasing 2% since prior coverage. Learn why PFE stock is a strong buy.",
-        "url": "https://seekingalpha.com/article/4921356-pfizer-the-ai-hedge-that-pays-you-to-stay-defensive",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1292440985/image_1292440985.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-07-11T11:09:31Z",
-        "source": "Seeking Alpha"
+        "title": "AI Can Scan A Portfolio In Seconds, But Not The Life Behind It, Says Col. (Retd.) Sanjeev Govila",
+        "description": "Col. (Retd) Sanjeev Govila, CEO of Hum Fauji Initiatives, says AI is useful for learning but can't replace personalised financial advice. It lacks context on goals, family, risk and finances, so don't rely on it alone.",
+        "url": "https://www.outlookindia.com/announcements/news-media-wire/ai-can-scan-a-portfolio-in-seconds-but-not-the-life-behind-it-says-col-retd-sanjeev-govila",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-07-11/71znx3yc/AI-Analysis-of-Portfolio?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-11T12:07:22Z",
+        "source": "Outlook India"
       },
       {
-        "title": "Govt plans AI data trusts pilot at IIT Hyderabad to enable secure datasets, boost India's AI ecosystem",
-        "description": "IT minister Ashwini Vaishnaw says sector-specific data trusts can help startups, researchers and companies access Indian datasets under responsible-use policies",
-        "url": "https://www.moneycontrol.com/news/business/govt-plans-ai-data-trusts-pilot-at-iit-hyderabad-to-enable-secure-datasets-boost-india-s-ai-ecosystem-13971553.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711110051_Ashwini-Vaishnaw-hyderabad.png",
-        "publishedAt": "2026-07-11T11:02:44Z",
-        "source": "Moneycontrol"
-      },
-      {
-        "title": "Record Companies Demand Clear Warning Labels for AI Songs on Streaming Platforms",
-        "description": "Record companies are reportedly demanding that AI-generated songs be labeled as such on streaming platforms.",
-        "url": "https://www.breitbart.com/entertainment/2026/07/11/record-companies-demand-clear-warning-labels-for-ai-songs-on-streaming-platforms/",
-        "image": "https://media.breitbart.com/media/2026/07/GettyImages-2260959190-640x335.jpg",
-        "publishedAt": "2026-07-11T11:01:13Z",
+        "title": "'They See It for What It Is Very Quickly'",
+        "description": "Director Christopher Nolan says young filmgoing audiences should be commended for \"utterly rejecting\" AI-generated video.",
+        "url": "https://www.breitbart.com/entertainment/2026/07/11/director-christopher-nolan-praises-gen-z-for-rejecting-ai-slop-they-see-it-for-what-it-is-very-quickly/",
+        "image": "https://media.breitbart.com/media/2026/07/GettyImages-2285051305-640x335.jpg",
+        "publishedAt": "2026-07-11T12:07:00Z",
         "source": "Breitbart News Network"
       },
       {
-        "title": "AI ‘actor’ Tilly Norwood has a movie coming out. Spare us this future",
-        "description": "Acting is about human connection across cultural and social divides. But we can’t expect much of that in the ‘Tillyverse’",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
-        "image": "https://i.guim.co.uk/img/media/0e61e97a45a583364c863eb3e4983da36cdc03e1/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f62e8cd3ccfe708b07499a6f14892d17",
-        "publishedAt": "2026-07-11T11:00:48Z",
-        "source": "The Guardian"
+        "title": "Elon Musk Reacts To Apple's Trade Secrets Lawsuit On OpenAI: ‘Scam Altman Strikes Again’",
+        "description": "Not his first. Elon Musk reacted to Apple's lawsuit against OpenAI over breach of trade secrets with his trademark jibe at CEO Sam Altman. Once pals and co-founders of OpenAI, Musk and Altman are at odds now more than ever.",
+        "url": "https://in.mashable.com/tech/111858/elon-musk-reacts-to-apples-trade-secrets-lawsuit-on-openai-scam-altman-strikes-again",
+        "image": "https://sm.mashable.com/mashable_in/seo/default/00-aa-banner-1200-x-675-2026-07-11t171257019_kjhm.jpg",
+        "publishedAt": "2026-07-11T12:02:45Z",
+        "source": "Mashable India"
       },
       {
-        "title": "Safe from AI: which jobs will help you thrive in the future?",
-        "description": "Experts say there will still be opportunities ahead in everything from teaching to hotels and the law",
-        "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-        "image": "https://i.guim.co.uk/img/media/5a3983d88fce9aed3b93c1f0042fe0ca573df746/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=017d0390fab61f85708fa157a1e7e76f",
-        "publishedAt": "2026-07-11T11:00:47Z",
-        "source": "The Guardian"
+        "title": "A Niche MacBook Idea. Five Minutes. One Codex App.",
+        "description": "Business Insider's Stephen Council used OpenAI Codex to build a custom Mac clipboard app in minutes—no coding required.",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "image": "https://i.insider.com/6a5135e4daf4d560957bf1df?width=1200&format=jpeg",
+        "publishedAt": "2026-07-11T12:02:01Z",
+        "source": "Business Insider"
       },
       {
-        "title": "The Biggest New Threat to Smart Homes Is AI Promptware. My Tips Help Stop It",
-        "description": "Prompt injections into AI have created a new world of home-hacking opportunities. Here's how it works and my steps to protect yourself.",
-        "url": "https://www.cnet.com/home/security/promptware-threatens-to-take-over-ai-and-smart-homes-heres-how-to-protect-yourself/",
-        "image": "https://www.cnet.com/a/img/resize/b39e10bf903e60c5c80ac5d7b5006cf05cf6d6e4/hub/2026/07/10/5d411339-4d1d-487e-860c-d95f32c1c64b/gettyimages-2188051347.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-07-11T11:00:00Z",
-        "source": "CNET"
+        "title": "Ethereum Foundation says AI found bug that could take validators offline",
+        "description": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+        "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e66950b0e6ed69b66abb166d8961c9cff1c8bfb1-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-11T12:00:00Z",
+        "source": "CoinDesk"
+      },
+      {
+        "title": "AI slop warning issued to businesses as customers call out ChatGPT adverts",
+        "description": "Customers have shared their distaste for generative AI, leading to warnings about its use in flyers",
+        "url": "https://www.ladbible.com/technology/generative-ai-posters-business-warning-617079-20260711",
+        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blta326c68a2987f21b/6a5229747c9b06001920a559/GettyImages-2213447257.jpg",
+        "publishedAt": "2026-07-11T11:57:26Z",
+        "source": "LADbible"
       }
     ]
   }
