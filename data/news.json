@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-12T09:18:24.997Z",
+  "fetchedAt": "2026-07-12T11:32:54.874Z",
   "sections": {
     "world": [
       {
-        "title": "Malaysia's durian price crash sparks nationwide party boom",
-        "description": "As durian prices tumble, Malaysians are throwing durian parties across the country Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/se-asia/when-durian-prices-crash-malaysia-throws-parties",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ba3075db8d09a8538d26109cf4887c26892e43abf7fb476d9d6b34f5c812f717",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "The Straits Times"
+        "title": "Iran declares Strait of Hormuz closed, US renews strikes",
+        "description": "Iran said it closed the Strait of Hormuz after a vessel travelled on an unapproved route and was struck.",
+        "url": "https://www.smh.com.au/world/middle-east/iran-declares-strait-of-hormuz-closed-until-the-end-of-us-interference-in-this-region-20260712-p60elg.html",
+        "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/q_86%2Cf_auto/d6017b19c2cdbbd7712c9f80ce110c48b9067cf1",
+        "publishedAt": "2026-07-11T23:30:40Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Quiz: Can You Rank All 7 Continents from Largest to Smallest?",
-        "description": "It's time to put your map skills to the test!",
-        "url": "https://www.mentalfloss.com/quizzes/geography/rank-all-7-continents-largest-to-smallest",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kx70qfsbqstywj8j4r.jpg",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "Mental Floss"
+        "title": "UK police make new arrest over killing of former politician",
+        "description": "The former UK politician and reality TV contestant was found dead in her isolated rural home in the village of Haytor on the edge of Dartmoor National Park.",
+        "url": "https://www.smh.com.au/world/europe/police-make-new-arrest-over-killing-of-former-uk-minister-ann-widdecombe-20260712-p60eln.html",
+        "image": "https://static.ffx.io/images/$zoom_0.1935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4812a0914fec38114a4cc3ebd29d40b6da73f173",
+        "publishedAt": "2026-07-11T23:25:37Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "India, New Zealand upgrade their 'made for each other' ties",
-        "description": "India News: India and New Zealand upgraded their relationship to a strategic partnership as they signed defence agreements to boost maritime cooperation in the In.",
-        "url": "https://timesofindia.indiatimes.com/india/india-new-zealand-upgrade-their-made-for-each-other-ties/articleshow/132337637.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132337649,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-11T20:55:00Z",
-        "source": "The Times of India"
+        "title": "Police in Britain make new arrest over Widdecombe killing",
+        "description": "British police have arrested a 28-year-old man on suspicion of killing former politician Ann Widdecombe.",
+        "url": "https://apnews.com/article/ann-widdecombe-british-politician-murder-investigation-d01ef397629ecb0149303fa19fd62106",
+        "image": "https://dims.apnews.com/dims4/default/2db0f42/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F70%2Fd7a4fd3a49bd9463f07098a7bbb5%2F1cf06351c639461e82c8428fe35d8f73",
+        "publishedAt": "2026-07-11T23:17:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Namibia Unveils Reimagined Mokuti Etosha After Massive Luxury Safari Transformation",
-        "description": "Mokuti Etosha in Namibia completes a N$260 million transformation, introducing luxury stays, new experiences and modern safari hospitality.",
-        "url": "https://www.travelandtourworld.com/news/article/ovakue8a1x6p/",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/safari-1.jpg",
-        "publishedAt": "2026-07-11T20:52:25Z",
-        "source": "Travel And Tour World"
+        "title": "old arrested on suspicion of Widdecombe murder",
+        "description": "A 28-year-old man has been arrested in South Yorkshire on suspicion of the murder of former MP and MEP Ann Widdecombe, UK police have said.",
+        "url": "https://www.rte.ie/news/2026/0711/1582939-widdecombe-murder/",
+        "image": "https://www.rte.ie/images/0024adcc-1600.jpg",
+        "publishedAt": "2026-07-11T23:14:08Z",
+        "source": "RTE.ie"
       },
       {
-        "title": "Trump trades threats with Iranian leaders as interim deal crumbles",
-        "description": "It came as mediators met in Oman to discuss the Strait of Hormuz and \"appropriate mechanisms for ensuring the safe passage of ships\".",
-        "url": "https://www.1news.co.nz/2026/07/12/trump-trades-threats-with-iranian-leaders-as-interim-deal-crumbles/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/mourners-carry-the-coffin-of-the-late-iranian-supreme-leader-YM5DQGLIGRG7FKTGRP4T5OXE7A.jpg?auth=17392447a43054a910fd3001ad782a34c3b334c3c559fc98b1d4c9cd8b88a5a5&quality=70&width=600&height=315&focal=3120%2C1212",
-        "publishedAt": "2026-07-11T20:45:26Z",
+        "title": "Sky News Australia",
+        "description": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+        "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+        "publishedAt": "2026-07-11T23:11:11Z",
+        "source": "Sky News Australia"
+      },
+      {
+        "title": "Over 1.7 million evacuated as Typhoon Bavi makes landfall in China",
+        "description": "Chinese authorities issued high alerts while eastern China braced for Bavi, which had maximum sustained winds of 144km/h near its centre.",
+        "url": "https://www.1news.co.nz/2026/07/12/over-17-million-evacuated-as-typhoon-bavi-makes-landfall-in-china/",
+        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/huge-waves-crash-on-the-coastline-ahead-of-typhoon-bavi-in-w-5JMJKDYZZFCNJFJAAJQBSYCLRA.jpg?auth=917b16cfa11c72eb32bb47dccc4700ef7d07fcca369be77f978182d5ad4d7654&quality=70&width=600&height=315&focal=2065%2C1292",
+        "publishedAt": "2026-07-11T23:05:50Z",
         "source": "1News"
       },
       {
-        "title": "Bahamas plane crash kills 10 in the Bahamas, Flamingo Air suspended",
-        "description": "A Bahamas plane crash in North Andros killed 10 people after a Cessna 402 went down in dense brush. A separate Flamingo Air aircraft fire prompted a flight suspension.",
-        "url": "https://www.foxnews.com/world/beloved-musicians-victims-deadly-bahamas-plane-crash-aviation-authority-grounds-flights",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/bahamas-plane-crash-split.png",
-        "publishedAt": "2026-07-11T20:42:08Z",
-        "source": "Fox News"
+        "title": "Iran's elite fears losing Strait of Hormuz if Israel joins IMEC project",
+        "description": "Iran is worried that the rapid advance of the IMEC corridor could offer a viable alternative to trade and energy flows through the Strait of Hormuz, while strengthening Israel's regional standing.",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-902182",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/551889",
+        "publishedAt": "2026-07-11T23:02:39Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Terrorist Relocation from Syria Reinforces Afghanistan as a Transnational Terrorism Hub",
-        "description": "The possibility that Afghanistan could once again emerge as a major hub for transnational jihad carries implications well beyond South Asia. A renewed concentration of experienced foreign militants would reshape the security landscape stretching from the Middle East to Central Asia, with consequences for Turkiye 39;s border security, Russia 39;s southern flank, Pakistan 39;s western frontier and the broader international effort to prevent terrorist organizations from projecting violence acros",
-        "url": "https://www.modernghana.com/news/1509885/terrorist-relocation-from-syria-reinforces-afghani.html",
-        "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
-        "publishedAt": "2026-07-11T20:38:30Z",
-        "source": "Modern Ghana"
-      },
-      {
-        "title": "Ankara 2026: NATO's Transformation in a Multipolar World",
-        "description": "ldquo;Summits rarely change history through the documents they adopt . They change it through the strategic direction they set .",
-        "url": "https://www.modernghana.com/news/1509882/ankara-2026-natos-transformation-in-a-multipolar.html",
-        "image": "https://cdn.modernghana.com/images/content/213202352638-l5gsj8v331-general-rtd-corneliu-pivariu.jpg",
-        "publishedAt": "2026-07-11T20:38:30Z",
-        "source": "Modern Ghana"
+        "title": "Typhoon makes landfall in China after forcing nearly two million to flee",
+        "description": "There was no immediate word on damage or casualties.",
+        "url": "https://www.channelnewsasia.com/east-asia/china-typhoon-bavi-two-million-evacuate-6248586",
+        "image": "https://dam.mediacorp.sg/image/upload/s--MIJbajMt--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/12/2026-07-11t130304z_1296648684_rc2mbmacdiun_rtrmadp_3_asia-weather-china.jpg?itok=n5Rx-n32",
+        "publishedAt": "2026-07-11T22:54:03Z",
+        "source": "CNA"
       }
     ],
     "business": [
       {
-        "title": "How Boston Scientific’s 2026 Guidance Cut and Pump Recall At Boston Scientific (BSX) Has Changed Its Investment Story",
-        "description": "In early July 2026, Boston Scientific voluntarily recalled a single Intera Oncology INTERA 3000 Hepatic Artery Infusion Pump (Class II, Serial Number 20175) in the US after identifying potential leakage from the pump through the catheter, with the recall now classified as completed.\nA separate earnings update saw management cut 2026 guidance amid weakness in WATCHMAN, Electrophysiology, and Urology, while expressing confidence that upcoming product launches could support results in 2027 and...",
-        "url": "https://simplywall.st/stocks/us/healthcare/nyse-bsx/boston-scientific/news/how-boston-scientifics-2026-guidance-cut-and-pump-recall-at",
-        "image": "https://images.simplywall.st/asset/company-cover/317627-main-header/1756255518234",
-        "publishedAt": "2026-07-11T21:03:53Z",
-        "source": "simplywall.st"
+        "title": "Ageing Gas Plants Undermine Nigeria's Power Sector",
+        "description": "A new report reveals how ageing gas plants are severely undermining Nigeria's power sector, operating below capacity despite decades of investment. Learn m",
+        "url": "https://punchng.com/ageing-gas-plants-undermine-nigerias-power-sector-report/",
+        "image": "https://punchng.com/wp-content/uploads/2026/06/Power-Grid.webp",
+        "publishedAt": "2026-07-11T23:31:45Z",
+        "source": "Punch Newspapers"
       },
       {
-        "title": "What not to spend your money on if you want to get ahead - Diana Clement",
-        "description": "Getting ahead financially is not simply about what you earn. It is about the hundreds of choices we make with that money every year. The goal could be to...",
-        "url": "https://www.nzherald.co.nz/business/what-not-to-spend-your-money-on-if-you-want-to-get-ahead-diana-clement/premium/2HCAQBGJQVEBVER7DBRVESDSV4/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/BKKHLBTISZBFJBFPE66KANHXWY.jpg?auth=6affe2e7f2993bfb65d51448970d3abe73f90afe345b2ff75369619293950ef8&width=1200&height=675&quality=70&focal=899%2C772&smart=false",
-        "publishedAt": "2026-07-11T21:03:40Z",
+        "title": "AI protesters march through S.F. to demand development pause",
+        "description": "About 200 protesters marched through San Francisco, urging OpenAI, Anthropic and Google DeepMind to pause new AI model training.",
+        "url": "https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php",
+        "image": "https://s.hdnux.com/photos/01/66/64/02/31146165/5/rawImage.jpg",
+        "publishedAt": "2026-07-11T23:31:07Z",
+        "source": "San Francisco Chronicle"
+      },
+      {
+        "title": "New Jersey clears plug-in solar for all, giving renters an easier way to cut electric bills",
+        "description": "\"One of the most low cost accessible ways to get into solar.\"",
+        "url": "https://www.yahoo.com/news/science/articles/jersey-clears-plug-solar-giving-232200165.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/0ad8d59e96a0b630972ad100768a77dd4d09355d5cf4c15e35f242ef3492e813/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fdf6d67917f67fff8e906ee41c3282bf4",
+        "publishedAt": "2026-07-11T23:22:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "River Island recalls kids’ clothes in UK over serious chemical risk",
+        "description": "A British retail chain has recalled children’s clothing items after it was revealed they posed a “serious chemical risk”. Fashion brand River Island has...",
+        "url": "https://www.nzherald.co.nz/world/river-island-recalls-kids-clothes-over-serious-chemical-risk/KJYRBUG7Z5C2RM4DMQVPREENUA/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/YB266ELGHJGKLPCAVPIEE2RMA4.webp?auth=8b290e2eaf34e5ff8959c94d79cb2f9f8771561e466646d212d1db1032c5a8d0&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-07-11T23:14:02Z",
         "source": "NZ Herald"
       },
       {
-        "title": "BHP Group (ASX:BHP) Wins Escondida Approval On A Copper Growth Story And Valuation Debate",
-        "description": "BHP Group (ASX:BHP) is back in focus after securing initial environmental approval to expand its Escondida copper mine in Chile, allowing early stage projects within a larger copper growth plan.\nSee our latest analysis for BHP Group.\nBHP Group’s A$58.28 share price comes after a 1 day share price return of 2.48% and a year to date share price return of 27.36%, alongside a 1 year total shareholder return of 54.24%. This suggests momentum has been firm even as recent 7 day and 30 day share...",
-        "url": "https://simplywall.st/stocks/au/materials/asx-bhp/bhp-group-shares/news/bhp-group-asxbhp-wins-escondida-approval-on-a-copper-growth",
-        "image": "https://images.simplywall.st/asset/company-cover/256654-main-header/1585186732463",
-        "publishedAt": "2026-07-11T21:02:52Z",
-        "source": "simplywall.st"
+        "title": "Still no agreement on making costly prenatal testing available through the public system",
+        "description": "A proposal on giving greater access to prenatal testing has gone to the Department of Health for consideration.",
+        "url": "https://www.thejournal.ie/prenatal-chromosonal-testing-public-system-7097638-Jul2026/",
+        "image": "https://img2.thejournal.ie/article/7097638/river/?height=400&version=7097726",
+        "publishedAt": "2026-07-11T23:06:00Z",
+        "source": "The Journal"
       },
       {
-        "title": "3 Indian AI Stocks Retail Investors Are Watching For Software And Infrastructure Exposure",
-        "description": "Artificial intelligence is becoming a core ingredient in everything from chips to cloud services and productivity software, and that is where the AI Stocks screener comes in. While investors weigh cooling inflation against sticky price pressures, shifting rate expectations and energy market swings, many are also looking for companies directly connected to the ChatGPT and broader AI build out. This article highlights 3 of the best stocks from the screener, focusing on semiconductors, software,...",
-        "url": "https://simplywall.st/stocks/in/tech/nse-netweb/netweb-technologies-india-shares/news/3-indian-ai-stocks-retail-investors-are-watching-for-softwar",
-        "image": "https://images.simplywall.st/asset/industry/9621091-choice2-main-header/1585186855318",
-        "publishedAt": "2026-07-11T21:02:44Z",
-        "source": "simplywall.st"
+        "title": "Jet2 flight LS869 declared an emergency immediately after takeoff from Manchester",
+        "description": "MANCHESTER, UK — A holiday flight bound for Spain was forced to make a dramatic U-turn and emergency landing at Manchester Airport late Tuesday night after the crew reported fumes in the cockpit. Jet2 flight LS869, operated by a Boeing 737-800 (registration G-JZBZ), departed Manchester’s runway 05R at 10:15 PM, heading for Palma de Mallorca. […]",
+        "url": "https://airlive.net/emergency/2026/07/11/jet2-flight-ls869-declared-an-emergency-immediately-after-takeoff-from-manchester/",
+        "image": "https://airlive.net/wp-content/uploads/2026/07/LS869.jpg",
+        "publishedAt": "2026-07-11T23:05:41Z",
+        "source": "airlive"
       },
       {
-        "title": "AMD (AMD) Stock Looks Fully Priced As Its Five Year Run Stretches On",
-        "description": "Advanced Micro Devices stock has surged over the past five years, yet its valuation signals are pulling in different directions, with the Discounted Cash Flow (DCF) intrinsic value estimate pointing to a premium while market multiples still screen as supportive.\nAdvanced Micro Devices has delivered a very large 5 year return of 549.5%, which means any new buyer is paying in the context of a long, powerful run.\nHeavy expectations around AI related data center growth can support the current...",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amd/advanced-micro-devices/news/amd-amd-stock-looks-fully-priced-as-its-five-year-run-stretc",
-        "image": "https://images.simplywall.st/asset/company-cover/168864-main-header/1756251534438",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "simplywall.st"
+        "title": "Ladies Day At Dundalk Handicap",
+        "description": "Get the Ladies Day At Dundalk Handicap result for the 13:00 dundalk. View full result with expert form, analysis, positions, beaten margins and returned odds.",
+        "url": "https://www.sportinglife.com/racing/racecards/2026-07-12/dundalk/racecard/927436/ladies-day-at-dundalk-handicap",
+        "image": "https://www.sportinglife.com/favicon-16x16.png",
+        "publishedAt": "2026-07-11T23:04:16Z",
+        "source": "Sporting Life"
       },
       {
-        "title": "TechnipFMC (FTI) Is Up 7.6% After Major Subsea Awards From Equinor And Eni SpA",
-        "description": "Earlier this week, TechnipFMC plc announced multiple contracts from Equinor ASA for subsea tie-back developments offshore Norway and from Eni SpA for Baleine Phase 3 offshore Côte d’Ivoire, with combined awards ranging from US$325,000,000 to US$750,000,000 and booked into second-quarter 2026 inbound orders.\nThese wins deepen TechnipFMC’s role in complex subsea production systems and flexible pipe solutions across both mature Norwegian fields and a major West African development.\nWe’ll now...",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-fti/technipfmc/news/technipfmc-fti-is-up-76-after-major-subsea-awards-from-equin",
-        "image": "https://images.simplywall.st/asset/industry/1022000-choice1-main-header/1585186551056",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Wayfair (W) Showroom Push Reshapes The Valuation Debate",
-        "description": "Wayfair (W) is back in focus after the company outlined plans to open new physical showrooms, alongside expecting Q2 revenue growth of more than 5% year over year, ahead of the broader U.S. home furnishings market.\nSee our latest analysis for Wayfair.\nWayfair’s recent store announcements come after a sharp 29.9% 1 month share price gain and a 24.5% 3 month share price return, although the stock is still down 16.3% on a year to date basis. The 1 year total shareholder return of 56.3% and 3...",
-        "url": "https://simplywall.st/stocks/us/retail/nyse-w/wayfair/news/wayfair-w-showroom-push-reshapes-the-valuation-debate",
-        "image": "https://images.simplywall.st/asset/industry/4422000-choice1-main-header/1585186589176",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Innodata (INOD) Lifts 2026 Outlook Following A Strong Quarter As Valuation Debate Builds",
-        "description": "Innodata (INOD) is back in focus after management raised its full-year 2026 revenue growth outlook to about 40% or more, following a strong first quarter and expanding roles in key AI services.\nSee our latest analysis for Innodata.\nThe share price reaction around Innodata’s upgraded 2026 outlook has been mixed, with the stock down 32.13% on a 1 month share price return but still up 90.56% on a 3 month share price return and supported by a very large 3 year total shareholder return. This...",
-        "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-inod/innodata/news/innodata-inod-lifts-2026-outlook-following-a-strong-quarter",
-        "image": "https://images.simplywall.st/asset/industry/8032000-choice2-main-header/1585186601535",
-        "publishedAt": "2026-07-11T21:00:00Z",
-        "source": "simplywall.st"
+        "title": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
+        "description": "The Oracle of Omaha understands that too many investors easily fall into the trap of trying to outperform the market, ultimately undermining their own performance.",
+        "url": "https://www.fool.com/investing/2026/07/11/the-vanguard-etf-warren-buffett-endorsed-in-2014-w/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877824%2Fwarren-buffett.jpg&w=1200&op=resize",
+        "publishedAt": "2026-07-11T23:03:31Z",
+        "source": "The Motley Fool"
       }
     ],
     "science": [
+      {
+        "title": "A 2026 study found that Jupiter's ocean moon Europa may have a geologically quiet seafloor with little active faulting — meaning the vast hidden ocean long treated as our best bet for alien life may l",
+        "description": "Europa has earned its place in astrobiology for a simple reason: beneath its fractured ice shell, Jupiter's moon is thought to hold a global saltwater ocean",
+        "url": "https://spacedaily.com/t-a-2026-study-found-that-jupiters-ocean-moon-europa-may-have-a-geologically-quiet-seafloor-with-little-active-faulting-meaning-the-vast-hidden-ocean-long-treated-as-our-best-bet-for-alien-li/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_europa_junocam_nasa.jpg",
+        "publishedAt": "2026-07-11T23:30:08Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "NASA's Flying Climate Calibration Standard Is Live",
+        "description": "CLARREO Pathfinder, NASA’s new ISS-based calibration instrument, has recorded its first hyperspectral measurements from orbit. The HySICS spectrometer is five to ten times more accurate than existing",
+        "url": "https://www.techtimes.com/articles/320177/20260711/clarreo-pathfinder-captures-first-light-nasas-flying-climate-calibration-standard-live.htm",
+        "image": "https://d.techtimes.com/en/full/468509/clarreo-pathfinder.png",
+        "publishedAt": "2026-07-11T22:20:49Z",
+        "source": "Tech Times"
+      },
+      {
+        "title": "Dyson Sphere Hunt Gains Four-Test Checklist as Webb, Rubin, Roman Converge",
+        "description": "Dyson sphere detection now has a four-test scientific checklist from a University of Arkansas study in the journal Universe — timed to the 2026 convergence of JWST, the Vera C. Rubin Observatory, and",
+        "url": "https://www.techtimes.com/articles/320176/20260711/dyson-sphere-hunt-gains-four-test-checklist-webb-rubin-roman-converge.htm",
+        "image": "https://d.techtimes.com/en/full/468508/dyson-swarm.png",
+        "publishedAt": "2026-07-11T22:17:10Z",
+        "source": "Tech Times"
+      },
+      {
+        "title": "Scientists Find the Hidden “Fuel” That May Intensify Tropical Clouds",
+        "description": "Deep, clean convective clouds can reach high supersaturation levels that may allow aerosols to intensify cloud growth.",
+        "url": "https://scitechdaily.com/scientists-find-the-hidden-fuel-that-may-intensify-tropical-clouds/",
+        "image": "https://scitechdaily.com/images/White-Clouds-Blue-Sky.jpg",
+        "publishedAt": "2026-07-11T22:15:11Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Dinosaurs may have shaped the evolution of fruit-bearing plants",
+        "description": "A remarkable fossil forest reveals dinosaurs may have helped spread fruit-bearing plants tens of millions of years earlier than expected.",
+        "url": "https://www.earth.com/news/dinosaurs-may-have-shaped-the-evolution-of-fruit-bearing-plants/",
+        "image": "https://cff2.earth.com/uploads/2026/07/11170035/fruit-bearing-plants.jpg",
+        "publishedAt": "2026-07-11T21:32:42Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Nearly a millennium ago sky-watchers recorded a new star so bright it was visible in daylight for weeks, and Hubble has now traced how far its remnant, the Crab Nebula, has expanded since — a thousand",
+        "description": "In July 1054, court astronomers in China recorded a new \"guest star\" near Tianguan, the star we now call Zeta Tauri. It was bright enough to be seen in",
+        "url": "https://spacedaily.com/t-nearly-a-millennium-ago-sky-watchers-recorded-a-new-star-so-bright-it-was-visible-in-daylight-for-weeks-and-hubble-has-now-traced-how-far-its-remnant-the-crab-nebula-has-expanded-since-a/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_crab_nebula_hubble_nasa-1024x1024.jpg",
+        "publishedAt": "2026-07-11T21:30:28Z",
+        "source": "Space Daily"
+      },
       {
         "title": "Scientists Catch a “Jumping Gene” Moving Between Species",
         "description": "A jumping gene was directly observed moving from predator to prey through circular RNA.",
@@ -150,57 +198,25 @@
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-black-hole-theory-co.jpg",
         "publishedAt": "2026-07-11T21:00:06Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "Environmental groups to FCC: Stop Elon Musk, Jeff Bezos, Sundar Pichai and others from sending millions of satellites and 'dirtying' Space; make sure that ...",
-        "description": "Tech News News: In January this year, SpaceX filed an application with the Federal Communications Commission (FCC) for a constellation of up to one million satellites.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/environmental-groups-to-fcc-stop-elon-musk-jeff-bezos-sundar-pichai-and-others-from-sending-millions-of-satellites-and-dirtying-space-make-sure-that-/articleshow/132337627.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132337626,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-11T20:47:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Life beyond Earth is the next big question: Nobel laureate Didier Queloz on exoplanets, AI and the future of science",
-        "description": "Life beyond Earth is the next big question: Nobel laureate Didier Queloz on exoplanets, AI and the future of science",
-        "url": "https://mahabahu.com/life-beyond-earth-is-the-next-big-question/",
-        "image": "https://i0.wp.com/mahabahu.com/wp-content/uploads/2026/07/Olha-article-pic-4.jpg?fit=752%2C506&ssl=1",
-        "publishedAt": "2026-07-11T20:35:00Z",
-        "source": "Mahabahu.com"
-      },
-      {
-        "title": "Reimagining the furnace: How a new magnetic design could supercharge industrial plasma",
-        "description": "Imagine trying to trap a miniature star inside a machine without letting it touch the walls or burn itself out. This is the central, high-stakes challenge of high-temperature plasma engineering.",
-        "url": "https://phys.org/news/2026-07-reimagining-furnace-magnetic-supercharge-industrial.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/reimagining-the-furnac.jpg",
-        "publishedAt": "2026-07-11T20:00:06Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Immune cells get transformed into fungus-fighting nanoparticles",
-        "description": "Tiny particles made from the membranes of human immune cells could offer a promising new way to fight fungal infections that are becoming harder to treat. Engineers at the University of California San Diego created antifungal nanoparticles that target Candida albicans, a fungus responsible for oral and vaginal yeast infections as well as life-threatening bloodstream infections. In mice with severe Candida infections, the nanoparticles greatly reduced the amount of fungus in major organs and significantly improved survival.",
-        "url": "https://phys.org/news/2026-07-immune-cells-fungus-nanoparticles.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/immune-cells-get-trans.jpg",
-        "publishedAt": "2026-07-11T20:00:04Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "planet culprit: new study on its dimming",
-        "description": "A new study on KIC 8462852, better known as Tabby’s Star, has just come out, and it points to a possible giant planet that could help explain the star",
-        "url": "https://en.softonic.com/articles/tabbys-star-may-have-a-giant-planet-culprit-new-study-on-its-dimming?ex=RAMP-4479.1&rex=true",
-        "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/07/tabby-s-star-may-have-a-giant-planet-culprit-new-study-on-it-20260711.jpg",
-        "publishedAt": "2026-07-11T19:41:15Z",
-        "source": "en.softonic.com"
-      },
-      {
-        "title": "Two humpback whales were tracked crossing more than 14,000 kilometres between breeding grounds in Australia and Brazil - one of them shattering every migration record ever recorded for the species",
-        "description": "Two humpback whales have done something the species was not supposed to do often: they turned up on opposite sides of the planet, at breeding grounds normally",
-        "url": "https://spacedaily.com/t-two-humpback-whales-were-tracked-crossing-more-than-14000-kilometres-between-breeding-grounds-in-australia-and-brazil-one-of-them-shattering-every-migration-record-ever-recorded-for-the-spe/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_humpback_australia_brazil_record_migration_pexels.jpg",
-        "publishedAt": "2026-07-11T19:30:45Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
+      {
+        "title": "My AI coding workflow runs entirely through Discord, and it's faster than using an editor",
+        "description": "You can thank OpenClaw for this.",
+        "url": "https://www.xda-developers.com/ai-coding-workflow-runs-discord-faster-than-editor/",
+        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/1783369086854.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-07-11T22:00:22Z",
+        "source": "XDA Developers"
+      },
+      {
+        "title": "'It's not really enjoyable to make music now': Quote of the day by CEO of AI music generator Suno, Mikey Shulman — a faux pas with serious ramifications",
+        "description": "The rise of AI threatens the arts just as much as any industry – with large language models able to generate all kinds of media",
+        "url": "https://www.techradar.com/pro/its-not-really-enjoyable-to-make-music-now-quote-of-the-day-by-ceo-of-ai-music-generator-suno-mikey-shulman-a-faux-pas-with-serious-ramifications",
+        "image": "https://cdn.mos.cms.futurecdn.net/WQ8Y8vbjtHx3ccdBrffbn9-1024-80.jpg",
+        "publishedAt": "2026-07-11T22:00:00Z",
+        "source": "TechRadar"
+      },
       {
         "title": "The problem with nostalgic AI images of old Singapore",
         "description": "AI nostalgia slop of Singapore causes a “double loss” of these places: first, to time and progress, and now, to a cultural flattening. It also suggests that history must fit a specific aesthetic to be worth remembering. Read more at straitstimes.com.",
@@ -248,22 +264,6 @@
         "image": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
         "publishedAt": "2026-07-11T20:23:05Z",
         "source": "Business Insider"
-      },
-      {
-        "title": "Meta's AI Detector Can't Detect Images It Generated Itself, Report Finds",
-        "description": "Once the images were cropped, the detection tool began to struggle, according to Reuters.",
-        "url": "https://gizmodo.com/metas-ai-detector-cant-detect-images-it-generated-itself-report-finds-2000784335",
-        "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285403793-1200x675.jpg",
-        "publishedAt": "2026-07-11T20:22:27Z",
-        "source": "Gizmodo"
-      },
-      {
-        "title": "AI is entering a new phase - and these are the stocks investors should be watching",
-        "description": "CNBC's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors.",
-        "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080",
-        "publishedAt": "2026-07-11T20:11:31Z",
-        "source": "CNBC"
       }
     ]
   }
