@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-12T19:33:00.665Z",
+  "fetchedAt": "2026-07-12T21:07:54.245Z",
   "sections": {
     "world": [
       {
-        "title": "'In our blood': Palestinians keep horse culture alive against all odds",
-        "description": "Horse culture has emerged in unlikely nooks as a rare form of recreation that still draws Palestinians together, from urban neighbourhoods to rural villages.",
-        "url": "https://www.standardmedia.co.ke/world/article/2001552590/in-our-blood-palestinians-keep-horse-culture-alive-against-all-odds",
-        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/GqeMENj7ZUvzRmv0JgshKTCXxbxyu5PbLsddKPLe.jpg",
-        "publishedAt": "2026-07-12T07:31:47Z",
-        "source": "standardmedia.co.ke"
+        "title": "Heat wave prompts Aquatic Centre safety reminders",
+        "description": "As a heat wave moves into southeastern Manitoba this weekend, the Steinbach Aquatic Centre is reminding swimmers that cooling off in the pool does not eliminate the need to protect themselves from the heat. Ken Hiebert, deck supervisor at the Steinbach Aquatic Centre, says staff prepare for hot weather before the summer season begins, with training focused on keeping themselves and patrons safe.",
+        "url": "https://steinbachonline.com/articles/heat-wave-prompts-aquatic-centre-safety-reminders",
+        "image": "https://dht7q8fif4gks.cloudfront.net/2026-07/Ken%20Hiebert%20-%20deck%20supervisor.jpg",
+        "publishedAt": "2026-07-12T09:02:17Z",
+        "source": "SteinbachOnline"
       },
       {
-        "title": "UK’s ‘lost generation’ trapped out of work and education",
-        "description": "Sir Keir Starmer asked Alan Milburn to fix the UK’s “lost generation” out of work and education. He and Andy Burnham are now working hand-in-glove, says Clare Fallon.",
-        "url": "https://channel4news.substack.com/p/uks-lost-generation-trapped-out-of",
-        "image": "https://substackcdn.com/image/fetch/$s_!tPSk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1db13e6d-2e6a-4c47-94aa-4a69187ca382_1920x1080.jpeg",
-        "publishedAt": "2026-07-12T07:30:30Z",
-        "source": "Channel 4 News | Substack"
+        "title": "North East President Pledges Better Services, Closer Ties With Federal Government",
+        "description": "President Abdikadir Aw-Ali says the administration will continue to exist despite development projects delays",
+        "url": "https://www.dawan.africa/news/north-east-president-pledges-better-services-closer-ties-with-federal-government",
+        "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgkK2Btjxc6o09rVpYGEMwC7SvKFqDLt4fn5ld",
+        "publishedAt": "2026-07-12T08:56:44Z",
+        "source": "Dawan Africa"
       },
       {
-        "title": "US senator and Trump ally Lindsey Graham dies at 71",
-        "description": "Lindsey Graham, a Republican senator representing South Carolina and a close ally of President Donald Trump, has died at the age of 71 after a brief illness.",
-        "url": "https://www.thecable.ng/us-senator-and-trump-ally-lindsey-graham-dies-at-71/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2026/07/260711-lindsey-graham-cc-1138p-8ff010-2026-07-12-538.jpg",
-        "publishedAt": "2026-07-12T07:26:16Z",
+        "title": "Sky News Australia",
+        "description": "SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists",
+        "url": "https://www.skynews.com.au/nocookies?a=A.flavipes",
+        "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+        "publishedAt": "2026-07-12T08:56:12Z",
+        "source": "Sky News Australia"
+      },
+      {
+        "title": "Thailand limits alcohol exemptions to weddings and diplomacy",
+        "description": "BANGKOK: Thailand has limited exemptions allowing alcohol consumption at normally prohibited venues to two types of event: wedding receptions and diplomatic receptions held in accordance with established custom.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/12/thailand-limits-alcohol-exemptions-to-weddings-and-diplomacy",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/12/4006197.jpg",
+        "publishedAt": "2026-07-12T08:56:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Was Jude Bellingham assisted by spidercam? FIFA address controversial incident in England World Cup clash - with Norway fuming at ‘ridiculous’ decision",
+        "description": "FIFA clarified if Jude Bellingham's goal for England against Norway was assisted by the spidercam wire after Sander Berge and Martin Odegaard slammed the decision.",
+        "url": "https://www.goal.com/en-ke/lists/jude-bellingham-spidercam-fifa-england-world-cup-norway/bltd91e0fbf4457ddfc",
+        "image": "https://assets.goal.com/images/v3/blt2877765989a77584/Jude%20Bellingham%20England.jpg",
+        "publishedAt": "2026-07-12T08:55:10Z",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Hundreds return home as Spain wildfire almost controlled",
+        "description": "A wildfire that has killed at least 12 people in southern Spain was close to being brought under control, officials said.",
+        "url": "https://www.rte.ie/news/world/2026/0712/1582960-spain-wildfire/",
+        "image": "https://www.rte.ie/images/0024aee5-1600.jpg",
+        "publishedAt": "2026-07-12T08:50:42Z",
+        "source": "RTE.ie"
+      },
+      {
+        "title": "Beijing renews attacks on landmark South China Sea tribunal on ruling’s 10th anniversary",
+        "description": "Ambassador to Philippines denounces Hague decision as ‘thoroughly illegal’ and warns it continues to harm ties with Manila.",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3360275/beijing-renews-attacks-landmark-south-china-sea-tribunal-rulings-10th-anniversary",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/12/f720be36-d6a8-40a3-8e79-f74c0811a2f5_0a62cf13.jpg?itok=TLDBhcff&v=1783845472",
+        "publishedAt": "2026-07-12T08:50:41Z",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "Iran closes Strait of Hormuz, launches fresh strikes on US bases in Middle East",
+        "description": "Iran says it has closed the Strait of Hormuz after its forces fired a naval cruise missile at a vessel it accused of sailing through an unauthorised route.",
+        "url": "https://www.thecable.ng/iran-closes-strait-of-hormuz-launches-fresh-strikes-on-us-bases-in-middle-east/",
+        "image": "https://www.thecable.ng/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-18-at-09.16.26.jpeg",
+        "publishedAt": "2026-07-12T08:49:26Z",
         "source": "TheCable"
-      },
-      {
-        "title": "Apply Now: PAID Green Climate Fund Policy Internship 2026 in South Korea Opens for Global Master's and PhD Students (Fully Funded)",
-        "description": "If you're looking for an opportunity to gain hands-on experience in international climate policy while working with one of the world's leading climate finance",
-        "url": "https://www.globalsouthopportunities.com/2026/07/12/policy-19/",
-        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/07/The-Green-Climate-Fund-internship-programme.webp",
-        "publishedAt": "2026-07-12T07:25:57Z",
-        "source": "Global South Opportunities"
-      },
-      {
-        "title": "Rhodes Scholarship 2027 Applications Open for East African Students",
-        "description": "The prestigious Rhodes Scholarship has officially opened applications for the 2027 academic cycle, offering outstanding young leaders from East Africa the",
-        "url": "https://www.globalsouthopportunities.com/2026/07/12/rhodes-6/",
-        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/06/Rhodes-East-Africa.jpg",
-        "publishedAt": "2026-07-12T07:25:50Z",
-        "source": "Global South Opportunities"
-      },
-      {
-        "title": "What does BN’s landslide victory in Johor polls mean for PM Anwar, Malaysia’s political landscape?",
-        "description": "Barisan Nasional’s sweeping victory in the Johor state election has strengthened its hand within Malaysia’s unity government, while exposing cracks in Pakatan Harapan’s traditional support base, say analysts.",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-johor-election-results-bn-ph-anwar-6248941",
-        "image": "https://dam.mediacorp.sg/image/upload/s--1DN1ZSwc--/c_crop,h_899,w_1598,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/09/nz8_2208_copy.jpg?itok=aagxGkjJ",
-        "publishedAt": "2026-07-12T07:25:21Z",
-        "source": "CNA"
-      },
-      {
-        "title": "Iran strikes Gulf neighbours after new US attacks",
-        "description": "Tehran announced it was closing the Strait of Hormuz on Sunday and launched missiles and drones at its Gulf neighbours, in retaliation for new US strikes.",
-        "url": "https://www.standardmedia.co.ke/world/article/2001552589/iran-strikes-gulf-neighbours-after-new-us-attacks",
-        "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/kGTovdDFhwwSgc2nxjxmYEFPk14Iz0QS0P8SlYN0.jpg",
-        "publishedAt": "2026-07-12T07:24:59Z",
-        "source": "standardmedia.co.ke"
-      },
-      {
-        "title": "Ukraine sets Russian refinery ablaze in fresh deadly drone attack",
-        "description": "A man was killed and three other people, including a child, were injured in Ukrainian drone attacks on Russia’s Volga region of Samara, regional Governor",
-        "url": "https://dailypost.ng/2026/07/12/ukraine-sets-russian-refinery-ablaze-in-fresh-deadly-drone-attack/",
-        "image": "https://dailypost.ng/wp-content/uploads/2026/07/Ukraine-sets-Russian-refinery-ablaze-in-fresh-deadly-drone-attack.jpg",
-        "publishedAt": "2026-07-12T07:22:59Z",
-        "source": "Daily Post Nigeria"
       }
     ],
     "business": [
       {
-        "title": "Grab Stock And 2 Penny Stocks With Strong Balance Sheet Backing",
-        "description": "Penny stocks carry a reputation for excitement and risk, but the Financially Fit Penny Stocks screener narrows the field to companies trading below 5 that also show signs of solid financial health. With investors watching inflation, central bank signals and bond yields closely, many are looking for potential growth without taking on excessive balance sheet risk. This screener filters for that combination, aiming to highlight early stage stocks where financial strength is a key feature. In...",
-        "url": "https://simplywall.st/stocks/us/transportation/nasdaq-grab/grab-holdings/news/grab-stock-and-2-penny-stocks-with-strong-balance-sheet-back",
-        "image": "https://images.simplywall.st/asset/industry/3242000-choice2-main-header/1585186741316",
-        "publishedAt": "2026-07-12T07:30:48Z",
+        "title": "Why buy a Mazda MX-5 when you can have an Abarth 124 instead?",
+        "description": "Take an MX-5, inject a little bit of Italian flair and you get the 124, though there are some downsides...",
+        "url": "https://www.autocar.co.uk/car-news/used-cars/why-buy-mazda-mx-5-when-you-can-have-abarth-124-instead",
+        "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/abarth_124_owner.jpg",
+        "publishedAt": "2026-07-12T09:05:37Z",
+        "source": "Autocar"
+      },
+      {
+        "title": "Dycom Stock Leads 3 Cash Flow Picks Tied To The US Digital Buildout",
+        "description": "With inflation readings mixed across regions and central banks weighing their next moves, many investors are looking for opportunities where current prices do not fully reflect a company’s cash generation potential. The Undervalued Stocks Based On Cash Flows screener focuses on companies that SWS DCF valuation suggests are trading below fair value. This approach can appeal if you want cash flow support while sentiment swings with macro headlines, yields, and energy prices. In this article,...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-dy/dycom-industries/news/dycom-stock-leads-3-cash-flow-picks-tied-to-the-us-digital-b",
+        "image": "https://images.simplywall.st/asset/industry/3041000-choice1-main-header/1585186744280",
+        "publishedAt": "2026-07-12T09:03:01Z",
         "source": "simplywall.st"
       },
       {
-        "title": "While Global Oil Demand Drops, US Drivers Keep Buying More Gas",
-        "description": "While global oil demand is set to decline this year due to the US-Iran conflict, gasoline consumption in the United States increased in the second quarter of 2026. Gasoline prices surpassed $4.50 on average for a gallon of regular in the US in May, rising more than 50% since the start of the war, according to AAA data. But that didn’t stop drivers from hitting the road; in fact, gasoline consumption rose in the US during the second quarter of the year, according to AP.",
-        "url": "https://english.aawsat.com/business/5295001-while-global-oil-demand-drops-us-drivers-keep-buying-more-gas",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1662171_0.jpeg.webp",
-        "publishedAt": "2026-07-12T07:30:11Z",
-        "source": "Asharq Al-Awsat English"
+        "title": "Americans fear this retirement setback more than death",
+        "description": "Americans have several retirement fears. The big ones are mostly about money.",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/12/retirement-fears-outliving-savings-death/90873636007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/01/USAT/89897884007-retirement-2.JPG?crop=5418,3048,x0,y564&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-07-12T09:03:00Z",
+        "source": "USA Today"
       },
       {
-        "title": "Qatar blocks Volkswagen's Iron Dome deal with Rafael as German plant faces closure",
-        "description": "The German automaker had planned to convert a struggling factory into a defense production site in a bid to preserve thousands of jobs. The move was blocked after Qatari shareholders opposed cooperation with the Israeli defense company.",
-        "url": "https://www.calcalistech.com/ctechnews/article/hj9ja2xngx",
-        "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/06/07/rJl0FxmZGl/rJl0FxmZGl_1_51_1601_901_0_large.jpg",
-        "publishedAt": "2026-07-12T07:28:00Z",
-        "source": "CTech"
+        "title": "Uber’s Automation Push And Legal Shift Might Change The Case For Investing In Uber (UBER)",
+        "description": "In recent days, Uber Technologies has tightened its legal stance by requiring plaintiffs to disclose third party litigation funding in lawsuits, while facing organized driver protests over accelerated automation and AI-linked pay cuts across its rideshare platform.\nThese moves highlight how Uber is simultaneously reshaping its legal risk management and testing the balance between automation ambitions and the livelihoods of human drivers who underpin its service.\nWe’ll now explore how Uber’s...",
+        "url": "https://simplywall.st/stocks/us/transportation/nyse-uber/uber-technologies/news/ubers-automation-push-and-legal-shift-might-change-the-case",
+        "image": "https://images.simplywall.st/asset/company-cover/144524848-main-header/1756256222441",
+        "publishedAt": "2026-07-12T09:02:41Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "EV boom brings higher insurance costs for drivers",
-        "description": "When the owner of a Volkswagen ID.5 checked his insurance renewal quote, he had to do a double take. Despite another year of accident-free driving,...",
-        "url": "https://www.koreatimes.co.kr/economy/20260712/ev-boom-brings-higher-insurance-costs-for-drivers",
-        "image": "https://newsimg.koreatimes.co.kr/2026/07/12/7e8bf898-9512-44d4-a0bf-7b2cd8d5dd6b.jpg",
-        "publishedAt": "2026-07-12T07:23:02Z",
-        "source": "The Korea Times"
+        "title": "We need to talk about America's love affair with Costco free samples",
+        "description": "America loves free samples and that's just how Costco likes it. These bite-sized treats fuel bulk sales by getting Costco shoppers to buy even more.",
+        "url": "https://www.usatoday.com/story/money/2026/07/12/costco-free-samples-feeding-frenzy/90768766007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/01/USAT/90776369007-756618.jpg?crop=2999,1687,x0,y308&width=2999&height=1687&format=pjpg&auto=webp",
+        "publishedAt": "2026-07-12T09:02:00Z",
+        "source": "USA Today"
       },
       {
-        "title": "More French border guards deployed in the UK to prevent EES summer travel delays",
-        "description": "French border guards have been deployed to checkpoints in Britain to prevent Entry/Exit System technology failures causing long delays this summer",
-        "url": "https://inews.co.uk/news/politics/uk-politics-live-latest-updates-24-4640656",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/01/SEI_270749177-e1768912883973.jpg?crop=0px%2C44px%2C1173px%2C662px&resize=1200%2C675",
-        "publishedAt": "2026-07-12T07:22:54Z",
-        "source": "The i Paper"
+        "title": "'They were competing for supremacy': Which is the oldest English accent?",
+        "description": "Two BBC journalists go on a quest to find out whose accent is older – and uncover a dramatic history filled with hidden twists and surprises.",
+        "url": "https://www.bbc.com/future/article/20260708-which-is-the-oldest-english-accent",
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0nxknwn.jpg",
+        "publishedAt": "2026-07-12T09:01:27Z",
+        "source": "BBC"
       },
       {
-        "title": "Market survey reveals fall in food prices",
-        "description": "A market survey carried out by this reporter to assess price performance of various staple food items in Ibadan reveals a significant fall.",
-        "url": "https://pmnewsnigeria.com/2026/07/12/market-survey-reveals-fall-in-food-prices/",
-        "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/08/pmnewslogo-75x50.gif",
-        "publishedAt": "2026-07-12T07:21:13Z",
-        "source": "PM News Nigeria"
+        "title": "How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
+        "description": "The world’s most valuable assets are stored on rows of servers in giant, anonymous buildings. And they can be stolen.",
+        "url": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
+        "image": "https://static01.nyt.com/images/2026/07/19/magazine/19mag-data-hppromo/19mag-data-hppromo-facebookJumbo.jpg",
+        "publishedAt": "2026-07-12T09:00:36Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Tokyo Aligns With Osaka and Kyoto as Japan’s Explosive Tourism Boom Enters a New Pressure Era, With More Than Seventy Two Percent of Accommodation Facilities Battling Severe Workforce Shortages Amid S",
-        "description": "Japan’s tourism boom is facing a major workforce challenge as Tokyo, Kyoto and Osaka drive visitor growth while 72.2% of accommodation facilities struggle with staff shortages.",
-        "url": "https://www.travelandtourworld.com/news/article/tqlq52z6ktgp/",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/istockphoto-2189109202-612x612-1.jpg",
-        "publishedAt": "2026-07-12T07:18:10Z",
-        "source": "Travel And Tour World"
-      },
-      {
-        "title": "Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario",
-        "description": "Global oil flows remain stunted as stockpiles are depleted, and demand is set to rise again.",
-        "url": "https://fortune.com/2026/07/12/trumps-time-running-out-nightmare-hormuz-scenario/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282713593-e1783711150860.jpg?resize=1200,600",
-        "publishedAt": "2026-07-12T07:13:00Z",
-        "source": "Fortune"
+        "title": "A Study Tried to Quantify How Many LinkedIn Posts Are 100% AI. It’s a Lot",
+        "description": "It's not shocking that people on LinkedIn use AI, but they use it *so much.*",
+        "url": "https://gizmodo.com/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot-2000784412",
+        "image": "https://gizmodo.com/app/uploads/2026/07/linkedin-office-1200x675.jpg",
+        "publishedAt": "2026-07-12T09:00:20Z",
+        "source": "Gizmodo"
       }
     ],
     "science": [
+      {
+        "title": "FCC Approves Reflect Orbital Sunlight Satellite | KeepTrack Space Brief",
+        "description": "FCC clears Reflect Orbital's first satellite to bounce sunlight into nighttime zones, despite pushback from astronomers concerned about orbital streaking and wildlife impacts.",
+        "url": "https://keeptrack.space/space-brief/space-brief-2026-07-12",
+        "image": "https://keeptrack.space/cdn-cgi/image/onerror=redirect,width=1249,height=722,format=webp/_astro/image-2026-07-12.Cju_9Szn.jpg",
+        "publishedAt": "2026-07-12T09:00:29Z",
+        "source": "KeepTrack"
+      },
+      {
+        "title": "Guinea fowl sales spike in N.S. as homeowners look for natural tick control",
+        "description": "Some guinea fowl breeders in Nova Scotia are seeing a surge in demand for the birds to control the tick population. Scientists note they could serve as a supplementary control method, and breeders stress space requirements.",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/guinea-fowl-for-tick-control-9.7260209",
+        "image": "https://i.cbc.ca/ais/1.4138531,1496179392000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C1136%2C639%29%3BResize%3D620",
+        "publishedAt": "2026-07-12T09:00:00Z",
+        "source": "CBC"
+      },
+      {
+        "title": "Solar eclipse 2026: Europe to get its first one in nearly 30 years - when, where, and how to watch it",
+        "description": "Trending News: Get ready, Europe! The skies are about to put on their biggest show in decades.The next month is going to be a big one for the sky-geeks, as in August.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/solar-eclipse-2026-europe-to-get-its-first-one-in-nearly-30-years-when-where-and-how-to-watch-it/articleshow/132342311.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132342551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-12T08:12:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "The Sky Today on Sunday, July 12: Titan sits near Saturn",
+        "description": "The ringed planet’s largest — and brightest — moon lingers near its parent world early this morning, easy to view in any scope.",
+        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-july-12-2026/",
+        "image": "https://www.astronomy.com/wp-content/uploads/2026/07/saturn-moons-07122026.png?resize=1200,630",
+        "publishedAt": "2026-07-12T08:01:34Z",
+        "source": "Astronomy.com"
+      },
+      {
+        "title": "In Sicily, drones at work to predict volcanic eruptions",
+        "description": "Hovering over the volcano, a buzzing drone pauses in front of a laser beam on the crater's edge as researchers test whether the devices can measure gases to predict eruptions.",
+        "url": "https://phys.org/news/2026-07-sicily-drones-volcanic-eruptions.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-gases-it-brings-ba.jpg",
+        "publishedAt": "2026-07-12T08:00:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Scientists discover how the brain rewires itself to truly multitask",
+        "description": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing another task at the same time, challenging the long-held idea that humans only switch rapidly between tasks rather than truly multitask.",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-network-connections-mind.webp",
+        "publishedAt": "2026-07-12T07:52:30Z",
+        "source": "ScienceDaily"
+      },
       {
         "title": "NASA seeks volunteers for yearlong simulated Moon Mars mission",
         "description": "Volunteers will live in isolation inside habitats mimicking interplanetary travel and planetary surface operations for a full year starting no earlier than August 2027.",
@@ -150,120 +198,72 @@
         "image": "https://www.enca.com/sites/default/files/styles/large/public/afp/2026-07/doc-B9UG29E-%40photo4.jpg.webp?itok=G140ijtG",
         "publishedAt": "2026-07-12T07:12:24Z",
         "source": "eNCA"
-      },
-      {
-        "title": "Phew! 8 times astronauts diced with death and got away with it - showing just how dangerous spaceflight really is",
-        "description": "Eight moments when astronauts nearly died during their space missions – and how they lived to tell the tale.",
-        "url": "https://www.skyatnightmagazine.com/space-missions/times-astronauts-nearly-died",
-        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/d4944a99-6f3c-4271-8384-dc3da590f0b0/thumbnails/af5c2f85-2e39-4db2-a98b-cbab2c456ea6.jpg?w=1200",
-        "publishedAt": "2026-07-12T07:11:00Z",
-        "source": "BBC Sky at Night Magazine"
-      },
-      {
-        "title": "The rivers on Titan flow, pool into lakes and are fed by rainfall on a slow cycle much like our own, but the liquid is methane and the ground beneath it is water frozen hard as stone",
-        "description": "Saturn's moon Titan has rivers, rainfall, lakes and a slow hydrological cycle uncannily like Earth's — but the liquid is methane, the bedrock is frozen water ice, and the whole system runs at minus 179 degrees Celsius.",
-        "url": "https://spacedaily.com/j-the-rivers-on-titan-flow-pool-into-lakes-and-are-fed-by-rainfall-on-a-slow-cycle-much-like-our-own-but-the-liquid-is-methane-and-the-ground-beneath-it-is-water-frozen-hard-as-stone/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/j-the-rivers-on-titan-flow-pool-into-lakes-and-are-fed-by-ra.jpg",
-        "publishedAt": "2026-07-12T06:38:35Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "U.S. regulator green-lights mission to launch giant mirror to orbit",
-        "description": "U.S. FCC approves Reflect Orbital's Eärendil-1 satellite to deploy a giant mirror for nighttime sunlight reflection, amid controversy.",
-        "url": "https://www.thehindu.com/sci-tech/science/us-regulator-green-lights-mission-to-launch-giant-mirror-to-orbit/article71213314.ece",
-        "image": "https://th-i.thgim.com/public/sci-tech/science/zfql01/article71213311.ece/alternates/LANDSCAPE_1200/Znamya-2.jpg",
-        "publishedAt": "2026-07-12T06:30:58Z",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Is the Universe Getting Bigger?",
-        "description": "The universe is getting bigger, and space itself is doing the stretching. Discover why expansion is speeding up and how the cosmos may end.",
-        "url": "https://www.worldatlas.com/space/is-the-universe-getting-bigger.html",
-        "image": "https://www.worldatlas.com/r/w1200-q80/upload/80/6d/7f/universe-expansion-funnel-s3cdn.jpg",
-        "publishedAt": "2026-07-12T06:30:00Z",
-        "source": "WorldAtlas"
-      },
-      {
-        "title": "Rice and NASA Launch Open-source Remote Space Robotics Simulator",
-        "description": "A Rice University and NASA Johnson Space Center project has produced an open-source simulator for developing robots that could work inside spacecraft and space habitats.",
-        "url": "https://theaiinsider.tech/2026/07/12/rice-and-nasa-launch-open-source-remote-space-robotics-simulator/",
-        "image": "https://theaiinsider.tech/wp-content/uploads/2026/07/Rice-NASA-1.png",
-        "publishedAt": "2026-07-12T06:21:14Z",
-        "source": "AI Insider"
-      },
-      {
-        "title": "In Sicily, drones at work to predict volcanic eruptions",
-        "description": "VULCANO PORTO: Hovering over the volcano, a buzzing drone pauses in front of a laser beam on the crater’s edge, as researchers test whether the devices can measure gases to predict eruptions. On the Aeolian island of Vulcano, off the coast of Sicily, German researcher Marius Schaab, from the Technical University of Munich (TUM), stands next to a gas sensor mounted on a tripod,",
-        "url": "https://www.arabnews.com/node/2650600/world",
-        "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/12/4730491-940757530.jpg?itok=eLoXdlGW",
-        "publishedAt": "2026-07-12T05:58:28Z",
-        "source": "Arab News"
       }
     ],
     "ai": [
       {
-        "title": "From Kilimanjaro to Mohali: The entrepreneur who bet on Punjab",
-        "description": "Instead of following India’s IT boom to Bengaluru, Manipal Dhariwal chose Mohali. Twenty-five years later, that decision has helped shape a technology ecosystem that employs thousands and is now preparing for the AI era.",
-        "url": "https://indianexpress.com/article/cities/chandigarh/manipal-dhariwal-netsmartz-mohali-punjab-tech-ecosystem-10782913/",
-        "image": "https://images.indianexpress.com/2026/07/teen-3.jpg",
-        "publishedAt": "2026-07-12T07:32:42Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "How Apple, OpenAI went from working together on AI to fighting over trade secrets",
-        "description": "The legal standoff between Apple and OpenAI underscores how the high-profile partnership between the two companies have soured.",
-        "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/",
-        "image": "https://images.indianexpress.com/2026/07/Tech-featured-image295.jpg",
-        "publishedAt": "2026-07-12T07:31:28Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "ChatGPT Is Becoming The New Diet Coach, How AI May Worsen The Eating Disorder Crisis",
-        "description": "As more people turn to ChatGPT for diet advice, therapists warn AI could complicate eating disorder recovery by offering unsafe or misleading guidance., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/chatgpt-is-becoming-the-new-diet-coach-how-ai-may-worsen-the-eating-disorder-crisis-article-155079263",
-        "image": "https://images.timesnownews.com/thumb/msid-155079281,thumbsize-1787938,width-1280,height-720,resizemode-75/155079281.jpg",
-        "publishedAt": "2026-07-12T07:21:03Z",
+        "title": "Not Everyone In China Wants AI Restrictions, Zhipu Founder Backs Open Models",
+        "description": "Chinese AI startup Zhipu's founder says advanced AI should stay open for everyone, even as China reportedly considers restricting overseas access to its most powerful AI models., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/not-everyone-in-china-wants-ai-restrictions-zhipu-founder-backs-open-models-article-155079603",
+        "image": "https://images.timesnownews.com/thumb/msid-155079624,thumbsize-2662888,width-1280,height-720,resizemode-75/155079624.jpg",
+        "publishedAt": "2026-07-12T09:07:28Z",
         "source": "Times Now"
       },
       {
-        "title": "Largecap funds no longer the best bet? Edelweiss CIO Trideep Bhattacharya explains why flexicaps may win now",
-        "description": "Edelweiss CIO Trideep Bhattacharya argues that largecap funds may be losing their edge due to structural market share shifts. He favours flexicap and midcap funds for better growth potential, remains underweight IT amid transition, and is bullish on financials, while selectively approaching small caps and emerging AI-linked investment themes.",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/largecap-funds-no-longer-the-best-bet-edelweiss-cio-trideep-bhattacharya-explains-why-flexicaps-may-win-now/articleshow/132342040.cms",
-        "image": "https://img.etimg.com/thumb/msid-132342053,width-1200,height-630,imgsize-65300,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-07-12T07:21:00Z",
+        "title": "Apple sues OpenAI after ex-engineer's 'LOL, I found out I can access' message becomes key evidence in explosive trade secrets battle",
+        "description": "Apple vs OpenAI: Apple has filed a significant lawsuit against OpenAI, accusing it of stealing trade secrets. The company alleges OpenAI orchestrated a campaign to recruit Apple's engineers and designers. A former Apple engineer's \"LOL\" message about accessing internal servers is a key piece of evidence. Apple claims hundreds of employees left for OpenAI's hardware business. The lawsuit seeks to hold OpenAI accountable for its alleged actions.",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/apple-sues-openai-after-ex-engineers-lol-i-found-out-i-can-access-message-becomes-key-evidence-in-explosive-trade-secrets-battle/articleshow/132343092.cms",
+        "image": "https://img.etimg.com/thumb/msid-132343167,width-1200,height-630,imgsize-54248,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-12T09:07:00Z",
         "source": "The Economic Times"
       },
       {
-        "title": "AI is driving experts away from online communities, research finds",
-        "description": "Monthly questions on Stack Overflow have dropped nearly 76% since ChatGPT launched in 2022, but the more troubling trend is who's leaving.A new University of Auckland study finds it's...",
-        "url": "https://www.thenews.com.pk/latest/1408848-ai-is-driving-experts-away-from-online-communities-research-finds",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-07-12/1408848_122434_updates.jpg",
-        "publishedAt": "2026-07-12T07:20:37Z",
-        "source": "The News International"
+        "title": "A Study Tried to Quantify How Many LinkedIn Posts Are 100% AI. It’s a Lot",
+        "description": "It's not shocking that people on LinkedIn use AI, but they use it *so much.*",
+        "url": "https://gizmodo.com/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot-2000784412",
+        "image": "https://gizmodo.com/app/uploads/2026/07/linkedin-office-1200x675.jpg",
+        "publishedAt": "2026-07-12T09:00:20Z",
+        "source": "Gizmodo"
       },
       {
-        "title": "Tricking AI By Simply Switching Which Spoken Language You Use In Your Prompts",
-        "description": "Hackers switch their prompts to less common natural languages to avoid AI safety features. AI makers are coping with it",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/12/tricking-ai-by-simply-switching-which-spoken-language-you-use-in-your-prompts/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a519eeeec6f90e1b1e29c68/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-12T07:14:40Z",
-        "source": "Forbes"
+        "title": "IIT Guwahati 28th Convocation: 2,265 degrees awarded, 412 PhD scholars among graduates",
+        "description": "During the convocation, IIT Guwahati also shared that it is currently handling around 290 research and consultancy projects with a combined value of approximately Rs 300 crore. The institute recently introduced an MTech programme in Robotics and Artificial Intelligence and has expanded collaborations.",
+        "url": "https://indianexpress.com/article/education/iit-guwahati-28th-convocation-2026-degree-awarded-2265-phd-scholars-among-graduates-iitg-ac-in-10782734/",
+        "image": "https://images.indianexpress.com/2026/07/iit-guwahati-2026-convocation.jpg",
+        "publishedAt": "2026-07-12T08:58:36Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Three things that former iPhone engineer Chang Liu 'took' when he left the company as per Apple's 40-page lawsuit against ChatGPT-maker OpenAI",
-        "description": "Tech News News: Apple has accused former iPhone engineer Chang Liu of leaving the company with more than just experience when he joined the hardware division at OpenA.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/three-things-that-former-iphone-engineer-chang-liu-took-when-he-left-the-company-as-per-apples-40-page-lawsuit-against-chatgpt-maker-openai/articleshow/132341888.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132341876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-12T07:02:00Z",
-        "source": "Times of India"
+        "title": "Fraudulent AI investment adverts depicting Elon Musk and Jeremy Clarkson used to trick North East victims",
+        "description": "Cleveland Police is urging vigilance when considering investments as there have recently been instances in the North-East of victims responding to investment adverts - and sadly losing their money",
+        "url": "https://www.gazettelive.co.uk/news/teesside-news/elon-musk-fraudulent-adverts-police-34277739",
+        "image": "https://i2-prod.gazettelive.co.uk/article33463820.ece/ALTERNATES/s1200d/0_Police-siren-at-accident-or-crime-scene.jpg",
+        "publishedAt": "2026-07-12T08:57:11Z",
+        "source": "Teessidelive"
       },
       {
-        "title": "How AI Helped Scientists Find 73 Unknown Volcanic Calderas Beneath Earth’s Oceans",
-        "description": "Researchers used AI to scan seafloor maps, revealing dozens of previously unknown calderas, including several flagged for follow-up.",
-        "url": "https://www.vice.com/en/article/how-ai-helped-scientists-find-73-unknown-volcanic-calderas-beneath-earths-oceans/",
-        "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/07/AI-Helped-Scientists-Find-73-Unknown-Volcanic-Calderas-Beneath-Earths-Oceans.jpg?w=2000",
-        "publishedAt": "2026-07-12T07:00:00Z",
-        "source": "VICE"
+        "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+        "description": "Tata Consultancy Services is building a large team of forward-deployed engineers. The company is also actively seeking artificial intelligence acquisitions. This strategy aims to create new business opportunities rather than disrupt outsourcing. TCS believes deep client knowledge is key to integrating and deploying AI systems. The firm is investing significantly in talent development and AI accessibility.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/articleshow/132343064.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49158,resizemode-75,msid-132343064/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions.jpg",
+        "publishedAt": "2026-07-12T08:55:15Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Ecommerce Creative Automation: Why One-Off AI Tools Are Giving Way to Content Pipelines",
+        "description": "Explore Ecommerce Creative Automation for efficient content operations and seamless integration of AI tools in marketing.",
+        "url": "https://techbullion.com/ecommerce-creative-automation-why-one-off-ai-tools-are-giving-way-to-content-pipelines/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/07/image-Product-Pro-Ai-Logo-1000x600.png",
+        "publishedAt": "2026-07-12T08:51:24Z",
+        "source": "TechBullion"
+      },
+      {
+        "title": "SPX98K Token Presale: Top 10 Best Crypto Coins to Stake in 2026",
+        "description": "Explore the SPX98K Token Presale and discover AI-driven rewards, staking benefits, and community engagement opportunities.",
+        "url": "https://techbullion.com/spx98k-token-presale-top-10-best-crypto-coins-to-stake-in-2026/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/07/SPX98K-Token-Presale-1000x600.png",
+        "publishedAt": "2026-07-12T08:38:14Z",
+        "source": "TechBullion"
       }
     ]
   }
