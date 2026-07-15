@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-15T21:16:24.798Z",
+  "fetchedAt": "2026-07-15T22:25:28.133Z",
   "sections": {
     "world": [
       {
-        "title": "‘Nobody told me how dangerous it is’: How Trump really sees threats to his life",
-        "description": "As fresh risks from Iran make headlines, those closest to the president told Semafor that, in private, he aims for fatalistic humor.",
-        "url": "https://www.semafor.com/article/07/15/2026/nobody-told-me-how-dangerous-it-is-how-trump-really-sees-threats-to-his-life",
-        "image": "https://img.semafor.com/90681e6f40e7b82b107d38678e88dc0a80471ff9-2416x1616.jpg?rect=0,174,2416,1268&w=1200&h=630&q=75&auto=format",
-        "publishedAt": "2026-07-15T09:15:00Z",
-        "source": "Semafor"
+        "title": "Specialist soldiers will be involved in border infrastructure improvements",
+        "description": "In line with her latest responsibility, Defence and Military Veterans Minister Angie Motshekga roped in two formations along with the Department of Public",
+        "url": "https://defenceweb.co.za/security/border-security/specialist-soldiers-will-be-involved-in-border-infrastructure-improvements/",
+        "image": "https://defenceweb.co.za/wp-content/uploads/Unorganized/no_border_fence_df_fb.jpg",
+        "publishedAt": "2026-07-15T10:22:48Z",
+        "source": "defenceWeb"
       },
       {
-        "title": "List of 21 African Countries Whose Citizens Are Eligible for Visa",
-        "description": "Tanzania allows citizens of 21 African countries to enter the country without a visa under its latest immigration rules, promoting easier cross-border travel.",
-        "url": "https://www.tuko.co.ke/business-economy/economy/632737-list-21-african-countries-citizens-eligible-visa-free-travel-tanzania/",
-        "image": "https://cdn.tuko.co.ke/images/1200x675/14a026191fecbc00.jpeg?v=1",
-        "publishedAt": "2026-07-15T09:14:21Z",
-        "source": "Tuko News"
+        "title": "Ben Gvir: The terrorists call me 'nutcase'",
+        "description": "National Security Minister Itamar Ben Gvir says Shin Bet chief David Zini credited drop in terror attacks to harsher prison conditions for security prisoners.",
+        "url": "https://www.israelnationalnews.com/news/430198",
+        "image": "https://2.a7.org/files/pictures/000/1221702.jpg",
+        "publishedAt": "2026-07-15T10:20:00Z",
+        "source": "Israel National News"
       },
       {
-        "title": "Indonesia grants visa-free entry to citizens of Turkey, Brazil and Kazakhstan",
-        "description": "Indonesia added six jurisdictions to its visa-free program, including Turkey, Brazil and Kazakhstan, to boost tourism, investment and bilateral ties.",
-        "url": "https://indonesiabusinesspost.com/6920/geopolitics/indonesia-grants-visa-free-entry-to-citizens-of-turkey-brazil-and-kazakhstan",
-        "image": "https://cdn.indonesiabusinesspost.com/5/0/3/2/passports-image-source-google-gemini-ai_512x351.png",
-        "publishedAt": "2026-07-15T09:08:52Z",
-        "source": "Indonesia Business Post"
+        "title": "German government to trim climate fund spending under budget plans",
+        "description": "The German government plans to scale back a range of subsidy programmes financed through its Climate and Transformation Fund (KTF) over the coming years, the Finance Ministry said on Wednesday. The fu...",
+        "url": "https://www.yahoo.com/news/science/articles/german-government-trim-climate-fund-101852118.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/f8223fd3b1b6abde10f685c45799c5cfc99ec322069e3e01960b0670fabda37d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2a66be2c80d7dcc7f05cc045062d5238",
+        "publishedAt": "2026-07-15T10:18:52Z",
+        "source": "Yahoo"
       },
       {
-        "title": "UK creates office to support citizens detained overseas",
-        "description": "The United Kingdom is strengthening measures to support British nationals detained ​abroad, particularly those facing the most challenging​ situations or",
-        "url": "https://dailypost.ng/2026/07/15/uk-creates-office-to-support-citizens-detained-overseas-2/",
-        "image": "https://dailypost.ng/wp-content/uploads/2025/09/dreamstime_s_127987401.jpg",
-        "publishedAt": "2026-07-15T09:08:40Z",
-        "source": "Daily Post Nigeria"
+        "title": "Three killed as Russian bombing of Odesa continues",
+        "description": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
+        "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+        "publishedAt": "2026-07-15T10:17:38Z",
+        "source": "BBC"
       },
       {
-        "title": "UK creates office to support citizens detained overseas",
-        "description": "The United Kingdom is strengthening measures to support British nationals detained ​abroad, particularly those facing the most challenging​ situations or",
-        "url": "https://dailypost.ng/2026/07/15/uk-creates-office-to-support-citizens-detained-overseas/",
-        "image": "https://dailypost.ng/wp-content/uploads/2026/07/Minister-Alistair-Burt.jpg",
-        "publishedAt": "2026-07-15T09:08:34Z",
-        "source": "Daily Post Nigeria"
+        "title": "Three killed as Russian bombing of Odesa continues",
+        "description": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
+        "url": "https://www.bbc.com/news/articles/c8929jv8kdzo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+        "publishedAt": "2026-07-15T10:17:38Z",
+        "source": "BBC"
       },
       {
-        "title": "stakes cyber op to hunt down US troops in the Middle East",
-        "description": "International News: Iran allegedly exploited weaknesses in decades-old telecommunications technology to track the mobile phones of US military personnel across the Middle.",
-        "url": "https://timesofindia.indiatimes.com/defence/international/inside-irans-high-stakes-cyber-op-to-hunt-down-us-troops-in-the-middle-east/articleshow/132411743.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132411734,width-1280,height-720,imgsize-215811,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-15T09:08:00Z",
-        "source": "The Times of India"
+        "title": "Tanzania: How Tanzania's Nickel Strategy Could Transform Global Clean Energy Supply Chains",
+        "description": "THE global transition toward green energy is triggering a massive shift in Africa's industrial landscape. No longer content with exporting raw, unprocessed commodities, Tanzania is transforming its industrial sector by shifting from raw mineral exports to domestic processing.",
+        "url": "https://allafrica.com/stories/202607150247.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-07-15T10:16:23Z",
+        "source": "allAfrica.com"
       },
       {
-        "title": "Ukraine's Drone War Is Entering Its Mothership Era",
-        "description": "Motherships are helping Ukraine send small drones farther into battle and strike from less predictable directions.",
-        "url": "https://www.businessinsider.com/ukraines-drone-war-entering-mothership-era-2026-7",
-        "image": "https://i.insider.com/6a56244eeae3978eb7e5d342?width=1200&format=jpeg",
-        "publishedAt": "2026-07-15T09:07:19Z",
-        "source": "Business Insider"
+        "title": "Girl dies after shielding three cousins from cobra attack in Sarangani, Philippines",
+        "description": "KORONADAL CITY, (Philippines): A 14-year-old girl died after sacrificing herself to save her three younger cousins from a king cobra attack while they were swimming in a river in Barangay Batian in Maitum, Sarangani, on Monday (July 13)",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/15/girl-dies-after-shielding-three-cousins-from-cobra-attack-in-sarangani-philippines",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/15/4012436.jpg",
+        "publishedAt": "2026-07-15T10:10:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Vulnerable Jews will suffer from Home Office visa changes, care provider warns",
-        "description": "Care workers supporting the Jewish community face returning to their home countries despite mounting demand for services",
-        "url": "https://www.thejc.com/news/community/vulnerable-jews-will-suffer-from-home-office-visa-changes-care-provider-warns-n5y3zhrs",
-        "image": "https://api.thejc.atexcloud.io/image-service/view/acePublic/alias/contentid/1sftswvn2cyzkk0soru/0/gettyimages-2208304018-jpg.webp?w=1200&q=0.6",
-        "publishedAt": "2026-07-15T09:06:51Z",
-        "source": "The Jewish Chronicle"
+        "title": "Kenya ships first green coffee consignment to Italy, eyes EU market",
+        "description": "First of 20 containers heads to Trieste Port, with government and industry targeting expanded access to Europe and new global markets.",
+        "url": "https://www.logupdateafrica.com/trade/kenya-ships-first-green-coffee-consignment-to-italy-eyes-eu-market-1359888",
+        "image": "https://www.logupdateafrica.com/h-upload/2026/07/15/98645-kenya-green-coffee-exports-mitchell-cotts.jpg",
+        "publishedAt": "2026-07-15T10:09:24Z",
+        "source": "Logistics Update Africa"
       }
     ],
     "business": [
       {
-        "title": "Taiwan shares end up after U.S. rally on eased inflation",
-        "description": "Shares in Taiwan bounced back Wednesday from a slump a session earlier, with buying sparked by a rally in the United States overnight after slower-than-expected June inflation, dealers said.",
-        "url": "https://focustaiwan.tw/business/202607150015",
-        "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2026/20260715/999x768_728917727323.jpg",
-        "publishedAt": "2026-07-15T09:16:00Z",
-        "source": "Focus Taiwan"
+        "title": "Wife recalls terrifying moments after husband nearly sucked out of Ryanair plane",
+        "description": "A woman whose husband was nearly sucked out of a Ryanair flight says she and others tried to help him while half of his body was outside the window.",
+        "url": "https://abc7ny.com/post/ryanair-mid-air-scare-wife-recalls-terrifying-moments-husband-sucked-plane/19510022/",
+        "image": "https://cdn.abcotvs.com/dip/images/19510085_071426-kabc-ryanair-incident-tn.jpg?w=1600",
+        "publishedAt": "2026-07-15T10:25:25Z",
+        "source": "ABC7 New York"
       },
       {
-        "title": "Satellite Navigation Risks, E-Loran to the rescue",
-        "description": "The invention of Global Navigation Satellite Systems (GNSS) revolutionised the world and thoroughly transformed the maritime industry.  This change has been a positive one overall, with safety and efficiency improved as a result. Like all technologies there are always trade-offs and the maritime industry has not been ...",
-        "url": "https://north-standard.com/insights-and-resources/resources/articles/satellite-navigation-risks-e-loran-to-the-rescue",
-        "image": "https://north-standard.com/favicon-32x32.png",
-        "publishedAt": "2026-07-15T09:14:21Z",
-        "source": "NorthStandard"
+        "title": "Several flights diverted after plane blocks Gatwick runway",
+        "description": "An Easyjet flight had to land at Stanstead Airport instead, but then became stuck there when it couldn't find fuel.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d8f/live/9b8ebd00-8009-11f1-bb75-11c541dbc811.jpg",
+        "publishedAt": "2026-07-15T10:23:27Z",
+        "source": "BBC"
       },
       {
-        "title": "DOT, DSWD, PCCI and PITAHC Back the HWONFEX 2026 to Anchor ASEAN Health Tourism in Manila in the Philippines",
-        "description": "The DOT, DSWD, PCCI, and PITAHC form a landmark alliance in Manila in the Philippines, designating HWONFEX 2026 as a premier ASEAN health tourism side event.",
-        "url": "https://www.travelandtourworld.com/news/article/vax9b2hxb323/",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/HWONFEX-2026-A4-Poster-3-1.jpg",
-        "publishedAt": "2026-07-15T09:13:52Z",
-        "source": "Travel And Tour World"
+        "title": "Several flights diverted after plane blocks Gatwick runway",
+        "description": "An Easyjet flight had to land at Stanstead Airport instead, but then became stuck there when it couldn't find fuel.",
+        "url": "https://www.bbc.com/news/articles/c3ryr25gvjdo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2d8f/live/9b8ebd00-8009-11f1-bb75-11c541dbc811.jpg",
+        "publishedAt": "2026-07-15T10:23:27Z",
+        "source": "BBC"
       },
       {
-        "title": "Broadband Altnet CityFibre Notifies 200 UK Staff of Possible Future Redundancy",
-        "description": "The UK’s largest alternative full fibre broadband network, CityFibre, has this morning proposed organisational changes that could result in 200 roles",
-        "url": "https://www.ispreview.co.uk/index.php/2026/07/broadband-altnet-cityfibre-notifies-200-uk-staff-of-possible-future-redundancy.html",
-        "image": "https://www.ispreview.co.uk/wp-content/uploads/2023/01/nggallery_import/CityFibre-Engineer-Holding-Hat-2023.jpg",
-        "publishedAt": "2026-07-15T09:13:00Z",
-        "source": "ISPreview UK"
+        "title": "Gold Price Forecast: XAU/USD hovers above $4,000, weighed by risk-off markets",
+        "description": "Gold (XAU/USD) edges lower on “inside trading” on Wednesday, with price action contained within Tuesday’s range, as the pair keeps looking for direction above the $4,000 level.",
+        "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hovers-above-4-000-weighed-by-risk-off-markets-202607151022",
+        "image": "https://editorial.fxsstatic.com/images/i/gold-03_Medium.jpg",
+        "publishedAt": "2026-07-15T10:22:01Z",
+        "source": "FXStreet"
       },
       {
-        "title": "Province promises changes after used car dealership goes under",
-        "description": "Nova Scotia’s Minister of Public Works, Fred Tilley, said his department is in the midst of an overhaul of the used car dealer regulations under Nova Scotia’s Traffic Safety Act.",
-        "url": "https://www.cbc.ca/news/canada/nova-scotia/used-car-dealership-regulations-9.7244505",
-        "image": "https://i.cbc.ca/ais/f1bb8cd4-9bde-4401-8d08-af0011f3b3d8,1776973251253/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C5712%2C3213%29%3BResize%3D620",
-        "publishedAt": "2026-07-15T09:12:56Z",
-        "source": "CBC"
+        "title": "Tanzania, China agree to broaden economic ties in trade, industrialization, and technology sectors",
+        "description": "DAR ES SALAAM: TANZANIA and China have stepped up efforts to expand economic cooperation, with both countries identifying trade, investment, infrastructure, industrialisation and technology as priority areas for deeper collaboration. This was reached in a discussion between Tanzania’s Minister for Foreign Affairs and East African Cooperation, Ambassador Mahmoud Thabit Kombo, and the Chinese Ambassador to …",
+        "url": "https://dailynews.co.tz/tanzania-china-agree-to-broaden-economic-ties-in-trade-industrialization-and-technology-sectors/",
+        "image": "https://dailynews.co.tz/wp-content/uploads/2026/07/WAZIRI-KOMBO-AKUTANA-NA-BALOZI-WA-CHINA-NCHINI-TANZANIA.Waziri-wa-Mambo-ya-Nje-na-Ushirikiano-wa-1.jpg",
+        "publishedAt": "2026-07-15T10:20:11Z",
+        "source": "dailynews.co.tz"
       },
       {
-        "title": "South Africa’s Post-greylisting Moment: Why Enforcement Now Matters More Than Ever",
-        "description": "South Africa's removal from the FATF grey list marked a significant achievement, but the country now faces a more demanding phase of scrutiny focused on effective enforcement rather than legislative compliance. The Madlanga Commission's findings on alleged corruption within the criminal justice system present both a stark challenge and an opportunity to demonstrate that the country's anti-money laundering and counter-terrorism financing frameworks can hold powerful individuals accountable.",
-        "url": "https://www.mondaq.com/southafrica/money-laundering/1814166/south-africas-post-greylisting-moment-why-enforcement-now-matters-more-than-ever",
-        "image": "http://www.mondaq.com/images/profile/companythumb/2503.webp?v=20241101121821",
-        "publishedAt": "2026-07-15T09:12:04Z",
-        "source": "Mondaq"
+        "title": "Kenya Airways Reacts after Mbote Njogu Gets Excited to Board Boeing 777 Days after Return to Service",
+        "description": "Popular TikToker Mbote Njogu captured his excitement boarding Kenya Airways' newly returned Boeing 777-300ER on a budget Mombasa flight, sparking viral joy online.",
+        "url": "https://www.tuko.co.ke/kenya/632759-kenya-airways-reacts-mbote-njogu-excited-board-boeing-777-days-return-service/",
+        "image": "https://cdn.tuko.co.ke/images/1200x675/785a92563de76764.jpeg?v=1",
+        "publishedAt": "2026-07-15T10:19:08Z",
+        "source": "Tuko News"
       },
       {
-        "title": "Construction underway on €5m solar farm in County Roscommon",
-        "description": "It is one of Ireland's largest privately funded commercial and industrial solar developments",
-        "url": "https://www.roscommonherald.ie/news/construction-underway-on-5m-solar-farm-in-county-roscommon_arid-105006.html",
-        "image": "https://www.roscommonherald.ie/cms_media/module_img/7718/3859240_5_articledetail_VERDE_20Energy_20Group_20and_20Aurivo_205_20MW_20solar_20farm_2002.jpg",
-        "publishedAt": "2026-07-15T09:12:00Z",
-        "source": "roscommonherald.ie"
+        "title": "FDA grants priority review to Roche’s Gazyva/Gazyvaro for pMN",
+        "description": "The US FDA has granted priority review to Roche’s supplemental biologics licence application (sBLA) for Gazyva/Gazyvaro in the treatment of adults with pMN.",
+        "url": "https://www.pharmaceutical-business-review.com/news/fda-priority-review-roches-gazyva/",
+        "image": "https://www.pharmaceutical-business-review.com/wp-content/uploads/2026/07/PT-2-15-07-2026-shutterstock_2704418161.jpg",
+        "publishedAt": "2026-07-15T10:19:06Z",
+        "source": "Pharmaceutical Business review -"
       },
       {
-        "title": "TSX struggles for direction following BoC announcement",
-        "description": "Wall Street gains as investors weigh earnings; PayPal jumps",
-        "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-steady-as-oil-surge-offsets-asml-boost-to-tech-shares/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/Y2G7RZJPYVAHLA24IRPF35LBBQ.JPG?auth=b626ca261403cff6e0f01242d252715e0ac360ef221326ce0c3428651dce5e57&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-07-15T09:11:23Z",
-        "source": "The Globe and Mail"
+        "title": "Gold Retreats as Oil Rises and Inflation Fears Grow",
+        "description": "Gold prices slipped on Wednesday as escalating tensions in the Middle East continued to stoke inflation concerns, reinforcing expectations of higher US interest rates. Spot gold fell 0.7% to $4,027.49 per ounce by 0843 GMT. Prices rose over 2% to a session high of $4,100.19 per ounce on Tuesday after soft US inflation data, Reuters reported. US gold futures for August delivery slid 0.9% to $4,034.00.",
+        "url": "https://english.aawsat.com/business/5296281-gold-retreats-oil-rises-and-inflation-fears-grow",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-07/1667963_0.jpeg.webp",
+        "publishedAt": "2026-07-15T10:18:43Z",
+        "source": "ASHARQ AL-AWSAT English"
       }
     ],
     "science": [
+      {
+        "title": "August's solar eclipse inspires science involving jets, balloons and Einstein’s general theory of relativity",
+        "description": "Solar eclipses are a rare and brief opportunity for scientists to gather data on everything from the physics of the sun to air pressure in the upper atmosphere",
+        "url": "https://www.scientificamerican.com/article/augusts-solar-eclipse-inspires-science-involving-jets-balloons-and-einsteins-general-theory-of-relativity/",
+        "image": "https://static.scientificamerican.com/dam/asset/4784f9c7-37e7-4003-b9e8-9676d04ce817/Solar-ecilpse.jpg?m=1784061608.163&w=1200",
+        "publishedAt": "2026-07-15T10:04:03Z",
+        "source": "Scientific American"
+      },
+      {
+        "title": "Testing the limits of what’s possible (and what isn’t) with AI",
+        "description": "Cambridge researchers identified fundamental AI prediction limits, proving some problems remain unsolvable regardless of available training data.",
+        "url": "https://www.digitalinformationworld.com/2026/07/testing-limits-of-whats-possible-and.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfDyV1nctXHwHUCzpiCaQc_qMXJKoMZeIgxn2t3IckI_R9-1y1AfKyrqzyMmjmfuaLW2TN2Jabd4BFRuSJlz0_Y94oPBrJ_yw39uLZ8Izbm_hj_oI93p2-jOZXhCHlWbY4tI1MZz6GtyfoLQARZRI3Od1SLf3Y_aLyq57NdXhGNH7j2TzDKUqYRXBHd6wC/w1600/egor-komarov-lN0oIZGmH3o-unsplash.jpg",
+        "publishedAt": "2026-07-15T10:02:00Z",
+        "source": "Digital Information World"
+      },
+      {
+        "title": "Reptile Genetics May Propel Cancer Research",
+        "description": "A new study, led by experts at the University of Nottingham, suggests a pet gecko with an unusually high risk of tumours may be a promising model for",
+        "url": "https://www.miragenews.com/reptile-genetics-may-propel-cancer-research-1710436/",
+        "image": "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments.jpg",
+        "publishedAt": "2026-07-15T09:48:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Voyager 1 crossed the edge of the Sun's protective bubble and entered interstellar space, but instead of fading gently into the void it met a strange, porous boundary scientists had not anticipated",
+        "description": "For six years one of Voyager 1's instruments had counted the same steady drizzle of low-energy particles streaming off the Sun. On 25 August 2012, over a",
+        "url": "https://spacedaily.com/d-voyager-1-crossed-the-edge-of-the-suns-protective-bubble-and-entered-interstellar-space-but-instead-of-fading-gently-into-the-void-it-met-a-strange-porous-boundary-scientists-had-not-anticipated/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/Posts-1600840-2026-07-15T153317.904.png",
+        "publishedAt": "2026-07-15T09:45:37Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Metallic waves on ancient Mars",
+        "description": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater – an ancient and otherworldly dune field sculpted by wind.",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars",
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_pillars.jpg",
+        "publishedAt": "2026-07-15T09:34:55Z",
+        "source": "European Space Agency"
+      },
       {
         "title": "Cross-country running: The workout with big benefits",
         "description": "Cross-country running is a challenging sport that combines endurance with diverse terrains",
@@ -158,112 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/07/j-line-up-jupiter-venus-and-every-other-planet-in-perfect-al.jpg",
         "publishedAt": "2026-07-15T09:01:47Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "The secret to hydrogen's quantum behavior lies in symmetry",
-        "description": "As interest in clean hydrogen power grows, so does the need for safe storage and transportation materials. One such material, vanadium, is a leading candidate because it readily absorbs hydrogen and allows it to move through its crystal structure. However, hydrogen displays varying behavior in the presence of vanadium, with the underlying cause remaining unclear.",
-        "url": "https://phys.org/news/2026-07-secret-hydrogen-quantum-behavior-symmetry.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/the-secret-to-hydrogen.jpg",
-        "publishedAt": "2026-07-15T09:00:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Reconciling observed and modeled estimates of urban terpenoid emissions",
-        "description": "Extensive observations highlight the significance of terpenoids in urban air quality. However, emission frameworks fail to capture their magnitude and spatial variability, limiting air quality management and atmospheric modeling. Here we reconcile observed and modeled urban terpenoid emissions and uncover intense, underrepresented anthropogenic sources in Greater Los Angeles by combining improved emission inventories, airborne flux measurements, and ground-based mobile measurements. We demonstrate that an enhanced biogenic inventory significantly reduces the discrepancy between modeled and observed isoprene fluxes, and the remaining gap in monoterpenoids is explained predominantly by anthropogenic sectors. We identify that these emissions originate from previously overlooked food industry and commercial businesses, which exhibit a biogenic-like temperature dependence. These anthropogenic sources account for 44% of the top 10% observed monoterpenoid flux hotspots and contribute 17% of the total flux. Given their ubiquity in urban and industrialized regions worldwide, these poorly characterized sources may influence air quality beyond Los Angeles. Overlooked food-related and small commercial activities substantially contribute to terpenoid emissions in Los Angeles, helping explain gaps in current inventories and improving understanding of urban air pollution.",
-        "url": "https://www.nature.com/articles/s41467-026-75075-9?error=cookies_not_supported&code=a18d5f3f-c155-4f0a-8579-adbb9bcf2e94",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-07-15T08:54:39Z",
-        "source": "nature.com"
-      },
-      {
-        "title": "First sugar detected in interstellar space offers clues to the origin of life on Earth",
-        "description": "An international team of scientists has directly detected a sugar in the interstellar medium for the very first time",
-        "url": "https://www.openaccessgovernment.org/first-sugar-detected-in-interstellar-space-offers-clues-to-the-origin-of-life-on-earth/211917/",
-        "image": "https://www.openaccessgovernment.org/wp-content/uploads/2026/07/Low-Res_Imagen-del-Centro-Galactico-obtenida-como-composicion-de-la-emision-observada-con-distintos-telesco-pios.jpg",
-        "publishedAt": "2026-07-15T08:45:53Z",
-        "source": "Open Access Government"
-      },
-      {
-        "title": "Not one eclipse this summer - but two! Get ready for a solar eclipse, a Blood Moon and shooting stars all in the same month",
-        "description": "A lunar eclipse will be visible at the end of August 2026 in North America, Europe, the UK and Africa. Here's how to see it.",
-        "url": "https://www.skyatnightmagazine.com/news/lunar-eclipse-august-2026",
-        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/f1b17ba4-681a-435b-914b-0fedcdc0a0d9/thumbnails/0367666c-9dae-4f28-85cd-d3783b8a23b7.jpg?w=1200",
-        "publishedAt": "2026-07-15T08:45:49Z",
-        "source": "BBC Sky at Night Magazine"
-      },
-      {
-        "title": "Titan holds hundreds of times more liquid hydrocarbons than every known oil and gas reserve on Earth combined, yet you couldn't light a single drop — its air is nitrogen and methane, with almost no ox",
-        "description": "Titan's methane seas hold hundreds of times more hydrocarbon than every oil and gas reserve on Earth, but with almost no oxygen in the air, none of it can burn.",
-        "url": "https://spacedaily.com/j-v-titan-holds-hundreds-of-times-more-liquid-hydrocarbons-than-every-known-oil-and-gas-reserve-on-earth-combined-yet-you-couldnt-light-a-single-drop-its-air-is-nitrogen-and-methane-with-almost-no-oxy/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/j-titan-holds-hundreds-of-times-more-liquid-hydrocarbons-tha.jpg",
-        "publishedAt": "2026-07-15T08:37:54Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "Are AI investments fuelling inflation? Fed Chair Kevin Warsh flags risk in testimony to congress",
-        "description": "Warsh flagged AI investment as a new and significant source of inflationary pressure, noting that the rapid construction of data centres and surging demand for AI equipment and software represents the most striking feature of the US economy right now.",
-        "url": "https://www.financialexpress.com/market/global-markets/are-ai-investments-fuelling-inflation-fed-chair-kevin-warsh-flags-risk-in-testimony-to-congress/4292293/",
-        "image": "https://images.financialexpressdigital.com/2026/07/KWCb.jpg",
-        "publishedAt": "2026-07-15T09:16:26Z",
-        "source": "The Financial Express"
+        "title": "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+        "description": "DeepSeek plans a new fundraising round at $74B valuation, eyeing a mainland IPO. The AI startup faces rising costs and competition.",
+        "url": "https://www.cnbctv18.com/technology/chinas-deepseek-to-raise-fresh-capital-at-usd74-billion-valuation-ahead-of-onshore-ipo-sources-say-19946194.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t155335104-2026-07-a4f58b6faa33ed867b4269a4213c6a4a.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-07-15T10:25:05Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "Cushman & Wakefield Study: AI to Drive Stronger Growth and Higher Real Estate Demand Across Asia Pacific",
-        "description": "Scenario-based analysis shows AI will expand demand across office, industrial and retail",
-        "url": "https://www.manilatimes.net/2026/07/15/tmt-newswire/media-outreach-newswire/cushman-wakefield-study-ai-to-drive-stronger-growth-and-higher-real-estate-demand-across-asia-pacific/2384806",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/15/1137729.jpg",
-        "publishedAt": "2026-07-15T09:15:20Z",
-        "source": "The Manila Times"
+        "title": "Apple gets long-awaited approval for Alibaba-powered iPhone AI tools in China",
+        "description": "This is a key step towards rolling out Apple Intelligence in the world’s biggest smartphone market. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/apple-gets-long-awaited-approval-for-alibaba-powered-iphone-ai-tools-in-china",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/60bf71b5457f768a39c6b6e890d7110da38ca0a226fd68dcb88b0a33fce8e1c5",
+        "publishedAt": "2026-07-15T10:24:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "IBM lost over $100 billion in just 42 days. Should Indian IT investors worry?",
-        "description": "IBM's $100 billion market value erosion in 42 days has jolted technology stocks and raised questions for Indian IT. The sell-off reflects a wider shift towards AI infrastructure spending, though recent Indian IT earnings remain steadier.",
-        "url": "https://www.indiatoday.in/business/market/story/ibm-share-crash-impact-on-indian-it-tcs-infosys-wipro-hcltech-wipro-ai-spending-2948359-2026-07-15",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/ibm-impact-on-indian-it-150704648-16x9_0.jpg?VersionId=aRI2pv_039nFkRzv7M7gKaG4jZHIki87",
-        "publishedAt": "2026-07-15T09:13:05Z",
-        "source": "India Today"
+        "title": "White Paint and AI: Europe's Railways Adapt to Record Heatwaves",
+        "description": "Europe’s railways face mounting challenges due to unprecedented heatwaves. Countries employ diverse solutions, ranging from high-tech drones and AI to simple white paint, to modernize aging infrastructure. As temperatures rise, transport systems are increasingly pressured, prompting investments and innovative adaptations across the continent.",
+        "url": "https://www.devdiscourse.com/article/business/3950590-white-paint-and-ai-europes-railways-adapt-to-record-heatwaves",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_08_2025_12_43_55_1823564.png&width=920&format=jpeg",
+        "publishedAt": "2026-07-15T10:23:31Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "Apple Intelligence AI service registered with China's cyberspace regulator",
-        "description": "China's cyberspace regulator said on ‌Wednesday that Apple's on-device generative AI service \"Apple Intelligence\" has been registered for ​use on iPhones in the ​country.",
-        "url": "https://www.reuters.com/technology/apple-intelligence-ai-service-registered-with-chinas-cyberspace-regulator-2026-07-15/",
-        "image": "https://www.reuters.com/resizer/v2/D25Z3IZC4FNKFEWBNMWLVV7STE.jpg?auth=fa9ae81aabdeafc23a2e553f380e94abb8beb9fbc473a9a99681b4aa5b021b29&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-15T09:12:16Z",
-        "source": "Reuters"
+        "title": "Doubao’s AI companions are gone. Users get 3 months to screenshot what is left.",
+        "description": "Doubao and Qwen killed custom AI agents on 15 July. Doubao gives users read-only access until 15 October. Qwen gave none. Neither offers a way out with the data.",
+        "url": "https://thenextweb.com/news/doubaos-ai-companions-are-gone-users-get-3-months-to-screenshot-what-is-left",
+        "image": "https://media.thenextweb.com/2026/06/ByteDance.avif",
+        "publishedAt": "2026-07-15T10:23:07Z",
+        "source": "TNW"
       },
       {
-        "title": "AI boosts productivity at top private banks, employee count drops",
-        "description": "While junior and mid-level roles increased at HDFC Bank, the opposite played out at Kotak Mahindra Bank in FY26, where junior positions were reduced",
-        "url": "https://www.moneycontrol.com/news/business/banks/ai-boosts-productivity-at-top-private-banks-employee-count-drops-13974593.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/07/20250718062446_Nifty-Bank.jpg",
-        "publishedAt": "2026-07-15T09:09:32Z",
-        "source": "Moneycontrol"
+        "title": "Want to be a good husband? This AI platform will reply to your wife",
+        "description": "'Good Husband' suggests empathetic text replies for men navigating tricky conversations with their spouses.",
+        "url": "https://theprint.in/feature/good-husband-ai-platform-spouses-text-better-wives-dubai-startup/2987082/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/good-husband-1.jpg",
+        "publishedAt": "2026-07-15T10:22:14Z",
+        "source": "ThePrint"
       },
       {
-        "title": "Australia to establish government AI office, curb data centers' water use",
-        "description": "'This is our time to decide what AI looks like here in Australia. It is not a question of if or when AI will transform our economy, we are past that,' Prime Minister Anthony Albanese says",
-        "url": "https://www.rappler.com/technology/australia-establish-government-ai-office-curb-data-center-water-use/",
-        "image": "https://www.rappler.com/tachyon/2026/07/australia-anthony-albanese-july-15-2026-reuters.jpg",
-        "publishedAt": "2026-07-15T09:08:01Z",
-        "source": "Rappler"
+        "title": "Anthropic launches 'Claude for Teachers' to help US educators with lesson planning and classroom tasks",
+        "description": "Anthropic launches Claude for Teachers, an AI platform for K-12 educators in the US, offering free premium access, curriculum support, and time-saving tools.",
+        "url": "https://www.cnbctv18.com/technology/anthropic-launches-claude-for-teachers-to-help-us-educators-with-lesson-planning-and-classroom-tasks-19946074.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/07/claude-for-teachers-2026-07-e03662d862e5cbdd738ca2260f334ee5.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-07-15T10:21:47Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "White House launches 'Gold Eagle' cybersecurity clearinghouse to share and patch AI-discovered software flaws",
-        "description": "US Government looks to centralize software vulnerability management",
-        "url": "https://www.techradar.com/pro/security/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-share-and-patch-ai-discovered-software-flaws",
-        "image": "https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg",
-        "publishedAt": "2026-07-15T09:07:37Z",
-        "source": "TechRadar"
+        "title": "OpenAI’s first AI hardware device may be a smart speaker with cameras and ChatGPT",
+        "description": "The ChatGPT maker's first device, expected to be launched in 2027, could act as a physical version of the chatbot.",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/openais-first-ai-hardware-device-may-be-a-smart-speaker-with-cameras-and-chatgpt-10787632/",
+        "image": "https://images.indianexpress.com/2026/04/open-AI.png",
+        "publishedAt": "2026-07-15T10:20:11Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "UK startup bags $50m as boss urges AI sovereignty",
-        "description": "Valarian has raised $50m (£37m) in fresh funding as its boss said countries should focus on controlling AI infrastructure.",
-        "url": "https://www.cityam.com/ai-startup-boss-warns-uk-cannot-become-dependent-on-overseas-tech/",
-        "image": "https://www.cityam.com/wp-content/uploads/2026/07/Max-Buchan_Valarian-2-e1784049065815.webp",
-        "publishedAt": "2026-07-15T09:07:02Z",
-        "source": "City A.M."
+        "title": "Is The Rise Of AI Fatigue Beginning To Drive S&P 500 Lower?",
+        "description": "Artificial intelligence has been one of the most powerful drivers of growth throughout Wall Street since late 2022, but have investors grown impatient with skyrocketing valuations and circular funding? The sheer",
+        "url": "https://www.benzinga.com/Opinion/26/07/60462632/is-rise-of-ai-fatigue-beginning-to-drive-sp500-lower",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/15/SP-500.jpg",
+        "publishedAt": "2026-07-15T10:19:47Z",
+        "source": "Benzinga"
       }
     ]
   }
