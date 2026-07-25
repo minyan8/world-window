@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-25T12:10:37.910Z",
+  "fetchedAt": "2026-07-25T14:04:04.726Z",
   "sections": {
     "world": [
       {
-        "title": "elect speaking out against continuing the country’s peace agenda",
-        "description": "Open Forum News Blog",
-        "url": "https://www.counterview.net/2026/07/whats-behind-columbias-president-elect.html",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyXcGDWFEBczvd1r2XrbIf_Y_vMAyYA9J6PtO0RjxJcWs2wfgxnUxgs1pKdc1sdZZzz3tylrNC598Euy6n1MHaSoTqq31i_cSxkTg49kAIw3JoflMZJ3BONEcM0aIT0gJlS4FATH-Syk3FBdC1RCFTK5J0CRF8ygMCGOZegeV02ATRpcwX_zhDbvryOwn/w1200-h630-p-k-no-nu/1000609936.jpg",
-        "publishedAt": "2026-07-25T00:06:00Z",
-        "source": "Counterview"
+        "title": "Wildfires threaten Bordeaux as more than 200,000 people flee flames in France, Spain",
+        "description": "The virulence of fires, fuelled by high temperatures and the long-term effects of climate change, has caught authorities off guard, with firefighters in Spain admitting the fires were so fast and violent that they could not be tackled head on.",
+        "url": "https://www.smh.com.au/world/europe/wildfires-threaten-bordeaux-as-more-than-200-000-people-flee-flames-in-france-spain-20260725-p60igt.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_33/t_crop_custom/q_86%2Cf_auto/0ad5ef522c6ea1637b3140563e04198b25d891bcfb24ce4c6388e7c56b1d1e43",
+        "publishedAt": "2026-07-25T02:01:27Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-        "description": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the ‘Abraham Accords’.",
-        "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-24T23:55:57Z",
-        "source": "Al Jazeera"
+        "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+        "description": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+        "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
+        "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-plane-gblv/24dc-plane-gblv-facebookJumbo.jpg",
+        "publishedAt": "2026-07-25T01:57:36Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Trump says hasn't decided on major Iran strikes, Tehran getting 'serious'",
-        "description": "Saudi-led coalition says it hit Houthi targets in Yemen, as US continues to bomb Islamic Republic targets and Iran retaliates with strikes across the region",
-        "url": "https://www.timesofisrael.com/trump-says-hasnt-decided-on-major-iran-strikes-tehran-getting-serious/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26205707073234.jpg",
-        "publishedAt": "2026-07-24T23:55:37Z",
-        "source": "The Times of Israel"
+        "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
+        "description": "President-elect intends to send a strong message about his security and decentralization agendas by conducting the ceremony far away from Bogotá.",
+        "url": "https://latinamericareports.com/de-la-espriella-eyes-inauguration-at-army-base-in-southern-colombia-in-break-with-tradition/14995/",
+        "image": "https://latinamericareports.com/wp-content/uploads/2026/07/abelardo.jpg",
+        "publishedAt": "2026-07-25T01:52:30Z",
+        "source": "Latin America Reports"
       },
       {
-        "title": "Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee",
-        "description": "International Business News: The Trump administration suffered a setback on Friday after a US federal appeals court refused to lift a ruling that blocks the government from chargi.",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/setback-for-trump-us-appeals-court-refuses-to-revive-100000-h-1b-visa-fee/articleshow/132617133.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132617143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-24T23:47:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Commercial vessel attacked in Black Sea, Indian killed",
-        "description": "This came to light days after four Indians were among 10 killed in an attack on a commercial vessel off the coast of Ukraine on July 19.",
-        "url": "https://indianexpress.com/article/india/commercial-vessel-attacked-in-black-sea-indian-killed-10802474/",
-        "image": "https://images.indianexpress.com/2026/07/Hormuz-ship-1_20260724234400.jpg",
-        "publishedAt": "2026-07-24T23:45:19Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "'Vacuum-Gapped, Not Just Air-Gapped'-After Iran Hit Amazon's Cloud",
-        "description": "After Iranian drones hit Amazon data centers in the Gulf, Lonestar's Chris Stott says storing data on the moon is the ultimate backup. The business case, examined.",
-        "url": "https://www.forbes.com/sites/boazsobrado/2026/07/24/vacuum-gapped-not-just-air-gapped-after-iran-hit-amazons-cloud/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a63f6d90ccc50ffd7bb0c56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-24T23:44:17Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Appeals court denies Trump’s bid to allow $100,000 fee on new H-1B visas",
-        "description": "Three-judge panel of Democratic appointees let stand lower court’s ruling that fee constitutes an unlawful tax",
-        "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-h1b-visa-fee",
-        "image": "https://i.guim.co.uk/img/media/c904e066403c08d5ae92a42d3d4b23c966303172/467_0_4648_3721/master/4648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d71b62263d1c29494b33c91bb246b23d",
-        "publishedAt": "2026-07-24T23:38:00Z",
+        "title": "Ukraine war briefing: Russia launches deadly attack on weapons exhibition near Kyiv",
+        "description": "Zelenskyy says defence industry event should not have taken place; US influencer Laura Loomer visits Kyiv. What we know on day 1,613",
+        "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
+        "image": "https://i.guim.co.uk/img/media/692985c692c45518f0ecc9fa1e4350daf565b74d/597_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=758cfaafd613567d026671c312ade6e7",
+        "publishedAt": "2026-07-25T01:36:14Z",
         "source": "The Guardian"
       },
       {
-        "title": "‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power",
-        "description": "Prime minister’s propaganda machine falters as fiercely secular youth protests reclaim nationalism",
-        "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/25/i-will-die-for-this-cause-how-indias-cockroach-meme-became-the-biggest-challenge-to-modis-grip-on-power",
-        "image": "https://i.guim.co.uk/img/media/800c2520812c2aae113802b6c336f81c200a23ab/289_0_3693_2956/master/3693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd09047145d4e39e1d9aab7f1c4ea7ef",
-        "publishedAt": "2026-07-24T23:30:00Z",
-        "source": "The Guardian"
+        "title": "Anwar: Malaysian vessel cleared through Red Sea, due in Melaka early August",
+        "description": "PORT DICKSON, July 25 — A Malaysian vessel has been cleared to pass through the Red Sea and is expected to arrive in Melaka early next month, Prime Minister Datuk Seri Anwar...",
+        "url": "https://www.malaymail.com/news/malaysia/2026/07/25/anwar-malaysian-vessel-cleared-through-red-sea-due-in-melaka-early-august/228860",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/25/353621.jpg",
+        "publishedAt": "2026-07-25T00:53:36Z",
+        "source": "Malay Mail"
+      },
+      {
+        "title": "Karim Khan, ICC prosecutor who sought Netanyahu warrant, voted out over Malaysian aide’s sexual misconduct claims",
+        "description": "UNITED NATIONS, July 25 — International Criminal Court member states voted Friday to dismiss prosecutor Karim Khan following disputed allegations that he sexually assaulted a...",
+        "url": "https://www.malaymail.com/news/world/2026/07/25/karim-khan-icc-prosecutor-who-sought-netanyahu-warrant-voted-out-over-malaysian-aides-sexual-misconduct-claims/228850",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/25/353619.jpeg",
+        "publishedAt": "2026-07-25T00:49:34Z",
+        "source": "Malay Mail"
+      },
+      {
+        "title": "India lands at 10% under US forced-labour tariff, escapes steeper 12.5%",
+        "description": "India avoids a steeper US tariff, with exports facing a 10% Section 301 duty from Friday after New Delhi tightened rules against forced-labour imports. | India News",
+        "url": "https://www.hindustantimes.com/india-news/india-lands-at-10-under-us-forced-labour-tariff-escapes-steeper-125-101784940355023.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/25/550x309/Donald_Trump_1744269295426_1784941247958_d6985559-733c-4a39-998c-fbeec6a881f1.jpg",
+        "publishedAt": "2026-07-25T00:45:54Z",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "2 schoolgirls found dead at Sungai Pari flats in Ipoh",
+        "description": "Police are waiting for the post-mortem reports on their deaths but do not suspect foul play.",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/2-schoolgirls-found-dead-at-sungai-pari-flats-in-ipoh",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://storage.googleapis.com/fmt-media-ecb9/v3/2026/07/f9424910-7ebc-4a85-829f-1f7320489db2-Perak-police-chief-Alwi-Zainal-Abidi-bernama-pic-250726.webp",
+        "publishedAt": "2026-07-25T00:45:00Z",
+        "source": "Free Malaysia Today"
       }
     ],
     "business": [
       {
-        "title": "Three-quarters of eggs produced in the United Kingdom are free-range",
-        "description": "Growing up in the United Kingdom in the 1990s and early 2000s, almost all the eggs in our supermarket came from battery hens, those raised in small wire enclosures.",
-        "url": "https://ourworldindata.org/data-insights/three-quarters-of-eggs-produced-in-the-united-kingdom-are-free-range",
-        "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/30ee76b1-e786-45b6-1c72-193b7e1f4f00/public",
-        "publishedAt": "2026-07-25T00:09:34Z",
-        "source": "Our World in Data"
+        "title": "Bitcoin Drops, DeXe Price Jumps 144%",
+        "description": "Crypto News Today July 25: Bitcoin, Ethereum Drops, DeXe surges, Fear Index 27, FBI Wallet Hack update, LayerZero news, and top crypto market trends.",
+        "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-btc-drops-dexe-layerzero-beat-lead-gains",
+        "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/crypto-news-today-btc-drops-dexe-layerzero-beat-lead-gains-9754.webp",
+        "publishedAt": "2026-07-25T02:04:00Z",
+        "source": "Coin Gabbar"
       },
       {
-        "title": "Lofty ambitions: can puffer jackets be made more sustainable?",
-        "description": "As temperature dip, the puffer’s appeal inflates. But quality and filler are factors to consider before buying new",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/25/lofty-ambitions-can-puffer-jackets-be-made-more-sustainable",
-        "image": "https://i.guim.co.uk/img/media/f025de4cc07e8df407808206c6e900e96a7792b0/889_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4506ca667f81cfc9ddfc3c914fb3edef",
-        "publishedAt": "2026-07-25T00:01:00Z",
-        "source": "The Guardian"
+        "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
+        "description": "China’s tech sector thrives on state-backed investment, reshaping funding dynamics and sparking a debate about balancing risk and innovation.",
+        "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/e70035c5-30ab-4801-95bc-b2d64f4186de_919ba400.jpg?itok=mw33ZoHm&v=1784894113",
+        "publishedAt": "2026-07-25T02:00:15Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "RM400mil water deal is Penang’s best option for now, says expert",
-        "description": "However, the state will have to deal with higher tariffs for consumers on top of the costly agreement with Perak in the long term.",
-        "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/rm400mil-water-deal-is-penang-s-best-option-for-now-says-expert",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/05/5723c28f-sungai-perak-pbapic-050524-.webp",
-        "publishedAt": "2026-07-25T00:00:00Z",
-        "source": "Free Malaysia Today"
+        "title": "Wall Street cautious after gold’s lack of follow-through, Main Street bullish with Fed decision on deck",
+        "description": "(Kitco News) – Gold prices rebounded during another volatile week, as bargain-hunting and softer Treasury yields helped the precious metal recover from an early drop below $4,000 per ounce, even as stronger U.S. labor data, a resilient dollar, and persistent inflation risks capped the subsequent rally.Spot gold kicked off the week trading at $4,015.83 per ounce on Sunday evening, but the yellow metal quickly came under pressure as traders continued to price in higher energy costs, renewed U.S.-Iran tensions, and the risk that the Federal Reserve could keep policy restrictive for longer. The selling carried into Monday, when gold set its weekly low at $3,982.32 per ounce before buyers stepped back in near the lower end of the recent range.Gold recovered steadily through Tuesday and Wednesday as Treasury yields eased from recent highs and the U.S. dollar lost momentum, allowing prices to climb back above $4,100. The rally accelerated after traders looked past the European Central Bank’s decision to hold rates steady and focused instead on easing oil prices, which helped cool some of the week’s inflation concerns. Spot gold ultimately set its weekly high at $4,165.71 per ounce just before noon on Wednesday.The rebound faded Thursday after initial jobless claims dropped to 187,000, their lowest level in decades, reinforcing expectations that the U.S. labor market remains strong enough to keep the Fed focused on price stability. Gold broke back below $4,100 as the dollar firmed and traders trimmed exposure ahead of next week’s FOMC decision, even as lingering Middle East risks continued to provide some safe-haven support.After stabilizing Friday but failing to reclaim $4,100, spot gold closed the week at $4,051.51 per ounce, leaving the metal higher on the week but still stuck near the middle of its recent range.The latest Kitco News Weekly Gold Survey showed Wall Street bearish or undecided on gold’s near-term prospects, while Main Street sentiment remained improved after the yellow metal defended $4,000 support once again.“Sideways,” said Darin Newsom, senior market analyst at Barchart.com. “From a technical or fundamental point of view, I don’t see much reason for the December futures contract to break out of its daily close range between $4,048.70 (July 16) and $4,210.30 (July 22). From Watson’s point of view (algorithm-based trading), the 45-day moving average is well above the market (calculated at $4,297.40 Friday morning).”“The last time Dec gold closed above its 45 DMA was March 16 ($5,150.30 to $5,148.00),” Newsom added. “Additionally, daily stochastics and implied volatility are both neutral heading into the weekend.”“Up,” said Adrian Day, president of Adrian Day Asset Management. “Although cautiously optimistic, we are not out of the woods yet, with the possibility of the Federal Reserve raising rates even as China’s economy slows and stimulus measures are put in place. It is encouraging that gold is unchanged over the past seven days–-down then up–in the face of an intensifying conflict in Iran, a higher oil price and higher dollar, and expectations of Fed hikes before the end of the year jumping.”“When an asset, any asset or market, does not drop in the face of negative developments, that is a bullish sign.”“Unchanged,” said Rich Checkan, president and COO of Asset Strategies International. “We have two forces working solidly against each other here… oil over $100 per barrel and strong support at $4,000. After multiple tests of support at $4,000, I see that continuing to hold. But as long as the tensions in the Middle East keep oil prices and inflationary fears elevated, it will be difficult for gold to move significantly higher.”“Brent crude crossing $100 has dealt a heavy blow to gold with the chain reaction now well established,” said Lukman Otunuga, manager of market analysis at FXTM. “Elevated oil prices are stoking inflation fears which have boosted Fed hike bets. This has led to a stronger dollar and rising Treasury yields – exposing zero-yielding gold to downside risks.”“While prices may edge higher on technical forces, geopolitical tensions are likely to limit the scope for any durable gold recovery,” Otunuga warned.“Up,” said James Stanley, senior market strategist at Forex.com. “I know it’s easy to get bearish right now because sellers have so far jumped on bounces. But – that $4k level has held well so far with demand showing on tests below, and I think Central Banks, pension and hedge funds, larger players with longer-term scope, look at the matter and see this as opportunity.”“With the Fed next week and some pain starting to show in equity pullbacks, I think we’ll see Warsh try to support President Trump by sounding less hawkish than what many expect,” Stanley said. “And longer-term, it’s not like we’re looking at austerity or balanced budgets anytime soon, so the bullish rationale for gold persists even with this temporary counter-trend backdrop.”Colin Cieszynski, chief market strategist at SIA Wealth Management, told Kitco News that uncertainty surrounding price stability and the Middle East are creating a great deal of risk around any potential gold positions.“Gold had a massive run,” he said. “I think a lot of the war was priced in, but I don't think the sell-down from $5,500 to $4,000 completely took all of the war out. It took some of the war concerns out, but not all of it. So it's already elevated, and there’s concern this is going to have to raise rates.”“I consider the inflation data to have been lagging, and I think you could see, in another month or two, inflation start to turn back up again if oil continues to rise,” Cieszynski said. “So based on that, we have the possibility that the U.S. dollar could start to go up, and that puts a headwind in front of gold.”“We're not at $3,000 anymore, we're not at $5,500 anymore,” he said. “We're somewhere settling in the middle. That's why I'm now neutral on gold for the time being. I don't know what it would take to get it going again, but I just feel like gold had such a huge run, and of course, it had a big pullback, and now it's got to sort itself out. And that could take three to six months.”Cieszynski said he doesn’t expect the gold market to move very far in either direction around next week’s Fed rate decision.“I just think it's the middle of summer and we've had quite a bit of volatility,” he said. “There's going to be a lot of earnings coming out. I don't think that the Fed wants to make waves. I don't think anybody wants to make waves in the middle of the summer this year. I think they're just trying to sort it all out.”Cieszynski thinks gold prices will likely remain within their recent channel between $3,960 and $4,170 per ounce through next week.“Unless the Fed surprises me, which I don't think they'll do.”This week, 18 analysts participated in the Kitco News Gold Survey, with Wall Street sentiment solidly bearish and uncertain after gold’s own indecisive performance. Four experts, or 22%, expected to see gold prices gain ground during the week ahead, while seven others, representing 39% of the total, predicted a price decline, and another seven saw the yellow metal continuing its sideways churn next week.  Meanwhile, 249 votes were cast in Kitco’s online poll, with Main Street investors turning more bullish after gold’s $4,000 support level held once again. 147 retail traders, or 59%, looked for gold prices to rise next week, while 48 others, or 19%, predicted the yellow metal would lose ground. The remaining 54 investors, representing 22% of the total, expected to see further consolidation during the week ahead.After one of the slowest economic news weeks of the year, next week promises significantly more substance for markets, including the July rate decisions from the Federal Reserve, the Bank of England and the Bank of Japan, consumer confidence, and the first look at Q2 GDP.The first significant release of the week will be Tuesday morning’s Consumer Confidence report for July, after which traders will turn their attention to Wednesday afternoon’s Federal Open Market Committee rate decision and press conference.Then Thursday morning will bring the Bank of England’s monetary policy decision, followed by US Q2 Advance GDP and PCE and weekly jobless claims, with the Bank of Japan monetary policy decision coming overnight.The week wraps up with the Friday morning release of revised University of Michigan Consumer Sentiment for July.“Gold has not proved itself,” said Marc Chandler, managing director at Bannockburn Global Forex. “The mid-week bounce to $4166 basis spot was sold into and gold is finishing the week below the 20-day moving average (~$4068). Rising global interest rate and firm US dollar are headwinds.”Kevin Grady, president of Phoenix Futures and Options, told Kitco News that with oil prices, yields, rate expectations and equities all unsettled, the smart money is still sitting on the sidelines.“Right now, the short-term trend is in flux because we have this situation with Iran, so energy prices are all over the place,” he said. “But you saw what happened yesterday with Alphabet. Everybody was just afraid of their CapEx, but if you look at just their earnings alone, they made a ton of money.”“I think earnings are good. I think economic data is good. So I think overall the economy is good,” he said. “I just think that right now, no one knows what's going to happen.”Grady said that everyone is still out of the market because of the prevailing uncertainty. “Every single move is exacerbated because there's less people trading, there's less volume,” he said. “People are just risk-off. Everyone's in risk-off, all the traders are in risk-off. Obviously the algos are in there, and they enjoy this environment. But no one really wants to play, because you just don't know.”“Who's going to put on a position over the weekend? And what's your rationale for doing so? It's a coin toss,” Grady added. “It could get better, it could get worse, but it's a coin toss. And I don't think anybody, especially the larger institutions, no one is trading based on coin tosses. So everyone's remaining flat.”Grady said the only real activity in futures markets is coming from traders rolling over their positions as the front-month contract moves from August to October.“They have until the end of next week,” he said. “A lot of times what happens is people have a gun to their head: You want to roll this position, you want to pay to roll this position? Do you love it? Or do you just want to liquidate, reassess, and see where it goes? That's part of what's putting a little bit of pressure. But right now, with rates all over the place, it's just a situation where people are in risk-off, and they just don't want to touch it.”Grady reiterated that the important thing to watch on any significant price move – whether up or down – is the volume.“If the market is up $100 on 600,000 volume, that matters,” he said. “If the market is up on 80,000, it just means there were some buyers in there and the algos just ran the market up. I think that's the key.”“No one wants to take a shot. No one wants to be a hero,” Grady said. “Right now, everybody's in risk-off mode waiting to see some more clarity on the Iranian situation and from the Fed.”Alex Kuptsikevich, senior market analyst at FxPro, expects gold prices to decline next week.“Gold jumped 4% midweek after another dip below $4,000, further confirming the strength of support during pullbacks,” he said. “The rally proved short-lived, as a strengthening US dollar and rising yields on long-term US government bonds drew sellers back into the commodities market. Nevertheless, a significant battle is unfolding that will determine the market’s future trend. We suspect China was a major buyer during the dips, with purchases intensifying in May and June. This is entirely in keeping with China’s approach of building up its reserves when prices fall significantly and reducing them when they rise. The big question is how strong the appetite for gold is in China and other emerging, export-oriented countries, which have been keen to buy gold over the last couple of years.”“Gold selling is now largely concentrated in developed markets, where rising long-term government bond yields in the US, Japan and elsewhere are reducing investor appetite for the precious metal,” Kuptsikevich noted. “These sellers also have substantial resources, leaving the outcome far from certain. Technically, neither side has established dominance: the horizontal support level during dips below $4,000 held, but the local high following the rebound was lower than the previous one.”“For now, we continue to regard a price decline to the $3,300–3,500 range as the main scenario,” he added. “However, the bulls showed enough persistence in pushing above the trend line last week that this strength cannot be ignored.”Analysts at CPM Group issued a Buy recommendation on Thursday when gold was trading near $4,068 per ounce, with an Initial Target Price of $4,220 per ounce between July 23 and August 4 and a Stop Loss at $3,980.“Gold prices remain in a short-term downward trend that extends from their late January record peak to today,” they wrote. “CPM has had a Gold Sell Trade Recommendation in place, but that was stopped out by the recent short-term strength in gold prices.”CPM analysts said they still expect gold prices to drop between now and late August, but they are issuing an ultra-short-term Buy recommendation for three main reasons:First, “Political and military issues related to the U.S. attacks on Iran, Iran’s attacks on shipping through the Strait of Hormuz, the spread of this to the Houthis’ attacks on ships in the Bab-el-Mandeb strait at the mouth of the Red Sea, worsening conditions in that war, sharply rising oil prices, domestic U.S. political hostilities, and more are raising risks and uncertainties for the economy and financial markets,” they said.The second reason is the fast-approaching delivery period for active August Gold Comex futures. “There remain 20.2 million ounces of open interest in the August contract,” the analysts said. “Around 12.7 million ounces have been rolled into the December futures contract and another 3.1 million into the October contract, but the remaining 20.2 million ounces remain to be dealt with – either buy being rolled forward, bought back outright, of delivered when August becomes deliverable. Most of this is likely to be rolled forward over the next two weeks. This could push gold prices higher during the next two weeks, followed by prices declining once more should political and economic conditions permit.”And third, they see gold prices approaching a critical downward technical trend line. “A break above this could lead technically oriented investors and computers to buy gold, which could push prices higher,” they said. “All of these factors could lead to higher gold prices over the next two weeks.”“Again, depending on the course of political and economic developments prices might resume their decline in August,” they said. “CPM continues to expect gold prices to rise beyond August.”Michael Moor, founder of Moor Analytics, expects to see gold prices rise next week.“Lower UNLESS we break decently above 40634 (-5 tics per/hour starting at 12:20am EST)—above which I would look decent strength, possibly for days—a 'decent' penetration is $19.6 until the close,” he said. “In a Higher timeframe: I cautioned on 8/16/18 the break above $1,183.0 warned of renewed strength. We have seen $4,443.1. This is ON HOLD. We held exhaustion with a 56268 high and rolled over $1,651.1. This is ON HOLD. On a medium timeframe basis: The trade below 52554 projected this down $740 (+)—we attained $1,300.0. The trade below 52036 brought in $1,248.2 of pressure. The trade below 51606 brought in $1,205.2 of pressure. These are ON HOLD. We held exhaustion with a 49177 high after a pullback and rolled over $962.3. The break below 48185 projected this down $185 (+)—we attained $863.1. The trade below 47923 projected this down $205 (+)—we attained $836.9. The break below 47420 brought in $786.6 of pressure. On 5/15 we left a medium bearish reversal—we have come off $597.8 from 45532. We held exhaustion with a 44036 high and rolled over $448.2. On 6/18 we left a minor bearish reversal—we have come off $323.9 from the 42793 open. These are ON HOLD. We held macro exhaustion with a 39554 low and bounced $260.1—if this holds and we start a bona fide bullish correction, the minimum target is 49636. This is ON HOLD.”“On a lower timeframe basis: We held exhaustion at 41795-2324 with a 42155 high and rolled over $252.5,” Moor said. “This is OFF HOLD. We held exhaustion with a 39630 low and have bounced $208.4. The trade above 40260 (+.5p/h) has brought in $145.4. The trade above 40296 (-6.5p/h) brought in $141.8. These are ON HOLD. Yesterday we left a minor bearish reversal—we have come off $56.5 from the 40805 open. The break below 40797 (-5 tics per/hour) has brought in $55.7 of pressure.”At the time of writing, spot gold last traded at $4,052.84 per ounce for a gain of 1.43% on the week and 0.08% on the day.",
+        "url": "https://www.kitco.com/news/article/2026-07-24/wall-street-cautious-after-golds-lack-follow-through-main-street-bullish",
+        "image": "https://image-api.prod.kitco.com/image/09c0cc51-7795-4801-a46d-49ba1aab5efd.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=753c859f28c85c747b672a536b18286dd4d26ef032176f57cb44241334eee5df",
+        "publishedAt": "2026-07-25T02:00:00Z",
+        "source": "KITCO"
       },
       {
-        "title": "SpaceX launches major starship test in post-IPO spotlight",
-        "description": "The rocket is carrying upgraded Starlink satellites that are intended to burn up later in the atmosphere as part of the roughly hour-long test mission.",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/spacex-launches-major-starship-test-in-post-ipo-spotlight-article-13983210.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724235747_Starlink-launch.jpg",
-        "publishedAt": "2026-07-24T23:58:33Z",
+        "title": "Orchard Central tenants from levels 5 to 12 to move out by end-November; space planned for office use",
+        "description": "SINGAPORE – As early as March, there were murmurs among some tenants of Orchard Central mall about a feasibility study being done by their landlord, though no one knew what it was about or if tenants would be affected.Inquiries about their leases were met with delayed or holding responses from the leasing team, according to some tenants who spoke to...",
+        "url": "https://www.asiaone.com/singapore/orchard-central-tenants-levels-5-12-move-out-end-november-space-planned-office-use",
+        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/2507_orchard_central.jpg?itok=LjT9t3Y5",
+        "publishedAt": "2026-07-25T01:50:00Z",
+        "source": "AsiaOne"
+      },
+      {
+        "title": "Insider Sale: EVP & Chief Fin. & Growth Ofc. of $LEVI Sells 98,144 Shares",
+        "description": "Harmit J Singh, the EVP & Chief Fin. & Growth Ofc. of $LEVI, sold 98,144 shares of the company on 07",
+        "url": "https://www.quiverquant.com/news/Insider+Sale%3A+EVP+%26+Chief+Fin.+%26+Growth+Ofc.+of+%24LEVI+Sells+98%2C144+Shares",
+        "image": "https://www.quiverquant.com/images/levi_rect_new.png",
+        "publishedAt": "2026-07-25T01:45:00Z",
+        "source": "Quiver Quantitative"
+      },
+      {
+        "title": "Beneficiaries spend 8 percent more than they receive each week - report",
+        "description": "Beneficiaries are increasingly struggling to make ends meet, financial mentors say, and are spending more than they receive in benefits each week at a record rate.",
+        "url": "https://www.rnz.co.nz/news/business/793035/beneficiaries-spend-8-percent-more-than-they-receive-each-week-report",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--pcdASmdm--/t_tohu-badge-facebook/f_auto/q_auto/4KLCY9H_FINAL_COMM_CARDS_png",
+        "publishedAt": "2026-07-25T01:40:41Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "1 Reason Smart Investors Are Loading Up on Coca-Cola Before July 28",
+        "description": "The world's largest beverage company is still a rock-solid investment.",
+        "url": "https://www.fool.com/investing/2026/07/24/1-reason-smart-investors-are-loading-up-on-coca-co/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880196%2Fgettyimages-1135420212.jpg&w=1200&op=resize",
+        "publishedAt": "2026-07-25T01:37:58Z",
+        "source": "The Motley Fool"
+      },
+      {
+        "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+        "description": "The initiative includes a long-term partnership with SK Hynix to secure next-generation memory supply for Nvidia and jointly develop high-bandwidth memory for AI training, AI agents and physical AI applications.",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-article-13983217.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260725013719_Huang-Nvidia.jpg",
+        "publishedAt": "2026-07-25T01:37:44Z",
         "source": "Moneycontrol.com"
-      },
-      {
-        "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-        "description": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
-        "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108340151-17849340882026-07-24t230105z_855968858_rc2mkma87xje_rtrmadp_0_space-spacex-starship.jpeg?v=1784934105&w=1920&h=1080",
-        "publishedAt": "2026-07-24T23:57:33Z",
-        "source": "CNBC"
-      },
-      {
-        "title": "FDA approves pain pill that combines Tylenol and naproxen",
-        "description": "The FDA approved a new table that combines Tylenol with naproxen, an anti-inflammatory medication.",
-        "url": "https://www.usatoday.com/story/news/health/2026/07/24/fda-pain-pill-combines-tylenol-naproxen/91039395007/",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/22/USAT/86300409007-20250922-vpc-trump-autism-announcement-thumb-getty-00-00-00-00-still-004.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-        "publishedAt": "2026-07-24T23:41:00Z",
-        "source": "USA Today"
-      },
-      {
-        "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
-        "description": "An analysis of mud from off Minamitorishima island found medium and heavy rare earth elements accounted for about 54% of the total rare earth content.",
-        "url": "https://www.japantimes.co.jp/business/2026/07/25/economy/japan-rare-earths-mud-minamitorishima/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/25/553484.jpg?v=3.1",
-        "publishedAt": "2026-07-24T23:32:00Z",
-        "source": "The Japan Times"
-      },
-      {
-        "title": "EZRide co-owner says company will take a 'hit' if Uber comes to town",
-        "description": "Chris Morris wants the City of Sault Ste. Marie to 'really think' about the long-term impacts if Uber decides to further expand to the Sault after moving into northeastern Ontario",
-        "url": "https://www.sootoday.com/local-news/ezride-co-owner-says-company-will-take-a-hit-if-uber-comes-to-town-12591141",
-        "image": "https://www.vmcdn.ca/f/files/sootoday/images/business/2026-07-24-ezridestock.jpg;w=1200;h=800;mode=crop",
-        "publishedAt": "2026-07-24T23:30:00Z",
-        "source": "SooToday.com"
       }
     ],
     "science": [
+      {
+        "title": "Scientists discover the Sun contains 55% more silver than expected",
+        "description": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+        "image": "https://www.sciencedaily.com/images/1920/close-up-sun-surface-solar-flares.webp",
+        "publishedAt": "2026-07-25T01:57:05Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Scientists discover the Sun contains 55% more silver than expected",
+        "description": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
+        "url": "http://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+        "image": "https://www.sciencedaily.com/images/1920/close-up-sun-surface-solar-flares.webp",
+        "publishedAt": "2026-07-25T01:57:05Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "NASA site hit by wildfire",
+        "description": "A major NASA deep space communications facility in Spain was evacuated due to a wildfire, impacting the agency's ability to communicate with space probes. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/major-nasa-site-in-spain-hit-by-wildfire",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f45ba8233bcbf8fcded01692a53e72031914443c5f91b567d102e7fd88364f72",
+        "publishedAt": "2026-07-25T01:51:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "In 2025, Antarctic drillers reached bedrock and recovered ice that fell as snow 1.2 million years ago - with the air of that vanished world still sealed inside it",
+        "description": "A time capsule of ancient air reveals how Earth's climate operated in a world before humans existed.",
+        "url": "https://spacedaily.com/t-in-2025-antarctic-drillers-reached-bedrock-and-recovered-ice-that-fell-as-snow-1-2-million-years-ago-with-the-air-of-that-vanished-world-still-sealed-inside-it/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/newimagesize-2026-07-25T072103.762.png",
+        "publishedAt": "2026-07-25T01:30:19Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Cosmic eye: NASA’s Roman telescope set to solve deep space secrets",
+        "description": "The Nancy Grace Roman space telescope will study how the universe began, what it is made of, and how it has evolved over time.",
+        "url": "https://www.dtnext.in/edit/cosmic-eye-nasas-roman-telescope-set-to-solve-deep-space-secrets",
+        "image": "https://media.assettype.com/dt-next%2F2026-07-24%2Fecotae0o%2FUntitled-design-8.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-25T01:00:00Z",
+        "source": "DT Next"
+      },
+      {
+        "title": "Earth's magnetosphere governs speed of solar wind on lunar nearside",
+        "description": "The farside of the moon receives solar wind particles at nearly full speed, while its Earth-facing side is hit by the same wind after it has been slowed by nearly half, according to a study published recently in the journal Nature Geoscience.",
+        "url": "https://www.chinadaily.com.cn/a/202607/25/WS6a64008fa310986e2b46737c.html",
+        "image": "http://img2.chinadaily.com.cn/images/202607/25/6a64008fa310986e101a450d.jpeg",
+        "publishedAt": "2026-07-25T00:17:15Z",
+        "source": "China Daily"
+      },
+      {
+        "title": "Mathematician Offers New Solution to a Fundamental Cosmic Paradox",
+        "description": "New research examines how gravity can be reconciled with thermodynamics through the Gravity from Entropy theory.",
+        "url": "https://scitechdaily.com/mathematician-offers-new-solution-to-a-fundamental-cosmic-paradox/",
+        "image": "https://scitechdaily.com/images/Gravity-Theory-Wormhole.jpg",
+        "publishedAt": "2026-07-25T00:11:49Z",
+        "source": "SciTechDaily"
+      },
       {
         "title": "Scientists Discover The Fourth Transmissible Cancer Known To Science",
         "description": "Scientists found the fourth type of transmissible cancer, and the first in a fish: a melanoma whose tumor cells spread between catfish in a Vermont lake.",
@@ -142,128 +198,72 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a63f724aecb052137722df1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "publishedAt": "2026-07-25T00:05:54Z",
         "source": "Forbes"
-      },
-      {
-        "title": "New PACA mapping tool tracks fossil locations back through millions of years",
-        "description": "The Paleocoordinates Calculator reconstructs ancient fossil locations using five plate models, with errors below 17 metres.",
-        "url": "https://www.thebrighterside.news/post/new-paca-mapping-tool-tracks-fossil-locations-back-through-millions-of-years/",
-        "image": "https://www.thebrighterside.news/uploads/2026/07/fossil-main.png?auto=webp",
-        "publishedAt": "2026-07-24T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "The universe is 13.8 billion years old. Webb is finding galaxies that look like they've been quietly forming stars for billions of years inside a cosmos that was, at the time of observation, only a fe",
-        "description": "Webb's stunning early galaxies are forcing astronomers to rethink cosmic history—but not quite in the way the headlines suggest.",
-        "url": "https://spacedaily.com/t-webb-early-galaxies-age-paradox/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-deep-space-galaxies-hubble-field.jpg",
-        "publishedAt": "2026-07-24T23:00:25Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Serial snacking whale sharks surprise with 6 new behaviours",
-        "description": "Serial snacking whale sharks at feeding at all ocean depths as new feeding behaviour is revealed in new maritime research.",
-        "url": "https://newscop.com.au/2026/07/25/serial-snacking-whale-sharks-surprise/",
-        "image": "https://newscop.com.au/wp-content/uploads/2026/07/whale-shark1-1024x576.jpg",
-        "publishedAt": "2026-07-24T23:00:09Z",
-        "source": "NewsCop"
-      },
-      {
-        "title": "New Images Reveal the Stunning Properties of the Black Hole at the Center of M87",
-        "description": "Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried out the first spatially resolved dual-frequency spectral study of the M87 black hole using observations obtained in 2018 with the Event Horizon Telescope (EHT) and the Global Millimeter VLBI Array (GMVA).",
-        "url": "https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87",
-        "image": "https://www.universetoday.com/article_images/m87_lo_april11_polarimetric_average_image_ml_deband-cc-8bit-srgb_20260724_225052.jpg",
-        "publishedAt": "2026-07-24T22:55:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Quantum Heat Waves Observed at Room Temp in Physics First",
-        "description": "How can quantum technology be improved to enhance electronics? This is what a recent study published in Nature Physics hopes to address as a team of resear | Technology And Engineering",
-        "url": "https://www.labroots.com/trending/technology-and-engineering/30819/quantum-heat-waves-observed-temp-physics-2",
-        "image": "https://images.labroots.com/content_article_profile_image_666a7c9ec51966cf4e74011e5daf82fe71ecd976_35.png",
-        "publishedAt": "2026-07-24T22:45:00Z",
-        "source": "Labroots"
-      },
-      {
-        "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
-        "description": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
-        "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
-        "image": "https://media.wired.com/photos/6a63d6e658b45fb8be88c32f/191:100/w_1280,c_limit/NASA-Important-Deep-Space-Observatories-Hit-by-Spanish-Wildfires-Science-2287501646.jpg",
-        "publishedAt": "2026-07-24T22:30:00Z",
-        "source": "WIRED"
-      },
-      {
-        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-        "description": "Any potential damage will be assessed when it is safe to do so.\"",
-        "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2287501646-1152x648.jpg",
-        "publishedAt": "2026-07-24T22:28:20Z",
-        "source": "Ars Technica"
       }
     ],
     "ai": [
       {
-        "title": "Ottawa consults on AI agents - including shopping bots - that mislead or malfunction",
-        "description": "Consultation also asks for views on labelling AI-generated videos, music and text",
-        "url": "https://www.theglobeandmail.com/politics/article-ottawa-consults-on-ai-agents-shopping-bots-mislead/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/WULDQQS7NRG4HHHRPKVNYUIEKM.JPG?auth=317a19a5f2d405ee30117e623a54e573214e775a05430a3e82dbe6735e709f90&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-07-25T00:04:45Z",
-        "source": "The Globe and Mail"
+        "title": "Trump nominee vows tougher AI export controls",
+        "description": "Trump nominee vows tougher AI export controls - Washington, July 25 President Donald Trump's nominee to oversee US export controls on sensitive technologies pledged this week ... Get Latest News on International only on lokmattimes.com",
+        "url": "https://www.lokmattimes.com/international/trump-nominee-vows-tougher-ai-export-controls/",
+        "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607253877448_202607.jpg",
+        "publishedAt": "2026-07-25T02:03:42Z",
+        "source": "Lokmat Times"
       },
       {
-        "title": "AI Is Quietly Creating Millionaires - and Here's Exactly How to Copy Them (No Staff, No Code)",
-        "description": "Why the founders getting rich use less AI than you do, not more, and where they aim it instead.",
-        "url": "https://www.entrepreneur.com/building-a-business/ai-is-quietly-creating-millionaires-and-heres-exactly-how-to-copy-them-no-staff-no-code",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=32",
-        "publishedAt": "2026-07-25T00:00:00Z",
-        "source": "Entrepreneur"
+        "title": "AI can guide forest restoration, but challenges remain: Indian Forest Service officer Pushpendra Rana",
+        "description": "Pushpendra Rana spoke to indianexpress.com on the need for tech to improve forest governance, help farmers and forest officials reduce wastage.",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/himachal-ifs-officer-telegram-chatbot-ai-forest-governance-10802145/",
+        "image": "https://images.indianexpress.com/2026/07/Dr-Pushpendra-Rana-1.jpg",
+        "publishedAt": "2026-07-25T02:00:48Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Allison Schrager: Expect more data center moratoriums - and slower growth",
-        "description": "If you are an AI doomer, as a majority of Americans are, then you might find New York’s one-year moratorium on new data centers reassuring: No matter how fast technology progresses, humans will do all they can to slow it down. Restrictions on data centers, which are almost certainly coming in other states as well, illustrate what we economists call friction. As usual, it comes from a place of ...",
-        "url": "https://www.spokesman.com/stories/2026/jul/25/allison-schrager-expect-more-data-center-moratoriu/",
-        "image": "https://thumb.spokesman.com/6ds8odM53qr7iGnCo_aNwbP1SLY=/1200x630/smart/media.spokesman.com/photos/2026/07/24/6a60fe31f37c9.hires.jpg",
-        "publishedAt": "2026-07-25T00:00:00Z",
-        "source": "Spokane Spokesman-Review"
+        "title": "‘Open Intelligence’: An eye-opening account of the future of creative arts in the age of AI",
+        "description": "Saikat Majumdar’s book compels readers to reflect on the unique distinction between a human student and an AI student of the creative arts.",
+        "url": "https://scroll.in/article/1093654/open-intelligence-an-eye-opening-account-of-the-future-of-creative-arts-in-the-age-of-ai",
+        "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/214668-zgczonbuzt-1784879994.jpeg",
+        "publishedAt": "2026-07-25T02:00:00Z",
+        "source": "Scroll.in"
       },
       {
-        "title": "Steve Hilton brings 'Gladiator' AI ad to California governor's race",
-        "description": "Republican Steve Hilton unveiled a new AI-generated ad for California governor, taking another page out of the viral campaign of ex-LA mayoral candidate Spencer Pratt.",
-        "url": "https://nypost.com/2026/07/24/us-news/steve-hilton-brings-gladiator-ai-ad-to-california-governors-race/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135419462.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-07-24T23:59:34Z",
-        "source": "New York Post"
+        "title": "Data center GPUs accelerate rack scale AI workloads",
+        "description": "Next-generation data center GPUs and modular rack architectures power frontier AI training and their inference workloads.",
+        "url": "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_9680-e1784943895460.jpg",
+        "publishedAt": "2026-07-25T01:57:03Z",
+        "source": "SiliconANGLE News"
       },
       {
-        "title": "AMD Lays Out AI Vision Across Cloud, Client And Robotics",
-        "description": "The big news was the official launch of the Helios rack, AMD’s first full AI infrastructure rack solution powered by the company’s latest 6th generation Epyc CPUs.",
-        "url": "https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279241831/image_2279241831.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-07-24T23:57:00Z",
-        "source": "Seeking Alpha"
+        "title": "Caribbean charts united course for artificial intelligence",
+        "description": "PORT OF SPAIN, Trinidad, CMC – The Trinidad-based Caribbean Telecommunications Union (CTU) is underscoring the need for a structured regional framework to",
+        "url": "https://www.europesays.com/3152197/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/07/8502682.jpg",
+        "publishedAt": "2026-07-25T01:55:18Z",
+        "source": "EUROPE SAYS"
       },
       {
-        "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-        "description": "WASHINGTON/SAN FRANCISCO, July 24 (Reuters) - The OpenAI agent that ⁠broke into tech firm Hugging Face went on a dayslong hacking spree that OpenAI didn't notice until well after the threat was contained and the FBI was alerted, according to people familiar with the investigation.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/25/exclusive-its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/25/4027417.jpg",
-        "publishedAt": "2026-07-24T23:56:00Z",
-        "source": "The Star"
+        "title": "AI warfare much bigger threat than LLM model advances, experts warn",
+        "description": "The growing use of AI in warfare poses a much bigger threat to the future of the UK than advances in frontier AI models, experts have said.",
+        "url": "https://www.cityam.com/extremely-dangerous-ai-warfare-much-bigger-threat-than-llm-model-advances-experts-warn/",
+        "image": "https://www.cityam.com/wp-content/uploads/2026/07/AI-warfare-e1784900166734.jpg",
+        "publishedAt": "2026-07-25T01:52:00Z",
+        "source": "City A.M."
       },
       {
-        "title": "South Korea's AI Summit: A Global Tech Vision",
-        "description": "South Korean President Lee Jae Myung organized an AI summit in San Francisco, gathering leaders from major tech companies like Nvidia and OpenAI alongside South Korean business figures. The event aims to position South Korea as a leader in AI advancement, partnering with global technology companies to achieve this vision.",
-        "url": "https://www.devdiscourse.com/article/technology/3955442-south-koreas-ai-summit-a-global-tech-vision",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_07_2024_16_37_00_5434529.png&width=920&format=jpeg",
-        "publishedAt": "2026-07-24T23:54:10Z",
-        "source": "Devdiscourse"
+        "title": "America is committing trillions to rebuild. AI must help people build it",
+        "description": "US News: I have spent more than two decades building AI systems, and I am also a father of two young children. These two facts shape how I think about the futu.",
+        "url": "https://timesofindia.indiatimes.com/world/us/america-is-committing-trillions-to-rebuild-ai-must-help-people-build-it-/articleshow/132617483.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132617517,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-25T01:41:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-        "description": "Nvidia and South Korea's SK Group on ​Friday unveiled a more than $500 ‌billion AI initiative spanning large-scale AI data centers and next-generation memory, ​Nvidia said.",
-        "url": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/",
-        "image": "https://www.reuters.com/resizer/v2/SJRQF5FRYZNARCHCHW7XYAP7Z4.jpg?auth=a61ed2f60408d7ffb1040d7a9aed6e487bdaca003440ae90e9514bcd79e8f475&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-07-24T23:53:53Z",
-        "source": "Reuters"
+        "title": "No AI in 'Pan's Labyrinth' 3D Re-Release",
+        "description": "The filmmaker said no AI was used in creating the 20th anniversary restoration of the film while at San Diego Comic-Con.",
+        "url": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/",
+        "image": "https://variety.com/wp-content/uploads/2023/05/MCDPALA_EC016.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-07-25T01:37:12Z",
+        "source": "Variety"
       }
     ]
   }
