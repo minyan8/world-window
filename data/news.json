@@ -1,269 +1,269 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-25T09:13:18.561Z",
+  "fetchedAt": "2026-07-25T10:46:21.914Z",
   "sections": {
     "world": [
       {
-        "title": "Karim Khan removed as ICC prosecutor over sexual misconduct allegations",
-        "description": "ICC prosecutor Karim Khan was removed by member states over sexual misconduct allegations, marking the first time the International Criminal Court dismissed a chief prosecutor.",
-        "url": "https://www.foxnews.com/world/icc-prosecutor-whose-netanyahu-warrant-fueled-mamdani-arrest-threat-fired-over-sexual-misconduct",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/karim-khan-icc.jpg",
-        "publishedAt": "2026-07-24T21:10:49Z",
+        "title": "AHF Backs Africa Union’s Debt Reform Push",
+        "description": "KAMPALA, Uganda--(BUSINESS WIRE)--AIDS Healthcare Foundation (AHF) welcomed the African Union’s focus on debt sustainability at this week’s Specialized",
+        "url": "https://aijourn.com/ahf-backs-africa-unions-debt-reform-push/",
+        "image": "https://aijourn.com/wp-content/uploads/2024/04/cropped-The-AI-Journal-1-32x32.png",
+        "publishedAt": "2026-07-24T22:46:08Z",
+        "source": "The AI Journal"
+      },
+      {
+        "title": "US missiles hit Iran as path towards de-escalation uncertain",
+        "description": "Trump has threatened to expand targets in Iran, though he said he had not yet made a decision for new major strikes.",
+        "url": "https://www.channelnewsasia.com/world/us-missiles-iran-war-donald-trump-6277381",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Nya8NnXH--/c_crop,h_562,w_1000,x_0,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Iran_War_19143.jpg?itok=KIBrM-5S",
+        "publishedAt": "2026-07-24T22:44:00Z",
+        "source": "CNA"
+      },
+      {
+        "title": "Affordable Care Act rates could increase again in Pennsylvania",
+        "description": "People who buy their healthcare coverage in Pennsylvania through the Affordable Care Act are expected to see their premiums skyrocket.",
+        "url": "https://www.cbsnews.com/pittsburgh/news/affordable-care-act-pennsylvania-rates/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/16/e6c1040f-c5a0-4d88-bb6c-45a644e313f7/thumbnail/1200x630/e2548391b8f432b90ce4956e7158cbdf/5p-pkg-cost-of-health-care-wcco8ywx-00-01-2208.jpg",
+        "publishedAt": "2026-07-24T22:42:00Z",
+        "source": "CBS News"
+      },
+      {
+        "title": "How volunteers with 3D printers make weapons for Ukraine",
+        "description": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine’s defense capabilities. Special correspondent Simon Ostrovsky and producer Katia Patin report on the technologies and policies that helped drive that transformation. A warning: this story includes graphic descriptions of war.",
+        "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/weaponsondemand-1024x576.jpg",
+        "publishedAt": "2026-07-24T22:40:44Z",
+        "source": "PBS"
+      },
+      {
+        "title": "The future is not something that will just be given to you - Julius Malema",
+        "description": "Leader says EFF exists because it refuses to tell the youth that their suffering is normal, its role is to organise the anger of the people",
+        "url": "https://www.politicsweb.co.za/news/the-future-is-not-something-that-will-just-be-given-to-you-julius-malema",
+        "image": "https://www.politicsweb.co.za/media/2026/04/JuliusMalemaHeroImage-1.jpg",
+        "publishedAt": "2026-07-24T22:36:47Z",
+        "source": "Politicsweb"
+      },
+      {
+        "title": "International Criminal Court prosecutor Karim Khan dismissed after sexual misconduct investigation",
+        "description": "The International Criminal Court has dismissed prosecutor Karim Khan following an investigation into sexual misconduct allegations.",
+        "url": "https://www.abc.net.au/news/2026-07-25/icc-prosecutor-karim-khan-dismissed-sexual-misconduct/106957660",
+        "image": "https://live-production.wcms.abc-cdn.net.au/c206d9d03c22b9301dedfd38a3aec7c2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-07-24T22:11:35Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Trump says Saudi Arabia must join Abraham Accords for nuclear deal",
+        "description": "Donald Trump says Saudi Arabia must join the Abraham Accords before moving forward with a civilian nuclear energy deal, adding there will be no enrichment.",
+        "url": "https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-nuclear-announcement-oval-office.jpg",
+        "publishedAt": "2026-07-24T22:00:58Z",
         "source": "Fox News"
       },
       {
-        "title": "Prayers, parties and the changing face of KL’s Bukit Bintang",
-        "description": "Explore the debate surrounding new mosque developments in Kuala Lumpur's Bukit Bintang district and their impact on public space and national identity. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/prayers-parties-and-the-changing-face-of-kuala-lumpurs-bukit-bintang",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3be85278e6edbc7a325b2c7fcb4c09a664d0428b306d1997fd46e6860359048",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "How Hunter Biden went from a pariah to a potential presidential candidate",
-        "description": "While Hunter Biden’s name was on the lips of every conservative commentator in the US, the then-president’s son stayed silent. Now he’s speaking his mind.",
-        "url": "https://www.nine.com.au/world-news/usa/how-hunter-biden-went-from-a-pariah-to-a-potential-presidential-candidate-20260723-p60hv7.html",
-        "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/1635db975edd69ddb565be50199d421c3df7cd36",
-        "publishedAt": "2026-07-24T20:59:50Z",
-        "source": "Nine.com.au"
-      },
-      {
-        "title": "ICC chief prosecutor removed over sexual misconduct allegations",
-        "description": "The chief prosecutor of the International Criminal Court has been removed from office. The vote Friday to oust British barrister Karim Khan came nearly two years after sexual misconduct allegations against him first emerged.",
-        "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
-        "image": "https://dims.apnews.com/dims4/default/b033c0d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F30%2F08ff58ed5239775c3d97a3f55523%2F788287ed53e04cc3aad2ec249d120b71",
-        "publishedAt": "2026-07-24T20:58:00Z",
-        "source": "AP News"
-      },
-      {
-        "title": "Burnham picks three new PIO MPs from 2024 intake to join front bench; Malhotra and Gill return to backbenches",
-        "description": "UK News: TOI correspondent from London: Three Indian-origin young Labour MPs elected at the July 2024 general election have been given front bench roles in UK .",
-        "url": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132614653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-24T20:53:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "ICC prosecutor Karim Khan removed over ‘serious misconduct’",
-        "description": "Karim Khan, accused of sexually assaulting a Malaysian lawyer, is suspended in a secret ballot in which 82 of 125 court members voted to remove him.",
-        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/25/icc-members-vote-to-dismiss-embattled-prosecutor-karim-khan",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/6dbfdc3c-karim-khan-22072026.webp",
-        "publishedAt": "2026-07-24T20:52:00Z",
-        "source": "Free Malaysia Today"
-      },
-      {
-        "title": "US small businesses challenge Trump’s new forced labour tariffs",
-        "description": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
-        "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T224831Z_576771873_RC2W1KAIZZFA_RTRMADP_3_USA-TARIFFS-TRUMP-STATES-1784852840.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-24T20:51:57Z",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "Trump angrily responds as new US-Canada bridge opens and Americans are left out of the ceremony",
-        "description": "The newly completed $4.7 billion bridge connects Michigan to Ontario",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-us-bridge-ceremony-b3021221.html",
-        "image": "https://static.independent.co.uk/2026/07/24/18/18/GettyImages-2286690611.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-07-24T20:42:00Z",
-        "source": "The Independent"
+        "title": "Military action will not reopen Hormuz: CNA",
+        "description": "Iran's ability to control commercial traffic through the strait of Hormuz is unlikely to be deterred by US military operations given the effectiveness of Iran's asymmetrical warfare tactics, according to the Center for Naval Analyses (CNA).",
+        "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2857065-military-action-will-not-reopen-hormuz-cna",
+        "image": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/images/14-generic-hero-banners/herobanner_1600x530_generic-c.jpg?h=530&iar=0&w=1600&rev=2cf023b4e0484c1bb091b9f72dbf7771&hash=72DBDFEBEF6EE62E751AB5DD2221C77E",
+        "publishedAt": "2026-07-24T21:56:29Z",
+        "source": "Argus Media"
       }
     ],
     "business": [
       {
-        "title": "UK Brings Large Tech Providers into Regulatory Perimeter as Critical Third Parties",
-        "description": "HM Treasury designated four global cloud services and technology providers as Critical Third Parties, bringing them under direct oversight of the UK financial regulators. The designations come in response to the increasing reliance of financial institutions on third-party service providers and the concentration risks that arise from a small number of service providers. CTP designation has similarities with the EU’s DORA and the U.S. Bank Service Company Act, but there are differences in scope and regulatory reach. In this memo we discuss these and other aspects of the UK Critical Third Party regime.",
-        "url": "https://www.sullcrom.com/insights/memo/2026/July/Large-Tech-Providers-UK-Financial-Institutions-Subjected-Regulatory-Oversight",
-        "image": "https://www.sullcrom.com/SullivanCromwell/_Assets/images/sc-logo-2D_1200x630.png",
-        "publishedAt": "2026-07-24T21:10:32Z",
-        "source": "Sullivan & Cromwell LLP"
+        "title": "S&P 500 Wavers as Oil Decline Offsets Chip Selloff: Markets Wrap",
+        "description": "(Bloomberg) -- Wall Street traders sent stocks wavering at the end of a jittery week, with a drop in oil prices and signs of strength in Corporate America’s profit machine offsetting a selloff in chipmakers.",
+        "url": "https://www.swissinfo.ch/eng/s%26p-500-wavers-as-oil-decline-offsets-chip-selloff%3A-markets-wrap/91792550",
+        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1765874455",
+        "publishedAt": "2026-07-24T22:35:44Z",
+        "source": "SWI swissinfo.ch"
       },
       {
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "description": "Models are improving quickly, but the cheaper options are often good enough.",
-        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-        "publishedAt": "2026-07-24T21:05:51Z",
-        "source": "Ars Technica"
+        "title": "Patios and local food options drive summer traffic at this Sault pub",
+        "description": "With indoor seating plus street-level and rooftop patios, The Tap Room gives Sault residents more options for warm-weather drinks and light bites downtown",
+        "url": "https://www.sootoday.com/lets-eat/patios-and-local-food-options-drive-summer-traffic-at-this-sault-pub-12588127",
+        "image": "https://www.vmcdn.ca/f/files/sootoday/images/columns/lets-eat/the-tap-room/20260723-the-tap-room-lets-eat-dt-01.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-07-24T22:35:03Z",
+        "source": "SooToday.com"
       },
       {
-        "title": "Siptu workers at Ireland’s largest dementia care facility announce 72-hour strike next week",
-        "description": "Siptu said the escalation follows the ‘ongoing failure of management to regrade and pay the workers rates that recognise the duties they currently carry out’.",
-        "url": "https://www.thejournal.ie/siptu-workers-at-irelands-largest-dementia-care-facility-announce-72-hour-strike-7112962-Jul2026/",
-        "image": "https://img2.thejournal.ie/article/7112962/river/?height=400&version=7112966",
-        "publishedAt": "2026-07-24T21:05:00Z",
-        "source": "The Journal"
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+        "publishedAt": "2026-07-24T22:25:58Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Cadbury chocolate bar recalled across Canada",
-        "description": "The Canadian Food Inspection Agency (CFIA) has issued a recall for a Cadbury chocolate bar sold across Canada.",
-        "url": "https://dailyhive.com/canada/cadbury-chocolate-bar-recall-canada",
-        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/shutterstock_2529191185.jpg?format=auto",
-        "publishedAt": "2026-07-24T21:03:00Z",
-        "source": "Daily Hive"
+        "title": "Altana Acquires Customs Automation Startup Cervo AI",
+        "description": "Altana is expanding its supply chain mapping and compliance solution with the acquisition of Cervo AI, a startup that automates customs paperwork.",
+        "url": "https://wwd.com/sourcing-journal/trade/altana-acquires-cervo-ai-customs-compliance-trade-cbp-maersk-supply-chain-1239082469/",
+        "image": "https://wwd.com/wp-content/uploads/2026/07/smartport.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-07-24T22:22:18Z",
+        "source": "WWD"
       },
       {
-        "title": "The great tech manhunt: East Asia’s billion-dollar race for ASEAN talent",
-        "description": "Japan, South Korea and Taiwan are turning to South-east Asia to plug a shortage of tech talents. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/east-asia/the-great-tech-manhunt-east-asias-billion-dollar-race-for-asean-talent",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/58648f65540630aec4f75132f13e8c9c0c1da225de0df7519b9e987728252939",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "The Straits Times"
+        "title": "Salmonella outbreak tied to eggs has sickened 98 people since November",
+        "description": "Nearly 100 people in 17 states have been sickened in a salmonella outbreak tied to recalled eggs, federal health officials said Friday.",
+        "url": "https://www.nbcnews.com/health/health-news/salmonella-outbreak-tied-eggs-sickened-98-people-november-rcna589153",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-eggs-salmonela-bf-1810-1f0275.jpg",
+        "publishedAt": "2026-07-24T22:19:23Z",
+        "source": "NBC News"
       },
       {
-        "title": "From tech visas to ‘gold card’, scholarships: Fast track to working in Japan, South Korea and Taiwan",
-        "description": "These East Asian economies are looking for tech talent overseas to plug labour shortages back home Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/asia/east-asia/from-tech-visas-to-gold-card-scholarships-fast-track-to-working-in-japan-south-korea-and-taiwan",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3d3c131712faa81c41a46ae27ea27791ab5064f541a747fbf8574156137009f",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "The Straits Times"
+        "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+        "description": "(Security) hole-ier than thou",
+        "url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603",
+        "image": "https://image.theregister.com/5278665.jpg?imageId=5278665&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-24T22:19:16Z",
+        "source": "The Register"
       },
       {
-        "title": "How should Faye, 68, and Ava, 60, draw down their RRSPs given their $108,000 spending target?",
-        "description": "The couple is looking for advice on how to turn their savings into sustainable, tax-efficient retirement income",
-        "url": "https://www.theglobeandmail.com/investing/personal-finance/financial-facelift/article-financial-facelift-faye-ava-rrsp-tax-efficient-retirement-income/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/LZJIUSSUAZFBZFYIPD5XWQL6L4.JPG?auth=7fe84516292092caed2c29a8edb542cb24d96585eb886bc9acf2e771784085cf&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "The Globe and Mail"
+        "title": "More Cores, More (3D V-)Cache, Clocks & Scalable Configs",
+        "description": "AMD has launched its first Zen 6 CPUs, the EPYC Venice, and we use them to analyze what we can expect from the Ryzen \"Olympic Ridge\" lineup.",
+        "url": "https://wccftech.com/amd-epyc-venice-previews-zen-6-ryzen-olympic-ridge-cpus-more-cores-3d-v-cache-clocks/",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Ryzen-Zen-6-CPUs.jpg",
+        "publishedAt": "2026-07-24T22:10:41Z",
+        "source": "Wccftech"
       },
       {
-        "title": "Envisioning The Future Workplace: Leadership Lessons on Change",
-        "description": "Executives share their insights on how to guide the future of work amid constant change due to AI. Gain leadership lessons and learn AI use cases.",
-        "url": "https://www.shrm.org/topics-tools/news/envisioning-future-workplace-leadership-lessons-on-change",
-        "image": "https://www.shrm.org/content/dam/en/shrm/topics-tools/news/gallup-summit-katy-george-web.png",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "SHRM"
+        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+        "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+        "publishedAt": "2026-07-24T22:10:00Z",
+        "source": "TechCrunch"
       }
     ],
     "science": [
       {
-        "title": "\"it wraps its arms around the victim, grips tight with its thousands of tiny tube feet and pulls hard. Next it forces one of its stomachs out of its mouth…\"",
-        "description": "The common starfish has two stomachs – and it forces one of them out of its mouth to consume prey.",
-        "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/common-starfish-predation-facts",
-        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/6333e1f7-bd82-4249-ae05-c1e22ab79069/thumbnails/d7d10ea0-55e8-4395-8f67-5d37046a59f7.jpeg?w=1200",
-        "publishedAt": "2026-07-24T21:12:13Z",
-        "source": "BBC Wildlife Magazine"
+        "title": "Quantum Heat Waves Observed at Room Temp in Physics First",
+        "description": "How can quantum technology be improved to enhance electronics? This is what a recent study published in Nature Physics hopes to address as a team of resear | Technology And Engineering",
+        "url": "https://www.labroots.com/trending/technology-and-engineering/30819/quantum-heat-waves-observed-temp-physics-2",
+        "image": "https://images.labroots.com/content_article_profile_image_666a7c9ec51966cf4e74011e5daf82fe71ecd976_35.png",
+        "publishedAt": "2026-07-24T22:45:00Z",
+        "source": "Labroots"
       },
       {
-        "title": "Magnetically recoverable Fe3O4-chitosan/PVA hydrogel for photo-Fenton degradation of diazinon",
-        "description": "Fe3O4 magnetic nanoparticles were fabricated in situ within chitosan/ polyvinyl alcohol (CS/PVA) as a semi-interpenetrating polymer network (semi-IPN) composite hydrogel. CS was derived from shrimp shells. Various techniques, including X-ray diffraction (XRD), scanning electron microscopy (SEM), Brunaeur-Emmett-Teller (BET) analysis, Transmission electron microscopy (TEM), Vibrating sample magnetometery (VSM), Fourier transform infrared spectroscopy (FTIR), and UV–vis diffuse reflectance spectroscopy (DRS) were used to characterize the composite hydrogel. The catalytic activity of the CS/PVA-Fe3O4 hydrogel was evaluated for photo-Fenton degradation of diazinon. The results exhibited that the CS/PVA-Fe3O4 hydrogel possesses noticeable degradation performance in the photo-Fenton process, with a percentage of removal up to 98.7% than the pure Fe3O4 (61%) and homogeneous Fenton (73%) for diazinon under optimal reaction conditions (reaction time of 120 min, pH 9, oxidant amount of 1.5 mL, initial diazinon concentration of 10 mg L− 1, temperature of 50 °C, and catalyst dosage of 1 g L− 1). The composite hydrogel demonstrated approprate reusability, as it could be recycled for ten runs without a noticeable loss in removal efficiency. Based on kinetic studies, the photodegradation of diazinon was adapted to a pseudo-first-order model, and apparent activation energy was acquired to be 71.31 kJ/mol. Besides, photodegradation mechanisms and pathways were investigated.",
-        "url": "https://www.nature.com/articles/s41598-026-63989-9?error=cookies_not_supported&code=b0d7fe3a-6783-4e40-9a35-a5388dded7db",
-        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-07-24T21:04:39Z",
-        "source": "Nature"
+        "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+        "description": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+        "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+        "image": "https://media.wired.com/photos/6a63d6e658b45fb8be88c32f/191:100/w_1280,c_limit/NASA-Important-Deep-Space-Observatories-Hit-by-Spanish-Wildfires-Science-2287501646.jpg",
+        "publishedAt": "2026-07-24T22:30:00Z",
+        "source": "WIRED"
       },
       {
-        "title": "How to Watch the Northern Lights from 18 States Tonight",
-        "description": "NOAA forecasters are seeing the possibility of G1 (or minor) geomagnetic activity on Friday, July 24, as a high-speed stream of solar wind continues to repeatedly hit Earth",
-        "url": "https://ca.news.yahoo.com/watch-northern-lights-18-states-210201924.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/2e636477378208b82f8c5757bbba552244e9f356f477026e5859bbfb14bd060b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F630fa31832361e87e55de9441b0d053a",
-        "publishedAt": "2026-07-24T21:02:01Z",
-        "source": "Yahoo News Canada"
+        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+        "description": "Any potential damage will be assessed when it is safe to do so.\"",
+        "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2287501646-1152x648.jpg",
+        "publishedAt": "2026-07-24T22:28:20Z",
+        "source": "Ars Technica"
       },
       {
-        "title": "The Next Solar Eclipse Will Deliver a Rare Sight: Totality at Sunset",
-        "description": "The only thing cooler than an eclipse or a sunset? When both happen at once.",
-        "url": "https://www.cnet.com/science/next-solar-eclipse-rare-sight-totality-sunset/",
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/solar-eclipse-at-totality_0c1372.jpg",
-        "publishedAt": "2026-07-24T20:46:46Z",
-        "source": "CNET"
+        "title": "Orbital Mirror Lighting: Why It Matters",
+        "description": "Discover the impact of Orbital Mirror Lighting by Reflect Orbital, a startup aiming to transform nights into daylight with satellite technology.",
+        "url": "https://freeyork.org/technology/california-startup-aims-illuminate-nights/",
+        "image": "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/07/california-startup-aims-to-illuminate-nights-with-gigantic-o-freeyork-1.jpg",
+        "publishedAt": "2026-07-24T22:18:37Z",
+        "source": "freeyork"
       },
       {
-        "title": "Space Cancer Therapy and Chip Research End With Expedition 74 Crew Return This Weekend",
-        "description": "Expedition 74 crew return this weekend ends eight months of ISS research into cancer drug delivery nanoparticles and semiconductor crystal growth in microgravity. NASA astronaut Chris Williams",
-        "url": "https://www.techtimes.com/articles/321543/20260724/space-cancer-therapy-chip-research-end-expedition-74-crew-return-this-weekend.htm",
-        "image": "https://d.techtimes.com/en/full/469816/soyuz-ms-28.jpg",
-        "publishedAt": "2026-07-24T20:45:17Z",
-        "source": "Tech Times"
+        "title": "Misinformation About a Masterpiece: An Engineer Responds",
+        "description": "“We have the anatomy department claiming the human spine is a bad design, whilst the engineering department is improving bridge design by copying it!”",
+        "url": "https://scienceandculture.com/2026/07/misinformation-about-a-masterpiece-an-engineer-responds-to-a-colleague/",
+        "image": "https://scienceandculture.com/wp-content/uploads/2026/07/2018-08-08WorldRowingJuniorChampionshipsbySandroHalan-scaled.jpg",
+        "publishedAt": "2026-07-24T21:52:17Z",
+        "source": "Science and Culture Today"
       },
       {
-        "title": "Europa's Hidden Ocean May Be Even Harder to Reach Than We Thought",
-        "description": "For a long time, scientists assumed that the tiny water pools at Europa's surface came from the moon's deep, icy oceans. But is that physically possible?",
-        "url": "https://gizmodo.com/europas-hidden-ocean-may-be-even-harder-to-reach-than-we-thought-2000790541",
-        "image": "https://gizmodo.com/app/uploads/2026/05/europa-vapor-plume-artist-impression-crop-1200x675.jpg",
-        "publishedAt": "2026-07-24T20:45:01Z",
-        "source": "Gizmodo"
+        "title": "Scientists Are Designing CRISPR Gene Editors With AI",
+        "description": "To make CRISPR better at its job, researchers are turning to algorithms like DeepMind's AlphaFold.",
+        "url": "https://singularityhub.com/2026/07/24/scientists-are-designing-crispr-gene-editors-with-ai/",
+        "image": "https://singularityhub.com/uploads/2026/07/CRISPR-Cas9.jpeg?auto=webp",
+        "publishedAt": "2026-07-24T21:47:42Z",
+        "source": "SingularityHub"
       },
       {
-        "title": "UW Chemists Break Electron Transfer Selectivity Barrier",
-        "description": "Chemists use complex compounds to create life-saving medicines, build advanced high-tech materials, and mimic natural biological systems. To make more",
-        "url": "https://www.miragenews.com/uw-chemists-break-electron-transfer-selectivity-1716156/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1543286386-713bdd548da4%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-07-24T20:34:00Z",
+        "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
+        "description": "Researchers from the University of Amsterdam and the University of New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived, nearly stable states and, if so, for how long. The measured long-lived states may find applications in quantum computers and atomic clocks.",
+        "url": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/long-live-ytterbium.jpg",
+        "publishedAt": "2026-07-24T21:20:02Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Wearable Ring Monitors Sweat Biomarkers Simultaneously",
+        "description": "Engineers at the University of California San Diego created a smart ring that simultaneously and continuously monitors up to four different chemical",
+        "url": "https://www.miragenews.com/wearable-ring-monitors-sweat-biomarkers-1716173/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1588600878108-578307a3cc9d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D755%26amp%3Bq%3D80",
+        "publishedAt": "2026-07-24T21:16:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "Humans May Have Spoken 75,000 Languages Just 2,000 Years Ago. Then Empires Rose",
-        "description": "Today’s 7,600 languages might seem like a lot, but they're just a fraction that survived a vast, ancient extinction.",
-        "url": "https://www.zmescience.com/science/history-articles/human-languages-ancient/",
-        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/feature-img-languages.jpg",
-        "publishedAt": "2026-07-24T20:04:40Z",
-        "source": "ZME Science"
       }
     ],
     "ai": [
       {
-        "title": "Nvidia, Microsoft urge US to protect open AI models amid policy debate",
-        "description": "Nvidia, Microsoft and Meta urge US policymakers not to broadly restrict open-weight AI models amid a growing debate over AI regulation",
-        "url": "https://www.foxbusiness.com/technology/nvidia-microsoft-urge-us-avoid-broad-restrictions-open-ai-models",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/nvidia-ceo-jensen-huang-tokyo-open-ai-models.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-24T21:12:12Z",
-        "source": "Fox Business"
+        "title": "DATA Network Surpasses 100 Million Registrations as $DATA Trading Competition Opens on Upbit",
+        "description": "Palo Alto, California, July 24th, 2026, Chainwire The milestone comes alongside a growing onchain revenue model for real-world AI data, as Upbit runs a four-day $DATA trading competition for eligible users The DATA Network (“Network”) has surpassed 100 million data registrations onchain, reaching the milestone alongside a revenue model driven by real, onchain network usage. […]",
+        "url": "https://cryptoslate.com/press-releases/data-network-surpasses-100-million-registrations-as-data-trading-competition-opens-on-upbit/",
+        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/download_1784908670m9qUDNC68J.jpg",
+        "publishedAt": "2026-07-24T22:43:13Z",
+        "source": "CryptoSlate"
       },
       {
-        "title": "I'm Still Waiting For The Perfect Time To Strike On Marvell",
-        "description": "Marvell Technology, Inc. looks overvalued despite record revenue; AI infra multiples may compress as hyperscaler capex slows. Click for this MRVL stock update.",
-        "url": "https://seekingalpha.com/article/4925465-im-still-waiting-for-the-perfect-time-to-strike-on-marvell",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1699670760/image_1699670760.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-07-24T21:10:11Z",
-        "source": "Seeking Alpha"
+        "title": "Open AI co-founder drops $5.5M to buy land near Big Bear eagle nest",
+        "description": "OpenAI’s Greg Brockman and his wife donated $5.5 million to conserve land near famed Big Bear eagles' nest as Jackie remains in critical care. The $10 million goal is now met.",
+        "url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/84a0475/2147483647/strip/true/crop/2329x1223+0+76/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F17%2Ffb7c9c4a4c9abfdaf53b628ef134%2Fshadow-and-jackie.jpg",
+        "publishedAt": "2026-07-24T22:37:02Z",
+        "source": "Los Angeles Times"
       },
       {
-        "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-        "description": "Falling oil prices provided Wall Street with some support even as Middle East hostilities continued. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ff8e57af3dc7f09867f8a08ac5d9c9066c04d74ea67e74cddbc0f890aadafbd5",
-        "publishedAt": "2026-07-24T21:09:44Z",
-        "source": "The Straits Times"
+        "title": "Report: OpenAI Faces Huge Gap Between AI Ad Revenue Projections and Reality",
+        "description": "OpenAI has projected that it will generate $100 billion in annual advertising revenue by 2030, but current performance suggests the company is on pace to reach less than $1 billion, according to a report from marketing consulting firm Emarketer as detailed by AdWeek. The analysis indicates a roughly 90% undershoot of the company’s own five-year […]",
+        "url": "https://www.naturalnews.com/2026-07-24-openai-huge-gap-ad-revenue-projections-reality.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-ad-revenue-projections-2899-original.jpg",
+        "publishedAt": "2026-07-24T22:33:30Z",
+        "source": "Natural News"
       },
       {
-        "title": "Hoping to Collect on Apple's $250M AI iPhone Settlement? You'll Have to Wait a Year",
-        "description": "The company will pay some iPhone owners to settle a lawsuit, but following a development last week, it's clear the legal machine grinds slowly.",
-        "url": "https://www.cnet.com/tech/mobile/copy-of-hoping-to-collect-on-apples-250m-ai-iphone-settlement-youll-have-to-wait-a-year/",
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/65c5ca63-9fce-4f5c-8f77-230edb3262c5.png",
-        "publishedAt": "2026-07-24T21:09:29Z",
-        "source": "CNET"
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+        "publishedAt": "2026-07-24T22:25:58Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Qualcomm powers Samsung’s new devices, price increases follow",
-        "description": "The San Diego semiconductor company says it crammed AI-capable compute into Samsung Galaxy phones, watches, and a new line of smart glasses — days before reports of a \"double-digit\" semiconductor price hike emerged Friday morning.",
-        "url": "https://www.sandiegouniontribune.com/2026/07/24/qualcomm-powers-samsungs-new-devices-price-increases-follow/",
-        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/SUT-L-QCOM-INVESTOR-002.jpg?w=2000&h=1333",
-        "publishedAt": "2026-07-24T21:05:31Z",
-        "source": "San Diego Union-Tribune"
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+        "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+        "publishedAt": "2026-07-24T22:25:58Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Beatbot offers a weekend flash sale on its most premium AquaSense 2 Ultra AI robotic pool cleaner for $2,149, more",
-        "description": "Through the weekend Beatbot is offering a special flash sale on its premium AquaSense 2 Ultra AI Robotic Pool Cleaner...",
-        "url": "https://9to5toys.com/2026/07/24/beatbot-weekend-flash-sale-aquasense-2-ultra-ai-robotic-pool-cleaner-2149-more/",
-        "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Beatbot-AquaSense-2-Ultra-robotic-pool-cleaner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-07-24T21:01:44Z",
-        "source": "9to5Toys"
+        "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+        "description": "The OpenAI agent that broke into tech firm Hugging Face went on a dayslong hacking spree that OpenAI didn't notice until well after the threat was contained and the FBI was alerted, according ​to people familiar with the investigation.",
+        "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+        "image": "https://www.reuters.com/resizer/v2/JR6WGJB5XZNQHCPLA5FJQKXZNQ.jpg?auth=0bcf314d700f4d5e64f637e7b1afbdd00d3ae4dba99f94d3b0b12e28ce4e1533&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-07-24T22:14:50Z",
+        "source": "Reuters"
       },
       {
-        "title": "Power grid guru Peter Lake to leave Trump’s Energy Dominance Council",
-        "description": "Lake was heavily involved with key aspects of President Donald Trump’s energy and AI dominance agenda.",
-        "url": "https://www.politico.com/news/2026/07/24/grid-guru-peter-lake-to-leave-trumps-energy-dominance-council-01011325",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F66%2F29d52bbf44cc92dd10f86d2ace05%2Few-0827-klump-q-a-1160-01-1.jpg",
-        "publishedAt": "2026-07-24T21:01:00Z",
-        "source": "POLITICO"
+        "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+        "description": "OPENAI-HUGGINGFACE/TIMELINE:EXCLUSIVE-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+        "url": "https://www.livemint.com/technology/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-11784931233058.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+        "publishedAt": "2026-07-24T22:13:52Z",
+        "source": "Livemint"
       },
       {
-        "title": "Class Action Lawyers Fight for Indie Artists Exploited by Generative AI Training",
-        "description": "For independent artists whose music was stolen by AI companies, new class-action lawsuits aim to get them justice.",
-        "url": "https://www.vice.com/en/article/class-action-lawyers-fight-for-indie-artists-exploited-by-generative-ai-training/",
-        "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/07/Indie-Artists.jpg?w=1200",
-        "publishedAt": "2026-07-24T21:00:00Z",
-        "source": "VICE"
+        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+        "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+        "publishedAt": "2026-07-24T22:10:00Z",
+        "source": "TechCrunch"
       }
     ]
   }
