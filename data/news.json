@@ -1,269 +1,269 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-25T06:32:02.147Z",
+  "fetchedAt": "2026-07-25T09:13:18.561Z",
   "sections": {
     "world": [
       {
-        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-        "description": "Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.",
-        "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5f2a0f-1784621583-e1784622455293.jpg?resize=1200%2C675",
-        "publishedAt": "2026-07-24T18:30:19Z",
+        "title": "Karim Khan removed as ICC prosecutor over sexual misconduct allegations",
+        "description": "ICC prosecutor Karim Khan was removed by member states over sexual misconduct allegations, marking the first time the International Criminal Court dismissed a chief prosecutor.",
+        "url": "https://www.foxnews.com/world/icc-prosecutor-whose-netanyahu-warrant-fueled-mamdani-arrest-threat-fired-over-sexual-misconduct",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/karim-khan-icc.jpg",
+        "publishedAt": "2026-07-24T21:10:49Z",
+        "source": "Fox News"
+      },
+      {
+        "title": "Prayers, parties and the changing face of KL’s Bukit Bintang",
+        "description": "Explore the debate surrounding new mosque developments in Kuala Lumpur's Bukit Bintang district and their impact on public space and national identity. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/prayers-parties-and-the-changing-face-of-kuala-lumpurs-bukit-bintang",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3be85278e6edbc7a325b2c7fcb4c09a664d0428b306d1997fd46e6860359048",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "How Hunter Biden went from a pariah to a potential presidential candidate",
+        "description": "While Hunter Biden’s name was on the lips of every conservative commentator in the US, the then-president’s son stayed silent. Now he’s speaking his mind.",
+        "url": "https://www.nine.com.au/world-news/usa/how-hunter-biden-went-from-a-pariah-to-a-potential-presidential-candidate-20260723-p60hv7.html",
+        "image": "https://static.ffx.io/images/$zoom_0.7592%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/1635db975edd69ddb565be50199d421c3df7cd36",
+        "publishedAt": "2026-07-24T20:59:50Z",
+        "source": "Nine.com.au"
+      },
+      {
+        "title": "ICC chief prosecutor removed over sexual misconduct allegations",
+        "description": "The chief prosecutor of the International Criminal Court has been removed from office. The vote Friday to oust British barrister Karim Khan came nearly two years after sexual misconduct allegations against him first emerged.",
+        "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
+        "image": "https://dims.apnews.com/dims4/default/b033c0d/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F30%2F08ff58ed5239775c3d97a3f55523%2F788287ed53e04cc3aad2ec249d120b71",
+        "publishedAt": "2026-07-24T20:58:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "Burnham picks three new PIO MPs from 2024 intake to join front bench; Malhotra and Gill return to backbenches",
+        "description": "UK News: TOI correspondent from London: Three Indian-origin young Labour MPs elected at the July 2024 general election have been given front bench roles in UK .",
+        "url": "https://timesofindia.indiatimes.com/world/uk/burnham-picks-three-new-pio-mps-from-2024-intake-to-join-front-bench-malhotra-and-gill-return-to-backbenches/articleshow/132614652.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132614653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-24T20:53:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "ICC prosecutor Karim Khan removed over ‘serious misconduct’",
+        "description": "Karim Khan, accused of sexually assaulting a Malaysian lawyer, is suspended in a secret ballot in which 82 of 125 court members voted to remove him.",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/07/25/icc-members-vote-to-dismiss-embattled-prosecutor-karim-khan",
+        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/6dbfdc3c-karim-khan-22072026.webp",
+        "publishedAt": "2026-07-24T20:52:00Z",
+        "source": "Free Malaysia Today"
+      },
+      {
+        "title": "US small businesses challenge Trump’s new forced labour tariffs",
+        "description": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+        "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T224831Z_576771873_RC2W1KAIZZFA_RTRMADP_3_USA-TARIFFS-TRUMP-STATES-1784852840.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-24T20:51:57Z",
         "source": "Al Jazeera"
       },
       {
-        "title": "Wikimania 2026: Growing language communities",
-        "description": "Are large language models widening the digital divide between majority and minority languages? Or can they be harnessed in preserving language diversity? On Day 3 of Wikimania Paris, representative…",
-        "url": "https://diff.wikimedia.org/2026/07/24/wikimania-2026-growing-language-communities/",
-        "image": "https://diff.wikimedia.org/wp-content/uploads/2026/07/SAVE_FOR_DAY_3_wikimania_day2-23-e1784917669726.jpg?fit=1200%2C757",
-        "publishedAt": "2026-07-24T18:28:38Z",
-        "source": "Wikimedia.org"
-      },
-      {
-        "title": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-        "description": "The authorities said four Palestinians and two Israelis were killed in the incident. The details remain unclear, with officials giving differing accounts.",
-        "url": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
-        "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-westbank-shooting-jmtv/24int-westbank-shooting-jmtv-facebookJumbo.jpg",
-        "publishedAt": "2026-07-24T18:28:37Z",
-        "source": "The New York Times"
-      },
-      {
-        "title": "China's New Vision for Capturing Taipei",
-        "description": "A Chinese military journal reveals plans to capture Taipei by breaking civilian morale, not just military force. Here's what it means.",
-        "url": "https://smallwarsjournal.com/2026/07/24/chinas-new-vision-for-capturing-taipei-war-on-the-rocks/",
-        "image": "https://smallwarsjournal.com/wp-content/uploads/2026/07/Taipei_Skyline_2021.jpg",
-        "publishedAt": "2026-07-24T18:28:16Z",
-        "source": "Small Wars Journal"
-      },
-      {
-        "title": "Trump's belated normalization condition for Saudi nuke deal doesn't erase all Israeli fears",
-        "description": "US president insists deal already signed depends on Riyadh joining Abraham Accords — a difficult demand or kingdom to swallow. Either way, he's making moves without asking Israel",
-        "url": "https://www.timesofisrael.com/trump-eases-some-fears-on-saudi-nuclear-deal-but-israel-has-reason-to-worry/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251229__899A8UY__v1__HighRes__IsraeliPmBenjaminNetanyahuVisits-e1781100044391.jpg",
-        "publishedAt": "2026-07-24T18:27:41Z",
-        "source": "The Times of Israel"
-      },
-      {
-        "title": "ICC chief prosecutor removed from post over sexual misconduct allegations",
-        "description": "Karim Khan has been accused of sexual misconduct with a female aide, allegations which he has steadfastly denied.",
-        "url": "https://www.impartialreporter.com/news/national/26409071.icc-chief-prosecutor-removed-post-sexual-misconduct-allegations/",
-        "image": "https://www.impartialreporter.com/resources/images/21232583.jpg?type=og-image",
-        "publishedAt": "2026-07-24T18:27:30Z",
-        "source": "The Impartial Reporter"
-      },
-      {
-        "title": "Police boat crashes into central London bridge, throwing officers overboard",
-        "description": "Paramedics treated the injured on a black inflatable boat as a police helicopter hovered overhead near the clock tower that houses the bell known as Big Ben.",
-        "url": "https://globalnews.ca/news/11987994/police-boat-crash-river-thames-london-uk/",
-        "image": "https://globalnews.ca/wp-content/uploads/2026/07/police-boat-crash-london-river-thames-e1784917165628.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-        "publishedAt": "2026-07-24T18:26:56Z",
-        "source": "Global News"
-      },
-      {
-        "title": "The New York Times Corrects Bartov on Gaza Casualties",
-        "description": "A New York Times Opinion article made erroneous claims regarding the number of civilians killed in Gaza. CAMERA's communication with the outlet led to",
-        "url": "https://www.camera.org/article/the-new-york-times-corrects-bartov-on-gaza-casualties/",
-        "image": "https://www.camera.org/wp-content/uploads/2017/01/nyt-building-and-logo.jpg",
-        "publishedAt": "2026-07-24T18:23:32Z",
-        "source": "camera.org"
+        "title": "Trump angrily responds as new US-Canada bridge opens and Americans are left out of the ceremony",
+        "description": "The newly completed $4.7 billion bridge connects Michigan to Ontario",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-canada-us-bridge-ceremony-b3021221.html",
+        "image": "https://static.independent.co.uk/2026/07/24/18/18/GettyImages-2286690611.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-07-24T20:42:00Z",
+        "source": "The Independent"
       }
     ],
     "business": [
       {
-        "title": "Consumers urged to 'help a farmer out' as high costs and low demand bite",
-        "description": "North Queensland farmers urge consumers to eat more vegetables as rising costs and low demand create a \"perfect storm\".",
-        "url": "https://www.abc.net.au/news/2026-07-25/consumers-help-out-farmers-vegetable-prices/106953040",
-        "image": "https://live-production.wcms.abc-cdn.net.au/a31a11b6ba67e693d709979e26b2712a?impolicy=wcms_watermark_news&cropH=3375&cropW=6000&xPos=0&yPos=313&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-07-24T18:30:00Z",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        "title": "UK Brings Large Tech Providers into Regulatory Perimeter as Critical Third Parties",
+        "description": "HM Treasury designated four global cloud services and technology providers as Critical Third Parties, bringing them under direct oversight of the UK financial regulators. The designations come in response to the increasing reliance of financial institutions on third-party service providers and the concentration risks that arise from a small number of service providers. CTP designation has similarities with the EU’s DORA and the U.S. Bank Service Company Act, but there are differences in scope and regulatory reach. In this memo we discuss these and other aspects of the UK Critical Third Party regime.",
+        "url": "https://www.sullcrom.com/insights/memo/2026/July/Large-Tech-Providers-UK-Financial-Institutions-Subjected-Regulatory-Oversight",
+        "image": "https://www.sullcrom.com/SullivanCromwell/_Assets/images/sc-logo-2D_1200x630.png",
+        "publishedAt": "2026-07-24T21:10:32Z",
+        "source": "Sullivan & Cromwell LLP"
       },
       {
-        "title": "Nvidia's CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-        "description": "There's gotta be a better way.",
-        "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-        "image": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-        "publishedAt": "2026-07-24T18:25:22Z",
-        "source": "Gizmodo"
+        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+        "description": "Models are improving quickly, but the cheaper options are often good enough.",
+        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
+        "publishedAt": "2026-07-24T21:05:51Z",
+        "source": "Ars Technica"
       },
       {
-        "title": "Trump threatens EU with tariffs over Google fine",
-        "description": "Donald Trump vows \"very big price\" for the EU after its $1 billion antitrust fine against Google, threatening tariffs and a trade investigation.",
-        "url": "https://punchng.com/eu-to-pay-very-big-price-for-google-fine-says-trump/",
-        "image": "https://punchng.com/wp-content/uploads/2026/07/Trump-writes_1784740041.webp",
-        "publishedAt": "2026-07-24T18:24:32Z",
-        "source": "Punch Newspapers"
+        "title": "Siptu workers at Ireland’s largest dementia care facility announce 72-hour strike next week",
+        "description": "Siptu said the escalation follows the ‘ongoing failure of management to regrade and pay the workers rates that recognise the duties they currently carry out’.",
+        "url": "https://www.thejournal.ie/siptu-workers-at-irelands-largest-dementia-care-facility-announce-72-hour-strike-7112962-Jul2026/",
+        "image": "https://img2.thejournal.ie/article/7112962/river/?height=400&version=7112966",
+        "publishedAt": "2026-07-24T21:05:00Z",
+        "source": "The Journal"
       },
       {
-        "title": "U.S. identifies cyclosporiasis cases in 4 more states, widening investigation",
-        "description": "The U.S. Food and Drug Administration and the Centers for Disease Control and Prevention are widening their investigation into a cyclosporiasis outbreak linked to shredded iceberg lettuce from central Mexico after identifying cases in four additional states.",
-        "url": "https://www.cbc.ca/news/health/diarrhea-parasite-u-s-9.7282770",
-        "image": "https://i.cbc.ca/ais/89ae3f87-723f-447b-8f18-95fdda82afc6,1784916027568/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3BResize%3D620",
-        "publishedAt": "2026-07-24T18:20:44Z",
-        "source": "CBC"
+        "title": "Cadbury chocolate bar recalled across Canada",
+        "description": "The Canadian Food Inspection Agency (CFIA) has issued a recall for a Cadbury chocolate bar sold across Canada.",
+        "url": "https://dailyhive.com/canada/cadbury-chocolate-bar-recall-canada",
+        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/07/shutterstock_2529191185.jpg?format=auto",
+        "publishedAt": "2026-07-24T21:03:00Z",
+        "source": "Daily Hive"
       },
       {
-        "title": "Google reports negative free cash flow amid AI spending spree",
-        "description": "Google raised its 2026 AI spending forecast to $205 billion after reporting negative free cash flow for the second quarter.",
-        "url": "https://mashable.com/tech/google-ai-bill-cash-flow-negative",
-        "image": "https://helios-i.mashable.com/imagery/articles/044BLYph5hQrOG0xlvDt7wb/hero-image.fill.size_1200x675.v1784913575.jpg",
-        "publishedAt": "2026-07-24T18:12:53Z",
-        "source": "Mashable"
+        "title": "The great tech manhunt: East Asia’s billion-dollar race for ASEAN talent",
+        "description": "Japan, South Korea and Taiwan are turning to South-east Asia to plug a shortage of tech talents. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/the-great-tech-manhunt-east-asias-billion-dollar-race-for-asean-talent",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/58648f65540630aec4f75132f13e8c9c0c1da225de0df7519b9e987728252939",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "ICG chief Eamonn Rothwell leads €1.2bn buyout bid almost 20 years after failed attempt",
-        "description": "Three Irish public companies are now subject to takeover proposals",
-        "url": "https://www.irishtimes.com/business/2026/07/24/icg-chief-eamonn-rothwell-leads-12bn-buyout-bid-almost-two-decades-after-failed-attempt/",
-        "image": "https://www.irishtimes.com/resizer/v2/WBXYJ7IG3FHK7IL6LS73T5K724.jpg?smart=true&auth=bf65f22e7da090f5c8cd8704b16a6d9baa9d4658ebae0574844953ad7be93384&width=1200&height=630",
-        "publishedAt": "2026-07-24T18:12:07Z",
-        "source": "The Irish Times"
+        "title": "From tech visas to ‘gold card’, scholarships: Fast track to working in Japan, South Korea and Taiwan",
+        "description": "These East Asian economies are looking for tech talent overseas to plug labour shortages back home Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/from-tech-visas-to-gold-card-scholarships-fast-track-to-working-in-japan-south-korea-and-taiwan",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c3d3c131712faa81c41a46ae27ea27791ab5064f541a747fbf8574156137009f",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "What the TSA's new Gold+ program means for air travel",
-        "description": "Airports are opting in to the TSA's new private screening program. Here's what that will mean for air travel.",
-        "url": "https://thepointsguy.com/news/tsa-gold-plus-private-security-what-it-means-travelers/",
-        "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/20260330_March-2026-TSA-Lines_AJSmith-5.jpg",
-        "publishedAt": "2026-07-24T18:11:56Z",
-        "source": "The Points Guy"
+        "title": "How should Faye, 68, and Ava, 60, draw down their RRSPs given their $108,000 spending target?",
+        "description": "The couple is looking for advice on how to turn their savings into sustainable, tax-efficient retirement income",
+        "url": "https://www.theglobeandmail.com/investing/personal-finance/financial-facelift/article-financial-facelift-faye-ava-rrsp-tax-efficient-retirement-income/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/LZJIUSSUAZFBZFYIPD5XWQL6L4.JPG?auth=7fe84516292092caed2c29a8edb542cb24d96585eb886bc9acf2e771784085cf&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Odds that the strait's traffic returns to normal drop on Kalshi",
-        "description": "Kalshi traders give less than 50% odds that the key maritime passageway will fully reopen by July 2027.",
-        "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108334121-17839589672026-07-12t085340z_645449173_rc25cmazvd5u_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1783959004&w=1920&h=1080",
-        "publishedAt": "2026-07-24T18:10:13Z",
-        "source": "CNBC"
+        "title": "Envisioning The Future Workplace: Leadership Lessons on Change",
+        "description": "Executives share their insights on how to guide the future of work amid constant change due to AI. Gain leadership lessons and learn AI use cases.",
+        "url": "https://www.shrm.org/topics-tools/news/envisioning-future-workplace-leadership-lessons-on-change",
+        "image": "https://www.shrm.org/content/dam/en/shrm/topics-tools/news/gallup-summit-katy-george-web.png",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "SHRM"
       }
     ],
     "science": [
       {
-        "title": "NASA's ESCAPADE Snaps Family Portrait Of Earth, Moon",
-        "description": "On July 3, one of NASA's two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and",
-        "url": "https://www.miragenews.com/nasas-escapade-snaps-family-portrait-of-earth-1716130/",
-        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
-        "publishedAt": "2026-07-24T18:28:00Z",
+        "title": "\"it wraps its arms around the victim, grips tight with its thousands of tiny tube feet and pulls hard. Next it forces one of its stomachs out of its mouth…\"",
+        "description": "The common starfish has two stomachs – and it forces one of them out of its mouth to consume prey.",
+        "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/common-starfish-predation-facts",
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/6333e1f7-bd82-4249-ae05-c1e22ab79069/thumbnails/d7d10ea0-55e8-4395-8f67-5d37046a59f7.jpeg?w=1200",
+        "publishedAt": "2026-07-24T21:12:13Z",
+        "source": "BBC Wildlife Magazine"
+      },
+      {
+        "title": "Magnetically recoverable Fe3O4-chitosan/PVA hydrogel for photo-Fenton degradation of diazinon",
+        "description": "Fe3O4 magnetic nanoparticles were fabricated in situ within chitosan/ polyvinyl alcohol (CS/PVA) as a semi-interpenetrating polymer network (semi-IPN) composite hydrogel. CS was derived from shrimp shells. Various techniques, including X-ray diffraction (XRD), scanning electron microscopy (SEM), Brunaeur-Emmett-Teller (BET) analysis, Transmission electron microscopy (TEM), Vibrating sample magnetometery (VSM), Fourier transform infrared spectroscopy (FTIR), and UV–vis diffuse reflectance spectroscopy (DRS) were used to characterize the composite hydrogel. The catalytic activity of the CS/PVA-Fe3O4 hydrogel was evaluated for photo-Fenton degradation of diazinon. The results exhibited that the CS/PVA-Fe3O4 hydrogel possesses noticeable degradation performance in the photo-Fenton process, with a percentage of removal up to 98.7% than the pure Fe3O4 (61%) and homogeneous Fenton (73%) for diazinon under optimal reaction conditions (reaction time of 120 min, pH 9, oxidant amount of 1.5 mL, initial diazinon concentration of 10 mg L− 1, temperature of 50 °C, and catalyst dosage of 1 g L− 1). The composite hydrogel demonstrated approprate reusability, as it could be recycled for ten runs without a noticeable loss in removal efficiency. Based on kinetic studies, the photodegradation of diazinon was adapted to a pseudo-first-order model, and apparent activation energy was acquired to be 71.31 kJ/mol. Besides, photodegradation mechanisms and pathways were investigated.",
+        "url": "https://www.nature.com/articles/s41598-026-63989-9?error=cookies_not_supported&code=b0d7fe3a-6783-4e40-9a35-a5388dded7db",
+        "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-07-24T21:04:39Z",
+        "source": "Nature"
+      },
+      {
+        "title": "How to Watch the Northern Lights from 18 States Tonight",
+        "description": "NOAA forecasters are seeing the possibility of G1 (or minor) geomagnetic activity on Friday, July 24, as a high-speed stream of solar wind continues to repeatedly hit Earth",
+        "url": "https://ca.news.yahoo.com/watch-northern-lights-18-states-210201924.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/2e636477378208b82f8c5757bbba552244e9f356f477026e5859bbfb14bd060b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F630fa31832361e87e55de9441b0d053a",
+        "publishedAt": "2026-07-24T21:02:01Z",
+        "source": "Yahoo News Canada"
+      },
+      {
+        "title": "The Next Solar Eclipse Will Deliver a Rare Sight: Totality at Sunset",
+        "description": "The only thing cooler than an eclipse or a sunset? When both happen at once.",
+        "url": "https://www.cnet.com/science/next-solar-eclipse-rare-sight-totality-sunset/",
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/solar-eclipse-at-totality_0c1372.jpg",
+        "publishedAt": "2026-07-24T20:46:46Z",
+        "source": "CNET"
+      },
+      {
+        "title": "Space Cancer Therapy and Chip Research End With Expedition 74 Crew Return This Weekend",
+        "description": "Expedition 74 crew return this weekend ends eight months of ISS research into cancer drug delivery nanoparticles and semiconductor crystal growth in microgravity. NASA astronaut Chris Williams",
+        "url": "https://www.techtimes.com/articles/321543/20260724/space-cancer-therapy-chip-research-end-expedition-74-crew-return-this-weekend.htm",
+        "image": "https://d.techtimes.com/en/full/469816/soyuz-ms-28.jpg",
+        "publishedAt": "2026-07-24T20:45:17Z",
+        "source": "Tech Times"
+      },
+      {
+        "title": "Europa's Hidden Ocean May Be Even Harder to Reach Than We Thought",
+        "description": "For a long time, scientists assumed that the tiny water pools at Europa's surface came from the moon's deep, icy oceans. But is that physically possible?",
+        "url": "https://gizmodo.com/europas-hidden-ocean-may-be-even-harder-to-reach-than-we-thought-2000790541",
+        "image": "https://gizmodo.com/app/uploads/2026/05/europa-vapor-plume-artist-impression-crop-1200x675.jpg",
+        "publishedAt": "2026-07-24T20:45:01Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "UW Chemists Break Electron Transfer Selectivity Barrier",
+        "description": "Chemists use complex compounds to create life-saving medicines, build advanced high-tech materials, and mimic natural biological systems. To make more",
+        "url": "https://www.miragenews.com/uw-chemists-break-electron-transfer-selectivity-1716156/",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1543286386-713bdd548da4%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+        "publishedAt": "2026-07-24T20:34:00Z",
         "source": "Mirage News"
       },
       {
-        "title": "Cutting out the noise: How horseshoe bats adapt their echolocation behavior in colonies",
-        "description": "Imagine searching for a gemstone in a dark cave: You use a flashlight, looking for a rainbow-colored glint in the darkness. Now, imagine 10 other people in the cave with you, using different-colored flashlights at the same time. Suddenly, you can no longer tell which light is coming from your gemstone, which light is from another flashlight or which light is coming from a reflection off another unknown object. That is what echolocation with multiple, overlapping frequencies would be like. But now, imagine if every person in the cave were using a flashlight of the same color. The glint from the gemstone would be much easier to see.",
-        "url": "https://phys.org/news/2026-07-noise-horseshoe-echolocation-behavior-colonies.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/flying-bats.jpg",
-        "publishedAt": "2026-07-24T18:20:04Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Antarctica's 'hummingbird' revealed in stunning new NASA radar",
-        "description": "NASA has released a striking new radar image from its NISAR Earth-observing satellite that reveals an Antarctic landscape resembling a hummingbird in flight.",
-        "url": "https://www.livenowfox.com/news/nasa-hummingbird-shaped-satellite-image",
-        "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/screenshot-2026-07-24-104933.png?ve=1&tl=1",
-        "publishedAt": "2026-07-24T18:03:08Z",
-        "source": "LiveNOW from FOX"
-      },
-      {
-        "title": "An experimental gene therapy killed a 6-year-old girl in China. Her parents are seeking accountability.",
-        "description": "A young girl in China died after being given an experimental gene therapy intended to treat a neurodevelopmental syndrome, an investigation by Science and Retraction Watch revealed.",
-        "url": "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations",
-        "image": "https://cdn.mos.cms.futurecdn.net/KiVkhCRK3qChHZWthR4pUM-2000-80.png",
-        "publishedAt": "2026-07-24T18:02:20Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Hydrogel electrode improves stability of insect-based odor sensors for drones",
-        "description": "Drones are increasingly being used for disaster response, infrastructure inspection and environmental monitoring. However, most drone systems rely primarily on cameras and other visual sensors, which can become ineffective in smoke, dust, darkness or collapsed structures. Odor sensing could provide a valuable complementary capability by enabling drones to detect gas leaks and chemical emissions that cannot be identified through visual sensing alone. Yet a major challenge has limited the practical use of such biohybrid sensors: Excised insect antennae gradually lose signal quality as they dry out, and the electrical interface becomes unstable.",
-        "url": "https://phys.org/news/2026-07-hydrogel-electrode-stability-insect-based.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/water-retaining-hydrog.jpg",
-        "publishedAt": "2026-07-24T18:00:03Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Perseid meteor shower 2026: The best cameras and telescopes to capture the action",
-        "description": "The Perseids meteor shower is visible now and will until late August. If you want to take a closer look, or even photograph it, then you'll need some specialized equipment — which is where this list of cameras and telescopes comes in handy.",
-        "url": "https://www.tomsguide.com/cameras-photography/perseid-meteor-shower-2026-the-best-cameras-and-telescopes-to-capture-the-action",
-        "image": "https://cdn.mos.cms.futurecdn.net/QrYB7TuPDEUX74bxr8b2CN-1920-80.jpg",
-        "publishedAt": "2026-07-24T18:00:00Z",
-        "source": "Tom's Guide"
-      },
-      {
-        "title": "ACS continues 150th celebration at EuChemS",
-        "description": "The event offered networking, celebrated scientists and collaboration, and announced a new program with the German Chemical Society",
-        "url": "https://cen.acs.org/acs-news/acs-continues-150th-celebration-euchems/104/web/2026/07",
-        "image": "https://s7d1.scene7.com/is/image/CENODS/ACS-150-celebration-EuChemS---545243:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
-        "publishedAt": "2026-07-24T17:55:56Z",
-        "source": "C&EN"
-      },
-      {
-        "title": "Scientists discover master molecular switch for ginseng saponin production",
-        "description": "Sanchi ginseng (Panax notoginseng) is a cornerstone of traditional Chinese medicine, prized for its saponins-bioactive compounds with anti-inflammatory, cardiovascular, and anticancer properties.",
-        "url": "https://www.news-medical.net/news/20260724/Scientists-discover-master-molecular-switch-for-ginseng-saponin-production.aspx",
-        "image": "https://www.news-medical.net/image-handler/picture/2019/12/shutterstock_369113957_e355e5336cc14dc19d0c66522344e34a-620x480.jpg",
-        "publishedAt": "2026-07-24T17:45:00Z",
-        "source": "News-Medical"
+        "title": "Humans May Have Spoken 75,000 Languages Just 2,000 Years Ago. Then Empires Rose",
+        "description": "Today’s 7,600 languages might seem like a lot, but they're just a fraction that survived a vast, ancient extinction.",
+        "url": "https://www.zmescience.com/science/history-articles/human-languages-ancient/",
+        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/07/feature-img-languages.jpg",
+        "publishedAt": "2026-07-24T20:04:40Z",
+        "source": "ZME Science"
       }
     ],
     "ai": [
       {
-        "title": "YouTube’s AI chatbot can make your next video thumbnail.",
-        "description": "Aside from labeling and filtering AI slop, YouTube says you can directly chat with its Ask Studio bot to build thumbnails that are “tailored to your video’s specific themes and to your specific style.” It’s also added custom thumbnail uploads for Shorts if you’re in the YouTube Partner Program, and suggested thumbnail frames for Shorts.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/thumbnails-on-shorts-static-1.max-700x3000.format-webp.webp?quality=90&strip=all]",
-        "url": "https://www.theverge.com/creators/970871/youtubes-ai-chatbot-can-make-your-next-video-thumbnail",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/thumbnails-on-shorts-static-1.max-700x3000.format-webp.webp?quality=90&strip=all&crop=0,6.4736167937223,100,87.052766412555",
-        "publishedAt": "2026-07-24T18:31:41Z",
-        "source": "The Verge"
+        "title": "Nvidia, Microsoft urge US to protect open AI models amid policy debate",
+        "description": "Nvidia, Microsoft and Meta urge US policymakers not to broadly restrict open-weight AI models amid a growing debate over AI regulation",
+        "url": "https://www.foxbusiness.com/technology/nvidia-microsoft-urge-us-avoid-broad-restrictions-open-ai-models",
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/nvidia-ceo-jensen-huang-tokyo-open-ai-models.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-24T21:12:12Z",
+        "source": "Fox Business"
       },
       {
-        "title": "Microsoft, Meta, Nvidia, Dell, IBM sign joint letter urging US to back open weight AI models: Openness may be one of the most important paths to AI safety",
-        "description": "Tech News News: Twenty-five American technology companies, venture firms and open-source foundations signed a joint letter on Friday asking Washington to leave open-w.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-meta-nvidia-dell-ibm-sign-joint-letter-urging-us-to-back-open-weight-ai-models-openness-may-be-one-of-the-most-important-paths-to-ai-safety/articleshow/132612802.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132612989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-24T18:30:00Z",
-        "source": "Times of India"
+        "title": "I'm Still Waiting For The Perfect Time To Strike On Marvell",
+        "description": "Marvell Technology, Inc. looks overvalued despite record revenue; AI infra multiples may compress as hyperscaler capex slows. Click for this MRVL stock update.",
+        "url": "https://seekingalpha.com/article/4925465-im-still-waiting-for-the-perfect-time-to-strike-on-marvell",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1699670760/image_1699670760.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-07-24T21:10:11Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Nvidia's CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-        "description": "There's gotta be a better way.",
-        "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-        "image": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-        "publishedAt": "2026-07-24T18:25:22Z",
-        "source": "Gizmodo"
+        "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+        "description": "Falling oil prices provided Wall Street with some support even as Middle East hostilities continued. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ff8e57af3dc7f09867f8a08ac5d9c9066c04d74ea67e74cddbc0f890aadafbd5",
+        "publishedAt": "2026-07-24T21:09:44Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Why Is Nebius Stock Falling on Friday?",
-        "description": "Nebius Group N.V. (NASDAQ: NBIS) stock traded lower on Friday amid a market rotation out of AI infrastructure companies. Read the latest analysis and context.",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60678143/why-is-nebius-stock-falling-on-friday-2",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/24/Nebius-Group.jpg",
-        "publishedAt": "2026-07-24T18:25:11Z",
-        "source": "Benzinga"
+        "title": "Hoping to Collect on Apple's $250M AI iPhone Settlement? You'll Have to Wait a Year",
+        "description": "The company will pay some iPhone owners to settle a lawsuit, but following a development last week, it's clear the legal machine grinds slowly.",
+        "url": "https://www.cnet.com/tech/mobile/copy-of-hoping-to-collect-on-apples-250m-ai-iphone-settlement-youll-have-to-wait-a-year/",
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/65c5ca63-9fce-4f5c-8f77-230edb3262c5.png",
+        "publishedAt": "2026-07-24T21:09:29Z",
+        "source": "CNET"
       },
       {
-        "title": "Nvidia reveals deep dive into what makes Vera CPU tick - with the super-powered Olympus core promising huge performance increases and more",
-        "description": "A different kind of AI data center CPU",
-        "url": "https://www.techradar.com/pro/nvidia-reveals-deep-dive-into-what-makes-vera-cpu-tick-with-the-super-powered-olympus-core-promising-huge-performance-increases-and-more",
-        "image": "https://cdn.mos.cms.futurecdn.net/MLH2WqUBs2jRD6pZ52Gdn6-1462-80.jpg",
-        "publishedAt": "2026-07-24T18:25:00Z",
-        "source": "TechRadar"
+        "title": "Qualcomm powers Samsung’s new devices, price increases follow",
+        "description": "The San Diego semiconductor company says it crammed AI-capable compute into Samsung Galaxy phones, watches, and a new line of smart glasses — days before reports of a \"double-digit\" semiconductor price hike emerged Friday morning.",
+        "url": "https://www.sandiegouniontribune.com/2026/07/24/qualcomm-powers-samsungs-new-devices-price-increases-follow/",
+        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/SUT-L-QCOM-INVESTOR-002.jpg?w=2000&h=1333",
+        "publishedAt": "2026-07-24T21:05:31Z",
+        "source": "San Diego Union-Tribune"
       },
       {
-        "title": "Isabella Arrigo is Building the Sustainable Energy Infrastructure to Support AI Growth",
-        "description": "Arrigo is multilingual and was educated in France and the US. At Stanford University, she received a BA in international relations and completed her master's studies in sustainability.",
-        "url": "https://techbullion.com/isabella-arrigo-is-building-the-sustainable-energy-infrastructure-to-support-ai-growth/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/07/Isabella-Arrigo-1000x600.png",
-        "publishedAt": "2026-07-24T18:24:51Z",
-        "source": "TechBullion"
+        "title": "Beatbot offers a weekend flash sale on its most premium AquaSense 2 Ultra AI robotic pool cleaner for $2,149, more",
+        "description": "Through the weekend Beatbot is offering a special flash sale on its premium AquaSense 2 Ultra AI Robotic Pool Cleaner...",
+        "url": "https://9to5toys.com/2026/07/24/beatbot-weekend-flash-sale-aquasense-2-ultra-ai-robotic-pool-cleaner-2149-more/",
+        "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Beatbot-AquaSense-2-Ultra-robotic-pool-cleaner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-07-24T21:01:44Z",
+        "source": "9to5Toys"
       },
       {
-        "title": "AI Crypto Rotation: Are Funds Shifting Toward AI Tokens?",
-        "description": "US spot Bitcoin exchange-traded funds (ETFs) extended their streak of inflows into a sixth consecutive session, signaling renewed institutional interest",
-        "url": "https://www.cryptobreaking.com/ai-crypto-rotation-are-funds/",
-        "image": "https://www.cryptobreaking.com/wp-content/uploads/2026/07/AI-Crypto-Rotation-Are-Funds-Shifting-Toward-AI-Tokens.jpg",
-        "publishedAt": "2026-07-24T18:24:41Z",
-        "source": "Crypto Breaking News"
+        "title": "Power grid guru Peter Lake to leave Trump’s Energy Dominance Council",
+        "description": "Lake was heavily involved with key aspects of President Donald Trump’s energy and AI dominance agenda.",
+        "url": "https://www.politico.com/news/2026/07/24/grid-guru-peter-lake-to-leave-trumps-energy-dominance-council-01011325",
+        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F66%2F29d52bbf44cc92dd10f86d2ace05%2Few-0827-klump-q-a-1160-01-1.jpg",
+        "publishedAt": "2026-07-24T21:01:00Z",
+        "source": "POLITICO"
       },
       {
-        "title": "Elon Musk's chilling admission as AI goes rogue with 'unprecedented' cyber attack",
-        "description": "OpenAI revealed this week that some of its most advanced models hacked a start-up.",
-        "url": "https://www.express.co.uk/news/science/2232552/elon-musk-ai-cyber-attack",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/151/1200x630/7059488.jpg",
-        "publishedAt": "2026-07-24T18:22:00Z",
-        "source": "Daily Express"
+        "title": "Class Action Lawyers Fight for Indie Artists Exploited by Generative AI Training",
+        "description": "For independent artists whose music was stolen by AI companies, new class-action lawsuits aim to get them justice.",
+        "url": "https://www.vice.com/en/article/class-action-lawyers-fight-for-indie-artists-exploited-by-generative-ai-training/",
+        "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/07/Indie-Artists.jpg?w=1200",
+        "publishedAt": "2026-07-24T21:00:00Z",
+        "source": "VICE"
       }
     ]
   }
