@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-26T21:13:04.198Z",
+  "fetchedAt": "2026-07-26T22:15:06.636Z",
   "sections": {
     "world": [
       {
-        "title": "Wildfires in France and Spain force more than 300,000 people to flee homes",
-        "description": "Bordeaux mayor says fire is ‘at the gates of the metropolitan area’ while new blaze erupts in Spanish region of Vall d’Uixó near Valencia",
-        "url": "https://www.irishtimes.com/world/europe/2026/07/26/wildfires-in-france-and-spain-force-more-than-300000-people-to-flee-homes/",
-        "image": "https://www.irishtimes.com/resizer/v2/PE6OQZNYTPPSW4H2UDGXC4VJRA.jpg?smart=true&auth=746674c3ca9f317df617aaa4fbfa351f0e1a82aab6d1490a71cb49fcd9b2412c&width=1200&height=630",
-        "publishedAt": "2026-07-26T09:12:15Z",
-        "source": "The Irish Times"
+        "title": "Ukraine strikes Iranian vessels, Tehran accuses Kyiv of 'hostile act'",
+        "description": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+        "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108340199-1785060642524-gettyimages-129381434-913_03_PO00890.jpeg?v=1785060656&w=1920&h=1080",
+        "publishedAt": "2026-07-26T10:14:39Z",
+        "source": "CNBC"
       },
       {
-        "title": "Style Kamikaze Sea Drones During Pacific SINKEX",
-        "description": "Sailing past the impact holes left by Harpoon, Spike, and LRASM missiles, two U.S. Navy one-way attack surface drones closed in on a decommissioned amphibious assault ship before detonating at the ship's waterline.",
-        "url": "https://www.navalnews.com/naval-news/2026/07/u-s-navy-deploys-ukraine-style-kamikaze-sea-drones-during-pacific-sinkex/",
-        "image": "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-032625-1024x536.png",
-        "publishedAt": "2026-07-26T09:11:49Z",
-        "source": "navalnews.com"
+        "title": "US influencer, husband found dead days after she accused him of pedophilia on TikTok",
+        "description": "US News: Social media influencer Sara Gilson, 43, was shot dead at her Oklahoma home, allegedly by her estranged husband, Jeremiah \\\"Shawn\\\" Duffey, less than tw.",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-influencer-shot-dead-days-after-tiktok-post-accusing-estranged-husband-of-pedophilia/articleshow/132639442.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132639482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-26T10:13:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Iran Threatens Retaliation Following Ukrainian Strike in Caspian Sea",
-        "description": "Iran’s Foreign Ministry condemned a Ukrainian drone strike on a vessel in the Caspian Sea, stating Tehran reserves the right to defend its security and take appropriate action.",
-        "url": "https://www.kyivpost.com/post/81090",
-        "image": "https://static.kyivpost.com/storage/2026/07/26/fd089de4e653b1abaffd5bec6f35b3df.jpg?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-07-26T09:10:26Z",
-        "source": "Kyiv Post"
+        "title": "Baghaei says progress made in Oman talks on Strait of Hormuz",
+        "description": "Iran’s foreign ministry spokesman Esmaeil Baghaei says talks were held with Oman on Friday and Saturday over shipping in the Strait of Hormuz. He said progress has been made. “The two sides exchanged views on common principles and operational mechanisms for managing the safe passage of shipping in the Strait of Hormuz while respecting the sovereign rights of the two coastal states,” he says, according to Iran International. Baghaei reports that “the talks were useful and progress was made,” but notes that “technical and political consultations between the two sides will continue.” He says that “at present, there has been no change in the status of shipping through the Strait of Hormuz.” In the meantime, the last two nights in the Gulf have been relatively quiet. There was no bombing of Iran by the US, and Iran has not attacked targets in neighbouring Gulf countries. There were however several incdents involving shipping.",
+        "url": "https://www.commonspace.eu/gulf-crisis/baghaei-says-progress-made-oman-talks-strait-hormuz",
+        "image": "https://www.commonspace.eu/sites/default/files/2025-06/Iranian%20foreign%20ministry.jpg",
+        "publishedAt": "2026-07-26T10:06:37Z",
+        "source": "commonspace.eu"
       },
       {
-        "title": "Chinese family reunites with daughter decades after she vanished from market near home",
-        "description": "Netizens voice scepticism; users question why the dad let a toddler buy food alone, fuelling speculation of a regretted abandonment",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/26/chinese-family-reunites-with-daughter-decades-after-she-vanished-from-market-near-home",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/26/4023032.jpg",
-        "publishedAt": "2026-07-26T09:07:00Z",
-        "source": "The Star"
+        "title": "Reef by Reef, Koh Mak Is Cultivating A Healthier Ocean",
+        "description": "Oceanographer Sylvia Earle’s visit spotlights one tiny isle—Koh Mak’s coral reef restoration efforts, led by Coral Gardeners.",
+        "url": "https://www.travelandleisureasia.com/in/destinations/reef-by-reef-koh-mak-is-cultivating-a-healthier-ocean/",
+        "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2026/06/30104743/Untitled-design-12-1600x900.jpg",
+        "publishedAt": "2026-07-26T10:03:35Z",
+        "source": "Travel and Leisure Asia"
       },
       {
-        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-        "description": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
-        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/873A1583-copy-1785046158.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-26T09:04:05Z",
-        "source": "Al Jazeera"
+        "title": "A forced-labor crackdown or an end-run around Congress? Dissecting Trump’s new tariffs",
+        "description": "The Trump administration has levied tariffs on more than 60 countries, using a legal justification that permits the president to impose import taxes and other sanctions against countries found to engage in “unjustifiable,” “unreasonable” or “discriminatory” trade practices.",
+        "url": "https://apnews.com/article/trump-tariffs-forced-labor-8ea8114c6893a6062cf1addc3518660b",
+        "image": "https://dims.apnews.com/dims4/default/d66de6a/2147483647/strip/true/crop/4445x2962+363+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Ffc%2F8c95ec95c386f0ea32e7af7d9876%2F6875e5e796074ce5ad09377b41d16a04",
+        "publishedAt": "2026-07-26T10:02:00Z",
+        "source": "AP News"
       },
       {
-        "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-        "description": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
-        "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-        "image": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-facebookJumbo.jpg",
-        "publishedAt": "2026-07-26T09:02:04Z",
-        "source": "The New York Times"
+        "title": "Lindsay Clancy trial: Opening statements to begin for mother accused of killing 3 children",
+        "description": "Opening statements are set to begin Monday in the triple-murder trial of Lindsay Clancy, the Massachusetts mother who has argued she is not criminally responsible for fatally strangling her three young children.",
+        "url": "https://www.cnn.com/2026/07/26/us/lindsay-clancy-trial-opening-statements",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/072226-gd-plymouth-clancy-01.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-07-26T10:00:25Z",
+        "source": "CNN"
       },
       {
-        "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-        "description": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
-        "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-        "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25DC-PREXY-1-qphz/25DC-PREXY-1-qphz-facebookJumbo.jpg",
-        "publishedAt": "2026-07-26T09:01:50Z",
-        "source": "The New York Times"
+        "title": "As Ortega bans elections, some Nicaraguans hope for U.S. intervention",
+        "description": "Secretary of State Marco Rubio strongly condemned Ortega's election decree, but there is little evidence the White House is ready to intervene in Nicaragua.",
+        "url": "https://www.latimes.com/world-nation/story/2026-07-26/nicaragua-president-ortega-vows-no-more-elections",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/9b30c23/2147483647/strip/true/crop/4290x2252+0+461/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2F92%2F91d62de197e2033769219ed893aa%2F33dd1b02a85f4c08a529c719548fa07a",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "source": "Los Angeles Times"
       },
       {
-        "title": "IOM Trains Horn of Africa Journalists on Migration Reporting",
-        "description": "Regional workshop in Djibouti strengthens ethical, accurate and data-driven coverage of migration along the Eastern Route",
-        "url": "https://www.dawan.africa/news/iom-trains-horn-of-africa-journalists-on-migration-reporting",
-        "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgClAZ1iF2I6qMAbvVFftBSWlwzcNGZkDUg5PX",
-        "publishedAt": "2026-07-26T08:59:19Z",
-        "source": "Dawan Africa"
+        "title": "Lebanese displaced by war turn to satellites to check their homes",
+        "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+        "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+254+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fec%2F23855c9d4901ba7843b7d608a822%2Fmazens-neighborhood-in-yaroun-satelite-destroyed.jpg",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "source": "NPR"
       }
     ],
     "business": [
       {
-        "title": "Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)",
-        "description": "Under Greg Abel, Berkshire Hathaway has taken a sizable stake in Google-parent Alphabet.",
-        "url": "https://www.fool.com/investing/2026/07/26/greg-abel-tripled-stake-megacap-ai-stock-not-apple/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880601%2Finvestor-16.jpg&w=1200&op=resize",
-        "publishedAt": "2026-07-26T09:12:43Z",
-        "source": "The Motley Fool"
+        "title": "Sainsbury’s strikes deal with British salad producers to tackle food shortage fears",
+        "description": "The agreement is intended to ensure a steady supply of tomatoes, peppers, and cucumbers",
+        "url": "https://www.independent.co.uk/news/uk/home-news/sainsburys-food-shortage-tomatoes-peppers-b3021703.html",
+        "image": "https://static.independent.co.uk/2024/01/04/15/iStock-459394869.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-07-26T10:14:00Z",
+        "source": "The Independent"
       },
       {
-        "title": "Israel \"Izzy\" Englander Increased His Position in This Pharma Stock by 780%. Does He Know Something Wall Street Doesn't?",
-        "description": "Analysts aren't nearly as bullish about Bristol Myers Squibb as this billionaire hedge fund manager is.",
-        "url": "https://www.fool.com/investing/2026/07/26/israel-izzy-englander-increased-his-position-in-th/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877980%2Fisrael-englander_millennium-management_founder-ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
-        "publishedAt": "2026-07-26T09:12:40Z",
-        "source": "The Motley Fool"
+        "title": "Coca-Cola Europacific Partners: Earnings Can Keep Compounding",
+        "description": "CCEP gets a buy rating as volume/mix growth drives FY2026 outlook and cash flow. Click for more on CCEP stock.",
+        "url": "https://seekingalpha.com/article/4925664-coca-cola-europacific-partners-earnings-can-keep-compounding",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418066946/image_1418066946.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-07-26T10:13:34Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
-        "description": "JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denial of Service attacks. Present for sixteen years, it affects nu",
-        "url": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/",
-        "image": "https://res.infoq.com/news/2026/07/pixelsmash-vulnerability/en/headerimage/generatedHeaderImage-1785042241189.jpg",
-        "publishedAt": "2026-07-26T09:09:07Z",
-        "source": "infoq.com"
+        "title": "Rentomojo Expands Its Dedicated Water Purifier Service in Hyderabad With In-House DriftGo, NiraFlo and RM Premium Ranges, Free 6-Month Filter Replacements and Lifetime Maintenance",
+        "description": "Designed for Hyderabad's varying TDS levels, the managed subscription includes technician-led water testing, installation within 48-72 hours, scheduled filter replacements and lifetime repair support from ₹401 per month.",
+        "url": "https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/rentomojo-expands-its-dedicated-water-purifier-service-in-hyderabad-with-in-house-driftgo-niraflo-and-rm-premium-ranges-free-6-month-filter-replacements-and-lifetime-maintenance/2391600",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/26/1151443.png",
+        "publishedAt": "2026-07-26T10:11:09Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Baguio plans registration of short-term rentals to curb scams",
-        "description": "Baguio LGU plans to require all short-term rental accommodations to register before they can be listed on official tourism platforms.",
-        "url": "https://newsinfo.inquirer.net/2270754/baguio-plans-registration-of-short-term-rentals-to-curb-scams",
-        "image": "https://newsinfo.inquirer.net/files/2026/07/Baguio-BurnhamPark-26July2026-scaled.png",
-        "publishedAt": "2026-07-26T09:09:00Z",
-        "source": "Inquirer.net"
+        "title": "Europe Is Warming to America's Obsession With AC",
+        "description": "As Europe recorded its hottest June on record, Europeans flocked to buy AC units, eroding a decades-old divide with America.",
+        "url": "https://www.businessinsider.com/europe-is-warming-to-americas-obsession-with-ac-2026-7",
+        "image": "https://i.insider.com/6a56373c81137eabe596d31d?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T10:11:05Z",
+        "source": "Business Insider"
       },
       {
-        "title": "The 8 Best Stocks to Buy on Alphabet's Surging Capex",
-        "description": "These AI stocks should directly benefit from Alphabet's increasing capex.",
-        "url": "https://www.fool.com/investing/2026/07/26/the-8-best-stocks-to-buy-on-alphabets-surging-cape/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880372%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-        "publishedAt": "2026-07-26T09:08:24Z",
-        "source": "The Motley Fool"
+        "title": "Nearly $1 trillion in deals: Big Tech, Korean chipmakers align to steer future of AI",
+        "description": "Samsung Electronics and SK Group are pursuing $950 billion in long-term AI chip and infrastructure deals with Broadcom, Nvidia, Microsoft and Anthropic as the global semiconductor shortage deepens. The partnerships highlight Korea’s central role in HBM memory, foundry manufacturing and the future AI supply chain.",
+        "url": "https://www.koreajoongangdaily.com/business/nearly-1-trillion-in-deals-big-tech-korean-chipmakers-align-to-steer-future-of-ai/12791942",
+        "image": "https://image.koreajoongangdaily.com/12791957.jpg?imageId=12791957&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-26T10:07:45Z",
+        "source": "Korea JoongAng Daily"
       },
       {
-        "title": "Ryanair flight FR661 declared an emergency over Irish Sea on approach to Dublin",
-        "description": "A Ryanair flight from Birmingham was forced to declare an in-flight emergency on approach to Dublin Airport before landing safely.",
-        "url": "https://airlive.net/emergency/2026/07/26/ryanair-flight-fr661-declared-an-emergency-over-irish-sea-on-approach-to-dublin/",
-        "image": "https://airlive.net/wp-content/uploads/2026/07/FR661.jpg",
-        "publishedAt": "2026-07-26T09:06:13Z",
-        "source": "airlive"
+        "title": "CEOs and Execs Can't Agree on What AI Means for Gen Z Workers",
+        "description": "For young Gen Zers entering the workforce, the rise of generative artificial intelligence has brought no shortage of uncertainty.",
+        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+        "image": "https://i.insider.com/6a63689254f9875261779512?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T10:03:12Z",
+        "source": "Business Insider"
       },
       {
-        "title": "FB Financial (FBK) Earnings Strength Puts Valuation Back In Focus",
-        "description": "FB Financial (FBK) is back in focus after reporting second quarter 2026 results that showed higher net interest income and net income year over year, alongside an affirmed quarterly dividend of $0.21 per share.\nSee our latest analysis for FB Financial.\nAt a share price of $59.10, FB Financial has posted a 30 day share price return of 5.74% and an 8.82% gain over 90 days. Its 1 year total shareholder return of 22% and 3 year total shareholder return of 78.06% point to momentum that recent...",
-        "url": "https://simplywall.st/stocks/us/banks/nyse-fbk/fb-financial/news/fb-financial-fbk-earnings-strength-puts-valuation-back-in-fo",
-        "image": "https://images.simplywall.st/asset/industry/7013000-choice1-main-header/1585186561056",
-        "publishedAt": "2026-07-26T09:06:00Z",
-        "source": "simplywall.st"
+        "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+        "description": "As MiCA beds in and the U.K. finalizes its crypto framework, stringent regulation could spur mergers, acquisitions and closer ties with banks.",
+        "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/26ef4a42694e2ce56d7a2adb3390531576e3007b-3834x2556.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-07-26T10:02:30Z",
+        "source": "CoinDesk"
       },
       {
-        "title": "Kenvue (KVUE) Gains FDA Backing As Valuation Questions Return",
-        "description": "The FDA’s approval of Tylenol with Naproxen has put Kenvue (KVUE) back in the spotlight, as investors weigh what this new over the counter pain reliever might mean for the stock.\nSee our latest analysis for Kenvue.\nThe FDA approval follows a period of building momentum in Kenvue’s share price, with an 11.32% year-to-date share price return and a 9.98% 90-day share price return, even as the 1-year total shareholder return declined 11.67%.\nIf this kind of catalyst has caught your attention, it...",
-        "url": "https://simplywall.st/stocks/us/household/nyse-kvue/kenvue/news/kenvue-kvue-gains-fda-backing-as-valuation-questions-return",
-        "image": "https://images.simplywall.st/asset/company-cover/1820759186-main-header/1756203109122",
-        "publishedAt": "2026-07-26T09:05:54Z",
-        "source": "simplywall.st"
+        "title": "Bengaluru man says he feels poor despite earning ₹2 lakh a month: 'I have money, but...'",
+        "description": "The man said that while he is financially stable on paper, he constantly worries about money and struggles to feel content. | Trending",
+        "url": "https://www.hindustantimes.com/trending/bengaluru-man-says-he-feels-poor-despite-earning-rs-2-lakh-a-month-i-have-money-but-101785059401639.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/26/550x309/vdffdbfd_1782056192502_1782056201797_75ec6005-faf5-4392-9f98-9bd1bb956d60_1785060073479_9637d846-5d07-4347-97a2-9f5f52dc54b2.png",
+        "publishedAt": "2026-07-26T10:02:12Z",
+        "source": "Hindustan Times"
       }
     ],
     "science": [
+      {
+        "title": "I'm not an astronaut, but I went to the International Space Station (sort of)",
+        "description": "A new virtual reality exhibit in NYC allows viewers to explore a digital International Space Station through real footage.",
+        "url": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of",
+        "image": "https://cdn.mos.cms.futurecdn.net/sr9yfPBJbbv9fRrYyRjMJ-2000-80.jpg",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "source": "space.com"
+      },
+      {
+        "title": "Humanity's first look at the surface of Mars shared on 50th anniversary of historic NASA landing - Space photo of the week",
+        "description": "NASA's Viking 1 lander sent back this photo just after landing on July 20, 1976.",
+        "url": "https://www.livescience.com/space/space-exploration/humanitys-first-look-at-the-surface-of-mars-shared-on-50th-anniversary-of-historic-nasa-landing-space-photo-of-the-week",
+        "image": "https://cdn.mos.cms.futurecdn.net/i7v5gbgT9ADphNjr22VcCo-1920-80.jpg",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "This is what lurks beneath volcanoes of Jupiter's moon Io",
+        "description": "NASA's Juno spacecraft has provided groundbreaking insights into the subsurface temperatures of Jupiter's moon Io, revealing the hidden forces behind its intense volcanic activity.",
+        "url": "https://www.newsbytesapp.com/news/science/nasa-s-juno-spacecraft-peers-beneath-jupiter-s-moon-io-s-surface/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l200_12281785049184.jpg",
+        "publishedAt": "2026-07-26T09:55:34Z",
+        "source": "NewsBytes"
+      },
+      {
+        "title": "Nasa astronaut Chris Williams, two cosmonauts to return to Earth after 241 days",
+        "description": "Nasa astronaut Chris Williams and cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev return to Earth today after 241 days aboard the ISS, landing in Kazakhstan in the Soyuz MS 28 capsule. Here is who is coming home and the science of a fiery Soyuz re-entry.",
+        "url": "https://www.indiatoday.in/science/story/nasa-astronaut-chris-williams-soyuz-ms-28-return-earth-241-days-kazakhstan-landing-cosmonauts-2956634-2026-07-26",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/nasa-astronaut-chris-williams-and-roscosmos-cosmonauts-sergey-kud-sverchkov-and-sergei-mikaev-are-se-265142304-16x9_0.jpg?VersionId=O943HyFydpWm1cvd5kcGYaFdbz0ZWKEI",
+        "publishedAt": "2026-07-26T09:52:14Z",
+        "source": "India Today"
+      },
       {
         "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
         "description": "Master FAIRChem v2 with our tutorial on integrating UMA for diverse computational chemistry workflows and GPU acceleration.",
@@ -166,104 +198,72 @@
         "image": "https://www.astronomy.com/wp-content/uploads/2026/07/07262026.png?resize=1200,630",
         "publishedAt": "2026-07-26T08:01:26Z",
         "source": "Astronomy Magazine"
-      },
-      {
-        "title": "Scientists just found sugar in space. Here's why that matters",
-        "description": "It's a sweet discovery that has the science world talking — and may help us better understand the origins of life on Earth.",
-        "url": "https://www.cbc.ca/news/science/sugar-in-space-life-on-earth-9.7281908",
-        "image": "https://i.cbc.ca/ais/3ae5a5b9-f578-469e-ac52-c53251db5bc5,1784855020725/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
-        "publishedAt": "2026-07-26T08:00:00Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Science word of the day: Cenozoic",
-        "description": "What does 'Cenozoic' mean?",
-        "url": "https://www.livescience.com/planet-earth/evolution/science-word-of-the-day-cenozoic",
-        "image": "https://cdn.mos.cms.futurecdn.net/gLtqQHfc4wahZpqzmxwKyA-2000-80.jpg",
-        "publishedAt": "2026-07-26T08:00:00Z",
-        "source": "Live Science"
-      },
-      {
-        "title": "Elon Musk Says Mars Could Shield Humanity From Deadly Pandemics, Rogue AI",
-        "description": "Elon Musk argues that Mars can serve as a buffer against Earth threats, with SpaceX's goal to make space travel accessible to all.",
-        "url": "https://www.benzinga.com/markets/tech/26/07/60685670/elon-musk-mars-humanity-shield-pandemics-rogue-ai",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/26/Elon-Musk.jpg",
-        "publishedAt": "2026-07-26T07:52:28Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Jupiter's moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth's oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier talle",
-        "description": "The frozen crust of Europa may be thicker than scientists hoped, potentially making any mission to reach the hidden ocean beneath even more challenging than previously thought.",
-        "url": "https://spacedaily.com/t-europa-29-kilometre-ice-shell-ocean-water/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_europa_junocam_nasa.jpg",
-        "publishedAt": "2026-07-26T07:30:08Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "Meta Pauses $20 Monthly Fee For AI Glasses Feature That Makes Voices Clearer: Report",
-        "description": "Meta has reportedly paused its $20/month subscription test for Conversation Focus, an AI glasses feature that helps users hear conversations better, after facing criticism over charging for an on-device feature., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/meta-pauses-20-monthly-fee-for-ai-glasses-feature-that-makes-voices-clearer-report-article-155181019",
-        "image": "https://images.timesnownews.com/thumb/msid-155181037,thumbsize-2199030,width-1280,height-720,resizemode-75/155181037.jpg",
-        "publishedAt": "2026-07-26T09:09:25Z",
-        "source": "Times Now"
+        "title": "US hardens AI stance on China as Anthropic calls for extending lead",
+        "description": "AI company urges tighter export controls, saying Chinese rivals are rapidly closing the gap through unauthorised model distillation",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/26/us-hardens-ai-stance-on-china-as-anthropic-calls-for-extending-lead",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/26/4023037.jpg",
+        "publishedAt": "2026-07-26T10:12:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Ariana Grande, Celine Dion, Katy Perry and more: Musicians who slammed the White House over unauthorised use of their songs",
-        "description": "Over the past couple of years, a lot of musicians have called out the White House publicly for unauthorized use of their songs. From Ariana Grande and Celine Dion to Foo Fighters, ABBA, and more. Many stars have slammed the Trump administration over using their songs in videos and clip compilations of officers, military strikes, as well as AI-generated videos. Here is a list of many of the celebrities who have slammed the Trump administration for using their songs to promote their content.",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-celine-dion-katy-perry-and-more-musicians-who-slammed-the-white-house-over-unauthorised-use-of-their-songs/photostory/132638834.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132638853,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-26T09:06:29Z",
-        "source": "Times of India"
+        "title": "J'khand: AI-based drones, cameras, 11,500 police personnel to be deployed for 'Shravani' fairs",
+        "description": "J'khand: AI-based drones, cameras, 11,500 police personnel to be deployed for 'Shravani' fairs",
+        "url": "https://www.hindustantimes.com/cities/ranchi-news/jkhand-ai-based-drones-cameras-11-500-police-personnel-to-be-deployed-for-shravani-fairs-101785060261447.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/01/27/550x309/ht-generic_cities1_1769511807303_1769511865290.jpg",
+        "publishedAt": "2026-07-26T10:04:20Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento'",
-        "description": "Hey, uh, should AI models be acting like characters in Y2K era noir films?",
-        "url": "https://gizmodo.com/openais-rogue-ai-models-were-reportedly-acting-like-the-guy-from-christopher-nolans-memento-2000790904",
-        "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2279684900-1200x675.jpg",
-        "publishedAt": "2026-07-26T09:00:24Z",
-        "source": "Gizmodo"
-      },
-      {
-        "title": "David Sacks Warns Anthropic Doesn't Want Competition: 'You're Going to Basically Put a Dagger Through the",
-        "description": "Sacks accuses Anthropic of stifling competition in the AI industry, warns against restricting open-source models as it could harm US ecosystem.",
-        "url": "https://www.benzinga.com/markets/tech/26/07/60685709/david-sacks-warns-anthropic-doesnt-want-competition-youre-going-to-basically-put-a-dagger-through-the-heart-of-the-entire-american-open-source-ecosystem",
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/26/Anthropic-logo-with-CEO-Dario-Amodei-in-.jpg",
-        "publishedAt": "2026-07-26T08:46:08Z",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Yogi Adityanath on misinformation: Teachers must guide students to credible sources",
-        "description": "UP Chief Minister Yogi Adityanath urged teachers and institutions to help students identify misinformation and verify facts. He said responsible use of social media and artificial intelligence is vital to protect society from hatred and confusion.",
-        "url": "https://www.indiatoday.in/india/story/yogi-adityanath-teachers-students-misinformation-credible-sources-ptag-utrith-2956598-2026-07-26",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/up-cm-yogi-adityanath-232341862-16x9.jpg?VersionId=nfnTXU4raQnGOCJOTVLK8X2B.p76o_kK",
-        "publishedAt": "2026-07-26T08:42:43Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Stop joining group projects with a blurry laptop webcam and buy one of these instead",
-        "description": "From affordable 2K cameras to AI-powered 4K models, these five webcams can sharpen online classes, group projects, presentations, interviews, and dorm-room streams",
-        "url": "https://www.digitaltrends.com/home-theater/stop-joining-group-projects-with-a-blurry-laptop-webcam-and-buy-one-of-these-instead/",
-        "image": "https://www.digitaltrends.com/tachyon/2024/07/logitech-c920-ja-e1721057064501.jpg?resize=1200%2C630",
-        "publishedAt": "2026-07-26T08:37:49Z",
+        "title": "Asus’ latest Zenbook puts a seriously bright OLED screen inside an impossibly slim body",
+        "description": "Asus’ latest thin-and-light laptop pairs a premium OLED panel with a Ryzen AI processor, 16GB of RAM, and a 1TB SSD.",
+        "url": "https://www.digitaltrends.com/computing/asus-latest-zenbook-puts-a-seriously-bright-oled-screen-inside-an-impossibly-slim-body/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/07/Asus-Zenbook-14-Air-2026.jpg?resize=1200%2C630",
+        "publishedAt": "2026-07-26T10:03:06Z",
         "source": "Digital Trends"
       },
       {
-        "title": "OpenAI Faces Massive Opposition to Georgia Data Center Negotiated in Secret",
-        "description": "Nearly 1,000 Georgia residents confronted OpenAI and Effingham County officials Thursday about a $20 billion data center project that had been negotiated in secret for months before being announced earlier this week without public input.",
-        "url": "https://www.breitbart.com/tech/2026/07/26/openai-faces-massive-opposition-to-georgia-data-center-negotiated-in-secret/",
-        "image": "https://media.breitbart.com/media/2026/07/Sam-Altman-takes-on-data-center-critics-640x335.jpg",
-        "publishedAt": "2026-07-26T08:35:46Z",
-        "source": "Breitbart News Network"
+        "title": "HCL Technologies signs Rs 14,257 crore AI data center deal in Odisha",
+        "description": "HCL Technologies has signed an MoU with Sarvam and the Government of Odisha to establish an AI data center in Bhubaneswar with a capital outlay of ₹14,257 crore. The project, located in the Odisha Sovereign AI Park, leverages HCLTech's infrastructure and Sarvam's foundation models to support India's sovereign AI goals.",
+        "url": "https://scanx.trade/stock-market-news/companies/hcl-technologies-plans-ai-data-center-in-bhubaneswar-in-partnership-with-sarvam-and-odisha-government-project-budget-set-at-rs-14-257-crore/46421089",
+        "image": "http://news-images.dhan.co/hcl-technologies-plans-ai-data-center-in-bhubaneswar-in-partnership-with-sarvam-and-odisha-government-project-budget-set-at-rs-14-257-crore.jpg",
+        "publishedAt": "2026-07-26T10:01:42Z",
+        "source": "scanx.trade"
       },
       {
-        "title": "AI spending soars as tech giants keep cutting thousands of jobs",
-        "description": "Billions are flowing into artificial intelligence, but the hiring boom many expected has yet to arrive as major technology companies continue shrinking their workforces.",
-        "url": "https://www.moneycontrol.com/world/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-article-13983752.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611110618_artificial-intelligence.jpg",
-        "publishedAt": "2026-07-26T08:35:45Z",
-        "source": "Moneycontrol"
+        "title": "Hollywood's open secret: It's battling AI",
+        "description": "Job postings reveal studios are quietly adopting AI.",
+        "url": "https://www.latimes.com/business/story/2026-07-26/hollywoods-ai-hiring-is-real-inside-studios-hiring-tells-more-careful-story",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/7eafb69/2147483647/strip/true/crop/9301x4883+0+659/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F55%2F1ec8de354dbfb64de8e06e63859f%2F95th-academy-awards-33254.jpg",
+        "publishedAt": "2026-07-26T10:01:00Z",
+        "source": "Los Angeles Times"
+      },
+      {
+        "title": "Israel pitches Canada high-tech trade and safer AI as diplomatic tensions persist",
+        "description": "OTTAWA — Israel is pitching itself to Canada as a technology partner that can offer tangible solutions and safer artificial intelligence, despite the heavy strains on the bilateral relationship over wars in the Middle East.",
+        "url": "https://www.sootoday.com/national-news/israel-pitches-canada-high-tech-trade-and-safer-ai-as-diplomatic-tensions-persist-12594003",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/74d6c02667c7c9b199c2b846bd6abff21fb85436451fd03a900fe92ffe5a5d9d.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-07-26T10:00:07Z",
+        "source": "SooToday"
+      },
+      {
+        "title": "Israel pitches Canada high-tech trade and safer AI as diplomatic tensions persist",
+        "description": "OTTAWA — Israel is pitching itself to Canada as a technology partner that can offer tangible solutions and safer artificial intelligence, despite the heavy strains on the bilateral relationship over wars in the Middle East.",
+        "url": "https://www.baytoday.ca/national-news/israel-pitches-canada-high-tech-trade-and-safer-ai-as-diplomatic-tensions-persist-12594003",
+        "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/74d6c02667c7c9b199c2b846bd6abff21fb85436451fd03a900fe92ffe5a5d9d.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-07-26T10:00:07Z",
+        "source": "BayToday"
+      },
+      {
+        "title": "The EPOS Impact 1000 Headset Is Designed For Advanced AI Workflows",
+        "description": "The EPOS Impact 1000 Series has been cut from 10 variants to just 5, making it easier to choose the right model of headset for employees working with AI and voice calls.",
+        "url": "https://www.forbes.com/sites/marksparrow/2026/07/26/the-epos-impact-1000-headset-is-designed-for-advanced-ai-workflows/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a5a40c7b2b46cabe5414b83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-26T10:00:00Z",
+        "source": "Forbes"
       }
     ]
   }
