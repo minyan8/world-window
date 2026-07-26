@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-26T19:37:17.786Z",
+  "fetchedAt": "2026-07-26T21:13:04.198Z",
   "sections": {
     "world": [
       {
-        "title": "Typhoon Noul forces cancellation of Malaysia Airlines flights between KL, Shenzhen, Hong Kong",
-        "description": "PETALING JAYA: Malaysia Airlines has cancelled selected flights from Kuala Lumpur to Shenzhen and Hong Kong due to adverse weather conditions caused by Typhoon Noul.",
-        "url": "https://www.thestar.com.my/news/nation/2026/07/26/typhoon-noul-causes-malaysia-airlines-to-cancel-selected-flights-between-kl-shenzhen-hong-kong",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/26/4028593.JPG",
-        "publishedAt": "2026-07-26T07:37:00Z",
+        "title": "Wildfires in France and Spain force more than 300,000 people to flee homes",
+        "description": "Bordeaux mayor says fire is ‘at the gates of the metropolitan area’ while new blaze erupts in Spanish region of Vall d’Uixó near Valencia",
+        "url": "https://www.irishtimes.com/world/europe/2026/07/26/wildfires-in-france-and-spain-force-more-than-300000-people-to-flee-homes/",
+        "image": "https://www.irishtimes.com/resizer/v2/PE6OQZNYTPPSW4H2UDGXC4VJRA.jpg?smart=true&auth=746674c3ca9f317df617aaa4fbfa351f0e1a82aab6d1490a71cb49fcd9b2412c&width=1200&height=630",
+        "publishedAt": "2026-07-26T09:12:15Z",
+        "source": "The Irish Times"
+      },
+      {
+        "title": "Style Kamikaze Sea Drones During Pacific SINKEX",
+        "description": "Sailing past the impact holes left by Harpoon, Spike, and LRASM missiles, two U.S. Navy one-way attack surface drones closed in on a decommissioned amphibious assault ship before detonating at the ship's waterline.",
+        "url": "https://www.navalnews.com/naval-news/2026/07/u-s-navy-deploys-ukraine-style-kamikaze-sea-drones-during-pacific-sinkex/",
+        "image": "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-032625-1024x536.png",
+        "publishedAt": "2026-07-26T09:11:49Z",
+        "source": "navalnews.com"
+      },
+      {
+        "title": "Iran Threatens Retaliation Following Ukrainian Strike in Caspian Sea",
+        "description": "Iran’s Foreign Ministry condemned a Ukrainian drone strike on a vessel in the Caspian Sea, stating Tehran reserves the right to defend its security and take appropriate action.",
+        "url": "https://www.kyivpost.com/post/81090",
+        "image": "https://static.kyivpost.com/storage/2026/07/26/fd089de4e653b1abaffd5bec6f35b3df.jpg?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-07-26T09:10:26Z",
+        "source": "Kyiv Post"
+      },
+      {
+        "title": "Chinese family reunites with daughter decades after she vanished from market near home",
+        "description": "Netizens voice scepticism; users question why the dad let a toddler buy food alone, fuelling speculation of a regretted abandonment",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/26/chinese-family-reunites-with-daughter-decades-after-she-vanished-from-market-near-home",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/26/4023032.jpg",
+        "publishedAt": "2026-07-26T09:07:00Z",
         "source": "The Star"
       },
       {
-        "title": "China's New AI Alliance: Why WAICO Could Reshape Global AI Governance",
-        "description": "Discover how China's new WAICO initiative aims to reshape global AI governance, empower the Global South, and challenge Western leadership in AI policy.",
-        "url": "https://moderndiplomacy.eu/2026/07/26/chinas-new-ai-alliance-why-waico-could-reshape-global-ai-governance/",
-        "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/07/Xi-Jinping-1.jpg",
-        "publishedAt": "2026-07-26T07:33:40Z",
-        "source": "Modern Diplomacy"
+        "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+        "description": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+        "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/873A1583-copy-1785046158.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-26T09:04:05Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "‘He spoke briefly, then fired’: Punjabi woman shot dead in targeted Toronto attack",
-        "description": "A 26-year-old woman of Punjabi origin was shot dead in Canada's Toronto by a 37-year-old man of Punjabi descent.",
-        "url": "https://www.tribuneindia.com/news/diaspora/woman-from-punjab-living-in-toronto-shot-dead/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBiMGY1ZGMwLTg4YzQtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-        "publishedAt": "2026-07-26T07:31:32Z",
-        "source": "The Tribune"
+        "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+        "description": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+        "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+        "image": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-facebookJumbo.jpg",
+        "publishedAt": "2026-07-26T09:02:04Z",
+        "source": "The New York Times"
       },
       {
-        "title": "President felicitates Maldives leadership on Independence Day",
-        "description": "President Asif Ali Zardari, Sunday, extended felicitations to the President of the Republic of Maldives Dr Mohamed Muizzu, the Government and people on their Independence Day.",
-        "url": "https://www.app.com.pk/national/president-felicitates-maldives-leadership-on-independence-day/",
-        "image": "https://www.app.com.pk/wp-content/uploads/2026/04/2206627-asif-ali-zardari-1-2.webp",
-        "publishedAt": "2026-07-26T07:30:22Z",
-        "source": "| Associated Press Of Pakistan"
+        "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
+        "description": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
+        "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
+        "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25DC-PREXY-1-qphz/25DC-PREXY-1-qphz-facebookJumbo.jpg",
+        "publishedAt": "2026-07-26T09:01:50Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Police identify suspect in Berlin pride van attack which left one person dead",
-        "description": "Earlier, police said some of the victims had life-threatening injuries.",
-        "url": "https://www.breakingnews.ie/world/police-identify-suspect-in-berlin-pride-van-attack-which-left-one-person-dead-1931937.html",
-        "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMjYwNTQ3NThcXFwvNTkwMDM4NTU0YjA3NDc1MTk4YTlhY2ZiYWE2Y2YxMDYtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzYjY2ZGQ4MDFlMjQwNjllZjRiNWIyNTA0Y2VkYjdlN2ZhNjM0MjEifQ==/police-identify-suspect-in-berlin-pride-van-attack-which-left-one-person-dead.jpg",
-        "publishedAt": "2026-07-26T07:30:21Z",
-        "source": "BreakingNews.ie"
-      },
-      {
-        "title": "Most Ethnically Diverse Countries In The World",
-        "description": "Most of the world's most culturally heterogeneous countries are found in Sub-Saharan Africa. Learn more about the world's most ethnically diverse countries.",
-        "url": "https://www.worldatlas.com/society/most-ethnically-diverse-countries-in-the-world-58530.html",
-        "image": "https://www.worldatlas.com/r/w1200-q80/upload/13/d8/39/shutterstock-2024540993-s3cdn.jpg",
-        "publishedAt": "2026-07-26T07:30:00Z",
-        "source": "WorldAtlas"
-      },
-      {
-        "title": "Iran ended visa-free entry for Indians, and it wasn't the only country to tighten travel rules in 2026; three more countries quietly followed",
-        "description": "For Indian travellers, visa-free travel has long been one of the biggest factors when choosing an international holiday. It saves time, reduces paperwork and makes spontaneous trips much easier. However, 2026 has brought a few surprises as four countries that were previously visa-free for Indian passport holders have now changed their rules. In a recent update, Iran, Bolivia, Cape Verde (Cabo Verde) and Nicaragua, have revised their immigration policies for Indian citizens this year. Let’s find out what it means.",
-        "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/iran-ended-visa-free-entry-for-indians-and-it-wasnt-the-only-country-to-tighten-travel-rules-in-2026-three-more-countries-quietly-followed/photostory/132637875.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132637990,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-26T07:29:24Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "South Africa's migrant exodus leaves employers short-handed",
-        "description": "Similar scenes are playing out across South Africa as factories, farms and even ordinary households scramble for labour after thousands of foreign workers left in a matter of weeks to escape deadly anti-migrant protests and intensified immigration enforcement.",
-        "url": "https://citizen.digital/article/south-africas-migrant-exodus-leaves-employers-short-handed-n387133",
-        "image": "https://assets.citizen.digital/172088/conversions/46fd7f0a-271b-46e4-84fe-196395bce04f_AFP__20260723__C2Y394A__v4__HighRes__TopshotSafricaUnrestPoliticsMigration-og_image.webp",
-        "publishedAt": "2026-07-26T07:28:09Z",
-        "source": "Citizen Digital"
+        "title": "IOM Trains Horn of Africa Journalists on Migration Reporting",
+        "description": "Regional workshop in Djibouti strengthens ethical, accurate and data-driven coverage of migration along the Eastern Route",
+        "url": "https://www.dawan.africa/news/iom-trains-horn-of-africa-journalists-on-migration-reporting",
+        "image": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgClAZ1iF2I6qMAbvVFftBSWlwzcNGZkDUg5PX",
+        "publishedAt": "2026-07-26T08:59:19Z",
+        "source": "Dawan Africa"
       }
     ],
     "business": [
       {
-        "title": "Gen Vehicles Based on Nissan OS, Aiming for August Agreement to Challenge U.S. and Chinese Rivals — BigGo Finance",
-        "description": "Honda Motor and Nissan Motor have solidified plans to co-develop the basic software (OS) for next-generation Software-Defined Vehicles (SDVs) using…",
-        "url": "https://finance.biggo.com/news/61d8db8c-9cc0-4110-a22d-cea19bf13968",
-        "image": "https://img.biggo.com/51RC3w9B3XuLo12r7EMumxuCwh3DMhwp07IhwHlf_z4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzYxZDhkYjhjLTljYzAtNDExMC1hMjJkLWNlYTE5YmYxMzk2OF8xNzg1MDUxNzIyX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-07-26T07:35:00Z",
-        "source": "finance.biggo.com"
-      },
-      {
-        "title": "Why is SHIB up 35%? Shiba Inu rockets higher as S.Korean traders lead mystery rally",
-        "description": "The rally has no announcement behind it, other dog tokens haven't matched it, and Korean venues are carrying the volume.",
-        "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/314f5020354797282c2c4a4902e12966c1ed7f78-720x406.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-07-26T07:32:34Z",
-        "source": "CoinDesk"
-      },
-      {
-        "title": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
-        "description": "Palantir stock is down 30% so far in 2026, and more selling pressure could be on the way.",
-        "url": "https://www.fool.com/investing/2026/07/26/prediction-palantir-stock-will-drop-to-this-price/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880493%2Fpalantir-logo-tmf.png&w=1200&op=resize",
-        "publishedAt": "2026-07-26T07:30:15Z",
+        "title": "Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)",
+        "description": "Under Greg Abel, Berkshire Hathaway has taken a sizable stake in Google-parent Alphabet.",
+        "url": "https://www.fool.com/investing/2026/07/26/greg-abel-tripled-stake-megacap-ai-stock-not-apple/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880601%2Finvestor-16.jpg&w=1200&op=resize",
+        "publishedAt": "2026-07-26T09:12:43Z",
         "source": "The Motley Fool"
       },
       {
-        "title": "Jersey Mike’s founder, Pete, bought the company at 17 with the help of a former coach and $125K loan",
-        "description": "Peter Cancro had worked at the Jersey Shore sub shop since he was 14; the six-figure loan would be worth $775,000 today.",
-        "url": "https://fortune.com/2026/07/26/jersey-mikes-founder-peter-cancro-125000-loan-football-coach-sub-shop-national-chain/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2187942083-e1784922454737.jpg?resize=1200,600",
-        "publishedAt": "2026-07-26T07:30:00Z",
-        "source": "Fortune"
+        "title": "Israel \"Izzy\" Englander Increased His Position in This Pharma Stock by 780%. Does He Know Something Wall Street Doesn't?",
+        "description": "Analysts aren't nearly as bullish about Bristol Myers Squibb as this billionaire hedge fund manager is.",
+        "url": "https://www.fool.com/investing/2026/07/26/israel-izzy-englander-increased-his-position-in-th/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877980%2Fisrael-englander_millennium-management_founder-ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
+        "publishedAt": "2026-07-26T09:12:40Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "$950 bil. chip partnerships reinforce Korea's place in global AI supply chain",
-        "description": "Korea's major semiconductor makers and other top tech companies have agreed on partnerships worth a total $950 billion with global Big Tech firms d...",
-        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/950-bil-chip-partnerships-reinforce-koreas-place-in-global-ai-supply-chain",
-        "image": "https://newsimg.koreatimes.co.kr/2026/07/26/b240baf5-a2cf-4cfb-8d66-cdb67ac9755d.jpg",
-        "publishedAt": "2026-07-26T07:22:02Z",
-        "source": "The Korea Times"
+        "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+        "description": "JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denial of Service attacks. Present for sixteen years, it affects nu",
+        "url": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/",
+        "image": "https://res.infoq.com/news/2026/07/pixelsmash-vulnerability/en/headerimage/generatedHeaderImage-1785042241189.jpg",
+        "publishedAt": "2026-07-26T09:09:07Z",
+        "source": "infoq.com"
       },
       {
-        "title": "Households with savings accounts issued £1,000 warning",
-        "description": "A savings expert warns that savers could unwittingly land themselves a tax bill",
-        "url": "https://www.express.co.uk/finance/personalfinance/2232123/households-savings-accounts-issued-1000",
-        "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7057282.jpg",
-        "publishedAt": "2026-07-26T07:21:00Z",
-        "source": "Daily Express"
+        "title": "Baguio plans registration of short-term rentals to curb scams",
+        "description": "Baguio LGU plans to require all short-term rental accommodations to register before they can be listed on official tourism platforms.",
+        "url": "https://newsinfo.inquirer.net/2270754/baguio-plans-registration-of-short-term-rentals-to-curb-scams",
+        "image": "https://newsinfo.inquirer.net/files/2026/07/Baguio-BurnhamPark-26July2026-scaled.png",
+        "publishedAt": "2026-07-26T09:09:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "Households with savings accounts issued £1,000 warning",
-        "description": "A savings expert warns that savers could unwittingly land themselves a tax bill",
-        "url": "https://www.aol.co.uk/articles/households-savings-accounts-issued-1-072100000.html",
-        "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-        "publishedAt": "2026-07-26T07:21:00Z",
-        "source": "AOL.co.uk"
+        "title": "The 8 Best Stocks to Buy on Alphabet's Surging Capex",
+        "description": "These AI stocks should directly benefit from Alphabet's increasing capex.",
+        "url": "https://www.fool.com/investing/2026/07/26/the-8-best-stocks-to-buy-on-alphabets-surging-cape/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880372%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
+        "publishedAt": "2026-07-26T09:08:24Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Residents cash in on Dubai real estate as Middle East war hits property demand",
-        "description": "The outbreak of the Middle East war in late February has dampened growth in Dubai’s property market.",
-        "url": "https://www.thejournal.ie/dubai-property-prices-falling-7113473-Jul2026/",
-        "image": "https://img2.thejournal.ie/article/7113473/river/?height=400&version=7113476",
-        "publishedAt": "2026-07-26T07:19:00Z",
-        "source": "The Journal"
+        "title": "Ryanair flight FR661 declared an emergency over Irish Sea on approach to Dublin",
+        "description": "A Ryanair flight from Birmingham was forced to declare an in-flight emergency on approach to Dublin Airport before landing safely.",
+        "url": "https://airlive.net/emergency/2026/07/26/ryanair-flight-fr661-declared-an-emergency-over-irish-sea-on-approach-to-dublin/",
+        "image": "https://airlive.net/wp-content/uploads/2026/07/FR661.jpg",
+        "publishedAt": "2026-07-26T09:06:13Z",
+        "source": "airlive"
+      },
+      {
+        "title": "FB Financial (FBK) Earnings Strength Puts Valuation Back In Focus",
+        "description": "FB Financial (FBK) is back in focus after reporting second quarter 2026 results that showed higher net interest income and net income year over year, alongside an affirmed quarterly dividend of $0.21 per share.\nSee our latest analysis for FB Financial.\nAt a share price of $59.10, FB Financial has posted a 30 day share price return of 5.74% and an 8.82% gain over 90 days. Its 1 year total shareholder return of 22% and 3 year total shareholder return of 78.06% point to momentum that recent...",
+        "url": "https://simplywall.st/stocks/us/banks/nyse-fbk/fb-financial/news/fb-financial-fbk-earnings-strength-puts-valuation-back-in-fo",
+        "image": "https://images.simplywall.st/asset/industry/7013000-choice1-main-header/1585186561056",
+        "publishedAt": "2026-07-26T09:06:00Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Kenvue (KVUE) Gains FDA Backing As Valuation Questions Return",
+        "description": "The FDA’s approval of Tylenol with Naproxen has put Kenvue (KVUE) back in the spotlight, as investors weigh what this new over the counter pain reliever might mean for the stock.\nSee our latest analysis for Kenvue.\nThe FDA approval follows a period of building momentum in Kenvue’s share price, with an 11.32% year-to-date share price return and a 9.98% 90-day share price return, even as the 1-year total shareholder return declined 11.67%.\nIf this kind of catalyst has caught your attention, it...",
+        "url": "https://simplywall.st/stocks/us/household/nyse-kvue/kenvue/news/kenvue-kvue-gains-fda-backing-as-valuation-questions-return",
+        "image": "https://images.simplywall.st/asset/company-cover/1820759186-main-header/1756203109122",
+        "publishedAt": "2026-07-26T09:05:54Z",
+        "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+        "description": "Master FAIRChem v2 with our tutorial on integrating UMA for diverse computational chemistry workflows and GPU acceleration.",
+        "url": "https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-4.png",
+        "publishedAt": "2026-07-26T08:38:09Z",
+        "source": "MarkTechPost"
+      },
+      {
+        "title": "The last Space Shuttle returned to Earth 15 years ago",
+        "description": "So, how are those commercial replacements working out for you, NASA?",
+        "url": "https://www.theregister.com/science/2026/07/26/the-last-space-shuttle-returned-to-earth-15-years-ago/5277279",
+        "image": "https://image.theregister.com/231341.jpg?imageId=231341&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-26T08:30:00Z",
+        "source": "The Register"
+      },
+      {
+        "title": "Astronomers Are Finding More \"Dark Comets\" Hiding in Plain Sight Near Earth",
+        "description": "The Solar System is full of the ghostly remnants of its violent birth.",
+        "url": "https://www.sciencealert.com/a-near-earth-asteroid-turned-out-to-be-an-eerie-dark-comet-with-major-implications-for-planetary-defense",
+        "image": "https://www.sciencealert.com/images/2026/07/Untitled-design-31.jpg",
+        "publishedAt": "2026-07-26T08:03:45Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "The Sky Today on Sunday, July 26: Juno at opposition",
+        "description": "Main-belt asteroid 3 Juno reaches opposition today, although you might have to dodge the nearby bright Moon to spot it.",
+        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-july-26-2026/",
+        "image": "https://www.astronomy.com/wp-content/uploads/2026/07/07262026.png?resize=1200,630",
+        "publishedAt": "2026-07-26T08:01:26Z",
+        "source": "Astronomy Magazine"
+      },
+      {
+        "title": "Scientists just found sugar in space. Here's why that matters",
+        "description": "It's a sweet discovery that has the science world talking — and may help us better understand the origins of life on Earth.",
+        "url": "https://www.cbc.ca/news/science/sugar-in-space-life-on-earth-9.7281908",
+        "image": "https://i.cbc.ca/ais/3ae5a5b9-f578-469e-ac52-c53251db5bc5,1784855020725/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
+        "publishedAt": "2026-07-26T08:00:00Z",
+        "source": "CBC"
+      },
+      {
+        "title": "Science word of the day: Cenozoic",
+        "description": "What does 'Cenozoic' mean?",
+        "url": "https://www.livescience.com/planet-earth/evolution/science-word-of-the-day-cenozoic",
+        "image": "https://cdn.mos.cms.futurecdn.net/gLtqQHfc4wahZpqzmxwKyA-2000-80.jpg",
+        "publishedAt": "2026-07-26T08:00:00Z",
+        "source": "Live Science"
+      },
+      {
+        "title": "Elon Musk Says Mars Could Shield Humanity From Deadly Pandemics, Rogue AI",
+        "description": "Elon Musk argues that Mars can serve as a buffer against Earth threats, with SpaceX's goal to make space travel accessible to all.",
+        "url": "https://www.benzinga.com/markets/tech/26/07/60685670/elon-musk-mars-humanity-shield-pandemics-rogue-ai",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/26/Elon-Musk.jpg",
+        "publishedAt": "2026-07-26T07:52:28Z",
+        "source": "Benzinga"
+      },
       {
         "title": "Jupiter's moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth's oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier talle",
         "description": "The frozen crust of Europa may be thicker than scientists hoped, potentially making any mission to reach the hidden ocean beneath even more challenging than previously thought.",
@@ -142,128 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_europa_junocam_nasa.jpg",
         "publishedAt": "2026-07-26T07:30:08Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Scientists found that Japanese horseshoe bats living together in crowded colonies solve a noisy sonar problem by gradually shifting their echolocation calls to match each other's frequency",
-        "description": "Science News: Bats rely on echolocation to move through the dark and hunt insects. They send out high-pitched sound waves that bounce off nearby objects and return .",
-        "url": "https://timesofindia.indiatimes.com/science/scientists-found-that-japanese-horseshoe-bats-living-together-in-crowded-colonies-solve-a-noisy-sonar-problem-by-gradually-shifting-their-echolocation-calls-to-match-each-others-frequency/articleshow/132636984.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132637367,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-26T07:15:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "India shines as Space Station captures thunderstorms lighting up Gulf of Mannar",
-        "description": "A time-lapse from the International Space Station shows India and Sri Lanka glowing at night as thunderstorms flash over the Gulf of Mannar and the Bay of Bengal.",
-        "url": "https://www.indiatoday.in/science/story/india-shines-as-space-station-captures-thunderstorms-lighting-up-gulf-of-mannar-2956552-2026-07-26",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/india-sri-lanka-from-space-265724425-16x9_0.png?VersionId=h2J4.Hmf8PI1wln4G6yhXccw4e0XslXU",
-        "publishedAt": "2026-07-26T06:53:01Z",
-        "source": "India Today"
-      },
-      {
-        "title": "Amateur's Google Maps find in Canada is now a confirmed 390-million-year-old impact crater",
-        "description": "Scientists have confirmed the site of a massive ancient meteor impact after an amateur astronomer spotted a mysterious 15-mile-wide circular formation on Google Maps.",
-        "url": "https://www.thecooldown.com/green-tech/canada-meteor-impact-crater-discovery/",
-        "image": "https://www.thecooldown.com/wp-content/uploads/2026/07/canada-meteor-impact-craterimage-recMxPJbfI1lylc5U-1.jpg",
-        "publishedAt": "2026-07-26T06:33:00Z",
-        "source": "The Cool Down"
-      },
-      {
-        "title": "How Long Could You Survive in Space?",
-        "description": "Learn how long you could survive in space without protection and how spacesuits extend survival during astronaut emergencies.",
-        "url": "https://www.worldatlas.com/space/how-long-could-you-survive-in-space.html",
-        "image": "https://www.worldatlas.com/r/w1200-q80/upload/b2/69/ff/astronaut-shutterstock-2743333651-s3cdn.jpg",
-        "publishedAt": "2026-07-26T06:30:00Z",
-        "source": "WorldAtlas"
-      },
-      {
-        "title": "A 360° View: NASA astronaut Anil Menon shares \"breathtaking\" glimpse from the ISS Cupola",
-        "description": "NASA astronaut Anil Menon has shared a breathtaking 360° glimpse from the ISS Cupola. Here's why the station's iconic observation module is vital for Earth observations, robotics and life aboard the International Space Station.",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/a-360-view-nasa-astronaut-anil-menon-shares-breathtaking-glimpse-from-the-iss-cupola-article-13983700.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260726060446_Anil-NASA.png",
-        "publishedAt": "2026-07-26T06:06:31Z",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Total Solar Eclipse ‘Map Of Nope’ Meme Is A Must-See Before August",
-        "description": "The \"Map of Nope\" meme highlights a crucial distinction about total solar eclipses: unless you are in the path of totality, you will not experience totality.",
-        "url": "https://www.forbes.com/sites/jamiecartereurope/2026/07/26/total-solar-eclipse-map-of-nope-meme-is-a-must-see-before-august/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a5ceff166e069f0e1daa6d6/0x0.jpg?format=jpg&crop=1583,890,x0,y1031,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-26T06:00:00Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Did a Sun-like star quietly swallow one of its own planets, leaving behind a spike of lithium it should have lost long ago?",
-        "description": "An aging star has far more lithium than it should. Astronomers say the likeliest reason is that TOI-5882 swallowed one of its own planets, though they call it a candidate, not a verdict.",
-        "url": "https://spacedaily.com/s-did-a-sun-like-star-quietly-swallow-one-of-its-own-planets-leaving-behind-a-spike-of-lithium-it-should-have-lost-long-ago/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/star-devouring-a-planet-1600x840-1.jpg",
-        "publishedAt": "2026-07-26T06:00:00Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
       {
-        "title": "China's New AI Alliance: Why WAICO Could Reshape Global AI Governance",
-        "description": "Discover how China's new WAICO initiative aims to reshape global AI governance, empower the Global South, and challenge Western leadership in AI policy.",
-        "url": "https://moderndiplomacy.eu/2026/07/26/chinas-new-ai-alliance-why-waico-could-reshape-global-ai-governance/",
-        "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/07/Xi-Jinping-1.jpg",
-        "publishedAt": "2026-07-26T07:33:40Z",
-        "source": "Modern Diplomacy"
-      },
-      {
-        "title": "AI Agents for Business in 2026: Use Cases, Costs, and How to Build One",
-        "description": "AI agents are software systems that use large language models to plan and complete multi step business tasks on their own,",
-        "url": "https://techbullion.com/ai-agents-for-business-in-2026-use-cases-costs-and-how-to-build-one/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/07/unnamed-60-1000x600.jpg",
-        "publishedAt": "2026-07-26T07:32:14Z",
-        "source": "TechBullion"
-      },
-      {
-        "title": "Portugal has energy for data centers. But will it have a network to connect them?",
-        "description": "Today, the equation has changed. Artificial intelligence, cloud computing and the exponential growth in the volume of data have made energy the main decision",
-        "url": "https://www.europesays.com/3154681/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/07/server-room-data-center-networking-database-co-2026-01-09-10-39-47-utc.jpg",
-        "publishedAt": "2026-07-26T07:27:18Z",
-        "source": "EUROPE SAYS"
-      },
-      {
-        "title": "$950 bil. chip partnerships reinforce Korea's place in global AI supply chain",
-        "description": "Korea's major semiconductor makers and other top tech companies have agreed on partnerships worth a total $950 billion with global Big Tech firms d...",
-        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/950-bil-chip-partnerships-reinforce-koreas-place-in-global-ai-supply-chain",
-        "image": "https://newsimg.koreatimes.co.kr/2026/07/26/b240baf5-a2cf-4cfb-8d66-cdb67ac9755d.jpg",
-        "publishedAt": "2026-07-26T07:22:02Z",
-        "source": "The Korea Times"
-      },
-      {
-        "title": "AI-Generated Mental Health Advice Misjudged Due To Differences In Stateless Versus Contextual Evaluations",
-        "description": "Evaluations of AI dispensing mental health advice are often done in a manner that is radically different from real world usage. I showcase this. An AI Insider scoop.",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/07/26/ai-generated-mental-health-advice-misjudged-due-to-differences-in-stateless-versus-contextual-evaluations/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68797cd50bf968bfbc5e634e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-26T07:15:00Z",
-        "source": "Forbes"
-      },
-      {
-        "title": "Britain bets on chips to power its AI ambitions",
-        "description": "Britain's new government is wagering that silicon, not software alone, will determine its place in the global AI race. Prime Minister Andy Burnham's administration is folding chip manufacturing,...",
-        "url": "https://www.thenews.com.pk/latest/1410269-britain-bets-on-chips-to-power-its-ai-ambitions",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-07-26/1410269_121747_updates.jpg",
-        "publishedAt": "2026-07-26T07:08:56Z",
-        "source": "The News International"
-      },
-      {
-        "title": "Meta AI Rolls Out New Agentic Features Powered By Muse Spark 1.1 Model: How They Work",
-        "description": "Meta has introduced new AI features powered by Muse Spark 1.1 that let Meta AI handle multi-step tasks, conduct research, generate slides and provide scheduled updates in select markets., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/meta-ai-rolls-out-new-agentic-features-powered-by-muse-spark-1-1-model-how-they-work-article-155180415",
-        "image": "https://images.timesnownews.com/thumb/msid-155180417,thumbsize-1643721,width-1280,height-720,resizemode-75/155180417.jpg",
-        "publishedAt": "2026-07-26T07:02:53Z",
+        "title": "Meta Pauses $20 Monthly Fee For AI Glasses Feature That Makes Voices Clearer: Report",
+        "description": "Meta has reportedly paused its $20/month subscription test for Conversation Focus, an AI glasses feature that helps users hear conversations better, after facing criticism over charging for an on-device feature., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/meta-pauses-20-monthly-fee-for-ai-glasses-feature-that-makes-voices-clearer-report-article-155181019",
+        "image": "https://images.timesnownews.com/thumb/msid-155181037,thumbsize-2199030,width-1280,height-720,resizemode-75/155181037.jpg",
+        "publishedAt": "2026-07-26T09:09:25Z",
         "source": "Times Now"
       },
       {
-        "title": "Data centers are actually making your electric bill cheaper-but sinking AI demand could change that",
-        "description": "From 2015 to 2024, average retail electricity prices decreased by 3.5% for every doubling of data center capacity, new research finds.",
-        "url": "https://fortune.com/2026/07/26/data-centers-electricity-costs-cheaper-7billion-buildout-ai-demand/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286055633-e1784842097785.jpg?resize=1200,600",
-        "publishedAt": "2026-07-26T07:00:00Z",
-        "source": "Fortune"
+        "title": "Ariana Grande, Celine Dion, Katy Perry and more: Musicians who slammed the White House over unauthorised use of their songs",
+        "description": "Over the past couple of years, a lot of musicians have called out the White House publicly for unauthorized use of their songs. From Ariana Grande and Celine Dion to Foo Fighters, ABBA, and more. Many stars have slammed the Trump administration over using their songs in videos and clip compilations of officers, military strikes, as well as AI-generated videos. Here is a list of many of the celebrities who have slammed the Trump administration for using their songs to promote their content.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-celine-dion-katy-perry-and-more-musicians-who-slammed-the-white-house-over-unauthorised-use-of-their-songs/photostory/132638834.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132638853,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-26T09:06:29Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento'",
+        "description": "Hey, uh, should AI models be acting like characters in Y2K era noir films?",
+        "url": "https://gizmodo.com/openais-rogue-ai-models-were-reportedly-acting-like-the-guy-from-christopher-nolans-memento-2000790904",
+        "image": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2279684900-1200x675.jpg",
+        "publishedAt": "2026-07-26T09:00:24Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "David Sacks Warns Anthropic Doesn't Want Competition: 'You're Going to Basically Put a Dagger Through the",
+        "description": "Sacks accuses Anthropic of stifling competition in the AI industry, warns against restricting open-source models as it could harm US ecosystem.",
+        "url": "https://www.benzinga.com/markets/tech/26/07/60685709/david-sacks-warns-anthropic-doesnt-want-competition-youre-going-to-basically-put-a-dagger-through-the-heart-of-the-entire-american-open-source-ecosystem",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/26/Anthropic-logo-with-CEO-Dario-Amodei-in-.jpg",
+        "publishedAt": "2026-07-26T08:46:08Z",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Yogi Adityanath on misinformation: Teachers must guide students to credible sources",
+        "description": "UP Chief Minister Yogi Adityanath urged teachers and institutions to help students identify misinformation and verify facts. He said responsible use of social media and artificial intelligence is vital to protect society from hatred and confusion.",
+        "url": "https://www.indiatoday.in/india/story/yogi-adityanath-teachers-students-misinformation-credible-sources-ptag-utrith-2956598-2026-07-26",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/up-cm-yogi-adityanath-232341862-16x9.jpg?VersionId=nfnTXU4raQnGOCJOTVLK8X2B.p76o_kK",
+        "publishedAt": "2026-07-26T08:42:43Z",
+        "source": "India Today"
+      },
+      {
+        "title": "Stop joining group projects with a blurry laptop webcam and buy one of these instead",
+        "description": "From affordable 2K cameras to AI-powered 4K models, these five webcams can sharpen online classes, group projects, presentations, interviews, and dorm-room streams",
+        "url": "https://www.digitaltrends.com/home-theater/stop-joining-group-projects-with-a-blurry-laptop-webcam-and-buy-one-of-these-instead/",
+        "image": "https://www.digitaltrends.com/tachyon/2024/07/logitech-c920-ja-e1721057064501.jpg?resize=1200%2C630",
+        "publishedAt": "2026-07-26T08:37:49Z",
+        "source": "Digital Trends"
+      },
+      {
+        "title": "OpenAI Faces Massive Opposition to Georgia Data Center Negotiated in Secret",
+        "description": "Nearly 1,000 Georgia residents confronted OpenAI and Effingham County officials Thursday about a $20 billion data center project that had been negotiated in secret for months before being announced earlier this week without public input.",
+        "url": "https://www.breitbart.com/tech/2026/07/26/openai-faces-massive-opposition-to-georgia-data-center-negotiated-in-secret/",
+        "image": "https://media.breitbart.com/media/2026/07/Sam-Altman-takes-on-data-center-critics-640x335.jpg",
+        "publishedAt": "2026-07-26T08:35:46Z",
+        "source": "Breitbart News Network"
+      },
+      {
+        "title": "AI spending soars as tech giants keep cutting thousands of jobs",
+        "description": "Billions are flowing into artificial intelligence, but the hiring boom many expected has yet to arrive as major technology companies continue shrinking their workforces.",
+        "url": "https://www.moneycontrol.com/world/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-article-13983752.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611110618_artificial-intelligence.jpg",
+        "publishedAt": "2026-07-26T08:35:45Z",
+        "source": "Moneycontrol"
       }
     ]
   }
