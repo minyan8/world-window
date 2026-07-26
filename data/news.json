@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-07-26T11:38:05.585Z",
+  "fetchedAt": "2026-07-26T14:02:13.416Z",
   "sections": {
     "world": [
       {
-        "title": "Berlin: 1 dead after vehicle drives into CSD Pride event",
-        "description": "Police said around 15 people were injured, some seriously, after a white van struck several people in central Berlin during Pride celebrations, known locally as Christopher Street Day (CSD). A manhunt is underway.",
-        "url": "https://www.dw.com/en/berlin-csd-pride-cancelled-incident/a-78116146",
-        "image": "https://static.dw.com/image/78116434_6.jpg",
-        "publishedAt": "2026-07-25T23:37:30Z",
-        "source": "DW.com"
+        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+        "description": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+        "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-25T192241Z_582494152_RC24LMAFZCMJ_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-PROTEST-1785026366.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-26T01:56:08Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "B2.1bn in land seized in nominee bust",
-        "description": "The Interior Ministry has seized 126 rai of land worth more than 2.1 billion baht in Krabi after uncovering an alleged foreign nominee scheme involving a British national.",
-        "url": "https://www.bangkokpost.com/thailand/general/3291810/b21bn-in-land-seized-in-nominee-bust",
-        "image": "https://static.bangkokpost.com/media/content/20260726/c1_3291810_260726063731_700.jpg",
-        "publishedAt": "2026-07-25T23:33:00Z",
-        "source": "Bangkok Post"
+        "title": "Head of police in northern Gaza killed in Israeli strike",
+        "description": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of ‘spreading chaos’ in the Gaza Strip.",
+        "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_697e06eaa392-1769866986.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-26T01:55:34Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Vehicle mows down crowd at Berlin Pride festival, killing one, injuring 17",
-        "description": "One person has been killed and 17 injured, with some in life-threatening condition, after a vehicle mowed down a crowd near Berlin's Pride celebrations on Saturday evening, setting off a manhunt for the driver, the police and fire brigade said.",
-        "url": "https://www.rnz.co.nz/news/world/797178/vehicle-mows-down-crowd-at-berlin-pride-festival-killing-one-injuring-17",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--DLduvDrv--/t_tohu-badge-facebook/f_auto/q_auto/4JKVWAT_AFP__20260725__C37V29V__v1__HighRes__GermanyLgbtqParadeCsdPolice_jpg",
-        "publishedAt": "2026-07-25T23:31:21Z",
-        "source": "RNZ"
+        "title": "Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes",
+        "description": "Vice President JD Vance and Chairman of the Joint Chiefs of Staff Gen. Dan Caine both raised concerns about escalating the war in Iran as President Donald Trump weighed the possibility during a White House meeting on Friday, a source familiar with the matter and a US official told CNN.",
+        "url": "https://www.cnn.com/2026/07/25/politics/us-iran-strikes-operation",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-07t204221z-74407929-rc2wzjatbv9a-rtrmadp-3-iran-crisis-transfer-usa.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-07-26T01:36:00Z",
+        "source": "CNN"
       },
       {
-        "title": "What I learned when I reopened the Lockerbie bombing files",
-        "description": "The deeper I dug, the more complicated Lockerbie became and there have been times that I don't know what to believe.",
-        "url": "https://www.bbc.com/news/articles/c2dkx01n0y1o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7d53/live/600681f0-869e-11f1-ae19-73b13bb6cb86.jpg",
-        "publishedAt": "2026-07-25T23:31:06Z",
-        "source": "BBC"
+        "title": "Berlin car attack near Gay Pride event",
+        "description": "A car attack near Berlin's Gay Pride event killed one and injured 16, prompting Chancellor Merz to vow swift justice. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/europe/berlin-pride-parade-called-off-after-car-hits-crowds-police-say",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a6c75be3bc7b9671dff3b6181140ee1e1d1d87b0268914fa4cb5995f7ea9f848",
+        "publishedAt": "2026-07-26T01:23:47Z",
+        "source": "The Straits Times"
       },
       {
-        "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
-        "description": "The US military said its naval blockade against Iran “remains in full effect” but did not explain why it halted a streak of 13 nights of escalating strikes.",
-        "url": "https://www.smh.com.au/world/middle-east/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-20260726-p60ile.html",
-        "image": "https://static.ffx.io/images/$zoom_0.1727%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/6cbbbfc96800de250355589b45ab9f6116277d96",
-        "publishedAt": "2026-07-25T23:29:14Z",
-        "source": "SMH.com.au"
+        "title": "1 killed, at least 16 hurt in apparent car-ramming attack at Berlin Gay Pride Parade",
+        "description": "Berlin police says it is hunting for Islamist suspect after white van hit several people before crashing into tree; pride event called off as Merz vows to punish those responsible",
+        "url": "https://www.timesofisrael.com/1-killed-at-least-16-hurt-in-apparent-car-ramming-attack-at-berlin-gay-pride-parade/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260725__C37R9CQ__v1__HighRes__GermanyLgbtqParadeCsdPolice-e1785016129378.jpg",
+        "publishedAt": "2026-07-26T01:23:22Z",
+        "source": "The Times of Israel"
       },
       {
-        "title": "Trump holds off major Iran escalation after Pentagon warns of interceptor shortage",
-        "description": "The US president had weighed a multistage bombing campaign against Iranian military, energy and nuclear targets, but advisers warned that heavier fighting could drain Patriot stocks, expose Gulf bases to retaliation and deepen the region’s energy and refugee crises",
-        "url": "https://www.ynetnews.com/article/r111brtghmg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/BJecEES11rGg/BJecEES11rGg_0_440_2775_1561_0_large.jpg",
-        "publishedAt": "2026-07-25T23:27:33Z",
-        "source": "Ynetnews"
+        "title": "France and Spain fires force more than 200,000 to flee homes",
+        "description": "At least one person has died in a fire in Spain, according to officials.",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7779x4376+0+6/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F56%2F859d072449599d0ba00bcd5bb020%2Fap26206645272115.jpg",
+        "publishedAt": "2026-07-26T01:05:45Z",
+        "source": "NPR"
       },
       {
-        "title": "One dead, 16 injured at Berlin Pride event, police say, after vehicle driven into crowd",
-        "description": "Police launch an intensive manhunt in the German capital and tell people to avoid the area.",
-        "url": "https://www.bbc.co.uk/news/live/c3r2nz9ed3lt",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c15/live/440a96f0-8872-11f1-b8ee-9b3c26ad07bb.jpg",
-        "publishedAt": "2026-07-25T23:20:30Z",
-        "source": "BBC"
+        "title": "Donald Trump concerned over Middle East interceptors, will not escalate with Iran",
+        "description": "According to the officials, recent White House discussions have centered on the depletion of the US's interceptor missiles, particularly since three US soldiers were killed in Jordan.",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-903628",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730235",
+        "publishedAt": "2026-07-26T01:05:08Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Africa Health Security Index Reveals Progress But Preparedness Gaps Persist",
-        "description": "By Jean-Pierre A.",
-        "url": "https://panafricanvisions.com/2026/07/africa-health-security-index-reveals-progress-but-preparedness-gaps-persist/",
-        "image": "https://panafricanvisions.com/wp-content/uploads/2026/07/hopez3.png",
-        "publishedAt": "2026-07-25T23:17:24Z",
-        "source": "pan african visions"
+        "title": "Lebanon yellow zone: Life inside south Lebanon’s ‘yellow zone’ through the eyes of crisis worker Ghenwa Hanna Fara",
+        "description": "As tensions in the Middle East continue to rage, civilians in highly volatile regions have spoken of their growing fear as uncertainty escalates.",
+        "url": "https://www.nine.com.au/world-news/middle-east/lebanon-yellow-zone-life-crisis-worker-ghenwa-hanna-farah-20260722-p60hho.html",
+        "image": "https://static.ffx.io/images/$zoom_1.073%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_13/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/80becb73de3bc479af7aba45d85644d1a5d9238ff6d6200c59daa06a70424446",
+        "publishedAt": "2026-07-26T01:03:28Z",
+        "source": "Nine.com.au"
       }
     ],
     "business": [
       {
-        "title": "Cetirizine hydrochloride tablets recalled after possible contamination raises life-threatening risks",
-        "description": "The problem was noticed after a pharmacy technician counting tablets spotted a red dot on some of them.",
-        "url": "https://www.yahoo.com/news/science/articles/cetirizine-hydrochloride-tablets-recalled-possible-233700429.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/374cc9b9bcbf8412bab068535af90daf8432d9cea2c2074c13f057d1196a8c80/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F1a819b98dbd2be751d58b54afd07bd32",
-        "publishedAt": "2026-07-25T23:37:00Z",
-        "source": "Yahoo"
+        "title": "Sainsbury’s makes major change to tomatoes, cucumbers and peppers",
+        "description": "In early 2023, supermarkets imposed limits of three on various salad items and vegetables when bad weather affected supplies of crops grown abroad.",
+        "url": "https://www.express.co.uk/news/uk/2232973/sainsburys-makes-major-change-tomatoes",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7062007.jpg",
+        "publishedAt": "2026-07-26T01:56:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
-        "description": "Nvidia dominated AI chips, AMD rewarded shareholders, and Intel's surprising rally came from an entirely different story.",
-        "url": "https://www.fool.com/investing/2026/07/25/nvidia-vs-amd-vs-intel-which-one-actually-won-the/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880131%2Fgettyimages-1437903456.jpg&w=1200&op=resize",
-        "publishedAt": "2026-07-25T23:22:04Z",
-        "source": "The Motley Fool"
+        "title": "Greater Bay Area Chief Economists Forum focuses on Asia-Pacific development",
+        "description": "Themed on \"Open Asia-Pacific, Shared Prosperity—APEC 'China Year' and the New Mission of the Greater Bay Area,\" the 8th Greater Bay Area Chief Economists Forum 2026 kicked off in Shenzhen on July 24.",
+        "url": "https://www.newsgd.com/node_99363c4f3b/1c9955ea10.shtml",
+        "image": "https://nfassetoss-eo.southcn.com/__asset/736eb8ae17/19a85c6ed0.png",
+        "publishedAt": "2026-07-26T01:41:56Z",
+        "source": "Guangdong News"
       },
       {
-        "title": "South Korea chipmakers to supply US firms in $950 billion deals",
-        "description": "Rest of World News: South Korean memory chip giants Samsung Electronics and SK hynix will supply US tech companies, including Nvidia, in agreements worth $950 billion, a .",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-korea-chipmakers-to-supply-us-firms-in-950-billion-deals/articleshow/132635194.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132635196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-25T23:17:00Z",
-        "source": "The Times of India"
+        "title": "Forget the next 3 weeks; think about the next 3 years. 5 large-cap stocks with upside potential of up to 31%",
+        "description": "The markets are up one day and down the next, and the bears are all around. How to deal with such volatility? Well, you could watch from the sidelines and wait for things to improve. The problem, however, is that, by the time you figure out things have improved, stock prices would have moved up. So, use the opportunity to look at the underlying business and management of companies you are interested in. If the numbers are good and management has a track record of delivering, ignore everything else. But with some caveats.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/forget-the-next-3-weeks-think-about-the-next-3-years-5-large-cap-stocks-with-upside-potential-of-up-to-31/articleshow/132635519.cms?from=mdr",
+        "image": "https://img.etimg.com/thumb/msid-132635537,width-1070,height-580/premium-articleshow.jpg",
+        "publishedAt": "2026-07-26T01:38:39Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Top 10 Richest Immigrant Billionaires in America",
-        "description": "Discover the top 10 richest immigrant billionaires in America, including Elon Musk and Sergey Brin, and their significant contributions to the U.S. economy",
-        "url": "https://punchng.com/2199430-2/",
-        "image": "https://punchng.com/wp-content/uploads/2026/06/non.webp",
-        "publishedAt": "2026-07-25T23:11:34Z",
-        "source": "Punch Newspapers"
+        "title": "Korea's travel account posts surplus for 3rd consecutive month in May: data",
+        "description": "Korea's travel account posted a surplus for the third consecutive month in May, driven by an increase in foreign visitors, government data showed S...",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260726/koreas-travel-account-posts-surplus-for-3rd-consecutive-month-in-may-data",
+        "image": "https://newsimg.koreatimes.co.kr/2026/07/26/c849543a-aa20-4e73-81ae-c1097bb7ab37.jpg",
+        "publishedAt": "2026-07-26T01:35:02Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "CanadianSME and Enabled Talent Launch Enable Accessibility Canada Inc.",
-        "description": "New national platform will advance accessibility, amplify disability leadership and celebrate the people building a more inclusive Canada",
-        "url": "https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/canadiansme-and-enabled-talent-launch-enable-accessibility-canada-inc/2391543",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/26/1151207.png",
-        "publishedAt": "2026-07-25T23:09:00Z",
-        "source": "The Manila Times"
+        "title": "Former chief of collapsed Grocon building empire declares bankruptcy",
+        "description": "Daniel Grollo, the former chief executive of the collapsed Melbourne building company behind iconic buildings like the Eureka Tower, has declared bankruptcy.",
+        "url": "https://www.theage.com.au/national/victoria/former-chief-of-collapsed-grocon-building-empire-declares-bankruptcy-20260726-p60ily.html",
+        "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_524%2C$y_0/t_crop_custom/q_86%2Cf_auto/5ee95b38ebe758ecd2dfaee178b5a1a9bce58eae",
+        "publishedAt": "2026-07-26T01:33:25Z",
+        "source": "The Age"
       },
       {
-        "title": "Dancebet Betting and Magazine Guide for Smart Players",
-        "description": "Explore Dancebet Betting and Dancebet Magazine to learn about online betting trends, casino games, sports markets, and responsible wagering strategies.",
-        "url": "https://punchng.com/dancebet-betting-and-magazine-guide-for-smart-players/",
-        "image": "https://punchng.com/wp-content/uploads/2026/07/dANCE_1785018120.webp",
-        "publishedAt": "2026-07-25T23:08:41Z",
-        "source": "Punch Newspapers"
+        "title": "Monday.com is the latest tech company to blame AI for layoffs - here are 20 others",
+        "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+        "publishedAt": "2026-07-26T01:30:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
-        "description": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licence",
-        "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
-        "image": "https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e75698721a1f1e2c2376d10188758a3",
-        "publishedAt": "2026-07-25T23:07:00Z",
-        "source": "The Guardian"
+        "title": "The Upsides And Downsides Of Over-The-Air Software Updates For Modern Cars",
+        "description": "Over-the-air updates are increasingly common as cars get more high-tech, but what are the advantages and disadvantages of updating your car remotely?",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/upsides-downsides-over-air-software-012500466.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/70f8a9df9147d767caa1d7b47223cbd326eccb392b392f42c55ace2cc4c40c6f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjalopnik_622%2F82383bdb19b8f528dbf689ff75bae04e",
+        "publishedAt": "2026-07-26T01:25:00Z",
+        "source": "Yahoo Autos"
       },
       {
-        "title": "Kimi K3 Distillation 2026 Faces a 15",
-        "description": "Kimi K3 distillation allegations in 2026 could trigger US sanctions, yet the 15-day Fable timeline leaves the central claim technically unresolved.",
-        "url": "https://memeburn.com/kimi-k3-distillation-2026-faces-a-15-day-evidence-gap/",
-        "image": "https://memeburn.com/wp-content/uploads/2026/07/Kimi-K3-Distillation-2026-Faces-a-15-Day-Evidence-Gap.jpg",
-        "publishedAt": "2026-07-25T22:51:20Z",
-        "source": "Memeburn"
+        "title": "‘Cities prioritise people, not cars’: Indian man in Germany explains why Europe’s quality of life feels different",
+        "description": "An Indian man compared Europe with India and said safer roads, wider pavements and clean parks made everyday life better. | Trending",
+        "url": "https://www.hindustantimes.com/trending/cities-prioritise-people-not-cars-indian-man-in-germany-explains-why-europe-s-quality-of-life-feels-different-101785027884937.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/26/550x309/vdbvfxxvdvdccd_1785028412198_1785028420293_bad6792c-98e9-45bb-b0eb-146d5fe80915.jpg",
+        "publishedAt": "2026-07-26T01:18:26Z",
+        "source": "Hindustan Times"
       }
     ],
     "science": [
+      {
+        "title": "When Mariner 4 sent back the first close-up of Mars in 1965, the printer was too slow for the engineers waiting on it, so they pinned the raw numbers to a wall and coloured them in with pastels bought",
+        "description": "The first photograph of Mars almost never reached the world because a printer was too slow—so NASA scientists grabbed art supplies from a local shop and finished it by hand.",
+        "url": "https://spacedaily.com/b-when-mariner-4-sent-back-the-first-close-up-of-mars-in-1965-the-printer-was-too-slow-for-the-engineers-waiting-on-it-so-they-pinned-the-raw-numbers-to-a-wall-and-coloured-them-in-with-pastels-bought/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/1960s-nasa.png",
+        "publishedAt": "2026-07-26T02:00:39Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Two and a half kilometres beneath the Antarctic ice, a cubic kilometre of frozen water has been wired with 5,160 light sensors, turning the South Pole itself into a telescope that looks down through t",
+        "description": "A neutrino detector buried deep in Antarctic ice is catching ghost particles that pass straight through Earth, revealing violent cosmic events invisible to traditional telescopes.",
+        "url": "https://spacedaily.com/t-icecube-south-pole-neutrino-telescope-through-earth/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-icecube-blue-glacial-ice-20263251.jpg",
+        "publishedAt": "2026-07-26T01:30:47Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "This 518-Million-Year-Old Creature Reveals How Spiders Got Their Bite",
+        "description": "Scientists from the University of Leicester and Yunnan University identified an ancient member of the chelicerate group.",
+        "url": "https://scitechdaily.com/this-518-million-year-old-creature-reveals-how-spiders-got-their-bite/",
+        "image": "https://scitechdaily.com/images/Artists-Impression-of-Urokodia-scaled.jpg",
+        "publishedAt": "2026-07-26T01:29:05Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "The second closest potentially habitable planet to Earth is not around a famous star; it is GJ 887 d, confirmed in 2026 around a quiet red dwarf 10.7 light-years away - making GJ 887 d the second-clos",
+        "description": "The most promising nearby world for life doesn't have a name you'd recognize—just a catalog designation and a star so dim it barely registers in our sky.",
+        "url": "https://spacedaily.com/t-gj-887-d-second-closest-habitable-zone-planet/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-red-nebula-star-field-gj887-representative-1024x576.jpg",
+        "publishedAt": "2026-07-26T00:30:42Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "How to see July's full Buck Moon as it rises in the night sky",
+        "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week.",
+        "url": "https://ca.style.yahoo.com/see-julys-full-buck-moon-000314204.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/7a690267857efd512ea8df952230607de4cbf13f7ba02be653ab336c261abe71/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc0524e04b1f76a08528450e01384cd60",
+        "publishedAt": "2026-07-26T00:03:00Z",
+        "source": "Yahoo Lifestyle Canada"
+      },
       {
         "title": "A star near the centre of our galaxy reaches almost 3 per cent of the speed of light as it is whipped around something four million times the mass of the Sun that emits no light of its own — and track",
         "description": "Decades of watching a star dance around an invisible cosmic anchor proved what physics predicted and earned astronomy's highest honour.",
@@ -158,112 +198,72 @@
         "image": "https://www.thebrighterside.news/uploads/2026/07/galaxy-1-e1784932860473.jpeg?auto=webp",
         "publishedAt": "2026-07-25T23:07:00Z",
         "source": "The Brighter Side of News"
-      },
-      {
-        "title": "Forgotten for 20 Years, This 240-Million-Year-Old Fossil Reveals a New Reptile Species",
-        "description": "Fragmentary bones from Brazil reveal a new Triassic reptile close to the lineage that preceded dinosaurs and crocodiles.",
-        "url": "https://scitechdaily.com/forgotten-for-20-years-this-240-million-year-old-fossil-reveals-a-new-reptile-species/",
-        "image": "https://scitechdaily.com/images/Rediscovered-Silescelida-Acristata-Fossil-Bones.jpg",
-        "publishedAt": "2026-07-25T22:55:00Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "UC Irvine's Conductive Polymer Bio-Outlet Delivers 16 Mbps Data Stream to Neural Implants",
-        "description": "Implantable bioelectric outlet keeps medical devices sealed beneath skin",
-        "url": "https://www.techradar.com/pro/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-power-but-transfers-data-at-16mbps",
-        "image": "https://cdn.mos.cms.futurecdn.net/PBQNjLZjW72WPAzrWm6QLf-1920-80.png",
-        "publishedAt": "2026-07-25T22:50:00Z",
-        "source": "TechRadar"
-      },
-      {
-        "title": "Inside the High-Tech Effort to Keep Satellites Alive",
-        "description": "A two-armed space robot blasted off on a private salvage operation Tuesday to slap life-extending jetpacks on old satellites running low on fuel thousands of miles up. It's...",
-        "url": "https://www.newser.com/story/393267/inside-the-high-tech-effort-to-keep-satellites-alive.html",
-        "image": "https://cdn.newser.com/image/1700175-12-20260725173003.jpeg",
-        "publishedAt": "2026-07-25T22:00:00Z",
-        "source": "Newser"
-      },
-      {
-        "title": "Psyche spacecraft rehearses asteroid science at Mars",
-        "description": "NASA's Psyche spacecraft aimed every instrument at Mars during its May gravity assist. The flyby was a rehearsal for the metal asteroid it reaches in 2029.",
-        "url": "https://www.earth.com/news/nasas-psyche-spacecraft-spent-a-month-studying-planet-it-was-never-sent-to-visit/",
-        "image": "https://cff2.earth.com/uploads/2026/07/25175306/mars-surface-flyby_nasa-psyche-mission_1m.jpg",
-        "publishedAt": "2026-07-25T21:57:26Z",
-        "source": "Earth.com"
-      },
-      {
-        "title": "Scientists spot evidence of 2 huge companion stars that blew up",
-        "description": "Scientists now for the first time have discovered evidence of two such massive stars from a binary system that both ran out of fuel and exploded \\u200cviolently within a relatively short time.",
-        "url": "https://www.ksl.com/article/51600379/scientists-spot-evidence-of-2-huge-companion-stars-that-blew-up",
-        "image": "https://img.ksl.com/slc/3195/319520/31952095.JPG?filter=kslv2/responsive_story_lg",
-        "publishedAt": "2026-07-25T21:45:08Z",
-        "source": "KSL.com"
       }
     ],
     "ai": [
       {
-        "title": "My son graduated with a top degree but his graduate job was pulled because of AI - please help",
-        "description": "APPRENTICE star and West Ham United vice-chair Karren Brady answers your careers questions.\nHere, Karren  gives her expert advice to a reader...",
-        "url": "https://www.thesun.co.uk/fabulous/39832902/son-top-degree-job-pulled-ai-karren-brady/",
-        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-38819480.jpg?quality=90&strip=all&1784674561&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-07-25T23:01:00Z",
-        "source": "The Sun"
+        "title": "Why ASEAN Must Prepare for AI Threats That Will Not Wait for Consensus",
+        "description": "In July 2026, OpenAI models undergoing an internal cyber evaluation escaped the intended boundaries of the test and compromised parts of Hugging Face’s production infrastructure.",
+        "url": "https://moderndiplomacy.eu/2026/07/26/why-asean-must-prepare-for-ai-threats-that-will-not-wait-for-consensus/",
+        "image": "https://moderndiplomacy.eu/wp-content/uploads/2021/09/data-banking.jpg",
+        "publishedAt": "2026-07-26T01:30:26Z",
+        "source": "Modern Diplomacy"
       },
       {
-        "title": "Lee says emergence of AI era offers Korea new opportunity",
-        "description": "SAN FRANCISCO — President Lee Jae Myung said Saturday that the emergence of an artificial intelligence (AI) era offers a new opportunity for Korea,...",
-        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/lee-says-emergence-of-ai-era-offers-korea-new-opportunity",
-        "image": "https://newsimg.koreatimes.co.kr/2026/07/26/3a907d1f-448f-4772-a55c-b5063a5e8724.jpg",
-        "publishedAt": "2026-07-25T22:46:03Z",
-        "source": "The Korea Times"
+        "title": "Monday.com is the latest tech company to blame AI for layoffs - here are 20 others",
+        "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+        "publishedAt": "2026-07-26T01:30:00Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Through the looking glass: smartglasses face scrutiny",
-        "description": "Wearing cameras and speakers powered by artificial intelligence comes with benefits but critics warn it also presents serious privacy concerns.",
-        "url": "https://www.perthnow.com.au/news/technology/through-the-looking-glass-smartglasses-face-scrutiny-c-22629375",
-        "image": "https://images.perthnow.com.au/publication/C-22629375/34f44897041eab3cb4fa6ad78520ad84212b6027-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-07-25T22:32:43Z",
-        "source": "PerthNow"
+        "title": "Special Intensive Revision: AI used to detect 6.41 lakh anomalies in Bengaluru",
+        "description": "For the first time since the enumeration phase began, the Greater Bengaluru Authority has disclosed that there have been at least 6.41 lakh ‘logical discrepancies’ or anomalies within its jurisdiction",
+        "url": "https://www.thehindu.com/news/cities/bangalore/special-intensive-revision-ai-used-to-detect-641-lakh-anomalies-in-bengaluru/article71267053.ece",
+        "image": "https://th-i.thgim.com/public/incoming/jf9sco/article71267461.ece/alternates/LANDSCAPE_1200/IMG_iStock-1617892313_2_1_GKG5RQQ6.jpg",
+        "publishedAt": "2026-07-26T01:30:00Z",
+        "source": "The Hindu"
       },
       {
-        "title": "Through the looking glass: smartglasses face scrutiny",
-        "description": "Wearing cameras and speakers powered by artificial intelligence comes with benefits but critics warn it also presents serious...",
-        "url": "https://www.canberratimes.com.au/story/9317537/through-the-looking-glass-smartglasses-face-scrutiny/",
-        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b5fbf136-f1f6-4440-bd59-259de778ea27.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-        "publishedAt": "2026-07-25T22:30:05Z",
-        "source": "The Canberra Times"
+        "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+        "description": "The letter from Nvidia and other companies acknowledges the concerns about technology theft but argues they should be addressed 'through targeted legal and commercial frameworks rather than sweeping restrictions'",
+        "url": "https://www.rappler.com/technology/companies-back-open-source-ai-models/",
+        "image": "https://www.rappler.com/tachyon/2026/03/ai-reuters-stock-2026-scaled.jpg",
+        "publishedAt": "2026-07-26T01:15:52Z",
+        "source": "Rappler"
       },
       {
-        "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
-        "description": "Nebius (NBIS -15.02%) primarily constructs extensive computing infrastructure, operates cloud platforms designed for demanding workloads, and develops",
-        "url": "https://www.europesays.com/3153900/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Fcharts2Fproduction2Fprocessed2Fnbis-mstr2Fquarter2Frevenue2.png",
-        "publishedAt": "2026-07-25T22:25:24Z",
+        "title": "‘We are family’: South Korea President Lee toasts AI ties with tech titans over fish and chips",
+        "description": "The companies represented have a combined market capitalisation of about 17 quadrillion won (S$15 trillion). Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/we-are-family-south-korea-president-lee-toasts-ai-ties-with-tech-titans-over-fish-and-chips",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/be96096d64071c5815bf6e08cd8ecd6cb7415aee2e3c42e0fd35714b68016003",
+        "publishedAt": "2026-07-26T01:08:00Z",
+        "source": "The Straits Times"
+      },
+      {
+        "title": "3 Top AI Bargain Stocks to Buy Today",
+        "description": "The tech bull market over the past few years has largely been driven by artificial intelligence (AI) growth stocks, particularly in the infrastructure space.",
+        "url": "https://www.europesays.com/3154145/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/07/urlhttps3A2F2Fg.foolcdn.com2Feditorial2Fimages2F8801072Fnvda.pngw1200opresize.png",
+        "publishedAt": "2026-07-26T01:06:30Z",
         "source": "EUROPE SAYS"
       },
       {
-        "title": "DeepSeek's Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-        "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-        "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-        "image": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-        "publishedAt": "2026-07-25T22:08:30Z",
-        "source": "Gizmodo"
+        "title": "What happened when Meta used AI to ban accounts on Facebook and Instagram",
+        "description": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on AI.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/26/what-happened-when-meta-used-ai-to-ban-accounts-on-facebook-and-instagram",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4022746.jpg",
+        "publishedAt": "2026-07-26T01:00:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Why Trust Will Decide the Future of AI",
-        "description": "Read about the surprising truths of Artificial Intelligence (AI) and how it reflects our own cognitive processes and potential.",
-        "url": "https://www.activistpost.com/why-trust-will-decide-the-future-of-ai/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2026/07/ef35ad07-b820-4657-8c89-371387b973b0.webp",
-        "publishedAt": "2026-07-25T22:00:00Z",
-        "source": "Activist Post"
-      },
-      {
-        "title": "Sailing the Stormy Seas of AI",
-        "description": "Delve into the reality of Artificial Intelligence (AI) and learn why skepticism is essential for its future impacts on business.",
-        "url": "https://www.activistpost.com/sailing-the-stormy-seas-of-ai/",
-        "image": "https://www.activistpost.com/wp-content/uploads/2026/07/istockphoto-520794474-612x612-1.jpg",
-        "publishedAt": "2026-07-25T22:00:00Z",
-        "source": "Activist Post"
+        "title": "[Inside the Newsroom] Making sense of Pax Silica",
+        "description": "Reporting on the US-backed AI initiative reveals a story that stretches beyond technology — to protests, geopolitics, and the fight over the narrative",
+        "url": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-understanding-pax-silica/",
+        "image": "https://www.rappler.com/tachyon/2026/07/PAX-SILICA-JUL-24-2026.jpg",
+        "publishedAt": "2026-07-26T01:00:00Z",
+        "source": "Rappler"
       }
     ]
   }
