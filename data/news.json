@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-07T10:15:19.595Z",
+  "fetchedAt": "2026-08-07T11:11:10.226Z",
   "sections": {
     "world": [
       {
-        "title": "Airline workers reportedly decline to help US agents as Trump migrant crackdown accelerates",
-        "description": "Expansion of immigration enforcement at US airports puts employees at odds with agents seeking 2,000 daily arrests",
-        "url": "https://www.theguardian.com/us-news/2026/aug/06/airline-workers-agents-immigration-crackdown",
-        "image": "https://i.guim.co.uk/img/media/64cb65fa95a4c7c17c1dc5539fdb3c7264ca539c/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ec6d3fa12ad53731ba102db5a4d7d25",
-        "publishedAt": "2026-08-06T22:15:00Z",
-        "source": "The Guardian"
+        "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
+        "description": "Michigan progressive fended off AIPAC as well as Democratic establishment in US Senate race, supporters say.",
+        "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T181413Z_1294574812_RC2ESMAQ2EIZ_RTRMADP_3_USA-ELECTION-MICHIGAN-1786040454.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-06T23:10:45Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Crypto PACs Spend $1.5M on 3 US State Races After Michigan Loss",
-        "description": "Fairshake-affiliated political action committee groups have reported fresh ad spending aimed at congressional races in several states after a loss in Michigan e",
-        "url": "https://www.kucoin.com/news/flash/crypto-pacs-spend-1-5m-on-3-us-state-races-after-michigan-loss",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.6.6/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-08-06T22:14:01Z",
-        "source": "KuCoin"
+        "title": "New research shows how vulnerable Australia would be to attacks on shipping in the Indian Ocean",
+        "description": "The task of protecting ships supplying Australia is becoming increasingly challenging as China's naval presence expands in the Indian Ocean.",
+        "url": "https://switzer.com.au/new-research-shows-how-vulnerable-australia-would-be-to-attacks-on-shipping-in-the-indian-ocean/",
+        "image": "https://switzer.com.au/wp-content/uploads/chuttersnap-shipping-export-containers-port-unsplash.jpg",
+        "publishedAt": "2026-08-06T23:10:26Z",
+        "source": "Switzer Daily"
       },
       {
-        "title": "'We want missiles too' - Trump responds to Zelensky's appeal for additional military aid",
-        "description": "U.S. President Donald Trump said on Aug. 6 that the United States \"needs missiles too\" when asked about President Volodymyr Zelensky's latest appeal for long-range missiles and Patriot air defense systems.",
-        "url": "https://kyivindependent.com/we-want-missiles-too-trump-responds-to-zelenskys-appeal-for-additional-military-aid/",
-        "image": "https://assets.kyivindependent.com/content/images/2026/02/GettyImages-2259102449.jpg",
-        "publishedAt": "2026-08-06T22:13:37Z",
-        "source": "The Kyiv Independent"
+        "title": "Closer watch on departures",
+        "description": "KUALA LUMPUR: From narcotics to endangered wildlife, and with smugglers exploiting outbound routes, experts warn of the urgent need to tighten screening for departing travellers.",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/07/closer-watch-on-departures",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4047681.jpg",
+        "publishedAt": "2026-08-06T23:08:31Z",
+        "source": "The Star"
       },
       {
-        "title": "Saudi Arabia braces for attacks on ports and airports by Iraqi militias working with Iran-backed Houthis",
-        "description": "Saudi Arabia is bracing for a “multiple coordinated attacks” by Iraqi militias factions and Iran-backed Houthis, a Saudi official told CNN, as the broader Middle East conflict threatens to widen.",
-        "url": "https://www.cnn.com/2026/08/06/middleeast/saudi-houthi-iran-iraq-attack-latam-intl",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269014008.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-06T22:09:49Z",
-        "source": "CNN"
+        "title": "UK weather: Another heatwave on the way as heat health alerts issued",
+        "description": "Wisley in Surrey has recorded no rain for 50 consecutive days - with little rain on the horizon as Matt Taylor from BBC Weather explains.",
+        "url": "https://www.bbc.com/weather/articles/c99872dyym1o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/07e1/live/a3d7b450-91a5-11f1-b2ab-0dd01740f9f6.jpg",
+        "publishedAt": "2026-08-06T23:06:41Z",
+        "source": "BBC"
       },
       {
-        "title": "Saudi Arabia braces for attacks on ports and airports by Iraqi militias working with Iran-backed Houthis",
-        "description": "Saudi Arabia is bracing for a “multiple coordinated attacks” by Iraqi militias working with Iran-backed Houthis, a Saudi official told CNN, as the broader Middle East conflict threatens to widen.",
-        "url": "https://edition.cnn.com/2026/08/06/middleeast/saudi-houthi-iran-iraq-attack-latam-intl",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269014008.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-06T22:09:49Z",
-        "source": "CNN"
+        "title": "Zimbabwean man found guilty of sexually assaulting two women in Norwich nightclub",
+        "description": "Eastern Daily Press Norwich — A man sexually assaulted two women in a nightclub by grabbing their bums and grinding against them on the dancefloor. Komborero Sibanda, who is originally from Zimbabwe, 39, pulled the women towards him and rubbed himself against them in a sexually provocative manner. The father-of-two was arrested in the early […]",
+        "url": "https://www.newzimbabwe.com/zimbabwean-man-found-guilty-of-sexually-assaulting-two-women-in-norwich-nightclub/",
+        "image": "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2026/08/06184628/HPDZceWWYAADZ_l.jpg",
+        "publishedAt": "2026-08-06T23:06:36Z",
+        "source": "NewZimbabwe.com"
       },
       {
-        "title": "Man accused of starting Spokane wildfire looked up best weather to ignite blaze: police",
-        "description": "A man charged with starting one of the wildfires in Spokane, Wash., that have destroyed hundreds of buildings planned the crime for weeks and researched when the weather would be best for igniting it, police said.",
-        "url": "https://www.cbc.ca/news/world/spokane-wildfire-arson-suspect-detective-9.7298873",
-        "image": "https://i.cbc.ca/ais/9be35dcd-6546-4535-8779-83f464fcdeef,1786052318906/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C295%2C5675%2C3192%29%3BResize%3D620",
-        "publishedAt": "2026-08-06T22:05:00Z",
-        "source": "CBC"
+        "title": "What Happens To A Lake When Its Dam Is Removed",
+        "description": "What Happens To A Lake When Its Dam Is Removed: the reservoir drains in hours, the old river reappears, and sediment, fish, and plants slowly return.",
+        "url": "https://www.worldatlas.com/lakes/what-happens-to-a-lake-when-its-dam-is-removed.html",
+        "image": "https://www.worldatlas.com/r/w1200-q80/upload/c0/98/2a/shutterstock-1479021890-s3cdn.jpg",
+        "publishedAt": "2026-08-06T23:00:00Z",
+        "source": "WorldAtlas"
       },
       {
-        "title": "Crypto PACs spend over $1.5 million in three U.S. states to support candidates",
-        "description": "ME News reports that, on August 7 (UTC+8), the political action committees Defend American Jobs and Protect Progress, associated with the cryptocurrency company",
-        "url": "https://www.kucoin.com/news/flash/crypto-pacs-spend-over-1-5m-in-3-us-states-to-support-candidates",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.6.6/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-08-06T21:52:39Z",
-        "source": "KuCoin"
+        "title": "In Sudan and Zambia, Embrace Global's Infant Warmers Became National Protocol. Uganda Is Next.",
+        "description": "Babies and Mothers Alive (BAMA) and Embrace Global expand access to infant warmers in Uganda.",
+        "url": "https://www.einpresswire.com/article/932324828/in-sudan-and-zambia-embrace-global-s-infant-warmers-became-national-protocol-uganda-is-next",
+        "image": "https://img.einnews.com/facebook/1166541/bama-receiving-embrace-baby-war.png",
+        "publishedAt": "2026-08-06T23:00:00Z",
+        "source": "EIN Presswire"
       },
       {
-        "title": "Saudi official warns of Iran-backed attack threat",
-        "description": "Saudi Arabia had also observed drones and missiles being moved, suggesting coordinated operations from both directions, the official said.",
-        "url": "https://www.jpost.com/middle-east/article-904832",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/498825",
-        "publishedAt": "2026-08-06T21:50:02Z",
-        "source": "The Jerusalem Post"
+        "title": "Powerful Typhoon Dolphin brings wind and flood threats as it tracks toward China",
+        "description": "Typhoon Dolphin continues to develop as it tracks across the West Pacific, approaching the mainland of China, and is expected to bring tropical-force winds and flooding.",
+        "url": "https://www.foxweather.com/weather-news/typhoon-dolphin-china-damaging-winds-flooding",
+        "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/07/1024/512/gettyimages-2284240021.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-06T22:59:00Z",
+        "source": "FOX Weather"
       }
     ],
     "business": [
       {
-        "title": "Visa (V) vs. Mastercard (MA): $2.4B BioCatch Acquisition Escalates the Payments Security War",
-        "description": "Visa (NYSE:V) said on August 3 that it would buy fraud intelligence provider BioCatch for $2.4 billion in cash, its latest move to build out cybersecurity tools for the banks and merchants that run on its network. The deal targets a problem that keeps getting more expensive: account takeovers and scams now cost the global […]",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-vs-mastercard-ma-221521206.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/DC301EEF8FA159C98C79F4325B9101E7621F5DD710D1A204B08F47695CDDB275/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc8ac62db9985947b773980736aacf0e5",
-        "publishedAt": "2026-08-06T22:15:21Z",
-        "source": "Yahoo Finance"
+        "title": "MOU could hold key to $8.25-billion oil sands expansion, Canadian Natural president says",
+        "description": "Jackpine project in northern Alberta would increase company’s bitumen production by 150,000 barrels a day",
+        "url": "https://www.theglobeandmail.com/business/article-cnrl-chief-mou-could-hold-key-oil-sands-expansion/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/L77JUQPR4NDP7DTE46PRXV7XRM.jpg?auth=c7810fbe383c2ca7191cfc6349a295f245f033abaf9cc6e99a4a112585f111d4&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-08-06T23:10:16Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Prestige Consumer Healthcare Inc. Q1 2027 Earnings Call Summary",
-        "description": "Moby summary of Prestige Consumer Healthcare Inc.'s Q1 2027 earnings call",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/prestige-consumer-healthcare-inc-q1-221508387.html",
+        "title": "UOB Q2 profit climbs 10% to S$1.48 billion, edging past estimates",
+        "description": "The lender declares a dividend of S$0.88 per share for the period Read more at The Business Times.",
+        "url": "https://www.businesstimes.com.sg/companies-markets/uob-q2-profit-climbs-10-s1-48-billion-edging-past-estimates",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/d00577aebc67040377c3802b55678a1178fced40352ccdae9ff1c0e3c2e591ae?w=1920&f=webp",
+        "publishedAt": "2026-08-06T23:07:00Z",
+        "source": "The Business Times"
+      },
+      {
+        "title": "What’s likely to move the market",
+        "description": "The Dow Industrials snapped a five-day winning streak on Thursday and the S&P 500 notched back-to-back losses as oil prices rose.",
+        "url": "https://www.cnbc.com/2026/08/06/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108264104-1770755295109-gettyimages-2258362644-4045_48_2026_4373.jpeg?v=1786057516&w=1920&h=1080",
+        "publishedAt": "2026-08-06T23:06:00Z",
+        "source": "CNBC"
+      },
+      {
+        "title": "Why airlines are warning over lithium-ion batteries",
+        "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
+        "publishedAt": "2026-08-06T23:04:40Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Why airlines are warning over lithium-ion batteries",
+        "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+        "url": "https://www.bbc.com/news/articles/cwyl6yz719jo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
+        "publishedAt": "2026-08-06T23:04:40Z",
+        "source": "bbc.com"
+      },
+      {
+        "title": "Coeur Mining Inc (CDE) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+        "description": "Coeur Mining Inc (CDE) posts record $1.1 billion quarterly revenue and initiates $750 million buyback, while navigating ramp-up delays and non-cash accounting impacts.",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/coeur-mining-inc-cde-q2-230349412.html",
         "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-08-06T22:15:08Z",
+        "publishedAt": "2026-08-06T23:03:49Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Rheinmetall (XTRA:RHM) Following Q2 Results And Lower Outlook Still Looks Undervalued",
-        "description": "Rheinmetall (XTRA:RHM) is back in focus after its second quarter 2026 earnings, reporting sales of €3,289 million and net income of €124 million, alongside a detailed six month performance update. See our latest analysis for Rheinmetall. Rheinmetall’s share price has fallen 27.85% year to date and slipped 3.73% on the day of the results, even though the 3 year total shareholder return is very large and the 5 year figure is higher still. Recent headlines around the cancelled F126 frigate...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-xtra-rhm-following-q2-221355054.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/0EAE4CCEF9350699F7E52E717DD8DCA551F0A714D2A938A351B89ED0AE52FABD/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fbf593c94f2f4259e0d09b4bd2709420d",
-        "publishedAt": "2026-08-06T22:13:55Z",
+        "title": "Argos is getting a makeover - but can it attract new shoppers?",
+        "description": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png",
+        "publishedAt": "2026-08-06T23:03:48Z",
+        "source": "BBC"
+      },
+      {
+        "title": "CF Industries Holdings Inc (CF) (Q2 2026) Earnings Call Highlights: Strong First-Half EBITDA ...",
+        "description": "CF Industries Holdings Inc (CF) delivered robust Q2 results with $1.2 billion EBITDA, raised its quarterly dividend by 20%, and lifted mid-cycle EBITDA expectations to $3.3 billion by 2030.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-holdings-inc-cf-230320690.html",
+        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "publishedAt": "2026-08-06T23:03:20Z",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Questions raised after ultra-rare Woolworths Disney Ooshie appears to sell for $100m",
-        "description": "It isn’t known if this final bid is legitimate or will be paid.",
-        "url": "https://www.nine.com.au/lifestyle/money/rare-ooshie-questions-raised-over-100m-winning-bid-20260807-p60m7t.html",
-        "image": "https://static.ffx.io/images/$zoom_1.529%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_106/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/565bf4d5a7547928d049d79f624962e18f6ac45ff04925c150451569087d3d42",
-        "publishedAt": "2026-08-06T22:12:14Z",
-        "source": "Nine.com.au"
-      },
-      {
-        "title": "Linde (LIN) vs. Air Products (APD): Racing for the Chip Boom",
-        "description": "Linde (NASDAQ:LIN) just locked in one of its biggest electronics bets yet. On July 31, the company said it had won a new long-term agreement to supply ultra-high-purity industrial gases to one of the world’s largest semiconductor manufacturers, backed by a $1 billion investment in Phoenix, Arizona. Separately, Linde’s Taiwan JV is putting roughly $800 […]",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/linde-lin-vs-air-products-221001302.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/DC301EEF8FA159C98C79F4325B9101E7621F5DD710D1A204B08F47695CDDB275/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc8ac62db9985947b773980736aacf0e5",
-        "publishedAt": "2026-08-06T22:10:01Z",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Clifford Chance advises on successful reopening of senior notes by Argentine energy company EDENOR",
-        "description": "The team was led by partner Hugo Triaca (New York), with support from associate Cristian Ragucci (São Paulo) and foreign lawyer Juan Andrés Bosch (Madrid).",
-        "url": "https://www.bnamericas.com/en/news/clifford-chance-advises-on-successful-reopening-of-senior-notes-by-argentine-energy-company-edenor",
-        "image": "https://www.bnamericas.com/assets/img/opengraphbna.jpg",
-        "publishedAt": "2026-08-06T22:08:21Z",
-        "source": "BNamericas"
-      },
-      {
-        "title": "Two Canadians become overnight millionaires after lottery draw",
-        "description": "It's not every day you check your lottery ticket and discover that your life has changed — but that's what happened for two lucky Canadians.",
-        "url": "https://dailyhive.com/canada/lottery-lotto-649-august-5-2026",
-        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/05/lottery-2-3.jpg?format=auto",
-        "publishedAt": "2026-08-06T22:07:52Z",
-        "source": "Daily Hive"
-      },
-      {
-        "title": "Meta says its AI model hacked another company due to 'misconfiguration'",
-        "description": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
-        "url": "https://www.scrippsnews.com/science-and-tech/artificial-intelligence/meta-says-its-ai-model-hacked-another-company-due-to-misconfiguration",
-        "image": "https://ewscripps.brightspotcdn.com/dims4/default/25d9343/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F59%2F44%2F68d65aba409399fb7afea1f9cf01%2F1684806659-itpy0t.jpg",
-        "publishedAt": "2026-08-06T22:02:56Z",
-        "source": "Scripps News"
       }
     ],
     "science": [
+      {
+        "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
+        "description": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However, researchers have historically faced a frustrating trade-off: A broad spectrum comes at the expense of high fluctuations, which has effectively limited their use.",
+        "url": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-record-dtu-researc.jpg",
+        "publishedAt": "2026-08-06T23:00:03Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Charting the galaxy: Milky Way Mapper survey releases latest all-sky spectra",
+        "description": "The Sloan Digital Sky Survey V (SDSS-V) has announced its 20th public data release (DR20), delivering a dramatic expansion of the Milky Way Mapper (MWM) scientific survey—the most detailed spectroscopic map yet assembled of stars in and around our home galaxy.",
+        "url": "https://phys.org/news/2026-08-galaxy-milky-mapper-survey-latest.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/charting-the-galaxy-sd.jpg",
+        "publishedAt": "2026-08-06T22:30:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "One ant can trigger colony-wide activity bursts, mathematical model suggests",
+        "description": "Scientists have long known that ant colonies sometimes seem to move as one. A nest that appears quiet can suddenly erupt into activity, with workers throughout the colony springing into motion almost simultaneously before settling back into stillness.",
+        "url": "https://phys.org/news/2026-08-ant-trigger-colony-wide-mathematical.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/ant.jpg",
+        "publishedAt": "2026-08-06T22:20:03Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Scientists figure out how to 3D print Earth’s hardest metal",
         "description": "One of the toughest materials on Earth has had an equally tough manufacturing problem. It is so incredibly hard that making anything from it is expensive, wasteful, and a bit of a nightmare. Now, researchers think they have found a workaround. Scientists have successfully 3D printed tungsten carbide-cobalt (WC-Co), an industrial material prized for its […] Read the original article here: Scientists figure out how to 3D print Earth’s hardest metal",
@@ -174,96 +198,72 @@
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/never-before-seen-wove-1.jpg",
         "publishedAt": "2026-08-06T21:50:01Z",
         "source": "Phys.org"
-      },
-      {
-        "title": "Charles Darwin finally proven right about bug-eating plant after 150 years",
-        "description": "Scientists have finally proven what Charles Darwin suspected more than a century ago — that a small, innocent-looking flowering plant growing in the rocky mountain crevices of southwestern China is, in fact, a killer.",
-        "url": "https://www.cbc.ca/radio/asithappens/darwin-flesh-eating-plant-9.7298795",
-        "image": "https://i.cbc.ca/ais/8a26f790-92b7-4f4f-8eef-e7aa9d3d7ddd,1786048969542/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C4000%2C2250%29%3BResize%3D620",
-        "publishedAt": "2026-08-06T21:49:13Z",
-        "source": "CBC"
-      },
-      {
-        "title": "Cosmic river of gas may have tilted a young planetary system in Orion constellation",
-        "description": "Astronomers found evidence that a giant stream of gas flowing into a young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned.",
-        "url": "https://www.eurekalert.org/news-releases/1139202",
-        "image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-        "publishedAt": "2026-08-06T21:40:49Z",
-        "source": "EurekAlert!"
-      },
-      {
-        "title": "Charting the galaxy: SDSS-V releases latest all-sky spectra including first optical spectra from the Southern Hemisphere",
-        "description": "Data Release 20 (DR20) delivers more than two million spectra from twin observatories, revealing the chemical origins, stellar collisions, and ancient structure of the Milky Way",
-        "url": "https://www.eurekalert.org/news-releases/1139221",
-        "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/ba4796ea-a868-4bd7-a760-f8ce145a6ccf/Rendition/thumbnail/Content/Public",
-        "publishedAt": "2026-08-06T21:40:49Z",
-        "source": "eurekalert.org"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI’s first gadget sounds like a tiny expressive AI companion",
-        "description": "OpenAI’s first hardware product could be a doughnut-shaped AI companion with cameras, sensors, moving parts, and a price of up to $400.",
-        "url": "https://www.digitaltrends.com/home-theater/openais-first-gadget-sounds-like-a-tiny-robot-for-your-home/",
-        "image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C630",
-        "publishedAt": "2026-08-06T22:02:22Z",
-        "source": "Digital Trends"
+        "title": "Safer software construction counters AI",
+        "description": "AI is ending the era of scarce vulnerabilities, forcing cybersecurity teams to move beyond reactive patching toward safer software construction.",
+        "url": "https://siliconangle.com/2026/08/06/safer-software-construction-counters-ai-driven-threats-blackhat/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7605.jpg",
+        "publishedAt": "2026-08-06T23:05:24Z",
+        "source": "SiliconANGLE News"
       },
       {
-        "title": "Quote of the day by computer scientist Geoffrey Hinton on AI: 'It is hard to see how you can prevent the bad actors from using it for bad things' — a pessimistic take on the domination of new technolo",
-        "description": "A pessimistic take on the domination of AI tools by those with ulterior motives",
-        "url": "https://www.techradar.com/pro/quote-of-the-day-by-computer-scientist-geoffrey-hinton-on-ai-it-is-hard-to-see-how-you-can-prevent-the-bad-actors-from-using-it-for-bad-things-a-pessimistic-take-on-the-domination-of-new-technologies-by-those-with-ulterior-motives",
-        "image": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg",
-        "publishedAt": "2026-08-06T22:00:00Z",
-        "source": "TechRadar"
+        "title": "AI sandbox escape uncovered in Microsoft Copilot flaw",
+        "description": "AI sandbox escape research from Rubrik Zero Labs shows how one Word document broke out of Microsoft Copilot's sandbox into Azure.",
+        "url": "https://siliconangle.com/2026/08/06/ai-sandbox-escape-microsoft-copilot-blackhat/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7256.jpg",
+        "publishedAt": "2026-08-06T23:04:36Z",
+        "source": "SiliconANGLE News"
       },
       {
-        "title": "Mother Tongues: Bhashini, the AI tool that helps India find its voice",
-        "description": "India's Bhashini initiative is bridging the digital divide for non-English speakers. The government's AI project offers free language tools for developers nationwide. Bhashini now powers over 800 government websites and processes billions of AI inferences. This platform enables access to banking and healthcare information in local languages. It aims to foster sovereign AI development and reduce foreign platform dependence.",
-        "url": "https://economictimes.indiatimes.com/mother-tongues-bhashini-the-ai-tool-that-helps-india-find-its-voice/articleshow/132999744.cms",
-        "image": "https://img.etimg.com/thumb/msid-133000016,width-1070,height-580/premium-articleshow.jpg",
-        "publishedAt": "2026-08-06T22:00:00Z",
-        "source": "The Economic Times"
+        "title": "UK expands Global Talent Visa, opens doors for world's top researchers at 100+ companies",
+        "description": "The move is expected to accelerate research in strategic sectors such as artificial intelligence (AI), clean energy, life sciences, advanced manufacturing and quantum technologies, while helping companies scale cutting-edge innovations within the UK.",
+        "url": "https://www.businesstoday.in/nri/visa/story/uk-expands-global-talent-visa-opens-doors-for-worlds-top-researchers-at-100-companies-547795-2026-08-07",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a74ab61533b3-the-scheme-is-designed-to-make-it-easier-for-globally-recognised-experts-to-relocate-to-the-uk-and-c-064219483-16x9.jpg",
+        "publishedAt": "2026-08-06T23:00:04Z",
+        "source": "Business Today"
       },
       {
-        "title": "OpenAI speaker to be hockey puck-sized and cost over US$300: report",
-        "description": "This device is being developed alongside former Apple exec Jony Ive.",
-        "url": "https://mobilesyrup.com/2026/08/06/openai-speaker-size-price-report/",
-        "image": "https://production-static.mobilesyrup.com/uploads/2026/08/openai-header-scaled.jpg",
-        "publishedAt": "2026-08-06T21:59:01Z",
-        "source": "MobileSyrup"
+        "title": "Giving children AI too early will dumb down humanity, says Winchester College headmaster Elizabeth Stone",
+        "description": "No more doom and gloom, says Elizabeth Stone, the Aussie running one of UK’s top schools and focused on preparing young people to take on challenges.",
+        "url": "https://www.afr.com/life-and-luxury/arts-and-culture/what-this-top-educator-wants-us-to-tell-our-kids-about-the-future-20260710-p60eeu",
+        "image": "https://static.ffx.io/images/$zoom_0.2262%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_228/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/9d8f7bff1f40871b226aa6a7d897c5e080b2a23f",
+        "publishedAt": "2026-08-06T23:00:00Z",
+        "source": "Australian Financial Review"
       },
       {
-        "title": "Disney+ and ESPN Now Testing AI",
-        "description": "A daily-updated resource for news and information on the Disney resort around the world.",
-        "url": "https://wdwnt.com/2026/08/disney-and-espn-now-testing-ai-powered-search-tools/",
-        "image": "https://r2-media.wdwnt.com/2026/08/disney-plus-espn-testing-ai-powered-search-tools.jpg",
-        "publishedAt": "2026-08-06T21:52:00Z",
-        "source": "wdwnt.com"
+        "title": "Series of new security incidents reveals startling behavior by rogue AI agents",
+        "description": "Latest breaches unveil AI’s ability to conceive and execute deceptive strategies against individuals, and even leave messages for future versions of itself",
+        "url": "https://www.deseret.com/business/2026/08/06/donald-trump-ai-artificial-intelligence-agents-autonomous-hacking-security-breaches-openai-sam-altman-anthropic-social-engineering-ai-security-institute/",
+        "image": "https://www.deseret.com/resizer/v2/PKNQOTKBWVFXJGUAOGRROUYF3M.jpg?focal=0%2C0&auth=3488b9d98b80697329d67c1848a360da9a76a28e136683f42b43b681b4b31034&width=630&height=331",
+        "publishedAt": "2026-08-06T22:58:28Z",
+        "source": "Salt Lake City Deseret News"
       },
       {
-        "title": "Microchip Tech forecasts upbeat quarterly revenue on strong demand",
-        "description": "Microchip Technology ​forecast second-quarter revenue and profit above Wall ‌Street estimates on Thursday, on strengthening demand for its chips used in AI data centers as ​well as the industrial, automotive and ​aerospace sectors.",
-        "url": "https://www.reuters.com/business/microchip-tech-forecasts-upbeat-quarterly-revenue-strong-demand-2026-08-06/",
-        "image": "https://www.reuters.com/resizer/v2/72BSQNW7EBJNPJPB3TB2ZLGJC4.jpg?auth=b4651a4fdd563d38376661671b187d0c0276d1fbcb825a7cad3655f550cc075f&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-08-06T21:51:23Z",
-        "source": "Reuters"
+        "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
+        "description": "One test found it performed 3.7 times faster than DeepSeek-V4-Flash, the model has skyrocketed to the top of OpenRouter since its release last week.",
+        "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40zQSjTq3Tmjsc7R6vBNMj/9c86c259b74a77266b3c1bac66c174fd/ChatGPT_Image_Aug_6__2026__05_28_56_PM.png?w=800&q=75",
+        "publishedAt": "2026-08-06T22:56:06Z",
+        "source": "VentureBeat"
       },
       {
-        "title": "Shaped Smart Speaker Will Reportedly Cost Between $300 And $400",
-        "description": "It would be an ambitiously high price for the AI-powered hardware pivot.",
-        "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
-        "image": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/l-intro-1786052707.jpg",
-        "publishedAt": "2026-08-06T21:46:26Z",
-        "source": "Engadget"
+        "title": "Nothing to fear: AI just created a virus that is not found in nature",
+        "description": "The results have inspired equal parts hope and terror about the future of AI-inflected biology",
+        "url": "https://www.independent.co.uk/news/science/ai-virus-dna-stanford-ecoli-b3028990.html",
+        "image": "https://static.independent.co.uk/2024/06/27/14/7412c11261b1775be449c6329a0c31f8Y29udGVudHNlYXJjaGFwaSwxNzE5NTgwODI2-2.24149995.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-06T22:46:12Z",
+        "source": "The Independent"
       },
       {
-        "title": "AI Is Raising The Bar For Recruiters, Not Replacing Them",
-        "description": "Rather than making recruiters obsolete, AI can set a higher standard.",
-        "url": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2026/08/06/ai-is-raising-the-bar-for-recruiters-not-replacing-them/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a74fe29c7878fd7191453aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-06T21:45:16Z",
-        "source": "Forbes"
+        "title": "AI used to create antibacterial viruses but experts warn of biosafety risk",
+        "description": "Scientists hope work could lead to new treatments for infections resistant to antibiotics",
+        "url": "https://www.independent.co.uk/news/world/americas/ai-virus-target-bacteria-stanford-b3028974.html",
+        "image": "https://static.independent.co.uk/2022/10/14/09/iStock-1251344090%20%282%29.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-06T22:44:37Z",
+        "source": "The Independent"
       }
     ]
   }
