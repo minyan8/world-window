@@ -1,140 +1,148 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-09T19:03:49.009Z",
+  "fetchedAt": "2026-08-09T19:50:12.499Z",
   "sections": {
     "world": [
       {
-        "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
-        "description": "Nikita and Olga Belov say they will be persecuted on return to Moscow but are yet to convince Finnish authorities",
-        "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
-        "image": "https://i.guim.co.uk/img/media/4e2db229b8fc4dea2b02ba58a4fae7f19ceb7ca9/61_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c98f096106bea236db36c16d47645cae",
-        "publishedAt": "2026-08-09T07:02:00Z",
-        "source": "The Guardian"
+        "title": "War, terror, diplomacy",
+        "description": "Reports from Jerusalem suggest that Israeli authorities are taking over one of Islam's holiest sites, the Al-Aqsa Mosque.",
+        "url": "https://globalnation.inquirer.net/334158/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque",
+        "image": "https://globalnation.inquirer.net/files/2026/08/A-2025-visit-to-the-Al-Aqsa-compound-by-Israels-far-right-national-security-minister-Itamar-Ben-Gvir-was-described-as-provocative-Image-Mostafa-AlkharoufAnadolupicture-alliance.png",
+        "publishedAt": "2026-08-09T07:47:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-        "description": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres",
-        "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-        "image": "https://i.guim.co.uk/img/media/cf6e5500a73b1c6d7beda2064a865f481d67eb3b/1333_0_6667_5334/master/6667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64817b53eb6f4218bfb0d236d995b81d",
-        "publishedAt": "2026-08-09T07:01:00Z",
-        "source": "The Guardian"
+        "title": "Iran-US war latest: Trump military chief seeks ‘off-ramp’ from conflict as Strait of Hormuz ‘hit by missile strike’",
+        "description": "UAE condemns attack on carrier as it accuses Tehran of ‘acts of piracy’",
+        "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-israel-oman-b3029908.html",
+        "image": "https://static.independent.co.uk/2026/08/06/1/24/Strait-of-Hormuz.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-09T07:46:23Z",
+        "source": "The Independent"
       },
       {
-        "title": "What you need to know about the documentary Savage Mountain",
-        "description": "The documentary will stream on Sky next week.",
-        "url": "https://www.thejournal.ie/documentary-savage-mountain-kristin-harila-7121844-Aug2026/",
-        "image": "https://img2.thejournal.ie/article/7121844/river/?height=400&version=7121850",
-        "publishedAt": "2026-08-09T07:01:00Z",
+        "title": "EASF Concludes Uganda Verification Exercise, Confirms Readiness For Regional Peace Operations",
+        "description": "The Eastern Africa Standby Force (EASF) has concluded a three-day verification exercise in Uganda to assess the country’s pledged military, police, and civilian capabilities for rapid deployment in peace support operations across the region. The exercise assessed Uganda’s readiness, interoperability, force capabilities and equipment pledged to the EASF, with verification activities conducted at the Uganda…",
+        "url": "https://www.updf.go.ug/eastern-africa-standby-force/easf-concludes-uganda-verification-exercise-confirms-readiness-for-regional-peace-operations/",
+        "image": "https://www.updf.go.ug/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-09-at-10.23.00-AM.jpeg",
+        "publishedAt": "2026-08-09T07:39:18Z",
+        "source": "UPDF"
+      },
+      {
+        "title": "Iran issues demands for reopening of Strait of Hormuz, including compensation for war damages",
+        "description": "Continued attacks in the strait, which was free to transit before the war, led to the collapse of an April ceasefire.",
+        "url": "https://www.thejournal.ie/iran-issues-demands-for-reopening-of-hormuz-7125509-Aug2026/",
+        "image": "https://img2.thejournal.ie/article/7125509/river/?height=400&version=7125510",
+        "publishedAt": "2026-08-09T07:35:00Z",
         "source": "The Journal"
       },
       {
-        "title": "Israel advances plan for 627 settler units in occupied West Bank",
-        "description": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
-        "url": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7809456ab1-1786251589.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-08-09T07:00:07Z",
-        "source": "Al Jazeera"
+        "title": "Ukraine-Russia war latest: Zelensky warns North Korea could send up to 50,000 troops to Russia",
+        "description": "North Korea previously sent troops and munitions to support Russia’s war effort against Ukraine",
+        "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029907.html",
+        "image": "https://static.independent.co.uk/2026/08/07/12/2026-08-07T113950Z_1415936230_RC2MTMA9EZNH_RTRMADP_3_RUSSIA-PUTIN.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-09T07:34:53Z",
+        "source": "The Independent"
       },
       {
-        "title": "Budapest’s low Danube exposed two German soldiers and a DKW military motorcycle; mud mixed with gas oil preserved identity discs after around 80 years",
-        "description": "Europe News: The Danube River has dropped to unusually low levels in Budapest, exposing long-hidden remains from the Second World War. This has revealed the bodies.",
-        "url": "https://timesofindia.indiatimes.com/world/europe/budapests-low-danube-exposed-two-german-soldiers-and-a-dkw-military-motorcycle-mud-mixed-with-gas-oil-preserved-identity-discs-after-around-80-years/articleshow/133062997.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133063309,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "The Times of India"
+        "title": "Iceland’s EU vote: A nation divided over Europe",
+        "description": "Security concerns, control over fishing rights and rising living costs are shaping Iceland's debate over whether to restart talks on joining the European Union.",
+        "url": "https://globalnation.inquirer.net/334149/icelands-eu-vote-a-nation-divided-over-europe",
+        "image": "https://globalnation.inquirer.net/files/2026/08/The-vote-set-for-August-29-will-ask-Icelanders-Should-Iceland-reopen-accession-negotiations-with-the-European-Union-Image-Dmytro-RusanowDW.png",
+        "publishedAt": "2026-08-09T07:34:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "Houthis say they attacked Saudi Aramco's refinery in Jazan, no injuries reported",
-        "description": "Earlier, the Saudi Arabian Energy Ministry said that firefighters extinguished a fire that broke out early at a facility at Aramco's Jazan refinery in southwestern Saudi Arabia.",
-        "url": "https://www.jpost.com/middle-east/article-904944",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733175",
-        "publishedAt": "2026-08-09T06:54:46Z",
-        "source": "The Jerusalem Post"
+        "title": "Two die from heat as Seoul temps hit 40 degrees Celsius",
+        "description": "Two people died of heat-related illnesses in Seoul as temperatures neared 40C, marking the city's hottest Ipchu on record. Officials said 35 heat-related illness cases were reported Friday amid the prolonged South Korea heat wave.",
+        "url": "https://www.koreajoongangdaily.com/korea/two-die-from-heat-as-seoul-temps-hit-40-degrees-celsius/12815283",
+        "image": "https://image.koreajoongangdaily.com/12815309.jpg?imageId=12815309&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-09T07:33:09Z",
+        "source": "Korea JoongAng Daily"
       },
       {
-        "title": "David Keter Dollarline: Kenyans Question Politician’s Dress Code During Charlene Ruto’s Wedding",
-        "description": "Emurua Dikirr MP David Keter, known as Dollarline, faced criticsm for his casual attire at Charlene Ruto's wedding, contrasting sharply with elegant guests.",
-        "url": "https://www.tuko.co.ke/entertainment/celebrities/635656-david-keter-dollarline-kenyans-question-politicians-dress-code-charlene-rutos-wedding/",
-        "image": "https://cdn.tuko.co.ke/images/1200x675/298d18ee97950a48.jpeg?v=1",
-        "publishedAt": "2026-08-09T06:52:40Z",
-        "source": "tuko.co.ke"
-      },
-      {
-        "title": "How Regulatory Liberalization Is Fueling the Philippines’ Digital Infrastructure Boom",
-        "description": "Explore how Philippine telecom reforms (including the Konektadong Pinoy Act (KPA) and its IRR), foreign equity liberalization, subsea cable booms, and hyperscaler investments are transforming the APAC digital hub.",
-        "url": "https://www.submarinenetworks.com/en/stations/asia/philippines/how-regulatory-liberalization-is-fueling-the-philippines%E2%80%99-digital-infrastructure-boom",
-        "image": "https://www.submarinenetworks.com/images/submarine-300x156.png",
-        "publishedAt": "2026-08-09T06:48:54Z",
-        "source": "Submarine Networks"
+        "title": "Yemen’s Houthis claim attack on Saudi oil facility",
+        "description": "Yemen’s Houthis say they attacked an oil facility in southwestern Saudi Arabia. Sunday's attack is the latest by the Iranian-backed rebels on the kingdom.",
+        "url": "https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400",
+        "image": "https://dims.apnews.com/dims4/default/204a0df/2147483647/strip/true/crop/7546x5028+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fed%2F5ac6d0b6d52031a4c8d3d39d87e1%2Fb8195141445745f5bd7cb45d5f0ab777",
+        "publishedAt": "2026-08-09T07:29:00Z",
+        "source": "AP News"
       }
     ],
     "business": [
       {
-        "title": "Why New Zealand whisky is winning global awards",
-        "description": "New Zealand may not be known for its whisky but this may change as distilleries begin to attract international attention for their distinctly Aotearoa...",
-        "url": "https://www.nzherald.co.nz/lifestyle/why-new-zealand-whisky-is-winning-global-awards/4KNS2IEZSNESJAMXLQ6XBRPX7A/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/UX6UTRE5N5B7TI4KS3FWYGF4II.jpg?auth=4dbd33eea9e59bcfa5876730f32a6db28a8ec145df96829fe41c803143ac1fed&width=1200&height=675&quality=70&focal=1005%2C589&smart=false",
-        "publishedAt": "2026-08-09T07:01:25Z",
-        "source": "NZ Herald"
+        "title": "Sandisk: A Better Business Is Emerging From The AI Boom",
+        "description": "Sandisk is shifting its business mix toward enterprise SSDs and AI infrastructure. Click here to read more about SNDK stock and why it is a Buy.",
+        "url": "https://seekingalpha.com/article/4933855-sandisk-a-better-business-is-emerging-from-the-ai-boom",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471505909/image_471505909.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-08-09T07:48:44Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Pallix launches an AI visibility tool built for India, tracking what ChatGPT, Perplexity and Google AI tell buyers",
-        "description": "Pallix tracks how often ChatGPT, Perplexity, Gemini, Google AI Overviews and Copilot recommend an Indian brand, which competitors they name instead, and which sources they cite. For brands and agencies. Plans start at Rs 2,499 a month.",
-        "url": "https://www.24-7pressrelease.com/press-release/537568/pallix-launches-an-ai-visibility-tool-built-for-india-tracking-what-chatgpt-perplexity-and-google-ai-tell-buyers",
-        "image": "https://www.24-7pressrelease.com/assets/attachments/053/press_release_distribution_0537568_235969",
-        "publishedAt": "2026-08-09T07:01:06Z",
-        "source": "24-7 Press Release Newswire"
+        "title": "FSAI recalls more than 40 items from Dunnes Stores and SuperValu",
+        "description": "Retailers have been requested to remove the implicated batches from sale and display recall notices at point-of-sale",
+        "url": "https://www.irishtimes.com/ireland/2026/08/09/fsai-recalls-over-40-items-from-dunnes-stores-and-supervalu/",
+        "image": "https://www.irishtimes.com/resizer/v2/MCULAVWHEA5OHE3ACRJXG3ABR4.jpg?smart=true&auth=60d4282daa13b9ef628f3da372a155f5c3e59b3c0dc08aadca2542cf2764951b&width=1200&height=630",
+        "publishedAt": "2026-08-09T07:48:00Z",
+        "source": "The Irish Times"
       },
       {
-        "title": "Sweet, soft and strong: TikTok turns Japanese milk bread into latest UK food craze",
-        "description": "Shokupan bread, fresh fruit sandwiches and soufflé pancakes all part of growing interest in east Asian cuisine",
-        "url": "https://www.theguardian.com/food/2026/aug/09/tiktok-turns-japanese-milk-bread-into-latest-uk-food-craze",
-        "image": "https://i.guim.co.uk/img/media/78670232b6383a1a6cb9b97bedbdc5ff5edee4a2/826_0_4823_3859/master/4823.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd01acd5746cb47dc9afcd22d43b05d6",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "The Guardian"
+        "title": "Climb Global's 2026 Outlook: Scaling High-Touch Distribution to Expand Global Footprint",
+        "description": "This under-the-radar technology distribution stock boasts a Superscore of 77 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
+        "url": "https://www.fool.com/coverage/moneyball/2026/08/09/climbs-2026-outlook-scaling-high-touch-distribution-to-expand-global-footprint/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6d61954317e744ae963dea8662c7320f8e86ce36-4500x3433.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "publishedAt": "2026-08-09T07:46:14Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "How to Store Blueberries So You Always Have Them on Hand",
-        "description": "Keep blueberries fresh and ready to use by storing them in the refrigerator or freezer. Our favorite storage container is this 11-cup Pyrex glass container. It’s just $14 at Amazon.",
-        "url": "https://www.eatingwell.com/store-blueberries-pyrex-glass-container-amazon-12035854",
-        "image": "https://www.eatingwell.com/thmb/CxFwLBahrBdA1QD5BZQb_s8_lBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ewl-blueberries-pyrex-glass-container-tout-b986236dd5c444f79a042845d6ed3582.jpg",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "EatingWell"
+        "title": "Gawler rail line accounts for almost half of near misses on Adelaide metro trains",
+        "description": "Videos captured along Adelaide's suburban train lines of near misses involving pedestrians, including one in which a person dived out of the way at the last moment, have prompted warnings from transport authorities.",
+        "url": "https://www.abc.net.au/news/2026-08-09/adelaide-rail-line-accounts-for-nearly-half-of-train-near-misses/107014598",
+        "image": "https://live-production.wcms.abc-cdn.net.au/75018615a0a5119e9ad72d32122dcef4?impolicy=wcms_watermark_news&cropH=1289&cropW=2291&xPos=262&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-09T07:38:23Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
-        "title": "All the fish and chip shops in Norfolk named best in 2026",
-        "description": "Whether you are by the Norfolk coast or in the city centre, there will always be a good chippy nearby to tuck in to.",
-        "url": "https://www.edp24.co.uk/news/26438860.fish-chip-shops-norfolk-named-best-2026/",
-        "image": "https://www.edp24.co.uk/resources/images/21278413.jpg?type=og-image",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "Edp24"
+        "title": "Kaspi.kz: Betting On A Proven Playbook In A Much Larger Market",
+        "description": "Kaspi trades at a forward P/E of 7.6x despite robust profitability and a dominant fintech ecosystem in Kazakhstan. See why I rate KSPI stock a Buy.",
+        "url": "https://seekingalpha.com/article/4933853-kaspikz-betting-on-a-proven-playbook-in-a-much-larger-market",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-08-09T07:37:51Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Like Mileage Launching Soon » MotorOctane",
-        "description": "MG will launch a new 7-seater SUV in India, with a new plug-in hybrid tech. This setup is expected to deliver a good mileage.",
-        "url": "https://motoroctane.com/news/319461-mahindra-xuv-7xo-rival-with-maruti-like-mileage-launching-soon",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/08/MG-Starlight-560-Mileage-Expected.png",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "MotorOctane"
+        "title": "Mcap of four of top-10 valued firms jumps Rs 1.43 lakh cr; SBI biggest gainer",
+        "description": "Reliance Industries remained the most valued firm, followed by Bharti Airtel, HDFC Bank, ICICI Bank, State Bank of India, TCS, Bajaj Finance, Larsen & Toubro, LIC and Hindustan Unilever.",
+        "url": "https://www.moneycontrol.com/news/business/markets/mcap-of-four-of-top-10-valued-firms-jumps-rs-1-43-lakh-cr-sbi-biggest-gainer-13998964.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260808043926_stocks5.jpg",
+        "publishedAt": "2026-08-09T07:36:54Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Business Sentiment Sours Sharply Among 111 Major Japanese Firms; Expansion Outlook Falls to 51% as Inflation Spurs Caution",
-        "description": "Business sentiment among Japan's leading corporations has deteriorated sharply, according to a Kyodo News Service survey of 111 major firms. The…",
-        "url": "https://finance.biggo.com/news/d9374dc5-2cd3-4a48-a45a-967d6221063e",
-        "image": "https://img.biggo.com/xnSfY-g1dr61QNbVS1EywljULdPPZ8Rua-BJ5QYqIQE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2Q5Mzc0ZGM1LTJjZDMtNGE0OC1hNDVhLTk2N2Q2MjIxMDYzZV8xNzg2MjU4Nzc2X2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-08-09T06:55:00Z",
-        "source": "finance.biggo.com"
+        "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
+        "description": "Ark Invest just doubled down on Nvidia and TSMC stock, and the reason why is obvious.",
+        "url": "https://www.fool.com/investing/2026/08/09/cathie-woods-ark-piled-into-nvidia-and-taiwan-semi/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881828%2Fcathie-wood_ark-investment-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
+        "publishedAt": "2026-08-09T07:34:32Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Companies must adapt to rising AI costs, tech commentator says",
-        "description": "The cheap or free use of AI tools is over.",
-        "url": "https://www.rnz.co.nz/news/business/946676/companies-must-adapt-to-rising-ai-costs-tech-commentator-says",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--_B024yVe--/t_tohu-badge-facebook/f_auto/q_auto/4JK7OUP_tim_van_der_kuip_unsplash_jpg",
-        "publishedAt": "2026-08-09T06:53:57Z",
-        "source": "RNZ"
+        "title": "Ed Miliband launches new power grab - Andy Burnham must watch his back",
+        "description": "Ed Miliband won't stay in his cage. And that's terrifying news for the new PM.",
+        "url": "https://www.express.co.uk/finance/personalfinance/2237391/ed-miliband-just-launched-new-power-grab-andy-burnham-watch-his-back",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7085061.jpg",
+        "publishedAt": "2026-08-09T07:34:00Z",
+        "source": "Daily Express"
       }
     ],
     "science": [
+      {
+        "title": "Integrated analysis of seismic site response and soil-pile-structure interaction in liquefiable soft sediments",
+        "description": "Soft, saturated basin sediments amplify seismic ground motion and are highly susceptible to liquefaction and large permanent deformations, yet seismic demand on pile-supported bridge foundations in such deposits is commonly estimated with decoupled or fixed-base idealizations that mask the role of stratigraphic stiffness contrasts. This study presents an integrated, site-specific framework that couples nonlinear free-field ground-response analysis with three-dimensional (3D) soil-pile-bridge finite-element modeling, applied to a pile-supported bridge crossing the liquefiable alluvium of the Adapazarı–Karasu corridor in Sakarya, Türkiye. Seven boreholes with in-situ SPT and laboratory testing characterized the stratigraphy; an SPT-based simplified procedure quantified liquefaction triggering and liquefaction-induced volumetric settlement; one-dimensional nonlinear analyses of seven spectrally matched ground motions provided free-field displacement demands; and these demands were transferred into a 3D Mohr–Coulomb continuum model with explicit pile–soil interfaces to evaluate seismic pile performance. Liquefaction triggering was identified in silty, gravelly sand and locally in low-plasticity silt, producing liquefaction-induced volumetric settlements of up to 0.33 m and consolidation settlements of 0.55–0.79 m. The coupled analyses yielded free-field horizontal displacements of about 0.43 m and peak pile internal forces (axial 5.75 MN, shear 2.93 MN, bending moment 3.08 MN·m) that concentrate at the interface between the stiff and liquefiable layers, requiring locally enhanced transverse reinforcement; because rock-socketed piles bypass the problematic strata, the residual settlement of the mitigated foundation is negligible. The principal novelty is the direct coupling of deformation-controlled free-field demands with a 3D soil-structure-interaction model, providing a transferable methodology for assessing seismic ground response and pile-foundation performance in soft-soil basins worldwide.",
+        "url": "https://www.nature.com/articles/s41598-026-65665-4?error=cookies_not_supported&code=fa51b71c-b15c-4e4d-9680-9606a55e3c01",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-09T07:16:13Z",
+        "source": "Nature"
+      },
       {
         "title": "🌟 A new image of Betelgeuse's companion star",
         "description": "An image as proof? Betelgeuse may not be alone. An international team has obtained the sharpest image to date of a star that appears to orbit the famous red supergiant. This observation provides the strongest clue after nearly a century…",
@@ -190,79 +198,71 @@
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-08-09T06:06:30Z",
         "source": "Nature"
-      },
-      {
-        "title": "Entropy plateaus, combinatorial degeneracy, local moments, and heavy-fermion mass renormalization in magic-angle graphene",
-        "description": "Heavy-fermion behavior, driven by the interaction-induced enhancement of electronic mass, underpins exotic states ranging from unconventional superconductivity to quantum criticality. Long restricted to complex three-dimensional f-electron compounds, these phenomena are now predicted to emerge within the flat bands of magic-angle twisted bilayer graphene. Here, we use high-resolution planar tunneling spectroscopy to perform inverse-compressibility and entropy measurements, providing direct evidence for topological heavy-fermion behavior in magic-angle graphene. Our inverse-compressibility data reveal strong, filling-dependent mass renormalization, consistent with the hybridization between localized and itinerant electrons within a Kondo-lattice framework. Furthermore, entropy spectroscopy reveals two plateau structures whose degeneracies directly encode the combinatorial structure of local moment states. This 8-to-4-fold degeneracy reduction is an  entropic signature of strain-mediated symmetry breaking, consistent with the topological heavy-fermion model. Magic-angle graphene is known to host flat bands and emergent phenomena. Here, the authors provide thermodynamic evidence for topological heavy-fermion behavior, observing a strain-induced reduction in the combinatorial degeneracy of isospin local moments (from eight-fold to four-fold) alongside pronounced electronic mass renormalization near integer band fillings.",
-        "url": "https://www.nature.com/articles/s41467-026-76179-y?error=cookies_not_supported&code=3a7d2f77-2fa8-4654-be2e-2127a17f5eef",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-09T06:04:33Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "Invulnerability Bias: Why You Think AI Will Change All Jobs But Yours",
-        "description": "Invulnerability bias may explain why employees expect AI to disrupt other people's jobs while overlooking how quickly their own work may already be changing.",
-        "url": "https://www.forbes.com/sites/dianehamilton/2026/08/09/invulnerability-bias-why-you-think-ai-will-change-all-jobs-but-yours/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69dba11652252abec6e42a1b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "Forbes"
+        "title": "AI can help bridge India's healthcare gap: Report",
+        "description": "India News: NEW DELHI: India's healthcare system is coming under growing pressure from an ageing population, rising burden of chronic diseases and shortages of do.",
+        "url": "https://timesofindia.indiatimes.com/india/ai-can-help-bridge-indias-healthcare-gap-report/articleshow/133064016.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133064048,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-09T07:49:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Relationships with AI bots bring 'joy and comfort' but they won't love you back",
-        "description": "Love between humans and AI is exploding, with “AI girlfriend/boyfriend” apps up 700% since 2022 and a $48bn (£38bn) market in 2026, as surveys show millions would date chatbots",
-        "url": "https://www.dailystar.co.uk/news/latest-news/relationships-ai-bots-bring-joy-37517146",
-        "image": "https://i2-prod.dailystar.co.uk/article37517176.ece/ALTERNATES/s1200d/0_GettyImages-1256204361.jpg",
-        "publishedAt": "2026-08-09T07:00:00Z",
-        "source": "The daily Star"
+        "title": "Thiruvananthapuram plans sister-city partnership with Texas’ Missouri City",
+        "description": "The Thiruvananthapuram Corporation is preparing to forge a strategic sister-city partnership with Missouri City in Texas, USA, with a focus on urban.Thiruvananthapuram Corporation, Missouri City Texas, sister city partnership, waste management solutions, VV Rajesh, Robin J Elackatt, Stafford Mayor Ken Mathew, artificial intelligence in governance, Kerala urban development, eco friendly waste recycling, Indian Embassy in US, Thiruvananthapuram development projects, global city collaborations, smart city initiative Kerala, international municipal trade agreements",
+        "url": "https://www.onmanorama.com/news/kerala/2026/08/09/thiruvananthapuram-and-missouri-city-forge-sister-city-partnership.html",
+        "image": "https://img-mm.manoramaonline.com/content/dam/mm/mo/global-malayali/us/images/2026/8/5/thiruvananthapuram-and-missouri-city-explore-sister-city-partnership3.jpg",
+        "publishedAt": "2026-08-09T07:40:56Z",
+        "source": "Malayala Manorama"
       },
       {
-        "title": "This Week In AI: Google loses its brightest minds, and Gemini is still a good boy (in bad way)",
-        "description": "There is never a dull week in the world of AI. This time the company that hogged all the limelight was Google, but for reasons that almost seemed existentialist threats to the search giant.",
-        "url": "https://www.indiatoday.in/technology/features/story/this-week-in-ai-google-loses-its-brightest-minds-and-gemini-is-still-a-good-boy-in-bad-way-2966969-2026-08-09",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/jeff-dean-and-sanjay-ghemawat-left-google-095323344-16x9_0.jpg?VersionId=.Y9P4B8rS1UNI0KaxuQj1jqKHXER6qaK",
-        "publishedAt": "2026-08-09T06:56:32Z",
-        "source": "India Today"
+        "title": "Uttar Pradesh govt's ‘AI for All’ course sees 50,000 students achieve 70.41 average score",
+        "description": "The initiative, part of 'Project Praveen', aims to bridge the digital divide and enhance technology skills among youth in Uttar Pradesh. | India News",
+        "url": "https://www.hindustantimes.com/india-news/uttar-pradesh-govts-ai-for-all-course-sees-50-000-students-achieve-70-41-average-score-101786260344274.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/09/1600x900/logo/Untitled_design_1786012392481_1786012396334_5c10a255-2736-442f-8a22-c906dd4185c3_1786260592835_db6800b2-9afb-42e7-ae42-7c4e6bb2ad3a.png",
+        "publishedAt": "2026-08-09T07:35:38Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "AI in healthcare: India has built the foundation, but 3 barriers are blocking scale",
-        "description": "A new report says the issue is no longer proving that AI works, but building the ecosystem needed to scale it",
-        "url": "https://www.businesstoday.in/industry/pharma/story/ai-in-healthcare-india-has-built-the-foundation-but-3-barriers-are-blocking-scale-548168-2026-08-09",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a78223249809-ai-adoption-remains-constrained-by-fragmented-data--evolving-regulation-and-limited-reimbursement-pa-094604647-16x9.png",
-        "publishedAt": "2026-08-09T06:47:15Z",
-        "source": "Business Today"
+        "title": "I was an AI skeptic - until I started using it to identify plants",
+        "description": "Can AI replace a seasoned gardener’s eye? I put it to the test.",
+        "url": "https://www.tomsguide.com/home/outdoors/i-was-an-ai-skeptic-until-i-started-using-it-to-identify-plants",
+        "image": "https://cdn.mos.cms.futurecdn.net/p2VmnszBebiNqnn4ZsqotR-2000-80.jpg",
+        "publishedAt": "2026-08-09T07:30:00Z",
+        "source": "Tom's Guide"
       },
       {
-        "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise",
-        "description": "Companies are likely to move beyond simply deploying AI tools and increasingly focus on redesigning workflows, operating models and roles to unlock enterprise-level value, according to a research report by McKinsey.",
-        "url": "https://www.tribuneindia.com/news/business/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report/",
-        "image": "https://www.tribuneindia.com/sortd-service/assets/v22-12/dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9kZXNpZ246ZmF2aWNvbjJmOGNiY2MwLTQyODktMTFlZi04NjVmLTU3YzNkNjY2OGU0Ng==",
-        "publishedAt": "2026-08-09T06:43:17Z",
-        "source": "The Tribune"
+        "title": "Football vs Wall Street: Inside the fight for the World Cup's soul",
+        "description": "LONDON, Aug 9 — What does artificial intelligence (AI) have to do with the World Cup?Quite a lot, according to the tech investors who were prepared to put billions of dollars...",
+        "url": "https://www.malaymail.com/news/money/2026/08/09/football-vs-wall-street-inside-the-fight-for-the-world-cups-soul/230709",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/09/356196.jpg",
+        "publishedAt": "2026-08-09T07:26:40Z",
+        "source": "Malay Mail"
       },
       {
-        "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
-        "description": "Companies are likely to move beyond simply deploying AI tools and increasingly focus on redesigning workflows, operating models and roles to unlock enterprise-level value, according to a research report by McKinsey.",
-        "url": "https://www.aninews.in/news/business/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report20260809121014/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260809062636-thumbnail-320x180.jfif",
-        "publishedAt": "2026-08-09T06:40:14Z",
-        "source": "ANI (Asian News International)"
+        "title": "Commemorating the 90th Anniversary of the Berlin Olympics, the Son Ki",
+        "description": "*This content was translated by AI.",
+        "url": "https://www.europesays.com/3183900/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/1786259743_2026080915021667159_1.jpg",
+        "publishedAt": "2026-08-09T07:15:37Z",
+        "source": "EUROPE SAYS"
       },
       {
-        "title": "BIS to scale up silver hallmarking testing as buyers shift from costly gold",
-        "description": "The Bureau of Indian Standards is expanding silver jewellery testing capacity. This move comes as demand for silver increases due to rising gold prices. Referral and assay laboratories for silver will expand nationally within two years. The agency is also piloting artificial intelligence and robotics for faster testing. BIS continues to enhance its laboratory network to meet growing certification needs.",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/bis-to-scale-up-silver-hallmarking-testing-as-buyers-shift-from-costly-gold/articleshow/133063308.cms",
-        "image": "https://img.etimg.com/thumb/msid-133063388,width-1200,height-630,imgsize-206234,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-09T06:36:00Z",
-        "source": "The Economic Times"
+        "title": "Environmental clearance is not mandatory for all data centers: Government",
+        "description": "AI data centres in India are exempt from mandatory environmental clearance, the Union government informed Parliament, addressing concerns over resource consumption.",
+        "url": "https://www.newsbytesapp.com/news/science/ai-data-centers-don-t-automatically-need-environmental-clearance-govt-says/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l271_21221786254815.jpg",
+        "publishedAt": "2026-08-09T07:14:21Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "Bidadi AI City Project to Transform Bengaluru’s South, Says DK Shivakumar",
-        "description": "Shivakumar said the Greater Bengaluru Development Authority will transform the landscape of Bengaluru’s South District through the projec",
-        "url": "https://www.deccanchronicle.com/southern-states/karnataka/bidadi-ai-city-project-to-transform-bengalurus-south-says-dk-shivakumar-1977820",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/08/09/2074150-aa-78821741.jpg",
-        "publishedAt": "2026-08-09T06:32:01Z",
+        "title": "Hyderabad Police Intensify Cybercrime Fight Against AI Scams, Digital Frauds",
+        "description": "We have enhanced inter-agency coordination with banks, payment gateways, and financial institutions for the immediate freezing and recovery of defrauded funds, the additional DCP said.",
+        "url": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-police-intensify-cybercrime-fight-against-ai-scams-digital-frauds-1977831",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/08/09/2074164-m-srinivas-additional-cp-sit-crimes-inspects-city-cyber-crime-unit.jpg",
+        "publishedAt": "2026-08-09T07:07:36Z",
         "source": "Deccan Chronicle"
       }
     ]
