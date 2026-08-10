@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-10T08:52:18.346Z",
+  "fetchedAt": "2026-08-10T10:37:29.853Z",
   "sections": {
     "world": [
       {
-        "title": "Amur tigress Umit brings wild tigers back to Kazakhstan for the first time in 70 years",
-        "description": "The broader goal is to undo a human-caused loss that stretched across generations.",
-        "url": "https://www.yahoo.com/news/science/articles/amur-tigress-umit-brings-wild-205200103.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/94da281670b4e0583fe84f99bf24d55d5b8069c20e9d8312383c7e34ef82f2df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F04c591002c26572cf8e7c3a3219dbbd7",
-        "publishedAt": "2026-08-09T20:52:00Z",
+        "title": "August 2026: 2 public holidays Nigerians should know about",
+        "description": "Nigerians have two August 2026 public holidays to watch: Isese Day on August 20 and Eid-el-Maulud, tentatively August 26. Read more.",
+        "url": "https://www.pulse.ng/story/august-2026-public-holidays-isese-eid-el-maulud-2026080922174132278",
+        "image": "https://sportal365images.com/process/smp-images-production/pulse.ng/09082026/fc0dc66e-2902-45ad-9163-fdd970ef6be8.png?operations=autocrop(1200:630)",
+        "publishedAt": "2026-08-09T22:35:57Z",
+        "source": "Pulse Nigeria"
+      },
+      {
+        "title": "Board of Peace envoy says full execution of Gaza plan only 'guarantee’ Oct. 7 won’t recur",
+        "description": "Nickolay Mladenov tells Channel 12 disarmament plan is 'not built on trust,' but complete verification of progress; White House said not worried about Netanyahu's refusal to agree",
+        "url": "https://www.timesofisrael.com/board-of-peace-envoy-says-full-execution-of-gaza-plan-only-guarantee-oct-7-wont-recur/",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26212336987681.jpg",
+        "publishedAt": "2026-08-09T22:35:10Z",
+        "source": "The Times of Israel"
+      },
+      {
+        "title": "Bombshell Letter Revealed in Jared and Ivanka’s Resort Saga",
+        "description": "A group of villagers say they warned Jared Kushner’s firm their land was stolen by a suspected gangster.",
+        "url": "https://www.thedailybeast.com/bombshell-letter-revealed-in-jared-kushner-and-ivanka-trump-resort-saga/",
+        "image": "https://www.thedailybeast.com/resizer/v2/KJC5HI67VFH45GIPSF7CLVTXEE.jpg?smart=true&auth=2690b44235d19a4e8e893936d11b3b732b0ddc9fb213e909d542d5fb8fb36797&width=1200&height=630",
+        "publishedAt": "2026-08-09T22:27:00Z",
+        "source": "thedailybeast.com"
+      },
+      {
+        "title": "Indian House Crows confirmed in Nairobi spark alarms for native birds, airports",
+        "description": "A small, localized population is much easier to manage than one that has spread across an entire city.",
+        "url": "https://www.yahoo.com/news/world/articles/indian-house-crows-confirmed-nairobi-222000647.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b605dfe6b876b1b1c29f8030046cf879ddc646866f46cb398efebf90d555545e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F9d95b0f35ca123c2d485da6ddba8c567",
+        "publishedAt": "2026-08-09T22:20:00Z",
         "source": "Yahoo"
       },
       {
-        "title": "Iran's war spills into Saudi Arabia and Libya even as Hormuz talks edge toward a deal",
-        "description": "Iran's five-month war with the US and Israel is edging toward a negotiated pause over the Strait of Hormuz even as its side effects keep spreading ...",
-        "url": "https://www.intellinews.com/iran-s-war-spills-into-saudi-arabia-and-libya-even-as-hormuz-talks-edge-toward-a-deal-459969/",
-        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Iran_war_US_-_poster_media__-_tehran_trump_lips_sew_shutt_by_HOrmuz__Cropped_0.png",
-        "publishedAt": "2026-08-09T20:48:45Z",
-        "source": "IntelliNews"
+        "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+        "description": "Hopes were dashed over the weekend for a breakthrough on the Strait of Hormuz.",
+        "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+        "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-facebookJumbo.jpg",
+        "publishedAt": "2026-08-09T22:19:18Z",
+        "source": "The New York Times"
       },
       {
-        "title": "Don Nelson, second-winningest coach in NBA history, dies at 86",
-        "description": "Don Nelson, the second-winningest coach in NBA history and a five-time champion as a player, died at the age of 86 on Sunday.",
-        "url": "https://www.espn.com.au/nba/story/_/id/49568985/don-nelson-second-winningest-coach-nba-history-dies-86",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0122%2Fr47215_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-08-09T20:47:39Z",
-        "source": "ESPN"
+        "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defense pact",
+        "description": "The alliance with Sunni Muslim U.S. allies, Turkey and Pakistan, stipulates that an attack against one would ​be regarded as an attack on all.",
+        "url": "https://www.japantimes.co.jp/news/2026/08/10/world/houthis-saudi-refinery-defense-pact/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/10/556392.JPG?v=3.1",
+        "publishedAt": "2026-08-09T22:19:00Z",
+        "source": "The Japan Times"
       },
       {
-        "title": "This European City Filled With Endless Lake Views Has The Most Public Bathrooms Of Any 'Tourist City' In The World",
-        "description": "While you might not visit a destination simply because it has more public bathrooms than any other tourist city in the world, it certainly doesn’t hurt to have.",
-        "url": "https://www.islands.com/2232067/zurich-switzerland-european-city-filled-endless-lake-views-most-public-bathrooms-tourist-world/",
-        "image": "https://www.islands.com/img/gallery/this-european-city-filled-with-endless-lake-views-has-the-most-public-bathrooms-of-any-tourist-city-in-the-world/l-intro-1786047692.jpg",
-        "publishedAt": "2026-08-09T20:45:00Z",
-        "source": "islands.com"
+        "title": "Vernon firefighters extinguish grass fire in Becker Park",
+        "description": "Firefighters in Vernon were called to douse a small grass fire early Sunday.",
+        "url": "https://www.castanet.net/news/Vernon/627513/Vernon-firefighters-extinguish-grass-fire-in-Becker-Park",
+        "image": "https://www.castanet.net/content/2026/8/large/um8njmug_p4297135.jpg",
+        "publishedAt": "2026-08-09T22:18:00Z",
+        "source": "Castanet"
       },
       {
-        "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-        "description": "Espionage, sabotage, cyberattacks, and covert operations are a ‘constant reality’, says Germany’s interior minister.",
-        "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T121428Z_1545967995_RC2CSMA2FX1Q_RTRMADP_3_GERMANY-SECURITY-AIRPORT-1-1786305239.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-08-09T20:43:29Z",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "Netanyahu rejects Trump’s 15-point Gaza peace plan",
-        "description": "Benjamin Netanyahu, prime minister of Israel, has rejected US President Donald Trump’s 15-point plan for Gaza.",
-        "url": "https://www.thecable.ng/netanyahu-rejects-trumps-15-point-gaza-peace-plan/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2023/10/Netanyahu-e1750765653426.jpg",
-        "publishedAt": "2026-08-09T20:43:00Z",
-        "source": "TheCable"
-      },
-      {
-        "title": "Record Heat, Then the Storms: How Belarus Survived Extreme Summer 2026",
-        "description": "One week Belarus hits 40.3 degrees and the rivers start evaporating. The next, streets turn into rivers, trees snap like matchsticks, and thousands lose power",
-        "url": "https://news.by/eng/news/obshchestvo/record-heat-then-the-storms-how-belarus-survived-extreme-summer-2026",
-        "image": "https://s3-minsk.becloud.by/media-assets/news-by/ee7c8200-e5e2-4d82-acd6-938f2952fe4a/conversions/6faf1301-84c3-44c4-8f4d-64d5e62b9fb3-xl-___webp_1920.webp",
-        "publishedAt": "2026-08-09T20:33:44Z",
-        "source": "News.by"
-      },
-      {
-        "title": "The Ongoing And Worsening Refugee Crisis: Rethinking Global Response",
-        "description": "As defined by the United Nations, a refugee is an individual who is forced to leave their home nation due to war, persecution, or violence, and at the end of 2025 over 117.8 million people were for…",
-        "url": "https://theowp.org/reports/the-ongoing-and-worsening-refugee-crisis-rethinking-global-response/",
-        "image": "https://theowp.org/wp-content/uploads/2026/07/34715169793_10110309d8_b.jpg",
-        "publishedAt": "2026-08-09T20:30:43Z",
-        "source": "theowp.org"
+        "title": "‘We’re Screwed!’ Ex-Trump White House Lawyer Issues Doomsday Forecast After Todd Blanche Wins AG Confirmation Vote",
+        "description": "White House lawyer turned fierce Trump critic Ty Cobb told Zeteo's Mehdi Hasan that the country is \"screwed\" now that Todd Blanche is attorney general.",
+        "url": "https://uk.news.yahoo.com/screwed-ex-trump-white-house-221538618.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a1f205d8e5f38c7cf8479ea934bfd47df2bf7ab878c178e84e5e625390e920e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F0daaffba1834611322d3b8e60a45edb6",
+        "publishedAt": "2026-08-09T22:15:38Z",
+        "source": "Yahoo News UK"
       }
     ],
     "business": [
       {
-        "title": "3 ASX 200 earnings results that could move your portfolio this week",
-        "description": "CBA, Telstra and Origin Energy all report within 48 hours. Here's what to watch in three ASX earnings results.",
-        "url": "https://www.fool.com.au/2026/08/10/3-asx-200-earnings-results-that-could-move-your-portfolio-this-week/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2026/08/look-16.9-1200x675.jpg",
-        "publishedAt": "2026-08-09T20:50:07Z",
-        "source": "The Motley Fool Australia"
+        "title": "Signs amass indicating a fragile employment market",
+        "description": "Thailand's unemployment rate remains relatively low, but the labour market is showing signs of weakening, says SCB Economic Intelligence Center (EIC), the research arm of Siam Commercial Bank.",
+        "url": "https://www.bangkokpost.com/business/general/3299187/signs-amass-indicating-a-fragile-employment-market",
+        "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/10/6183097_700.jpg",
+        "publishedAt": "2026-08-09T22:37:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "QV says 'an already subdued' housing market is 'losing what little momentum it had'",
-        "description": "QV says average NZ residential property values down 1.5% over the three months to the end of July",
-        "url": "https://www.interest.co.nz/property/139714/qv-says-average-nz-residential-property-values-down-15-over-three-months-end-july",
-        "image": "https://www.interest.co.nz/sites/default/files/2024-09/House_in_storm.jpg",
-        "publishedAt": "2026-08-09T20:45:00Z",
-        "source": "Interest.co.nz"
+        "title": "Riot Announces New Date for Second Quarter 2026 Earnings Conference Call",
+        "description": "CASTLE ROCK, Colo., Aug. 09, 2026 (GLOBE NEWSWIRE) -- Riot Platforms, Inc. (NASDAQ: RIOT) ('Riot” or 'the Company”), a leader in vertically integrated digital infrastructure specializing in the development of large-scale data centers and Bitcoin mining applications, announced today that it has rescheduled the second quarter 2026 earnings conference call for Monday, August 10, 2026, at 4:30 P.M. EST.",
+        "url": "https://www.manilatimes.net/2026/08/10/tmt-newswire/globenewswire/riot-announces-new-date-for-second-quarter-2026-earnings-conference-call/2401649",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/10/1169902.png",
+        "publishedAt": "2026-08-09T22:34:42Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "I ranked 7 major Canadian cities based on friendliness - you won't like the winner",
-        "description": "From Vancouver and Toronto to Montreal and Victoria, I ranked seven major Canadian cities based on how friendly they really are. As someone born and raised in Canada, here's my completely subjective ranking—and why Vancouver landed dead last.",
-        "url": "https://www.narcity.com/toronto/i-ranked-major-canadian-cities-based-on-friendliness",
-        "image": "https://www.narcity.com/media-library/candian-girl-in-green-varsity-jacket-and-blue-jeans-takes-selfie-smiling-right-a-picturesque-view-of-the-cn-tower-framed-by-tr.jpg?id=67065404&width=1200&height=600&coordinates=0%2C36%2C0%2C36",
-        "publishedAt": "2026-08-09T20:42:56Z",
-        "source": "Narcity"
+        "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be",
+        "description": "\"When this message sinks in, other countries will redouble their search for more attractive, readily usable alternatives.\"",
+        "url": "https://fortune.com/2026/08/09/dollar-dominance-yen-usd-japan-treasury-debt-yields-intervention-dedollarization-gold/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287651197-e1786310364916.jpg?resize=1200,600",
+        "publishedAt": "2026-08-09T22:33:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "The habit, not the steel",
-        "description": "Stay connected via Google News Why Nigeria’s next oil boom will depend less on replacing ageing infrastructure than…",
-        "url": "https://www.thecable.ng/the-habit-not-the-steel/",
-        "image": "https://www.thecable.ng/wp-content/uploads/2026/07/1612769551_crude-oil-barrel-shut-2026-07-27-176.jpg",
-        "publishedAt": "2026-08-09T20:42:00Z",
-        "source": "TheCable"
+        "title": "JINRO Unveils Global Limited-Edition 'K-POP Star Toad' Green Grape",
+        "description": "JINRO, the world's No. 1 soju brand, announces the launch of a limited-edition product featuring its 'K-POP Star Toad' label. Featured on JINRO Green Grape, the brand's top-selling fruit liqueur in international markets, the special edition will be available in limited quantities.",
+        "url": "https://finance.yahoo.com/media-advertising/articles/jinro-unveils-global-limited-edition-223000193.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/A7385940B4270B4610DCBF1A1AB547A8C98305BB33D3F3BEFF43D886C80DCC14/subgraphmysterio/resizefill_w1200_h810;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F02e48db351aa18bb70be4bb51761d834",
+        "publishedAt": "2026-08-09T22:30:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Marks and Spencer loungewear set 'I love so much I bought four' - get it for £1",
-        "description": "\"This set was my first purchase and I loved them so much I’ve bought four more.\"",
-        "url": "https://www.manchestereveningnews.co.uk/whats-on/shopping/marks-spencer-loungewear-set-i-34420181",
-        "image": "https://i2-prod.manchestereveningnews.co.uk/article34420464.ece/ALTERNATES/s1200d/1_Pyjama-set-2.png",
-        "publishedAt": "2026-08-09T20:38:00Z",
-        "source": "Manchester Evening News"
+        "title": "Apple tests Chinese memory chips",
+        "description": "Apple is testing memory chips from China’s CXMT across its product lines, including iPhones and MacBooks, as global tech reckons with an AI-induced memory shortage.",
+        "url": "https://www.semafor.com/article/08/09/2026/apple-tests-chinese-memory-chips",
+        "image": "https://img.semafor.com/f3c2ac2e0df0b6900825a81bd3d73158eeea9033-7146x4766.jpg?rect=0,507,7146,3752&w=1200&h=630&q=75&auto=format",
+        "publishedAt": "2026-08-09T22:27:00Z",
+        "source": "Semafor"
       },
       {
-        "title": "Law Firms Double Down on Asia Private Credit as Market Matures",
-        "description": "Law firms in Asia are boosting their focus on private credit as the market enters a new phase of maturity, despite vulnerabilities emerging elsewhere.",
-        "url": "https://www.law.com/international-edition/2026/08/09/law-firms-double-down-on-asia-private-credit-as-market-matures-/?slreturn=20260809170551",
-        "image": "https://images.law.com/brightspot/6f/a6/6ae15e2141b08b6276150d1bb373/assorted-asian-money-display-jpg767x505.jpg",
-        "publishedAt": "2026-08-09T20:36:16Z",
-        "source": "Law.com"
+        "title": "Industrial sector confronts looming labour crisis",
+        "description": "Thailand's labour outlook this year remains contradictory. While layoffs are expected to reach 500,000 due to a slowing manufacturing sector, with more factories closing than opening as business revenue declines, the Joint Standing Committee on Commerce, Industry and Banking is concerned about a shortage of foreign labour caused by hiring restrictions and allegations of corruption.",
+        "url": "https://www.bangkokpost.com/business/general/3299227/industrial-sector-confronts-looming-labour-crisis",
+        "image": "https://static.bangkokpost.com/media/content/20260810/c1_3299227_260810052959_700.jpg",
+        "publishedAt": "2026-08-09T22:27:00Z",
+        "source": "bangkokpost.com"
       },
       {
-        "title": "Permian Resources (PR) Is Down 5.4% After Record Q2 Earnings And Higher 2026 Oil Guidance - What's Changed",
-        "description": "In early August 2026, Permian Resources Corporation reported that second-quarter net income rose to US$792.46 million, with basic earnings per share from continuing operations increasing to US$0.95, while also affirming a quarterly base dividend of US$0.16 per share.\nAlongside record free cash flow, the company raised its full-year 2026 oil production guidance to about 199,000 barrels per day at the midpoint, highlighting efficiency gains and expanded Delaware Basin inventory.\nWe’ll now...",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-pr/permian-resources/news/permian-resources-pr-is-down-54-after-record-q2-earnings-and",
-        "image": "https://images.simplywall.st/asset/industry/1032000-choice1-main-header/1585186548616",
-        "publishedAt": "2026-08-09T20:34:36Z",
-        "source": "simplywall.st"
+        "title": "Gold Price Forecast: Weak NFP Boosts XAU Bull Case but US CPI and 3,500 Level Hold the Key",
+        "description": "Gold enters the new week with renewed bullish momentum after rebounding from the critical $4,000 support zone, while a weaker U.S. dollar and softer American employment data have strengthened expectations for a less aggressive Federal Reserve.",
+        "url": "https://www.fxleaders.com/news/2026/08/09/gold-price-forecast-weak-nfp-boosts-xau-bull-case-but-us-cpi-and-3500-level-hold-the-key/",
+        "image": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/07/27063522/Gold-Price-Forecast-2-scaled.webp",
+        "publishedAt": "2026-08-09T22:21:48Z",
+        "source": "FXLeaders"
       },
       {
-        "title": "Marriott Vacations Worldwide (VAC) Is Up 26.6% After Boosting 2026 Sales Outlook And Adding AI-Focused Strategist - What's Changed",
-        "description": "In early August 2026, Marriott Vacations Worldwide reported second-quarter revenue of US$1,320 million and net income of US$77 million, and raised its full-year 2026 contract sales guidance to a range of US$2,080 million to US$2,115 million.\nThe company paired this upgraded outlook with the appointment of a Chief Strategy & Transformation Officer to accelerate analytics, artificial intelligence adoption, and product development, signaling management’s focus on execution behind the higher...",
-        "url": "https://simplywall.st/stocks/us/consumer-services/nyse-vac/marriott-vacations-worldwide/news/marriott-vacations-worldwide-vac-is-up-266-after-boosting-20",
-        "image": "https://images.simplywall.st/asset/industry/4212000-choice1-main-header/1585186649420",
-        "publishedAt": "2026-08-09T20:33:34Z",
-        "source": "simplywall.st"
+        "title": "WTI (USOIL) Surges on Aug 9: Key Factors to Watch",
+        "description": "Middle East geopolitical tensions and supply outages drive US crude oil price increases.Permian Basin production slowdowns and low Cushing inventories support upward price pressure.A weakening US Dollar and anticipated interest rate cuts boost commodity purchasing power.",
+        "url": "https://www.tradingkey.com/news/market-movers/262090836-market-movers-usoil-20260809",
+        "image": "https://resource.tradingkey.com/uploads/20260609/commodities-6-95be6ad57a434d12982be2121dc1e23d.jpg",
+        "publishedAt": "2026-08-09T22:20:13Z",
+        "source": "TradingKey"
       }
     ],
     "science": [
+      {
+        "title": "Faint Flash From Dying Star Forces Astronomers to Rethink How Stars Explode",
+        "description": "A dying star's brief X-ray flash is helping scientists rethink the line between ordinary supernovae and cosmic giants.",
+        "url": "https://studyfinds.com/faint-flash-from-dying-star-forces-astronomers-to-rethink-how-stars-explode/",
+        "image": "https://studyfinds.com/wp-content/uploads/2026/08/Massive-Star-Explosion-Sn-2026gzf.jpg",
+        "publishedAt": "2026-08-09T22:22:16Z",
+        "source": "studyfinds.com"
+      },
+      {
+        "title": "A prospective study of resilience, stress, and mental and physical health following a large-scale terrorist attack",
+        "description": "On October 7, 2023, the southern and central regions of Israel experienced a deadly terror attack that resulted in the deaths of approximately 1,400 civilians and the abduction of 251 people. Previous studies document adverse psychological and physical consequences of exposure to large-scale violence or terror attacks and identify resilience as an important protective factor. The mechanisms that link resilience with health outcomes in the context of a prolonged collective trauma, however, remain insufficiently understood. This prospective study examines the mediating role of stress in the association between resilience and both mental and self-rated physical health among civilians after a large-scale incident. The study tracks 250 participants across two time points, with assessments conducted shortly before and several months after the attack. Findings reveal that mental and self-rated physical health decline significantly after the attack; resilience is positively associated with mental and self-rated physical health; and synchronous-mediation analyses indicate that these associations are statistically mediated by perceived stress, whereas no significant time-lagged mediation effects are observed. These findings support the relevance of an established resilience–stress–health framework in the context of prolonged collective trauma and suggest that perceived stress may represent one pathway from resilience to health outcomes. Further investigation of the personal, social, and biological determinants of resilience may inform interventions aimed at promoting adaptation during prolonged adversity.",
+        "url": "https://www.nature.com/articles/s41598-026-66171-3?error=cookies_not_supported&code=9ec1fc61-8e37-4af2-a39b-75bb7004fe35",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-09T22:18:00Z",
+        "source": "Nature"
+      },
+      {
+        "title": "sized planet orbiting a dead star is still warm",
+        "description": "A Jupiter-sized planet called \"WD 1856 b\" is hundreds of degrees too warm, 10 billion years after its star died.",
+        "url": "https://www.earth.com/news/planet-wd-1856-b-outlived-its-star-hundreds-of-degrees-warmer-than-it-should-be/",
+        "image": "https://cff2.earth.com/uploads/2026/08/03190926/exoplanet-WD-1856-b-jupiter-size-star-dead-still-warm_ESA_1m.jpg",
+        "publishedAt": "2026-08-09T22:07:30Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "Ocean acidification drove a major extinction 113 million years ago",
+        "description": "A deep ocean core reveals that surface plankton stopped making shells and died around 113 million years ago, while benthic plankton survived.",
+        "url": "https://www.earth.com/news/ocean-acidification-caused-plankton-to-stop-building-shells-113-million-years-ago/",
+        "image": "https://cff2.earth.com/uploads/2026/08/08120410/Ocean-acidification-drove-a-mass-extinction-of-ocean-plankton-1000x563.png",
+        "publishedAt": "2026-08-09T22:07:30Z",
+        "source": "Earth.com"
+      },
+      {
+        "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+        "description": "The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.",
+        "url": "https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2024-08-12T050910Z_298061794_RC22E9ADT0Q0_RTRMADP_3_METEOR-SHOWER-SPAIN-1024x683.jpg",
+        "publishedAt": "2026-08-09T22:05:27Z",
+        "source": "PBS"
+      },
+      {
+        "title": "Intricate Carvings in Ostrich Eggshells From 60,000 Year Ago Reveal ‘Remarkable’ Human Thinking",
+        "description": "60,000 years ago, humans in Africa were engraving ostrich eggshells with intricate geometric patterns revealing ‘Remarkable’ human thinking.",
+        "url": "https://www.goodnewsnetwork.org/intricate-carvings-in-ostrich-eggshells-from-60000-year-ago/",
+        "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Fragments-of-ancient-etched-ostrich-eggshells-from-Diepkloof-site-Courtesy-of-University-of-Bologna-Pierre-Jean-Texier.jpg",
+        "publishedAt": "2026-08-09T21:28:03Z",
+        "source": "Good News Network"
+      },
+      {
+        "title": "Optogenetics: Controlling yeast with light",
+        "description": "NUS boffins use light to control engineered yeast for biotechnology breakthroughs, making biological manufacturing more predictable. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/singapore/nus-boffins-brandish-light-beams-for-biotechnology-breakthrough",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ee66b51bc9bfb7a0e315b9094f2b10f3dab9b375add89f4c6f566c9814e38e4a",
+        "publishedAt": "2026-08-09T21:00:00Z",
+        "source": "The Straits Times"
+      },
       {
         "title": "In 1875, Charles Darwin first suggested two plant species might be carnivorous, new study finds unique flower matches legendary naturalists' hypothesis. Check how does it catch insects",
         "description": "Catching insects comes with a potential drawback. Many carnivorous plants depend on insects for pollination and risk ​trapping the very visitors needed for reproduction.",
@@ -142,128 +198,72 @@
         "image": "https://img.etimg.com/thumb/msid-133074823,width-1200,height-630,imgsize-66042,overlay-economictimes/articleshow.jpg",
         "publishedAt": "2026-08-09T19:43:21Z",
         "source": "The Economic Times"
-      },
-      {
-        "title": "How and when to see a double meteor shower this week",
-        "description": "Two meteor showers — the Alpha Capricornids and Southern Delta Aquariids — peak this week. A full moon will make viewing a challenge, but here's how to try.",
-        "url": "https://www.scrippsnews.com/science-and-tech/space/sky-gazers-can-look-forward-to-a-double-meteor-shower-peak-this-week-how-and-when-to-see-it",
-        "image": "https://ewscripps.brightspotcdn.com/dims4/default/a6bb1ac/2147483647/strip/true/crop/6191x3250+0+419/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3f%2F54%2Ff276cddd415e90ee06bf8b267005%2Fap26218729407404.jpg",
-        "publishedAt": "2026-08-09T18:52:57Z",
-        "source": "scrippsnews.com"
-      },
-      {
-        "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
-        "description": "The Perseid summer light show is back—and viewing conditions are especially promising for the Northern Hemisphere.",
-        "url": "https://phys.org/news/2026-08-perseid-meteor-shower-summer-dazzle.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-to-spot-the-persei.jpg",
-        "publishedAt": "2026-08-09T18:52:39Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Scientist uses gene-editing to breed dog that won’t trigger his allergies",
-        "description": "A scientist with a dog allergy has bred a puppy that will not make him sneeze, in a breakthrough that could help prospective pet owners.",
-        "url": "https://www.yahoo.com/news/science/articles/scientist-uses-gene-editing-breed-184647731.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5724ea38f0d84791ee6ef92664d11eec3cd60a10250bbe59686d938b2a71b82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fd77df19bb4b23e00286833e1b214e111",
-        "publishedAt": "2026-08-09T18:46:47Z",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Tracking total solar eclipse, totality this Wednesday August 12",
-        "description": "This Wednesday is setting up to be a blockbuster day for skywatchers across the world as a total solar eclipse will steal the show for millions who are lucky enough to see it.",
-        "url": "https://www.foxweather.com/earth-space/total-solar-eclipse-darkness-world-totality-europe-america-partial-sun",
-        "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/08/1024/512/gettyimages-2189523997-scaled.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-09T18:44:00Z",
-        "source": "FOX Weather"
-      },
-      {
-        "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-        "description": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visible",
-        "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-        "image": "https://i.guim.co.uk/img/media/20261b375dd07330ea4b3a2f08b24d050788a8b0/623_0_6225_4980/master/6225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06ea7478f49879a5d713c2ae7ffe21de",
-        "publishedAt": "2026-08-09T18:43:00Z",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Astronomers Capture the Sun’s Most Detailed Images and Reveal Plasma Vortices",
-        "description": "Astronomers using the Inouye Solar Telescope captured the most detailed images of the Sun and clarified how plasma vortices influence space weather.",
-        "url": "https://mezha.net/eng/bukvy/504ce332_astronomers_capture_the/",
-        "image": "https://mezha.net/eng/kd_image_generate/504ce332_astronomers_capture_the/3364971.jpg?ver=2.0.15",
-        "publishedAt": "2026-08-09T18:42:25Z",
-        "source": "Межа. Новини України."
-      },
-      {
-        "title": "NASA says Perseverance has driven more than 90% of its Mars journey autonomously",
-        "description": "Perseverance has completed more than 90% of its driving autonomously, according to NASA’s Jet Propulsion Laboratory, making it the most capable self-driving ro…",
-        "url": "https://mlq.ai/news/nasa-says-perseverance-has-driven-more-than-90-of-its-mars-journey-autonomously/",
-        "image": "https://mlq.ai/static/mlq/og-default.png",
-        "publishedAt": "2026-08-09T18:41:58Z",
-        "source": "MLQ.ai"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI Is Removing ChatGPT's Text Limits Next Week",
-        "description": "OpenAI's latest update lets free and Go accounts chat with ChatGPT endlessly via text, alongside a new default model and a Think button for deeper answers.",
-        "url": "https://www.gizchina.com/openai/openai-is-removing-chatgpts-text-limits-next-week",
-        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2025-07%2Fopenai-chip.webp",
-        "publishedAt": "2026-08-09T20:46:00Z",
-        "source": "Gizchina.com"
+        "title": "powered forecasts led to savings of USD 560 per small farmer in Telangana: report",
+        "description": "NEW DELHI, Aug 9:  Artificial Intelligence-powered weather forecasts helped small farmers in Telangana save as much as USD 560 by altering their behaviour in response to specific risks, a World Bank report said. Citing the Telangana study and other examples,...",
+        "url": "https://www.dailyexcelsior.com/ai-powered-forecasts-led-to-savings-of-usd-560-per-small-farmer-in-telangana-report/",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTk3Y2Q2OWQwLTk0NDItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-09T22:35:04Z",
+        "source": "Daily Excelsior"
       },
       {
-        "title": "Mark Cuban Says These 5 Types of Jobs Are Most at Risk From AI",
-        "description": "Make Money: 8 dumb ways to make money (almost anyone can do this)",
-        "url": "https://www.europesays.com/3184972/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/2d8bea54-e198-4267-b497-a744c0c909b1.jpg",
-        "publishedAt": "2026-08-09T20:33:18Z",
-        "source": "EUROPE SAYS"
+        "title": "AI is powering US GDP: Why India cannot afford to be left behind",
+        "description": "AI infra requires enormous upfront investment, which immediately adds to GDP through construction, equipment purchases and engineering. While India cannot match American investment in AI overnight, it can emulate the strategy.",
+        "url": "https://economictimes.indiatimes.com/prime/technology-and-startups/ai-is-powering-us-gdp-why-india-cannot-afford-to-be-left-behind/primearticleshow/133070244.cms",
+        "image": "https://img.etimg.com/thumb/msid-133070264,width-1070,height-580,imgsize-83797/photo.jpg",
+        "publishedAt": "2026-08-09T22:30:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle.",
-        "description": "SpaceX’s exclusive commitment to Nvidia signals the chipmaker’s AI leadership is expanding into entirely new markets.",
-        "url": "https://www.barchart.com/story/news/3746369/nvidia-is-going-to-space-with-elon-musk-s-million-satellites-plan-here-s-why-it-could-be-the-start-of-a-trillion-dollar-cycle",
-        "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/NVIDIA%20Corp%20logo%20outside%20building-by%20BING-JHEN_HONG%20via%20iStock.jpg",
-        "publishedAt": "2026-08-09T20:11:12Z",
-        "source": "Barchart"
+        "title": "The Reason Building Data Centers In Antarctica Isn't A Solution For The AI Boom",
+        "description": "Cold weather is great for data centers, but the icy continent has many challenges. The internet's slow, there's not enough power, and much more.",
+        "url": "https://www.bgr.com/2229105/why-data-centers-built-antarctica-isnt-solution-ai-explained/",
+        "image": "https://www.bgr.com/img/gallery/the-reason-building-data-centers-in-antarctica-isnt-a-solution-for-the-ai-boom/l-intro-1785772626.jpg",
+        "publishedAt": "2026-08-09T22:17:00Z",
+        "source": "BGR"
       },
       {
-        "title": "The numbers that changed how to think about AI data centres",
-        "description": "The numbers that changed how to think about AI data centres",
-        "url": "https://www.e-know.ca/regions/east-kootenay/the-numbers-that-changed-how-to-think-about-ai-data-centres/",
-        "image": "https://s3.amazonaws.com/wpe-e-know.ca/eknow/wp-content/uploads/2026/08/Cloud-Water.jpg",
-        "publishedAt": "2026-08-09T20:04:43Z",
-        "source": "East Kootenay News"
+        "title": "Commentary: Can AI improve my parenting? Maybe, but not in the way Sam Altman thinks",
+        "description": "There are genuinely useful ways the technology can help with this. But Sam Altman’s ChatGPT tips are not among them, says the Financial Times’ Robert Shrimsley.",
+        "url": "https://www.channelnewsasia.com/commentary/commentary-can-ai-improve-my-parenting-maybe-not-in-way-sam-altman-thinks-6308306",
+        "image": "https://dam.mediacorp.sg/image/upload/s--sifmoane--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/02/12/istock-2192122695.jpg?itok=e0moDhXl",
+        "publishedAt": "2026-08-09T21:59:00Z",
+        "source": "CNA"
       },
       {
-        "title": "‘KGMU’s digital transformation, AI-driven healthcare my priorities’",
-        "description": "KGMU VC Prof Soniya Nityanand begins 2nd term, prioritising AI-driven digital transformation, new centres, service upgrades, and land-linked expansion plans.",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/kgmus-digital-transformation-ai-driven-healthcare-my-priorities/articleshow/133074860.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133074859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-09T19:55:00Z",
-        "source": "Times of India"
+        "title": "UAE advances integration of agentic AI across Federal Government",
+        "description": "More than 100 federal officials have attended a workshop launching the strategic track of the UAE's agentic AI project, a national initiative aiming to convert 50 per cent of government operations, services, and tasks into agentic AI-driven models within two years.",
+        "url": "https://www.tribuneindia.com/news/world/uae-advances-integration-of-agentic-ai-across-federal-government/",
+        "image": "https://www.tribuneindia.com/sortd-service/assets/v22-12/dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9kZXNpZ246ZmF2aWNvbjJmOGNiY2MwLTQyODktMTFlZi04NjVmLTU3YzNkNjY2OGU0Ng==",
+        "publishedAt": "2026-08-09T21:58:09Z",
+        "source": "The Tribune"
       },
       {
-        "title": "How Cursor Recruits Elite AI Talent When Huge Salaries Aren't Enough",
-        "description": "Cursor is pulling out all the stops to nab top talent. Matt Ward, the company's head of talent, said recruiting the best takes a coordinated effort.",
-        "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
-        "image": "https://i.insider.com/6a78c4428fcc2e955f7ded51?width=1200&format=jpeg",
-        "publishedAt": "2026-08-09T19:50:44Z",
-        "source": "Business Insider"
+        "title": "UAE advances integration of agentic AI across Federal Government",
+        "description": "More than 100 federal officials have attended a workshop launching the strategic track of the UAE's agentic AI project, a national initiative aiming to convert 50 per cent of government operations, services, and tasks into agentic AI-driven models within two years.",
+        "url": "https://www.aninews.in/news/world/middle-east/uae-advances-integration-of-agentic-ai-across-federal-government20260810032412/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260809214344-thumbnail-320x180.jfif",
+        "publishedAt": "2026-08-09T21:54:12Z",
+        "source": "ANI (Asian News International)"
       },
       {
-        "title": "UAE advances agentic AI project targeting 50% of government operations",
-        "description": "More than 100 federal officials attended a workshop marking the start of the project's strategic government workstream.",
-        "url": "https://www.europesays.com/3184908/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/6a78b059826c4.jpg",
-        "publishedAt": "2026-08-09T19:34:29Z",
-        "source": "EUROPE SAYS"
+        "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+        "description": "As Silicon Valley invents the artificial-intelligence future, a growing community of hobbyists is preserving the classic computers that helped launch the",
+        "url": "https://www.breitbart.com/news/as-ai-grips-world-the-thrill-of-collecting-vintage-computers-is-growing/",
+        "image": "https://media.breitbart.com/media/2026/08/wi/ap/vintage-computer-collectors-59633-vintage-computer-collectors-1981-commodore-sp9000-super-pet-640x335.jpg",
+        "publishedAt": "2026-08-09T21:49:24Z",
+        "source": "Breitbart News Network"
       },
       {
-        "title": "Progress Software (PRGS) Rolls Out Agentic AI Tools, Is The Stock Still A Bargain?",
-        "description": "Progress Software stock reacts to new agentic AI push",
-        "url": "https://www.europesays.com/3184907/",
-        "image": "https://www.europesays.com/wp-content/uploads/2025/10/1585186669041.jpeg",
-        "publishedAt": "2026-08-09T19:33:22Z",
-        "source": "EUROPE SAYS"
+        "title": "AI Job Market Booming in India, Engineering Roles Growing 51% Every Year",
+        "description": "India is emerging as one of the biggest beneficiaries of the AI-driven transformation of the global workforce, with AI engineering roles growing 51% year-on-year and the countrys share in US companies overseas R&D hiring rising sharply, LinkedIn CEO Dan Shapero said in an exclusive interview with Dia Rekhi and Anirban Chowdhury ahead of his maiden visit to India less than four months after assuming the new role.",
+        "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/aug/10/et-front/ai-job-market-booming-in-india-engg-roles-growing-51-every-yr/articleshow/133075115.cms",
+        "image": "https://img.etimg.com/thumb/msid-133076795,width-1200,height-630,imgsize-129904,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-09T21:34:00Z",
+        "source": "The Economic Times"
       }
     ]
   }
