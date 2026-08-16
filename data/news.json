@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-16T08:48:47.326Z",
+  "fetchedAt": "2026-08-16T09:44:27.574Z",
   "sections": {
     "world": [
       {
-        "title": "After facing accusations of being DEI hire, black former Cambridge professor found dead at home",
-        "description": "UK News: LONDON: Jason Arday, the Black former Cambridge university professor, has been found dead at his home after facing relentless public scrutiny and accu.",
-        "url": "https://timesofindia.indiatimes.com/world/uk/after-facing-accusations-of-being-dei-hire-black-former-cambridge-professor-found-dead-at-home/articleshow/133267548.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133267553,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-15T20:42:00Z",
-        "source": "The Times of India"
-      },
-      {
-        "title": "How healthier farm animals can cut greenhouse gas emissions",
-        "description": "When a dairy cow miscarries, a farmer loses far more than an unborn calf. Feed has been grown, land and water have been used, and greenhouse gases have been released during the cow's pregnancy, but milk production, a future animal and income are lost.",
-        "url": "https://phys.org/news/2026-08-healthier-farm-animals-greenhouse-gas.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-healthier-farm-ani.jpg",
-        "publishedAt": "2026-08-15T20:40:02Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Germany: Berlin techno fans pause for Pride attack victims",
-        "description": "Rave the Planet is taking place under high security after last month's deadly Islamist attack. Also: Russia labels another German institute as \"undesirable.\" DW has more.",
-        "url": "https://www.dw.com/en/germany-berlin-techno-fans-pause-for-pride-attack-victims/live-78378773",
-        "image": "https://static.dw.com/image/78384884_6.jpg",
-        "publishedAt": "2026-08-15T20:37:15Z",
-        "source": "dw.com"
-      },
-      {
-        "title": "'It was like fan fiction': The strange story behind Fiji's origin myth",
-        "description": "Fiji's origin story began in a newspaper. Its echoes now reach from village faith to foreign policy.",
-        "url": "https://www.sbs.com.au/news/article/fiji-israel-lost-tribe-guiding-foreign-policy/4pndfmwzp",
-        "image": "https://assets.sbs.com.au/dims4/default/c749beb/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8b%2Ff7%2Fa8f32694496aabb432cc9b9e66f8%2Ffiji-israel-header-v4.png",
-        "publishedAt": "2026-08-15T20:37:05Z",
-        "source": "SBS"
-      },
-      {
-        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-        "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-        "publishedAt": "2026-08-15T20:28:30Z",
+        "title": "Australian state to begin gun buyback after Bondi Beach attack",
+        "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+        "url": "https://www.bbc.com/news/articles/cgjee21eenvo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+        "publishedAt": "2026-08-15T21:41:43Z",
         "source": "BBC"
       },
       {
-        "title": "Mohsen Rezaei’s son among nine identified in $11-billion Iran oil network",
-        "description": "Relatives of some of Iran’s most powerful security figures, including Mohsen Rezaei’s son, were among nine people tied to an oil-sales network that sources say failed to return about $11 billion in proceeds, an Iran International investigation found.",
-        "url": "https://www.iranintl.com/en/202608155463",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/f8b6745a6bda5e1e5cc211fbbd560264b8e7b840-768x432.png?rect=0,15,768,403&w=1200&h=630&q=66&fit=max&auto=format",
-        "publishedAt": "2026-08-15T20:27:00Z",
-        "source": "iranintl.com"
+        "title": "Lithuanian border guard injured as migrants try to pull him into Belarus",
+        "description": "At the end of July, on the Lithuanian-Belarusian border, migrants attacked a border guard and attempted to push him toward the territory of Belarus. The victim sustained minor injuries and is currently on sick leave",
+        "url": "https://newsukraine.rbc.ua/news/migrants-injure-lithuanian-border-guard-and-1786828643.html",
+        "image": "https://newsukraine.rbc.ua/static/img/g/e/gettyimages_1356425392_4d82794f2acff36ebe334be0f7704424_1300x820_362103e6adb5a718c2d7acdb37347231_650x410.jpg",
+        "publishedAt": "2026-08-15T21:40:15Z",
+        "source": "RBC-Ukraine"
       },
       {
-        "title": "Al-Shabaab and the Emerging Debate Over a Taliban-Style Political Transition",
-        "description": "An independent security-focused media platform and analysis network that specializes in reporting, analysis, and fact-checking related to terrorism, insurgency, crime, and regional security issues—particularly in the Lake Chad Basin and West Africa.",
-        "url": "https://zagazola.org/index.php/breaking-news/al-shabaab-and-the-emerging-debate-over-a-taliban-style-political-transition",
-        "image": "https://zagazola.org/favicon.ico",
-        "publishedAt": "2026-08-15T20:19:41Z",
-        "source": "zagazola.org"
+        "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
+        "description": "Authorities in Morocco have arrested 111 people attempting to cross into Spain's Ceuta, amid tightened security triggered by a deadly mass crossing in July.",
+        "url": "https://www.abc.net.au/news/2026-08-16/morocco-cracks-down-on-spain-ceuta-border-crossing-migrants/107043110",
+        "image": "https://live-production.wcms.abc-cdn.net.au/e9fa95ab10b5bac6315ced15dbf084f3?impolicy=wcms_watermark_news&cropH=2106&cropW=3744&xPos=0&yPos=195&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-15T21:39:18Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
-        "title": "'Devastated' baby killer Lucy Letby stayed holed up alone in prison cell for hours after hearing about 'Doctor A' death",
-        "description": "BABY killer Lucy Letby stayed holed up in her prison cell alone for hours after being told about the death of her doctor friend.\nA prison...",
-        "url": "https://www.thesun.ie/news/17465195/baby-killer-lucy-letby-holed-up-cell/",
-        "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-gludd9j7s-1786817056124.jpg?quality=90&strip=all&1786828526&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-08-15T20:18:02Z",
-        "source": "The Irish Sun"
+        "title": "Spain flood kills two, injures two babies",
+        "description": "Spain flood kills two, injures two babies",
+        "url": "https://www.rnz.co.nz/news/world/1010117/spain-flood-kills-two-injures-two-babies",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--_oiAPE2B--/t_tohu-badge-facebook/f_auto/q_auto/4QQR89S_26623230_l_jpg",
+        "publishedAt": "2026-08-15T21:30:00Z",
+        "source": "RNZ"
+      },
+      {
+        "title": "Iran Rejects Trump’s Plot To Declare Strait Of Hormuz US Territory",
+        "description": "Iran has rejected United States President, Donald Trump’s plan to declare the strategic Strait of Hormuz a territory of the United States, with Tehran warning that the waterway cannot be seized through military force, presidential orders or political declarations. Iranian Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, issued the warning after Trump announced that he would soon declare the strategically important waterway US territory.",
+        "url": "https://saharareporters.com/2026/08/15/iran-rejects-trumps-plot-declare-strait-hormuz-us-territory",
+        "image": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+        "publishedAt": "2026-08-15T21:27:37Z",
+        "source": "Sahara Reporters"
+      },
+      {
+        "title": "Live updates: US-Iran war news; Strait of Hormuz stalemate continues",
+        "description": "The US and Iran remain in a stalemate over the Strait of Hormuz. Meanwhile, Houthi attacks shut down a strategic port in Yemen. Follow the latest updates.",
+        "url": "https://edition.cnn.com/2026/08/15/world/live-news/iran-war-trump",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289908035.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-15T21:26:00Z",
+        "source": "CNN"
+      },
+      {
+        "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+        "description": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5931811",
+        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "publishedAt": "2026-08-15T21:20:51Z",
+        "source": "NPR"
+      },
+      {
+        "title": "Lala strengthens into hurricane as it barrels toward Hawaii",
+        "description": "Hurricane Lala took aim at Hawaii's Big Island on Saturday on a forecast track for possible landfall, which would be the island's first direct hit from a hurricane in 155 years.",
+        "url": "https://www.cbc.ca/news/world/tropical-storm-lala-hawaii-9.7308650",
+        "image": "https://i.cbc.ca/ais/d9872c94-d264-485f-9035-6cedd046493b,1786826619709/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C403%2C7718%2C4341%29%3BResize%3D620",
+        "publishedAt": "2026-08-15T21:20:40Z",
+        "source": "CBC"
       }
     ],
     "business": [
       {
-        "title": "U.S. oil reserves are so low amid Trump’s Iran war the caverns holding them could be damaged",
-        "description": "The supply strain comes as drivers face unprecedented late-summer pump prices, with the national average hitting a mid-August record of $4.07 per gallon",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
-        "image": "https://static.independent.co.uk/2026/08/15/20/14/GettyImages-1434807937.jpeg?trim=171,0,241,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-08-15T20:44:00Z",
-        "source": "The Independent"
+        "title": "China targets its ultra-wealthy living abroad in tax bid",
+        "description": "As Beijing seeks to close its budget deficit, authorities are tightening regulations on trusts established outside China, commonly used by the country's super-rich to avoid taxes.",
+        "url": "https://www.lemonde.fr/en/economy/article/2026/08/15/china-targets-its-ultra-wealthy-living-abroad-in-tax-bid_6756550_19.html",
+        "image": "https://img.lemde.fr/2026/08/12/0/1/5998/3999/1440/960/60/0/86dfd41_upload-1-rzortkk457q9-063-2218513004.jpg",
+        "publishedAt": "2026-08-15T21:41:50Z",
+        "source": "Le Monde.fr"
       },
       {
-        "title": "National Lottery Lotto results: Winning numbers for tonight's 'two chance' £3.5m draw",
-        "description": "Live results checker for tonight's Lotto draw",
-        "url": "https://www.manchestereveningnews.co.uk/news/uk-news/national-lottery-lotto-results-winning-34465652",
-        "image": "https://i2-prod.manchestereveningnews.co.uk/article34335825.ece/ALTERNATES/s1200d/0_National-Lottery-report.jpg",
-        "publishedAt": "2026-08-15T20:37:58Z",
-        "source": "Manchester Evening News"
+        "title": "How Varonis' New AI Agent IBAC Safeguards Within Atlas Have Changed Its Investment Story (VRNS)",
+        "description": "In early August 2026, Varonis Systems, Inc. launched Agent Intent-Based Access Control (IBAC) within its Atlas platform, adding safeguards that continuously monitor AI agents’ reasoning, tool use, and data access and can alert on, block, or quarantine out-of-policy behavior.\nThe new IBAC capability stands out by offering full-session evaluation, customizable plain-language policies, human-in-the-loop review, and detailed audit trails, all integrated with widely used AI coding and copilot...",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-vrns/varonis-systems/news/how-varonis-new-ai-agent-ibac-safeguards-within-atlas-have-c",
+        "image": "https://images.simplywall.st/asset/industry/8042000-choice1-main-header/1585186669041",
+        "publishedAt": "2026-08-15T21:36:58Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Person hit by train in Somerset",
-        "description": "All trains are delayed south of Taunton",
-        "url": "https://www.devonlive.com/news/devon-news/person-hit-train-somerset-updates-11112388",
-        "image": "https://i2-prod.cornwalllive.com/incoming/article10958340.ece/ALTERNATES/s1200/0_GWR-train-Exeter-St-Davidsjfif.jpg",
-        "publishedAt": "2026-08-15T20:35:13Z",
-        "source": "Devon Live"
+        "title": "USA Rare Earth (USAR) Could Be Fully Priced As Tariff News And Earnings Lift Focus",
+        "description": "Tariff news and earnings put USA Rare Earth in focus\nUSA Rare Earth (USAR) moved into the spotlight after President Donald Trump announced new tariffs on drone imports and components, a segment that uses rare earth magnets, along with fresh second quarter earnings and conference appearances.\nSee our latest analysis for USA Rare Earth.\nFor investors watching the bigger picture, USA Rare Earth's recent 7.47% 1 day and 15.54% 30 day share price returns come after tariff headlines, earnings, and...",
+        "url": "https://simplywall.st/stocks/us/materials/nasdaq-usar/usa-rare-earth/news/usa-rare-earth-usar-could-be-fully-priced-as-tariff-news-and",
+        "image": "https://images.simplywall.st/asset/industry/2052000-choice1-main-header/1585186836557",
+        "publishedAt": "2026-08-15T21:36:57Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Nillion rises 22% following integration of Chainlink's CCIP",
-        "description": "Nillion's NIL token surged over 20% after integrating Chainlink's CCIP, enabling cross-chain transfers between Ethereum and HyperEVM and",
-        "url": "https://cryptobriefing.com/nillion-rises-chainlink-ccip-integration/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15162437/what-is-nillion-nil-the-future-of-secure-decentralized-data--800x420.jpeg",
-        "publishedAt": "2026-08-15T20:25:39Z",
+        "title": "Germany may continue to run some coal plants",
+        "description": "Germany may continue to run some coal plants",
+        "url": "https://tribune.com.pk/story/2624104/germany-may-continue-to-run-some-coal-plants",
+        "image": "https://i.tribune.com.pk/media/images/germany-coal-plants1786829393-0/germany-coal-plants1786829393-0-640x480.webp",
+        "publishedAt": "2026-08-15T21:32:55Z",
+        "source": "The Express Tribune"
+      },
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+        "publishedAt": "2026-08-15T21:29:19Z",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is Lumen Technologies (LUMN) Trading Profitability for Relevance in AI‑Driven Digital Networking?",
+        "description": "Lumen Technologies’ early August 2026 earnings report showed second-quarter sales falling to US$2,805 million while quarterly net loss narrowed to US$201 million, with similar trends over the first half of the year.\nAlongside these results, Lumen added veteran operator John M. Hinshaw to its Board, reinforcing its focus on complex technology and transformation initiatives.\nNext, we’ll examine how the weaker sales but smaller losses might reshape Lumen’s investment narrative around digital...",
+        "url": "https://simplywall.st/stocks/us/telecom/nyse-lumn/lumen-technologies/news/is-lumen-technologies-lumn-trading-profitability-for-relevan",
+        "image": "https://images.simplywall.st/asset/company-cover/260149-main-header/1585187100893",
+        "publishedAt": "2026-08-15T21:28:56Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Spot DEXs on Solana see $5.8B in trading volume for tokenized stocks",
+        "description": "Solana DEXs hit $5.8 billion in tokenized stock trading volume in Q2 2026, capturing 95% of the market as xStocks and Raydium drive record",
+        "url": "https://cryptobriefing.com/solana-dex-tokenized-stocks-volume/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15170825/blockchain-currency-logo-logo-design-metaverse-nft-solana-bi-4-800x420.jpeg",
+        "publishedAt": "2026-08-15T21:27:07Z",
         "source": "Crypto Briefing"
       },
       {
-        "title": "Optimization and in vivo evaluation of resveratrol binary transethosomes for enhanced topical delivery and efficacy against skin aging",
-        "description": "Resveratrol (RSV) holds an immense promise as a topical anti-skin aging drug. However, its clinical potential remains severely limited by its inherently poor aqueous solubility and suboptimal skin delivery. This study aimed to overcome these limitations and enhance its anti-skin aging effects through loading into deformable transethosomes (TE) and binary transethosomes (BTE) nanovesicular preparations. RSV TE were optimized using a 22 × 3 factorial design and the optimized formulation was used to formulate RSV BTE formulations. The selected RSV BTE formulation exhibited high drug entrapment (98.95 ± 0.11%), nanometric particle size (39.34 ± 0.80 nm), small polydispersity index (0.24 ± 0.01), large zeta potential (-31.87 ± 3.33 mV) and large deformability index (47.51 ± 1.11). The optimum RSV TE and BTE formulations were incorporated into hyaluronic acid (HA) hydrogels, which showed good spreadability, sustained RSV release, and higher skin permeation and deposition within the epidermis/dermis compared with RSV hydrogel. RSV BTE hydrogel demonstrated the most favorable overall anti-skin aging profile and significantly improved several aging-related parameters compared with RSV hydrogel, while generally showing numerically greater responses than RSV TE hydrogel. Mechanistic studies indicated that these superior effects were due to improved antioxidant and anti-inflammatory activities, reduced matrix metalloproteinase expression, and increased collagen deposition. RSV BTE hydrogel offers promising anti-skin aging potential through integrating RSV clinical benefits with BTE improved skin delivery and HA skin benefits.",
-        "url": "https://www.nature.com/articles/s41598-026-66756-y?error=cookies_not_supported&code=ac43c5fb-3177-4b31-a5a0-e8b2ab86bb39",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:23:51Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Pandora opens unexpected box as silver price drops",
-        "description": "Pandora will shift its jewelry to platinum plating to break its reliance on silver, even after prices dropped. Here is the plan and the risk.",
-        "url": "https://www.thestreet.com/investing/stocks/pandora-pndora-chooses-platinum-over-silver",
-        "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ2NDYy/gemstonenecklace_pl_150826.jpg?profile=share16-9",
-        "publishedAt": "2026-08-15T20:17:00Z",
-        "source": "thestreet.com"
-      },
-      {
-        "title": "The 3% ETF Outperforming 11% Competitors: How SCHD Keeps Beating Covered-Call ETFs",
-        "description": "Most income investors see an 11% yield and a 3% yield and know exactly which one to buy. The logic seems airtight until you look at what each fund actually surrenders to generate those payouts.",
-        "url": "https://247wallst.com/investing/etf/2026/08/15/the-3-etf-outperforming-11-competitors-how-schd-keeps-beating-covered-call-etfs/",
-        "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-2700521903-huge-licensed-scaled.jpg",
-        "publishedAt": "2026-08-15T20:15:55Z",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
-        "description": "The same investor just bought all three -- but only one of the charts looks like something went wrong.",
-        "url": "https://www.fool.com/investing/2026/08/15/bill-ackmans-new-stock-picks-are-interesting-sp-gl/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883742%2Fbill-ackman_pershing-square-capital-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
-        "publishedAt": "2026-08-15T20:15:48Z",
-        "source": "The Motley Fool"
+        "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
+        "description": "The S&P 500 and Nasdaq look ready to run, but haven't quite done so. Sandisk must do this. Nvidia is in a buy zone. Walmart, Target loom.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/",
+        "image": "https://www.investors.com/wp-content/uploads/2017/07/PERfin_race_072817_adobe.jpg",
+        "publishedAt": "2026-08-15T21:26:00Z",
+        "source": "Investor's Business Daily"
       }
     ],
     "science": [
+      {
+        "title": "The Planet That Lied About Its Own Spin",
+        "description": "A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet roughly 60 times faster than Venus itself actually spins. Kane proposes using multi-wavelength observations to correct for this, work that will matter enormously once the European Space Agency's PLATO mission launches in 2027 and, researchers predict, discovers several hundred Venus like exoplanets.",
+        "url": "https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin",
+        "image": "https://www.universetoday.com/article_images/magellan-radar-image-of-surface-of-venus-nasascience-photo-library_20260815_213559.jpg",
+        "publishedAt": "2026-08-15T21:40:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "Synergistic effect and comparative study of CoMn2O4 and MnCo2O4 spinel nanoparticles as promising materials for electrochemical hydrogen storage",
+        "description": "The development of stable electrode materials with high performance, based on transition metals, is vital for advancing energy storage applications. This study reports the synthesis of CoMn2O4 and MnCo2O4 spinel nanoparticles (SNPs) via a wet-chemistry method, and investigates their performance as electrode materials for electrochemical hydrogen storage. XRD analysis confirmed the formation of highly crystalline spinel structures for both samples, with an average crystallite size of 32 nm. FE-SEM imaging revealed that the CoMn2O4 and MnCo2O4 SNPs exhibit an agglomerated, polyhedral morphology, with mean particle sizes of 49 and 53 nm, respectively. BET analysis confirmed the mesoporous structure of the samples. Electrochemical studies, including cyclic voltammetry and chronopotentiometry, demonstrated excellent electrochemical performance. CoMn2O4 and MnCo2O4 SNPs exhibited a specific capacitance (Csp) of 417 and 424 F/g, at a scan rate of 10 mV/s. Furthermore, CoMn2O4 and MnCo2O4 SNPs showcased hydrogen storage capacities of 1930 and 1594 mAh/g, respectively, following 10 charge–discharge cycles. These results highlight the potential of the samples as promising candidates for electrochemical hydrogen storage.",
+        "url": "https://www.nature.com/articles/s41598-026-66304-8?error=cookies_not_supported&code=6bd5496e-5366-4a85-a1a7-b2b1ecb1c51d",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-15T21:32:14Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Migrating birds may see Earth’s magnetic field superimposed on the world around them — the result, scientists suspect, of a quantum reaction inside light-sensitive proteins in their eyes called crypto",
+        "description": "Radical-pair reactions in retinal cryptochromes offer a plausible quantum compass for birds, but neither the receptor in a living bird nor a subjective visual overlay has been directly demonstrated.",
+        "url": "https://spacedaily.com/t-migrating-birds-see-magnetic-field-cryptochrome-quantum-compass/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/pexels-spacedaily-migrating-birds-sunset-15184389-683x1024.jpg",
+        "publishedAt": "2026-08-15T21:30:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Generation of negative acoustic radiation forces",
+        "description": "Negative acoustic radiation forces act opposite to the direction of wave propagation. While this force reversal has been demonstrated for sub-wavelength particles, achieving it on objects larger than the acoustic wavelength (λ) remains challenging and has typically been demonstrated in limited cases. Expanding on the concept of acoustic pulling, we present a method to generate negative radiation forces on elastic spheres comparable to or larger than λ using a focused multi-element array. Unlike previous demonstrations requiring sources that surround the object or the object to have specific material properties or geometries, we generate tailored acoustic beams that impart negative forces on solid glass spheres positioned 9.5 centimeters away from the transducer’s aperture plane. The beams exhibit an on-axis null region and refocus the pressure behind the sphere, thus minimizing backscatter and enabling the force direction reversal. Experiments and simulations confirm negative radiation forces on spheres with diameters up to 3λ. These results provide a promising framework for developing acoustic tractor beams for non-contact manipulation in environments such as biological benchtop settings, microgravity, and manufacturing.",
+        "url": "https://www.nature.com/articles/s41598-026-65370-2?error=cookies_not_supported&code=ef5495cd-85e6-4491-9230-68292a59b311",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-15T21:14:18Z",
+        "source": "Nature"
+      },
+      {
+        "title": "New hairy-leafed plant species confirms another of Darwin’s predictions",
+        "description": "Saxifraga candelabrum is a newly confirmed carnivorous plant. Its sticky hairs trap small insects, while its flowers attract them with scent.",
+        "url": "https://www.earth.com/plants/a-hairy-leafed-saxifraga-joins-the-list-of-known-carnivorous-plants/",
+        "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/08/15205725/Saxifraga-candelabrum-carnivorous-plant_1m.jpg",
+        "publishedAt": "2026-08-15T21:01:26Z",
+        "source": "Earth.com"
+      },
       {
         "title": "Skyfall Mars helicopters are getting a major antenna upgrade with ground-penetrating radar",
         "description": "NASA develops a flexible, fabric-based antenna for its next Mars SkyFall helicopters that will test for frozen water in the surface layers of the Red Planet.",
@@ -158,49 +198,49 @@
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
         "publishedAt": "2026-08-15T20:37:30Z",
         "source": "Nature"
-      },
-      {
-        "title": "Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults",
-        "description": "Oceanic transform faults (OTFs) exhibit concurrent slip behaviors, with creep and characteristic earthquakes on localized patches. At the Gofar transform fault on the East Pacific Rise, magnitude 5.5+ earthquakes are bounded by creeping segments that act as persistent rupture barriers, yet the physical controls on this segmentation remain unclear. Here, from one year of ocean bottom seismometer data, we develop a focal mechanism catalog of 2323 earthquakes on the westernmost Gofar transform fault. This catalog enables robust statistical analyses of along-strike variations in faulting type and mechanical properties. Pure strike-slip earthquakes comprise  ~31% of events; oblique earthquakes are pervasive; pure reverse and normal events also exist. Faulting types correlate with seismicity-inferred fault segmentation, with reverse and oblique-reverse events clustering in rupture barriers. Coulomb failure modeling shows that the pattern is diagnostic of elevated pore-fluid pressure and mechanical weakness within the barriers. The 2008 M6 mainshock increased focal mechanism diversity across the fault, indicating widespread activation of secondary structures through the seismic cycle. Comparisons with the Blanco and Chain transform faults suggest diverse faulting and along-strike mechanism clustering may be common OTF features, implying that local mechanical properties govern segmentation. The authors use thousands of small earthquakes to show that variations in fault zone strength control segmentation of oceanic transform faults and their distinct slip behaviors.",
-        "url": "https://www.nature.com/articles/s41467-026-76407-5?error=cookies_not_supported&code=e15d1a04-9061-4247-b0af-6e8c64c83ea7",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:37:30Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Atmospheric turbulence sensing with structured terahertz beams containing orbital angular momentum",
-        "description": "Clear-air turbulence poses a persistent hazard to aviation, yet it evades conventional weather radar and remains difficult to detect. Existing optical sensing methods falter under severe turbulence and are extremely vulnerable to misalignment between airborne nodes. Here we introduce an atmospheric sensing scheme built on structured terahertz (THz) beams carrying orbital angular momentum (OAM). We derive and experimentally validate an analytical model that maps turbulence-induced OAM modal crosstalk to the refractive index structure constant of the atmosphere. Our simulations and experiments demonstrate that this THz-OAM approach remains robust under severe turbulence where optical systems saturate, and offers orders-of-magnitude greater misalignment resilience. Furthermore, this scheme also enables localization of the dominant turbulent clusters through understanding the interaction of diverging THz-OAM beams with the turbulent medium in the reciprocal propagation paths and simultaneously monitoring water vapor to identify turbulence precursors. This work establishes structured THz-OAM beams as a robust framework for remote atmospheric turbulence inference. This study introduces a method using structured THz-OAM beam to detect clear air turbulence. It overcomes optical limits by resisting saturation and misalignment, enabling robust turbulence strength sensing, hazard localization, and water vapor monitoring.",
-        "url": "https://www.nature.com/articles/s41467-026-76743-6?error=cookies_not_supported&code=133155d7-8d1a-4992-afb2-874052d66a93",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:37:30Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Adipocyte-derived extracellular vesicles differentially regulate MASLD-associated metabolic responses in hepatocytes depending on glucose conditions",
-        "description": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is one of the most prevalent chronic liver disorders and is closely linked to obesity, insulin resistance, and type 2 diabetes mellitus. Recent studies have reported that extracellular vesicles (EVs) secreted from adipose tissue play a pivotal role in the onset and progression of MASLD. In this study, we aimed to establish an adipocyte-derived EV-based in vitro model to investigate adipose tissue–liver metabolic communication associated with MASLD. EVs were isolated from adipocytes differentiated under normoglycemic and diabetic-like hyperglycemic conditions and subsequently applied to hepatocytes. EVs derived under normoglycemic conditions contained higher levels of adiponectin and were associated with gene expression patterns indicative of reduced lipid accumulation. In contrast, EVs derived under hyperglycemic conditions exhibited higher FABP4 levels and were associated with increased lipid accumulation in hepatocytes. These findings indicate that the metabolic state of adipocytes reshapes the biomolecular composition of EVs, which is associated with differential metabolic responses in hepatocytes. Collectively, our results support the potential utility of adipocyte-derived EVs as an in vitro platform for studying adipose tissue–liver metabolic communication associated with MASLD and highlight the importance of EV-mediated communication between adipose tissue and the liver.",
-        "url": "https://www.nature.com/articles/s41598-026-67281-8?error=cookies_not_supported&code=01fc60dc-9e3b-47ab-a0dc-e745d7395396",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:31:29Z",
-        "source": "Nature"
-      },
-      {
-        "title": "A single compound functions as the aggregation-sex pheromone of the great capricorn beetle (Cerambyx cerdo)",
-        "description": "The great capricorn beetle (Cerambyx cerdo) is a conservation-priority species in European oak forests, yet reliable non-destructive tools for monitoring beetle populations remain limited. We identified (3S,4R)-3-hydroxy-p-mentha-1,8-dien-7-al as the male-produced aggregation-sex pheromone of Cerambyx cerdo. Headspace analysis showed a single male-specific compound that elicited responses from antennae of both sexes. Its structure and stereochemistry were confirmed using NMR spectroscopy, chiral stationary phase GC analysis, and chemical synthesis. In field bioassays in Slovenia, traps baited with the synthetic compound attracted both males and females. Results provide the first conclusive evidence of pheromonal communication in Cerambyx and support the use of the compound as a sensitive and selective lure for monitoring and sampling C. cerdo populations in conservation and management.",
-        "url": "https://www.nature.com/articles/s41598-026-66244-3?error=cookies_not_supported&code=1e32c6fe-3fc1-482f-b190-0f0948c5e444",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:26:15Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Integrated assessment of clothianidin toxicity in Allium cepa L.",
-        "description": "Clothianidin (CLO), a widely used neonicotinoid insecticide, poses potential risks to non-target plant species. However, its multidimensional toxicity profile has not been sufficiently investigated. In this study, the toxic effects of environmentally relevant CLO concentrations (0.10, 0.67, and 20.0 µg/L) on Allium cepa L. were comprehensively evaluated by integrating physiological, cytogenetic, molecular, biochemical, and anatomical parameters. CLO exposure resulted in a dose-dependent decrease in germination (from 100% to 60%), root elongation (from 9.66 to 2.45 cm), and weight gain (from + 9.10 to + 3.40 g). Mitotic activity was significantly suppressed, with the mitotic index decreasing from 8.82% in the control group to 6.35% at the highest dose. Micronucleus and chromosomal abnormality frequencies also increased, particularly those of sticky chromosomes, vagrant chromosomes, fragments, and unequal distribution of chromatin. The increase in tail DNA percentages from 3.30% in the control group to 60.2% at the highest CLO concentration indicates significant DNA damage, showing a shift from minimal to high DNA damage. Biochemically, CLO exposure was associated with oxidative stress, as indicated by significant increases in malondialdehyde levels (from 2.13 to 10.6 µM/g FW) and antioxidant enzyme activities (superoxide dismutase : from 53.1 to 125 U/mg FW; catalase: from 0.47 to 1.17 OD240nm/min/g FW)]. Furthermore, photosynthetic pigments were significantly reduced, with chlorophyll a and b decreasing by 60% and 68%, respectively. Anatomical observations supported these findings, revealing dose-dependent tissue damage, including epidermal and cortical cell damage, flattened nucleus, and vascular tissue thickening. Overall, the results demonstrate that CLO causes growth inhibition, oxidative stress, genotoxic damage, and structural changes in A. cepa, suggesting that its phytotoxic effects occur via interconnected cytogenetic and oxidative stress pathways. These findings highlight the potential ecological risks of CLO for non-target plant species and underscore the need for further mechanistic studies.",
-        "url": "https://www.nature.com/articles/s41598-026-67159-9?error=cookies_not_supported&code=3bdf027d-1fcc-4f22-b11f-572c883515be",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T20:26:15Z",
-        "source": "Nature"
       }
     ],
     "ai": [
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+        "publishedAt": "2026-08-15T21:29:19Z",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Russia wants to create sovereign AI with 'correct values' - disinfo watchdog",
+        "description": "Russia plans to develop \"sovereign\" artificial intelligence that will conform to the Kremlin-imposed \"traditional spiritual and moral values.\" — Ukrinform.",
+        "url": "https://www.ukrinform.net/rubric-polytics/4154305-russia-wants-to-create-sovereign-ai-with-correct-values-disinfo-watchdog.html",
+        "image": "https://static.ukrinform.com/photos/2026_01/thumb_files/630_360_1767267375-261.jpg",
+        "publishedAt": "2026-08-15T21:28:00Z",
+        "source": "Ukrinform"
+      },
+      {
+        "title": "Altman says four years of college may be more than the world now needs",
+        "description": "Sam Altman says two years of college was enough for him and four may be too many, told to a room of tech interns whose pipeline AI is closing.",
+        "url": "https://thenextweb.com/news/sam-altman-college-too-long-interns-entry-level",
+        "image": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.jpg",
+        "publishedAt": "2026-08-15T21:25:02Z",
+        "source": "TNW"
+      },
+      {
+        "title": "Claude is getting ambitious with watermarking, and I can smell the problems from a mile away",
+        "description": "Anthropic is trying to solve the problem of identifying AI-generated text, but a persistent watermark could create another one if AI assistance is mistaken for AI authorship.",
+        "url": "https://www.digitaltrends.com/computing/claude-is-getting-ambitious-with-watermarking-and-i-can-smell-the-problems-from-a-mile-away/",
+        "image": "https://www.digitaltrends.com/tachyon/2026/07/Claude-website-open-on-laptop.jpg?resize=1200%2C630",
+        "publishedAt": "2026-08-15T21:21:41Z",
+        "source": "Digital Trends"
+      },
+      {
+        "title": "Forget SpaceX and Tesla. Elon Is Quietly Building Something Bigger Than Both. COMBINED?",
+        "description": "A former hedge fund manager says Musk is creating an AI POWERHOUSE unlike anything the market has seen before.",
+        "url": "https://www.manilatimes.net/2026/08/16/tmt-newswire/globenewswire/forget-spacex-and-tesla-elon-is-quietly-building-something-bigger-than-both-combined/2406293",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-08-15T21:08:26Z",
+        "source": "The Manila Times"
+      },
       {
         "title": "Claude Is Putting Invisible Watermarks In AI-Generated Text. Even Your Human-Written Copy Could Get One",
         "description": "Anthropic is rolling out invisible watermarks designed to identify content generated by Claude. But even a human-written document could carry the AI signature if Claude was only used to proofread,",
@@ -224,46 +264,6 @@
         "image": "https://www.europesays.com/wp-content/uploads/2026/08/DB5488v3.png",
         "publishedAt": "2026-08-15T20:32:41Z",
         "source": "EUROPE SAYS"
-      },
-      {
-        "title": "Nvidia mulls $3B investment in SB Energy in OpenAI data center deal: Report",
-        "description": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
-        "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108278586-17736919862026-03-16t201051z_1911960904_rc2v5ka777x9_rtrmadp_0_nvidia-gtc.jpeg?v=1773692020&w=1920&h=1080",
-        "publishedAt": "2026-08-15T20:32:04Z",
-        "source": "CNBC"
-      },
-      {
-        "title": "Anthropic's Latest AI Risk Report Is Full of Agents Behaving Badly",
-        "description": "Anthropic's latest risk report says Claude agents bypassed safeguards, killed other agents, and refused tasks over ethical concerns.",
-        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-        "image": "https://i.insider.com/6a809050bd87410e364d2e02?width=1200&format=jpeg",
-        "publishedAt": "2026-08-15T20:09:46Z",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Silicon Valley’s young billionaires getting rich from AI",
-        "description": "Silicon Valley’s Artificial Intelligence boom is creating young billionaires, fueling lavish spending as startups soar to massive valuations and reshape tech wealth.",
-        "url": "https://nypost.com/2026/08/15/us-news/silicon-valleys-young-billionaires-getting-rich-from-ai/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-8fy9vs0dl-1786820621750.jpg?quality=75&strip=all&1786806315&w=1200",
-        "publishedAt": "2026-08-15T20:03:52Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "My RTX 5070 sits idle while integrated graphics handle my everyday AI work",
-        "description": "I stopped using my RTX GPU for every LLM.",
-        "url": "https://www.xda-developers.com/rtx-5070-sits-idle-while-integrated-graphics-handle-my-everyday-ai-work/",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/nzxt-h9-flow-case-white-rtx-4070-ti-verticla-mount.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-08-15T20:00:10Z",
-        "source": "XDA Developers"
-      },
-      {
-        "title": "Safety testing was an obscure part of building AI. Then models went rogue.",
-        "description": "Security experts say testing needs enforceable rules and better oversight as AI models continue to advance.",
-        "url": "https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817",
-        "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe7%2F5f%2Fd5df42f141bcba07f17dc54a5dce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281437509",
-        "publishedAt": "2026-08-15T20:00:00Z",
-        "source": "POLITICO"
       }
     ]
   }
