@@ -1,206 +1,262 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-16T05:45:47.807Z",
+  "fetchedAt": "2026-08-16T07:01:46.989Z",
   "sections": {
     "world": [
       {
-        "title": "UN Launches Major New Office in SA to Fix Housing Crisis",
-        "description": "TSHWANE — South Africa has officially launched a dedicated UN-Habitat Country Office to accelerate the development of sustainable and inclusive human settlements. Human Settlements Minister Thembi Simelane and UN-Habitat Executive Director Anacláudia Rossbach inaugurated the office in Tshwane on Friday. The move marks a critical expansion of the partnership between the South African government and",
-        "url": "https://townpress.co.za/un-launches-major-new-office-in-sa-to-fix-housing-crisis/",
-        "image": "https://townpress.co.za/wp-content/uploads/2026/08/UN-Habitat-Country-Office-to-accelerate-the-development-of-sustainable-and-inclusive-human-settlements.jpg",
-        "publishedAt": "2026-08-15T17:40:23Z",
-        "source": "Townpress Newspaper"
+        "title": "Kashmiris observe India’s Independence Day as black day",
+        "description": "ISLAMABAD: Kashmiris on both sides of the Line of Control and across the world observed India’s Independence Day as a Black Day to protest India’s illegal occupation of Jammu and...",
+        "url": "https://www.thenews.pk/print/1432265-kashmiris-observe-india-s-independence-day-as-black-day",
+        "image": "https://www.thenews.pk/assets/uploads/akhbar/2026-08-16/1432265_062034_updates.jpg",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "The News Pakistan"
       },
       {
-        "title": "Iran says Qatar holding pilots, vessel is attacked in Hormuz, Israeli strikes kill 11 in Lebanon",
-        "description": "Iran says Qatar is holding three of its pilots who went missing in March. The pilots were reportedly captured when their jets were downed.",
-        "url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
-        "image": "https://dims.apnews.com/dims4/default/6e5282f/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F9a%2Ff8093f9ccd68b5bd0fb7c96bba44%2F43b54b4a8dc544a4ab5af436e4ef53e2",
-        "publishedAt": "2026-08-15T17:39:00Z",
-        "source": "AP News"
+        "title": "The Pussy Riot activist on meeting her father, raising her son and her life as a fighter",
+        "description": "When the activist fell pregnant at 18, the baby’s father did something that surprised her.",
+        "url": "https://www.smh.com.au/lifestyle/life-and-relationships/unhinged-and-gloriously-crazy-what-pussy-riot-s-maria-alyokhina-looks-for-in-a-partner-20260727-p60ix4.html",
+        "image": "https://static.ffx.io/images/$zoom_0.3209%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_334/t_crop_custom/q_86%2Cf_auto/73a21f8026118e5507fa4c0f4a8f443b03d563b1",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Trump Tests Birthright Citizenship Again After Supreme Court Loss",
-        "description": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?",
-        "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/08/15/trump-tests-birthright-citizenship-again-after-supreme-court-loss/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a808ea02205e1232e4b82b8/0x0.jpg?format=jpg&crop=1905,1091,x0,y62,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-15T17:38:25Z",
-        "source": "Forbes"
+        "title": "His strategy is a lesson for Anthony Albanese",
+        "description": "Andy Burnham’s strategy is to head the populists off at the pass, but that involves some risk on the progressive side of the ledger.",
+        "url": "https://www.smh.com.au/politics/federal/an-experiment-for-albanese-to-watch-british-pm-s-bid-to-stem-working-class-drift-20260814-p60ofn.html",
+        "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_21%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/b81092d4b4153391e493e799b4fc4b7bc5e24714",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Iran business leader admits U.S. blockade will inflict more economic damage than war",
-        "description": "The head of the Iran-China Joint Chamber of Commerce said \"the consequences of the blockade far outweigh those of a direct war.\"",
-        "url": "https://fortune.com/2026/08/15/iran-economic-crisis-us-naval-blockade-war-sanctions-hormuz-oil/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/9864328-e1786809525362.jpg?resize=1200,600",
-        "publishedAt": "2026-08-15T17:32:00Z",
-        "source": "Fortune"
+        "title": "Bali needs more places like this outstanding dining spot",
+        "description": "A collaboration between a Bali luxury resort and a respected conservation foundation has not only been a boon for foodies but also for the island’s rarest bird.",
+        "url": "https://www.smh.com.au/traveller/inspiration/bali-needs-more-places-like-this-outstanding-dining-spot-20260810-p60mvg.html",
+        "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/c49eb45af22dfe89fc026cb9a3bf8b6f538716bd",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Jamaica, Caribbean’s largest bauxite producer, plans to use Louisiana refinery to help Ghana build its aluminium industry in $60 million deal",
-        "description": "Jamaica, the Caribbean’s largest bauxite producer, is turning back to Africa 21 years after promising to help Ghana build an alumina refinery, as the two countries move to revive a decades-old bauxite and alumina trade relationship through a proposed $60 million deal. | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/markets/jamaica-caribbeans-largest-bauxite-producer-plans-to-use-louisiana-refinery-to-help/0dxkx8k",
-        "image": "https://ocdn.eu/pulscms-transforms/1/nzgktkpTURBXy8xMWMyZDlkYjM0ZjI0OWI3M2E3YzI3OGU0YzY2NzUzMy5qcGeSlQMADc0CgM0BaJMFzQSwzQJ2",
-        "publishedAt": "2026-08-15T17:30:35Z",
-        "source": "Business Insider Africa"
+        "title": "Italy’s most chaotic city is finally getting the reboot it deserves",
+        "description": "Once the poorest city in Italy, if not Europe, Naples is undergoing a revival akin to Berlin’s transformation into a capital of cool.",
+        "url": "https://www.smh.com.au/traveller/inspiration/italy-s-most-chaotic-city-is-finally-getting-the-reboot-it-deserves-20260807-p60mag.html",
+        "image": "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/edcd0481ccff06d3ef020fca5e9eb985291dd943",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Mattei Prize: €1 million a year for Italy-Africa cultural cooperation",
-        "description": "Mattei Prize for Italy-Africa Culture: Giuli's remarksThe Ministry of Culture (MiC) and the Ministry of Foreign Affairs have signed the decree establishing the Mattei Prize, a three-year instrument fu...",
-        "url": "https://www.initaly.it/en/articolo/premio-mattei-1-milione-lanno-per-la-cultura-italia-africa-giuli-31924",
-        "image": "https://statics.initaly.it/uploads/images/articles/premio-mattei-1-milione-lanno-per-la-cultura-italia-africa-giuli-31924-1786813908686.webp",
-        "publishedAt": "2026-08-15T17:30:21Z",
-        "source": "inItaly"
+        "title": "1 student among 5 people shot at Virginia State University",
+        "description": "The shooting happened near the university’s Quad Annexes, and both campus and Chesterfield County police are actively investigating, a university statement said.",
+        "url": "https://www.cp24.com/news/world/2026/08/15/at-least-1-student-among-5-people-shot-at-virginia-state-university-as-police-investigate/",
+        "image": "https://www.cp24.com/resizer/v2/ZDITE6CREVDVZPVOHFABEVNBSI.jpg?smart=true&auth=e9f84ddc496337cc2027d9535e089465da14a16bb9ba3317daaae8ad93af3a70&width=1200&height=630",
+        "publishedAt": "2026-08-15T18:59:36Z",
+        "source": "CP24"
       },
       {
-        "title": "Basques Around the World",
-        "description": "Daily roundup by About Basque Country with international news about the Basques around the world. This edition covers Culture · Science · Design, Economy · Companies, The world and the Basques and Politics · Society.",
-        "url": "https://aboutbasquecountry.eus/en/2026/08/15/2026-08-15-%C2%B7-basques-around-the-world/",
-        "image": "https://aboutbasquecountry.eus/media/aboutbc/images/5614.jpg",
-        "publishedAt": "2026-08-15T17:26:10Z",
-        "source": "aboutbasquecountry.eus"
+        "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
+        "description": "Demobilised former combatants are actively joining the fight against Ebola by participating in public information campaigns in the east of the Democratic Republic of the Congo (DRC).",
+        "url": "https://www.globalissues.org/news/2026/08/15/43829",
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/14-08-2026-MONUSCO-DR-Congo-ebola-02.jpg/image1170x530cropped.jpg",
+        "publishedAt": "2026-08-15T18:54:39Z",
+        "source": "globalissues.org"
       },
       {
-        "title": "Indonesia rocked by 3 major quakes and more than 230 aftershocks in 24 hours",
-        "description": "Rest of World News: Indonesia was rocked by three major earthquakes within 24 hours, with a powerful 7.7-magnitude quake striking off Flores on Saturday, killing at least.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-rocked-by-3-major-quakes-and-more-than-230-aftershocks-in-24-hours/articleshow/133266309.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133266337,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-15T17:25:00Z",
-        "source": "The Times of India"
+        "title": "The 'ghost city': How Kabul looked through her eyes on the day it fell",
+        "description": "Two days after Salma's engagement party in Kabul, the Taliban swept back to power in Afghanistan.",
+        "url": "https://www.abc.net.au/news/2026-08-16/five-years-under-taliban-rule-afghanistan/107011372",
+        "image": "https://live-production.wcms.abc-cdn.net.au/bb814dafe16c83eeef0c0c2c8f763c63?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-15T18:50:28Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       }
     ],
     "business": [
       {
-        "title": "ASM International: The Atomic-Layer Tollbooth On AI’s Next Transistor (ASMIY)",
-        "description": "ASM International (ASMIY) buy case: GAA nanosheet shift boosts deposition demand.",
-        "url": "https://seekingalpha.com/article/4937068-asm-international-atomic-layer-tollbooth-on-ai-next-transistor",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214693325/image_2214693325.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-08-15T17:45:02Z",
-        "source": "Seeking Alpha"
+        "title": "I’m 64. Should I use my super to pay off the rest of my mortgage?",
+        "description": "While there might be a “correct” answer to this question, often the allure of being debt free in retirement is what most people would prefer.",
+        "url": "https://www.smh.com.au/money/planning-and-budgeting/i-m-64-should-i-use-my-super-to-pay-off-the-rest-of-my-mortgage-20260814-p60oa3.html",
+        "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/52972232c4c3536e67c020435f5f53e66bbf73f9",
+        "publishedAt": "2026-08-15T19:01:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "What CBN's Data Localisation Framework Really Costs Nigerian Financial Institutions",
-        "description": "Migrating production workloads from one cloud environment (in Nigeria's financial sector) to another is a technically demanding exercise in modern infrastructure engineering.",
-        "url": "https://techeconomy.ng/what-cbns-data-localisation-framework-really-costs-nigerian-financial-institutions",
-        "image": "https://techeconomy.ng/media-proxy/uploads/What%20CBN's%20Data%20Localisation%20Framework%20Really%20Costs%20Nigerian%20Financial%20Institutions-900x600.jpg",
-        "publishedAt": "2026-08-15T17:36:59Z",
-        "source": "techeconomy.ng"
+        "title": "Gold prices drop Rs500 per tola",
+        "description": "KARACHI: Gold prices fell by Rs500 per tola on Saturday, following a decline in the international bullion rates.The All Pakistan Sarafa Gems and Jewellers Association said 24-karat gold dropped to...",
+        "url": "https://www.thenews.pk/print/1432169-gold-prices-drop-rs500-per-tola",
+        "image": "https://www.thenews.pk/assets/uploads/akhbar/2026-08-16/1432169_012816_updates.jpg",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "The News Pakistan"
       },
       {
-        "title": "The Trade Desk Stock (TTD) Opinions on Recent Earnings Results",
-        "description": "Earnings Fallout: The Trade Desk's latest quarterly results revealed a notable slowdown in revenue g",
-        "url": "https://www.quiverquant.com/news/The+Trade+Desk+Stock+%28TTD%29+Opinions+on+Recent+Earnings+Results",
-        "image": "https://www.quiverquant.com/images/ttd_rect_new.png",
-        "publishedAt": "2026-08-15T17:34:00Z",
-        "source": "quiverquant.com"
+        "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+        "description": "Prime Minister Andy Burnham faces an early political test over whether to permit the Jackdaw and Rosebank North Sea projects while maintaining Labour’s climate commitments.",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_vlcgpudqom.jpg",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Quant Stock (QNT) Opinions on Institutional Integrations and Technical Patterns",
-        "description": "Technical Range Dynamics: Social media discussions indicate that Quant has lingered in a prolonged c",
-        "url": "https://www.quiverquant.com/news/Quant+Stock+%28QNT%29+Opinions+on+Institutional+Integrations+and+Technical+Patterns",
-        "image": "https://www.quiverquant.com/images/qnt_rect_new.png",
-        "publishedAt": "2026-08-15T17:34:00Z",
-        "source": "Quiver Quantitative"
+        "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+        "description": "Prime Minister Andy Burnham faces an early political test over whether to permit the Jackdaw and Rosebank North Sea projects while maintaining Labour’s climate commitments.",
+        "url": "https://www.yahoo.com/news/politics/articles/battle-over-north-sea-oil-190000300.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d66c3e5ed12a5b7c2eeb207a4b2491174a15c5013eade11163e56f4ee4012fb6/lightyear_networkapi/resizefill_w811_h456%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F3bff6ae8071df00e535c0504b575974d.jpg",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "Yahoo"
       },
       {
-        "title": "MARA Holdings Stock (MARA) Opinions on Analyst Ratings and Bitcoin Holdings Strategy",
-        "description": "Analyst Rating Update: Social media buzz centers on Morgan Stanley's decision to keep an Underweight",
-        "url": "https://www.quiverquant.com/news/MARA+Holdings+Stock+%28MARA%29+Opinions+on+Analyst+Ratings+and+Bitcoin+Holdings+Strategy",
-        "image": "https://www.quiverquant.com/images/mara_rect_new.png",
-        "publishedAt": "2026-08-15T17:34:00Z",
-        "source": "Quiver Quantitative"
+        "title": "Unexpected cruise tip from someone who’s done over 100 of them",
+        "description": "Cruises are meant to be relaxing – and this is the best way to make sure they are.",
+        "url": "https://www.nine.com.au/travel/cruising/travel-tip-cruise-advice-port-days-what-to-do-expert-20260806-p60lve.html",
+        "image": "https://static.ffx.io/images/$zoom_0.8445%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_104/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d33250744d767e66b3f2f2957df52004e70025c48250dad86175bdef1011d81e",
+        "publishedAt": "2026-08-15T19:00:00Z",
+        "source": "Nine.com.au"
       },
       {
-        "title": "SK Hynix Approved $38 Billion of New Memory Fabs That Won't Produce a Chip Before December 2028",
-        "description": "The memory giant's newly approved plants won't open cleanrooms until late 2028 and mid-2029. What happens to memory prices in the meantime?",
-        "url": "https://www.fool.com/investing/2026/08/15/sk-hynix-approved-38-billion-of-new-memory-fabs-th/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883450%2Fcleanroom-worker-inspecting-stacks-of-silicon-wafers-getty.jpg&w=1200&op=resize",
-        "publishedAt": "2026-08-15T17:29:11Z",
-        "source": "The Motley Fool"
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+        "publishedAt": "2026-08-15T18:58:39Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "Peller receives G-Wagon gift worth N300m from Mansa [Video]",
-        "description": "Nigerian content creator, Habeeb Hamzat, popularly known as Peller, has taken delivery of a new 2026 G-Wagon gifted to him by investor Mansa. Peller was",
-        "url": "https://dailypost.ng/2026/08/15/peller-receives-g-wagon-gift-worth-n300m-from-mansa-video/",
-        "image": "https://dailypost.ng/wp-content/uploads/2026/08/peller.jpg",
-        "publishedAt": "2026-08-15T17:26:35Z",
-        "source": "Daily Post Nigeria"
+        "title": "Applications open for: Mentoring Women in Business Programme",
+        "description": "Deadline: 04-Sep-2026 The Mentoring Women in Business Programme supports women entrepreneurs in low- and middle-income countries through a structured 12-month mentorship with experienced business mentors. The programme helps participants strengthen business skills, improve profitability, develop strategic planning capabilities, build confidence, and expand professional networks. What Is the Mentoring Women in Business Programme? The Mentoring Women",
+        "url": "https://www2.fundsforngos.org/individuals/applications-open-for-mentoring-women-in-business-programme/",
+        "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+        "publishedAt": "2026-08-15T18:53:46Z",
+        "source": "fundsforNGOs"
       },
       {
-        "title": "Roots and the first of three Pret A Manger locations open at Vancouver airport",
-        "description": "Roots and the first of three locations for British coffee and fast food chain Pret A Manager have opened at Vancouver International Airport.",
-        "url": "https://dailyhive.com/vancouver/roots-pret-a-manger-locations-vancouver-international-airport-yvr",
-        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/08/pret-a-manger-yvr-vancouver-international-airport-f.jpg?format=auto",
-        "publishedAt": "2026-08-15T17:24:00Z",
-        "source": "Daily Hive"
+        "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president",
+        "description": "A national bank regulator granted a wing of the Trump family's crypto business conditional approval to establish a bank charter, opening the door for larger clients.",
+        "url": "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id=135668756",
+        "image": "https://i.abcnewsfe.com/a/9e462936-3d9b-4fb6-8f35-031f17713bf8/trump-occ-ruling_1786788347758_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2026-08-15T18:53:01Z",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ],
     "science": [
       {
-        "title": "Automated synthetic cell-based screening for designed proteins with emergent functions",
-        "description": "Designing minimal biological systems with emergent functions such as spatiotemporal self-organization is a central goal of bottom-up synthetic biology. While computational optimization and design show promise in accelerating functional protein engineering through Design-Build-Test-Learn cycles, screening libraries for complex functions remains a major challenge. Conventional screens typically lack the spatiotemporal resolution and cell-like confinement required in bottom-up synthetic biology. Here, we present PUREdrop, an automated microfluidic platform that encapsulates and expresses protein libraries in thousands of picoliter-sized synthetic cells per construct. PUREdrop distributes these across predefined wells of a 96-well plate for time-lapse imaging, enabling parallel quantification of expression kinetics and emergent functions. To demonstrate the platform’s potential, we first screen computationally re-designed variants of the bacterial cell division protein FtsZ, and identify variants with altered bundling phenotypes and distinct kinetics. We then extend our screening procedure to general protein modulators of FtsZ and identify a combination that anchors filaments to the interface, producing a ring-like phenotype. PUREdrop bridges computational protein engineering and synthetic cell research, elevating the rational engineering of complex biological function to the next level. Screening protein libraries for complex functions remains a major challenge. Here the authors present an automated microfluidic platform for protein library screening that facilitated the redesign of the bacterial cell division protein FtsZ and discovery of protein modulators of FtsZ.",
-        "url": "https://www.nature.com/articles/s41467-026-76787-8?error=cookies_not_supported&code=34dae41c-35ff-42e8-9207-78207f01f6a2",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-76787-8/MediaObjects/41467_2026_76787_Fig1_HTML.png",
-        "publishedAt": "2026-08-15T17:42:48Z",
+        "title": "Chinese Orbiter Smashes Starlink With a Tiny 2-Watt Laser Fired From 36,000 KM Above Earth",
+        "description": "A 2-watt laser pulled off a satellite downlink from 36,000 km up, using a new signal trick that pushed performance far beyond earlier results.",
+        "url": "https://dailygalaxy.com/2026/08/china-satellite-laser-1gbps-geostationary-orbit/",
+        "image": "https://dailygalaxy.com/wp-content/uploads/2026/08/Chinas-2-Watt-Satellite-Laser-Hits-1-Gbps-From-36000-Km-Above-Earth-scaled.jpg",
+        "publishedAt": "2026-08-15T18:48:34Z",
+        "source": "The Daily Galaxy"
+      },
+      {
+        "title": "Our solar system is racing through space nearly four times faster than thought",
+        "description": "Lead author Lukas Böhme and cosmologist Dominik Schwarz at Bielefeld University evaluated the solar system’s motion using distant radio galaxies. Rather than measuring direct velocity vectors, they mapped the spatial distribution of these celestial radio sources. Measuring the radio dipole across multi-frequency surveys As an observer moves through space, celestial...",
+        "url": "https://www.futura-sciences.com/en/our-solar-system-is-racing-through-space-nearly-four-times-faster-than-thought_37611/",
+        "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/08/our-solar-system-is-racing-through-space-nearly-four-times-faster-than-thought.webp",
+        "publishedAt": "2026-08-15T18:44:24Z",
+        "source": "Futura, le média qui explore le monde"
+      },
+      {
+        "title": "Microglia deploy TAM receptors to kill motor neurons in a mouse model of amyotrophic lateral sclerosis",
+        "description": "Activation of microglia is a prominent feature of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease that leads to the death of motor neurons. A key component of this activation is elevated expression of the TAM receptor tyrosine kinases Axl and Mer (gene name Mertk). Here we show that germline and microglial-restricted inactivation of the Axl and Mertk genes in the SOD1G93A mouse model of ALS leads to an extension of lifespan, which is tied to the preservation of cholinergic motor neurons and neuromuscular synapses. Also elevated on SOD1G93A neuronal surfaces is the essential TAM co-ligand phosphatidylserine, a potent ‘eat-me’ signal through which apoptotic cells are engulfed by microglia. Correspondingly, we find that microglial lysosomes are filled with the remains of cholinergic neurons in the SOD1G93A spinal cord, whereas this accumulation is markedly reduced in the SOD1G93AAxl-/-Mertk-/- cord. Together, these results suggest that microglia phagocytically kill living neurons, and thereby hasten death in ALS. Activated microglia influence the course of amyotrophic lateral sclerosis (ALS) and other neurodegenerative diseases. Here, the authors analyze a mouse ALS model and show that at disease end, microglia use TAM receptors to kill neurons.",
+        "url": "https://www.nature.com/articles/s41467-026-76728-5?error=cookies_not_supported&code=fe1922b3-4f16-43b0-ad06-8294d54d0b9b",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-15T18:22:31Z",
         "source": "nature.com"
       },
       {
-        "title": "Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults",
-        "description": "Oceanic transform faults (OTFs) exhibit concurrent slip behaviors, with creep and characteristic earthquakes on localized patches. At the Gofar transform fault on the East Pacific Rise, magnitude 5.5+ earthquakes are bounded by creeping segments that act as persistent rupture barriers, yet the physical controls on this segmentation remain unclear. Here, from one year of ocean bottom seismometer data, we develop a focal mechanism catalog of 2323 earthquakes on the westernmost Gofar transform fault. This catalog enables robust statistical analyses of along-strike variations in faulting type and mechanical properties. Pure strike-slip earthquakes comprise  ~31% of events; oblique earthquakes are pervasive; pure reverse and normal events also exist. Faulting types correlate with seismicity-inferred fault segmentation, with reverse and oblique-reverse events clustering in rupture barriers. Coulomb failure modeling shows that the pattern is diagnostic of elevated pore-fluid pressure and mechanical weakness within the barriers. The 2008 M6 mainshock increased focal mechanism diversity across the fault, indicating widespread activation of secondary structures through the seismic cycle. Comparisons with the Blanco and Chain transform faults suggest diverse faulting and along-strike mechanism clustering may be common OTF features, implying that local mechanical properties govern segmentation. The authors use thousands of small earthquakes to show that variations in fault zone strength control segmentation of oceanic transform faults and their distinct slip behaviors.",
-        "url": "https://www.nature.com/articles/s41467-026-76407-5?error=cookies_not_supported&code=0d617440-609a-43ec-9c6e-ef62f4839793",
+        "title": "Genome-wide pQTL mapping in human skin identifies specific genetic regulators and mechanistic links to skin disorders",
+        "description": "Understanding how genetic variation shapes tissue-specific protein expression is fundamental for uncovering disease mechanisms and therapeutic targets. However, the proteomic landscape and its underlying genetic regulation in skin, the largest human organ, remain largely uncharted. Here, we present a population-level skin proteomic dataset, quantifying 5,774 proteins across 248 individuals and revealing substantial inter-individual variation shaped by genetic and non-genetic factors. Genome-wide pQTL analysis identifies 1,765 significant variant–protein associations involving 36 proteins, with 62% unsupported by skin eQTL and 33% not replicated in non-skin pQTL. Integrating skin pQTL with ancestry-matched leprosy GWAS identifies 11 risk proteins through proteome-wide association study (PWAS), with four showing causal evidence from colocalization or Mendelian randomization analyses. Further integration with European GWASs for atopic dermatitis and psoriasis identifies known and novel disease-related proteins, demonstrating the cross-ancestry utility of skin pQTL. Together, this work establishes a valuable resource for skin proteogenomics and disease-gene discovery in dermatology. This study creates a genetic map of protein regulation in human skin, identifying genetic regulators of protein abundance and candidate disease-related proteins linked to leprosy, atopic dermatitis and psoriasis.",
+        "url": "https://www.nature.com/articles/s41467-026-76575-4?error=cookies_not_supported&code=e78e88aa-0665-44ca-b768-96d8a6219bd7",
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T17:42:43Z",
+        "publishedAt": "2026-08-15T18:22:31Z",
         "source": "nature.com"
       },
       {
-        "title": "Topical clove oil for canine sarcoptic mange promises faster, plant-based treatment",
-        "description": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The condition is contagious and zoonotic and can be difficult to detect. If left untreated, it can cause bleeding sores, malnutrition, emaciation and secondary bacterial infections that may eventually lead to a dog's death.",
-        "url": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/topical-clove-oil-for.jpg",
-        "publishedAt": "2026-08-15T17:40:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Dolphins filmed using shells to hunt for first time",
-        "description": "Dolphins have been filmed using shells to ensnare their prey off the coast of Australia, marking the first time this clever tactic has been caught on camera.",
-        "url": "https://nypost.com/2026/08/15/science/dolphins-filmed-using-shells-to-hunt-for-first-time/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137177361.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-08-15T17:27:00Z",
-        "source": "nypost.com"
-      },
-      {
-        "title": "Myeloid cell replacement induces intercellular mitochondrial transfer and restores metabolism in a mouse model of mitochondrial disease",
-        "description": "Friedreich’s ataxia (FA) is a mitochondrial disease caused by frataxin deficiency that leads to progressive neurodegeneration and cardiomyopathy. Effective disease-modifying therapies remain limited. Here we show that myeloid cell replacement promotes neurological and cardiac recovery in FA mice through intercellular mitochondrial transfer. Donor-derived mitochondria are transferred from microglia and macrophages to central nervous system cells and cardiomyocytes, increasing oxidative phosphorylation and ATP synthesis gene expression and mitochondrial protein abundance. These molecular changes are accompanied by improved survival and growth in male and female mice and enhanced spontaneous locomotion, strength, coordination and cardiac and function in female mice. In cultured cells, mitochondrial transfer requires direct cell-cell contact and partially restores respiratory capacity in frataxin-deficient recipient cells, which exhibit enhanced mitochondrial uptake, suggesting disease-specific mechanisms that promote mitochondrial acquisition or retention. These findings identify mitochondrial transfer as a mechanism underlying the therapeutic effects of myeloid cell replacement and support hematopoietic transplantation for FA and other mitochondrial disorders. Therapies that restore mitochondrial function are lacking. Here, the authors show that myeloid cell replacement improves neurological and cardiac function in a model of Friedreich’s ataxia through intercellular mitochondrial transfer.",
-        "url": "https://www.nature.com/articles/s41467-026-76775-y?error=cookies_not_supported&code=00af626b-8064-4e92-9664-a836d21b2f7e",
+        "title": "CliniSense AI for automated clinical skills assessment with real-time feedback",
+        "description": "Medical education requires scalable, reliable assessment of clinical skills, yet faculty observation cannot meet trainee volume, manual OSCE evaluation yields inter-rater reliability of only κ = 0.35–0.58 with days-to-weeks feedback latency, and no existing system provides real-time, competency-aligned assessment from raw clinical audio. We developed CliniSense AI, an end-to-end pipeline, integrating automatic speech recognition, speaker diarization, role detection, multi-label competency classification, and four-dimensional conversation-level scoring, that transforms raw audio into OSCE-aligned resident performance assessments with actionable in-moment feedback on edge hardware without manual transcription. On 270 publicly available simulated consultations, the classification ensemble achieved Cohen’s κ = 0.824 against majority-vote ground truth, exceeding mean annotator agreement (κ = 0.721), with sub-1.5-s streaming latency. The system surfaced competency patterns invisible to periodic observation: unexpressed diagnostic reasoning in 10.3% of encounters and a quantifiable trade-off between information gathering and patient-centered communication. CliniSense enables faculty to remotely monitor, flag, and approve trainee feedback across multiple examination rooms simultaneously. Prospective clinical validation is underway (IRB #5521) at the University of Tennessee Medical Center.",
+        "url": "https://www.nature.com/articles/s41746-026-03100-8?error=cookies_not_supported&code=7b827589-6cb9-4f47-b291-faaa0dbc846a",
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T17:11:28Z",
+        "publishedAt": "2026-08-15T18:21:08Z",
         "source": "Nature"
       },
       {
-        "title": "Unlocking regional total factor carbon efficiency through digital-green convergent innovation",
-        "description": "Amid mounting climate imperatives, cities face the dual challenge of sustaining economic growth while achieving low-carbon development. To address this, the paper conceptualizes digital-green convergent innovation (DGCI) as a quality-weighted knowledge recombination process embedded within regional innovation systems and shaped by public-economics constraints. With a novel DGCI Index capturing both the diversity and non-ubiquity of digital-green synergy, using an endogenous stochastic frontier model on a panel of 227 Chinese cities (2010–2021), we find that higher DGCI levels significantly improve total-factor carbon efficiency (TFCE), and that these gains are further magnified by institutional moderators. Heterogeneity tests reveal that regional innovation capacity and tertiary sector development shape the magnitude of these effects. Our results deepen the understanding of the relationship between digital-green convergent innovation and low-carbon development by highlighting the importance of cross-domain knowledge recombination and institutional conditions in shaping carbon-efficiency outcomes.",
-        "url": "https://www.nature.com/articles/s41599-026-08670-2?error=cookies_not_supported&code=d85ed71f-1bba-4f2d-aa05-7d6c3c72bad1",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T17:11:27Z",
-        "source": "Nature"
+        "title": "We've been eclipsed: NASA photographers share stellar images from this week's solar event – and there's at least one Easter egg that's worth discovering",
+        "description": "NASA has updated its eclipse gallery with shots snapped during this week's total coverage of the Sun – and they contain some hidden details waiting to be revealed",
+        "url": "https://www.digitalcameraworld.com/photography/astrophotography/weve-been-eclipsed-nasa-photographers-share-stellar-images-from-this-weeks-solar-event-and-theres-at-least-one-easter-egg-thats-worth-discovering",
+        "image": "https://cdn.mos.cms.futurecdn.net/7RL4VigG3vDtpg4B27D3Bk-2560-80.jpg",
+        "publishedAt": "2026-08-15T18:15:00Z",
+        "source": "Digital Camera World"
       },
       {
-        "title": "Scientists Find Clues to Ape Origins in 18-Million-Year-Old Fossils",
-        "description": "Scientists discover 18-million-year-old ape fossils in Egypt, offering new evidence that all modern apes have origins in Africa.",
-        "url": "https://colombiaone.com/2026/08/15/scientists-clues-ape-origins-fossils/",
-        "image": "https://colombiaone.com/wp-content/uploads/2026/04/a-gorilla-one-of-the-living-great-apes-shares-deep-evolutionary-roots-with-ancient-ancestors-credit-eric-kilby-flickr-ccbysa2.jpg",
-        "publishedAt": "2026-08-15T17:05:00Z",
-        "source": "ColombiaOne.com"
+        "title": "NASA's Swift Caught a Wandering Mega Black Hole Shredding a Star",
+        "description": "“We were looking for these star-shredding events as a way to find otherwise invisible supermassive black holes wandering away from the galactic cores where they usually reside,” said Robert Stein, a research fellow at the University of Maryland, College Park, and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “With...",
+        "url": "https://www.futura-sciences.com/en/nasas-swift-caught-a-wandering-mega-black-hole-shredding-a-star_37681/",
+        "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/08/blackdovfx.jpg",
+        "publishedAt": "2026-08-15T18:09:45Z",
+        "source": "Futura, le média qui explore le monde"
       },
       {
-        "title": "Rare images show comet 220P/McNaught brightening by more than 600 times",
-        "description": "The comet completes one orbit around the Sun every 5.5 years and passed perihelion 2 months ago.",
-        "url": "https://starlust.org/rare-images-show-comet-220-p-mc-naught-brightening-by-more-than-600-times/",
-        "image": "https://d3hedi16gruj5j.cloudfront.net/813740/uploads/3022f610-97ad-11f1-a965-8da805c3e907_1200_630.jpeg",
-        "publishedAt": "2026-08-15T17:03:16Z",
-        "source": "starlust.org"
+        "title": "Daily Guess The Timeline Game #145 (Aug 15, 2026)",
+        "description": "Can you put history in its place? Test your trivia skills with the daily Guess the Timeline challenge. Sort 6 events into chronological order and…",
+        "url": "https://www.inkl.com/news/daily-guess-the-timeline-game-145-aug-15-2026",
+        "image": "https://images.inkl.com/s3/article/lead_image/23710835/fb_thumb_69c288145044a.jpg",
+        "publishedAt": "2026-08-15T18:00:29Z",
+        "source": "inkl"
       }
     ],
     "ai": [
+      {
+        "title": "Harvard researcher says schools are preparing students to lose to AI",
+        "description": "Higher education is focusing on the wrong problem with artificial intelligence in the classroom, says Harvard researcher Christopher Dede, who argues schools must teach judgment.",
+        "url": "https://www.foxnews.com/media/harvard-research-fellow-says-higher-education-must-rethink-what-students-learn-ai-era",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/STUDENT-STUDYING-AI.jpg",
+        "publishedAt": "2026-08-15T19:00:33Z",
+        "source": "Fox News"
+      },
+      {
+        "title": "I tried building my site with the 3 top AI bots; I found an undisputed winner",
+        "description": "Claude's reasoning capability stood out from the competition",
+        "url": "https://www.androidpolice.com/building-site-with-three-top-ai-bots-found-undisputed-winner/",
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/gemini-chatgpt-and-claude-icons-surrounding-an-ai-generated-car-dealership-website.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-08-15T19:00:15Z",
+        "source": "Android Police"
+      },
+      {
+        "title": "As country's AI talent gap grows, investors step in to help companies hire",
+        "description": "A notable shortage of skilled talent in artificial intelligence roles is challenging Indian companies. The need for qualified AI engineers is soaring, far surpassing the available workforce. This increasing demand is fueling investor interest in startups aiming to attract vital tech expertise. Theres a significant uptick in hiring mid-to-senior professionals at global capability centers, as AI and machine learning sectors demonstrate consistent growth year-on-year.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/as-countrys-ai-talent-gap-grows-investors-step-in-to-help-companies-hire/articleshow/133267229.cms",
+        "image": "https://img.etimg.com/thumb/msid-133267253,width-1200,height-630,imgsize-85460,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-15T18:59:00Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "AI agents get smarter with context engineering",
+        "description": "AI agents deliver real results when given the right context. Impetus Technologies bridges the Context Gap with its CEDL framework and Leap AI suite.",
+        "url": "https://siliconangle.com/2026/08/15/impetus-provides-context-ai-agents-impetus/",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Deepak-Khosla-e1786816619586.jpg",
+        "publishedAt": "2026-08-15T18:09:54Z",
+        "source": "SiliconANGLE News"
+      },
+      {
+        "title": "Fireflies.ai brings its AI notetaker to the inbox with Email Assistant, now free on all plans",
+        "description": "Tech News News: Fireflies.ai, the AI meeting assistant used by more than 20 million people and teams at 75% of Fortune 500 companies, has moved into the inbox. On Fri.",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/fireflies-ai-brings-its-ai-notetaker-to-the-inbox-with-email-assistant-now-free-on-all-plans/articleshow/133258263.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133258377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-15T18:00:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Gurgaon’s monkey problem has a new celebrity",
+        "description": "A Gurgaon society uses a large poster of a langur to scare away monkeys. This innovative approach aims to solve a persistent problem faced by residents. The poster features Babulal, a real langur, whose image was captured and edited by a guard. This AI-driven solution raises questions about the future employment of the actual langur. The society president's son inspired this creative and cost-effective pest control method.",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/gurgaons-monkey-problem-has-a-new-celebrity/articleshow/133266389.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148694,resizemode-75,msid-133266389/opinion/et-commentary/gurgaons-monkey-problem-has-a-new-celebrity.jpg",
+        "publishedAt": "2026-08-15T17:53:12Z",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Cerebras: 3x 2027 Revenue Guidance Changes The Valuation Debate",
+        "description": "Cerebras Systems (CBRS) Buy thesis: raised 2026 revenue guidance, accelerating AI inference cloud/services growth, and $284 PT via 75x P/E—read now.",
+        "url": "https://seekingalpha.com/article/4937021-cerebras-3x-2027-revenue-guidance-changes-the-valuation-debate",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363842522/image_1363842522.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-08-15T17:46:40Z",
+        "source": "Seeking Alpha"
+      },
       {
         "title": "The AI Boom Has a Dark Side. Why Cybersecurity Stocks Might Be the Best Way to Play It.",
         "description": "As AI adoption accelerates and cyber threats intensify, cybersecurity stocks could emerge as one of the biggest beneficiaries of the darker side of the AI boom.",
@@ -208,62 +264,6 @@
         "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Cybersecurity%20by%20AIBooth%20via%20Shutterstock.jpg",
         "publishedAt": "2026-08-15T17:30:02Z",
         "source": "Barchart"
-      },
-      {
-        "title": "LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T",
-        "description": "LG will unveil a bipedal humanoid built on Nvidia's Jetson Thor and Isaac GR00T in early 2027, with an 80MW AI factory in South Korea to follow.",
-        "url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
-        "image": "https://media.thenextweb.com/2026/05/lg-electronics-stock-surge-google-android-automotive.jpg",
-        "publishedAt": "2026-08-15T17:28:39Z",
-        "source": "TNW"
-      },
-      {
-        "title": "Independence Day Watch-List: AI Powered Salaam India To Micro-Drama Bose Network, Here's What You Can Stream On I-Day",
-        "description": "From TukTuki's technology-driven Salaam India to historical and emotional narratives across QuickTV, Mojo, Kuku TV and Story TV, these titles showcase the range of stories audiences can explore this Independence Day.",
-        "url": "https://www.republicworld.com/entertainment/ott/independence-day-watch-list-ai-powered-salaam-india-to-micro-drama-bose-network-here-s-what-you-can-stream-on-i-day-2026-08-15-134819",
-        "image": "https://img.republicworld.com/all_images/2026/08/watch-bose-network-and-salaam-india-on-this-independence-day-1786814171118-1280x720.webp",
-        "publishedAt": "2026-08-15T17:16:16Z",
-        "source": "Republic World"
-      },
-      {
-        "title": "AI in classrooms: 142 schools in Belagavi set for digital leap",
-        "description": "Belagavi, Chikodi: AI introduced as optional subject for Classes 9-12 in 142 govt schools; Class 9 can choose AI instead of third language.",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/ai-in-classrooms-142-schools-in-belagavi-set-for-digital-leap/articleshow/133266263.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133266262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-15T17:15:00Z",
-        "source": "Times of India"
-      },
-      {
-        "title": "Anthropic is the 'Apple of AI': high prices, lower volume, maximum revenue",
-        "description": "The Apple of my AI",
-        "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-        "image": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
-        "publishedAt": "2026-08-15T17:05:00Z",
-        "source": "TechRadar"
-      },
-      {
-        "title": "Tyga Claps Back at Critics After Backlash Over His AI-Assisted Album: ‘I Don’t Know What Pitchfork Is’",
-        "description": "Tyga fires off at critics and even Doja Cat for being particularly harsh towards his new, AI-assisted album '$TARFACE'.",
-        "url": "https://www.vice.com/en/article/tyga-claps-back-at-critics-after-backlash-over-his-ai-assisted-album-i-dont-know-what-pitchfork-is/",
-        "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/08/Tyga-Claps-Back-at-Critics-and-Doja-Cat-After-Backlash-Over-His-AI-Assisted-Album-I-Dont-Know-What-Pitchfork-Is.jpg?w=1200",
-        "publishedAt": "2026-08-15T17:04:03Z",
-        "source": "VICE"
-      },
-      {
-        "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-        "description": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
-        "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
-        "publishedAt": "2026-08-15T17:01:03Z",
-        "source": "Decrypt"
-      },
-      {
-        "title": "AI Chatbots Spread Through Congress With Little Oversight, Officials Say",
-        "description": "Congressional staff in both chambers have been cleared to use commercial artificial intelligence (AI) chatbots – including OpenAI’s ChatGPT, Microsoft Copilot, Google Gemini and Anthropic’s Claude – for official work, according to officials and internal documents. The officials spoke on condition of anonymity because they were not authorized to discuss internal procedures. The tools are being used […]",
-        "url": "https://www.naturalnews.com/2026-08-15-ai-chatbots-spread-through-congress-little-oversight.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-chatbots-congress-oversight-3386-original.jpg",
-        "publishedAt": "2026-08-15T17:00:09Z",
-        "source": "Natural News"
       }
     ]
   }
