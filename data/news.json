@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-16T10:42:18.527Z",
+  "fetchedAt": "2026-08-16T11:37:06.517Z",
   "sections": {
     "world": [
       {
-        "title": "Another name added to a memorial honouring victims of impaired driving",
-        "description": "Ten years after the passing of Robbie Anderson, his name is now etched into a memorial honouring those who lost their lives due to another person's decision to drive impaired.",
-        "url": "https://ca.news.yahoo.com/another-name-added-memorial-honouring-223757214.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5b40ab3abab8c37ab0aea8ea426fe0a4bf9851b1089de9c16dd2acf67a5bd0ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2Fc14e7c40ef2c041fb1abae5c8b51b679.jpg",
-        "publishedAt": "2026-08-15T22:37:57Z",
-        "source": "ca.news.yahoo.com"
-      },
-      {
-        "title": "Another name added to a memorial honouring victims of impaired driving",
-        "description": "Ten years after the passing of Robbie Anderson, his name is now etched into a memorial honouring those who lost their lives due to another person's decision to drive impaired.",
-        "url": "https://www.cbc.ca/news/canada/manitoba/madd-memorial-adds-another-name-9.7308776",
-        "image": "https://i.cbc.ca/ais/7c88058a-dd95-4410-a188-755b3baee871,1786828578434/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-        "publishedAt": "2026-08-15T22:37:57Z",
-        "source": "cbc.ca"
-      },
-      {
-        "title": "Putin loses 43K soldiers in Ukraine in one of war's bloodiest months",
-        "description": "Putin lost a staggering 42,860 men on the battlefield in July between soldiers killed and wounded, the most since January 2025 -- and the fourth bloodiest month since the start of the war in 2022.",
-        "url": "https://nypost.com/2026/08/15/world-news/putin-loses-43k-soldiers-in-ukraine-in-one-of-wars-bloodiest-months/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137588175.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-08-15T22:27:00Z",
-        "source": "New York Post"
-      },
-      {
-        "title": "IDF aid delegation Alliance of Brothers deploys to Colombia earthquake sites",
-        "description": "Mapping efforts and building assessments have begun in order to establish plans and priorities for the ongoing response efforts.",
-        "url": "https://www.jpost.com/international/article-905600",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734006",
-        "publishedAt": "2026-08-15T22:26:39Z",
-        "source": "The Jerusalem Post"
-      },
-      {
-        "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-        "description": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
-        "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a80ca5358c61-1786825299.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-08-15T22:25:47Z",
+        "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+        "description": "Yemen’s Ministry of Information denounces attacks on Marib as ‘escalation’ that threatens lives and increases suffering.",
+        "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a80eac32249-1786833603.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-15T23:29:49Z",
         "source": "Al Jazeera"
       },
       {
-        "title": "Accelerating Strategic Investments in Kenya’s Health Infrastructure",
-        "description": "Health Cabinet Secretary Hon. Aden Duale  today chaired a high-level strategic consultative meeting to advance the development of...",
-        "url": "https://www.businessghana.com/site/news/general/354207/Accelerating-Strategic-Investments-in-Kenya%E2%80%99s-Health-Infrastructure",
-        "image": "https://www.businessghana.com/site/img/../../cms/img/news/2026-08-14-174104000.jpg",
-        "publishedAt": "2026-08-15T22:07:21Z",
-        "source": "BusinessGhana"
+        "title": "At least five reported dead amid flooding in US state of Indiana",
+        "description": "Indiana’s state governor says that US government has promised assistance after a week of heavy rainfall.",
+        "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a80e5cfbcc2-1786832335.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-15T23:21:47Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Africa’s strongest military and a NATO drone power confront 3 explosive crises from gold-fueled Sudan war to the Golan Heights and one more",
-        "description": "Egypt, recognized as Africa’s strongest military, and Turkey, NATO’s second-largest military power and leading drone developer, have agreed to deepen their strategic cooperation to confront a series of explosive crises ranging from the gold-fueled war in Sudan to instability in the Golan Heights and the Strait of Hormuz that threaten regional stability | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/markets/africas-strongest-military-and-a-nato-drone-power-confront-3-explosive-crises-from/632b542",
-        "image": "https://ocdn.eu/pulscms-transforms/1/SA5ktkuTURBXy9iZWE5NWRiZi1iNmFiLTRlMzUtYWQ1ZS1lYjZkODIwOTlkMzQuanBlZ5KVAwDNASzNFNXNC7eTBc0EsM0Cdg",
-        "publishedAt": "2026-08-15T22:00:00Z",
-        "source": "Business Insider Africa"
+        "title": "Bogside bonfire is set alight",
+        "description": "Photos of First Minister Michelle O'Neill and union jacks were among the items attached to the pallets.",
+        "url": "https://www.bbc.com/news/articles/c78gg7d284mo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ccb5/live/0c718f40-98fe-11f1-9ba1-f532813b1dd0.jpg",
+        "publishedAt": "2026-08-15T23:19:37Z",
+        "source": "bbc.com"
       },
       {
-        "title": "Accelerating Strategic Investments in Kenya’s Health Infrastructure",
-        "description": "Health Cabinet Secretary Hon. Aden Duale  today chaired a high-level strategic consultative meeting to advance the development of...",
-        "url": "http://www.businessghana.com/site/news/general/354207/Accelerating-Strategic-Investments-in-Kenya%E2%80%99s-Health-Infrastructure",
-        "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-08-14-174104000.jpg",
-        "publishedAt": "2026-08-15T21:52:44Z",
-        "source": "BusinessGhana"
+        "title": "Impaired driving victim honoured",
+        "description": "Ten years after he was killed in a collision involving an impaired driver in 2016, Robbie Anderson’s name has been added to MADD Canada’s Manitoba Memorial honouring those killed in drunk and drug-impaired-related crashes.",
+        "url": "https://www.winnipegfreepress.com/breakingnews/2026/08/15/impaired-driving-victim-honoured",
+        "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/08/4481312_web1_MADD-EVENT-AUG-15-2026.jpg?w=1600",
+        "publishedAt": "2026-08-15T23:16:58Z",
+        "source": "Winnipeg Free Press"
+      },
+      {
+        "title": "Innovation Grant for Lung Disease Research (United States)",
+        "description": "Deadline: 18-Sep-2026 The American Lung Association Innovation Grant supports promising early-career investigators whose research could advance lung disease science and improve understanding of lung health. The award provides $75,000 per year for up to two years, subject to annual review, satisfactory progress, and available funding. Innovation Grant for Lung Disease Research The Innovation Grant is",
+        "url": "https://www2.fundsforngos.org/innovation/innovation-grant-for-lung-disease-research-united-states/",
+        "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+        "publishedAt": "2026-08-15T23:16:43Z",
+        "source": "fundsforNGOs"
+      },
+      {
+        "title": "Kennedy Center board votes again to shut down for renovations, add Trump’s name back on building",
+        "description": "The board's latest move pushes the boundaries of a court order which found that trustees had abandoned their fiduciary duty to the center by voting to close it originally and that the center's name could not be changed without an act of Congress.",
+        "url": "https://gwhatchet.com/2026/08/15/kennedy-center-board-votes-again-to-shut-down-for-renovations-add-trumps-name-back-to-building/",
+        "image": "https://gwhatchet.com/wp-content/uploads/2026/08/061226_LC_KennedyCenter-84-1.jpg",
+        "publishedAt": "2026-08-15T23:16:15Z",
+        "source": "The GW Hatchet"
+      },
+      {
+        "title": "Nigeria’s year of women in law",
+        "description": "Nigeria’s year of women in law: By some coincidence, in this year, five of the most important positions in law and justice in Nigeria are now held by",
+        "url": "https://thenicheng.com/nigerias-year-of-women-in-law/",
+        "image": "https://thenicheng.com/wp-content/uploads/2025/01/Chidi-Odinkalu.jpg",
+        "publishedAt": "2026-08-15T23:16:00Z",
+        "source": "TheNiche"
+      },
+      {
+        "title": "Zimbabwe ferry disaster: 72 dead, including 18 children",
+        "description": "Eighteen children were among more than 70 people killed when an overloaded ferry capsized on Lake Kariba in Zimbabwe this week, police said Saturday after rescuers recovered more bodies.",
+        "url": "https://www.cnn.com/2026/08/15/africa/zimbabwe-ferry-disaster-dead-children-latam-intl",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289783505.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-15T23:15:36Z",
+        "source": "CNN"
       }
     ],
     "business": [
       {
-        "title": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-        "description": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives.",
-        "url": "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2196327182-e1786833344888.jpg?resize=1200,600",
-        "publishedAt": "2026-08-15T22:39:00Z",
-        "source": "Fortune"
-      },
-      {
-        "title": "Pinnacle Financial Partners (PNFP) As Small Business Growth Fuels A Rich Valuation Debate",
-        "description": "Pinnacle Financial Partners (PNFP) continues to draw investor attention after its recent share price move, with the stock last closing at $108.01. That puts the bank's market value at about $16.1b.\nSee our latest analysis for Pinnacle Financial Partners.\nThe recent 8.22% 1 month share price return and 14.88% 3 month share price return suggest building momentum for Pinnacle Financial Partners, while the 19.18% 1 year total shareholder return highlights a solid longer term outcome for...",
-        "url": "https://simplywall.st/stocks/us/banks/nyse-pnfp/pinnacle-financial-partners/news/pinnacle-financial-partners-pnfp-as-small-business-growth-fu",
-        "image": "https://images.simplywall.st/asset/industry/7013000-choice2-main-header/1585186648241",
-        "publishedAt": "2026-08-15T22:37:33Z",
+        "title": "Should FDA Review of Ozekibart and INBRX-106 Data Milestones Require Action From Inhibrx (INBX) Investors?",
+        "description": "Inhibrx Biosciences, Inc. reported second-quarter 2026 results, with net loss widening to US$36.65 million and basic loss per share from continuing operations at US$2.34, while first-half losses were broadly similar to the prior year.\nAlongside these figures, the company highlighted FDA acceptance of its biologics license application for ozekibart in conventional chondrosarcoma, setting a PDUFA goal date of April 14, 2027, and pointed to upcoming Phase 2 data for INBRX-106 in head and neck...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-inbx/inhibrx-biosciences/news/should-fda-review-of-ozekibart-and-inbrx-106-data-milestones",
+        "image": "https://images.simplywall.st/asset/industry/6111000-choice2-main-header/1585186599552",
+        "publishedAt": "2026-08-15T23:35:41Z",
         "source": "simplywall.st"
       },
       {
-        "title": "Galaxy Digital (NasdaqGS:GLXY) Partners To Bring Regulated Digital Asset Trading To Israel",
-        "description": "Galaxy Digital (NasdaqGS:GLXY) and Bank Leumi announced a partnership to offer regulated digital asset trading services to Israeli customers.\nThe collaboration positions Bank Leumi as the first major Israeli bank to provide access to cryptocurrencies under local regulatory oversight.\nGalaxy Digital will supply its GalaxyOne Institutional and Custody Infrastructure platforms to support trading and asset safekeeping for the bank and its clients.\nThis move extends Galaxy Digital's presence in...",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-glxy/galaxy-digital/news/galaxy-digital-nasdaqgsglxy-partners-to-bring-regulated-digi",
-        "image": "https://images.simplywall.st/asset/industry/7131000-choice1-main-header/1585186655666",
-        "publishedAt": "2026-08-15T22:37:30Z",
+        "title": "Did SolarEdge’s (SEDG) Nexis Rollout and Narrowing Losses Just Recast Its Home Energy Investment Narrative?",
+        "description": "In the past quarter, SolarEdge Technologies reported second-quarter 2026 sales of US$346.25 million and a net loss of US$30.75 million, while also issuing third-quarter revenue guidance of US$310 million to US$340 million and highlighting ongoing rollout of its Nexis home energy system integrated with ConnectDER’s IslandDER adapter.\nBeyond the improved year-on-year loss reduction, SolarEdge’s Nexis platform and IslandDER integration aim to simplify whole-home backup installations and reduce...",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-sedg/solaredge-technologies/news/did-solaredges-sedg-nexis-rollout-and-narrowing-losses-just",
+        "image": "https://images.simplywall.st/asset/industry/8211000-choice2-main-header/1585186947894",
+        "publishedAt": "2026-08-15T23:35:41Z",
         "source": "simplywall.st"
       },
       {
-        "title": "Elon Musk's Tesla Is Ending Sweden's Longest Strike by Buying Out Every Worker Still on It",
-        "description": "After 1,021 days, the union has no striking members left. The automaker never signed a collective agreement.",
-        "url": "https://www.fool.com/investing/2026/08/15/elon-musks-tesla-is-ending-swedens-longest-strike/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883743%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house.jpg&w=1200&op=resize",
-        "publishedAt": "2026-08-15T22:36:28Z",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "Cyclospora spreads through human waste - so how did it get on food?",
-        "description": "The nationwide cyclospora outbreak is very likely a result of sewage contamination in the food supply, according to scientific researchers and public health officials.",
-        "url": "https://www.pbs.org/newshour/health/cyclospora-spreads-through-human-waste-so-how-did-it-get-on-food",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26189642009611-1024x533.jpg",
-        "publishedAt": "2026-08-15T22:34:59Z",
-        "source": "PBS"
-      },
-      {
-        "title": "Avnet (AVT) Stock Looks Cheap On Earnings But Pricey On Broader Checks",
-        "description": "Avnet stock has delivered a strong 174.0% return over the past 5 years, yet its low overall value score and rich recent run leave investors weighing how much upside is already reflected in the price.\nAvnet has returned 174.0% over 5 years, which puts recent gains front and center when assessing how much future return potential may be left.\nRecent enthusiasm around Avnet's AI related industrial automation work with partners can support growth expectations, while any setback in these projects...",
-        "url": "https://simplywall.st/stocks/us/tech/nasdaq-avt/avnet/news/avnet-avt-stock-looks-cheap-on-earnings-but-pricey-on-broade",
-        "image": "https://images.simplywall.st/asset/industry/8133000-choice1-main-header/1585186676185",
-        "publishedAt": "2026-08-15T22:33:46Z",
+        "title": "3 US Defensive Dividend Stocks for Steady Income While the Fed Stays on Hold",
+        "description": "With inflation gauges cooling and growth data looking shaky, investors are being pulled between fear of weaker earnings and the hope that the Fed stays on hold. That tug of war has pushed steady dividend payers back into focus for anyone who wants income and fewer surprises. This article looks at 3 US dividend-focused defensive stocks exposed to the latest data, and why each one might deserve a closer look now.\nThe stocks covered below are just a starting sample, and the full screen surfaced...",
+        "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-mzti/marzetti/news/3-us-defensive-dividend-stocks-for-steady-income-while-the-f",
+        "image": "https://images.simplywall.st/asset/industry/5122000-choice2-main-header/1585186547117",
+        "publishedAt": "2026-08-15T23:35:41Z",
         "source": "simplywall.st"
       },
       {
-        "title": "Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand",
-        "description": "AI related investment is helping lift growth expectations across parts of the Eurozone, even as inflation and rates stay in focus. That mix keeps attention on companies powering the ChatGPT and AI build out, from chips to cloud to software. Investors who ignore this may miss some of the clearest capital spending trends in markets today. This article highlights three AI stocks from our screener that may merit closer attention.\nThe three stocks below are just a starting sample from this theme...",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/microsoft-stock-leads-3-ai-stocks-backed-by-real-revenue-and",
-        "image": "https://images.simplywall.st/asset/company-cover/21835-main-header/1756191612247",
-        "publishedAt": "2026-08-15T22:33:46Z",
+        "title": "Simpson Manufacturing (SSD) Stock Looks About Fairly Priced After A 79% Run",
+        "description": "Simpson Manufacturing stock has delivered a strong 79.4% return over the past 5 years, yet current checks suggest the shares now sit close to their intrinsic value rather than offering a clear bargain. The Discounted Cash Flow (DCF) intrinsic value estimate aligns with this picture of a stock that looks roughly fairly priced at around US$193.78.\nOver 5 years, Simpson Manufacturing has returned 79.4%, which points to a solid outcome for long-term shareholders, even if the valuation now looks...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ssd/simpson-manufacturing/news/simpson-manufacturing-ssd-stock-looks-about-fairly-priced-af",
+        "image": "https://images.simplywall.st/asset/industry/3031000-choice2-main-header/1585186655644",
+        "publishedAt": "2026-08-15T23:35:41Z",
         "source": "simplywall.st"
       },
       {
-        "title": "Ford Motor (F) Could Be 3% Undervalued After Lincoln Production Shift",
-        "description": "Ford Motor (F) is reshaping its Lincoln business as it plans to shift production of China built models to U.S. factories by 2030 in response to tariffs and new vehicle technology rules.\nSee our latest analysis for Ford Motor.\nFord Motor shares trade at US$14.37, with a 1 day share price return of 3.46% and a 90 day share price return of 7.24%. The 1 year total shareholder return of 31.47% points to solid momentum that recent U.S. manufacturing decisions and the Blue Bird commercial chassis...",
-        "url": "https://simplywall.st/stocks/us/automobiles/nyse-f/ford-motor/news/ford-motor-f-could-be-3-undervalued-after-lincoln-production",
-        "image": "https://images.simplywall.st/asset/company-cover/106335-main-header/1756253679915",
-        "publishedAt": "2026-08-15T22:32:42Z",
+        "title": "International Seaways (INSW) Stock May Be 40% Below Fair Value On Cash Flow",
+        "description": "International Seaways has delivered a very large 5 year return, yet its valuation picture is more measured, with the Discounted Cash Flow (DCF) intrinsic value estimate pointing to a sizeable discount while standard multiples look closer to fair.\nInternational Seaways has returned about 9x over the past 5 years, which puts extra focus on whether the current price still leaves room for further upside.\nFuture cash flow generation from its fleet and capital allocation decisions can support the...",
+        "url": "https://simplywall.st/stocks/us/energy/nyse-insw/international-seaways/news/international-seaways-insw-stock-may-be-40-below-fair-value",
+        "image": "https://images.simplywall.st/asset/industry/9551704-choice1-main-header/1585186907289",
+        "publishedAt": "2026-08-15T23:35:41Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Kennametal (KMT) Is Down 5.8% After Strong Q4 Results And Higher 2027 Sales Outlook - Has The Bull Case Changed?",
+        "description": "Kennametal Inc. recently reported its fourth-quarter and full-year results for the period ended June 30, 2026, with quarterly sales rising to US$736.61 million and net income reaching US$226.98 million, while full-year sales climbed to US$2.36 billion and net income to US$342.39 million.\nAt the same time, management issued fiscal 2027 sales guidance of US$3.33 billion to US$3.45 billion, underlining confidence in demand across aerospace, defense, energy, and AI data center end-markets and...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-kmt/kennametal/news/kennametal-kmt-is-down-58-after-strong-q4-results-and-higher",
+        "image": "https://images.simplywall.st/asset/industry/3072000-choice1-main-header/1585186775716",
+        "publishedAt": "2026-08-15T23:35:41Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Indian Industrial Exporters Retail Investors Are Watching As Supply Chains Shift",
+        "description": "US talk of tighter tariffs and stricter rules of origin has turned Indian industrial exporters into a live test case for how global supply chains might be rewired next. For investors, that kind of policy churn can reshape where capital and orders flow, and missing the early signals can be costly. This article picks out three Indian industrial exporters with strong local manufacturing that appear closely exposed to the latest trade headlines and breaks down what that could mean for your...",
+        "url": "https://simplywall.st/stocks/in/capital-goods/bse-505872/wpil-shares/news/indian-industrial-exporters-retail-investors-are-watching-as",
+        "image": "https://images.simplywall.st/asset/industry/3072000-choice1-main-header/1585186775716",
+        "publishedAt": "2026-08-15T23:35:41Z",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "CME’s AI Compute Futures and Novel Index Products Could Be A Game Changer For CME Group (CME)",
+        "description": "CME Group recently unveiled a wave of product initiatives, including index-based Hockey futures using NHL statistics, Compute futures tied to GPU rental costs with Silicon Data, expanded 24/7 trading for 100-Ounce Silver futures, and new E-nano equity index contracts for finer-grain exposure.\nTogether, these launches highlight CME Group’s push beyond traditional futures into AI infrastructure pricing, sports performance indexes, and retail-friendly metals and equity products, reinforcing its...",
+        "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-cme/cme-group/news/cmes-ai-compute-futures-and-novel-index-products-could-be-a",
+        "image": "https://images.simplywall.st/asset/company-cover/2004577-main-header/1756202855566",
+        "publishedAt": "2026-08-15T23:35:41Z",
         "source": "simplywall.st"
       }
     ],
     "science": [
+      {
+        "title": "Researchers challenge long-held theory on how Earth withstands extreme space weather",
+        "description": "\"Fortunately, these very extreme cases are rare, but this also means we have limited data to work with.\"",
+        "url": "https://www.yahoo.com/news/science/articles/researchers-challenge-long-held-theory-233300339.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/ad0e3d74a2c05e8638d83b35b575ee124971634d06d9fbf1176298feb158ac2c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F8c5572f0a688bc525a9d437ad767a1f8.jpg",
+        "publishedAt": "2026-08-15T23:33:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Enceladus appears to have almost everything life should need — water, chemistry, hydrothermal energy and an ocean capable of lasting geological ages. If we search it thoroughly and find nothing alive,",
+        "description": "Cassini established that Enceladus may be habitable, but a scientifically useful failure to find life would require repeated, complementary measurements designed to make a false negative unlikely.",
+        "url": "https://spacedaily.com/t-enceladus-habitability-life-search-null-result/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-enceladus-global-plume-pia23175-814x1024.jpg",
+        "publishedAt": "2026-08-15T23:30:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Space habitat design could shape astronaut mental health on Mars missions",
+        "description": "Space habitat design could shape astronaut mental health on long missions by influencing sleep, privacy, connection, and homesickness.",
+        "url": "https://www.thebrighterside.news/post/space-habitat-design-could-shape-astronaut-mental-health-on-mars-missions/",
+        "image": "https://www.thebrighterside.news/uploads/2026/08/Mars.png?auto=webp",
+        "publishedAt": "2026-08-15T23:07:00Z",
+        "source": "The Brighter Side of News"
+      },
+      {
+        "title": "Ireland gears up for 'special' partial solar eclipse",
+        "description": "People all over the country will get to experience a partial solar eclipse this evening, as the Moon moves in front of the Sun.",
+        "url": "https://www.rte.ie/news/ireland/2026/0809/1586825-solar-eclipse/",
+        "image": "https://www.rte.ie/images/0024cf03-1600.jpg",
+        "publishedAt": "2026-08-15T22:17:01Z",
+        "source": "RTE.ie"
+      },
       {
         "title": "Individual behavior and physiology of group housed mice in a spaceflight habitat",
         "description": "NASA has a robust history of biomedical investigations using rodent models in spaceflight. The results from these experiments have provided significant insights into the effects of spaceflight on mammalian physiological systems for fundamental, biomedical and commercial research interests. To date, more than 19 long-duration (> 30-day) Rodent Research (RR) missions have been successfully conducted on board ISS using the NASA Rodent Habitat. Recent installation of digital cameras within the Rodent Habitat to support in-flight video observations can provide recordings during spaceflight. We hypothesized that application of unique fur dye patterns would enable individual identification of animals and small, implantable data loggers could be used to collect and store body temperature data. We designed and performed two ground-based validation studies. First, animals were housed in the Rodent Habitat in groups of five; fur dye markings enabled identification of individual mice. Body temperature was acquired using implanted dataloggers. Video was recorded and species typical behaviors were quantified for individual mice during both light and dark phases. Second, centrifugation was used to mimic launch. For the first time, we validated the biocompatibility of datalogger implants, fur dye pattern application and mouse visual identification methods using digital video and behavioral analysis protocols.",
@@ -166,41 +198,25 @@
         "image": "https://www.universetoday.com/article_images/magellan-radar-image-of-surface-of-venus-nasascience-photo-library_20260815_213559.jpg",
         "publishedAt": "2026-08-15T21:40:00Z",
         "source": "Universe Today"
-      },
-      {
-        "title": "Synergistic effect and comparative study of CoMn2O4 and MnCo2O4 spinel nanoparticles as promising materials for electrochemical hydrogen storage",
-        "description": "The development of stable electrode materials with high performance, based on transition metals, is vital for advancing energy storage applications. This study reports the synthesis of CoMn2O4 and MnCo2O4 spinel nanoparticles (SNPs) via a wet-chemistry method, and investigates their performance as electrode materials for electrochemical hydrogen storage. XRD analysis confirmed the formation of highly crystalline spinel structures for both samples, with an average crystallite size of 32 nm. FE-SEM imaging revealed that the CoMn2O4 and MnCo2O4 SNPs exhibit an agglomerated, polyhedral morphology, with mean particle sizes of 49 and 53 nm, respectively. BET analysis confirmed the mesoporous structure of the samples. Electrochemical studies, including cyclic voltammetry and chronopotentiometry, demonstrated excellent electrochemical performance. CoMn2O4 and MnCo2O4 SNPs exhibited a specific capacitance (Csp) of 417 and 424 F/g, at a scan rate of 10 mV/s. Furthermore, CoMn2O4 and MnCo2O4 SNPs showcased hydrogen storage capacities of 1930 and 1594 mAh/g, respectively, following 10 charge–discharge cycles. These results highlight the potential of the samples as promising candidates for electrochemical hydrogen storage.",
-        "url": "https://www.nature.com/articles/s41598-026-66304-8?error=cookies_not_supported&code=6bd5496e-5366-4a85-a1a7-b2b1ecb1c51d",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T21:32:14Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Migrating birds may see Earth’s magnetic field superimposed on the world around them — the result, scientists suspect, of a quantum reaction inside light-sensitive proteins in their eyes called crypto",
-        "description": "Radical-pair reactions in retinal cryptochromes offer a plausible quantum compass for birds, but neither the receptor in a living bird nor a subjective visual overlay has been directly demonstrated.",
-        "url": "https://spacedaily.com/t-migrating-birds-see-magnetic-field-cryptochrome-quantum-compass/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/08/pexels-spacedaily-migrating-birds-sunset-15184389-683x1024.jpg",
-        "publishedAt": "2026-08-15T21:30:00Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Generation of negative acoustic radiation forces",
-        "description": "Negative acoustic radiation forces act opposite to the direction of wave propagation. While this force reversal has been demonstrated for sub-wavelength particles, achieving it on objects larger than the acoustic wavelength (λ) remains challenging and has typically been demonstrated in limited cases. Expanding on the concept of acoustic pulling, we present a method to generate negative radiation forces on elastic spheres comparable to or larger than λ using a focused multi-element array. Unlike previous demonstrations requiring sources that surround the object or the object to have specific material properties or geometries, we generate tailored acoustic beams that impart negative forces on solid glass spheres positioned 9.5 centimeters away from the transducer’s aperture plane. The beams exhibit an on-axis null region and refocus the pressure behind the sphere, thus minimizing backscatter and enabling the force direction reversal. Experiments and simulations confirm negative radiation forces on spheres with diameters up to 3λ. These results provide a promising framework for developing acoustic tractor beams for non-contact manipulation in environments such as biological benchtop settings, microgravity, and manufacturing.",
-        "url": "https://www.nature.com/articles/s41598-026-65370-2?error=cookies_not_supported&code=ef5495cd-85e6-4491-9230-68292a59b311",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-15T21:14:18Z",
-        "source": "Nature"
-      },
-      {
-        "title": "New hairy-leafed plant species confirms another of Darwin’s predictions",
-        "description": "Saxifraga candelabrum is a newly confirmed carnivorous plant. Its sticky hairs trap small insects, while its flowers attract them with scent.",
-        "url": "https://www.earth.com/plants/a-hairy-leafed-saxifraga-joins-the-list-of-known-carnivorous-plants/",
-        "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/08/15205725/Saxifraga-candelabrum-carnivorous-plant_1m.jpg",
-        "publishedAt": "2026-08-15T21:01:26Z",
-        "source": "Earth.com"
       }
     ],
     "ai": [
+      {
+        "title": "Forget picking the next ASX AI stock winner",
+        "description": "The advantage for ASX investors is that our sharemarket is made up of AI users rather than developers.",
+        "url": "https://www.afr.com/markets/equity-markets/forget-picking-the-next-ai-winner-for-australia-it-doesn-t-matter-20260812-p60nli",
+        "image": "https://static.ffx.io/images/$zoom_0.1338%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/fe1f9da96621f1db68c9237cb0efcd3cba39e2231865a0faec5b42cd3498d383",
+        "publishedAt": "2026-08-15T23:00:00Z",
+        "source": "Australian Financial Review"
+      },
+      {
+        "title": "U.S. to tell allies they must pick sides in AI race with China: Reuters",
+        "description": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
+        "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108266922-1771439635182-gettyimages-2252028006-tk4l0436_9ooxijtl_w5vt24nj.jpeg?v=1786833866&w=1920&h=1080",
+        "publishedAt": "2026-08-15T22:49:03Z",
+        "source": "CNBC"
+      },
       {
         "title": "Can Artificial Intelligence Replace Human Judges?",
         "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
@@ -248,22 +264,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
         "publishedAt": "2026-08-15T21:29:19Z",
         "source": "TechCrunch"
-      },
-      {
-        "title": "Russia wants to create sovereign AI with 'correct values' - disinfo watchdog",
-        "description": "Russia plans to develop \"sovereign\" artificial intelligence that will conform to the Kremlin-imposed \"traditional spiritual and moral values.\" — Ukrinform.",
-        "url": "https://www.ukrinform.net/rubric-polytics/4154305-russia-wants-to-create-sovereign-ai-with-correct-values-disinfo-watchdog.html",
-        "image": "https://static.ukrinform.com/photos/2026_01/thumb_files/630_360_1767267375-261.jpg",
-        "publishedAt": "2026-08-15T21:28:00Z",
-        "source": "Ukrinform"
-      },
-      {
-        "title": "Altman says four years of college may be more than the world now needs",
-        "description": "Sam Altman says two years of college was enough for him and four may be too many, told to a room of tech interns whose pipeline AI is closing.",
-        "url": "https://thenextweb.com/news/sam-altman-college-too-long-interns-entry-level",
-        "image": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.jpg",
-        "publishedAt": "2026-08-15T21:25:02Z",
-        "source": "TNW"
       }
     ]
   }
