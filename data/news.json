@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-17T14:47:00.136Z",
+  "fetchedAt": "2026-08-17T15:42:47.576Z",
   "sections": {
     "world": [
       {
-        "title": "Photos, memories all that remain for Colombia's bereaved after quake",
-        "description": "CALI (COLOMBIA) - In Torres del Limonar, a Cali residential complex that collapsed in Monday's earthquake, people pick through rubble to recover victims' belongings and return them to grieving families.",
-        "url": "https://www.bangkokpost.com/world/3303060/photos-memories-all-that-remain-for-colombias-bereaved-after-quake",
-        "image": "https://static.bangkokpost.com/media/content/20260817/c1_6191435_700.jpg",
-        "publishedAt": "2026-08-17T02:45:00Z",
-        "source": "Bangkok Post"
+        "title": "AfriForum seeks contempt ruling against Malema over land calls",
+        "description": "AfriForum CEO Kallie Kriel said a court order is not a recommendation that can be obeyed as the recipient sees fit",
+        "url": "https://www.citizen.co.za/news/afriforum-seeks-contempt-ruling-against-malema-over-land-calls/",
+        "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/Julius-Malema.jpg",
+        "publishedAt": "2026-08-17T03:41:14Z",
+        "source": "The Citizen"
       },
       {
-        "title": "\"May become offensive\": IRGC deputy signals shift in Iran's military doctrine",
-        "description": "IRGC Political Deputy Brigadier General Yadollah Javani told Iranian state media that Iran's actions so far had been defensive but could assume an offensive character in the future.",
-        "url": "https://www.aninews.in/news/world/middle-east/may-become-offensive-irgc-deputy-signals-shift-in-irans-military-doctrine20260817081448/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817023543-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-08-17T02:44:00Z",
-        "source": "ANI News"
+        "title": "Moro Gulf tsunami, 50 years later: What Phivolcs says we should know",
+        "description": "Fifty years ago today, a magnitude 8.1 earthquake struck Moro Gulf, followed by a tsunami that devastated coastal communities in Sultan Kudarat and other areas...",
+        "url": "https://mb.com.ph/2026/08/17/moro-gulf-tsunami-50-years-later-what-phivolcs-says-we-should-know",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/17/124221.webp",
+        "publishedAt": "2026-08-17T03:40:44Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Is this cave in Turkey where Homer wrote 'The Odyssey'?",
-        "description": "Locals call it Homer's Valley.",
-        "url": "https://www.philstar.com/lifestyle/travel-and-tourism/2026/08/17/2549892/cave-turkey-where-homer-wrote-the-odyssey",
-        "image": "https://media.philstar.com/photos/2026/08/17/afp20260816c4q6667v1highresturkeyfilmarchaeologyheritage_2026-08-17_10-43-49.jpg",
-        "publishedAt": "2026-08-17T02:42:00Z",
-        "source": "Philstar.com"
+        "title": "Johor businessman’s body bound in net, dumped in river; four accused face murder charge",
+        "description": "BATU PAHAT, Aug 17 — Four men were charged at the Magistrate’s Court here with murdering a businessman, whose body was bound and covered in a net before being found in a river...",
+        "url": "https://www.malaymail.com/news/malaysia/2026/08/17/johor-businessmans-body-bound-in-net-dumped-in-river-four-accused-face-murder-charge/231643",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/17/357458.jpg",
+        "publishedAt": "2026-08-17T03:39:29Z",
+        "source": "Malay Mail"
       },
       {
-        "title": "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
-        "description": "Middle East News: US President Donald Trump on Sunday threw his weight behind the newly signed Mecca Joint Defence Agreement between Saudi Arabia, Turkey and Pakistan, .",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-backs-islamic-nato-trump-calls-saudi-turkey-pakistan-pact-big-bold-and-important-step/articleshow/133285023.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133285069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-17T02:42:00Z",
+        "title": "Search for Indonesia quake victims as thousands displaced",
+        "description": "Rescuers in eastern Indonesia are combing through collapsed buildings to find anyone who might still be trapped under rubble after a deadly quake that killed at least 53 people.",
+        "url": "https://www.rte.ie/news/2026/0817/1588154-indonesia-earthquake/",
+        "image": "https://www.rte.ie/images/0024d9ee-1600.jpg",
+        "publishedAt": "2026-08-17T03:38:26Z",
+        "source": "RTE.ie"
+      },
+      {
+        "title": "Taal Volcano logs seven quakes, two tremors as seismic activity eases",
+        "description": "LUCENA CITY: Seismic activity at Taal Volcano in Batangas province dropped sharply over the past 24 hours after a significant increase in volcanic earthquakes and tremors in the preceding days, the Philippine Institute of Volcanology and Seismology (Phivolcs) reported on Monday (Aug 17).",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/17/taal-volcano-logs-seven-quakes-two-tremors-as-seismic-activity-eases",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/17/4063275.png",
+        "publishedAt": "2026-08-17T03:36:00Z",
+        "source": "thestar.com.my"
+      },
+      {
+        "title": "Uganda: Ai, Future of Education in Focus As Uganda Hosts 2nd International Curriculum Conference Next Week",
+        "description": "The growing impact of Artificial Intelligence (AI) changing workplace demands and the need for new skills will take centre stage at the second International Conference on Curriculum Development scheduled for August 20 and 21 at Speke Resort Munyonyo.",
+        "url": "https://allafrica.com/stories/202608170040.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-08-17T03:32:35Z",
+        "source": "allafrica.com"
+      },
+      {
+        "title": "Southern Africa: Chihana Urges SADC Unity As Region Faces Congo, Madagascar and Mozambique Crises",
+        "description": "Malawi's Second Vice-President Enock Chihana issued a rallying call to Southern African leaders today, urging them to tackle the region's mounting security crises with \"openness, mutual respect and a shared sense of purpose.\"",
+        "url": "https://allafrica.com/stories/202608170053.html",
+        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2026-08-17T03:32:27Z",
+        "source": "allAfrica.com"
+      },
+      {
+        "title": "Iran offers $30,000 bounty for killing, capturing US soldiers; $60,000 if done by women",
+        "description": "Middle East News: Iranian Army chief Amir Hatami has announced a $30,000 bounty for anyone who kills or captures a US soldier, with the reward doubled to $60,000 if the.",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-offers-30000-bounty-for-killing-capturing-us-soldiers-60000-if-done-by-women/articleshow/133285844.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133285861,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-17T03:32:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "Israeli war on Iran: Wetin be Nigeria’s own?",
-        "description": "On Thursday, July 30, 2026, Saudi Arabia announced the formation of a 14-member Multinational Maritime Defence Coalition, ostensibly to guarantee freedom of",
-        "url": "https://blueprint.ng/us-israeli-war-on-iran-wetin-be-nigerias-own/",
-        "image": "https://blueprint.ng/wp-content/uploads/2026/08/Hassan-Gimba-63.jpg",
-        "publishedAt": "2026-08-17T02:41:30Z",
-        "source": "Blueprint Newspapers"
-      },
-      {
-        "title": "Study: Wealthy Countries Fuel Illegal Fishing in Poor Countries",
-        "description": "Consumers in wealthy nations are fueling a rampant illegal fishing trade that has become a multibillion-dollar industry, and the majority of the catch...",
-        "url": "https://maritime-executive.com/article/study-wealthy-countries-fuel-illegal-fishing-in-poor-countries",
-        "image": "https://maritime-executive.com/media/images/article/1786956781_6a82cbedba977.jpg",
-        "publishedAt": "2026-08-17T02:40:55Z",
-        "source": "The Maritime Executive"
-      },
-      {
-        "title": "As machinery removes rubble, hopes for survivors from Colombian quake dwindle",
-        "description": "At least 140 people are still missing, authorities said. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/as-machinery-removes-rubble-hopes-for-survivors-from-colombian-quake-dwindle",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a0daa3e32639fef662b5a0ef86fee7d53e01c7c62071d651c0bbeb7f6a08dee8",
-        "publishedAt": "2026-08-17T02:40:00Z",
-        "source": "straitstimes.com"
-      },
-      {
-        "title": "Sh1.9bn bridge linking Siaya and Busia to be ready by April",
-        "description": "Construction gained momentum after the government resumed financing the stalled project",
-        "url": "https://www.the-star.co.ke/counties/nyanza/2026-08-17-sh19bn-bridge-linking-siaya-and-busia-to-be-ready-by-april",
-        "image": "https://cdn.radioafrica.digital/image/2026/08/e2cae986-4334-4150-b3ed-4bf90581ab31.webp?1786941498581",
-        "publishedAt": "2026-08-17T02:40:00Z",
-        "source": "the-star.co.ke"
       }
     ],
     "business": [
       {
-        "title": "CXMT's rise to China's most valuable firm signals new era for country's tech sector",
-        "description": "AI boom is delivering runaway demand to suppliers of the hardware required, but the market is harder to navigate on the software side Read more at The Business Times.",
-        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/cxmts-rise-chinas-most-valuable-firm-signals-new-era-countrys-tech-sector",
-        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/4789dff749c8987fcc1a57f3308af3647517b5bf0b5ad2a2b1421f8de341489f?w=1920&f=webp",
-        "publishedAt": "2026-08-17T02:47:00Z",
-        "source": "The Business Times"
+        "title": "Moody's pushes for near-term framework to translate climate risk into credit terms",
+        "description": "Moody's argues the trillion-dollar headline figures obscure the more useful question",
+        "url": "https://www.insurancebusinessmag.com/ca/news/environmental/moodys-pushes-for-nearterm-framework-to-translate-climate-risk-into-credit-terms-586281.aspx",
+        "image": "https://cdn-res.keymedia.com/cms/images/us/018/0382_639225343695058950.png",
+        "publishedAt": "2026-08-17T03:40:45Z",
+        "source": "Insurance Business"
       },
       {
-        "title": "2026 Nissan Kicks e-Power to make PH debut this August",
-        "description": "Nissan's hybrid B-SUV to get a new look and plenty of tech upgrades",
-        "url": "https://www.autoindustriya.com/auto-industry-news/2026-nissan-kicks-e-power-to-make-ph-debut-this-august.html",
-        "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/08/be7451f3-e3ba-4553-9bfc-dcb4475d9933-kicks-e-power-1.jpg",
-        "publishedAt": "2026-08-17T02:46:29Z",
-        "source": "AutoIndustriya"
+        "title": "Wind farm dumped from Australia's first pumped hydro project in 40 years",
+        "description": "Plans to add more solar and a wind farm to delayed pumped hydro project abandoned, this time due to rocky terrain. However, a bigger battery will be included.",
+        "url": "https://reneweconomy.com.au/wind-farm-dumped-from-australias-first-pumped-hydro-project-in-40-years-due-to-rocky-terrain/",
+        "image": "https://reneweconomy.com.au/wp-content/uploads/2021/04/aerial-of-Kidston-Renewable-Energy-Hub-1-optimised.jpg",
+        "publishedAt": "2026-08-17T03:38:59Z",
+        "source": "Renew Economy"
       },
       {
-        "title": "T. Rowe Price Associates Discloses 7.4% Stake in Block Inc via Schedule 13G/A Filing",
-        "description": "Block Inc (ASX:XYZ) has been named as the subject of an amended Schedule 13G/A filing submitted to the United States Securities and Exchange Commission by T. Rowe Price Associates, Inc., disclosing beneficial ownership of 39,734,450 shares of Block Inc common stock, representing 7.4% of the class, as of 30 June 2026.",
-        "url": "https://kalkine.com.au/news/announcements/t-rowe-price-associates-discloses-74-stake-in-block-inc-via-schedule-13ga-filing",
-        "image": "https://kalkine.com.au/featured_image/gallery/xlarge/announcement7_06_04_2026_07_12_48_947196.webp",
-        "publishedAt": "2026-08-17T02:45:22Z",
-        "source": "Kalkine"
+        "title": "Ligand Pharmaceuticals (LGND) Could Be 9% Undervalued As Earnings And Guidance Hold",
+        "description": "Why Ligand Pharmaceuticals Stock Is Back on Investors’ Radar\nLigand Pharmaceuticals (LGND) is in focus after reporting second quarter 2026 results that showed higher revenue and net income compared with a year earlier, while management also reaffirmed full year revenue and earnings guidance.\nSee our latest analysis for Ligand Pharmaceuticals.\nThe earnings release and reaffirmed 2026 guidance appear to have supported sentiment around Ligand Pharmaceuticals, with the stock posting a 41.71% 90...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-lgnd/ligand-pharmaceuticals/news/ligand-pharmaceuticals-lgnd-could-be-9-undervalued-as-earnin",
+        "image": "https://images.simplywall.st/asset/industry/6111000-choice1-main-header/1585186710114",
+        "publishedAt": "2026-08-17T03:37:35Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Silver Forecast: XAG/USD bulls eye $66.00 and 100",
-        "description": "Silver (XAG/USD) is seen building on Friday's bounce from mid-$63.00s and gaining some follow-through positive traction at the start of a new week.",
-        "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-acceptance-above-6600-100-day-ema-breakout-202608170244",
-        "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
-        "publishedAt": "2026-08-17T02:44:11Z",
-        "source": "FXStreet"
+        "title": "How Investors Are Reacting To T-Mobile US (TMUS) Flex Financing, Spectrum Swap and Pixel Exclusives",
+        "description": "In early August 2026, T-Mobile US rolled out new Experience 2.0 plans with EIP Flex 36 financing and student-focused offers, completed a spectrum swap with Grain Management worth US$2.90 billion in cash plus 600 MHz licenses, and launched exclusive promotions around Google’s new Pixel 11 devices and Pixel Watch 5, alongside activating T-Satellite support during Tropical Storm Lala in Hawaiʻi.\nTogether, these announcements show T-Mobile using flexible financing, premium device exclusivity and...",
+        "url": "https://simplywall.st/stocks/us/telecom/nasdaq-tmus/t-mobile-us/news/how-investors-are-reacting-to-t-mobile-us-tmus-flex-financin",
+        "image": "https://images.simplywall.st/asset/company-cover/93339-main-header/1756253465697",
+        "publishedAt": "2026-08-17T03:37:35Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Block, Inc. Director Anthony Eisen Sells 18,000 Class A Common Stock Shares",
-        "description": "Block, Inc. (ASX:XYZ) director Anthony Eisen has disclosed the sale of 18,000 shares of Class A Common Stock across three consecutive trading days in August 2026, according to a Statement of Changes in Beneficial Ownership filed with the United States Securities and Exchange Commission.",
-        "url": "https://kalkine.com.au/news/announcements/block-inc-director-anthony-eisen-sells-18000-class-a-common-stock-shares",
-        "image": "https://kalkine.com.au/featured_image/gallery/xlarge/announcement6_06_04_2026_07_14_09_832695.webp",
-        "publishedAt": "2026-08-17T02:43:52Z",
-        "source": "Kalkine"
+        "title": "Does Albemarle’s Profit Surge And Higher 2026 Guidance Change The Bull Case For Albemarle (ALB)?",
+        "description": "In August 2026, Albemarle Corporation reported second-quarter 2026 results showing sales of US$1,743.31 million and net income of US$479.96 million, alongside sharply higher earnings per share from continuing operations versus the prior year.\nFor the first half of 2026, Albemarle also reported sales of US$3,172.04 million and net income of US$799.05 million, and issued full-year guidance calling for US$5.7 billion to US$6.0 billion in net sales and 225 to 235 kilotons of lithium carbonate...",
+        "url": "https://simplywall.st/stocks/us/materials/nyse-alb/albemarle/news/does-albemarles-profit-surge-and-higher-2026-guidance-change",
+        "image": "https://images.simplywall.st/asset/industry/2024000-choice1-main-header/1585186700183",
+        "publishedAt": "2026-08-17T03:36:42Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Philippine central bank says inflation to ease gradually, risks remain on upside",
-        "description": "MANILA, Aug 17 (Reuters) - The Philippine central bank ​governor said ‌on Monday that inflation is expected to ease gradually ‌over ​the ⁠medium term ⁠even as risks to consumer prices remain on the ​upside. The central bank is ⁠prepared ⁠to take steps ...",
-        "url": "https://whtc.com/2026/08/16/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside/",
-        "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/17/2026-08-17T021309Z_1_LYNXMPEM7G040_RTROPTP_3_IMF-WORLDBANK.JPG",
-        "publishedAt": "2026-08-17T02:40:54Z",
-        "source": "1450 AM 99.7 FM WHTC"
+        "title": "Stronger Q2 Results And AMI-Fueled Outlook Might Change The Case For Investing In Lattice (LSCC)",
+        "description": "Lattice Semiconductor recently reported past second-quarter 2026 results, with sales of US$201.08 million and net income of US$19.36 million, and issued third-quarter 2026 revenue guidance of US$245 million to US$265 million including an approximate two-month contribution from AMI.\nThe sharp year-on-year increases in both sales and earnings, alongside quantified revenue expectations that factor in the AMI acquisition, give investors more concrete data to assess how Lattice’s product focus...",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-lscc/lattice-semiconductor/news/stronger-q2-results-and-ami-fueled-outlook-might-change-the",
+        "image": "https://images.simplywall.st/asset/industry/8212000-choice1-main-header/1585186704996",
+        "publishedAt": "2026-08-17T03:35:58Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "EU might delay EES checks past Sept. 6, report says",
-        "description": "The EU may push its EES biometric checks past the Sept. 6 deadline. Here's what airlines, airports, and travelers face next.",
-        "url": "https://etias.com/articles/eu-might-delay-ees-checks-past-sept.-6,-report-says",
-        "image": "https://etias.com/assets/uploads/imagery/blog/crowded-airport-check-in-hall-travelers.jpg",
-        "publishedAt": "2026-08-17T02:40:15Z",
-        "source": "ETIAS.com"
+        "title": "How Investors Are Reacting To Haw Par (SGX:H02) Earnings And EPS Declines In First Half 2026",
+        "description": "Haw Par Corporation Limited reported past half-year results for the period ended June 30, 2026, with sales of S$115.93 million and net income of S$107.87 million, both lower than a year earlier.\nThe drop in basic earnings per share from S$0.651 to S$0.487 highlights weaker profitability from continuing operations over the half-year period.\nWe’ll now examine how this earnings decline, particularly the reduced basic earnings per share, shapes Haw Par’s investment narrative for investors.\nThe...",
+        "url": "https://simplywall.st/stocks/sg/pharmaceuticals-biotech/sgx-h02/haw-par-shares/news/how-investors-are-reacting-to-haw-par-sgxh02-earnings-and-ep",
+        "image": "https://images.simplywall.st/asset/industry/6121000-choice2-main-header/1585186699299",
+        "publishedAt": "2026-08-17T03:35:58Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustainability push",
-        "description": "From Coca-Cola’s localisation efforts to China’s push for alternative proteins and food waste reduction, we explore how the country’s food and beverage sector is adapting to evolving consumer and sustainability needs.",
-        "url": "https://www.foodnavigator.com/Article/2026/08/17/china-focus-coca-colas-localisation-strategy-protein-innovation-and-sustainability-push/",
-        "image": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&width=1200&height=630&smart=true",
-        "publishedAt": "2026-08-17T02:40:11Z",
-        "source": "FoodNavigator.com"
+        "title": "Job cuts planned on Wellington, New Zealand rail network",
+        "description": "The multinational company Transdev is threatening to eliminate 53 jobs as it transitions to cashless ticketing systems.",
+        "url": "https://www.wsws.org/en/articles/2026/08/17/vlld-a17.html",
+        "image": "https://www.wsws.org/asset/56f062f4-80b1-4f1f-b53b-a9113da6f60c?rendition=1600x900",
+        "publishedAt": "2026-08-17T03:35:46Z",
+        "source": "World Socialist Web Site"
       }
     ],
     "science": [
+      {
+        "title": "After Half A Century, Physicists Find The Strongest Evidence Yet For An Exotic 'Glueball' Particle",
+        "description": "An important part of the Standard Model of particle physics, quantum chromodynamics describes the strong interaction of quarks and gluons to create the ordinary matter we see, touch, and taste.",
+        "url": "https://www.sciencealert.com/after-half-a-century-physicists-find-the-strongest-evidence-yet-for-an-exotic-glueball-particle",
+        "image": "https://www.sciencealert.com/images/2026/02/TwoParticlesInBlueMedium.jpg",
+        "publishedAt": "2026-08-17T03:29:32Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "After Half A Century, Physicists Find The Strongest Evidence Yet For An Exotic 'Glueball' Particle",
+        "description": "An \"unprecedented form of matter\".",
+        "url": "https://www.yahoo.com/news/science/articles/half-century-physicists-strongest-evidence-032816019.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a3c0d7ad50fe5fd820ef26d6104e652be4f0f4c89bd63f5e29402c6fddd039a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F90ef4341fee7233d13e895b2ebd6c24a.jpg",
+        "publishedAt": "2026-08-17T03:28:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Rocket Lab Satellite Platforms Built for MDA Space Successfully Reach Orbit, Supporting Globalstar Direct-to-Device Communications Services",
+        "description": "Rocket Lab Corporation a global leader in launch services and space systems, today announced the successful launch of eight advanced satellite platforms the Company built for MDA Space prime contractor for the replenishment of Globalstar’s existing constellation, which provides direct-to-device communications services and IoT applications from orbit. The satellite platforms are the first batch in a constellation ...",
+        "url": "https://investingnews.com/rocket-lab-satellite-platforms-built-for-mda-space-successfully-reach-orbit-supporting-globalstar-direct-to-device-communications-services/",
+        "image": "https://investingnews.com/media-library/image.jpg?id=50342910&width=1200&height=600&coordinates=0%2C75%2C0%2C75",
+        "publishedAt": "2026-08-17T03:25:34Z",
+        "source": "investingnews.com"
+      },
+      {
+        "title": "Antisymmetric polyspectral indices for high-order neural interactions: general theory and a fourth-order proof of concept",
+        "description": "Cross-frequency interactions are fundamental brain mechanisms for integrating information across temporal scales. However, accurate identification of these couplings is hindered by complex multi-frequency nonlinearities and by spurious, zero-lag artifacts caused by volume conduction. To our knowledge, conventional metrics lack a robust framework to characterize genuine interactions among multiple time series where a frequency of interest $$f_m$$ arises from the combination of $$m-1$$ components such that $$f_m = \\sum _{i=1}^{m-1} f_i$$. We introduce a general family of antisymmetric cross-polyspectral indices designed to quantify these higher-order multi-frequency dependencies while being intrinsically robust to instantaneous mixing. We derive the theoretical properties of these quantities and validate the bivariate fourth-order case through simulations of cubic nonlinearities. As an exploratory proof of concept, we apply the corresponding antisymmetric cross-trispectral index to a single-subject EEG recording. The resulting sensor-level maps illustrate putative patterns compatible with higher-order dependencies and differing from those obtained with selected standard measures. We further discuss how these indices may inform future multi-site transcranial magnetic stimulation (mTMS) protocols by enabling the monitoring of specific multi-frequency network interactions.",
+        "url": "https://www.nature.com/articles/s41598-026-64881-2?error=cookies_not_supported&code=b4f732b1-b5bb-4608-aceb-b45952ce270d",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-17T03:23:50Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Exploration of the regulatory mechanism of PD-L1 expression in pMMR AGS gastric cancer cell by cytotoxic drugs and anti-angiogenic drugs",
+        "description": "Immune checkpoint inhibitors (ICIs) play a key role in treating advanced gastric cancer; however, their efficacy is limited in patients with proficient mismatch repair (pMMR) tumors. Therefore, enhancing ICIs sensitivity in this subgroup is crucial. Preclinical studies have indicated that cytotoxic and anti-angiogenic drugs may boost ICIs efficacy by modulating programmed death-ligand 1(PD-L1) expression via pathways such as PI3K/AKT and MAPK in other cancers. However, how these agents regulate PD-L1 specifically in pMMR gastric cancer cells remains unclear, hindering the development of effective combination therapies. The impact of various drug concentrations on AGS cell proliferation was assessed using the CCK-8 assay to select the appropriate concentrations for subsequent experiments. Real-time quantitative PCR (qPCR) and western blotting were used to evaluate the effects of 72-h drug treatment on PD-L1 mRNA and protein expression levels, respectively. Furthermore, Western blot analysis was used to examine drug-induced changes in the expression of key proteins (PI3K, Akt, MEK1, and ERK) within the PI3K/Akt/mTOR and RAS/RAF/MEK/ERK signaling pathways, which are potentially involved in PD-L1 regulation. We investigated the effects of cytotoxic (5-fluorouracil and cisplatin) and anti-angiogenic (apatinib) drugs on PD-L1 expression and related signaling pathways in proficient mismatch repair (pMMR) AGS gastric cancer cells. Initial characterization confirmed the pMMR status of the cell line via detection of key MMR proteins (MSH6, MSH2, MLH1, and PMS2) and established constitutive baseline expression of both PD-L1 mRNA and protein. Cell viability assays (CCK-8) demonstrated that all three drugs significantly inhibited AGS cell proliferation in time- and concentration-dependent manner over 72–96 h. Subsequent gene expression analysis (qPCR) revealed that specific drug concentrations (5-FU 64 µM, cisplatin 16 µM, apatinib 320 nM and 640 nM) significantly upregulated PD-L1 mRNA levels after 72-h treatment. Western blot analysis confirmed that the same concentrations (5-FU 64 µM, cisplatin 16 µM, apatinib 320 nM) also significantly increased PD-L1 protein expression. To explore the underlying mechanisms, key proteins in the PI3K/Akt/mTOR and RAS/RAF/MEK/ERK pathways, which are known regulators of PD-L1, were analyzed. Western blotting results showed that all three drugs significantly upregulated PI3K protein expression. However, their effects on downstream effectors varied: apatinib increased Akt phosphorylation, whereas 5-FU and cisplatin decreased Akt phosphorylation. Furthermore, 5-FU treatment upregulated MEK1 and ERK protein levels, whereas apatinib and cisplatin downregulated them. This study demonstrated that cytotoxic drugs (5-fluorouracil and cisplatin) and the anti-angiogenic drug(apatinib) effectively inhibited the proliferation of pMMR-type AGS gastric cancer cells and may also have the potential to upregulate PD-L1 mRNA and protein expression in pMMR-type AGS gastric cancer cells. Further experimental results suggested that this upregulation of PD-L1 mRNA and protein may be correlated with the PI3K/Akt/mTOR and RAS/RAF/MEK/ERK signaling pathways. These findings provide a potential theoretical basis for combining cytotoxic and anti-angiogenic drugs with PD-L1 inhibitors to further enhance therapeutic efficacy against pMMR-type gastric cancer.",
+        "url": "https://www.nature.com/articles/s41598-026-64587-5?error=cookies_not_supported&code=cb2b15ee-5565-47b5-8c0d-c4357a9f1267",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-17T03:23:39Z",
+        "source": "Nature"
+      },
+      {
+        "title": "Controlled kHz laser-driven electron irradiations for pre-clinical applications",
+        "description": "We report the first in-air irradiations of biological samples with kHz laser-driven electrons with beam energy 20 MeV, high-energy tail extending to 40 MeV, and average dose rate up to 30 Gy/min. An in-house procedure has been developed to characterize and deliver on-demand (i.e. pre-agreed date and time) the target electron beam energy, dose and dose uniformity. We present a tolerance analysis on the laser electron parameters, highlighting the importance of beam stability for precise irradiations of in vivo zebrafish embryos and in vitro U251 glioblastoma cell line. The observed improvement in the survival rate of the zebrafish embryos, combined with unchanged cytotoxicity in the cell cultures, indicates promising results for normal tissue sparing while maintaining anticancer efficacy. The pre-clinical results of this work represent an important milestone towards the clinical translation of laser-plasma accelerators.",
+        "url": "https://www.nature.com/articles/s41598-026-66625-8?error=cookies_not_supported&code=cfdeea4a-7560-43b1-8646-c27809f44286",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-17T03:23:23Z",
+        "source": "Nature"
+      },
       {
         "title": "Hybrid material based on nanosheets can produce hydrogen peroxide",
         "description": "Scientists have developed innovative hybrid material that can produce hydrogen peroxide more efficiently.",
@@ -150,120 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/08/wiley-dolphin-shelling-figure3-1024x315.jpg",
         "publishedAt": "2026-08-17T02:30:00Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
-        "description": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what they’re made of.",
-        "url": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
-        "image": "https://www.sciencedaily.com/images/1920/graphene-nanowrinkles-can-reshape-electricity.webp",
-        "publishedAt": "2026-08-17T02:29:56Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
-        "description": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what they’re made of.",
-        "url": "http://www.sciencedaily.com/releases/2026/08/260815064801.htm",
-        "image": "https://www.sciencedaily.com/images/1920/graphene-nanowrinkles-can-reshape-electricity.webp",
-        "publishedAt": "2026-08-17T02:29:56Z",
-        "source": "ScienceDaily"
-      },
-      {
-        "title": "Ancient Trees Warn of Impending Solar Storm",
-        "description": "Our sun is capable of storms far bigger than we've ever recorded. Studying the world's oldest trees suggests we could soon be due one of these",
-        "url": "https://www.miragenews.com/ancient-trees-warn-of-impending-solar-storm-1728008/",
-        "image": "https://lighthouse.mq.edu.au/__data/assets/image/0003/1385607/Solar-storm.jpg",
-        "publishedAt": "2026-08-17T02:05:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Suitcase-sized spacecraft may reveal what happened before first stars formed",
-        "description": "The proposed CosmoCube mission would use the Moon’s far side as a shield from Earth’s radio interference to search for faint signals from the universe’s earliest stages.",
-        "url": "https://indianexpress.com/article/technology/science/suitcase-sized-spacecraft-may-reveal-what-happened-before-first-stars-formed-10836384/",
-        "image": "https://images.indianexpress.com/2026/08/Surrey-Space-Technology-Ltd.jpg",
-        "publishedAt": "2026-08-17T01:47:54Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "'Glueball' find hailed a victory for physics",
-        "description": "While subatomic building blocks of matter were once thought to always contain fundamental components known as quarks, Chinese scientists have confirmed the existence of a unique particle made entirely of pure force with no quarks inside.",
-        "url": "https://www.chinadaily.com.cn/a/202608/17/WS6a8261dea31073853ec5395d.html",
-        "image": "http://img2.chinadaily.com.cn/images/202608/17/6a8261dea31073853159197b.jpeg",
-        "publishedAt": "2026-08-17T01:20:23Z",
-        "source": "China Daily"
-      },
-      {
-        "title": "Giant Crocs Ruled Miocene South America's Food Chain",
-        "description": "South America during the Miocene was a frightening place. More than ten million years ago, a vast lake covered much of the continent, home to giant",
-        "url": "https://www.miragenews.com/giant-crocs-ruled-miocene-south-americas-food-1727971/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1615309661755-816dcd80bcd3%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-08-17T01:06:00Z",
-        "source": "Mirage News"
       }
     ],
     "ai": [
       {
-        "title": "Building a Network That Can Support AI in Retail Enterprises",
-        "description": "While large-scale AI deployments are largely non-existent throughout the retail industry, AI use cases are rising every year. According to research from",
-        "url": "https://www.europesays.com/3198454/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/6eea9fa2fefa312ad51f078255d930bf.jpg",
-        "publishedAt": "2026-08-17T02:31:30Z",
-        "source": "EUROPE SAYS"
-      },
-      {
-        "title": "The office isn’t coming back: Technology, AI and hybrid work killed the 9-to-5 and CEOs still haven’t accepted it",
-        "description": "The traditional office job is a 300-year-old invention, not a law of nature—and three forces are dismantling it",
-        "url": "https://www.livemint.com/mint-lounge/ideas/future-of-work-technology-artifical-intelligence-hybrid-remote-work-models-11783683222764.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/FJU3Y6VO_1785060740402_1785060752936_aa8a2e76-32af-41a9-8aaf-7a7fad04aadf.jpg",
-        "publishedAt": "2026-08-17T02:30:26Z",
+        "title": "AI techie joins MNC, says he has been given no work at all. Internet warns him - 'It's good until it isn't'",
+        "description": "The newly hired AI developer said he has shared his resume, discussed his technical experience and attended every team update call - but has still not been handed a single assignment. His manager, he said, asked him to wait until there is work for him.",
+        "url": "https://www.livemint.com/news/trends/ai-techie-joins-mnc-says-he-has-been-given-no-work-at-all-internet-warns-him-its-good-until-it-isnt-11786936467888.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/pexels-photo-16924722_1786937689127_1786937709388_8caa56e1-70be-4cc5-9cc8-acf68e86ae6a.jpeg",
+        "publishedAt": "2026-08-17T03:38:08Z",
         "source": "Livemint"
       },
       {
-        "title": "Not 5G or AI, this is what's forcing Indians to buy new phones early",
-        "description": "Broken glass pushed 53% of surveyed Indian users to buy a new smartphone earlier than planned, revealed a Corning survey. Nearly three-fourths also said they were willing to pay more for tougher, better-performing cover materials.",
-        "url": "https://www.indiatoday.in/technology/story/broken-glass-smartphone-upgrade-india-why-indians-are-buying-new-phones-early-2971902-2026-08-17",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/a-phone-can-survive-years-of-use--but-one-bad-fall-can-change-that-ai-generated-150706606-16x9_0.png?VersionId=EKHhNCrAIPb1lFg_TYW4iSQROSjQYGZk",
-        "publishedAt": "2026-08-17T02:30:00Z",
-        "source": "India Today"
+        "title": "AI's Quiet Devaluation Of The Degree Has Begun. Is Anyone Noticing?",
+        "description": "Employers now favor AI skills over MBAs, while a Brown University cheating scandal shows degrees are easier to counterfeit than ever.",
+        "url": "https://www.forbes.com/sites/arafatkabir/2026/08/16/ais-quiet-devaluation-of-the-degree-has-begun-is-anyone-noticing/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a827c17921f8644c29e5aad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-17T03:35:48Z",
+        "source": "Forbes"
       },
       {
-        "title": "Mouser Expands Industrial Automation Portfolio with New Manufacturer Additions to Support Next-Gen Systems",
-        "description": "**media[1178963]**SHANGHAI, Aug. 17, 2026 /PRNewswire/ -- Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, has expanded its industrial automation portfolio with the addition of nine new manufacturers in the first two quarters of this year, strengthening its lineup of solutions supporting modern industrial systems. This expansion broadens access to critical technologies across AI, connectivity, power, control, and sensing, which are key building blocks for today's increasingly integrated industrial environments.**media[1178964]**",
-        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/pr-newswire/mouser-expands-industrial-automation-portfolio-with-new-manufacturer-additions-to-support-next-gen-systems/2406484",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178961.jpg",
-        "publishedAt": "2026-08-17T02:26:44Z",
+        "title": "How AI agents are transforming India's financial services sector",
+        "description": "From a dairy farmer speaking to a lender in his own language to AI agents reading loan documents, financial institutions use AI for tasks that once required many human steps. This shift could make finance more accessible and efficient, but raises concerns about data, security, and trust.",
+        "url": "https://www.livemint.com/ai/how-ai-agents-are-transforming-indias-financial-services-sector-11786937014153.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/maxresdefault_1786937221381_1786937252520_8fa65591-abf6-4c8e-8f6b-921808e37271.jpg",
+        "publishedAt": "2026-08-17T03:30:44Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Yanolja Cloud Solution Introduces AI Concierge for Hotel Operations",
+        "description": "Yanolja Cloud Solution Introduces AI Concierge for Hotel Operations",
+        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/pr-newswire/yanolja-cloud-solution-introduces-ai-concierge-for-hotel-operations/2406493",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178987.jpg",
+        "publishedAt": "2026-08-17T03:26:56Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Anthropic CEO Dario Amodei Rejects Claims His AI Warnings Fueled Public Backlash",
-        "description": "Anthropic CEO Dario Amodei rejects claims that his AI warnings fueled public fear, saying the real issue is a crisis of trust and that AI companies must deliver real-world benefits., Technology & Science, Times Now",
-        "url": "https://www.timesnownews.com/technology-science/anthropic-ceo-dario-amodei-rejects-claims-his-ai-warnings-fueled-public-backlash-article-155708102",
-        "image": "https://images.timesnownews.com/thumb/msid-155708116,thumbsize-3003972,width-1280,height-720,resizemode-75/155708116.jpg",
-        "publishedAt": "2026-08-17T02:21:02Z",
-        "source": "Times Now"
+        "title": "Global AI investment $1 trillion in 2026, to reach 1.4% global GDP by 2028: Goldman Sachs",
+        "description": "Global investment in artificial intelligence is projected to reach around $1 trillion in 2026, with AI-related capital expenditure expected to remain robust in the near term, according to Goldman Sachs Research. The investment is forecast to rise from 0.9 per cent of global GDP in 2026 to 1.3 per cent in 2027 and 1.4 per cent in 2028, suggesting that the AI buildout could continue to support capital spending over the next two years.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-investment-1-trillion-in-2026-to-reach-1-4-global-gdp-by-2028-goldman-sachs/articleshow/133285754.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-159150,resizemode-75,msid-133285754/tech/artificial-intelligence/global-ai-investment-1-trillion-in-2026-to-reach-1-4-global-gdp-by-2028-goldman-sachs.jpg",
+        "publishedAt": "2026-08-17T03:22:31Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "CJI Surya Kant bats for creative use of tech in law",
-        "description": "The CJI stressed that the legal profession can no longer remain a late adopter of technology and rejected an outright prohibition of tools like generative AI in",
-        "url": "https://www.newindianexpress.com/india/2026/Aug/17/cji-surya-kant-bats-for-creative-use-of-tech-in-law",
-        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-13%2Fs53sw7we%2FANI_20260813160435.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-17T02:10:23Z",
-        "source": "The New Indian Express"
+        "title": "Alibaba to sell gaming arm for $1.5 billion in boost to AI pivot",
+        "description": "Alibaba sells its gaming arm for $1.5 billion to focus on AI and cloud computing in a strategic reorganization.",
+        "url": "https://www.thehindubusinessline.com/info-tech/alibaba-to-sell-gaming-arm-for-15-billion-in-boost-to-ai-pivot/article71354705.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/lwp8xk/article71144740.ece/alternates/LANDSCAPE_1200/2026-06-24T235244Z_1519277653_RC2HNFAWZW5Z_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
+        "publishedAt": "2026-08-17T03:21:29Z",
+        "source": "The Hindu Business Line"
       },
       {
-        "title": "Alibaba’s AI models reach 3 billion downloads, outpacing Meta and Google",
-        "description": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/alibaba-ai-models-hit-3-billion-downloads-outpacing-meta-google",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5d2e952652aa0b86687a369b90ecef45c03638b282b1d2ed9d0118d593b0295d",
-        "publishedAt": "2026-08-17T01:55:00Z",
-        "source": "The Straits Times"
+        "title": "You Can Use Roku's Video Doorbell With No Subscription, But There's A Catch",
+        "description": "Like most other brands, Roku allows you to use its video doorbell cameras without paying a subscription, but you lose AI detection and event filtering.",
+        "url": "https://www.bgr.com/2234371/roku-video-doorbell-camera-no-subscription-downsides/",
+        "image": "https://www.bgr.com/img/gallery/you-can-use-rokus-video-doorbell-with-no-subscription-but-theres-a-catch/l-intro-1786448542.jpg",
+        "publishedAt": "2026-08-17T03:17:00Z",
+        "source": "BGR"
       },
       {
-        "title": "CXMT’s rise to China’s most valuable firm heralds new tech era",
-        "description": "The memory chipmaker — considered central to China’s AI infrastructure buildout — overtook Tencent Holdings Ltd. as the country’s most valuable company last week, surpassing half a trillion dollars of capitalization.",
-        "url": "https://www.moneycontrol.com/news/business/cxmts-rise-to-chinas-most-valuable-firm-heralds-new-tech-era-14007004.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260813085303_cxmt.jpg",
-        "publishedAt": "2026-08-17T01:48:57Z",
-        "source": "Moneycontrol"
+        "title": "Jane Street took $15 billion loss in July as AI stocks slumped",
+        "description": "Jane Street faced a $15 billion loss in July due to slumping AI stocks and volatile markets, impacting its trading revenue.",
+        "url": "https://www.thehindubusinessline.com/markets/jane-street-took-15-billion-loss-in-july-as-ai-stocks-slumped/article71354762.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/6rrx6w/article71354801.ece/alternates/LANDSCAPE_1200/2026-08-14T215233Z_433940868_RC2LYMA5X3F4_RTRMADP_3_JANE-STREET-SITUATIONAL-AWARENESS.JPG",
+        "publishedAt": "2026-08-17T03:13:07Z",
+        "source": "The Hindu Business Line"
       }
     ]
   }
