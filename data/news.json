@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-17T13:54:38.383Z",
+  "fetchedAt": "2026-08-17T14:47:00.136Z",
   "sections": {
     "world": [
       {
-        "title": "Dowd issues defense of humanities in op-ed on AI",
-        "description": "The op-ed builds on Pope Leo XIV's ‘Magnifica Humanitas’ while calling for renewed support for the humanities and additional interdisciplinary research at colleges and universities.",
-        "url": "https://www.ndsmcobserver.com/article/2026/08/dowd-issues-defense-of-humanities-in-op-ed-on-ai",
-        "image": "https://snworksceo.imgix.net/obs/17baba30-cd33-40cb-b576-81b7b3980e46.sized-1000x1000.jpg?w=800&h=600",
-        "publishedAt": "2026-08-17T01:51:55Z",
-        "source": "ndsmcobserver.com"
+        "title": "Photos, memories all that remain for Colombia's bereaved after quake",
+        "description": "CALI (COLOMBIA) - In Torres del Limonar, a Cali residential complex that collapsed in Monday's earthquake, people pick through rubble to recover victims' belongings and return them to grieving families.",
+        "url": "https://www.bangkokpost.com/world/3303060/photos-memories-all-that-remain-for-colombias-bereaved-after-quake",
+        "image": "https://static.bangkokpost.com/media/content/20260817/c1_6191435_700.jpg",
+        "publishedAt": "2026-08-17T02:45:00Z",
+        "source": "Bangkok Post"
       },
       {
-        "title": "Nasdaq and Moomoo host inaugural Investor Day",
-        "description": "SYDNEY, Aug. 17, 2026 (GLOBE NEWSWIRE) -- Nasdaq is joining Moomoo Australia and New Zealand, operator of the moomoo platform, to host their first joint Investor Day in Sydney today.",
-        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/nasdaq-and-moomoo-host-inaugural-investor-day/2406477",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178939.png",
-        "publishedAt": "2026-08-17T01:51:54Z",
-        "source": "The Manila Times"
+        "title": "\"May become offensive\": IRGC deputy signals shift in Iran's military doctrine",
+        "description": "IRGC Political Deputy Brigadier General Yadollah Javani told Iranian state media that Iran's actions so far had been defensive but could assume an offensive character in the future.",
+        "url": "https://www.aninews.in/news/world/middle-east/may-become-offensive-irgc-deputy-signals-shift-in-irans-military-doctrine20260817081448/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817023543-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-08-17T02:44:00Z",
+        "source": "ANI News"
       },
       {
-        "title": "‘You must be really hungry’: Indian woman claims waiter yelled at her in Germany; restaurant responds",
-        "description": "An Indian content creator, Ananya, shared her negative experience at Peter Pane Burger Grill in Germany, claiming she faced disrespect from a host.  | Trending",
-        "url": "https://www.hindustantimes.com/trending/you-must-be-really-hungry-indian-woman-claims-waiter-yelled-at-her-in-germany-restaurant-responds-101786931146916.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/17/1600x900/logo/Ananya_1786931339187_1786931339332_ed155762-3e72-4ee6-9311-cdece1fd6522.jpg",
-        "publishedAt": "2026-08-17T01:50:29Z",
-        "source": "Hindustan Times"
+        "title": "Is this cave in Turkey where Homer wrote 'The Odyssey'?",
+        "description": "Locals call it Homer's Valley.",
+        "url": "https://www.philstar.com/lifestyle/travel-and-tourism/2026/08/17/2549892/cave-turkey-where-homer-wrote-the-odyssey",
+        "image": "https://media.philstar.com/photos/2026/08/17/afp20260816c4q6667v1highresturkeyfilmarchaeologyheritage_2026-08-17_10-43-49.jpg",
+        "publishedAt": "2026-08-17T02:42:00Z",
+        "source": "Philstar.com"
       },
       {
-        "title": "Chinese Huangmei Opera heroine brings tale of courage to Edinburgh",
-        "description": "Minutes before going on stage in Edinburgh, Han Zaifen sat before a dressing-room mirror, humming softly to herself as the final touches were put on her makeup.",
-        "url": "https://www.chinadaily.com.cn/a/202608/17/WS6a8268c2a31073853ec539b4.html",
-        "image": "https://www.chinadaily.com.cn/image_e/2020/timg.jpg",
-        "publishedAt": "2026-08-17T01:49:47Z",
-        "source": "China Daily"
-      },
-      {
-        "title": "Queensland Moves Ahead with Coomera Connector Second Stage",
-        "description": "The 5km stretch, an alternative to the traffic-jammed M1, is among a raft of state projects to ease Gold Coast congestion...",
-        "url": "https://www.theurbandeveloper.com/articles/coomera-connector-design-work-gold-coast-m1-traffic-congestion-qld",
-        "image": "https://images.ctfassets.net/8pr762qjocl3/6nwUoKAhVa7JwXEtVxT5l4/c5cd87c7ebab08cdb04ff0dcd432ca84/hero_images___28_.jpg",
-        "publishedAt": "2026-08-17T01:48:36Z",
-        "source": "The Urban Developer"
-      },
-      {
-        "title": "Winning back walls from gangs, artists fill El Salvador's towns with color",
-        "description": "On the walls where gang members in El Salvador once marked their turf, urban artists are now creating large murals in a traveling festival that fills the streets of the Central American country with c...",
-        "url": "https://sg.news.yahoo.com/winning-back-walls-gangs-artists-014845781.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/ac517a6089b488c25eadb0eb231d4a1a2fb961730a076ae731ca59c13693158e/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com.sg%2Fb363558ec0b994d4ace0e1b50ea69e42.jpg",
-        "publishedAt": "2026-08-17T01:48:00Z",
-        "source": "Yahoo News Singapore"
-      },
-      {
-        "title": "Bloomberg says dark trade oil shuttles are the reason Iran war hasn't spiked oil prices",
-        "description": "A piece from Bloomberg arguing that a clandestine oil shuttle trade through the Strait of Hormuz, moving barrels from Gulf producers onto tankers off Oman, is helping keep Brent between $80 and $90 a barrel despite the ongoing Iran war, though the trade carries mounting human and environmental costs.\nI'd be more inclined to look at reserve releases.",
-        "url": "https://investinglive.com/commodities/bloomberg-says-dark-trade-oil-shuttles-are-the-reason-iran-war-hasn-t-spiked-oil-prices/",
-        "image": "https://investinglive.com/cms/media/Processed/Categories/featured/oil%20update%20dark%20fleet%2017%20August%202026-featured-1786932378.jpg",
-        "publishedAt": "2026-08-17T01:44:19Z",
-        "source": "investingLive"
-      },
-      {
-        "title": "Indonesia hit by 5.7 magnitude quake days after deadly 7.7 tremor",
-        "description": "Rest of World News: An earthquake of magnitude 5.7 struck north-northwest of Ende in Indonesia on Monday morning, days after a powerful 7.7-magnitude quake hit the countr.",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-hit-by-5-7-magnitude-quake-days-after-deadly-7-7-tremor/articleshow/133284571.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133284577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-17T01:37:00Z",
+        "title": "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
+        "description": "Middle East News: US President Donald Trump on Sunday threw his weight behind the newly signed Mecca Joint Defence Agreement between Saudi Arabia, Turkey and Pakistan, .",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-backs-islamic-nato-trump-calls-saudi-turkey-pakistan-pact-big-bold-and-important-step/articleshow/133285023.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133285069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-17T02:42:00Z",
         "source": "The Times of India"
+      },
+      {
+        "title": "Israeli war on Iran: Wetin be Nigeria’s own?",
+        "description": "On Thursday, July 30, 2026, Saudi Arabia announced the formation of a 14-member Multinational Maritime Defence Coalition, ostensibly to guarantee freedom of",
+        "url": "https://blueprint.ng/us-israeli-war-on-iran-wetin-be-nigerias-own/",
+        "image": "https://blueprint.ng/wp-content/uploads/2026/08/Hassan-Gimba-63.jpg",
+        "publishedAt": "2026-08-17T02:41:30Z",
+        "source": "Blueprint Newspapers"
+      },
+      {
+        "title": "Study: Wealthy Countries Fuel Illegal Fishing in Poor Countries",
+        "description": "Consumers in wealthy nations are fueling a rampant illegal fishing trade that has become a multibillion-dollar industry, and the majority of the catch...",
+        "url": "https://maritime-executive.com/article/study-wealthy-countries-fuel-illegal-fishing-in-poor-countries",
+        "image": "https://maritime-executive.com/media/images/article/1786956781_6a82cbedba977.jpg",
+        "publishedAt": "2026-08-17T02:40:55Z",
+        "source": "The Maritime Executive"
+      },
+      {
+        "title": "As machinery removes rubble, hopes for survivors from Colombian quake dwindle",
+        "description": "At least 140 people are still missing, authorities said. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/world/as-machinery-removes-rubble-hopes-for-survivors-from-colombian-quake-dwindle",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a0daa3e32639fef662b5a0ef86fee7d53e01c7c62071d651c0bbeb7f6a08dee8",
+        "publishedAt": "2026-08-17T02:40:00Z",
+        "source": "straitstimes.com"
+      },
+      {
+        "title": "Sh1.9bn bridge linking Siaya and Busia to be ready by April",
+        "description": "Construction gained momentum after the government resumed financing the stalled project",
+        "url": "https://www.the-star.co.ke/counties/nyanza/2026-08-17-sh19bn-bridge-linking-siaya-and-busia-to-be-ready-by-april",
+        "image": "https://cdn.radioafrica.digital/image/2026/08/e2cae986-4334-4150-b3ed-4bf90581ab31.webp?1786941498581",
+        "publishedAt": "2026-08-17T02:40:00Z",
+        "source": "the-star.co.ke"
       }
     ],
     "business": [
       {
-        "title": "Morgan Stanley reiterates positive stance on Reliance Industries after Rolls",
-        "description": "As part of the partnership, both Reliance Industries and Rolls-Royce will explore the formation of a dedicated aerospace gas turbine complex which will be a centre of excellence for power and propulsion technology in India, Reliance Industries stated.",
-        "url": "https://www.cnbctv18.com/market/reliance-industries-share-price-rolls-royce-partnership-acma-fighter-jets-implications-returns-19970565.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/07/reliance-industries-2026-07-a52ab5a8f809550cd664c29602f38b53.jpeg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-08-17T01:53:59Z",
-        "source": "CNBC TV18"
+        "title": "CXMT's rise to China's most valuable firm signals new era for country's tech sector",
+        "description": "AI boom is delivering runaway demand to suppliers of the hardware required, but the market is harder to navigate on the software side Read more at The Business Times.",
+        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/cxmts-rise-chinas-most-valuable-firm-signals-new-era-countrys-tech-sector",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/4789dff749c8987fcc1a57f3308af3647517b5bf0b5ad2a2b1421f8de341489f?w=1920&f=webp",
+        "publishedAt": "2026-08-17T02:47:00Z",
+        "source": "The Business Times"
       },
       {
-        "title": "JB Hi-Fi shares plunge as it warns of AI-driven tech squeeze",
-        "description": "Investors reacted swiftly as the retailer noted a major dip in sales in the second half as a result of ongoing price rises and supply issues.",
-        "url": "https://www.smh.com.au/technology/jb-hi-fi-shares-plunge-as-it-warns-of-ai-driven-tech-squeeze-20260817-p60oxm.html",
-        "image": "https://static.ffx.io/images/$zoom_0.2069%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0c087fc64c49833f68e5eaa19f8924f7b559a38a",
-        "publishedAt": "2026-08-17T01:52:02Z",
-        "source": "SMH.com.au"
+        "title": "2026 Nissan Kicks e-Power to make PH debut this August",
+        "description": "Nissan's hybrid B-SUV to get a new look and plenty of tech upgrades",
+        "url": "https://www.autoindustriya.com/auto-industry-news/2026-nissan-kicks-e-power-to-make-ph-debut-this-august.html",
+        "image": "https://d1tjylbhswro2u.cloudfront.net/images/posts/2026/08/be7451f3-e3ba-4553-9bfc-dcb4475d9933-kicks-e-power-1.jpg",
+        "publishedAt": "2026-08-17T02:46:29Z",
+        "source": "AutoIndustriya"
       },
       {
-        "title": "Accenture CEO Julie Sweet makes a 'vacation request' to employees for this August",
-        "description": "Tech News News: Accenture CEO Julie Sweet is asking employees to think twice before taking time off this August as the company pushes for a strong finish to its finan.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-a-vacation-request-to-employees-for-this-august/articleshow/133284654.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133284661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-17T01:52:00Z",
-        "source": "timesofindia.indiatimes.com"
+        "title": "T. Rowe Price Associates Discloses 7.4% Stake in Block Inc via Schedule 13G/A Filing",
+        "description": "Block Inc (ASX:XYZ) has been named as the subject of an amended Schedule 13G/A filing submitted to the United States Securities and Exchange Commission by T. Rowe Price Associates, Inc., disclosing beneficial ownership of 39,734,450 shares of Block Inc common stock, representing 7.4% of the class, as of 30 June 2026.",
+        "url": "https://kalkine.com.au/news/announcements/t-rowe-price-associates-discloses-74-stake-in-block-inc-via-schedule-13ga-filing",
+        "image": "https://kalkine.com.au/featured_image/gallery/xlarge/announcement7_06_04_2026_07_12_48_947196.webp",
+        "publishedAt": "2026-08-17T02:45:22Z",
+        "source": "Kalkine"
       },
       {
-        "title": "No genuine bids for swish bayside home asking $2.2m at auction",
-        "description": "The renovated bungalow came with a period facade and a heated pool, but it wasn’t enough to get buyers to raise their hands.",
-        "url": "https://www.theage.com.au/property/news/no-genuine-bids-for-swish-bayside-home-asking-2-2m-at-auction-20260817-p60owy.html",
-        "image": "https://static.ffx.io/images/$zoom_0.6541%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/a4f6b0e045b70c2a7e761544b6a32836ef3d0309",
-        "publishedAt": "2026-08-17T01:51:17Z",
-        "source": "The Age"
+        "title": "Silver Forecast: XAG/USD bulls eye $66.00 and 100",
+        "description": "Silver (XAG/USD) is seen building on Friday's bounce from mid-$63.00s and gaining some follow-through positive traction at the start of a new week.",
+        "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-acceptance-above-6600-100-day-ema-breakout-202608170244",
+        "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
+        "publishedAt": "2026-08-17T02:44:11Z",
+        "source": "FXStreet"
       },
       {
-        "title": "‘10 online shopping platforms that faced most consumer complaints, non-delivery of goods top grievance; Rs 91 crore refunds in one year’",
-        "description": "Tech News News: Online shopping giants Flipkart, Amazon and Meesho emerged as the top three platforms facing the highest volume of consumer grievances on the National.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/10-online-shopping-platforms-that-faced-most-consumer-complaints-non-delivery-of-goods-top-grievance-rs-91-crore-refunds-in-one-year/articleshow/133284627.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133284644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-17T01:50:00Z",
-        "source": "The Times of India"
+        "title": "Block, Inc. Director Anthony Eisen Sells 18,000 Class A Common Stock Shares",
+        "description": "Block, Inc. (ASX:XYZ) director Anthony Eisen has disclosed the sale of 18,000 shares of Class A Common Stock across three consecutive trading days in August 2026, according to a Statement of Changes in Beneficial Ownership filed with the United States Securities and Exchange Commission.",
+        "url": "https://kalkine.com.au/news/announcements/block-inc-director-anthony-eisen-sells-18000-class-a-common-stock-shares",
+        "image": "https://kalkine.com.au/featured_image/gallery/xlarge/announcement6_06_04_2026_07_14_09_832695.webp",
+        "publishedAt": "2026-08-17T02:43:52Z",
+        "source": "Kalkine"
       },
       {
-        "title": "CXMT’s rise to China’s most valuable firm heralds new tech era",
-        "description": "The memory chipmaker — considered central to China’s AI infrastructure buildout — overtook Tencent Holdings Ltd. as the country’s most valuable company last week, surpassing half a trillion dollars of capitalization.",
-        "url": "https://www.moneycontrol.com/news/business/cxmts-rise-to-chinas-most-valuable-firm-heralds-new-tech-era-14007004.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260813085303_cxmt.jpg",
-        "publishedAt": "2026-08-17T01:48:57Z",
-        "source": "Moneycontrol.com"
+        "title": "Philippine central bank says inflation to ease gradually, risks remain on upside",
+        "description": "MANILA, Aug 17 (Reuters) - The Philippine central bank ​governor said ‌on Monday that inflation is expected to ease gradually ‌over ​the ⁠medium term ⁠even as risks to consumer prices remain on the ​upside. The central bank is ⁠prepared ⁠to take steps ...",
+        "url": "https://whtc.com/2026/08/16/philippine-central-bank-says-inflation-to-ease-gradually-risks-remain-on-upside/",
+        "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/17/2026-08-17T021309Z_1_LYNXMPEM7G040_RTROPTP_3_IMF-WORLDBANK.JPG",
+        "publishedAt": "2026-08-17T02:40:54Z",
+        "source": "1450 AM 99.7 FM WHTC"
       },
       {
-        "title": "Restaurant chain operator Ootoya plans to accelerate expansion overseas",
-        "description": "The company currently operates about 140 Japanese restaurants across eight countries and regions, including Thailand, Taiwan and the United States.",
-        "url": "https://www.japantimes.co.jp/business/2026/08/17/companies/ootoya-interview/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/17/557710.jpg?v=3.1",
-        "publishedAt": "2026-08-17T01:48:00Z",
-        "source": "The Japan Times"
+        "title": "EU might delay EES checks past Sept. 6, report says",
+        "description": "The EU may push its EES biometric checks past the Sept. 6 deadline. Here's what airlines, airports, and travelers face next.",
+        "url": "https://etias.com/articles/eu-might-delay-ees-checks-past-sept.-6,-report-says",
+        "image": "https://etias.com/assets/uploads/imagery/blog/crowded-airport-check-in-hall-travelers.jpg",
+        "publishedAt": "2026-08-17T02:40:15Z",
+        "source": "ETIAS.com"
       },
       {
-        "title": "Growth driver shifts from bricks to bits",
-        "description": "If you want to understand where the world is heading, stop looking at the skyscraper cranes in Beijing and start looking at the 5G base stations in the countryside.",
-        "url": "https://www.chinadaily.com.cn/a/202608/17/WS6a826840a31073853ec539ab.html",
-        "image": "http://img2.chinadaily.com.cn/images/202608/17/6a826840a310738531591ac3.jpeg",
-        "publishedAt": "2026-08-17T01:47:36Z",
-        "source": "China Daily"
+        "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustainability push",
+        "description": "From Coca-Cola’s localisation efforts to China’s push for alternative proteins and food waste reduction, we explore how the country’s food and beverage sector is adapting to evolving consumer and sustainability needs.",
+        "url": "https://www.foodnavigator.com/Article/2026/08/17/china-focus-coca-colas-localisation-strategy-protein-innovation-and-sustainability-push/",
+        "image": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&width=1200&height=630&smart=true",
+        "publishedAt": "2026-08-17T02:40:11Z",
+        "source": "FoodNavigator.com"
       }
     ],
     "science": [
+      {
+        "title": "Hybrid material based on nanosheets can produce hydrogen peroxide",
+        "description": "Scientists have developed innovative hybrid material that can produce hydrogen peroxide more efficiently.",
+        "url": "https://interestingengineering.com/science/hybrid-material-nanosheets-hydrogen-peroxide",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/hydrogen-ll.jpg",
+        "publishedAt": "2026-08-17T02:31:00Z",
+        "source": "Interesting Engineering"
+      },
+      {
+        "title": "Dolphins on opposite sides of Australia, thousands of kilometres apart, appear to have independently learned to chase fish into empty seashells and tip the trapped meal into their mouths — two populat",
+        "description": "The first published shelling records from eastern Australia suggest dolphins reinvented a rare tool-using tactic already known from Shark Bay, then began passing it on locally.",
+        "url": "https://spacedaily.com/t-dolphins-australia-independent-shelling-invention/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/wiley-dolphin-shelling-figure3-1024x315.jpg",
+        "publishedAt": "2026-08-17T02:30:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
+        "description": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what they’re made of.",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
+        "image": "https://www.sciencedaily.com/images/1920/graphene-nanowrinkles-can-reshape-electricity.webp",
+        "publishedAt": "2026-08-17T02:29:56Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
+        "description": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what they’re made of.",
+        "url": "http://www.sciencedaily.com/releases/2026/08/260815064801.htm",
+        "image": "https://www.sciencedaily.com/images/1920/graphene-nanowrinkles-can-reshape-electricity.webp",
+        "publishedAt": "2026-08-17T02:29:56Z",
+        "source": "ScienceDaily"
+      },
+      {
+        "title": "Ancient Trees Warn of Impending Solar Storm",
+        "description": "Our sun is capable of storms far bigger than we've ever recorded. Studying the world's oldest trees suggests we could soon be due one of these",
+        "url": "https://www.miragenews.com/ancient-trees-warn-of-impending-solar-storm-1728008/",
+        "image": "https://lighthouse.mq.edu.au/__data/assets/image/0003/1385607/Solar-storm.jpg",
+        "publishedAt": "2026-08-17T02:05:00Z",
+        "source": "Mirage News"
+      },
       {
         "title": "Suitcase-sized spacecraft may reveal what happened before first stars formed",
         "description": "The proposed CosmoCube mission would use the Moon’s far side as a shield from Earth’s radio interference to search for faint signals from the universe’s earliest stages.",
@@ -158,49 +198,65 @@
         "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1615309661755-816dcd80bcd3%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
         "publishedAt": "2026-08-17T01:06:00Z",
         "source": "Mirage News"
-      },
-      {
-        "title": "When home is no longer enough: Finding the right care for someone you love",
-        "description": "For many families, the conversation about long-term care does not begin with a plan. It may begin after a fall or hospital stay. Perhaps Mom is becoming less st",
-        "url": "https://peacearchnews.com/sponsored-content/when-home-is-no-longer-enough-finding-the-right-care-for-someone-you-love",
-        "image": "https://sponsored.carpentermediagroup.com/wp-content/uploads/sites/57/2026/08/Aug.-17-Bayview-Teaser.jpg?w=740",
-        "publishedAt": "2026-08-17T01:04:02Z",
-        "source": "Peace Arch News"
-      },
-      {
-        "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
-        "description": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
-        "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/giant-crocodylians-dom.jpg",
-        "publishedAt": "2026-08-17T01:00:04Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "New Drug Turns Cancer’s Favorite Fuel Into a Deadly Weakness",
-        "description": "Researchers have developed a compound that attacks cancer cells in two ways by exploiting their demand for sugar while blocking their backup fuel supply.",
-        "url": "https://scitechdaily.com/new-drug-turns-cancers-favorite-fuel-into-a-deadly-weakness/",
-        "image": "https://scitechdaily.com/images/Microscope-Image-of-Hepatocellular-Carcinoma-777x518.jpg",
-        "publishedAt": "2026-08-17T00:44:54Z",
-        "source": "scitechdaily.com"
-      },
-      {
-        "title": "Scientists map the microscopic roots of chaos in dusty plasma using supercomputer simulations",
-        "description": "Researchers at IIT Jammu and Kanpur have used particle-level simulations to show how charged dust particles transform swirling energy into heat, revealing a surprising link between fluid mechanics and elastic materials. | IIT Jammu,IIT Kanpur,Plasma,Fluid Mechanics,Dust Plasma,computer simulations",
-        "url": "https://researchmatters.in/news/scientists-map-microscopic-roots-chaos-dusty-plasma-using-supercomputer-simulations",
-        "image": "https://researchmatters.in/sites/researchmatters/files/styles/discover_large_1200/public/PlasmaDynamics.jpg.webp?itok=YEVNaXqv",
-        "publishedAt": "2026-08-17T00:30:00Z",
-        "source": "Research Matters"
-      },
-      {
-        "title": "At the start of 2019, fewer than 2,000 active satellites circled Earth. By June 2026 there were 15,711 - and nearly two out of every three belonged to a single constellation: SpaceX's Starlink.",
-        "description": "A June 2026 traffic index counted nearly eight times as many working satellites as existed at the start of 2019, with Starlink making up 65.97 percent.",
-        "url": "https://spacedaily.com/t-active-satellites-2019-2026-starlink-two-thirds/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_falcon9_2025_launch_ussf-1.jpg",
-        "publishedAt": "2026-08-17T00:30:00Z",
-        "source": "Space Daily"
       }
     ],
     "ai": [
+      {
+        "title": "Building a Network That Can Support AI in Retail Enterprises",
+        "description": "While large-scale AI deployments are largely non-existent throughout the retail industry, AI use cases are rising every year. According to research from",
+        "url": "https://www.europesays.com/3198454/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/6eea9fa2fefa312ad51f078255d930bf.jpg",
+        "publishedAt": "2026-08-17T02:31:30Z",
+        "source": "EUROPE SAYS"
+      },
+      {
+        "title": "The office isn’t coming back: Technology, AI and hybrid work killed the 9-to-5 and CEOs still haven’t accepted it",
+        "description": "The traditional office job is a 300-year-old invention, not a law of nature—and three forces are dismantling it",
+        "url": "https://www.livemint.com/mint-lounge/ideas/future-of-work-technology-artifical-intelligence-hybrid-remote-work-models-11783683222764.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/FJU3Y6VO_1785060740402_1785060752936_aa8a2e76-32af-41a9-8aaf-7a7fad04aadf.jpg",
+        "publishedAt": "2026-08-17T02:30:26Z",
+        "source": "Livemint"
+      },
+      {
+        "title": "Not 5G or AI, this is what's forcing Indians to buy new phones early",
+        "description": "Broken glass pushed 53% of surveyed Indian users to buy a new smartphone earlier than planned, revealed a Corning survey. Nearly three-fourths also said they were willing to pay more for tougher, better-performing cover materials.",
+        "url": "https://www.indiatoday.in/technology/story/broken-glass-smartphone-upgrade-india-why-indians-are-buying-new-phones-early-2971902-2026-08-17",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/a-phone-can-survive-years-of-use--but-one-bad-fall-can-change-that-ai-generated-150706606-16x9_0.png?VersionId=EKHhNCrAIPb1lFg_TYW4iSQROSjQYGZk",
+        "publishedAt": "2026-08-17T02:30:00Z",
+        "source": "India Today"
+      },
+      {
+        "title": "Mouser Expands Industrial Automation Portfolio with New Manufacturer Additions to Support Next-Gen Systems",
+        "description": "**media[1178963]**SHANGHAI, Aug. 17, 2026 /PRNewswire/ -- Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, has expanded its industrial automation portfolio with the addition of nine new manufacturers in the first two quarters of this year, strengthening its lineup of solutions supporting modern industrial systems. This expansion broadens access to critical technologies across AI, connectivity, power, control, and sensing, which are key building blocks for today's increasingly integrated industrial environments.**media[1178964]**",
+        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/pr-newswire/mouser-expands-industrial-automation-portfolio-with-new-manufacturer-additions-to-support-next-gen-systems/2406484",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178961.jpg",
+        "publishedAt": "2026-08-17T02:26:44Z",
+        "source": "The Manila Times"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei Rejects Claims His AI Warnings Fueled Public Backlash",
+        "description": "Anthropic CEO Dario Amodei rejects claims that his AI warnings fueled public fear, saying the real issue is a crisis of trust and that AI companies must deliver real-world benefits., Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/anthropic-ceo-dario-amodei-rejects-claims-his-ai-warnings-fueled-public-backlash-article-155708102",
+        "image": "https://images.timesnownews.com/thumb/msid-155708116,thumbsize-3003972,width-1280,height-720,resizemode-75/155708116.jpg",
+        "publishedAt": "2026-08-17T02:21:02Z",
+        "source": "Times Now"
+      },
+      {
+        "title": "CJI Surya Kant bats for creative use of tech in law",
+        "description": "The CJI stressed that the legal profession can no longer remain a late adopter of technology and rejected an outright prohibition of tools like generative AI in",
+        "url": "https://www.newindianexpress.com/india/2026/Aug/17/cji-surya-kant-bats-for-creative-use-of-tech-in-law",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-13%2Fs53sw7we%2FANI_20260813160435.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-08-17T02:10:23Z",
+        "source": "The New Indian Express"
+      },
+      {
+        "title": "Alibaba’s AI models reach 3 billion downloads, outpacing Meta and Google",
+        "description": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/business/alibaba-ai-models-hit-3-billion-downloads-outpacing-meta-google",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5d2e952652aa0b86687a369b90ecef45c03638b282b1d2ed9d0118d593b0295d",
+        "publishedAt": "2026-08-17T01:55:00Z",
+        "source": "The Straits Times"
+      },
       {
         "title": "CXMT’s rise to China’s most valuable firm heralds new tech era",
         "description": "The memory chipmaker — considered central to China’s AI infrastructure buildout — overtook Tencent Holdings Ltd. as the country’s most valuable company last week, surpassing half a trillion dollars of capitalization.",
@@ -208,62 +264,6 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260813085303_cxmt.jpg",
         "publishedAt": "2026-08-17T01:48:57Z",
         "source": "Moneycontrol"
-      },
-      {
-        "title": "Alibaba sells gaming arm for $1.5bn to focus on AI pivot",
-        "description": "Alibaba sells gaming arm Lingxi Games for $1.5bn to focus on AI and cloud computing as part of its strategic corporate reorganisation. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/business/companies-markets/alibaba-to-sell-gaming-arm-for-us1-5-billion-in-boost-to-ai-pivot",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b4b7d35207b09ab86332a995e51103810d884a071e78a26eacfd427c563b0eb6",
-        "publishedAt": "2026-08-17T01:40:00Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Top US Professor Explains the 'Freeze' Response Behind Procrastination - and How to Beat It",
-        "description": "Top US experts on Timesnownews.com - From geopolitics to AI to lifestyle, get the views from the best in the world., Health, Times Now",
-        "url": "https://www.timesnownews.com/health/top-us-professor-explains-the-freeze-response-behind-procrastination-and-how-to-beat-it-article-155613560",
-        "image": "https://images.timesnownews.com/thumb/msid-155613661,thumbsize-956792,width-1280,height-720,resizemode-75/155613661.jpg",
-        "publishedAt": "2026-08-17T01:30:00Z",
-        "source": "Times Now"
-      },
-      {
-        "title": "Agoda Unveils Agoda Partner Portal as the Refreshed Platform's Role in Property Management Expands",
-        "description": "**media[1178921]**Mobile workflows and market-localized tools sit alongside AI-assisted features to support timely decisions and a connected partner experience",
-        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/pr-newswire/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/2406472",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1178919.jpg",
-        "publishedAt": "2026-08-17T01:26:27Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Tencent Details Progress Toward Carbon Neutrality Goals and Outlines AI-Era Priorities",
-        "description": "New report outlines how infrastructure efficiency, renewable electricity and AI-enabled innovation can support lower-carbon growth",
-        "url": "https://www.manilatimes.net/2026/08/17/tmt-newswire/pr-newswire/tencent-details-progress-toward-carbon-neutrality-goals-and-outlines-ai-era-priorities/2406471",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-08-17T01:26:26Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "MORE ABOUT AI - Surveillance Pricing: What’s Looking Over My Shoulder - Tillamook County Pioneer",
-        "description": "By Neal Lemery",
-        "url": "https://www.europesays.com/3198360/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/survelliancepricing.jpg",
-        "publishedAt": "2026-08-17T01:22:18Z",
-        "source": "EUROPE SAYS"
-      },
-      {
-        "title": "Has climate change had any impact on global wine production? - EUROPE SAYS",
-        "description": "Photo: © Generated with AI/stock.adobe.com",
-        "url": "https://www.europesays.com/3198358/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/ABC-store-alcohol-liquor-wine-bottle.jpg",
-        "publishedAt": "2026-08-17T01:21:18Z",
-        "source": "EUROPE SAYS"
-      },
-      {
-        "title": "Farm owners issue blunt response as they turn down $26 million to stop AI company building data centre on family land",
-        "description": "They were offered a staggering $26 million for their land, but when they discovered what it would be used for, their response was simple",
-        "url": "https://www.ladbible.com/news/us-news/farm-owners-blunt-response-turn-down-26m-stop-data-centre-162752-20260817",
-        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltd8b2325e03f99f0c/6a825f7dd6c78da215c51119/Screenshot_2026-08-17_at_13.09.56.png",
-        "publishedAt": "2026-08-17T01:11:51Z",
-        "source": "LADbible"
       }
     ]
   }
