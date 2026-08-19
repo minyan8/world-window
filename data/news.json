@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-19T13:11:50.859Z",
+  "fetchedAt": "2026-08-19T13:59:10.051Z",
   "sections": {
     "world": [
       {
-        "title": "Sen. Darline Graham admits in debate: ‘National security is not my thing’",
-        "description": "Interim GOP Sen. Darline Graham declined to answer a question about Taiwan and the South China Sea during a debate Tuesday night, saying national security is “not my thing.”",
-        "url": "https://www.cnn.com/2026/08/18/politics/darline-graham-debate-national-security-not-my-thing",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26230854206686.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-19T01:08:00Z",
-        "source": "CNN"
+        "title": "U.S.-South Korea joint military drills are being cut short after Trump order, Seoul says",
+        "description": "South Korea said Wednesday that joint military exercises currently underway with the United States were being scaled back after President Donald Trump, citing his “very good” relationship with North Korean leader Kim Jong Un, ordered that they be reduced.",
+        "url": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-US-South-Korea-military-drills-vsb-2115-87fdac.jpg",
+        "publishedAt": "2026-08-19T01:54:00Z",
+        "source": "NBC News"
       },
       {
-        "title": "PM, Kushner clashed over continued Israeli strikes on Oct. 7 terrorists - officials",
-        "description": "Officials tell ToI that Trump aide also took issue with Netanyahu's refusal to let police recruits leave Gaza for training, as Board of Peace needs them for Hamas weapons handovers",
-        "url": "https://www.timesofisrael.com/pm-kushner-clashed-over-continued-israeli-strikes-on-oct-7-terrorists-officials/",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2025/11/Image-from-iOS-10.jpg",
-        "publishedAt": "2026-08-19T01:04:48Z",
-        "source": "timesofisrael.com"
+        "title": "Strait of Hormuz: Iran’s grip slips as ships increasingly use UN-authorised Oman route; US blockade gains ground",
+        "description": "The Strait of Hormuz remains a critical focus as US control strengthens and Iran's grip weakens over it. About 80% of vessels now prefer an Omani route sanctioned by the UN, bypassing Iranian aggression despite Tehran's attempt to reassert toll collection rights.",
+        "url": "https://www.livemint.com/news/world/strait-of-hormuz-iran-s-grip-slips-as-ships-increasingly-use-un-authorised-oman-route-us-blockade-gains-ground-11787102429954.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/IRAN-CRISIS-HORMUZ-1_1787103628120_1787103637544_12efe07d-70f9-4eb0-be9c-0a359c97e8fc.JPG",
+        "publishedAt": "2026-08-19T01:51:51Z",
+        "source": "livemint.com"
       },
       {
-        "title": "AfCFTA Secretary to Headline PMI Global Summit in Cape Town",
-        "description": "By Mbungu Harrison Email, thecoastnewspaper@gmail.com African Continental Free Trade Area (AfCFTA) secretary-general Wamkele Mene will...",
-        "url": "https://www.thecoast.co.ke/2026/08/19/afcfta-secretary-to-headline-pmi-global-summit-in-cape-town/19/56/business-news/thecoast/17938/00/",
-        "image": "https://www.thecoast.co.ke/wp-content/uploads/2026/08/IMG-20260818-WA1719.jpg?_t=1787103025",
-        "publishedAt": "2026-08-19T01:01:16Z",
-        "source": "The Coast Media Group"
+        "title": "‘Strangling over time’: Trump shifts Iran strategy, halts talks amid frustration over Oman negotiations",
+        "description": "Trump has reportedly shifted from seeking a quick deal with Iran to a strategy of applying sustained pressure, as frustration grows over Tehran’s talks with Oman on managing traffic through the Strait of Hormuz.",
+        "url": "https://www.moneycontrol.com/world/trump-shifts-iran-strategy-orders-envoys-to-halt-talks-amid-frustration-over-oman-negotiations-article-14009812.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260810165212_Trump-Iran-new-5.jpg",
+        "publishedAt": "2026-08-19T01:50:28Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Meta trial begins with states accusing social media giant of exploiting, intentionally addicting children",
-        "description": "Meta Platforms rejected accusations by U.S. states that it intentionally sought to addict children to its Facebook and Instagram platforms in pursuit of profit as a trial that could reshape some of the most popular apps on the planet got underway Tuesday.",
-        "url": "https://www.cbc.ca/news/world/meta-trial-opens-instagram-facebook-9.7311852",
-        "image": "https://i.cbc.ca/ais/6cb967db-957a-4682-bd74-91f2d8dcdf43,1787097339937/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C365%2C7000%2C3937%29%3BResize%3D620",
-        "publishedAt": "2026-08-19T00:54:00Z",
-        "source": "CBC"
+        "title": "NATO issues horror three-point plan for Russian invasion as WW3 tensions soar",
+        "description": "NATO said its concept that it does not intend to conquer Russia.",
+        "url": "https://www.express.co.uk/news/world/2240400/nato-three-point-plan-russia",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7100566.jpg",
+        "publishedAt": "2026-08-19T01:46:00Z",
+        "source": "Daily Express"
       },
       {
-        "title": "SUV crashes into South Side gas station, ATM stolen: CPD",
-        "description": "Police are investigating a Chicago burglary after an SUV crashed into a Mobil gas station at 63rd and Halsted in Englewood and an ATM was stolen.",
-        "url": "https://abc7chicago.com/post/chicago-burglary-police-investigating-suv-crashes-mobil-gas-station-63rd-halsted-englewood-atm-stolen/19699945/",
-        "image": "https://cdn.abcotvs.com/dip/images/19699959_081826-wls-crash-grab-430pvo-vid.jpg?w=1600",
-        "publishedAt": "2026-08-19T00:49:03Z",
-        "source": "ABC7 Chicago"
+        "title": "Ukraine’s drone mastermind upended the Russia war. Now he’s taking on Kyiv",
+        "description": "Mykhailo Fedorov, who oversaw Ukraine’s pioneering military strategy, has launched the biggest internal challenge to President Volodymyr Zelensky since Russia’s invasion.",
+        "url": "https://www.theage.com.au/world/europe/ukraine-s-ousted-defence-minister-calls-for-wartime-elections-20260819-p60pka.html",
+        "image": "https://static.ffx.io/images/$zoom_0.7037%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_785%2C$y_281/t_crop_custom/q_86%2Cf_auto/f34abb8b1e4a67fdb06ad38967ae9fb015a77d1c",
+        "publishedAt": "2026-08-19T01:42:29Z",
+        "source": "The Age"
       },
       {
-        "title": "Trump-backed Byron Donalds to face Democrat David Jolly in race to succeed Florida governor DeSantis",
-        "description": "Congressman had pledged to implement president’s agenda if he gained governor’s seat",
-        "url": "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate",
-        "image": "https://i.guim.co.uk/img/media/d9bd9442691bfbfe214b6946202965f532cd5336/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f26b900700b5ebd2632ee54ecd49e5b",
-        "publishedAt": "2026-08-19T00:49:00Z",
-        "source": "The Guardian"
+        "title": "West Asia war LIVE: UAE accuses Iran of firing ballistic missiles at shipping",
+        "description": "Follow The Hindu's LIVE coverage for updates on the US-Iran conflict, Strait of Hormuz disruptions, oil prices, and impending sanctions as Washington ruled out extending a temporary ceasefire agreement.",
+        "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-19-2026/article71363121.ece",
+        "image": "https://th-i.thgim.com/public/incoming/6xum93/article71363405.ece/alternates/LANDSCAPE_1200/iStock-1506274020.jpg",
+        "publishedAt": "2026-08-19T01:41:19Z",
+        "source": "The Hindu"
       },
       {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "url": "https://www.bbc.com/news/articles/c62vy3wl31lo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg",
-        "publishedAt": "2026-08-19T00:48:16Z",
-        "source": "bbc.com"
+        "title": "Using Mild Language to Push Radical Nature Rights",
+        "description": "Nature rights activists seem nice. They are not verbal bomb throwers. Rather, they deploy passive language.",
+        "url": "https://scienceandculture.com/2026/08/using-mild-language-to-push-radical-nature-rights/",
+        "image": "https://scienceandculture.com/wp-content/uploads/2026/08/PanixerseeLagdaPigniubovenAndiast26-09-2025djb-scaled.jpg",
+        "publishedAt": "2026-08-19T01:37:29Z",
+        "source": "Science and Culture Today"
       },
       {
-        "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-        "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
-        "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg",
-        "publishedAt": "2026-08-19T00:48:16Z",
-        "source": "BBC"
+        "title": "Texas Governor Wants to Ban H1B Visas in Public Schools",
+        "description": "Texas Governor Greg Abbott wants to stop public schools from hiring teachers through H1B visas. Abbott said Texas should have “zero” H1B visa workers in",
+        "url": "https://www.gulte.com/overseas/426932/texas-governor-wants-to-ban-h1b-visas-in-public-schools",
+        "image": "https://cdn.gulte.com/wp-content/uploads/2026/08/Texas-2.webp",
+        "publishedAt": "2026-08-19T01:35:08Z",
+        "source": "Gulte"
       }
     ],
     "business": [
       {
-        "title": "Taxpayers to pay Rs30b for PIA debt",
-        "description": "Taxpayers to pay Rs30b for PIA debt",
-        "url": "https://tribune.com.pk/story/2624673/taxpayers-to-pay-rs30b-for-pia-debt",
-        "image": "https://i.tribune.com.pk/media/images/pia-land1784068639-0/pia-land1784068639-0-640x480.webp",
-        "publishedAt": "2026-08-19T01:10:55Z",
-        "source": "The Express Tribune"
+        "title": "Ondas expands Israel operations with $33.9m Aran Defense deal",
+        "description": "The transaction comes as Aran Defense’s revenues have grown. The division generated an estimated $17m. in revenue in 2025, up from approximately $12m. in 2024.",
+        "url": "https://www.jpost.com/defense-and-tech/article-905947",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733574",
+        "publishedAt": "2026-08-19T01:58:22Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "FLASH: Huayou Cobalt reports Yuan 55.6 billion in H1 revenue but cobalt shipments drop 24%",
-        "description": "FLASH: Huayou Cobalt reports Yuan 55.6 billion in H1 revenue but ...",
-        "url": "https://www.mysteel.net/news/5137145-flash-huayou-cobalt-reports-yuan-556-billion-in-h1-revenue-but-cobalt-shipments-drop-24-",
-        "image": "https://cs.mysteelcdn.com/web/pc/english-station-static/img/og-image.9aff406.png",
-        "publishedAt": "2026-08-19T01:09:08Z",
-        "source": "Mysteel"
-      },
-      {
-        "title": "Inside the playbook used to dupe Hongkongers into making big beauty product buys",
-        "description": "Recent controversy surrounding Opatra London and local distributors puts aggressive sales tactics by certain chains under media spotlight.",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3364493/inside-playbook-used-dupe-hongkongers-making-big-beauty-product-buys",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/60bfe6c0-42e6-4a7e-b4e6-4057c6c0e64a_34de02e5.jpg?itok=QeH36eh1&v=1787101323",
-        "publishedAt": "2026-08-19T01:02:17Z",
+        "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+        "description": "Stock jumps as first listing by humanoid robot maker draws 9.8 million retail investment accounts competing for just 9.7 million shares.",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=RgnLZckm&v=1787104657",
+        "publishedAt": "2026-08-19T01:57:38Z",
         "source": "South China Morning Post"
       },
       {
-        "title": "Air New Zealand taps former Air India CEO Campbell Wilson for board",
-        "description": "Air New Zealand will appoint Campbell Wilson and Robert McDonald as directors. Wilson previously led Air India and founded Scoot Airlines. McDonald currently chairs Contact Energy and sits on the FleetPartners board. These appointments occur as the airline faces delivery delays and engine issues. Elevated fuel costs also present challenges for the national carrier.",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-new-zealand-taps-former-air-india-ceo-campbell-wilson-for-board/articleshow/133334837.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-133334845,width-1200,height-630,imgsize-78900,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-19T01:01:10Z",
-        "source": "The Economic Times"
+        "title": "Hong Kong stocks decline as rising bond yields and stalemate in Iran war dent sentiment",
+        "description": "Surging US bond yields and the US-Iran conflict weigh on Hong Kong stocks.",
+        "url": "https://www.scmp.com/business/china-business/article/3364498/hong-kong-stocks-decline-rising-bond-yields-and-stalemate-iran-war-dent-sentiment",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/19/d8c411f5-17bb-4a2c-b73e-6c13c9a5113f_f725bfec.jpg?itok=UzK-fDlB&v=1787104254",
+        "publishedAt": "2026-08-19T01:51:03Z",
+        "source": "South China Morning Post"
       },
       {
-        "title": "Nestle undertaking strategic review of Auckland supplement firm Better Health Company",
-        "description": "Nestle is undertaking a strategic review of Auckland-based supplement firm The Better Health Company – just four years after buying it. Nestle bought it in...",
-        "url": "https://www.nzherald.co.nz/business/companies/retail/nestle-undertaking-strategic-review-of-auckland-supplement-firm-better-health-company/premium/2O2J7GECNBD6FG55NAVP7QNIHE/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/SD2XODWL7U3BVWVZVYRPZHRECI.jpg?auth=e6180b216557c61aedf252bbf1e39928c58c5b0dba06c6665782309499153d85&width=1200&height=675&quality=70&smart=true",
-        "publishedAt": "2026-08-19T01:01:07Z",
-        "source": "NZ Herald"
+        "title": "Singapore casino’s winning streak puts pressure on losing rival",
+        "description": "At Singapore casino Resorts World Sentosa’s Lunar New Year lucky draw for high rollers earlier this year, the biggest prize was a bottle of Martell Cognac. Across the harbour at rival Marina Bay Sands, the top sweepstakes winner walked away with a new Mercedes-Benz CLA 200 worth much more.",
+        "url": "https://theedgemalaysia.com/node/815016",
+        "image": "https://assets.theedgemarkets.com/The Marina Bay Sands hotel and casino in Singapore_Bloomberg (confirmed).jpg",
+        "publishedAt": "2026-08-19T01:51:02Z",
+        "source": "The Edge Malaysia"
       },
       {
-        "title": "Meta trial begins with states accusing social media giant of exploiting, intentionally addicting children",
-        "description": "Meta Platforms rejected accusations by U.S. states that it intentionally sought to addict children to its Facebook and Instagram platforms in pursuit of profit as a trial that could reshape some of the most popular apps on the planet got underway Tuesday.",
-        "url": "https://www.cbc.ca/news/world/meta-trial-opens-instagram-facebook-9.7311852",
-        "image": "https://i.cbc.ca/ais/6cb967db-957a-4682-bd74-91f2d8dcdf43,1787097339937/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C365%2C7000%2C3937%29%3BResize%3D620",
-        "publishedAt": "2026-08-19T00:54:00Z",
-        "source": "CBC"
+        "title": "The other Tata: Noel now at heart of succession battle",
+        "description": "For years, Noel Tata, Ratan Tata’s half-brother, 20 years his junior, was the ‘other Tata’, self-effacing and reserved.",
+        "url": "https://indianexpress.com/article/long-reads/the-tata-succession-battle-over-to-noel-10839355/",
+        "image": "https://images.indianexpress.com/2026/08/Noel-Tata.jpg",
+        "publishedAt": "2026-08-19T01:50:56Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Ringgit opens higher vs US$ as Fed rate hike expectations ease",
-        "description": "KUALA LUMPUR: The ringgit opened higher against the US dollar, supported by expectations that the possibility of a US Federal Reserve (Fed) interest rate hike at its September meeting has receded, an economist said.",
-        "url": "https://www.thestar.com.my/business/business-news/2026/08/19/ringgit-opens-higher-vs-us-as-fed-rate-hike-expectations-ease",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066639.jpeg",
-        "publishedAt": "2026-08-19T00:51:00Z",
-        "source": "The Star"
+        "title": "Built for China, headed for the world: Chinese e-bike makers ramp up overseas push",
+        "description": "China’s electric two-wheeler industry has scaled up rapidly, fuelled by its vast domestic market and improving product quality. But as growth at home slows, manufacturers are increasingly looking abroad.",
+        "url": "https://www.channelnewsasia.com/east-asia/china-e-bike-manufacturers-ramp-up-overseas-push-6325636",
+        "image": "https://dam.mediacorp.sg/image/upload/s--OLNuBMmw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/18/e-bike_1.png?itok=qOCABoos",
+        "publishedAt": "2026-08-19T01:50:00Z",
+        "source": "CNA"
       },
       {
-        "title": "Spain's Palladium Hotel Group selects Vietnam for Asia debut",
-        "description": "Palladium Hotel Group has set its sights on Asia, and chosen Vietnam as the gateway for its regional debut with two luxury projects. - VnExpress International",
-        "url": "https://e.vnexpress.net/news/travel/spain-s-palladium-hotel-group-selects-vietnam-for-asia-debut-5105933.html",
-        "image": "https://vcdn1-english.vnecdn.net/2026/08/06/lalyaninhvanbayplaya-178599030-9066-7164-1785990363.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=-8cCM5gFwMsdPzJZ6KrPXg",
-        "publishedAt": "2026-08-19T00:48:35Z",
-        "source": "VnExpress International"
+        "title": "Chinese robotics giant Unitree soars in stock market debut",
+        "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
+        "publishedAt": "2026-08-19T01:49:46Z",
+        "source": "BBC"
+      },
+      {
+        "title": "Chinese robotics giant Unitree soars in stock market debut",
+        "description": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+        "url": "https://www.bbc.com/news/articles/c0qv4w9492zo",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
+        "publishedAt": "2026-08-19T01:49:46Z",
+        "source": "BBC"
       }
     ],
     "science": [
+      {
+        "title": "NASA images show crater on moon left by SpaceX rocket",
+        "description": "The new photos were captured between August 11 and 12 and show the impact of the SpaceX rocket after it slammed into the moon earlier this month. Finding the crater side was a global effort.",
+        "url": "https://www.lemonde.fr/en/science/article/2026/08/19/nasa-images-show-crater-on-moon-left-by-spacex-rocket_6756654_10.html",
+        "image": "https://img.lemde.fr/2026/08/18/0/0/1200/800/1440/960/60/0/9762c2b_ftp-1-so0my26z6cjl-d3d67a5405da4be491deab103ff5e308-0-0a7f85159aeb43e9b66a159b7d8f20be.jpg",
+        "publishedAt": "2026-08-19T01:50:26Z",
+        "source": "Le Monde.fr"
+      },
+      {
+        "title": "Before-and-after NASA images show crater carved by SpaceX rocket that slammed into moon",
+        "description": "A NASA spacecraft circling the moon is providing the sharpest views yet of the crater carved by a crashing SpaceX rocket.",
+        "url": "https://www.thehindubusinessline.com/news/science/before-and-after-nasa-images-show-crater-carved-by-spacex-rocket-that-slammed-into-moon/article71363125.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/ycwlgg/article71363127.ece/alternates/LANDSCAPE_1200/2026-08-06T082616Z_254284889_RC2WSMA53WEI_RTRMADP_3_SPACE-MOON-IMPACT.JPG",
+        "publishedAt": "2026-08-19T01:42:11Z",
+        "source": "BusinessLine"
+      },
+      {
+        "title": "Preventing the accumulation of mRNA-loaded lipid nanoparticles in the liver",
+        "description": ">Solving the problem of mRNA-loaded lipid nanoparticles accumulating in the liver and causing unintended expression of pharmacologically active proteins\n>By coating the walls of intrahepatic capillaries (liver sinusoidal walls), the accumulation of lipid nanoparticles in the liver is prevented (demonstrated in animal studies)\n>Improved efficacy and safety in infectious prevention vaccines, cancer treatment vaccines, and cytokine therapies\n>Substances with established clinical safety profiles are used as coating agents (enabling rapid clinical trials)\n>Published online in ACS Nano: http://doi.org/10.1021/acsnano.6c08403",
+        "url": "https://www.eurekalert.org/news-releases/1140599",
+        "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/732a4ca5-ba8f-450b-beec-54453dced6ad/Rendition/thumbnail/Content/Public",
+        "publishedAt": "2026-08-19T01:36:17Z",
+        "source": "EurekAlert!"
+      },
+      {
+        "title": "Metallurgical Route Turns Bulk Boron Into Processable 2D Nanosheets",
+        "description": "Researchers developed a potentially scalable metallurgical route that converts crystalline boron into dispersible, amorphous B/O-rich two-dimensional nanosheets through lithium alloying, chemical delithiation, and exfoliation. The nanosheets were incorporated into solution-processed SiC composite coatings with high solar absorptance, highlighting their potential for energy and photonic applications.",
+        "url": "https://www.azonano.com/news.aspx?newsID=41799",
+        "image": "https://www.azonano.com/images/news/ImageForNews_41799_1787102426393656.jpg",
+        "publishedAt": "2026-08-19T01:30:00Z",
+        "source": "AZoNano"
+      },
+      {
+        "title": "Parasite linked to ‘mushy fish’ could be much more widespread than thought",
+        "description": "If you’re a keen angler and regularly catch yellowtail kingfish (Seriola lalandi), you may have encountered instances of the fish’s flesh turning",
+        "url": "https://www.nationaltribune.com.au/parasite-linked-to-mushy-fish-could-be-much-more-widespread-than-thought/",
+        "image": "https://images.unsplash.com/uploads/1412533519888a485b488/bb9f9777?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "publishedAt": "2026-08-19T01:25:03Z",
+        "source": "The National Tribune"
+      },
+      {
+        "title": "NASA Reveals crater left by SpaceX rocket crash on Moon",
+        "description": "NASA has released images of an 18-metre-wide crater left when a SpaceX Falcon 9 upper stage crashed into the Moon on August 5.",
+        "url": "https://thesun.my/news/world-news/nasa-crater-spacex-rocket-crash-on-moon/",
+        "image": "https://thesun.my/wp-content/uploads/2026/08/AFP__20260818__C4YA29F__v2__Mockup__ComboUsSpaceMoonSpacex.jpg",
+        "publishedAt": "2026-08-19T01:18:07Z",
+        "source": "The Sun Malaysia"
+      },
       {
         "title": "Scientific breakthrough in Sweden may help with loud snoring",
         "description": "The research team says the discovery could eventually lead to anti-snoring solutions.",
@@ -150,120 +198,72 @@
         "image": "https://images.theconversation.com/files/754245/original/file-20260817-50-tgqn0.jpg?ixlib=rb-4.1.1&rect=0%2C726%2C4351%2C2175&q=45&auto=format&w=1356&h=668&fit=crop",
         "publishedAt": "2026-08-19T01:02:00Z",
         "source": "theconversation.com"
-      },
-      {
-        "title": "Sophie Adenot Makes History as First French Woman to Spacewalk",
-        "description": "French astronaut Sophie Adenot has made history as the first French woman to conduct a spacewalk outside the International Space Station (ISS).",
-        "url": "https://www.tvcnews.tv/sophie-adenot-makes-history-as-first-french-woman-to-spacewalk/",
-        "image": "https://tvcnews.tv/wp-content/uploads/2026/08/Sophie-Adenot.jpg",
-        "publishedAt": "2026-08-19T00:47:00Z",
-        "source": "TVC News"
-      },
-      {
-        "title": "Assessing Hurricane Wind Damage From Above",
-        "description": "Researcher 研究者名 Takeuchi, Kenji Activity Database on Education and Research Overview Kyoto, Japan — Massive storms like the 2005 Hurricane Katrina",
-        "url": "https://www.nationaltribune.com.au/assessing-hurricane-wind-damage-from-above/",
-        "image": "https://www.kyoto-u.ac.jp/sites/default/files/styles/ogp_image/public/2026-08/2608-eye-takeuchi_drone-image-3ce21cba968202bdef6f8783c15e240e.jpg?itok=p2FSVR_S",
-        "publishedAt": "2026-08-19T00:34:19Z",
-        "source": "The National Tribune"
-      },
-      {
-        "title": "Long-range magnetic forces govern how a ferrimagnet approaches its phase transition",
-        "description": "Researcher 研究者名 Nambu, Yusuke Activity Database on Education and Research Overview Kyoto, Japan — Close to a phase transition, very different",
-        "url": "https://www.nationaltribune.com.au/long-range-magnetic-forces-govern-how-a-ferrimagnet-approaches-its-phase-transition/",
-        "image": "https://www.kyoto-u.ac.jp/sites/default/files/styles/ogp_image/public/2026-08/2608-eye-nambu-5b36ad69a47835a0d698c5bf85795393.jpg?itok=1FwkrRk4",
-        "publishedAt": "2026-08-19T00:34:19Z",
-        "source": "The National Tribune"
-      },
-      {
-        "title": "NASA shares images after SpaceX rocket slams into Moon",
-        "description": "The Falcon rocket’s upper stage ploughed into the moon at 8700km/h on August 5 after drifting through space for more than a year.",
-        "url": "https://www.1news.co.nz/2026/08/19/nasa-shares-images-after-spacex-rocket-slams-into-moon/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/this-combo-made-with-photos-provided-by-nasa-on-tuesday-augu-7PXF7K6JCZEQXKJ7KABYCGATZI.jpg?auth=83834f3018652b54dfe436b24fc949be92cb5848bb8bb09596bc39f51c80e256&quality=70&width=600&height=315&focal=761%2C278",
-        "publishedAt": "2026-08-19T00:33:39Z",
-        "source": "1news.co.nz"
-      },
-      {
-        "title": "Preliminary evaluation of a qPCR HRM assay for differentiation of Leishmania major and Leishmania tropica",
-        "description": "Rapid and accurate identification of Leishmania species is important for the diagnosis and epidemiological surveillance of cutaneous leishmaniasis (CL). High-resolution melting (HRM) analysis has emerged as a rapid molecular approach for species discrimination. This study aimed to preliminarily evaluate a quantitative real-time PCR coupled with HRM (qPCR-HRM) assay targeting kinetoplast minicircle DNA (kDNA) for differentiation of Leishmania major and Leishmania tropica in northeastern Iran. A qPCR-HRM assay targeting the kDNA region was developed using species-specific primers. Clinical samples from 60 patients with suspected CL in North Khorasan and Razavi Khorasan provinces were examined microscopically and cultured. DNA extracted from cultured promastigotes was analyzed using qPCR-HRM, and the results were compared with conventional PCR and ITS1-rDNA sequencing. In addition, ITS1-rDNA sequence analysis was performed to evaluate the genetic diversity of L. major isolates. Among the 60 suspected CL samples, 13 were positive by molecular analysis. qPCR-HRM successfully differentiated reference strains of L. major and L. tropica based on distinct melting temperature profiles, with a mean ΔTm of approximately 0.86 °C (L. major: 84.13 °C; L. tropica: 83.27 °C). All clinical isolates were identified as L. major by qPCR-HRM and confirmed by ITS1 sequencing, showing complete agreement between the two methods. ITS1-rDNA analysis of the 13 L. major isolates identified nine sequence types and seven haplotypes. The qPCR-HRM assay demonstrated promising performance for rapid differentiation of L. major and L. tropica under the conditions evaluated in this study. However, further validation using larger numbers of direct clinical specimens representing both species is required before routine diagnostic application.",
-        "url": "https://www.nature.com/articles/s41598-026-66911-5?error=cookies_not_supported&code=f5c8b48e-6304-4b1f-8949-6cc88955d6e3",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-19T00:33:05Z",
-        "source": "Nature"
-      },
-      {
-        "title": "Photo-induced interfacial charge transfer in solar-responsive PVDF composite membranes",
-        "description": "Solar-driven membrane distillation (SDMD) using advanced composite membranes offers promise for sustainable water purification. Here, we present an atomistic computational study of polyvinylidene fluoride (PVDF) membranes incorporating hexagonal boron nitride (BN) and tungsten nitride (WN) nanofillers to elucidate the mechanisms underlying photoinduced charge transfer and photothermal excitation. We use a hierarchical multiscale framework integrating density functional theory (DFT), time-dependent DFT perturbation theory, and classical molecular dynamics to assess the electronic, optical, and structural properties of PVDF/BN/WN composites. Our calculations reveal a dramatic narrowing of the band gap from pristine PVDF (5.41 eV) to 0.57 eV in the composite, driven by orbital hybridization and enhanced interfacial charge transfer. Low-energy optical absorption (~ 0.85 eV) associated with charge-transfer transitions and collective excitations in WN clusters, alongside broadband activity from the near-infrared to the ultraviolet, is predicted. Molecular dynamics simulations confirm structural stability and strong interfacial ordering, with realistic atomic densities and constrained polymer mobility. These findings provide quantitative insight into the interplay between nanofiller-induced electronic structure modulation and membrane stability, establishing a theoretical foundation for designing PVDF-based composite membranes for efficient solar-driven water purification and related energy applications.",
-        "url": "https://www.nature.com/articles/s41598-026-61344-6?error=cookies_not_supported&code=00890859-4a3a-4536-9d6d-f2a978407443",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-19T00:33:03Z",
-        "source": "Nature"
       }
     ],
     "ai": [
       {
-        "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
-        "description": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributions.",
-        "url": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
-        "image": "https://www.zdnet.com/a/img/resize/b144e7edabc78b72a591875ee5f9765d97e7bccb/2026/08/18/8ec382d2-2813-4bee-9bf1-267f875baa75/noai.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-08-19T01:01:00Z",
+        "title": "If you use AI, Firefox is the browser to beat right now - here's why",
+        "description": "Mozilla has finally released the beta of Firefox Smart Window. I ran it through its paces and found features that might lure me back to my old favorite browser.",
+        "url": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
+        "image": "https://www.zdnet.com/a/img/resize/4a067be3bafa7abec4a28894e1714304c87a94e8/2026/08/18/02f870f8-fdcc-4563-8ab7-c2d59b31c044/smartwindowhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-08-19T01:54:00Z",
         "source": "ZDNet"
       },
       {
-        "title": "AI’s lucrative jobs boom is leaving women behind globally",
-        "description": "As artificial intelligence creates some of the fastest-growing and most-lucrative jobs globally, women are underrepresented in roles from the C-suite to rank-and-file positions at AI companies.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/19/ais-lucrative-jobs-boom-is-leaving-women-behind-globally",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4065662.jpg",
-        "publishedAt": "2026-08-19T01:00:00Z",
-        "source": "The Star"
+        "title": "OpenAI halts testing, slows development after rogue model hacked Hugging Face",
+        "description": "OpenAI has announced it is slowing the pace of its AI development and pausing its model testing for two weeks while its research and training systems are overhauled.",
+        "url": "https://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
+        "image": "https://live-production.wcms.abc-cdn.net.au/6d0a4fee09332a2919340a019cd2893a?impolicy=wcms_watermark_news&cropH=2440&cropW=4338&xPos=0&yPos=226&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-19T01:46:40Z",
+        "source": "ABC (Australian Broadcasting Corporation)"
       },
       {
-        "title": "'We will correct delusions of this deluded man': Iran hits back at Trump's assertion over Hormuz as 'NEW U.S. Territory'",
-        "description": "Iran has warned Donald Trump that his claims over the Strait of Hormuz will be corrected. Iranian officials dismissed Trump's assertions as delusions and stated their resolve. Trump had shared an AI-generated image claiming the waterway as new US territory. Iran insists the strait will remain closed until US commitments are met. Tensions remain high over the critical global energy route.",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/we-will-correct-delusions-of-this-deluded-man-iran-hits-back-at-trumps-assertion-over-hormuz-as-new-u-s-territory/articleshow/133334791.cms",
-        "image": "https://img.etimg.com/thumb/msid-133334817,width-1200,height-630,imgsize-113032,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-19T00:56:00Z",
-        "source": "The Economic Times"
+        "title": "Faraday Future Supports AIxC’s Full Strategic Pivot to Physical AI and Robot-Sharing and Rental Operations; RoboShare Completes Its First Paid Commercial Order, With an Initial Fleet of More Than 80 R",
+        "description": "19.08.2026 - Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future,” “FF,” or the “Company”), a California-based global Embodied AI (EAI) ecosystem company, today announced its support for an orderly exit by AIxC Holdings, Inc. (NASDAQ: AIXC) ... Seite 1",
+        "url": "https://www.wallstreet-online.de/nachricht/21258519-faraday-future-supports-aixc-s-full-strategic-pivot-to-physical-ai-and-robot-sharing-and-rental-operations-roboshare-completes-its-first-paid-commercial-order-with-initial-fleet-of-more-than-80-robots-place",
+        "image": "https://assets.wallstreet-online.de/_media/3129/unternehmen/branchen/fahrzeugindustrie/size_645/adobestock-258917169.jpeg",
+        "publishedAt": "2026-08-19T01:45:03Z",
+        "source": "Wallstreet Online"
       },
       {
-        "title": "To build AI for all, India must build it with all",
-        "description": "India has already shown how technology can advance public welfare at scale. The India AI Mission now offers an opportunity to ensure AI follows the same inclusive path",
-        "url": "https://indianexpress.com/article/opinion/columns/to-build-ai-for-all-india-must-build-it-with-all-10839258/",
-        "image": "https://images.indianexpress.com/2026/08/oped-illustration-AI_20260818200238.jpeg",
-        "publishedAt": "2026-08-19T00:50:25Z",
-        "source": "The Indian Express"
+        "title": "Japanese stocks slide as bond market anxiety hits AI sentiment",
+        "description": "The tech-heavy benchmark fell as much as 3.1% as of 9:18 a.m. in Tokyo",
+        "url": "https://www.moneycontrol.com/news/business/markets/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment-14009827.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814013230_japan-stocks.jpg",
+        "publishedAt": "2026-08-19T01:43:14Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "4: The Fastest AI Gets Faster",
-        "description": "Today, we are introducing the fourth generation of our Cerebras System: CS-4. The fastest AI accelerator in the industry, and a new foundation for frontier",
-        "url": "https://www.europesays.com/3202298/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/d109d095daa0d697a3929226431d9f206f14e73d-2697x1568.png",
-        "publishedAt": "2026-08-19T00:44:17Z",
+        "title": "Businesses double agentic AI adoption, but few transform processes: study",
+        "description": "Only 10% have rebuilt processes for AI to handle multi-step business tasks.",
+        "url": "https://www.europesays.com/3202398/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/growtika-f0jgorlokw0-unsplash.jpg",
+        "publishedAt": "2026-08-19T01:42:18Z",
         "source": "EUROPE SAYS"
       },
       {
-        "title": "₹12,374 for a toothbrush: This AI gadget can tell what your brushing routine misses",
-        "description": "A ₹12,374 AI-powered Oral-B toothbrush tracks brushing habits, maps missed areas, controls pressure and offers smart cleaning modes to help users improve their daily oral-care routine.",
-        "url": "https://www.businesstoday.in/latest/photo/rs12374-for-a-toothbrush-this-ai-gadget-can-tell-what-your-brushing-routine-misses-549837-2026-08-19",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202608/6a843931525fe-toothbrush-185123645-16x9.jpg",
-        "publishedAt": "2026-08-19T00:40:02Z",
-        "source": "Business Today"
+        "title": "AI can demystify supply chain regulations for global businesses",
+        "description": "The August 5 move came after the US banned imports from dozens of additional Chinese companies over alleged human rights abuses in late July 2026. In",
+        "url": "https://www.europesays.com/3202396/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/tkoktkuTURBXy8zNzQ4YzYzMi1kZDJmLTRjNTMtYWRmYy04MGVjZjljNDBhYjYuanBlZ5GTBc0EsM0Cdg.jpeg",
+        "publishedAt": "2026-08-19T01:41:21Z",
+        "source": "EUROPE SAYS"
       },
       {
-        "title": "Premium customer, quickest service? Not so fast, at least in a world of agentic AI-driven services",
-        "description": "It's conventional wisdom in the business world: Premium customers get a pass to the front of the line. Think airports or amusement parks. But new research from the University of Michigan finds the best approach—at least in the realm of data processing services—may be placing those big spenders in the \"better-but-later\" queue and completing the smaller jobs first.",
-        "url": "https://phys.org/news/2026-08-premium-customer-quickest-fast-world.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/vip-customer.jpg",
-        "publishedAt": "2026-08-19T00:40:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Nine Ocean Tomo Experts Named to the 2026 IAM Strategy 300 - The World's Leading Intellectual Property Strategists",
-        "description": "**media[1182015]**Recognition spans every corner of Ocean Tomo's practice, reflecting the firm's integrated approach to the business of intellectual property and emerging AI assets.",
-        "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/pr-newswire/nine-ocean-tomo-experts-named-to-the-2026-iam-strategy-300-the-worlds-leading-intellectual-property-strategists/2408050",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/19/1182013.jpg",
-        "publishedAt": "2026-08-19T00:36:34Z",
+        "title": "Ping An Good Doctor Announces 2026 Interim Results",
+        "description": "Corporate Health Management Business Grows Steadily; AI Healthcare Empowerment Drives Continued Profitability Improvement",
+        "url": "https://www.manilatimes.net/2026/08/19/tmt-newswire/pr-newswire/ping-an-good-doctor-announces-2026-interim-results/2408065",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-08-19T01:36:49Z",
         "source": "The Manila Times"
+      },
+      {
+        "title": "\"As Technology Evolves, We Want This To Be A Safe, Trusted Place\"",
+        "description": "Robin Williams' three children have taken a step in the fight against AI slop using their father's likeness by reactivating his Instagram account.",
+        "url": "https://deadline.com/2026/08/robin-williams-kids-fight-ai-slop-reactivating-instagram-1237044919/",
+        "image": "https://deadline.com/wp-content/uploads/2026/08/robin-williams.jpg?w=1024",
+        "publishedAt": "2026-08-19T01:32:37Z",
+        "source": "Deadline"
       }
     ]
   }
