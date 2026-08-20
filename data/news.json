@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-20T22:47:04.419Z",
+  "fetchedAt": "2026-08-20T23:42:48.168Z",
   "sections": {
     "world": [
       {
-        "title": "‘Republicans ran up the tab’: Democrats outraged over $40tn national debt - live",
-        "description": "US national deficit has doubled over the past decade with spending growing under Trump and Biden",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-        "image": "https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0e0ea06ddb4dabdb7cc862d2ca866ef8",
-        "publishedAt": "2026-08-20T10:47:00Z",
+        "title": "What to know about Prince Harry's move back to Britain with Meghan and the kids",
+        "description": "LONDON (AP) — Prince Harry is coming home to Britain and bringing his wife Meghan and their children for an extended stay that could help repair a rift with the royal family.",
+        "url": "https://toronto.citynews.ca/2026/08/20/what-to-know-about-prince-harrys-move-back-to-britain-with-meghan-and-the-kids/",
+        "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/08/49f1195075ea73ab043a2a0caa4b743ee74f2ed191be4e647fb915ae8281b889-1.jpg",
+        "publishedAt": "2026-08-20T11:42:00Z",
+        "source": "CityNews Toronto"
+      },
+      {
+        "title": "Why did Uganda unveil a statue of Netanyahu's brother at Entebbe?",
+        "description": "Uganda once condemned Israel’s Entebbe raid as a violation of its sovereignty. Fifty years later, it has unveiled a statue honouring the Israeli commander killed during it",
+        "url": "https://www.middleeasteye.net/news/why-did-uganda-unveil-bronze-statue-yonatan-netanyahu",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/yonathan%20netanyahu.jpg",
+        "publishedAt": "2026-08-20T11:41:29Z",
+        "source": "Middle East Eye"
+      },
+      {
+        "title": "Putin is closing in as Zelensky battles crisis at home",
+        "description": "An unexpected political attack has underscored the threat to Volodymyr Zelensky",
+        "url": "https://inews.co.uk/news/world/putin-closing-zelensky-battles-crisis-home-4717621",
+        "image": "https://inews.co.uk/wp-content/uploads/2026/08/SEI_308153108.jpg?crop=405px%2C225px%2C1125px%2C634px&resize=1200%2C675",
+        "publishedAt": "2026-08-20T11:41:12Z",
+        "source": "The i Paper"
+      },
+      {
+        "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+        "description": "Vandenkerckhove is the result of a relationship between the royal and Belgian singer Wendy Van Wanten.",
+        "url": "https://www.the-star.co.ke/news/world/2026-08-20-belgian-car-salesman-becomes-prince-after-royal-parentage-confirmed",
+        "image": "https://cdn.radioafrica.digital/image/2026/08/946571fe-f50a-4fbd-b84a-7f5fe1afc492.webp?1787227528492",
+        "publishedAt": "2026-08-20T11:40:00Z",
+        "source": "the-star.co.ke"
+      },
+      {
+        "title": "Caithness amateur radio enthusiasts contact lighthouses across Europe from Noss Head in international weekend event",
+        "description": "Members of the Caithness Amateur Radio Society lit up the airwaves for the annual Lighthouses on the Air event over the weekend.",
+        "url": "https://www.johnogroat-journal.co.uk/news/caithness-amateur-radio-enthusiasts-contact-lighthouses-acro-442938/",
+        "image": "https://www.johnogroat-journal.co.uk/_media/img/8B2EFJJJYT7SCIPL36VG.jpg",
+        "publishedAt": "2026-08-20T11:39:00Z",
+        "source": "John O'Groat Journal"
+      },
+      {
+        "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+        "description": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines",
+        "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+        "image": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41",
+        "publishedAt": "2026-08-20T11:38:00Z",
         "source": "The Guardian"
       },
       {
-        "title": "First Thing: Israel admits its soldiers opened fire at car carrying five-year-old Hind Rajab",
-        "description": "Israeli military orders criminal investigation into deaths of Hind and six family members. Plus, FCC chair Brendan Carr’s close coordination with White House revealed",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/first-thing-israel-admits-its-soldiers-opened-fire-at-car-carrying-five-year-old-hind-rajab",
-        "image": "https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc4a5797a30663109fea050e2fe5566f",
-        "publishedAt": "2026-08-20T10:43:00Z",
-        "source": "The Guardian"
+        "title": "Zambia Electricity Consumption Impacts on Mining Sector",
+        "description": "Explore Zambia electricity consumption and how solar power is transforming the energy landscape for households and industries.",
+        "url": "https://energy-news-network.com/industry-news/zambia-electricity-consumption-mining-open-access/",
+        "image": "https://energy-news-network.com/app/uploads/2026/08/jimmy-syachoke-IyTn_GQfbN8-unsplash-scaled.jpg",
+        "publishedAt": "2026-08-20T11:37:30Z",
+        "source": "Energy News Network"
       },
       {
-        "title": "Legislative committee fails to agree on drone act",
-        "description": "The Legislative Yuan’s Economics Committee today failed to reach a consensus in cross-party negotiations on 14 versions of a draft uncrewed vehicle act, sending the bill to a plenary session for further deliberation.Under the Executive Yuan’s draft version of the act, a special budget capped at NT$2",
-        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/20/2003862839",
-        "image": "https://img.taipeitimes.com/images/2026/08/20/php2VQORM.jpg",
-        "publishedAt": "2026-08-20T10:38:45Z",
-        "source": "Taipei Times"
-      },
-      {
-        "title": "Europe has no choice but to wish Marco Rubio well, even if it is through gritted teeth",
-        "description": "Americans who support reckless wars are sometimes also the most likely to defend democratic Europe",
-        "url": "https://www.irishtimes.com/world/us/2026/08/20/europe-has-no-choice-but-to-wish-marco-rubio-well-even-if-it-is-through-gritted-teeth/",
-        "image": "https://www.irishtimes.com/resizer/v2/3OOPWHNJUTWOR7TRECA6UGIFN4.jpg?smart=true&auth=a7357a54daccdf3749c8822a34990b699cc5f34aaa5fafc7ee0d807e7c720fe1&width=1200&height=630",
-        "publishedAt": "2026-08-20T10:37:39Z",
-        "source": "The Irish Times"
-      },
-      {
-        "title": "‘Nobody asked’: In Muhyiddin’s trial, Chinese businessman says didn’t hide his 30pc share in ‘Bumiputera’ company",
-        "description": "KUALA LUMPUR, Aug 20 — Malaysian Chinese businessman Lian Tan Chuan today said he was not intentionally hiding his name from official records on who actually owned the Bumiputera...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/08/20/nobody-asked-in-muhyiddins-trial-chinese-businessman-says-didnt-hide-his-30pc-share-in-bumiputera-company/232082",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/20/358052.jpg",
-        "publishedAt": "2026-08-20T10:36:54Z",
-        "source": "Malay Mail"
-      },
-      {
-        "title": "Nathan Cofnas under investigation over Jason Arday pile on",
-        "description": "The academic who sparked the pile on which preceded a black British professor’s suicide has said he is under investigation by his university",
-        "url": "https://www.thenational.scot/news/26480736.nathan-cofnas-investigation-jason-arday-pile/",
-        "image": "https://www.thenational.scot/resources/images/21332371.jpg?type=og-image",
-        "publishedAt": "2026-08-20T10:35:41Z",
-        "source": "The National Scot"
-      },
-      {
-        "title": "Housemaid Recounts Horrific Final Moments Before Kenyan Mother Killed Her 2 Children",
-        "description": "A housemaid recounts waking up to children screaming for help before finding them with severe stab wounds. Two children died while three others survived.",
-        "url": "https://www.tuko.co.ke/people/family/636966-housemaid-recounts-horrific-final-moments-kenyan-mother-killed-2-children/",
-        "image": "https://cdn.tuko.co.ke/images/1200x675/6f4e6cb9f296bee3.jpeg?v=1",
-        "publishedAt": "2026-08-20T10:34:29Z",
-        "source": "Tuko News"
-      },
-      {
-        "title": "Kenyan Among Three Arrested in Zanzibar Over Illegal Tour Operations",
-        "description": "The move comes as authorities tighten oversight of tourism activities, reminding visitors and operators to follow local rules.",
-        "url": "https://www.kenyans.co.ke/news/126356-kenyan-among-three-arrested-zanzibar-over-illegal-tour-operations",
-        "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/kenyans_in_zanzibar.jpg.webp?itok=V1tD6BI6",
-        "publishedAt": "2026-08-20T10:33:47Z",
-        "source": "Kenyans.co.ke"
+        "title": "Which pensioner will the state help more - the poor without work experience or the 'rich with experience' - minister",
+        "description": "In response to a question about equalizing pensions, Uzulnieks explained that the state's goal is not to equate the pensions of those with little work experience to the pensions of elderly people who have worked their entire lives and accumulated",
+        "url": "https://news.inbox.eu/150nagq-which-pensioner-will-the-state-help-more-the-poor-without-work-experience-or-the-rich-with-experience-minister?language=en",
+        "image": "https://news.inbox.eu/w/img/0f/10/0f107b206c26ac2534.webp",
+        "publishedAt": "2026-08-20T11:36:33Z",
+        "source": "Inbox.eu"
       }
     ],
     "business": [
       {
-        "title": "Can Worldcoin Rally in 2026?",
-        "description": "Worldcoin price prediction shows WLD testing a descending channel breakout with resistance at 0.4410 and support at 0.3280 in 2026",
-        "url": "https://www.coingabbar.com/en/price-prediction/worldcoin-price-forecast-breakout-support-token-unlock-2026",
-        "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/worldcoin-price-forecast-breakout-support-token-unlock-2026-8196.webp",
-        "publishedAt": "2026-08-20T10:47:00Z",
-        "source": "Coin Gabbar"
+        "title": "Walmart promises price cuts after $2.9 billion tariff refund",
+        "description": "Higher gas prices cut into Americans’ overall spending, leading to the slowest sales growth at Walmart’s US stores since the earliest months of the pandemic.",
+        "url": "https://www.cnn.com/2026/08/20/business/walmart-tariff-refund",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25135405700876.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-20T11:41:59Z",
+        "source": "CNN"
       },
       {
-        "title": "IRDAI bars Niva Bupa from opening new offices for six months over expense limit breach",
-        "description": "The insurance regulator said Niva Bupa failed to comply with expense-of-management limits for FY2024-25, restricting new business locations for six months.",
-        "url": "https://www.moneycontrol.com/news/business/irdai-bars-niva-bupa-from-opening-new-offices-for-six-months-over-expense-limit-breach-14011569.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814031959_child-claim-health-insurance-representative-image.png",
-        "publishedAt": "2026-08-20T10:46:45Z",
-        "source": "Moneycontrol.com"
+        "title": "Large wind farm in Wales operational this autumn",
+        "description": "The project is expected to generate enough renewable energy to power 46,000 homes each year",
+        "url": "https://www.energylivenews.com/2026/08/20/wales-wind-farm-operational-this-autumn/",
+        "image": "https://www.energylivenews.com/wp-content/uploads/2026/08/shutterstock_2706603571-resized-to-1035x690-1.jpeg",
+        "publishedAt": "2026-08-20T11:41:27Z",
+        "source": "Energy Live News"
       },
       {
-        "title": "CapitaLand, IOI near deal for Singapore US$1.9 bil office",
-        "description": "CapitaLand Investment Ltd and Malaysian developer IOI Properties Group Bhd (KL:IOIPG) are nearing a deal to buy an iconic office development in Singapore’s commercial centre, according to people familiar with the matter.",
-        "url": "https://theedgemalaysia.com/node/815288",
-        "image": "https://assets.theedgemarkets.com/ORP_small_20260820185027_OUE_REIT.jpg",
-        "publishedAt": "2026-08-20T10:45:47Z",
-        "source": "The Edge Malaysia"
+        "title": "Danone €1bn takeover of Tring based Huel approved by watchdog",
+        "description": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+        "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg",
+        "publishedAt": "2026-08-20T11:41:01Z",
+        "source": "BBC"
       },
       {
-        "title": "MHRA publishes regulatory roadmap for microbiome-based medicines amid growing AMR treatment interest",
-        "description": "The position paper clarifies licensing pathways for MBMPs under existing UK medicines regulations, covering product characterisation, batch variability control and AMR risk assessment",
-        "url": "https://manufacturingchemist.com/mhra-publishes-regulatory-roadmap-microbiome-based-medicines-amr",
-        "image": "https://manufacturingchemist.com/article-image-alias/mhra-publishes-regulatory-roadmap-for-microbiome-based.png",
-        "publishedAt": "2026-08-20T10:44:18Z",
-        "source": "Manufacturing Chemist"
+        "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+        "description": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines",
+        "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+        "image": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac49f1fd6c0ac5e76f54b2df69486a41",
+        "publishedAt": "2026-08-20T11:40:00Z",
+        "source": "The Guardian"
       },
       {
-        "title": "Overcome market fragmentation or miss the AI train, Lagarde warns the EU",
-        "description": "An overly fragmented single market cannot support Europe’s top priority of competing globally in the AI race, European Central Bank (ECB) President Christine Lagarde warns.",
-        "url": "https://www.euronews.com/my-europe/2026/08/20/overcome-market-fragmentation-or-miss-the-ai-train-lagarde-warns-the-eu",
-        "image": "https://images.euronews.com/articles/stories/09/88/16/94/1200x675_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg",
-        "publishedAt": "2026-08-20T10:43:50Z",
-        "source": "Euronews.com"
+        "title": "Lufthansa Boeing 747 flight LH430 to Chicago is declaring an emergency and diverting",
+        "description": "DUBLIN — A Lufthansa Boeing 747-8 bound for the United States was forced to declare an emergency and divert to Dublin Airport on Thursday after turning back mid-flight over Scotland. Flight LH430 departed Frankfurt Airport at 11:00 CEST, scheduled for a nine-hour crossing to Chicago O’Hare International Airport. Approximately two hours into the journey, while […]",
+        "url": "https://airlive.net/emergency/2026/08/20/lufthansa-boeing-747-flight-lh430-to-chicago-is-declaring-an-emergency-and-diverting/",
+        "image": "https://airlive.net/wp-content/uploads/2026/08/LH430.jpg",
+        "publishedAt": "2026-08-20T11:39:50Z",
+        "source": "airlive"
       },
       {
-        "title": "Thursday’s analyst upgrades and downgrades",
-        "description": "Inside the Market’s roundup of some of today’s key analyst actions",
-        "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-thursdays-analyst-upgrades-and-downgrades-321/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/MFR3LVDTTVH55ICPIFE7I2EPWU.JPG?auth=2fbcfeb67cc0b6e2def6936ed7ee6d406b730ae8e93a30406ca52b9046a39149&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-08-20T10:43:36Z",
-        "source": "The Globe and Mail"
+        "title": "WMT, COIN, MRNA, BABA",
+        "description": "These are the stocks posting the largest moves in the premarket.",
+        "url": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108342132-1785365195259-gettyimages-2280722565-TSCHNEIDER_68007_Coinbase_P8642202.jpeg?v=1785365264&w=1920&h=1080",
+        "publishedAt": "2026-08-20T11:39:39Z",
+        "source": "CNBC"
       },
       {
-        "title": "Crypto Exec Wants to Build AI Hub in Malaysia's $100B 'Ghost Town'",
-        "description": "\"Silicon Valley's for tech, why not we make Forest City a hub for AI and blockchain?\" Jeff Yew, head of Monochrome Asset Management, told BI.",
-        "url": "https://www.businessinsider.com/crypto-exec-ai-blockchain-hub-malaysia-forest-city-ghost-town-2026-8",
-        "image": "https://i.insider.com/6a840c387e0482203ed16f30?width=1200&format=jpeg",
-        "publishedAt": "2026-08-20T10:41:37Z",
-        "source": "Business Insider"
+        "title": "Chinese national gets 20 years for hacking accounts of BTS' Jung Kook, others",
+        "description": "A Seoul court on Thursday sentenced a Chinese national to 20 years in prison for leading a hacking scheme targeting K-pop group BTS member Jung Koo...",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260820/chinese-national-gets-20-years-for-hacking-accounts-of-bts-jung-kook-others",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/20/6ccefc47-ecc2-4669-9fde-9f3e95410e15.jpg",
+        "publishedAt": "2026-08-20T11:33:03Z",
+        "source": "The Korea Times"
       },
       {
-        "title": "Huawei-backed Stelato launches luxury off-road SUV G9, starting at $63,300",
-        "description": "The Stelato G9 is Huawei HIMA's first hardcore SUV, offering BEV and EREV options as well as five- and six-seat layouts.",
-        "url": "https://cnevpost.com/2026/08/20/stelato-launches-g9/",
-        "image": "https://cnevpost.com/wp-content/uploads/2026/08/2026082010283445.jpg",
-        "publishedAt": "2026-08-20T10:41:07Z",
-        "source": "CnEVPost"
+        "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
+        "description": "Dow Jones futures: Crude oil continues to climb while bitcoin jumped again amid a weak dollar. Walmart earnings are in focus.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/",
+        "image": "https://www.investors.com/wp-content/uploads/2026/06/stock-oil-iran-adobe.jpg",
+        "publishedAt": "2026-08-20T11:32:00Z",
+        "source": "Investor's Business Daily"
       }
     ],
     "science": [
+      {
+        "title": "Dark energy and quantum gravity may be deeply intertwined",
+        "description": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark energy, which is believed to be driving the universe's accelerating expansion.",
+        "url": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-gravity.jpg",
+        "publishedAt": "2026-08-20T11:40:06Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Hyderabad to Hawaii, journey of Rohan Naidu who discovered a black hole star",
+        "description": "Rohan Naidu is an assistant professor of astronomy at the University of Hawaii, and one of the lead researchers behind the discovery of a new astronomical object — the black hole star.",
+        "url": "https://theprint.in/feature/hyderabad-to-hawaii-journey-of-rohan-naidu-who-discovered-a-black-hole-star/3020277/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Naidu.jpg",
+        "publishedAt": "2026-08-20T11:27:18Z",
+        "source": "ThePrint"
+      },
+      {
+        "title": "Reflect Orbital says satellite will not illuminate Saskatchewan communities",
+        "description": "A company developing satellites that reflect sunlight back to Earth says it has no plans to illuminate Saskatchewan communities in the middle of the night. Reflect Orbital is developing Eärendil-1, a demonstration satellite that will use a flat reflector to redirect sunlight to specific locations on Earth. The company provided written responses through spokesperson Christopher Buscombe, with the responses attributed to Reflect Orbital. The company says its first satellite is intended to test the technology and the safeguards that would control where, when and how reflected light is delivered. “Our first milestone is this single demonstration satellite,” the company said. Reflect Orbital expects the mission to be the first of several test missions. Data from the mission will be used to shape future satellite designs, the markets the company serves and its operating practices. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm1'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); No plans to illuminate communities Reflect Orbital says most people and places will never see the reflected light. The company says it intends to provide light primarily to large solar projects, search-and-rescue operations and construction sites, which are typically located away from populated areas. The company said every service would require permits, local authority approval and customer verification before light is delivered. “We’re not going to light up a Saskatchewan community at 2 a.m.,” the company said. Reflect Orbital also said consultation with Indigenous nations, municipalities, farmers, conservation groups and residents would be a precondition for providing the service. “The service will only be provided where there’s proper regulatory approval and buy-in from local communities and jurisdictions,” the company said. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm2'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Related Stories: Saskatchewan skies offer a view of the Milky Way’s centre in August Saskatchewan Summer Star Party brings astronomy enthusiasts to Cypress Hills Canadian astronaut part of historic Artemis II mission around the moon ▶️ Stream this news story: 800 CHAB, Country 100, Mix 103 How bright would the light be? Reflect Orbital says the illumination inside the targeted area would be equivalent to a full moon. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm3'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); The company said the physics of a flat reflector means the reflected light cannot exceed the brightness of the sun itself. It also said exposure would remain within International Commission on Non-Ionizing Radiation Protection safety limits when viewed through binoculars or a telescope. According to Reflect Orbital, a pointing error would change where the light lands, rather than increase its brightness. Environmental concerns The proposed technology has raised questions about how artificial nighttime light could affect wildlife and ecosystems. Reflect Orbital said it is commissioning research by independent researchers and federal partners to study those effects. The company said it is working on a co-ordination agreement with the National Science Foundation and conducting environmental studies. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm4'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); The results, it said, will help determine how the company moves forward. Reflect Orbital said its service would be targeted and time-limited, with brightness thresholds calibrated to levels it says humans and animals already tolerate. The company said it can establish exclusion zones around protected habitats and areas containing endangered species and does not plan to operate over at-risk migration corridors. Related Stories: Proposed space mirrors raise questions about night skies Perseid meteor shower expected to peak over Saskatchewan skies in August Mercury, Venus and Saturn among planets visible in August skies ▶️ Stream this news story: 800 CHAB, Country 100, Mix 103 Concerns from astronomers Artificial light from satellites has also raised concerns about its potential effect on astronomical observations. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm5'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Reflect Orbital said its safeguards account for atmospheric scattering when determining exclusion zones. The company said, for example, that if an astronomical observatory requires an exclusion zone where the reflected light must remain below a magnitude of +7, its satellite would maintain the necessary distance or angle based on modelling and test data. Reflect Orbital said those models will be continually updated. The company also said its satellites would be turned off when idle and designed to remain below +7 stellar magnitude when not providing service. Reflect Orbital said it does not expect its satellites to interfere with astronomical observations or damage equipment. The company said it is working with NASA and the National Science Foundation and is an industry member of the International Astronomical Union’s Centre for the Protection of the Dark and Quiet Sky. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm6'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Feedback from astronomers has already influenced the company’s spacecraft design and operating plans, it said. A larger constellation Eärendil-1 is intended as a demonstration, but Reflect Orbital has described a much larger future network of satellites. The company says the technology could extend the operating hours of existing solar farms by providing reflected sunlight after the sun has set. Reflect Orbital argues this could produce additional clean energy without requiring new land or transmission infrastructure. The company also says its approach could avoid the mining and replacement cycles associated with batteries. At scale, Reflect Orbital expects the greenhouse-gas emissions associated with its energy service, including the launch of its satellites on a Falcon 9 rocket, to be comparable to terrestrial solar. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm7'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); The company did not provide a specific carbon-footprint figure in its response. For now, Reflect Orbital says it is taking an incremental approach. The company says the first mission will provide real-world data that will determine how the technology develops, where it is used and what safeguards are required. “We expect this to be the first of several test missions,” the company said.",
+        "url": "https://www.discovermoosejaw.com/articles/reflect-orbital-says-satellite-will-not-illuminate-saskatchewan-communities",
+        "image": "https://dht7q8fif4gks.cloudfront.net/2026-08/Weyburn%20-%20Night%20Sky_0.jpg",
+        "publishedAt": "2026-08-20T11:02:07Z",
+        "source": "DiscoverMooseJaw"
+      },
+      {
+        "title": "The Sun’s Magnetic Field is Behaving Oddly. Astronomers Still Don’t Know Why.",
+        "description": "Scientists say our star might be in a midlife crisis of sorts. What does that mean for life?",
+        "url": "https://www.yahoo.com/news/science/articles/sun-magnetic-field-behaving-oddly-110000342.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/087238ecbdc0f843435989ab698282d829b6b48fd8a9ec1ade0050c0ee821df2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_geographic_articles_149%2F90a6d9bf765bf2f93b72ef8bf791d04d.jpg",
+        "publishedAt": "2026-08-20T11:00:00Z",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Satellite proliferation imperils astronomical observations: study",
+        "description": "As thousands more satellites enter orbit, astronomers may face mounting difficulties in observing the cosmos, according to a study by the European Southern Observatory, which operates telescopes in northern Chile",
+        "url": "https://www.timeslive.co.za/news/sci-tech/2026-08-20-satellite-proliferation-imperils-astronomical-observations-study/",
+        "image": "https://www.timeslive.co.za/resizer/v2/CBRHODRZZNNGJHRZMM6HCAAXVE.jpg?smart=true&auth=16c15b26692038262897b6ac48c5c183a1fbcd603b60125202f9b7f72681275b&width=1200&height=630",
+        "publishedAt": "2026-08-20T10:52:11Z",
+        "source": "TimesLIVE"
+      },
+      {
+        "title": "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon",
+        "description": "Science News: A NASA spacecraft circling the moon is providing the sharpest views yet of the crater carved by a crashing SpaceX rocket.The space agency released bef.",
+        "url": "https://timesofindia.indiatimes.com/science/before-and-after-nasa-images-show-crater-carved-by-a-spacex-rocket-that-slammed-into-the-moon/articleshow/133374495.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133374591,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-20T10:48:00Z",
+        "source": "The Times of India"
+      },
       {
         "title": "Cold War nuclear tests nearly doubled the carbon-14 in the atmosphere, leaving an isotopic timestamp inside cells born during those decades — and researchers later used that accidental fallout to answ",
         "description": "Researchers discovered an unexpected gift in radioactive fallout: a biological clock precise enough to settle whether adult hearts can regenerate.",
@@ -150,120 +198,72 @@
         "image": "https://www.sciencedaily.com/images/1920/paranthropus-skull.webp",
         "publishedAt": "2026-08-20T10:44:34Z",
         "source": "Science Daily"
-      },
-      {
-        "title": "Scientists say the human family tree may need a major rewrite",
-        "description": "The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to separate them. The proposed shake-up could provide a simpler, more accurate picture of our surprisingly complicated evolutionary past.",
-        "url": "http://www.sciencedaily.com/releases/2026/08/260820002413.htm",
-        "image": "https://www.sciencedaily.com/images/1920/paranthropus-skull.webp",
-        "publishedAt": "2026-08-20T10:44:34Z",
-        "source": "Science Daily"
-      },
-      {
-        "title": "Global Review Sets Selenosugar Naming, Metabolism Standards",
-        "description": "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on",
-        "url": "https://www.miragenews.com/global-review-sets-selenosugar-naming-1730571/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1484069560501-87d72b0c3669%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-08-20T10:36:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "The Raman Effect: C.V. Raman and Atomionics",
-        "description": "Atomionic’s sensors work through quantum science, which is the science of how matter and energy work at the smallest of scales.",
-        "url": "https://www.tabla.com.sg/community/people/raman-effect-c-v-raman-and-atomionics",
-        "image": "https://cassette.sphdigital.com.sg/image/tabla/eaaa8d9421e332553a00e2177b27b92a2a80be1329cda7e1240460ad2deb2bdd",
-        "publishedAt": "2026-08-20T10:33:36Z",
-        "source": "tabla.com.sg"
-      },
-      {
-        "title": "Astronomers detect fastest known star in Milky Way",
-        "description": "S301 travels at about 25,000 km per second | ESO | Fastest known star in Milky Way.space. black hole",
-        "url": "https://www.manoramayearbook.in/current-affairs/world/2026/08/20/s301-fastest-known-star-in-milky-way.html",
-        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/current-affairs/world/images/2026/8/20/milky-way.jpg",
-        "publishedAt": "2026-08-20T10:30:54Z",
-        "source": "Manorama Yearbook"
-      },
-      {
-        "title": "3.5-bn-year-old rock found in Jharkhand that may hold oldest signs of life",
-        "description": "A rock from Jharkhand contains carbon signatures that researchers say point to ancient microbial activity, offering a rare glimpse into life on early Earth",
-        "url": "https://www.business-standard.com/india-news/india-3-5-billion-year-old-rock-jharkhand-oldest-evidence-life-earth-126082000798_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/thumb/fitandfill/1200X628/1787221311-5757.jpg",
-        "publishedAt": "2026-08-20T10:22:07Z",
-        "source": "Business Standard"
-      },
-      {
-        "title": "What Can We Actually Find on an Exoplanet? Part 4: Looking For Us",
-        "description": "Some signs of an alien civilization are easier to spot than signs of life itself. On technosignatures, from CFCs and industrial gases to the pandemic dip in pollution, and why Earth's most detectable moment might be right now.",
-        "url": "https://www.universetoday.com/articles/what-can-we-actually-find-on-an-exoplanet-part-4-looking-for-us",
-        "image": "https://www.universetoday.com/article_images/header_20260814_095912.jpg",
-        "publishedAt": "2026-08-20T10:19:00Z",
-        "source": "Universe Today"
       }
     ],
     "ai": [
       {
-        "title": "Anarock Launches ARC: An Integrated Marketing Agency Built to Drive Measurable Business Outcomes Across Categories",
-        "description": "Mumbai, Maharashtra, India (NewsVoir) Anarock today announced the launch of ARC, an integrated marketing agency with an objective to reimagine the marketing stack and focus on Outcomes over Output. ARC leverages cutting edge AI technology to score, prioritise, nurture, and...",
-        "url": "https://www.tribuneindia.com/news/business/anarock-launches-arc-an-integrated-marketing-agency-built-to-drive-measurable-business-outcomes-across-categories-2-2/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJjNzQ0YTcwLTljODQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-20T10:47:06Z",
+        "title": "Contributing to PM Modi’s Vision for a Skilled India, PyNet Labs Launches Free Technology Training Initiative",
+        "description": "New Delhi, August 2026: Prime Minister Narendra Modi’s announcement to skill one crore young Indians in Artificial Intelligence within one year has placed a renewed focus on preparing India’s youth for an increasingly technology-driven economy. Supporting the broader vision of...",
+        "url": "https://www.tribuneindia.com/news/business/contributing-to-pm-modis-vision-for-a-skilled-india-pynet-labs-launches-free-technology-training-initiative/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc1ZjY4MjQwLTljOGMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-20T11:38:50Z",
         "source": "The Tribune"
       },
       {
-        "title": "Apple's smart home springs a leak - here's everything we expect to see in September",
-        "description": "We're already waiting for the new gen-AI-powered Siri, but a home hub may be on the way as well.",
-        "url": "https://www.zdnet.com/home-and-office/smart-home/apples-smart-home-leaked-product-list/",
-        "image": "https://www.zdnet.com/a/img/resize/ff0a8184722c5e752f10f6fdff5f36c4759163be/2022/10/23/24bfeedd-adc7-4b2a-88a9-63cd9fdf8621/apple-ipad-10th-gen-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-08-20T10:46:00Z",
-        "source": "ZDNet"
+        "title": "Today News Headlines for School Assembly, August 21, 2026: Indian Railways launches Amrit Bharat Express, Google offering 1-year free AI subscription to college students",
+        "description": "School Assembly News Headlines Today, August 21, 2026: Get the latest school assembly news headlines for today. National, International, Sports, and Business updates curated for students, teachers, and morning assembly.",
+        "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-august-21-2026-indian-railways-launches-amrit-bharat-express-google-offering-1-year-free-ai-subscription-to-college-students-10841416/",
+        "image": "https://images.indianexpress.com/2026/08/Today-News-Headlines-for-School-Assembly-August-21-2026.png",
+        "publishedAt": "2026-08-20T11:38:16Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Contributor: Stop shaming the use of AI. For some with disabilities, it's a godsend",
-        "description": "As a longtime Angeleno, I’ve got the same beef with AI as everyone else in this town. I don’t want it stealing stories from writers, voices from actors or",
-        "url": "https://www.europesays.com/3204999/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/urlhttps3A2F2Fcalifornia-times-brightspot.s3.amazonaws.com2F562F7f2F8ba6e16449d19ce91d5df9b2.jpeg",
-        "publishedAt": "2026-08-20T10:45:25Z",
-        "source": "EUROPE SAYS"
+        "title": "Student Catches AI Agent Trying To Push Malware On GitHub",
+        "description": "A computer science student, Sinan Can Demir, discovered a hacking attempt involving an AI agent while improving his coding skills. , Technology & Science, Times Now",
+        "url": "https://www.timesnownews.com/technology-science/student-catches-ai-agent-trying-to-push-malware-on-github-article-155883319",
+        "image": "https://images.timesnownews.com/thumb/msid-155883424,thumbsize-1573167,width-1280,height-720,resizemode-75/155883424.jpg",
+        "publishedAt": "2026-08-20T11:38:12Z",
+        "source": "Times Now"
       },
       {
-        "title": "Binance Introduces Agent OS to Connect AI Applications to Financial Infrastructure",
-        "description": "Abu Dhabi [UAE], August 20: Binance today introduced Agent OS, a developer platform and standardized access layer connecting AI applications to Binance's trading, market data, wallet, payment and on-chain capabilities across crypto and traditional markets. New developer platform connects AI applications to Binance trading, market data, wallets, payments and on-chain tools across crypto and traditional markets.",
-        "url": "https://www.tribuneindia.com/news/business/binance-introduces-agent-os-to-connect-ai-applications-to-financial-infrastructure/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEzMTg0NWQwLTljODQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-20T10:44:00Z",
+        "title": "Homes struggle, factories thrive: How AI is reshaping the US economy",
+        "description": "News News: US housing activity took another hit in July, with construction of single-family homes falling sharply and agreements to buy existing properties decli.",
+        "url": "https://timesofindia.indiatimes.com/real-estate/news/homes-struggle-factories-thrive-how-ai-is-reshaping-the-us-economy/articleshow/133375558.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133375955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-20T11:38:00Z",
+        "source": "Times of India"
+      },
+      {
+        "title": "Meta has quietly become one of Microsoft’s largest AI customers",
+        "description": "Meta has emerged as one of Microsoft’s biggest AI customers, spending hundreds of millions of dollars a year on Azure access, highlighting how AI demand remains concentrated among technology companies rather than traditional industries.",
+        "url": "https://www.cnbctv18.com/business/companies/meta-has-quietly-become-one-of-microsoft-largest-ai-customers-19973792.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/08/uss-1-2026-08-7ec5bbd1c9dc525dbf9b5e3c820ae076.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-08-20T11:35:49Z",
+        "source": "CNBC TV18"
+      },
+      {
+        "title": "Apple files 32-page rebuttal in OpenAI trade secrets case",
+        "description": "Apple isn't backing down. In a filing submitted Wednesday, the company urged a federal judge to reject OpenAI's motion to dismiss its trade secrets lawsuit, arguing the AI company's defence rests on...",
+        "url": "https://www.thenews.com.pk/latest/1412923-apple-files-32-page-rebuttal-in-openai-trade-secrets-case",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-20/1412923_044619_updates.jpg",
+        "publishedAt": "2026-08-20T11:35:15Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Central India's architect Ms. Neha Kolhe launches AI startup \"QikWorksheet\" to automate K",
+        "description": "Maharashtra [India], August 20: Ms. Neha Kolhe, a celebrated architect based in Nagpur, is highly regarded in Central India for designing masterfully structured spaces. But her most impactful design came not from an architectural drafting board, but from her own family dining table. Today, Ms. Neha officially announces the nationwide launch of Qik Worksheet, an innovative AI-powered educational technology platform that automates the creation of high-quality, syllabus-aligned practice papers in under 60 seconds.",
+        "url": "https://www.tribuneindia.com/news/business/central-indias-architect-ms-neha-kolhe-launches-ai-startup-qikworksheet-to-automate-k-12-study-worksheets/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmYTllNDIwLTljOGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-20T11:33:35Z",
         "source": "The Tribune"
       },
       {
-        "title": "Lifting the floor for all: How Google’s Gemini Models are powering Wadhwani AI’s HealthVaani App for ASHA, Anganwadi workers",
-        "description": "The first healthcare touchpoint for more than half of Indias population are the frontline workers such as ASHA and Anganwadi workers. Strengthening their confidence with AI-enabled tools on their hand-held devices, will significantly improve the quality and reach of primary healthcare in the country. Wadhwani AIs HealthVaani App, powered by Google, is taking the lead in instilling this confidence where it matters the most. Senior Journalist Sonia Singh interacted with Shekar Sivasubramanian - Head, Wadhwani AI and Preeti Lobana - Vice President and Country Manager, Google India. Read on!",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/lifting-the-floor-for-all-how-googles-gemini-models-are-powering-wadhwani-ais-healthvaani-app-for-asha-anganwadi-workers/articleshow/133374237.cms",
-        "image": "https://img.etimg.com/thumb/msid-133375459,width-1200,height-630,imgsize-665367,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-20T10:44:00Z",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Overcome market fragmentation or miss the AI train, Lagarde warns the EU",
-        "description": "An overly fragmented single market cannot support Europe’s top priority of competing globally in the AI race, European Central Bank (ECB) President Christine Lagarde warns.",
-        "url": "https://www.euronews.com/my-europe/2026/08/20/overcome-market-fragmentation-or-miss-the-ai-train-lagarde-warns-the-eu",
-        "image": "https://images.euronews.com/articles/stories/09/88/16/94/1200x675_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg",
-        "publishedAt": "2026-08-20T10:43:50Z",
-        "source": "Euronews"
-      },
-      {
-        "title": "Stripe Tells Investors The Singularity Began On January 1, Confirms $7.5-Billion OpenRouter Acquisition",
-        "description": "Stripe has told investors it considers January 1, 2026 the “beginning of the singularity”, saying it has operated its business on that basis for eight months. The payments company cited accelerating AI adoption and rising firm creation as evidence of a major shift. Stripe also confirmed its acquisition of AI model-routing startup OpenRouter.",
-        "url": "https://www.freepressjournal.in/tech/stripe-tells-investors-the-singularity-began-on-january-1-confirms-75-billion-openrouter-acquisition",
-        "image": "https://media.assettype.com/freepressjournal/2026-08-20/lg1rtmp6/OpenRouterStripelockupCenteraligned.webp",
-        "publishedAt": "2026-08-20T10:42:50Z",
-        "source": "Free Press Journal"
-      },
-      {
-        "title": "OpenAI wants to monitor AI abuse without forcing customers to hand over their data",
-        "description": "OpenAI’s Private Safety Processing promises to detect abuse across multiple interactions while preserving Zero Data Retention, putting its privacy strategy in direct contrast with Anthropic’s 30-day retention requirement.",
-        "url": "https://www.digitaltrends.com/computing/openai-wants-to-monitor-ai-abuse-without-forcing-customers-to-hand-over-their-data/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-06T062451.431.jpg?resize=1200%2C630",
-        "publishedAt": "2026-08-20T10:42:12Z",
-        "source": "Digital Trends"
+        "title": "Dubai Chambers Signs Two MoUs in Bengaluru to Advance Agentic AI Collaboration and Strengthen Trade and Investment Ties With India",
+        "description": "Bengaluru (Karnataka) [India], August 20: Dubai Chambers has signed two Memorandums of Understanding (MoUs) during a high-level visit to Bengaluru to advance collaboration in Agentic AI, strengthen trade and investment between Dubai and India, and support business expansion. The agreements were signed with the National Association of Software and Service Companies (NASSCOM) and the Federation of Karnataka Chambers of Commerce and Industry (FKCCI).",
+        "url": "https://www.tribuneindia.com/news/business/dubai-chambers-signs-two-mous-in-bengaluru-to-advance-agentic-ai-collaboration-and-strengthen-trade-and-investment-ties-with-india/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZhZmNmZGUwLTljOGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-20T11:33:28Z",
+        "source": "The Tribune"
       }
     ]
   }
