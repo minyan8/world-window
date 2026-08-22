@@ -1,140 +1,156 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-22T18:50:40.492Z",
+  "fetchedAt": "2026-08-22T19:38:44.574Z",
   "sections": {
     "world": [
       {
-        "title": "The Climate Threat To Pregnancy Is Already Here",
-        "description": "Extreme heat and air pollution is increasing the risk of miscarriage.",
-        "url": "https://www.forbes.com/sites/we-dont-have-time/2026/08/22/the-climate-threat-to-pregnancy-is-here---health-systems-arent-ready/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a8934b45df52b3b4a1e9a30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-22T06:43:47Z",
-        "source": "Forbes"
+        "title": "New intervention to tame Ebola in trade, migration corridors",
+        "description": "A NEW regional intervention has been launched to prevent the cross-border spread of Ebola through major trade and migration corridors linking the Democratic Republic of Congo (DRC) with neighbouring countries, including Tanzania. The East, Central and Southern Africa Health Community (ECSA-HC) has rolled out a six-month emergency response covering 33 priority Points of Entry (PoEs) …",
+        "url": "https://dailynews.co.tz/new-intervention-to-tame-ebola-in-trade-migration-corridors/",
+        "image": "https://dailynews.co.tz/wp-content/uploads/2026/05/cp-ebola.jpg",
+        "publishedAt": "2026-08-22T07:37:31Z",
+        "source": "dailynews.co.tz"
       },
       {
-        "title": "US imposes 50 per cent tariffs on $US20 billion worth of Canadian products",
-        "description": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
-        "url": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
-        "image": "https://live-production.wcms.abc-cdn.net.au/778135a408f271604dcbf64fa88e6fb0?impolicy=wcms_watermark_news&cropH=1362&cropW=2422&xPos=312&yPos=297&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-08-22T06:42:15Z",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        "title": "New discovery in Egypt's delta traces history from 4,000 BCE to Romans",
+        "description": "The finds confirm that the area had been settled during the Hyksos’ reign during the 15th Dynasty given its proximity to Avaris, which had served as the capital city at the time.",
+        "url": "https://www.jpost.com/archaeology/article-906200",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734759",
+        "publishedAt": "2026-08-22T07:29:29Z",
+        "source": "The Jerusalem Post"
       },
       {
-        "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-        "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-        "url": "https://www.bbc.com/news/articles/c39egw7nmk2o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-        "publishedAt": "2026-08-22T06:40:30Z",
-        "source": "BBC"
+        "title": "Ukraine Downs 182 Drones and Missiles in Mass Russian Attack",
+        "description": "Ukrainian air defenses intercepted 182 drones, three aviation missiles, and six loitering munitions during a massive Russian attack early Saturday morning, Aug. 22.",
+        "url": "https://www.kyivpost.com/post/82877",
+        "image": "https://static.kyivpost.com/storage/2026/08/22/52e33a70fbc3b25febcafcf6633d7c58.jpeg?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-08-22T07:23:49Z",
+        "source": "Kyiv Post"
       },
       {
-        "title": "Morning Brief - 22 August 2026",
-        "description": "Start your day informed with AnewZ Morning Brief. Here are the top news stories for the 22nd of August, covering the latest developments.",
-        "url": "https://anewz.tv/world/world-news/23606/morning-brief-22-august-2026/news",
-        "image": "https://anewz.tv/data/images/2026-08-22/34688_morning-briefjpg_f.jpeg?t=1787421790",
-        "publishedAt": "2026-08-22T06:37:00Z",
-        "source": "AnewZ"
+        "title": "Comedian Wanousky Montana begins documentary tour of Niger",
+        "description": "Popular Nigerien comedian Wanousky Montana has embarked on a documentary tour of Niger, taking his audience beyond comedy to explore the country’s diverse",
+        "url": "https://blueprint.ng/comedian-wanousky-montana-begins-documentary-tour-of-niger/",
+        "image": "https://blueprint.ng/wp-content/uploads/2026/08/IMG-20260822-WA0000.jpg",
+        "publishedAt": "2026-08-22T07:23:31Z",
+        "source": "Blueprint Newspapers"
       },
       {
-        "title": "World News Today Live Updates: As tariff talks collapse, Canada vows to match US levies",
-        "description": "Trump said on Friday he thought Tehran was not ready to make the \"right deal\" and that Washington was observing \"what happens\" in the Iran war.",
-        "url": "https://indianexpress.com/article/world/news-live-updates-iran-us-war-strait-of-hormuz-navigation-trump-israel-india-oil-10844187/",
-        "image": "https://images.indianexpress.com/2026/08/US-3-11.jpg",
-        "publishedAt": "2026-08-22T06:35:33Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Pendolino reaches 253 km/h in Poland",
-        "description": "A Pendolino train reached 253 km/h during tests carried out on Poland’s Central Line, ahead of the introduction of commercial services at 250 km/h in December 2027.",
-        "url": "https://www.railwaypro.com/wp/pendolino-reaches-253-km-h-in-poland/",
-        "image": "https://www.railwaypro.com/wp/wp-content/uploads/2026/08/pkp-plk-pendolino.jpg",
-        "publishedAt": "2026-08-22T06:31:47Z",
-        "source": "Railway PRO"
-      },
-      {
-        "title": "Sink Together Or Float Together: The Inescapable Reality Of The Horn Of Africa",
-        "description": "Few regions in the world possess a geopolitical and cultural landscape as deeply intertwined as the Horn of Africa. Encompassing nations such as Ethiopia,",
-        "url": "https://www.thereporterethiopia.com/52394/",
-        "image": "https://www.thereporterethiopia.com/wp-content/uploads/2022/06/The-Reporter-Ethiopia.jpg",
-        "publishedAt": "2026-08-22T06:31:09Z",
+        "title": "Dangote Offers East African States Stake In Planned Refinery",
+        "description": "Ethiopia, Kenya, Rwanda express interest",
+        "url": "https://www.thereporterethiopia.com/52431/",
+        "image": "https://www.thereporterethiopia.com/wp-content/uploads/2026/08/DANGOTE-OFFERS.jpg",
+        "publishedAt": "2026-08-22T07:22:09Z",
         "source": "The Reporter Ethiopia"
       },
       {
-        "title": "Top 10 African countries with the lowest debt to the IMF in August 2026",
-        "description": "For African countries, owing very little to the International Monetary Fund (IMF) might mean more than just a number on a debt table. | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/markets/top-10-african-countries-with-the-lowest-debt-to-the-imf-in-august-2026/lz6256m",
-        "image": "https://ocdn.eu/pulscms-transforms/1/ihwktkpTURBXy80OGM3YTQ3NmY5M2RiNmUxZDVjNjE4NTBmNzQxNTZmOS5wbmeSlQMAAs0CvM0BipMFzQSwzQJ2",
-        "publishedAt": "2026-08-22T06:30:00Z",
-        "source": "Business Insider Africa"
+        "title": "US faults UN Secretary-General selection process",
+        "description": "​The United States has faulted polling and surveys in the selection process for the next United Nations ​Secretary-General, warning against ​usurping the",
+        "url": "https://dailypost.ng/2026/08/22/us-faults-un-secretary-general-selection-process/",
+        "image": "https://dailypost.ng/wp-content/uploads/2026/02/united-states-flag.jpg",
+        "publishedAt": "2026-08-22T07:20:43Z",
+        "source": "Daily Post Nigeria"
+      },
+      {
+        "title": "Russian and Ukrainian attacks kill 5 people a day after shopping mall drone strike",
+        "description": "Authorities say that Russian and Ukrainian drone and missile strikes have killed at least five people.",
+        "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4",
+        "image": "https://dims.apnews.com/dims4/default/875df6b/2147483647/strip/true/crop/2000x1333+0+92/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F2a%2Fe833c9a4a7b1c9bfb8e2af58dcb3%2F8892e4ad49d946c2af8aa8a5ffe41365",
+        "publishedAt": "2026-08-22T07:20:00Z",
+        "source": "AP News"
+      },
+      {
+        "title": "Iran-US war latest: Trump says Tehran not ready to make ‘right deal’ after threatening ‘Economic D-Day’",
+        "description": "‘The whole world acknowleges our victory,’ said Masoud Pezeshkian as the US threatened to impose the ‘toughest sanctions in history’",
+        "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-threat-sanctions-hormuz-update-b3037440.html",
+        "image": "https://static.independent.co.uk/2026/08/21/13/2026-08-08T190306Z_41190565_RC2IUMAYIM5T_RTRMADP_3_IRAN-CRISIS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-22T07:19:19Z",
+        "source": "The Independent"
       }
     ],
     "business": [
       {
-        "title": "China’s robot games evolve from science fair to strategic showcase",
-        "description": "Investing.com -- China opened its five-day World Humanoid Robot Games in Beijing on Saturday, turning the competition into a showcase for commercial technology and a robotics industry viewed as strategically important by the government, Reuters reported.",
-        "url": "https://finance.yahoo.com/technology/articles/china-robot-games-evolve-science-064532330.html",
-        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-08-22T06:45:32Z",
-        "source": "Yahoo Finance"
+        "title": "Powell Industries (POWL) Stock Could Be 22% Above Fair Value On Cash Flow Strength",
+        "description": "Powell Industries stock has delivered very large gains over the past five years, yet the latest checks suggest the current share price sits at a premium to what its intrinsic value models and market multiples support. After such a strong run, investors now face a pricing debate rather than a clear bargain.\nPowell Industries has returned about 23.9x over the past five years, which sets a high bar for what future cash flows need to justify.\nExpectations for continued cash flow generation and...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-powl/powell-industries/news/powell-industries-powl-stock-could-be-22-above-fair-value-on",
+        "image": "https://images.simplywall.st/asset/industry/3051000-choice2-main-header/1585186647175",
+        "publishedAt": "2026-08-22T07:34:52Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Rising Bond Yields Threaten Asia's AI",
-        "description": "Bond yields are climbing as AI companies issue $220 billion in bonds in 2026 alone. Asian AI stocks — up 50-140% this year — face their biggest threat yet from rising discount rates.",
-        "url": "https://memeburn.com/rising-yields-threaten-asia-ai-stock-rally/",
-        "image": "https://memeburn.com/wp-content/uploads/2026/08/Asias-AI-Stock-Rally-Hit-Historic-Highs-and-Rising-Bond-Yields-Could-End-It.jpg",
-        "publishedAt": "2026-08-22T06:45:27Z",
-        "source": "Memeburn"
+        "title": "Why Alvotech (ALVO) Is Up 9.2% After $150 Million Lotus Biosimilar Deal And 2026 Update",
+        "description": "In August 2026, Alvotech announced a licensing and commercialization agreement with Lotus Pharmaceutical for AVT34 and AVT87 in the US and eight Asian markets, alongside guidance for full-year 2026 revenues of US$650–US$700 million and disclosure of a half-year 2026 net loss of US$65.79 million.\nThe Lotus deal, with potential value of about US$150 million in upfront and milestone payments plus ongoing supply revenues, gives Alvotech dual US commercialization channels while extending its...",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-alvo/alvotech/news/why-alvotech-alvo-is-up-92-after-150-million-lotus-biosimila",
+        "image": "https://images.simplywall.st/asset/industry/6111000-choice1-main-header/1585186710114",
+        "publishedAt": "2026-08-22T07:34:52Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Breakout Above Key Resistance",
-        "description": "Stacks price prediction analysis shows STX breaking out of a descending wedge with strong volume, eyeing resistance near $0.24 and $0.30 next.",
-        "url": "https://www.coingabbar.com/en/price-prediction/stacks-breakout-analysis-support-resistance-levels-today",
-        "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/stacks-breakout-analysis-support-resistance-levels-today-4815.webp",
-        "publishedAt": "2026-08-22T06:39:00Z",
-        "source": "Coin Gabbar"
+        "title": "3 Nuclear Energy Stocks Backed by Cash and AI Power Demand",
+        "description": "Global bond yields have rebounded as investors weigh debt buyback plans and fiscal pressures, which keeps attention firmly on stable, long term cash flow themes like nuclear energy stocks. Reliable power and predictable project timelines can look appealing when funding costs move around. This article walks through 3 stocks from the Nuclear Energy Stocks screener that show how different parts of the nuclear value chain approach that opportunity.\nThe stocks below are just a starting sample from...",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-smr/nuscale-power/news/3-nuclear-energy-stocks-backed-by-cash-and-ai-power-demand",
+        "image": "https://images.simplywall.st/asset/industry/3052000-choice2-main-header/1585186800829",
+        "publishedAt": "2026-08-22T07:34:52Z",
+        "source": "simplywall.st"
       },
       {
-        "title": "Domestic Investors Drive Nigerian Exchange’s 57% Rally, Signalling Market Resilience - Expert",
-        "description": "As of end-July, the NGX All-Share Index had gained 57 per cent, while total market capitalisation rose by N58.9 trillion to N158.2 trillion. The performance placed Nigeria among the world’s strongest-performing equity markets in dollar terms, according to Bloomberg data.",
-        "url": "https://leadership.ng/domestic-investors-drive-nigerian-exchanges-57-rally-signalling-market-resilience-expert/",
-        "image": "https://leadership.ng/wp-content/uploads/2024/01/NGX-jpg.webp",
-        "publishedAt": "2026-08-22T06:36:06Z",
-        "source": "LEADERSHIP Newspapers"
+        "title": "Japan Flash PMI Signals Near-Record Price Pressures Amid Ongoing Growth Spurt",
+        "description": "The S&P Global Flash PMI data showed Japan’s private sector expansion gathering pace in August, with output growth reaching its second-strongest for over three years.",
+        "url": "https://seekingalpha.com/article/4939309-japan-flash-pmi-signals-near-record-price-pressures-amid-ongoing-growth-spurt",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1499812958/image_1499812958.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-08-22T07:30:00Z",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "PENGASSAN Demands Adequate Protection For Domestic Refineries",
-        "description": "The Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN) has called for sustained government policies and investments to expand Nigeria’s",
-        "url": "https://leadership.ng/pengassan-demands-adequate-protection-for-domestic-refineries/",
-        "image": "https://leadership.ng/wp-content/uploads/2025/10/Dangote-and-Pengassan.jpg",
-        "publishedAt": "2026-08-22T06:34:50Z",
-        "source": "LEADERSHIP Newspapers"
+        "title": "EVN Finance seeks nearly $42 mln in private placement, in talks with more than 5 foreign investors",
+        "description": "EVN Finance (EVF) plans to privately place 85 million shares, potentially raising nearly VND1.1 trillion (over $42 million) and lifting its charter capital to nearly VND8.46 trillion (VND323.67 million).",
+        "url": "https://theinvestor.vn/evn-finance-seeks-nearly-42-mln-in-private-placement-in-talks-with-more-than-5-foreign-investors-d19850.html",
+        "image": "https://t.ex-cdn.com/theinvestor.vn/560w/files/honghanh.nguyen/2026/08/22/2508-evf-142458.jpg",
+        "publishedAt": "2026-08-22T07:26:34Z",
+        "source": "Theinvestor"
       },
       {
-        "title": "Bearish Sentiment Prevails As Equities Market Declines By N2.09trn WoW",
-        "description": "The Nigerian equities closed the week on a five-day losing streak, losing N2.09 trillion as the market was weighed down by sell-offs across key counters.",
-        "url": "https://leadership.ng/bearish-sentiment-prevails-as-equities-market-declines-by-n2-09trn-wow/",
-        "image": "https://leadership.ng/wp-content/uploads/2024/01/NGX-jpg.webp",
-        "publishedAt": "2026-08-22T06:33:15Z",
-        "source": "LEADERSHIP Newspapers"
+        "title": "Manchester Airport security breach LIVE updates after 7 flights diverted and '17 held' as man gets on airfield",
+        "description": "Police were called to the airport after a man 'encroached' the airfield",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-airport-security-breach-live-34500369",
+        "image": "https://i2-prod.manchestereveningnews.co.uk/article34438612.ece/ALTERNATES/s1200d/1_GettyImages-1435587008.jpg",
+        "publishedAt": "2026-08-22T07:23:25Z",
+        "source": "Manchester Evening News"
       },
       {
-        "title": "Zee Entertainment promoter allotted convertible warrants",
-        "description": "Each warrant can later be converted into one equity share of Rs 1 face value, at Rs 126 per share.",
-        "url": "https://www.moneycontrol.com/news/business/markets/zee-entertainment-promoter-allotted-convertible-warrants-14012806.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/02/Zee-1.jpg",
-        "publishedAt": "2026-08-22T06:28:22Z",
-        "source": "Moneycontrol.com"
+        "title": "Lagos housing crises driven by income, finance, land, infrastructure - Report",
+        "description": "LOW household incomes, limited mortgage access, high land and construction costs, infrastructure deficits and inefficient land administration are driving housing unaffordability in Lagos, a new report says. The report was unveiled at the hybrid “Beyond Rent: A Lagos Housing and Capital Forum,” organised by GTI Investment Group in Lagos. The forum had the theme: “Housing,",
+        "url": "https://realnewsmagazine.net/lagos-housing-crises-driven-by-income-finance-land-infrastructure-report/",
+        "image": "https://realnewsmagazine.net/wp-content/uploads/2026/08/image-984.png",
+        "publishedAt": "2026-08-22T07:20:07Z",
+        "source": "Realnews Magazine"
       },
       {
-        "title": "J&K electricity tariff hiked 6.83% from September 1; check new rates",
-        "description": "Electricity consumers across Jammu and Kashmir will face higher power bills from September 1 after the Joint Electricity Regulatory Commission (JERC) approved an average 6.83 per cent increase in the retail supply tariff for 2026-27.",
-        "url": "https://www.greaterkashmir.com/business/jk-electricity-tariff-hiked-683-from-september-1-check-new-rates-12413079",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2024/10/meter.jpeg",
-        "publishedAt": "2026-08-22T06:25:49Z",
-        "source": "Greater Kashmir"
+        "title": "IPAS security guard unfairly dismissed after disclosing safety concerns, WRC finds",
+        "description": "The WRC found You’re Secure Solutions had failed to establish that the alleged misconduct occurred.",
+        "url": "https://www.thejournal.ie/ipas-security-guard-wrc-safety-concerns-7138906-Aug2026/",
+        "image": "https://img2.thejournal.ie/article/7138906/river/?height=400&version=7138910",
+        "publishedAt": "2026-08-22T07:18:00Z",
+        "source": "The Journal"
       }
     ],
     "science": [
+      {
+        "title": "NASA is set to launch a telescope on August 30 that could detect around 100,000 new worlds — more than all previous planet-hunting observatories have found combined — using a camera that captures 100",
+        "description": "Roman's 288-megapixel camera will repeatedly watch 100 million bulge stars, with simulations forecasting around 100,000 transiting planets plus a distinct microlensing census.",
+        "url": "https://spacedaily.com/t-roman-august-30-100000-worlds-100-times-hubble-field/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-spacedaily-roman-kennedy-june-2026.jpg",
+        "publishedAt": "2026-08-22T07:30:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Web of cuteness: Tiny jumping spiders are now social media’s unlikeliest stars",
+        "description": "Jumping spiders are a common variety of spider that lives on every continent except Antarctica and includes at least 6,000 species.",
+        "url": "https://www.thestar.com.my/lifestyle/living/2026/08/22/web-of-cuteness-tiny-jumping-spiders-are-now-social-medias-unlikeliest-stars",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/06/4046608.jpg",
+        "publishedAt": "2026-08-22T07:00:00Z",
+        "source": "The Star"
+      },
       {
         "title": "Trump to honour Artemis II crew for historic mission",
         "description": "Washington, Aug 22: President Donald Trump will award the Congressional Space Medal of Honour to the four astronauts who completed NASA’s Artemis II mission around the Moon, the space agency said...",
@@ -182,88 +198,72 @@
         "image": "https://www.irishtimes.com/resizer/v2/4MPRLQ5AZ5E37IJZ43JTRLYZVA.jpg?smart=true&auth=49d7ed5738afc799c29863b1af207b3f2986276333d3923988bb5994fea3f72e&width=1200&height=630",
         "publishedAt": "2026-08-22T05:03:43Z",
         "source": "The Irish Times"
-      },
-      {
-        "title": "A comet that drifted between the stars for millions or even billions of years before entering our Solar System carries water with roughly 30 times more heavy hydrogen than a typical comet here, sugges",
-        "description": "ALMA and Webb found extreme deuterium enrichment in 3I/ATLAS water, preserving a chemical record of ice formed below roughly 30 kelvin in another planetary system.",
-        "url": "https://spacedaily.com/t-3i-atlas-heavy-water-cold-alien-planetary-system/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/08/alma-spacedaily-3i-atlas-heavy-water.jpeg",
-        "publishedAt": "2026-08-22T05:00:00Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "NASA-led study shows some Earth microbes could survive on the moon",
-        "description": "The finding raises concerns about unintended life transfer to the lunar surface.",
-        "url": "https://www.japantimes.co.jp/news/2026/08/22/world/science-health/nasa-earth-microbes-survive-moon/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/22/558832.JPG?v=3.1",
-        "publishedAt": "2026-08-22T04:58:00Z",
-        "source": "The Japan Times"
       }
     ],
     "ai": [
       {
-        "title": "India’s Private Credit Funds Increasingly Adopt AI For Deal Sourcing And Underwriting: EY",
-        "description": "India’s private credit funds are increasingly using AI for deal sourcing and underwriting, helping improve efficiency, identify opportunities and strengthen investment decision-making.",
-        "url": "https://www.freepressjournal.in/business/indias-private-credit-funds-increasingly-adopt-ai-for-deal-sourcing-and-underwriting-ey",
-        "image": "https://media.assettype.com/freepressjournal/2026-08-22/8ynpn1j9/AI.avif",
-        "publishedAt": "2026-08-22T06:49:18Z",
+        "title": "UK government, Google team up to cut aircraft vapour trails",
+        "description": "A new UK-backed trial will test whether artificial intelligence can steer aircraft away from forming the vapour trails responsible for a significant share of aviation's climate impact.Operation Blue...",
+        "url": "https://www.thenews.com.pk/latest/1413172-uk-launches-5m-ai-trial-to-help-planes-avoid-climate-warming-contrails",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-22/1413172_124028_updates.jpg",
+        "publishedAt": "2026-08-22T07:37:51Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Could AI predict kidney failure years before it happens?",
+        "description": "AI's role is to support clinical judgment by providing early risk assessments, enabling proactive interventions and a shift towards preventive kidney care",
+        "url": "https://www.theweek.in/news/health/2026/08/22/ckd-india-burden-ai-detects-kidney-disease-early-warning-kidney-care-nephrology-support.html",
+        "image": "https://img.theweek.in/content/dam/week/week/news/health/images/2025/4/24/Kidney.jpeg",
+        "publishedAt": "2026-08-22T07:35:42Z",
+        "source": "THE WEEK"
+      },
+      {
+        "title": "Apple cuts 200 jobs across Siri, Vision Pro teams as it shifts focus to AI and new devices",
+        "description": "Apple is cutting more than 200 jobs across its Siri, AI software and Vision Pro teams as it reorganises around an AI-powered Siri and shifts resources toward future products.",
+        "url": "https://theprint.in/tech/apple-cuts-200-jobs-across-siri-vision-pro-teams-as-it-shifts-focus-to-ai-and-new-devices/3022080/",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/465305838-scaled-e1787383785925.jpg",
+        "publishedAt": "2026-08-22T07:32:01Z",
+        "source": "ThePrint"
+      },
+      {
+        "title": "India Attracts ₹4,896 Crore FDI In 29 Projects After Easing Land-Border Investment Rules",
+        "description": "India attracted ₹4,896 crore in foreign direct investment across 29 projects by August 20 after easing FDI rules for entities with limited non-controlling ownership from land-bordering countries. The investments span technology, AI, manufacturing, pharmaceuticals and data centres, as New Delhi seeks to improve investment flows and policy predictability",
+        "url": "https://www.freepressjournal.in/business/india-attracts-4896-crore-fdi-in-29-projects-after-easing-land-border-investment-rules",
+        "image": "https://media.assettype.com/freepressjournal/2026-03-10/ucd8vphc/FDI-1.jpg",
+        "publishedAt": "2026-08-22T07:30:00Z",
         "source": "Free Press Journal"
       },
       {
-        "title": "South Korea Hyundai union stages full strike as talks stall",
-        "description": "SEOUL -- Hyundai Motor's South Korean union staged its first full strike in a decade on Friday after wage talks stalled, as it seeks a higher retirement age and job protections against artificial intelligence and automation.",
-        "url": "https://www.arkansasonline.com/news/2026/aug/22/south-korea-hyundai-union-stages-full-strike-as/",
-        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213494654_2026-08-21T022534Z_2_LYNXMPEM7K03S_RTROPTP_4_USA-TRUMP-TARIFFS-SOUTHKOREA_t1200.JPG?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-        "publishedAt": "2026-08-22T06:45:00Z",
-        "source": "Arkansas Online"
-      },
-      {
-        "title": "India's private credit funds increasingly turn to AI for deal sourcing, underwriting: EY",
-        "description": "India's private credit funds are increasingly adopting artificial intelligence (AI) for deal sourcing, data analysis and credit assessment, with most players using the technology selectively and a smaller group integrating it more deeply into their investment processes, according to an EY report.",
-        "url": "https://www.tribuneindia.com/news/business/indias-private-credit-funds-increasingly-turn-to-ai-for-deal-sourcing-underwriting-ey/",
-        "image": "https://www.tribuneindia.com/sortd-service/assets/v22-12/dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9kZXNpZ246ZmF2aWNvbjJmOGNiY2MwLTQyODktMTFlZi04NjVmLTU3YzNkNjY2OGU0Ng==",
-        "publishedAt": "2026-08-22T06:38:27Z",
-        "source": "The Tribune"
-      },
-      {
-        "title": "From AI hype to real impact: What will it take to stand out at the TOI AI Quotient Awards 2026?",
-        "description": "Artificial intelligence is no longer just a futuristic idea discussed inside technology labs. Across India, AI is increasingly becoming part of how co.",
-        "url": "https://timesofindia.indiatimes.com/life-style/spotlight/from-ai-hype-to-real-impact-what-will-it-take-to-stand-out-at-the-toi-ai-quotient-awards-2026/articleshow/133419043.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133419069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T06:38:00Z",
+        "title": "Meet Colin Jie Chu: The 18-year-old California student who built an AI model to predict when EV batteries are wearing out",
+        "description": "Science News: Colin Jie Chu, an 18-year-old student from Palo Alto, California, spent two years researching one of the hardest problems in electric-vehicle battery .",
+        "url": "https://timesofindia.indiatimes.com/science/meet-colin-jie-chu-the-18-year-old-california-student-who-built-an-ai-model-to-predict-when-ev-batteries-are-wearing-out/articleshow/133416170.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133416191,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-22T07:30:00Z",
         "source": "Times of India"
       },
       {
-        "title": "India's private credit funds increasingly turn to AI for deal sourcing, underwriting: EY",
-        "description": "India's private credit funds are increasingly adopting artificial intelligence (AI) for deal sourcing, data analysis and credit assessment, with most players using the technology selectively and a smaller group integrating it more deeply into their investment processes, according to an EY report.",
-        "url": "https://www.aninews.in/news/business/indias-private-credit-funds-increasingly-turn-to-ai-for-deal-sourcing-underwriting-ey20260822120434/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260822061953-thumbnail-320x180.jfif",
-        "publishedAt": "2026-08-22T06:34:34Z",
-        "source": "ANI (Asian News International)"
+        "title": "TSMC’s 1.6nm A16 to change AI chip race",
+        "description": "TSMC has completed development and verification of its angstrom-class A16 process, a 1.6nm-class node that could enter mass production within months.A report from Liberty Times, cited by Chosun,...",
+        "url": "https://www.thenews.com.pk/latest/1413169-tsmcs-16nm-a16-to-change-ai-chip-race",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-22/1413169_123105_updates.jpg",
+        "publishedAt": "2026-08-22T07:29:50Z",
+        "source": "The News International"
       },
       {
-        "title": "Uber AI charges explained: Why your ride can suddenly cost more and why two passengers may see different fares at the same time",
-        "description": "Discover how Uber uses AI to adjust ride fares in real time based on demand, driver supply, and other factors. Learn why passengers may see different prices for the same ride and what influences those fluctuations.",
-        "url": "https://www.indiatimes.com/trending/uber-ai-charges-explained-why-your-ride-can-suddenly-cost-more-and-why-two-passengers-may-see-different-fares-at-the-same-time/articleshow/133418906.html",
-        "image": "https://staticimg.publishstory.co/thumb/133418941.cms?imgsize=92316&width=1280&height=720&resizemode=8",
-        "publishedAt": "2026-08-22T06:28:31Z",
-        "source": "Indiatimes"
+        "title": "Imperium AI CEO Shazir Mucklai Envisions a Futuristic ‘Mr. & Mrs. Smith’ Reunion for Brad Pitt and Angelina Jolie",
+        "description": "Imperium AI CEO Shazir Mucklai Envisions a Futuristic ‘Mr. & Mrs. Smith’ Reunion for Brad Pitt and Angelina Jolie",
+        "url": "https://techbullion.com/imperium-ai-ceo-shazir-mucklai-envisions-a-futuristic-mr-mrs-smith-reunion-for-brad-pitt-and-angelina-jolie/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/08/image-52-4-1000x600.png",
+        "publishedAt": "2026-08-22T07:26:10Z",
+        "source": "TechBullion"
       },
       {
-        "title": "OpenAI Cuts GPT-5.6 Sol Prices For Developers: How Much Cheaper Is Its AI Model Now?",
-        "description": "OpenAI will cut prices for its frontier GPT-5.6 Sol model by more than 20% for developers for the next three months, according to a Reuters report. The move comes as the ChatGPT maker faces growing competition from Anthropic and Chinese AI models.",
-        "url": "https://www.outlookbusiness.com/corporate/openai-cuts-gpt-56-sol-prices-for-developers-how-much-cheaper-is-its-ai-model-now",
-        "image": "https://media.assettype.com/outlookbusiness/2026-08-22/5vvjl9kg/1684298833-9691.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-22T06:25:47Z",
-        "source": "Outlook Business"
-      },
-      {
-        "title": "OpenAI's GPT-5.6 Sol model is now cheaper for developers",
-        "description": "OpenAI announced a 20% price cut for its advanced GPT-5.6 Sol model, aiming to attract developers amid rising competition from Anthropic and Chinese AI platforms.",
-        "url": "https://www.newsbytesapp.com/news/science/openai-cuts-gpt-5-6-sol-model-prices-by-over-20/story",
-        "image": "https://i.cdn.newsbytesapp.com/images/l200_26781787373142.jpg",
-        "publishedAt": "2026-08-22T06:11:33Z",
-        "source": "NewsBytes"
+        "title": "Price Reset Hits Ai+ Smartphone Lineup",
+        "description": "Revision comes amid sustained increase in component and input costs across the smartphone industry New Delhi, Delhi, India (NewsVoir) Ai+ Smartphone today announced a price revision of Approx Rs 2,000 across select devices in its smartphone portfolio, effective immediately. The...",
+        "url": "https://www.tribuneindia.com/news/business/price-reset-hits-ai-smartphone-lineup-2-2/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZlYmVhYTEwLTlkZmEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-22T07:22:45Z",
+        "source": "The Tribune"
       }
     ]
   }
