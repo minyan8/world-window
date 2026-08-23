@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-23T13:47:11.045Z",
+  "fetchedAt": "2026-08-23T14:42:39.383Z",
   "sections": {
     "world": [
       {
-        "title": "Swedish sword attack victim was 17-year-old girl, police say",
-        "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
-        "publishedAt": "2026-08-23T01:34:15Z",
-        "source": "BBC"
+        "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+        "description": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+        "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-22T162357Z_1881879581_RC2R3NAH52HW_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA-1787454298.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-23T02:42:15Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Swedish sword attack victim was 17-year-old girl, police say",
-        "description": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-        "url": "https://www.bbc.com/news/articles/c8jnjp0lwlwo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
-        "publishedAt": "2026-08-23T01:34:15Z",
-        "source": "BBC"
+        "title": "Atlanta Botanical Garden plans $160M Beltline expansion, direct access by 2028",
+        "description": "The Atlanta Botanical Garden is planning a major expansion that will connect the garden directly to the Atlanta Beltline.",
+        "url": "https://www.atlantanewsfirst.com/2026/08/23/atlanta-botanical-garden-plans-160m-beltline-expansion-direct-access-by-2028/",
+        "image": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/BNBZ6CFOGBA27MRWMAYV5HA6OM.jpg?auth=ed105b9bbf30a3f97c48790e8aa6f9a07f0b07711dcedc73856587ab3d179166&width=1200&height=600&smart=true",
+        "publishedAt": "2026-08-23T02:39:00Z",
+        "source": "Atlanta News First"
       },
       {
-        "title": "M5.9 quake strikes eastern Japan including Tokyo, disrupting trains",
-        "description": "An earthquake with a preliminary magnitude of 5.9 hit eastern Japan early Sunday, causing injuries in prefectures neighboring Tokyo and disrupting transportation, the weather agency and local authorities said.",
-        "url": "https://english.kyodonews.net/articles/-/82841",
-        "image": "https://english-kyodo.ismcdn.jp/mwimgs/a/2/1200x/img_a2d05ad7ab42047901811dea3f1bb7ce270254.jpg",
-        "publishedAt": "2026-08-23T01:31:52Z",
-        "source": "Japan Wire by Kyodo News"
+        "title": "‘Europe won’t get back its ‘normal’ climate - a swift transition from fossil fuels will prevent worse conditions’",
+        "description": "World News: Stefan Rahmstorf is Professor of Physics of the Oceans & Head of Earth System Analysis at the Potsdam Institute. Speaking with Srijana Mitra Das a.",
+        "url": "https://timesofindia.indiatimes.com/europe-wont-get-back-its-normal-climate-a-swift-transition-from-fossil-fuels-will-prevent-worse-conditions/articleshow/133433416.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133433534,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T02:33:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Reform-minded MPs don’t need to hang around, says analyst",
-        "description": "The presence of estranged PKR MPs in the Dewan Rakyat is deemed to make little difference in passing reforms requiring only a simple majority.",
-        "url": "https://www.freemalaysiatoday.com/category/nation/2026/08/23/reform-minded-mps-don-t-need-to-hang-around-says-analyst",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/10/6bcf7f5f-dewan-rakyat-bernama-resize-141025-1.webp",
-        "publishedAt": "2026-08-23T01:30:00Z",
-        "source": "Free Malaysia Today"
+        "title": "‘Wrong-side’ driving trend: 12 deaths in Britain, Ireland linked to social media buzz",
+        "description": "Europe News: Twelve people have died in less than a week in separate crashes in Britain and Ireland involving vehicles being driven on the wrong side of major road.",
+        "url": "https://timesofindia.indiatimes.com/world/europe/wrong-side-driving-trend-12-dead-in-uk-ireland-crashes-amid-social-media-buzz/articleshow/133433338.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133433409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T02:13:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "23 injured as 5.9-magnitude quake rattles eastern Japan, tremors felt in Tokyo",
-        "description": "A magnitude 5.9 earthquake struck eastern Japan early Sunday, injuring at least 23 people, disrupting trains and causing blackouts in Tokyo. No tsunami threat was reported, while power was later restored and nuclear facilities reported no anomalies.",
-        "url": "https://www.indiatoday.in/world/story/59-magnitude-quake-hits-japan-5-injured-blackouts-in-460-homes-in-tokyo-express-train-services-hit-2977773-2026-08-23",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/earth-in-japan-234945943-16x9_0.png?VersionId=Yyl6yKtx1nhSHscRw1podRWlVrrSE6S3",
-        "publishedAt": "2026-08-23T01:24:27Z",
-        "source": "India Today"
+        "title": "N. Korea beach resort draws thousands of domestic tourists",
+        "description": "A beach resort on North Korea's east coast that opened in July last year has drawn thousands of domestic tourists, with facilities significantly expanded.",
+        "url": "https://globalnation.inquirer.net/335577/beach-resort-in-n-korea-draws-thousands-of-domestic-tourists",
+        "image": "https://globalnation.inquirer.net/files/2026/08/Beach-resort-in-N.-Korea-draws-thousands-of-domestic-tourists-scaled.jpeg",
+        "publishedAt": "2026-08-23T02:07:00Z",
+        "source": "Inquirer.net"
       },
       {
-        "title": "37-year-old woman convicted of fraud after posing as a child, living with family",
-        "description": "A 37-year-old Brazil woman was convicted of fraud and false identity after pretending to be a child and living with a family for over a year, officials said.",
-        "url": "https://www.foxnews.com/world/woman-30s-pretended-child-lived-family-found-guilty-fraud",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/oliveira-mug-shot-split.gif",
-        "publishedAt": "2026-08-23T01:22:40Z",
-        "source": "Fox News"
+        "title": "Argentina court overturns nun's acquittal in child sex abuse case",
+        "description": "An Argentinian court has overturned the acquittal of a former nun in a notorious sex abuse case involving deaf children, authorizing a lower court to determine her punishment, according to a ruling obtained by AFP.",
+        "url": "https://philstarlife.com/news-and-views/480851-argentina-court-overturns-nun-acquittal-child-sex-abuse-case",
+        "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Ayie_temp/2026/8-August/8.23/nun%20acquittal%20overturned%20banner.jpg",
+        "publishedAt": "2026-08-23T02:02:07Z",
+        "source": "Philstar Life"
       },
       {
-        "title": "'Couturier of the sacred': Meet the designer who dressed the last 3 popes",
-        "description": "He has created liturgical garments for the last three popes – Benedict XVI, Francis, and now the Chicago-born Leo.",
-        "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/08/23/2551229/couturier-sacred-meet-designer-who-dressed-last-3-popes",
-        "image": "https://media.philstar.com/photos/2026/08/23/filippo-pope-designer-ig_2026-08-23_09-44-46.jpg",
-        "publishedAt": "2026-08-23T01:22:00Z",
-        "source": "Philstar.com"
+        "title": "Amid tensions with Pete Hegseth, US Army secretary Dan Driscoll to step down by year-end: Report",
+        "description": "US News: US Army secretary Dan Driscoll is expected to step down from his position by the end of 2026, or possibly earlier, following months of tension with US.",
+        "url": "https://timesofindia.indiatimes.com/world/us/amid-tensions-with-pete-hegseth-us-army-secretary-dan-driscoll-to-step-down-by-year-end-report/articleshow/133433353.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133433396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T02:01:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "US threatens tougher Iran sanctions, raising pressure on China",
-        "description": "Washington is preparing new sanctions targeting Iran and its trading partners as shipping through the Strait of Hormuz plunges",
-        "url": "https://www.thevibes.com/articles/world/126475/us-threatens-tougher-iran-sanctions-raising-pressure-on-china",
-        "image": "https://media.thevibes.com/images/uploads/covers/_large/US_Sanction_Iran_rt.jpg",
-        "publishedAt": "2026-08-23T01:14:00Z",
-        "source": "The Vibes"
+        "title": "China builds world’s first custom plant immunity system for epidemic response",
+        "description": "Tailored biological tools could enable crops to quickly develop immunity against emerging viruses, bacteria and fungi, researchers say.",
+        "url": "https://www.scmp.com/news/china/science/article/3364933/china-builds-worlds-first-custom-plant-immunity-system-epidemic-response",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/22/f8e9b892-6ac2-4023-86f1-2e93c79ce4c4_597f573c.jpg?itok=TMArYC18&v=1787400898",
+        "publishedAt": "2026-08-23T02:00:10Z",
+        "source": "South China Morning Post"
       }
     ],
     "business": [
       {
-        "title": "Nebius Just Raised $5 Billion in Convertible Notes Against a $1.4 Billion Revenue Base. Are We In a Bubble?",
-        "description": "The AI cloud company borrowed three and a half times its annual revenue in one deal. The terms show what building at its pace costs.",
-        "url": "https://www.fool.com/investing/2026/08/22/nebius-just-raised-usd5-billion-in-convertible-notes-against-a-usd1-4-billion-revenue-base-are-we-in-a-bubble/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F28a79313915b80f01e3459953544816bb7a5a9ac-5272x3948.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-        "publishedAt": "2026-08-23T01:40:02Z",
-        "source": "The Motley Fool"
+        "title": "Lotto: Four players win $250,000 as Powerball jackpot rolls over to $20m on Wednesday",
+        "description": "Four lucky Lotto players have woken up $250,000 richer today. Lotto has revealed where last night’s winning tickets were sold. Nobody was lucky enough to...",
+        "url": "https://www.nzherald.co.nz/nz/lotto-four-players-win-250000-as-powerball-jackpot-rolls-over-to-20m-on-wednesday/ECTMTHLZBRFSPJGZACOVDNLALE/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/YXGCCNTGTZBF3FV4GI45NHP7U4.JPG?auth=10429dbeda7e86a9f4e19ffd4d7ca7e6df02afc7c8ff1766407734c8516b9fcf&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-08-23T02:41:54Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-        "description": "Capital is voting with its feet.",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/F3ECA86F4465F123A15394545DFD32E9FBA2FD88733F38C91D5123700A40DAA4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F787b6d99fa317f5296ec4375e2ed263b.jpg",
-        "publishedAt": "2026-08-23T01:37:00Z",
+        "title": "Tesla gears up to launch Cybercab ‘robotaxi’ with no steering wheel or pedals",
+        "description": "NEW YORK, Aug 23 — Electric vehicle-maker Tesla is teasing the upcoming debut of its self-driving robotaxi, dubbed “Cybercab,” to compete with the likes of Uber and Waymo.The...",
+        "url": "https://www.malaymail.com/news/money/2026/08/23/tesla-gears-up-to-launch-cybercab-robotaxi-with-no-steering-wheel-or-pedals/232360",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/23/358406.jpg",
+        "publishedAt": "2026-08-23T02:34:57Z",
+        "source": "Malay Mail"
+      },
+      {
+        "title": "Morgan Stanley Direct Lending Stock: High Safety Margin Non-Accrual Challenges (NYSE:MSDL)",
+        "description": "Morgan Stanley Direct Lending Fund (MSDL) trades 21% below NAV amid dividend and asset-quality worries.",
+        "url": "https://seekingalpha.com/article/4939378-morgan-stanley-direct-lending-high-safety-margin-despite-non-accrual-challenges",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178335816/image_2178335816.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-08-23T02:33:57Z",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Canadian High Commission seeks stronger ties with MTN Nigeri",
+        "description": "The Canadian High Commission is strengthening business, technology, and investment collaboration with MTN Nigeria, exploring new partnerships and economic",
+        "url": "https://punchng.com/canadian-high-commission-seeks-stronger-ties-with-mtn-nigeria/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/22205302/Canadian-High-Commision-Visit-to-MTN_1787428382.webp",
+        "publishedAt": "2026-08-23T02:32:36Z",
+        "source": "Punch Newspapers"
+      },
+      {
+        "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
+        "description": "Tesla Inc. is recalling 2.98 million vehicles in China, its largest recall ever in the country, because passengers may be unable to find and use the emergency door releases after a crash cuts power. Bloomberg has identified at least 15...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/54971A2EC8AA2719EF98818DF0CFEC47B07077F635A79AAD509FFA6A60917A79/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fa44747e235f94328706566540fb09d04.jpg",
+        "publishedAt": "2026-08-23T02:31:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Pilot reports possible burn injuries after passenger's laptop catches fire on American Airlines flight",
-        "description": "\"I think we have about four to five passengers that were burned by the laptop,\" a pilot can be heard saying in air traffic control audio obtained by CBS News.",
-        "url": "https://www.cbsnews.com/news/laptop-catches-fire-american-airlines-flight-dallas-atlanta/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/28/a4f58263-a399-4f66-8e06-dc8921517ff1/thumbnail/1200x630/e89418a7f8c3e1bdfab3d3597cae016d/gettyimages-2272819697.jpg",
-        "publishedAt": "2026-08-23T01:34:09Z",
-        "source": "CBS News"
+        "title": "Sandisk (SNDK) Stock Sees Fair Value Lift After Investor Day And Earnings",
+        "description": "Sandisk’s updated fair value estimate has moved from US$1,772.91 to US$2,126.17 in the latest model, which is roughly a 20% uplift in the price target. This reset lines up with the recent surge in analyst attention after investor day and earnings, as firms weigh Sandisk’s long term growth framework against what is already reflected in the stock. Read on to see how to interpret these shifts and how to follow the evolving narrative around Sandisk from here. Analyst Price Targets don't always...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-stock-sees-fair-020804936.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/E1CD4D8B1C95950577A18FDEF937CDE243183F25BDB1D4265D4293FDE4837181/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F4ede54afa2108a12bdee07c0b0d94a59.jpg",
+        "publishedAt": "2026-08-23T02:08:00Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Chartist Talk: Sudeep Shah explains why August high is crucial for Nifty's uptrend; bullish on 1 midcap, 1 smallcap for next week",
-        "description": "For the coming week, 24,350-24,400 will remain a crucial resistance zone. A sustained move above this band could revive bullish momentum and open the door for a stronger upmove in Nifty 50.",
-        "url": "https://www.moneycontrol.com/news/business/markets/chartist-talk-sudeep-shah-explains-why-august-high-is-crucial-for-nifty-s-uptrend-bullish-on-1-midcap-1-smallcap-for-next-week-14013068.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2025/06/20250628203800_Sudeep_Shah1.jpg",
-        "publishedAt": "2026-08-23T01:32:51Z",
-        "source": "Moneycontrol.com"
+        "title": "Four Star Largest Warehouse Sale has up to 90% off more than 1,000 items to clear",
+        "description": "If you've just collected the keys to your new home or are looking to furnish your dream bedroom, now it's the perfect time to upgrade your sleep essentials without breaking the bank.For four days only, Four Star is bringing its Largest Warehouse Sale to SAFRA Choa Chu Kang. This pop-up sale has up to 90 per cent off premium mattresses,...",
+        "url": "https://www.asiaone.com/lifestyle/four-star-largest-warehouse-sale",
+        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/Safra%20CCK_AsiaOne%20hero%20image.png?itok=u7HXTrs_",
+        "publishedAt": "2026-08-23T02:00:00Z",
+        "source": "AsiaOne"
       },
       {
-        "title": "Equity, debt or gold? What 25 years of data reveals about the best asset allocation for investors",
-        "description": "FundsIndia’s 25-year analysis compares different combinations of equity, debt and gold to see how asset allocation affects returns and portfolio volatility. The 70:15:15 mix delivered a 15% average seven-year return and crossed 10% annualised returns in 92% of rolling periods.",
-        "url": "https://www.livemint.com/money/personal-finance/equity-debt-or-gold-what-25-years-of-data-reveals-about-the-best-asset-allocation-for-investors-11787419715482.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/Gemini_Generated_Image_ogb9nbogb9nbogb9_1787420221029_1787420231572_ea8f74d0-65e0-4e3a-baaa-1fb7ac66f102.png",
-        "publishedAt": "2026-08-23T01:32:41Z",
-        "source": "livemint.com"
-      },
-      {
-        "title": "WINNING | SM links transparency to community impact strategy",
-        "description": "The SM Group is strengthening the link between corporate transparency and community engagement, positioning clearer reporting and locally focused programs as complementary parts of its long-term business strategy.",
-        "url": "https://insiderph.com/winning-sm-links-transparency-to-community-impact-strategy",
-        "image": "https://insiderph.com/uploads/articles/thumb_mvp-edc-could-be-a-good-addition-to-meralco-says-no-talks-with-lopez-family-1-800x600.webp?v=1",
-        "publishedAt": "2026-08-23T01:31:41Z",
-        "source": "InsiderPH"
-      },
-      {
-        "title": "Tech Engineers IPO GMP, Grey Market Premium Today",
-        "description": "Hy-Tech Engineers IPO GMP today. Find out Hy-Tech Engineers IPO grey market premium, kostak, subject to sauda rates with expected listing gain.",
-        "url": "https://ipowatch.in/hy-tech-engineers-ipo-gmp-grey-market-premium/",
-        "image": "https://ipowatch.in/wp-content/uploads/2026/08/hy-tech-engineers-ipo.jpg",
-        "publishedAt": "2026-08-23T01:25:08Z",
-        "source": "IPO Watch"
-      },
-      {
-        "title": "'All investors and employees made money': At-Bay CEO defends $575 million sale",
-        "description": "Israeli cyber insurer At-Bay is being sold to Munich Re for $575 million; CEO Rotem Iram says the deal rewards investors, employees and years of growth",
-        "url": "https://www.ynetnews.com/business/article/rjoyotppmg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/S1Zuq6vvzx/S1Zuq6vvzx_0_0_1024_576_0_large.jpg",
-        "publishedAt": "2026-08-23T01:24:36Z",
-        "source": "Ynetnews"
+        "title": "DeepSeek unveils test model to rival Anthropic’s Opus 4.8",
+        "description": "DeepSeek unveiled an experimental AI model that can understand visual prompts, saying the tool nears the performance of an advanced model by US rival Anthropic PBC.",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/23/deepseek-unveils-test-model-to-rival-anthropics-opus-48",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4073120.jpg",
+        "publishedAt": "2026-08-23T02:00:00Z",
+        "source": "The Star"
       }
     ],
     "science": [
+      {
+        "title": "Scientists Discover a Bizarre New Way Life Can Make DNA… Without DNA",
+        "description": "To replicate information, life usually has fairly straightforward ways of doing things.",
+        "url": "https://www.sciencealert.com/scientists-discover-a-bizarre-new-way-life-can-make-dna-without-dna",
+        "image": "https://www.sciencealert.com/images/2026/08/1999_Escherichia-coli.jpg",
+        "publishedAt": "2026-08-23T02:00:46Z",
+        "source": "ScienceAlert"
+      },
+      {
+        "title": "Strange Quantum Oscillations Reveal New Physics in an Exotic Material",
+        "description": "Experiments and theoretical analysis show that under extreme magnetic fields, electrons in zirconium pentatelluride behave in an unusual way that points to a topological origin rather than interactions among many particles.",
+        "url": "https://scitechdaily.com/strange-quantum-oscillations-reveal-new-physics-in-an-exotic-material/",
+        "image": "https://scitechdaily.com/images/Quantum-Physics-String-Theory-Crop-777x518.jpg",
+        "publishedAt": "2026-08-23T01:54:34Z",
+        "source": "SciTechDaily"
+      },
+      {
+        "title": "Biologists who necropsied 75 bats found dead under wind turbines in southern Alberta counted 32 with visible injuries and 69 with blood pooled in their chests, because the pressure drop behind a passi",
+        "description": "Wind turbines are killing bats with invisible wounds, crushing their lungs from the inside with pressure waves alone.",
+        "url": "https://spacedaily.com/b-biologists-who-necropsied-75-bats-found-dead-under-wind-turbines-in-southern-alberta-counted-32-with-visible-injuries-and-69-with-blood-pooled-in-their-chests-because-the-pressure-drop-behind-a-pass/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/bat-flying.png",
+        "publishedAt": "2026-08-23T01:50:47Z",
+        "source": "Space Daily"
+      },
       {
         "title": "Surveys at the Ivanpah solar site in the Mojave predicted at most 32 desert tortoises, and crews then unearthed close to 1,000, halted construction for three months and spent 56 million dollars reloca",
         "description": "When surveyors predicted 32 desert tortoises at a massive solar site, they missed nearly 1,000—and a microchipped juvenile that ended up in an eagle's nest.",
@@ -174,96 +198,72 @@
         "image": "https://spacedaily.com/wp-content/uploads/2026/08/spacedaily-titan-north-polar-rivers-seas-pia10008.jpg",
         "publishedAt": "2026-08-23T00:09:41Z",
         "source": "Space Daily"
-      },
-      {
-        "title": "Europe's Next-Gen Rocket Concept Could Be Way More Efficient Than SpaceX's Starship",
-        "description": "A team from Europe has proposed a rocket that is similarly sized to the Starship, but with a winged booster that can glide and be caught mid-air.",
-        "url": "https://www.bgr.com/2238957/europe-rlv-c5-vs-spacex-starship-plan/",
-        "image": "https://www.bgr.com/img/gallery/europes-next-gen-rocket-concept-could-be-way-more-efficient-than-spacexs-starship/l-intro-1787055349.jpg",
-        "publishedAt": "2026-08-22T23:17:00Z",
-        "source": "bgr.com"
-      },
-      {
-        "title": "Sweat may cool the body less than expected in hot, dry and windless conditions",
-        "description": "Sweat evaporation heat risk may rise in hot, dry, windless air when competing air currents slow the body’s cooling.",
-        "url": "https://www.thebrighterside.news/post/sweat-may-cool-the-body-less-than-expected-in-hot-dry-and-windless-conditions/",
-        "image": "https://www.thebrighterside.news/uploads/2026/08/shutterstock_2773725565-1.jpg?auto=webp",
-        "publishedAt": "2026-08-22T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "Frozen in rock 100m years later after predators became prey",
-        "description": "Frozen in rock has been a scene that could have been rejected by Jurassic Park script writers as ‘too much’.",
-        "url": "https://newscop.com.au/2026/08/23/frozen-100m-years-predators-turn-prey/",
-        "image": "https://newscop.com.au/wp-content/uploads/2026/08/BOB-Ptero-Platy-Krono-Cretaceous-Reconst-web.jpg",
-        "publishedAt": "2026-08-22T23:00:36Z",
-        "source": "NewsCop"
       }
     ],
     "ai": [
       {
-        "title": "Why Persistent Memory Is Becoming the Real Competitive Advantage in Roleplay AI",
-        "description": "The category will not be won by the largest character catalog alone. It will be won by products that can preserve history, support experimentation, and give users control over what persists.",
-        "url": "https://techbullion.com/why-persistent-memory-is-becoming-the-real-competitive-advantage-in-roleplay-ai/",
-        "image": "https://techbullion.com/wp-content/uploads/2025/03/Screenshot-2026-08-23-130854.png",
-        "publishedAt": "2026-08-23T01:45:50Z",
-        "source": "TechBullion"
+        "title": "State to launch AI-based farming pilot project with 10,000 participants in Phase 1",
+        "description": "Nilesh Nalawade, CEO of the Agricultural Development Trust, Baramati, spoke at the meeting about a successful AI-based sugarcane farming project undertaken in Baramati | Mumbai news",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/state-to-launch-ai-based-farming-pilot-project-with-10-000-participants-in-phase-1-101787422744970.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/22/1600x900/logo/-p-State-to-launch-AI-based-farming-pilot-project-_1787422742731.jpg",
+        "publishedAt": "2026-08-23T02:39:30Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Imitation isn’t the sincerest form of flattery",
-        "description": "ost-generative AI is so clever that plagiarism can no longer be reliably detected, as long as the user asks ChatGPT to paraphrase the content. If the Ardays’ of this world are allowed to flourish unheeded, the future means endless, tired regurgitations of stuff that already exists.",
-        "url": "https://indianexpress.com/article/opinion/columns/imitation-isnt-the-sincerest-form-of-flattery-10845494/",
-        "image": "https://images.indianexpress.com/2026/08/OnePlus-8_20260823012043.jpg",
-        "publishedAt": "2026-08-23T01:38:44Z",
-        "source": "The Indian Express"
+        "title": "TISS, IIT-Bombay team up for AI and society centre",
+        "description": "The announcement was made during the convocation, attended by chief guest Dr C S Pramesh, director of Tata Memorial Hospital | Mumbai news",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/tiss-iit-bombay-team-up-for-ai-and-society-centre-101787422564683.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/22/1600x900/logo/Debasmita-Das--receiving-the-silver-medal-and-best_1787422562668.jpeg",
+        "publishedAt": "2026-08-23T02:38:10Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Nvidia reportedly warns some of its biggest customers about upcoming price hike of AI servers by 15%: Details",
-        "description": "Chipmaker Nvidia is set to increase prices of its AI servers by 15 per cent as memory chip costs soar. The increase could complicate data center expansion plans, while giving memory makers greater leverage and potentially creating opportunities for Nvidia’s rivals.",
-        "url": "https://www.livemint.com/companies/news/nvidia-reportedly-warns-some-of-its-biggest-customers-about-upcoming-price-hike-of-ai-servers-by-15-details-11787447183614.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/USA-CHINA-NVIDIA-0_1787447382122_1787447401344_085e8aa4-f4da-4ff3-9ab2-008f125b9b90.JPG",
-        "publishedAt": "2026-08-23T01:19:20Z",
-        "source": "Livemint"
+        "title": "Juicy yields pull junk bond 'tourists' towards high-grade AI debt",
+        "description": "The fact that investment-grade rated projects are tapping junk debt investors to get at least some bond deals done underscores the feverish competition for capital",
+        "url": "https://www.business-standard.com/markets/news/juicy-yields-pull-junk-bond-tourists-towards-high-grade-ai-debt-126082300058_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/23/thumb/featurecrop/1200X628/1787452580-903.jpg",
+        "publishedAt": "2026-08-23T02:36:17Z",
+        "source": "Business Standard"
       },
       {
-        "title": "What are companies getting for all that AI spending?",
-        "description": "A new field of 'tokenomics' has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/23/what-are-companies-getting-for-all-that-ai-spending",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4044309.jpg",
-        "publishedAt": "2026-08-23T01:00:00Z",
-        "source": "The Star"
+        "title": "Nvidia AI server prices set to rise over 15% amid soaring chip costs",
+        "description": "The price hikes will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips",
+        "url": "https://www.business-standard.com/world-news/nvidia-ai-server-prices-set-to-rise-over-15-amid-soaring-chip-costs-126082300056_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/23/thumb/fitandfill/1200X628/1787452077-2316.jpg",
+        "publishedAt": "2026-08-23T02:30:04Z",
+        "source": "Business Standard"
       },
       {
-        "title": "Mumbai: MMRDA To Appoint Independent Engineer To Monitor 8.85-Km Kurla-Bandra POD Taxi Project Construction Quality",
-        "description": "MMRDA plans to appoint an independent engineer to monitor construction quality and execution of the 8.85-km Kurla-Bandra POD Taxi project. The AI-powered driverless system will have 22 stations, with Phase-I covering 3.36 km. The ₹21-per-km system is projected to serve 1.09 lakh daily riders by 2031.",
-        "url": "https://www.freepressjournal.in/mumbai/mumbai-mmrda-to-appoint-independent-engineer-to-monitor-885-km-kurla-bandra-pod-taxi-project-construction-quality",
-        "image": "https://media.assettype.com/freepressjournal/2026-08-23/79h6u31x/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-23T061029.789.jpg",
-        "publishedAt": "2026-08-23T00:41:36Z",
+        "title": "Ambi Parameswaran On Six Decades Of Indian Advertising, Influencer Mania And The Future Of Brand Building",
+        "description": "The veteran adman reflects on six decades of brand building, the limits of influencer marketing, the power of cultural insights and what it takes to create enduring brands in the age of AI",
+        "url": "https://www.freepressjournal.in/lifestyle/ambi-parameswaran-on-six-decades-of-indian-advertising-influencer-mania-and-the-future-of-brand-building",
+        "image": "https://media.assettype.com/freepressjournal/2026-08-22/x3101wb3/LITAmby-2.jpeg",
+        "publishedAt": "2026-08-23T02:25:00Z",
         "source": "Free Press Journal"
       },
       {
-        "title": "US Army trains AI agents for cyber missions as humans keep control over the risks machines cannot handle alone",
-        "description": "US Army gives AI agents cyber jobs, but humans have the final say",
-        "url": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
-        "image": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png",
-        "publishedAt": "2026-08-23T00:20:00Z",
-        "source": "TechRadar"
+        "title": "This CEO's AI agent burned $1,000 while he was having dinner. He says that's not the real problem",
+        "description": "Maxio CEO Branden Jenkins was surprised to discover that his AI coding session had automatically charged him $1,000 over a weekend. But he says the bigger challenge of AI adoption is not runaway spending — it is employees worrying they are falling behind.",
+        "url": "https://www.livemint.com/news/trends/this-ceos-ai-agent-burned-1-000-while-he-was-having-dinner-he-says-thats-not-the-real-problem-11787450354788.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/1781099778527_1787450954342_1787450961005_d03d04d3-338b-483c-a5ea-22164a6d4a03.jpeg",
+        "publishedAt": "2026-08-23T02:20:08Z",
+        "source": "Livemint"
       },
       {
-        "title": "6X AI load, Rs 12,000 cr in orders: 2 firms wiring India and US data centres",
-        "description": "AI is reshaping the data centre race. One company targets India’s buildout, while another rides the US hyperscaler boom. But with a valuation gap, which offers the better opportunity?",
-        "url": "https://www.financialexpress.com/market/stock-insights/6x-ai-load-rs-12000-cr-in-orders-2-firms-wiring-india-and-us-data-centres/4323326/",
-        "image": "https://images.financialexpressdigital.com/2026/08/datqas.jpg",
-        "publishedAt": "2026-08-23T00:00:00Z",
-        "source": "The Financial Express"
+        "title": "Apple cutting hundreds more jobs in shift toward AI",
+        "description": "Apple is cutting over 200 jobs across its Siri and Vision Pro teams to realign resources for advanced generative AI and smart glasses development.",
+        "url": "https://nypost.com/2026/08/22/business/apple-cutting-hundreds-more-jobs-in-shift-toward-ai/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/comp-apple.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-08-23T02:16:28Z",
+        "source": "New York Post"
       },
       {
-        "title": "India must become an AI creator, not just a user: Delhi CM Gupta",
-        "description": "business reporter : india must transform itself into a creator of artificial intelligence rather than remain merely a consumer of it, delhi chief minister rekha gupta said on saturday.\nshe was speaking as chief guest at the 41st con",
-        "url": "https://www.thehitavada.com/Encyc/2026/8/23/india-must-become-an-ai-creator-not-just-a-user-delhi-cm-gupta.html",
-        "image": "https://www.thehitavada.com/Encyc/2026/8/23/13_202608230941090959_H@@IGHT_523_W@@IDTH_1285.png",
-        "publishedAt": "2026-08-23T00:00:00Z",
-        "source": "The Hitavada"
+        "title": "AI Compute Emerges as 'Second Commodity' Traded Like Crude Oil",
+        "description": "Graphics processing units (GPUs) that power artificial intelligence (AI) computation are expected to evolve into commodities traded on benchmark and futures",
+        "url": "https://www.europesays.com/3210125/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzhkNDYwMDA1LWE5ZDQtNDBhNC05MDU4.jpeg",
+        "publishedAt": "2026-08-23T02:08:17Z",
+        "source": "EUROPE SAYS"
       }
     ]
   }
