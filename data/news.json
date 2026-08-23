@@ -1,140 +1,172 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-23T20:41:45.141Z",
+  "fetchedAt": "2026-08-23T21:38:16.471Z",
   "sections": {
     "world": [
       {
-        "title": "Amazake gains year-round popularity in Japan and overseas",
-        "description": "KUMAGAYA: Amazake, a Japanese fermented rice drink, is seeing increasing popularity year-round, including as a chilled drink during the hot summer. It is also being increasingly used for regional revitalisation and being sold as a local speciality, as well as playing a role in introducing Japanese food culture overseas",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/23/amazake-gains-year-round-popularity-in-japan-and-overseas",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4073850.jpg",
-        "publishedAt": "2026-08-23T08:41:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "Lesufi admits Gauteng government failed to properly manage immigration and demand",
-        "description": "Reflecting on his province, Lesufi admitted that those in power had underestimated the work needed.",
-        "url": "https://www.citizen.co.za/news/south-africa/elections/lesufi-admits-gauteng-government-failed-to-manage-immigration-and-demand/",
-        "image": "https://media.citizen.co.za/wp-content/uploads/2026/02/Panyaza-Lesufi-Amapanyaza.jpg",
-        "publishedAt": "2026-08-23T08:26:41Z",
-        "source": "The Citizen"
-      },
-      {
-        "title": "Sybiha welcomes leaders of six European countries to Kyiv",
-        "description": "Foreign Minister Andrii Sybiha welcomed the leaders of six European countries and other senior officials who arrived in Kyiv ahead of Ukraine’s Independence Day at the city’s railway station — Ukrinform.",
-        "url": "https://www.ukrinform.net/rubric-polytics/4156801-sybiha-welcomes-leaders-of-six-european-countries-to-kyiv.html",
-        "image": "https://static.ukrinform.com/photos/2026_08/thumb_files/630_360_1787471452-483.jpeg",
-        "publishedAt": "2026-08-23T08:25:00Z",
-        "source": "Ukrinform"
-      },
-      {
-        "title": "CrossCountry cancels 'almost all' UK services after power cut",
-        "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
-        "url": "https://ca.news.yahoo.com/train-cancelled-across-uk-power-082016300.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/32d1954fec04f5a9bef7025bfa74b7e30c1749f17e9393bbca8c9faf5fd6b30e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1cd6c770502fe0924ee1822707e4faf6.jpg",
-        "publishedAt": "2026-08-23T08:20:16Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "Lavrov - NATO and To the European Union: An attempt to \"get away\" from military assistance to Kiev will not work",
-        "description": "EADaily, August 23rd, 2026. NATO countries and The European Union will not be able to publicly \"excuse\" itself in advance from providing military assistance to Ukraine and pursuing a Russophobic line. This was stated by Russian Foreign Minister Sergei Lavrov.",
-        "url": "https://eadaily.com/en/news/2026/08/23/lavrov-nato-and-to-the-european-union-an-attempt-to-get-away-from-military-assistance-to-kiev-will-not-work",
-        "image": "https://img3.eadaily.com/r650x400/o/23b/86b49eed289e39ce22a1488cdb1ae.jpeg",
-        "publishedAt": "2026-08-23T08:20:00Z",
-        "source": "EADaily"
-      },
-      {
-        "title": "Man arrested for drink driving, driving without licence after accident in Geylang",
-        "description": "SINGAPORE: A 34-year-old man was arrested for allegedly drink driving and driving without a valid licence after an accident in Geylang on Aug 23.",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/23/man-arrested-for-drink-driving-driving-without-licence-after-accident-in-geylang",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4073826.jpeg",
-        "publishedAt": "2026-08-23T08:20:00Z",
-        "source": "The Star"
-      },
-      {
-        "title": "Elderly far more at risk from rising heat than thought: study",
-        "description": "The threat that rising temperatures fueled by climate change pose to the health of older people has been dramatically underestimated.",
-        "url": "https://www.philstar.com/lifestyle/health-and-family/2026/08/23/2551247/elderly-far-more-risk-rising-heat-thought-study",
-        "image": "https://media.philstar.com/photos/2024/04/02/10_2024-04-02_19-39-57.jpg",
-        "publishedAt": "2026-08-23T08:18:00Z",
-        "source": "Philstar.com"
-      },
-      {
-        "title": "Zelensky says wartime elections would 'split' Ukraine",
-        "description": "President Volodymyr Zelensky said wartime elections would currently be too dangerous for Ukraine, after a call by his former defence minister to organise a vote.",
-        "url": "https://www.rte.ie/news/ukraine/2026/0823/1588900-ukraine-russia/",
-        "image": "https://www.rte.ie/images/0024e258-1600.jpg",
-        "publishedAt": "2026-08-23T08:17:17Z",
+        "title": "Tributes to UK police officers killed in wrong-way crash",
+        "description": "Tributes have been paid to two British police officers who were killed in a wrong-way collision in which five other people also died.",
+        "url": "https://www.rte.ie/news/uk/2026/0823/1588903-middlesbrough-crash/",
+        "image": "https://www.rte.ie/images/0024e25c-1600.jpg",
+        "publishedAt": "2026-08-23T09:37:47Z",
         "source": "RTE.ie"
+      },
+      {
+        "title": "Zelensky has 'questions to answer' on corruption, Mykhailo Fedorov tells BBC",
+        "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "url": "https://www.bbc.com/news/articles/cwy4ypzvd7po",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+        "publishedAt": "2026-08-23T09:37:05Z",
+        "source": "BBC"
+      },
+      {
+        "title": "AFRICA 4.0 Awards 2026 Open Nominations for Africa’s Leading Industry 4.0 Innovators",
+        "description": "The AFRICA 4.0 Awards 2026 have officially opened nominations, offering a prestigious continental platform to recognize individuals transforming Africa’s",
+        "url": "https://www.globalsouthopportunities.com/2026/08/23/awards-4/",
+        "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/08/Africa-4.0.png",
+        "publishedAt": "2026-08-23T09:35:00Z",
+        "source": "Global South Opportunities"
+      },
+      {
+        "title": "‘The demand is massive’: Lesufi defends ANC record on service delivery ahead of manifesto launch",
+        "description": "ANC Gauteng convener Panyaza Lesufi has conceded that the party needs to improve service delivery, while arguing that its record of infrastructure development cannot be overlooked ahead of the local government elections.",
+        "url": "https://iol.co.za/news/politics/2026-08-23-the-demand-is-massive-lesufi-defends-anc-record-on-service-delivery-ahead-of-manifesto-launch/",
+        "image": "https://iol-prod.appspot.com/image/260dc681d44c39c1cfa4985d91f62fd2cd2d4200/1000/jpeg",
+        "publishedAt": "2026-08-23T09:30:00Z",
+        "source": "IOL"
+      },
+      {
+        "title": "Trump's 'new US territory' claim on Hormuz is 'bluff and bluster': Foreign affairs expert Robinder Sachdev",
+        "description": "Foreign affairs expert Robinder Sachdev dismissed Donald Trump's claims on the Strait of Hormuz as \"bluff and bluster,\" highlighting that US strategy has shifted toward severe economic sanctions. Washington is enforcing strict trade measures targeting Iranian oil, imports, and regional trading partners like the UAE, Iraq, and Turkey.",
+        "url": "https://www.aninews.in/news/world/asia/trumps-new-us-territory-claim-on-hormuz-is-bluff-and-bluster-foreign-affairs-expert-robinder-sachdev20260823145807/",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260823092745-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-08-23T09:28:00Z",
+        "source": "ANI News"
+      },
+      {
+        "title": "Canada retaliates as trade war with US escalates",
+        "description": "US President Donald Trump hit back at Canada on Sunday, saying, \"Canada wants the benefits of being a State, without being one!!!\"",
+        "url": "https://www.vanguardngr.com/2026/08/canada-retaliates-as-trade-war-with-us-escalates/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-102529.jpg",
+        "publishedAt": "2026-08-23T09:26:39Z",
+        "source": "Vanguard News"
+      },
+      {
+        "title": "Tourism Malaysia Wins PATA Gold Award 2026 for “Surreal Experiences”",
+        "description": "By Rafiq Vayani KUCHING: Tourism Malaysia continues to earn international acclaim after securing a PATA Gold Award 2026 at this year’s official presentation ceremony organised by the Pacific Asia Travel Association (PATA). The award was presented yesterday at the PATA Gold Awards 2026 Gala Dinner, held in conjunction with the PATA Travel Mart (PTM) 2026 …",
+        "url": "https://www.biztoday.news/2026/08/23/tourism-malaysia-wins-pata-gold-award-2026-for-surreal-experiences/",
+        "image": "https://www.biztoday.news/wp-content/uploads/2026/08/8ba0fa11-905f-4a4d-86cb-5a7db52e39d7.webp",
+        "publishedAt": "2026-08-23T09:24:47Z",
+        "source": "Biz Today"
+      },
+      {
+        "title": "Miss Universe defends Fatima Bosch amid Nawat Itsaragrisil row",
+        "description": "The organization stands by its reigning queen.",
+        "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/08/23/2551250/miss-universe-defends-fatima-bosch-amid-nawat-itsaragrisil-row",
+        "image": "https://media.philstar.com/photos/2026/08/23/mixcollage-23-aug-2026-05-05-pm-81_2026-08-23_17-06-40.jpg",
+        "publishedAt": "2026-08-23T09:17:00Z",
+        "source": "Philstar.com"
       }
     ],
     "business": [
       {
-        "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth-Is Amazon Finally Catching Up?",
-        "description": "According to Rosenblatt’s Scott Devitt, Amazon (NASDAQ:AMZN)’s leading position in artificial intelligence remains underappreciated. This bold claim was made in a recent research note on August 19, where Devitt initiated coverage on the stock with a $335 price target. The firm anticipates AWS to exit 2026 at a 45% growth rate, compared with the Street’s […]",
-        "url": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/05C63EF43F53877C4E3949E7AB2BEE09F021A67228B72486D597ACF6D4FFF4C8/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F912573c6f9ee1d138f17f4bc114d18ed.jpg",
-        "publishedAt": "2026-08-23T08:41:05Z",
+        "title": "Samsung Exynos 2700 Shows Impressive Performance Against Snapdragon Chips",
+        "description": "Samsung next-generation Exynos 2700 processor has reportedly performed better than Qualcomm’s upcoming flagship Snapdragon chips",
+        "url": "https://www.phoneworld.com.pk/samsung-exynos-2700-shows-impressive-performance-against-snapdragon-chips/",
+        "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/08/Samsung-Exynos-2700-Snapdragon-chips.jpg",
+        "publishedAt": "2026-08-23T09:37:44Z",
+        "source": "PhoneWorld"
+      },
+      {
+        "title": "Oman inflation rises 3.2% in July, led by food prices",
+        "description": "JEDDAH: Oman’s inflation rate rose 3.2 percent year on year in July, while average inflation stood at 2.9 percent in the first seven months of the year, according to official data. Data from the National Centre for Statistics and Information showed that food and non-alcoholic beverages recorded the highest annual increase among the main consumer price categories, rising 7.3",
+        "url": "https://www.arabnews.pk/node/2655589/business-economy",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/23/4743601-1357529196.jpg?itok=dZGXUQHn",
+        "publishedAt": "2026-08-23T09:33:44Z",
+        "source": "Arab News PK"
+      },
+      {
+        "title": "Revealed: The NSW universities using AI in lectures and as ‘study buddies’",
+        "description": "AI simulations of patients for nursing students, an avatar of a course convener and an “academic support assistant” who answers questions about a course are among the latest developments.",
+        "url": "https://www.smh.com.au/national/revealed-the-nsw-universities-using-ai-in-lectures-and-as-study-buddies-20260820-p60q16.html",
+        "image": "https://static.ffx.io/images/$zoom_0.13703416149068323%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f44d5dd132a426490cbbe8890436b3b0f58a59f1",
+        "publishedAt": "2026-08-23T09:30:00Z",
+        "source": "SMH.com.au"
+      },
+      {
+        "title": "How a Saudi Acquisition Could Reshape This Pipe Maker's Revenue Mix",
+        "description": "The first overseas acquisition of a three-decade-old line pipe manufacturer supported by seasoned investor Ashish Kacholia has been completed, and the June-quarter figures only represent a small portion of what management anticipates.",
+        "url": "https://tradebrains.in/ashish-kacholia-portfolio-stock-how-a-saudi-acquisition-could-reshape-this-pipe-makers-revenue-mix/",
+        "image": "https://tradebrains.in/wp-content/uploads/2024/12/Ashish-Kacholia-2.jpg",
+        "publishedAt": "2026-08-23T09:30:00Z",
+        "source": "Trade Brains"
+      },
+      {
+        "title": "Zcash Crypto Clocks New All-Time High as ETF Hype Triggers Excitement",
+        "description": "Zcash crypto hit a new all-time high as ETF hopes fueled momentum. Can ZEC sustain the rally, or is a retracement ahead?",
+        "url": "https://www.thecoinrepublic.com/2026/08/23/zcash-crypto-clocks-new-all-time-high-as-etf-hype-triggers-excitement/",
+        "image": "https://www.thecoinrepublic.com/wp-content/uploads/2026/08/1HVxz5Tdeem41IkO03SdktV3721ilpqsp.jpeg",
+        "publishedAt": "2026-08-23T09:30:00Z",
+        "source": "The Coin Republic"
+      },
+      {
+        "title": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
+        "description": "When you start saving is just as important as how much you’re saving. But if you’re off to a late start, you can still boost your savings.",
+        "url": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/4F07F0452D1942255979A4748BFD17504EDD1BBBF20CCC1D9907809D18F9202B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F86fbc9b39efd46c4867cb728106231b9.jpg",
+        "publishedAt": "2026-08-23T09:30:00Z",
         "source": "Yahoo Finance"
       },
       {
-        "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
-        "description": "APIA, Samoa, Aug. 23, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle: Token Economics, Capital Expenditure, and the Repricing of Risk-Reward Across U.S. AI Equities. Its central argument is that the AI industry and AI equities are not at the same point in their respective cycles - technological diffusion remains in its early stages while capital expenditure, valuations, and investor sentiment have moved well ahead of it.",
-        "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/pr-newswire/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle/2410481",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/23/1186924.jpg",
-        "publishedAt": "2026-08-23T08:38:41Z",
-        "source": "The Manila Times"
+        "title": "Centre steps up push to replace LPG with PNG in households",
+        "description": "The ministry said officials of the Department of Food and Civil Supplies are best placed to provide this support because of their existing regulatory interface with LPG distributors",
+        "url": "https://www.moneycontrol.com/news/india/centre-steps-up-push-to-replace-lpg-with-png-in-households-14013221.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260604103402_xfCfxfffdd.jpg",
+        "publishedAt": "2026-08-23T09:25:16Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Housing costs soar across major African cities, as urban growth outpaces supply",
-        "description": "Housing costs are climbing rapidly across Africa's major capitals, as accelerating urbanisation continues to outstrip the supply, and placing increasing",
-        "url": "https://thenationonlineng.net/housing-costs-soar-across-major-african-cities-as-urban-growth-outpaces-supply/",
-        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/23093634/Screenshot-2026-08-23-094024.jpg",
-        "publishedAt": "2026-08-23T08:37:30Z",
-        "source": "The Nation Newspaper"
-      },
-      {
-        "title": "Volvo EC40 devilishly fast EV with just the right old school touches",
-        "description": "The Volvo EC40 is one seriously powerful performance electric vehicle which still features a traditional car-like setup for the driver.",
-        "url": "https://www.citizen.co.za/motoring/volvo-ec40-road-test-review/",
-        "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/volvo-ec40-front.jpg",
-        "publishedAt": "2026-08-23T08:36:41Z",
-        "source": "The Citizen"
-      },
-      {
-        "title": "‘It’s now or never’: why investors are still betting big on Israeli tech",
-        "description": "Team8 partner Ori Barzilay says war has turned Israeli resilience into proof, as global investors chase AI winners and founders aim to build companies worth billions",
-        "url": "https://www.ynetnews.com/business/article/hyxjamuvfg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/09/r1ZpFePEQxx/r1ZpFePEQxx_0_31_1000_563_0_large.jpg",
-        "publishedAt": "2026-08-23T08:34:42Z",
-        "source": "Ynetnews"
-      },
-      {
-        "title": "President Donald Trump Claims Fuel Prices Are \"Tumbling Down,\" but Trumpflation Has Become a Broad-Based Problem",
-        "description": "Energy prices aren't the headline inflation story any longer.",
-        "url": "https://www.fool.com/investing/2026/08/23/trump-prices-are-tumbling-trumpflation-broad-based/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883823%2Fpresident-donald-trump-wh-bw-photo-press-conference-daniel-torok.jpg&w=1200&op=resize",
-        "publishedAt": "2026-08-23T08:33:08Z",
-        "source": "The Motley Fool"
-      },
-      {
-        "title": "American billionaires are on a farmland buying spree that risks pricing actual farmers out",
-        "description": "Mark Zuckerberg and Alexis Ohanian have become amateur yeoman, but other one-percenters may be putting actual farmers at a disadvantage.",
-        "url": "https://fortune.com/2026/08/23/american-billionaires-buying-farmland-alternative-asset-pricing-farmers-out/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2274976883-e1787339152919.jpg?resize=1200,600",
-        "publishedAt": "2026-08-23T08:30:00Z",
-        "source": "Fortune"
-      },
-      {
-        "title": "Free Skills Alert: FG Opens Application Portal for AI, Makeup and Fashion Design Training",
-        "description": "Nigerians can now apply for free training in AI, fashion design, and makeup under the NPRGS programme, aimed at boosting employment and entrepreneurship for youth.",
-        "url": "https://www.legit.ng/business-economy/industry/1726745-free-skills-alert-fg-opens-application-portal-ai-makeup-fashion-design-training/",
-        "image": "https://cdn.legit.ng/images/1200x675/0393f3e98f7e1cfd.jpeg?v=1",
-        "publishedAt": "2026-08-23T08:27:42Z",
-        "source": "Legit News"
+        "title": "Zondacrypto collapse leaves founder missing, CEO abroad",
+        "description": "Zondacrypto faces a Polish fraud investigation after its shutdown stranded customers and exposed estimated losses above $95 million.",
+        "url": "https://crypto.news/zondacrypto-collapse-leaves-founder-missing/",
+        "image": "https://media.crypto.news/2023/02/crypto-news-investigation.webp",
+        "publishedAt": "2026-08-23T09:23:07Z",
+        "source": "Crypto News"
       }
     ],
     "science": [
+      {
+        "title": "Psychology says people who fill every spare moment with noise — podcasts, playlists, background television — aren't distracted or disorganised, they're often quietly managing a loneliness they haven't",
+        "description": "The constant hum of podcasts and playlists may feel like preference, but it might reveal something we're avoiding: the discomfort of our own company.",
+        "url": "https://siliconcanals.com/d-psychology-says-people-who-fill-every-spare-moment-with-noise-podcasts-playlists-background-television-arent-distracted-or-disorganised-theyre-often-quietly-managing-a-lonel/",
+        "image": "https://siliconcanals.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-23T123413.250.png",
+        "publishedAt": "2026-08-23T09:15:21Z",
+        "source": "Silicon Canals"
+      },
+      {
+        "title": "Japan to launch historic MMX Mission on October 20, 2026; Check time, location and mission details here",
+        "description": "Japan is preparing to launch its MMX mission on October 20, 2026, to collect samples from Phobos, one of Mars’ two moons. If successful, the mission could return the first material from the Martian system to Earth.",
+        "url": "https://www.moneycontrol.com/science/japan-to-launch-historic-mmx-mission-on-october-20-2026-check-time-location-and-mission-details-here-article-14013191.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260823085723_Japan-fr.png",
+        "publishedAt": "2026-08-23T09:02:01Z",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Space News: Hubble solves merger mystery from Milky Way’s early years",
+        "description": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from NASA’s Hubble Space Telescope shows definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution.",
+        "url": "https://www.lakeconews.com/85243-space-news-hubble-solves-merger-mystery-from-milky-ways-early-years",
+        "image": "https://lakeconews.com/images/Admin/og-lucerne.jpg",
+        "publishedAt": "2026-08-23T08:53:43Z",
+        "source": "Lake County News,California"
+      },
+      {
+        "title": "Rapidly spinning stars may explain fading flares from black holes: Study",
+        "description": "The new study suggests that this changes if the star was already rotating rapidly before its first encounter.",
+        "url": "https://www.tbsnews.net/top-news/rapidly-spinning-stars-may-explain-fading-flares-black-holes-study-1522416",
+        "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/08/23/screenshot_2026-08-23_144215.png",
+        "publishedAt": "2026-08-23T08:45:00Z",
+        "source": "The Business Standard"
+      },
       {
         "title": "Starlink satellite fleet reaches 11,000 in orbit, Elon Musk says",
         "description": "SpaceX CEO Elon Musk has announced on social media that the number of satellites in the company’s Starlink constellation in orbit has reached 11,000.",
@@ -166,104 +198,72 @@
         "image": "https://static.toiimg.com/thumb/msid-133403364,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-08-23T08:20:00Z",
         "source": "The Times of India"
-      },
-      {
-        "title": "The Sky Today on Sunday, August 23: Double star Zeta Coronae Borealis",
-        "description": "Seek out this easy-to-split but complex multiple star system in the Northern Crown, visible in the evening sky.",
-        "url": "https://www.astronomy.com/observing/the-sky-today-sunday-august-23-2026/",
-        "image": "https://www.astronomy.com/wp-content/uploads/2026/08/ZCrB-chart.png?resize=1200,630",
-        "publishedAt": "2026-08-23T08:00:46Z",
-        "source": "Astronomy Magazine"
-      },
-      {
-        "title": "'A winter run left me dead on a mountainside'",
-        "description": "Tommy Price remembers nothing of the day he was found face down in the snow on a mountain with no heartbeat - here's how he survived",
-        "url": "https://metro.co.uk/2026/08/23/a-winter-run-left-dead-a-mountainside-29269748/",
-        "image": "https://metro.co.uk/wp-content/uploads/2026/08/tommy-price-a-winter-run-left-me-dead-on-a-mountainside_1787228842.png?w=1200&h=630&crop=1",
-        "publishedAt": "2026-08-23T07:50:00Z",
-        "source": "Metro.co.uk"
-      },
-      {
-        "title": "SpaceX launches 27 Starlink satellites on 100th Falcon mission of 2026",
-        "description": "The mission carried 27 Starlink satellites into low Earth orbit, further expanding SpaceX’s internet constellation.",
-        "url": "https://indianexpress.com/article/technology/science/spacex-launches-27-starlink-satellites-on-100th-falcon-mission-of-2026-10845781/",
-        "image": "https://images.indianexpress.com/2026/08/Falcon-9-1.jpg",
-        "publishedAt": "2026-08-23T07:38:10Z",
-        "source": "The Indian Express"
-      },
-      {
-        "title": "Fossil study suggests ancient crocodiles evolved to be cold-blooded only after a mass extinction",
-        "description": "The researchers argue that earlier members of the crocodile lineage were likely warm-blooded for a significant period.",
-        "url": "https://www.yahoo.com/news/science/articles/fossil-study-suggests-ancient-crocodiles-061800951.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/40d46095ed78149052593e08a6e3cf5c6fc287fae6fe271c950c7cbe029635a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5e9f3328d4e04de53d367585c492c7be.jpg",
-        "publishedAt": "2026-08-23T06:18:00Z",
-        "source": "Yahoo"
       }
     ],
     "ai": [
       {
-        "title": "A lawsuit says Oura’s sleep stages are AI guesses with a coin flip’s odds",
-        "description": "A proposed class action says Oura's sleep stages are AI guesses. The Finnish parent is a named defendant, months before the company's planned US listing.",
-        "url": "https://thenextweb.com/news/oura-sleep-tracking-accuracy-class-action-lawsuit",
-        "image": "https://media.thenextweb.com/2026/08/oura-sleep-tracking-accuracy-class-action-lawsuit.jpg",
-        "publishedAt": "2026-08-23T08:40:47Z",
-        "source": "TNW"
+        "title": "New York surpasses San Francisco as US's top tech hub",
+        "description": "New York has surpassed San Francisco as the leading hub for tech talent, driven by a surge in AI-related roles that now dominate U.S",
+        "url": "https://www.newsbytesapp.com/news/business/new-york-tops-tech-talent-market-rankings/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l271_18541787460734.jpg",
+        "publishedAt": "2026-08-23T09:36:32Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
-        "description": "APIA, Samoa, Aug. 23, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle: Token Economics, Capital Expenditure, and the Repricing of Risk-Reward Across U.S. AI Equities. Its central argument is that the AI industry and AI equities are not at the same point in their respective cycles - technological diffusion remains in its early stages while capital expenditure, valuations, and investor sentiment have moved well ahead of it.",
-        "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/pr-newswire/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle/2410481",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/23/1186924.jpg",
-        "publishedAt": "2026-08-23T08:38:41Z",
-        "source": "The Manila Times"
+        "title": "Data Centers 'Dug Their Own Grave'",
+        "description": "Sunday on ABC's \"This Week,\" Gov. Greg Abbott (R-TX) said AI data centers have \"dug their own grave\" by not working in collaboration with local | Clips",
+        "url": "https://www.breitbart.com/clips/2026/08/23/governor-abbott-data-centers-dug-their-own-grave/",
+        "image": "https://media.breitbart.com/media/2026/05/Abbott582026-640x335.jpg",
+        "publishedAt": "2026-08-23T09:36:21Z",
+        "source": "Breitbart News Network"
       },
       {
-        "title": "Austrian mountain town finds niche in AI boom",
-        "description": "Nestled in the wooded hills of Austria's Styria region, the town of Leoben oozes tradition with its pastel-coloured buildings and quaint central square",
-        "url": "https://www.europesays.com/3210678/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/0024e253-1600.jpg",
-        "publishedAt": "2026-08-23T08:37:22Z",
-        "source": "EUROPE SAYS"
+        "title": "After Suffolk backlash, colleges face a question: How much AI is too much?",
+        "description": "Suffolk University's new optional AI co-major sparked student backlash. What does it mean about higher education's place right now?",
+        "url": "https://www.masslive.com/education/2026/08/higher-education-is-trying-to-stay-relevant-with-ai-some-students-dont-want-it.html",
+        "image": "https://www.masslive.com/resizer/v2/Q7D4T7CPNNHVLNXLHZ5BQRYEJY.jpeg?auth=7449dc1fd0eb1de2509acc1b9c02348488c528f1cee38542f1542b9846f07e37&width=1280&smart=true&quality=90",
+        "publishedAt": "2026-08-23T09:36:00Z",
+        "source": "MassLive"
       },
       {
-        "title": "American politicians who once fought for data centers are now trashing them; Texas Senator makes chatbot that tells why state electricity bills are up",
-        "description": "Tech News News: US political figures who previously competed to bring massive artificial intelligence (AI) data hubs to their states are reversing course, are distanc.",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-politicians-who-once-fought-for-data-centers-are-now-trashing-them-texas-senator-makes-chatbot-that-tells-why-state-electricity-bills-are-up/articleshow/133436850.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133436864,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-23T08:34:00Z",
-        "source": "Times of India"
+        "title": "Meet Ox Alpha, mysterious free AI model drawing developers",
+        "description": "Ox Alpha, an enigmatic AI model with a 1-million-token context window, is attracting developers worldwide after debuting for free on OpenRouter",
+        "url": "https://www.newsbytesapp.com/news/science/ox-alpha-mysterious-ai-model-gaining-traction-among-developers/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l58520260823144828.png",
+        "publishedAt": "2026-08-23T09:34:46Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "Asia is reaching for the open road that Chinese AI offers",
-        "description": "Countries seeking sovereign AI want to control their own AI capabilities rather than rent them from a foreign platform.",
-        "url": "https://www.scmp.com/opinion/asia-opinion/article/3364157/asia-reaching-open-road-chinese-ai-offers",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2026/08/15/0dc2d963-9b8c-46ff-88c7-2a8674b52e44_25f5b9c0.jpg?itok=CisGhub4&v=1786803133",
-        "publishedAt": "2026-08-23T08:30:06Z",
-        "source": "South China Morning Post"
+        "title": "‘AI has changed what I loved’: Software engineer says AI is making coding less meaningful",
+        "description": "A software engineer explains why AI coding may be making developers faster but less engaged with their work. | Trending",
+        "url": "https://www.hindustantimes.com/trending/ai-has-changed-what-i-loved-software-engineer-says-ai-is-making-coding-less-meaningful-101787473779553.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/23/1600x900/logo/Untitled_design_1787474089507_1787474093117_9a3f87fc-d718-4eec-a1df-cf3d33a63ab2.png",
+        "publishedAt": "2026-08-23T09:34:00Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
-        "description": "/PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle:...",
-        "url": "https://www.prnewswire.co.uk/news-releases/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle-302857766.html",
-        "image": "https://mmx.prnewswire.com/media/MS1974029/20260823035140EDT_image_1.jpg?id=OA2904301&p=facebook",
-        "publishedAt": "2026-08-23T08:27:00Z",
-        "source": "PR Newswire UK"
+        "title": "Alibaba to raise $10B via share sale for AI purposes",
+        "description": "Alibaba announced plans to raise HK$80 billion (US$10.2 billion) through a Hong Kong share placement, aiming to accelerate advancements in artificial intelligence development.",
+        "url": "https://www.newsbytesapp.com/news/business/alibaba-to-raise-hk-80bn-for-ai-purposes/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l10420260823134144.jpeg",
+        "publishedAt": "2026-08-23T09:33:49Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "Meet Peter Fernández Dulay, the Florida eighth-grader who asked four AI generators what scientists look like; only 17.4% of the images showed women alone",
-        "description": "US News: Peter Fernández Dulay’s younger sister asked an AI tool to draw a scientist and hoped to see someone who looked like the scientists she might be one d.",
-        "url": "https://timesofindia.indiatimes.com/world/us/meet-peter-fernndez-dulay-the-florida-eighth-grader-who-asked-four-ai-generators-what-scientists-look-like-only-17-4-of-the-images-showed-women-alone/articleshow/133411746.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133411776,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-23T08:23:00Z",
-        "source": "Times of India"
+        "title": "AI creating more jobs than destroying them in India",
+        "description": "AI is boosting job creation in India, but entry-level hiring is shrinking as companies prioritize experienced professionals, according to a Nomura report.",
+        "url": "https://www.newsbytesapp.com/news/business/how-ai-is-affecting-job-creation-in-india/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l97820260823124603.jpeg",
+        "publishedAt": "2026-08-23T09:32:50Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-        "description": "A senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial",
-        "url": "https://www.europesays.com/3210651/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/1787473113_3333.jpg",
-        "publishedAt": "2026-08-23T08:18:26Z",
-        "source": "EUROPE SAYS"
+        "title": "World's first custom immunity system for plants is here",
+        "description": "Chinese scientists have developed an AI-driven platform to engineer synthetic immune receptors in plants, enabling rapid responses to emerging diseases threatening crops worldwide.",
+        "url": "https://www.newsbytesapp.com/news/science/ai-can-help-design-plant-immune-receptors-to-tackle-diseases/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l75920260823122210.jpeg",
+        "publishedAt": "2026-08-23T09:32:21Z",
+        "source": "NewsBytes"
       }
     ]
   }
