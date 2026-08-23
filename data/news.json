@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-23T04:05:46.358Z",
+  "fetchedAt": "2026-08-23T04:53:46.114Z",
   "sections": {
     "world": [
       {
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "url": "https://www.bbc.com/news/articles/cx272np7vgyo",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg",
-        "publishedAt": "2026-08-22T16:05:04Z",
-        "source": "BBC"
+        "title": "South Korea sending first container ship through Arctic route",
+        "description": "PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.",
+        "url": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-22T021423Z_1123172128_RC2E3NAR9D7C_RTRMADP_3_SOUTHKOREA-SHIPPING-ARCTIC-1787413991.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-22T16:49:20Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Deleted tweets show Natalie Harp’s zealous support for Trump on Jan. 6",
-        "description": "Years before Natalie Harp became a key White House aide to President Donald Trump, she posted more than 150 tweets demonstrating extraordinary devotion to him on January 6, 2021.",
-        "url": "https://www.cnn.com/2026/08/22/politics/deleted-tweets-trump-aide-natalie-harp-jan-6-invs",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2259777988.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-22T16:00:29Z",
+        "title": "Trump gloats over ballroom construction with new photo after Supreme Court allows him to keep on building - for now",
+        "description": "Photo revealed first floor of the new ballroom nearing completion, with walls going up on second floor",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ballroom-construction-supreme-court-b3037557.html",
+        "image": "https://static.independent.co.uk/2026/08/22/16/06/16a724c8d949a6d1.jpg?trim=48,0,49,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-22T16:49:00Z",
+        "source": "The Independent"
+      },
+      {
+        "title": "How Gulf investors could turn Indonesia’s Halmahera Island into a cleaner island, and out of Israel’s reach",
+        "description": "Halmahera is an island in Indonesia’s North Maluku province. It holds the country’s largest known reserve of nickel, a metal the world wants very much now because it is used in electric…",
+        "url": "https://www.middleeastmonitor.com/20260822-how-gulf-investors-could-turn-indonesias-halmahera-island-into-a-cleaner-island-and-out-of-israels-reach/",
+        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/02/2048px-Corner_of_Halmahera_Island-e1771061578267.jpg?fit=920%2C613&ssl=1",
+        "publishedAt": "2026-08-22T16:49:00Z",
+        "source": "Middle East Monitor"
+      },
+      {
+        "title": "What Is Holding It Back?",
+        "description": "Africa tourism investment faces a new reality in 2026 as visa access improves. See what's blocking FDI and where the biggest opportunities are.",
+        "url": "https://eturbonews.com/africa-tourism-investment-2026/",
+        "image": "https://eturbonews.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=3158952&type=eturbonews&hash=17dbe4d73b5313556f69ae3a87307b7e",
+        "publishedAt": "2026-08-22T16:40:29Z",
+        "source": "eTurboNews"
+      },
+      {
+        "title": "10 killed in Russian and Ukrainian attacks a day after fatal shopping mall drone strike",
+        "description": "Russian drone and missile strikes killed at least seven people in Ukraine, officials said Saturday, while a Ukrainian drone attack on Russia’s Krasnodar region killed three people there.",
+        "url": "https://nypost.com/2026/08/22/world-news/10-killed-in-russian-and-ukrainian-attacks-a-day-after-fatal-shopping-mall-drone-strike/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138190934.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-08-22T16:38:00Z",
+        "source": "New York Post"
+      },
+      {
+        "title": "Canada will impose retaliatory tariffs on US, prime minister says",
+        "description": "Negotiations over the United States' newly announced tariffs on Canada have fallen apart, as Canadian Prime Minister Mark Carney says the countries won't \"return to our old relationship\".",
+        "url": "https://www.abc.net.au/news/2026-08-23/canada-to-impose-retaliatory-tariffs-on-us-goods/107067920",
+        "image": "https://live-production.wcms.abc-cdn.net.au/3e508911d2b3d2a18ec38b48fda4dadc?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=134&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-22T16:28:51Z",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Karen Solomon: Arrest warrant issued amid search after officer husband found dead, chief says",
+        "description": "Police issued an arrest warrant for a Massachusetts woman in connection with the death of her police officer husband earlier this week.",
+        "url": "https://www.cnn.com/2026/08/22/us/karen-solomon-arrest-warrant-search",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-29634085.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-22T16:28:09Z",
         "source": "CNN"
       },
       {
-        "title": "Makerere's Prof Kasaija calls for stronger Africa",
-        "description": "Africa must strengthen its diplomatic interventions by pairing its peace initiatives with detailed and practical proposals if the continent is to have greater influence in resolving conflicts beyond its borders, a Makerere University professor has said.",
-        "url": "https://www.newvision.co.ug/category/education/makereres-prof-kasaija-calls-for-stronger-afr-NV_239273_082026",
-        "image": "https://newvision-media.s3.amazonaws.com/cms/c2ecaf7d-3036-4d94-af90-6ab9ad46c008.jpg",
-        "publishedAt": "2026-08-22T16:00:05Z",
-        "source": "NewVision.co.ug"
-      },
-      {
-        "title": "120 delegates from across East Asia: Cebu to host tourism forum",
-        "description": "Cebu is set to welcome around 120 delegates from across East Asia as it hosts the 19th East Asia Inter-Regional Tourism Forum (EATOF) General Assembly from September 2 to 4, 2026.",
-        "url": "https://www.philstar.com/the-freeman/cebu-news/2026/08/23/2551213/120-delegates-across-east-asia-cebu-host-tourism-forum",
-        "image": "https://media.philstar.com/images/filler/3-logo-filler-thumbnail.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "Philstar.com"
-      },
-      {
-        "title": "Slow boat to Amsterdam ships Caribbean cargo using sail power",
-        "description": "AMSTERDAM — Gliding into the port of Amsterdam under full sail with a booty of 40 tons of Caribbean rum, coffee and cocoa, the twin-masted Tres Hombres looks like something from the heyday of 17th-century piracy.",
-        "url": "https://www.manilatimes.net/2026/08/23/world/americas-emea/slow-boat-to-amsterdam-ships-caribbean-cargo-using-sail-power/2410326",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/22/1186547.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "China mulls bid to host 2028 UN climate talks: sources",
-        "description": "China is mulling a bid to host UN climate talks in 2028, two sources familiar with the matter said on Friday, as it seeks to burnish its reputation as a leader in the fight against global warming.Beijing has not yet made a final decision regarding the proposal for the COP33 summit, the sources said,",
-        "url": "https://www.taipeitimes.com/News/front/archives/2026/08/23/2003862969",
-        "image": "https://img.taipeitimes.com/images/2026/08/23/P01-260823-307.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "Taipei Times"
-      },
-      {
-        "title": "Russia’s Putin says Ukraine opened ‘Pandora’s box’ with strikes on economic targets",
-        "description": "Putin said Russia would hit back at Ukraine’s “most sensitive economic sectors”. Read more at straitstimes.com.",
-        "url": "https://www.straitstimes.com/world/europe/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b0fdbbf58d937971a689802ebbda998a57bcb2c71210db6a7d222bb4df3bc908",
-        "publishedAt": "2026-08-22T15:57:55Z",
-        "source": "The Straits Times"
-      },
-      {
-        "title": "Former Mossad official: Turkey's military power could pose a threat to Israel",
-        "description": "\"Neither side is interested in a military confrontation, certainly not at the present time. That is completely contrary to Erdogan's outlook,\" a former Mossad counterterror chief told 103FM.",
-        "url": "https://www.jpost.com/middle-east/article-906258",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715830",
-        "publishedAt": "2026-08-22T15:57:47Z",
-        "source": "The Jerusalem Post"
+        "title": "Canadian PM slams trade 'war' launched by US",
+        "description": "Canadian Prime Minister Mark Carney has accused the US of launching a trade war after failed negotiations.",
+        "url": "https://www.rte.ie/news/world/2026/0822/1588822-canada-us-trade-deal/",
+        "image": "https://www.rte.ie/images/0024e1aa-1600.jpg",
+        "publishedAt": "2026-08-22T16:25:44Z",
+        "source": "RTE.ie"
       }
     ],
     "business": [
       {
-        "title": "APAC consumers lead in digital use - survey",
-        "description": "CONSUMERS in Asia-Pacific reported higher levels of digital activity and awareness of cybercrime risks than their global counterparts, according to a Kaspersky survey whose results were announced during the company’s APAC Cyber Security Weekend in Guangzhou, China.",
-        "url": "https://www.manilatimes.net/2026/08/23/business/sunday-business-it/apac-consumers-lead-in-digital-use-survey/2410280",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-08-22T16:03:00Z",
+        "title": "Record investor surge in new home construction follows tax changes",
+        "description": "A $6bn follow up to Anthony Albanese’s negative gearing budget attack has led to a grim warning for the nation’s housing supply.",
+        "url": "https://www.realestate.com.au/news/record-investor-surge-in-new-home-construction-follows-tax-changes/",
+        "image": "https://dam-assets.au.reastatic.net/image/upload/v1787338956/news-lifestyle-content-assets/wp-content/production/capi_0be6cbd5f1521c6d909692635b72ea5e_c7475a2d0deb35f628d23bc173913b5b.jpg",
+        "publishedAt": "2026-08-22T16:52:30Z",
+        "source": "realestate.com.au"
+      },
+      {
+        "title": "Unifor, General Motors reach tentative deal for thousands of Ontario auto workers",
+        "description": "Unifor announced a tentative labour deal Saturday for its members at GM's Ontario plants. Union officials said the agreement, if ratified, will improve wages and benefits.",
+        "url": "https://globalnews.ca/news/12031388/general-motors-unifor-tentative-deal/",
+        "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176731544.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+        "publishedAt": "2026-08-22T16:51:40Z",
+        "source": "Global News"
+      },
+      {
+        "title": "Former Stone Brewing employees in Escondido laid off as new owner moves production",
+        "description": "Stone Brewing and Bumble Bee Foods announce layoffs.",
+        "url": "https://www.latimes.com/business/story/2026-08-21/stone-brewing-bumble-bee-foods-layoffs",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/95c5f28/2147483647/strip/true/crop/2400x1260+0+143/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F5e%2F3cc7f30a4284a864ee1bd6fe603b%2F163374-fo-0117-stonebrew-10.jpg",
+        "publishedAt": "2026-08-22T16:49:00Z",
+        "source": "Los Angeles Times"
+      },
+      {
+        "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
+        "description": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
+        "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6937747c047dd55d391174f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-22T16:47:51Z",
+        "source": "Forbes"
+      },
+      {
+        "title": "MARCO ROBINSON WINS THE I-PROPERTY PEOPLE’S CHOICE BEST REAL ESTATE INVESTMENT COMPANY",
+        "description": "London, United Kingdom, Aug. 22, 2026 (GLOBE NEWSWIRE) -- **media[1186767]**",
+        "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/globenewswire/marco-robinson-wins-the-i-property-peoples-choice-best-real-estate-investment-company/2410421",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/23/1186765.png",
+        "publishedAt": "2026-08-22T16:37:08Z",
         "source": "The Manila Times"
       },
       {
-        "title": "Mega Sardines takes Filipino brand to US mainstream market",
-        "description": "Mega Sardines takes Filipino brand to US mainstream market",
-        "url": "https://www.manilatimes.net/2026/08/23/the-sunday-times/filipino-champions/mega-sardines-takes-filipino-brand-to-us-mainstream-market/2410350",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/22/1186628.jpeg",
-        "publishedAt": "2026-08-22T16:03:00Z",
-        "source": "The Manila Times"
+        "title": "JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: \"Margin Debt Is the Highest It Has Ever Been.\" Should Investors Be Worried?",
+        "description": "Jamie Dimon is just calling it as he sees it, and investors should probably be worried by what he sees.",
+        "url": "https://www.fool.com/investing/2026/08/22/jpmorgan-chase-ceo-jamie-dimon-dropped-a-9-word-wa/",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883272%2Fjamie-dimon_jpmorgan-chase_jpm_chairman-ceo_imagesource_jpmorgan-chase-co.jpg&w=1200&op=resize",
+        "publishedAt": "2026-08-22T16:35:08Z",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Insurance penetration, density rise in Q2 2026 - IC",
-        "description": "THE Philippines’ insurance penetration rose to 1.96 percent in the second quarter of 2026, up from 1.79 percent from the same period last year, based on the latest Insurance Commission (IC) data.",
-        "url": "https://www.manilatimes.net/2026/08/23/business/insurance-penetration-density-rise-in-q2-2026-ic/2410316",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/22/1186536.jpg",
-        "publishedAt": "2026-08-22T16:03:00Z",
-        "source": "The Manila Times"
+        "title": "More buses to return after CT4N ceased trading",
+        "description": "Three services previously run by Community Transport for Nottingham will run from Monday.",
+        "url": "https://www.bbc.co.uk/news/articles/czjlxm7wdzwo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c47/live/914f78d0-b632-11f0-aa13-0b0479f6f42a.png",
+        "publishedAt": "2026-08-22T16:33:04Z",
+        "source": "BBC"
       },
       {
-        "title": "Tech giants Oracle, AWS expand database collaboration",
-        "description": "TECH giants Oracle and Amazon Web Services (AWS) have expanded a long-term strategic collaboration aimed at accelerating customer migration to Oracle databases on AWS, as the companies broadened the availability and capabilities of their joint database offering.",
-        "url": "https://www.manilatimes.net/2026/08/23/business/sunday-business-it/tech-giants-oracle-aws-expand-database-collaboration/2410278",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-08-22T16:01:00Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "Tariffs raised prices you paid. But most businesses won’t be passing tariffs refunds back to you",
-        "description": "Tariff refunds were a windfall for US businesses in their most recent quarter. But for American consumers, not so much.",
-        "url": "https://www.cnn.com/2026/08/22/business/tariffs-refunds-companies-consumers",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2278708187.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-22T16:00:29Z",
-        "source": "CNN"
-      },
-      {
-        "title": "IPMAN commends Dangote over free petrol distribution to states",
-        "description": "The Independent Petroleum Marketers Association of Nigeria (IPMAN) has commended Dangote Petroleum Refinery for extending its free petrol distribution scheme to Imo, Anambra and other states, saying the initiative will ease the financial and operational challenges faced by independent petroleum marketers.",
-        "url": "https://www.vanguardngr.com/2026/08/man-commends-dangote-over-free-petrol-distribution-to-states/",
-        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/12/image-167-1024x539.png",
-        "publishedAt": "2026-08-22T16:00:17Z",
-        "source": "Vanguard News"
-      },
-      {
-        "title": "Asia-Pacific central banks form task force against digital scams",
-        "description": "The Bangko Sentral ng Pilipinas and other central banks in Asia-Pacific are forming a task force to strengthen information sharing against digital scams as financial authorities step up cooperation on emerging risks to the financial system.",
-        "url": "https://www.philstar.com/business/2026/08/23/2551065/asia-pacific-central-banks-form-task-force-against-digital-scams",
-        "image": "https://media.philstar.com/photos/2026/08/22/4_2026-08-22_18-21-47.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "Philstar.com"
-      },
-      {
-        "title": "SM Group bags 12 Stevies for reporting, community programs",
-        "description": "The SM Group of the Sy family earned numerous recognitions for parent-company reporting and programs delivered through its malls and communities.",
-        "url": "https://www.philstar.com/business/2026/08/23/2551056/sm-group-bags-12-stevies-reporting-community-programs",
-        "image": "https://media.philstar.com/photos/2026/08/22/10_2026-08-22_17-55-07.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "Philstar.com"
+        "title": "Spur Protocol Daily Quiz Answer 23 August 2026: Get Token",
+        "description": "Find today's Spur Protocol Daily Quiz Answer for 23 August 2026 and earn free tokens. Play the quiz in the app now and claim your crypto reward.",
+        "url": "https://www.coingabbar.com/en/crypto-currency-news/spur-protocol-daily-quiz-answer-23-august-2026",
+        "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/August2026/spur-protocol-daily-quiz-answer-23-august-2026-3516.webp",
+        "publishedAt": "2026-08-22T16:30:00Z",
+        "source": "Coin Gabbar"
       }
     ],
     "science": [
+      {
+        "title": "Another eclipse over Spain on 28 August: where and how to see the Moon almost completely covered",
+        "description": "Spain will turn its eyes to the sky just 16 days after the historic total solar eclipse. On 28 August a partial lunar eclipse of magnitude 0.93 will be visible across the country and will not require special eye protection.",
+        "url": "https://www.euronews.com/next/2026/08/22/another-eclipse-over-spain-on-28-august-where-and-how-to-see-the-moon-almost-completely-co",
+        "image": "https://images.euronews.com/articles/stories/09/88/45/56/1200x675_cmsv2_e9c4be82-fed1-5c92-bf5e-9a0db1aa62f9-9884556.jpg",
+        "publishedAt": "2026-08-22T16:53:49Z",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "The Bizarre \"Ice Bombs\" That Drop From a Clear Blue Sky",
+        "description": "Scientists have long debated whether these megacryometeors form naturally in the atmosphere or fall from leaking, icy airplane exteriors.",
+        "url": "https://weather.com/2026/08/22/science/weather-explainers/ice-bombs-megacryometeors-planes",
+        "image": "https://s.w-x.co/wxnext/img/IceBomb_LosAngelesCountySupervisor-4c250d.jpg",
+        "publishedAt": "2026-08-22T16:38:48Z",
+        "source": "The Weather Channel"
+      },
+      {
+        "title": "The Why Behind Sex",
+        "description": "By Alvin Powell/Harvard Staff Writer The Harvard Gazette Why is there sex — or, more precisely, sexual reproduction? If you’re an evolutionary biologist, the answer isn’t obvious. Sexual reproduction is …",
+        "url": "https://indianewengland.com/the-why-behind-sex/",
+        "image": "https://indianewengland.com/wp-content/uploads/2026/08/Screenshot-2026-08-22-122635.png",
+        "publishedAt": "2026-08-22T16:28:56Z",
+        "source": "INDIA New England News"
+      },
+      {
+        "title": "US researchers achieve major breakthrough in quantum data transmission through open air",
+        "description": "In a breakthrough, researchers at Stony Brook University and Brookhaven National Laboratory transmitted information through the open air across 13 miles-a major milestone toward adding wireless...",
+        "url": "https://www.thenews.com.pk/latest/1413227-us-researchers-achieve-major-breakthrough-in-quantum-data-transmission-through-open-air",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-08-22/1413227_091410_updates.jpg",
+        "publishedAt": "2026-08-22T16:14:00Z",
+        "source": "The News International"
+      },
+      {
+        "title": "Near-total lunar eclipse is coming up with the Americas in prime position",
+        "description": "Now it’s the moon’s turn to pull a disappearing act.\nAfter being shut out of this month’s total solar eclipse, the Americas will have the best seats in the celestial house when Earth’s shadow briefly envelops the moon.",
+        "url": "https://www.nbcnews.com/news/us-news/total-lunar-eclipse-coming-americas-prime-position-rcna593894",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250909-moon-10-rs-fe2571.jpg",
+        "publishedAt": "2026-08-22T16:10:49Z",
+        "source": "NBC News"
+      },
       {
         "title": "Ancient DNA Reveals How Europe Changed After the Fall of Rome",
         "description": "A study challenges the idea that Barbarians simply dominated Europe during the Early Middle Ages.",
@@ -158,112 +198,72 @@
         "image": "https://img.etimg.com/thumb/msid-133427232,width-1200,height-630,imgsize-176240,overlay-economictimes/articleshow.jpg",
         "publishedAt": "2026-08-22T15:52:49Z",
         "source": "The Economic Times"
-      },
-      {
-        "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
-        "description": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the production of enzymes, hormones, proteins and other crucial components underlying cell structure and function. But if these genes are not correctly activated, cells can stop functioning or result in various disorders, including cancer.",
-        "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/dna-1.jpg",
-        "publishedAt": "2026-08-22T15:40:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "ONC joins the hunt for cosmic particles in the ocean",
-        "description": "ONC becomes part of P-ONE project, to install a new deep-sea telescope to detect neutrinos",
-        "url": "https://hopestandard.com/2026/08/22/onc-joins-the-hunt-for-cosmic-particles-in-the-ocean/",
-        "image": "https://hopestandard.com/wp-content/uploads/sites/23/2026/08/260817-SNE-ONC-nutrions-project20201.jpg?w=1024",
-        "publishedAt": "2026-08-22T15:20:12Z",
-        "source": "Hope Standard"
-      },
-      {
-        "title": "No, we aren’t really creating life in a test tube yet",
-        "description": "The much ballyhooed SpudCell is impressive but does not live up to the media coverage in a number of important ways.",
-        "url": "https://mindmatters.ai/brief/no-we-arent-really-creating-life-in-a-test-tube-yet/",
-        "image": "https://mindmatters.ai/wp-content/uploads/sites/2/2026/08/microscope-and-test-tube-with-dna-strand-881881785-stockpack-adobestock-scaled.jpg",
-        "publishedAt": "2026-08-22T15:11:50Z",
-        "source": "mindmatters.ai"
-      },
-      {
-        "title": "Partial lunar eclipse to be visible for nearly half the planet. Here’s what to know",
-        "description": "Eclipses occur in pairs because the sun, moon, and Earth align so precisely that one masks the other.",
-        "url": "https://ca.news.yahoo.com/partial-lunar-eclipse-visible-nearly-150346341.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/dc51d06efc07ccf2533ea4ac829230f402c7eec5f94dac517d6d52408a1faffd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F0eeb400049d7fdf767ff190410b62035.jpg",
-        "publishedAt": "2026-08-22T15:03:46Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "A museum-shelf mystery reveals 6,500-year-old human tooth pendant in Serbia",
-        "description": "More than 6,500 years ago, someone carefully drilled a hole in a human tooth, strung it on a cord and likely used it as a necklace. Found during field surveys at the Vinča cultural site of Jablanica in Serbia, the human tooth was originally misidentified as an animal tooth bead until archaeologist Nemanja Marković and his colleague Ana Maričić took a closer look.",
-        "url": "https://phys.org/news/2026-08-museum-shelf-mystery-reveals-year.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/archaeologists-identif-5.jpg",
-        "publishedAt": "2026-08-22T15:00:06Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "Most CEOs fall short on AI transformation - report",
-        "description": "MOST chief executive officers are struggling to turn artificial intelligence experiments into broader business transformation, with 82 percent saying their AI programs are achieving only some or less of their intended results, according to a Bain & Company report.",
-        "url": "https://www.manilatimes.net/2026/08/23/business/sunday-business-it/most-ceos-fall-short-on-ai-transformation-report/2410279",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-08-22T16:02:00Z",
-        "source": "The Manila Times"
+        "title": "Apollo finds AI is hitting paychecks rather than payrolls",
+        "description": "Apollo finds wages in high AI exposure jobs grew 6.7% more slowly after 2023, with no significant employment effect and the hit falling on the lowest paid.",
+        "url": "https://thenextweb.com/news/apollo-ai-wage-growth-not-job-losses-study",
+        "image": "https://media.thenextweb.com/2026/07/ai-chatbots-bioweapon-guardrails-bypass-cisco-five-turns.jpg",
+        "publishedAt": "2026-08-22T16:53:17Z",
+        "source": "TNW"
       },
       {
-        "title": "Google's $10 million bid to buy old business data from Spirit Airlines so it can use it to train AI has hit turbulence",
-        "description": "One corporation's old business data could be another's AI treasure",
-        "url": "https://www.techradar.com/pro/googles-usd10-million-bid-to-buy-old-business-data-from-spirit-airlines-so-it-can-use-it-to-train-ai-has-hit-turbulence",
-        "image": "https://cdn.mos.cms.futurecdn.net/Lj4WMjn84Hu2Mso26FMZSR-1920-80.jpg",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "TechRadar"
+        "title": "Indian Army Terrier Cyber Quest 2026 Registration Begins; Check Eligibility, Tracks, Key Dates Here",
+        "description": "Indian Army has opened registrations for Terrier Cyber Quest 2026, a national cybersecurity competition featuring Bug Hunting, AI Kavach and National Creators Challenge. The last date to submit applications is August 31, 2026., Education, Times Now",
+        "url": "https://www.timesnownews.com/education/indian-army-terrier-cyber-quest-2026-registration-begins-check-eligibility-tracks-key-dates-here-article-155954664",
+        "image": "https://images.timesnownews.com/thumb/msid-155954665,thumbsize-880822,width-1280,height-720,resizemode-75/155954665.jpg",
+        "publishedAt": "2026-08-22T16:50:37Z",
+        "source": "Times Now"
       },
       {
-        "title": "Frontier AI labs still won't say how they'd contain a rogue model",
-        "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
-        "publishedAt": "2026-08-22T16:00:00Z",
-        "source": "TechCrunch"
+        "title": "Beyond The Ban: Why Embracing AI Is Essential For Higher Education",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "url": "https://www.zerohedge.com/ai/beyond-ban-why-embracing-ai-essential-higher-education",
+        "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/714078_6_.jpeg_80.jpg?itok=m8kKhwXz",
+        "publishedAt": "2026-08-22T16:50:00Z",
+        "source": "ZeroHedge"
       },
       {
-        "title": "Trump and White House aide Natalie Harp get the LEGO treatment in ‘incredible’ AI video from parody account",
-        "description": "In the latest artificial intelligence-generated Lego parody, Harp follows Trump closely, carrying a printer to keep up a steady stream of positive news",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-harp-ai-lego-video-b3037527.html",
-        "image": "https://static.independent.co.uk/2026/08/22/13/16/AI-LEGO-Donald-Trump-Natalie-Harp.png?trim=69,138,19,148&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-08-22T15:53:25Z",
-        "source": "The Independent"
+        "title": "China’s AI and chip firms are handing out shares to keep their engineers",
+        "description": "Cambricon has granted shares to 85% of its workforce and AMEC to more than 97%, as Chinese chip firms use equity to hold on to engineers.",
+        "url": "https://thenextweb.com/news/china-ai-chip-firms-equity-talent-retention",
+        "image": "https://media.thenextweb.com/2026/06/AI-Chip.jpg",
+        "publishedAt": "2026-08-22T16:40:44Z",
+        "source": "TNW"
       },
       {
-        "title": "Andhra approves green AI data centre in Visakhapatnam with investment of over ₹30,000 cr",
-        "description": "Andhra Pradesh approves a ₹31,387 crore green AI data centre in Visakhapatnam, set to create 1,000 jobs.",
-        "url": "https://www.thehindubusinessline.com/news/national/andhra-approves-green-ai-data-centre-in-visakhapatnam-with-investment-of-over-30000-cr/article71378525.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/tszqi4/article71378554.ece/alternates/LANDSCAPE_1200/02PP%20data%20centre.jpg",
-        "publishedAt": "2026-08-22T15:49:56Z",
-        "source": "The Hindu Business Line"
-      },
-      {
-        "title": "What The Hugging Face Cyberattack Teaches Executives About Using AI",
-        "description": "AI can create a crisis, but it can also help leaders detect threat, understand what’s happening, test responses, annd communicate more effectively when it counts.",
-        "url": "https://www.forbes.com/sites/edwardsegal/2026/08/22/what-the-hugging-face-cyberattack-teaches-executives-about-using-ai/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a88bd4f87e61dbba5b5a5da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-22T15:43:23Z",
+        "title": "10 Back-to-School AI Updates For Educators",
+        "description": "Discover new AI updates for educators as they return to the classroom for the start of the new academic year",
+        "url": "https://www.forbes.com/sites/danfitzpatrick/2026/08/22/10-back-to-school-ai-updates-for-educators/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a89cf0828422a4cc77fe8c1/0x0.jpg?format=jpg&crop=1434,807,x0,y81,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-22T16:36:49Z",
         "source": "Forbes"
       },
       {
-        "title": "Rejoy Health: The AI Care Team Helping Clinics See More Patients and Chart Less",
-        "description": "Rejoy Health is building the AI care team for clinics: an AI scribe, receptionist, interpreter, and coder in one HIPAA-compliant suite.",
-        "url": "https://techbullion.com/rejoy-health-125-million-dollar-valuation-ai-healthcare/",
-        "image": "https://techbullion.com/wp-content/uploads/2026/08/Picture1-14-1000x600.png",
-        "publishedAt": "2026-08-22T15:42:27Z",
-        "source": "TechBullion"
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+        "publishedAt": "2026-08-22T16:30:34Z",
+        "source": "TechCrunch"
       },
       {
-        "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
-        "description": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the production of enzymes, hormones, proteins and other crucial components underlying cell structure and function. But if these genes are not correctly activated, cells can stop functioning or result in various disorders, including cancer.",
-        "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/dna-1.jpg",
-        "publishedAt": "2026-08-22T15:40:01Z",
-        "source": "Phys.org"
+        "title": "Las Vegas has a new trick to keep people safe: AI-controlled lights",
+        "description": "Pilot program is near the Fremont Street Experience, an open-air, neon-lit entertainment hub, which draws more than 24 million visitors a year",
+        "url": "https://www.independent.co.uk/news/world/americas/las-vegas-ai-crosswalks-pedestrians-traffic-b3037535.html",
+        "image": "https://static.independent.co.uk/2026/08/22/14/33/Las-Vegass-new-trick-to-keep-pedestrians-safe-is-AI-to-control-traffic-signals.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-22T16:24:55Z",
+        "source": "The Independent"
+      },
+      {
+        "title": "Engineering graduates should turn India into AI creator rather than mere consumer market, says Delhi CM",
+        "description": "Delhi CM urges engineering graduates to transform India into an AI innovation hub, moving beyond mere consumption of technology.",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-graduates-should-turn-india-into-ai-creator-rather-than-mere-consumer-market-says-delhi-cm/article71377159.ece",
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "publishedAt": "2026-08-22T16:08:18Z",
+        "source": "The Hindu"
       }
     ]
   }
