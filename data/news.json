@@ -1,140 +1,164 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-24T11:45:47.114Z",
+  "fetchedAt": "2026-08-24T13:15:55.845Z",
   "sections": {
     "world": [
       {
-        "title": "President Trump Claims Biden Officials Drove People to Suicide",
-        "description": "Donald Trump is making a shocking claim about his political enemies ... alleging people committed suicide over the way they were treated by Joe Biden's administration. POTUS dropped the claim during ...",
-        "url": "https://www.yahoo.com/news/politics/articles/president-trump-claims-biden-officials-234500231.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAAB32oYwHImlHk6SdKc_j7z0BsNEs_LqbbM-H126ZSIp-2-Yq_gJpd4a3adkOjOf3isjwwuvMoRh1J603_yxnUoIMNLXOvsmUbXn8jrXbxQEXoidMUIpHY6NPVKNwaW_hvXIOg6yK_Jm5EG6e1sbI5eTk-Rx07AOOovQpYQ3TN_T1",
-        "image": "https://s.yimg.com/lo/mysterio/api/140e66f7c7b90eb8b21903ebacb8f0d04ac26a73ba2f26861df16d558b70a3f0/lightyear_networkapi/resizefill_w420_h315%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftmz_articles_672%2F4970fd898915d1c41483eea65b842da2.png",
-        "publishedAt": "2026-08-23T23:45:00Z",
-        "source": "Yahoo"
+        "title": "Londoners find ‘horrendous’ cracks in their homes after successive heatwaves",
+        "description": "Londoners are facing historic levels of subsidence risk after five successive heatwaves dried out the clay soil on which much of the city is built. Insurance...",
+        "url": "https://www.nzherald.co.nz/world/londoners-find-horrendous-cracks-in-their-homes-after-successive-heatwaves/GGGWD5CDDRAH5IGKDC5N5GCEOQ/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/7GE25LN6CBDBVN7MWGDBFEO7WE.jpg?auth=a416fb130f348f14d36b6f0781a6da99c3f21405280dabf417a6f1f141e07278&width=1200&height=675&quality=70&focal=1082%2C719&smart=false",
+        "publishedAt": "2026-08-24T01:12:31Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "Asean urged to strengthen measures against transboundary pollution",
-        "description": "PETALING JAYA: The Asean Agreement on Transboundary Haze Pollution (AATHP) urgently needs stronger and more proactive measures to address recurring haze, say climate experts.",
-        "url": "https://www.thestar.com.my/news/nation/2026/08/24/asean-urged-to-strengthen-measures-against-transboundary-pollution",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4074759.jpg",
-        "publishedAt": "2026-08-23T23:44:08Z",
+        "title": "After you upload your data to the cloud, where does it go? The challenge of dual‑use technologies",
+        "description": "Most of us don’t worry too much about where our data goes. We store documents in the cloud, collaborate online with Slack and Zoom and rely on platforms",
+        "url": "https://interaksyon.philstar.com/trends-spotlights/2026/08/24/314170/after-you-upload-your-data-to-the-cloud-where-does-it-go-the-challenge-of-dual%E2%80%91use-technologies/",
+        "image": "https://media.interaksyon.com/wp-content/uploads/2019/06/Apples-Worldwide-Developers-Conference.jpg",
+        "publishedAt": "2026-08-24T01:12:05Z",
+        "source": "Interaksyon"
+      },
+      {
+        "title": "Former cop convicted of killing Sonya Massey dies in prison at 32, attorney says",
+        "description": "Sean Grayson had served about six months of his 20-year maximum sentence for second-degree murder",
+        "url": "https://www.the-independent.com/news/world/americas/crime/sonya-massey-cop-dies-sean-grayson-b3037907.html",
+        "image": "https://static.the-independent.com/2026/08/23/23/38/Deputy-Shooting-911-Response_46693.jpeg?trim=0,85,0,85&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-08-24T01:08:00Z",
+        "source": "The Independent"
+      },
+      {
+        "title": "Sex File: The hot weather has ruined our sex life",
+        "description": "We've both been too hot and bothered in bed to be intimate, and then short-tempered from lack of sleep",
+        "url": "https://www.irishexaminer.com/lifestyle/advice/arid-41899453.html",
+        "image": "https://www.irishexaminer.com/cms_media/module_img/10404/5202403_5_org_iStock-2251510877.jpg",
+        "publishedAt": "2026-08-24T01:05:00Z",
+        "source": "Irish Examiner"
+      },
+      {
+        "title": "Bangladesh: End Indefinite Pretrial Detention of Political Opponents",
+        "description": "Bangladeshi authorities should immediately take steps to end the prolonged pretrial detention of politicians and others linked to the deposed Awami League government.",
+        "url": "https://www.hrw.org/news/2026/08/23/bangladesh-end-indefinite-pretrial-detention-of-political-opponents",
+        "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/08/202608asia_bangladesh_prisonvan.jpg?h=8c1344d8&itok=-CzfZ6HE",
+        "publishedAt": "2026-08-24T01:00:00Z",
+        "source": "Human Rights Watch"
+      },
+      {
+        "title": "Cecilia Cheung treats fans to free HK Disneyland tickets, praised for humility",
+        "description": "Earlier in May, she celebrated her 46th birthday by giving 46 lucky fans round-trip flights to Hong Kong and tickets to Hong Kong Disneyland.",
+        "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/08/24/cecilia-cheung-treats-fans-to-free-hk-disneyland-tickets-praised-for-humility",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4071319.jpg",
+        "publishedAt": "2026-08-24T01:00:00Z",
         "source": "The Star"
       },
       {
-        "title": "Two Phoenix police officers arrested and fired after violent, unreported traffic stop",
-        "description": "PHOENIX (AP) — Two Phoenix police officers were fired and arrested after an unreported traffic stop in which they assaulted a man and woman and shocked them with a Taser, the police chief said.",
-        "url": "https://www.cnn.com/2026/08/23/us/phoenix-police-arrested-traffic-stop",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22042709489076.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-23T23:43:14Z",
-        "source": "CNN"
+        "title": "Operation against DMC taxis starts today",
+        "description": "Greater Kampala's roads have seen an increase in DMC taxis",
+        "url": "https://www.monitor.co.ug/uganda/news/national/operation-against-dmc-taxis-starts-today-5568622",
+        "image": "https://www.monitor.co.ug/resource/blob/5568624/fe3bed3091d1ba8a41775acb108dbc07/home01pix-data.jpg",
+        "publishedAt": "2026-08-24T01:00:00Z",
+        "source": "Daily Monitor"
       },
       {
-        "title": "Tinubu Leads Africa's Push for Mineral Wealth Control",
-        "description": "President Tinubu champions a new initiative to ensure Africa's mineral wealth benefits the continent, focusing on local processing and value addition. Lear",
-        "url": "https://punchng.com/tinubu-leads-fresh-push-for-africa-mineral-wealth/",
-        "image": "https://cdn.punchng.com/2026/08/Tinunu_1787008543-1200x630.webp",
-        "publishedAt": "2026-08-23T23:42:16Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "US and Europe concerned as Russia builds ‘air shadow fleet’ across Mali, Burkina Faso and Niger to expand its military reach",
-        "description": "Russia is expanding its military reach across Africa’s Sahel through an “air shadow fleet” of state and private aircraft supplying operations in Mali, Burkina Faso and Niger, drawing growing scrutiny from the United States and Europe. | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/lifestyle/us-and-europe-concerned-as-russia-builds-air-shadow-fleet-across-mali-burkina-faso/xec5nys",
-        "image": "https://ocdn.eu/pulscms-transforms/1/-9QktkuTURBXy9iMWZhYmRhMC00MzFmLTQ4MDYtYWJjZC0xMDM3YTFjNWMyMzguanBlZ5KVAwAOzRNpzQrtkwXNBLDNAnY",
-        "publishedAt": "2026-08-23T23:40:32Z",
-        "source": "Business Insider Africa"
-      },
-      {
-        "title": "LEAP Africa Trains Young African Women for Leadership Roles",
-        "description": "LEAP Africa's Leadership Accelerator Programme empowers young African women with essential skills and networks for leadership roles, fostering change acros",
-        "url": "https://punchng.com/leap-africa-trains-women-for-leadership-roles/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/24002758/LEAP-Africa-Official-Logo-1_1787527678.webp",
-        "publishedAt": "2026-08-23T23:39:07Z",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Lesufi admits Gauteng government failed to properly manage immigration and demand",
-        "description": "Reflecting on his province, Lesufi admitted that those in power had underestimated the work needed.",
-        "url": "https://www.citizen.co.za/news/south-africa/politics/lesufi-admits-gauteng-government-failed-to-manage-immigration-and-demand/",
-        "image": "https://media.citizen.co.za/wp-content/uploads/2026/02/Panyaza-Lesufi-Amapanyaza.jpg",
-        "publishedAt": "2026-08-23T23:35:46Z",
-        "source": "The Citizen"
-      },
-      {
-        "title": "Period Poverty Threatens Girls’ Health, Education, Dignity",
-        "description": "By Catherine Egwuom",
-        "url": "https://nannews.ng/period-poverty-threatens-girls-health-education-dignity-gynaecologist/",
-        "image": "https://nannews.ng/wp-content/uploads/2026/08/Gemini_Generated_Image_5b4mic5b4mic5b4m-1.jpg",
-        "publishedAt": "2026-08-23T23:31:08Z",
-        "source": "News Agency of Nigeria"
+        "title": "Methodist Church looks to move away from compulsory levies",
+        "description": "Methodist Church looks to move away from compulsory levies",
+        "url": "https://www.fijivillage.com/s/methodist-church-looks-to-move-away-from-compulsory-levies-66fd6c/",
+        "image": "https://www.fijivillage.com/news_images/20260824125834_media_6a8b76958aa825_80884810.jpg",
+        "publishedAt": "2026-08-24T00:59:52Z",
+        "source": "Fijivillage"
       }
     ],
     "business": [
       {
-        "title": "YTL Corp in need of big win",
-        "description": "PETALING JAYA: A blockbuster external project could be the missing catalyst for YTL Corp Bhd to narrow its widening market capitalisation gap with subsidiary YTL Power International Bhd, according to CGS International (CGSI) Research.",
-        "url": "https://www.thestar.com.my/business/business-news/2026/08/24/ytl-corp-in-need-of-big-win",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4074760.jpg",
-        "publishedAt": "2026-08-23T23:44:30Z",
-        "source": "The Star"
+        "title": "Asia FX Talk - Dollar lost momentum, Tech-linked currencies to benefit",
+        "description": "The US dollar has lost further momentum and extended its recent soft patch.",
+        "url": "https://www.mufgresearch.com/fx/asia-fx-talk-dollar-lost-momentum-tech-linked-currencies-to-benefit-24-august-2026/",
+        "image": "https://www.mufgresearch.com/media/xvumbnm4/asiancurrencies_111717182.png",
+        "publishedAt": "2026-08-24T01:15:56Z",
+        "source": "MUFG Research"
       },
       {
-        "title": "Ottawa rejected last-minute U.S. demand to drop Cancon rules for streamers",
-        "description": "American negotiators demanded Canada exempt big U.S. platforms from boosting discoverability of Canadian, French-language content in this country",
-        "url": "https://www.theglobeandmail.com/politics/article-ottawa-rejected-drop-cancon-us-demand-streaming-services/",
-        "image": "https://www.theglobeandmail.com/resizer/v2/K4OZ7GN3DFB3DHCQ4LLX676UKY.JPG?auth=2e02c31e3c80728f2d08a8d3e620cb10bef05b70cbe894dfb38248d5b696c72f&width=1200&height=800&quality=80&smart=true",
-        "publishedAt": "2026-08-23T23:42:03Z",
-        "source": "The Globe and Mail"
+        "title": "Vitafoam wins top impact award",
+        "description": "Vitafoam Nigeria Plc has been named among Nigeria’s Top 50 Companies of Impact 2026, in recognition of its contribution to industrial development through",
+        "url": "https://thenationonlineng.net/vitafoam-wins-top-impact-award/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2023/04/30202528/Vitafoam.png",
+        "publishedAt": "2026-08-24T01:14:04Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "3 stocks where the next bullish move may be taking shape",
-        "description": "Three logistics stocks are flashing promising technical signals. TCI is defending a key breakout zone, RITCO has confirmed an inverse Head-and-Shoulders breakout, while Aegis approaches crucial resistance. Could this be the beginning of the sector’s next bullish move?",
-        "url": "https://www.financialexpress.com/market/stock-insights/3-stocks-where-the-next-bullish-move-may-be-taking-shape/4323814/",
-        "image": "https://images.financialexpressdigital.com/2026/08/wdde3.jpg",
-        "publishedAt": "2026-08-23T23:40:21Z",
-        "source": "financialexpress.com"
+        "title": "HASHTAG LEGEND’s #100LIST SOCIAL CLUB: Bruce Rockowitz Brings Global Vision to Thailand’s Rising Circle of Influence",
+        "description": "BANGKOK, THAILAND - Media OutReach Newswire - 24 August 2026 - Set against a warm and convivial atmosphere, #100LIST SOCIAL CLUB event opened its doors to influential figures, distinguished guests and friends of Hashtag Legend Thailand in Bangkok on 17 July, who came together to celebrate, connect and engage in valuable conversation throughout the evening, alongside the night's key highlight, 'Best of the Best' - the announcement of 10 awards presented to individuals of outstanding excellence in their respective fields as The Legend Faces of Thailand, a symbol of those who create influence and value, and who will continue to pass on inspiration to Thai society.",
+        "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/media-outreach-newswire/hashtag-legends-100list-social-club-bruce-rockowitz-brings-global-vision-to-thailands-rising-circle-of-influence/2410592",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187216.png",
+        "publishedAt": "2026-08-24T01:13:40Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Mukul Agarwal and Madhusudan Kela back these 2 recently listed power microcaps",
-        "description": "Two companies listed in the first ten days of August have just caught the attention of investors. One builds the towers that hold wind turbines up. The other builds the electronics that move electric trains. Madhusudan Kela and Mukul Agarwal were both present on the register before the first trade.",
-        "url": "https://www.financialexpress.com/market/stock-insights/mukul-agarwal-and-madhusudan-kela-back-these-2-recently-listed-power-microcaps/4323825/",
-        "image": "https://images.financialexpressdigital.com/2026/08/train-wind.jpg",
-        "publishedAt": "2026-08-23T23:39:19Z",
-        "source": "financialexpress.com"
+        "title": "Capital alone won’t prevent failure, NDIC cautions banks",
+        "description": "The completion of Nigeria’s banking sector recapitalisation has strengthened the capital base of banks, but the Nigeria Deposit Insurance Corporation",
+        "url": "https://thenationonlineng.net/capital-alone-wont-prevent-failure-ndic-cautions-banks/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/04/15211525/NDIC.png",
+        "publishedAt": "2026-08-24T01:13:24Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "The Bull Case For Anterix (ATEX) Could Change Following ESOP Share Offering And Profitability Shifts",
-        "description": "In August 2026, Anterix Inc. filed an US$88.68 million shelf registration to offer 1,000,000 common shares for an ESOP-related transaction, shortly after reporting first-quarter fiscal 2026 sales of US$1.96 million and net income of US$0.24 million for the period ended June 30, 2026.\nWhile revenue increased compared to a year earlier, the sharp drop in net income versus the prior period and the planned ESOP-linked equity issuance together highlight how Anterix is balancing employee ownership...",
-        "url": "https://simplywall.st/stocks/us/telecom/nasdaq-atex/anterix/news/the-bull-case-for-anterix-atex-could-change-following-esop-s",
-        "image": "https://images.simplywall.st/asset/industry/9021000-choice2-main-header/1585186684476",
-        "publishedAt": "2026-08-23T23:36:20Z",
-        "source": "simplywall.st"
+        "title": "New partnership expands digital payments",
+        "description": "Mastercard and TeamApt Ltd, a subsidiary of Moniepoint Inc and a provider of financial infrastructure and payment solutions, have entered a strategic",
+        "url": "https://thenationonlineng.net/new-partnership-expands-digital-payments/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/24010334/Mastercard-and-TeamApt-Ltd.jpg",
+        "publishedAt": "2026-08-24T01:12:58Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "Oil Stocks To Watch As Higher Crude Puts Upstream Producers In Demand",
-        "description": "Oil above US$100, fresh US tariffs on Singapore exports and rising geopolitical risk have pushed energy security back into focus. Investors are again weighing who might benefit from tighter supply chains and who could face higher costs or trade friction. This article walks through how that backdrop links to the Global Energy and Oil Producers screener and highlights 3 stocks exposed to these headlines that may merit a closer look.\nThe three stocks below are just a starting sample, as the full...",
-        "url": "https://simplywall.st/stocks/no/energy/ob-dno/dno-shares/news/oil-stocks-to-watch-as-higher-crude-puts-upstream-producers",
-        "image": "https://images.simplywall.st/asset/industry/1032000-choice2-main-header/1585186674409",
-        "publishedAt": "2026-08-23T23:35:40Z",
-        "source": "simplywall.st"
+        "title": "Foremost Capital secures investment grade rating of BBB+",
+        "description": "DataPro, a leading credit rating agency and compliance consulting firm in Nigeria, has rated Foremost Capital Limited with BBB+ in its assessment of the",
+        "url": "https://thenationonlineng.net/foremost-capital-secures-investment-grade-rating-of-bbb/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/01/29182856/DataPro.jpg",
+        "publishedAt": "2026-08-24T01:12:58Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "H1 2026: Services take Lion’s share of total bank lending to private-sector - NESG Research",
-        "description": "The increase in private-sector credit is encouraging, but the distribution of lending remains a concern. Services continued to dominate bank lending, accounting for 58.4 percent of the total bank credit in H1-2026, up from 55.7 percent",
-        "url": "https://tribuneonlineng.com/h1-2026-services-take-lions-share-of-total-bank-lending-to-private-sector-nesg-research/",
-        "image": "https://tribuneonlineng.com/wp-content/uploads/2025/04/NESG-1.jpg",
-        "publishedAt": "2026-08-23T23:35:00Z",
-        "source": "Tribune Online"
+        "title": "‘Real estate growth can stimulate FDI inflows’",
+        "description": "President, International Real Estate Federation (FIABCI), Nigeria, Ayodeji Odeleye, has promised to make Nigeria an international real estate destination",
+        "url": "https://thenationonlineng.net/real-estate-growth-can-stimulate-fdi-inflows/",
+        "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2023/05/30031915/Estate.jpg",
+        "publishedAt": "2026-08-24T01:12:54Z",
+        "source": "The Nation Newspaper"
       },
       {
-        "title": "Micron, Sandisk, and SK Hynix: History Says This About the Memory Trio's Rally",
-        "description": "History says the market will eventually collapse, but this time does look different.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-sk-hynix-history-233500299.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/EE9E38D740A60E704D0A3E24CB0AFF76BAFB47EFC2F33A096F49A92BAEC8A7E7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd6db31fcd165b441b235a30a4f7a2689.jpg",
-        "publishedAt": "2026-08-23T23:35:00Z",
-        "source": "Yahoo Finance"
+        "title": "Diversification picks up slack as Liberty's mortgage book slips",
+        "description": "Growth in motor, SME, SMSF lending offsets softer residential portfolio, though Labor’s Budget changes spark forward-looking caution",
+        "url": "https://www.mpamag.com/au/specialty/alternative-lending/diversification-picks-up-slack-as-libertys-mortgage-book-slips/587085",
+        "image": "https://cdn-res.keymedia.com/cms/images/us/075/0374_639231302436958004.png",
+        "publishedAt": "2026-08-24T01:10:30Z",
+        "source": "mpamag.com"
       }
     ],
     "science": [
+      {
+        "title": "China postpones Chang'e 7 robotic lunar mission",
+        "description": "China's Chang'e 7 robotic lunar mission has been postponed, the China Manned Space Agency announced on Sunday.",
+        "url": "https://www.chinadaily.com.cn/a/202608/24/WS6a8b98b145ce1d77cb5e1c17.html",
+        "image": "http://img2.chinadaily.com.cn/images/202608/24/6a8b98b145ce1d7711b35c24.jpeg",
+        "publishedAt": "2026-08-24T01:05:00Z",
+        "source": "China Daily"
+      },
+      {
+        "title": "A round-trip Mars mission could last roughly three years, and a model based on bone-density data from 69 astronauts predicted that everyone following the longer mission profile would return with osteo",
+        "description": "The striking percentages came from a 2020 nonlinear model, not a Mars crew. Its input data predated current resistance exercise and stopped at 228 days, far short of the 1,000-to-1,200-day profile it projected.",
+        "url": "https://spacedaily.com/t-three-year-mars-mission-bone-model-osteopenia/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/plos-spacedaily-mars-bone-density-model-figure1.png",
+        "publishedAt": "2026-08-24T01:00:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "Scientists Discover a Hidden Baobab Species in Madagascar",
+        "description": "Genetic analysis has revealed a distinct baobab species in Madagascar, potentially changing how two threatened tree populations are conserved.",
+        "url": "https://scitechdaily.com/scientists-discover-a-hidden-baobab-species-in-madagascar/",
+        "image": "https://scitechdaily.com/images/Grove-of-Large-Baobab-Trees-in-Madagascar-777x583.jpg",
+        "publishedAt": "2026-08-23T23:55:22Z",
+        "source": "SciTechDaily"
+      },
       {
         "title": "Falcon 9 booster B1067 was originally built around a goal of at least ten flights without major refurbishment. It has now launched and landed 36 times in barely five years—only three flights short of",
         "description": "B1067's 36 flights show how Block 5 moved beyond its original ten-flight maintenance goal, but comparing the first stage with Discovery requires care about what each vehicle did.",
@@ -168,102 +192,78 @@
         "source": "The Brighter Side of News"
       },
       {
-        "title": "Rescue mission canceled for NASA's Swift space telescope",
-        "description": "The mission to save NASA’s sinking Swift Observatory has been called off, dooming the telescope to a fiery reentry later this year.",
-        "url": "https://www.latimes.com/world-nation/story/2026-08-23/rescue-mission-canceled-for-nasas-swift-space-telescope",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/422fbe5/2147483647/strip/true/crop/4008x2104+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F68%2F5569d540428db6aac9ebe43c55fe%2Fbc82e027d35b47bf9f3061ca47048de1.jpg",
-        "publishedAt": "2026-08-23T22:37:49Z",
-        "source": "Los Angeles Times"
-      },
-      {
-        "title": "Birds Are Living Dinosaurs: Gastrolith Wear Patterns Reveal the Secrets of Evolution",
-        "description": "A new study synthesizing joint research by Japanese and South Korean scientists presents gastrolith (stomach stone) wear patterns in dinosaurs as…",
-        "url": "https://finance.biggo.com/news/37928b49-e804-46a1-88de-5dec0d79d64d",
-        "image": "https://img.biggo.com/-Myi7O4vAvlXhSSawzQ9KJJaYIHITqtL3oPNriQJADI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzM3OTI4YjQ5LWU4MDQtNDZhMS04OGRlLTVkZWMwZDc5ZDY0ZF8xNzg3NTI0MjgyX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-08-23T22:30:58Z",
-        "source": "finance.biggo.com"
-      },
-      {
-        "title": "Astronomers Use Rare Ultra-Magnetic Star to Crack a Quantum Mystery",
-        "description": "An international team observed a magnetar known as 1E 1547.0–5408 using NASA’s Imaging X-ray Polarimetry Explorer (IXPE), leading to what could be the first detection of vacuum birefringence taking place in the magnetar’s ultra-strong magnetic field. These findings could potentially resolve a long-standing mystery quantum mechanics.",
-        "url": "https://www.universetoday.com/articles/astronomers-use-rare-ultra-magnetic-star-to-crack-a-quantum-mystery",
-        "image": "https://www.universetoday.com/article_images/cq5dam.web.2560.1440_20260823_214012.jpeg",
-        "publishedAt": "2026-08-23T22:19:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "China scraps ambitious launch of Chang’e-7 lunar mission due to need for ‘absolute success’",
-        "description": "A future date has not been announced",
-        "url": "https://au.news.yahoo.com/china-scraps-ambitious-launch-chang-210348156.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/9b3584f9162e1603cd19110371208317416f4795c5aa21815121190ca084fff6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F9e862fef90f0b74ea41a9cf8520fcda4.jpg",
-        "publishedAt": "2026-08-23T21:03:48Z",
-        "source": "Yahoo News Australia"
+        "title": "Hackaday Links: August 23, 2026",
+        "description": "We'll start this week off with some disappointing, though not entirely unexpected, news -- the ambitious commercial mission to save NASA's Neil Gehrels Swift Observatory is officially a bust. The spac...",
+        "url": "https://hackaday.com/2026/08/23/hackaday-links-august-23-2026/",
+        "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+        "publishedAt": "2026-08-23T23:00:00Z",
+        "source": "Hackaday"
       }
     ],
     "ai": [
       {
-        "title": "America now dominates the world's biggest AI data centers as Texas and other states race to capture the next wave of growth",
-        "description": "America's data center dominance grows stronger",
-        "url": "https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own",
-        "image": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
-        "publishedAt": "2026-08-23T23:45:00Z",
-        "source": "TechRadar"
+        "title": "‘Subhash Chandra Bose didn't die in 1945’: Chandrachur Ghose on how microdrama The Bose Network deals with Bose's death",
+        "description": "The Bose Network is a microdrama exploring Bose's wartime journey. The series uses AI and features a narrative regarding Bose's potential survival post-1945. | Web Series",
+        "url": "https://www.hindustantimes.com/entertainment/web-series/netaji-subhash-chandra-bose-didnt-die-in-1945-writer-chandrachur-ghose-on-new-microdrama-the-bose-network-101787320824185.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/21/1600x900/logo/Bose_1787321144802_1787321145017_d685dedc-70fe-47e7-a57e-a6da7861f739.jpg",
+        "publishedAt": "2026-08-24T01:09:37Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "‘Prepare for What’s Coming,’ Says Top Investor as Nvidia Stock Heads Into Earnings",
-        "description": "Nvidia (NASDAQ:NVDA) is about to face one of those earnings reports where simply delivering huge numbers might not be enough. The AI giant will ...",
-        "url": "https://markets.businessinsider.com/news/stocks/prepare-for-what-s-coming-says-top-investor-as-nvidia-stock-heads-into-earnings-1036485501",
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/08/image-2495-1024x545.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-        "publishedAt": "2026-08-23T23:35:06Z",
-        "source": "Markets Insider"
+        "title": "Asian stocks slip as AI worries mount ahead of Nvidia earnings, Fed meet",
+        "description": "Asian stocks slipped Monday as AI spending worries grew ahead of Nvidia's earnings and the Fed's Jackson Hole meeting. Kospi fell 1.66% on AI concerns.",
+        "url": "https://www.cnbctv18.com/market/asia-stocks-fall-kospi-nikkei-topix-nvidia-earnings-alibaba-ai-fed-oil-brent-crude-yen-share-price-19975261.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/05/bilder-87-2026-05-cb73e6533e16c3ded3de492815af42ad.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-08-24T01:06:12Z",
+        "source": "CNBC TV18"
       },
       {
-        "title": "Over 51 AI programmes in IITs now: A decade of change in India's top classrooms",
-        "description": "IITs are expanding AI-led degrees, research tracks and online courses across disciplines. The shift shows engineering education moving towards industry-facing, flexible and cross-sector learning.",
-        "url": "https://www.indiatoday.in/education-today/news/story/ai-courses-in-iits-expand-as-top-institutes-reshape-engineering-education-2978131-2026-08-24",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/iit-bombay-classroom-233058414-16x9_0.jpeg?VersionId=_bAqnf4sFywqRnEOMwBnl5gobyAiVeVn",
-        "publishedAt": "2026-08-23T23:30:00Z",
-        "source": "India Today"
+        "title": "Global Market Today: Asian stocks dip with AI in focus, oil declines",
+        "description": "MSCIs Asia Pacific equities gauge dipped 0.1%, with the Kospi Index in South Korea — a bellwether for AI investments — falling 1.2%. However, US equity-index futures erased earlier losses to edged up, with contracts for the tech-heavy Nasdaq 100 climbing 0.1%.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms",
+        "image": "https://img.etimg.com/thumb/msid-133448958,width-1200,height-630,imgsize-178380,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-08-24T01:03:00Z",
+        "source": "The Economic Times"
       },
       {
-        "title": "I asked AI to assess my job and career. It identified 5 skills I need to build",
-        "description": "I asked ChatGPT to assess my career and identify the skills I need to stay competitive. It flagged five areas, from data to AI and analytics.",
-        "url": "https://www.financialexpress.com/jobs-career/i-asked-ai-to-assess-my-job-and-career-it-identified-5-skills-i-need-to-build-4323824/",
-        "image": "https://images.financialexpressdigital.com/2026/08/ChatGPT_job.jpg",
-        "publishedAt": "2026-08-23T23:30:00Z",
-        "source": "The Financial Express"
+        "title": "What India can learn from EU’s AI reset",
+        "description": "The EU has shown that even a major regulatory framework can be revised. Regulatory maturity means recognising when rules are not working and changing them.",
+        "url": "https://indianexpress.com/article/opinion/columns/european-union-ai-omnibus-india-artificial-intelligence-policy-governance-10846508/",
+        "image": "https://images.indianexpress.com/2026/08/AI-law.jpg",
+        "publishedAt": "2026-08-24T00:51:36Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "AI tools cannot change fundamental nature of decision making: LG",
-        "description": "Excelsior Correspondent NEW DELHI, Aug 23: Lieutenant Governor Manoj Sinha graced the valedictory function of the Induction & Orientation Programme at IIM Rohtak and addressed the 8th batch of the Integrated Programme in Management (IPM) and the 6th batch of...",
-        "url": "https://www.dailyexcelsior.com/ai-tools-cannot-change-fundamental-nature-of-decision-making-lg/",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTcxNDcyNDAwLTlmNGEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-23T23:29:07Z",
-        "source": "Daily Excelsior"
+        "title": "AI researcher Toby Walsh and neuroscientist Lila Landowski headline CanvasCon ANZ 2026 in Sydney to explore how AI is reshaping learning and the future of work",
+        "description": "New Instructure research finds three in four Australian educators see helping graduates adapt to changing careers as essential, but fewer than half feel confident their...",
+        "url": "https://itwire.com/guest-articles/guest-research/ai-researcher-toby-walsh-and-neuroscientist-lila-landowski-headline-canvascon-anz-2026-in-sydney-to-explore-how-ai-is-reshaping-learning-and-the-future-of-work",
+        "image": "https://media.itwire.com/2026/08/24/ai-researcher-toby-walsh-and-neuroscientist-lila-landowski-headline-canvascon-anz-2026-in-sydney-to-explore-how-ai-is-reshaping-learning-and-the-future-of-work-e84c748341e9.jpg",
+        "publishedAt": "2026-08-24T00:46:00Z",
+        "source": "iTWire"
       },
       {
-        "title": "Amart Furniture to Overhaul Forecasting and Replenishment with RELEX",
-        "description": "**media[1187187]**Australia's leading furniture retailer replaces legacy planning tools with AI-driven forecasting and replenishment to improve availability, cut costs, and manage complex supply chain challenges",
-        "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/pr-newswire/amart-furniture-to-overhaul-forecasting-and-replenishment-with-relex/2410584",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187186.jpg",
-        "publishedAt": "2026-08-23T23:21:17Z",
-        "source": "The Manila Times"
+        "title": "How Prepared Is India to Defend Its Cyberspace?",
+        "description": "AI is reshaping cyber threats through autonomous attacks, deepfakes and vulnerability discovery. Here is why India needs stronger AI cybersecurity.",
+        "url": "https://indianexpress.com/shorts/explained/ai-cybersecurity-threats-india-10846344/",
+        "image": "https://images.indianexpress.com/2026/08/ex-cyberattack-ai_expl-ai.jpg",
+        "publishedAt": "2026-08-24T00:40:25Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Inspira Enterprise Expands into Australia to Accelerate AI-Driven Cybersecurity and Digital Resilience Across Enterprises",
-        "description": "**media[1187185]**SYDNEY, Aug. 24, 2026 /PRNewswire/ -- Inspira Enterprise, a global leader in cybersecurity, AI and digital transformation services, today announced its strategic expansion into Australia, reinforcing its commitment to helping organizations strengthen cyber resilience, secure AI adoption, and modernize enterprise security operations across the Asia-Pacific region. With a growing demand for cyber resilience, identity security, AI governance, cloud security, and managed detection and response (MDR), Australia represents a significant milestone in Inspira's global growth journey. The expansion will enable Australian enterprises and government organizations to leverage Inspira's deep expertise in delivering outcome-driven cybersecurity services backed by AI-powered innovation.",
-        "url": "https://www.manilatimes.net/2026/08/24/tmt-newswire/pr-newswire/inspira-enterprise-expands-into-australia-to-accelerate-ai-driven-cybersecurity-and-digital-resilience-across-enterprises/2410583",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/24/1187184.jpg",
-        "publishedAt": "2026-08-23T23:21:17Z",
-        "source": "The Manila Times"
+        "title": "How Prepared Is India to Defend Its Cyberspace?",
+        "description": "AI is reshaping cyber threats through autonomous attacks, deepfakes and vulnerability discovery. Here is why India needs stronger AI cybersecurity.",
+        "url": "https://indianexpress.com/article/explained/explained-ai/ai-cybersecurity-threats-india-10846344/",
+        "image": "https://images.indianexpress.com/2026/08/ex-cyberattack-ai_expl-ai.jpg",
+        "publishedAt": "2026-08-24T00:36:32Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
-        "description": "Report: AI model hub Hugging Face exploring sale at $13B valuation - SiliconANGLE",
-        "url": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/huggingface.png",
-        "publishedAt": "2026-08-23T23:05:29Z",
-        "source": "SiliconANGLE News"
+        "title": "Private Equity Begins Placing AI Experts in Portfolio Companies",
+        "description": "Private equity firms have reportedly begun placing artificial intelligence experts within their portfolio companies to grow those businesses.",
+        "url": "https://www.europesays.com/3211882/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/Blackstone-private-equity-AI-1.jpg",
+        "publishedAt": "2026-08-24T00:36:15Z",
+        "source": "EUROPE SAYS"
       }
     ]
   }
