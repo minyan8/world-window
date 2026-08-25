@@ -1,140 +1,180 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-25T11:46:03.723Z",
+  "fetchedAt": "2026-08-25T14:07:34.684Z",
   "sections": {
     "world": [
       {
-        "title": "IOM Calls for Greater Investment in Land Restoration to Reduce Displacement",
-        "description": "News and Press Release in English on World about Climate Change and Environment, Protection and Human Rights and Drought; published on 24 Aug 2026 by IOM",
-        "url": "https://reliefweb.int/report/world/iom-calls-greater-investment-land-restoration-reduce-displacement",
-        "image": "https://reliefweb.int/modules/custom/reliefweb_meta/images/disaster-type/DR.png",
-        "publishedAt": "2026-08-24T23:45:29Z",
-        "source": "ReliefWeb"
+        "title": "Maulid: Imbibe Prophet (PBUH)’s political ideals",
+        "description": "Today, Tuesday, August 25, 2026, equivalent to the 12th day of the Islamic lunar month of Rabiul Awwal is observed in parts of the Muslim world as Eidul Maulid...",
+        "url": "https://dailytrust.com/maulid-imbibe-prophet-pbuhs-political-ideals/",
+        "image": "https://dailytrust.com/wp-content/uploads/2023/12/Daily-Trust.jpg",
+        "publishedAt": "2026-08-25T02:05:04Z",
+        "source": "Daily Trust"
       },
       {
-        "title": "Ghana Hits Milestone in Effort to Legalize Organ Donation",
-        "description": "Advocacy efforts in Ghana mark a significant milestone in advancing organ and tissue donation laws with newly drafted country policy.",
-        "url": "https://cureblindness.org/news/ghana-hits-milestone-in-effort-to-legalize-organ-donation",
-        "image": "https://d3c4xa94vmylbm.cloudfront.net/images/_1200x630_crop_center-center_82_none/ghana-donor-effort-1.jpeg?mtime=1787614977",
-        "publishedAt": "2026-08-24T23:44:52Z",
-        "source": "Cure Blindness Project"
+        "title": "Trump’s Arctic saber-rattling boosts Iceland’s pro-EU campaign",
+        "description": "Icelanders vote on Saturday in a referendum on resuming membership talks with the EU.",
+        "url": "https://www.politico.eu/article/donald-trump-iceland-eu-referendum/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/24/IMG_5112-scaled.jpg",
+        "publishedAt": "2026-08-25T02:02:43Z",
+        "source": "politico.eu"
       },
       {
-        "title": "Mystery statue unearthed at Sardis archaeological dig",
-        "description": "Researchers with the long-running Harvard–Cornell Archaeological Exploration of Sardis have unearthed a larger-than-life statue estimated to be nearly 2,500 years old.",
-        "url": "https://phys.org/news/2026-08-mystery-statue-unearthed-sardis-archaeological.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/mystery-statue-unearth.jpg",
-        "publishedAt": "2026-08-24T23:40:01Z",
-        "source": "Phys.org"
+        "title": "NSW Preventive Health Summit dates confirmed",
+        "description": "The NSW Government has confirmed the upcoming NSW Preventive Health Summit will be held in Western Sydney in early October. The Summit, which forms part of the Government’s response to the Special Commission of Inquiry into Healthcare Funding, will focus on how to prevent disease and improve health outcomes with a strong focus on health […]",
+        "url": "https://www.insidestategovernment.com.au/nsw-preventive-health-summit-dates-confirmed/",
+        "image": "https://www.insidestategovernment.com.au/wp-content/uploads/2026/08/AdobeStock_2007881770.jpeg",
+        "publishedAt": "2026-08-25T02:02:00Z",
+        "source": "Inside State Government"
       },
       {
-        "title": "Amid Civil War, Sudan's Humanitarian Crisis Worsening Due to 'Lack of Action': UN Official",
-        "description": "Amid civil war in Sudan, the humanitarian crisis there is worsening due to a lack of global action, a United Nations official told the UN Security Council.",
-        "url": "https://www.commondreams.org/news/sudan-civil-war-2026",
-        "image": "https://www.commondreams.org/media-library/image.jpg?id=67670661&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-        "publishedAt": "2026-08-24T23:39:22Z",
-        "source": "Common Dreams"
+        "title": "Fresh push to secure Unesco heritage status for L Victoria",
+        "description": "Currently, the lake is grappling with pollution, wetland loss, invasive species and climate change",
+        "url": "https://www.the-star.co.ke/counties/nyanza/2026-08-25-fresh-push-to-secure-unesco-heritage-status-for-l-victoria",
+        "image": "https://cdn.radioafrica.digital/image/2026/08/8660fff1-67e6-41df-aff8-79a5aa4e3211.webp?1787625347576",
+        "publishedAt": "2026-08-25T02:00:00Z",
+        "source": "the-star.co.ke"
       },
       {
-        "title": "Caste divides make scorching summers harder in a parched corner of India",
-        "description": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b53c/live/9d016d70-9a00-11f1-ad4f-c7824f9e4997.jpg",
-        "publishedAt": "2026-08-24T23:36:58Z",
-        "source": "BBC"
+        "title": "Hate crimes unit investigating incident at Bathurst and Sheppard: Toronto police",
+        "description": "Toronto police's hate crimes unit is investigating an incident in North York on the weekend that Jewish groups say was \"blatant antisemitism.\"",
+        "url": "https://www.cbc.ca/news/canada/toronto/anti-semitic-incident-bathurst-sheppard-toronto-police-hate-crimes-9.7319221",
+        "image": "https://i.cbc.ca/ais/1.6800516,1787085414242/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+        "publishedAt": "2026-08-25T01:58:00Z",
+        "source": "cbc.ca"
       },
       {
-        "title": "Lindsay Clancy trial Day 19 recap of mistrial motion today",
-        "description": "Lindsay Clancy's defense moved to call a mistrial Monday amid the testimony of a prosecution's rebuttal witnesses. Here's what happened, with video from court.",
-        "url": "https://www.nbcconnecticut.com/news/local/lindsay-clancy-trial-day-19-live-updates/3767874/",
-        "image": "https://media.nbcconnecticut.com/2026/08/2026-08-21T182903Z_476778966_MT1USATODAY29635722_RTRMADP_3_DEFENDANT-LINDSAY-CLANCY-SITS-WITH-DEFENSE-ATTORNEY-KEVIN.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2026-08-24T23:30:58Z",
-        "source": "NBC Connecticut"
+        "title": "Bizarre video boasting $10 million bounty for Barron Trump sparks response from Secret Service",
+        "description": "The video has spread across social media after reportedly being aired by Iranian media.",
+        "url": "https://7news.com.au/news/bizarre-video-claiming-10-million-bounty-on-barron-trump-sparks-response-from-secret-service-c-22772179",
+        "image": "https://images.7news.com.au/publication/C-22772179/8fc7e6acc13684994bb82cafa3ffa5f19bfccb01-16x9-x0y0w1280h720.png?imwidth=1200",
+        "publishedAt": "2026-08-25T01:57:00Z",
+        "source": "7NEWS"
       },
       {
-        "title": "Missing hiker Lily Hooper found dead in Nattai National Park after 8-day search",
-        "description": "Australian hiker Lily Hooper, 18, was found dead in Nattai National Park bushland after an eight-day search, NSW Police said. A report will be prepared for the coroner.",
-        "url": "https://www.foxnews.com/travel/teen-hiker-disappearance-ends-tragedy-national-park-key-question-remaining",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/AUSTRALIA-NATTAI-NATIONAL-PARK-DEATH-HIKER-WHAT-TO-KNOW-2.jpg",
-        "publishedAt": "2026-08-24T23:30:29Z",
-        "source": "Fox News"
+        "title": "Indian student applications to US colleges drop 15% amid tougher visa rules: Report",
+        "description": "US & Canada News News: The tightening of US immigration and visa policies under Donald Trump administration appears to be taking a toll on Indian students hoping to study in.",
+        "url": "https://timesofindia.indiatimes.com/nri/us-canada-news/indian-student-applications-to-us-colleges-drop-15-amid-tougher-visa-rules-report/articleshow/133486864.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133486956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-25T01:55:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "What's the point? Viral video of 'aunties' dancing in Chinatown leaves netizens divided",
-        "description": "They may look like aunties you see in Chinatown, but they certainly don't move like them.A video of a dance troupe has gone viral after they were seen dancing with vigour inside a restaurant in Chinatown, according to a TikTok video uploaded by user Miaomiaoer422 on Sunday (Aug 23).The video has since garnered over 460,000 views and more than 20,200...",
-        "url": "https://www.asiaone.com/singapore/dancing-aunties-dance-troupe-chinatown-viral-gunkee-restaurant",
-        "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/24826_fulandancetroupe_tiktok.jpg?itok=qSgYPuqk",
-        "publishedAt": "2026-08-24T23:30:00Z",
-        "source": "AsiaOne"
+        "title": "These African Cities Were Just Named Some Of The World's 'Best Cities For Street Food'",
+        "description": "Exploring Africa's small chops and snacks just got easier thanks to a recent ranking of the \"best cities for street food\" in the world.",
+        "url": "https://travelnoire.com/best-street-food-cities-african-destinations",
+        "image": "https://cms.travelnoire.com/wp-content/uploads/2026/08/Tourists-in-Djemaa-el-Fna-square-at-sunset-Marrakech-Morocco-1568x1045.jpg",
+        "publishedAt": "2026-08-25T01:54:38Z",
+        "source": "Travel Noire"
       }
     ],
     "business": [
       {
-        "title": "generated music to be banned from ARIA charts",
-        "description": "Songs created mostly or entirely by artificial intelligence will be excluded from Australia's official music charts from this Friday.",
-        "url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4305c5850797519cf17b18a4de0148ab?impolicy=wcms_watermark_news&cropH=640&cropW=1138&xPos=33&yPos=0&width=862&height=485&imformat=generic",
-        "publishedAt": "2026-08-24T23:37:44Z",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        "title": "Target apologizes for children’s clown Halloween costume after backlash",
+        "description": "Target apologized on Monday and said it had pulled a Halloween costume from sale depicting a circus clown that critics said evoked Blackface and minstrel shows.",
+        "url": "https://www.cnn.com/2026/08/24/business/target-apologizes-halloween-costume-backlash-hnk",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2254303707.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-08-25T02:06:00Z",
+        "source": "CNN"
       },
       {
-        "title": "Salt, Sunrise Expand Mobile Network Cooperation for Rural Coverage",
-        "description": "Salt and Sunrise Expand Mobile Network Cooperation for Rural Coverage",
-        "url": "https://www.thefastmode.com/technology-solutions/50326-salt-sunrise-expand-mobile-network-cooperation-for-rural-coverage",
-        "image": "https://www.thefastmode.com/media/k2/items/src/8b1598415a3cf57a465a611240b5566e.jpg?t=20260824_232059",
-        "publishedAt": "2026-08-24T23:33:50Z",
-        "source": "The Fast Mode"
+        "title": "JetBlue opens new Boston BlueHouse lounge",
+        "description": "JetBlue unveiled its new Boston Logan International Airport (BOS) lounge, featuring locally inspired food, cocktails, coffee and spaces. See what it's like inside.",
+        "url": "https://thepointsguy.com/news/jetblue-boston-lounge-bluehouse/",
+        "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/JetBlue-BlueHouse-Boston-7-1.jpg",
+        "publishedAt": "2026-08-25T02:04:40Z",
+        "source": "The Points Guy"
       },
       {
-        "title": "3 Singapore REITs I Would Buy and Hold for the Next 10 Years",
-        "description": "Discover which 3 Singapore REITs are worth buying and holding for the next decade based on quality and stability.",
-        "url": "https://thesmartinvestor.com.sg/3-singapore-reits-i-would-buy-and-hold-for-the-next-10-years/",
-        "image": "https://thesmartinvestor.com.sg/wp-content/uploads/2026/05/Bugis-Junction-CICT.png",
-        "publishedAt": "2026-08-24T23:30:00Z",
-        "source": "The Smart Investor"
+        "title": "Microsoft, Amazon, Google, Meta and Nvidia; Sam Altman is 'worried' about you; as may be one day ...",
+        "description": "Tech News News: OpenAI CEO Sam Altman says he worries that artificial intelligence could one day be controlled by only a handful of companies, models or individuals, .",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-amazon-google-meta-and-nvidia-sam-altman-is-worried-about-you-as-may-be-one-day-/articleshow/133487163.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133487180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-25T02:04:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "Singtel seeks FDI approval to enter India’s satellite communications market",
-        "description": "Singtel plans to enter Indias emerging satellite communications (satcom) market, targeting public and private enterprises through its Indian subsidiary Singapore Telecom India.",
-        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/singtel-seeks-fdi-approval-to-enter-indias-satellite-communications-market/articleshow/133476699.cms?from=mdr",
-        "image": "https://img.etimg.com/thumb/msid-133486757,width-1200,height-630,imgsize-77280,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-24T23:30:00Z",
-        "source": "The Economic Times"
+        "title": "NYT Pips hints, answers for August 25, 2026",
+        "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+        "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-25-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/033HFkZMyGZ4Eng5Iwps0Tx/hero-image.fill.size_1200x675.v1787616299.jpg",
+        "publishedAt": "2026-08-25T02:03:37Z",
+        "source": "Mashable"
       },
       {
-        "title": "Bessent confirms Treasury auctions continue amid buyback increase",
-        "description": "Scott Bessent says Treasury auctions will continue as scheduled after the agency announced increased buybacks of longer-dated securities to support liquidity.",
-        "url": "https://www.foxbusiness.com/economy/scott-bessent-says-treasury-auctions-continue-usual-despite-expanded-buyback-program",
-        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-economic-statecraft-01.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-24T23:29:00Z",
-        "source": "Fox Business"
+        "title": "Southeast Asia’s budget airlines eye recovery but fuel scars linger",
+        "description": "Results from Malaysia’s AirAsia, Singapore Airlines’ budget arm Scoot and the Philippines’ Cebu Pacific showed efforts to recoup soaring fuel costs through higher fares fell short.",
+        "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/southeast-asia-budget-airlines-fuel/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/25/559216.JPG?v=3.1",
+        "publishedAt": "2026-08-25T02:01:00Z",
+        "source": "The Japan Times"
       },
       {
-        "title": "What’s likely to move the market",
-        "description": "The S&P 500 slipped to start the week as tech stocks tumbled on Monday. Tune in to CNBC Tuesday morning for Scott Kirby, CEO of United Airlines.",
-        "url": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108305564-1778591195464-gettyimages-2273088843-NVIDIA_Nemotron_3_Nano_Omni.jpeg?v=1787612443&w=1920&h=1080",
-        "publishedAt": "2026-08-24T23:24:12Z",
-        "source": "CNBC"
+        "title": "Australia’s most trusted and distrusted brands revealed",
+        "description": "Certain sectors took heavy hits to their reputation.",
+        "url": "https://www.nine.com.au/australia-news/australia-most-trusted-distrusted-brands-20260825-p60r8v.html",
+        "image": "https://static.ffx.io/images/$zoom_0.8277%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/4dacdde532051a60fe013888e174e6ac31b6daf7a31d0856c3dcba715d2ab93c",
+        "publishedAt": "2026-08-25T01:59:17Z",
+        "source": "Nine.com.au"
       },
       {
-        "title": "Another downtown eatery bites the dust",
-        "description": "Another longtime downtown Winnipeg restaurant has closed its doors, leaving another hole in the city’s core.",
-        "url": "https://www.winnipegfreepress.com/arts-and-life/food/2026/08/24/another-downtown-eatery-bites-the-dust",
-        "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/08/260824_rudys_2.jpg?w=1600",
-        "publishedAt": "2026-08-24T23:23:28Z",
-        "source": "Winnipeg Free Press"
+        "title": "Air safety concerns mount in Australia amid surge in close calls",
+        "description": "Sydney Airport recorded at least four near misses in the past month. Australia’s shortage of air-traffic controllers is showing signs of nearing a breaking...",
+        "url": "https://www.nzherald.co.nz/world/air-safety-concerns-mount-in-australia-amid-surge-in-close-calls/premium/OARJ6ZLCYZEEFPXSSUYPNUZT44/",
+        "image": "https://www.nzherald.co.nz/resizer/v2/WPEEZFIZTZCLDCHE7PJYM4IHPI.jpg?auth=dca3bc189000321e32e3c986c9a1d0ce7ed549a7ff56182e6d43c1f57ee36df2&width=1200&height=675&quality=70&focal=2159%2C1457&smart=false",
+        "publishedAt": "2026-08-25T01:58:42Z",
+        "source": "NZ Herald"
       },
       {
-        "title": "DLM Money Market Fund Tops Ranking With 20.69% Returns",
-        "description": "The DLM Money Market Fund led July 2026 rankings with a 20.69% YTD yield. Discover how this money market fund outperformed others.",
-        "url": "https://punchng.com/dlm-tops-money-market-ranking-with-20-69-returns/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/03/25005220/download-1.png",
-        "publishedAt": "2026-08-24T23:20:56Z",
-        "source": "Punch Newspapers"
+        "title": "California Gov. Newsom lists Sacramento mansion for $7.5 million",
+        "description": "The 12,700-square-foot mansion in Fair Oaks — an unincorporated community in Sacramento County bordering the American River — has been listed for $7.5 million.",
+        "url": "https://www.latimes.com/politics/story/2026-08-24/california-governor-newsom-selling-sacramento-mansion-for-7-5-million",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/dfb48ff/2147483647/strip/true/crop/4200x2205+0+156/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2f%2F47%2F598020e04ae4a88e439a395c6725%2Fla-photos-1staff-691041-me-0118-sacramento-newsom-home-capitol-2-gmf.jpg",
+        "publishedAt": "2026-08-25T01:58:23Z",
+        "source": "Los Angeles Times"
       }
     ],
     "science": [
+      {
+        "title": "Process doubles the size of PFAS molecules, making them easy to destroy",
+        "description": "Ask a chemist to name the strongest single bond in organic chemistry, and they'll likely say carbon-fluorine. It's that bond, repeated dozens of times over, that gives per- and polyfluoroalkyl substances (PFAS) their nickname: forever chemicals. Manufacturers prize PFAS for the same reason regulators dread them. The bonds barely break down, which is exactly why the compounds are so good at repelling water, oil and heat in everything from semiconductor fabrication to nonstick cookware. This is also why PFAS persist in soil, water and living tissue long after serving their industrial purpose.",
+        "url": "https://phys.org/news/2026-08-size-pfas-molecules-easy-destroy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/making-pfas-too-big-to.jpg",
+        "publishedAt": "2026-08-25T02:00:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Explainer: Why Chang'e-7 can't simply launch a few days later",
+        "description": "China's Chang'e-7 lunar mission will not launch during its planned window this year, after a comprehensive assessment found that the mission does not yet meet launch requirements, the China Manned Space Agency announced on Sunday.The decision was made",
+        "url": "https://news.cgtn.com/news/2026-08-25/Explainer-Why-Chang-e-7-can-t-simply-launch-a-few-days-later-1PT8y06o38A/p.html",
+        "image": "https://news.cgtn.com/news/2026-08-25/Explainer-Why-Chang-e-7-can-t-simply-launch-a-few-days-later-1PT8y06o38A/img/0957a77b354848cdad04080a19283f64/0957a77b354848cdad04080a19283f64-750.png",
+        "publishedAt": "2026-08-25T01:58:33Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+        "description": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy., , , , NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Launch coverage begins at 6:20 a.m., , , , Live coverage...",
+        "url": "https://www.webwire.com/ViewPressRel.asp?aId=359418",
+        "image": "https://photos.webwire.com/prmedia/8/359418/359418-1-m.jpg",
+        "publishedAt": "2026-08-25T01:07:30Z",
+        "source": "WebWire"
+      },
+      {
+        "title": "Is the ‘doomsday asteroid’ Apophis going to hit Earth? NASA now has a definite answer (and the specific time)",
+        "description": "Trending News: Is asteroid Apophis ever going to hit Earth?For a while, people had reason to worry. When astronomers first spotted it back in 2004, their early calcu.",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/is-the-doomsday-asteroid-apophis-going-to-hit-earth-nasa-now-has-a-definite-answer-and-the-specific-time/articleshow/133485712.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133485741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-25T00:53:00Z",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
+        "description": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.",
+        "url": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/blood-clotting-protein.jpg",
+        "publishedAt": "2026-08-25T00:00:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Moon's First Airport Opens: Now Boarding 240,000 Miles",
         "description": "The moon's getting its first airport, and it's about to get busy.Within the next two decades, NASA's planned Gateway — humanity's first lunar",
@@ -158,112 +198,72 @@
         "image": "https://www.biotechniques.com/wp-content/uploads/2026/08/bonsai.png",
         "publishedAt": "2026-08-24T23:37:30Z",
         "source": "BioTechniques"
-      },
-      {
-        "title": "NASA starshade would enable astronomers to directly image rocky exoworlds",
-        "description": "A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation extremely large ground-based optical telescopes.",
-        "url": "https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/nasa-starshade-would-e.jpg",
-        "publishedAt": "2026-08-24T23:20:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
-        "description": "Around 4.6 billion years ago, the solar system was little more than a giant ball of gas and dust. Over the next few million years, this \"solar nebula\" underwent a huge transformation, flattening into a disk of matter that then condensed to form the central sun and orbiting planets.",
-        "url": "https://phys.org/news/2026-08-meteorite-magnetism-sun.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/meteorite-dust-holds-r.jpg",
-        "publishedAt": "2026-08-24T23:10:01Z",
-        "source": "Phys.org"
-      },
-      {
-        "title": "Scientists develop a greener, catalyst-free, rocket thruster to power the next generation of spacecraft",
-        "description": "An ADN green rocket thruster ignited electrically at room temperature, eliminating the need for a preheated catalyst bed.",
-        "url": "https://www.thebrighterside.news/post/scientists-develop-a-greener-catalyst-free-rocket-thruster-to-power-the-next-generation-of-spacecraft/",
-        "image": "https://www.thebrighterside.news/uploads/2026/08/rocket.png?auto=webp",
-        "publishedAt": "2026-08-24T23:07:00Z",
-        "source": "The Brighter Side of News"
-      },
-      {
-        "title": "California will see a near-total, reddish lunar eclipse this week",
-        "description": "Earth’s shadow will cover 96% of the moon’s disk, resulting in a reddish appearance. The weather will be a factor in the San Francisco Bay Area.",
-        "url": "https://www.sfchronicle.com/science/space/article/partial-lunar-eclipse-california-22401490.php",
-        "image": "https://s.hdnux.com/photos/01/67/12/31/31237739/3/rawImage.jpg",
-        "publishedAt": "2026-08-24T22:57:43Z",
-        "source": "San Francisco Chronicle"
-      },
-      {
-        "title": "How the sun's galactic journey and superflare-filled youth shaped Earth's climate",
-        "description": "At the center of our solar system, the sun influences every planet that orbits it. In two recent studies, scientists uncovered how ancient events in the sun's history may have helped create Earth's unique climate and driven previously unexplained climatic shifts.",
-        "url": "https://phys.org/news/2026-08-sun-galactic-journey-superflare-youth.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-the-suns-galactic.jpg",
-        "publishedAt": "2026-08-24T22:50:01Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "AI scammers no longer need to hack your wallet if they can convince you to use it for them",
-        "description": "TRM says AI scams have reached a mature stage as attackers increasingly trick authorized users into signing valid transactions.",
-        "url": "https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them/",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/08/deepfake-transfer-security-risk.jpg",
-        "publishedAt": "2026-08-24T23:45:07Z",
-        "source": "CryptoSlate"
+        "title": "Anthony Albanese vows WA GST deal is safe as federal cabinet meets in Perth on AI standards",
+        "description": "The Prime Minister has doubled down on a multibillion-dollar promise to WA as pressure mounts over its GST deal.",
+        "url": "https://www.perthnow.com.au/news/politics/federal-politics/anthony-albanese-vows-wa-gst-deal-is-safe-as-federal-cabinet-meets-in-perth-on-ai-standards-c-22772783",
+        "image": "https://images.perthnow.com.au/publication/C-22772783/b2e5219b12f6e26d0478471c4ca14c372ba1d0f4-16x9-x0y0w3213h1807.jpg?imwidth=1200",
+        "publishedAt": "2026-08-25T02:05:15Z",
+        "source": "PerthNow"
       },
       {
-        "title": "Solid-state cooling could be the secret to faster AI laptops",
-        "description": "Memory bandwidth, not processing power, is becoming the real bottleneck for AI laptops. A new white paper explores why fan based cooling is struggling to keep up, and how solid state cooling could replace it.",
-        "url": "https://www.digitaltrends.com/computing/solid-state-cooling-could-be-the-secret-to-faster-ai-laptops/",
-        "image": "https://www.digitaltrends.com/tachyon/2026/01/ai-chip-image.jpg?resize=1200%2C630",
-        "publishedAt": "2026-08-24T23:43:17Z",
-        "source": "Digital Trends"
-      },
-      {
-        "title": "AI has the hype. These 3 FMCG stocks have pricing power - and growth",
-        "description": "FMCG stocks like Britannia, Nestle India, and Varun Beverages show strong growth and resilience despite geopolitical challenges, driven by quick-commerce expansion, new product launches, and robust brand moats.",
-        "url": "https://www.financialexpress.com/market/stock-insights/ai-has-the-hype-these-3-fmcg-stocks-have-pricing-power-and-growth/4324527/",
-        "image": "https://images.financialexpressdigital.com/2026/08/6qnnb0133abc33aczx31annab321aa0a12qaaab31.jpg",
-        "publishedAt": "2026-08-24T23:38:00Z",
-        "source": "The Financial Express"
-      },
-      {
-        "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
-        "description": "iOS 27, iPadOS 27, and macOS Golden Gate include Siri AI, Apple's much more capable version of Siri. When the new updates launch, it appears Apple will use a waitlist and limit initial access. On the MacRumors forums, Mactracker found that the seventh betas of iOS 27, iPadOS 27, and macOS Golden Gate include waitlist infrastructure. Apple will use dynamic wait time messages once a user joins the Siri AI waitlist.",
-        "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
-        "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
-        "publishedAt": "2026-08-24T23:36:50Z",
-        "source": "MacRumors"
-      },
-      {
-        "title": "Tencent Unveils Shooter AI Agent That Rejects Player Orders",
-        "description": "Tencent Games has unveiled an autonomous first-person shooter (FPS) AI agent architecture that evaluates whether to accept player instructions based on battlefield conditions rather than following them blindly.",
-        "url": "https://www.invenglobal.com/articles/25084/tencent-unveils-shooter-ai-agent-that-rejects-player-orders",
-        "image": "https://static.invenglobal.com/upload/image/2026/08/24/r1787614639403113.jpeg",
-        "publishedAt": "2026-08-24T23:35:51Z",
-        "source": "InvenGlobal"
-      },
-      {
-        "title": "Government looks to add more AI partners for digital projects",
-        "description": "India Business News: NEW DELHI: Govt is looking at widening its pool of technology partners for artificial intelligence (AI) and machine learning (ML) projects, with the m.",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/government-looks-to-add-more-ai-partners-for-digital-projects/articleshow/133484117.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133484161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-24T23:32:00Z",
+        "title": "Microsoft, Amazon, Google, Meta and Nvidia; Sam Altman is 'worried' about you; as may be one day ...",
+        "description": "Tech News News: OpenAI CEO Sam Altman says he worries that artificial intelligence could one day be controlled by only a handful of companies, models or individuals, .",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-amazon-google-meta-and-nvidia-sam-altman-is-worried-about-you-as-may-be-one-day-/articleshow/133487163.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133487180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-25T02:04:00Z",
         "source": "Times of India"
       },
       {
-        "title": "3verest Builds Sovereign AI for Healthcare with Equinix Fabric Geo Zones",
-        "description": "A global healthcare cloud provider ensures AI workloads remain within borders while enabling secure medical imaging innovation",
-        "url": "https://itwire.com/business-it-news/data/3verest-builds-sovereign-ai-for-healthcare-with-equinix-fabric-geo-zones",
-        "image": "https://media.itwire.com/2026/08/24/3verest-builds-sovereign-ai-for-healthcare-with-equinix-fabric-geo-zones-677d66387ab8.jpg",
-        "publishedAt": "2026-08-24T23:28:56Z",
+        "title": "Great karma: 1 sachet a minute, 92% subscriber retention - Calmerceuticals founder Rose Rayner on data, AI and why she refused to manufacture offshore",
+        "description": "Calmerceuticals Founder, Rose Rayner, joined me for an iTWire TV video interview to talk through a set of numbers that would look good on any Australian direct-to-consumer...",
+        "url": "https://itwire.com/science-news/health/great-karma-1-sachet-a-minute-92-subscriber-retention-calmerceuticals-founder-rose-rayner-on-data-ai-and-why-she-refused-to-manufacture-offshore",
+        "image": "https://media.itwire.com/2026/08/25/great-karma-1-sachet-a-minute-92-subscriber-retention-calmerceuticals-founder-rose-rayner-on-data-ai-and-why-she-refused-to-manufacture-offshore-f037284aab39.webp",
+        "publishedAt": "2026-08-25T02:03:00Z",
         "source": "iTWire"
       },
       {
-        "title": "Tuya Reports Second Quarter 2026 Unaudited Financial Results",
-        "description": "SANTA CLARA, Calif., Aug. 25, 2026 /PRNewswire/ -- Tuya Inc. ('Tuya' or the 'Company') (NYSE: TUYA; HKEX: 2391), a global leading AI cloud platform service provider, today announced its unaudited financial results for the second quarter ended June 30, 2026.",
-        "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/tuya-reports-second-quarter-2026-unaudited-financial-results/2411348",
-        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-        "publishedAt": "2026-08-24T23:26:40Z",
-        "source": "The Manila Times"
+        "title": "Quote of the Day by Elon Musk: 'If something's important enough, you should try. Even if the probable outcome is failure'",
+        "description": "Elon Musk is a prominent billionaire entrepreneur, engineer, and tech mogul best known for founding and leading groundbreaking companies in space exploration, electric vehicles, and artificial intelligence.",
+        "url": "https://www.businesstoday.in/latest/world/story/quote-of-the-day-by-elon-musk-if-somethings-important-enough-you-should-try-even-if-the-probable-outcome-is-failure-550929-2026-08-25",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8c07e778467-elon-musk-x-171102105-16x9.png",
+        "publishedAt": "2026-08-25T02:00:03Z",
+        "source": "Business Today"
+      },
+      {
+        "title": "Using AI for healthcare advice",
+        "description": "More and more people are using AI agents to get healthcare advice, analyse their symptoms or screening results, and tailor treatment plans.",
+        "url": "https://www.thestar.com.my/lifestyle/health/2026/08/25/using-ai-for-healthcare-advice",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4071018.jpg",
+        "publishedAt": "2026-08-25T02:00:00Z",
+        "source": "The Star"
+      },
+      {
+        "title": "Buzzing stocks: Hind Copper, TCS, Ecofinity, IDFC First Bank, Axis Bank, Refex, Coromandel Intl, Ceigall, Afcons, Pace Digitek",
+        "description": "Explore recent market movements and corporate developments, including Hind Copper's stake sale and TCS's AI partnership with Porsche.",
+        "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-hind-copper-tcs-ecofinity-idfc-first-bank-axis-bank-fujiyama-coromandel-ceigall-afcons/article71387102.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/q6r3f7/article70563685.ece/alternates/LANDSCAPE_1200/buzzing%20stocks%205.jpg",
+        "publishedAt": "2026-08-25T01:56:52Z",
+        "source": "The Hindu Business Line"
+      },
+      {
+        "title": "Australia's top music charts ban AI songs",
+        "description": "SYDNEY - Music made by artificial intelligence will be banned from Australia's top charts under new guidelines aimed at protecting \"the human nature of artistry\", an industry body said Tuesday.",
+        "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3307580/australias-top-music-charts-ban-ai-songs",
+        "image": "https://static.bangkokpost.com/media/content/20260825/c1_6201225_700.jpg",
+        "publishedAt": "2026-08-25T01:52:00Z",
+        "source": "Bangkok Post"
+      },
+      {
+        "title": "SK Hynix union rejects wage agreement in narrow vote",
+        "description": "SK Hynix union members narrowly reject wage agreement over bonus payment terms amid strong profits from AI chip demand. Read more at straitstimes.com.",
+        "url": "https://www.straitstimes.com/asia/east-asia/south-koreas-sk-hynix-union-members-reject-wage-agreement-in-vote",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/069967d88ce3a2a2464fcc422dd6ed65193956c5ed485cf66243eb65a15c9dee",
+        "publishedAt": "2026-08-25T01:50:00Z",
+        "source": "The Straits Times"
       }
     ]
   }
