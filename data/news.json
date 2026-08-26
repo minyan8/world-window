@@ -1,140 +1,188 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-26T07:10:35.127Z",
+  "fetchedAt": "2026-08-26T08:02:01.036Z",
   "sections": {
     "world": [
       {
-        "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-        "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-        "url": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5da/live/34a325e0-a093-11f1-91dc-4919512f173f.jpg",
-        "publishedAt": "2026-08-25T19:08:37Z",
-        "source": "BBC"
+        "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
+        "description": "Russian President Vladimir Putin has decreed that the state can temporarily seize control of critical infrastructure facilities if private owners fail to protect them from Ukrainian drone attacks or rebuild them after the strikes.",
+        "url": "https://www.pbs.org/newshour/world/putin-decree-lets-russia-take-control-of-infrastructure-damaged-in-ukrainian-drone-attacks",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-25T050018Z_1333787559_RC27WLAASBF0_RTRMADP_3_GLOBAL-OIL-DISRUPTION-1024x678.jpg",
+        "publishedAt": "2026-08-25T20:01:58Z",
+        "source": "PBS"
       },
       {
-        "title": "Pronged Strategy of Iran’s Islamic Republic",
-        "description": "The U.S.-Israeli Wars on Iran Achieved the Opposite of Their Intended Goal.",
-        "url": "https://opencanada.org/war-diplomacy-and-repression-the-three-pronged-strategy-of-irans-islamic-republic/",
-        "image": "https://opencanada.org/wp-content/uploads/2026/08/pexels-sima-ghaffarzadeh-164970869-14728401-scaled.jpg",
-        "publishedAt": "2026-08-25T19:08:15Z",
-        "source": "Open Canada"
+        "title": "CIA Director Ratcliffe's Surprise Moscow Trip Raises Questions Over Russia, Ukraine, Iran",
+        "description": "CIA Director John Ratcliffe made an unannounced visit to Moscow on August 25, US officials confirmed to RFE/RL, a rare trip that comes as Washington’s efforts to end Russia’s war against Ukraine have stalled and tensions over Moscow’s relationship with Iran have intensified.",
+        "url": "https://www.rferl.org/a/russia-us-cia-unannounced-rare-visit/33839330.html",
+        "image": "https://gdb.rferl.org/40f38eee-9dbd-433e-8053-ff8058fc28a5_cx0_cy4_cw0_w1200_h630.jpg",
+        "publishedAt": "2026-08-25T20:01:55Z",
+        "source": "Radio Free Europe/Radio Liberty"
       },
       {
-        "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
-        "description": "The confrontation threatened one of the world’s largest trading relationships and further strained ties between the United States and a country long considered one of its closest allies.",
-        "url": "https://www.1news.co.nz/2026/08/26/canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates/",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/minister-of-finance-and-national-revenue-francois-philippe-c-XBSGFZVNGNF6HITYP32TG4ZF2Y.jpg?auth=4575914aaa15a7accb8961d4f34b00d0a2f0421e1e18e740ec45c15e064871a9&quality=70&width=600&height=315&focal=4301%2C4376",
-        "publishedAt": "2026-08-25T19:05:29Z",
-        "source": "1News"
+        "title": "Foreign campaigners don’t have to disclose spend in Ireland",
+        "description": "CitizenGo has been carrying out a “name and shame” campaign.",
+        "url": "https://www.ontheditch.com/citizengo-the-american-led-campaign-group/",
+        "image": "https://storage.ghost.io/c/60/13/601376ae-90a0-4dd3-bd07-658ba046cb76/content/images/2026/08/IMG_2655-2.jpeg",
+        "publishedAt": "2026-08-25T19:59:25Z",
+        "source": "The Ditch"
       },
       {
-        "title": "Trump administration threatens to demolish Kennedy Center if renovations aren’t allowed",
-        "description": "The Kennedy Center may need to be demolished and replaced with an open-air performance space if its current building cannot undergo extensive renovations, lawyers for the venue said in court papers on Monday.",
-        "url": "https://www.cnn.com/2026/08/25/politics/demolish-kennedy-center-renovations",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-13t190234z-1741553113-rc2vxmad4f32-rtrmadp-3-usa-trump-kennedy-center.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-08-25T19:04:24Z",
-        "source": "CNN"
+        "title": "West and Ukraine must change strategic dynamics with Russia - former NATO deputy assistant secretary general",
+        "description": "Ukraine’s partners should join forces to counter Russia, in particular by implementing joint patrols of Ukrainian airspace. — Ukrinform.",
+        "url": "https://www.ukrinform.net/rubric-polytics/4157710-west-and-ukraine-must-change-strategic-dynamics-with-russia-former-nato-deputy-assistant-secretary-general.html",
+        "image": "https://static.ukrinform.com/photos/2026_08/thumb_files/630_360_1787658106-137.jpg",
+        "publishedAt": "2026-08-25T19:58:00Z",
+        "source": "Ukrinform"
       },
       {
-        "title": "Deep Sea Scientists Hunting a Shipwreck Accidentally Stumbled Across The Ocean's Own Backrooms",
-        "description": "More than 5,000 feet beneath the surface of the Gulf of Mexico, scientists encountered a truly alien landscape that might just haunt your dreams.",
-        "url": "https://www.sciencealert.com/deep-sea-scientists-hunting-a-shipwreck-accidentally-stumbled-across-the-oceans-own-backrooms",
-        "image": "https://www.sciencealert.com/images/2026/08/BackroomsWashing.jpg",
-        "publishedAt": "2026-08-25T19:00:35Z",
-        "source": "ScienceAlert"
+        "title": "Advanced Urology Physicians Named to Atlanta Magazine's 2026 Top Doctors List",
+        "description": "Dr. Marc Greenstein and Dr. Vik Sabarwal recognized among Georgia's leading physicians in the publication's annual peer-reviewed rankings",
+        "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/globenewswire/advanced-urology-physicians-named-to-atlanta-magazines-2026-top-doctors-list/2412109",
+        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/26/1190265.png",
+        "publishedAt": "2026-08-25T19:57:22Z",
+        "source": "The Manila Times"
       },
       {
-        "title": "Why online influencers are praising murderous dictators",
-        "description": "Trump himself, perhaps the biggest influencer of them all, appears more comfortable in the company of dictators than among America’s democratic allies.",
-        "url": "https://www.smh.com.au/national/are-murderous-dictators-really-so-bad-the-generation-turning-to-tyranny-20260825-p60rbn.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4027%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_463%2C$y_162/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/5c56a309f2469b05df5a684cefb98993dbd72e5b",
-        "publishedAt": "2026-08-25T19:00:00Z",
-        "source": "SMH.com.au"
+        "title": "Study reveals nuanced relationship between people and flooding in Congo Basin",
+        "description": "A first-of-its-kind ethnographic project in Africa’s Congo Basin shows the seasonal variability of flooding and other weather patterns across time and space — as well as people’s experiences and adaptations to it.",
+        "url": "https://news.yale.edu/2026/08/25/study-reveals-nuanced-relationship-between-people-and-flooding-congo-basin",
+        "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-08/YN-Woman-Child-flooding.jpg?h=03155992&itok=WpHqVGZu",
+        "publishedAt": "2026-08-25T19:56:17Z",
+        "source": "YaleNews"
       },
       {
-        "title": "One of the best things about London is under threat",
-        "description": "A summer’s day in London is a thing of beauty, especially since you’re allowed to do something there we’re not allowed to do in Australia.",
-        "url": "https://www.theage.com.au/traveller/reviews-and-advice/one-of-the-best-things-about-london-is-under-threat-20260825-p60rc7.html",
-        "image": "https://static.ffx.io/images/$zoom_0.26264880952380953%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_99/t_crop_custom/q_86%2Cf_auto/t_metro_traveller_no_label_no_age_social_wm/e0ad16837aee52fcd45dd3e197ca89f5475fd1a1",
-        "publishedAt": "2026-08-25T19:00:00Z",
+        "title": "Environmental watchdog challenges giant data centre project over noise fears",
+        "description": "The EPA has intervened on a data centre plan for the first time amid the state’s controversial tech infrastructure boom.",
+        "url": "https://www.theage.com.au/national/victoria/environmental-watchdog-challenges-giant-data-centre-project-over-noise-fears-20260825-p60rdk.html",
+        "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/df5b63127a667e98b5b3acfd0ef6d4bc1ea8b1d5",
+        "publishedAt": "2026-08-25T19:55:00Z",
         "source": "The Age"
       },
       {
-        "title": "Why online influencers are praising murderous dictators",
-        "description": "Trump himself, perhaps the biggest influencer of them all, appears more comfortable in the company of dictators than among America’s democratic allies.",
-        "url": "https://www.theage.com.au/national/are-murderous-dictators-really-so-bad-the-generation-turning-to-tyranny-20260825-p60rbn.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4027%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_463%2C$y_162/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/5c56a309f2469b05df5a684cefb98993dbd72e5b",
-        "publishedAt": "2026-08-25T19:00:00Z",
-        "source": "The Age"
+        "title": "ECA calls for a new fiscal compact between finance and health ministries to transform Africa’s health financing",
+        "description": "SPEAKING today at a ministerial dialogue held on the margins of the 76th WHO Regional Committee for Africa RC76, Aboubakri Diaw, Chief of Staff of the United Nations Economic Commission for Africa (ECA) and project lead for ECA's Sustainable Financing Imitative launched in March 2026, called for a fundamental reset in how African governments and",
+        "url": "https://realnewsmagazine.net/eca-calls-for-a-new-fiscal-compact-between-finance-and-health-ministries-to-transform-africas-health-financing/",
+        "image": "https://realnewsmagazine.net/wp-content/uploads/2026/08/image-1111.png",
+        "publishedAt": "2026-08-25T19:53:15Z",
+        "source": "Realnews Magazine"
       }
     ],
     "business": [
       {
-        "title": "Bellingham, already impacted by drop in B.C. visits, reacts to Canadian PM",
-        "description": "Bellingham residents are reacting to comments recently made by the Canadian PM, as well as the ongoing drop in B.C. travel.",
-        "url": "https://dailyhive.com/vancouver/bellingham-bc-tariffs-carney-travel",
-        "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/08/bc-bellingham.jpg?format=auto",
-        "publishedAt": "2026-08-25T19:09:00Z",
-        "source": "Daily Hive"
+        "title": "Scott Bessent, Stanley Druckenmiller and a hedge-fund legend hoist on his own petard",
+        "description": "The protege, the mentor, and a hedge-fund global macro strategy turned against its own pioneer as the bond vigilantes ride again.",
+        "url": "https://fortune.com/2026/08/25/scott-bessent-stanley-druckenmiller-and-a-hedge-fund-legend-hoist-on-his-own-petard/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290658325_9112c4-e1787685913269.jpg?resize=1200,600",
+        "publishedAt": "2026-08-25T20:01:00Z",
+        "source": "Fortune"
       },
       {
-        "title": "Kioxia's \"Blowout Profits\" Have Blind Spots: Massive South Korean Investment and Rising Chinese Players Loom",
-        "description": "Kioxia, a major NAND flash memory manufacturer, is posting what has been described as \"blowout profits,\" driven by the rapid expansion of AI data…",
-        "url": "https://finance.biggo.com/news/044d845d-e911-439e-90e0-60ef05c18707",
-        "image": "https://img.biggo.com/cpKS_fP0gW_HvqDxmwHLxN41j8VeqPntn2-g2FrkxHk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzA0NGQ4NDVkLWU5MTEtNDM5ZS05MGUwLTYwZWYwNWMxODcwN18xNzg3Njg1MDgwX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-08-25T19:07:25Z",
-        "source": "finance.biggo.com"
+        "title": "Canadians can boycott U.S. travel and alcohol. But investments are a different story",
+        "description": "Dropping the United States from an investment portfolio could have serious financial consequences",
+        "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-us-travel-alcohol-boycott-investments-stocks/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/YCB54TMY2FGZNDJQ4FJDI7GJJI.JPG?auth=b2e62c811b3f8c1beba6c2f78e40193c6d7ba122e0ed4873858a4a2c8261f961&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-08-25T20:00:01Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Dan Skelton eight-timer bid goes wrong as Beorma pulled up after early blunders",
-        "description": "The Dan Skelton-trained Beorma's unbeaten run came to an end as she was pulled up when bidding for an eighth consecutive victory. Seeyouinmydreams... Read More",
-        "url": "https://www.racingpost.com/news/reports/dan-skelton-eight-timer-bid-goes-wrong-as-beorma-pulled-up-after-early-blunders-a8P7U8p3717t/",
-        "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/de0085245a23-beorma.webp",
-        "publishedAt": "2026-08-25T19:05:12Z",
-        "source": "Racing Post"
+        "title": "Chris Hemsworth buys stake in Sydney whisky distillery Archie Rose",
+        "description": "“There’s no better guy” to help the booze brand take its whisky global, says the distillery’s founder.",
+        "url": "https://www.smh.com.au/goodfood/sydney-eating-out/from-thor-to-whisky-owner-actor-chris-hemsworth-buys-stake-in-archie-rose-20260825-p60r8j.html",
+        "image": "https://static.ffx.io/images/$zoom_0.09133%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_80/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/b5bbb54bb0425a881d7c67d4051c51faec72e484",
+        "publishedAt": "2026-08-25T19:59:00Z",
+        "source": "SMH.com.au"
       },
       {
-        "title": "Ethereum Price Surges Amid Technical and Macroeconomic Analysis",
-        "description": "Benjamin Cowen, a leading analyst in the cryptocurrency market, analyzed recent technical charts and macroeconomic developments affecting Ethereum (ETH). He hig",
-        "url": "https://www.kucoin.com/news/flash/ethereum-price-surges-amid-technical-and-macroeconomic-analysis",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.6.7-beta.0/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-08-25T19:04:43Z",
-        "source": "KuCoin"
+        "title": "Moody's Pushes Deeper Into AI With Google",
+        "description": "Proprietary financial data is becoming a new AI battleground",
+        "url": "https://finance.yahoo.com/technology/ai/articles/moodys-pushes-deeper-ai-google-195848899.html",
+        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "publishedAt": "2026-08-25T19:58:48Z",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "description": "The company's new fundraising total now stands at $232 million.",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
-        "publishedAt": "2026-08-25T19:03:47Z",
-        "source": "TechCrunch"
+        "title": "Swiss tourists' camper van towed at Squamish Walmart during grocery trip",
+        "description": "A Swiss couple's camper van was towed from a Squamish Walmart lot during a grocery run—the same week the District ordered a clear-out of vehicle residents on nearby Bailey Street.",
+        "url": "https://www.squamishchief.com/local-news/absolutely-appalling-swiss-tourists-van-towed-while-grocery-shopping-at-walmart-12705496",
+        "image": "https://www.vmcdn.ca/f/files/squamishchief/images/politics-local/ulrich-gerber-and-renate-schoeni.jpg;w=1200;h=800;mode=crop",
+        "publishedAt": "2026-08-25T19:56:00Z",
+        "source": "Squamish Chief"
       },
       {
-        "title": "Cathie Wood Keeps Buying SpaceX Stock. Here's Why I Wouldn't Buy It Above a $1.8 Trillion Valuation.",
-        "description": "Cathie Wood's Ark Invest has been buying SpaceX since its June 12 IPO. Should you follow suit?",
-        "url": "https://www.fool.com/investing/2026/08/25/cathie-wood-keeps-buying-spacex-on-the-way-down-is/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880701%2Fcathie-wood_ark-investment-management_ceo_imagesource_getty-images_3.jpeg&w=1200&op=resize",
-        "publishedAt": "2026-08-25T19:03:00Z",
-        "source": "The Motley Fool"
+        "title": "McDonald's Spicy Chicken McNuggets are coming back",
+        "description": "McDonald's is bringing back its Spicy Chicken McNuggets to the menu for a limited time.",
+        "url": "https://www.usatoday.com/story/money/food/2026/08/25/mcdonalds-spicy-chicken-mcnuggets/91457666007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91460331007-4-piece-spicy-mc-nuggets.png?crop=4995,2809,x0,y1997&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-25T19:54:00Z",
+        "source": "USA Today"
       },
       {
-        "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-        "description": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry",
-        "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-        "image": "https://i.guim.co.uk/img/media/0fbe91525cf1b46d937c6aa22ad80106e8a4af29/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=344590bc58be169e0b2d702d72a316be",
-        "publishedAt": "2026-08-25T19:02:00Z",
-        "source": "The Guardian"
+        "title": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
+        "description": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
+        "url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108351786-17871671372026-08-19t191640z_1943226963_rc2v1namf2q3_rtrmadp_0_usa-trump.jpeg?v=1787167215&w=1920&h=1080",
+        "publishedAt": "2026-08-25T19:51:31Z",
+        "source": "CNBC"
       },
       {
-        "title": "Stocks Rise Before Nvidia as Oil Drop Lifts Bonds: Markets Wrap",
-        "description": "(Bloomberg) -- Stocks rose as a decline in oil prices sent bond yields lower, with traders awaiting Nvidia Corp.’s earnings for clues on whether the outlook for artificial intelligence remains intact.",
-        "url": "https://www.swissinfo.ch/eng/stocks-rise-before-nvidia-as-oil-drop-lifts-bonds%3A-markets-wrap/91948594",
-        "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1764341318",
-        "publishedAt": "2026-08-25T19:00:03Z",
-        "source": "SWI swissinfo.ch"
+        "title": "Moderna cancer vaccine shows promise in melanoma trial results",
+        "description": "The personalized cancer vaccine being developed by Moderna and Merck has boosted hopes that mRNA technology could open up a ​new avenue of treatment.",
+        "url": "https://www.usatoday.com/story/news/health/2026/08/25/moderna-personalized-cancer-vaccine/91461701007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91462006007-20260825-t-162052-z-1999681698-rc-28-ldaoikiw-rtrmadp-3-healthmodernacancervaccine.JPG?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-25T19:50:00Z",
+        "source": "USA Today"
       }
     ],
     "science": [
+      {
+        "title": "Mission accomplished for Sophie Adenot: ISS antenna installed",
+        "description": "After her 18 August spacewalk as the first French woman in orbit, Sophie Adenot has again left the ISS with US astronaut Anil Menon to successfully replace a station antenna.",
+        "url": "https://www.euronews.com/next/2026/08/25/mission-accomplished-for-sophie-adenot-iss-antenna-installed",
+        "image": "https://images.euronews.com/articles/stories/09/88/85/49/1200x675_cmsv2_cdec8a8e-730d-5c40-9b7c-1c297ddff50d-9888549.jpg",
+        "publishedAt": "2026-08-25T20:01:06Z",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "Scientists Uncover Prehistoric Landscape Hidden Beneath the Great Barrier Reef",
+        "description": "The submerged landscape was once home to First Nations people thousands of years ago.",
+        "url": "https://gizmodo.com/scientists-uncover-prehistoric-landscape-hidden-beneath-the-great-barrier-reef-2000802859",
+        "image": "https://gizmodo.com/app/uploads/2026/08/research-vessel-1200x675.jpg",
+        "publishedAt": "2026-08-25T19:45:18Z",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "Surface Chemistry Shows Which Massive Stars Have Gained Mass from Binary Companions",
+        "description": "Most stars, including massive ones, are in binary pairs. Astronomers think that about 70% of them have gained mass from their companions, but there's been no way to determine which ones have done so. Now, researchers have found a way.",
+        "url": "https://www.universetoday.com/articles/surface-chemistry-shows-which-massive-stars-have-gained-mass-from-binary-companions",
+        "image": "https://www.universetoday.com/article_images/hpWRQLtpMVDH23PGbNyxdU-750-80_20260825_191700.jpg",
+        "publishedAt": "2026-08-25T19:39:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "In 2017, SpaceX proposed flying passengers from New York to Shanghai in 39 minutes by sending Starship through space and landing it vertically near the destination—and while that service remains specu",
+        "description": "SpaceX has demonstrated the high-speed flight and re-entry at the centre of its 2017 Earth-to-Earth animation, but not the passenger system required around it.",
+        "url": "https://spacedaily.com/t-spacex-earth-to-earth-new-york-shanghai-39-minutes/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/ship40-christmas-island-spacex-2-1-1024x768.jpg",
+        "publishedAt": "2026-08-25T19:30:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "NASA's Pandora Mission Probes Exoplanets, Host Stars",
+        "description": "5 min read\nPandora, NASA's newest exoplanet mission and the first satellite to launch through the agency's Astrophysics Pioneers program, is now",
+        "url": "https://www.miragenews.com/nasas-pandora-mission-probes-exoplanets-host-1732963/",
+        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/pandora/news/2026/Pandora_ArtistsConcept.jpg?w=6000&h=3000&fit=clip&crop=faces%2Cfocalpoint",
+        "publishedAt": "2026-08-25T19:26:00Z",
+        "source": "Mirage News"
+      },
+      {
+        "title": "Simulations reveal asymmetric diffusion of magnetic skyrmions through an off-center gate",
+        "description": "Diffusion is a fundamental natural phenomenon that can be observed across a wide range of length and time scales. It plays a key role in many fields, including physics, biology and economics. In particular, asymmetric or directional diffusion of particle systems has attracted growing interest for practical applications, including the development of unconventional artificial intelligence (AI) hardware, where it could enable nonlinear, geometry-controlled information processing.",
+        "url": "https://phys.org/news/2026-08-simulations-reveal-asymmetric-diffusion-magnetic.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/simulations-reveal-asy.jpg",
+        "publishedAt": "2026-08-25T19:20:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "The Atacama Cosmology Telescope’s oldest-light measurements strongly support a 13.8-billion-year-old universe—but one Ottawa physicist, motivated partly by Webb’s unexpectedly mature early galaxies, h",
         "description": "ACT’s final microwave-background measurements reinforce the 13.8-billion-year age, while Rajendra Gupta’s 26.7-billion-year result depends on a hybrid tired-light model and changing physical constants.",
@@ -150,120 +198,72 @@
         "image": "https://cdn.zmescience.com/wp-content/uploads/2026/08/wang-light-study.jpg",
         "publishedAt": "2026-08-25T18:57:30Z",
         "source": "ZME Science"
-      },
-      {
-        "title": "A Distant Stream of Stars May Offer New Clues to Dark Matter",
-        "description": "Dark matter continues to challenge astronomers as they work to solve the mystery of this so-far-unseen material that permeates the Universe. It's not that the stuff doesn't exist. It does, but we just can't see it. The only way it can be detected is by its gravitational effects on ordinary matter. A team of researchers led by University of Copenhagen PhD student Julie Kiel Holm has found a stream of stars stretching out more than 3,000 light-years from a globular cluster that appears to have been shaped by dark matter in a distant galaxy.",
-        "url": "https://www.universetoday.com/articles/a-distant-stream-of-stars-may-offer-new-clues-to-dark-matter",
-        "image": "https://www.universetoday.com/article_images/Kuglehobestr_m_1100x600_20260825_183618.jpg",
-        "publishedAt": "2026-08-25T18:53:00Z",
-        "source": "Universe Today"
-      },
-      {
-        "title": "Our Ancient Ancestors May Have Climbed Trees with ‘Monkey’ Feet",
-        "description": "An enduring debate in paleoanthropology asks what kind of foot the last common ancestor (LCA) of humans and chimpanzees had: one built like a modern ape’s for climbing straight up trees, or one built more like a generalized monkey’s, less suited to vertical climbing.",
-        "url": "https://www.sci.news/othersciences/anthropology/human-chimpanzee-last-common-ancestor-feet-15015.html",
-        "image": "https://cdn.sci.news/images/2022/12/image_11482f-Ardipithecus-ramidus.jpg",
-        "publishedAt": "2026-08-25T18:45:56Z",
-        "source": "Sci.News"
-      },
-      {
-        "title": "SpaceX sets a rocket-reuse record with Falcon 9 launch",
-        "description": "In its 100th Falcon 9 launch of the year, SpaceX marked a record-setting 37 missions for the rocket's first-stage booster, a reuse milestone.",
-        "url": "https://ca.news.yahoo.com/spacex-sets-rocket-reuse-record-183727385.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/121598b6bf9824650bea12defac2248b0330481eca6a245b1b9e787d7f535eee/lightyear_networkapi/resizefill_w800_h535%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F430dea741aeb18accc22d07bd9371911.jpg",
-        "publishedAt": "2026-08-25T18:37:27Z",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "reuse record with Falcon 9 launch",
-        "description": "In its 100th Falcon 9 launch of the year, SpaceX marked a record-setting 37 missions for the rocket's first-stage booster, a reuse milestone.",
-        "url": "https://www.upi.com/Top_News/US/2026/08/25/Falcon-9-booster-sets-reuse-record/7011787681645/",
-        "image": "https://cdnph.upi.com/sv/ph/og/upi/7011787681645/2026/1/c1c70ce2044b8dae6548baf82384c198/v1.5/SpaceX-sets-a-rocket-reuse-record-with-Falcon-9-launch.jpg",
-        "publishedAt": "2026-08-25T18:37:27Z",
-        "source": "upi.com"
-      },
-      {
-        "title": "NSF Invests $290M in Eight Quantum Research Institutes",
-        "description": "NSF is funding eight Quantum Leap Challenge Institutes over $290 million to advance quantum computing, sensing, networking and simulation.",
-        "url": "https://thequantuminsider.com/2026/08/25/nsf-invests-290m-eight-quantum-research-institutes/",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-25_23-06.png",
-        "publishedAt": "2026-08-25T18:21:22Z",
-        "source": "The Quantum Insider"
-      },
-      {
-        "title": "Ancient Proteins Resurrected, New Antibiotic Leads Found",
-        "description": "University of Oregon biologists have resurrected prehistoric proteins up to 160 million years old that carry natural antimicrobial properties. The",
-        "url": "https://www.miragenews.com/ancient-proteins-resurrected-new-antibiotic-1732934/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-        "publishedAt": "2026-08-25T18:12:00Z",
-        "source": "Mirage News"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI Claims an AI Chip Breakthrough. Broadcom Collaboration Jalapeño Beats Nvidia's GB300 in Tests.",
-        "description": "The new processor, called Jalapeño, outperformed Nvidia's GB300 in the amount of AI work completed per unit of power and the speed at which the system returned responses, according to the company.",
-        "url": "https://www.ibtimes.com/openai-claims-ai-chip-breakthrough-broadcom-collaboration-jalapeno-beats-nvidias-gb300-tests-3806779",
-        "image": "https://d.ibtimes.com/en/full/4650538/openai-broadcom-jalapeno.jpg",
-        "publishedAt": "2026-08-25T19:09:14Z",
-        "source": "International Business Times"
+        "title": "Robot 'parent' trained by AI preparing teachers for conflict amid exodus from profession",
+        "description": "La Trobe University is preparing student teachers with an AI-trained robot called Fletch that has learned common gripes from parents.",
+        "url": "https://www.abc.net.au/news/2026-08-26/robot-parent-trained-by-ai-preparing-teachers-conflict-at-school/107074928",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4d6bc54032d05afb4755ec3410960613?impolicy=wcms_watermark_news&cropH=2666&cropW=4740&xPos=0&yPos=250&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-08-25T20:01:46Z",
+        "source": "ABC (Australian Broadcasting Corporation)"
       },
       {
-        "title": "AI-led startups face takeoff hiccups as overreliance poses challenges",
-        "description": "AI is helping Indian founders build prototypes faster, but scaling these startups is proving harder as technology costs, bugs and weak product understanding emerge",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-led-startups-face-takeoff-hiccups-as-overreliance-poses-challenges-126082600029_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/thumb/fitandfill/1200X628/1787684890-3832.jpg",
-        "publishedAt": "2026-08-25T19:09:02Z",
-        "source": "Business Standard"
+        "title": "Best Crypto Presale: AlphaPepe With Two Audits and Live AlphaSwap AI DEX Builds Trust Before Launch",
+        "description": "Explore the best crypto presale opportunities as AlphaPepe strengthens its position with $2.5 million raised from over 11,100 holders.",
+        "url": "https://techbullion.com/best-crypto-presale-alphapepe-with-two-audits-and-live-alphaswap-ai-dex-builds-trust-before-launch/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/08/image2-25-1000x600.png",
+        "publishedAt": "2026-08-25T20:00:33Z",
+        "source": "TechBullion"
       },
       {
-        "title": "KFF Poll: More Americans turning to AI for health information and advice",
-        "description": "A new KFF poll finds AI tool usage for health information has nearly doubled since 2024, with 29% of U.S. adults now turning to chatbots monthly for medical guidance.",
-        "url": "https://www.cleveland.com/news/2026/08/kff-poll-more-americans-turning-to-ai-for-health-information-and-advice.html",
-        "image": "https://www.cleveland.com/resizer/v2/ODSBEGP6W5B35GX6SOEOJBMVBE.jpg?auth=5a2923423c2de7ca4cfd27e66284c076c3e6cd1e77f9b84972085179dbc12647&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-08-25T19:07:54Z",
-        "source": "cleveland.com"
+        "title": "How to Show Up in AI Search Results",
+        "description": "Customers are increasingly searching for answers on AI platforms, but how do you get your brand to show up there?",
+        "url": "https://techbullion.com/how-to-show-up-in-ai-search-results/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/08/pexels-bertellifotografia-16094040-1000x600.jpg",
+        "publishedAt": "2026-08-25T20:00:26Z",
+        "source": "TechBullion"
       },
       {
-        "title": "Sun Life sees long-term growth with Birla Group: CEO Kevin Strain",
-        "description": "Sun Life sees significant growth potential in India's insurance and wealth management sectors. The company is exploring new investment opportunities within the Indian market. Artificial intelligence will transform service delivery and enhance client understanding. Customer preferences are evolving towards integrated financial planning solutions. Sun Life aims to contribute to India's goal of universal insurance coverage.",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/sun-life-sees-long-term-growth-with-birla-group-ceo-kevin-strain/articleshow/133523476.cms",
-        "image": "https://img.etimg.com/thumb/msid-133523475,width-1200,height-630,imgsize-86868,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-25T19:06:00Z",
-        "source": "The Economic Times"
+        "title": "In Bay Street’s AI race, it’s judgment that counts, not speed",
+        "description": "Finding information first is no longer a competitive advantage",
+        "url": "https://www.theglobeandmail.com/business/commentary/article-bay-street-ai-information-markets/",
+        "image": "https://www.theglobeandmail.com/resizer/v2/3RPMF4GRBBEBRK4ZITFBMT6R4Y.JPG?auth=4951e2e5714529ae639239503962d97f28479493ab96dedded3735ec0b9b0903&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2026-08-25T20:00:00Z",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Fireflies to launch new products, plans India-specific pricing: CEO",
-        "description": "Fireflies.ai plans a broader AI product suite, India-specific pricing and local-language support as it expands from meeting notes to automating routine work",
-        "url": "https://www.business-standard.com/technology/artificial-intelligence/fireflies-to-launch-new-products-plans-india-specific-pricing-ceo-126082500909_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/thumb/fitandfill/1200X628/1787684629-1826.jpg",
-        "publishedAt": "2026-08-25T19:05:12Z",
-        "source": "Business Standard"
+        "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X For Agentic AI",
+        "description": "All together, these changes point toward a processor that is meticulously designed explicitly for AI compute, and indeed, Intel specifically notes that this",
+        "url": "https://www.europesays.com/3215205/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/16x9_2133x1200_highres-intel-crescent-island-graphic-768x432.jpg",
+        "publishedAt": "2026-08-25T19:59:44Z",
+        "source": "EUROPE SAYS"
       },
       {
-        "title": "'Rapidly losing the public': expert backs AI reforms",
-        "description": "Data centre developers are being accused of failing to win a social licence for their projects as the prime minister spearheads talks for a national agreement.",
-        "url": "https://www.perthnow.com.au/news/politics/rapidly-losing-the-public-expert-backs-ai-reforms-c-22776905",
-        "image": "https://images.perthnow.com.au/publication/C-22776905/450ab0ab6d42e0daa9869350f43ead058aae7e99-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-08-25T19:04:47Z",
-        "source": "PerthNow"
+        "title": "Google Agentic AI Meets Verified Data For Finance",
+        "description": "Dun & Bradstreet (D&B) is bringing its\"Commercial Graph\" into \"Gemini Enterprise for Financial Services\" by Google Cloud via Model Context Protocol",
+        "url": "https://www.europesays.com/3215203/",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/08/https3A2F2Fmedia.zenfs_.com2Fen2Fmediapost_4462F3b4a74e452d61457225beb49108f0813.jpg",
+        "publishedAt": "2026-08-25T19:57:35Z",
+        "source": "EUROPE SAYS"
       },
       {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "description": "The company's new fundraising total now stands at $232 million.",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
-        "publishedAt": "2026-08-25T19:03:47Z",
-        "source": "TechCrunch"
+        "title": "How small businesses are winning search visibility in 2026: SEO, digital PR, and the rise of AI content tools",
+        "description": "Search in 2026 looks nothing like it did five years ago. AI-generated overviews now answer many queries before a user ever clicks a link.",
+        "url": "https://augustafreepress.com/commercial/how-small-businesses-are-winning-search-visibility-in-2026-seo-digital-pr-and-the-rise-of-ai-content-tools/",
+        "image": "https://augustafreepress.com/wp-content/uploads/2026/08/search-results-SEO-computer-internet.jpg",
+        "publishedAt": "2026-08-25T19:47:24Z",
+        "source": "Augusta Free Press"
       },
       {
-        "title": "Financial watchdog sinks teeth into rapid tech changes",
-        "description": "Protecting consumers amid emerging new financial systems and adapting to artificial intelligence are leading challenges for Australia's financial watchdog.",
-        "url": "https://www.perthnow.com.au/news/business/financial-watchdog-sinks-teeth-into-rapid-tech-changes-c-22776893",
-        "image": "https://images.perthnow.com.au/publication/C-22776893/5e1ce5b1d0439c7698a26223d6e4f229cb45ae41-16x9-x0y0w1280h720.jpg?imwidth=1200",
-        "publishedAt": "2026-08-25T19:02:43Z",
-        "source": "PerthNow"
+        "title": "Global economy so far resisting Iran war energy shock, IMF chief says",
+        "description": "AI buildout helping offset energy supply headwinds, while Kristalina Georgieva warns of rising fiscal pressures",
+        "url": "https://www.thenationalnews.com/business/economy/2026/08/25/global-economy-so-far-resisting-iran-war-energy-shock-imf-chief-says/",
+        "image": "https://www.thenationalnews.com/resizer/v2/24C67WVUSVLPLLK7F7AUYSJDL4.jpg?smart=true&auth=a400a828c265b3d36112929bf8af7dbeffa6075339e472f3702ea4e87c23808d&width=1200&height=630",
+        "publishedAt": "2026-08-25T19:46:56Z",
+        "source": "The National"
       }
     ]
   }
