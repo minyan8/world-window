@@ -1,140 +1,196 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-08-26T13:19:06.476Z",
+  "fetchedAt": "2026-08-26T15:56:18.479Z",
   "sections": {
     "world": [
       {
-        "title": "US halts all immigrant visa applications amid tightening restrictions",
-        "description": "Move by state department to limit access is part of Trump’s crackdown on both lawful and undocumented immigration",
-        "url": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
-        "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/339_0_4858_3889/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67e2016f1609ca1c4f1321c858fb01e9",
-        "publishedAt": "2026-08-26T01:17:00Z",
-        "source": "The Guardian"
+        "title": "China: Dissident artist jailed for satirical Mao sculptures",
+        "description": "Sculptor Gao Zhen was charged under China's \"Law on the Protection ⁠of Heroes ​and Martyrs.\" His supporters have called for his immediate release.",
+        "url": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724",
+        "image": "https://static.dw.com/image/63961802_6.jpg",
+        "publishedAt": "2026-08-26T03:48:47Z",
+        "source": "DW.com"
       },
       {
-        "title": "Khairy seeks court order against MYNIC to uncover identity of ‘Corruption Watch’ author",
-        "description": "KUALA LUMPUR, Aug 26 — Former health minister Khairy Jamaluddin has launched legal action against national domain registry MYNIC Berhad in a bid to identify the owner of an...",
-        "url": "https://www.malaymail.com/news/malaysia/2026/08/26/khairy-seeks-court-order-against-mynic-to-uncover-identity-of-corruption-watch-author/232636",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/26/358801.jpg",
-        "publishedAt": "2026-08-26T01:15:44Z",
-        "source": "Malay Mail"
+        "title": "Oligarchs put on notice: pay up or face the consequences",
+        "description": "\"We have already managed to recover assets worth thousands of billions for the Hungarian state and, with it, for the Hungarian people — and the National Asset Recovery and Asset Protection Agency is only just beginning its operations,\" Prime Minister Péter Magyar wrote on his Facebook page on Tuesday.",
+        "url": "https://www.budapesttimes.hu/hungary/oligarchs-put-on-notice-pay-up-or-face-the-consequences/",
+        "image": "https://www.budapesttimes.hu/wp-content/uploads/2026/06/petermagyar20260426_01.jpg",
+        "publishedAt": "2026-08-26T03:47:11Z",
+        "source": "The Budapest Times"
       },
       {
-        "title": "Khairy seeks court order against MYNIC to uncover identity of ‘Corruption Watch’ author",
-        "description": "KUALA LUMPUR, Aug 26 — Former health minister Khairy Jamaluddin has launched legal action against national domain...",
-        "url": "https://malaysia.news.yahoo.com/khairy-seeks-court-order-against-011112580.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/e3cb20c98ade6f017997c458de68f21bd0d6792071d6f2ef081a527e2d65fa7a/lightyear_networkapi/resizefill_w1000_h666%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2Fd5eaefef6319cad93c14d20bab2d9163.jpg",
-        "publishedAt": "2026-08-26T01:11:00Z",
-        "source": "Yahoo"
+        "title": "From MSMEs to Clean Energy: ADB’s $9.5 Billion Push Expands Asia-Pacific Investment",
+        "description": "ADB’s private sector financing surged 38% to $9.5 billion in 2025, mobilizing commercial capital for clean energy, MSMEs, housing, water, agriculture and digital infrastructure across Asia-Pacific. The expansion creates new opportunities for businesses and investors while challenging policymakers to ensure private capital delivers affordable services, inclusive growth and measurable development impact, particularly in frontier economies.",
+        "url": "https://www.devdiscourse.com/article/other/3967327-from-msmes-to-clean-energy-adbs-95-billion-push-expands-asia-pacific-investment",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/25_08_2026_09_47_53_7057827.png&width=920&format=jpeg",
+        "publishedAt": "2026-08-26T03:46:09Z",
+        "source": "Devdiscourse"
       },
       {
-        "title": "Trade war erupts: Canada slaps 15-50pc tariffs on US goods in revenge for Trump duties",
-        "description": "OTTAWA, Aug 26 — Canada yesterday announced counter-tariffs on US goods ranging between 15 and 50 per cent, intensifying the trade war between the historically close...",
-        "url": "https://www.malaymail.com/news/money/2026/08/26/trade-war-erupts-canada-slaps-1550pc-tariffs-on-us-goods-in-revenge-for-trump-duties/232633",
-        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/26/358797.jpg",
-        "publishedAt": "2026-08-26T01:10:57Z",
-        "source": "Malay Mail"
+        "title": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
+        "description": "SEOUL: South Korean President Lee Jae Myung called for greater police accountability after public outrage over the handling of a series of missing-person cases on Jeju island, as reforms are set to give the force a bigger role in criminal investigations.\"Police are likely to wield the greatest power among sta",
+        "url": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566",
+        "image": "https://dam.mediacorp.sg/image/upload/s--MCpVQHvd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-26T034222Z_2_LYNXMPEM7P06Q_RTROPTP_3_SOUTHKOREA-POLICE-MISSING.JPG?itok=BFoAaUlD",
+        "publishedAt": "2026-08-26T03:46:00Z",
+        "source": "CNA"
       },
       {
-        "title": "U.S. military says it struck vessel in the Caribbean, killing four",
-        "description": "U.S. military strikes in the Caribbean kill four, sparking human rights groups' accusations of unlawful extrajudicial killings.",
-        "url": "https://www.thehindu.com/news/international/several-killed-as-us-military-says-it-struck-vessel-in-the-caribbean-updates/article71391222.ece",
-        "image": "https://th-i.thgim.com/public/news/national/yxoz59/article71391226.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-26%20063650.png",
-        "publishedAt": "2026-08-26T01:10:24Z",
-        "source": "The Hindu"
+        "title": "Amos Yee handed four charges for allegedly threatening racial harmony, supporting child sex",
+        "description": "SINGAPORE: Former child actor Amos Yee was handed four additional charges upon his return to the District Court on Aug 26.",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/26/amos-yee-handed-four-charges-for-allegedly-threatening-racial-harmony-supporting-child-sex",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4078415.png",
+        "publishedAt": "2026-08-26T03:45:00Z",
+        "source": "The Star"
       },
       {
-        "title": "Woman charged with attempted murder in domestic incident outside courthouse in Lake County, Indiana",
-        "description": "A witness told Lake County sheriffs that the woman hit a man riding on a motorcycle with a car, knocking him off, before chasing him with a knife on Monday afternoon.",
-        "url": "https://www.cbsnews.com/chicago/news/woman-charged-attempted-murder-domestic-incident-lake-county/",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/08/cdb92e79-dd8e-45b4-9052-91174f4e1775/thumbnail/1200x630/c812d41d0db86ccbaaadcae2d9dd3456/handcuff-getty-slider.jpg",
-        "publishedAt": "2026-08-26T01:10:00Z",
-        "source": "CBS News"
+        "title": "15 newborns killed in fire at Islamabad hospital's gynaecology ward in Pakistan",
+        "description": "Pakistan News: 15 newborns died after a fire broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (PIMS) in Islamabad on Wednesday.Accordi.",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/15-newborns-killed-in-fire-at-islamabad-hospitals-gynaecology-ward-in-pakistan/articleshow/133528725.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133528887,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-26T03:45:00Z",
+        "source": "The Times of India"
       },
       {
-        "title": "South Carolina chooses Darline Graham as Republican nominee for US Senate",
-        "description": "Darline Graham, sister of late Lindsey Graham and backed by Trump, overcomes concern about lack of experience",
-        "url": "https://www.theguardian.com/us-news/2026/aug/25/south-carolina-senate-republican-primary-runoff",
-        "image": "https://i.guim.co.uk/img/media/99d383f12c5ec9cecadc9baf491ec96a8595c2a8/985_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8802692117ce63fed9cb9898dfdfca09",
-        "publishedAt": "2026-08-26T01:06:00Z",
-        "source": "The Guardian"
+        "title": "R5.4bn a year: The cost of foreign inmates in SA prisons",
+        "description": "More than 30,000 foreign nationals are incarcerated in South Africa, costing the state billions annually, as a new agreement with Zimbabwe could eventually allow sentenced prisoners to serve sentences there.",
+        "url": "https://iol.co.za/news/politics/2026-08-26-r54bn-a-year-the-cost-of-foreign-inmates-in-sa-prisons/",
+        "image": "https://iol-prod.appspot.com/image/aed10adb4c2d22e6bb423e5fe64f01d491694d1d/1000/jpeg",
+        "publishedAt": "2026-08-26T03:45:00Z",
+        "source": "IOL"
       },
       {
-        "title": "NSW Liberals and Nationals: 'We'd restore Moore Park Golf Course'",
-        "description": "A change in government in New South Wales could see embattled Moore Park Golf Course returned to 18 holes after the next state election in March 2027.",
-        "url": "https://www.australiangolfdigest.com.au/nsw-liberals-and-nationals-wed-restore-moore-park-golf-course/",
-        "image": "https://www.australiangolfdigest.com.au/wp-content/uploads/2020/05/Moore_Park.jpg",
-        "publishedAt": "2026-08-26T01:02:23Z",
-        "source": "Australian Golf Digest"
+        "title": "Wealth Tax Information Resource Now Available at Family Enterprise USA Action; Monitors State & Federal ‘Savings Penalty Tax’ Proposals",
+        "description": "Family Enterprise USA Action Creates Online Resource Tool with Latest Information on Pending State and Federal Legislation Affecting Families of Family-Owned Businesses",
+        "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/plentisoft/wealth-tax-information-resource-now-available-at-family-enterprise-usa-action-monitors-state-federal-savings-penalty-tax-proposals/2412243",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "publishedAt": "2026-08-26T03:36:05Z",
+        "source": "The Manila Times"
       }
     ],
     "business": [
       {
-        "title": "Instagram head Mosseri denies encouraging suppression of child social media risks",
-        "description": "Adam Mosseri, the head of Instagram, is a central witness in the lawsuit by 29 U.S. states over whether Meta Platforms designed Instagram and Facebook to addict children.",
-        "url": "https://www.japantimes.co.jp/business/2026/08/26/tech/instagram-mosseri-child-social-media/",
-        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/26/559444.JPG?v=3.1",
-        "publishedAt": "2026-08-26T01:19:00Z",
-        "source": "The Japan Times"
+        "title": "DA revives push for mandatory half-cup rice servings in restaurants",
+        "description": "The Department of Agriculture (DA) is encouraging Filipinos to practice responsible rice consumption, including by promoting half-cup servings, as losses due to...",
+        "url": "https://mb.com.ph/2026/08/25/da-revives-push-for-mandatory-half-cup-rice-servings-in-restaurants",
+        "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/25/126430.webp",
+        "publishedAt": "2026-08-26T03:56:15Z",
+        "source": "Manila Bulletin"
       },
       {
-        "title": "Woolworths confirms major sales boost following Disney Ooshies craze",
-        "description": "Coles confirms impact, but stops short of revealing their next move.",
-        "url": "https://www.nine.com.au/business-news/woolworths-disney-ooshies-sales-boost-20260826-p60rnk.html",
-        "image": "https://static.ffx.io/images/$zoom_0.4993%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/894779890b429492300e428628e99e8632840b6aadbd39cbf812891d9d0ac480",
-        "publishedAt": "2026-08-26T01:12:37Z",
-        "source": "Nine.com.au"
+        "title": "Sumitomo Mitsui Trust Group's Amova to Form Asset Management Joint Venture with Vietnamese State",
+        "description": "Amova Asset Management, a unit of Sumitomo Mitsui Trust Group, announced on the 26th that it has reached an agreement with the Bank for Investment and…",
+        "url": "https://finance.biggo.com/news/fe57af6e-ff86-484f-a791-7c33851b526a",
+        "image": "https://img.biggo.com/ArnrWCQUu6scNBGAv7ol64OwomZkvmaTZXQ9oAe2sIM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2ZlNTdhZjZlLWZmODYtNDg0Zi1hNzkxLTdjMzM4NTFiNTI2YV8xNzg3NzE2OTUwX2RlZmF1bHQuanBn.jpg",
+        "publishedAt": "2026-08-26T03:55:00Z",
+        "source": "finance.biggo.com"
       },
       {
-        "title": "Why are WiseTech shares crashing 8.5% today?",
-        "description": "WiseTech Global Ltd (ASX: WTC) shares have fallen in early morning trade after investors took note of the company's latest financial update.",
-        "url": "https://www.fool.com.au/2026/08/26/why-are-wisetech-shares-crashing-8-5-today/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2026/08/woman-16.9-1200x675.jpg",
-        "publishedAt": "2026-08-26T01:11:23Z",
-        "source": "The Motley Fool Australia"
+        "title": "Industrial hemp sector wants more seed in the ground across New Zealand",
+        "description": "New Zealanders might start seeing what looks like illegal cannabis growing more in people's backyards or lifestyle blocks, as the industrial hemp industry expands access to seeds for aspiring growers.",
+        "url": "https://www.rnz.co.nz/news/country/1133265/industrial-hemp-sector-wants-more-seed-in-the-ground-across-new-zealand",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--DCvf46xG--/t_tohu-badge-facebook/f_auto/q_auto/4MF91EG_image_crop_117440",
+        "publishedAt": "2026-08-26T03:53:01Z",
+        "source": "RNZ"
       },
       {
-        "title": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
-        "description": "The AI tech leader has surpassed the Wall Street consensus earnings estimate in 22 of the past 24 quarters.",
-        "url": "https://www.fool.com/investing/2026/08/25/nvda-stock-earnings-q2-date-aug-26/",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884908%2Fnvidia-nvda-stock-earnings-q2.jpg&w=1200&op=resize",
-        "publishedAt": "2026-08-26T01:10:58Z",
-        "source": "The Motley Fool"
+        "title": "Hindustan Zinc stock jumps 5% as DIPAM eases OFS fears; Jefferies raises target on zinc, silver boost",
+        "description": "Hindustan Zinc shares surged after DIPAM Secretary Arunish Chawla said the government was not looking at a stake sale in the company at the moment, easing OFS concerns that had weighed on the stock a day earlier. Jefferies' higher price target added to the positive sentiment.",
+        "url": "https://www.moneycontrol.com/news/business/markets/hindustan-zinc-stock-jumps-3-as-jefferies-raises-target-on-zinc-silver-boost-hindalco-slips-14015580.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2023/06/Hindalco.jpg",
+        "publishedAt": "2026-08-26T03:52:29Z",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Yamaha Promises to \"Redefine The Standard\" At EICMA",
-        "description": "Is a new Triple on the way? Yamaha has sent out a “Save the Date” notice, teasing an announcement for November 2 in Milan, which so happens to be the day before the EICMA show opens at the city in northern Italy. The notice itself is suitably enigmatic, considering we still have another two and a half months before the Milan show, but there may be some clues behind what Yamaha has in store. [cuttext][/cuttext] The brief message features the title “Redefine the Standard” above what looks like an",
-        "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/yamaha-promises-redefine-standard-eicma-010900421.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/1493f32a563cacf9608c96629ca8a5dede351a72f646ffdf08d7573a87477ba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorcycle_com_705%2F97e933c652633ee09bd6223e7f76cd19.jpg",
-        "publishedAt": "2026-08-26T01:09:00Z",
-        "source": "Yahoo Autos"
+        "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
+        "description": "Meta is on trial over claims it hooked young users on its platforms despite mental health risks.",
+        "url": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e2fa328ed-1787703203.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-26T03:50:24Z",
+        "source": "Al Jazeera"
       },
       {
-        "title": "China rushes to develop Moderna-style cancer vaccines amid market frenzy",
-        "description": "Chinese biotech firms are already working on more than 100 cancer vaccines. Now, many are seeing their shares surge amid Moderna’s breakthrough.",
-        "url": "https://www.scmp.com/business/china-business/article/3365261/china-rushes-develop-moderna-style-cancer-vaccines-amid-market-frenzy",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/26/fa41baa0-cbcb-4e46-8343-9948efb5ad0e_378cfc95.jpg?itok=Fi3IClC1&v=1787706034",
-        "publishedAt": "2026-08-26T01:00:45Z",
-        "source": "South China Morning Post"
+        "title": "General Motors Australia and NZ boss Jess Bala axed",
+        "description": "Prominent local General Motors boss Jess Bala has been axed by the company after three years in the role. - Speedcafe.com",
+        "url": "https://speedcafe.com/supercars-news-general-motors-australia-new-zealand-boss-jess-bala-axed-camaro/",
+        "image": "https://speedcafe.com/wp-content/uploads/2025/07/Supercars-Townsville-Friday-154.jpg",
+        "publishedAt": "2026-08-26T03:49:51Z",
+        "source": "Speedcafe.com"
       },
       {
-        "title": "From estate to lab - a journey of love and perseverance",
-        "description": "Yamunathevi Mathivanan shows that determination, supportive parents and a nagging worry about clean water can take one to an extraordinary level.",
-        "url": "https://www.freemalaysiatoday.com/category/leisure/2026/08/26/from-estate-to-lab-a-journey-of-love-and-perseverance",
-        "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/64963900-5ebd-4718-9914-5b0789dcbef6-Yamunathevi-emel-pic-240826-2.jpg",
-        "publishedAt": "2026-08-26T01:00:00Z",
-        "source": "Free Malaysia Today"
+        "title": "Vietjet launches Clark-Ho Chi Minh City flights starting Nov. 10",
+        "description": "Vietjet is making its Clark debut, opening a new direct link to Vietnam that lets travelers from Central and Northern Luzon skip the trip to Metro Manila.",
+        "url": "https://insiderph.com/vietjet-launches-clark-ho-chi-minh-city-flights-starting-nov-10",
+        "image": "https://insiderph.com/uploads/articles/thumb_1787715883837_9cpyaxk6ltm48fqdb2hn-800x600.webp?v=1",
+        "publishedAt": "2026-08-26T03:49:10Z",
+        "source": "InsiderPH"
       },
       {
-        "title": "Meta’s Instagram boss admits touting teen safety tool but omitting it wasn’t used",
-        "description": "Adam Mosseri, who oversees Instagram at Meta, admitted in a California court on Tuesday that he touted newly launched safety tools for teenagers without...",
-        "url": "https://www.nzherald.co.nz/world/metas-instagram-boss-admits-touting-teen-safety-tool-but-omitting-it-wasnt-used/AN25V6BJLFHAXFZD5J5M65XDGY/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/YBM6JHAT3NAI3ES7RACS2IQKKA.jpg?auth=7f53e482fb2643d5a8987676ecb19b6eda7b83af3e4820d1dccd04c614cdc216&width=1200&height=675&quality=70&focal=766%2C461&smart=false",
-        "publishedAt": "2026-08-26T00:56:58Z",
-        "source": "NZ Herald"
+        "title": "Inflation eases less than expected, making another interest rate hike more likely",
+        "description": "The Reserve Bank has warned that if we don’t see inflation coming down, it will have to raise interest rates again.",
+        "url": "https://theconversation.com/inflation-eases-less-than-expected-making-another-interest-rate-hike-more-likely-290333",
+        "image": "https://images.theconversation.com/files/755835/original/file-20260824-50-fsd31l.jpg?ixlib=rb-4.1.1&rect=0%2C251%2C4240%2C2120&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-08-26T03:44:00Z",
+        "source": "The Conversation"
       }
     ],
     "science": [
+      {
+        "title": "Reusable stencils create clean carbon nanotube patterns in single-stage process",
+        "description": "Researchers from Skoltech and their colleagues from Harbin Institute of Technology in China and ITMO University in Russia have devised a way to deposit elaborate geometric patterns of carbon nanotubes without wasting material. Such patterns are used in advanced optical devices and mechanical strain sensors for structural integrity monitoring.",
+        "url": "https://phys.org/news/2026-08-reusable-stencils-carbon-nanotube-patterns.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/faster-cheaper-cleaner.jpg",
+        "publishedAt": "2026-08-26T03:20:01Z",
+        "source": "Phys.org"
+      },
+      {
+        "title": "Ancient proteins revived to inspire new antimicrobial treatments",
+        "description": "University of Oregon biologists have resurrected prehistoric proteins up to 160 million years old that carry natural antimicrobial properties.",
+        "url": "https://www.news-medical.net/news/20260825/Ancient-proteins-revived-to-inspire-new-antimicrobial-treatments.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/pill_antibiotics-620x480.jpg",
+        "publishedAt": "2026-08-26T02:29:00Z",
+        "source": "News-Medical"
+      },
+      {
+        "title": "NASA’s James Webb Space Telescope detected water molecules and freshly produced silicate dust around a dying star seen just 0.55 light-years in projection from the Milky Way’s central black hole—showi",
+        "description": "Webb's MIRI spectrum identifies molecular water and oxygen-rich silicates around IRS 3, while projected geometry and the dust-production inference require careful separation.",
+        "url": "https://spacedaily.com/t-webb-irs3-projected-distance-water-silicate-spectrum/",
+        "image": "https://spacedaily.com/wp-content/uploads/2026/08/esa-webb-irs3-field-nircam-weic2617c-fhd.jpg",
+        "publishedAt": "2026-08-26T02:00:00Z",
+        "source": "Space Daily"
+      },
+      {
+        "title": "NASA, ESA astronauts complete spacewalk to install antenna",
+        "description": "NASA astronaut Anil Menon and European Space Agency (ESA) astronaut Sophie Adenot concluded a spacewalk outside the International Space Station on Tuesday, successfully installing and connecting a spare space-to-ground antenna.During the 6.5-hour spacewalk,",
+        "url": "https://news.cgtn.com/news/2026-08-26/NASA-ESA-astronauts-complete-spacewalk-to-install-antenna-1PUOkZF0EYE/p.html",
+        "image": "https://news.cgtn.com/news/2026-08-26/NASA-ESA-astronauts-complete-spacewalk-to-install-antenna-1PUOkZF0EYE/img/18f1003eb73c43dc8f8a658b456a19d6/18f1003eb73c43dc8f8a658b456a19d6-750.png",
+        "publishedAt": "2026-08-26T01:47:20Z",
+        "source": "news.cgtn.com"
+      },
+      {
+        "title": "HydroGym trains, assesses AI for actively controlling fluid dynamics",
+        "description": "A platform for training and comparing machine learning models for actively reducing drag, improving lift, cutting noise and managing heat has been launched by an international team including researchers at the University of Washington, University of Michigan Engineering, RWTH Aachen University and the Technical University of Munich.",
+        "url": "https://www.newswise.com/articles/hydrogym-trains-assesses-ai-for-actively-controlling-fluid-dynamics",
+        "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
+        "publishedAt": "2026-08-26T01:30:00Z",
+        "source": "Newswise"
+      },
+      {
+        "title": "New Simulations Show How Galactic Centers Grow Together",
+        "description": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping galactic centres across the Universe and the formation history of the Milky Way.",
+        "url": "https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together",
+        "image": "https://www.universetoday.com/article_images/Portrait_of_the_Great_Barred_Spiral_20260825_233846.jpg",
+        "publishedAt": "2026-08-26T01:28:00Z",
+        "source": "Universe Today"
+      },
+      {
+        "title": "Finns may live to 80 or 85, but productive healthy years average 43 to 46",
+        "description": "For the first time in Finland, population-level norm values have been established for estimating life expectancy adjusted for health-related functional capacity and productivity. The new study provides Finnish norm values for both everyday functioning and work ability, as well as for a newly developed measure, productivity-adjusted life expectancy.",
+        "url": "https://phys.org/news/2026-08-finns-productive-healthy-years-average.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/person-at-work-1.jpg",
+        "publishedAt": "2026-08-26T01:20:01Z",
+        "source": "Phys.org"
+      },
       {
         "title": "Griffith Observatory Hosts Stargazing Party For Blood Moon Eclipse",
         "description": "The partial lunar eclipse on August 27 will turn the moon blood red, and you can watch it from the Observatory.",
@@ -142,128 +198,72 @@
         "image": "https://media.timeout.com/images/105749326/image.jpg",
         "publishedAt": "2026-08-26T00:44:26Z",
         "source": "Time Out Worldwide"
-      },
-      {
-        "title": "After two decades in which standard cosmology favoured endless expansion, a Cornell-led team has calculated that one model consistent with recent dark-energy hints would halt cosmic expansion in 11 bi",
-        "description": "One axion-dark-energy model hides a negative cosmological constant beneath today’s acceleration, producing an 11-billion-year turnaround and a 33.3-billion-year lifespan.",
-        "url": "https://spacedaily.com/t-cornell-axion-dark-energy-big-crunch-20-billion-years/",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/08/luu-qiu-tye-big-crunch-scale-factor-1024x751.jpg",
-        "publishedAt": "2026-08-26T00:00:00Z",
-        "source": "Space Daily"
-      },
-      {
-        "title": "Scientists Reconstruct Sound of Jurassic Insects",
-        "description": "Using lasers, computer models and AI, researchers reconstructed the calls of 165-million-year-old relatives of modern crickets and katydids from fossilized wing fragments found in China.",
-        "url": "https://www.sci.news/paleontology/jurassic-insect-sounds-15017.html",
-        "image": "https://cdn.sci.news/images/2026/08/image_15017-Jurassic-Ensiferans.jpg",
-        "publishedAt": "2026-08-25T23:36:04Z",
-        "source": "Sci.News"
-      },
-      {
-        "title": "Bycatch Recording Offers Insights Into Sea Mammal Behavior",
-        "description": "Researchers from the University of St Andrews have gained unprecedented insight into sea mammal behaviour when becoming tangled in fishing nets.In a",
-        "url": "https://www.miragenews.com/bycatch-recording-offers-insights-into-sea-1733091/",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1517048676732-d65bc937f952%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-        "publishedAt": "2026-08-25T23:20:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "55-Million-Year-Old Penguin Fossils Preserve Clues to a Warmer Antarctica",
-        "description": "A team of paleontologists studying penguin fossils from Seymour Island found that ancient bird bones can preserve chemical evidence of past climate change.",
-        "url": "https://scitechdaily.com/55-million-year-old-penguin-fossils-preserve-clues-to-a-warmer-antarctica/",
-        "image": "https://scitechdaily.com/images/Emperor-Penguin-Antarctica-777x518.jpg",
-        "publishedAt": "2026-08-25T23:08:25Z",
-        "source": "SciTechDaily"
-      },
-      {
-        "title": "Unprecedented recording of bycatch incident gives crucial insight to sea mammal behaviour",
-        "description": "The acoustic and movement data from monitoring devices revealed two harbour porpoises foraging near a static fishing net off the coast of Cornwall. One animal then became entangled, the recordings were used to investigate in detail what happened next, as the entangled porpoise attempted to break free, and the two animals communicated.These extraordinary insights could be crucial in developing innovative techniques, like more acoustically reflective nets, to catch animals’ attention and make nets more noticeable, new types of net which allow larger, stronger species to break free and could further the development of biomimicry acoustic deterrence devices which send out warning sounds to scare certain species away.",
-        "url": "https://www.eurekalert.org/news-releases/1140922",
-        "image": "https://www.eurekalert.org/images/audioicon_e4_rel.jpg",
-        "publishedAt": "2026-08-25T23:07:37Z",
-        "source": "EurekAlert!"
-      },
-      {
-        "title": "Next-Gen Dish Boosts NASA's Deep Space Network",
-        "description": "Antennas soak in the summer Sun in August 2026 at the Deep Space Network's Goldstone complex near Barstow, California, including the recently",
-        "url": "https://www.miragenews.com/next-gen-dish-boosts-nasas-deep-space-network-1733069/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26777-d2026-0824-rl0031661-pano-med.jpg?w=2048",
-        "publishedAt": "2026-08-25T22:42:00Z",
-        "source": "Mirage News"
-      },
-      {
-        "title": "Adaptation and a 'Noah's Ark for trees' offer hope for endangered black ash",
-        "description": "With the invasive emerald ash borer beetle decimating black ash across North America, according to the U.S. Forest Service, a team led by researchers at Penn State conducted an expansive study of genetic diversity in black ash seeds collected across the tree's geographic range and stored in seed banks. The research was done with an eye toward someday reintroducing the ecologically and culturally important tree to U.S. and Canadian forests. As part of the research, the team established three large common gardens—experimental plantings—of black ash that someday may play a role in producing seeds needed to bring the species back.",
-        "url": "https://phys.org/news/2026-08-noah-ark-trees-endangered-black.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/adaptation-and-a-noahs-1.jpg",
-        "publishedAt": "2026-08-25T22:40:01Z",
-        "source": "Phys.org"
       }
     ],
     "ai": [
       {
-        "title": "Hallucinations, Watermarks, Removers, and a Squeezed Balloon",
-        "description": "AI safety has a friendly-fire problem. The technology that proves where AI text came from is weakening the technology that checks whether it is true.",
-        "url": "https://www.europesays.com/3215597/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/mohamed_hassan-businessman-9205819_1920.jpg",
-        "publishedAt": "2026-08-26T01:03:47Z",
-        "source": "EUROPE SAYS"
+        "title": "OpenAI's new Jalapeno chip beats NVIDIA in key AI tests",
+        "description": "OpenAI introduces its Jalapeño chip, promising lower latency and higher throughput, enabling faster and more efficient AI responses compared to competing systems.",
+        "url": "https://www.newsbytesapp.com/news/science/openai-s-new-jalapeno-chip-beats-nvidia-in-key-ai-tests/story",
+        "image": "https://i.cdn.newsbytesapp.com/images/l142_14321787715394.jpg",
+        "publishedAt": "2026-08-26T03:54:22Z",
+        "source": "NewsBytes"
       },
       {
-        "title": "Amazon service that Jeff Bezos called artificial AI is shutting down",
-        "description": "Amazon logo on brick office building facade with windows, San Francisco, California, Aug. 29, 2025.",
-        "url": "https://www.europesays.com/3215595/",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/08/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg",
-        "publishedAt": "2026-08-26T01:02:24Z",
-        "source": "EUROPE SAYS"
+        "title": "Protecting the thymus may improve lung cancer treatment outcomes",
+        "description": "Building on recent discoveries about the adult thymus, Mass General Brigham investigators used artificial intelligence to show that incidental radiation exposure to the thymus may influence outcomes in patients with lung cancer.",
+        "url": "https://www.news-medical.net/news/20260825/Protecting-the-thymus-may-improve-lung-cancer-treatment-outcomes.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+        "publishedAt": "2026-08-26T03:44:00Z",
+        "source": "News-Medical.net"
       },
       {
-        "title": "China event asks if Apec’s rules can close growing AI gap between rich and poor",
-        "description": "Conference hears that the bloc’s flexible structure could help in developing a fairer regulatory system.",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3365224/could-apecs-rules-help-close-growing-ai-gap-between-rich-and-poor",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/25/a686d7b1-5d95-44a8-ba91-66759c72c093_e2a1c268.jpg?itok=aDyL2-W2&v=1787657563",
-        "publishedAt": "2026-08-26T01:00:06Z",
-        "source": "South China Morning Post"
+        "title": "Jack Ma buys Alibaba stock to show support for AI buildout",
+        "description": "Ma bought more than HK$600 million ($76.5 million) worth of shares in recent days",
+        "url": "https://www.moneycontrol.com/world/jack-ma-buys-alibaba-stock-to-show-support-for-ai-buildout-article-14015591.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2021/04/jack-ma_shutterstock_1404202508.jpg",
+        "publishedAt": "2026-08-26T03:43:43Z",
+        "source": "Moneycontrol"
       },
       {
-        "title": "Megaport shares just plunged 20%. Is this a buying opportunity?",
-        "description": "Megaport shares have plunged 21% in five days, but with AI ambitions accelerating, is the sell-off a buying opportunity?",
-        "url": "https://www.fool.com.au/2026/08/26/megaport-shares-just-plunged-20-is-this-a-buying-opportunity/",
-        "image": "https://www.fool.com.au/wp-content/uploads/2024/12/new-tech-16.9-1200x675.jpg",
-        "publishedAt": "2026-08-26T00:58:29Z",
-        "source": "The Motley Fool Australia"
+        "title": "How do you safely test ‘superhuman’ AI models? No one really knows",
+        "description": "rregular, an Israeli startup that works with the Silicon Valley giants to assess their AI models before the technology is publicly released. The firm — which conducted the tests that went awry — is part of a group of startups that are doing the novel work of scrutinizing cutting-edge AI models to gauge their sophistication […]",
+        "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/how-do-you-safely-test-superhuman-ai-models-no-one-really-knows-10849832/",
+        "image": "https://images.indianexpress.com/2026/08/OpenAI-White-House-meeting.jpg",
+        "publishedAt": "2026-08-26T03:41:33Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Lubbock City Council receives AI data center petition, hears earful",
-        "description": "Lubbock's City Council has a decision on their hands next month on large-scale AI data centers in the city after receiving a citizen petition Tuesday.",
-        "url": "https://www.lubbockonline.com/story/news/politics/government/2026/08/25/lubbock-city-council-receives-ai-data-center-petition-setting-debate/91462918007/",
-        "image": "https://www.lubbockonline.com/gcdn/authoring/authoring-images/2026/08/26/NLAJ/91466866007-260825-city-council-07.jpg?crop=5058,2845,x0,y180&width=3200&height=1800&format=pjpg&auto=webp",
-        "publishedAt": "2026-08-26T00:52:49Z",
-        "source": "Lubbock Avalanche-Journal"
+        "title": "How do you safely test ‘superhuman’ AI models? No one really knows",
+        "description": "AI startup Irregular is now at the center of a debate over how to secure AI models when the technology is advancing so rapidly that it has outpaced even the best human hackers.",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-do-you-safely-test-superhuman-ai-models-no-one-really-knows-10849832/",
+        "image": "https://images.indianexpress.com/2026/08/OpenAI-White-House-meeting.jpg",
+        "publishedAt": "2026-08-26T03:40:35Z",
+        "source": "The Indian Express"
       },
       {
-        "title": "Handshakes Launches AI Agent to Transform Corporate Due Diligence and Investigation",
-        "description": "Drawing on decades of regulatory expertise, the beta AI-powered agent runs due diligence, risk screening, vendor onboarding and conflicts-of-interest checks in simple workflows.",
-        "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/handshakes-launches-ai-agent-to-transform-corporate-due-diligence-and-investigation/2412206",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/26/1190404.jpg",
-        "publishedAt": "2026-08-26T00:52:38Z",
-        "source": "The Manila Times"
+        "title": "Gradiant aims to double revenue to $1 billion in 3 years driven by AI data centres growth",
+        "description": "Gradiant targets $1 billion revenue in three years, focusing on AI data centres, semiconductors, and renewable energy growth.",
+        "url": "https://www.thehindubusinessline.com/companies/gradiant-aims-to-double-revenue-to-1-billion-in-3-years-driven-by-ai-data-centres-growth/article71391225.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/jcpzh7/article71391343.ece/alternates/LANDSCAPE_1200/gradiant-logo-site.jpg",
+        "publishedAt": "2026-08-26T03:36:55Z",
+        "source": "The Hindu Business Line"
       },
       {
-        "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
-        "description": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having families",
-        "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-        "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
-        "publishedAt": "2026-08-26T00:47:38Z",
-        "source": "The Guardian"
+        "title": "Founders once linked to Bezos project pitch AI that models physics, not language",
+        "description": "The new type of artificial intelligence model built by Anima Anandkumar and Benedikt Jenik has learned to predict physical phenomena in space and time.",
+        "url": "https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/",
+        "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/26/559470.JPG?v=3.1",
+        "publishedAt": "2026-08-26T03:35:29Z",
+        "source": "The Japan Times "
       },
       {
-        "title": "One in Five Australian Executives Say AI Errors Have Reached External Audiences or Boards, According to New Research From Workiva",
-        "description": "Although 79 per cent of executives are at least somewhat confident in AI output without human review, only 14 per cent believe their data quality is sufficient for AI use",
-        "url": "https://itwire.com/guest-articles/guest-research/one-in-five-australian-executives-say-ai-errors-have-reached-external-audiences-or-boards-according-to-new-research-from-workiva",
-        "image": "https://media.itwire.com/2026/08/26/one-in-five-australian-executives-say-ai-errors-have-reached-external-audiences-or-boards-according-to-new-research-from-workiva-91c51d3b12f2.webp",
-        "publishedAt": "2026-08-26T00:45:31Z",
-        "source": "iTWire"
+        "title": "Nothing OS 5.0 Announced: Android 17 Open Beta, Full Rollout Schedule, and Key Features",
+        "description": "Nothing OS 5.0 (Android 17) brings a Geist font refresh, a dedicated Glyph app, new AI tools, and a full Open Beta schedule starting August 26 for Nothing Phone (3).",
+        "url": "https://www.gizchina.com/nothing-phones-2/nothing-os-50-announced-android-17-open-beta-full-rollout-schedule-and-key-features",
+        "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-08%2Fnothing-6a8e5c694c1a1.png",
+        "publishedAt": "2026-08-26T03:32:00Z",
+        "source": "Gizchina.com"
       }
     ]
   }
