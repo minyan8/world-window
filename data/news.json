@@ -1,269 +1,269 @@
 {
   "provider": "gnews",
-  "fetchedAt": "2026-11-03T17:52:46.122Z",
+  "fetchedAt": "2026-11-03T23:27:56.645Z",
   "sections": {
     "world": [
       {
-        "title": "Bristol teenager 'doesn't remember life without arthritis'",
-        "description": "Annabelle, 17, hopes new research will find a cure for the painful, but common, condition.",
-        "url": "https://www.bbc.co.uk/news/articles/cwg5jpeznjeeo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c42/live/571a21e0-d6ae-11f1-ac90-f7afd947062e.jpg",
-        "publishedAt": "2026-11-03T05:49:12Z",
+        "title": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
+        "description": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the deadliest attacks of this war.”",
+        "url": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-02t212716z-2040630324-rc2qfoauapvf-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-11-03T11:26:55Z",
+        "source": "CNN"
+      },
+      {
+        "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
+        "description": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing",
+        "url": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
+        "image": "https://i.abcnewsfe.com/a/79473e76-48ab-436b-a3a6-029fe1de15b0/wirestory_d2720a5db90ab515720cc75060000873_16x9.jpg?w=1600",
+        "publishedAt": "2026-11-03T11:26:37Z",
+        "source": "ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "title": "Tremor Jolts Half of Colombia in Early Morning Hours",
+        "description": "A 5.6-magnitude earthquake struck central-western Colombia at 4:13 a.m., waking thousands of people and prompting evacuations.",
+        "url": "https://colombiaone.com/2026/11/03/tremor-jolts-half-of-colombia-in-early-morning-hours/",
+        "image": "https://colombiaone.com/wp-content/uploads/2026/11/Bogota-night-credit-Jorge-diaz-CC-SA-2.jpg",
+        "publishedAt": "2026-11-03T11:25:17Z",
+        "source": "ColombiaOne.com"
+      },
+      {
+        "title": "Flights from UK airports among four across Europe targeted by suspected bomb threats",
+        "description": "Planes in Warsaw, Murcia and Sofia are being checked for explosives following separate threats.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b459/live/61564d20-d774-11f1-a956-ff083523ef77.jpg",
+        "publishedAt": "2026-11-03T11:22:42Z",
         "source": "BBC"
       },
       {
-        "title": "Egypt • Yeast giant Lesaffre steps up investment amid rising competition",
-        "description": "The French group, the world's leading producer of baker's yeast, is expanding its Egyptian plant to boost exports across Africa as Chinese rival Angel Yeast strengthens its regional foothold.",
-        "url": "https://www.africaintelligence.com/north-africa/2026/11/03/yeast-giant-lesaffre-steps-up-investment-amid-rising-competition,110912630-art",
-        "image": "https://www.africaintelligence.com/utils/imagesocial/Linkedin?rnd=277970&web=1&text=MHhRQnptSlZoenljM1diOFdGK3I3L0RVZG1rMXJSakdPRC9yaU1QazRNdz01",
-        "publishedAt": "2026-11-03T05:44:02Z",
-        "source": "Africa Intelligence"
-      },
-      {
-        "title": "DRC • Businessman Saifee Durbar sets sights on oil in spite of doubtful credentials",
-        "description": "Having returned to the Central African Republic to work in the mining sector, the Indo-Pakistani businessman has expressed an interest in blocks 1 and 2 at Lake Albert. It's a move that has left the",
-        "url": "https://www.africaintelligence.com/central-africa/2026/11/03/businessman-saifee-durbar-sets-sights-on-oil-in-spite-of-doubtful-credentials,110912655-art",
-        "image": "https://www.africaintelligence.com/utils/imagesocial/Linkedin?rnd=771908&web=1&text=TDhwQzFPc001c0gydlFtcE5mN0Fkdz090",
-        "publishedAt": "2026-11-03T05:43:33Z",
-        "source": "Africa Intelligence"
-      },
-      {
-        "title": "Indian Sailor Killed In Attack On Cargo Vessel 'Al Jusufi' Off Oman Coast",
-        "description": "Taking to X, the minister said that while thirteen crew members were safely evacuated by the Omani Coast Guard, one sailor, identified as Gandhar Nahim Ajij from Gujarat, succumbed to his injuries.",
-        "url": "https://www.ndtv.com/world-news/indian-sailor-killed-in-attack-on-cargo-vessel-al-jusufi-off-oman-coast-12274884",
-        "image": "https://c.ndtvimg.com/2026-11/a118cres_indian-ship-attacked_625x300_03_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-03T05:41:02Z",
-        "source": "NDTV"
-      },
-      {
-        "title": "Why can't my SEND child from Flitwick take the bus with friends?",
-        "description": "Conor, who has severe special needs, can no longer travel on the bus he loves and is stuck at home.",
-        "url": "https://www.bbc.com/news/articles/cq1m4159ld24o",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e676/live/7782cc60-d6c8-11f1-ac20-7783925c811f.jpg",
-        "publishedAt": "2026-11-03T05:40:15Z",
-        "source": "BBC"
-      },
-      {
-        "title": "Trump's 'bizarre' last speech to wavering voters - fact checked",
-        "description": "On the eve of midterm elections with control of Congress at stake, the President made a long speech that was largely about a pond",
-        "url": "https://inews.co.uk/news/world/trumps-bizarre-last-speech-to-wavering-voters-fact-checked-4868637",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/11/SEI_319206180.jpg?crop=0px,68px,1920px,1085px&resize=1200,675",
-        "publishedAt": "2026-11-03T05:37:45Z",
-        "source": "The i Paper"
-      },
-      {
-        "title": "Malawi: Energy Minister Mathanga Faces Calls to Resign As HRDC Plans Protests",
-        "description": "Coalition sets November 17 demonstrations in Lilongwe, Zomba and Mzuzu, accusing minister of breaking promise to fix shortages by October 20",
-        "url": "https://allafrica.com/stories/202611030112.html",
+        "title": "Nigeria: NCDC - N10bn Health Security Fund Not Exclusively for Ebola Preparedness",
+        "description": "The Nigeria Centre for Disease Control and Prevention (NCDC) says the Federal Government released N10 billion to strengthen Nigeria's broader health security system, not exclusively for Ebola preparedness, amid public debate.",
+        "url": "https://allafrica.com/stories/202611030377.html",
         "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-        "publishedAt": "2026-11-03T05:34:45Z",
+        "publishedAt": "2026-11-03T11:19:41Z",
         "source": "allAfrica.com"
       },
       {
-        "title": "Africa: Canex Wknd - Turning Africa's Cultural Power Into Economic Wealth",
-        "description": "Hosting CANEX WKND provides Nigeria with an opportunity to demonstrate its creative capacity and strengthen its position as a meeting point for African commerce and culture.",
-        "url": "https://allafrica.com/stories/202611030114.html",
-        "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-        "publishedAt": "2026-11-03T05:34:45Z",
-        "source": "allAfrica.com"
+        "title": "India, Denmark explore deeper cooperation in offshore wind, green hydrogen and renewable energy",
+        "description": "India and Denmark are exploring opportunities to deepen cooperation in offshore wind, green hydrogen and renewable energy integration as the two countries look to strengthen their energy partnership, according to an official statement from the Embassy of Denmark.",
+        "url": "https://www.tribuneindia.com/news/business/india-denmark-explore-deeper-cooperation-in-offshore-wind-green-hydrogen-and-renewable-energy/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI5ZjQ3NTEwLWQ3NzgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+        "publishedAt": "2026-11-03T11:17:26Z",
+        "source": "The Tribune"
+      },
+      {
+        "title": "Global biodiversity summit ends with shortfall of funding for Africa, despite 30x30 push",
+        "description": "Environmental science and conservation news",
+        "url": "https://news.mongabay.com/short-article/2026/11/global-biodiversity-summit-ends-with-shortfall-of-funding-for-africa-despite-30x30-push/",
+        "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03110331/CBDCOP17-1678_0.jpg",
+        "publishedAt": "2026-11-03T11:16:09Z",
+        "source": "news - Mongabay"
+      },
+      {
+        "title": "U.S. to mediate Ukraine-Russia talks aimed at brokering \"next steps toward peace,\" U.S. envoy Witkoff says",
+        "description": "The envoy will also meet with European and NATO allies to discuss security guarantees for Ukraine.",
+        "url": "https://www.cbsnews.com/news/ukraine-russia-war-ceasefire-talks-witkoff/",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/59157633-7c00-4858-a0a2-e15ee8c65be8/thumbnail/1200x630/256dd5231769ffde84fc3445b00be5bb/ukraine-russia-war-2302862136.jpg",
+        "publishedAt": "2026-11-03T11:16:00Z",
+        "source": "CBS News"
       }
     ],
     "business": [
       {
-        "title": "North Korea Says It Wasn't Behind the $6.3 Billion Binance Hack",
-        "description": "North Korea called the FBI's allegation a \"grave political provocation.\"",
-        "url": "https://www.businessinsider.com/binance-hack-north-korea-denies-being-behind-missing-6-billion-2026-11",
-        "image": "https://i.insider.com/6ae95363426e175d4818d9e8?width=1200&format=jpeg",
-        "publishedAt": "2026-11-03T05:49:00Z",
-        "source": "Business Insider"
+        "title": "Should you buy shares in Shell?",
+        "description": "Despite a sharp rally, the oil giant’s valuation remains attractive as debt falls and shareholder returns look set to grow",
+        "url": "https://www.thetimes.com/business/companies-markets/article/should-you-buy-shares-in-shell-89gt632ht",
+        "image": "https://www.thetimes.com/imageserver/image/43a669d7-5d1c-41fd-81ca-b693b95f6900.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+        "publishedAt": "2026-11-03T11:27:26Z",
+        "source": "The Times"
       },
       {
-        "title": "Tesla sales dip in October, but Model Y remains well ahead of last year",
-        "description": "Tesla sales dipped in October as the EV giant's familiar quarterly delivery cycle continued. Meanwhile, Polestar also recorded a quieter month as its Australian sales continue to lag behind 2025.",
-        "url": "https://thedriven.io/2026/11/03/tesla-sales-dip-in-october-but-model-y-remains-well-ahead-of-last-year/",
-        "image": "https://thedriven.io/wp-content/uploads/2025/10/Tesla-Model-Y-Standard-Drone-Texas-Joe-Tegtmeyer.jpg",
-        "publishedAt": "2026-11-03T05:48:57Z",
-        "source": "The Driven"
+        "title": "Toronto’s child hunger rates nearly double amid food bank visit surge",
+        "description": "When Volodymyr Kravchuk visits the Daily Bread Food Bank, he’s constantly thinking about his two young sons.",
+        "url": "https://www.cp24.com/local/toronto/2026/11/03/torontos-child-hunger-rates-nearly-double-as-city-sees-41m-food-bank-visits-report/",
+        "image": "https://www.cp24.com/resizer/v2/IY2M2NSAVFKIIUYGAMVUQVN36U.jpg?smart=true&auth=d4b90b429473c60f86cd7f4a5e3f017885cd2dd4838a252d47e8f7d027cf6a81&width=1200&height=630",
+        "publishedAt": "2026-11-03T11:26:21Z",
+        "source": "CP24"
       },
       {
-        "title": "South Africa’s Aspen sells menopause treatment rights for $220 million but keeps 10-year European supply deal",
-        "description": "South Africa’s Aspen Pharmacare will sell Ovestin’s European rights to Ennogen for about $220 million while retaining manufacturing, service and distribution income. | Business Insider Africa",
-        "url": "https://africa.businessinsider.com/local/markets/south-africas-aspen-sells-menopause-treatment-rights-for-dollar220-million-but-keeps/8kh8bgg",
-        "image": "https://ocdn.eu/pulscms-transforms/1/vPpktkqTURBXy84OTQ1ZjZmNzdjNDI4ZTE5ZDBjYmJhOTcxOWQ4MjQ0OS53ZWJwkpUDACjNAirNATiTBc0EsM0Cdg",
-        "publishedAt": "2026-11-03T05:48:20Z",
-        "source": "Business Insider Africa"
+        "title": "Vedanta Limited Delivers Highest-ever Half-yearly Profit of $1.21 bn, up 151% YoY",
+        "description": "Vedanta Limited announced its consolidated results for the second quarter and half year ended 30 September 2026.",
+        "url": "https://www.businesswire.com/news/home/20261103287007/en/Vedanta-Limited-Delivers-Highest-ever-Half-yearly-Profit-of-%241.21-bn-up-151-YoY",
+        "image": "https://mms.businesswire.com/media/20261103287007/en/2956960/22/Picture1.jpg",
+        "publishedAt": "2026-11-03T11:26:00Z",
+        "source": "Business Wire"
       },
       {
-        "title": "Coca-Cola bottled water range recalled nationwide over potential choking hazard",
-        "description": "The drinks have been stocked by Australia’s biggest supermarket chains and sold everywhere from petrol stations to vending machines.",
-        "url": "https://7news.com.au/news/coca-cola-bottled-water-range-recalled-nationwide-over-potential-choking-hazard-c-23109683",
-        "image": "https://images.7news.com.au/publication/C-23109683/a2ee6020bf982a1c7eb33e77cc20099b527d59ef-16x9-x0y0w1920h1080.jpg?imwidth=1200",
-        "publishedAt": "2026-11-03T05:48:00Z",
-        "source": "7NEWS"
+        "title": "New TVS Apache 125 Debuts - 14.9 PS, Liquid Cooling, 6 Speed Gearbox",
+        "description": "The production-ready 125cc streetfighter targets European A1 licence holders with liquid cooling, KYB suspension, ByBre brakes and a connected 5-inch TFT",
+        "url": "https://www.rushlane.com/new-tvs-apache-125-debuts-14-9-ps-liquid-cooling-6-gear-12560172.html",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/New-TVS-Apache-125-launch-price-specs-6.jpg",
+        "publishedAt": "2026-11-03T11:25:22Z",
+        "source": "RushLane"
       },
       {
-        "title": "Work finishes on key Sizewell C Saxmundham rail junction",
-        "description": "The upgrades were carried out over nine days, Network Rail says.",
-        "url": "https://www.bbc.co.uk/news/articles/ck0e0jn07nzdo",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80aa/live/19a04b30-cc88-11f1-bed8-c51b95c602ec.jpg",
-        "publishedAt": "2026-11-03T05:47:52Z",
-        "source": "BBC"
+        "title": "Investors ready for possible shake-up in Congress as Election Day arrives",
+        "description": "The midterms come at ‌a fragile time for markets.",
+        "url": "https://www.reuters.com/business/investors-ready-possible-shake-up-congress-election-day-arrives-2026-11-03/",
+        "image": "https://www.reuters.com/resizer/v2/BRTWYB5XHVJM5JY7R5ZPDPK3WQ.jpg?auth=6429f7582cbcb6c56161342e8248e983f679e3c2182c3e6d90aa4ba896a6cccf&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-03T11:20:14Z",
+        "source": "Reuters"
       },
       {
-        "title": "\"I Lost 3 Years Of My Professional Life At Zoho\": Techie's Viral Post Sparks Debate",
-        "description": "He said he felt stressed, lost confidence and even started hating coding, but regained it all at startup MishiPay.",
-        "url": "https://www.ndtv.com/offbeat/i-lost-3-years-of-my-professional-life-at-zoho-techies-viral-post-sparks-debate-12274907",
-        "image": "https://c.ndtvimg.com/2026-11/ve2fjj64_he-clarified-he-does-not-blame-zoho-or-himself-_625x300_03_November_26.jpeg",
-        "publishedAt": "2026-11-03T05:45:50Z",
-        "source": "NDTV"
+        "title": "Labour promises ‘income for life’ in private pensions overhaul",
+        "description": "Sir Steve Webb warns over Government’s ‘hostility to pension freedoms’",
+        "url": "https://www.telegraph.co.uk/money/pensions/news/labour-plans-to-tear-up-pension-freedoms/",
+        "image": "https://www.telegraph.co.uk/content/dam/money/2026/11/03/TELEMMGLPICT000508103790_17937026855620_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+        "publishedAt": "2026-11-03T11:20:00Z",
+        "source": "The Telegraph"
       },
       {
-        "title": "OpenAI Commits 1,000 Megawatts to Grid Emergency Relief After UK Trial Proves AI Can Cut Power 40% in Seconds",
-        "description": "OpenAI committed 1,000 megawatts to grid demand response at its Georgia campus after a UK trial proved AI workloads can cut power by 40% in under a minute.",
-        "url": "https://www.techtimes.com/articles/329948/20261103/openai-commits-1000-megawatts-grid-emergency-relief-after-uk-trial-proves-ai-can-cut-power-40.htm",
-        "image": "https://d.techtimes.com/en/full/448374/openai.jpg",
-        "publishedAt": "2026-11-03T05:45:27Z",
-        "source": "Tech Times"
+        "title": "Germany to build new gas power stations as cover for wind and solar",
+        "description": "New gas-fired power stations to generate electricity during periods of low wind and sunshine are to be built across Germany by 2031, according to plans announced by the Federal Network Agency on Tuesd...",
+        "url": "https://www.yahoo.com/news/world/articles/germany-build-gas-power-stations-111949619.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/5db4bb9ab343e73dc01d2c921590b929f65a80abfc2a180443bbc80f3fa35723/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fcd980e7308a1cd185a2930a504ed10a6.jpg",
+        "publishedAt": "2026-11-03T11:19:49Z",
+        "source": "Yahoo"
       },
       {
-        "title": "RBA governor Bullock says it might be that this rate hike might not be enough",
-        "description": "Further remarks by Bullock in her press conference",
-        "url": "https://investinglive.com/central-banks/rba-governor-bullock-says-it-might-be-that-this-rate-hike-might-not-be-enough/",
-        "image": "https://investinglive.com/cms/media/Processed/Categories/featured/RBA_id_66b5f905-e7b5-42df-9ff8-3e80e6d31643_original-featured-1793682833.jpg?width=960&format=webp",
-        "publishedAt": "2026-11-03T05:41:50Z",
-        "source": "investingLive"
+        "title": "What’s the best small car for new drivers? With options for under €10,000",
+        "description": "Advice on your motoring queries, from buying and selling to issues with your current car",
+        "url": "https://www.irishtimes.com/motors/2026/11/03/whats-the-best-small-car-for-new-drivers/",
+        "image": "https://www.irishtimes.com/resizer/v2/VJ52M3QBF5GXTES4ZJL6D3EC3Q.jpg?smart=true&auth=e8ec1087e357d2dd136977a7e1967360511d0399c6ff6d19a9c4ecd198fce126&width=1200&height=630",
+        "publishedAt": "2026-11-03T11:19:32Z",
+        "source": "The Irish Times"
       }
     ],
     "science": [
       {
-        "title": "After 5 Years And 2.2 Billion Miles, NASA's Lucy Spacecraft Becomes First To Reach Jupiter Trojan Asteroids",
-        "description": "Jupiter Trojans are asteroids that share the gas giant's orbit around the Sun and exist on both sides, separated by more than 6 million miles.",
-        "url": "https://www.etvbharat.com/en/technology/nasa-lucy-spacecraft-becomes-first-to-reach-jupiter-trojan-asteroids-enn26110301980",
-        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/03-11-2026/1200-675-28024673-thumbnail-16x9-nasa-lucy-jupiter-trojan.jpg",
-        "publishedAt": "2026-11-03T05:43:10Z",
-        "source": "ETV Bharat"
+        "title": "Dark sky conference: Under One Sky, November 6-7",
+        "description": "On November 6-7, 2026, DarkSky International will hold a virtual dark sky conference called Under One Sky. Learn more about it and light pollution here.",
+        "url": "https://earthsky.org/human-world/dark-sky-conference-under-one-sky-november-6-7-2026/",
+        "image": "https://earthsky.org/upl/2026/09/under-one-sky-global-conference-dark-sky-e1789824255851.png",
+        "publishedAt": "2026-11-03T11:17:53Z",
+        "source": "EarthSky"
       },
       {
-        "title": "Cryopreservation of human hair follicles for organ culture",
-        "description": "Extracted human hair follicles are critically useful specimens for various purposes, ranging from basic research, such as skin and hair follicle biology, to applications, including hair drug testing and cell sources for regenerative medicine. The ability to cryopreserve hair follicles enables their use in large quantities at any desired time. This study investigated the feasibility of human hair follicles after cryopreservation using two approaches: slow freezing and vitrification. Slow freezing resulted in severe cell death and loss of hair shaft elongation in subsequent organ culture. Vitrification resulted in less cell death than slow freezing and approximately 75% hair shaft elongation relative to fresh hair follicles. Interestingly, vitrification induced a transition of the hair cycle from the anagen to catagen phase, which is a typical undesirable change in patients with alopecia. This transition was partially suppressed by minoxidil treatment in organ culture. These results suggest that, under the conditions tested, the vitrification protocol (15% DMSO and 15% EG with rapid cooling in liquid nitrogen) preserves human hair follicles substantially better than the slow freezing protocol (10% DMSO with cooling at 1 °C/min), and vitrification may provide beneficial hair follicle samples for testing hair drugs to alleviate the transition to the catagen phase.",
-        "url": "https://www.nature.com/articles/s41598-026-78938-9?error=cookies_not_supported&code=9ced3883-7035-4c34-b1c7-b6e7b87dbd10",
+        "title": "An extended Kalman filtering algorithm based on minimum robust weighted square error",
+        "description": "Traditional Kalman filtering is based on the minimum mean square error (MMSE) criterion and has been widely applied in state estimation. However, its performance can be considerably degraded in the presence of abnormal measurements, due to the sensitivity of MMSE to outliers. To address this problem, we design a robust weighted square error and integrate it into the Kalman filtering framework, resulting in the minimum robust weighted square error-based extended Kalman filtering (MRWSE-EKF) algorithm. This unified framework subsumes several existing robust Kalman filtering approaches as special cases. A generalized robust loss function is taken as an example to illustrate the guidelines for parameter settings. Simulation results demonstrate that the proposed algorithm effectively suppresses the influence of abnormal measurements and significantly improves state estimation accuracy in the presence of outliers. The parameter comparison results also reveal how different parameter settings affect filtering performance, providing practical guidelines for parameter selection.",
+        "url": "https://www.nature.com/articles/s41598-026-78985-2?error=cookies_not_supported&code=a5783756-9ab5-4c53-a006-49babcf0137c",
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-11-03T05:37:30Z",
+        "publishedAt": "2026-11-03T11:07:12Z",
         "source": "Nature"
       },
       {
-        "title": "Human speech follows the same patterns as birdsong — new research",
-        "description": "Discover groundbreaking research revealing universal acoustic patterns shared between human speech and birdsong, highlighting deep connections in vocalization across species.",
-        "url": "https://www.downtoearth.org.in/wildlife-biodiversity/human-speech-follows-the-same-patterns-as-birdsong-new-research",
-        "image": "https://cf-images.assettype.com/downtoearth%2F2026-11-03%2Fbbnjjvrp%2FiStock-1447033300.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-11-03T05:13:42Z",
-        "source": "Down To Earth"
+        "title": "Taurid meteor showers bring November fireballs to Saskatchewan skies",
+        "description": "Saskatchewan residents will have two opportunities to catch the annual Taurid meteor showers this November, with the Southern and Northern branches reaching their peaks on separate dates. The showers are known for producing occasional bright fireballs, making them an interesting target for observers willing to spend some time beneath the night sky. Related Stories: Artemis II mission carrying Canadian astronaut Jeremy Hansen targets April 1 launch Canadian astronaut part of historic Artemis II mission around the moon October offers several opportunities to spot planets in Saskatchewan skies ▶️ Stream this news story: 800 CHAB, Country 100, Mix 103 Two branches of one meteor shower The Taurids are divided into the Southern Taurids and Northern Taurids. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm1'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Both are associated with the Taurid meteor complex, which is linked to debris from Comet 2P/Encke. As Earth travels through the debris stream, small particles enter the atmosphere and burn up, creating the streaks of light commonly called shooting stars. The Southern Taurids are expected to peak overnight from Nov. 4 to 5, while the Northern Taurids reach their peak around Nov. 11 to 12. Although the showers have separate peak dates, their periods of activity overlap. A comet with a place in history Comet 2P/Encke holds a notable place in astronomy history. It was the second periodic comet identified after Halley's Comet and takes approximately 3.3 years to orbit the sun. Its debris is associated with the Taurid meteor complex, which Earth passes through each year. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm2'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Known for their fireballs The Taurids are not typically among the most prolific annual meteor showers. Their appeal comes from the possibility of seeing exceptionally bright meteors. Fireballs are particularly luminous meteors that can appear much brighter than ordinary shooting stars. Abigail Sadowski of the Kalium Observatory with the Royal Astronomical Society of Canada encourages observers to take advantage of November's opportunities to explore the sky.",
+        "url": "https://discovermoosejaw.com/articles/taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies",
+        "image": "https://dht7q8fif4gks.cloudfront.net/2026-10/stars%20%281%29.jpg",
+        "publishedAt": "2026-11-03T11:03:19Z",
+        "source": "DiscoverMooseJaw"
       },
       {
-        "title": "Study suggests human-driven climate change may have halted onset of a new ice age",
-        "description": "Researchers from Canada have shown that the vast Barnes Glacier was still expanding around 2,000 years ago. Their studies suggest climate change counteracted this, preventing a new ice age.",
-        "url": "https://www.euronews.com/2026/11/03/study-suggests-human-driven-climate-change-may-have-halted-onset-of-a-new-ice-age",
-        "image": "https://images.euronews.com/articles/stories/09/96/79/48/1200x675_cmsv2_5c517d4b-22f7-557b-aac1-e9c6ce0b1528-9967948.jpg",
-        "publishedAt": "2026-11-03T05:05:43Z",
-        "source": "Euronews.com"
+        "title": "Taurid meteor showers bring November fireballs to Saskatchewan skies",
+        "description": "Saskatchewan residents will have two opportunities to catch the annual Taurid meteor showers this November, with the Southern and Northern branches reaching their peaks on separate dates. The showers are known for producing occasional bright fireballs, making them an interesting target for observers willing to spend some time beneath the night sky. Related Stories: Artemis II mission carrying Canadian astronaut Jeremy Hansen targets April 1 launch Canadian astronaut part of historic Artemis II mission around the moon October offers several opportunities to spot planets in Saskatchewan skies ▶️ Stream this news story: 800 CHAB, Country 100, Mix 103 Two branches of one meteor shower The Taurids are divided into the Southern Taurids and Northern Taurids. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm1'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Both are associated with the Taurid meteor complex, which is linked to debris from Comet 2P/Encke. As Earth travels through the debris stream, small particles enter the atmosphere and burn up, creating the streaks of light commonly called shooting stars. The Southern Taurids are expected to peak overnight from Nov. 4 to 5, while the Northern Taurids reach their peak around Nov. 11 to 12. Although the showers have separate peak dates, their periods of activity overlap. A comet with a place in history Comet 2P/Encke holds a notable place in astronomy history. It was the second periodic comet identified after Halley's Comet and takes approximately 3.3 years to orbit the sun. Its debris is associated with the Taurid meteor complex, which Earth passes through each year. googletag.cmd.push(function() { if($(document).width()<900) { s = googletag.defineSlot('/50748803/dmj-all-bigbox', [300, 250], 'div-gpt-1648064270259-bbm2'); s.setConfig({targeting: {URL: [window.location.pathname]}}) s.setConfig({targeting: {position: [1648064270259]}}) s.setConfig({targeting: {story_id: 'taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies'}}) s.addService(googletag.pubads()); googletag.pubads().refresh([s], {changeCorrelator: false}); } }); Known for their fireballs The Taurids are not typically among the most prolific annual meteor showers. Their appeal comes from the possibility of seeing exceptionally bright meteors. Fireballs are particularly luminous meteors that can appear much brighter than ordinary shooting stars. Abigail Sadowski of the Kalium Observatory with the Royal Astronomical Society of Canada encourages observers to take advantage of November's opportunities to explore the sky.",
+        "url": "https://www.discovermoosejaw.com/articles/taurid-meteor-showers-bring-november-fireballs-to-saskatchewan-skies",
+        "image": "https://dht7q8fif4gks.cloudfront.net/2026-10/stars%20%281%29.jpg",
+        "publishedAt": "2026-11-03T11:01:51Z",
+        "source": "DiscoverMooseJaw"
       },
       {
-        "title": "NASA's Voyager 1 goes silent for 48 hours! What happened to the 49-year-old spacecraft 16 billion miles away?",
-        "description": "NASA's Voyager 1 unexpectedly went silent for nearly 48 hours after missing two scheduled communication sessions. The 49-year-old spacecraft has restored contact, but engineers are investigating the technical problem as it approaches a historic distance milestone.",
-        "url": "https://www.moneycontrol.com/science/nasa-s-voyager-1-goes-silent-for-48-hours-what-happened-to-the-49-year-old-spacecraft-16-billion-miles-away-article-14067312.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261103045914_Voyager.jpg",
-        "publishedAt": "2026-11-03T05:02:02Z",
-        "source": "Moneycontrol.com"
+        "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+        "description": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecules were widespread throughout the early Solar System.",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ryugu-sample-in-return-capsule.webp",
+        "publishedAt": "2026-11-03T11:00:02Z",
+        "source": "Science Daily"
       },
       {
-        "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
-        "description": "Posted: November 2, 2026 11:51 pm ET | Last Updated: November 2, 2026 11:51 pm ET | China is sharing more of its plans to land taikonauts on the Moon before 2030.",
-        "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
-        "image": "https://spacepolicyonline.com/wp-content/uploads/2024/07/Apollo-11-crew-300x236.webp",
-        "publishedAt": "2026-11-03T04:51:00Z",
-        "source": "Space Policy Online"
+        "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+        "description": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecules were widespread throughout the early Solar System.",
+        "url": "http://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ryugu-sample-in-return-capsule.webp",
+        "publishedAt": "2026-11-03T11:00:02Z",
+        "source": "Science Daily"
       },
       {
-        "title": "November meteor showers 2026: how and when to catch the Leonids and Taurids in the UAE",
-        "description": "Three meteor showers cross UAE skies this November. Here’s when they peak, what to expect and where to settle in for the clearest views",
-        "url": "https://www.cntravellerme.com/story/november-meteor-showers-2026-how-and-when-to-catch-the-leonids-and-taurids-in-the-uae",
-        "image": "https://media.cntravellerme.com/photos/6a71eed5e97e150d7fe9d092/16:9/w_1280,c_limit/1275762447",
-        "publishedAt": "2026-11-03T04:48:00Z",
-        "source": "Condé Nast Traveller Middle East"
+        "title": "5,300-year-old kidney stone the size of a grape found in Bronze Age man's burial near Black Sea",
+        "description": "Researchers identified a 5,300-year-old kidney stone in the burial of a Bronze Age cattle herder in Russia.",
+        "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea",
+        "image": "https://cdn.mos.cms.futurecdn.net/Ei8JmYB5euRjx7QRaoRvwe-1522-80.png",
+        "publishedAt": "2026-11-03T11:00:00Z",
+        "source": "Live Science"
       },
       {
-        "title": "Gas Produced Naturally Inside Our Bodies Could Fight Wound Infections, Shows Moth Study",
-        "description": "A gas naturally produced by our own bodies could one day help treat skin and wound infections, potentially offering a new approach alongside conventional antibiotics.",
-        "url": "https://www.etvbharat.com/en/health/study-gas-inside-us-could-fight-wound-infections-university-of-reading-enn26110301348",
-        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/03-11-2026/1200-675-28024041-thumbnail-16x9-wound-bandage.jpg",
-        "publishedAt": "2026-11-03T04:32:28Z",
-        "source": "ETV Bharat"
+        "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+        "description": "Why does Betelgeuse keep dimming and brightening? Discover the science behind Orion's famous red supergiant and its mysterious change in brightness.",
+        "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+        "image": "https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1782-80.jpg",
+        "publishedAt": "2026-11-03T11:00:00Z",
+        "source": "Space"
       }
     ],
     "ai": [
       {
-        "title": "SEOOnly Introduces AI Search Visibility Assessments for Australian Businesses",
-        "description": "As more Australians ask AI assistants for recommendations instead of searching, Melbourne search specialist SEOOnly is giving business owners a way to see whether ChatGPT, Gemini and Claude know who they are, and why competitors may be named first",
-        "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/seoonly-introduces-ai-search-visibility-assessments-for-australian-businesses/2460228",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/03/1289085.png",
-        "publishedAt": "2026-11-03T05:48:13Z",
-        "source": "The Manila Times"
-      },
-      {
-        "title": "1Crowd Partially Exits Mojro, Retains 75% of Its Holding",
-        "description": "Mumbai (Maharashtra) [India], November 3: 1Crowd, an Indian early-stage investment firm and startup ecosystem, today has partially exited its investment in Mojro, an AI-native B2B SaaS logistics planning and optimisation platform, delivering returns at a multiple of several times the principal invested. Having first invested in Mojro in February 2018, 1Crowd has sold 25% of its holding and continues to retain the remaining 75%, reaffirming its commitment to the company's growth.",
-        "url": "https://www.tribuneindia.com/news/business/1crowd-partially-exits-mojro-retains-75-of-its-holding/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE0Yzc2NjgwLWQ3NGEtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-        "publishedAt": "2026-11-03T05:47:33Z",
+        "title": "Diwali Buying Guide: Best Ai+ Smartphones and Tablets to Consider This Festive Season",
+        "description": "Delhi, India (NewsVoir) Diwali is more than a festival of lights. It is about being together, sharing laughter, creating memories and celebrating the little moments that make life special. From decorating our homes and capturing festive photographs to spending quality...",
+        "url": "https://www.tribuneindia.com/news/business/diwali-buying-guide-best-ai-smartphones-and-tablets-to-consider-this-festive-season-2-2/",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY4NzYxOTYwLWQ3NzktMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+        "publishedAt": "2026-11-03T11:27:24Z",
         "source": "The Tribune"
       },
       {
-        "title": "Anthropic IPO: What its latest financial filing reveals about AI growth",
-        "description": "Anthropic reported third-quarter revenue of nearly $17 billion, marking an extraordinary jump from $1.4 billion in the year-ago period. The latest figures, disclosed in an amended IPO filing, offer investors a closer look at the AI company's financial performance as it prepares for a potential blockbuster stock market debut. (Sources: CNBC, Reuters) Anthropic revenue soars to nearly $17 billion ahead of mega IPO",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-what-its-latest-financial-filing-reveals-about-ai-growth/slideshow/135484180.cms",
-        "image": "https://img.etimg.com/thumb/msid-135484180,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-11-03T05:47:00Z",
-        "source": "The Economic Times"
+        "title": "Jharkhand to launch AI-powered portal to track medicine supply, curb misuse of prescription drugs",
+        "description": "Jharkhand to launch an AI-powered portal to track medicine supply chains, flag suspicious drug sales, curb misuse, and let citizens report illegal sales.",
+        "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-to-launch-ai-powered-portal-to-track-medicine-supply-curb-misuse-of-prescription-drugs/articleshow/135494702.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135494677,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T11:25:00Z",
+        "source": "Times of India"
       },
       {
-        "title": "Barclays and Natwest signal start of banking’s AI job squeeze",
-        "description": "Barclays revealed sweeping job cuts in the third-quarter signalling the AI banking jobs squeeze had already begun.",
-        "url": "https://www.cityam.com/barclays-and-natwest-layoffs-signal-start-of-bankings-ai-job-squeeze/",
-        "image": "https://www.cityam.com/wp-content/uploads/2023/04/GettyImages-488766631-1.jpg",
-        "publishedAt": "2026-11-03T05:44:00Z",
-        "source": "City A.M."
+        "title": "The AI race is on: Are we prepared?",
+        "description": "This article is authored by Anuradha PS, professor, CHRIST University and Divyashree, professor, Alliance University.",
+        "url": "https://www.hindustantimes.com/ht-insight/future-tech/the-ai-race-is-on-are-we-prepared-101793704893030.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/Artificial_Intelligence_1740648561843_1793704963975_EOlW_d4fd24ea-7730-4517-8e2b-71b5bc085ed3_POMI.jpg",
+        "publishedAt": "2026-11-03T11:23:52Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "1Crowd Partially Exits Mojro, Retains 75% of Its Holding",
-        "description": "Mumbai (Maharashtra) [India], November 3: 1Crowd, an Indian early-stage investment firm and startup ecosystem, today has partially exited its investment in Mojro, an AI-native B2B SaaS logistics planning and optimisation platform, delivering returns at a multiple of several times the principal invested. Having first invested in Mojro in February 2018, 1Crowd has sold 25% of its holding and continues to retain the remaining 75%, reaffirming its commitment to the company's growth.",
-        "url": "https://www.aninews.in/news/business/1crowd-partially-exits-mojro-retains-75-of-its-holding20261103111349/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261103054307-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-11-03T05:43:49Z",
-        "source": "ANI (Asian News International)"
+        "title": "Enmovil Plans to Quadruple FDE Team as Enterprise AI Hiring",
+        "description": "Enmovil's expansion addresses the need for AI across complex supply chains, where solutions must fit unique customer workflows and operational limits.",
+        "url": "https://analyticsindiamag.com/ai-features/enmovil-plans-to-quadruple-fde-team-as-enterprise-ai-hiring-moves-beyond-coding",
+        "image": "https://analyticsindiamag.com/cdn-cgi/image/width=1200,quality=60,format=jpeg,fit=scale-down/https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1789981256514-6m80y.webp",
+        "publishedAt": "2026-11-03T11:22:52Z",
+        "source": "Analytics India Magazine"
       },
       {
-        "title": "Cyber Law Expert Puneet Bhasin’s New Book Explores Who Really Controls Human Choices in the Age of AI",
-        "description": "Mumbai (Maharashtra) [India], November 3: Are the thoughts, choices and decisions people make truly their own, or are algorithms, artificial intelligence and digital platforms quietly influencing them? This question lies at the heart of cyber law expert and advocate Puneet Bhasin’s new book, Who Controls Your Mind? Algorithms, Artificial Intelligence and the New Battle for Human Autonomy, published by Cursive, an imprint of OakBridge Publishing.",
-        "url": "https://www.tribuneindia.com/news/business/cyber-law-expert-puneet-bhasins-new-book-explores-who-really-controls-human-choices-in-the-age-of-ai/",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1MWU4NzQwLWQ3NDktMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-        "publishedAt": "2026-11-03T05:42:38Z",
-        "source": "The Tribune"
+        "title": "US, Europe, China to India: How higher education models are shaping future workforce",
+        "description": "Universities are reshaping HE to meet the demands of an AI-driven economy, with greater focus on industry integration, flexible learning and future-ready skills",
+        "url": "https://www.hindustantimes.com/education/features/us-europe-china-to-india-how-higher-education-models-are-shaping-future-workforce-101793703759322.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/photo-1589856211270-3f15905c8ad3_1793704276077_TUPo_1793704283991_zFBy_530a63b6-26e5-473c-a552-b6bb100f34c3_tMh3.jpg",
+        "publishedAt": "2026-11-03T11:22:12Z",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Cyber Law Expert Puneet Bhasin’s New Book Explores Who Really Controls Human Choices in the Age of AI",
-        "description": "Mumbai (Maharashtra) [India], November 3: Are the thoughts, choices and decisions people make truly their own, or are algorithms, artificial intelligence and digital platforms quietly influencing them? This question lies at the heart of cyber law expert and advocate Puneet Bhasin’s new book, Who Controls Your Mind? Algorithms, Artificial Intelligence and the New Battle for Human Autonomy, published by Cursive, an imprint of OakBridge Publishing.",
-        "url": "https://www.aninews.in/news/business/cyber-law-expert-puneet-bhasin8217s-new-book-explores-who-really-controls-human-choices-in-the-age-of-ai20261103111220/",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261103054155-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-11-03T05:42:20Z",
-        "source": "ANI (Asian News International)"
+        "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+        "description": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+        "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Blockstream-CEO-Adam-Back-gID_7.png",
+        "publishedAt": "2026-11-03T11:22:10Z",
+        "source": "Decrypt"
       },
       {
-        "title": "Google Dreambeans launched in India: AI app uses Gmail, YouTube, Photos and Gemini to create personalised stories",
-        "description": "Google has launched its experimental Dreambeans AI app in India, its first international market outside the US, for Android and iOS users aged 18 and above.",
-        "url": "https://www.livemint.com/ai/google-dreambeans-launched-in-india-ai-app-uses-gmail-youtube-photos-and-gemini-to-create-personalised-stories-11793684216646.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Screenshot_2026-11-03_110949_1793684406893_v44x_1793684413217_9FkZ_f171b888-50ad-4555-99b9-0bbc3e13b2b8_XnfE.png",
-        "publishedAt": "2026-11-03T05:42:09Z",
+        "title": "Nvidia is the central bank of AI",
+        "description": "Nvidia’s rapid growth is increasingly fueled by financial deals that help customers build data centres and buy its chips.",
+        "url": "https://www.livemint.com/global/nvidia-is-the-central-bank-of-ai-11793699271694.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/NVIDIA-CHINA--0_1793704796549_gGtv_1793704819792_3Kt3_6b5849b2-54d2-4564-b305-722f865ffbf8_TeHs.JPG",
+        "publishedAt": "2026-11-03T11:21:07Z",
         "source": "Livemint"
+      },
+      {
+        "title": "Shadowfax Q2FY27 earnings call: Revenue up 57% YoY, margins expand",
+        "description": "Revenue grew 56.6% YoY to ₹1,538 crore, crossing ₹1,500 crore for the first time. Net profit surged 422% YoY to ₹68 crore, with Adjusted EBITDA margin at 5.0%. Launched Micro-Fulfilment Centers (MFCs) targeting 8-12 hour delivery for D2C brands. Largest customer exposure reduced by 3-4 percentage points due to D2C/SME growth. Deployed AI network optimization engine to improve freight planning and reduce costs.",
+        "url": "https://scanx.trade/stock-market-news/companies/shadowfax-technologies-q2fy27-results-net-profit-up-422-yoy-67-95/54808013",
+        "image": "https://news-images.dhan.co/shadowfax-technologies-q2fy27-results-net-profit-up-422-yoy-67-95.jpg",
+        "publishedAt": "2026-11-03T11:20:27Z",
+        "source": "scanx.trade"
       }
     ]
   }
